@@ -74,3 +74,5 @@ NK und FK hab ich keine Erfahrung. Wird sicherlich jemand ergänzen können. Wah
 
 
 Es gibt verschiedenste Strategien. Z.B. mit Heiler. Skillreihenfolgen, etc. Da fragst am besten Deinen LH 
+
+#scherbenwelten
