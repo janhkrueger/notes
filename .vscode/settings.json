@@ -27,4 +27,10 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+
+  "foam.files.ignore": [
+    "/.vscode",
+    "/_layouts",
+    "**/frameworks"
+  ]
 }
