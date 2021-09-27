@@ -20,3 +20,5 @@ Replace
     no-resolv with no-resolv
 
     server=/localnet/192.168.0.1
+
+#Docker

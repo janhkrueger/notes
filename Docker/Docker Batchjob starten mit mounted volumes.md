@@ -12,3 +12,5 @@ Ebenfalls ist es wichtig das richtig Netzwerk (network=docker_insulae-network) z
 Der konkret aufgerufene Job ist in diesem Beispiel "/home/insulae/insulae-bin/DailyTownCalc"
 
     docker run --rm --network=docker_insulae-network -v /home/insulae/insulae-log/:/home/insulae/insulae-log/ -v /home/insulae/insulae-conf/:/home/insulae/insulae-conf/ -it janhkrueger/insulae-batch:1.0.0  /home/insulae/insulae-bin/DailyTownCalc
+
+#Docker

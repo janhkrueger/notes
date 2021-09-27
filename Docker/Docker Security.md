@@ -18,3 +18,5 @@ Use namespaces in Docker to isolate containers from one another. Namespaces help
 Don’t use images from repos you don’t trust. In particular, avoid public repos if they’re not from an official source and you don’t know the maintainer. This may sound like a no-brainer, but it’s worth noting because it’s sometimes so tempting to pull an image from a random registry.
 
 Consider using Clair (CoreOS’s container security scanner) to validate containers from your registries. You can use Clair to scan images locally or you can run it directly from public registry services that are supported (which, for now, include CoreOS’s own platform, Quay, as well as Dockyard).
+
+#Docker
