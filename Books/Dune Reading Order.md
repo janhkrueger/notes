@@ -5,7 +5,7 @@ modified: 2021-09-27T13:20:29+02:00
 
 # Dune Reading Order
 
-• Dune
+	• Dune
 	• Dune Messiah.
 	• Children of Dune
 	• God Emperor of Dune
@@ -25,25 +25,26 @@ modified: 2021-09-27T13:20:29+02:00
 	
 	
 	
-	Reading order as of InUn Order:
-		• The Butlerian Jihad
-		• The Machine Crusade
-		• The Battle of Corrin
+# Reading order as of InUn Order:
+
+	• The Butlerian Jihad
+	• The Machine Crusade
+	• The Battle of Corrin
 	
-		• Sisterhood of Dune
-		• Mentats of Dune
-		• Navigators of Dune
+	• Sisterhood of Dune
+	• Mentats of Dune
+	• Navigators of Dune
 	
-		• House Atreides
-		• House Harkonnen
-		• House Corrino
+	• House Atreides
+	• House Harkonnen
+	• House Corrino
 	
-		• Dune
-		• Dune Messiah.
-		• Children of Dune
-		• God Emperor of Dune
-		• Heretics of Dune
-		• Chapterhouse: Dune
+	• Dune
+	• Dune Messiah.
+	• Children of Dune
+	• God Emperor of Dune
+	• Heretics of Dune
+	• Chapterhouse: Dune
 	
-		• Hunters of Dune
-		• Sandworms of Dune
+	• Hunters of Dune
+	• Sandworms of Dune
