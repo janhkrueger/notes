@@ -23,3 +23,5 @@ Alles lösbar, wird auch gelöst. Im nächsten Monat würde ich persönlich jedo
 Wenn was sein sollte, einfach melden. Im Zweifel hat Less meine Kontaktdaten.
 
 SAMM
+
+#qoi
