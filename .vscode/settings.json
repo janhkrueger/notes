@@ -32,6 +32,7 @@
     "/.vscode",
     "/_layouts",
     "**/frameworks",
-    "../../frameworks"
+    "../../frameworks",
+    "/insulae"
   ]
 }
