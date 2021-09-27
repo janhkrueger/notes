@@ -32,6 +32,6 @@
     "/.vscode",
     "/_layouts",
     "**/frameworks",
-    "**/frameworks/rapidjson"
+    "../frameworks"
   ]
 }
