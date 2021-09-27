@@ -1,3 +1,9 @@
+---
+modified: 2021-09-27T10:25:01+02:00
+---
+
+# QoI Offene Punkte 16.03.2019
+
 Moin,
  
 ich bin zwar nicht Daniel doch da ich erst am Wochenende bei ihm war kann ich dir ggf. etwas weiterhelfen.
