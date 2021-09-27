@@ -10,7 +10,7 @@ modified: 2021-09-27T12:45:45+02:00
 
 ## Configuring the DNS Server
 
-sudo nano /etc/dnsmasq.conf
+    sudo nano /etc/dnsmasq.conf
 
 Replace 
     domain-needed with domain-needed
