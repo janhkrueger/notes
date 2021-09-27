@@ -11,3 +11,5 @@ Verschiedene [[Abfragen]] welche regelmässig genutzt werden können ohne sie er
 Technisch wurde zuletzt [[Docker]] eingesetzt.
 
 Im Rahmen der Entwicklung wurden verschiedene [[GameDev]] Quellen mit einbezogen.
+
+Intensiv wurde auch in die prozedurale Generierung von Inhalten eingegangen. Inspiration dazu hat ein Artikel darüber geliefert: [[AutomatischGenerierteStoriesInGames]].
