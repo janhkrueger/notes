@@ -1,8 +1,6 @@
 ---
-modified: 2021-10-01T01:07:47+02:00
+modified: 2021-10-01T01:08:01+02:00
 ---
-
-# Aktuelle Aufgaben
 
 # Aktuelle Aufgaben
 
