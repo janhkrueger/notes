@@ -1,8 +1,8 @@
 ---
-modified: 2021-10-01T01:07:13+02:00
+modified: 2021-10-01T01:08:18+02:00
 ---
 
-# Team DevOos Systems
+# Team DevOps Systems
 
 ---
 modified: 2021-09-30T17:52:52-04:00
