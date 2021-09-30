@@ -1,0 +1,7 @@
+# ExterneMitarbeiter
+
+Das [[Team]] wird derzeit von 6 externen Mitarbeitern unterstützt.
+
+Einstellung von externen Mitarbeitern erfolgt, nach Durchführung der Gespräche, über [[SmartBuy]].
+
+Für diese müssen monatlich [[Stundenzettel]] ausgefüllt und vom Teamleiter bzw. der Vertretung. kontrolliert und unterschrieben werden. Wichtig ist dabei das die Abrechnung nur erfolgen kann wenn der Mitarbeiter über den Einkauf und SmartBuy hinterlegt ist.

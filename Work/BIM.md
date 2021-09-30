@@ -1,0 +1,4 @@
+# BIM
+
+Siehe auch: [[BIMSync]]
+
