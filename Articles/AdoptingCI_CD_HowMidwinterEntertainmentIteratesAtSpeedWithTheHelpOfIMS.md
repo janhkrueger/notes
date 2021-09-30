@@ -5,7 +5,7 @@ modified: 2021-09-29T17:52:52-04:00
 
 # Adopting CI/CD: How Midwinter Entertainment iterates at speed with the help of IMS
 
-by ImprobableSeptember 29, 2021
+*by Improbable September 29, 2021*
 
 Game development was once like one long sprint: a huge effort until you reached the finish line — at which point you could stop. But with Games as a Service, development happens over several years, not least while the game is live. As you ship new features on a continual basis, the problems and profile of a project will change. Traditional development frameworks are no longer suitable. Using continuous integration/ continuous delivery (CI/ CD) practices is a superior approach, with fast feedback loops that enable the rapid iteration and agile development that allow studios to respond to players and keep them engaged.
 
