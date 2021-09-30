@@ -1,7 +1,7 @@
 ---
-modified: 2021-09-27T10:25:01+02:00
+created: 2021-09-27T00:13:05+02:00
+modified: 2021-09-30T17:52:52-04:00
 ---
-
 # The secret to broadcasting your game on Twitch
 
 **If you are an indie developer and want to promote your game, it goes without saying that you need to be on Twitch, right?**

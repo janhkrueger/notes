@@ -1,3 +1,8 @@
+---
+created: 2021-09-27T00:13:05+02:00
+modified: 2021-09-30T17:52:52-04:00
+---
+
 # GameDev
 
 Spieler besitzen verschiedene [[Desires]].
