@@ -27,4 +27,6 @@ Die Zwiebeln schälen und in feine Würfel schneiden. Im Sonnenblumenöl glasig 
 
 Zum Schluss mit Salz, Chili- und Kurkumapulver abschmecken.
 
-Die Suppe schmeckt am nächsten Tag doppelt so gut. Dazu passen Garnelenspieße und Baguette. 
+Die Suppe schmeckt am nächsten Tag doppelt so gut. Dazu passen Garnelenspieße und Baguette.
+
+#vegetarisch #herbst

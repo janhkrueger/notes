@@ -44,4 +44,6 @@ Bei 200°C (Ober-/Unterhitze, Umluft: 180°C) in den vorgeheizten Backofen stell
 
 Man braucht keine Alufolie, das Gemüse trocknet nicht aus. Je nach Geschmack kann man noch Rosmarinzweige dazugeben oder orientalische Gewürzmischungen mit Kreuzkümmel.
 
-Das Ofengemüse schmeckt gut zu Hähnchenbrust, Putenbrust, zu Fisch oder einfach als Hauptgericht. 
+Das Ofengemüse schmeckt gut zu Hähnchenbrust, Putenbrust, zu Fisch oder einfach als Hauptgericht.
+
+#vegetarisch #herbst
