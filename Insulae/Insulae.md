@@ -2,7 +2,7 @@
 modified: 2021-09-27T10:25:01+02:00
 ---
 
-# insulae
+# Insulae
 
 Trotz der initialen Nähe zu [[Scherbenwelten]] entwickelte sich Insulae weiter und wies daher im Laufe der Zeit verschiedene [[AenderungenInInsulae]] auf.
 
@@ -55,7 +55,7 @@ Für die regelmässigen Abläufe, die [[batchjobs]] wie [[Wachstum]], gibt es ei
 [TheArtOFeedback]: TheArtOFeedback "the art of feedback"
 [MagicTraveling]: ../../insulae/docs/MagicTraveling "MagicTraveling"
 [TelemetriedatenFuerSpielerunterstuetzung]: TelemetriedatenFuerSpielerunterstuetzung "Telemetriedaten für Spielerunterstützung"
-[Insulae]: Insulae "insulae"
+[Insulae]: Insulae "Insulae"
 [PokemonGo]: ../Pokemon/PokemonGo "PokemonGo"
 [Bücher]: ../Books/Bücher "Bücher"
 [OffenePunkte]: OffenePunkte "Offene Punkte"
