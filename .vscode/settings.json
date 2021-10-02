@@ -31,8 +31,6 @@
   "foam.files.ignore": [
     "/.vscode",
     "/_layouts",
-    "**/frameworks",
-    "../../frameworks",
-    "/insulae"
+    "../../insulae/frameworks"
   ]
 }
