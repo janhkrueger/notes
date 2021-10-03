@@ -28,6 +28,9 @@ APIs wurde verucht ein [[RESTful API Design]] anzuwenden.
 
 [[TelemetriedatenFuerSpielerunterstuetzung]]
 
+[[OffenePunkte]]
+
+
 ## Inspiration
 
 Technologisch wurde [[Insulae]] von [[Scherbenwelten]], [[EVEOnline]], [[PokemonGo]] stark beeinflusst.
@@ -58,10 +61,10 @@ Die API wird im Hinblick auf Performance und Last mittels Bombard gemessen, sieh
 [TheArtOFeedback]: TheArtOFeedback "the art of feedback"
 [MagicTraveling]: ../../insulae/docs/MagicTraveling "MagicTraveling"
 [TelemetriedatenFuerSpielerunterstuetzung]: TelemetriedatenFuerSpielerunterstuetzung "Telemetriedaten für Spielerunterstützung"
+[OffenePunkte]: OffenePunkte "Offene Punkte"
 [Insulae]: Insulae "Insulae"
 [PokemonGo]: ../Pokemon/PokemonGo "PokemonGo"
 [Bücher]: ../Books/Bücher "Bücher"
-[OffenePunkte]: OffenePunkte "Offene Punkte"
 [batchjobs]: ../../insulae/docs/batchjobs "Batchjobs"
 [Wachstum]: ../../insulae/docs/Wachstum "Wachstum"
 [API-Performance_Messen]: API-Performance_Messen "API-Performance Messen"
