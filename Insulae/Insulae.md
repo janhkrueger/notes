@@ -30,6 +30,7 @@ APIs wurde verucht ein [[RESTful API Design]] anzuwenden.
 
 [[OffenePunkte]]
 
+[[Zufaelle]]
 
 ## Inspiration
 
@@ -57,6 +58,7 @@ Für die regelmässigen Abläufe, die [[batchjobs]] wie [[Wachstum]], gibt es ei
 [MagicTraveling]: ../../insulae/docs/MagicTraveling "MagicTraveling"
 [TelemetriedatenFuerSpielerunterstuetzung]: TelemetriedatenFuerSpielerunterstuetzung "Telemetriedaten für Spielerunterstützung"
 [OffenePunkte]: OffenePunkte "Offene Punkte"
+[Zufaelle]: Zufaelle "Zufälle"
 [Insulae]: Insulae "Insulae"
 [PokemonGo]: ../Pokemon/PokemonGo "PokemonGo"
 [Bücher]: ../Books/Bücher "Bücher"
