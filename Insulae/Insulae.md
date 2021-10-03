@@ -9,7 +9,7 @@ Trotz der initialen Nähe zu [[Scherbenwelten]] entwickelte sich Insulae weiter 
 Verschiedene [[Abfragen]] welche regelmässig genutzt werden können ohne sie erneut entwickeln zu müssen.
 
 Die Instanzen laufen alle mit [[Linux]].
-Technisch wurde zuletzt [[Docker]] eingesetzt, begleitet mit einem Umstieg uf eine neue [[NeueTechnischePlattformFuerInsulae]].
+Technisch wurde zuletzt [[Docker]] eingesetzt, begleitet mit einem Umstieg auf eine neue [[NeueTechnischePlattformFuerInsulae]]. Details siehe [[Docker-Container]].
 Gleichfalls wurde analysiert Insulae auf Microsoft Azure zu betreiben. Technisch möglich, insbesondere für die Datenbank, wurde dies jedoch nicht weiter verfolgt.
 
 Im Rahmen der Entwicklung wurden verschiedene [[GameDev]] Quellen mit einbezogen.
@@ -48,6 +48,7 @@ Für die regelmässigen Abläufe, die [[batchjobs]] wie [[Wachstum]], gibt es ei
 [Linux]: ../Linux/Linux "Linux"
 [Docker]: ../Docker/Docker "Docker"
 [NeueTechnischePlattformFuerInsulae]: NeueTechnischePlattformFuerInsulae "Neue technische Plattform für Insulae"
+[Docker-Container]: Docker-Container "Docker-Container"
 [GameDev]: ../GameDev-Stuff/GameDev "GameDev"
 [AutomatischGenerierteStoriesInGames]: ../GameDev-Stuff/AutomatischGenerierteStoriesInGames "Automatisch generierte Stories in Games"
 [markdown-cheat-sheet]: ../General/markdown-cheat-sheet "Markdown Cheat Sheet"
