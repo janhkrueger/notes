@@ -60,6 +60,7 @@ Für die regelmässigen Abläufe, die [[batchjobs]] wie [[Wachstum]], gibt es ei
 [OffenePunkte]: OffenePunkte "Offene Punkte"
 [Zufaelle]: Zufaelle "Zufälle"
 [Insulae]: Insulae "Insulae"
+[EVEOnline]: ../EVE/EVEOnline "EVE Online"
 [PokemonGo]: ../Pokemon/PokemonGo "PokemonGo"
 [Bücher]: ../Books/Bücher "Bücher"
 [batchjobs]: ../../insulae/docs/batchjobs "Batchjobs"
