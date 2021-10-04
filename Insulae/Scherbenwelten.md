@@ -10,7 +10,7 @@ Die Charakter konnten mehrere [[SWZauberUndFertigkeiten]] anwenden.
 
 Der [[Scherbenwelten-Server]] lief zuletzt unter einer zu der Zeit bereits veralteten Plattform.
 
-Scherbenwelten diente als Inspiration für andere Spiele wie [[Insulae]], [[Qo]].
+Scherbenwelten diente als Inspiration für andere Spiele wie [[Insulae]], [[QoI]].
 
 Kern der täglichen Auswertung war die [[SW-Stadtrunde]].
 
@@ -24,6 +24,7 @@ Die verbliebene Community versuchte am Ende sich noch über [[SWWhatsApp]] zu or
 [SWZauberUndFertigkeiten]: SWZauberUndFertigkeiten "SW Zauber & Fertigkeiten"
 [Scherbenwelten-Server]: Scherbenwelten-Server "Scherbenwelten-Server"
 [Insulae]: Insulae "Insulae"
+[QoI]: QoI "QoI"
 [SW-Stadtrunde]: SW-Stadtrunde "Stadtrunde"
 [WebTalesSchliesstDiePforten]: WebTalesSchliesstDiePforten "Webtales schließt die Pforten"
 [SW-Apollymi]: SW-Apollymi "Apollymi"
