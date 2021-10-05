@@ -11,7 +11,7 @@ modified: 2021-09-27T00:13:21+02:00
 
 [[Plaene]]
 
-[[Bücher]]
+[[Buecher]]
 
 [[Zitate]]
 
@@ -23,7 +23,7 @@ modified: 2021-09-27T00:13:21+02:00
 [Insulae]: ../Insulae/Insulae "Insulae"
 [Rezepte]: ../Rezepte/Rezepte "Rezepte"
 [Plaene]: Plaene "Pläne"
-[Bücher]: ../Books/Bücher "Bücher"
+[Buecher]: ../Books/Buecher "Bücher"
 [Zitate]: ../Zitate/Zitate "Zitate"
 [TechToImprove]: TechToImprove "Tech to Improve"
 [Team]: ../../noteswork/Work/Team "Team DevOps Systems"
