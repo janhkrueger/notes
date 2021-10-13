@@ -12,7 +12,7 @@ Ermittlung des Laufdatums eines Jobs  ggf. für die Protokollierung im Logfiles
 echo "$(date +'%d.%m.%Y %H:%M:%S:%3N')"
 echo "$(date +'%d.%m.%Y %H:%M:%S:%3N')"
 echo "####################################"
-echo "# Ende                             #"
+echo "# Start                            #"
 echo "# $(date +'%d.%m.%Y %H:%M:%S:%3N') #"
 echo "####################################"
 ```
@@ -28,5 +28,3 @@ echo "# Ende                             #"
 echo "# $(date +'%d.%m.%Y %H:%M:%S:%3N') #"
 echo "####################################"
 ```
-
-
