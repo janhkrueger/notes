@@ -40,3 +40,9 @@
 - [x] Armschienen
 - [ ] Hose
 - [ ] Schuhe
+
+
+# Ätherische Waffen
+- [x] Seelenernte
+- [x] Schwarzhandschlüssel
+- [ ] Unknown
