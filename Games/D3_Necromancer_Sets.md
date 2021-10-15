@@ -13,9 +13,9 @@
 - [x] Helm
 - [ ] Brust
 - [ ] Schulter
-- [ ] Armschienen
+- [x] Armschienen
 - [ ] Hose
-- [ ] Schuhe
+- [x] Schuhe
 
 # Gewandung des Seuchengebieters
 - [x] Helm
@@ -38,7 +38,7 @@
 - [ ] Brust
 - [ ] Schulter
 - [x] Armschienen
-- [ ] Hose
+- [x] Hose
 - [ ] Schuhe
 
 
