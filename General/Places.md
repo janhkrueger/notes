@@ -1,14 +1,21 @@
 # Places
 
 ## America
+
+## US
 * New York
 * San Fransisco
 * Miami
-* Vancouver
-* Santiago de Chile
-* Montreal
-* Puerto Aisén
 * Las Vegas
+* Anchorage
+
+## Canada
+* Vancouver
+* Montreal
+
+
+* Puerto Aisén
+* Santiago de Chile
 
 ## Europe
 * Reykjavik
