@@ -35,7 +35,7 @@
 
 # Gnade des Inarius
 - [x] Helm
-- [ ] Brust
+- [x] Brust
 - [ ] Schulter
 - [x] Armschienen
 - [x] Hose
