@@ -2,7 +2,7 @@
 
 # Rathmas Knochen
 
-- [ ] Helm
+- [x] Helm
 - [ ] Brust
 - [ ] Schulter
 - [x] Armschienen
@@ -20,7 +20,7 @@
 # Gewandung des Seuchengebieters
 - [x] Helm
 - [x] Brust
-- [ ] Schulter
+- [x] Schulter
 - [x] Armschienen
 - [x] Hose
 - [x] Schuhe
