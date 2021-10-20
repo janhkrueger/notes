@@ -1,6 +1,5 @@
 # EVE Evolved: CCP Games on the future of EVE Online’s PvE
 
-Tags: #EVE Online 
 May 15, 2016 Brendan Drain
 
 It’s no secret that [EVE Online](https://massivelyop.com/tag/eve-online/) has always been a primarily PvP-focused game, with thousands of players smashing fleets of ships together on a daily basis. PvE requires a different set of skills and ship setups than PvP and is often seen as little more than a necessary grind to replace lost ships. Even with great PvE additions over the years such as Sleeper NPCs in wormhole space or Sansha incursions, almost all PvE ultimately still boils down to shooting at predictable NPC ships that don’t pose a real threat. [Players have engineered all of the risks out of PvE](https://massivelyop.com/2015/11/29/eve-evolved-three-eve-mechanics-that-need-an-update/), coming up with optimum strategies and ways to predict NPC behaviour.
