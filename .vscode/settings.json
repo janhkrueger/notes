@@ -15,6 +15,11 @@
     "**/node_modules": true,
     "**/frameworks": true
   },
+  "foam.graph.style": {
+    "node": {
+        "feature": "red",
+    }
+  },
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
@@ -27,12 +32,11 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
-
   "foam.files.ignore": [
-    "/.vscode",
-    "/_layouts",
-    "../../insulae/frameworks",
-    "../../insulae/frameworks/**",
-    "**/insulae/frameworks/**"
+    "**/.vscode/**/*",
+    "**/_layouts/**/*",
+    "**/../../insulae/frameworks/**/*",
+    "**/../../insulae/frameworks/**/*",
+    "**/insulae/frameworks/**/*"
   ]
 }
