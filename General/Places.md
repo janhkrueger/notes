@@ -8,12 +8,13 @@
 * Miami
 * Las Vegas
 * Anchorage
+* Pheonix, Arizona
 
 ## Canada
 * Vancouver
 * Montreal
 
-
+## Chile
 * Puerto Aisén
 * Santiago de Chile
 
