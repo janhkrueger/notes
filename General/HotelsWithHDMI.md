@@ -1,5 +1,8 @@
 # Hotels with open HDMI ports
 
+# Bad Homburg
+* Hotel Mystique
+
 ## Frankfurt
 * Hotel Frankfurt Messe Affiliated by Meliá
 * Hotel Cult Frankfurt City
