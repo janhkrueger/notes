@@ -1,8 +1,8 @@
 # Places
 
-## America
+## North America
 
-## US
+### US
 * New York
 * San Fransisco
 * Miami
@@ -10,11 +10,13 @@
 * Anchorage
 * Pheonix, Arizona
 
-## Canada
+### Canada
 * Vancouver
 * Montreal
 
-## Chile
+## North America
+
+### Chile
 * Puerto Aisén
 * Santiago de Chile
 
