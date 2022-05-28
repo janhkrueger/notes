@@ -8,7 +8,7 @@
 * Miami
 * Las Vegas
 * Anchorage
-* Pheonix, Arizona
+* Phoenix, Arizona
 
 ### Canada
 * Vancouver
