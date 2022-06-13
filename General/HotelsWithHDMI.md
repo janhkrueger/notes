@@ -10,5 +10,8 @@
 * Hotel Schöne Aussicht
 * Hotel Leonardo
 
+## Hamburg
+* Adina Apartment Hotel Hamburg Michl
+
 ## Reykjavik
 * Stay Apartments Bolholt
