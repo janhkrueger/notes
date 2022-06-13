@@ -2,6 +2,7 @@
 
 # Bad Homburg
 * Hotel Mystique
+* B&B Bahnhof
 
 ## Frankfurt
 * Hotel Frankfurt Messe Affiliated by Meliá
