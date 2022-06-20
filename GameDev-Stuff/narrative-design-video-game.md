@@ -66,3 +66,5 @@ It’s a story that could only ever be experienced in a game. It’s a glimpse o
 There are few things that could ever match the simplicity and joy of peeling open the first page of a fresh new book, but with the rise of the narrative designer, there are now new portals of storytelling opening up to reveal fresh new narrative dimensions ready to be explored.
 
 Thanks to pioneers like Evan Skolnick—equipped with an ever-expanding arsenal of immersive technologies for crossing this vast new frontier—the art of storytelling, and the ways in which we now become a part of it, is on the verge of being changed forever.
+
+Source: https://www.ceros.com/inspire/originals/narrative-design-video-game/
