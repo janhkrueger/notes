@@ -1,5 +1,10 @@
 ---
 marp: true
+theme: base
+markdown.marp.exportType: PPTX
+paginate: true
+#header: 'Header content'
+footer: 'What means DevOps (for us)?'
 ---
 
 # What means DevOps (for us)?
@@ -18,13 +23,18 @@ Anpassung im Entwicklungs- und Verantwortungsprozess
 * Next, they'll develop their product, using a testing or production environment—either a simulated environment or sampling of real-world users to try the updates before they're widely deployed—to build the best possible product.
 * Then, they'll deliver the product to their wider audience.
 *  Finally, they will constantly monitor performance and feedback to incorporate into later iterations and product updates—which will move them back to the planning stage.
-  
+
 Source: https://www.coursera.org/articles/what-is-devops
 
 ---
+<style scoped>
+section {
+  background: yellow;
+}
+</style>
 # Traditionell
 
-![The Battle - Dev vs Ops](TheBattleDevvsOps.jpeg "The Battle - Dev vs Ops")
+![width:700px](TheBattleDevvsOps.jpeg "The Battle - Dev vs Ops")
 
 
 Source: https://devopscube.com/what-is-devops-what-does-it-really-mean/
