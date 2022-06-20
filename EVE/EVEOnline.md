@@ -1,9 +1,6 @@
 # EVE Online
 
-[[EVE_Evolved]]
-
-[[Letters2CCP]]
-
+[EVE Evolved](EVE_Evolved.md)
 ## Charbild
 
 https://image.eveonline.com/Character/1676205336_1024.jpg
@@ -103,10 +100,9 @@ WHERE c2.characterID in (
 ```
 
 ## Industrie
-[[Copyslots]]
+[Copyslots](Copyslots.md)
 
 ## Auswertungen
-[[EVE_Frachter_Kills_Losses]]
-
+[EVE Frachter Kills Losses](EVE_Frachter_Kills_Losses.md)
 ## CSM Members
 [CSM Overview](CSM/CSM_Index.md)
