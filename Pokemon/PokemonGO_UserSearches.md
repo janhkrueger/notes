@@ -1,23 +1,22 @@
 # Searches
 
-
 ## All easy discardable Pokemon
 0*,1*,2*,3*&!kostümiert&!favorit
 
 ## Pikachu costumed forms
 pikachu&kostümiert
 
-# Today Shinys
+## Today Shinys
 schillernd&alter0
 
-# Pokemon caught in raids
+## Pokemon caught in raids
 raid
 
-# Pokemon caught in researches
+## Pokemon caught in researches
 forschung
 
-# Pokemon caught in the GO Battle League
+## Pokemon caught in the GO Battle League
 gbl
 
-# Traded costumed Pokemon
+## Traded costumed Pokemon
 kostümiert&getauscht
