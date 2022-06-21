@@ -18,3 +18,6 @@ forschung
 
 # Pokemon caught in the GO Battle League
 gbl
+
+# Traded costumed Pokemon
+kostümiert&getauscht
