@@ -9,3 +9,6 @@ pikachu&kostümiert
 
 # Today Shinys
 schillernd&alter0
+
+# Pokemon caught in raids
+raid
