@@ -6,3 +6,6 @@
 
 ## Pikachu costumed forms
 pikachu&kostümiert
+
+# Today Shinys
+schillernd&alter0
