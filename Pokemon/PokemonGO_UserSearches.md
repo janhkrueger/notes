@@ -12,3 +12,6 @@ schillernd&alter0
 
 # Pokemon caught in raids
 raid
+
+# Pokemon caught in researches
+forschung
