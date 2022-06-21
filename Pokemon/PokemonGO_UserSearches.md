@@ -15,3 +15,6 @@ raid
 
 # Pokemon caught in researches
 forschung
+
+# Pokemon caught in the GO Battle League
+gbl
