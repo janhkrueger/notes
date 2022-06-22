@@ -1,5 +1,7 @@
 # User Searches
 
+## Evolve before discard
+entwickeln&0*,1*,2*,3*&!kostümiert&!favorit
 
 ## All easy discardable Pokemon
 0*,1*,2*,3*&!kostümiert&!favorit
@@ -22,5 +24,14 @@ gbl
 # Traded costumed Pokemon
 kostümiert&getauscht
 
+# Costumed Favorites
+kostümiert&favorit
+
 # Costumed Non Favorite
 kostümiert&!favorit
+
+# Photoencounters
+schnappschuss
+
+# Caught from Team Rocket
+rocket
