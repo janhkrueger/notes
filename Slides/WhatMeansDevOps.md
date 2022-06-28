@@ -137,6 +137,10 @@ Source: https://dzone.com/articles/is-devops-agile
 Culture: People and process ultimately make DevOps successful, **and everybody needs to support the vision**.
 
 ---
+
+![bg fit](Tactic_Strategy_Culture.jpeg "Digital Transformation Means DevOps")
+
+---
 # BackUp
 
 ---
@@ -164,3 +168,38 @@ Source: https://dzone.com/articles/is-devops-agile
 Al permeates lives. DevOps evolves with mantra to automate, automate & automate
 
 ![bg right fit](Automate_Automate_Automate.jpeg)
+
+---
+# 2009 - DevOps originates on social media
+
+Patrick Debois creates the DevOps hashtag on Twitter to advertise conference on 'agile system administration
+
+![bg right fit](Automate_Automate_Automate.jpeg)
+
+---
+# 2009 - 'Dev' and 'Ops' tie the knot
+
+As a solution to finger pointing' problem between Dev and Ops team
+
+![bg right fit](Automate_Automate_Automate.jpeg)
+
+---
+# 2003 - The very lst "site reliability engineers"
+
+Production environment and development environment are run separately
+
+![bg left fit](Automate_Automate_Automate.jpeg)
+
+---
+# 1967 - Launch of ARPANET
+
+Network of engineering jobs and network operation centers
+
+![bg left fit](Automate_Automate_Automate.jpeg)
+
+---
+# 1957 - Hello DevOps!
+
+First 'developer job with incubation of computer program code
+
+![bg left fit](Automate_Automate_Automate.jpeg)
