@@ -54,7 +54,6 @@ Source: https://devopscube.com/what-is-devops-what-does-it-really-mean/
 ---
 # DevOps bedeuted digitale Transformation
 
-
 ![Digital Transformation Means DevOps](DigitalTransformationMeansDevOps.jpeg "Digital Transformation Means DevOps")
 
 --- 
@@ -106,6 +105,26 @@ Veränderung des Verständnisses wie in Basler DE Anforderungen für neue Funkti
 * Automation soll Prozesse beschleunigen und Fehlerquellen eleminieren („Den Mensch aus dem Prozess nehmen“).
 
 ---
+
+# Is DevOps Agile?
+
+The simple answer to that is No. Though both the terms are broadly synonymous, it would be incorrect to say that they are both the same. While DevOps is the concept to manage end-to-end engineering processes, Agile is a process used to manage complex projects. Agile is, in fact, one of the most essential parts of successful DevOps. Here are a few essential differences.
+
+Source: https://dzone.com/articles/is-devops-agile
+
+---
+
+# DevOps vs Agile
+## Whats the difference?
+
+![Digital Transformation Means DevOps](DevOps_vs_Agile-Whats_the_difference.png "Digital Transformation Means DevOps")
+
+---
+
+![Digital Transformation Means DevOps](devops-to-agile-infographics.png "Digital Transformation Means DevOps")
+
+
+---
 # Was benötigen wir?
 * Werbung in der Basler IT um das Verständnis das es diese, für einige weitreichenden, Veränderungen geben wird und das sie mitgetragen werden sowie Unterstützung das dieser Weg auch begangen wird.
 * Insbesondere bei jenen Kollegen welche Veränderungen in ihrem Tätigkeits- und Verwantwortungsfeld erfahren werden, auf allen Hierarchieebenen.
@@ -116,3 +135,32 @@ Veränderung des Verständnisses wie in Basler DE Anforderungen für neue Funkti
 # DevOps is about culture
 
 Culture: People and process ultimately make DevOps successful, **and everybody needs to support the vision**.
+
+---
+# BackUp
+
+---
+# DevOps Cycle
+
+![Digital Transformation Means DevOps](DevOpsCycle.jpeg "Digital Transformation Means DevOps")
+
+---
+
+# DevOps to Agile
+
+![Digital Transformation Means DevOps](Devops-to-Agile.png "Digital Transformation Means DevOps")
+
+Source: https://dzone.com/articles/is-devops-agile
+
+---
+# Evolution of DevOps
+![Digital Transformation Means DevOps]( evelution-of-devops.png "Digital Transformation Means DevOps")
+
+Source: https://dzone.com/articles/is-devops-agile
+
+---
+# 2017 - The Al lifestyle
+
+Al permeates lives. DevOps evolves with mantra to automate, automate & automate
+
+![bg right fit](Automate_Automate_Automate.jpeg)
