@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: base
-markdown.marp.exportType: PPTX
 paginate: true
 #header: 'Header content'
 footer: 'Jan H. Krüger OIS1 - Basler Versicherungen | What means DevOps (for us)?'
