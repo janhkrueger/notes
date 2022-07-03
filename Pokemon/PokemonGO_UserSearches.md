@@ -35,3 +35,6 @@ schnappschuss
 
 ## Caught from Team Rocket
 rocket
+
+## Ultrabeats
+793,794,795,796,797,798,799
