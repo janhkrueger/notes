@@ -38,3 +38,6 @@ rocket
 
 ## Ultrabeats
 793,794,795,796,797,798,799
+
+## Tradable
+!4*&!favorit
