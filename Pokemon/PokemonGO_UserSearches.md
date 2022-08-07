@@ -50,3 +50,20 @@ rocket
 
 ## Mouse Pokemon
 19,20,25,26,27,28
+
+## Europe & German regionals
+### Pantimos 122
+### Pantimi 439
+### Volbeat 313
+### Sengo 335
+### Lunastein 337
+### Schalellos (blau) 422
+### Gastrodon (blau) 423
+### Karadonis 539
+### Barschuft (rot) 550
+### Fermicula 632
+### Vesprit 481
+### Grillmak 513
+### Grillchita 514
+### Choreogel (rot) 741
+122, 439, 313, 335, 337, 422, 423, 539, 550, 632, 481, 513, 514, 741
