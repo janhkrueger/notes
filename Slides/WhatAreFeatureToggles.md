@@ -8,11 +8,46 @@ footer: 'Jan H. Krüger OIS1 - Basler Versicherungen | What are Feature Toggles'
 
 # What are Feature Toggles?
 
-Changes in the way to develop and bring to live new features on production.
+Changes in the way to develop and bring new features live.
+
+![bg right fit](SwitchToogle.jpeg)
 
 ---
 
+# Common situation
 
+A new feature needs to be developed but not immeadiatly to be active after a deployment.
+* ex a business milestone (Rebranding)
+* an external partner is changing apis and the change can happend with short notice.
+
+---
+
+# Also common
+
+One team finished a feature in software A but the accompaning software B is not ready.
+
+* Different pace in teams. Or simple colleagues are on vacation, having incidents, getting sick.
+---
+# Other common situation
+
+One does not know how a change will accepted by the customer and one want a test group.
+
+![bg left fit](Automate_Automate_Automate_Looking_right.jpeg)
+
+---
+# Solutions
+
+* Several installations of the same software but with different feature sets.
+* Orchestrate 
+
+![bg right fit](Automate_Automate_Automate.jpeg)
+
+---
+# Code examples
+
+## Short java example
+
+```
    public static void main(String args[]) throws IOException {
 
       Properties propertyDictionary = readPropertiesFile("flags.properties");
@@ -24,15 +59,81 @@ Changes in the way to develop and bring to live new features on production.
          System.out.println("Welcome back, KFZ");
       }
    }
+```
 
+---
+
+## Other generic short one
+
+```
+   if ( getEnvVar("hello") != "" ) {
+      std::cout << "Hello World" << std::endl;
+   }
+   else {
+      std::cout << "Hello Mars" << std::endl;
+   }
+```
+
+---
+
+```
+function apiSaveOrder() {
+  const useNewAPI = false;
+  if (useNewAPI) {
+    return apiNewSaveOrder();
+  } else {
+    return apiOldSaveOrder();
+  }
+}
+```
 
 ---
 
 
-   if ( getEnvVar("hello") != "" ) {
-    std::cout << "Hello World" << std::endl;
-  }
-  else {
-    std::cout << "Hello Mars" << std::endl;
-  }
+# Possible flags
 
+Only examples, limited only by imagination of developers.
+
+* variable in config file
+* inMemory variable
+* database value
+* permission of the user
+* data
+* costumer value
+* 
+
+
+(PIC of endless solutions)
+
+![bg right fit](IT_Magic.jpeg)
+
+---
+
+# database value
+
+The state of the flag is stored and persitent in the datebase. Therefore one need to trigger an update on the database to change the behaviour of the application.
+
+---
+
+# Permission of the user
+
+An external system manages permissions wich can be used to access to system or features.
+
+There a user can request access to a feature or get it ordered by someone else.
+
+In Baloise context: DIM (Digital Identity Management) with acts as interface for the group active directory.
+
+**Benefit**: The permission and process of grating access is lined up with the group access standard (LAS). Without further doings will compliant for auditors.
+
+
+---
+
+# Categories of Toggles
+
+* RELEASE TOGGLES
+* EXPERIMENT TOGGLES
+* PERMISSION TOGGLES
+* OPS TOGGLES
+  
+
+  https://martinfowler.com/articles/feature-toggles.html
