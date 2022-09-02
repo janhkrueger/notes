@@ -19,6 +19,7 @@ Changes in the way to develop and bring new features live.
 A new feature needs to be developed but not immeadiatly to be active after a deployment.
 * ex a business milestone (Rebranding)
 * an external partner is changing apis and the change can happend with short notice.
+* branching gets complicated to maintain the more developers are working
 
 ---
 
@@ -35,12 +36,19 @@ One does not know how a change will accepted by the customer and one want a test
 ![bg left fit](Automate_Automate_Automate_Looking_right.jpeg)
 
 ---
-# Solutions
+
+# Consequence: Communication Islands
+
+> "*Branches create distance between developers and we don't want that.*" 
+> \- Frank Compagner, Guerilla Games (Horizon Zero, Killzone)
+
+---
+
 
 * Several installations of the same software but with different feature sets.
 * Orchestrate 
 
-![bg right fit](Automate_Automate_Automate.jpeg)
+![bg opacity:.2](Solution.jpeg)
 
 ---
 # Code examples
@@ -89,6 +97,40 @@ function apiSaveOrder() {
 
 ---
 
+## Example from martinfowler.com
+
+before
+```
+function reticulateSplines() {
+   // current implementation lives here
+}
+```
+
+---
+
+after
+```
+function reticulateSplinesOf() {
+   var useNewAlgorithm = false:
+   // useNewAlgorithm = true; // UNCOMMENT IF YOU ARE WORKING ON THE NEW SR ALGORITHM
+
+   if( useNewAlgorithm ) {
+      return enhancedSplineReticulation():
+   } else {
+      return oldFashionedSplineReticulation();
+   }
+
+   function oldFashionedSplineReticulation() {
+      // current implementation lives here
+   }
+
+   function enhancedSplineReticulation() {
+      // TODO: implement better SR algorithm
+   }
+}
+```
+
+---
 
 # Possible flags
 
