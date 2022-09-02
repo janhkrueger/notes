@@ -15,3 +15,6 @@
 
 ## Reykjavik
 * Stay Apartments Bolholt
+
+## Rijeka
+* Hotel Continental
