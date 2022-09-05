@@ -10,7 +10,7 @@ footer: 'Jan H. Krüger OIS1 - Basler Versicherungen | What are Feature Toggles'
 
 Changes in the way to develop and bring new features live.
 
-![bg right fit](SwitchToogle.jpeg)
+![bg right fit](slideimages/SwitchToogle.jpeg)
 
 ---
 
@@ -33,7 +33,7 @@ One team finished a feature in software A but the accompaning software B is not 
 
 One does not know how a change will accepted by the customer and one want a test group.
 
-![bg left fit](Automate_Automate_Automate_Looking_right.jpeg)
+![bg left fit](slideimages/Automate_Automate_Automate_Looking_right.jpeg)
 
 ---
 
@@ -51,7 +51,7 @@ One does not know how a change will accepted by the customer and one want a test
 
 ---
 
-![bg opacity:.5](Solution.jpeg)
+![bg opacity:.5](slideimages/Solution.jpeg)
 
 ---
 ## Feature Toggles
@@ -61,7 +61,7 @@ One does not know how a change will accepted by the customer and one want a test
 
 aka Feature **Flags**, Freature **Bits**, Feature **Flippers**
 
-![bg opacity:.3](continuous-delivery-feature-flags.jpg)
+![bg opacity:.3](slideimages/continuous-delivery-feature-flags.jpg)
 
 --- 
 # Possible flags
@@ -79,7 +79,7 @@ Only examples, limited only by imagination of developers.
 
 (PIC of endless solutions)
 
-![bg right fit](IT_Magic.jpeg)
+![bg right fit](slideimages/IT_Magic.jpeg)
 
 ---
 

@@ -33,14 +33,14 @@ section {
 </style>
 # Traditionell
 
-![width:700px](TheBattleDevvsOps.jpeg "The Battle - Dev vs Ops")
+![width:700px](slideimages/TheBattleDevvsOps.jpeg "The Battle - Dev vs Ops")
 
 
 Source: https://devopscube.com/what-is-devops-what-does-it-really-mean/
 
 ---
 
-![Azure DevOps Overview](AzureDevOpsOverview.jpeg "Azure DevOps Overview")
+![Azure DevOps Overview](slideimages/AzureDevOpsOverview.jpeg "Azure DevOps Overview")
 
 ---
 # DevOps is About CAMS
@@ -53,7 +53,7 @@ Source: https://devopscube.com/what-is-devops-what-does-it-really-mean/
 ---
 # DevOps bedeuted digitale Transformation
 
-![Digital Transformation Means DevOps](DigitalTransformationMeansDevOps.jpeg "Digital Transformation Means DevOps")
+![Digital Transformation Means DevOps](slideimages/DigitalTransformationMeansDevOps.jpeg "Digital Transformation Means DevOps")
 
 --- 
 # Für uns bedeutet dies
@@ -116,11 +116,11 @@ Source: https://dzone.com/articles/is-devops-agile
 # DevOps vs Agile
 ## Whats the difference?
 
-![Digital Transformation Means DevOps](DevOps_vs_Agile-Whats_the_difference.png "Digital Transformation Means DevOps")
+![Digital Transformation Means DevOps](slideimages/DevOps_vs_Agile-Whats_the_difference.png "Digital Transformation Means DevOps")
 
 ---
 
-![Digital Transformation Means DevOps](devops-to-agile-infographics.png "Digital Transformation Means DevOps")
+![Digital Transformation Means DevOps](slideimages/devops-to-agile-infographics.png "Digital Transformation Means DevOps")
 
 
 ---
@@ -137,7 +137,7 @@ Culture: People and process ultimately make DevOps successful, **and everybody n
 
 ---
 
-![bg fit](Tactic_Strategy_Culture.jpeg "Digital Transformation Means DevOps")
+![bg fit](slideimages/Tactic_Strategy_Culture.jpeg "Digital Transformation Means DevOps")
 
 ---
 # BackUp
@@ -145,19 +145,19 @@ Culture: People and process ultimately make DevOps successful, **and everybody n
 ---
 # DevOps Cycle
 
-![Digital Transformation Means DevOps](DevOpsCycle.jpeg "Digital Transformation Means DevOps")
+![Digital Transformation Means DevOps](slideimages/DevOpsCycle.jpeg "Digital Transformation Means DevOps")
 
 ---
 
 # DevOps to Agile
 
-![Digital Transformation Means DevOps](Devops-to-Agile.png "Digital Transformation Means DevOps")
+![Digital Transformation Means DevOps](slideimages/Devops-to-Agile.png "Digital Transformation Means DevOps")
 
 Source: https://dzone.com/articles/is-devops-agile
 
 ---
 # Evolution of DevOps
-![Digital Transformation Means DevOps]( evelution-of-devops.png "Digital Transformation Means DevOps")
+![Digital Transformation Means DevOps]( slideimages/evelution-of-devops.png "Digital Transformation Means DevOps")
 
 Source: https://dzone.com/articles/is-devops-agile
 
@@ -168,37 +168,37 @@ Al permeates lives. DevOps evolves with mantra to automate, automate & automate
 
 
 
----![bg right fit](Automate_Automate_Automate.jpeg)
+---![bg right fit](slideimages/Automate_Automate_Automate.jpeg)
 # 2009 - DevOps originates on social media
 
 Patrick Debois creates the DevOps hashtag on Twitter to advertise conference on 'agile system administration
 
-![bg right fit](Automate_Automate_Automate.jpeg)
+![bg right fit](slideimages/Automate_Automate_Automate.jpeg)
 
 ---
 # 2009 - 'Dev' and 'Ops' tie the knot
 
 As a solution to finger pointing' problem between Dev and Ops team
 
-![bg right fit](Automate_Automate_Automate.jpeg)
+![bg right fit](slideimages/Automate_Automate_Automate.jpeg)
 
 ---
 # 2003 - The very lst "site reliability engineers"
 
 Production environment and development environment are run separately
 
-![bg left fit](Automate_Automate_Automate.jpeg)
+![bg left fit](slideimages/Automate_Automate_Automate.jpeg)
 
 ---
 # 1967 - Launch of ARPANET
 
 Network of engineering jobs and network operation centers
 
-![bg left fit](Automate_Automate_Automate.jpeg)
+![bg left fit](slideimages/Automate_Automate_Automate.jpeg)
 
 ---
 # 1957 - Hello DevOps!
 
 First 'developer job with incubation of computer program code
 
-![bg left fit](Automate_Automate_Automate.jpeg)
+![bg left fit](slideimages/Automate_Automate_Automate.jpeg)
