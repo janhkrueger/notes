@@ -40,15 +40,97 @@ One does not know how a change will accepted by the customer and one want a test
 # Consequence: Communication Islands
 
 > "*Branches create distance between developers and we don't want that.*" 
-> \- Frank Compagner, Guerilla Games (Horizon Zero, Killzone)
+> \- Frank Compagner, Guerilla Games (Horizon Zero, Killzone, Death Stranding)
 
 ---
 
+# Difficulties
 
 * Several installations of the same software but with different feature sets.
-* Orchestrate 
+* Orchestrate application releated deployments and relase dates.
 
-![bg opacity:.2](Solution.jpeg)
+---
+
+![bg opacity:.5](Solution.jpeg)
+
+---
+## Feature Toggles
+
+
+<br/><br/><br/>
+
+aka Feature **Flags**, Freature **Bits**, Feature **Flippers**
+
+![bg opacity:.3](continuous-delivery-feature-flags.jpg)
+
+--- 
+# Possible flags
+
+Only examples, limited only by imagination of developers.
+
+* variable in config file
+* inMemory variable
+* database value
+* permission of the user
+* data
+* costumer value
+* 
+
+
+(PIC of endless solutions)
+
+![bg right fit](IT_Magic.jpeg)
+
+---
+
+# Where are Feature Toggles supported?
+
+Possible in every language allowing alternatitons.
+
+<br/>
+Yes, this includes SQL!
+
+---
+# variable in config file
+
+---
+# inMemory variable
+
+---
+
+# database value
+
+The state of the flag is stored and persitent in the datebase. Therefore one need to trigger an update on the database to change the behaviour of the application.
+
+---
+
+# Permission of the user
+
+An external system manages permissions wich can be used to access to system or features.
+
+There a user can request access to a feature or get it ordered by someone else.
+
+In Baloise context: DIM (Digital Identity Management) with acts as interface for the group active directory.
+
+**Benefit**: The permission and process of grating access is lined up with the group access standard (LAS). Without further doings will compliant for auditors.
+
+---
+
+# data
+
+---
+# costumer value
+---
+
+# Categories of Toggles
+
+* RELEASE TOGGLES
+* EXPERIMENT TOGGLES
+* PERMISSION TOGGLES
+* OPS TOGGLES
+  
+
+  https://martinfowler.com/articles/feature-toggles.html
 
 ---
 # Code examples
@@ -84,6 +166,7 @@ One does not know how a change will accepted by the customer and one want a test
 
 ---
 
+## random generic example
 ```
 function apiSaveOrder() {
   const useNewAPI = false;
@@ -129,53 +212,3 @@ function reticulateSplinesOf() {
    }
 }
 ```
-
----
-
-# Possible flags
-
-Only examples, limited only by imagination of developers.
-
-* variable in config file
-* inMemory variable
-* database value
-* permission of the user
-* data
-* costumer value
-* 
-
-
-(PIC of endless solutions)
-
-![bg right fit](IT_Magic.jpeg)
-
----
-
-# database value
-
-The state of the flag is stored and persitent in the datebase. Therefore one need to trigger an update on the database to change the behaviour of the application.
-
----
-
-# Permission of the user
-
-An external system manages permissions wich can be used to access to system or features.
-
-There a user can request access to a feature or get it ordered by someone else.
-
-In Baloise context: DIM (Digital Identity Management) with acts as interface for the group active directory.
-
-**Benefit**: The permission and process of grating access is lined up with the group access standard (LAS). Without further doings will compliant for auditors.
-
-
----
-
-# Categories of Toggles
-
-* RELEASE TOGGLES
-* EXPERIMENT TOGGLES
-* PERMISSION TOGGLES
-* OPS TOGGLES
-  
-
-  https://martinfowler.com/articles/feature-toggles.html
