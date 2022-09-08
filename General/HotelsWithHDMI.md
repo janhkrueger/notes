@@ -18,3 +18,6 @@
 
 ## Rijeka
 * Hotel Continental
+
+## Wedel
+* Hotel Diamant
