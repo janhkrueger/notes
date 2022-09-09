@@ -147,6 +147,7 @@ The customer gets a different UI or mask presented depending on the value brough
 For example: Money spend every year over value X.
 Or ordered a special packed with a product.
 
+Goes most of the time hand in hand with a data based flag.
 
 ---
 
@@ -158,7 +159,33 @@ Or ordered a special packed with a product.
 * OPS TOGGLES
   
 
-  https://martinfowler.com/articles/feature-toggles.html
+Source:  https://martinfowler.com/articles/feature-toggles.html
+
+---
+
+# Categories of Toggles
+
+A toggle can be introduced for different purposes. Most of the time we differentiate between four categories as also shown by Pete Hodgson on martinfowler.com.
+
+---
+
+# What can we also do with toggles?
+
+
+## Canary releasing
+Presenting a feature only to a small testing group but also in a environment where others need to work in the old way.
+
+The testing group can be selected random or based on a dedicated value to recreate the selection of the testers.
+
+---
+
+## A/B Testing
+
+Similar to canary releases but with a way larger testing cohort.
+
+It origined by splitting the testers in two groups, group A and group B.
+
+The outcome and adaption of a feature can decided with real data, not guesses or asumptions.
 
 ---
 # Code examples
@@ -252,3 +279,9 @@ function reticulateSplinesOf() {
    }
 }
 ```
+
+---
+
+# Sources
+
+Sample code background image from: http://laurenthinoul.com/sample-programming-code/
