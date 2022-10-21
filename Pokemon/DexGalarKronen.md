@@ -88,7 +88,7 @@
  086 | {{#icon:Amagarga}}                                                               | [[Amagarga]]                                                           
  087 | {{#icon:Bronzel}}                                                                | [[Bronzel]]                                                            
  088 | {{#icon:Bronzong}}                                                               | [[Bronzong]]                                                           
- 089 | {{#icon:Humanolith}}                                                             | [[Humanolith]]                                                         
+ 089 | ![Humanolith](pokemonimages/50px-Pokémonsprite_874_HOME.png)                                                             | [[Humanolith]]                                                         
  090 | {{#icon:Kubuin}}                                                                 | [[Kubuin]]                                                             
  091 | {{#icon:Araqua}}                                                                 | [[Araqua]]                                                             
  092 | {{#icon:Aranestro}}                                                              | [[Aranestro]]                                                          
