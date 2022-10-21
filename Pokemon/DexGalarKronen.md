@@ -207,7 +207,7 @@
  205 | {{#icon:Kobalium}}                                                               | [[Kobalium]]                                                           
  206 | {{#icon:Terrakium}}                                                              | [[Terrakium]]                                                          
  207 | {{#icon:Viridium}}                                                               | [[Viridium]]                                                           
- 208 | {{#icon:Polaross}}                                                               | [[Polaross]]                                                           
+ 208 | ![Polaross](pokemonimages/Pokémon-Icon_896.png) | [[Polaross]]                                                           
  209 | {{#icon:Phantoross}}                                                             | [[Phantoross]]                                                         
  210 | {{#icon:Coronospa}}                                                              | [[Coronospa]]                                                          
 
