@@ -89,7 +89,7 @@
  087 | {{#icon:Bronzel}}                                                                | [[Bronzel]]                                                            
  088 | {{#icon:Bronzong}}                                                               | [[Bronzong]]                                                           
  089 | ![Humanolith](pokemonimages/50px-Pokémonsprite_874_HOME.png)                                                             | [[Humanolith]]                                                         
- 090 | {{#icon:Kubuin}}                                                                 | [[Kubuin]]                                                             
+ 090 | ![Kubuin](pokemonimages/Pokémon-Icon_875.png)                                                                 | [[Kubuin]]                                                             
  091 | {{#icon:Araqua}}                                                                 | [[Araqua]]                                                             
  092 | {{#icon:Aranestro}}                                                              | [[Aranestro]]                                                          
  093 | {{#icon:Wattzapf}}                                                               | [[Wattzapf]]                                                           

@@ -369,7 +369,7 @@
  367 | {{#icon:Flampion}}<br />{{#icon:554a}}                                           | [[Flampion]]<br />(Galar-Form)                                         
  368 | {{#icon:Flampivian}}<br />{{#icon:555b}}<br />{{#icon:555a}}<br />{{#icon:555c}} | [[Flampivian]]<br />(Galar-Form)<br />(Trance-Modus)<br />(Galar-Form) 
  369 | ![Humanolith](pokemonimages/50px-Pokémonsprite_874_HOME.png)                                                             | [[Humanolith]]                                                         
- 370 | {{#icon:Kubuin}}                                                                 | [[Kubuin]]                                                             
+ 370 | ![Kubuin](pokemonimages/Pokémon-Icon_875.png)                                                                | [[Kubuin]]                                                             
  371 | {{#icon:Duraludon}}                                                              | [[Duraludon]]                                                          
  372 | {{#icon:Rotom}}                                                                  | [[Rotom]]                                                              
  373 | {{#icon:Ditto}}                                                                  | [[Ditto]]                                                              
