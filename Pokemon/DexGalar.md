@@ -301,7 +301,7 @@
  299 | {{#icon:Lucario}}                                                                | [[Lucario]]                                                            
  300 | {{#icon:Qurtel}}                                                                 | [[Qurtel]]                                                             
  301 | {{#icon:Mimigma}}                                                                | [[Mimigma]]                                                            
- 302 | {{#icon:Kupfanti}}                                                               | [[Kupfanti]]                                                           
+ 302 | ![Kupfanti](pokemonimages/Pokémon-Icon_878.png)                                                               | [[Kupfanti]]                                                           
  303 | {{#icon:Patinaraja}}                                                             | [[Patinaraja]]                                                         
  304 | {{#icon:Baldorfish}}                                                             | [[Baldorfish]]                                                         
  305 | {{#icon:Quabbel}}                                                                | [[Quabbel]]                                                            

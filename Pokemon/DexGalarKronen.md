@@ -107,7 +107,7 @@
  105 | {{#icon:Ponita}}<br />{{#icon:077a}}                                             | [[Ponita]]<br />(Galar-Form)                                           
  106 | {{#icon:Gallopa}}<br />{{#icon:078a}}                                            | [[Gallopa]]<br />(Galar-Form)                                          
  107 | {{#icon:Absol}}                                                                  | [[Absol]]                                                              
- 108 | {{#icon:Kupfanti}}                                                               | [[Kupfanti]]                                                           
+ 108 | ![Kupfanti](pokemonimages/Pokémon-Icon_878.png)                                                               | [[Kupfanti]]                                                           
  109 | {{#icon:Patinaraja}}                                                             | [[Patinaraja]]                                                         
  110 | {{#icon:Grolldra}}                                                               | [[Grolldra]]                                                           
  111 | {{#icon:Phandra}}                                                                | [[Phandra]]                                                            
