@@ -170,7 +170,7 @@
  168 | {{#icon:Waumboll}}                                                               | [[Waumboll]]                                                           
  169 | {{#icon:Elfun}}                                                                  | [[Elfun]]                                                              
  170 | {{#icon:Pottrott}}                                                               | [[Pottrott]]                                                           
- 171 | {{#icon:Servol}}                                                                 | [[Servol]]                                                             
+ 171 | ![Servol](pokemonimages/Pokémon-Icon_876.png)                                                                 | [[Servol]]                                                             
  172 | {{#icon:Mampfaxo}}                                                               | [[Mampfaxo]]                                                           
  173 | {{#icon:Relaxo}}                                                                 | [[Relaxo]]                                                             
  174 | {{#icon:Zobiris}}                                                                | [[Zobiris]]                                                            
