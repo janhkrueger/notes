@@ -99,7 +99,7 @@
  097 | {{#icon:Barrakiefa}}                     | [[Barrakiefa]]                                                     
  098 | {{#icon:Sterndu}}                        | [[Sterndu]]                                                        
  099 | {{#icon:Starmie}}                        | [[Starmie]]                                                        
- 100 | {{#icon:Dakuma}}                         | [[Dakuma]]                                                         
+ 100 | ![Dakuma](pokemonimages/Pokémon-Icon_891.png) | [[Dakuma]]                                                         
  101 | {{#icon:Wulaosu}}<br />{{#icon:892}}     | [[Wulaosu]] (Fokussierter Stil)<br />[[Wulaosu]] (Fließender Stil) 
  102 | {{#icon:Emolga}}                         | [[Emolga]]                                                         
  103 | {{#icon:Dedenne}}                        | [[Dedenne]]                                                        
