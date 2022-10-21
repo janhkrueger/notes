@@ -210,5 +210,5 @@
  208 | {{#icon:Porygon}}                        | [[Porygon]]                                                        
  209 | {{#icon:Porygon2}}                       | [[Porygon2]]                                                       
  210 | {{#icon:Porygon-Z}}                      | [[Porygon-Z]]                                                      
- 211 | {{#icon:Zarude}}                         | [[Zarude]]                                                         
+ 211 | ![Zarude](pokemonimages/Pokémon-Icon_893.png) | [[Zarude]]                                                         
 
