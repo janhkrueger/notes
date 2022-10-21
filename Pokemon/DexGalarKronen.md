@@ -107,9 +107,9 @@
  105 | {{#icon:Ponita}}<br />{{#icon:077a}}                                             | [[Ponita]]<br />(Galar-Form)                                           
  106 | {{#icon:Gallopa}}<br />{{#icon:078a}}                                            | [[Gallopa]]<br />(Galar-Form)                                          
  107 | {{#icon:Absol}}                                                                  | [[Absol]]                                                              
- 108 | ![Kupfanti](pokemonimages/Pokémon-Icon_878.png)                                                               | [[Kupfanti]]                                                           
- 109 | ![Patinaraja](pokemonimages/Pokémon-Icon_879.png)                                                             | [[Patinaraja]]                                                         
- 110 | {{#icon:Grolldra}}                                                               | [[Grolldra]]                                                           
+ 108 | ![Kupfanti](pokemonimages/Pokémon-Icon_878.png)  | [[Kupfanti]]                                                           
+ 109 | ![Patinaraja](pokemonimages/Pokémon-Icon_879.png) | [[Patinaraja]]                                                         
+ 110 | ![Grolldra](pokemonimages/Pokémon-Icon_885.png) | [[Grolldra]]                                                           
  111 | {{#icon:Phandra}}                                                                | [[Phandra]]                                                            
  112 | {{#icon:Katapuldra}}                                                             | [[Katapuldra]]                                                         
  113 | {{#icon:Kindwurm}}                                                               | [[Kindwurm]]                                                           

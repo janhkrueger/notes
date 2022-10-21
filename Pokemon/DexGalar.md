@@ -394,7 +394,7 @@
  392 | {{#icon:Miniras}}                                                                | [[Miniras]]                                                            
  393 | {{#icon:Mediras}}                                                                | [[Mediras]]                                                            
  394 | {{#icon:Grandiras}}                                                              | [[Grandiras]]                                                          
- 395 | {{#icon:Grolldra}}                                                               | [[Grolldra]]                                                           
+ 395 | ![Grolldra](pokemonimages/Pokémon-Icon_885.png) | [[Grolldra]]                                                           
  396 | {{#icon:Phandra}}                                                                | [[Phandra]]                                                            
  397 | {{#icon:Katapuldra}}                                                             | [[Katapuldra]]                                                         
  398 | {{#icon:Zacian}}                                                                 | [[Zacian]]                                                             
