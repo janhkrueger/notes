@@ -1,8 +1,8 @@
  Nr. | Icon          | Name            
 -----|---------------|-----------------
- 001 | {{#icon:650}} | [[Igamaro]]     
- 002 | {{#icon:651}} | [[Igastarnish]] 
- 003 | {{#icon:652}} | [[Brigaron]]    
+ 001 | ![Igamaro](pokemonimages/Pokémon-Icon_650.png)                                                             | [[Igamaro]]   | [[Igamaro]]     
+ 002 | ![Igastarnish](pokemonimages/Pokémon-Icon_651.png)                                                             | [[Igastarnish]] | [[Igastarnish]] 
+ 003 | ![Brigaron](pokemonimages/Pokémon-Icon_652.png)                                                             | [[Brigaron]] | [[Brigaron]]    
  004 | {{#icon:653}} | [[Fynx]]        
  005 | {{#icon:654}} | [[Rutena]]      
  006 | {{#icon:655}} | [[Fennexis]]    
