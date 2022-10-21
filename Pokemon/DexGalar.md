@@ -375,7 +375,7 @@
  373 | {{#icon:Ditto}}                                                                  | [[Ditto]]                                                              
  374 | ![Lectragon](pokemonimages/Pokémon-Icon_880.png)  | [[Lectragon]]                                                          
  375 | ![Lecryodon](pokemonimages/Pokémon-Icon_881.png)  | [[Lecryodon]]                                                          
- 376 | {{#icon:Pescragon}}                                                              | [[Pescragon]]                                                          
+ 376 | ![Pescragon](pokemonimages/Pokémon-Icon_882.png) | [[Pescragon]]                                                          
  377 | {{#icon:Pescryodon}}                                                             | [[Pescryodon]]                                                         
  378 | {{#icon:Glumanda}}                                                               | [[Glumanda]]                                                           
  379 | {{#icon:Glutexo}}                                                                | [[Glutexo]]                                                            
