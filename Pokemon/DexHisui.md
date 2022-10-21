@@ -1,6 +1,6 @@
  Nr. | Icon                               | Name                             
 -----|------------------------------------|----------------------------------
- 001 | [[Datei:Pokémonsprite 722 PLA.png  | [[Bauz]]                         
+ 001 | ![Bauz](pokemonimages/Pokémon-Icon_722.png) | [[Bauz]]                         
  002 | [[Datei:Pokémonsprite 723 PLA.png  | [[Arboretoss]]                   
  003 | [[Datei:Pokémonsprite 724a PLA.png | [[Silvarro]]<br />(Hisui-Form)   
  004 | [[Datei:Pokémonsprite 155 PLA.png  | [[Feurigel]]                     
