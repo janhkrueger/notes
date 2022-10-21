@@ -196,7 +196,7 @@
  ??? | [[Datei:Pokémonsprite 858 HOME.png  | [[Silembrim]]                 
  ??? | [[Datei:Pokémonsprite 871 HOME.png  | [[Britzigel]]                 
  ??? | ![Snomnom](pokemonimages/50px-Pokémonsprite_872_HOME.png) | [[Snomnom]]       
- ??? | ![Humanolith](pokemonimages/50px-Pokémonsprite_874_HOME.png)  | [[Humanolith]]                
+ ??? | ![Humanolith](pokemonimages/Pokémon-Icon_874.png)  | [[Humanolith]]                
  ??? | ![Kubuin](pokemonimages/Pokémon-Icon_875.png)   | [[Kubuin]]                    
  ??? | [[Datei:Pokémonsprite 878 HOME.png  | [[Kupfanti]]                  
  ??? | [[Datei:Sugimori 194a.png           | [[Felino]]<br />(Paldea-Form) 
