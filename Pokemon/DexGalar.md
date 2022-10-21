@@ -348,7 +348,7 @@
  346 | {{#icon:Sen-Long}}                                                               | [[Sen-Long]]                                                           
  347 | {{#icon:Tortunator}}                                                             | [[Tortunator]]                                                         
  348 | {{#icon:Togedemaru}}                                                             | [[Togedemaru]]                                                         
- 349 | ![Snomnom](pokemonimages/50px-Pokémonsprite_872_HOME.png)                                                                | [[Snomnom]]                                                            
+ 349 | ![Snomnom](pokemonimages/50px-Pokémonsprite_872_HOME.png) | [[Snomnom]]                                                            
  350 | {{#icon:Mottineva}}                                                              | [[Mottineva]]                                                          
  351 | {{#icon:Klopptopus}}                                                             | [[Klopptopus]]                                                         
  352 | {{#icon:Kaocto}}                                                                 | [[Kaocto]]                                                             
