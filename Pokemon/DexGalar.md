@@ -373,7 +373,7 @@
  371 | {{#icon:Duraludon}}                                                              | [[Duraludon]]                                                          
  372 | {{#icon:Rotom}}                                                                  | [[Rotom]]                                                              
  373 | {{#icon:Ditto}}                                                                  | [[Ditto]]                                                              
- 374 | {{#icon:Lectragon}}                                                              | [[Lectragon]]                                                          
+ 374 | ![Lectragon](pokemonimages/Pokémon-Icon_880.png)                                                              | [[Lectragon]]                                                          
  375 | {{#icon:Lecryodon}}                                                              | [[Lecryodon]]                                                          
  376 | {{#icon:Pescragon}}                                                              | [[Pescragon]]                                                          
  377 | {{#icon:Pescryodon}}                                                             | [[Pescryodon]]                                                         
