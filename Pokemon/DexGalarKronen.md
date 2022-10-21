@@ -208,6 +208,6 @@
  206 | {{#icon:Terrakium}}                                                              | [[Terrakium]]                                                          
  207 | {{#icon:Viridium}}                                                               | [[Viridium]]                                                           
  208 | ![Polaross](pokemonimages/Pokémon-Icon_896.png) | [[Polaross]]                                                           
- 209 | {{#icon:Phantoross}}                                                             | [[Phantoross]]                                                         
- 210 | {{#icon:Coronospa}}                                                              | [[Coronospa]]                                                          
+ 209 | ![Phantoross](pokemonimages/Pokémon-Icon_897.png) | [[Phantoross]]                                                         
+ 210 | ![Coronospa](pokemonimages/Pokémon-Icon_898.png) | [[Coronospa]]                                                          
 
