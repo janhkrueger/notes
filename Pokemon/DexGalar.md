@@ -370,7 +370,7 @@
  368 | {{#icon:Flampivian}}<br />{{#icon:555b}}<br />{{#icon:555a}}<br />{{#icon:555c}} | [[Flampivian]]<br />(Galar-Form)<br />(Trance-Modus)<br />(Galar-Form) 
  369 | ![Humanolith](pokemonimages/Pokémon-Icon_874.png)                                                              | [[Humanolith]]                                                         
  370 | ![Kubuin](pokemonimages/Pokémon-Icon_875.png)                                                                | [[Kubuin]]                                                             
- 371 | {{#icon:Duraludon}}                                                              | [[Duraludon]]                                                          
+ 371 | ![Duraludon](pokemonimages/Pokémon-Icon_884.png) | [[Duraludon]]                                                          
  372 | {{#icon:Rotom}}                                                                  | [[Rotom]]                                                              
  373 | {{#icon:Ditto}}                                                                  | [[Ditto]]                                                              
  374 | ![Lectragon](pokemonimages/Pokémon-Icon_880.png)  | [[Lectragon]]                                                          
