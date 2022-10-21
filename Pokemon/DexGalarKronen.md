@@ -170,7 +170,7 @@
  168 | {{#icon:Waumboll}}                                                               | [[Waumboll]]                                                           
  169 | {{#icon:Elfun}}                                                                  | [[Elfun]]                                                              
  170 | {{#icon:Pottrott}}                                                               | [[Pottrott]]                                                           
- 171 | ![Servol](pokemonimages/Pokémon-Icon_876.png)                                                                 | [[Servol]]                                                             
+ 171 | ![Servol](pokemonimages/Pokémon-Icon_876.png) | [[Servol]]                                                             
  172 | {{#icon:Mampfaxo}}                                                               | [[Mampfaxo]]                                                           
  173 | {{#icon:Relaxo}}                                                                 | [[Relaxo]]                                                             
  174 | {{#icon:Zobiris}}                                                                | [[Zobiris]]                                                            
@@ -199,7 +199,7 @@
  197 | {{#icon:Regirock}}                                                               | [[Regirock]]                                                           
  198 | {{#icon:Regice}}                                                                 | [[Regice]]                                                             
  199 | {{#icon:Registeel}}                                                              | [[Registeel]]                                                          
- 200 | {{#icon:Regieleki}}                                                              | [[Regieleki]]                                                          
+ 200 | ![Regieleki](pokemonimages/Pokémon-Icon_894.png) | [[Regieleki]]                                                          
  201 | {{#icon:Regidrago}}                                                              | [[Regidrago]]                                                          
  202 | {{#icon:Arktos}}<br />{{#icon:144a}}                                             | [[Arktos]]<br />(Galar-Form)                                           
  203 | {{#icon:Zapdos}}<br />{{#icon:145a}}                                             | [[Zapdos]]<br />(Galar-Form)                                           
