@@ -343,7 +343,7 @@
  341 | {{#icon:Lamellux}}                                                               | [[Lamellux]]                                                           
  342 | {{#icon:Kommandutan}}                                                            | [[Kommandutan]]                                                        
  343 | {{#icon:Quartermak}}                                                             | [[Quartermak]]                                                         
- 344 | ![Servol](pokemonimages/Pokémon-Icon_877.png)                                                                | [[Morpeko]]                                                            
+ 344 | ![Morpeko](pokemonimages/Pokémon-Icon_877.png)                                                                | [[Morpeko]]                                                            
  345 | {{#icon:Legios}}                                                                 | [[Legios]]                                                             
  346 | {{#icon:Sen-Long}}                                                               | [[Sen-Long]]                                                           
  347 | {{#icon:Tortunator}}                                                             | [[Tortunator]]                                                         
