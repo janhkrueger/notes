@@ -1,6 +1,6 @@
  Nr. | Icon                                                                             | Name                                                                   
 -----|----------------------------------------------------------------------------------|------------------------------------------------------------------------
- 001 | {{#icon:Snomnom}}                                                                | [[Snomnom]]                                                            
+ 001 | ![Snomnom](pokemonimages/50px-Pokémonsprite_872_HOME.png)                                                                | [[Snomnom]]                                                            
  002 | {{#icon:Mottineva}}                                                              | [[Mottineva]]                                                          
  003 | {{#icon:Wolly}}                                                                  | [[Wolly]]                                                              
  004 | {{#icon:Zwollock}}                                                               | [[Zwollock]]                                                           

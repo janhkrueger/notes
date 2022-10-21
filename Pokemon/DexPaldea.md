@@ -195,7 +195,7 @@
  ??? | [[Datei:Pokémonsprite 857 HOME.png  | [[Brimano]]                   
  ??? | [[Datei:Pokémonsprite 858 HOME.png  | [[Silembrim]]                 
  ??? | [[Datei:Pokémonsprite 871 HOME.png  | [[Britzigel]]                 
- ??? | [[Datei:Pokémonsprite 872 HOME.png  | [[Snomnom]]                   
+ ??? | ![Snomnom](pokemonimages/50px-Pokémonsprite_872_HOME.png) | [[Snomnom]]  | [[Snomnom]]      
  ??? | [[Datei:Pokémonsprite 874 HOME.png  | [[Humanolith]]                
  ??? | [[Datei:Pokémonsprite 875 HOME.png  | [[Kubuin]]                    
  ??? | [[Datei:Pokémonsprite 878 HOME.png  | [[Kupfanti]]                  
