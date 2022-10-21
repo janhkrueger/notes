@@ -103,7 +103,7 @@
  101 | {{#icon:Wulaosu}}<br />{{#icon:892}}     | [[Wulaosu]] (Fokussierter Stil)<br />[[Wulaosu]] (Fließender Stil) 
  102 | {{#icon:Emolga}}                         | [[Emolga]]                                                         
  103 | {{#icon:Dedenne}}                        | [[Dedenne]]                                                        
- 104 | ![Servol](pokemonimages/Pokémon-Icon_877.png)                        | [[Morpeko]]                                                        
+ 104 | ![Morpeko](pokemonimages/Pokémon-Icon_877.png)                         | [[Morpeko]]                                                        
  105 | {{#icon:Magnetilo}}                      | [[Magnetilo]]                                                      
  106 | {{#icon:Magneton}}                       | [[Magneton]]                                                       
  107 | {{#icon:Magnezone}}                      | [[Magnezone]]                                                      
