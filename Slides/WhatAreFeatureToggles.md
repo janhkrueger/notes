@@ -3,7 +3,7 @@ marp: true
 theme: base
 paginate: true
 #header: 'Header content'
-footer: 'Jan H. Krüger OIS1 - Baloise Versicherung | What are Feature Toggles'
+footer: 'Jan H. Krüger OIS1 - Baloise | What are Feature Toggles'
 ---
 
 # What are Feature Toggles?
@@ -27,7 +27,8 @@ A new feature needs to be developed but not immeadiatly to be active after a dep
 
 One team finished a feature in software A but the accompaning software B is not ready.
 
-* Different pace in teams. Or simple colleagues are on vacation, having incidents, getting sick.
+* Different pace in teams.
+* Or simple colleagues are on vacation, having incidents, getting sick.
 ---
 # Other common situation
 
@@ -285,3 +286,5 @@ function reticulateSplinesOf() {
 # Sources
 
 Sample code background image from: http://laurenthinoul.com/sample-programming-code/
+
+This slide: https://gitlab.com/janhkrueger/notes/-/blob/main/Slides/WhatAreFeatureToggles.md
