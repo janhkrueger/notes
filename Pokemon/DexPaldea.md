@@ -198,7 +198,8 @@
  ??? | ![Snomnom](pokemonimages/50px-Pokémonsprite_872_HOME.png) | [[Snomnom]]       
  ??? | ![Humanolith](pokemonimages/Pokémon-Icon_874.png)  | [[Humanolith]]                
  ??? | ![Kubuin](pokemonimages/Pokémon-Icon_875.png)   | [[Kubuin]]                    
- ??? | ![Kupfanti](pokemonimages/Pokémon-Icon_878.png)  | [[Kupfanti]]                  
+ ??? | ![Kupfanti](pokemonimages/Pokémon-Icon_878.png)  | [[Kupfanti]] 
+  ?? | ![Patinaraja](pokemonimages/Pokémon-Icon_879.png)  | [[Patinaraja]]   
  ??? | [[Datei:Sugimori 194a.png           | [[Felino]]<br />(Paldea-Form) 
  ??? | [[Datei:Sugimori Olini.png          | [[Olini]]                     
  ??? | [[Datei:Sugimori Kolowal.png        | [[Kolowal]]                   
@@ -210,4 +211,3 @@
  ??? | [[Datei:Sugimori Azugladis.png      | [[Azugladis]]                 
  ??? | [[Datei:Sugimori Koraidon.png       | [[Koraidon]]                  
  ??? | [[Datei:Sugimori Miraidon.png       | [[Miraidon]]                  
-
