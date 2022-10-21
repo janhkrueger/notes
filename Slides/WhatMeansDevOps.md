@@ -166,9 +166,10 @@ Source: https://dzone.com/articles/is-devops-agile
 
 Al permeates lives. DevOps evolves with mantra to automate, automate & automate
 
+![bg right fit](slideimages/Automate_Automate_Automate.jpeg)
 
+---
 
----![bg right fit](slideimages/Automate_Automate_Automate.jpeg)
 # 2009 - DevOps originates on social media
 
 Patrick Debois creates the DevOps hashtag on Twitter to advertise conference on 'agile system administration
