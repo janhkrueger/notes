@@ -200,7 +200,7 @@
  198 | {{#icon:Regice}}                                                                 | [[Regice]]                                                             
  199 | {{#icon:Registeel}}                                                              | [[Registeel]]                                                          
  200 | ![Regieleki](pokemonimages/Pokémon-Icon_894.png) | [[Regieleki]]                                                          
- 201 | {{#icon:Regidrago}}                                                              | [[Regidrago]]                                                          
+ 201 | ![Regidrago](pokemonimages/Pokémon-Icon_895.png) | [[Regidrago]]                                                          
  202 | {{#icon:Arktos}}<br />{{#icon:144a}}                                             | [[Arktos]]<br />(Galar-Form)                                           
  203 | {{#icon:Zapdos}}<br />{{#icon:145a}}                                             | [[Zapdos]]<br />(Galar-Form)                                           
  204 | {{#icon:Lavados}}<br />{{#icon:146a}}                                            | [[Lavados]]<br />(Galar-Form)                                          
