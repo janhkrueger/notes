@@ -1,6 +1,6 @@
  Nr. | Icon          | Name           
 -----|---------------|----------------
- 001 | {{#icon:001}} | [[Bisasam]]    
+ 001 | ![Bisasam](pokemonimages/Pokémon-Icon_001.png) | [[Bisasam]]    
  002 | {{#icon:002}} | [[Bisaknosp]]  
  003 | {{#icon:003}} | [[Bisaflor]]   
  004 | {{#icon:004}} | [[Glumanda]]   

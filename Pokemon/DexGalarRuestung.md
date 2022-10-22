@@ -67,7 +67,7 @@
  065 | {{#icon:Hydragil}}                       | [[Hydragil]]                                                       
  066 | {{#icon:Laukaps}}                        | [[Laukaps]]                                                        
  067 | {{#icon:Cavalanzas}}                     | [[Cavalanzas]]                                                     
- 068 | {{#icon:Bisasam}}                        | [[Bisasam]]                                                        
+ 068 | ![Bisasam](pokemonimages/Pokémon-Icon_001.png)                        | [[Bisasam]]                                                        
  069 | {{#icon:Bisaknosp}}                      | [[Bisaknosp]]                                                      
  070 | {{#icon:Bisaflor}}                       | [[Bisaflor]]                                                       
  071 | {{#icon:Schiggy}}                        | [[Schiggy]]                                                        

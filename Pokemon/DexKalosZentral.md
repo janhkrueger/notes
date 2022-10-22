@@ -79,7 +79,7 @@
  077 | {{#icon:416}} | [[Honweisel]]   
  078 | {{#icon:300}} | [[Eneco]]       
  079 | {{#icon:301}} | [[Enekoro]]     
- 080 | {{#icon:001}} | [[Bisasam]]     
+ 080 | ![Bisasam](pokemonimages/Pokémon-Icon_001.png) | [[Bisasam]]     
  081 | {{#icon:002}} | [[Bisaknosp]]   
  082 | {{#icon:003}} | [[Bisaflor]]    
  083 | {{#icon:004}} | [[Glumanda]]    
