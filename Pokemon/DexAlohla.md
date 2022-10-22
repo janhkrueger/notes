@@ -16,9 +16,9 @@
  014 | ![Manguspektor](pokemonimages/Pokémon-Icon_735.png) | [[Manguspektor]]                 
  015 | {{#icon:019}}<br />{{#icon:019a}}                                         | [[Rattfratz]]<br />(Alola-Form)  
  016 | {{#icon:020}}<br />{{#icon:020a}}                                         | [[Rattikarl]]<br />(Alola-Form)  
- 017 | {{#icon:010}}                                                             | [[Raupy]]                        
- 018 | {{#icon:011}}                                                             | [[Safcon]]                       
- 019 | {{#icon:012}}                                                             | [[Smettbo]]                      
+ 017 | ![Raupy](pokemonimages/Pokémon-Icon_010.png)                                                             | [[Raupy]]                        
+ 018 | ![Safcon](pokemonimages/Pokémon-Icon_011.png)                                                             | [[Safcon]]                       
+ 019 | ![Smettbo](pokemonimages/Pokémon-Icon_012.png)                                                             | [[Smettbo]]                      
  020 | {{#icon:165}}                                                             | [[Ledyba]]                       
  021 | {{#icon:166}}                                                             | [[Ledian]]                       
  022 | {{#icon:167}}                                                             | [[Webarak]]                      

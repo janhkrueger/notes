@@ -72,7 +72,7 @@
  070 | {{#icon:Bisaflor}}                       | [[Bisaflor]]                                                       
  071 | {{#icon:Schiggy}}                        | [[Schiggy]]                                                        
  072 | {{#icon:Schillok}}                       | [[Schillok]]                                                       
- 073 | {{#icon:Turtok}}                         | [[Turtok]]                                                         
+ 073 | ![Turtok](pokemonimages/Pokémon-Icon_009.png)                         | [[Turtok]]                                                         
  074 | {{#icon:Toxiped}}                        | [[Toxiped]]                                                        
  075 | {{#icon:Rollum}}                         | [[Rollum]]                                                         
  076 | {{#icon:Cerapendra}}                     | [[Cerapendra]]                                                     
