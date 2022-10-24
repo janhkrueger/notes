@@ -74,13 +74,13 @@
 | ??? | ![Sonnflora](pokemonimages/Pok%C3%A9mon-Icon_192.png) | [[Sonnflora]] |
 | ??? | ![Kramurx](pokemonimages/Pok%C3%A9mon-Icon_198.png) | [[Kramurx]] |
 | ??? | ![Kramshef](pokemonimages/Pok%C3%A9mon-Icon_430.png) | [[Kramshef]] |
-| ??? | [[Datei:Pokémonsprite 200 HOME.png | [[Traunfugil]] |
-| ??? | [[Datei:Pokémonsprite 429 HOME.png | [[Traunmagil]] |
-| ??? | [[Datei:Pokémonsprite 204 HOME.png | [[Tannza]] |
-| ??? | [[Datei:Pokémonsprite 205 HOME.png | [[Forstellka]] |
-| ??? | [[Datei:Pokémonsprite 206 HOME.png | [[Dummisel]] |
-| ??? | [[Datei:Pokémonsprite 215 HOME.png | [[Sniebel]] |
-| ??? | [[Datei:Pokémonsprite 461 HOME.png | [[Snibunna]] |
+| ??? | ![Traunfugil](pokemonimages/Pok%C3%A9mon-Icon_200.png) | [[Traunfugil]] |
+| ??? | ![Traunmagil](pokemonimages/Pok%C3%A9mon-Icon_429.png) | [[Traunmagil]] |
+| ??? | ![Tannza](pokemonimages/Pok%C3%A9mon-Icon_204.png) | [[Tannza]] |
+| ??? | ![Forstellka](pokemonimages/Pok%C3%A9mon-Icon_205.png) | [[Forstellka]] |
+| ??? | ![Dummisel](pokemonimages/Pok%C3%A9mon-Icon_206.png) | [[Dummisel]] |
+| ??? | ![Sniebel](pokemonimages/Pok%C3%A9mon-Icon_215.png) | [[Sniebel]] |
+| ??? | ![Snibunna](pokemonimages/Pok%C3%A9mon-Icon_461.png) | [[Snibunna]] |
 | ??? | [[Datei:Pokémonsprite 216 HOME.png | [[Teddiursa]] |
 | ??? | [[Datei:Pokémonsprite 231 HOME.png | [[Phanpy]] |
 | ??? | [[Datei:Pokémonsprite 232 HOME.png | [[Donphan]] |
@@ -169,11 +169,11 @@
 | ??? | [[Datei:Pokémonsprite 706 HOME.png | [[Viscogon]] |
 | ??? | [[Datei:Pokémonsprite 714 HOME.png | [[eF-eM]] |
 | ??? | [[Datei:Pokémonsprite 715 HOME.png | [[UHaFnir]] |
-| ??? | [[Datei:Pokémonsprite 741 HOME.png | [[Choreogel]] |
-| ??? | [[Datei:Pokémonsprite 744 HOME.png | [[Wuffels]] |
-| ??? | [[Datei:Pokémonsprite 747 HOME.png | [[Garstella]] |
-| ??? | [[Datei:Pokémonsprite 748 HOME.png | [[Aggrostella]] |
-| ??? | [[Datei:Pokémonsprite 749 HOME.png | [[Pampuli]] |
+| ??? | ![Choreogel](pokemonimages/Pok%C3%A9mon-Icon_741.png) | [[Choreogel]] |
+| ??? | ![Wuffels](pokemonimages/Pok%C3%A9mon-Icon_744.png) | [[Wuffels]] |
+| ??? | ![Garstella](pokemonimages/Pok%C3%A9mon-Icon_747.png) | [[Garstella]] |
+| ??? | ![Aggrostella](pokemonimages/Pok%C3%A9mon-Icon_748.png) | [[Aggrostella]] |
+| ??? | ![Pampuli](pokemonimages/Pok%C3%A9mon-Icon_749.png) | [[Pampuli]] |
 | ??? | ![Imantis](pokemonimages/Pok%C3%A9mon-Icon_753.png) | [[Imantis]] |
 | ??? | ![Manditea](pokemonimages/Pok%C3%A9mon-Icon_754.png) | [[Mantidea]] |
 | ??? | ![Frubberl](pokemonimages/Pok%C3%A9mon-Icon_761.png) | [[Frubberl]] |
@@ -195,7 +195,7 @@
 | ??? | ![Bimano](pokemonimages/Pok%C3%A9mon-Icon_857.png) | [[Brimano]] |
 | ??? | ![Silembrim](pokemonimages/Pok%C3%A9mon-Icon_858.png) | [[Silembrim]] |
 | ??? | ![Britzigel](pokemonimages/Pok%C3%A9mon-Icon_871.png) | [[Britzigel]] |
-| ??? | ![Snomnom](pokemonimages/50px-Pok%C3%A9monsprite_872_HOME.png) | [[Snomnom]] |
+| ??? | ![Snomnom](pokemonimages/Pok%C3%A9mon-Icon_872.png) | [[Snomnom]] |
 | ??? | ![Humanolith](pokemonimages/Pok%C3%A9mon-Icon_874.png) | [[Humanolith]] |
 | ??? | ![Kubuin](pokemonimages/Pok%C3%A9mon-Icon_875.png) | [[Kubuin]] |
 | ??? | ![Kupfanti](pokemonimages/Pok%C3%A9mon-Icon_878.png) | [[Kupfanti]] |
