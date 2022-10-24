@@ -79,12 +79,12 @@
  077 | {{#icon:426}}                                                             | [[Drifzepeli]]                   
  078 | {{#icon:198}}                                                             | [[Kramurx]]                      
  079 | {{#icon:430}}                                                             | [[Kramshef]]                     
- 080 | {{#icon:041}}                                                             | [[Zubat]]                        
- 081 | {{#icon:042}}                                                             | [[Golbat]]                       
+ 080 | ![Zubat](pokemonimages/Pokémon-Icon_041.png)                                                             | [[Zubat]]                        
+ 081 | ![Golbat](pokemonimages/Pokémon-Icon_042.png)                                                             | [[Golbat]]                       
  082 | {{#icon:169}}                                                             | [[Iksbat]]                       
  083 | {{#icon:714}}                                                             | [[eF-eM]]                        
  084 | {{#icon:715}}                                                             | [[UHaFnir]]                      
- 085 | {{#icon:050}}<br />{{#icon:050a}}                                         | [[Digda]]<br />(Alola-Form)      
+ 085 | ![Digda](pokemonimages/Pokémon-Icon_050.png)<br />{{#icon:050a}}                                         | [[Digda]]<br />(Alola-Form)      
  086 | {{#icon:051}}<br />{{#icon:051a}}                                         | [[Digdri]]<br />(Alola-Form)     
  087 | ![Habitak](pokemonimages/Pokémon-Icon_021.png)                                                             | [[Habitak]]                      
  088 | ![Ibitak](pokemonimages/Pokémon-Icon_022.png)                                                             | [[Ibitak]]                       
@@ -179,8 +179,8 @@
  177 | ![Mantidea](pokemonimages/Pokémon-Icon_754.png) | [[Mantidea]]                     
  178 | {{#icon:755}}                                                             | [[Bubungus]]                     
  179 | {{#icon:756}}                                                             | [[Lamellux]]                     
- 180 | {{#icon:046}}                                                             | [[Paras]]                        
- 181 | {{#icon:047}}                                                             | [[Parasek]]                      
+ 180 | ![Paras](pokemonimages/Pokémon-Icon_046.png)                                                             | [[Paras]]                        
+ 181 | ![Parasek](pokemonimages/Pokémon-Icon_047.png)                                                             | [[Parasek]]                      
  182 | {{#icon:060}}                                                             | [[Quapsel]]                      
  183 | {{#icon:061}}                                                             | [[Quaputzi]]                     
  184 | {{#icon:062}}                                                             | [[Quappo]]                       

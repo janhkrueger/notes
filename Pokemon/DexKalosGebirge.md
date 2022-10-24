@@ -1,6 +1,6 @@
  Nr. | Icon          | Name           
 -----|---------------|----------------
- 001 | {{#icon:050}} | [[Digda]]      
+ 001 | ![Digda](pokemonimages/Pokémon-Icon_050.png) | [[Digda]]      
  002 | {{#icon:051}} | [[Digdri]]     
  003 | {{#icon:328}} | [[Knacklion]]  
  004 | {{#icon:329}} | [[Vibrava]]    
