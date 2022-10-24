@@ -51,8 +51,8 @@
  049 | {{#icon:063}}                                                             | [[Abra]]                         
  050 | {{#icon:064}}                                                             | [[Kadabra]]                      
  051 | {{#icon:065}}                                                             | [[Simsala]]                      
- 052 | {{#icon:052}}<br />{{#icon:052a}}                                         | [[Mauzi]]<br />(Alola-Form)      
- 053 | {{#icon:053}}<br />{{#icon:053a}}                                         | [[Snobilikat]]<br />(Alola-Form) 
+ 052 | ![Mauzi](pokemonimages/Pokémon-Icon_052.png)<br />{{#icon:052a}}                                         | [[Mauzi]]<br />(Alola-Form)      
+ 053 | ![Snobilikat](pokemonimages/Pokémon-Icon_053.png)<br />{{#icon:053a}}                                         | [[Snobilikat]]<br />(Alola-Form) 
  054 | {{#icon:081}}                                                             | [[Magnetilo]]                    
  055 | {{#icon:082}}                                                             | [[Magneton]]                     
  056 | {{#icon:462}}                                                             | [[Magnezone]]                    
@@ -63,8 +63,8 @@
  061 | ![Rettan](pokemonimages/Pokémon-Icon_023.png)                                                             | [[Rettan]]                       
  062 | ![Arbok](pokemonimages/Pokémon-Icon_024.png)                                                             | [[Arbok]]                        
  063 | {{#icon:206}}                                                             | [[Dummisel]]                     
- 064 | {{#icon:058}}                                                             | [[Fukano]]                       
- 065 | {{#icon:059}}                                                             | [[Arkani]]                       
+ 064 | ![Fukano](pokemonimages/Pokémon-Icon_058.png)                                                             | [[Fukano]]                       
+ 065 | ![Arkani](pokemonimages/Pokémon-Icon_059.png)                                                             | [[Arkani]]                       
  066 | {{#icon:096}}                                                             | [[Traumato]]                     
  067 | {{#icon:097}}                                                             | [[Hypno]]                        
  068 | {{#icon:296}}                                                             | [[Makuhita]]                     
@@ -85,15 +85,15 @@
  083 | {{#icon:714}}                                                             | [[eF-eM]]                        
  084 | {{#icon:715}}                                                             | [[UHaFnir]]                      
  085 | ![Digda](pokemonimages/Pokémon-Icon_050.png)<br />{{#icon:050a}}                                         | [[Digda]]<br />(Alola-Form)      
- 086 | {{#icon:051}}<br />{{#icon:051a}}                                         | [[Digdri]]<br />(Alola-Form)     
+ 086 | ![Digdri](pokemonimages/Pokémon-Icon_051.png)<br />{{#icon:051a}}                                         | [[Digdri]]<br />(Alola-Form)     
  087 | ![Habitak](pokemonimages/Pokémon-Icon_021.png)                                                             | [[Habitak]]                      
  088 | ![Ibitak](pokemonimages/Pokémon-Icon_022.png)                                                             | [[Ibitak]]                       
  089 | {{#icon:627}}                                                             | [[Geronimatz]]                   
  090 | {{#icon:628}}                                                             | [[Washakwil]]                    
  091 | {{#icon:629}}                                                             | [[Skallyk]]                      
  092 | {{#icon:630}}                                                             | [[Grypheldis]]                   
- 093 | {{#icon:056}}                                                             | [[Menki]]                        
- 094 | {{#icon:057}}                                                             | [[Rasaff]]                       
+ 093 | ![Menki](pokemonimages/Pokémon-Icon_056.png)                                                             | [[Menki]]                        
+ 094 | ![Rasaff](pokemonimages/Pokémon-Icon_057.png)                                                             | [[Rasaff]]                       
  095 | {{#icon:225}}                                                             | [[Botogel]]                      
  096 | {{#icon:701}}                                                             | [[Resladero]]                    
  097 | ![Choreogel](pokemonimages/Pokémon-Icon_741.png)<br />![Choreogel](pokemonimages/Pokémon-Icon_741a.png)<br />![Choreogel](pokemonimages/Pokémon-Icon_741b.png)<br />![Choreogel](pokemonimages/Pokémon-Icon_741c.png) | [[Choreogel]]                    
@@ -106,8 +106,8 @@
  104 | {{#icon:549}}                                                             | [[Dressella]]                    
  105 | {{#icon:546}}                                                             | [[Waumboll]]                     
  106 | {{#icon:547}}                                                             | [[Elfun]]                        
- 107 | {{#icon:054}}                                                             | [[Enton]]                        
- 108 | {{#icon:055}}                                                             | [[Entoron]]                      
+ 107 | ![Enton](pokemonimages/Pokémon-Icon_054.png)                                                             | [[Enton]]                        
+ 108 | ![Entoron](pokemonimages/Pokémon-Icon_055.png)                                                             | [[Entoron]]                      
  109 | {{#icon:238}}                                                             | [[Kussilla]]                     
  110 | {{#icon:124}}                                                             | [[Rossana]]                      
  111 | {{#icon:129}}                                                             | [[Karpador]]                     
@@ -181,7 +181,7 @@
  179 | {{#icon:756}}                                                             | [[Lamellux]]                     
  180 | ![Paras](pokemonimages/Pokémon-Icon_046.png)                                                             | [[Paras]]                        
  181 | ![Parasek](pokemonimages/Pokémon-Icon_047.png)                                                             | [[Parasek]]                      
- 182 | {{#icon:060}}                                                             | [[Quapsel]]                      
+ 182 | ![Quapsel](pokemonimages/Pokémon-Icon_060.png)                                                             | [[Quapsel]]                      
  183 | {{#icon:061}}                                                             | [[Quaputzi]]                     
  184 | {{#icon:062}}                                                             | [[Quappo]]                       
  185 | {{#icon:186}}                                                             | [[Quaxo]]                        

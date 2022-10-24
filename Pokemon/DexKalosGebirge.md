@@ -1,7 +1,7 @@
  Nr. | Icon          | Name           
 -----|---------------|----------------
  001 | ![Digda](pokemonimages/Pokémon-Icon_050.png) | [[Digda]]      
- 002 | {{#icon:051}} | [[Digdri]]     
+ 002 | ![Digdri](pokemonimages/Pokémon-Icon_051.png) | [[Digdri]]     
  003 | {{#icon:328}} | [[Knacklion]]  
  004 | {{#icon:329}} | [[Vibrava]]    
  005 | {{#icon:330}} | [[Libelldra]]  
@@ -32,7 +32,7 @@
  030 | {{#icon:092}} | [[Nebulak]]    
  031 | {{#icon:093}} | [[Alpollo]]    
  032 | {{#icon:094}} | [[Gengar]]     
- 033 | {{#icon:060}} | [[Quapsel]]    
+ 033 | ![Quapsel](pokemonimages/Pokémon-Icon_060.png) | [[Quapsel]]    
  034 | {{#icon:061}} | [[Quaputzi]]   
  035 | {{#icon:062}} | [[Quappo]]     
  036 | {{#icon:186}} | [[Quaxo]]      
