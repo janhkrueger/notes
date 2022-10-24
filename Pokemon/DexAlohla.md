@@ -14,8 +14,8 @@
  012 | ![Tukanon](pokemonimages/Pokémon-Icon_733.png) | [[Tukanon]]                      
  013 | ![Mangunior](pokemonimages/Pokémon-Icon_734.png) | [[Mangunior]]                    
  014 | ![Manguspektor](pokemonimages/Pokémon-Icon_735.png) | [[Manguspektor]]                 
- 015 | {{#icon:019}}<br />{{#icon:019a}}                                         | [[Rattfratz]]<br />(Alola-Form)  
- 016 | {{#icon:020}}<br />{{#icon:020a}}                                         | [[Rattikarl]]<br />(Alola-Form)  
+ 015 | ![Rattfratz](pokemonimages/Pokémon-Icon_019.png)<br />{{#icon:019a}}                                         | [[Rattfratz]]<br />(Alola-Form)  
+ 016 | ![Rattikarl](pokemonimages/Pokémon-Icon_020.png)<br />{{#icon:020a}}                                         | [[Rattikarl]]<br />(Alola-Form)  
  017 | ![Raupy](pokemonimages/Pokémon-Icon_010.png)                                                             | [[Raupy]]                        
  018 | ![Safcon](pokemonimages/Pokémon-Icon_011.png)                                                             | [[Safcon]]                       
  019 | ![Smettbo](pokemonimages/Pokémon-Icon_012.png)                                                             | [[Smettbo]]                      
@@ -31,8 +31,8 @@
  029 | {{#icon:571}}                                                             | [[Zoroark]]                      
  030 | {{#icon:676}}                                                             | [[Coiffwaff]]                    
  031 | {{#icon:172}}                                                             | [[Pichu]]                        
- 032 | {{#icon:025}}                                                             | [[Pikachu]]                      
- 033 | {{#icon:026}}<br />{{#icon:026a}}                                         | [[Raichu]]<br />(Alola-Form)     
+ 032 | ![Pikachu](pokemonimages/Pokémon-Icon_025.png)                                                             | [[Pikachu]]                      
+ 033 | ![Raichu](pokemonimages/Pokémon-Icon_026.png)<br />{{#icon:026a}}                                         | [[Raichu]]<br />(Alola-Form)     
  034 | ![Mabula](pokemonimages/Pokémon-Icon_736.png) | [[Mabula]]                       
  035 | ![Akkup](pokemonimages/Pokémon-Icon_737.png) | [[Akkup]]                        
  036 | ![Donarion](pokemonimages/Pokémon-Icon_738.png) | [[Donarion]]                     
@@ -60,8 +60,8 @@
  058 | {{#icon:089}}<br />{{#icon:089a}}                                         | [[Sleimok]]<br />(Alola-Form)    
  059 | {{#icon:439}}                                                             | [[Pantimimi]]                    
  060 | {{#icon:122}}                                                             | [[Pantimos]]                     
- 061 | {{#icon:023}}                                                             | [[Rettan]]                       
- 062 | {{#icon:024}}                                                             | [[Arbok]]                        
+ 061 | ![Rettan](pokemonimages/Pokémon-Icon_023.png)                                                             | [[Rettan]]                       
+ 062 | ![Arbok](pokemonimages/Pokémon-Icon_024.png)                                                             | [[Arbok]]                        
  063 | {{#icon:206}}                                                             | [[Dummisel]]                     
  064 | {{#icon:058}}                                                             | [[Fukano]]                       
  065 | {{#icon:059}}                                                             | [[Arkani]]                       
@@ -86,8 +86,8 @@
  084 | {{#icon:715}}                                                             | [[UHaFnir]]                      
  085 | {{#icon:050}}<br />{{#icon:050a}}                                         | [[Digda]]<br />(Alola-Form)      
  086 | {{#icon:051}}<br />{{#icon:051a}}                                         | [[Digdri]]<br />(Alola-Form)     
- 087 | {{#icon:021}}                                                             | [[Habitak]]                      
- 088 | {{#icon:022}}                                                             | [[Ibitak]]                       
+ 087 | ![Habitak](pokemonimages/Pokémon-Icon_021.png)                                                             | [[Habitak]]                      
+ 088 | ![Ibitak](pokemonimages/Pokémon-Icon_022.png)                                                             | [[Ibitak]]                       
  089 | {{#icon:627}}                                                             | [[Geronimatz]]                   
  090 | {{#icon:628}}                                                             | [[Washakwil]]                    
  091 | {{#icon:629}}                                                             | [[Skallyk]]                      
@@ -167,8 +167,8 @@
  165 | ![Pampuli](pokemonimages/Pokémon-Icon_749.png) | [[Pampuli]]                      
  166 | ![Pampross](pokemonimages/Pokémon-Icon_750.png) | [[Pampross]]                     
  167 | {{#icon:174}}                                                             | [[Fluffeluff]]                   
- 168 | {{#icon:039}}                                                             | [[Pummeluff]]                    
- 169 | {{#icon:040}}                                                             | [[Knuddeluff]]                   
+ 168 | ![Pummeluff](pokemonimages/Pokémon-Icon_039.png)                                                             | [[Pummeluff]]                    
+ 169 | ![Knuddeluff](pokemonimages/Pokémon-Icon_040.png)                                                             | [[Knuddeluff]]                   
  170 | {{#icon:128}}                                                             | [[Tauros]]                       
  171 | {{#icon:241}}                                                             | [[Miltank]]                      
  172 | {{#icon:283}}                                                             | [[Gehweiher]]                    
@@ -272,8 +272,8 @@
  270 | {{#icon:227}}                                                             | [[Panzaeron]]                    
  271 | {{#icon:132}}                                                             | [[Ditto]]                        
  272 | {{#icon:173}}                                                             | [[Pii]]                          
- 273 | {{#icon:035}}                                                             | [[Piepi]]                        
- 274 | {{#icon:036}}                                                             | [[Pixi]]                         
+ 273 | ![Piepi](pokemonimages/Pokémon-Icon_035.png)                                                             | [[Piepi]]                        
+ 274 | ![Pixi](pokemonimages/Pokémon-Icon_036.png)                                                             | [[Pixi]]                         
  275 | {{#icon:605}}                                                             | [[Pygraulon]]                    
  276 | {{#icon:606}}                                                             | [[Megalon]]                      
  277 | {{#icon:774}}                                                             | [[Meteno]]                       
@@ -327,10 +327,10 @@
  325 | {{#icon:478}}                                                             | [[Frosdedje]]                    
  326 | {{#icon:215}}                                                             | [[Sniebel]]                      
  327 | {{#icon:461}}                                                             | [[Snibunna]]                     
- 328 | {{#icon:027}}<br />{{#icon:027a}}                                         | [[Sandan]]<br />(Alola-Form)     
- 329 | {{#icon:028}}<br />{{#icon:028a}}                                         | [[Sandamer]]<br />(Alola-Form)   
- 330 | {{#icon:037}}<br />{{#icon:037a}}                                         | [[Vulpix]]<br />(Alola-Form)     
- 331 | {{#icon:038}}<br />{{#icon:038a}}                                         | [[Vulnona]]<br />(Alola-Form)    
+ 328 | ![Sandan](pokemonimages/Pokémon-Icon_027.png)<br />{{#icon:027a}}                                         | [[Sandan]]<br />(Alola-Form)     
+ 329 | ![Sandamer](pokemonimages/Pokémon-Icon_028.png)<br />{{#icon:028a}}                                         | [[Sandamer]]<br />(Alola-Form)   
+ 330 | ![Vulpix](pokemonimages/Pokémon-Icon_037.png)<br />{{#icon:037a}}                                         | [[Vulpix]]<br />(Alola-Form)     
+ 331 | ![Vulnona](pokemonimages/Pokémon-Icon_038.png)<br />{{#icon:038a}}                                         | [[Vulnona]]<br />(Alola-Form)    
  332 | {{#icon:582}}                                                             | [[Gelatini]]                     
  333 | {{#icon:583}}                                                             | [[Gelatroppo]]                   
  334 | {{#icon:584}}                                                             | [[Gelatwino]]                    
