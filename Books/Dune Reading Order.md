@@ -4,7 +4,6 @@ modified: 2021-09-27T13:20:29+02:00
 ---
 
 # Dune Reading Order
-
 	• Dune
 	• Dune Messiah.
 	• Children of Dune
@@ -23,8 +22,7 @@ modified: 2021-09-27T13:20:29+02:00
 	• Mentats of Dune
 	• Navigators of Dune
 	
-	
-	
+
 # Reading order as of InUn Order:
 
 	• The Butlerian Jihad
