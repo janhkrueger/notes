@@ -144,31 +144,31 @@
 | ??? | [[Datei:Pokémonsprite 552 HOME.png | [[Rokkaiman]] |
 | ??? | [[Datei:Pokémonsprite 570a HOME.png | [[Zorua]]<br>(Hisui-Form) |
 | ??? | [[Datei:Pokémonsprite 571a HOME.png | [[Zoroark]]<br>(Hisui-Form) |
-| ??? | [[Datei:Pokémonsprite 585 HOME.png | [[Sesokitz]] |
-| ??? | [[Datei:Pokémonsprite 586 HOME.png | [[Kronjuwild]] |
-| ??? | [[Datei:Pokémonsprite 602 HOME.png | [[Zapplardin]] |
-| ??? | [[Datei:Pokémonsprite 603 HOME.png | [[Zapplalek]] |
-| ??? | [[Datei:Pokémonsprite 604 HOME.png | [[Zapplarang]] |
-| ??? | [[Datei:Pokémonsprite 613 HOME.png | [[Petznief]] |
-| ??? | [[Datei:Pokémonsprite 614 HOME.png | [[Siberio]] |
-| ??? | [[Datei:Pokémonsprite 615 HOME.png | [[Frigometri]] |
-| ??? | [[Datei:Pokémonsprite 633 HOME.png | [[Kapuno]] |
-| ??? | [[Datei:Pokémonsprite 634 HOME.png | [[Duodino]] |
-| ??? | [[Datei:Pokémonsprite 635 HOME.png | [[Trikephalo]] |
-| ??? | [[Datei:Pokémonsprite 664 HOME.png | [[Purmel]] |
-| ??? | [[Datei:Pokémonsprite 665 HOME.png | [[Puponcho]] |
-| ??? | [[Datei:Pokémonsprite 666f HOME.png | [[Vivillon]] |
-| ??? | [[Datei:Pokémonsprite 667 HOME.png | [[Leufeo]] |
-| ??? | [[Datei:Pokémonsprite 669 HOME.png | [[Flabébé]] |
-| ??? | [[Datei:Pokémonsprite 672 HOME.png | [[Mähikel]] |
-| ??? | [[Datei:Pokémonsprite 673 HOME.png | [[Chevrumm]] |
-| ??? | [[Datei:Pokémonsprite 692 HOME.png | [[Scampisto]] |
-| ??? | [[Datei:Pokémonsprite 693 HOME.png | [[Wummer]] |
-| ??? | [[Datei:Pokémonsprite 704 HOME.png | [[Viscora]] |
-| ??? | [[Datei:Pokémonsprite 705 HOME.png | [[Viscargot]] |
-| ??? | [[Datei:Pokémonsprite 706 HOME.png | [[Viscogon]] |
-| ??? | [[Datei:Pokémonsprite 714 HOME.png | [[eF-eM]] |
-| ??? | [[Datei:Pokémonsprite 715 HOME.png | [[UHaFnir]] |
+| ??? | ![Sesokitz](pokemonimages/Pok%C3%A9mon-Icon_585.png) | [[Sesokitz]] |
+| ??? | ![Kronjuwild](pokemonimages/Pok%C3%A9mon-Icon_586.png) | [[Kronjuwild]] |
+| ??? | ![Zapplardin](pokemonimages/Pok%C3%A9mon-Icon_602.png) | [[Zapplardin]] |
+| ??? | ![Zapplalek](pokemonimages/Pok%C3%A9mon-Icon_603.png) | [[Zapplalek]] |
+| ??? | ![Zapplarang](pokemonimages/Pok%C3%A9mon-Icon_604.png) | [[Zapplarang]] |
+| ??? | ![Petznief](pokemonimages/Pok%C3%A9mon-Icon_613.png) | [[Petznief]] |
+| ??? | ![Siberio](pokemonimages/Pok%C3%A9mon-Icon_614.png) | [[Siberio]] |
+| ??? | ![Frigometri](pokemonimages/Pok%C3%A9mon-Icon_615.png) | [[Frigometri]] |
+| ??? | ![Kapuno](pokemonimages/Pok%C3%A9mon-Icon_633.png) | [[Kapuno]] |
+| ??? | ![Duodino](pokemonimages/Pok%C3%A9mon-Icon_634.png) | [[Duodino]] |
+| ??? | ![Trikephalo](pokemonimages/Pok%C3%A9mon-Icon_635.png) | [[Trikephalo]] |
+| ??? | ![Purmel](pokemonimages/Pok%C3%A9mon-Icon_664.png) | [[Purmel]] |
+| ??? | ![Puponcho](pokemonimages/Pok%C3%A9mon-Icon_665.png) | [[Puponcho]] |
+| ??? | ![Vivillon](pokemonimages/Pok%C3%A9mon-Icon_666.png) | [[Vivillon]] |
+| ??? | ![Leufeo](pokemonimages/Pok%C3%A9mon-Icon_667.png) | [[Leufeo]] |
+| ??? | ![Flabébé](pokemonimages/Pok%C3%A9mon-Icon_669.png) | [[Flabébé]] |
+| ??? | ![Mähikel](pokemonimages/Pok%C3%A9mon-Icon_672.png) | [[Mähikel]] |
+| ??? | ![Chevrumm](pokemonimages/Pok%C3%A9mon-Icon_673.png) | [[Chevrumm]] |
+| ??? | ![Scampisto](pokemonimages/Pok%C3%A9mon-Icon_692.png) | [[Scampisto]] |
+| ??? | ![Wummer](pokemonimages/Pok%C3%A9mon-Icon_693.png) | [[Wummer]] |
+| ??? | ![Viscora](pokemonimages/Pok%C3%A9mon-Icon_704.png) | [[Viscora]] |
+| ??? | ![Viscargot](pokemonimages/Pok%C3%A9mon-Icon_705.png) | [[Viscargot]] |
+| ??? | ![Viscogon](pokemonimages/Pok%C3%A9mon-Icon_706.png) | [[Viscogon]] |
+| ??? | ![UHaFnir](pokemonimages/Pok%C3%A9mon-Icon_714.png) | [[eF-eM]] | 
+| ??? | ![UHaFnir](pokemonimages/Pok%C3%A9mon-Icon_715.png) | [[UHaFnir]] |
 | ??? | ![Choreogel](pokemonimages/Pok%C3%A9mon-Icon_741.png) | [[Choreogel]] |
 | ??? | ![Wuffels](pokemonimages/Pok%C3%A9mon-Icon_744.png) | [[Wuffels]] |
 | ??? | ![Garstella](pokemonimages/Pok%C3%A9mon-Icon_747.png) | [[Garstella]] |
@@ -199,7 +199,7 @@
 | ??? | ![Humanolith](pokemonimages/Pok%C3%A9mon-Icon_874.png) | [[Humanolith]] |
 | ??? | ![Kubuin](pokemonimages/Pok%C3%A9mon-Icon_875.png) | [[Kubuin]] |
 | ??? | ![Kupfanti](pokemonimages/Pok%C3%A9mon-Icon_878.png) | [[Kupfanti]] |
-| ?? | ![Patinaraja](pokemonimages/Pok%C3%A9mon-Icon_879.png) | [[Patinaraja]] |
+| ??? | ![Patinaraja](pokemonimages/Pok%C3%A9mon-Icon_879.png) | [[Patinaraja]] |
 | ??? | ![Felino](pokemonimages/Pok%C3%A9mon-Icon_194a.png) | [[Felino]]<br>(Paldea-Form) |
 | ??? | [[Datei:Sugimori Olini.png | [[Olini]] |
 | ??? | [[Datei:Sugimori Kolowal.png | [[Kolowal]] |
