@@ -11,7 +11,7 @@ modified: 2021-09-30T17:52:52-04:00
 - Akkutechnik
 
 ## Clean environment
-- Wasseraufbereitung 
+- Wasseraufbereitung
 - Luftgewinnung
 
 
@@ -30,7 +30,7 @@ modified: 2021-09-30T17:52:52-04:00
 - Hygiene
 - Seife
 - Pharma (Impfungen)
-- Gentechnik 
+- Gentechnik
 
 ## Knowledge
 - Periodic Table

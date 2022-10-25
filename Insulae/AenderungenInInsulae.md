@@ -50,7 +50,7 @@ Schiffe: fast wie in SW. Allerdings hab ich auch partiell Flugschiffe. Gebiete m
 
 Gebäude: da ist denke ich die wichtigste Änderung: Gebäude sind nicht *schwupps* einfach da. Die brauchen mindestens einen RL-Tag, Türme 2, Burgen drei Tage. In der Zwichenzeit ist nur eine Baustelle da.
 
-Politikpunkte: gibbet nicht bei mir. Ich sehe nicht das, nachdem man es schon geschafft hat Leute zu überzeugen dir zu folgen, das duch auch noch vom System dadurch belohnt wirst. Zusammenarbeit und Kommunikation 
+Politikpunkte: gibbet nicht bei mir. Ich sehe nicht das, nachdem man es schon geschafft hat Leute zu überzeugen dir zu folgen, das duch auch noch vom System dadurch belohnt wirst. Zusammenarbeit und Kommunikation
 
 Kampfsystem: ist glaube ich recht identisch.
 

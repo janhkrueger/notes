@@ -27,7 +27,7 @@ Friedrich der Zweite, Sonnenkönig von Hessen-Homburg
 
 
 Russische Kapelle (Bad Homburg)
-Gebaut von 1896 bis 1899 unter Leitung von Baurat Louis Jacobi 
+Gebaut von 1896 bis 1899 unter Leitung von Baurat Louis Jacobi
 Architekt Architekten Leonti Benois, Großvater Sir Peter Ustinov
 
 16. Oktober 1896 wurde in Anwesenheit des russischen Zarenpaars Nikolaus II. und Alexandra Fjodorowna (geborene Alix von Hessen-Darmstadt)
@@ -36,13 +36,13 @@ Architekt Architekten Leonti Benois, Großvater Sir Peter Ustinov
 Landgrafenbrunnen
 1899 wurde auf dem Gelände des Golfplatzes im Kurpark Bad Homburg eine neue Quelle erbohrt
 
-Die Darstellung der nackten Nymphe stieß bei der Bevölkerung auf Kritik. Sie wurde daher 1955 durch eine Reliefbüste des Landgrafen Friedrich II ersetzt. Diese Metallgussarbeit ist ein Werk von Ortud Krüger-Stohlmann. 
+Die Darstellung der nackten Nymphe stieß bei der Bevölkerung auf Kritik. Sie wurde daher 1955 durch eine Reliefbüste des Landgrafen Friedrich II ersetzt. Diese Metallgussarbeit ist ein Werk von Ortud Krüger-Stohlmann.
 
 Elisabethenbrunnen
 Den heutigen Brunnentempel entwarf Kaiser Wilhelm II. höchstpersönlich – mitten im Ersten Weltkrieg. In seinem Inneren sitzt die Statue der Hygieia, der griechischen Göttin der Gesundheit.
 
 Chulalongkornbrunnen am Thai-Sala
-Der Chulalongkornbrunnen im Bad Homburger Kurpark wurde im Jahr 1907 erbohrt und verdankt seinen Namen dem König Chulalongkorn von Siam, der zum Zeitpunkt der Erbohrung zur Kur in Homburg weilte und hier auch Geburtstag feierte. Aus Dankbarkeit schenkte der König der Stadt den Sala Thai, der 1914 über dem Brunnen erbaut wurde. Heute wird die Badequelle im Kur-Royal Day Spa genutzt. 
+Der Chulalongkornbrunnen im Bad Homburger Kurpark wurde im Jahr 1907 erbohrt und verdankt seinen Namen dem König Chulalongkorn von Siam, der zum Zeitpunkt der Erbohrung zur Kur in Homburg weilte und hier auch Geburtstag feierte. Aus Dankbarkeit schenkte der König der Stadt den Sala Thai, der 1914 über dem Brunnen erbaut wurde. Heute wird die Badequelle im Kur-Royal Day Spa genutzt.
 
 Zur 100. Wiederkehr seines Kuraufenthaltes setzte das thailändische Königshaus 2007 ein weiteres sichtbares Zeichen der Verbundenheit: König Bhumibol und Königin Sirikit schenkten Bad Homburg die zweite Thai-Sala.
 
@@ -52,17 +52,17 @@ Kur-Royal Day Spa im Kaiser-Wilhelms-Bad
 Spielbank Bad Homburg
 Die Spielbank Bad Homburg befindet sich im Kurpark der gleichnamigen Stadt, nahe dem Kaiser-Wilhelms-Bad. Zu Werbezwecken bezeichnet sie sich selbst als Mutter von Monte Carlo.
 
-1820er Jahren mit der Ludwigsquelle die erste Heilquelle in Bad Homburg entdeckt worden war, entstand bald der Wunsch, Bad Homburg in den Rang einer Kurstadt zu erheben. 
+1820er Jahren mit der Ludwigsquelle die erste Heilquelle in Bad Homburg entdeckt worden war, entstand bald der Wunsch, Bad Homburg in den Rang einer Kurstadt zu erheben.
 
 1830 wurde der Plan gefasst, eine Aktiengesellschaft zum Bau eines Kurparks und Kurhauses zu gründen. Teil der Überlegungen war die Errichtung einer Spielbank. Diese Pläne wurden wieder aufgegriffen, als Landgraf Ludwig von Hessen-Homburg 1838 in Luxemburg die Zwillingsbrüder François und Louis Blanc kennenlernte, die dort ein Kasino betrieben.
 
-Am 19. Juli 1840 wurde ein Vertrag zwischen dem Landgrafen und den Brüdern Blanc geschlossen, der den Blancs eine Konzession über 30 Jahre zum Betrieb einer Spielbank in Bad Homburg zusicherte. Im Gegenzug wurde eine steigende Pacht vereinbart, die am Ende 10.000 Gulden pro Jahr erreichen sollte. Außerdem mussten die Gebrüder Blanc das Kurhaus für mindestens 100.000 Gulden errichten und dem Landgrafen übereignen. 
+Am 19. Juli 1840 wurde ein Vertrag zwischen dem Landgrafen und den Brüdern Blanc geschlossen, der den Blancs eine Konzession über 30 Jahre zum Betrieb einer Spielbank in Bad Homburg zusicherte. Im Gegenzug wurde eine steigende Pacht vereinbart, die am Ende 10.000 Gulden pro Jahr erreichen sollte. Außerdem mussten die Gebrüder Blanc das Kurhaus für mindestens 100.000 Gulden errichten und dem Landgrafen übereignen.
 
-Eröffnet wurde die Spielbank am 23. Mai 1841 in der damals überregional noch unbedeutenden Stadt, deren Aufstieg zu einer bedeutenden internationalen Kurstadt direkt auf das Engagement der Brüder zurückzuführen ist, die aus den Kasinoeinnahmen neben dem Kurhaus auch die Straßenbeleuchtung und eine Eisenbahnverbindung nach Frankfurt finanzierten. 
+Eröffnet wurde die Spielbank am 23. Mai 1841 in der damals überregional noch unbedeutenden Stadt, deren Aufstieg zu einer bedeutenden internationalen Kurstadt direkt auf das Engagement der Brüder zurückzuführen ist, die aus den Kasinoeinnahmen neben dem Kurhaus auch die Straßenbeleuchtung und eine Eisenbahnverbindung nach Frankfurt finanzierten.
 
 Fjodor Dostojewski die Atmosphäre des damaligen Spielbetriebs
 
-Der Spielbetrieb fand im Spielsaal des Kurhauses statt. Seit der Erweiterung 1850 befand sich dieser Spielsaal im linken Flügel des schlossähnlichen Kurhauses. Die Sprache war überwiegend Französisch, die Bediensteten kamen zum Großteil aus dem damals französisch sprechenden Friedrichsdorf. Aufgrund des Residenzverbotes durften die Bürger der Landgrafschaft nicht in der Spielbank spielen. Das Residenzverbot für die hessischen Spielbanken wurde erst am 1. März 1986 aufgehoben. 
+Der Spielbetrieb fand im Spielsaal des Kurhauses statt. Seit der Erweiterung 1850 befand sich dieser Spielsaal im linken Flügel des schlossähnlichen Kurhauses. Die Sprache war überwiegend Französisch, die Bediensteten kamen zum Großteil aus dem damals französisch sprechenden Friedrichsdorf. Aufgrund des Residenzverbotes durften die Bürger der Landgrafschaft nicht in der Spielbank spielen. Das Residenzverbot für die hessischen Spielbanken wurde erst am 1. März 1986 aufgehoben.
 
 Um eventuelle Tumulte an den letzten Spieltagen zu vermeiden, gab François Blanc bekannt, dass man am 30. und 31. Dezember (Montag und Dienstag) nicht mehr öffnen würde, dennoch wurde normal weitergespielt bis zur letzten Minute um 23 Uhr am 31. Dezember 1872. François Blanc widmete sich fortan ausschließlich der heute weltberühmten Spielbank Monte Carlo, welche er 1863 übernommen hatte und führte diese zu noch größerem Erfolg als Homburg.
 
@@ -73,5 +73,3 @@ Es sei aber darauf hingewiesen, dass von den ermordeten Menschen ca. ein Drittel
 
 Libanon-Zeder
 Im Jahr 1820 wurde vor dem Königsflügel im Schloss von Bad Homburg die heutige Libanon-Zeder gepflanzt. Sie war ein Geschenk des Duke of Cambridge für seine Schwester anlässlich der Hochzeit mit dem Landgraf Friedrich VI Joseph. Heutzutage hat die Zeder einen maximalen einen Umfang ihres Stammes von 6,40 m - bei einer Höhe von über 20 m. Die Krone des Baumes breitet sich über 35 m aus. Der Baum steht unmittelbar vor dem Schlosscafe.
-
-

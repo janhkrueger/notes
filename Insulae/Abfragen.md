@@ -76,7 +76,7 @@ AND haus_id != 45;
 ```
 SELECT h.wh_haus as id, a.haus_internerkommentar as godname, p.wh_x as x, p.wh_y as y, p.wh_w as w, p.wh_phase as phase, 1000000000 as worldid
 FROM archetyp.haus a, welt.haus h, welt.haus_pos p
-WHERE a.haus_name = 'Kultstätte' 
+WHERE a.haus_name = 'Kultstätte'
 AND a.haus_id != 45
 AND h.wh_haustyp = a.haus_id
 AND p.wh_haus = h.wh_haus
@@ -104,8 +104,8 @@ SELECT c.charakter_id, TRUNC(cf.fertigkeit_stufe * 10) as maxmana FROM spieler.c
 ### Volkverbrauch für Stadtrunde
 
 ```
-SELECT v.volk_id as raceID, vv.verbrauch_ware as usageGood, vv.verbrauch_menge as usageAmount, 
-res.se_prozent as racePercentageCurrent, 
+SELECT v.volk_id as raceID, vv.verbrauch_ware as usageGood, vv.verbrauch_menge as usageAmount,
+res.se_prozent as racePercentageCurrent,
 res.se_soll_prozent as racePercentageTarget, v.volk_name as raceName
 FROM archetyp.volk v, archetyp.volk_verbrauch vv, stadt.einwohner res
 WHERE vv.verbrauch_volk = volk_id
@@ -116,7 +116,7 @@ ORDER BY raceid ASC, usagegood ASC
 
 Wichtig zu wissen: Eine Rasse kann mehrfach vorkommen, für jede verbrauchte Ware einmal.
 
-| raceid | usagegood | usageamount | racepercentagecurrent | racepercentagetarget | racename 
+| raceid | usagegood | usageamount | racepercentagecurrent | racepercentagetarget | racename
 | --- | --- | --- | --- | --- | --- |
 | 1000000000 | 41 | 0.1 | 40 | 40 | Untote |
 | 1000000029 | 32 | 0.1 | 60 | 60 | Nekropolit |

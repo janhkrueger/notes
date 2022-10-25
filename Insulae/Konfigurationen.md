@@ -15,5 +15,5 @@ db:
   host : 172.18.0.10
   name : jhk001_insulae
   user : jhk001_insulae
-  pass : 
+  pass :
   port : 5432

@@ -23,5 +23,3 @@ https://www.mega.cl/senal-en-vivo/
 ----
 
 Mmm I recommend listen Patriarcalmente hablando in Spotify if you want to learn the “Chilean Spanish”. Btw, we have a loooot of words that means different things because of the context of where/when you said them.
-
-

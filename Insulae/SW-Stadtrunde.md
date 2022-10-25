@@ -5,7 +5,7 @@ Die Stadtrunde in [[Scherbenwelten]] war wie folgt organisiert.
 * Eine Stadtrunde wird zur Hauptauswertung (morgens gegen 6:00 Uhr) gemacht
 * Eine weitere Stadtrunde kann pro Tag manuell (per Buttonklick: "Übersicht > Stadtname > Stadtzug") eingeleitet werden.
 * Die Stadtrunde ist vergleichbar mit der Produktionsrunde für normale Gebäude - zu diesem Zeitpunkt werden:
-	
+
   * Waren verbraucht
   * Waren produziert
   * Steuern eingenommen
@@ -55,7 +55,7 @@ Die Stadtrunde in [[Scherbenwelten]] war wie folgt organisiert.
 * Der Marktplatz deiner Stadt füllt oder leert die Stadtkasse. Man kann eine Handelssteuer erheben, so dass jeder, der Waren an die Stadt verkauft, einen Teil des Umsatzes an die Stadtkasse abführen muss.
 * Wenn in der Stadt der Startpunkt (und somit das Ziel) einer Karawane ist und diese die Stadt wieder erreicht, kommt 10% des Karawanenertrages (in Goldstücken) in die Stadtkasse.
 * Auf dem Marktplatz kann der Bürgermeister Geld zwischen der Stadtkasse und der Kasse der Laufgruppe hin- und hertransferieren.
-  
+
 ## Gebäudemaximum
 * Wie viele Gebäude du in der Stadt haben kannst hängt von der Größe der Stadt ab.
 * Dabei zählen alle Gebäude, auch private, Kultstätten und Stadttore.
@@ -122,7 +122,7 @@ mind. Einwohner	max. Gebäude
  Pro volle 1.000 Einwohner kann ein Gebäude um eine Stufe ausgebaut werden.
 * Ein Ausbau verfällt, wenn das Ausbautenmaximum (in Folge von Stadtschrumpfung) kleiner als 3/4 wird oder weniger als 3/4 der zum Unterhalt benötigten Arbeiter zur Verfügung stehen. Der 20. Ausbau beispielsweise verfällt, wenn die Einwohnerzahl der Stadt unter 15.000 fällt.
 * Unausgebaute Schulen können bis Skill 50 ausbilden. Pro Ausbau können sie einen Skillpunkt mehr ausbilden.
-  
+
 ## Torbegrenzung
 * Eine Stadt kann zunächst einmal maximal 10 Stadttore haben.
 * Pro angefangene 100.000 Einwohner kann man ein weiteres Tor bauen.
@@ -178,24 +178,20 @@ Neben den oben genannten Einstellungsmöglichkeiten kann man auch eine Stadtank�
 
 
 ## Neue Gebäude
-09.12.09 
-**Stadtgebäude**: Ab 200.000 Einwohner werden 10.000 Einwohner je zusätzlichem Gebäude benötigt. 
-**Stadtgebäude: Die Kosten für ein Stadtgebäude steigen.** Derzeit kostet das Errichten eines neuen Gebäudes in der Innenstadt grundsätzlich 10.000 Goldstücke. Jedes Gebäude nach dem ersten, das errichtet werden soll, wird 1.000 Goldstücke mehr kosten. Ab dem hundertsten Gebäude werden die Schritte auf 2.000 Goldstücke angehoben. Für je einhundert errichtete Gebäude werden die Schritte um weitere 1.000 Goldstücke erhöht. 
-**Stadtgebäude: Ausbauten an Stadtgebäuden werden in Zukunft Werkzeuge verbrauchen.** Der erste Ausbau eines Gebäudes wird 1 Werkzeug kosten, der hundertste wird 100 Werkzeuge kosten, der tausendste 1000 Werkzeuge usw. Der Ausbauer muss die Werkzeuge mit sich führen. 
+09.12.09
+**Stadtgebäude**: Ab 200.000 Einwohner werden 10.000 Einwohner je zusätzlichem Gebäude benötigt.
+**Stadtgebäude: Die Kosten für ein Stadtgebäude steigen.** Derzeit kostet das Errichten eines neuen Gebäudes in der Innenstadt grundsätzlich 10.000 Goldstücke. Jedes Gebäude nach dem ersten, das errichtet werden soll, wird 1.000 Goldstücke mehr kosten. Ab dem hundertsten Gebäude werden die Schritte auf 2.000 Goldstücke angehoben. Für je einhundert errichtete Gebäude werden die Schritte um weitere 1.000 Goldstücke erhöht.
+**Stadtgebäude: Ausbauten an Stadtgebäuden werden in Zukunft Werkzeuge verbrauchen.** Der erste Ausbau eines Gebäudes wird 1 Werkzeug kosten, der hundertste wird 100 Werkzeuge kosten, der tausendste 1000 Werkzeuge usw. Der Ausbauer muss die Werkzeuge mit sich führen.
 
 
-**Neues Stadtgebäude: Markt**. Ab 500.000 Einwohner wird je 500.000 Einwohner ein Markt benötigt. Es werden je 10.000 Fleisch, Getreide, Holz, Stein und Fisch pro Stadtrunde verbraucht und 50 Thaum und 50 Kakao produziert. 
-**Neues Stadtgebäude: Siechenhaus**. Ab 1 Mio Einwohner wird je 100.000 Einwohner ein Siechenhaus benötigt. Verbrauch 200 Bücher, 200 Glas, 400 Petro, 100 Tran und 100 Kräuter. 
+**Neues Stadtgebäude: Markt**. Ab 500.000 Einwohner wird je 500.000 Einwohner ein Markt benötigt. Es werden je 10.000 Fleisch, Getreide, Holz, Stein und Fisch pro Stadtrunde verbraucht und 50 Thaum und 50 Kakao produziert.
+**Neues Stadtgebäude: Siechenhaus**. Ab 1 Mio Einwohner wird je 100.000 Einwohner ein Siechenhaus benötigt. Verbrauch 200 Bücher, 200 Glas, 400 Petro, 100 Tran und 100 Kräuter.
 
-Wer bereits über dem Gebäudelimit ist, kann trotzdem je einen Markt und ein Siechenhaus zu den normalen Kosten errichten. 
+Wer bereits über dem Gebäudelimit ist, kann trotzdem je einen Markt und ein Siechenhaus zu den normalen Kosten errichten.
 Die beiden neuen Stadtgebäude können zwar bereits errichtet werden, aber beschränken die maximale Einwohnerzahl erst ab Anfang Januar 2010.
 
-**Neues Gebäude: Fischerhütte**. Fischerhütten können direkt angrenzend an Anleger errichtet werden. Sie sind umso produktiver, je mehr Wasser im Umkreis von zwei Feldern vorhanden sind. Die Fischproduktion hängt vom Fischen-Skill der Insassen ab. Die Tranproduktion hängt vom Kochen- und vom Alchemie-Skill ab und kann nicht durch Ausbauten gesteigert werden. Je Tran werden 500 Fisch und ein Petroleum verbraucht. Es werden erst die Fische produziert und im Lager abgelegt, erst dann ggf zu Tran weiterverarbeitet. 
-**Armeeverbrauch** wird in der Armeeübersicht detaillierter dargestellt. 
-**Bugfix:** ´Die Einwohner von ... werden unruhig´ sollte wieder angezeigt werden 
+**Neues Gebäude: Fischerhütte**. Fischerhütten können direkt angrenzend an Anleger errichtet werden. Sie sind umso produktiver, je mehr Wasser im Umkreis von zwei Feldern vorhanden sind. Die Fischproduktion hängt vom Fischen-Skill der Insassen ab. Die Tranproduktion hängt vom Kochen- und vom Alchemie-Skill ab und kann nicht durch Ausbauten gesteigert werden. Je Tran werden 500 Fisch und ein Petroleum verbraucht. Es werden erst die Fische produziert und im Lager abgelegt, erst dann ggf zu Tran weiterverarbeitet.
+**Armeeverbrauch** wird in der Armeeübersicht detaillierter dargestellt.
+**Bugfix:** ´Die Einwohner von ... werden unruhig´ sollte wieder angezeigt werden
 
-**Karawanen**: Massenwaren werden in der jeweiligen Mangeljahreszeit nichtmehr geliefert. 
-
-[//begin]: # "Autogenerated link references for markdown compatibility"
-[Scherbenwelten]: Scherbenwelten "Scherbenwelten"
-[//end]: # "Autogenerated link references"
+**Karawanen**: Massenwaren werden in der jeweiligen Mangeljahreszeit nichtmehr geliefert.

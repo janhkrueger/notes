@@ -10,7 +10,7 @@ Nur noch zwei der ehemals zahlreichen Zauberer sind übrig geblieben um die Welt
 
 Auch Tarankar, einst Juwel Lohs und vor Leben tummelndes Portal zu Loh hat die Decke der Ruhe und des Vergessens bereits fast komplett über sich gedeckt. Es gibt niemanden mehr der den wenigen Verbliebenen Einwohnern Führung, Anleitung und Frieden geben könnte. Doch der Blick über die Inseln und Kontinente der Scherbe zeigt San Achanjiati: dies ist überall zu spüren.
 Jene welche noch Kraft und etwas Hoffnung haben sammeln sich in den weniger werdenden Städten, stets gewiss das es auch morgen wieder heißt: "Aus der Nachbarstadt werden keine Händler mehr kommen." Der Tod erlöst am Ende alle Leidenden, ob Bauer, König oder Zauberer.
-Diese Welt hat ihre Energie aufgebraucht. Sie wird vergehen, die Entropie hält auch vor dem kühnsten Wesen nicht halt. Ob auch die unsterblichen Wesen wie die Götter vergehen oder sie sich anderen Welten zuwenden, wer weis. Dies ist nicht die Angelegenheit der Sterblichen. 
+Diese Welt hat ihre Energie aufgebraucht. Sie wird vergehen, die Entropie hält auch vor dem kühnsten Wesen nicht halt. Ob auch die unsterblichen Wesen wie die Götter vergehen oder sie sich anderen Welten zuwenden, wer weis. Dies ist nicht die Angelegenheit der Sterblichen.
 Von diesen fand jedoch niemand, soweit bekannt, eines der Portale in andere Welten. Lange suchten die Sterblichen danach, geführt von stillen Legenden und stets weiter erzählt, Nahrung gebend für immer wieder aufkeimende Geschichten.
 Keine dieser Geschichten wurde tatsächlich mehr denn Hoffnung und Sage
 

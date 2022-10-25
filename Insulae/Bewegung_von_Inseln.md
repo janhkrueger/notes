@@ -13,7 +13,7 @@ Zu bewegende Objekte
 	• Schätze
 	• Karawanen
 	• Trigger
-	
+
 Karten
 Die Abgrenzung spezifischer Inseln ist recht leicht. Ein Blick in das Datenmodell:
 

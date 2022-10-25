@@ -12,7 +12,7 @@ Außerdem verballern wir alle unsere Eds, Joints Heilis, Skits und feiern mit je
 Oder was Euch sonst so lustiges einfällt. 😉
 
 
-**Kantar 
+**Kantar
 Witzig nix gebacken kriegen aber das( beitrag siedler online) ins "Nirwana - Gelöschtes" verschieben einfach armselig**
 
 Hinweis
