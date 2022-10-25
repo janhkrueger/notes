@@ -81,69 +81,69 @@
 | ??? | ![Dummisel](pokemonimages/Pok%C3%A9mon-Icon_206.png) | [[Dummisel]] |
 | ??? | ![Sniebel](pokemonimages/Pok%C3%A9mon-Icon_215.png) | [[Sniebel]] |
 | ??? | ![Snibunna](pokemonimages/Pok%C3%A9mon-Icon_461.png) | [[Snibunna]] |
-| ??? | [[Datei:Pokémonsprite 216 HOME.png | [[Teddiursa]] |
-| ??? | [[Datei:Pokémonsprite 231 HOME.png | [[Phanpy]] |
-| ??? | [[Datei:Pokémonsprite 232 HOME.png | [[Donphan]] |
-| ??? | [[Datei:Pokémonsprite 246 HOME.png | [[Larvitar]] |
-| ??? | [[Datei:Pokémonsprite 247 HOME.png | [[Pupitar]] |
-| ??? | [[Datei:Pokémonsprite 248 HOME.png | [[Despotar]] |
-| ??? | [[Datei:Pokémonsprite 278 HOME.png | [[Wingull]] |
-| ??? | [[Datei:Pokémonsprite 279 HOME.png | [[Pelipper]] |
-| ??? | [[Datei:Pokémonsprite 280 HOME.png | [[Trasla]] |
-| ??? | [[Datei:Pokémonsprite 281 HOME.png | [[Kirlia]] |
-| ??? | [[Datei:Pokémonsprite 282 HOME.png | [[Guardevoir]] |
-| ??? | [[Datei:Pokémonsprite 475 HOME.png | [[Galagladi]] |
-| ??? | [[Datei:Pokémonsprite 285 HOME.png | [[Knilz]] |
-| ??? | [[Datei:Pokémonsprite 286 HOME.png | [[Kapilz]] |
-| ??? | [[Datei:Pokémonsprite 287 HOME.png | [[Bummelz]] |
-| ??? | [[Datei:Pokémonsprite 288 HOME.png | [[Muntier]] |
-| ??? | [[Datei:Pokémonsprite 289 HOME.png | [[Letarking]] |
-| ??? | [[Datei:Pokémonsprite 296 HOME.png | [[Makuhita]] |
-| ??? | [[Datei:Pokémonsprite 297 HOME.png | [[Hariyama]] |
-| ??? | [[Datei:Pokémonsprite 302 HOME.png | [[Zobiris]] |
-| ??? | [[Datei:Pokémonsprite 307 HOME.png | [[Meditie]] |
-| ??? | [[Datei:Pokémonsprite 308 HOME.png | [[Meditalis]] |
-| ??? | [[Datei:Pokémonsprite 324 HOME.png | [[Qurtel]] |
-| ??? | [[Datei:Pokémonsprite 331 HOME.png | [[Tuska]] |
-| ??? | [[Datei:Pokémonsprite 332 HOME.png | [[Noktuska]] |
-| ??? | [[Datei:Pokémonsprite 333 HOME.png | [[Wablu]] |
-| ??? | [[Datei:Pokémonsprite 334 HOME.png | [[Altaria]] |
-| ??? | [[Datei:Pokémonsprite 335 HOME.png | [[Sengo]] |
-| ??? | [[Datei:Pokémonsprite 336 HOME.png | [[Vipitis]] |
-| ??? | [[Datei:Pokémonsprite 357 HOME.png | [[Tropius]] |
-| ??? | [[Datei:Pokémonsprite 361 HOME.png | [[Schneppke]] |
-| ??? | [[Datei:Pokémonsprite 362 HOME.png | [[Firnontor]] |
-| ??? | [[Datei:Pokémonsprite 371 HOME.png | [[Kindwurm]] |
-| ??? | [[Datei:Pokémonsprite 372 HOME.png | [[Draschel]] |
-| ??? | [[Datei:Pokémonsprite 373 HOME.png | [[Brutalanda]] |
-| ??? | [[Datei:Pokémonsprite 396 HOME.png | [[Staralili]] |
-| ??? | [[Datei:Pokémonsprite 397 HOME.png | [[Staravia]] |
-| ??? | [[Datei:Pokémonsprite 398 HOME.png | [[Staraptor]] |
-| ??? | [[Datei:Pokémonsprite 403 HOME.png | [[Sheinux]] |
-| ??? | [[Datei:Pokémonsprite 404 HOME.png | [[Luxio]] |
-| ??? | [[Datei:Pokémonsprite 405 HOME.png | [[Luxtra]] |
-| ??? | [[Datei:Pokémonsprite 415 HOME.png | [[Wadribie]] |
-| ??? | [[Datei:Pokémonsprite 417 HOME.png | [[Pachirisu]] |
-| ??? | [[Datei:Pokémonsprite 425 HOME.png | [[Driftlon]] |
-| ??? | [[Datei:Pokémonsprite 426 HOME.png | [[Drifzepeli]] |
-| ??? | [[Datei:Pokémonsprite 436 HOME.png | [[Bronzel]] |
-| ??? | [[Datei:Pokémonsprite 437 HOME.png | [[Bronzong]] |
-| ??? | [[Datei:Pokémonsprite 447 HOME.png | [[Riolu]] |
-| ??? | [[Datei:Pokémonsprite 448 HOME.png | [[Lucario]] |
-| ??? | [[Datei:Pokémonsprite 449 HOME.png | [[Hippopotas]] |
-| ??? | [[Datei:Pokémonsprite 450 HOME.png | [[Hippoterus]] |
-| ??? | [[Datei:Pokémonsprite 453 HOME.png | [[Glibunkel]] |
-| ??? | [[Datei:Pokémonsprite 456 HOME.png | [[Finneon]] |
-| ??? | [[Datei:Pokémonsprite 457 HOME.png | [[Lumineon]] |
-| ??? | [[Datei:Pokémonsprite 459 HOME.png | [[Shnebedeck]] |
-| ??? | [[Datei:Pokémonsprite 460 HOME.png | [[Rexblisar]] |
-| ??? | [[Datei:Pokémonsprite 479 HOME.png | [[Rotom]] |
-| ??? | [[Datei:Pokémonsprite 548 HOME.png | [[Lilminip]] |
-| ??? | [[Datei:Pokémonsprite 549 HOME.png | [[Dressella]] |
-| ??? | [[Datei:Pokémonsprite 551 HOME.png | [[Ganovil]] |
-| ??? | [[Datei:Pokémonsprite 552 HOME.png | [[Rokkaiman]] |
-| ??? | [[Datei:Pokémonsprite 570a HOME.png | [[Zorua]]<br>(Hisui-Form) |
-| ??? | [[Datei:Pokémonsprite 571a HOME.png | [[Zoroark]]<br>(Hisui-Form) |
+| ??? | ![Teddiursa](pokemonimages/Pok%C3%A9mon-Icon_216.png) | [[Teddiursa]] |
+| ??? | ![Phanpy](pokemonimages/Pok%C3%A9mon-Icon_231.png) | [[Phanpy]] |
+| ??? | ![Donphan](pokemonimages/Pok%C3%A9mon-Icon_232.png) | [[Donphan]] |
+| ??? | ![Larvitar](pokemonimages/Pok%C3%A9mon-Icon_246.png) | [[Larvitar]] |
+| ??? | ![Pupitar](pokemonimages/Pok%C3%A9mon-Icon_247.png) | [[Pupitar]] |
+| ??? | ![Despotar](pokemonimages/Pok%C3%A9mon-Icon_248.png) | [[Despotar]] |
+| ??? | ![Wingull](pokemonimages/Pok%C3%A9mon-Icon_278.png) | [[Wingull]] |
+| ??? | ![Pelipper](pokemonimages/Pok%C3%A9mon-Icon_279.png) | [[Pelipper]] |
+| ??? | ![Trasla](pokemonimages/Pok%C3%A9mon-Icon_280.png) | [[Trasla]] |
+| ??? | ![Kirlia](pokemonimages/Pok%C3%A9mon-Icon_281.png) | [[Kirlia]] |
+| ??? | ![Guardevoir](pokemonimages/Pok%C3%A9mon-Icon_282.png) | [[Guardevoir]] |
+| ??? | ![Galagladi](pokemonimages/Pok%C3%A9mon-Icon_475.png) | [[Galagladi]] |
+| ??? | ![Knilz](pokemonimages/Pok%C3%A9mon-Icon_285.png) | [[Knilz]] |
+| ??? | ![Kapilz](pokemonimages/Pok%C3%A9mon-Icon_286.png) | [[Kapilz]] |
+| ??? | ![Bummelz](pokemonimages/Pok%C3%A9mon-Icon_287.png) | [[Bummelz]] |
+| ??? | ![Muntier](pokemonimages/Pok%C3%A9mon-Icon_288.png) | [[Muntier]] |
+| ??? | ![Letarking](pokemonimages/Pok%C3%A9mon-Icon_289.png) | [[Letarking]] |
+| ??? | ![Makuhita](pokemonimages/Pok%C3%A9mon-Icon_296.png) | [[Makuhita]] |
+| ??? | ![Hariyama](pokemonimages/Pok%C3%A9mon-Icon_297.png) | [[Hariyama]] |
+| ??? | ![Zobiris](pokemonimages/Pok%C3%A9mon-Icon_302.png) | [[Zobiris]] |
+| ??? | ![Meditie](pokemonimages/Pok%C3%A9mon-Icon_307.png) | [[Meditie]] |
+| ??? | ![Meditalis](pokemonimages/Pok%C3%A9mon-Icon_308.png) | [[Meditalis]] |
+| ??? | ![Qurtel](pokemonimages/Pok%C3%A9mon-Icon_324.png) | [[Qurtel]] |
+| ??? | ![Tuska](pokemonimages/Pok%C3%A9mon-Icon_331.png) | [[Tuska]] |
+| ??? | ![Noktuska](pokemonimages/Pok%C3%A9mon-Icon_332.png) | [[Noktuska]] |
+| ??? | ![Wablu](pokemonimages/Pok%C3%A9mon-Icon_333.png) | [[Wablu]] |
+| ??? | ![Altaria](pokemonimages/Pok%C3%A9mon-Icon_334.png) | [[Altaria]] |
+| ??? | ![Sengo](pokemonimages/Pok%C3%A9mon-Icon_335.png) | [[Sengo]] |
+| ??? | ![Vipitis](pokemonimages/Pok%C3%A9mon-Icon_336.png) | [[Vipitis]] |
+| ??? | ![Tropius](pokemonimages/Pok%C3%A9mon-Icon_357.png) | [[Tropius]] |
+| ??? | ![Schneppke](pokemonimages/Pok%C3%A9mon-Icon_361.png) | [[Schneppke]] |
+| ??? | ![Firnontor](pokemonimages/Pok%C3%A9mon-Icon_362.png) | [[Firnontor]] |
+| ??? | ![Kindwurm](pokemonimages/Pok%C3%A9mon-Icon_371.png) | [[Kindwurm]] |
+| ??? | ![Draschel](pokemonimages/Pok%C3%A9mon-Icon_372.png) | [[Draschel]] |
+| ??? | ![Brutalanda](pokemonimages/Pok%C3%A9mon-Icon_373.png) | [[Brutalanda]] |
+| ??? | ![Staralili](pokemonimages/Pok%C3%A9mon-Icon_396.png) | [[Staralili]] |
+| ??? | ![Staravia](pokemonimages/Pok%C3%A9mon-Icon_397.png) | [[Staravia]] |
+| ??? | ![Staraptor](pokemonimages/Pok%C3%A9mon-Icon_398.png) | [[Staraptor]] |
+| ??? | ![Sheinux](pokemonimages/Pok%C3%A9mon-Icon_403.png) | [[Sheinux]] |
+| ??? | ![Luxio](pokemonimages/Pok%C3%A9mon-Icon_404.png) | [[Luxio]] |
+| ??? | ![Luxtra](pokemonimages/Pok%C3%A9mon-Icon_405.png) | [[Luxtra]] |
+| ??? | ![Wadribie](pokemonimages/Pok%C3%A9mon-Icon_415.png) | [[Wadribie]] |
+| ??? | ![Pachirisu](pokemonimages/Pok%C3%A9mon-Icon_417.png) | [[Pachirisu]] |
+| ??? | ![Driftlon](pokemonimages/Pok%C3%A9mon-Icon_425.png) | [[Driftlon]] |
+| ??? | ![Drifzepeli](pokemonimages/Pok%C3%A9mon-Icon_426.png) | [[Drifzepeli]] |
+| ??? | ![Bronzel](pokemonimages/Pok%C3%A9mon-Icon_436.png) | [[Bronzel]] |
+| ??? | ![Bronzong](pokemonimages/Pok%C3%A9mon-Icon_437.png) | [[Bronzong]] |
+| ??? | ![Riolu](pokemonimages/Pok%C3%A9mon-Icon_447.png) | [[Riolu]] |
+| ??? | ![Lucario](pokemonimages/Pok%C3%A9mon-Icon_448.png) | [[Lucario]] |
+| ??? | ![Hippopotas](pokemonimages/Pok%C3%A9mon-Icon_449.png) | [[Hippopotas]] |
+| ??? | ![Hippoterus](pokemonimages/Pok%C3%A9mon-Icon_450.png) | [[Hippoterus]] |
+| ??? | ![Glibunkel](pokemonimages/Pok%C3%A9mon-Icon_453.png) | [[Glibunkel]] |
+| ??? | ![Finneon](pokemonimages/Pok%C3%A9mon-Icon_456.png) | [[Finneon]] |
+| ??? | ![Lumineon](pokemonimages/Pok%C3%A9mon-Icon_457.png) | [[Lumineon]] |
+| ??? | ![Shnebedeck](pokemonimages/Pok%C3%A9mon-Icon_459.png) | [[Shnebedeck]] |
+| ??? | ![Rexblisar](pokemonimages/Pok%C3%A9mon-Icon_460.png) | [[Rexblisar]] |
+| ??? | ![Rotom](pokemonimages/Pok%C3%A9mon-Icon_479.png) | [[Rotom]] |
+| ??? | ![Lilminip](pokemonimages/Pok%C3%A9mon-Icon_548.png) | [[Lilminip]] |
+| ??? | ![Dressella](pokemonimages/Pok%C3%A9mon-Icon_549.png) | [[Dressella]] |
+| ??? | ![Ganovil](pokemonimages/Pok%C3%A9mon-Icon_551.png) | [[Ganovil]] |
+| ??? | ![Rokkaiman](pokemonimages/Pok%C3%A9mon-Icon_552.png) | [[Rokkaiman]] |
+| ??? | ![Zorua](pokemonimages/Pok%C3%A9mon-Icon_570a.png) | [[Zorua]]<br>(Hisui-Form) |
+| ??? | ![Zorua](pokemonimages/Pok%C3%A9mon-Icon_571a.png) | [[Zoroark]]<br>(Hisui-Form) |
 | ??? | ![Sesokitz](pokemonimages/Pok%C3%A9mon-Icon_585.png) | [[Sesokitz]] |
 | ??? | ![Kronjuwild](pokemonimages/Pok%C3%A9mon-Icon_586.png) | [[Kronjuwild]] |
 | ??? | ![Zapplardin](pokemonimages/Pok%C3%A9mon-Icon_602.png) | [[Zapplardin]] |
@@ -200,7 +200,7 @@
 | ??? | ![Kubuin](pokemonimages/Pok%C3%A9mon-Icon_875.png) | [[Kubuin]] |
 | ??? | ![Kupfanti](pokemonimages/Pok%C3%A9mon-Icon_878.png) | [[Kupfanti]] |
 | ??? | ![Patinaraja](pokemonimages/Pok%C3%A9mon-Icon_879.png) | [[Patinaraja]] |
-| ??? | ![Felino](pokemonimages/Pok%C3%A9mon-Icon_194a.png) | [[Felino]]<br>(Paldea-Form) |
+| ??? | ![Felino](pokemonimages/112px-Sugimori_194a.png) | [[Felino]]<br>(Paldea-Form) |
 | ??? | [[Datei:Sugimori Olini.png | [[Olini]] |
 | ??? | [[Datei:Sugimori Kolowal.png | [[Kolowal]] |
 | ??? | [[Datei:Sugimori Mopex.png | [[Mopex]] |
