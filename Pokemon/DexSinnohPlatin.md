@@ -103,7 +103,7 @@
  101 | ![Pixi](pokemonimages/Pokémon-Icon_036.png) | [[Pixi]]       
  102 | {{#icon:441}} | [[Plaudagei]]  
  103 | {{#icon:172}} | [[Pichu]]      
- 104 | ![Pikachu](pokemonimages/Pokémon-Icon_025.png) | [[Pikachu]]    
+ 104 | ![Pikachu](pokemonimages/Pokémon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)     
  105 | ![Raichu](pokemonimages/Pokémon-Icon_026.png) | [[Raichu]]     
  106 | {{#icon:163}} | [[Hoothoot]]   
  107 | {{#icon:164}} | [[Noctuh]]     

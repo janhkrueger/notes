@@ -35,7 +35,7 @@
  033 | {{#icon:515}} | [[Sodamak]]     
  034 | {{#icon:516}} | [[Sodachita]]   
  035 | {{#icon:172}} | [[Pichu]]       
- 036 | ![Pikachu](pokemonimages/Pokémon-Icon_025.png) | [[Pikachu]]     
+ 036 | ![Pikachu](pokemonimages/Pokémon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)      
  037 | ![Raichu](pokemonimages/Pokémon-Icon_026.png) | [[Raichu]]      
  038 | {{#icon:399}} | [[Bidiza]]      
  039 | {{#icon:400}} | [[Bidifas]]     

@@ -26,7 +26,7 @@
 | 193 | [[Datei:Sugimori Farigiraf.png | [[Farigiraf]] |
 | 198 | ![Toxel](pokemonimages/Pok%C3%A9mon-Icon_848.png) | [[Toxel]] |
 | ??? | ![Pichu](pokemonimages/Pok%C3%A9mon-Icon_172.png) | [[Pichu]] |
-| ??? | ![Pikachu](pokemonimages/Pok%C3%A9mon-Icon_025.png) | [[Pikachu]] |
+| ??? | ![Pikachu](pokemonimages/Pok%C3%A9mon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)  |
 | ??? | ![Raichu](pokemonimages/Pok%C3%A9mon-Icon_026.png) | [[Raichu]] |
 | ??? | ![Digda](pokemonimages/Pok%C3%A9mon-Icon_050.png) | [[Digda]] |
 | ??? | ![Fluffeluff](pokemonimages/Pok%C3%A9mon-Icon_174.png) | [[Fluffeluff]] |

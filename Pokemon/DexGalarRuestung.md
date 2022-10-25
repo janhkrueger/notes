@@ -84,7 +84,7 @@
  082 | {{#icon:Glibunkel}}                      | [[Glibunkel]]                                                      
  083 | {{#icon:Toxiquak}}                       | [[Toxiquak]]                                                       
  084 | {{#icon:Pichu}}                          | [[Pichu]]                                                          
- 085 | {{#icon:Pikachu}}                        | [[Pikachu]]                                                        
+ 085 | {{#icon:Pikachu}}                        | [Pikachu](DexEntries/Pikachu.md)                                                         
  086 | {{#icon:Raichu}}                         | [[Raichu]]                                                         
  087 | {{#icon:Zorua}}                          | [[Zorua]]                                                          
  088 | {{#icon:Zoroark}}                        | [[Zoroark]]                                                        

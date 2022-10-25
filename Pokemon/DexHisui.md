@@ -55,7 +55,7 @@
  053 | [[Datei:Pokémonsprite 046 PLA.png  | [[Paras]]                        
  054 | [[Datei:Pokémonsprite 047 PLA.png  | [[Parasek]]                      
  055 | [[Datei:Pokémonsprite 172 PLA.png  | [[Pichu]]                        
- 056 | [[Datei:Pokémonsprite 025 PLA.png  | [[Pikachu]]                      
+ 056 | [[Datei:Pokémonsprite 025 PLA.png  | [Pikachu](DexEntries/Pikachu.md)                       
  057 | [[Datei:Pokémonsprite 026 PLA.png  | [[Raichu]]                       
  058 | [[Datei:Pokémonsprite 063 PLA.png  | [[Abra]]                         
  059 | [[Datei:Pokémonsprite 064 PLA.png  | [[Kadabra]]                      

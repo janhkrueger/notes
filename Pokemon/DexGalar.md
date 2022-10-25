@@ -193,7 +193,7 @@
  191 | {{#icon:Irrbis}}                                                                 | [[Irrbis]]                                                             
  192 | {{#icon:Pumpdjinn}}                                                              | [[Pumpdjinn]]                                                          
  193 | {{#icon:Pichu}}                                                                  | [[Pichu]]                                                              
- 194 | {{#icon:Pikachu}}                                                                | [[Pikachu]]                                                            
+ 194 | {{#icon:Pikachu}}                                                                | [Pikachu](DexEntries/Pikachu.md)                                                             
  195 | {{#icon:Raichu}}                                                                 | [[Raichu]]                                                             
  196 | {{#icon:Evoli}}                                                                  | [[Evoli]]                                                              
  197 | {{#icon:Aquana}}                                                                 | [[Aquana]]                                                             
