@@ -86,7 +86,7 @@
  084 | ![Magnetilo](pokemonimages/Pokémon-Icon_081.png) | [[Magnetilo]]  
  085 | ![Magneton](pokemonimages/Pokémon-Icon_082.png) | [[Magneton]]   
  086 | {{#icon:462}} | [[Magnezone]]  
- 087 | {{#icon:100}} | [[Voltobal]]   
+ 087 | ![Voltobal](pokemonimages/Pokémon-Icon_100.png) | [[Voltobal]]   
  088 | {{#icon:101}} | [[Lektrobal]]  
  089 | {{#icon:313}} | [[Volbeat]]    
  090 | {{#icon:314}} | [[Illumise]]   

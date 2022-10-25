@@ -71,7 +71,7 @@
  068 | {{#icon:524}} | [[Kiesling]]   
  069 | {{#icon:525}} | [[Sedimantur]] 
  070 | {{#icon:526}} | [[Brockoloss]] 
- 071 | {{#icon:095}} | [[Onix]]       
+ 071 | ![Onix](pokemonimages/Pokémon-Icon_095.png) | [[Onix]]       
  072 | {{#icon:208}} | [[Stahlos]]    
  073 | {{#icon:532}} | [[Praktibalk]] 
  074 | {{#icon:533}} | [[Strepoli]]   
