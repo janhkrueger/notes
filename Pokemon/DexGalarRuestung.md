@@ -212,3 +212,4 @@
  210 | {{#icon:Porygon-Z}}                      | [[Porygon-Z]]                                                      
  211 | ![Zarude](pokemonimages/Pokémon-Icon_893.png) | [[Zarude]]                                                         
 
+#pokemon

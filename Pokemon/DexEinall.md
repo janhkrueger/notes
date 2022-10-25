@@ -302,3 +302,4 @@
  299 | {{#icon:648}} | [[Meloetta]]   
  300 | {{#icon:649}} | [[Genesect]]      
 
+#pokemon

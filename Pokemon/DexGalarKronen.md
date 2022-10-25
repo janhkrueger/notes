@@ -211,3 +211,4 @@
  209 | ![Phantoross](pokemonimages/Pokémon-Icon_897.png) | [[Phantoross]]                                                         
  210 | ![Coronospa](pokemonimages/Pokémon-Icon_898.png) | [[Coronospa]]                                                          
 
+#pokemon

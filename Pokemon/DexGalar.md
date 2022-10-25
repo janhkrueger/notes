@@ -400,3 +400,6 @@
  398 | ![Zacian](pokemonimages/Pokémon-Icon_888.png) | [[Zacian]]                                                             
  399 | ![Zamazenta](pokemonimages/Pokémon-Icon_889.png) | [[Zamazenta]]                                                          
  400 | ![Endynalos](pokemonimages/Pokémon-Icon_890.png) | [[Endynalos]]                                                          
+
+
+#pokemon

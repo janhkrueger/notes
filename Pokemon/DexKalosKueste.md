@@ -154,3 +154,4 @@
  152 | {{#icon:145}} | [[Zapdos]]     
  153 | {{#icon:146}} | [[Lavados]]    
 
+#pokemon

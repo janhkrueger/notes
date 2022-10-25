@@ -211,3 +211,5 @@
 | ??? | [[Datei:Sugimori Azugladis.png | [[Azugladis]] |
 | ??? | [[Datei:Sugimori Koraidon.png | [[Koraidon]] |
 | ??? | [[Datei:Sugimori Miraidon.png | [[Miraidon]] |
+
+#pokemon

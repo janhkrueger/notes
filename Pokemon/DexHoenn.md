@@ -212,3 +212,4 @@
  210 | {{#icon:385}} | [[Jirachi]]    
  211 | {{#icon:386}} | [[Deoxys]]     
 
+#pokemon

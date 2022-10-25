@@ -153,3 +153,5 @@
  151 | {{#icon:719}} | [[Diancie]]     
  152 | {{#icon:720}} | [[Hoopa]]       
  153 | {{#icon:721}} | [[Volcanion]]   
+
+#pokemon

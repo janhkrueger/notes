@@ -152,3 +152,4 @@
  150 | {{#icon:718}} | [[Zygarde]]    
  151 | {{#icon:150}} | [[Mewtu]]      
 
+#pokemon

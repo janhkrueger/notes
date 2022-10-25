@@ -210,3 +210,5 @@
  208 | {{#icon:478}} | [[Frosdedje]]  
  209 | {{#icon:359}} | [[Absol]]      
  210 | {{#icon:487}} | [[Giratina]]
+
+#pokemon

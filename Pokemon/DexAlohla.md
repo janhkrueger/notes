@@ -404,3 +404,4 @@
  402 | {{#icon:802}}                                                             | [[Marshadow]]                    
  403 | {{#icon:807}}                                                             | [[Zeraora]]                      
 
+#pokemon
