@@ -73,7 +73,7 @@
  071 | ![Krabbox](pokemonimages/Pokémon-Icon_739.png) | [[Krabbox]]                      
  072 | ![Krawell](pokemonimages/Pokémon-Icon_740.png) | [[Krawell]]                      
  073 | ![Nebulak](pokemonimages/Pokémon-Icon_092.png)                                                             | [[Nebulak]]                      
- 074 | ![Alpollo](pokemonimages/Pokémon-Icon_093png)                                                             | [[Alpollo]]                      
+ 074 | ![Alpollo](pokemonimages/Pokémon-Icon_093.png)                                                             | [[Alpollo]]                      
  075 | ![Gengar](pokemonimages/Pokémon-Icon_094.png)                                                             | [[Gengar]]                       
  076 | {{#icon:425}}                                                             | [[Driftlon]]                     
  077 | {{#icon:426}}                                                             | [[Drifzepeli]]                   
@@ -128,8 +128,8 @@
  126 | ![Wuffels](pokemonimages/Pokémon-Icon_744.png) | [[Wuffels]]                      
  127 | ![Wolwerock](pokemonimages/Pokémon-Icon_745.png) | [[Wolwerock]]                    
  128 | {{#icon:327}}                                                             | [[Pandir]]                       
- 129 | ![Tentacha](pokemonimages/Pokémon-Icon_072png)                                                             | [[Tentacha]]                     
- 130 | ![Tentoxa](pokemonimages/Pokémon-Icon_073png)                                                             | [[Tentoxa]]                      
+ 129 | ![Tentacha](pokemonimages/Pokémon-Icon_072.png)                                                             | [[Tentacha]]                     
+ 130 | ![Tentoxa](pokemonimages/Pokémon-Icon_073.png)                                                             | [[Tentoxa]]                      
  131 | {{#icon:456}}                                                             | [[Finneon]]                      
  132 | {{#icon:457}}                                                             | [[Lumineon]]                     
  133 | ![Lusardin](pokemonimages/Pokémon-Icon_746.png) | [[Lusardin]]                     
@@ -297,8 +297,8 @@
  295 | {{#icon:239}}                                                             | [[Elekid]]                       
  296 | {{#icon:125}}                                                             | [[Elektek]]                      
  297 | {{#icon:466}}                                                             | [[Elevoltek]]                    
- 298 | ![Kleinstein](pokemonimages/Pokémon-Icon_074png)<br />{{#icon:074a}}                                         | [[Kleinstein]]<br />(Alola-Form) 
- 299 | ![Georok](pokemonimages/Pokémon-Icon_075png)<br />{{#icon:075a}}                                         | [[Georok]]<br />(Alola-Form)     
+ 298 | ![Kleinstein](pokemonimages/Pokémon-Icon_074.png)<br />{{#icon:074a}}                                         | [[Kleinstein]]<br />(Alola-Form) 
+ 299 | ![Georok](pokemonimages/Pokémon-Icon_075.png)<br />{{#icon:075a}}                                         | [[Georok]]<br />(Alola-Form)     
  300 | ![Geowaz](pokemonimages/Pokémon-Icon_076.png)<br />{{#icon:076a}}                                         | [[Geowaz]]<br />(Alola-Form)     
  301 | {{#icon:551}}                                                             | [[Ganovil]]                      
  302 | {{#icon:552}}                                                             | [[Rokkaiman]]                    
