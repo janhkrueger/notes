@@ -43,8 +43,8 @@
  041 | {{#icon:242}}                                                             | [[Heiteira]]                     
  042 | {{#icon:446}}                                                             | [[Mampfaxo]]                     
  043 | {{#icon:143}}                                                             | [[Relaxo]]                       
- 044 | {{#icon:079}}                                                             | [[Flegmon]]                      
- 045 | {{#icon:080}}                                                             | [[Lahmus]]                       
+ 044 | ![Flegmon](pokemonimages/Pokémon-Icon_079.png)                                                             | [[Flegmon]]                      
+ 045 | ![Lahmus](pokemonimages/Pokémon-Icon_080.png)                                                             | [[Lahmus]]                       
  046 | {{#icon:199}}                                                             | [[Laschoking]]                   
  047 | {{#icon:278}}                                                             | [[Wingull]]                      
  048 | {{#icon:279}}                                                             | [[Pelipper]]                     
@@ -53,11 +53,11 @@
  051 | ![Simsala](pokemonimages/Pokémon-Icon_065.png)                                                             | [[Simsala]]                      
  052 | ![Mauzi](pokemonimages/Pokémon-Icon_052.png)<br />{{#icon:052a}}                                         | [[Mauzi]]<br />(Alola-Form)      
  053 | ![Snobilikat](pokemonimages/Pokémon-Icon_053.png)<br />{{#icon:053a}}                                         | [[Snobilikat]]<br />(Alola-Form) 
- 054 | {{#icon:081}}                                                             | [[Magnetilo]]                    
- 055 | {{#icon:082}}                                                             | [[Magneton]]                     
+ 054 | ![Magnetilo](pokemonimages/Pokémon-Icon_081.png)                                                             | [[Magnetilo]]                    
+ 055 | ![Magneton](pokemonimages/Pokémon-Icon_082.png)                                                             | [[Magneton]]                     
  056 | {{#icon:462}}                                                             | [[Magnezone]]                    
- 057 | {{#icon:088}}<br />{{#icon:088a}}                                         | [[Sleima]]<br />(Alola-Form)     
- 058 | {{#icon:089}}<br />{{#icon:089a}}                                         | [[Sleimok]]<br />(Alola-Form)    
+ 057 | ![Sleima](pokemonimages/Pokémon-Icon_088.png)<br />{{#icon:088a}}                                         | [[Sleima]]<br />(Alola-Form)     
+ 058 | ![Sleimok](pokemonimages/Pokémon-Icon_089.png)<br />{{#icon:089a}}                                         | [[Sleimok]]<br />(Alola-Form)    
  059 | {{#icon:439}}                                                             | [[Pantimimi]]                    
  060 | {{#icon:122}}                                                             | [[Pantimos]]                     
  061 | ![Rettan](pokemonimages/Pokémon-Icon_023.png)                                                             | [[Rettan]]                       
@@ -114,8 +114,8 @@
  112 | {{#icon:130}}                                                             | [[Garados]]                      
  113 | {{#icon:339}}                                                             | [[Schmerbe]]                     
  114 | {{#icon:340}}                                                             | [[Welsar]]                       
- 115 | {{#icon:086}}                                                             | [[Jurob]]                        
- 116 | {{#icon:087}}                                                             | [[Jugong]]                       
+ 115 | ![Jurob](pokemonimages/Pokémon-Icon_086.png)                                                             | [[Jurob]]                        
+ 116 | ![Jugong](pokemonimages/Pokémon-Icon_087.png)                                                             | [[Jugong]]                       
  117 | ![Machollo](pokemonimages/Pokémon-Icon_0656.png)                                                             | [[Machollo]]                     
  118 | ![Maschock](pokemonimages/Pokémon-Icon_0657.png)                                                             | [[Maschock]]                     
  119 | ![Machomei](pokemonimages/Pokémon-Icon_0658.png)                                                             | [[Machomei]]                     
@@ -128,8 +128,8 @@
  126 | ![Wuffels](pokemonimages/Pokémon-Icon_744.png) | [[Wuffels]]                      
  127 | ![Wolwerock](pokemonimages/Pokémon-Icon_745.png) | [[Wolwerock]]                    
  128 | {{#icon:327}}                                                             | [[Pandir]]                       
- 129 | {{#icon:072}}                                                             | [[Tentacha]]                     
- 130 | {{#icon:073}}                                                             | [[Tentoxa]]                      
+ 129 | ![Tentacha](pokemonimages/Pokémon-Icon_072png)                                                             | [[Tentacha]]                     
+ 130 | ![Tentoxa](pokemonimages/Pokémon-Icon_073png)                                                             | [[Tentoxa]]                      
  131 | {{#icon:456}}                                                             | [[Finneon]]                      
  132 | {{#icon:457}}                                                             | [[Lumineon]]                     
  133 | ![Lusardin](pokemonimages/Pokémon-Icon_746.png) | [[Lusardin]]                     
@@ -137,7 +137,7 @@
  135 | {{#icon:222}}                                                             | [[Corasonn]]                     
  136 | ![Garstella](pokemonimages/Pokémon-Icon_747.png) | [[Garstella]]                    
  137 | ![Aggrostella](pokemonimages/Pokémon-Icon_748.png) | [[Aggrostella]]                  
- 138 | {{#icon:090}}                                                             | [[Muschas]]                      
+ 138 | ![Muschas](pokemonimages/Pokémon-Icon_090.png)                                                             | [[Muschas]]                      
  139 | {{#icon:091}}                                                             | [[Austos]]                       
  140 | {{#icon:366}}                                                             | [[Perlu]]                        
  141 | {{#icon:367}}                                                             | [[Aalabyss]]                     
@@ -297,9 +297,9 @@
  295 | {{#icon:239}}                                                             | [[Elekid]]                       
  296 | {{#icon:125}}                                                             | [[Elektek]]                      
  297 | {{#icon:466}}                                                             | [[Elevoltek]]                    
- 298 | {{#icon:074}}<br />{{#icon:074a}}                                         | [[Kleinstein]]<br />(Alola-Form) 
- 299 | {{#icon:075}}<br />{{#icon:075a}}                                         | [[Georok]]<br />(Alola-Form)     
- 300 | {{#icon:076}}<br />{{#icon:076a}}                                         | [[Geowaz]]<br />(Alola-Form)     
+ 298 | ![Kleinstein](pokemonimages/Pokémon-Icon_074png)<br />{{#icon:074a}}                                         | [[Kleinstein]]<br />(Alola-Form) 
+ 299 | ![Georok](pokemonimages/Pokémon-Icon_075png)<br />{{#icon:075a}}                                         | [[Georok]]<br />(Alola-Form)     
+ 300 | ![Geowaz](pokemonimages/Pokémon-Icon_076.png)<br />{{#icon:076a}}                                         | [[Geowaz]]<br />(Alola-Form)     
  301 | {{#icon:551}}                                                             | [[Ganovil]]                      
  302 | {{#icon:552}}                                                             | [[Rokkaiman]]                    
  303 | {{#icon:553}}                                                             | [[Rabigator]]                    
