@@ -196,8 +196,8 @@
  194 | {{#icon:663}}                                                             | [[Fiaro]]                        
  195 | {{#icon:757}}                                                             | [[Molunk]]                       
  196 | {{#icon:758}}                                                             | [[Amfira]]                       
- 197 | {{#icon:104}}                                                             | [[Tragosso]]                     
- 198 | {{#icon:105}}<br />{{#icon:105a}}                                         | [[Knogga]]<br />(Alola-Form)     
+ 197 | ![Tragosso](pokemonimages/Pokémon-Icon_104.png)                                                             | [[Tragosso]]                     
+ 198 | ![Knogga](pokemonimages/Pokémon-Icon_105.png)<br />{{#icon:105a}}                                         | [[Knogga]]<br />(Alola-Form)     
  199 | {{#icon:115}}                                                             | [[Kangama]]                      
  200 | {{#icon:240}}                                                             | [[Magby]]                        
  201 | {{#icon:126}}                                                             | [[Magmar]]                       
@@ -354,8 +354,8 @@
  352 | {{#icon:321}}                                                             | [[Wailord]]                      
  353 | {{#icon:131}}                                                             | [[Lapras]]                       
  354 | {{#icon:357}}                                                             | [[Tropius]]                      
- 355 | {{#icon:102}}                                                             | [[Owei]]                         
- 356 | {{#icon:103}}<br />{{#icon:103a}}                                         | [[Kokowei]]<br />(Alola-Form)    
+ 355 | ![Owei](pokemonimages/Pokémon-Icon_102.png)                                                             | [[Owei]]                         
+ 356 | ![Kokowei](pokemonimages/Pokémon-Icon_103.png)<br />{{#icon:103a}}                                         | [[Kokowei]]<br />(Alola-Form)    
  357 | {{#icon:341}}                                                             | [[Krebscorps]]                   
  358 | {{#icon:342}}                                                             | [[Krebutack]]                    
  359 | {{#icon:619}}                                                             | [[Lin-Fu]]                       
@@ -374,7 +374,7 @@
  372 | {{#icon:200}}                                                             | [[Traunfugil]]                   
  373 | {{#icon:429}}                                                             | [[Traunmagil]]                   
  374 | {{#icon:621}}                                                             | [[Shardrago]]                    
- 375 | {{#icon:108}}                                                             | [[Schlurp]]                      
+ 375 | ![Schlurp](pokemonimages/Pokémon-Icon_108.png)                                                             | [[Schlurp]]                      
  376 | {{#icon:463}}                                                             | [[Schlurplek]]                   
  377 | {{#icon:447}}                                                             | [[Riolu]]                        
  378 | {{#icon:448}}                                                             | [[Lucario]]                      

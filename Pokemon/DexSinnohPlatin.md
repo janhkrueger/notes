@@ -160,7 +160,7 @@
  158 | {{#icon:281}} | [[Kirlia]]     
  159 | {{#icon:282}} | [[Guardevoir]] 
  160 | {{#icon:475}} | [[Galagladi]]  
- 161 | {{#icon:108}} | [[Schlurp]]    
+ 161 | ![Schlurp](pokemonimages/Pokémon-Icon_108.png) | [[Schlurp]]    
  162 | {{#icon:463}} | [[Schlurplek]] 
  163 | {{#icon:133}} | [[Evoli]]      
  164 | {{#icon:134}} | [[Aquana]]     
