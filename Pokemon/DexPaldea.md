@@ -169,7 +169,7 @@
 | ??? | ![Viscora](pokemonimages/Pok%C3%A9mon-Icon_704.png) | [[Viscora]] |
 | ??? | ![Viscargot](pokemonimages/Pok%C3%A9mon-Icon_705.png) | [[Viscargot]] |
 | ??? | ![Viscogon](pokemonimages/Pok%C3%A9mon-Icon_706.png) | [[Viscogon]] |
-| ??? | ![UHaFnir](pokemonimages/Pok%C3%A9mon-Icon_714.png) | [[eF-eM]] | 
+| ??? | ![UHaFnir](pokemonimages/Pok%C3%A9mon-Icon_714.png) | [[eF-eM]] |
 | ??? | ![UHaFnir](pokemonimages/Pok%C3%A9mon-Icon_715.png) | [[UHaFnir]] |
 | ??? | ![Choreogel](pokemonimages/Pok%C3%A9mon-Icon_741.png) | [[Choreogel]] |
 | ??? | ![Wuffels](pokemonimages/Pok%C3%A9mon-Icon_744.png) | [[Wuffels]] |
