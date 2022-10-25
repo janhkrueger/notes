@@ -1,3 +1,5 @@
+# Kalos-Pokédex, Gebirge
+
  Nr. | Icon          | Name           
 -----|---------------|----------------
  001 | ![Digda](pokemonimages/Pokémon-Icon_050.png) | [[Digda]]      

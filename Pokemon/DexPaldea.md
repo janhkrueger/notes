@@ -1,3 +1,5 @@
+# Paldea-Pokédex
+
 | Nr. | Icon | Name |
 | --- | ---- | ---- |
 | 001 | [[Datei:Sugimori Felori.png | [[Felori]] |

@@ -1,3 +1,5 @@
+# Kanto-Pokédex
+
  Nr. | Icon          | Name           
 -----|---------------|----------------
  001 | ![Bisasam](pokemonimages/Pokémon-Icon_001.png) | [[Bisasam]]    

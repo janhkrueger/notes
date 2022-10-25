@@ -1,3 +1,5 @@
+# Kalos-Pokédex, Zentral
+
  Nr. | Icon          | Name            
 -----|---------------|-----------------
  001 | ![Igamaro](pokemonimages/Pokémon-Icon_650.png)                                                             | [[Igamaro]]   | [[Igamaro]]     
