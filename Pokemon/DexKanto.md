@@ -24,7 +24,7 @@
  022 | ![Ibitak](pokemonimages/Pokémon-Icon_022.png) | [[Ibitak]]     
  023 | ![Rettan](pokemonimages/Pokémon-Icon_023.png) | [[Rettan]]     
  024 | ![Arbok](pokemonimages/Pokémon-Icon_024.png) | [[Arbok]]      
- 025 | ![Pikachu](pokemonimages/Pokémon-Icon_025.png) | [[Pikachu]]    
+ 025 | ![Pikachu](pokemonimages/Pokémon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md) 
  026 | ![Raichu](pokemonimages/Pokémon-Icon_026.png) | [[Raichu]]     
  027 | ![Sandan](pokemonimages/Pokémon-Icon_027.png) | [[Sandan]]     
  028 | ![Sandamer](pokemonimages/Pokémon-Icon_028.png) | [[Sandamer]]   
