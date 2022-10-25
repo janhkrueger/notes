@@ -183,6 +183,7 @@
 | ??? | ![Frubaila](pokemonimages/Pok%C3%A9mon-Icon_763.png) | [[Fruyal]] |
 | ??? | ![Sankabuh](pokemonimages/Pok%C3%A9mon-Icon_769.png) | [[Sankabuh]] |
 | ??? | ![Koalelu](pokemonimages/Pok%C3%A9mon-Icon_775.png) | [[Koalelu]] |
+| ??? | ![Mimigma](pokemonimages/Pok%C3%A9mon-Icon_778.png) | [[Mimigma]]
 | ??? | ![Raffel](pokemonimages/Pok%C3%A9mon-Icon_819.png) | [[Raffel]] |
 | ??? | ![Schlaraffel](pokemonimages/Pok%C3%A9mon-Icon_820.png) | [[Schlaraffel]] |
 | ??? | ![Kamehaps](pokemonimages/Pok%C3%A9mon-Icon_833.png) | [[Kamehaps]] |
@@ -211,6 +212,7 @@
 | ??? | [[Datei:Sugimori Schligda.png | [[Schligda]] |
 | ??? | [[Datei:Sugimori Crimanzo.png | [[Crimanzo]] |
 | ??? | [[Datei:Sugimori Azugladis.png | [[Azugladis]] |
+| ??? | ![Gruff](pokemonimages/77px-Sugimori_Gruff.png) | [[Gruff]] |
 | ??? | [[Datei:Sugimori Koraidon.png | [[Koraidon]] |
 | ??? | [[Datei:Sugimori Miraidon.png | [[Miraidon]] |
 
