@@ -138,7 +138,7 @@
  136 | {{#icon:188}} | [[Hubelupf]]    
  137 | {{#icon:189}} | [[Papungha]]    
  138 | {{#icon:446}} | [[Mampfaxo]]    
- 139 | {{#icon:143}} | [[Relaxo]]      
+ 139 | ![Relaxo](pokemonimages/Pokémon-Icon_143.png) | [[Relaxo]]      
  140 | {{#icon:293}} | [[Flurmel]]     
  141 | {{#icon:294}} | [[Krakeelo]]    
  142 | {{#icon:295}} | [[Krawumms]]    
