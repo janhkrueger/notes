@@ -2,12 +2,12 @@
 
  Nr. | Icon          | Name
 -----|---------------|-----------------
- 001 | ![Igamaro](pokemonimages/Pokémon-Icon_650.png)                                                             | [[Igamaro]]   | [[Igamaro]]
- 002 | ![Igastarnish](pokemonimages/Pokémon-Icon_651.png)                                                             | [[Igastarnish]] | [[Igastarnish]]
- 003 | ![Brigaron](pokemonimages/Pokémon-Icon_652.png)                                                             | [[Brigaron]] | [[Brigaron]]
- 004 | ![Fynx](pokemonimages/Pokémon-Icon_653.png)                                                             | [[Fynx]] | [[Fynx]]
- 005 | ![Rutena](pokemonimages/Pokémon-Icon_654.png)                                                             | [[Rutena]] | [[Rutena]]
- 006 | ![Fennexis](pokemonimages/Pokémon-Icon_655.png)                                                             | [[Fennexis]] | [[Fennexis]]
+ 001 | ![Igamaro](pokemonimages/Pokémon-Icon_650.png)                                    | [[Igamaro]]   | [[Igamaro]]
+ 002 | ![Igastarnish](pokemonimages/Pokémon-Icon_651.png)                                    | [[Igastarnish]] | [[Igastarnish]]
+ 003 | ![Brigaron](pokemonimages/Pokémon-Icon_652.png)                                    | [[Brigaron]] | [[Brigaron]]
+ 004 | ![Fynx](pokemonimages/Pokémon-Icon_653.png)                                    | [[Fynx]] | [[Fynx]]
+ 005 | ![Rutena](pokemonimages/Pokémon-Icon_654.png)                                    | [[Rutena]] | [[Rutena]]
+ 006 | ![Fennexis](pokemonimages/Pokémon-Icon_655.png)                                    | [[Fennexis]] | [[Fennexis]]
  007 | {{#icon:656}} | [[Froxy]]
  008 | {{#icon:657}} | [[Amphizel]]
  009 | {{#icon:658}} | [[Quajutsu]]

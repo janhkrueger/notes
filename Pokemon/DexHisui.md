@@ -1,6 +1,6 @@
 # Hisui-Pokédex
 
- Nr. | Icon                               | Name
+ Nr. | Icon      | Name
 -----|------------------------------------|----------------------------------
  001 | ![Bauz](pokemonimages/Pokémon-Icon_722.png) | [[Bauz]]
  002 | ![Arboretoss](pokemonimages/Pokémon-Icon_723.png)  | [[Arboretoss]]
