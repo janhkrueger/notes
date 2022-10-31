@@ -71,7 +71,7 @@
  067 | {{#icon:169}} | [[Iksbat]]
  068 | ![Tentacha](pokemonimages/Pokémon-Icon_072.png) | [[Tentacha]]
  069 | ![Tentoxa](pokemonimages/Pokémon-Icon_073.png) | [[Tentoxa]]
- 070 | {{#icon:302}} | [[Zobiris]]
+ 070 | ![Zobiris](pokemonimages/Pokémon-Icon_302.png) | [[Zobiris]]
  071 | {{#icon:303}} | [[Flunkifer]]
  072 | {{#icon:304}} | [[Stollunior]]
  073 | {{#icon:305}} | [[Stollrak]]

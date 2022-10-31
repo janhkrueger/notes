@@ -124,7 +124,7 @@
  120 | {{#icon:524}} | [[Kiesling]]
  121 | {{#icon:525}} | [[Sedimantur]]
  122 | {{#icon:526}} | [[Brockoloss]]
- 123 | {{#icon:302}} | [[Zobiris]]
+ 123 | ![Zobiris](pokemonimages/Pokémon-Icon_302.png) | [[Zobiris]]
  124 | {{#icon:703}} | [[Rocara]]
  125 | ![Tauros](pokemonimages/Pokémon-Icon_128.png) | [[Tauros]]
  126 | {{#icon:241}} | [[Miltank]]

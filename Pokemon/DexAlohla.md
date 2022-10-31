@@ -125,7 +125,7 @@
  121 | {{#icon:525}}                                                             | [[Sedimantur]]
  122 | {{#icon:526}}                                                             | [[Brockoloss]]
  123 | {{#icon:703}}                                                             | [[Rocara]]
- 124 | {{#icon:302}}                                                             | [[Zobiris]]
+ 124 | ![Zobiris](pokemonimages/Pokémon-Icon_302.png)                                                             | [[Zobiris]]
  125 | {{#icon:303}}                                                             | [[Flunkifer]]
  126 | ![Wuffels](pokemonimages/Pokémon-Icon_744.png) | [[Wuffels]]
  127 | ![Wolwerock](pokemonimages/Pokémon-Icon_745.png) | [[Wolwerock]]
