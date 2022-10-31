@@ -1,23 +1,25 @@
+# Pokémon-Liste
+
 | Dex#                         | Icon                           | Name             | Deutsch      | Englisch      |
 |------------------------------|--------------------------------|------------------|--------------|---------------|
-| 001                          | {{#icon:001}}                  | [[Bisasam]]      | Bulbasaur    | Bulbizarre    |
-| 002                          | {{#icon:002}}                  | [[Bisaknosp]]    | Ivysaur      | Herbizarre    |
-| 003                          | {{#icon:003}}                  | [[Bisaflor]]     | Venusaur     | Florizarre    |
-| 004                          | {{#icon:004}}                  | [[Glumanda]]     | Charmander   | Salamèche     |
-| 005                          | {{#icon:005}}                  | [[Glutexo]]      | Charmeleon   | Reptincel     |
-| 006                          | {{#icon:006}}                  | [[Glurak]]       | Charizard    | Dracaufeu     |
-| 007                          | {{#icon:007}}                  | [[Schiggy]]      | Squirtle     | Carapuce      |
-| 008                          | {{#icon:008}}                  | [[Schillok]]     | Wartortle    | Carabaffe     |
-| 009                          | {{#icon:009}}                  | [[Turtok]]       | Blastoise    | Tortank       |
-| 010                          | {{#icon:010}}                  | [[Raupy]]        | Caterpie     | Chenipan      |
-| 011                          | {{#icon:011}}                  | [[Safcon]]       | Metapod      | Chrysacier    |
-| 012                          | {{#icon:012}}                  | [[Smettbo]]      | Butterfree   | Papilusion    |
-| 013                          | {{#icon:013}}                  | [[Hornliu]]      | Weedle       | Aspicot       |
-| 014                          | {{#icon:014}}                  | [[Kokuna]]       | Kakuna       | Coconfort     |
-| 015                          | {{#icon:015}}                  | [[Bibor]]        | Beedrill     | Dardargnan    |
-| 016                          | {{#icon:016}}                  | [[Taubsi]]       | Pidgey       | Roucool       |
-| 017                          | {{#icon:017}}                  | [[Tauboga]]      | Pidgeotto    | Roucoups      |
-| 018                          | {{#icon:018}}                  | [[Tauboss]]      | Pidgeot      | Roucarnage    |
+| 001                          | ![Bisasam](pokemonimages/Pokémon-Icon_001.png)                 | [[Bisasam]]      | Bulbasaur    | Bulbizarre    |
+| 002                          | ![Bisaknosp](pokemonimages/Pokémon-Icon_002.png)                 | [[Bisaknosp]]    | Ivysaur      | Herbizarre    |
+| 003                          | ![Bisaflor](pokemonimages/Pokémon-Icon_003.png)                 | [[Bisaflor]]     | Venusaur     | Florizarre    |
+| 004                          | ![Glumanda](pokemonimages/Pokémon-Icon_004.png)                  | [[Glumanda]]     | Charmander   | Salamèche     |
+| 005                          | ![Glutexo](pokemonimages/Pokémon-Icon_005.png)                  | [[Glutexo]]      | Charmeleon   | Reptincel     |
+| 006                          | ![Glurak](pokemonimages/Pokémon-Icon_006.png)                  | [[Glurak]]       | Charizard    | Dracaufeu     |
+| 007                          | ![Schiggy](pokemonimages/Pokémon-Icon_007.png)                  | [[Schiggy]]      | Squirtle     | Carapuce      |
+| 008                          | ![Schillok](pokemonimages/Pokémon-Icon_008.png)                  | [[Schillok]]     | Wartortle    | Carabaffe     |
+| 009                          | ![Turtok](pokemonimages/Pokémon-Icon_009.png)                  | [[Turtok]]       | Blastoise    | Tortank       |
+| 010                          | ![Raupy](pokemonimages/Pokémon-Icon_010.png)                  | [[Raupy]]        | Caterpie     | Chenipan      |
+| 011                          | ![Safcon](pokemonimages/Pokémon-Icon_011.png)                  | [[Safcon]]       | Metapod      | Chrysacier    |
+| 012                          | ![Smettbo](pokemonimages/Pokémon-Icon_012.png)                  | [[Smettbo]]      | Butterfree   | Papilusion    |
+| 013                          | ![Hornliu](pokemonimages/Pokémon-Icon_013.png)                  | [[Hornliu]]      | Weedle       | Aspicot       |
+| 014                          | ![Kokuna](pokemonimages/Pokémon-Icon_014.png)                  | [[Kokuna]]       | Kakuna       | Coconfort     |
+| 015                          | ![Bibor](pokemonimages/Pokémon-Icon_015.png)                  | [[Bibor]]        | Beedrill     | Dardargnan    |
+| 016                          | ![Taubsi](pokemonimages/Pokémon-Icon_016.png)                  | [[Taubsi]]       | Pidgey       | Roucool       |
+| 017                          | ![Tauboga](pokemonimages/Pokémon-Icon_017.png)                  | [[Tauboga]]      | Pidgeotto    | Roucoups      |
+| 018                          | ![Tauboss](pokemonimages/Pokémon-018.png)                  | [[Tauboss]]      | Pidgeot      | Roucarnage    |
 | 019                          | {{#icon:019}}                  | [[Rattfratz]]    | Rattata      | Rattata       |
 | 020                          | {{#icon:020}}                  | [[Rattikarl]]    | Raticate     | Rattatac      |
 | 021                          | {{#icon:021}}                  | [[Habitak]]      | Spearow      | Piafabec      |
@@ -40,8 +42,8 @@
 | 038                          | {{#icon:038}}                  | [[Vulnona]]      | Ninetales    | Feunard       |
 | 039                          | {{#icon:039}}                  | [[Pummeluff]]    | Jigglypuff   | Rondoudou     |
 | 040                          | {{#icon:040}}                  | [[Knuddeluff]]   | Wigglytuff   | Grodoudou     |
-| 041                          | {{#icon:041}}                  | [[Zubat]]        | Zubat        | Nosferapti    |
-| 042                          | {{#icon:042}}                  | [[Golbat]]       | Golbat       | Nosferalto    |
+| 041                          | ![Zubat](pokemonimages/Pokémon-041.png)                  | [[Zubat]]        | Zubat        | Nosferapti    |
+| 042                          | ![Golbat](pokemonimages/Pokémon-042.png)                  | [[Golbat]]       | Golbat       | Nosferalto    |
 | 043                          | {{#icon:043}}                  | [[Myrapla]]      | Oddish       | Mystherbe     |
 | 044                          | {{#icon:044}}                  | [[Duflor]]       | Gloom        | Ortide        |
 | 045                          | {{#icon:045}}                  | [[Giflor]]       | Vileplume    | Rafflesia     |
@@ -321,8 +323,8 @@
 | 319                          | {{#icon:319}}                  | [[Tohaido]]      | Sharpedo     | Sharpedo      |
 | 320                          | {{#icon:320}}                  | [[Wailmer]]      | Wailmer      | Wailmer       |
 | 321                          | {{#icon:321}}                  | [[Wailord]]      | Wailord      | Wailord       |
-| 322                          | {{#icon:322}}                  | [[Camaub]]       | Numel        | Chamallot     |
-| 323                          | {{#icon:323}}                  | [[Camerupt]]     | Camerupt     | Camérupt      |
+| 322                          | ![Camaub](pokemonimages/Pokémon-322.png)                  | [[Camaub]]       | Numel        | Chamallot     |
+| 323                          | ![Camerupt](pokemonimages/Pokémon-323.png)                  | [[Camerupt]]     | Camerupt     | Camérupt      |
 | 324                          | {{#icon:324}}                  | [[Qurtel]]       | Torkoal      | Chartor       |
 | 325                          | {{#icon:325}}                  | [[Spoink]]       | Spoink       | Spoink        |
 | 326                          | {{#icon:326}}                  | [[Groink]]       | Grumpig      | Groret        |
@@ -493,7 +495,7 @@
 | 491                          | {{#icon:491}}                  | [[Darkrai]]      | Darkrai      | Darkrai       |
 | 492                          | {{#icon:492}}                  | [[Shaymin]]      | Shaymin      | Shaymin       |
 | 493                          | {{#icon:493}}                  | [[Arceus]]       | Arceus       | Arceus        |
-| <span id="nr494"></span> 494 | {{#icon:494}}                  | [[Victini]]      | Victini      | Victini       |
+| 494                          | ![Victini](pokemonimages/Pokémon-494.png)                  | [[Victini]]      | Victini      | Victini       |
 | 495                          | {{#icon:495}}                  | [[Serpifeu]]     | Snivy        | Vipélierre    |
 | 496                          | {{#icon:496}}                  | [[Efoserp]]      | Servine      | Lianaja       |
 | 497                          | {{#icon:497}}                  | [[Serpiroyal]]   | Serperior    | Majaspic      |
@@ -639,9 +641,9 @@
 | 637                          | {{#icon:637}}                  | [[Ramoth]]       | Volcarona    | Pyrax         |
 | 638                          | {{#icon:638}}                  | [[Kobalium]]     | Cobalion     | Cobaltium     |
 | 639                          | {{#icon:639}}                  | [[Terrakium]]    | Terrakion    | Terrakium     |
-| 640                          | {{#icon:640}}                  | [[Viridium]]     | Virizion     | Viridium      |
-| 641                          | {{#icon:641}}                  | [[Boreos]]       | Tornadus     | Boréas        |
-| 642                          | {{#icon:642}}                  | [[Voltolos]]     | Thundurus    | Fulguris      |
+| 640                          | ![Viridium](pokemonimages/Pokémon-640.png)                  | [[Viridium]]     | Virizion     | Viridium      |
+| 641                          | ![Boreos](pokemonimages/Pokémon-641.png)                  | [[Boreos]]       | Tornadus     | Boréas        |
+| 642                          | ![Voltolos](pokemonimages/Pokémon-642.png)                  | [[Voltolos]]     | Thundurus    | Fulguris      |
 | 643                          | {{#icon:643}}                  | [[Reshiram]]     | Reshiram     | Reshiram      |
 | 644                          | {{#icon:644}}                  | [[Zekrom]]       | Zekrom       | Zekrom        |
 | 645                          | {{#icon:645}}                  | [[Demeteros]]    | Landorus     | Démétéros     |
@@ -649,7 +651,7 @@
 | 647                          | {{#icon:647}}                  | [[Keldeo]]       | Keldeo       | Keldeo        |
 | 648                          | {{#icon:648}}                  | [[Meloetta]]     | Meloetta     | Meloetta      |
 | 649                          | {{#icon:649}}                  | [[Genesect]]     | Genesect     | Genesect      |
-| <span id="nr650"></span> 650 | {{#icon:650}}                  | [[Igamaro]]      | Chespin      | Marisson      |
+| 650                          | ![Igamaro](pokemonimages/Pokémon-650.png)                  | [[Igamaro]]      | Chespin      | Marisson      |
 | 651                          | {{#icon:651}}                  | [[Igastarnish]]  | Quilladin    | Boguérisse    |
 | 652                          | {{#icon:652}}                  | [[Brigaron]]     | Chesnaught   | Blindépique   |
 | 653                          | {{#icon:653}}                  | [[Fynx]]         | Fennekin     | Feunnec       |
@@ -902,10 +904,10 @@
 | 900                          | {{#icon:900}}                  | [[Axantor]]      | Kleavor      | Hachécateur   |
 | 901                          | {{#icon:901}}                  | [[Ursaluna]]     | Ursaluna     | Ursaking      |
 | 902                          | {{#icon:902}}                  | [[Salmagnis]]    | Basculegion  | Paragruel     |
-| 903                          | {{#icon:903}}                  | [[Snieboss]]     | Sneasler     | Farfurex      |
-| 904                          | {{#icon:904}}                  | [[Myriador]]     | Overqwil     | Qwilpik       |
-| 905                          | {{#icon:905}}                  | [[Cupidos]]      | Enamorus     | Amovénus      |
-| <span id="nr???"></span> ??? | [[Datei:Sugimori Felori.png    | 20px             | link=]]      | [[Felori]]    |
+| 903                          | ![Snieboss](pokemonimages/Pokémon-Icon_903.png)                  | [[Snieboss]]     | Sneasler     | Farfurex      |
+| 904                          | ![Myriador](pokemonimages/Pokémon-Icon_904.png)                  | [[Myriador]]     | Overqwil     | Qwilpik       |
+| 905                          | ![Cupidos](pokemonimages/Pokémon-Icon_905.png)                  | [[Cupidos]]      | Enamorus     | Amovénus      |
+| ???                          | [[Datei:Sugimori Felori.png    | 20px             | link=]]      | [[Felori]]    |
 | ???                          | [[Datei:Sugimori Krokel.png    | 20px             | link=]]      | [[Krokel]]    |
 | ???                          | [[Datei:Sugimori Kwaks.png     | 20px             | link=]]      | [[Kwaks]]     |
 | ???                          | [[Datei:Sugimori Pamo.png      | 20px             | link=]]      | [[Pamo]]      |
