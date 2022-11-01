@@ -36,7 +36,7 @@
 | ??? | ![Knuddeluff](pokemonimages/Pok%C3%A9mon-Icon_040.png) | [[Knuddeluff]] |
 | ??? | ![Bluzuk](pokemonimages/Pok%C3%A9mon-Icon_048.png) | [[Bluzuk]] |
 | ??? | ![Mauzi](pokemonimages/Pok%C3%A9mon-Icon_052.png) | [[Mauzi]] |
-| ??? | ![Snobilikat](pokemonimages/Pok%C3%A9mon-Icon_053.png) | [[Snobilikat]] |
+| ??? | ![![Snobilikat](pokemonimages/Pokémon-Icon_053.png)](pokemonimages/Pok%C3%A9mon-Icon_053.png) | [[![Snobilikat](pokemonimages/Pokémon-Icon_053.png)]] |
 | ??? | ![Enton](pokemonimages/Pok%C3%A9mon-Icon_054.png) | [[Enton]] |
 | ??? | ![Entoron](pokemonimages/Pok%C3%A9mon-Icon_055.png) | [[Entoron]] |
 | ??? | ![Fukano](pokemonimages/Pok%C3%A9mon-Icon_058.png) | [[Fukano]] |

@@ -53,8 +53,8 @@
 | 049 | ![Omot](pokemonimages/Pokémon-Icon_049.png)                 | [[Omot]]         | Venomoth     | Aéromite      |
 | 050 | ![Digda](pokemonimages/Pokémon-Icon_050.png)                  | [[Digda]]        | Diglett      | Taupiqueur    |
 | 051 | ![Digdri](pokemonimages/Pokémon-Icon_051.png)                  | [[Digdri]]       | Dugtrio      | Triopikeur    |
-| 052 | {{#icon:052}}                  | [[Mauzi]]        | Meowth       | Miaouss       |
-| 053 | {{#icon:053}}                  | [[Snobilikat]]   | Persian      | Persian       |
+| 052 | ![Mauzi](pokemonimages/Pokémon-Icon_052.png)                  | [[Mauzi]]        | Meowth       | Miaouss       |
+| 053 | ![![Snobilikat](pokemonimages/Pokémon-Icon_053.png)](pokemonimages/Pokémon-Icon_053.png)              | [[Snobilikat]]   | Persian      | Persian       |
 | 054 | {{#icon:054}}                  | [[Enton]]        | Psyduck      | Psykokwak     |
 | 055 | {{#icon:055}}                  | [[Entoron]]      | Golduck      | Akwakwak      |
 | 056 | {{#icon:056}}                  | [[Menki]]        | Mankey       | Férosinge     |
@@ -325,7 +325,7 @@
 | 321 | {{#icon:321}}                  | [[Wailord]]      | Wailord      | Wailord       |
 | 322 | ![Camaub](pokemonimages/Pokémon-Icon_322.png)                  | [[Camaub]]       | Numel        | Chamallot     |
 | 323 | ![Camerupt](pokemonimages/Pokémon-Icon_323.png)                  | [[Camerupt]]     | Camerupt     | Camérupt      |
-| 324 | {{#icon:324}}                  | [[Qurtel]]       | Torkoal      | Chartor       |
+| 324 | ![Qurtel](pokemonimages/Pokémon-Icon_324.png)                  | [[Qurtel]]       | Torkoal      | Chartor       |
 | 325 | {{#icon:325}}                  | [[Spoink]]       | Spoink       | Spoink        |
 | 326 | {{#icon:326}}                  | [[Groink]]       | Grumpig      | Groret        |
 | 327 | {{#icon:327}}                  | [[Pandir]]       | Spinda       | Spinda        |

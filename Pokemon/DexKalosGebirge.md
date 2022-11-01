@@ -97,7 +97,7 @@
  093 | {{#icon:532}} | [[Praktibalk]]
  094 | {{#icon:533}} | [[Strepoli]]
  095 | {{#icon:534}} | [[Meistagrif]]
- 096 | {{#icon:324}} | [[Qurtel]]
+ 096 | ![Qurtel](pokemonimages/Pokémon-Icon_324.png) | [[Qurtel]]
  097 | ![Sandan](pokemonimages/Pokémon-Icon_027.png) | [[Sandan]]
  098 | ![Sandamer](pokemonimages/Pokémon-Icon_028.png) | [[Sandamer]]
  099 | {{#icon:304}} | [[Stollunior]]

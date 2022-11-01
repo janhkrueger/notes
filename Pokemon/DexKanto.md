@@ -54,7 +54,7 @@
  050 | ![Digda](pokemonimages/Pokémon-Icon_050.png) | [[Digda]]
  051 | ![Digdri](pokemonimages/Pokémon-Icon_051.png) | [[Digdri]]
  052 | ![Mauzi](pokemonimages/Pokémon-Icon_052.png) | [[Mauzi]]
- 053 | ![Snobilikat](pokemonimages/Pokémon-Icon_053.png) | [[Snobilikat]]
+ 053 | ![![Snobilikat](pokemonimages/Pokémon-Icon_053.png)](pokemonimages/Pokémon-Icon_053.png) | [[![Snobilikat](pokemonimages/Pokémon-Icon_053.png)]]
  054 | ![Enton](pokemonimages/Pokémon-Icon_054.png) | [[Enton]]
  055 | ![Entoron](pokemonimages/Pokémon-Icon_055.png) | [[Entoron]]
  056 | ![Menki](pokemonimages/Pokémon-Icon_056.png) | [[Menki]]

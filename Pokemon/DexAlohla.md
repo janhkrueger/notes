@@ -54,7 +54,7 @@
  050 | ![Kadabra](pokemonimages/Pokémon-Icon_064.png)                                    | [[Kadabra]]
  051 | ![Simsala](pokemonimages/Pokémon-Icon_065.png)                                    | [[Simsala]]
  052 | ![Mauzi](pokemonimages/Pokémon-Icon_052.png)<br />{{#icon:052a}}                | [[Mauzi]]<br />(Alola-Form)
- 053 | ![Snobilikat](pokemonimages/Pokémon-Icon_053.png)<br />{{#icon:053a}}                | [[Snobilikat]]<br />(Alola-Form)
+ 053 | ![![Snobilikat](pokemonimages/Pokémon-Icon_053.png)](pokemonimages/Pokémon-Icon_053.png)<br />{{#icon:053a}}                | [[![Snobilikat](pokemonimages/Pokémon-Icon_053.png)]]<br />(Alola-Form)
  054 | ![Magnetilo](pokemonimages/Pokémon-Icon_081.png)                                    | [[Magnetilo]]
  055 | ![Magneton](pokemonimages/Pokémon-Icon_082.png)                                    | [[Magneton]]
  056 | {{#icon:462}}                                    | [[Magnezone]]
@@ -288,7 +288,7 @@
  284 | {{#icon:674}}                                    | [[Pam-Pam]]
  285 | {{#icon:675}}                                    | [[Pandagro]]
  286 | {{#icon:775}}                                    | [[Koalelu]]
- 287 | {{#icon:324}}                                    | [[Qurtel]]
+ 287 | ![Qurtel](pokemonimages/Pokémon-Icon_324.png)                                    | [[Qurtel]]
  288 | {{#icon:776}}                                    | [[Tortunator]]
  289 | {{#icon:228}}                                    | [[Hunduster]]
  290 | {{#icon:229}}                                    | [[Hundemon]]

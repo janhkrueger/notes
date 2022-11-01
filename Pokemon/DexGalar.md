@@ -185,7 +185,7 @@
  181 | {{#icon:Barrakiefa}}                                    | [[Barrakiefa]]
  182 | {{#icon:Mauzi}}<br />{{#icon:052b}}                     | [[Mauzi]]<br />(Galar-Form)
  183 | {{#icon:Mauzinger}}                                     | [[Mauzinger]]
- 184 | {{#icon:Snobilikat}}                                    | [[Snobilikat]]
+ 184 | {{#icon:![Snobilikat](pokemonimages/Pokémon-Icon_053.png)}}                                    | [[![Snobilikat](pokemonimages/Pokémon-Icon_053.png)]]
  185 | {{#icon:Hokumil}}                                       | [[Hokumil]]
  186 | {{#icon:Pokusan}}                                       | [[Pokusan]]
  187 | {{#icon:Wommel}}                                        | [[Wommel]]

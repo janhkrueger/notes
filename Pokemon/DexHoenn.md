@@ -111,7 +111,7 @@
  107 | ![Camerupt](pokemonimages/Pokémon-323.png) | [[Camerupt]]
  108 | {{#icon:218}} | [[Schneckmag]]
  109 | {{#icon:219}} | [[Magcargo]]
- 110 | {{#icon:324}} | [[Qurtel]]
+ 110 | ![Qurtel](pokemonimages/Pokémon-Icon_324.png) | [[Qurtel]]
  111 | ![Sleima](pokemonimages/Pokémon-Icon_088.png) | [[Sleima]]
  112 | ![Sleimok](pokemonimages/Pokémon-Icon_089.png) | [[Sleimok]]
  113 | ![Smogon](pokemonimages/Pokémon-Icon_109.png) | [[Smogon]]
