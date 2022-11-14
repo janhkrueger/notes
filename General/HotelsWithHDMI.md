@@ -1,8 +1,11 @@
 # Hotels with open HDMI ports
 
-# Bad Homburg
+## Bad Homburg
 * Hotel Mystique
 * B&B Bahnhof
+
+## Berlin
+* Adlon
 
 ## Frankfurt
 * Hotel Frankfurt Messe Affiliated by Meliá
@@ -12,6 +15,9 @@
 
 ## Hamburg
 * Adina Apartment Hotel Hamburg Michl
+
+## Offenbach
+* Delta Hotel Marriott Frankfurt/Offenbach
 
 ## Reykjavik
 * Stay Apartments Bolholt
