@@ -4,6 +4,9 @@
 * Hotel Mystique
 * B&B Bahnhof
 
+## Basel
+* Hotel City Inn
+
 ## Berlin
 * Adlon
 
