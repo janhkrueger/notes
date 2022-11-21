@@ -1,6 +1,6 @@
 # Secure coding
 
-## Retogade.com
+## restograde.com
 Local Server for testing?
 
 ## ZAP
@@ -15,3 +15,19 @@ mutual TLS (mTLS) ->
 
 # Quiz Tool
 https://kahoot.it/instructions
+
+## Quote
+Write as secure as possible but assume mistakes happen
+- Dr. Philippe De Ryck
+
+## Equifax breach
+Resurch
+
+## Dependency scanner
+* snyk.io
+
+Continous Monitoring
+
+# Pragmatic Web Security
+
+https://pragmaticwebsecurity.com
