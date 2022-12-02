@@ -52,4 +52,4 @@ Hat ein Pokémon ein Zeichen, so kann in Pokémon Schwert und Schild im Pokémon
  ![Elan-Zeichenn](pokemonimages/80px-Elan-Zeichen_SWSH.png) | Elan-Zeichen             | Energiebündel  | Zeichen eines Pokémon, das voller Energie steckt.   | Sehr geringe Chance
  ![Formtief-Zeichenn](pokemonimages/80px-Formtief-Zeichen_SWSH.png) | Formtief-Zeichen         | Durchhänger    | Zeichen eines Pokémon, das irgendwie einen Durchhänger hat.                  | Sehr geringe Chance
 
-#pokemon
+#pokemon #marks
