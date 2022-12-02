@@ -2,7 +2,7 @@
 
  Nr. | Icon                                                    | Name
 -----|----------------------------------------------------------------------------------|------------------------------------------------------------------------
- 001 | ![Snomnom](pokemonimages/Pok%C3%A9mon-Icon_872.png)                                       | [[Snomnom]]
+ 001 | ![Snomnom](../pokemonimages/Pok%C3%A9mon-Icon_872.png)                                       | [[Snomnom]]
  002 | {{#icon:Mottineva}}                                     | [[Mottineva]]
  003 | {{#icon:Wolly}}                                         | [[Wolly]]
  004 | {{#icon:Zwollock}}                                      | [[Zwollock]]
@@ -90,10 +90,10 @@
  086 | {{#icon:Amagarga}}                                      | [[Amagarga]]
  087 | {{#icon:Bronzel}}                                       | [[Bronzel]]
  088 | {{#icon:Bronzong}}                                      | [[Bronzong]]
- 089 | ![Humanolith](pokemonimages/Pokémon-Icon_874.png)                                    | [[Humanolith]]
- 090 | ![Kubuin](pokemonimages/Pokémon-Icon_875.png)                                        | [[Kubuin]]
- 091 | ![Araqua](pokemonimages/Pokémon-Icon_751.png) | [[Araqua]]
- 092 | ![Aranestro](pokemonimages/Pokémon-Icon_752.png) | [[Aranestro]]
+ 089 | ![Humanolith](../pokemonimages/Pokémon-Icon_874.png)                                    | [[Humanolith]]
+ 090 | ![Kubuin](../pokemonimages/Pokémon-Icon_875.png)                                        | [[Kubuin]]
+ 091 | ![Araqua](../pokemonimages/Pokémon-Icon_751.png) | [[Araqua]]
+ 092 | ![Aranestro](../pokemonimages/Pokémon-Icon_752.png) | [[Aranestro]]
  093 | {{#icon:Wattzapf}}                                      | [[Wattzapf]]
  094 | {{#icon:Voltula}}                                       | [[Voltula]]
  095 | {{#icon:Laukaps}}                                       | [[Laukaps]]
@@ -109,11 +109,11 @@
  105 | {{#icon:Ponita}}<br />{{#icon:077a}}                    | [[Ponita]]<br />(Galar-Form)
  106 | {{#icon:Gallopa}}<br />{{#icon:078a}}                   | [[Gallopa]]<br />(Galar-Form)
  107 | {{#icon:Absol}}                                         | [[Absol]]
- 108 | ![Kupfanti](pokemonimages/Pokémon-Icon_878.png)  | [[Kupfanti]]
- 109 | ![Patinaraja](pokemonimages/Pokémon-Icon_879.png) | [[Patinaraja]]
- 110 | ![Grolldra](pokemonimages/Pokémon-Icon_885.png) | [[Grolldra]]
- 111 | ![Phandra](pokemonimages/Pokémon-Icon_886.png) | [[Phandra]]
- 112 | ![Katapuldra](pokemonimages/Pokémon-Icon_887.png) | [[Katapuldra]]
+ 108 | ![Kupfanti](../pokemonimages/Pokémon-Icon_878.png)  | [[Kupfanti]]
+ 109 | ![Patinaraja](../pokemonimages/Pokémon-Icon_879.png) | [[Patinaraja]]
+ 110 | ![Grolldra](../pokemonimages/Pokémon-Icon_885.png) | [[Grolldra]]
+ 111 | ![Phandra](../pokemonimages/Pokémon-Icon_886.png) | [[Phandra]]
+ 112 | ![Katapuldra](../pokemonimages/Pokémon-Icon_887.png) | [[Katapuldra]]
  113 | {{#icon:Kindwurm}}                                      | [[Kindwurm]]
  114 | {{#icon:Draschel}}                                      | [[Draschel]]
  115 | {{#icon:Brutalanda}}                                    | [[Brutalanda]]
@@ -172,7 +172,7 @@
  168 | {{#icon:Waumboll}}                                      | [[Waumboll]]
  169 | {{#icon:Elfun}}                                         | [[Elfun]]
  170 | {{#icon:Pottrott}}                                      | [[Pottrott]]
- 171 | ![Servol](pokemonimages/Pokémon-Icon_876.png) | [[Servol]]
+ 171 | ![Servol](../pokemonimages/Pokémon-Icon_876.png) | [[Servol]]
  172 | {{#icon:Mampfaxo}}                                      | [[Mampfaxo]]
  173 | {{#icon:Relaxo}}                                        | [[Relaxo]]
  174 | {{#icon:Zobiris}}                                       | [[Zobiris]]
@@ -201,16 +201,16 @@
  197 | {{#icon:Regirock}}                                      | [[Regirock]]
  198 | {{#icon:Regice}}                                        | [[Regice]]
  199 | {{#icon:Registeel}}                                     | [[Registeel]]
- 200 | ![Regieleki](pokemonimages/Pokémon-Icon_894.png) | [[Regieleki]]
- 201 | ![Regidrago](pokemonimages/Pokémon-Icon_895.png) | [[Regidrago]]
+ 200 | ![Regieleki](../pokemonimages/Pokémon-Icon_894.png) | [[Regieleki]]
+ 201 | ![Regidrago](../pokemonimages/Pokémon-Icon_895.png) | [[Regidrago]]
  202 | {{#icon:Arktos}}<br />{{#icon:144a}}                    | [[Arktos]]<br />(Galar-Form)
  203 | {{#icon:Zapdos}}<br />{{#icon:145a}}                    | [[Zapdos]]<br />(Galar-Form)
  204 | {{#icon:Lavados}}<br />{{#icon:146a}}                   | [[Lavados]]<br />(Galar-Form)
  205 | {{#icon:Kobalium}}                                      | [[Kobalium]]
  206 | {{#icon:Terrakium}}                                     | [[Terrakium]]
  207 | {{#icon:Viridium}}                                      | [[Viridium]]
- 208 | ![Polaross](pokemonimages/Pokémon-Icon_896.png) | [[Polaross]]
- 209 | ![Phantoross](pokemonimages/Pokémon-Icon_897.png) | [[Phantoross]]
- 210 | ![Coronospa](pokemonimages/Pokémon-Icon_898.png) | [[Coronospa]]
+ 208 | ![Polaross](../pokemonimages/Pokémon-Icon_896.png) | [[Polaross]]
+ 209 | ![Phantoross](../pokemonimages/Pokémon-Icon_897.png) | [[Phantoross]]
+ 210 | ![Coronospa](../pokemonimages/Pokémon-Icon_898.png) | [[Coronospa]]
 
 #pokemon

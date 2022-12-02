@@ -2,9 +2,9 @@
 
  Nr. | Icon      | Name
 -----|------------------------------------|----------------------------------
- 001 | ![Bauz](pokemonimages/Pokémon-Icon_722.png) | [[Bauz]]
- 002 | ![Arboretoss](pokemonimages/Pokémon-Icon_723.png)  | [[Arboretoss]]
- 003 | ![Silvarro](pokemonimages/Pokémon-Icon_724a.png) | [[Silvarro]]<br />(Hisui-Form)
+ 001 | ![Bauz](../pokemonimages/Pokémon-Icon_722.png) | [[Bauz]]
+ 002 | ![Arboretoss](../pokemonimages/Pokémon-Icon_723.png)  | [[Arboretoss]]
+ 003 | ![Silvarro](../pokemonimages/Pokémon-Icon_724a.png) | [[Silvarro]]<br />(Hisui-Form)
  004 | [[Datei:Pokémonsprite 155 PLA.png  | [[Feurigel]]
  005 | [[Datei:Pokémonsprite 156 PLA.png  | [[Igelavar]]
  006 | [[Datei:Pokémonsprite 157a PLA.png | [[Tornupto]]<br />(Hisui-Form)
@@ -51,7 +51,7 @@
  047 | [[Datei:Pokémonsprite 075 PLA.png  | [[Georok]]
  048 | [[Datei:Pokémonsprite 076 PLA.png  | [[Geowaz]]
  049 | [[Datei:Pokémonsprite 234 PLA.png  | [[Damhirplex]]
- 050 | ![Damythir](pokemonimages/Pokémon-Icon_899.png) | [[Damythir]]
+ 050 | ![Damythir](../pokemonimages/Pokémon-Icon_899.png) | [[Damythir]]
  051 | [[Datei:Pokémonsprite 446 PLA.png  | [[Mampfaxo]]
  052 | [[Datei:Pokémonsprite 143 PLA.png  | [[Relaxo]]
  053 | [[Datei:Pokémonsprite 046 PLA.png  | [[Paras]]
@@ -74,7 +74,7 @@
  070 | [[Datei:Pokémonsprite 415 PLA.png  | [[Wadribie]]
  071 | [[Datei:Pokémonsprite 416 PLA.png  | [[Honweisel]]
  072 | [[Datei:Pokémonsprite 123 PLA.png  | [[Sichlor]]
- 073 | ![Axantor](pokemonimages/Pokémon-Icon_900.png) | [[Axantor]]
+ 073 | ![Axantor](../pokemonimages/Pokémon-Icon_900.png) | [[Axantor]]
  074 | [[Datei:Pokémonsprite 212 PLA.png  | [[Scherox]]
  075 | [[Datei:Pokémonsprite 214 PLA.png  | [[Skaraborn]]
  076 | [[Datei:Pokémonsprite 439 PLA.png  | [[Pantimimi]]
@@ -86,7 +86,7 @@
  082 | [[Datei:Pokémonsprite 422 PLA.png  | [[Schalellos]]
  083 | [[Datei:Pokémonsprite 423 PLA.png  | [[Gastrodon]]
  084 | [[Datei:Pokémonsprite 211a PLA.png | [[Baldorfish]]<br />(Hisui-Form)
- 085 | ![Myriador](pokemonimages/Pokémon-Icon_904.png) | [[Myriador]]
+ 085 | ![Myriador](../pokemonimages/Pokémon-Icon_904.png) | [[Myriador]]
  086 | [[Datei:Pokémonsprite 440 PLA.png  | [[Wonneira]]
  087 | [[Datei:Pokémonsprite 113 PLA.png  | [[Chaneira]]
  088 | [[Datei:Pokémonsprite 242 PLA.png  | [[Heiteira]]
@@ -115,7 +115,7 @@
  111 | [[Datei:Pokémonsprite 435 PLA.png  | [[Skuntank]]
  112 | [[Datei:Pokémonsprite 216 PLA.png  | [[Teddiursa]]
  113 | [[Datei:Pokémonsprite 217 PLA.png  | [[Ursaring]]
- 114 | ![Ursaluna](pokemonimages/Pokémon-Icon_901.png) | [[Ursaluna]]
+ 114 | ![Ursaluna](../pokemonimages/Pokémon-Icon_901.png) | [[Ursaluna]]
  115 | [[Datei:Pokémonsprite 704 PLA.png  | [[Viscora]]
  116 | [[Datei:Pokémonsprite 705a PLA.png | [[Viscargot]]<br />(Hisui-Form)
  117 | [[Datei:Pokémonsprite 706a PLA.png | [[Viscogon]]<br />(Hisui-Form)
@@ -168,7 +168,7 @@
  164 | [[Datei:Pokémonsprite 458 PLA.png  | [[Mantirps]]
  165 | [[Datei:Pokémonsprite 226 PLA.png  | [[Mantax]]
  166 | [[Datei:Pokémonsprite 550b PLA.png | [[Barschuft]]
- 167 | ![Salmagnis](pokemonimages/Pokémon-Icon_902.png) | [[Salmagnis]]
+ 167 | ![Salmagnis](../pokemonimages/Pokémon-Icon_902.png) | [[Salmagnis]]
  168 | [[Datei:Pokémonsprite 037 PLA.png  | [[Vulpix]]
  168 | [[Datei:Pokémonsprite 037a PLA.png | [[Vulpix]] (Alola-Form)
  169 | [[Datei:Pokémonsprite 038 PLA.png  | [[Vulnona]]
@@ -207,7 +207,7 @@
  201 | [[Datei:Pokémonsprite 036 PLA.png  | [[Pixi]]
  202 | [[Datei:Pokémonsprite 215a PLA.png | [[Sniebel]]<br />(Hisui-Form)
  202 | [[Datei:Pokémonsprite 215 PLA.png  | [[Sniebel]]
- 203 | ![Snieboss](pokemonimages/Pokémon-Icon_903.png) | [[Snieboss]]
+ 203 | ![Snieboss](../pokemonimages/Pokémon-Icon_903.png) | [[Snieboss]]
  204 | [[Datei:Pokémonsprite 461 PLA.png  | [[Snibunna]]
  205 | [[Datei:Pokémonsprite 361 PLA.png  | [[Schneppke]]
  206 | [[Datei:Pokémonsprite 362 PLA.png  | [[Firnontor]]
@@ -238,7 +238,7 @@
  231 | [[Datei:Pokémonsprite 641 PLA.png  | [[Boreos]]
  232 | [[Datei:Pokémonsprite 642 PLA.png  | [[Voltolos]]
  233 | [[Datei:Pokémonsprite 645 PLA.png  | [[Demeteros]]
- 234 | ![Cupidos](pokemonimages/Pokémon-Icon_905.png) | [[Cupidos]]
+ 234 | ![Cupidos](../pokemonimages/Pokémon-Icon_905.png) | [[Cupidos]]
  235 | [[Datei:Pokémonsprite 483 PLA.png  | [[Dialga]]
  236 | [[Datei:Pokémonsprite 484 PLA.png  | [[Palkia]]
  237 | [[Datei:Pokémonsprite 487 PLA.png  | [[Giratina]]
