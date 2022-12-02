@@ -106,7 +106,7 @@ Aside from being the only way to obtain Charizard in the game currently, the 7 S
 * __Fairy__ typing makes it immune to Charizard’s Dragon-type moves.
 * Ability __Well-Baked Body__ makes it immune to Charizard’s Fire-type attacks, combined with the Fairy-typing this means Dachsbun can only be hit by Charizard’s Hurricane and no other moves.
 * Recommended Stat Spread
-  * Adamant Nature
+  * __Adamant Nature
   * Max out Atk with Protein
   * Max out HP with HPUp, or Speed with Carbos
 * Recommended Moves:
