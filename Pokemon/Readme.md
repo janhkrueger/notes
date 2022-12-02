@@ -1,3 +1,7 @@
 # Pokemon
 
+## General
 List of all [PokeDex](PokemonDex.md)
+
+## Scarlet & Violet
+[Scarlet & Violet Marks](ScarletViolet/SV_Marks.md)
