@@ -146,10 +146,11 @@ SP Def: 240
 SP Atk: 178
 
 ## Flutter Mane
-Ability: __Protosynthesis__
-Nature: __Modest__
-Tera Type: __Fairy__
-Held Item: __Covert Cloak__ (purchase from Delibird Presents in Levincia city $20,000)
+* Ability: __Protosynthesis__
+* Nature: __Modest__
+* Tera Type: __Fairy__
+* Held Item: __Covert Cloak__
+
 
 * Recommended EV
   * Max Sp. Atk (26 Calcium from Chansey Supply, $10,000 each)
