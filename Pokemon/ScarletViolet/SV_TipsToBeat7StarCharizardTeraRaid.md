@@ -40,7 +40,6 @@ Aside from being the only way to obtain Charizard in the game currently, the 7 S
 # Recommended Pokemon
 
 ## Azumarill ~ Powerful Physical Attacker
-
 * __Water/Fairy__ typing makes it immune or resistant to most of Charizard’s attacks.
 * Ability __Huge Power__ doubles its attacking stats, allowing it to nuke Charizard down if properly set up.
 * Recommended Stat Spread
@@ -121,3 +120,59 @@ Aside from being the only way to obtain Charizard in the game currently, the 7 S
 
 
 Source: [NintendoSoup](https://nintendosoup.com/guide-tips-to-beat-pokemon-scarlet-violets-7-star-charizard-tera-raid/)
+
+
+## Grimmsnarl -  Solo Build
+So to explain, Assault Vest helps mitigate initial damage, and have your EV's in Attack and Sp. Def.
+Focus on Spirit Break to lower Charizards Sp. Att and by the end of the sixth attack, his attacks will barely tickle. Spirit Break may need a PP boost, but it lasted me until I had 2 hits left, in which I swapped to False Surrender.
+Drain Punch and Leech Life were there to help heal, however they never got use so if you prefer Play Rough then feel free to change it up.
+
+* Ability __Pickpocket__
+* Recommended Items
+  * __Assault Vest__
+* Recommended Moves:
+  * __Drain Punch__
+  * __Spirit Break__
+  * __False Surrender__
+  * __Leech Life__
+
+HP 327
+Attack 360
+Defence 166
+Speed 138
+SP Def: 240
+SP Atk: 178
+
+## Flutter Mane!
+Ability: __Protosynthesis__
+Nature: __Modest__
+Tera Type: __Fairy__
+Held Item: __Covert Cloak__ (purchase from Delibird Presents in Levincia city $20,000)
+
+* Recommended EV
+  * Max Sp. Atk (26 Calcium from Chansey Supply, $10,000 each)
+  * Max Sp. Def (26 Zinc from Chansey Supply, $10,000 each)
+* Recommended IVs
+  * Max out IV's using bottlecaps
+* Recommended Moves:
+  * __Fake Tears__ (from TM)
+  * __Moonblast__ (learned naturally)
+  * __Draining Kiss__ (from TM)
+  * __Calm Mind__ (from TM)
+
+If done correctly your Flutter Mane should have 405 Sp. Atk and 369 Sp. Def. If there was an issue and this isn't exact, don't worry too much. This Fluttermane is more than powerful enough to take on Charizard and a minor difference wont change that.
+
+### Strategy
+This is super simple and __fast__. This exact attack pattern takes him out in about a third of the total time. Charizard only uses Special Attacks so regular defense is completely unnecessary. At the beginning of the fight Charizard uses Overheat then cleanses himself. __He never cleanses debuffs from himself again for the rest of the fight!__
+
+__Calm Mind once on your first turn. After that, hit him with Fake Tears three times. If your HP falls below 130, use Draining Kiss. If not, spam Moonblast. Terastallize as soon as you can.__
+
+__*Thats literally it*__
+
+You may have to sneak a Draining Kiss in with the Fake Tears if Charizard targets you with the initial Overheat, which he doesn't always.
+
+`Do I need to use Calm Mind until I'm maxed?`
+__NO__. this is a vmassive waste of time__ and completely unnecessary.
+
+Should I use Calm Mind again after Charizard cleanses my buff?
+NO. Again completely unnecessary. Once you get to the point where you Terastallize, he is going to die in about 2 Moonblasts
