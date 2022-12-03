@@ -1,8 +1,3 @@
----
-created: 2021-09-27T00:13:05+02:00
-modified: 2021-09-27T00:13:21+02:00
----
-
 # Rote Linsen-Kokos-Suppe
 
 ## Zutaten
@@ -21,7 +16,7 @@ modified: 2021-09-27T00:13:21+02:00
 
 - Arbeitszeit ca. 10 Minuten
 - Koch-/Backzeit ca. 20 Minuten
-- Gesamtzeit ca. 30 Minuten 
+- Gesamtzeit ca. 30 Minuten
 
 Die Zwiebeln schälen und in feine Würfel schneiden. Im Sonnenblumenöl glasig anschwitzen. Rote Linsen, Tomaten mit Saft und Kokosmilch hinzufügen und gut umrühren. Mit der Gemüsebrühe aufgießen und die Suppe ca. 20 Minuten köcheln.
 

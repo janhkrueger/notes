@@ -1,8 +1,3 @@
----
-created: 2021-09-27T00:13:05+02:00
-modified: 2021-09-27T00:13:21+02:00
----
-
 # Ofengemüse mit Kürbis und Knoblauch-Paprika-Dip
 
 ## Zutaten
@@ -34,7 +29,7 @@ modified: 2021-09-27T00:13:21+02:00
 
 - Arbeitszeit ca. 10 Minuten
 - Koch-/Backzeit ca. 30 Minuten
-- Gesamtzeit ca. 40 Minuten 
+- Gesamtzeit ca. 40 Minuten
 
 Das Olivenöl mit dem Honig und den Gewürzen verrühren und zur Seite stellen. Die Kartoffeln und die Möhren schälen und in kleine, möglichst gleich große Stücke schneiden. Die Knoblauchzehen schälen und in Scheiben schneiden. Man kann, wenn man will, eine beschichtete Auflaufform damit ausreiben.
 
