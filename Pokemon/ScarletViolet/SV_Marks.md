@@ -19,7 +19,6 @@ In addition to that, there's a special Meal Power, the Title Power, which increa
 
  **Picture**                    | **Mark Name**   | **Description**                                               | **Title**            | **Method**                                                                                                       | **Chance**
 --------------------------------|-----------------|---------------------------------------------------------------|----------------------|------------------------------------------------------------------------------------------------------------------|-----------------------
- New Marks
  ![Destiny-Zeichen](../pokemonimages/destinymark.png)                  | Destiny Mark    | A mark of a chosen Pokémon.                                   | the Chosen One       | Available randomly on wild Pokémon on the day set as your birthday                                               |
  ![Itemfinder-Zeichen](../pokemonimages/itemfindermark.png)                | Itemfinder Mark | A mark for a Pokémon that likes to pick things up.            | the Treasure Hunter  |                                                                                                                  | Currently Unavailable
  ![Gourmand-Zeichen](../pokemonimages/gourmandmark.png)| Gourmand Mark   | A mark for a Pokémon gourmet.                                 | the Gourmet          | Make sandwiches with the Pokémon. Purchase a food item in a shop |
