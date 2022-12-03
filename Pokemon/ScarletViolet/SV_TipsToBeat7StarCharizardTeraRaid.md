@@ -121,8 +121,10 @@ Aside from being the only way to obtain Charizard in the game currently, the 7 S
 
 Source: [NintendoSoup](https://nintendosoup.com/guide-tips-to-beat-pokemon-scarlet-violets-7-star-charizard-tera-raid/)
 
+# Solo Builds
 
-## Grimmsnarl -  Solo Build
+
+## Grimmsnarl
 So to explain, Assault Vest helps mitigate initial damage, and have your EV's in Attack and Sp. Def.
 Focus on Spirit Break to lower Charizards Sp. Att and by the end of the sixth attack, his attacks will barely tickle. Spirit Break may need a PP boost, but it lasted me until I had 2 hits left, in which I swapped to False Surrender.
 Drain Punch and Leech Life were there to help heal, however they never got use so if you prefer Play Rough then feel free to change it up.
@@ -143,7 +145,7 @@ Speed 138
 SP Def: 240
 SP Atk: 178
 
-## Flutter Mane!
+## Flutter Mane
 Ability: __Protosynthesis__
 Nature: __Modest__
 Tera Type: __Fairy__
