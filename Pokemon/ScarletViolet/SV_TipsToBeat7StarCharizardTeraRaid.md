@@ -78,6 +78,8 @@ Aside from being the only way to obtain Charizard in the game currently, the 7 S
 * Recommended Items:
   * __Metronome__ ~ Increases the power of moves used many times in a row.
   * __Covert Cloak__ ~ Protects Sylveon from additional effects of moves, such as Hurricane’s confusion.
+
+### Sylveon - Solo build
 * Sylveon is capable of soloing the raid with Metronome and Draining Kiss.
   * Use Calm Mind to boost stats.
   * Use Fake Tears 3 times to drop Charizard’s Sp.Def to the lowest level possible.
