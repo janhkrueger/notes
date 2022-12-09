@@ -1,219 +1,404 @@
-# Paldea-Pokédex
-
-| Nr. | Icon | Name |
-| --- | ---- | ---- |
-| 001 | [[Datei:Sugimori Felori.png | [[Felori]] |
-| 004 | [[Datei:Sugimori Krokel.png | [[Krokel]] |
-| 007 | [[Datei:Sugimori Kwaks.png | [[Kwaks]] |
-| 010 | [[Datei:Sugimori Ferkuli.png | [[Ferkuli]] |
-| 019 | ![Dartiri](../pokemonimages/Pok%C3%A9mon-Icon_661.png) | [[Dartiri]] |
-| 020 | ![Dartignis](../pokemonimages/Pok%C3%A9mon-Icon_662.png) | [[Dartignis]] |
-| 021 | ![Fiaro](../pokemonimages/Pok%C3%A9mon-Icon_663.png) | [[Fiaro]] |
-| 022 | [[Datei:Sugimori Pamo.png | [[Pamo]] |
-| 025 | ![Hunduster](../pokemonimages/Pok%C3%A9mon-Icon_228.png) | [[Hunduster]] |
-| 026 | ![Hundemon](../pokemonimages/Pok%C3%A9mon-Icon_229.png) | [[Hundemon]] |
-| 076 | [[Datei:Sugimori Hefel.png | [[Hefel]] |
-| 134 | ![Karpador](../pokemonimages/Pok%C3%A9mon-Icon_129.png) | [[Karpador]] |
-| 135 | ![Garados](../pokemonimages/Pok%C3%A9mon-Icon_130.png) | [[Garados]] |
-| 179 | ![Evoli](../pokemonimages/Pok%C3%A9mon-Icon_133.png) | [[Evoli]] |
-| 180 | ![Aquana](../pokemonimages/Pok%C3%A9mon-Icon_134.png) | [[Aquana]] |
-| 181 | ![Blitza](../pokemonimages/Pok%C3%A9mon-Icon_135.png) | [[Blitza]] |
-| 182 | ![Flamara](../pokemonimages/Pok%C3%A9mon-Icon_136.png) | [[Flamara]] |
-| 183 | ![Psiana](../pokemonimages/Pok%C3%A9mon-Icon_196.png) | [[Psiana]] |
-| 184 | ![Nachtara](../pokemonimages/Pok%C3%A9mon-Icon_197.png) | [[Nachtara]] |
-| 185 | ![Folipurba](../pokemonimages/Pok%C3%A9mon-Icon_470.png) | [[Folipurba]] |
-| 186 | ![Glaziola](../pokemonimages/Pok%C3%A9mon-Icon_471.png) | [[Glaziola]] |
-| 187 | ![Feelinara](../pokemonimages/Pok%C3%A9mon-Icon_700.png) | [[Feelinara]] |
-| 192 | ![Girafarig](../pokemonimages/Pok%C3%A9mon-Icon_203.png) | [[Girafarig]] |
-| 193 | [[Datei:Sugimori Farigiraf.png | [[Farigiraf]] |
-| 198 | ![Toxel](../pokemonimages/Pok%C3%A9mon-Icon_848.png) | [[Toxel]] |
-| ??? | ![Pichu](../pokemonimages/Pok%C3%A9mon-Icon_172.png) | [[Pichu]] |
-| ??? | ![Pikachu](../pokemonimages/Pok%C3%A9mon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)  |
-| ??? | ![Raichu](../pokemonimages/Pok%C3%A9mon-Icon_026.png) | [[Raichu]] |
-| ??? | ![Digda](../pokemonimages/Pok%C3%A9mon-Icon_050.png) | [[Digda]] |
-| ??? | ![Fluffeluff](../pokemonimages/Pok%C3%A9mon-Icon_174.png) | [[Fluffeluff]] |
-| ??? | ![Pummeluff](../pokemonimages/Pok%C3%A9mon-Icon_039.png) | [[Pummeluff]] |
-| ??? | ![Knuddeluff](../pokemonimages/Pok%C3%A9mon-Icon_040.png) | [[Knuddeluff]] |
-| ??? | ![Bluzuk](../pokemonimages/Pok%C3%A9mon-Icon_048.png) | [[Bluzuk]] |
-| ??? | ![Mauzi](../pokemonimages/Pok%C3%A9mon-Icon_052.png) | [[Mauzi]] |
-| ??? | ![![Snobilikat](../pokemonimages/Pokémon-Icon_053.png)](../pokemonimages/Pok%C3%A9mon-Icon_053.png) | [[![Snobilikat](../pokemonimages/Pokémon-Icon_053.png)]] |
-| ??? | ![Enton](../pokemonimages/Pok%C3%A9mon-Icon_054.png) | [[Enton]] |
-| ??? | ![Entoron](../pokemonimages/Pok%C3%A9mon-Icon_055.png) | [[Entoron]] |
-| ??? | ![Fukano](../pokemonimages/Pok%C3%A9mon-Icon_058.png) | [[Fukano]] |
-| ??? | ![Arkani](../pokemonimages/Pok%C3%A9mon-Icon_059.png) | [[Arkani]] |
-| ??? | ![Flegmon](../pokemonimages/Pok%C3%A9mon-Icon_079.png) | [[Flegmon]] |
-| ??? | ![Lahmus](../pokemonimages/Pok%C3%A9mon-Icon_080.png) | [[Lahmus]] |
-| ??? | ![Laschoking](../pokemonimages/Pok%C3%A9mon-Icon_199.png) | [[Laschoking]] |
-| ??? | ![Magnetilo](../pokemonimages/Pok%C3%A9mon-Icon_081.png) | [[Magnetilo]] |
-| ??? | ![Magneton](../pokemonimages/Pok%C3%A9mon-Icon_082.png) | [[Magneton]] |
-| ??? | ![Magnezone](../pokemonimages/Pok%C3%A9mon-Icon_462.png) | [[Magnezone]] |
-| ??? | ![Sleima](../pokemonimages/Pok%C3%A9mon-Icon_088.png) | [[Sleima]] |
-| ??? | ![Muschas](../pokemonimages/Pok%C3%A9mon-Icon_090.png) | [[Muschas]] |
-| ??? | ![Austos](../pokemonimages/Pok%C3%A9mon-Icon_091.png) | [[Austos]] |
-| ??? | ![Nebulak](../pokemonimages/Pok%C3%A9mon-Icon_092.png) | [[Nebulak]] |
-| ??? | ![Alpollo](../pokemonimages/Pok%C3%A9mon-Icon_093.png) | [[Alpollo]] |
-| ??? | ![Gengar](../pokemonimages/Pok%C3%A9mon-Icon_094.png) | [[Gengar]] |
-| ??? | ![Traumato](../pokemonimages/Pok%C3%A9mon-Icon_096.png) | [[Traumato]] |
-| ??? | ![Wonneira](../pokemonimages/Pok%C3%A9mon-Icon_440.png) | [[Wonneira]] |
-| ??? | ![Chaneira](../pokemonimages/Pok%C3%A9mon-Icon_113.png) | [[Chaneira]] |
-| ??? | ![Heitera](../pokemonimages/Pok%C3%A9mon-Icon_242.png) | [[Heiteira]] |
-| ??? | ![Sichlor](../pokemonimages/Pok%C3%A9mon-Icon_123.png) | [[Sichlor]] |
-| ??? | ![Scherox](../pokemonimages/Pok%C3%A9mon-Icon_212.png) | [[Scherox]] |
-| ??? | ![Dratini](../pokemonimages/Pok%C3%A9mon-Icon_147.png) | [[Dratini]] |
-| ??? | ![Dragonir](../pokemonimages/Pok%C3%A9mon-Icon_148.png) | [[Dragonir]] |
-| ??? | ![Dragoran](../pokemonimages/Pok%C3%A9mon-Icon_149.png) | [[Dragoran]] |
-| ??? | ![Voltilamm](../pokemonimages/Pok%C3%A9mon-Icon_179.png) | [[Voltilamm]] |
-| ??? | ![Waaty](../pokemonimages/Pok%C3%A9mon-Icon_180.png) | [[Waaty]] |
-| ??? | ![Azurill](../pokemonimages/Pok%C3%A9mon-Icon_298.png) | [[Azurill]] |
-| ??? | ![Marill](../pokemonimages/Pok%C3%A9mon-Icon_183.png) | [[Marill]] |
-| ??? | ![Azumarill](../pokemonimages/Pok%C3%A9mon-Icon_184.png) | [[Azumarill]] |
-| ??? | ![Mobai](../pokemonimages/Pok%C3%A9mon-Icon_438.png) | [[Mobai]] |
-| ??? | ![Mogelbaum](../pokemonimages/Pok%C3%A9mon-Icon_185.png) | [[Mogelbaum]] |
-| ??? | ![Hoppspross](../pokemonimages/Pok%C3%A9mon-Icon_187.png) | [[Hoppspross]] |
-| ??? | ![Hubelupf](../pokemonimages/Pok%C3%A9mon-Icon_188.png) | [[Hubelupf]] |
-| ??? | ![Papungha](../pokemonimages/Pok%C3%A9mon-Icon_189.png) | [[Papungha]] |
-| ??? | ![Sonnkern](../pokemonimages/Pok%C3%A9mon-Icon_191.png) | [[Sonnkern]] |
-| ??? | ![Sonnflora](../pokemonimages/Pok%C3%A9mon-Icon_192.png) | [[Sonnflora]] |
-| ??? | ![Kramurx](../pokemonimages/Pok%C3%A9mon-Icon_198.png) | [[Kramurx]] |
-| ??? | ![Kramshef](../pokemonimages/Pok%C3%A9mon-Icon_430.png) | [[Kramshef]] |
-| ??? | ![Traunfugil](../pokemonimages/Pok%C3%A9mon-Icon_200.png) | [[Traunfugil]] |
-| ??? | ![Traunmagil](../pokemonimages/Pok%C3%A9mon-Icon_429.png) | [[Traunmagil]] |
-| ??? | ![Tannza](../pokemonimages/Pok%C3%A9mon-Icon_204.png) | [[Tannza]] |
-| ??? | ![Forstellka](../pokemonimages/Pok%C3%A9mon-Icon_205.png) | [[Forstellka]] |
-| ??? | ![Dummisel](../pokemonimages/Pok%C3%A9mon-Icon_206.png) | [[Dummisel]] |
-| ??? | ![Sniebel](../pokemonimages/Pok%C3%A9mon-Icon_215.png) | [[Sniebel]] |
-| ??? | ![Snibunna](../pokemonimages/Pok%C3%A9mon-Icon_461.png) | [[Snibunna]] |
-| ??? | ![Teddiursa](../pokemonimages/Pok%C3%A9mon-Icon_216.png) | [[Teddiursa]] |
-| ??? | ![Phanpy](../pokemonimages/Pok%C3%A9mon-Icon_231.png) | [[Phanpy]] |
-| ??? | ![Donphan](../pokemonimages/Pok%C3%A9mon-Icon_232.png) | [[Donphan]] |
-| ??? | ![Larvitar](../pokemonimages/Pok%C3%A9mon-Icon_246.png) | [[Larvitar]] |
-| ??? | ![Pupitar](../pokemonimages/Pok%C3%A9mon-Icon_247.png) | [[Pupitar]] |
-| ??? | ![Despotar](../pokemonimages/Pok%C3%A9mon-Icon_248.png) | [[Despotar]] |
-| ??? | ![Wingull](../pokemonimages/Pok%C3%A9mon-Icon_278.png) | [[Wingull]] |
-| ??? | ![Pelipper](../pokemonimages/Pok%C3%A9mon-Icon_279.png) | [[Pelipper]] |
-| ??? | ![Trasla](../pokemonimages/Pok%C3%A9mon-Icon_280.png) | [[Trasla]] |
-| ??? | ![Kirlia](../pokemonimages/Pok%C3%A9mon-Icon_281.png) | [[Kirlia]] |
-| ??? | ![Guardevoir](../pokemonimages/Pok%C3%A9mon-Icon_282.png) | [[Guardevoir]] |
-| ??? | ![Galagladi](../pokemonimages/Pok%C3%A9mon-Icon_475.png) | [[Galagladi]] |
-| ??? | ![Knilz](../pokemonimages/Pok%C3%A9mon-Icon_285.png) | [[Knilz]] |
-| ??? | ![Kapilz](../pokemonimages/Pok%C3%A9mon-Icon_286.png) | [[Kapilz]] |
-| ??? | ![Bummelz](../pokemonimages/Pok%C3%A9mon-Icon_287.png) | [[Bummelz]] |
-| ??? | ![Muntier](../pokemonimages/Pok%C3%A9mon-Icon_288.png) | [[Muntier]] |
-| ??? | ![Letarking](../pokemonimages/Pok%C3%A9mon-Icon_289.png) | [[Letarking]] |
-| ??? | ![Makuhita](../pokemonimages/Pok%C3%A9mon-Icon_296.png) | [[Makuhita]] |
-| ??? | ![Hariyama](../pokemonimages/Pok%C3%A9mon-Icon_297.png) | [[Hariyama]] |
-| ??? | ![Zobiris](../pokemonimages/Pok%C3%A9mon-Icon_302.png) | [[Zobiris]] |
-| ??? | ![Meditie](../pokemonimages/Pok%C3%A9mon-Icon_307.png) | [[Meditie]] |
-| ??? | ![Meditalis](../pokemonimages/Pok%C3%A9mon-Icon_308.png) | [[Meditalis]] |
-| ??? | ![Qurtel](../pokemonimages/Pok%C3%A9mon-Icon_324.png) | [[Qurtel]] |
-| ??? | ![Tuska](../pokemonimages/Pok%C3%A9mon-Icon_331.png) | [[Tuska]] |
-| ??? | ![Noktuska](../pokemonimages/Pok%C3%A9mon-Icon_332.png) | [[Noktuska]] |
-| ??? | ![Wablu](../pokemonimages/Pok%C3%A9mon-Icon_333.png) | [[Wablu]] |
-| ??? | ![Altaria](../pokemonimages/Pok%C3%A9mon-Icon_334.png) | [[Altaria]] |
-| ??? | ![Sengo](../pokemonimages/Pok%C3%A9mon-Icon_335.png) | [[Sengo]] |
-| ??? | ![Vipitis](../pokemonimages/Pok%C3%A9mon-Icon_336.png) | [[Vipitis]] |
-| ??? | ![Tropius](../pokemonimages/Pok%C3%A9mon-Icon_357.png) | [[Tropius]] |
-| ??? | ![Schneppke](../pokemonimages/Pok%C3%A9mon-Icon_361.png) | [[Schneppke]] |
-| ??? | ![Firnontor](../pokemonimages/Pok%C3%A9mon-Icon_362.png) | [[Firnontor]] |
-| ??? | ![Kindwurm](../pokemonimages/Pok%C3%A9mon-Icon_371.png) | [[Kindwurm]] |
-| ??? | ![Draschel](../pokemonimages/Pok%C3%A9mon-Icon_372.png) | [[Draschel]] |
-| ??? | ![Brutalanda](../pokemonimages/Pok%C3%A9mon-Icon_373.png) | [[Brutalanda]] |
-| ??? | ![Staralili](../pokemonimages/Pok%C3%A9mon-Icon_396.png) | [[Staralili]] |
-| ??? | ![Staravia](../pokemonimages/Pok%C3%A9mon-Icon_397.png) | [[Staravia]] |
-| ??? | ![Staraptor](../pokemonimages/Pok%C3%A9mon-Icon_398.png) | [[Staraptor]] |
-| ??? | ![Sheinux](../pokemonimages/Pok%C3%A9mon-Icon_403.png) | [[Sheinux]] |
-| ??? | ![Luxio](../pokemonimages/Pok%C3%A9mon-Icon_404.png) | [[Luxio]] |
-| ??? | ![Luxtra](../pokemonimages/Pok%C3%A9mon-Icon_405.png) | [[Luxtra]] |
-| ??? | ![Wadribie](../pokemonimages/Pok%C3%A9mon-Icon_415.png) | [[Wadribie]] |
-| ??? | ![Pachirisu](../pokemonimages/Pok%C3%A9mon-Icon_417.png) | [[Pachirisu]] |
-| ??? | ![Driftlon](../pokemonimages/Pok%C3%A9mon-Icon_425.png) | [[Driftlon]] |
-| ??? | ![Drifzepeli](../pokemonimages/Pok%C3%A9mon-Icon_426.png) | [[Drifzepeli]] |
-| ??? | ![Bronzel](../pokemonimages/Pok%C3%A9mon-Icon_436.png) | [[Bronzel]] |
-| ??? | ![Bronzong](../pokemonimages/Pok%C3%A9mon-Icon_437.png) | [[Bronzong]] |
-| ??? | ![Riolu](../pokemonimages/Pok%C3%A9mon-Icon_447.png) | [[Riolu]] |
-| ??? | ![Lucario](../pokemonimages/Pok%C3%A9mon-Icon_448.png) | [[Lucario]] |
-| ??? | ![Hippopotas](../pokemonimages/Pok%C3%A9mon-Icon_449.png) | [[Hippopotas]] |
-| ??? | ![Hippoterus](../pokemonimages/Pok%C3%A9mon-Icon_450.png) | [[Hippoterus]] |
-| ??? | ![Glibunkel](../pokemonimages/Pok%C3%A9mon-Icon_453.png) | [[Glibunkel]] |
-| ??? | ![Finneon](../pokemonimages/Pok%C3%A9mon-Icon_456.png) | [[Finneon]] |
-| ??? | ![Lumineon](../pokemonimages/Pok%C3%A9mon-Icon_457.png) | [[Lumineon]] |
-| ??? | ![Shnebedeck](../pokemonimages/Pok%C3%A9mon-Icon_459.png) | [[Shnebedeck]] |
-| ??? | ![Rexblisar](../pokemonimages/Pok%C3%A9mon-Icon_460.png) | [[Rexblisar]] |
-| ??? | ![Rotom](../pokemonimages/Pok%C3%A9mon-Icon_479.png) | [[Rotom]] |
-| ??? | ![Lilminip](../pokemonimages/Pok%C3%A9mon-Icon_548.png) | [[Lilminip]] |
-| ??? | ![Dressella](../pokemonimages/Pok%C3%A9mon-Icon_549.png) | [[Dressella]] |
-| ??? | ![Ganovil](../pokemonimages/Pok%C3%A9mon-Icon_551.png) | [[Ganovil]] |
-| ??? | ![Rokkaiman](../pokemonimages/Pok%C3%A9mon-Icon_552.png) | [[Rokkaiman]] |
-| ??? | ![Zorua](../pokemonimages/Pok%C3%A9mon-Icon_570a.png) | [[Zorua]]<br>(Hisui-Form) |
-| ??? | ![Zorua](../pokemonimages/Pok%C3%A9mon-Icon_571a.png) | [[Zoroark]]<br>(Hisui-Form) |
-| ??? | ![Sesokitz](../pokemonimages/Pok%C3%A9mon-Icon_585.png) | [[Sesokitz]] |
-| ??? | ![Kronjuwild](../pokemonimages/Pok%C3%A9mon-Icon_586.png) | [[Kronjuwild]] |
-| ??? | ![Zapplardin](../pokemonimages/Pok%C3%A9mon-Icon_602.png) | [[Zapplardin]] |
-| ??? | ![Zapplalek](../pokemonimages/Pok%C3%A9mon-Icon_603.png) | [[Zapplalek]] |
-| ??? | ![Zapplarang](../pokemonimages/Pok%C3%A9mon-Icon_604.png) | [[Zapplarang]] |
-| ??? | ![Petznief](../pokemonimages/Pok%C3%A9mon-Icon_613.png) | [[Petznief]] |
-| ??? | ![Siberio](../pokemonimages/Pok%C3%A9mon-Icon_614.png) | [[Siberio]] |
-| ??? | ![Frigometri](../pokemonimages/Pok%C3%A9mon-Icon_615.png) | [[Frigometri]] |
-| ??? | ![Kapuno](../pokemonimages/Pok%C3%A9mon-Icon_633.png) | [[Kapuno]] |
-| ??? | ![Duodino](../pokemonimages/Pok%C3%A9mon-Icon_634.png) | [[Duodino]] |
-| ??? | ![Trikephalo](../pokemonimages/Pok%C3%A9mon-Icon_635.png) | [[Trikephalo]] |
-| ??? | ![Purmel](../pokemonimages/Pok%C3%A9mon-Icon_664.png) | [[Purmel]] |
-| ??? | ![Puponcho](../pokemonimages/Pok%C3%A9mon-Icon_665.png) | [[Puponcho]] |
-| ??? | ![Vivillon](../pokemonimages/Pok%C3%A9mon-Icon_666.png) | [[Vivillon]] |
-| ??? | ![Leufeo](../pokemonimages/Pok%C3%A9mon-Icon_667.png) | [[Leufeo]] |
-| ??? | ![Flabébé](../pokemonimages/Pok%C3%A9mon-Icon_669.png) | [[Flabébé]] |
-| ??? | ![Mähikel](../pokemonimages/Pok%C3%A9mon-Icon_672.png) | [[Mähikel]] |
-| ??? | ![Chevrumm](../pokemonimages/Pok%C3%A9mon-Icon_673.png) | [[Chevrumm]] |
-| ??? | ![Scampisto](../pokemonimages/Pok%C3%A9mon-Icon_692.png) | [[Scampisto]] |
-| ??? | ![Wummer](../pokemonimages/Pok%C3%A9mon-Icon_693.png) | [[Wummer]] |
-| ??? | ![Viscora](../pokemonimages/Pok%C3%A9mon-Icon_704.png) | [[Viscora]] |
-| ??? | ![Viscargot](../pokemonimages/Pok%C3%A9mon-Icon_705.png) | [[Viscargot]] |
-| ??? | ![Viscogon](../pokemonimages/Pok%C3%A9mon-Icon_706.png) | [[Viscogon]] |
-| ??? | ![UHaFnir](../pokemonimages/Pok%C3%A9mon-Icon_714.png) | [[eF-eM]] |
-| ??? | ![UHaFnir](../pokemonimages/Pok%C3%A9mon-Icon_715.png) | [[UHaFnir]] |
-| ??? | ![Choreogel](../pokemonimages/Pok%C3%A9mon-Icon_741.png) | [[Choreogel]] |
-| ??? | ![Wuffels](../pokemonimages/Pok%C3%A9mon-Icon_744.png) | [[Wuffels]] |
-| ??? | ![Garstella](../pokemonimages/Pok%C3%A9mon-Icon_747.png) | [[Garstella]] |
-| ??? | ![Aggrostella](../pokemonimages/Pok%C3%A9mon-Icon_748.png) | [[Aggrostella]] |
-| ??? | ![Pampuli](../pokemonimages/Pok%C3%A9mon-Icon_749.png) | [[Pampuli]] |
-| ??? | ![Imantis](../pokemonimages/Pok%C3%A9mon-Icon_753.png) | [[Imantis]] |
-| ??? | ![Manditea](../pokemonimages/Pok%C3%A9mon-Icon_754.png) | [[Mantidea]] |
-| ??? | ![Frubberl](../pokemonimages/Pok%C3%A9mon-Icon_761.png) | [[Frubberl]] |
-| ??? | ![Fruyal](../pokemonimages/Pok%C3%A9mon-Icon_762.png) | [[Frubaila]] |
-| ??? | ![Frubaila](../pokemonimages/Pok%C3%A9mon-Icon_763.png) | [[Fruyal]] |
-| ??? | ![Sankabuh](../pokemonimages/Pok%C3%A9mon-Icon_769.png) | [[Sankabuh]] |
-| ??? | ![Koalelu](../pokemonimages/Pok%C3%A9mon-Icon_775.png) | [[Koalelu]] |
-| ??? | ![Mimigma](../pokemonimages/Pok%C3%A9mon-Icon_778.png) | [[Mimigma]]
-| ??? | ![Raffel](../pokemonimages/Pok%C3%A9mon-Icon_819.png) | [[Raffel]] |
-| ??? | ![Schlaraffel](../pokemonimages/Pok%C3%A9mon-Icon_820.png) | [[Schlaraffel]] |
-| ??? | ![Kamehaps](../pokemonimages/Pok%C3%A9mon-Icon_833.png) | [[Kamehaps]] |
-| ??? | ![Kamalm](../pokemonimages/Pok%C3%A9mon-Icon_834.png) | [[Kamalm]] |
-| ??? | ![Klonkett](../pokemonimages/Pok%C3%A9mon-Icon_837.png) | [[Klonkett]] |
-| ??? | ![Wagong](../pokemonimages/Pok%C3%A9mon-Icon_838.png) | [[Wagong]] |
-| ??? | ![Montecarbo](../pokemonimages/Pok%C3%A9mon-Icon_839.png) | [[Montecarbo]] |
-| ??? | ![Knapfel](../pokemonimages/Pok%C3%A9mon-Icon_840.png) | [[Knapfel]] |
-| ??? | ![Fatalitee](../pokemonimages/Pok%C3%A9mon-Icon_854.png) | [[Fatalitee]] |
-| ??? | ![Mortipot](../pokemonimages/Pok%C3%A9mon-Icon_855.png) | [[Mortipot]] |
-| ??? | ![Brimova](../pokemonimages/Pok%C3%A9mon-Icon_856.png) | [[Brimova]] |
-| ??? | ![Bimano](../pokemonimages/Pok%C3%A9mon-Icon_857.png) | [[Brimano]] |
-| ??? | ![Silembrim](../pokemonimages/Pok%C3%A9mon-Icon_858.png) | [[Silembrim]] |
-| ??? | ![Britzigel](../pokemonimages/Pok%C3%A9mon-Icon_871.png) | [[Britzigel]] |
-| ??? | ![Snomnom](../pokemonimages/Pok%C3%A9mon-Icon_872.png) | [[Snomnom]] |
-| ??? | ![Humanolith](../pokemonimages/Pok%C3%A9mon-Icon_874.png) | [[Humanolith]] |
-| ??? | ![Kubuin](../pokemonimages/Pok%C3%A9mon-Icon_875.png) | [[Kubuin]] |
-| ??? | ![Kupfanti](../pokemonimages/Pok%C3%A9mon-Icon_878.png) | [[Kupfanti]] |
-| ??? | ![Patinaraja](../pokemonimages/Pok%C3%A9mon-Icon_879.png) | [[Patinaraja]] |
-| ??? | ![Felino](pokemonimages/112px-Sugimori_194a.png) | [[Felino]]<br>(Paldea-Form) |
-| ??? | [[Datei:Sugimori Olini.png | [[Olini]] |
-| ??? | [[Datei:Sugimori Kolowal.png | [[Kolowal]] |
-| ??? | [[Datei:Sugimori Mopex.png | [[Mopex]] |
-| ??? | [[Datei:Sugimori Affiti.png | [[Affiti]] |
-| ??? | [[Datei:Sugimori Klibbe.png | [[Klibbe]] |
-| ??? | [[Datei:Sugimori Schligda.png | [[Schligda]] |
-| ??? | [[Datei:Sugimori Crimanzo.png | [[Crimanzo]] |
-| ??? | [[Datei:Sugimori Azugladis.png | [[Azugladis]] |
-| ??? | ![Gruff](pokemonimages/77px-Sugimori_Gruff.png) | [[Gruff]] |
-| ??? | [[Datei:Sugimori Koraidon.png | [[Koraidon]] |
-| ??? | [[Datei:Sugimori Miraidon.png | [[Miraidon]] |
+ Nr. | Icon | Name
+-----|------------------------------------|----------------------------------
+ 001 | ![Felori](../pokemonimages/906.png) | [[Felori]]
+ 002 | ![Feliospa](../pokemonimages/Pokémon-Icon_907_KAPU.png) | [[Feliospa]]
+ 003 | ![Maskagato](../pokemonimages/Pokémon-Icon_908_KAPU.png) | [[Maskagato]]
+ 004 | ![Krokel](../pokemonimages/Pokémon-Icon_909_KAPU.png) | [[Krokel]]
+ 005 | ![Lokroko](../pokemonimages/Pokémon-Icon_910_KAPU.png) | [[Lokroko]]
+ 006 | ![Skelokrok](../pokemonimages/Pokémon-Icon_911_KAPU.png) | [[Skelokrok]]
+ 007 | ![Kwaks](../pokemonimages/Pokémon-Icon_912_KAPU.png) | [[Kwaks]]
+ 008 | ![Fuentente](../pokemonimages/Pokémon-Icon_913_KAPU.png) | [[Fuentente]]
+ 009 | ![Bailonda](../pokemonimages/Pokémon-Icon_914_KAPU.png) | [[Bailonda]]
+ 010 | ![Ferkuli](../pokemonimages/Pokémon-Icon_915_KAPU.png) | [[Ferkuli]]
+ 011 | ![Fragrunz](../pokemonimages/Pokémon-Icon_916_KAPU.png) | [[Fragrunz]]
+ 012 | ![Krokel](../pokemonimages/Pokémon-Icon_917_KAPU.png) | [[Tarundel]]
+ 013 | ![Krokel](../pokemonimages/Pokémon-Icon_918_KAPU.png) | [[Spinsidias]]
+ 014 | ![Krokel](../pokemonimages/Pokémon-Icon_919_KAPU.png) | [[Micrick]]
+ 015 | ![Krokel](../pokemonimages/Pokémon-Icon_920_KAPU.png) | [[Lextremo]]
+ 016 | ![Hoppspross](../pokemonimages/Pokémon-Icon_187.png) | [[Hoppspross]]
+ 017 | ![Krokel](../pokemonimages/Pokémon-Icon_188.png) | [[Hubelupf]]
+ 018 | ![Krokel](../pokemonimages/Pokémon-Icon_189_KAPU.png) | [[Papungha]]
+ 019 | ![Krokel](../pokemonimages/Pokémon-Icon_661_KAPU.png) | [[Dartiri]]
+ 020 | ![Krokel](../pokemonimages/Pokémon-Icon_662_KAPU.png) | [[Dartignis]]
+ 021 | ![Krokel](../pokemonimages/Pokémon-Icon_663_KAPU.png) | [[Fiaro]]
+ 022 | ![Krokel](../pokemonimages/Pokémon-Icon_921_KAPU.png) | [[Pamo]]
+ 023 | ![Krokel](../pokemonimages/Pokémon-Icon_922_KAPU.png) | [[Pamamo]]
+ 024 | ![Krokel](../pokemonimages/Pokémon-Icon_923_KAPU.png) | [[Pamomamo]]
+ 025 | ![Krokel](../pokemonimages/Pokémon-Icon_228.png) | [[Hunduster]]
+ 026 | ![Krokel](../pokemonimages/Pokémon-Icon_229_KAPU.png) | [[Hundemon]]
+ 027 | ![Krokel](../pokemonimages/Pokémon-Icon_734.png) | [[Mangunior]]
+ 028 | ![Krokel](../pokemonimages/Pokémon-Icon_735.png) | [[Manguspektor]]
+ 029 | ![Krokel](../pokemonimages/Pokémon-Icon_819_KAPU.png) | [[Raffel]]
+ 030 | ![Krokel](../pokemonimages/Pokémon-Icon_820.png) | [[Schlaraffel]]
+ 031 | ![Krokel](../pokemonimages/Pokémon-Icon_191_KAPU.png) | [[Sonnkern]]
+ 032 | ![Krokel](../pokemonimages/Pokémon-Icon_192_KAPU.png) | [[Sonnflora]]
+ 033 | ![Krokel](../pokemonimages/Pokémon-Icon_401_KAPU.png) | [[Zirpurze]]
+ 034 | ![Krokel](../pokemonimages/Pokémon-Icon_402_KAPU.png) | [[Zirpeise]]
+ 035 | ![Krokel](../pokemonimages/Pokémon-Icon_664_KAPU.png) | [[Purmel]]
+ 036 | ![Krokel](../pokemonimages/Pokémon-Icon_665_KAPU.png) | [[Puponcho]]
+ 037 | ![Krokel](../pokemonimages/Pokémon-Icon_666r_KAPU.png)| [[Vivillon]]
+ 038 | ![Krokel](../pokemonimages/Pokémon-Icon_415_KAPU.png) | [[Wadribie]]
+ 039 | ![Krokel](../pokemonimages/Pokémon-Icon_416_KAPU.png) | [[Honweisel]]
+ 040 | ![Krokel](../pokemonimages/Pokémon-Icon_821_KAPU.png) | [[Meikro]]
+ 041 | ![Krokel](../pokemonimages/Pokémon-Icon_822_KAPU.png) | [[Kranoviz]]
+ 042 | ![Krokel](../pokemonimages/Pokémon-Icon_823_KAPU.png) | [[Krarmor]]
+ 043 | ![Krokel](../pokemonimages/Pokémon-Icon_440_KAPU.png) | [[Wonneira]]
+ 044 | ![Krokel](../pokemonimages/Pokémon-Icon_113_KAPU.png) | [[Chaneira]]
+ 045 | ![Krokel](../pokemonimages/Pokémon-Icon_242_KAPU.png) | [[Heiteira]]
+ 046 | ![Krokel](../pokemonimages/Pokémon-Icon_298_KAPU.png) | [[Azurill]]
+ 047 | ![Krokel](../pokemonimages/Pokémon-Icon_183_KAPU.png) | [[Marill]]
+ 048 | ![Krokel](../pokemonimages/Pokémon-Icon_184_KAPU.png) | [[Azumarill]]
+ 049 | ![Krokel](../pokemonimages/Pokémon-Icon_283_KAPU.png) | [[Gehweiher]]
+ 050 | ![Krokel](../pokemonimages/Pokémon-Icon_284_KAPU.png) | [[Maskeregen]]
+ 051 | ![Krokel](../pokemonimages/Pokémon-Icon_418_KAPU.png) | [[Bamelin]]
+ 052 | ![Krokel](../pokemonimages/Pokémon-Icon_419_KAPU.png) | [[Bojelin]]
+ 053 | ![Krokel](../pokemonimages/Pokémon-Icon_194_KAPU.png) | x50px]]
+ 054 | ![Krokel](../pokemonimages/Pokémon-Icon_980_KAPU.png) | [[Suelord]]
+ 055 | ![Krokel](../pokemonimages/Pokémon-Icon_054_KAPU.png) | [[Enton]]
+ 056 | ![Krokel](../pokemonimages/Pokémon-Icon_055_KAPU.png) | [[Entoron]]
+ 057 | ![Krokel](../pokemonimages/Pokémon-Icon_833_KAPU.png) | [[Kamehaps]]
+ 058 | ![Krokel](../pokemonimages/Pokémon-Icon_834_KAPU.png) | [[Kamalm]]
+ 059 | ![Krokel](../pokemonimages/Pokémon-Icon_174_KAPU.png) | [[Fluffeluff]]
+ 060 | ![Krokel](../pokemonimages/Pokémon-Icon_039_KAPU.png) | [[Pummeluff]]
+ 061 | ![Krokel](../pokemonimages/Pokémon-Icon_040_KAPU.png) | [[Knuddeluff]]
+ 062 | ![Krokel](../pokemonimages/Pokémon-Icon_280_KAPU.png) | [[Trasla]]
+ 063 | ![Krokel](../pokemonimages/Pokémon-Icon_281_KAPU.png) | [[Kirlia]]
+ 064 | ![Krokel](../pokemonimages/Pokémon-Icon_282_KAPU.png) | [[Guardevoir]]
+ 065 | ![Krokel](../pokemonimages/Pokémon-Icon_475_KAPU.png) | [[Galagladi]]
+ 066 | ![Krokel](../pokemonimages/Pokémon-Icon_096_KAPU.png) | [[Traumato]]
+ 067 | ![Krokel](../pokemonimages/Pokémon-Icon_097_KAPU.png) | [[Hypno]]
+ 068 | ![Krokel](../pokemonimages/Pokémon-Icon_092_KAPU.png) | [[Nebulak]]
+ 069 | ![Krokel](../pokemonimages/Pokémon-Icon_093_KAPU.png) | [[Alpollo]]
+ 070 | ![Krokel](../pokemonimages/Pokémon-Icon_094_KAPU.png) | [[Gengar]]
+ 071 | ![Krokel](../pokemonimages/Pokémon-Icon_924_KAPU.png) | [[Zwieps]]
+ 072 | ![Krokel](../pokemonimages/Pokémon-Icon_925_KAPU.png) | [[Famieps]]
+ 073 | ![Krokel](../pokemonimages/Pokémon-Icon_172_KAPU.png) | [[Pichu]]
+ 074 | ![Krokel](../pokemonimages/Pokémon-Icon_025_KAPU.png) | [[Pikachu]]
+ 075 | ![Krokel](../pokemonimages/Pokémon-Icon_026_KAPU.png) | [[Raichu]]
+ 076 | ![Krokel](../pokemonimages/Pokémon-Icon_926_KAPU.png) | [[Hefel]]
+ 077 | ![Krokel](../pokemonimages/Pokémon-Icon_927_KAPU.png) | [[Backel]]
+ 078 | ![Krokel](../pokemonimages/Pokémon-Icon_287_KAPU.png) | [[Bummelz]]
+ 079 | ![Krokel](../pokemonimages/Pokémon-Icon_288_KAPU.png) | [[Muntier]]
+ 080 | ![Krokel](../pokemonimages/Pokémon-Icon_289_KAPU.png) | [[Letarking]]
+ 081 | ![Krokel](../pokemonimages/Pokémon-Icon_761_KAPU.png) | [[Frubberl]]
+ 082 | ![Krokel](../pokemonimages/Pokémon-Icon_762_KAPU.png) | [[Frubaila]]
+ 083 | ![Krokel](../pokemonimages/Pokémon-Icon_763_KAPU.png) | [[Fruyal]]
+ 084 | ![Krokel](../pokemonimages/Pokémon-Icon_928_KAPU.png) | [[Olini]]
+ 085 | ![Krokel](../pokemonimages/Pokémon-Icon_929_KAPU.png) | [[Olivinio]]
+ 086 | ![Krokel](../pokemonimages/Pokémon-Icon_930_KAPU.png) | [[Olithena]]
+ 087 | ![Krokel](../pokemonimages/Pokémon-Icon_438_KAPU.png) | [[Mobai]]
+ 088 | ![Krokel](../pokemonimages/Pokémon-Icon_185_KAPU.png) | [[Mogelbaum]]
+ 089 | ![Krokel](../pokemonimages/Pokémon-Icon_744_KAPU.png) | [[Wuffels]]
+ 090 | ![Krokel](../pokemonimages/Pokémon-Icon_745_KAPU.png) | [[Wolwerock]]
+ 091 | ![Krokel](../pokemonimages/Pokémon-Icon_837_KAPU.png) | [[Klonkett]]
+ 092 | ![Krokel](../pokemonimages/Pokémon-Icon_838_KAPU.png) | [[Wagong]]
+ 093 | ![Krokel](../pokemonimages/Pokémon-Icon_839_KAPU.png) | [[Montecarbo]]
+ 094 | ![Krokel](../pokemonimages/Pokémon-Icon_403_KAPU.png) | [[Sheinux]]
+ 095 | ![Krokel](../pokemonimages/Pokémon-Icon_404_KAPU.png) | [[Luxio]]
+ 096 | ![Krokel](../pokemonimages/Pokémon-Icon_405_KAPU.png) | [[Luxtra]]
+ 097 | ![Krokel](../pokemonimages/Pokémon-Icon_396_KAPU.png) | [[Staralili]]
+ 098 | ![Krokel](../pokemonimages/Pokémon-Icon_397_KAPU.png) | [[Staravia]]
+ 099 | ![Krokel](../pokemonimages/Pokémon-Icon_398_KAPU.png) | [[Staraptor]]
+ 100 | ![Krokel](../pokemonimages/Pokémon-Icon_741_KAPU.png) | [[Choreogel]]
+ 101 | ![Krokel](../pokemonimages/Pokémon-Icon_179_KAPU.png) | [[Voltilamm]]
+ 102 | ![Krokel](../pokemonimages/Pokémon-Icon_180_KAPU.png) | [[Waaty]]
+ 103 | ![Krokel](../pokemonimages/Pokémon-Icon_181_KAPU.png) | [[Ampharos]]
+ 104 | ![Krokel](../pokemonimages/Pokémon-Icon_548_KAPU.png) | [[Lilminip]]
+ 105 | ![Krokel](../pokemonimages/Pokémon-Icon_549_KAPU.png) | x50px]]
+ 106 | ![Krokel](../pokemonimages/Pokémon-Icon_285_KAPU.png) | [[Knilz]]
+ 107 | ![Krokel](../pokemonimages/Pokémon-Icon_286_KAPU.png) | [[Kapilz]]
+ 108 | ![Krokel](../pokemonimages/Pokémon-Icon_840_KAPU.png) | [[Knapfel]]
+ 109 | ![Krokel](../pokemonimages/Pokémon-Icon_841_KAPU.png) | [[Drapfel]]
+ 110 | ![Krokel](../pokemonimages/Pokémon-Icon_842_KAPU.png) | [[Schlapfel]]
+ 111 | ![Krokel](../pokemonimages/Pokémon-Icon_325_KAPU.png) | [[Spoink]]
+ 112 | ![Krokel](../pokemonimages/Pokémon-Icon_326_KAPU.png) | [[Groink]]
+ 113 | ![Krokel](../pokemonimages/Pokémon-Icon_931_KAPU.png) | [[Krawalloro]]
+ 114 | ![Krokel](../pokemonimages/Pokémon-Icon_200_KAPU.png) | [[Traunfugil]]
+ 115 | ![Krokel](../pokemonimages/Pokémon-Icon_429_KAPU.png) | [[Traunmagil]]
+ 116 | ![Krokel](../pokemonimages/Pokémon-Icon_296_KAPU.png) | [[Makuhita]]
+ 117 | ![Krokel](../pokemonimages/Pokémon-Icon_297_KAPU.png) | [[Hariyama]]
+ 118 | ![Krokel](../pokemonimages/Pokémon-Icon_739_KAPU.png) | [[Krabbox]]
+ 119 | ![Krokel](../pokemonimages/Pokémon-Icon_740_KAPU.png) | [[Krawell]]
+ 120 | ![Krokel](../pokemonimages/Pokémon-Icon_757_KAPU.png) | [[Molunk]]
+ 121 | ![Krokel](../pokemonimages/Pokémon-Icon_758_KAPU.png) | [[Amfira]]
+ 122 | ![Krokel](../pokemonimages/Pokémon-Icon_231_KAPU.png) | [[Phanpy]]
+ 123 | ![Krokel](../pokemonimages/Pokémon-Icon_232_KAPU.png) | [[Donphan]]
+ 124 | ![Krokel](../pokemonimages/Pokémon-Icon_878_KAPU.png) | [[Kupfanti]]
+ 125 | ![Krokel](../pokemonimages/Pokémon-Icon_879_KAPU.png) | [[Patinaraja]]
+ 126 | ![Krokel](../pokemonimages/Pokémon-Icon_443_KAPU.png) | [[Kaumalat]]
+ 127 | ![Krokel](../pokemonimages/Pokémon-Icon_444_KAPU.png) | [[Knarksel]]
+ 128 | ![Krokel](../pokemonimages/Pokémon-Icon_445_KAPU.png) | [[Knakrack]]
+ 129 | ![Krokel](../pokemonimages/Pokémon-Icon_932_KAPU.png) | [[Geosali]]
+ 130 | ![Krokel](../pokemonimages/Pokémon-Icon_933_KAPU.png) | [[Sedisal]]
+ 131 | ![Krokel](../pokemonimages/Pokémon-Icon_934_KAPU.png) | [[Saltigant]]
+ 132 | ![Krokel](../pokemonimages/Pokémon-Icon_278_KAPU.png) | [[Wingull]]
+ 133 | ![Krokel](../pokemonimages/Pokémon-Icon_279_KAPU.png) | [[Pelipper]]
+ 134 | ![Krokel](../pokemonimages/Pokémon-Icon_129_KAPU.png) | [[Karpador]]
+ 135 | ![Krokel](../pokemonimages/Pokémon-Icon_130_KAPU.png) | [[Garados]]
+ 136 | ![Krokel](../pokemonimages/Pokémon-Icon_846_KAPU.png) | [[Pikuda]]
+ 137 | ![Krokel](../pokemonimages/Pokémon-Icon_847_KAPU.png) | [[Barrakiefa]]
+ 138 | ![Krokel](../pokemonimages/Pokémon-Icon_550_KAPU.png) | [[Barschuft]]
+ 139 | ![Krokel](../pokemonimages/Pokémon-Icon_316_KAPU.png) | [[Schluppuck]]
+ 140 | ![Krokel](../pokemonimages/Pokémon-Icon_317_KAPU.png) | [[Schlukwech]]
+ 141 | ![Krokel](../pokemonimages/Pokémon-Icon_052_KAPU.png) | [[Mauzi]]
+ 142 | ![Krokel](../pokemonimages/Pokémon-Icon_053_KAPU.png) | [[Snobilikat]]
+ 143 | ![Krokel](../pokemonimages/Pokémon-Icon_425_KAPU.png) | [[Driftlon]]
+ 144 | ![Krokel](../pokemonimages/Pokémon-Icon_426_KAPU.png) | [[Drifzepeli]]
+ 145 | ![Krokel](../pokemonimages/Pokémon-Icon_669_KAPU.png) | [[Flabébé]]
+ 146 | ![Krokel](../pokemonimages/Pokémon-Icon_670_KAPU.png) | [[Floette]]
+ 147 | ![Krokel](../pokemonimages/Pokémon-Icon_671_KAPU.png) | [[Florges]]
+ 148 | ![Krokel](../pokemonimages/Pokémon-Icon_050_KAPU.png) | [[Digda]]
+ 149 | ![Krokel](../pokemonimages/Pokémon-Icon_051_KAPU.png) | [[Digdri]]
+ 150 | ![Krokel](../pokemonimages/Pokémon-Icon_324_KAPU.png) | [[Qurtel]]
+ 151 | ![Krokel](../pokemonimages/Pokémon-Icon_322_KAPU.png) | [[Camaub]]
+ 152 | ![Krokel](../pokemonimages/Pokémon-Icon_323_KAPU.png) | [[Camerupt]]
+ 153 | ![Krokel](../pokemonimages/Pokémon-Icon_436_KAPU.png) | [[Bronzel]]
+ 154 | ![Krokel](../pokemonimages/Pokémon-Icon_437_KAPU.png) | [[Bronzong]]
+ 155 | ![Krokel](../pokemonimages/Pokémon-Icon_610_KAPU.png) | [[Milza]]
+ 156 | ![Krokel](../pokemonimages/Pokémon-Icon_611_KAPU.png) | [[Sharfax]]
+ 157 | ![Krokel](../pokemonimages/Pokémon-Icon_612_KAPU.png) | [[Maxax]]
+ 158 | ![Krokel](../pokemonimages/Pokémon-Icon_056_KAPU.png) | [[Menki]]
+ 159 | ![Krokel](../pokemonimages/Pokémon-Icon_057_KAPU.png) | [[Rasaff]]
+ 160 | ![Krokel](../pokemonimages/Pokémon-Icon_979_KAPU.png) | [[Epitaff]]
+ 161 | ![Krokel](../pokemonimages/Pokémon-Icon_307_KAPU.png) | [[Meditie]]
+ 162 | ![Krokel](../pokemonimages/Pokémon-Icon_308_KAPU.png) | [[Meditalis]]
+ 163 | ![Krokel](../pokemonimages/Pokémon-Icon_447_KAPU.png) | [[Riolu]]
+ 164 | ![Krokel](../pokemonimages/Pokémon-Icon_448_KAPU.png) | [[Lucario]]
+ 165 | ![Krokel](../pokemonimages/Pokémon-Icon_935_KAPU.png) | [[Knarbon]]
+ 166 | ![Krokel](../pokemonimages/Pokémon-Icon_936_KAPU.png) | [[Crimanzo]]
+ 167 | ![Krokel](../pokemonimages/Pokémon-Icon_937_KAPU.png) | [[Azugladis]]
+ 168 | ![Krokel](../pokemonimages/Pokémon-Icon_339_KAPU.png) | [[Schmerbe]]
+ 169 | ![Krokel](../pokemonimages/Pokémon-Icon_340_KAPU.png) | [[Welsar]]
+ 170 | ![Krokel](../pokemonimages/Pokémon-Icon_938_KAPU.png) | [[Blipp]]
+ 171 | ![Krokel](../pokemonimages/Pokémon-Icon_939_KAPU.png) | [[Wampitz]]
+ 172 | ![Krokel](../pokemonimages/Pokémon-Icon_704_KAPU.png) | [[Viscora]]
+ 173 | ![Krokel](../pokemonimages/Pokémon-Icon_705_KAPU.png) | x50px]]
+ 174 | ![Krokel](../pokemonimages/Pokémon-Icon_706_KAPU.png) | x50px]]
+ 175 | ![Krokel](../pokemonimages/Pokémon-Icon_453_KAPU.png) | [[Glibunkel]]
+ 176 | ![Krokel](../pokemonimages/Pokémon-Icon_454_KAPU.png) | [[Toxiquak]]
+ 177 | ![Krokel](../pokemonimages/Pokémon-Icon_940_KAPU.png) | [[Voltrel]]
+ 178 | ![Krokel](../pokemonimages/Pokémon-Icon_941_KAPU.png) | [[Voltrean]]
+ 179 | ![Krokel](../pokemonimages/Pokémon-Icon_133_KAPU.png) | [[Evoli]]
+ 180 | ![Krokel](../pokemonimages/Pokémon-Icon_134_KAPU.png) | [[Aquana]]
+ 181 | ![Krokel](../pokemonimages/Pokémon-Icon_135_KAPU.png) | [[Blitza]]
+ 182 | ![Krokel](../pokemonimages/Pokémon-Icon_136_KAPU.png) | [[Flamara]]
+ 183 | ![Krokel](../pokemonimages/Pokémon-Icon_196_KAPU.png) | [[Psiana]]
+ 184 | ![Krokel](../pokemonimages/Pokémon-Icon_197_KAPU.png) | [[Nachtara]]
+ 185 | ![Krokel](../pokemonimages/Pokémon-Icon_470_KAPU.png) | [[Folipurba]]
+ 186 | ![Krokel](../pokemonimages/Pokémon-Icon_471_KAPU.png) | [[Glaziola]]
+ 187 | ![Krokel](../pokemonimages/Pokémon-Icon_700_KAPU.png) | [[Feelinara]]
+ 188 | ![Krokel](../pokemonimages/Pokémon-Icon_206_KAPU.png) | [[Dummisel]]
+ 189 | ![Krokel](../pokemonimages/Pokémon-Icon_982_KAPU.png) | [[Dummimisel]]
+ 190 | ![Krokel](../pokemonimages/Pokémon-Icon_585_KAPU.png) | [[Sesokitz]]
+ 191 | ![Krokel](../pokemonimages/Pokémon-Icon_586_KAPU.png) | [[Kronjuwild]]
+ 192 | ![Krokel](../pokemonimages/Pokémon-Icon_203_KAPU.png) | [[Girafarig]]
+ 193 | ![Krokel](../pokemonimages/Pokémon-Icon_981_KAPU.png) | [[Farigiraf]]
+ 194 | ![Krokel](../pokemonimages/Pokémon-Icon_088_KAPU.png) | [[Sleima]]
+ 195 | ![Krokel](../pokemonimages/Pokémon-Icon_089_KAPU.png) | [[Sleimok]]
+ 196 | ![Krokel](../pokemonimages/Pokémon-Icon_942_KAPU.png) | [[Mobtiff]]
+ 197 | ![Krokel](../pokemonimages/Pokémon-Icon_943_KAPU.png) | [[Mastifioso]]
+ 198 | ![Krokel](../pokemonimages/Pokémon-Icon_848_KAPU.png) | [[Toxel]]
+ 199 | ![Krokel](../pokemonimages/Pokémon-Icon_849_KAPU.png) | [[Riffex]]
+ 200 | ![Krokel](../pokemonimages/Pokémon-Icon_702_KAPU.png) | [[Dedenne]]
+ 201 | ![Krokel](../pokemonimages/Pokémon-Icon_417_KAPU.png) | [[Pachirisu]]
+ 202 | ![Krokel](../pokemonimages/Pokémon-Icon_944_KAPU.png) | [[Sproxi]]
+ 203 | ![Krokel](../pokemonimages/Pokémon-Icon_945_KAPU.png) | [[Affiti]]
+ 204 | ![Krokel](../pokemonimages/Pokémon-Icon_234_KAPU.png) | [[Damhirplex]]
+ 205 | ![Krokel](../pokemonimages/Pokémon-Icon_590_KAPU.png) | [[Tarnpignon]]
+ 206 | ![Krokel](../pokemonimages/Pokémon-Icon_591_KAPU.png) | [[Hutsassa]]
+ 207 | ![Krokel](../pokemonimages/Pokémon-Icon_100_KAPU.png) | x50px]]
+ 208 | ![Krokel](../pokemonimages/Pokémon-Icon_101_KAPU.png) | x50px]]
+ 209 | ![Krokel](../pokemonimages/Pokémon-Icon_081_KAPU.png) | [[Magnetilo]]
+ 210 | ![Krokel](../pokemonimages/Pokémon-Icon_082_KAPU.png) | [[Magneton]]
+ 211 | ![Krokel](../pokemonimages/Pokémon-Icon_462_KAPU.png) | [[Magnezone]]
+ 212 | ![Krokel](../pokemonimages/Pokémon-Icon_132_KAPU.png) | [[Ditto]]
+ 213 | ![Krokel](../pokemonimages/Pokémon-Icon_058_KAPU.png) | x50px]]
+ 214 | ![Krokel](../pokemonimages/Pokémon-Icon_059_KAPU.png) | x50px]]
+ 215 | ![Krokel](../pokemonimages/Pokémon-Icon_216_KAPU.png) | [[Teddiursa]]
+ 216 | ![Krokel](../pokemonimages/Pokémon-Icon_217_KAPU.png) | [[Ursaring]]
+ 217 | ![Krokel](../pokemonimages/Pokémon-Icon_335_KAPU.png) | [[Sengo]]
+ 218 | ![Krokel](../pokemonimages/Pokémon-Icon_336_KAPU.png) | [[Vipitis]]
+ 219 | ![Krokel](../pokemonimages/Pokémon-Icon_333_KAPU.png) | [[Wablu]]
+ 220 | ![Krokel](../pokemonimages/Pokémon-Icon_334_KAPU.png) | [[Altaria]]
+ 221 | ![Krokel](../pokemonimages/Pokémon-Icon_672_KAPU.png) | [[Mähikel]]
+ 222 | ![Krokel](../pokemonimages/Pokémon-Icon_673_KAPU.png) | [[Chevrumm]]
+ 223 | ![Krokel](../pokemonimages/Pokémon-Icon_128_KAPU.png) | [[Tauros]] <br />(Paldea-Formen)
+ 224 | ![Krokel](../pokemonimages/Pokémon-Icon_667_KAPU.png) | [[Leufeo]]
+ 225 | ![Krokel](../pokemonimages/Pokémon-Icon_668_KAPU.png) | [[Pyroleo]]
+ 226 | ![Krokel](../pokemonimages/Pokémon-Icon_434_KAPU.png) | [[Skunkapuh]]
+ 227 | ![Krokel](../pokemonimages/Pokémon-Icon_435_KAPU.png) | [[Skuntank]]
+ 228 | ![Krokel](../pokemonimages/Pokémon-Icon_570_KAPU.png) | x50px]]
+ 229 | ![Krokel](../pokemonimages/Pokémon-Icon_571_KAPU.png) | x50px]]
+ 230 | ![Krokel](../pokemonimages/Pokémon-Icon_215_KAPU.png) | x50px]]
+ 231 | ![Krokel](../pokemonimages/Pokémon-Icon_461_KAPU.png) | [[Snibunna]]
+ 232 | ![Krokel](../pokemonimages/Pokémon-Icon_198_KAPU.png) | [[Kramurx]]
+ 233 | ![Krokel](../pokemonimages/Pokémon-Icon_430_KAPU.png) | [[Kramshef]]
+ 234 | ![Krokel](../pokemonimages/Pokémon-Icon_574_KAPU.png) | [[Mollimorba]]
+ 235 | ![Krokel](../pokemonimages/Pokémon-Icon_575_KAPU.png) | [[Hypnomorba]]
+ 236 | ![Krokel](../pokemonimages/Pokémon-Icon_576_KAPU.png) | [[Morbitesse]]
+ 237 | ![Krokel](../pokemonimages/Pokémon-Icon_854_KAPU.png) | [[Fatalitee]]
+ 238 | ![Krokel](../pokemonimages/Pokémon-Icon_855_KAPU.png) | [[Mortipot]]
+ 239 | ![Krokel](../pokemonimages/Pokémon-Icon_778_KAPU.png) | [[Mimigma]]
+ 240 | ![Krokel](../pokemonimages/Pokémon-Icon_707_KAPU.png) | [[Clavion]]
+ 241 | ![Krokel](../pokemonimages/Pokémon-Icon_876_KAPU.png) | [[Servol]]
+ 242 | ![Krokel](../pokemonimages/Pokémon-Icon_946_KAPU.png) | [[Weherba]]
+ 243 | ![Krokel](../pokemonimages/Pokémon-Icon_947_KAPU.png) | [[Horrerba]]
+ 244 | ![Krokel](../pokemonimages/Pokémon-Icon_948_KAPU.png) | [[Tentagra]]
+ 245 | ![Krokel](../pokemonimages/Pokémon-Icon_949_KAPU.png) | [[Tenterra]]
+ 246 | ![Krokel](../pokemonimages/Pokémon-Icon_357_KAPU.png) | [[Tropius]]
+ 247 | ![Krokel](../pokemonimages/Pokémon-Icon_753_KAPU.png) | [[Imantis]]
+ 248 | ![Krokel](../pokemonimages/Pokémon-Icon_754_KAPU.png) | [[Mantidea]]
+ 249 | ![Krokel](../pokemonimages/Pokémon-Icon_950_KAPU.png) | [[Klibbe]]
+ 250 | ![Krokel](../pokemonimages/Pokémon-Icon_951_KAPU.png) | [[Chilingel]]
+ 251 | ![Krokel](../pokemonimages/Pokémon-Icon_952_KAPU.png) | [[Halupenjo]]
+ 252 | ![Krokel](../pokemonimages/Pokémon-Icon_331_KAPU.png) | [[Tuska]]
+ 253 | ![Krokel](../pokemonimages/Pokémon-Icon_332_KAPU.png) | [[Noktuska]]
+ 254 | ![Krokel](../pokemonimages/Pokémon-Icon_953_KAPU.png) | [[Relluk]]
+ 255 | ![Krokel](../pokemonimages/Pokémon-Icon_954_KAPU.png) | [[Skarabaks]]
+ 256 | ![Krokel](../pokemonimages/Pokémon-Icon_048_KAPU.png) | [[Bluzuk]]
+ 257 | ![Krokel](../pokemonimages/Pokémon-Icon_049_KAPU.png) | [[Omot]]
+ 258 | ![Krokel](../pokemonimages/Pokémon-Icon_204_KAPU.png) | [[Tannza]]
+ 259 | ![Krokel](../pokemonimages/Pokémon-Icon_205_KAPU.png) | [[Forstellka]]
+ 260 | ![Krokel](../pokemonimages/Pokémon-Icon_123_KAPU.png) | [[Sichlor]]
+ 261 | ![Krokel](../pokemonimages/Pokémon-Icon_212_KAPU.png) | [[Scherox]]
+ 262 | ![Krokel](../pokemonimages/Pokémon-Icon_214_KAPU.png) | [[Skaraborn]]
+ 263 | ![Krokel](../pokemonimages/Pokémon-Icon_955_KAPU.png) | [[Flattutu]]
+ 264 | ![Krokel](../pokemonimages/Pokémon-Icon_956_KAPU.png) | [[Psiopatra]]
+ 265 | ![Krokel](../pokemonimages/Pokémon-Icon_449_KAPU.png) | [[Hippopotas]]
+ 266 | ![Krokel](../pokemonimages/Pokémon-Icon_450_KAPU.png) | [[Hippoterus]]
+ 267 | ![Krokel](../pokemonimages/Pokémon-Icon_551_KAPU.png) | [[Ganovil]]
+ 268 | ![Krokel](../pokemonimages/Pokémon-Icon_552_KAPU.png) | [[Rokkaiman]]
+ 269 | ![Krokel](../pokemonimages/Pokémon-Icon_553_KAPU.png) | [[Rabigator]]
+ 270 | ![Krokel](../pokemonimages/Pokémon-Icon_843_KAPU.png) | [[Salanga]]
+ 271 | ![Krokel](../pokemonimages/Pokémon-Icon_844_KAPU.png) | [[Sanaconda]]
+ 272 | ![Krokel](../pokemonimages/Pokémon-Icon_749_KAPU.png) | [[Pampuli]]
+ 273 | ![Krokel](../pokemonimages/Pokémon-Icon_750_KAPU.png) | [[Pampross]]
+ 274 | ![Krokel](../pokemonimages/Pokémon-Icon_636_KAPU.png) | [[Ignivor]]
+ 275 | ![Krokel](../pokemonimages/Pokémon-Icon_637_KAPU.png) | [[Ramoth]]
+ 276 | ![Krokel](../pokemonimages/Pokémon-Icon_371_KAPU.png) | [[Kindwurm]]
+ 277 | ![Krokel](../pokemonimages/Pokémon-Icon_372_KAPU.png) | [[Draschel]]
+ 278 | ![Krokel](../pokemonimages/Pokémon-Icon_373_KAPU.png) | [[Brutalanda]]
+ 279 | ![Krokel](../pokemonimages/Pokémon-Icon_957_KAPU.png) | [[Forgita]]
+ 280 | ![Krokel](../pokemonimages/Pokémon-Icon_958_KAPU.png) | [[Tafforgita]]
+ 281 | ![Krokel](../pokemonimages/Pokémon-Icon_959_KAPU.png) | [[Granforgita]]
+ 282 | ![Krokel](../pokemonimages/Pokémon-Icon_856_KAPU.png) | [[Brimova]]
+ 283 | ![Krokel](../pokemonimages/Pokémon-Icon_857_KAPU.png) | [[Brimano]]
+ 284 | ![Krokel](../pokemonimages/Pokémon-Icon_858_KAPU.png) | [[Silembrim]]
+ 285 | ![Krokel](../pokemonimages/Pokémon-Icon_859_KAPU.png) | [[Bähmon]]
+ 286 | ![Krokel](../pokemonimages/Pokémon-Icon_860_KAPU.png) | [[Pelzebub]]
+ 287 | ![Krokel](../pokemonimages/Pokémon-Icon_861_KAPU.png) | [[Olangaar]]
+ 288 | ![Krokel](../pokemonimages/Pokémon-Icon_960_KAPU.png) | [[Schligda]]
+ 289 | ![Krokel](../pokemonimages/Pokémon-Icon_961_KAPU.png) | [[Schligdri]]
+ 290 | ![Krokel](../pokemonimages/Pokémon-Icon_962_KAPU.png) | [[Adebom]]
+ 291 | ![Krokel](../pokemonimages/Pokémon-Icon_963_KAPU.png) | [[Normifin]]
+ 292 | ![Krokel](../pokemonimages/Pokémon-Icon_964_KAPU.png) | [[Delfinator]]
+ 293 | ![Krokel](../pokemonimages/Pokémon-Icon_965_KAPU.png) | [[Knattox]]
+ 294 | ![Krokel](../pokemonimages/Pokémon-Icon_966_KAPU.png) | [[Knattatox]]
+ 295 | ![Krokel](../pokemonimages/Pokémon-Icon_967_KAPU.png) | [[Mopex]]
+ 296 | ![Krokel](../pokemonimages/Pokémon-Icon_968_KAPU.png) | [[Schlurm]]
+ 297 | ![Krokel](../pokemonimages/Pokémon-Icon_302_KAPU.png) | [[Zobiris]]
+ 298 | ![Krokel](../pokemonimages/Pokémon-Icon_353_KAPU.png) | [[Shuppet]]
+ 299 | ![Krokel](../pokemonimages/Pokémon-Icon_354_KAPU.png) | [[Banette]]
+ 300 | ![Krokel](../pokemonimages/Pokémon-Icon_870_KAPU.png) | [[Legios]]
+ 301 | ![Krokel](../pokemonimages/Pokémon-Icon_701_KAPU.png) | [[Resladero]]
+ 302 | ![Krokel](../pokemonimages/Pokémon-Icon_442_KAPU.png) | [[Kryppuk]]
+ 303 | ![Krokel](../pokemonimages/Pokémon-Icon_714_KAPU.png) | [[eF-eM]]
+ 304 | ![Krokel](../pokemonimages/Pokémon-Icon_715_KAPU.png) | [[UHaFnir]]
+ 305 | ![Krokel](../pokemonimages/Pokémon-Icon_885_KAPU.png) | [[Grolldra]]
+ 306 | ![Krokel](../pokemonimages/Pokémon-Icon_886_KAPU.png) | [[Phandra]]
+ 307 | ![Krokel](../pokemonimages/Pokémon-Icon_887_KAPU.png) | [[Katapuldra]]
+ 308 | ![Krokel](../pokemonimages/Pokémon-Icon_969_KAPU.png) | [[Lumispross]]
+ 309 | ![Krokel](../pokemonimages/Pokémon-Icon_970_KAPU.png) | [[Lumiflora]]
+ 310 | ![Krokel](../pokemonimages/Pokémon-Icon_479_KAPU.png) | [[Rotom]]
+ 311 | ![Krokel](../pokemonimages/Pokémon-Icon_971_KAPU.png) | [[Gruff]]
+ 312 | ![Krokel](../pokemonimages/Pokémon-Icon_972_KAPU.png) | [[Friedwuff]]
+ 313 | ![Krokel](../pokemonimages/Pokémon-Icon_765_KAPU.png) | [[Kommandutan]]
+ 314 | ![Krokel](../pokemonimages/Pokémon-Icon_766_KAPU.png) | [[Quartermak]]
+ 315 | ![Krokel](../pokemonimages/Pokémon-Icon_775_KAPU.png) | [[Koalelu]]
+ 316 | ![Krokel](../pokemonimages/Pokémon-Icon_246_KAPU.png) | [[Larvitar]]
+ 317 | ![Krokel](../pokemonimages/Pokémon-Icon_247_KAPU.png) | [[Pupitar]]
+ 318 | ![Krokel](../pokemonimages/Pokémon-Icon_248_KAPU.png) | [[Despotar]]
+ 319 | ![Krokel](../pokemonimages/Pokémon-Icon_874_KAPU.png) | [[Humanolith]]
+ 320 | ![Krokel](../pokemonimages/Pokémon-Icon_875_KAPU.png) | [[Kubuin]]
+ 321 | ![Krokel](../pokemonimages/Pokémon-Icon_871_KAPU.png) | [[Britzigel]]
+ 322 | ![Krokel](../pokemonimages/Pokémon-Icon_769_KAPU.png) | [[Sankabuh]]
+ 323 | ![Krokel](../pokemonimages/Pokémon-Icon_770_KAPU.png) | [[Colossand]]
+ 324 | ![Krokel](../pokemonimages/Pokémon-Icon_079_KAPU.png) | [[Flegmon]]
+ 325 | ![Krokel](../pokemonimages/Pokémon-Icon_080_KAPU.png) | [[Lahmus]]
+ 326 | ![Krokel](../pokemonimages/Pokémon-Icon_199_KAPU.png) | [[Laschoking]]
+ 327 | ![Krokel](../pokemonimages/Pokémon-Icon_422_KAPU.png) | [[Schalellos]]
+ 328 | ![Krokel](../pokemonimages/Pokémon-Icon_423_KAPU.png) | [[Gastrodon]]
+ 329 | ![Krokel](../pokemonimages/Pokémon-Icon_090_KAPU.png) | [[Muschas]]
+ 330 | ![Krokel](../pokemonimages/Pokémon-Icon_091_KAPU.png) | [[Austos]]
+ 331 | ![Krokel](../pokemonimages/Pokémon-Icon_211_KAPU.png) | x50px]]
+ 332 | ![Krokel](../pokemonimages/Pokémon-Icon_370_KAPU.png) | [[Liebiskus]]
+ 333 | ![Krokel](../pokemonimages/Pokémon-Icon_456_KAPU.png) | [[Finneon]]
+ 334 | ![Krokel](../pokemonimages/Pokémon-Icon_457_KAPU.png) | [[Lumineon]]
+ 335 | ![Krokel](../pokemonimages/Pokémon-Icon_779_KAPU.png) | [[Knirfish]]
+ 336 | ![Krokel](../pokemonimages/Pokémon-Icon_594_KAPU.png) | [[Mamolida]]
+ 337 | ![Krokel](../pokemonimages/Pokémon-Icon_690_KAPU.png) | [[Algitt]]
+ 338 | ![Krokel](../pokemonimages/Pokémon-Icon_691_KAPU.png) | [[Tandrak]]
+ 339 | ![Krokel](../pokemonimages/Pokémon-Icon_692_KAPU.png) | [[Scampisto]]
+ 340 | ![Krokel](../pokemonimages/Pokémon-Icon_693_KAPU.png) | [[Wummer]]
+ 341 | ![Krokel](../pokemonimages/Pokémon-Icon_602_KAPU.png) | [[Zapplardin]]
+ 342 | ![Krokel](../pokemonimages/Pokémon-Icon_603_KAPU.png) | [[Zapplalek]]
+ 343 | ![Krokel](../pokemonimages/Pokémon-Icon_604_KAPU.png) | [[Zapplarang]]
+ 344 | ![Krokel](../pokemonimages/Pokémon-Icon_747_KAPU.png) | [[Garstella]]
+ 345 | ![Krokel](../pokemonimages/Pokémon-Icon_748_KAPU.png) | [[Aggrostella]]
+ 346 | ![Krokel](../pokemonimages/Pokémon-Icon_973_KAPU.png) | [[Flaminkno]]
+ 347 | ![Krokel](../pokemonimages/Pokémon-Icon_147_KAPU.png) | [[Dratini]]
+ 348 | ![Krokel](../pokemonimages/Pokémon-Icon_148_KAPU.png) | [[Dragonir]]
+ 349 | ![Krokel](../pokemonimages/Pokémon-Icon_149_KAPU.png) | [[Dragoran]]
+ 350 | ![Krokel](../pokemonimages/Pokémon-Icon_872_KAPU.png) | [[Snomnom]]
+ 351 | ![Krokel](../pokemonimages/Pokémon-Icon_873_KAPU.png) | [[Mottineva]]
+ 352 | ![Krokel](../pokemonimages/Pokémon-Icon_459_KAPU.png) | [[Shnebedeck]]
+ 353 | ![Krokel](../pokemonimages/Pokémon-Icon_460_KAPU.png) | [[Rexblisar]]
+ 354 | ![Krokel](../pokemonimages/Pokémon-Icon_225_KAPU.png) | [[Botogel]]
+ 355 | ![Krokel](../pokemonimages/Pokémon-Icon_613_KAPU.png) | [[Petznief]]
+ 356 | ![Krokel](../pokemonimages/Pokémon-Icon_614_KAPU.png) | [[Siberio]]
+ 357 | ![Krokel](../pokemonimages/Pokémon-Icon_361_KAPU.png) | [[Schneppke]]
+ 358 | ![Krokel](../pokemonimages/Pokémon-Icon_362_KAPU.png) | [[Firnontor]]
+ 359 | ![Krokel](../pokemonimages/Pokémon-Icon_478_KAPU.png) | [[Frosdedje]]
+ 360 | ![Krokel](../pokemonimages/Pokémon-Icon_615_KAPU.png) | [[Frigometri]]
+ 361 | ![Krokel](../pokemonimages/Pokémon-Icon_974_KAPU.png) | [[Flaniwal]]
+ 362 | ![Krokel](../pokemonimages/Pokémon-Icon_975_KAPU.png) | [[Kolowal]]
+ 363 | ![Krokel](../pokemonimages/Pokémon-Icon_712_KAPU.png) | [[Arktip]]
+ 364 | ![Krokel](../pokemonimages/Pokémon-Icon_713_KAPU.png) | x50px]]
+ 365 | ![Krokel](../pokemonimages/Pokémon-Icon_627_KAPU.png) | [[Geronimatz]]
+ 366 | ![Krokel](../pokemonimages/Pokémon-Icon_628_KAPU.png) | x50px]]
+ 367 | ![Krokel](../pokemonimages/Pokémon-Icon_624_KAPU.png) | [[Gladiantri]]
+ 368 | ![Krokel](../pokemonimages/Pokémon-Icon_625_KAPU.png) | [[Caesurio]]
+ 369 | ![Krokel](../pokemonimages/Pokémon-Icon_983_KAPU.png) | [[Gladimperio]]
+ 370 | ![Krokel](../pokemonimages/Pokémon-Icon_633_KAPU.png) | [[Kapuno]]
+ 371 | ![Krokel](../pokemonimages/Pokémon-Icon_634_KAPU.png) | [[Duodino]]
+ 372 | ![Krokel](../pokemonimages/Pokémon-Icon_635_KAPU.png) | [[Trikephalo]]
+ 373 | ![Krokel](../pokemonimages/Pokémon-Icon_976_KAPU.png) | [[Agiluza]]
+ 374 | ![Krokel](../pokemonimages/Pokémon-Icon_977_KAPU.png) | [[Heerashai]]
+ 375 | ![Krokel](../pokemonimages/Pokémon-Icon_978_KAPU.png) | [[Nigiragi]]
+ 376 | ![Krokel](../pokemonimages/Pokémon-Icon_984_KAPU.png) | [[Riesenzahn]]
+ 377 | ![Krokel](../pokemonimages/Pokémon-Icon_985_KAPU.png) | [[Brüllschweif]]
+ 378 | ![Krokel](../pokemonimages/Pokémon-Icon_986_KAPU.png) | [[Wutpilz]]
+ 379 | ![Krokel](../pokemonimages/Pokémon-Icon_987_KAPU.png) | [[Flatterhaar]]
+ 380 | ![Krokel](../pokemonimages/Pokémon-Icon_988_KAPU.png) | [[Kriechflügel]]
+ 381 | ![Krokel](../pokemonimages/Pokémon-Icon_989_KAPU.png) | [[Sandfell]]
+ 382 | ![Krokel](../pokemonimages/Pokémon-Icon_990_KAPU.png) | [[Eisenrad]]
+ 383 | ![Krokel](../pokemonimages/Pokémon-Icon_991_KAPU.png) | [[Eisenbündel]]
+ 384 | ![Krokel](../pokemonimages/Pokémon-Icon_992_KAPU.png) | [[Eisenhand]]
+ 385 | ![Krokel](../pokemonimages/Pokémon-Icon_993_KAPU.png) | [[Eisenhals]]
+ 386 | ![Krokel](../pokemonimages/Pokémon-Icon_994_KAPU.png) | [[Eisenfalter]]
+ 387 | ![Krokel](../pokemonimages/Pokémon-Icon_995_KAPU.png) | [[Eisendorn]]
+ 388 | ![Krokel](../pokemonimages/Pokémon-Icon_996_KAPU.png) | [[Frospino]]
+ 389 | ![Krokel](../pokemonimages/Pokémon-Icon_997_KAPU.png) | [[Cryospino]]
+ 390 | ![Krokel](../pokemonimages/Pokémon-Icon_998_KAPU.png) | [[Espinodon]]
+ 391 | ![Krokel](../pokemonimages/Pokémon-Icon_999_KAPU.png) | [[Gierspenst]]
+ 392 | ![Krokel](../pokemonimages/Pokémon-Icon_1000_KAPU.png)| [[Monetigo]]
+ 393 | ![Krokel](../pokemonimages/Pokémon-Icon_1001_KAPU.png)| [[Chongjian]]
+ 394 | ![Krokel](../pokemonimages/Pokémon-Icon_1002_KAPU.png)| [[Baojian]]
+ 395 | ![Krokel](../pokemonimages/Pokémon-Icon_1003_KAPU.png)| [[Dinglu]]
+ 396 | ![Krokel](../pokemonimages/Pokémon-Icon_1004_KAPU.png)| [[Yuyu]]
+ 397 | ![Krokel](../pokemonimages/Pokémon-Icon_1005_KAPU.png)| [[Donnersichel]]
+ 398 | ![Krokel](../pokemonimages/Pokémon-Icon_1006_KAPU.png)| [[Eisenkrieger]]
+ 399 | ![Krokel](../pokemonimages/Pokémon-Icon_1007_KAPU.png)| [[Koraidon]]
+ 400 | ![Krokel](../pokemonimages/Pokémon-Icon_1008_KAPU.png)| [[Miraidon]]
 
 #pokemon
