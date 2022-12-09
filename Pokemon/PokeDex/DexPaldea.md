@@ -36,7 +36,7 @@
  034 | ![Krokel](../pokemonimages/Pokémon-Icon_402.png) | [[Zirpeise]]
  035 | ![Krokel](../pokemonimages/Pokémon-Icon_664.png) | [[Purmel]]
  036 | ![Krokel](../pokemonimages/Pokémon-Icon_665.png) | [[Puponcho]]
- 037 | ![Vivillon](../pokemonimages/Pokémon-Icon_666.png )| [[Vivillon]]
+ 037 | ![Vivillon](../pokemonimages/Pokémon-Icon_666.png)| [[Vivillon]]
  038 | ![Krokel](../pokemonimages/Pokémon-Icon_415.png) | [[Wadribie]]
  039 | ![Krokel](../pokemonimages/Pokémon-Icon_416.png) | [[Honweisel]]
  040 | ![Krokel](../pokemonimages/Pokémon-Icon_821.png) | [[Meikro]]
