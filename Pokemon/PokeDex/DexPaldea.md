@@ -11,7 +11,7 @@
  009 | ![Bailonda](../pokemonimages/914.png) | [[Bailonda]]
  010 | ![Ferkuli](../pokemonimages/915.png) | [[Ferkuli]]
  011 | ![Fragrunz](../pokemonimages/916.png) | [[Fragrunz]]
- 012 | ![Krokel](../pokemonimages/_917.png) | [[Tarundel]]
+ 012 | ![Krokel](../pokemonimages/917.png) | [[Tarundel]]
  013 | ![Krokel](../pokemonimages/918.png) | [[Spinsidias]]
  014 | ![Krokel](../pokemonimages/919.png) | [[Micrick]]
  015 | ![Krokel](../pokemonimages/920.png) | [[Lextremo]]
