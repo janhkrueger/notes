@@ -153,8 +153,8 @@
 | 149 | {{#icon:149}}   | [[Dragoran]]     | Dragonite    | Dracolosse    |
 | 150 | {{#icon:150}}   | [[Mewtu]]        | Mewtwo       | Mewtwo        |
 | 151 | {{#icon:151}}   | [[Mew]]          | Mew          | Mew           |
-| 152 | {{#icon:152}}   | [[Endivie]]      | Chikorita    | Germignon     |
-| 153 | {{#icon:153}}   | [[Lorblatt]]     | Bayleef      | Macronium     |
+| 152 | ![Endivie](../pokemonimages/Pokémon-Icon_152.png)   | [[Endivie]]      | Chikorita    | Germignon     |
+| 153 | ![Lorblatt](../pokemonimages/Pokémon-Icon_153.png)   | [[Lorblatt]]     | Bayleef      | Macronium     |
 | 154 | {{#icon:154}}   | [[Meganie]]      | Meganium     | Méganium      |
 | 155 | {{#icon:155}}   | [[Feurigel]]     | Cyndaquil    | Héricendre    |
 | 156 | {{#icon:156}}   | [[Igelavar]]     | Quilava      | Feurisson     |

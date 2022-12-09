@@ -2,8 +2,8 @@
 
  Nr. | Icon          | Name
 -----|---------------|----------------
- 001 | {{#icon:152}} | [[Endivie]]
- 002 | {{#icon:153}} | [[Lorblatt]]
+ 001 | ![Endivie](../pokemonimages/Pokémon-Icon_152.png) | [[Endivie]]
+ 002 | ![Lorblatt](../pokemonimages/Pokémon-Icon_153.png) | [[Lorblatt]]
  003 | {{#icon:154}} | [[Meganie]]
  004 | {{#icon:155}} | [[Feurigel]]
  005 | {{#icon:156}} | [[Igelavar]]
