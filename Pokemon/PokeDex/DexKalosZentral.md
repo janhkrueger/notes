@@ -94,7 +94,7 @@
  090 | {{#icon:673}} | [[Chevrumm]]
  091 | {{#icon:674}} | [[Pam-Pam]]
  092 | {{#icon:675}} | [[Pandagro]]
- 093 | {{#icon:676}} | [[Coiffwaff]]
+ 093 | ![Coiffwaff](../pokemonimages/Pokémon-Icon_676.png) | [[Coiffwaff]]
  094 | ![Dodu](../pokemonimages/Pokémon-Icon_084.png) | [[Dodu]]
  095 | ![Dodri](../pokemonimages/Pokémon-Icon_085.png) | [[Dodri]]
  096 | {{#icon:311}} | [[Plusle]]

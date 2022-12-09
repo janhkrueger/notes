@@ -571,8 +571,8 @@
 | 567 | {{#icon:567}}   | [[Aeropteryx]]   | Archeops     | Aéroptéryx    |
 | 568 | {{#icon:568}}   | [[Unratütox]]    | Trubbish     | Miamiasme     |
 | 569 | {{#icon:569}}   | [[Deponitox]]    | Garbodor     | Miasmax       |
-| 570 | {{#icon:570}}   | [[Zorua]]        | Zorua        | Zorua         |
-| 571 | {{#icon:571}}   | [[Zoroark]]      | Zoroark      | Zoroark       |
+| 570 | ![Zorua](../pokemonimages/Pokémon-Icon_570.png)   | [[Zorua]]        | Zorua        | Zorua         |
+| 571 | ![Zoroark](../pokemonimages/Pokémon-Icon_571.png)   | [[Zoroark]]      | Zoroark      | Zoroark       |
 | 572 | {{#icon:572}}   | [[Picochilla]]   | Minccino     | Chinchidou    |
 | 573 | {{#icon:573}}   | [[Chillabell]]   | Cinccino     | Pashmilla     |
 | 574 | {{#icon:574}}   | [[Mollimorba]]   | Gothita      | Scrutella     |
@@ -677,7 +677,7 @@
 | 673 | {{#icon:673}}   | [[Chevrumm]]     | Gogoat       | Chevroum      |
 | 674 | {{#icon:674}}   | [[Pam-Pam]]      | Pancham      | Pandespiègle  |
 | 675 | {{#icon:675}}   | [[Pandagro]]     | Pangoro      | Pandarbare    |
-| 676 | {{#icon:676}}   | [[Coiffwaff]]    | Furfrou      | Couafarel     |
+| 676 | ![Coiffwaff](../pokemonimages/Pokémon-Icon_676.png)   | [[Coiffwaff]]    | Furfrou      | Couafarel     |
 | 677 | {{#icon:677}}   | [[Psiau]]        | Espurr       | Psystigri     |
 | 678 | {{#icon:678}}   | [[Psiaugon]]     | Meowstic     | Mistigrix     |
 | 679 | {{#icon:679}}   | [[Gramokles]]    | Honedge      | Monorpale     |

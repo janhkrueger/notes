@@ -29,9 +29,9 @@
  025 | ![Schlapor](../pokemonimages/Pokémon-Icon_428.png) | [[Schlapor]]
  026 | ![Iscalar](../pokemonimages/Pokémon-Icon_686.png) | [[Iscalar]]
  027 | ![Calamanero](../pokemonimages/Pokémon-Icon_687.png) | [[Calamanero]]
- 028 | {{#icon:570}} | [[Zorua]]
- 029 | {{#icon:571}} | [[Zoroark]]
- 030 | {{#icon:676}} | [[Coiffwaff]]
+ 028 | ![Zorua](../pokemonimages/Pokémon-Icon_570.png) | [[Zorua]]
+ 029 | ![Zoroark](../pokemonimages/Pokémon-Icon_571.png) | [[Zoroark]]
+ 030 | ![Coiffwaff](../pokemonimages/Pokémon-Icon_676.png) | [[Coiffwaff]]
  031 | {{#icon:172}} | [[Pichu]]
  032 | ![Pikachu](../pokemonimages/Pokémon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)
  033 | ![Raichu](../pokemonimages/Pokémon-Icon_026.png)<br />{{#icon:026a}} | [[Raichu]]<br />(Alola-Form)
