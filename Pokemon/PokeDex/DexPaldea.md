@@ -362,7 +362,7 @@
  360 | ![Krokel](../pokemonimages/Pokémon-Icon_615.png) | [[Frigometri]]
  361 | ![Flaniwal](../pokemonimages/974.png) | [[Flaniwal]]
  362 | ![Kolowal](../pokemonimages/975.png) | [[Kolowal]]
- 363 | ![Krokel](../pokemonimages/Pokémon-Icon_712.png) | [[Arktip]]
+ 363 | ![Arktip](../pokemonimages/Pokémon-Icon_712.png) | [[Arktip]]
  364 | ![Arktilas](../pokemonimages/Pokémon-Icon_713.png) | [[Arktilas]]
  365 | ![Geronimatz](../pokemonimages/Pokémon-Icon_627.png) | [[Geronimatz]]
  366 | ![Washakwil](../pokemonimages/Pokémon-Icon_628.png) | [[Washakwil]]
