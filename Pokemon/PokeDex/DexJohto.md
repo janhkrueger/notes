@@ -13,7 +13,7 @@
  009 | {{#icon:160}} | [[Impergator]]
  010 | ![Taubsi](../pokemonimages/Pokémon-Icon_016.png) | [[Taubsi]]
  011 | ![Tauboga](../pokemonimages/Pokémon-Icon_017.png) | [[Tauboga]]
- 012 | ![Tauboss](../pokemonimages/Pokémon-018.png) | [[Tauboss]]
+ 012 | ![Tauboss](../pokemonimages/Pokémon-Icon_018.png) | [[Tauboss]]
  013 | ![Habitak](../pokemonimages/Pokémon-Icon_021.png) | [[Habitak]]
  014 | ![Ibitak](../pokemonimages/Pokémon-Icon_022.png) | [[Ibitak]]
  015 | {{#icon:163}} | [[Hoothoot]]
