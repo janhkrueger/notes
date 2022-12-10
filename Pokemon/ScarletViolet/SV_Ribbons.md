@@ -1,11 +1,7 @@
 # Ribbons
 
 ## Ribbons on Pokémon
-Ribbons make a return once again and continue .
-
-While Pokémon Scarlet & Violet has the Ribbons which are attached when a Pokémon is caught, there are also now Ribbons that will be added to Pokémon as you achieve certain tasks throughhout the game.
-
-Like Marks, you can have a specific Ribbon set as the main feature and with that, it will give your Pokémon a special title when it is sent into battle.
+While Pokémon Scarlet & Violet has the Ribbons which are attached when a Pokémon is caught, there are also now Ribbons that will be added to Pokémon as you achieve certain tasks throughhout the game. Like Marks, you can have a specific Ribbon set as the main feature and with that, it will give your Pokémon a special title when it is sent into battle.
 
 ## List of Available Ribbons
 
