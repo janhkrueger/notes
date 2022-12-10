@@ -105,8 +105,8 @@
 | 101 | {{#icon:101}}   | [[Lektrobal]]    | Electrode    | Électrode     |
 | 102 | {{#icon:102}}   | [[Owei]]         | Exeggcute    | Noeunoeuf     |
 | 103 | {{#icon:103}}   | [[Kokowei]]      | Exeggutor    | Noadkoko      |
-| 104 | {{#icon:104}}   | [[Tragosso]]     | Cubone       | Osselait      |
-| 105 | {{#icon:105}}   | [[Knogga]]       | Marowak      | Ossatueur     |
+| 104 | ![Tragosso](../pokemonimages/Pokémon-Icon_104.png)   | [[Tragosso]]     | Cubone       | Osselait      |
+| 105 | ![Knogga](../pokemonimages/Pokémon-Icon_105.png)   | [[Knogga]]       | Marowak      | Ossatueur     |
 | 106 | {{#icon:106}}   | [[Kicklee]]      | Hitmonlee    | Kicklee       |
 | 107 | {{#icon:107}}   | [[Nockchan]]     | Hitmonchan   | Tygnon        |
 | 108 | ![Schlurp](../pokemonimages/Pokémon-Icon_108.png)  | [[Schlurp]]      | Lickitung    | Excelangue    |
