@@ -147,7 +147,7 @@
 | 143 | ![Relaxo](../pokemonimages/Pokémon-Icon_143.png)   | [[Relaxo]]       | Snorlax      | Ronflex       |
 | 144 | ![Arktos](../pokemonimages/Pokémon-Icon_144.png)   | [[Arktos]]       | Articuno     | Artikodin     |
 | 145 | ![Zapdos](../pokemonimages/Pokémon-Icon_145.png)   | [[Zapdos]]       | Zapdos       | Électhor      |
-| 146 | {{#icon:146}}   | [[Lavados]]      | Moltres      | Sulfura       |
+| 146 | ![Lavados](../pokemonimages/Pokémon-Icon_146.png)   | [[Lavados]]      | Moltres      | Sulfura       |
 | 147 | ![Dratini](../pokemonimages/Pokémon-Icon_147.png)   | [[Dratini]]      | Dratini      | Minidraco     |
 | 148 | ![Dragonir](../pokemonimages/Pokémon-Icon_148.png)   | [[Dragonir]]     | Dragonair    | Draco         |
 | 149 | ![Dragoran](../pokemonimages/Pokémon-Icon_149.png)   | [[Dragoran]]     | Dragonite    | Dracolosse    |
@@ -244,9 +244,9 @@
 | 240 | {{#icon:240}}   | [[Magby]]        | Magby        | Magby         |
 | 241 | {{#icon:241}}   | [[Miltank]]      | Miltank      | Écrémeuh      |
 | 242 | ![Heiteira](../pokemonimages/Pokémon-Icon_242.png)   | [[Heiteira]]     | Blissey      | Leuphorie     |
-| 243 | {{#icon:243}}   | [[Raikou]]       | Raikou       | Raikou        |
-| 244 | {{#icon:244}}   | [[Entei]]        | Entei        | Entei         |
-| 245 | {{#icon:245}}   | [[Suicune]]      | Suicune      | Suicune       |
+| 243 | ![Raikou](../pokemonimages/Pokémon-Icon_243.png)   | [[Raikou]]       | Raikou       | Raikou        |
+| 244 | ![Entei](../pokemonimages/Pokémon-Icon_244.png)   | [[Entei]]        | Entei        | Entei         |
+| 245 | ![Suicune](../pokemonimages/Pokémon-Icon_245.png)   | [[Suicune]]      | Suicune      | Suicune       |
 | 246 | ![Larvitar](../pokemonimages/Pokémon-Icon_246.png)   | [[Larvitar]]     | Larvitar     | Embrylex      |
 | 247 | ![Pupitar](../pokemonimages/Pokémon-Icon_247.png)   | [[Pupitar]]      | Pupitar      | Ymphect       |
 | 248 | ![Despotar](../pokemonimages/Pokémon-Icon_248.png)   | [[Despotar]]     | Tyranitar    | Tyranocif     |
