@@ -11,4 +11,4 @@ The first of which is the classic. The first time you enter a Pokémon Center on
 ## Destiny Mark
 On your birthday, you have the ability to get a special Mark. This mark was unavailable before Scarlet & Violet ad will only appear, at rare times, on your birthday so be sure to catch as many Pokémon as you want.
 
-:last-update-label:
+:docdatetime: datetime (ISO)
