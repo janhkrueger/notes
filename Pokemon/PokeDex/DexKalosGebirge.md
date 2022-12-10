@@ -52,7 +52,7 @@
  048 | {{#icon:624}} | [[Gladiantri]]
  049 | {{#icon:625}} | [[Caesurio]]
  050 | {{#icon:707}} | [[Clavion]]
- 051 | {{#icon:198}} | [[Kramurx]]
+ 051 | ![Kramurx](../pokemonimages/Pokémon-Icon_198.png) | [[Kramurx]]
  052 | {{#icon:430}} | [[Kramshef]]
  053 | {{#icon:590}} | [[Tarnpignon]]
  054 | {{#icon:591}} | [[Hutsassa]]
