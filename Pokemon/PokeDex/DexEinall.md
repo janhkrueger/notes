@@ -254,7 +254,7 @@
  249 | ![Vulnona](../pokemonimages/Pokémon-Icon_038.png) | [[Vulnona]]
  250 | {{#icon:436}} | [[Bronzel]]
  251 | {{#icon:437}} | [[Bronzong]]
- 252 | {{#icon:215}} | [[Sniebel]]
+ 252 | ![Sniebel](../pokemonimages/Pokémon-Icon_215.png) | [[Sniebel]]
  253 | {{#icon:461}} | [[Snibunna]]
  254 | {{#icon:225}} | [[Botogel]]
  255 | {{#icon:582}} | [[Gelatini]]
