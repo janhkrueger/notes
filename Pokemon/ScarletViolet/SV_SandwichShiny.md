@@ -1,9 +1,9 @@
 # Schillerkraft-Rezepte inkl. Begegnungskraft
 
 ## Kräfte je Stufe 3:
-Schillerkraft
-Titelkraft
-Begegnungskraft
+* Schillerkraft
+* Titelkraft
+* Begegnungskraft
 
 
  **Typ** | **Zutat**       | **Herba1**             | **Herba2**
