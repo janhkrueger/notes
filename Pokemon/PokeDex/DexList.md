@@ -247,9 +247,9 @@
 | 243 | {{#icon:243}}   | [[Raikou]]       | Raikou       | Raikou        |
 | 244 | {{#icon:244}}   | [[Entei]]        | Entei        | Entei         |
 | 245 | {{#icon:245}}   | [[Suicune]]      | Suicune      | Suicune       |
-| 246 | {{#icon:246}}   | [[Larvitar]]     | Larvitar     | Embrylex      |
-| 247 | {{#icon:247}}   | [[Pupitar]]      | Pupitar      | Ymphect       |
-| 248 | {{#icon:248}}   | [[Despotar]]     | Tyranitar    | Tyranocif     |
+| 246 | ![Larvitar](../pokemonimages/Pokémon-Icon_246.png)   | [[Larvitar]]     | Larvitar     | Embrylex      |
+| 247 | ![Pupitar](../pokemonimages/Pokémon-Icon_247.png)   | [[Pupitar]]      | Pupitar      | Ymphect       |
+| 248 | ![Despotar](../pokemonimages/Pokémon-Icon_248.png)   | [[Despotar]]     | Tyranitar    | Tyranocif     |
 | 249 | ![Lugia](../pokemonimages/Pokémon-Icon_249.png)   | [[Lugia]]        | Lugia        | Lugia         |
 | 250 | ![Ho-Oh](../pokemonimages/Pokémon-Icon_250.png)   | [[Ho-Oh]]        | Ho-Oh        | Ho-Oh         |
 | 251 | ![Celebi](../pokemonimages/Pokémon-Icon_251.png)   | [[Celebi]]       | Celebi       | Celebi        |
