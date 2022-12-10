@@ -148,8 +148,8 @@
 | 144 | ![Arktos](../pokemonimages/Pokémon-Icon_144.png)   | [[Arktos]]       | Articuno     | Artikodin     |
 | 145 | ![Zapdos](../pokemonimages/Pokémon-Icon_145.png)   | [[Zapdos]]       | Zapdos       | Électhor      |
 | 146 | {{#icon:146}}   | [[Lavados]]      | Moltres      | Sulfura       |
-| 147 | {{#icon:147}}   | [[Dratini]]      | Dratini      | Minidraco     |
-| 148 | {{#icon:148}}   | [[Dragonir]]     | Dragonair    | Draco         |
+| 147 | ![Dratini](../pokemonimages/Pokémon-Icon_147.png)   | [[Dratini]]      | Dratini      | Minidraco     |
+| 148 | ![Dragonir](../pokemonimages/Pokémon-Icon_148.png)   | [[Dragonir]]     | Dragonair    | Draco         |
 | 149 | ![Dragoran](../pokemonimages/Pokémon-Icon_149.png)   | [[Dragoran]]     | Dragonite    | Dracolosse    |
 | 150 | ![Mewtu](../pokemonimages/Pokémon-Icon_150.png)   | [[Mewtu]]        | Mewtwo       | Mewtwo        |
 | 151 | ![Mew](../pokemonimages/Pokémon-Icon_151.png)   | [[Mew]]          | Mew          | Mew           |
