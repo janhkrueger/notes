@@ -13,7 +13,7 @@
  009 | ![Kleinstein](../pokemonimages/Pokémon-Icon_074.png) | [[Kleinstein]]
  010 | ![Georok](../pokemonimages/Pokémon-Icon_075.png) | [[Georok]]
  011 | ![Geowaz](../pokemonimages/Pokémon-Icon_076.png) | [[Geowaz]]
- 012 | {{#icon:218}} | [[Schneckmag]]
+ 012 | ![Schneckmag](../pokemonimages/Pokémon-Icon_218.png) | [[Schneckmag]]
  013 | {{#icon:219}} | [[Magcargo]]
  014 | {{#icon:213}} | [[Pottrott]]
  015 | {{#icon:451}} | [[Pionskora]]

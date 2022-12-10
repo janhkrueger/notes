@@ -219,7 +219,7 @@
 | 215 | {{#icon:215}}   | [[Sniebel]]      | Sneasel      | Farfuret      |
 | 216 | {{#icon:216}}   | [[Teddiursa]]    | Teddiursa    | Teddiursa     |
 | 217 | {{#icon:217}}   | [[Ursaring]]     | Ursaring     | Ursaring      |
-| 218 | {{#icon:218}}   | [[Schneckmag]]   | Slugma       | Limagma       |
+| 218 | ![Schneckmag](../pokemonimages/Pokémon-Icon_218.png)   | [[Schneckmag]]   | Slugma       | Limagma       |
 | 219 | {{#icon:219}}   | [[Magcargo]]     | Magcargo     | Volcaropod    |
 | 220 | {{#icon:220}}   | [[Quiekel]]      | Swinub       | Marcacrin     |
 | 221 | {{#icon:221}}   | [[Keifel]]       | Piloswine    | Cochignon     |

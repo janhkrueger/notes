@@ -109,7 +109,7 @@
  105 | {{#icon:321}} | [[Wailord]]
  106 | ![Camaub](../pokemonimages/Pokémon-322.png) | [[Camaub]]
  107 | ![Camerupt](../pokemonimages/Pokémon-323.png) | [[Camerupt]]
- 108 | {{#icon:218}} | [[Schneckmag]]
+ 108 | ![Schneckmag](../pokemonimages/Pokémon-Icon_218.png) | [[Schneckmag]]
  109 | {{#icon:219}} | [[Magcargo]]
  110 | ![Qurtel](../pokemonimages/Pokémon-Icon_324.png) | [[Qurtel]]
  111 | ![Sleima](../pokemonimages/Pokémon-Icon_088.png) | [[Sleima]]

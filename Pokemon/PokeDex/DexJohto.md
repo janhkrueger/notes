@@ -217,7 +217,7 @@
  213 | ![Kramurx](../pokemonimages/Pokémon-Icon_198.png) | [[Kramurx]]
  214 | ![Hunduster](../pokemonimages/Pokémon-Icon_228.png) | [[Hunduster]]
  215 | ![Hundemon](../pokemonimages/Pokémon-Icon_229.png) | [[Hundemon]]
- 216 | {{#icon:218}} | [[Schneckmag]]
+ 216 | ![Schneckmag](../pokemonimages/Pokémon-Icon_218.png) | [[Schneckmag]]
  217 | {{#icon:219}} | [[Magcargo]]
  218 | {{#icon:215}} | [[Sniebel]]
  219 | {{#icon:200}} | [[Traunfugil]]
