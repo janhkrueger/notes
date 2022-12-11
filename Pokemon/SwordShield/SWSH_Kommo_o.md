@@ -1,4 +1,4 @@
-#Kommo-o
+# Kommo-o
 
 ## Clangorous Soul Special Attacker Moveset & Best Build
 
@@ -14,9 +14,9 @@ Ability	__Soundproof__
 Held Item	__Sitrus Berry__
 
 Moveset
-* Clangorous Soul 
-* Clanging Scales 
+* Clangorous Soul
+* Clanging Scales
 * Flamethrower
-* Aura Spher
+* Aura Sphere
 
 #pokemon
