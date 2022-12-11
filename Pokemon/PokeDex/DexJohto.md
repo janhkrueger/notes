@@ -41,7 +41,7 @@
  037 | ![Zubat](../pokemonimages/Pokémon-Icon_041.png) | [[Zubat]]
  038 | ![Golbat](../pokemonimages/Pokémon-Icon_042.png) | [[Golbat]]
  039 | ![Iksbat](../pokemonimages/Pokémon-Icon_169.png) | [[Iksbat]]
- 040 | {{#icon:173}} | [[Pii]]
+ 040 | ![Pii](../pokemonimages/Pokémon-Icon_173.png) | [[Pii]]
  041 | ![Piepi](../pokemonimages/Pokémon-Icon_035.png)| [[Piepi]]
  042 | ![Pixi](../pokemonimages/Pokémon-Icon_036.png)| [[Pixi]]
  043 | {{#icon:174}} | [[Fluffeluff]]
