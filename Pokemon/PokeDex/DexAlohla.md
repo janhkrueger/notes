@@ -273,7 +273,7 @@
  269 | {{#icon:205}} | [[Forstellka]]
  270 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png) | [[Panzaeron]]
  271 | ![Ditto](../pokemonimages/Pokémon-Icon_132.png) | [[Ditto]]
- 272 | {{#icon:173}} | [[Pii]]
+ 272 | ![Pii](../pokemonimages/Pokémon-Icon_173.png) | [[Pii]]
  273 | ![Piepi](../pokemonimages/Pokémon-Icon_035.png) | [[Piepi]]
  274 | ![Pixi](../pokemonimages/Pokémon-Icon_036.png) | [[Pixi]]
  275 | {{#icon:605}} | [[Pygraulon]]

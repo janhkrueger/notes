@@ -100,7 +100,7 @@
  096 | {{#icon:440}} | [[Wonneira]]
  097 | ![Chaneira](../pokemonimages/Pokémon-Icon_113.png) | [[Chaneira]]
  098 | ![Heiteira](../pokemonimages/Pokémon-Icon_242.png) | [[Heiteira]]
- 099 | {{#icon:173}} | [[Pii]]
+ 099 | ![Pii](../pokemonimages/Pokémon-Icon_173.png) | [[Pii]]
  100 | ![Piepi](../pokemonimages/Pokémon-Icon_035.png) | [[Piepi]]
  101 | ![Pixi](../pokemonimages/Pokémon-Icon_036.png) | [[Pixi]]
  102 | {{#icon:441}} | [[Plaudagei]]

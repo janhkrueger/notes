@@ -90,7 +90,7 @@
  085 | {{#icon:549}} | [[Dressella]]
  086 | {{#icon:517}} | [[Somniam]]
  087 | {{#icon:518}} | [[Somnivora]]
- 088 | {{#icon:173}} | [[Pii]]
+ 088 | ![Pii](../pokemonimages/Pokémon-Icon_173.png) | [[Pii]]
  089 | ![Piepi](../pokemonimages/Pokémon-Icon_035.png) | [[Piepi]]
  090 | ![Pixi](../pokemonimages/Pokémon-Icon_036.png) | [[Pixi]]
  091 | ![Evoli](../pokemonimages/Pokémon-Icon_133.png) | [[Evoli]]

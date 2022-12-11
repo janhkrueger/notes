@@ -174,7 +174,7 @@
 | 170 | {{#icon:170}}   | [[Lampi]]        | Chinchou     | Loupio        |
 | 171 | {{#icon:171}}   | [[Lanturn]]      | Lanturn      | Lanturn       |
 | 172 | {{#icon:172}}   | [[Pichu]]        | Pichu        | Pichu         |
-| 173 | {{#icon:173}}   | [[Pii]]          | Cleffa       | Mélo          |
+| 173 | ![Pii](../pokemonimages/Pokémon-Icon_173.png)   | [[Pii]]          | Cleffa       | Mélo          |
 | 174 | {{#icon:174}}   | [[Fluffeluff]]   | Igglybuff    | Toudoudou     |
 | 175 | {{#icon:175}}   | [[Togepi]]       | Togepi       | Togepi        |
 | 176 | {{#icon:176}}   | [[Togetic]]      | Togetic      | Togetic       |
