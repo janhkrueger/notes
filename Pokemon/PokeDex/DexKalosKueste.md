@@ -141,7 +141,7 @@
  137 | ![Kokowei](../pokemonimages/Pokémon-Icon_103.png) | [[Kokowei]]
  138 | {{#icon:441}} | [[Plaudagei]]
  139 | {{#icon:458}} | [[Mantirps]]
- 140 | ![Mantax](../pokemonimages/Pokémon-Icon_226png) | [[Mantax]]
+ 140 | ![Mantax](../pokemonimages/Pokémon-Icon_226.png) | [[Mantax]]
  141 | {{#icon:366}} | [[Perlu]]
  142 | {{#icon:367}} | [[Aalabyss]]
  143 | {{#icon:368}} | [[Saganabyss]]

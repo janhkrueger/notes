@@ -148,7 +148,7 @@
  144 | {{#icon:308}} | [[Meditalis]]
  145 | ![Zubat](../pokemonimages/Pokémon-Icon_041.png) | [[Zubat]]
  146 | ![Golbat](../pokemonimages/Pokémon-Icon_042.png) | [[Golbat]]
- 147 | {{#icon:169}} | [[Iksbat]]
+ 147 | ![Iksbat](../pokemonimages/Pokémon-Icon_169.png) | [[Iksbat]]
  148 | {{#icon:610}} | [[Milza]]
  149 | {{#icon:611}} | [[Sharfax]]
  150 | {{#icon:612}} | [[Maxax]]

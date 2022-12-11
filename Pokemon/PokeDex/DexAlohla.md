@@ -83,7 +83,7 @@
  079 | {{#icon:430}} | [[Kramshef]]
  080 | ![Zubat](../pokemonimages/Pokémon-Icon_041.png) | [[Zubat]]
  081 | ![Golbat](../pokemonimages/Pokémon-Icon_042.png) | [[Golbat]]
- 082 | {{#icon:169}} | [[Iksbat]]
+ 082 | ![Iksbat](../pokemonimages/Pokémon-Icon_169.png) | [[Iksbat]]
  083 | {{#icon:714}} | [[eF-eM]]
  084 | {{#icon:715}} | [[UHaFnir]]
  085 | ![Digda](../pokemonimages/Pokémon-Icon_050.png)<br />{{#icon:050a}} | [[Digda]]<br />(Alola-Form)
@@ -147,7 +147,7 @@
  143 | {{#icon:223}} | [[Remoraid]]
  144 | {{#icon:224}} | [[Octillery]]
  145 | {{#icon:458}} | [[Mantirps]]
- 146 | ![Mantax](../pokemonimages/Pokémon-Icon_226png) | [[Mantax]]
+ 146 | ![Mantax](../pokemonimages/Pokémon-Icon_226.png) | [[Mantax]]
  147 | {{#icon:371}} | [[Kindwurm]]
  148 | {{#icon:372}} | [[Draschel]]
  149 | {{#icon:373}} | [[Brutalanda]]

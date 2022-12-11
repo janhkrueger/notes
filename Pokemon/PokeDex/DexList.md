@@ -170,7 +170,7 @@
 | 166 | ![Ledian](../pokemonimages/Pokémon-Icon_166.png)   | [[Ledian]]       | Ledian       | Coxyclaque    |
 | 167 | ![Webarak](../pokemonimages/Pokémon-Icon_167.png)   | [[Webarak]]      | Spinarak     | Mimigal       |
 | 168 | ![Ariados](../pokemonimages/Pokémon-Icon_168.png)   | [[Ariados]]      | Ariados      | Migalos       |
-| 169 | {{#icon:169}}   | [[Iksbat]]       | Crobat       | Nostenfer     |
+| 169 | ![Iksbat](../pokemonimages/Pokémon-Icon_169.png)   | [[Iksbat]]       | Crobat       | Nostenfer     |
 | 170 | {{#icon:170}}   | [[Lampi]]        | Chinchou     | Loupio        |
 | 171 | {{#icon:171}}   | [[Lanturn]]      | Lanturn      | Lanturn       |
 | 172 | {{#icon:172}}   | [[Pichu]]        | Pichu        | Pichu         |
@@ -227,13 +227,13 @@
 | 223 | {{#icon:223}}   | [[Remoraid]]     | Remoraid     | Rémoraid      |
 | 224 | {{#icon:224}}   | [[Octillery]]    | Octillery    | Octillery     |
 | 225 | {{#icon:225}}   | [[Botogel]]      | Delibird     | Cadoizo       |
-| 226 | ![Mantax](../pokemonimages/Pokémon-Icon_226png)   | [[Mantax]]       | Mantine      | Démanta       |
+| 226 | ![Mantax](../pokemonimages/Pokémon-Icon_226.png)   | [[Mantax]]       | Mantine      | Démanta       |
 | 227 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png)   | [[Panzaeron]]    | Skarmory     | Airmure       |
 | 228 | ![Hunduster](../pokemonimages/Pokémon-Icon_228.png)   | [[Hunduster]]    | Houndour     | Malosse       |
 | 229 | ![Hundemon](../pokemonimages/Pokémon-Icon_229.png)   | [[Hundemon]]     | Houndoom     | Démolosse     |
 | 230 | {{#icon:230}}   | [[Seedraking]]   | Kingdra      | Hyporoi       |
-| 231 | ![Phanpy](../pokemonimages/Pokémon-Icon_231png)   | [[Phanpy]]       | Phanpy       | Phanpy        |
-| 232 | ![Donphan](../pokemonimages/Pokémon-Icon_232png)   | [[Donphan]]      | Donphan      | Donphan       |
+| 231 | ![Phanpy](../pokemonimages/Pokémon-Icon_231.png)   | [[Phanpy]]       | Phanpy       | Phanpy        |
+| 232 | ![Donphan](../pokemonimages/Pokémon-Icon_232.png)   | [[Donphan]]      | Donphan      | Donphan       |
 | 233 | ![Porygon2](../pokemonimages/Pokémon-Icon_233.png)   | [[Porygon2]]     | Porygon2     | Porygon2      |
 | 234 | {{#icon:234}}   | [[Damhirplex]]   | Stantler     | Cerfrousse    |
 | 235 | {{#icon:235}}   | [[Farbeagle]]    | Smeargle     | Queulorior    |
