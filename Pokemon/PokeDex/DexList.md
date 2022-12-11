@@ -227,7 +227,7 @@
 | 223 | {{#icon:223}}   | [[Remoraid]]     | Remoraid     | Rémoraid      |
 | 224 | {{#icon:224}}   | [[Octillery]]    | Octillery    | Octillery     |
 | 225 | {{#icon:225}}   | [[Botogel]]      | Delibird     | Cadoizo       |
-| 226 | {{#icon:226}}   | [[Mantax]]       | Mantine      | Démanta       |
+| 226 | ![Mantax](../pokemonimages/Pokémon-Icon_226png)   | [[Mantax]]       | Mantine      | Démanta       |
 | 227 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png)   | [[Panzaeron]]    | Skarmory     | Airmure       |
 | 228 | ![Hunduster](../pokemonimages/Pokémon-Icon_228.png)   | [[Hunduster]]    | Houndour     | Malosse       |
 | 229 | ![Hundemon](../pokemonimages/Pokémon-Icon_229.png)   | [[Hundemon]]     | Houndoom     | Démolosse     |

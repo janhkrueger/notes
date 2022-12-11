@@ -203,7 +203,7 @@
  199 | {{#icon:217}} | [[Ursaring]]
  200 | {{#icon:231}} | [[Phanpy]]
  201 | {{#icon:232}} | [[Donphan]]
- 202 | {{#icon:226}} | [[Mantax]]
+ 202 | ![Mantax](../pokemonimages/Pokémon-Icon_226png) | [[Mantax]]
  203 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png) | [[Panzaeron]]
  204 | ![Dodu](../pokemonimages/Pokémon-Icon_084.png) | [[Dodu]]
  205 | ![Dodri](../pokemonimages/Pokémon-Icon_085.png) | [[Dodri]]

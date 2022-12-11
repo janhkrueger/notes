@@ -142,7 +142,7 @@
  138 | {{#icon:349}} | [[Barschwa]]
  139 | {{#icon:350}} | [[Milotic]]
  140 | {{#icon:458}} | [[Mantirps]]
- 141 | {{#icon:226}} | [[Mantax]]
+ 141 | ![Mantax](../pokemonimages/Pokémon-Icon_226png) | [[Mantax]]
  142 | {{#icon:459}} | [[Shnebedeck]]
  143 | {{#icon:460}} | [[Rexblisar]]
  144 | ![Sniebel](../pokemonimages/Pokémon-Icon_215.png) | [[Sniebel]]

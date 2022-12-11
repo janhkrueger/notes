@@ -147,7 +147,7 @@
  143 | {{#icon:223}} | [[Remoraid]]
  144 | {{#icon:224}} | [[Octillery]]
  145 | {{#icon:458}} | [[Mantirps]]
- 146 | {{#icon:226}} | [[Mantax]]
+ 146 | ![Mantax](../pokemonimages/Pokémon-Icon_226png) | [[Mantax]]
  147 | {{#icon:371}} | [[Kindwurm]]
  148 | {{#icon:372}} | [[Draschel]]
  149 | {{#icon:373}} | [[Brutalanda]]

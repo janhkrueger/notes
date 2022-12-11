@@ -236,7 +236,7 @@
  231 | {{#icon:618}} | [[Flunschlik]]
  232 | {{#icon:213}} | [[Pottrott]]
  233 | {{#icon:458}} | [[Mantirps]]
- 234 | {{#icon:226}} | [[Mantax]]
+ 234 | ![Mantax](../pokemonimages/Pokémon-Icon_226png) | [[Mantax]]
  235 | {{#icon:223}} | [[Remoraid]]
  236 | {{#icon:224}} | [[Octillery]]
  237 | {{#icon:222}} | [[Corasonn]]
