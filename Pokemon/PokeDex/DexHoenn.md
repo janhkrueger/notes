@@ -121,7 +121,7 @@
  117 | ![Sandan](../pokemonimages/Pokémon-Icon_027.png) | [[Sandan]]
  118 | ![Sandamer](../pokemonimages/Pokémon-Icon_028.png) | [[Sandamer]]
  119 | {{#icon:327}} | [[Pandir]]
- 120 | {{#icon:227}} | [[Panzaeron]]
+ 120 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png) | [[Panzaeron]]
  121 | {{#icon:328}} | [[Knacklion]]
  122 | {{#icon:329}} | [[Vibrava]]
  123 | {{#icon:330}} | [[Libelldra]]

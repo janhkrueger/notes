@@ -271,7 +271,7 @@
  267 | {{#icon:573}} | [[Chillabell]]
  268 | {{#icon:204}} | [[Tannza]]
  269 | {{#icon:205}} | [[Forstellka]]
- 270 | {{#icon:227}} | [[Panzaeron]]
+ 270 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png) | [[Panzaeron]]
  271 | ![Ditto](../pokemonimages/Pokémon-Icon_132.png) | [[Ditto]]
  272 | {{#icon:173}} | [[Pii]]
  273 | ![Piepi](../pokemonimages/Pokémon-Icon_035.png) | [[Piepi]]

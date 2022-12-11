@@ -113,7 +113,7 @@
  109 | ![Habitak](../pokemonimages/Pokémon-Icon_021.png) | [[Habitak]]
  110 | ![Ibitak](../pokemonimages/Pokémon-Icon_022.png) | [[Ibitak]]
  111 | {{#icon:615}} | [[Frigometri]]
- 112 | {{#icon:227}} | [[Panzaeron]]
+ 112 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png) | [[Panzaeron]]
  113 | {{#icon:714}} | [[eF-eM]]
  114 | {{#icon:715}} | [[UHaFnir]]
  115 | {{#icon:207}} | [[Skorgla]]

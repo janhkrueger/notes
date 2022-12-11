@@ -205,7 +205,7 @@
  200 | {{#icon:645}} | [[Demeteros]]
  201 | {{#icon:451}} | [[Pionskora]]
  202 | {{#icon:452}} | [[Piondragi]]
- 203 | {{#icon:227}} | [[Panzaeron]]
+ 203 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png) | [[Panzaeron]]
  204 | ![Camaub](../pokemonimages/Pokémon-322.png) | [[Camaub]]
  205 | ![Camerupt](../pokemonimages/Pokémon-323.png) | [[Camerupt]]
  206 | {{#icon:325}} | [[Spoink]]

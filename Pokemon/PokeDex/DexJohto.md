@@ -204,7 +204,7 @@
  200 | {{#icon:231}} | [[Phanpy]]
  201 | {{#icon:232}} | [[Donphan]]
  202 | {{#icon:226}} | [[Mantax]]
- 203 | {{#icon:227}} | [[Panzaeron]]
+ 203 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png) | [[Panzaeron]]
  204 | ![Dodu](../pokemonimages/Pokémon-Icon_084.png) | [[Dodu]]
  205 | ![Dodri](../pokemonimages/Pokémon-Icon_085.png) | [[Dodri]]
  206 | ![Ponita](../pokemonimages/Pokémon-Icon_077.png) | [[Ponita]]
