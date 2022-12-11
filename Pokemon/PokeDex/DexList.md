@@ -232,8 +232,8 @@
 | 228 | ![Hunduster](../pokemonimages/Pokémon-Icon_228.png)   | [[Hunduster]]    | Houndour     | Malosse       |
 | 229 | ![Hundemon](../pokemonimages/Pokémon-Icon_229.png)   | [[Hundemon]]     | Houndoom     | Démolosse     |
 | 230 | {{#icon:230}}   | [[Seedraking]]   | Kingdra      | Hyporoi       |
-| 231 | {{#icon:231}}   | [[Phanpy]]       | Phanpy       | Phanpy        |
-| 232 | {{#icon:232}}   | [[Donphan]]      | Donphan      | Donphan       |
+| 231 | ![Phanpy](../pokemonimages/Pokémon-Icon_231png)   | [[Phanpy]]       | Phanpy       | Phanpy        |
+| 232 | ![Donphan](../pokemonimages/Pokémon-Icon_232png)   | [[Donphan]]      | Donphan      | Donphan       |
 | 233 | ![Porygon2](../pokemonimages/Pokémon-Icon_233.png)   | [[Porygon2]]     | Porygon2     | Porygon2      |
 | 234 | {{#icon:234}}   | [[Damhirplex]]   | Stantler     | Cerfrousse    |
 | 235 | {{#icon:235}}   | [[Farbeagle]]    | Smeargle     | Queulorior    |
