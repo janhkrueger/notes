@@ -12,7 +12,4 @@
 
 [[Uralte_Gegenstaende_verbessern]]
 
-[[ExtractLegendaryPower]]
-
-
-
+[[D3_ExtractLegendaryPower]]
