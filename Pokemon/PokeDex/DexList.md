@@ -217,8 +217,8 @@
 | 213 | {{#icon:213}}   | [[Pottrott]]     | Shuckle      | Caratroc      |
 | 214 | {{#icon:214}}   | [[Skaraborn]]    | Heracross    | Scarhino      |
 | 215 | ![Sniebel](../pokemonimages/Pokémon-Icon_215.png)   | [[Sniebel]]      | Sneasel      | Farfuret      |
-| 216 | {{#icon:216}}   | [[Teddiursa]]    | Teddiursa    | Teddiursa     |
-| 217 | {{#icon:217}}   | [[Ursaring]]     | Ursaring     | Ursaring      |
+| 216 | ![Teddiursa](../pokemonimages/Pokémon-Icon_216.png)   | [[Teddiursa]]    | Teddiursa    | Teddiursa     |
+| 217 | ![Ursaring](../pokemonimages/Pokémon-Icon_217.png)   | [[Ursaring]]     | Ursaring     | Ursaring      |
 | 218 | ![Schneckmag](../pokemonimages/Pokémon-Icon_218.png)   | [[Schneckmag]]   | Slugma       | Limagma       |
 | 219 | ![Magcargo](../pokemonimages/Pokémon-Icon_219.png)   | [[Magcargo]]     | Magcargo     | Volcaropod    |
 | 220 | {{#icon:220}}   | [[Quiekel]]      | Swinub       | Marcacrin     |
