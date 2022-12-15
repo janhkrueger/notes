@@ -75,9 +75,9 @@
 | 071 | {{#icon:071}}   | [[Sarzenia]]     | Victreebel   | Empiflor      |
 | 072 | {{#icon:072}}   | [[Tentacha]]     | Tentacool    | Tentacool     |
 | 073 | {{#icon:073}}   | [[Tentoxa]]      | Tentacruel   | Tentacruel    |
-| 074 | {{#icon:074}}   | [[Kleinstein]]   | Geodude      | Racaillou     |
-| 075 | {{#icon:075}}   | [[Georok]]       | Graveler     | Gravalanch    |
-| 076 | {{#icon:076}}   | [[Geowaz]]       | Golem        | Grolem        |
+| 074 | ![Kleinstein](../pokemonimages/Pokémon-Icon_074.png)   | [[Kleinstein]]   | Geodude      | Racaillou     |
+| 075 | ![Georok](../pokemonimages/Pokémon-Icon_075.png)   | [[Georok]]       | Graveler     | Gravalanch    |
+| 076 | ![Geowaz](../pokemonimages/Pokémon-Icon_076.png)   | [[Geowaz]]       | Golem        | Grolem        |
 | 077 | ![Ponita](../pokemonimages/Pokémon-Icon_077.png)   | [[Ponita]]       | Ponyta       | Ponyta        |
 | 078 | ![Gallopa](../pokemonimages/Pokémon-Icon_078.png)   | [[Gallopa]]      | Rapidash     | Galopa        |
 | 079 | {{#icon:079}}   | [[Flegmon]]      | Slowpoke     | Ramoloss      |
