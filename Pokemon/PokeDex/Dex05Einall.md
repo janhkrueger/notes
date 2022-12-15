@@ -2,7 +2,7 @@
 
  Nr. | Icon          | Name
 -----|---------------|----------------
- 000 | ![Victini](../pokemonimages/Pokémon_494.png) | [[Victini]]
+ 000 | ![Victini](../pokemonimages/Pokémon-Icon_494.png) | [[Victini]]
  001 | {{#icon:495}} | [[Serpifeu]]
  002 | {{#icon:496}} | [[Efoserp]]
  003 | {{#icon:497}} | [[Serpiroyal]]
