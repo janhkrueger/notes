@@ -32,7 +32,7 @@
  028 | ![Zorua](../pokemonimages/Pokémon-Icon_570.png) | [[Zorua]]
  029 | ![Zoroark](../pokemonimages/Pokémon-Icon_571.png) | [[Zoroark]]
  030 | ![Coiffwaff](../pokemonimages/Pokémon-Icon_676.png) | [[Coiffwaff]]
- 031 | {{#icon:172}} | [[Pichu]]
+ 031 | ![Pichu](../pokemonimages/Pokémon-Icon_172.png) | [[Pichu]]
  032 | ![Pikachu](../pokemonimages/Pokémon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)
  033 | ![Raichu](../pokemonimages/Pokémon-Icon_026.png)<br />{{#icon:026a}} | [[Raichu]]<br />(Alola-Form)
  034 | ![Mabula](../pokemonimages/Pokémon-Icon_736.png) | [[Mabula]]
@@ -213,8 +213,8 @@
  209 | {{#icon:763}} | [[Fruyal]]
  210 | {{#icon:764}} | [[Curelei]]
  211 | ![Pinsir](../pokemonimages/Pokémon-Icon_127.png) | [[Pinsir]]
- 212 | {{#icon:163}} | [[Hoothoot]]
- 213 | {{#icon:164}} | [[Noctuh]]
+ 212 | ![Hoothoot](../pokemonimages/Pokémon-Icon_163.png) | [[Hoothoot]]
+ 213 | ![Noctuh](../pokemonimages/Pokémon-Icon_164.png) | [[Noctuh]]
  214 | {{#icon:352}} | [[Kecleon]]
  215 | {{#icon:765}} | [[Kommandutan]]
  216 | {{#icon:766}} | [[Quartermak]]

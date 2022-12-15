@@ -162,10 +162,10 @@
 | 158 | ![Karnimani](../pokemonimages/Pokémon-Icon_158.png)   | [[Karnimani]]    | Totodile     | Kaiminus      |
 | 159 | ![Tyracroc](../pokemonimages/Pokémon-Icon_159.png)   | [[Tyracroc]]     | Croconaw     | Crocrodil     |
 | 160 | ![Impergator](../pokemonimages/Pokémon-Icon_160.png)   | [[Impergator]]   | Feraligatr   | Aligatueur    |
-| 161 | {{#icon:161}}   | [[Wiesor]]       | Sentret      | Fouinette     |
-| 162 | {{#icon:162}}   | [[Wiesenior]]    | Furret       | Fouinar       |
-| 163 | {{#icon:163}}   | [[Hoothoot]]     | Hoothoot     | Hoothoot      |
-| 164 | {{#icon:164}}   | [[Noctuh]]       | Noctowl      | Noarfang      |
+| 161 | ![Wiesor](../pokemonimages/Pokémon-Icon_161.png)   | [[Wiesor]]       | Sentret      | Fouinette     |
+| 162 | ![Wiesenior](../pokemonimages/Pokémon-Icon_162.png)   | [[Wiesenior]]    | Furret       | Fouinar       |
+| 163 | ![Hoothoot](../pokemonimages/Pokémon-Icon_163.png)   | [[Hoothoot]]     | Hoothoot     | Hoothoot      |
+| 164 | ![Noctuh](../pokemonimages/Pokémon-Icon_164.png)   | [[Noctuh]]       | Noctowl      | Noarfang      |
 | 165 | ![Ledyba](../pokemonimages/Pokémon-Icon_165.png)   | [[Ledyba]]       | Ledyba       | Coxy          |
 | 166 | ![Ledian](../pokemonimages/Pokémon-Icon_166.png)   | [[Ledian]]       | Ledian       | Coxyclaque    |
 | 167 | ![Webarak](../pokemonimages/Pokémon-Icon_167.png)   | [[Webarak]]      | Spinarak     | Mimigal       |
@@ -173,7 +173,7 @@
 | 169 | ![Iksbat](../pokemonimages/Pokémon-Icon_169.png)   | [[Iksbat]]       | Crobat       | Nostenfer     |
 | 170 | {{#icon:170}}   | [[Lampi]]        | Chinchou     | Loupio        |
 | 171 | {{#icon:171}}   | [[Lanturn]]      | Lanturn      | Lanturn       |
-| 172 | {{#icon:172}}   | [[Pichu]]        | Pichu        | Pichu         |
+| 172 | ![Pichu](../pokemonimages/Pokémon-Icon_172.png)   | [[Pichu]]        | Pichu        | Pichu         |
 | 173 | ![Pii](../pokemonimages/Pokémon-Icon_173.png)   | [[Pii]]          | Cleffa       | Mélo          |
 | 174 | {{#icon:174}}   | [[Fluffeluff]]   | Igglybuff    | Toudoudou     |
 | 175 | {{#icon:175}}   | [[Togepi]]       | Togepi       | Togepi        |

@@ -163,7 +163,7 @@
  159 | {{#icon:359}} | [[Absol]]
  160 | ![Vulpix](../pokemonimages/Pokémon-Icon_037.png) | [[Vulpix]]
  161 | ![Vulnona](../pokemonimages/Pokémon-Icon_038.png) | [[Vulnona]]
- 162 | {{#icon:172}} | [[Pichu]]
+ 162 | ![Pichu](../pokemonimages/Pokémon-Icon_172.png) | [[Pichu]]
  163 | ![Pikachu](../pokemonimages/Pokémon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)
  164 | ![Raichu](../pokemonimages/Pokémon-Icon_026.png) | [[Raichu]]
  165 | ![Enton](../pokemonimages/Pokémon-Icon_054.png) | [[Enton]]
