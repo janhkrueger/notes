@@ -41,7 +41,7 @@
  037 | ![Raichu](../pokemonimages/Pokémon-Icon_026.png) | [[Raichu]]
  038 | {{#icon:399}} | [[Bidiza]]
  039 | {{#icon:400}} | [[Bidifas]]
- 040 | {{#icon:206}} | [[Dummisel]]
+ 040 | ![Dummisel](../pokemonimages/Pokémon-Icon_206.png) | [[Dummisel]]
  041 | {{#icon:298}} | [[Azurill]]
  042 | {{#icon:183}} | [[Marill]]
  043 | {{#icon:184}} | [[Azumarill]]

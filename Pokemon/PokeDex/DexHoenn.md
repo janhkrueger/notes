@@ -143,7 +143,7 @@
  139 | {{#icon:346}} | [[Wielie]]
  140 | {{#icon:347}} | [[Anorith]]
  141 | {{#icon:348}} | [[Armaldo]]
- 142 | {{#icon:174}} | [[Fluffeluff]]
+ 142 | ![Fluffeluff](../pokemonimages/Pokémon-Icon_174.png) | [[Fluffeluff]]
  143 | ![Pummeluff](../pokemonimages/Pokémon-Icon_039.png) | [[Pummeluff]]
  144 | ![Knuddeluff](../pokemonimages/Pokémon-Icon_040.png) | [[Knuddeluff]]
  145 | {{#icon:349}} | [[Barschwa]]
