@@ -16,12 +16,12 @@ Level 60 Blutelf, Ehrführchtig bei Silbermond
 ### Startquest
 "Der Stolz der Sin'dorei", Vergeben von Botschafterin Morgenschwur in Orgrimmar, ausserhalb der Botschaft.
 
-## Blutelfen: Blutpaladin
+### Blutelfen: Blutpaladin
 
-### Vorbedingung
+#### Vorbedingung
 Level 60 Blutelf, Ehrführchtig
 
-### Startquest
+#### Startquest
 "Gerufen von der Matriarchin", vergeben von Lady Liadrin am äußeren Ring von Oribos.
 
 ## Dunkeleisenzwerge: Tradition der Dunkeleisenzwerge
@@ -32,12 +32,12 @@ Level 50, Dunkeleisenzwerg
 ### Startquest
 "Tradition der Dunkeleisenzwerge", vergeben von Ambossthan Thurgaden in Schwarzfelstiefen
 
-## Dunkeleisenzwerge: Arsenal: Lavaschmiedewaffen
+### Dunkeleisenzwerge: Arsenal: Lavaschmiedewaffen
 
-### Startquest
+#### Startquest
 "Dunkeleisenwaffen", vergeben von Ambossthan Thurgaden in Schwarzfelstiefen
 
-### Vorbedingung
+#### Vorbedingung
 Level 50, Dunkeleisenzwerg
 
 ## Jäger: Anpassungen des dunklen Waldläufers
