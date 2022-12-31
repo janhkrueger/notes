@@ -1,4 +1,12 @@
-# Heritage Armors
+= {subject}
+Jan H. Krueger <test@example.com>
+:subject: Heritage Armors
+:description:  Collection how to get the different Hertiage Armors in World of Warcraft
+:doctype: book
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 6
 
 ## Blutelfen: Tradition der Blutelfen
 
