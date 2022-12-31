@@ -53,14 +53,19 @@ This guide has a lot of information, and therefore tables are included below tha
 | Costs 750, Schillernde Federx5 and  Geschwungene Vogelfederx20                                                 |                      |
 |  Tiefgrüne Flatterlibelle                                                                                      | Drop                 | Rare drop from Expeditionsspäherpack.
 | Requires Renown 25 with Drachenschuppen- expedition to drop                                                    |                      |
-|  Zenetküken                                                                                                    | Drop                 | Hatches from  Zenetei after 7 days.
-| The egg is obtained from Zenet Avis.                                                                           |                      |
-|  Zügel des befreiten Slyvern                                                                                   | Drop                 | Drop from Brisenbiss
-|  Loyales Magmammut                                                                                             | Reputation           | Maximize your reputation with both Sabellian and Furorion and complete Schwerer Mammutdiebstahl
-| Ebenenschreiterträger                                                                                          | Events               | Contained inside  Beute der großen Jagd, Belohnung durch your first Grand Hunt of the week
-| Sturmbalgsalamanther                                                                                           | Events               | Sold by Mythressa. Costs 2000
-|  Göttlicher Kuss von Ohn'ahra                                                                                  | Puzzle               | Puzzle Instructions
-| Requires Renown 9 with Zentauren der Maruuk                                                                    |                      |
+|  https://www.wowhead.com/de/item=198825/zenetküken[Zenetküken] | Drop                 | Schlüpft von https://www.wowhead.com/de/item=200879/zenetei[Zenetei] nach 7 Tagen.
+
+Das Ei kann erhalten werden von https://www.wowhead.com/de/npc=193209/zenet-avis[Zenet Avis].
+|  https://www.wowhead.com/de/item=201440/zügel-des-befreiten-slyvern[Zügel des befreiten Slyvern] | Drop                 | Drop von https://www.wowhead.com/de/npc=195353/brisenbiss[Brisenbiss]
+|  https://www.wowhead.com/de/item=192601/loyales-magmammut[Loyales Magmammut] | Ruf | Ereiche maximalen Ruf bei https://www.wowhead.com/de/faction=2518/sabellian[Sabellian] und https://www.wowhead.com/de/faction=2517/furorion[Furorion] und schließe https://www.wowhead.com/de/achievement=16736/schwerer-mammutdiebstahl[Schwerer Mammutdiebstahl] ab.
+| https://www.wowhead.com/de/item=192791/ebenenschreiterträger[Ebenenschreiterträger] | Events | Enthalten in https://www.wowhead.com/de/item=200468/beute-der-großen-jagd[Beute der großen Jagd], Belohnung der ersten "Große Jagd" pro Woche
+| https://www.wowhead.com/de/item=192775/sturmbalgsalamanther[Sturmbalgsalamanther] | Events               | Verkauft durch https://www.wowhead.com/de/npc=196516/mythressa[Mythressa].
+
+Kosten 2000 x https://www.wowhead.com/de/currency=2118/elementarüberfluss[Elementarüberfluss]
+|  https://www.wowhead.com/de/item=198821/göttlicher-kuss-von-ohnahra[Göttlicher Kuss von Ohn'ahra]                                                                                  | Puzzle               | Erfordert Rang 9 bei https://www.wowhead.com/de/faction=2503/zentauren-der-maruuk[Zentauren der Maruuk]
+
+https://www.wowhead.com/news/divine-kiss-of-ohnahra-ohuna-transformation-mount-in-dragonflight-329817[Puzzle Instructions]
+
 |  https://www.wowhead.com/de/item=192799/lizis-zügel[Lizis Zügel]                                                                                                   | Puzzle               | Fünf Tage Quest abschließen. Erfordert Rang 9 bei https://www.wowhead.com/de/faction=2503/zentauren-der-maruuk[Zentauren der Maruuk]
 
 https://www.wowhead.com/item=192799/lizis-reins#comments:id=5443480[Puzzle Instructions]
