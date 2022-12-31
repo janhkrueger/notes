@@ -1,0 +1,26 @@
+= {subject}
+Jan H. Krueger
+:subject: Shadowland Mountguide
+:description:  Collection how to get the different Mounts in Shadowlands
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 1
+
+== Patch 9.2.5 Additions
+
+|======================================================================================================
+| Mount | Quelle | Observation
+| https://www.wowhead.com/de/item=191123/grimmheuls-gesichtsaxt[Grimmheuls Gesichtsaxt] | https://www.wowhead.com/de/quest=65564/guter-feuriger-junge[Guter feuriger Junge] | Level 50 Dunkeleisenzwerg
+| https://www.wowhead.com/de/item=191566/flüchtiger-smaragdfalkenschreiter[Flüchtiger Smaragdfalkenschreiter] | https://www.wowhead.com/de/quest=65653/sieg-für-die-sindorei[Sieg für die Sin'dorei] | Level 60  Blutelf, Ehrfürchtig Silbermond
+| https://www.wowhead.com/de/item=190170/jigglesworth-sen[Jigglesworth Sr.] | https://www.wowhead.com/de/achievement=15684/schicksalsschlachtzüge-von-shadowlands[Schicksalsschlachtzüge von Shadowlands] |
+|  |  |
+|  |  |
+
+|======================================================================================================
+
+
+== Quelle
+
+Artikel von https://www.wowhead.com/de/guide/shadowlands-mount-guide-10510[Wowhead]
