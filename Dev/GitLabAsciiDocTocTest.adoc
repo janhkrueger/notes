@@ -1,0 +1,14 @@
+= {subject}: PREPARED FOR - Gitlab
+Jan H. Krueger <test@example.com>
+:subject: Example Doc
+:description:  For troubleshooting ToC link isses
+:doctype: book
+:confidentiality: Open
+:customer: GitLab
+:listing-caption: Listing
+:toc:
+:toclevels: 6
+
+== First section
+
+=== The start 
