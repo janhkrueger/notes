@@ -1,12 +1,12 @@
-# Mountguide - Nilganihmahts Steuerungsring
+= {subject}
+Jan H. Krueger
 :subject: Mountguide - Nilganihmahts Steuerungsring
 :description: Guide um Nilganihmahts Steuerungsring zu erlangen.
-:doctype: book
+:doctype: article
 :confidentiality: Open
 :listing-caption: Listing
 :toc:
 :toclevels: 3
-
 
 Patch 9.1 bringt eine ganz neue Art von Mount, denn es handelt sich um Hände! Sehr große Hände inklusive Sattel. Kleine Varianten davon gab es bereits als Gegner in Torghast und nun kommen die übergroßen Versionen, um uns durch die Welt zu tragen. Unter anderem gibt es eine schicke goldene Variante: https://de.wowhead.com/item=186713/nilganihmaht-control-ring[Nilganihmahts Steuerungsring] für https://de.wowhead.com/spell=354354/hand-of-nilganihmaht[Hand von Nilganihmahts]. Um diese zu bekommen, muss man jedoch ein riesiges Rätsel im Schlund lösen. So gilt es fünf Ringe zu finden, die teilweise alle hinter kleineren Rätseln versteckt sind. Der folgende Guide wird euch dabei helfen!
 

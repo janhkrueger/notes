@@ -1,4 +1,12 @@
-# Transmogguide - Drustmasken & Waffen im Ardenwald freischalten
+= {subject}
+Jan H. Krueger
+:subject: Transmogguide - Drustmasken & Waffen
+:description: Guide um die Drustmasken & Waffen zu erspielen
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
 
 https://www.vanion.eu/guides/transmogguide-die-drustmasken-und-waffen-im-ardenwald-23280
 

@@ -1,0 +1,20 @@
+= {subject}
+Jan H. Krueger
+:subject: Verbündete Völker
+:description:  Anleitung um die verschiedenen Verbündeten Völker freizuschalten.
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 1
+
+## Mechagnome
+
+The requirements for unlocking the Mechagnome Allied Race are as follows:
+
+* __https://www.wowhead.com/achievement=13553/the-mechagonian-threat[The Mechagonian Threat] Achievement__: This achievement requires completion of the Mechagon storyline, which should take several hours and a dungeon run to complete. Reference the Comprehensive Mechagon Guide if you need assistance with any quest.
+* __https://www.wowhead.com/achievement=14013/allied-races-mechagnome[Allied Races: Mechagnome]__: You must then complete a special questline which demonstrates the ingenuity of Gnomes and Mechagnomes working together.
+
+After completing these, you will have earned the https://www.wowhead.com/achievement=14013/allied-races-mechagnome[Allied Races: Mechagnome] achievement, will receive https://www.wowhead.com/item=174068/mechagonian-tabard?bonus=0[Mechagonian Tabard] and   https://www.wowhead.com/item=174067/mechagon-mechanostrider[Mechagon Mechanostrider], and can create your own Mechagnome.
+
+The Mechagon story line and Rustbolt Resistance reputation can be completed on __either Alliance or Horde characters__. However, the unlock scenario must be completed on an Alliance character.

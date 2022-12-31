@@ -1,0 +1,11 @@
+= {subject}
+Jan H. Krueger
+:subject: Shadowland Transmog Items
+:description: Shadowland Transmog Items
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+https://www.vanion.eu/guides/sammelguide-alle-neuen-transmogsachen-in-shadowlands-23281

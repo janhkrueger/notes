@@ -1,0 +1,10 @@
+= {subject}
+Jan H. Krueger
+:subject: # Mountguide - Gefallenes Streitross
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+https://www.vanion.eu/guides/mountguide-gefallenes-streitross-24422

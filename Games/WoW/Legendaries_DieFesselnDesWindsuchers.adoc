@@ -1,4 +1,9 @@
-# Die Fesseln des Windsuchers
+= {subject}
+Jan H. Krueger
+:subject: Die Fesseln des Windsuchers
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
 
 Das große Abenteuer beginnt mit einer ziemlich mühseligen Aufgabe, so wie es bei den meisten legendären Waffen der Fall ist. Es gilt nämlich sehr seltene Gegenstände zu erbeuten. Dabei handelt es sich um die Bindung des Windsuchers und die Bindung des Windsuchers, wovon es eine rechte und eine linke gibt. Diese werden von den beiden Bossen Baron Geddon sowie Garr im 40-Mann-Raid Geschmolzener Kern fallen gelassen und die Dropchance beträgt etwa 3-4%. Die meisten Helden, die nach Donnerzorn streben, scheitern leider schon bei diesem Schritt und es ist kaum möglich die Aufgabe ohne eine feste Raidgruppe zu lösen, in der ihr die Bindungen bekommt.
 

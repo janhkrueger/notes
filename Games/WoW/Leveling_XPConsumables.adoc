@@ -1,7 +1,7 @@
 = {subject}
 Jan H. Krueger
 :subject: Leveling-Verbrauchsgüter in World of Warcraft
-:doctype: book
+:doctype: article
 :confidentiality: Open
 :listing-caption: Listing
 :toc:
