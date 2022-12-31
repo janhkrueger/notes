@@ -1,5 +1,5 @@
 = {subject}
-Jan H. Krueger <test@example.com>
+Jan H. Krueger
 :subject: Heritage Armors
 :description:  Collection how to get the different Hertiage Armors in World of Warcraft
 :doctype: book
