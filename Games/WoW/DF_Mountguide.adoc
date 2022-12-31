@@ -61,17 +61,22 @@ This guide has a lot of information, and therefore tables are included below tha
 | Sturmbalgsalamanther                                                                                           | Events               | Sold by Mythressa. Costs 2000
 |  Göttlicher Kuss von Ohn'ahra                                                                                  | Puzzle               | Puzzle Instructions
 | Requires Renown 9 with Zentauren der Maruuk                                                                    |                      |
-|  Lizis Zügel                                                                                                   | Puzzle               | Five day turn in quest. Requires Renown 9 with Zentauren der Maruuk
-| Puzzle Instructions                                                                                            |                      |
-|  Schneckenhaus einer schlummernden Weltenschnecke                                                              | Puzzle               | Sold by Händlerin Vexil for 1000x  Magmapartikel. Click for more details.
-|  Temperamentvolle Himmelskralle                                                                                | Puzzle               | Trade the following dishes for the mount with Zon'Wogi. Click for more details.
-| 20x Tuskarrdörrfleisch                                                                                         |                      |
-| 20x  Blitzgefrorenes Fleisch                                                                                   |                      |
-| 20x  Gnolans Spezialität des Hauses                                                                            |                      |
-|  Ottuk des Iskaarahändlers                                                                                     | Raid Drop            | Sold by Tattukiaka
-| Costs  Terros' gefangener Kern and Auge des rachsüchtigen Hurrikans which are both raid drops                  |                      |
-| Items can be from any difficulty                                                                               |                      |
-|  Wütendes Magmammut                                                                                            | Raid Erfolg     | Belohnung durch  Ruhm des Gewölbeschlachtzüglers
+|  https://www.wowhead.com/de/item=192799/lizis-zügel[Lizis Zügel]                                                                                                   | Puzzle               | Fünf Tage Quest abschließen. Erfordert Rang 9 bei https://www.wowhead.com/de/faction=2503/zentauren-der-maruuk[Zentauren der Maruuk]
+
+https://www.wowhead.com/item=192799/lizis-reins#comments:id=5443480[Puzzle Instructions]
+|  https://www.wowhead.com/de/item=192786/schneckenhaus-einer-schlummernden-weltenschnecke[Schneckenhaus einer schlummernden Weltenschnecke]                                                              | Puzzle               | Verkauft durch https://www.wowhead.com/de/npc=193310/händlerin-vexil[Händlerin Vexil] für 1000x https://www.wowhead.com/de/item=202173/magmapartikel[Magmapartikel]. https://www.wowhead.com/news/how-to-obtain-the-scrappy-worldsnail-collect-magmotes-for-magma-snail-mount-330240#news-post-330240[Click for more details].
+|  https://www.wowhead.com/de/item=201454/temperamentvolle-himmelskralle[Temperamentvolle Himmelskralle] | Puzzle               | Trade the following dishes for the mount with https://www.wowhead.com/de/npc=190892/zonwogi[Zon'Wogi]. https://www.wowhead.com/news/how-to-obtain-the-temperament-skyclaw-secret-mount-in-dragonflight-330267[Click for more details].
+
+20x https://www.wowhead.com/de/item=201421/tuskarrdörrfleisch[Tuskarrdörrfleisch]
+
+20x https://www.wowhead.com/de/item=201422/blitzgefrorenes-fleisch[Blitzgefrorenes Fleisch]
+
+20x https://www.wowhead.com/de/item=201420/gnolans-spezialität-des-hauses[Gnolans Spezialität des Hauses]
+|  https://www.wowhead.com/de/item=198871/ottuk-des-iskaarahändlers[Ottuk des Iskaarahändlers]                                                                                     | Raid Drop            | Verkauft durch https://www.wowhead.com/de/npc=199448/tattukiaka[Tattukiaka]
+
+Kosten: https://www.wowhead.com/de/item=195502/terros-gefangener-kern?bonus=7935[Terros' gefangener Kern] und https://www.wowhead.com/de/item=195496/auge-des-rachsüchtigen-hurrikans?bonus=7935[Auge des rachsüchtigen Hurrikans].
+Alle beide sind Raiddrops und können von jeder Schwierigkeit erhalten werden.
+|  https://www.wowhead.com/de/item=192806/wütendes-magmammut[Wütendes Magmammut]                                                                                            | Raid Erfolg     | Belohnung durch https://www.wowhead.com/de/achievement=16355/ruhm-des-gewölbeschlachtzüglers[Ruhm des Gewölbeschlachtzüglers]
 |  https://www.wowhead.com/de/item=198873/ottuk-des-elfenbeinhändlers[Ottuk des Elfenbeinhändlers]                                                                                   | Dungeon Drop         | Verkauft durch https://www.wowhead.com/de/npc=199448/tattukiaka[Tattukiaka]
 
 Kosten  https://www.wowhead.com/de/item=193696/donnernder-starkregenring?bonus=7974[Donnernder Starkregenring], https://www.wowhead.com/de/item=193633/instabile-arkanschleife?bonus=7974[Instabile Arkanschleife], und  https://www.wowhead.com/de/item=193708/platinsternenband?bonus=7974[Platinsternenband].
