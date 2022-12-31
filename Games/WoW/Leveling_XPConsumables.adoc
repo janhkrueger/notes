@@ -1,0 +1,27 @@
+= {subject}
+Jan H. Krueger
+:subject: Leveling-Verbrauchsgüter in World of Warcraft
+:doctype: book
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+
+== {subject}
+
+=== https://www.wowhead.com/de/item=166751/destillat-der-zehn-länder[Destillat der zehn Länder]
+Destillat der zehn Länder is purchasable for Warfront Service Medals in your faction's main hub from the Battle for Azeroth expansion and increases your main stats by 20 (flat increase, not %), and XP gained by 10% for 1 hour.
+
+=== Standarten
+
+==== https://www.wowhead.com/de/item=64399/schlachtstandarte-der-zusammenarbeit[Schlachtstandarte der Zusammenarbeit]
+Schlachtstandarte der Zusammenarbeit is a placeable item that increases your XP gains from killing mobs within 100 yards of it by 15%. There are weaker versions that do not share a cooldown with it
+
+==== https://www.wowhead.com/de/item=64398/standarte-der-einheit[Standarte der Einheit]
+Standarte der Einheit. Der XP, Ehre und Rufbonus beträgt 10%.
+
+==== https://www.wowhead.com/de/item=64400/banner-der-zusammenarbeit[Banner der Zusammenarbeit].
+Standarte der Einheit. Der XP, Ehre und Rufbonus beträgt 5%.
+
+Es ist zu empfehlen alle drei Standarten so oft wie möglich zu nutzen.
