@@ -23,14 +23,14 @@ This guide has a lot of information, and therefore tables are included below tha
 |  https://www.wowhead.com/de/item=198654/otterweltlicher-trägerottuk[Otterweltlicher Trägerottuk]                                                                                   | Erfolg          | Belohnung durch  https://www.wowhead.com/de/achievement=15834/danke-fürs-tragen[Danke fürs Tragen!]
 |  https://www.wowhead.com/de/spell=381529/telix-das-sturmhorn[Telix das Sturmhorn]                                                                                           | In-Game Shop         | Abschluß eines 12-Monats Abonnoments
 |  https://www.wowhead.com/de/spell=315132/gigantischer-grrloc[Gigantischer Grrloc]                                                                                           | In-Game Shop         | Abschluß eines 12-Monats Abonnoments
-|  https://www.wowhead.com/de/item=201720/bronzevorquin[Bronzevorquin]                                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 40
-|  Purpurvorquin                                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 40
-|  Obsidianvorquin                                                                                               | Racial               | Dracthyr Rassen Mount - Costs 40
-|  Saphirvorquin                                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 40
-|  Gepanzerter Vorquinleyschreiter                                                                               | Racial               | Dracthyr Rassen Mount - Costs 80
-|  Wächtervorquin                                                                                                | Racial               | Dracthyr Rassen Mount - Costs 80
-|  Schneller gepanzerter Vorquin                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 80
-|  Majestätischer gepanzerter Vorquin                                                                            | Racial               | Dracthyr Rassen Mount - Costs 80
+|  https://www.wowhead.com/de/item=201720/bronzevorquin[Bronzevorquin]                                                                                                 | Rasse               | Dracthyr Rassen Mount - Costs 40
+|  Purpurvorquin                                                                                                 | Rasse               | Dracthyr Rassen Mount - Costs 40
+|  Obsidianvorquin                                                                                               | Rasse               | Dracthyr Rassen Mount - Costs 40
+|  Saphirvorquin                                                                                                 | Rasse               | Dracthyr Rassen Mount - Costs 40
+|  Gepanzerter Vorquinleyschreiter                                                                               | Rasse               | Dracthyr Rassen Mount - Costs 80
+|  Wächtervorquin                                                                                                | Rasse               | Dracthyr Rassen Mount - Costs 80
+|  Schneller gepanzerter Vorquin                                                                                 | Rasse               | Dracthyr Rassen Mount - Costs 80
+|  Majestätischer gepanzerter Vorquin                                                                            | Rasse               | Dracthyr Rassen Mount - Costs 80
 |  https://www.wowhead.com/de/item=194034/erneuerter-protodrache[Erneuerter Protodrache] | Leveling             | Belohnung durch https://www.wowhead.com/de/quest=68795/drachenreiten[Drachenreiten], Teil der https://www.wowhead.com/de/zone=13644/die-küste-des-erwachens[Die Küste des Erwachens] Hauptquestline
 |  Windgeborener Velocidrache                                                                                    | Leveling             | Belohnung durch Schattenzuflucht, part of Ebenen von Ohn'ahra Main Questline
 |  Hochlanddrache                                                                                                | Leveling             | Belohnung durch  Ruf an die blauen Drachen, part of Das Azurblaue Gebirge Main Questline
