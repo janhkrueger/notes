@@ -1,7 +1,9 @@
+# Heritage Armors
+
 ## Blutelfen: Tradition der Blutelfen
 
 ### Vorbedingung
-Level 60 Blutelf, Ehrführchtig
+Level 60 Blutelf, Ehrführchtig bei Silbermond
 
 ### Startquest
 "Der Stolz der Sin'dorei", Vergeben von Botschafterin Morgenschwur in Orgrimmar, ausserhalb der Botschaft.
@@ -37,3 +39,11 @@ Erhalt des Erfolges: "Rückkehr nach Lordaeron", Jäger
 
 ### Startquest
 "Berufung nach Lordaeron", vergeben von Calia Menethil in Oribos
+
+## Mechagnome: Tradition der Mechagnome
+
+### Vorbedingung
+Level 50, Mechagnom
+
+### Startquest
+"Tradition der Mechagnome", vergeben von ? in Sturmwind
