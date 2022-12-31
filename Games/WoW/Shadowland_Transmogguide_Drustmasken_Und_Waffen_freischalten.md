@@ -1,0 +1,89 @@
+# Transmogguide - Drustmasken & Waffen im Ardenwald freischalten
+
+https://www.vanion.eu/guides/transmogguide-die-drustmasken-und-waffen-im-ardenwald-23280
+
+In Battle for Azeroth haben wir zum ersten Mal etwas mit den Drust zu tun gehabt. So stießen wir in Drustvar auf Gorak Tul, den Anführer der Drust, der sein Volk zurück nach Azeroth bringen wollte. Das hat aber bekanntlich nicht so gut geklappt. Im Ardenwald bekämpfen wir nun aber ganze Scharen von Drust und sie haben ihre ganz eigene Rüstung an, wovon wir Spieler sogar ein paar Teile stibitzen können. Unter anderem coole Helme, die für schaurige Outfits sicherlich interessant sein dürften. Leuchtende blaue Augen in einer aus Holz geschnitzten Maske. Was braucht man mehr für ein gutes Halloween-Kostüm? Achja, passende Waffen, und diese gibt es auch!
+Die Drustmasken freischalten
+
+Zuerst einmal gibt es zwei Masken aus dem Dungeon Nebel von Tirna Scithe. Diese werden vom Boss Ingra Molch fallen gelassen und es handelt sich um ganz normale Ausrüstungsteile. Der Helm Seelendornantlitz ist für Ketteträger und Zornborkengroßhelm für Platteträger. Doch keine Angst, die anderen Rüstungsklassen gehen nicht leer aus, denn es gibt noch Dunkelvorstoßmaske (Stoff) und Dörrhasshaube (Leder) aus der Schatzkiste Dunkelvorstoßvorräte im Ardenwald. Für alle verfügbar ist dann noch: Drustmaske der Vorherrschaft. Dies ist ein Kostüm-Item und wird vom seltenen Gegner Jägerin Vivanna im Ardenwald fallen gelassen.
+
+Fundorte der Masken
+
+    (Kette, Rot) Seelendornantlitz
+    (Platte, Schwarz) Zornborkengroßhelm
+        Drop von Ingra Moloch im Dungeon Nebel von Tirna Scithe
+
+    (Kostüm, Weiß) Drustmaske der Vorherrschaft
+        Drop von Jägerin Vivanna im Ardenwald (Koordinaten: 67.0, 52.0)
+
+ 
+
+    (Stoff, Beige) Dunkelvorstoßmaske 
+    (Leder, Grün) Dörrhasshaube
+        Aus der Schatzkiste Dunkelvorstoßvorräte (Koordinaten: 36.2, 65.2). Benutzt den Pilz bei den Koordinaten 37.66, 61.46, um in den Baum hineinzufliegen, wo die Truhe ist.
+        Kann außerdem in den zufälligen Schatzkisten Verottete Hüllle des Ardenwalds enthalten sein.
+
+Die Drustwaffen freischalten
+
+Weiter geht es mit den passenden Waffen zum Outfit und davon gibt es drei Stück, allerdings mit verschiedenen Farbvarianten. Einen Stab, eine Zweihandaxt und eine Einhandaxt. Die meisten der Waffen gibt es, so wie schon einige der Masken, aus der Schatztruhe Dunkelstoßvorräte. Doch ein paar weitere Varianten gibt es noch als Drops von Gegnern.
+
+Stäbe
+
+    Schwarzdornernter (Hellbraun)
+        Aus der Schatzkiste Dunkelvorstoßvorräte (Koordinaten: 36.2, 65.2). Benutzt den Pilz bei den Koordinaten 37.66, 61.46, um in den Baum hineinzufliegen, wo die Truhe ist.
+        Kann außerdem in den zufälligen Schatzkisten Verottete Hüllle des Ardenwalds enthalten sein.
+        Zeige auf Karte
+    Dörrhassschnitter (Dunkelbraun)
+        Aus der Schatzkiste Dunkelvorstoßvorräte (Koordinaten: 36.2, 65.2). Benutzt den Pilz bei den Koordinaten 37.66, 61.46, um in den Baum hineinzufliegen, wo die Truhe ist.
+        Kann außerdem in den zufälligen Schatzkisten Verottete Hüllle des Ardenwalds enthalten sein.
+        Zeige auf Karte
+    Drustgefertigte Sense (Dunkelgrün)
+        Aus der Schatzkiste Dunkelvorstoßvorräte (Koordinaten: 36.2, 65.2). Benutzt den Pilz bei den Koordinaten 37.66, 61.46, um in den Baum hineinzufliegen, wo die Truhe ist.
+        Kann außerdem in den zufälligen Schatzkisten Verottete Hüllle des Ardenwalds enthalten sein.
+        Zeige auf Karte
+    Sense des Seelenverzerrers (Grau)
+        Vom seltenen Gegner Seelenverzerrer Cero im Ardenwald (Koordinaten: 72.4, 51.8)
+        Zeige auf Karte
+    Stab des Todesbinders (Blau)
+        Vom Seltenen Gegner Todesbinder Hroth im Ardenwald (Koordinaten: 34.6, 67.8)
+        Zeige auf Karte
+
+Zweihandäxte
+
+    Dunkelvorstoßspalter (Grün)
+        Aus der Schatzkiste Dunkelvorstoßvorräte (Koordinaten: 36.2, 65.2). Benutzt den Pilz bei den Koordinaten 37.66, 61.46, um in den Baum hineinzufliegen, wo die Truhe ist.
+        Kann außerdem in den zufälligen Schatzkisten Verottete Hüllle des Ardenwalds enthalten sein.
+        Zeige auf Karte
+    Drustgefertigter Hinrichter (Braun)
+        Aus der Schatzkiste Dunkelvorstoßvorräte (Koordinaten: 36.2, 65.2). Benutzt den Pilz bei den Koordinaten 37.66, 61.46, um in den Baum hineinzufliegen, wo die Truhe ist.
+        Kann außerdem in den zufälligen Schatzkisten Verottete Hüllle des Ardenwalds enthalten sein.
+        Zeige auf Karte
+    Großaxt des Drustlords (Dunkelgrün)
+        Vom Boss Ingra Moloch im Dungeon Nebel von Tirna Scithe
+    Dörrhassgroßaxt (Grau)
+        Drop von Jägerin Vivanna im Ardenwald (Koordinaten: 67.0, 52.0) 
+        Zeige auf Karte
+    Großaxt der unerbittlichen Verfolgung (Schwarz)
+        Drop von Valfir der Unerbittliche im Ardenwald (Koordinaten: 31.0, 54.4)
+        Kann nur durch Nachtfae und ihren Animaleiter freischaltbar gemacht werden
+        Zeige auf Karte
+
+Einhandaxt
+
+    Totsteinbeil (Dunkelgrün)
+        Aus der Schatzkiste Dunkelvorstoßvorräte (Koordinaten: 36.2, 65.2). Benutzt den Pilz bei den Koordinaten 37.66, 61.46, um in den Baum hineinzufliegen, wo die Truhe ist.
+        Kann außerdem in den zufälligen Schatzkisten Verottete Hüllle des Ardenwalds enthalten sein.
+        Zeige auf Karte
+    Axt des gebrochenen Willens (Blau)
+        Vom seltenen Gegner Faeschinder im Ardenwald (Koordinaten: 68.6, 28.0)
+        Zeige auf Karte
+    Kriegsbeil des Faeschinders (Schwarz)
+        Vom seltenen Gegner Skuld Vit im Ardenwald (Koordinaten: 37.6, 59.2)
+        Hinweis: Nur Nachtfae mit der Seelengestalt können in die Höhle hinein
+        Zeige auf Karte
+    Dunkelvorstoßhacker (Braun)
+        Drop von Jägerin Vivanna im Ardenwald (Koordinaten: 67.0, 52.0)
+        Zeige auf Karte
+    Dörrhasshandaxt (Grün)
+        Drop von Jägerin Vivanna im Ardenwald (Koordinaten: 67.0, 52.0)
+        Zeige auf Karte
