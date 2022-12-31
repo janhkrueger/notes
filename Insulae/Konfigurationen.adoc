@@ -1,0 +1,24 @@
+# Konfigurationen
+
+Hier werden die Datenbankparameter zentral konfiguriert. Wenn alle alten Komponenten abgelöst sind, kann auf insulae.conf verzichtet werden.
+
+**insulae.conf**
+[source,conf,indent=0]
+----
+dbname=jhk001_insulae
+user=jhk001_insulae
+password=
+hostaddr=172.18.0.10
+port=5432
+----
+
+**insulae.yaml**
+[source,yaml,indent=0]
+----
+db:
+  host : 172.18.0.10
+  name : jhk001_insulae
+  user : jhk001_insulae
+  pass :
+  port : 5432
+----
