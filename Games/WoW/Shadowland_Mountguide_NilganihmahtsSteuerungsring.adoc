@@ -35,6 +35,7 @@ Um https://de.wowhead.com/item=186603/nilganihmahts-stone-ring[Nilganihmahts Ste
 Habt ihr alle vier Bruchstücke zusammen, begebt euch zu Zovaals Kessel (Koordinaten: 36.0, 37.0) und schmiedet https://de.wowhead.com/item=186603/nilganihmahts-stone-ring[Nilganihmahts Steinring] beim Amboss, wo auch der seltene Gegner Yol-Matar seine Arbeit verrichtet.
 
 #### TomTom-Koordinaten
+[%hardbreaks]
 /way #1543 35.0 69.7 Verdammnisfestung Bruchstück 1
 /way #1543 30.3 55.9 Verdammnisfestung Bruchstück 2
 /way #1543 33.69 66.24 Verdammnisfestung Bruchstück 4
