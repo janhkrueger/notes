@@ -6,6 +6,7 @@ Jan H. Krueger
 :confidentiality: Open
 :listing-caption: Listing
 :toc:
+:toc-title: Inhaltsverzeichnis
 :toclevels: 1
 
 ## Mechagnome
