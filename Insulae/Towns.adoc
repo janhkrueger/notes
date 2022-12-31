@@ -1,0 +1,9 @@
+# Insulae Towns
+
+Sammlung öfter verwendeter Städte, oftmals rein zum Test.
+
+[source,indent=0]
+----
+Schloss Holte	1000000027	-198	11	1000015364	Skandranon Lamasaru
+**Hafen der Seelen** 1000000003 San Achanjiati
+---
