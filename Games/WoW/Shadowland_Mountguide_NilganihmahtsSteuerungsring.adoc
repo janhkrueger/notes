@@ -1,0 +1,48 @@
+# Mountguide - Nilganihmahts Steuerungsring
+:subject: Mountguide - Nilganihmahts Steuerungsring
+:description: Guide um Nilganihmahts Steuerungsring zu erlangen.
+:doctype: book
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+
+Patch 9.1 bringt eine ganz neue Art von Mount, denn es handelt sich um Hände! Sehr große Hände inklusive Sattel. Kleine Varianten davon gab es bereits als Gegner in Torghast und nun kommen die übergroßen Versionen, um uns durch die Welt zu tragen. Unter anderem gibt es eine schicke goldene Variante: https://de.wowhead.com/item=186713/nilganihmaht-control-ring[Nilganihmahts Steuerungsring] für https://de.wowhead.com/spell=354354/hand-of-nilganihmaht[Hand von Nilganihmahts]. Um diese zu bekommen, muss man jedoch ein riesiges Rätsel im Schlund lösen. So gilt es fünf Ringe zu finden, die teilweise alle hinter kleineren Rätseln versteckt sind. Der folgende Guide wird euch dabei helfen!
+
+## Die fünf Ringe von Nilganihmahts
+Die fünf Ringe, die es für dieses Rätsel zu finden gilt, sind: https://de.wowhead.com/item=186603/nilganihmahts-stone-ring[Nilganihmahts Steinring], https://de.wowhead.com/item=186607/nilganihmahts-silver-ring[Nilganihmahts Silberring], https://de.wowhead.com/item=186605/nilganihmahts-runed-band[Nilganihmahts Runenband], https://de.wowhead.com/item=186608/nilganihmahts-gold-band[Nilganihmahts Goldband] und https://de.wowhead.com/item=186606/nilganihmahts-signet-ring[Nilganihmahts Siegelring]. Klingt erst einmal nicht ganz so schwert, doch die meisten dieser Ringe haben noch einmal eigene kleine Rätsel, die es zuerst zu lösen gilt. Bevor ihr mit diesen fünf Ringen dann schlussendlich die Hand bekommen könnt, benötigt ihr zudem einen https://de.wowhead.com/item=186731/repaired-riftkey[Repartierten Rissschlüssel], den es wiederum auf der vierten Rufstufe der neuen Ruffraktion https://www.vanion.eu/guides/rufguide-der-archivarskodex-24191[Archivarskodex] gibt.
+
+## Die Rissphase des Schlunds
+Das komplette Rätsel rund um die Hand von Nilganihmaht spielt sich zwar im Schlund selbst ab, doch ab Patch 9.1 gibt es zwei Versionen des Schlunds. Den normalen Schlund und die Rissphase des Schlunds. Vom Prinzip her ist diese Phase ein spektrales Gegenstück zum Schlund, den wir schon kennen, jedoch werden alle Gegner mit anderen Varianten ihrer selbst ersetzt. Auch tauchen teilweise ganz neue, unbekannte NPCs auf. Es gibt drei Möglichkeiten, um in die Rissphase zu gelangen.
+
+### Auf in die Rissphase
+1. Wenn ein Angriff der Nachtfae über die https://www.vanion.eu/guides/die-paktangriffe-im-schlund-24107[Paktangriffe] (alle 2 Wochen) stattfindet, kann die Quest https://de.wowhead.com/quest=63951/a-shady-place[Ein schattenhafter Ort] angeboten werden. Darüber bekommt man einen https://de.wowhead.com/item=187012/unbalanced-riftstone[unausgewogenen Rissstein], um einen Riss zu betreten.
+2. Ihr habt die Möglichkeit Schlundrisse in Korthia mit Hilfe eines https://de.wowhead.com/item=186731/repaired-riftkey[Repartierten Rissschlüssels] zu betreten. Über einen mit einem Schlüssel geöffneten Riss könnt ihr die Phase nur für 15 Minuten betreten. Danach werdet ihr rausgeschmissen und müsst ein neues Portal finden. Bei Option 1 könnt ihr die Rissphase unendlich lange betreten.
+    * Solch einen Schlüssel könnt ihr bei der neuen Ruffraktion https://www.vanion.eu/guides/rufguide-der-archivarskodex-24191[Archivarskodex] kaufen. Es gibt verschiedene Forschungsstufen (Rufstufen) und ihr benötigt die vierte Stufe sowie 100 https://www.vanion.eu/guides/wahrungsguide-katalogisierte-forschung-des-archivarskodex-24106[Katalogisierte Forschung] – das ist die eigene Währung der Fraktion.
+    * Es ist aber auch möglich, dass der Schlüssel zufällig in Schatztruhen von Korthia erbeutet wird.
+3. Zuletzt gibt es auch noch den https://de.wowhead.com/item=186969/kollabierender-rissstein[Kollabierenden Rissstein]. Lustigerweise bekommt man diesen nur in der Rissphase. Man kann ihn sich also für später aufheben, wenn man diese noch einmal betreten will. Es ist ein garantiertes Beutestück aus Zovaals Tresor. Eine besondere Schatzkiste im Riss. In unserem Guide dazu erfahrt ihr, wie man diese öffnet: https://www.vanion.eu/guides/schatzguide-zovaals-tresor-im-schlund-offnen-24557[zum Guide]!
+
+### Nilganihmahts Steinring
+Um https://de.wowhead.com/item=186603/nilganihmahts-stone-ring[Nilganihmahts Steinring] zu erhalten, müsst ihr vier Bruchstücke sammeln und den Ring in einer Seelenstahlschmiede in Zovaals Kessel im Schlund neuschmieden. Um den Steinring überhaupt freizuspielen, muss ein https://www.vanion.eu/guides/die-paktangriffe-im-schlund-24107[Angriff der Nekrolords] aktiv sein (alle 2 Wochen) und die Quest https://de.wowhead.com/quest=63545/putting-a-plan-together[Einen Plan zusammenstellen]. Ihr benötigt die Fahrzeuge der Zenturion, die nach Abschluss der Quest verfügbar werden, um zwei der Bruchstücke zu erreichen und die anderen zwei freizuschalten.
+
+#### So bekommt ihr die Bruchstücke
+* https://de.wowhead.com/item=186600/quartered-ancient-ring[Viertel eines uralten Rings]: Begebt euch zur Verdammnisfestung (Koordinaten: 35.0, 69.7). Dort findet ihr eine schlundgebundene Kiste.
+* https://de.wowhead.com/item=186601/quartered-ancient-ring[Viertel eines uralten Rings]: Begebt euch auf die Mauern der Verdammnisfestung (Koordinaten: 30.3, 55.9). Dort steht eine schlundgebundene Kiste. In dieser findet ihr eine https://de.wowhead.com/item=186573/defense-map[Verteidigungskarte], die eine Quest startet. Erledigt die Aufgabe „https://de.wowhead.com/quest=63594/clearing-the-walls[Aufräumarbeiten an den Mauern]“ und erhaltet als Belohnung das zweite Viertel eines uralten Rings.
+* https://de.wowhead.com/item=186602/quartered-ancient-ring[Viertel eines uralten Rings]: Diesen Teil erbeutet ihr vom https://de.wowhead.com/npc=179601/maw-mad-construct[Wahnsinniges Schlundkonstrukt], welches in der Verdammnisfestung auftaucht, sobald ihr einen der anderen Viertel erbeutet habt. Sobald das Konstrukt erscheint, schreit es durch die Gegend _„Es ist meins! Bleib weg, du stinkender Schlundgänger! Mein Schatz! <Spieler> will meinen Schatz!“_.
+* https://de.wowhead.com/item=186604/quartered-ancient-ring[Viertel eines uralten Rings]: Der letzte Teil kann an unterschiedlichen Stellen in der Verdammnisfestung gefunden werden, wo ihr auch einen der ersten Viertel aufgehoben habt. In der Nähe von Schattenweber Zeris stehen ein paar Vasen, wo er zum Beispiel liegen kann (Koordinaten: 33.69, 66.24). Es empfiehlt sich hier den https://de.wowhead.com/item=187508/tragekorb-für-abgerichtete-gromits[Tragekorb für abgerichtete Gromits] vom https://www.vanion.eu/guides/rufguide-der-archivarskodex-24191[Archivarskodex] (1. Rufstufe, 35 https://www.vanion.eu/guides/wahrungsguide-katalogisierte-forschung-des-archivarskodex-24106[Katalogisierte Forschung] zu aktivieren, um ihn einfacher zu finden.
+
+Habt ihr alle vier Bruchstücke zusammen, begebt euch zu Zovaals Kessel (Koordinaten: 36.0, 37.0) und schmiedet https://de.wowhead.com/item=186603/nilganihmahts-stone-ring[Nilganihmahts Steinring] beim Amboss, wo auch der seltene Gegner Yol-Matar seine Arbeit verrichtet.
+
+#### TomTom-Koordinaten
+/way #1543 35.0 69.7 Verdammnisfestung Bruchstück 1
+/way #1543 30.3 55.9 Verdammnisfestung Bruchstück 2
+/way #1543 33.69 66.24 Verdammnisfestung Bruchstück 4
+/way #1543 36.0 37.0 Zovaals Kessel
+
+# TODO
+https://www.vanion.eu/guides/mountguide-nilganihmahts-steuerungsring-24421
+
+## Quelle
+
+Der Guide ist von https://www.vanion.eu/guides/mountguide-nilganihmahts-steuerungsring-24421[vanion.eu] übernommen.
