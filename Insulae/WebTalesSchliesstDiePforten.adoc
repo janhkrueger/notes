@@ -1,8 +1,14 @@
----
-modified: 2021-09-27T10:25:01+02:00
----
-
-# Webtales schließt die Pforten
+= {subject}
+Magwain und Goose (alias Angela und Lothar)
+:subject: Webtales schließt die Pforten
+:description: Oft verwendete Abfragen
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 2
+:created: 2021-09-27T00:13:05+02:00
+:modified: 2021-09-30T17:52:52-04:00
 
 Hallo an alle Spieler,
 
