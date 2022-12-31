@@ -1,0 +1,93 @@
+= {subject}
+Jan H. Krueger
+:subject: Dragonflight Mountguide
+:description:  Collection how to get the different Mounts in Shadowlands
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 1
+:toc-title: Dragonflight Mounts
+
+This guide will detail how to collect the 42 new mounts that have been added to World of Warcraft in the Dragonflight expansion.
+
+If you find any information missing or misleading, please feel free to leave a comment. Remember to check the Wowhead comments for each mount for even more details from the Wowhead community.
+
+This guide has a lot of information, and therefore tables are included below that lists all the mounts mentioned in this guide and the categories that they belong to. Along with the Table of Contents, you can use this table to quickly navigate around this guide and at a glance see from where all mounts are obtained.
+
+== Release
+
+[options="header"]
+|========================================================================================================================================================================================================================================
+| Mount                                                                                                          | Category             | Observation
+|  https://www.wowhead.com/de/item=198654/otterweltlicher-trägerottuk[Otterweltlicher Trägerottuk]                                                                                   | Erfolg          | Belohnung durch  https://www.wowhead.com/de/achievement=15834/danke-fürs-tragen[Danke fürs Tragen!]
+|  https://www.wowhead.com/de/spell=381529/telix-das-sturmhorn[Telix das Sturmhorn]                                                                                           | In-Game Shop         | Abschluß eines 12-Monats Abonnoments
+|  https://www.wowhead.com/de/spell=315132/gigantischer-grrloc[Gigantischer Grrloc]                                                                                           | In-Game Shop         | Abschluß eines 12-Monats Abonnoments
+|  https://www.wowhead.com/de/item=201720/bronzevorquin[Bronzevorquin]                                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 40
+|  Purpurvorquin                                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 40
+|  Obsidianvorquin                                                                                               | Racial               | Dracthyr Rassen Mount - Costs 40
+|  Saphirvorquin                                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 40
+|  Gepanzerter Vorquinleyschreiter                                                                               | Racial               | Dracthyr Rassen Mount - Costs 80
+|  Wächtervorquin                                                                                                | Racial               | Dracthyr Rassen Mount - Costs 80
+|  Schneller gepanzerter Vorquin                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 80
+|  Majestätischer gepanzerter Vorquin                                                                            | Racial               | Dracthyr Rassen Mount - Costs 80
+|  Erneuerter Protodrache                                                                                        | Leveling             | Belohnung durch Drachenreiten, part of Die Küste des Erwachens Main Questline
+|  Windgeborener Velocidrache                                                                                    | Leveling             | Belohnung durch Schattenzuflucht, part of Ebenen von Ohn'ahra Main Questline
+|  Hochlanddrache                                                                                                | Leveling             | Belohnung durch  Ruf an die blauen Drachen, part of Das Azurblaue Gebirge Main Questline
+|  Klippenwilddrache                                                                                             | Leveling             | Belohnung durch  Zurück in die Zukunft, part of Thaldraszus Main Questline
+| Hagelsturmpanzerdon                                                                                            | Mythic+              | Belohnung durch Schlüsselsteinmeister von Dragonflight: Saison 1
+|  Drache des blutroten Gladiators                                                                               | PvP                  | Belohnung durch  Gladiator: Saison 1 von Dragonflight
+|  Boshafter Säbelzahn                                                                                           | PvP                  | Dragonflight Season 1 PvP Mount
+|  Boshafter Säbelzahn                                                                                           | PvP                  | Dragonflight Season 1 PvP Mount
+|  Brauner Späherottuk                                                                                           | Renown               | Sold by Tatto after Renown 25 with Tuskarr von Iskaara
+| Costs 750, Wasserschlundx2 and Mastodonstoßzahnx2                                                              |                      |
+|  Gelber Späherottuk                                                                                            | Renown               | Sold by Tatto after Renown 25 with Tuskarr von Iskaara
+| Costs 750, Wasserschlundx2 and Mastodonstoßzahnx2                                                              |                      |
+|  Brauner Kriegsottuk                                                                                           | Renown               | Sold by Tatto after Renown 30 with Tuskarr von Iskaara
+| Costs 1000, Wasserschlundx5 and Mastodonstoßzahnx5                                                             |                      |
+|  Gelber Kriegsottuk                                                                                            | Renown               | Sold by Tatto after Renown 30 with Tuskarr von Iskaara
+| Costs 1000, Wasserschlundx5 and Mastodonstoßzahnx5                                                             |                      |
+|  Azurflatterlibelle                                                                                            | Renown               | Sold by Opa Schnurrbart after Renown 25 with Drachenschuppen- expedition
+| Costs 750, Schillernde Federx5 and  Geschwungene Vogelfederx20                                                 |                      |
+|  Gezähmte Flatterlibelle                                                                                       | Renown               | Sold by Opa Schnurrbart after Renown 25 with Drachenschuppen- expedition
+| Costs 750, Schillernde Federx5 and  Geschwungene Vogelfederx20                                                 |                      |
+|  Tiefgrüne Flatterlibelle                                                                                      | Drop                 | Rare drop from Expeditionsspäherpack.
+| Requires Renown 25 with Drachenschuppen- expedition to drop                                                    |                      |
+|  Zenetküken                                                                                                    | Drop                 | Hatches from  Zenetei after 7 days.
+| The egg is obtained from Zenet Avis.                                                                           |                      |
+|  Zügel des befreiten Slyvern                                                                                   | Drop                 | Drop from Brisenbiss
+|  Loyales Magmammut                                                                                             | Reputation           | Maximize your reputation with both Sabellian and Furorion and complete Schwerer Mammutdiebstahl
+| Ebenenschreiterträger                                                                                          | Events               | Contained inside  Beute der großen Jagd, Belohnung durch your first Grand Hunt of the week
+| Sturmbalgsalamanther                                                                                           | Events               | Sold by Mythressa. Costs 2000
+|  Göttlicher Kuss von Ohn'ahra                                                                                  | Puzzle               | Puzzle Instructions
+| Requires Renown 9 with Zentauren der Maruuk                                                                    |                      |
+|  Lizis Zügel                                                                                                   | Puzzle               | Five day turn in quest. Requires Renown 9 with Zentauren der Maruuk
+| Puzzle Instructions                                                                                            |                      |
+|  Schneckenhaus einer schlummernden Weltenschnecke                                                              | Puzzle               | Sold by Händlerin Vexil for 1000x  Magmapartikel. Click for more details.
+|  Temperamentvolle Himmelskralle                                                                                | Puzzle               | Trade the following dishes for the mount with Zon'Wogi. Click for more details.
+| 20x Tuskarrdörrfleisch                                                                                         |                      |
+| 20x  Blitzgefrorenes Fleisch                                                                                   |                      |
+| 20x  Gnolans Spezialität des Hauses                                                                            |                      |
+|  Ottuk des Iskaarahändlers                                                                                     | Raid Drop            | Sold by Tattukiaka
+| Costs  Terros' gefangener Kern and Auge des rachsüchtigen Hurrikans which are both raid drops                  |                      |
+| Items can be from any difficulty                                                                               |                      |
+|  Wütendes Magmammut                                                                                            | Raid Erfolg     | Belohnung durch  Ruhm des Gewölbeschlachtzüglers
+|  https://www.wowhead.com/de/item=198873/ottuk-des-elfenbeinhändlers[Ottuk des Elfenbeinhändlers]                                                                                   | Dungeon Drop         | Verkauft durch https://www.wowhead.com/de/npc=199448/tattukiaka[Tattukiaka]
+
+Kosten  https://www.wowhead.com/de/item=193696/donnernder-starkregenring?bonus=7974[Donnernder Starkregenring], https://www.wowhead.com/de/item=193633/instabile-arkanschleife?bonus=7974[Instabile Arkanschleife], und  https://www.wowhead.com/de/item=193708/platinsternenband?bonus=7974[Platinsternenband].
+
+Alle drei sind Dungeondrops und können von jeder Schwierigkeit erhalten werden.
+|  https://www.wowhead.com/de/item=192784/panzerklatscher[Panzerklatscher]                                                                                               | Dungeon Erfolg  | Erfolg von https://www.wowhead.com/de/achievement=16295/ruhm-des-helden-von-dragonflight[Ruhm des Helden von Dragonflight]
+|  https://www.wowhead.com/de/item=198870/otto[Otto]                                                                                                          | Unknown              |
+|  https://www.wowhead.com/de/item=192777/magmahäuschen[Magmahäuschen]                                                                                                 | Puzzle              | Um  Magmahäuschen zu bekommen, müsst ihr einen https://www.wowhead.com/de/item=201883/leerer-magmapanzer[Leerer Magmapanzer] finden.
+Die werden von https://www.wowhead.com/de/npc=193138/lavaschlürfer[Lavaschlürfer] gedroppt. Wenn ihr den leeren Panzer habt, geht zu der https://www.wowhead.com/de/npc=199010/ermächtigte-schnecke[Ermächtigte Schnecke] in der Lava und benutzt sie (Rechtsklick auf die Schnecke)
+
+*TomTom* +
+/way 22.6 71.6 Lavaschlürfer +
+/way 71.2 25.4 Ermächtigte Schnecke
+|========================================================================================================================================================================================================================================
+
+
+=== Quelle
+
+https://www.wowhead.com/de/guide/mounts-dragonflight[WoWHead]
