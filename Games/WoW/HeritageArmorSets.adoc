@@ -6,7 +6,7 @@ Jan H. Krueger <test@example.com>
 :confidentiality: Open
 :listing-caption: Listing
 :toc:
-:toclevels: 6
+:toclevels: 1
 
 ## Blutelfen: Tradition der Blutelfen
 
