@@ -1,5 +1,5 @@
 = {subject}
-Jan H. Krueger
+Anshlun
 :subject: Dragonflight Mountguide
 :description:  Collection how to get the different Mounts in Shadowlands
 :doctype: article
@@ -31,18 +31,32 @@ This guide has a lot of information, and therefore tables are included below tha
 |  Wächtervorquin                                                                                                | Racial               | Dracthyr Rassen Mount - Costs 80
 |  Schneller gepanzerter Vorquin                                                                                 | Racial               | Dracthyr Rassen Mount - Costs 80
 |  Majestätischer gepanzerter Vorquin                                                                            | Racial               | Dracthyr Rassen Mount - Costs 80
-|  Erneuerter Protodrache                                                                                        | Leveling             | Belohnung durch Drachenreiten, part of Die Küste des Erwachens Main Questline
+|  https://www.wowhead.com/de/item=194034/erneuerter-protodrache[Erneuerter Protodrache] | Leveling             | Belohnung durch https://www.wowhead.com/de/quest=68795/drachenreiten[Drachenreiten], Teil der https://www.wowhead.com/de/zone=13644/die-küste-des-erwachens[Die Küste des Erwachens] Hauptquestline
 |  Windgeborener Velocidrache                                                                                    | Leveling             | Belohnung durch Schattenzuflucht, part of Ebenen von Ohn'ahra Main Questline
 |  Hochlanddrache                                                                                                | Leveling             | Belohnung durch  Ruf an die blauen Drachen, part of Das Azurblaue Gebirge Main Questline
 |  Klippenwilddrache                                                                                             | Leveling             | Belohnung durch  Zurück in die Zukunft, part of Thaldraszus Main Questline
-| Hagelsturmpanzerdon                                                                                            | Mythic+              | Belohnung durch Schlüsselsteinmeister von Dragonflight: Saison 1
+| https://www.wowhead.com/de/item=199412/hagelsturmpanzerdon[Hagelsturmpanzerdon] | Mythic+              | Belohnung durch https://www.wowhead.com/de/achievement=16649/schlüsselsteinmeister-von-dragonflight-saison-1[Schlüsselsteinmeister von Dragonflight: Saison 1]
 |  Drache des blutroten Gladiators                                                                               | PvP                  | Belohnung durch  Gladiator: Saison 1 von Dragonflight
 |  Boshafter Säbelzahn                                                                                           | PvP                  | Dragonflight Season 1 PvP Mount
 |  Boshafter Säbelzahn                                                                                           | PvP                  | Dragonflight Season 1 PvP Mount
-|  Brauner Späherottuk                                                                                           | Renown               | Sold by Tatto after Renown 25 with Tuskarr von Iskaara
-| Costs 750, Wasserschlundx2 and Mastodonstoßzahnx2                                                              |                      |
-|  Gelber Späherottuk                                                                                            | Renown               | Sold by Tatto after Renown 25 with Tuskarr von Iskaara
-| Costs 750, Wasserschlundx2 and Mastodonstoßzahnx2                                                              |                      |
+|  https://www.wowhead.com/de/item=198872/brauner-späherottuk[Brauner Späherottuk] | Renown               | Verkauft durch https://www.wowhead.com/de/npc=186462/tatto[Tatto] nach erreichen von Rang 25 bei den https://www.wowhead.com/de/faction=2511/tuskarr-von-iskaara[Tuskarr von Iskaara]
+
+Kosten
+
+750 Gold
+
+2 x https://www.wowhead.com/de/item=201400/wasserschlund[Wasserschlund]
+
+2 x https://www.wowhead.com/de/item=201403/mastodonstoßzahn[Mastodonstoßzahn]
+| https://www.wowhead.com/de/item=200118/gelber-späherottuk[Gelber Späherottuk] | Renown               | Verkauft durch https://www.wowhead.com/de/npc=186462/tatto[Tatto] nach erreichen von Rang 25 bei den https://www.wowhead.com/de/faction=2511/tuskarr-von-iskaara[Tuskarr von Iskaara]
+
+Kosten
+
+750 Gold
+
+2 x https://www.wowhead.com/de/item=201400/wasserschlund[Wasserschlund]
+
+2 x https://www.wowhead.com/de/item=201403/mastodonstoßzahn[Mastodonstoßzahn]
 |  Brauner Kriegsottuk                                                                                           | Renown               | Sold by Tatto after Renown 30 with Tuskarr von Iskaara
 | Costs 1000, Wasserschlundx5 and Mastodonstoßzahnx5                                                             |                      |
 |  Gelber Kriegsottuk                                                                                            | Renown               | Sold by Tatto after Renown 30 with Tuskarr von Iskaara
