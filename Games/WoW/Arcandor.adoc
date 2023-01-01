@@ -1,0 +1,31 @@
+= {subject}
+Jan H. Krueger
+:subject: Arcan'dor
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+An arcan'dor (or mana tree) is a type of magical fruit tree that balances nature and arcane magic by feeding on ley lines. It does not require any soil or sunlight, nor does it seem to need water to survive.
+
+Without ley line energy, an awakening seed will quickly wither and die. As it is crafted flora which does not naturally occur on Azeroth, great hands-on care is required for these trees to grow safely to their true potential.
+
+Locusts are a pest species to arcan'dor and must be repelled for the trees well being. Its growth is fairly rapid compared to natural trees. The wood is a gleaming white. Even if a piece of its wood is separated from the rest of the tree, the piece will not die, as invisible threads of magic bind all pieces of the arcan'dor together.
+
+One of the biggest dangers involved during the growing stage is the arcane energy overwhelming the natural half - the physical tree itself acting as a container, or heart, for the energy. The first sign is the arcan'dor producing a constant manastorm from its crown. When the heart can no longer contain it, the arcane not only breaks free and kills the tree, but will likely kill every living thing in its vicinity. The lesser disastrous outcome is creatures becoming twisted and mutated by the flash of uncontrolled magic, such as humanoids and dryads. The only known procedure to restore balance is to infuse the tree with the essence of life: pure, wild nature magic from the Emerald Dream itself.
+
+The time when an arcan'dor is preparing to mature to its final, fruit-bearing stage is critical. The tree begins this by drawing in incredible amounts of leyline energy, which is required in preparation for a final burst of growth. However, if the arcan'dor does not receive all the power it needs to achieve this sudden growth rate, it will die. One way to do this is a massive, if brief, surge in the ley lines it feeds upon.
+
+Once mature, the arcan'dor grows long vines from its branches, which hang straight down. On the end of each vine the tree produces a single fruit. Though it takes time to grow, once plucked, the vine will produce another fruit. The fruit itself apparently tastes a little tart.
+
+An interesting fact, considering arcan'dor are all about balance, is that a mature tree grows in perfect symmetry: when viewed from the front, back, or side, each half is the mirror image of the other.
+
+== History
+Thousands of years ago, as the Highborne were just beginning to unravel the mysteries of the arcane, a small enclave of "keepers" who were not full druids met with the first of the elven magi. In the pale moonlight, they formed an order that would seek to bring the arcane into balance using nature itself as a vessel. Thus the arcan'dor were created.
+
+Many years ago, exiles from Suramar City came to Falanaar. Valewalker Farodin, whose masters were part of the long since gone order that created the arcan'dor, took pity on them and gifted them with an arcan'dor. For a time it sustained them and they were safe, but it did not last forever. The arcan'dor became unstable and died, and in a flash of wild magic the elves were twisted, becoming the fal'dorei. The remains of the arcan'dor are known as the Shattered Locus.
+
+Farodin kept watch over an arcan'dor seed in the wilds of Suramar for 10,000 years. A withered who would later be known as Theryn to the Nightfallen was exposed to the seed, giving him peace. When First Arcanist Thalyssra sent an adventurer to investigate the seed after learning about it through Theryn's memories, the seed was stolen by fal'dorei that intended to use its power to return to the surface. Farodin and the adventurer slew the fal'dorei and took the seed to Shal'Aran, where it could drink of the ley line there and grow. Beneath the arcan'dor, the nightfallen would be renewed. Eventually, the Shal'Aran arcan'dor began to show signs of failing like what had happened to the one in Falanaar, with its arcane and nature magics unbalanced and the arcane threatening to devour it whole. In order to balance them out, Farodin requested the adventurer to obtain a  [Purified Life Essence] from the Emerald Dream.
+
+Later when the tree was about to mature, by redirecting energy flows from the Arcway and creating a surge of arcane, the nightfallen were able to feed the arcan'dor with enough energy to complete the critical stage, and it began producing magical fruit. Not only did eating it nourish Thalyssra and the other nightfallen refugees of Shal'Aran, but a single fruit also reverses the nightfallen state and restores the individual back into a nightborne. Just as a proper arcan'dor is a balance between arcane and nature, its fruit brings the life essence and the arcane spirit of the shal'dorei into harmony, freeing them from their addiction to the Nightwell.
