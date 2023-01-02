@@ -1,0 +1,265 @@
+= {subject}
+Daniel Luginbühl
+:subject: Devlog/Übersicht der letzten Änderungen
+:description: Oft verwendete Abfragen
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 2
+:toc-title: Änderungshistorie
+
+== Datum: 17.01.2020
+
+- Accountsicherheit: Sicherheit der aktiven Sessions erhöht.
+
+== Datum: 30.12.2019
+
+- BM bei der Stadt direkt anschreibbar hinzugefügt.
+
+== Datum: 29.12.2019
+
+- Es ist nun möglich trotz ausgeloggtem Spieler seine Gebäude weiterhin zu bedienen.
+- Diverse Bugfixes. Unter anderem nur noch 2 Routen pro Spieler legbar. Mehr wenn die Handelsgilde soweit fertiggestellt ist.
+- Marktplatz eines Feindes ist nichtmehr einsehbar und nicht mehr bedienbar (Stadt und Handelsposten). Routen eines Feindes sind nicht mehr nutzbar.
+- Bei der Gegenstandsübergabe wird nun zusätzlich angegeben, zu welchem Char das Item transfiriert wurde.
+- Reihenfolge bei Gegenstandsübergabe verbessert.
+- Nachricht Verfassen an Spieler X nun ermöglicht im Register "Diplomatie".
+
+== Datum: 28.12.2019
+
+- Anpassungen für Mobile-Device Darstellung bei Textfeldern.
+- Einfügen eines Support-Accounts. Dieser erreicht man nun über das Register "Login" (hier) ganz oben auf der Webseite.
+- Bug beim Abriss des Gebäudes behoben bezüglich "kaputten" Ressourcefeldern.
+
+== Datum: 20.12.2019
+
+- Man kann sich nun nur noch in einer Stadt zur Wahl stellen, nicht mehr in mehreren Paralell.
+
+== Datum: 19.12.2019
+
+- Spawnpunkt bei Neuanmeldungen verschoben.
+- Neue Stadtlogik eingebaut (Steuern, EW-Max, Lagerplatz, Arbeiter)
+- Manueller Stadtbericht zur Planung hinzugefügt.
+- PP und Ruhm durch Stadt hinzugefügt. (gibt es jeweils ab einer Verzügerung von 3 Tagen nach Stadtübernahme. Bestehende Städte kriegen also direkt Ruhm und PP)
+- Verbesserungen am Layout des BM-Menüs.
+- Neue Inseln hinzugefügt.
+- Effizienteres Kartenladen.
+- Skillgain für Schiffahrt wurde gedrosselt (0.002 pro Feld).
+
+== Datum: 15.12.2019
+
+- Nochmals ein fix für die Schiffe eingebaut. (doppelte anzeige und fehlende Schiffnamen)
+
+== Datum: 13.12.2019
+
+- Mehrere änderungen bei den Schiffen bezüglich einsteigen / Umsteigen / Tempeln der Charaktere etc. vorgenommen. (erneuter Test ist hier sehr erwünscht)
+
+== Datum: 28.11.2019
+
+- Skillverfall performance optimierung: Der Skillverfall hat dem Server bisher einen timeout gegeben. Die Abfrage wurde nun effizienter gestaltet. Durch den Test gab es heute mehrere Skillverfalls. Bitte achtet auf die Werte etwas in den nächsten Tagen. Der Skill sollte nach wie vor 10% in Richtung der geschulten Basis fallen.
+
+== Datum: 27.11.2019
+
+- Schatzkartenspawn: Verbesserter Spawn.
+- Monster: Nestspawn einprogrammiert (Aktuell noch inaktiv!).
+
+== Datum: 26.11.2019
+
+- Gaukeln: Der Timer beim Gaukeln ist entfernt. Frohes Gaukeln! =)
+
+== Datum: 24.11.2019
+
+- Stadttaverne: Schatzkarten eingefügt.
+
+== Datum: 20.11.2019
+
+- Schulen: Es wird nur noch eine Nachricht pro klick aufs schulen generiert.
+
+== Datum: 18.11.2019
+
+- Accountberechtigungen: Ein Account kann nun aus der Statistik komplett herausgefiltert werden. Es werden dann auch keine automatischen Historie Einträge vom Spiel aus generiert.
+
+== Datum: 1.11.2019
+
+- Bugfixing: Naviskillbug behoben.
+- Bugfixing: Tempeln an Bord eines Schiffes, Gruppenzuordnung als Passagier behoben.
+- Bugfixing: Bewegen einer leeren Laufgruppe ist nicht mehr möglich.
+- Bugfixing: APKosten des Gasthauses für Essen und Übernachten.
+
+== Datum: 31.10.2019
+
+- Universität Bild ersetzt.
+
+== Datum: 30.10.2019
+
+- Gaukeln beim Gasthaus hinzugefügt.
+
+== Datum: 27.10.2019
+
+- Bugfixing: Prüfung des Charakterpositionsabgleich für Itemübergabe.
+- Bugfixing: Itembenutzung nur ausserhalb eines Gebäude ermöglicht.
+- Bugfixing: Gegenstandsübergabe innerhalb der Stadt ermöglicht.
+- Wenn Ankaufpreis grösser ist als Verkaufspreis, wird der Ankaufspreis auf den Verkaufspreis geändert.
+
+== Datum: 26.10.2019
+
+- Bugfixing: "Rückzug-Funktion" + Handelseinstellungen setzen.
+- Bugfixing: Kreisrouten Startstadt=Zielstadt sind nicht mehr möglich.
+- Bugfixing: Max.Lager Anzeige von HP korrigiert.
+- Bugfixing: Tempeln des Charakters korrigiert.
+- Bugfixing: Städte haben unter bestimmten Umständen Petro oder Bücher produziert.
+
+== Datum: 24.10.2019
+
+- "Null" Bestandsfehler bei der Stadt behoben (betrifft: Kleidung, Leder. Die beiden Waren werden ja nicht für die Instandhaltung benötigt.).
+
+== Datum: 17.10.2019
+
+- Man kann sich nicht mehr selbst als Lehensherr nehmen (Zirkelverweis).
+
+== Datum: 26.09.2019
+
+- Sauberes löschen von Forenusern hinzugefügt (es gibt keinen Bug mehr, wenn man "tote" users ansieht im Forum).
+
+== Datum: 21.09.2019
+
+- Handelsnachrichten: Stadtname ist nun in der Diplo ersichtlich.
+- Schulen: Skillen der einzelnen Skills ist nun möglich.
+- Skills: Skillverfall wird in 3 Tagen aktiviert. Fuhrwerke generieren Tieretreiben Skill
+
+== Datum: 20.09.2019
+
+- Bugfix Städte bezüglich Zufriedenheit und Instandhaltung.
+
+== Datum: 16.09.2019 - 19.09.2019
+
+- Passwort ändern hinzugefügt.
+- Passwort vergessen Funktion erstellt.
+- Revolten in Städten sind nun möglich.
+- Städte und Freie Städte können nicht unter 100 EW fallen. Bei Spielerstädten führt allerdings das theoretische Fallen unter 100 EW zum Absetzen des Bürgermeisters
+- In der Statistik wird unterschieden ob die Stadt "frei" ist oder nicht.
+- Es gibt nun die Möglichkeit für die SL, die Wahlen in gewissen Städten zu verbieten um dauerhaft freie Städte zu gewährleisten.
+
+== Datum: 15.09.2019
+
+- Tempeln button für Charaktere eingefügt.
+
+== Datum: 13.09.2019
+
+- AP Regeneration an diversen Stellen im Code verschoben.
+- Alle Schulen integriert. Können jedoch bisher nur die Berufslosen schulen. XP's -> Basis folgt...
+
+== Datum: 12.09.2019
+
+- Diverse Schönheitskorrekturen.
+
+== Datum: 09.09.2019
+
+- Die Gebäude sind nun immer über die Übersicht aufrufbar. Der Handelsposten kann nun auch hierrüber verwaltet werden.
+
+== Datum: 08.09.2019
+
+- Universität hinzugefügt, Aktuell nur von den Bürgermeistern baubar. (Die Grafik der Universität ist ein Platzhalter).
+- Kartenlauflogik der Achsen identisch geschalten (Innenstadt/Spielwelt Oberfläche).
+- Ausbau der Petroleumpumpe ist nun möglich. Die Petropumpe produziert nun korrekt.
+- Das Gebäude produziert nicht mehr, wenn keine Charaktere drin sind.
+- Die Flussgrafiken in der Wüste sind nun vorhanden.
+
+== Datum: 07.09.2019
+
+- Verlassen Button bei innenstadt Gebäuden hinzugefügt.
+
+== Datum: 06.09.2019
+
+- Tavernenchargenerierung angepasst und Tavernen neu befüllt.
+
+== Datum: 05.09.2019
+
+- Erntelogik nachgebessert. Sonderwaren wie Kakao, Tran etc.: Skill zwischen 0 und 400 = 0 Waren. Skill>400 = +1 Ware. Skill>500 = +2 Waren. Skill>600 +3 Waren .
+normale Waren: Bei Skills zwischen 0 - 400 wird geerntet bis zum Schutzbestand (3) auf einem Feld und es gibt keine Pilze/Endu etc.. Ab 400+ werden Sonderwaren gefunden aber auch die Schutzmenge (3) angegriffen und zwar gleich wie bei den Sonderwaren Kakao, Tran, Tabak etc. Heisst ab Skill 600+ Wird das Feld immer bis 0 abgeerntet.
+
+== Datum: 03.09.2019
+
+- Projektplan mit den aktuellen ToDo's aufgenommen. Hier findet ihr den Projektplan mit den offenen Tickets: >> Zum Projektplan <<
+- Verbesserungen an Admintools.
+- Löschberechtigung des eigenen Accounts wurde bis auf weiteres nun an allen Accounts standardmässig erteilt.
+- Tranfelder sind nun befahrbar und können geerntet werden.
+- Felder die auf 0 geerntet wurden werden wieder als Ressource mit 0 angezeigt.
+
+== Datum: 01.09.2019
+
+- Der interne Karteneditor wurde auf die verbaute Kartenlogik erweitert und verbessert. Der Code dient ebenfalls als Grundmenü zum Gestalten der Städte als Bürgermeitster. Das Bürgermeistermenü ist jedoch noch nicht aufgeschalten.
+
+== Datum: 25.08.2019
+
+- Stadtübersicht, Schriftüberlagern bei kleiner Fenstergrösse verhindert.
+- Schiffahrt:
+--> Geschwindigkeit der Schiffe wird nun korrekt berücksichtigt.
+--> Ablegen mit 2 Schiffen gleichzeitig wird nun verhindert.
+--> Das aussteigen an Stellen, an denen es nicht explizit vorgesehen ist, wird ebenfalls verhindert.
+
+== Datum: 19.08.2019
+
+- Bugbehebung bei Stadtumbenennung und ein paar Schönheitsfehler korrigiert.
+
+== Datum: 18.08.2019
+
+- Die Stadt produziert nun doppelten Luxus. Auch angebrochene Ausbauten werden berücksichtigt.
+- Die Produktionsrunde von 2 Uhr ist auf 0 Uhr verschoben worden, wegen kontinuierlichen Serverausfällen um 2 Uhr.
+- Bugbehebungen:
+--> Negative Zahlen beim Routen befüllen behoben.
+--> Es wird nun die Produktion korrekt gesetzt, wenn man ein Gebäude errichtet.
+
+== Datum: 17.08.2019
+
+- Die Berechnung der Produktion wurde optimiert und nochmals korrigiert. Dies führt wieder zu normalen Wartezeiten beim Klick auf Produktionsgebäuden.
+
+== Datum: 16.08.2019
+
+- Die Nachrichten für den Warenhandel beim Handelsposten und der Stadt sind nun implementiert.
+- Die Nachrichten sind nun für den Empfänger und den Absender unabhängig löschbar.
+- Nicht nur der Empfänger von Waren, sondern auch der Absender bekommt einen Beleg per Diplo, dass die Waren verschoben wurden.
+- Es ist nun möglich, durch alle ingame Nachrichten durchzublättern. - Die Nachrichten werden vom System automatisch entfernt, sobald sie für keine Partei mehr relevant ist (Absender löscht eigene Nachricht im Posteingang, Empfänger löscht die Nachricht auch).
+
+== Datum: 26.06.2019
+
+- Stadtkalkulation: die 10% Verfaulten Waren korrigiert.
+
+== Datum: 22.06.2019
+
+- Bevölkerungswachstum nochmals nachkorrigiert / Informationen bei Auswertung erweitert.
+- Luxus für Instandhaltung wurde reduziert, weil es bei kleinen Städten zu stark ins Gewicht fällt. Nun wird die Instandhaltung nicht mehr aufgerundet sondern normal gerundet.
+- Schönheitsfehler bei Stadtübersicht korrigiert.
+
+== Datum: 20.06.2019
+
+- Bevölkerungswachstum korrigiert/erhöht.
+- Beim versenden einer Message wurde der Username ausgegeben, wenn der Browser nicht in der Lage war das Fenster zu schliessen. Das wurde entfernt.
+
+== Datum: 16.06.2019
+
+- Die Produktion bei den Produktionsgebäuden wurde angepasst.
+- Zurückbuttons bei jedem Stadtuntermenü und beim Gebäudelager und dem Handelsposten eingefügt. Gebäudelager Layout optimiert.
+- Es wurde ein Historiebot erstellt. https://t.me/qoihistorie Dieser ist ein Zusatz zum bereits bestehenden Chat: https://t.me/questofislands
+- Administration Karte: Es wurde eine grosse Kartenansicht für Admins eingesetzt und eine Abfrage beim Laufen verbessert (ebenfalls bezüglich Admins). Ausserdem können sich Admins nun mittels eingabe der Koord. direkt teleportieren.
+
+== Datum: 14.06.2019
+
+- Stadt: Lagerberechnung wurde korrigiert.
+- Aktionen -> Gelände klick auf "Herrenlos/Besetzt": Zeigt nun die Feldwerte an und das kleine Wappen der Nation welcher es gehört. Nationsmenü folgt...
+- Stellung -> Spieler Gesamtstatistik anzeigen ist nun mit den ersten 4 Statistiken verfügbar
+- BM Menü: Es ist nun möglich die Stadt einem anderen Spieler zu übergeben. Der Spieler der die Stadt erhält wird benachrichtigt.
+- Stadt: Es wird der Stadtname nun schon vor dem Betreten der Stadt angezeigt.
+
+== Datum: 13.06.2019
+
+- Die Datenbank wurde um den letzen Einloggzeitpunkt ergänzt.
+- Diverse "Schönheitsfehler" korrigiert: Stadtname ist nun vor dem betreten sichtbar. Text "Starte Auswertung..." wurde entfernt. Textkorrekturen wurden vorgenommen.
+
+== Datum: 12.06.2019
+
+- Diplomatie Layout angepasst. Wenn kein Titel in der Nachricht vorhanden ist, wird diese Zeile ausgeblendet.
+- Rassenverbrauch Zwerge und Halblinge waren vertauscht. Dies wurde angepasst.
+- Produktionsinformation "Letzte Produktion" wurde auf die korrekte Menge angepasst.
+- Gebäude abreissen: Burg ist noch ohne Funktion. Es wurde jedoch die Option zum Gebäude entfernen ergänzt. Beim Stadtgebäude wurde ebenfalls die Option zum Abriss ergänzt.
