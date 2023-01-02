@@ -1,9 +1,15 @@
----
-created: 2021-09-27T00:13:05+02:00
-modified: 2021-09-30T17:52:52-04:00
----
+= {subject}
+Jan H. Krueger
+:subject: Änderungen in Insulae
+:description: Mail I sent to a former SW player after he asked what differences I have in Insuale compared to Scherbenwelten.
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 2
+:created: 2021-09-27T00:13:05+02:00
+:modified: 2021-09-30T17:52:52-04:00
 
-# Änderungen in Insulae
 
 Konvente, ja. Jedoch ohne tatsächliche Macht. Das Geraffel der Götter und Konvente gefiel mir nie in SW, geschweige denn die harte Einteilung in gut und böse.
 
