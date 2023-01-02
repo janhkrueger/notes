@@ -1,8 +1,26 @@
-# Bewegung von Inseln
+= {subject}
+Jan H. Krueger
+:subject: Bewegung von Inseln
+:description: Collection of stuff when I moved islands.
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 2
+:toc-title: Inhaltsverzeichnis
+:created: 2021-09-27T00:13:05+02:00
+:modified: 2021-09-30T17:52:52-04:00
 
 Eine Sache welche ich bisher nicht behandelt habe in Insulae ist die Bewegung von Inseln. Warum auch immer, habe ich doch sehr viele Modifikationen für Inseln schon umgesetzt.
+
 Wie auch immer, eine Positionsveränderung von Inseln steht nun auf dem Plan. Voraussetzung dafür ist das eine Insel klar definiert werden kann und alle auf der Insel sich befindlichen Objekte ebenfalls bewegt werden.
-Zu bewegende Objekte
+
+== Zu bewegende Objekte
+
+CAUTION: Das hier gegebene Datenmodell ist veraltet und 2019 auf ein englischsprachiges umgestellt worden.
+
+[source,sql]
+----
 	• Spieler (inklusive Monster)
 	• Gebäude (inklusive Monsternester)
 	• Städte
@@ -13,24 +31,32 @@ Zu bewegende Objekte
 	• Schätze
 	• Karawanen
 	• Trigger
+----
 
-Karten
+== Karten
 Die Abgrenzung spezifischer Inseln ist recht leicht. Ein Blick in das Datenmodell:
-
+[source,sql]
+----
 	• karte_id
 	• karte_x
 	• karte_y
 	• karte_w
 	• karte_gelaende
 	• karte_land
+----
+
 Für eine Positionsveränderung sind nur die ersten vier, speziell das erste Attribut _karte_id_ interessant. _karte_id_ definiert das ein Feld der Weltkarte zu einer abgegrenzten Insel gehört. Darüber in Kombination mit _karte_x_, _karte_y_ und _karte_w_ kann exakt bestimmt werden das ein Feld zur Insel __A__ und nicht zur Insel __B__ gehört.
 Nachdem mittels einer recht simplen Abfrage ermittelt wurde welche Felder zu einer Insel gehören ist zu prüfen ob auf diesem Feld ein Objekt vorhanden ist welches im Abschnitt _Zu bewegende Objekte_ definiert wurde.
 Bei der technischen Durchführung ist zwingend die gesamte Operation in einer Transaktion zu behandeln um im Fehlerfall alle Schritte zurück drehen zu können, gleichzeitig um zu verhindern das während der durchgeführten Updates keine anderen Jobs oder Spieleraktionen die Position relevanter Objekte verändern.
 
-Speicherort der Positionsdaten
-Spieler
+== Speicherort der Positionsdaten
+
+=== Spieler
+
 Die Position eines Spielers ist in der Relation spieler.spieler_pos abgelegt. Monster sind hier ebenfalls mit enthalten. Die Relevanten Felder lauten:
 
+[source,sql]
+----
 	• spieler_id
 	• spieler_x
 	• spieler_y
@@ -38,20 +64,34 @@ Die Position eines Spielers ist in der Relation spieler.spieler_pos abgelegt. Mo
 	• spieler_altx
 	• spieler_alty
 	• spieler_altw
-Gebäude
+----
+
+=== Gebäude
+
 Die Daten sind in der Relation welt.haus_pos abgelegt. Hiervon sind auch die Monsternester abgedeckt.
+[source,sql]
+----
 	• wh_haus
 	• wh_x
 	• wh_y
 	• wh_w
-Städte
+----
+
+=== Städte
 Relation: Stadt.stadt_pos
+[source,sql]
+----
 	• stadt_id
 	• stadt_x
 	• stadt_y
 	• stadt_w
-Portale
+----
+
+=== Portale
 Relation: welt.portal
+[source,sql]
+----
 	• portal_sx
 	• portal_sy
 	• portal_sw
+----
