@@ -1,0 +1,18 @@
+= {subject}
+Jan H. Krueger
+:subject: Ruf - Allgemein
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+== Burning Crusade
+
+=== Dungeon
+
+* https://www.wowhead.com/de/faction=947/thrallmar[Thrallmar] / https://www.wowhead.com/de/faction=946/ehrenfeste[Ehrenfeste] ==> https://www.wowhead.com/de/zone=3713/der-blutkessel[Der Blutkessel] und https://www.wowhead.com/de/zone=3562/höllenfeuerbollwerk[Höllenfeuerbollwerk] (Höllenfeuerhalbinsel)
+* https://www.wowhead.com/de/faction=942/expedition-des-cenarius[Expedition des Cenarius] ==> https://www.wowhead.com/de/zone=3717/die-sklavenunterkünfte[Die Sklavenunterkünfte], https://www.wowhead.com/de/zone=3715/die-dampfkammer[Die Dampfkammer] und https://www.wowhead.com/de/zone=3716/der-tiefensumpf[Der Tiefensumpf] (Zangarmarschen)
+* https://www.wowhead.com/de/faction=989/hüter-der-zeit[Hüter der Zeit] ==> https://www.wowhead.com/de/zone=2366/der-schwarze-morast[Der Schwarze Morast]‚ (Höhlen der Zeit, Tanaris)
+* https://www.wowhead.com/de/faction=1011/unteres-viertel[Unteres Viertel] ==> https://www.wowhead.com/de/zone=3790/auchenaikrypta[Auchenaikrypta], https://www.wowhead.com/de/zone=3789/schattenlabyrinth[Schattenlabyrinth] und https://www.wowhead.com/de/zone=3791/sethekkhallen[Sethekkhallen] (Auchindoun, Terrokar Forest)
+* https://www.wowhead.com/de/faction=935/die-shatar[Die Sha'tar] ==> https://www.wowhead.com/de/zone=3848/die-arkatraz[Die Arkatraz], https://www.wowhead.com/de/zone=3849/die-mechanar[Die Mechanar] und https://www.wowhead.com/de/zone=3847/die-botanika[Die Botanika] (Nethersturm)
