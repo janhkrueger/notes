@@ -1,0 +1,35 @@
+= {subject}
+Jan H. Krueger
+:subject: Difference Between Caution and Warning
+:description: Collection of stuff when I moved islands.
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 2
+:created: 2015-02-05T00:13:05+02:00
+
+
+Paying attention to the difference between caution and warning is a useful task as caution and warning are terms that are frequently used not just in the legal community, but also in ordinary parlance. Many of us are vaguely familiar with the meaning of each term although when asked to identify the difference between the two, we seem uncertain. This is mostly due to the fact that the words are used interchangeably and synonymously. Although they might connote the same idea, there is a subtle distinction between the two. This calls for an explanation of both terms.
+
+== What does Warning mean?
+The dictionary defines the term warning as a **statement telling of or an indication providing evidence of https://www.differencebetween.com/difference-between-hazard-and-vs-danger/[danger], serious harm, or misfortune**. In fact, when we hear or notice the term warning we automatically associate it with some kind of danger or harm. Thus, in general, we think of a warning as a form of notice alerting us to some type of danger or serious threat. Simply put, it serves as a ‘stop’ sign, indicating to us to avoid something or avoid doing something.
+
+In law, it has much the same https://www.differencebetween.com/difference-between-connotation-and-vs-denotation/[connotation] although it is usually more specific and is often found in https://www.differencebetween.com/difference-between-law-and-vs-statute/[statutes] or https://www.differencebetween.com/difference-between-act-and-vs-law/[Acts] of Parliament. For example, warnings found in the https://www.differencebetween.com/difference-between-tort-law-and-vs-criminal-law/[Criminal Law] typically serve as notices alerting the public that certain acts constitute criminal behavior and result in serious consequences. Therefore, in law, a warning has an imperative nature and serves as a final notice. Further, a warning can be used in relation to certain products or services, wherein it serves as a notice of impending personal injury or damage.
+
+== What does Caution mean?
+A quick look at the thesaurus will give us a glimpse as to what the term caution might connote. Indeed, synonyms listed under it include https://www.differencebetween.com/difference-between-care-and-vs-pity/[care], carefulness, https://www.differencebetween.com/difference-between-attention-and-vs-concentration/[attention], attentiveness, concern, forethought, and prudence. These terms suggest that the word caution denotes some form of action, particularly on the part of the person, been cautioned. As opposed to a warning, which is a notice or statement, caution refers to **exercising a degree of care**. This means a person exercises carefulness when performing a certain act. If the term caution is used, it is generally with respect to advising a person to be careful or vigilant or to pay close attention. The objective of a caution is to minimize risk, harm, or damage of some kind. For example, motorists are cautioned to drive carefully on wet, slippery roads. Simply put, think of caution as an act that involves the exercise of prudence or one that constitutes a careful restraint of certain actions. It is also a forethought, in the sense that the person exercising caution will think about the future consequences or risks before performing some act.
+
+In law, the meaning of caution is generally the same. Keep in mind, however, that a caution in law can also refer to **an official or legal warning made by law enforcement authoritie** to suspects or offenders who have committed minor crimes.
+
+== What is the difference between Caution and Warning?
+
+* A Warning refers to a statement indicating impending danger, serious harm or misfortune.
+* A Caution, on the other hand, refers to an action displaying careful, prudent behaviour.
+* The objective of a caution is to advise people to exercise careful behaviour and to pay close attention in order to minimize risk and damage.
+* In the case of a warning, the objective is to alert people to certain dangers and serious consequences. Thus, in law, a warning serves as a notice indicating that certain acts constitute criminal behavior.
+* A warning serves as a form of notice while a caution may serve as a form of advice or action adopting such advice.
+
+
+
+Source: https://www.differencebetween.com/difference-between-caution-and-vs-warning/[DifferenceBetween.com]
