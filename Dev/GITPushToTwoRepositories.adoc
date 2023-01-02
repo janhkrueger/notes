@@ -1,0 +1,61 @@
+= {subject}
+Jan H. Krueger
+:subject: Git - Pushing code to two repositories
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 2
+:created: 2015-02-05T00:13:05+02:00
+
+Es ist möglich bei einem Push nicht nur zu einem Repository, sondern gleich zu zweien zu pushen. Zum Beispiel sowohl zu GitLab als auch zu GitHub.
+
+Dies kann genutzt werden um Änderungen in einem Schritt über mehrere Repositories zu verteilen.
+
+Dazu wird eine weitere remote URL dem Repository mitgeteilt. Wichtig ist das diese nur für den **Push** hinterlegt wird.
+
+== Weiteres PUSH Repository hinterlegen.
+
+----
+git remote set-url --add --push origin REPO1
+----
+
+bzw.
+
+----
+git remote set-url --add --push origin REPO2
+----
+
+Mittels git remote -v können die aktuell hinterlegten Remoteurls überprüft werden.
+
+
+== Beispiel bei nur einem hinterlegtem Repository
+[source,bash,indent=1]
+----
+janhkruger@zandalar notes % git remote -v
+origin  git@gitlab.com:janhkrueger/notes.git (fetch)
+origin  git@gitlab.com:janhkrueger/notes.git (push)
+----
+
+== Zwei Repositorys angeben
+[source,bash,indent=1]
+----
+git remote set-url --add --push origin git@gitlab.com:janhkrueger/insulae-ci-runner.git
+git remote set-url --add --push origin git@github.com:janhkrueger/insulae-ci-runner.git
+git remote -v
+----
+
+== Beispiel bei zwei hinterlegten Repositorys
+[source,bash,indent=1]
+----
+janhkruger@zandalar notes % git remote -v
+origin  git@gitlab.com:janhkrueger/notes.git (fetch)
+origin  git@gitlab.com:janhkrueger/notes.git (push)
+origin  git@github.com:janhkrueger/notes.git (push)
+----
+
+Klar erkennbar ist das nun neben einer Fetch-Adresse zwei Push-Adressen zu sehen sind. Ab nun werden alle commits bei einem Push zu beiden Remote-URLs gesendet.
+
+IMPORTANT:  Unterschiedliche Hooks können Code in einem Repo annehmen und im anderen ablehnen.
+
+IMPORTANT: Vor dem ersten Push zu beiden (allen) Repositorys sollte sichergestellt werden das beide Kopien einen identischen Stand haben um ungewollte Probleme zu verhindern.
