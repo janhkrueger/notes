@@ -1,0 +1,17 @@
+= {subject}
+Jan H. Krueger
+:subject: Ruf bei Hauptstädten farmen
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+Ort: Instanz https://www.wowhead.com/de/zone=3847/die-botanika[Die Botanika]
+
+Vorbereitung: Anlegen des jeweiligen Stadtwappenrocks
+
+Bereithalten der drei XP-Standarten
+https://www.wowhead.com/de/item=64399/schlachtstandarte-der-zusammenarbeit[Schlachtstandarte der Zusammenarbeit], https://www.wowhead.com/de/item=64398/standarte-der-einheit[Standarte der Einheit], https://www.wowhead.com/de/item=64400/banner-der-zusammenarbeit[Banner der Zusammenarbeit].
+
+So können in einem Lauf welcher ca 6 bis 7 Minunten 3757 Ruf gesammelt werden.
