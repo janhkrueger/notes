@@ -16,3 +16,7 @@ Jan H. Krueger
 * https://www.wowhead.com/de/faction=989/hüter-der-zeit[Hüter der Zeit] ==> https://www.wowhead.com/de/zone=2366/der-schwarze-morast[Der Schwarze Morast]‚ (Höhlen der Zeit, Tanaris)
 * https://www.wowhead.com/de/faction=1011/unteres-viertel[Unteres Viertel] ==> https://www.wowhead.com/de/zone=3790/auchenaikrypta[Auchenaikrypta], https://www.wowhead.com/de/zone=3789/schattenlabyrinth[Schattenlabyrinth] und https://www.wowhead.com/de/zone=3791/sethekkhallen[Sethekkhallen] (Auchindoun, Terrokar Forest)
 * https://www.wowhead.com/de/faction=935/die-shatar[Die Sha'tar] ==> https://www.wowhead.com/de/zone=3848/die-arkatraz[Die Arkatraz], https://www.wowhead.com/de/zone=3849/die-mechanar[Die Mechanar] und https://www.wowhead.com/de/zone=3847/die-botanika[Die Botanika] (Nethersturm)
+
+
+
+Quelle: https://www.wowhead.com/de/guide/the-ultimate-reputation-guide-10726#tabs-name10-iskaara-tuskarr
