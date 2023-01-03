@@ -1,0 +1,655 @@
+= {subject}
+Jan H. Krueger
+:subject: Old Gods
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+“They do not die; they do not live. They are outside the cycle.”
+
+— [Herald Volazj](https://wowpedia.fandom.com/wiki/Herald_Volazj "Herald Volazj")
+
+**Old Gods** (also known as **Shath'Yar** in [their own language](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar"), as well as various [other names](https://wowpedia.fandom.com/wiki/Old_God#Other_names)) are parasitic, eldritch horrors created by the link:VoidLord[void lords] in order to find and corrupt slumbering link:Titan[titan] link:WorldSoul[world souls]. These immense mountains of flesh, physical manifestations of the link:Void[void], grow like cancers within the worlds of the link:GreatDarkBeyond[Great Dark Beyond].
+
+Four Old Gods — link:YShaarj[Y'Shaarj], link:CThun[C'Thun], link:YoggSaron[Yogg-Saron] and link:NZoth[N'Zoth] — ruled the planet of link:Azeroth[Azeroth] during its primordial age, forming what would become known as the link:BlackEmpire[Black Empire]. When the link:Pantheon[Pantheon] arrived, they sent their armies, the link:TitanForged[titan-forged], to shatter the Old Gods' citadels and crumble their empire. Y'Shaarj, however, proved much too strong for the titan-forged to defeat, which prompted the titan leader link:AmanThul[Aman'Thul] to reach down his arm and tear Y'Shaarj apart. This created a giant gaping wound in the planet's crust from which the [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") lifeblood of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)"), the nascent titan, was hemorrhaging.
+
+Realizing that the Old Gods had embedded themselves too deep in the world's surface to be removed without destroying Azeroth itself, they instead decided to have the Old Gods imprisoned deep below the surface of the world to contain their evil forever.<sup id="cite_ref-Chronicle36_4-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle36-4">[4]</a></sup> The link:Pantheon[Pantheon], in an attempt to study the eldritch monstrosities and find a solution to their existence, inadvertently created a fifth Old God, [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun"). It was subsequently [sealed](https://wowpedia.fandom.com/wiki/Zandalar_seal "Zandalar seal") within the research facility of [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir"), now located on [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar").
+
+Though incapacitated and, until recently, forgotten, the Old Gods still to this day influence the very people and events of Azeroth. Along with the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), they are one of the most powerful and reoccurring threats found in the _Warcraft_ series of games and books, especially during the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") where they attempted to bring about the end of the world, the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"), and during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), with the recreation of the link:BlackEmpire[Black Empire] in [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha").
+
+With C'Thun and Yogg-Saron defeated, Y'Shaarj and G'huun deceased, and N'Zoth presumably gone as well, [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") declared that Azeroth was made free of the grasp of the Old Gods.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-5">[5]</a></sup> Nevertheless, The dark influence of the Old Gods lingers like a blight in places where they once held power.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-6">[6]</a></sup>
+
+## Known
+
+The Old Gods' sole purpose is to corrupt a link:Titan[titan] [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") into a being of unimaginable evil, a "[warped titan](https://wowpedia.fandom.com/wiki/Dark_titan "Dark titan")" or "dark titan". Should the Old Gods succeed, the warped titan would consume all matter and energy in the universe, bringing all of existence under the void lords' will.<sup id="cite_ref-Chronicle21_7-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle21-7">[7]</a></sup>
+
+### Y'Shaarj
+
+_Main article: link:YShaarj[Y'Shaarj]_
+
+Unlike the other Old Gods who were merely imprisoned, Y'Shaarj was ripped out of Azeroth and slain by the titans themselves. Its remains fell back on the land that would later become known as link:Pandaria[Pandaria] and its essence, seeping into the soil, would spawn the [sha](https://wowpedia.fandom.com/wiki/Sha "Sha"). The link:TitanForged[titan-forged] gathered its remains, notably the [Heart of Y'Shaarj](https://wowpedia.fandom.com/wiki/Heart_of_Y%27Shaarj "Heart of Y'Shaarj"), which they placed under guard beneath the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms"). After the [Aqir and Troll War](https://wowpedia.fandom.com/wiki/Aqir_and_Troll_War "Aqir and Troll War"), the link:Aqir[Aqir] that settled in the surrounding regions where Y'Shaarj's essence still polluted the land were gradually transformed into a race called the link:Mantid[Mantid]. Ages later, [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") unearthed and managed to restore it using the magical pools of the Vale. Following the heart's excavation, the mantid, who worshipped Y'Shaarj, flew to Garrosh's side, with the [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi") [paragons](https://wowpedia.fandom.com/wiki/Paragon "Paragon") standing guard over the Old God's heart. After the heart's power was drained during the [final confrontation](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream_(tactics) "Garrosh Hellscream (tactics)") with Garrosh at the end of the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar"), the last gasp of Y'Shaarj faded from existence.<sup id="cite_ref-LastGasp_8-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-LastGasp-8">[8]</a></sup>
+
+### The Three
+
+The current primary goal of the Azerothian Old Gods is to escape their titanic prisons. Whereas in ancient times the Old Gods used to wage war against each other, [Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz") leading the armies of N'Zoth against the forces of C'Thun and Yogg-Saron,these three have now formed an alliance that the few mortals who have the knowledge call "the Three", destined to further their goals and influence the oblivious world. The Three were responsible for manipulating the events during the [War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")<sup id="cite_ref-TS_157_10-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TS_157-10">[10]</a></sup> and the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"), but also for the corruption of Neltharion into [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), or for the transformation of [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") into [naga](https://wowpedia.fandom.com/wiki/Naga "Naga").
+
+#### N'Zoth
+
+_Main article: link:NZoth[N'Zoth]_
+
+N'Zoth was the first Old God to be neutralized by the titan-forged. It was imprisoned in an underground prison some distance west of [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman"),<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-11">[11]</a></sup> but has since notably been responsible for the formidable growth of the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") after its creation by link:YoggSaron[Yogg-Saron].<sup id="cite_ref-UVG33_12-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-UVG33-12">[12]</a></sup> During the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), N'Zoth was a driving force behind the actions of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing").<sup id="cite_ref-Blizzcon2010_13-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Blizzcon2010-13">[13]</a></sup> After being freed from its prison, N'Zoth ordered the link:BlackEmpire[Black Empire] to claim the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination") and [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha") in its goal to manifest [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha") on Azeroth. Azeroth's [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") invading [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City") ultimately seemingly killed N'Zoth, with the forges he sought to claim being channeled into the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth).<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-14">[14]</a></sup>
+
+#### C'Thun
+
+_Main article: link:CThun[C'Thun]_
+
+C'Thun followed after N'Zoth's fall and was sealed in the titan-forged research station of [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj").<sup id="cite_ref-Chronicle38_15-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle38-15">[15]</a></sup> After the [Aqir and Troll War](https://wowpedia.fandom.com/wiki/Aqir_and_Troll_War "Aqir and Troll War"), many link:Aqir[Aqir] settled within the confines of C'Thun's prison. The captive Old God's foul presence slowly warped the aqir's forms over time, molding them into a race known as the [qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji"). 975 years ago, C'Thun sent its qiraji armies to ravage the world in the [War of the Shifting Sands](https://wowpedia.fandom.com/wiki/War_of_the_Shifting_Sands "War of the Shifting Sands"). Though they almost succeeded in conquering nearly the entirety of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), the qiraji were defeated by the combined forces of the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and the [dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight"). They raised the [Scarab Wall](https://wowpedia.fandom.com/wiki/Scarab_Wall "Scarab Wall"), an enchanted barrier that would contain the insectoids for centuries to come. Recently, [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") and his [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") followers conducted a ritual to shatter the Old God's bonds. C'Thun awakened the thousands of qiraji and [silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid") laying dormant in Ahn'Qiraj and beneath [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus"), and rallied them for war. Though they almost conquered Silithus, the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") combined their armies in a force called the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor") and defeated the Old God before it had time to regain its full strength.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-16">[16]</a></sup><sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-17">[17]</a></sup>
+
+#### Yogg-Saron
+
+_Main article: link:YoggSaron[Yogg-Saron]_
+
+Yogg-Saron, the last of the Three to fall, was imprisoned under the titan city of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Following the [Aqir and Troll War](https://wowpedia.fandom.com/wiki/Aqir_and_Troll_War "Aqir and Troll War"), the aqir that settled near Yogg-Saron's underground prison gradually evolved into a race called the [nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian") due to their proximity to the Old God. Their kingdom would become known as [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"). As the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Andrassil](https://wowpedia.fandom.com/wiki/Andrassil "Andrassil") grew, its roots pierced the prison of the Old God, granting him access to the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") which it would share with his Old God kin. Over time, Yogg-Saron also managed to corrupt the [Keepers](https://wowpedia.fandom.com/wiki/Keepers "Keepers") who guarded Ulduar, and slowly broke through all but the last of its restraints.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-18">[18]</a></sup> But thanks to the combined might of the Alliance and the Horde, aided by brave [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), the Keepers were freed, and together they defeated Yogg-Saron.
+
+### G'huun
+
+_Main article: [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")_
+
+[G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun") was an Old God born from the result of experiments by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"). It was quite less powerful than the other Old Gods, but still represented a potentially world-ending threat to Azeroth. It was imprisoned within [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir") on the island of [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"). It was eventually killed by the combined forces of the [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") and the defensive systems of Uldir.
+
+### Other Old Gods
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Star_Augur_Etraeus_Old_God_corrupted_planets.jpg/revision/latest/scale-to-width-down/180?cb=20170206113056)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Star_Augur_Etraeus_Old_God_corrupted_planets.jpg/revision/latest?cb=20170206113056)
+
+Planets covered by Old Gods.
+
+-   An unknown number of Old Gods were hurled into the link:GreatDarkBeyond[Great Dark Beyond] by the link:VoidLord[void lords],<sup id="cite_ref-Chronicle21_7-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle21-7">[7]</a></sup> and other Old Gods are active in the worlds beyond Azeroth.<sup id="cite_ref-ASKCD2_19-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-ASKCD2-19">[19]</a></sup>
+-   One unnamed world had become irredeemably infested by the Old Gods during the time of the link:Pantheon[Pantheon], leading to [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") destroying it. See [Corruption of a world-soul](https://wowpedia.fandom.com/wiki/World-soul#Corruption "World-soul").<sup id="cite_ref-Chronicle24_20-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle24-20">[20]</a></sup>
+-   Other planets have been seen infected with Old Gods in-game. See [Known unnamed worlds](https://wowpedia.fandom.com/wiki/Planet "Planet").
+    -   [Fyzandi](https://wowpedia.fandom.com/wiki/Fyzandi "Fyzandi")
+-   A group of [arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") known as the [Dark Conclave](https://wowpedia.fandom.com/wiki/Dark_Conclave "Dark Conclave") attempted to call forth the [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God") into [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").
+-   [Harbinger Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss") yelled "We span the universe, as countless as the stars!" and [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal") stated that Skyriss' Old God masters sought to conquer all worlds in the universe.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-21">[21]</a></sup>
+-   Some of the more outlandish theories regarding the creation of the sentient dagger known as [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") claim that the blade is all that remains of a forgotten Old God who was consumed by its kin in the early days of the link:BlackEmpire[Black Empire].<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-22">[22]</a></sup>
+-   The [Gods of Arak](https://wowpedia.fandom.com/wiki/The_Gods_of_Arak "The Gods of Arak") scroll mentions that [Anzu](https://wowpedia.fandom.com/wiki/Anzu_(alternate_universe) "Anzu (alternate universe)") would converse with "the gods of the abyss", and that he would find them "dull, witless creatures".
+-   [A piece of artwork](https://wowpedia.fandom.com/wiki/File:Chronicle3_Art.jpg "File:Chronicle3 Art.jpg") featured in _[Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_ depicts the four known Azerothian Old Gods, in addition to a fifth creature in the top right corner.
+
+## History
+
+### Origins
+
+From the moment the universe came to be, dark spirits within the link:Void[void] sought to twist reality into a realm of endless torment and chaos. These link:VoidLord[void lords], envious of the link:Pantheon[Pantheon]'s power, pooled their power and created the Old Gods to exert their influence over a link:Titan[titan] in its most vulnerable state: before it had awakened. Not knowing which planets contained titan link:WorldSoul[world souls], the void lords then hurled their creations out through the link:GreatDarkBeyond[Great Dark Beyond], hoping that some would smash into a nascent titan. The Old Gods began contaminating mortal worlds and everything else they touched in their blind search for a world-soul.<sup id="cite_ref-Chronicle21_7-2"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle21-7">[7]</a></sup>
+
+Being creations of the shadowy void lords and physical manifestations of the link:Void[void], the old gods are deeply intertwined with the dark force, and can control it directly.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-23">[23]</a></sup> Many mortal followers of the eldritch horrors make frequent use of shadow magic, and [shadow priests](https://wowpedia.fandom.com/wiki/Priest#Shadow "Priest") who derive their power from the Void stray dangerously close to the domain of the Old Gods.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-24">[24]</a></sup> The ritual dagger known as [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") was used by dark priests of the link:BlackEmpire[Black Empire] at its height.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-25">[25]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/31/CThunPreHistory.jpg/revision/latest/scale-to-width-down/180?cb=20210405012216)](https://static.wikia.nocookie.net/wowpedia/images/3/31/CThunPreHistory.jpg/revision/latest?cb=20210405012216)
+
+The link:BlackEmpire[Black Empire].
+
+### The Black Empire
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest/scale-to-width-down/180?cb=20180325104143)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest?cb=20180325104143)
+
+Map of the Black Empire.
+
+Long ago, the world of link:Azeroth[Azeroth] became threatened by a group of Old Gods. These entities of chaos and destruction wreaked havoc on the world.<sup id="cite_ref-UVG33_12-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-UVG33-12">[12]</a></sup> Plummeting down from the Great Dark Beyond, link:CThun[C'Thun], link:YoggSaron[Yogg-Saron], link:NZoth[N'Zoth], and link:YShaarj[Y'Shaarj] slammed into Azeroth's surface, embedding themselves in various locations of the world. A miasma of despair soon enveloped everything that lay in their writhing shadows as they spread their corruptive influence across the land, all the while sending their tendrils down through the world's crust, towards the planet's defenseless world-soul. Two races, the [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") (or "faceless ones") and the link:Aqir[Aqir], arose from the organic matter that seeped from the Old Gods' massive bodies, becoming fanatically loyal servants that built great citadels and temple cities around the colossal forms of their masters. The greatest of these structures was built around Y'Shaarj, the most powerful of the Old Gods, and the holdings of the Old Ones would soon spread over Azeroth, eventually forming the link:BlackEmpire[Black Empire].<sup id="cite_ref-Chronicle29_26-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle29-26">[26]</a></sup> When they arrived, the Old Gods enslaved the [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental") that had once raged freely on primordial Azeroth,<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-27">[27]</a></sup> though not before a brutal war in which the four [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord"), who had previously been bitter rivals of one another, banded together in an attempt to fight the Old Gods' fledgling empire. Though the elementals were mighty, they could not stand against the constant swarm of n'raqi and aqir. Without the native spirits of Azeroth to counter the Old Gods' influence, the borders of the Black Empire crept over much of the world. As perpetual twilight descended, the world spiraled into an abyss of death and suffering.<sup id="cite_ref-Chronicle29_26-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle29-26">[26]</a></sup>
+
+At some point during this period, the four Old Gods became aware of a temporal incursion by adventurers and two dragons from the distant future, but seemed to give the incident little mind, content to simply observe.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest/scale-to-width-down/180?cb=20160219182734)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest?cb=20160219182734)
+
+The [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lords "Elemental Lords"), lieutenants of the Old Gods, battling the link:TitanForged[titan-forged].
+
+[Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros"), [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon"), [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir"), and [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane"), having now been enslaved by the Old Ones, led their respective armies in an eternal conflict that ravaged the world to no end. Meanwhile, the n'raqi servants of the Old God N'Zoth raged war with the combined forces of link:CThun[C'Thun] and link:YoggSaron[Yogg-Saron].<sup id="cite_ref-Patch_4.3_Raid_Preview:_Dragon_Soul_9-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Patch_4.3_Raid_Preview:_Dragon_Soul-9">[9]</a></sup>
+
+During their journey across the cosmos, the titans eventually made their way to Azeroth and encountered the elementals, who vowed to drive the Pantheon back in the name of their dark masters. Upon discovering the deep and insatiable hunger for destruction in the Old Gods and seeing them as immensely evil, the titans initiated a war with them.<sup id="cite_ref-Ordering_28-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Ordering-28">[28]</a></sup> Fearing that their enormous forms would severely harm or even kill Azeroth's world-soul — the most powerful one yet encountered by the Pantheon — the titans instead created mighty servants to do battle in their stead. Known as the link:TitanForged[titan-forged], these beings waged war against the elemental servants of the Old Gods, eventually managing to defeat them and seal them within the newly-created [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane").<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-29">[29]</a></sup> Once the titan-forged started to make their way towards the bastion of Y'Shaarj, however, the titans feared that their servants would not be able to stand against the Old God's might. Thus, link:AmanThul[Aman'Thul], the Highfather himself, reached down through Azeroth's skies and heaved Y'Shaarj from the surface of the world. The Old God was instantly ripped apart, but in the wake of its death, the lifeblood of Azeroth's world-soul rushed to the surface in a great wound later known as the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). The Pantheon realized that the Old Gods had burrowed too deep to be excised from Azeroth without killing the nascent titan, and so they ordered their servants to instead imprison the vile gods, rather than killing them. The campaign of the titan-forged to contain the remaining three was long and brutal, but eventually they succeeded in containing the Old Ones below the surface of the world.<sup id="cite_ref-Chronicle36_4-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle36-4">[4]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest/scale-to-width-down/180?cb=20160328182950)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest?cb=20160328182950)
+
+Ordered Azeroth and the locations of the Old Gods' prisons.
+
+C'Thun was bound within the great fortress of [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj"), located closely to the titan-forged stronghold of [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum"),<sup id="cite_ref-Chronicle38_15-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle38-15">[15]</a></sup> and N'Zoth was imprisoned in a similar way, though it is not known exactly where<sup id="cite_ref-Chronicle36_4-2"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle36-4">[4]</a></sup> (possibly deep below Azeroth's oceans).<sup id="cite_ref-Stormrage,_389_30-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Stormrage,_389-30">[30]</a></sup> Yogg-Saron was the last Old God to be imprisoned, even unleashing its enormous [C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") generals in an attempt to halt the advance of the titan-forged, but eventually it was bound beneath the titan city of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") under the watch of six [keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper").
+
+### Early imprisonment
+
+_Main article: [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Ulduarconcept.jpg/revision/latest/scale-to-width-down/180?cb=20180922135606)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Ulduarconcept.jpg/revision/latest?cb=20180922135606)
+
+[Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar"), the titan city underneath which link:YoggSaron[Yogg-Saron] was imprisoned.
+
+Due to the influence of link:YoggSaron[Yogg-Saron] and the other Old Gods, the [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen"), one of the many races created by the titans, began to succumb to the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh"). The same thing happened to the [mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome"), [tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir"), [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") and [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul"), eventually resulting in their fleshy bodies, as opposed to their original stone composition or metal design. The vrykul, who had originally had iron skin, also began producing [a smaller and weaker mutation of themselves](https://wowpedia.fandom.com/wiki/Human "Human"). The Old Gods had presumably intended to subvert the titans' work from within, and to a great extent they succeeded; the titans were loath to unmake the world except as a last resort. Thus, many of the mortal races of Azeroth had their nature suspended between order and chaos, between their titanic birth and their Old God-originating corruption.
+
+_Main article: [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects")_
+
+Knowing that they would soon depart a world full of deep corruption, the titans took several measures to contain it as much as possible. The Keepers created earthen to inhabit specific areas they had sealed off, and the Keeper [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn") was made Prime Designate of Azeroth. Through the keepers, they also created the five [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects"), designed to watch over and protect the world in their absence.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-31">[31]</a></sup>
+
+The great [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond"), a monstrous proto-dragon who rampaged through what would later become known as [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), and who was stopped by Keeper [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") and the future Dragon Aspects, was hinted to have been manipulated by the Old Gods.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-32">[32]</a></sup> Though the Aspects were usually vital allies of the mortal races, [Neltharion](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s affinity with the depths of the world would eventually prove to be his undoing.
+
+### The fall of the Keepers
+
+After an affair with Keeper [Thorim](https://wowpedia.fandom.com/wiki/Thorim "Thorim")'s wife [Sif](https://wowpedia.fandom.com/wiki/Sif "Sif"), Keeper [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")'s guilt and fear made him susceptible to Yogg-Saron's corruption. Under its influence, he killed Sif, and blamed [Arngrim](https://wowpedia.fandom.com/wiki/Arngrim_the_Insatiable "Arngrim the Insatiable") of the [frost giants](https://wowpedia.fandom.com/wiki/Frost_giant "Frost giant"), resulting in a war between the frost giants and Thorim. Loken then stopped it with his own army from the [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills"). This army was infected with the curse of flesh that Yogg-Saron had designed, and which began to spread rapidly through the [titan-forged races](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged"). Afterwards, Thorim retreated to his throne and fell into a depressed stupor that would last millennia.
+
+Driven further to desperation and madness by his own actions, and fear of reprisal by [Algalon the Observer](https://wowpedia.fandom.com/wiki/Algalon "Algalon") or the Pantheon, Loken began to willingly bow to Yogg-Saron's power, hoping to use it to selfishly save his own skin. He murdered Keeper [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron"), who was about to find out the truth about Loken, though the mechagnomes transferred Mimiron's consciousness into a new mechanical body. With the power of Yogg-Saron, Loken was able to ensorcell Keeper [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir") and Keeper [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya") into complacency. Loken then convinced [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya"), the first [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr"), to seal off the [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor") and managed to imprison Odyn and the [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar") within. The last threat remaining was the [constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar") Algalon. Loken modified Ulduar's systems and appointed himself as the new Prime Designate, giving himself control over the titans' alert systems, and damaged these to prevent anyone else from calling Algalon.
+
+Highkeeper [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra"), who had found out about the Pantheon's deaths, was driven into despair by the loss of his creators and locked himself away from the world. The remaining Keepers, Tyr and [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas"), gathered earthen, mechagnomes, vrykul and a [watcher](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") named [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya"), and led an exodus to the south to escape Loken's wrath. They also stole the [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon"), which had recorded the history of all the events that had unfolded, hoping to show them to the titans. Loken sent two of Yogg-Saron's [C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") minions to stop them, but Tyr sacrificed himself to allow the group to escape. The vrykul remained behind to honor the Keeper at his side of death, while Archaedas successfully led the rest to refuge within [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") where they secured the Discs and entered hibernation.
+
+To maintain its hold on the Keepers in Northrend, Loken included, Yogg-Saron kept them all complacent and dormant within Ulduar, content to maintain the victory it had accomplished instead of risking losing it by overextending itself.
+
+### War of the Ancients
+
+_Main article: [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")_
+
+10,000 years ago [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") wanted to open a portal for [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") powerful enough for him to manifest in his full glory. In turn, [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") contacted each of her fellow aspects. It was one of the most respected of these dragons, the black dragonflight's leader Neltharion the Earth-Warder who proposed a plan should the worst truly be coming to pass. Alongside his old friend [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), Neltharion proposed that a simple golden disc, imbued with the power of each of the Aspects in turn, could be created that would be so powerful that no force on Azeroth or indeed even from outside could possibly stand against it. Should all these strange portents really be true, dragonkin would be ready. Convinced by Neltharion's arguments, the other aspects agreed and the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") was created.
+
+Unknown by the other Aspects [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") had found himself intrigued by the whispers of the Old Gods pinned within the very earth he was assigned to watch over for an untold time. These entities knew full well who Sargeras was and what his appearance signified for Azeroth. Having worked over the course of thousands of years to subjugate Neltharion, they now sought to make use of their newest and most powerful weapon. The Old Ones wanted to divert the power of Sargeras' portal to themselves and crack Azeroth open and after eons of imprisonment, they would be free. However, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") gained the Dragon Soul and used it alongside his brother [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") to close the portal, unknowingly preventing the release of the Old Gods.
+
+10,000 years later the Old Gods invaded [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu")'s realm and managed to open a rift in time, that, as they had planned, tossed some beings back through time, beings that would change the way the War of the Ancients took place, and give Sargeras a new chance to enter the world, and therefore give them a new chance to set themselves free. Their plans were although crushed again by [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus"), [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") and [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar"), who were sent back by Nozdormu in time.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-33">[33]</a></sup> This was a backup plan from the Old Gods' initial attempt to rip time apart and change history so they were never imprisoned in the first place, which was blocked by Nozdormu with great effort.<sup id="cite_ref-TS_157_10-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TS_157-10">[10]</a></sup>
+
+### The birth of the Emerald Nightmare
+
+4,500 years before the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), an eerie greenish ore began to emerge across Azeroth. The ore, which would one day be named [saronite](https://wowpedia.fandom.com/wiki/Saronite "Saronite"), was extremely troubling to the night elves, particularly its dark properties and abrupt appearance. They sought to contain the outbreak, and the [druid](https://wowpedia.fandom.com/wiki/Druid "Druid") [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") conceived a plan to use branches of [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), the World Tree, to accomplish this. He planted the branches across the world, particularly focusing on a large deposit in the [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills") in Northrend. The branches grew into trees, which seemed to successfully contain the substance, and the tree in Northrend grew into a World Tree in its own right. Fandral named this tree [Andrassil](https://wowpedia.fandom.com/wiki/Andrassil "Andrassil"), or "Crown of the Snow".
+
+For a time Andrassil flourished. But its roots ran too deep, touching Yogg-Saron's prison. It drove the native [taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka") and [forest nymphs](https://wowpedia.fandom.com/wiki/Forest_nymph "Forest nymph") of Northrend to violence and bloodthirst, and the [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle") realized that Andrassil itself had become corrupted. To stop the corruption's spread, they destroyed the tree and renamed it Vordrassil.
+
+The full extent of the damage to Azeroth caused by Andrassil would not become apparent for many many years. Unknown to the druids, Yogg-Saron's contact with a World Tree had allowed it access to the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). It spread this access to its fellow Old Gods, with N'Zoth taking particular interest in corrupting this new front.<sup id="cite_ref-Furion_34-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Furion-34">[34]</a></sup><sup id="cite_ref-Stormrage,_389_30-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Stormrage,_389-30">[30]</a></sup><sup id="cite_ref-Blizzcon2010_13-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Blizzcon2010-13">[13]</a></sup><sup id="cite_ref-UVG33_12-2"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-UVG33-12">[12]</a></sup> And so the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") was born.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/87/C%27Thun_Chronicle.png/revision/latest/scale-to-width-down/180?cb=20171227043849)](https://static.wikia.nocookie.net/wowpedia/images/8/87/C%27Thun_Chronicle.png/revision/latest?cb=20171227043849)
+
+link:CThun[C'Thun] in [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj").
+
+### War of the Shifting Sands
+
+_Main article: [War of the Shifting Sands](https://wowpedia.fandom.com/wiki/War_of_the_Shifting_Sands "War of the Shifting Sands")_
+
+Over vast stretches of time, C'Thun sought to subvert and corrupt. Its [qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji") would come to C'Thun and conquer for it the titan complex that lies today in the sands of [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus"), the fortress temple of [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj"). C'Thun waited, until at last its forces had grown strong enough to contest the hated [kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") for dominion over [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") itself. Thus began the War of the Shifting Sands, which would see corrupted titan creations like the [tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir") battle side by side with [silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid") hordes and qiraji leaders to push the night elves out of Kalimdor. C'Thun's plan nearly succeeded. At first, the night elves held fast and defeated the qiraji in several battles, thanks to the brilliant leadership of the [archdruid](https://wowpedia.fandom.com/wiki/Archdruid "Archdruid") Fandral Staghelm. Following [his son's](https://wowpedia.fandom.com/wiki/Valstann_Staghelm "Valstann Staghelm") death, the kaldorei were driven out of Silithus by the qiraji, and victory for C'Thun seemed nigh. But the combined forces of night elves and the [bronze](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight"), [green](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight"), [red](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") and [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") drove the frenzied qiraji back. But neither could those forces hope to win out against the Old God itself in its den. Rather than risk such an apocalyptic conflict, a solution was enacted that sealed the qiraji and C'Thun up inside their very fortress, the city complex of Ahn'Qiraj itself, by a magical barrier called "the [Scarab Wall](https://wowpedia.fandom.com/wiki/Scarab_Wall "Scarab Wall")". Fandral Staghelm, entrusted with the [Scepter of the Shifting Sands](https://wowpedia.fandom.com/wiki/Scepter_of_the_Shifting_Sands "Scepter of the Shifting Sands") used to seal Ahn'Qiraj, shattered it out of bitterness over the death of his son.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-35">[35]</a></sup>
+
+### Recent history
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+After their defeat on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") and his surviving minions of the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") sailed west to the mysterious continent of Kalimdor, drawn in by the whispers of the Old Gods. They were followed by [Garona](https://wowpedia.fandom.com/wiki/Garona "Garona"), who was eager to hunt out the last members of the [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council").<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-36">[36]</a></sup>
+
+In the aftermath of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the Old Gods noticed Illidan and his hunger for power intrigued them. Illidan cast a powerful spell to summon the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") and they answered. A group led by [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") pledged themselves to him. They did not come because of their shared history, nor did they respect his [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") power. They came because the Old Gods willed it. They were aware that his quest to destroy the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") could spark a new war on Azeroth, one that would envelop the undead, demons and world's nations. With this chaos, Cho'gall and his cultists could awaken the Old Gods relatively unopposed. They saw Illidan as useful in this regard, and they were confident that he could bring a new age of conflict. The Old Gods sent the naga to aid him in his campaign against the Lich King. If the former elf became troublesome, they could order the naga to cut out his [fel](https://wowpedia.fandom.com/wiki/Fel "Fel")\-corrupted heart.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-37">[37]</a></sup>
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+The world of Azeroth, at large, first experienced the might of an Old God when C'Thun began to find ways to get qiraji past the Scarab Wall. This was noticed by the [bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") [Anachronos](https://wowpedia.fandom.com/wiki/Anachronos "Anachronos") who marshaled the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") to deal with the threat the Old God posed. After much preparation, the Scarab Wall was opened, and the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor") was forced to face the qiraji army. Ultimately the combined Alliance and Horde forces succeeded in pushing the qiraji back into the city, after which Alliance adventurers ventured into the city itself and toppled the qiraji leadership, and defeated C'Thun itself.<sup id="cite_ref-WCEgods_38-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-WCEgods-38">[38]</a></sup>
+
+### Wrath of the Lich King
+
+Shortly before the [War in Northrend](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"), Cho'gall entered Ulduar and sabotaged Yogg-Saron's prison. With a greater amount of its power restored, Yogg-Saron swiftly cemented its grip on the Keepers, including Loken who had resided in Ulduar's [Halls of Lightning](https://wowpedia.fandom.com/wiki/Halls_of_Lightning "Halls of Lightning"). Now fully under the Old God's sway, Loken sought to free Yogg-Saron completely.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-39">[39]</a></sup> To this end he used the Forge of Wills to create his own personal army made of iron, fashioned as a mockery of the [earthen](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf"), [vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul") and [giants](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant").
+
+The irons came into conflict with the invading Alliance and Horde forces who had come to destroy the Lich King and his [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). During the course of this conflict, Loken was able to enslave Thorim as well but was killed some time later by adventurers. This set off Algalon's alert systems, while Yogg-Saron's power reached a peak, leading [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") to alert the Alliance and Horde in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") of the dire situation in Ulduar. Adventurers were sent into Ulduar to deal with the disaster, and during the course of their assault they freed the Keepers and defeated Yogg-Saron, forcing it back into dormancy.
+
+### Stormrage
+
+After the War in Northrend, the world of Azeroth became seized by an endless, cursed slumber. This state was brought on by a power within the Emerald Nightmare, and Malfurion Stormrage led a group to discover just what that power was. What they ultimately discovered was that the [satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr") [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius"), Malfurion's ancient nemesis, had been transformed by the Old Gods into the monstrous Nightmare Lord. Xavius sought to merge the Emerald Nightmare with Azeroth and thus gain control of both. Malfurion was able to stop his plans, and together with a group of his closest friends and allies, killed the satyr. The Nightmare retreated into the [Rift of Aln](https://wowpedia.fandom.com/wiki/Rift_of_Aln "Rift of Aln"), but Malfurion sensed great darkness within and realized Xavius had merely been a pawn to a much darker entity. Unable to purge the Nightmare within the Rift, and realizing they were needed elsewhere, Malfurion and Tyrande sealed off the area around the Rift, imprisoning Xavius' [spirit](https://wowpedia.fandom.com/wiki/Soul "Soul") within.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-40">[40]</a></sup> They agreed that this matter would need to be dealt with another time.
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") revealed that the Old Gods caused much of the suffering the Aspects experienced. The madness of [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") and [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), the Emerald Dream turned into a [Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"), the altering of the [timeways](https://wowpedia.fandom.com/wiki/Timeway "Timeway"), the attack of the [twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight"), the construction of a monster out of alternate [Aedelas Blackmoore](https://wowpedia.fandom.com/wiki/Aedelas_Blackmoore_(alternate_universe) "Aedelas Blackmoore (alternate universe)"), and the [Twilight Cult](https://wowpedia.fandom.com/wiki/Twilight_Cult "Twilight Cult") were all intertwined into a dreadful conspiracy of the Old Gods to destroy the Aspects and the [dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight") forever, and with it all chance of order and stability. The Aspects were shocked by this.<sup id="cite_ref-TToA_41-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TToA-41">[41]</a></sup>
+
+### Mists of Pandaria
+
+When [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") launched the Alliance and Horde into war, their conflict brought accompanying adventurers to the shores of the hidden land of link:Pandaria[Pandaria]. There the Alliance and Horde forces discovered a strange corruption known as [sha](https://wowpedia.fandom.com/wiki/Sha "Sha") that fed off negative emotions. Though believed to be tied to the land's last ruler, [Shaohao](https://wowpedia.fandom.com/wiki/Shaohao "Shaohao"), and his attempts to save his people from the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), the true source of this corruption was not fully known at first.
+
+As the war in Pandaria dragged on, Garrosh grew increasingly desperate to win and descended further into bloodlust and megalomania. To this end he had the [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") excavate the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms") in search of a mysterious artifact. What they found was the still-beating [heart of the deceased Old God Y'Shaarj itself](https://wowpedia.fandom.com/wiki/Heart_of_Y%27Shaarj "Heart of Y'Shaarj"); the true source of the Sha. Garrosh's lieutenant [Malkorok](https://wowpedia.fandom.com/wiki/Malkorok "Malkorok") claimed this terrifying relic for the Horde, and a short time later Garrosh used the waters of the Vale to fully rejuvenate the Heart. He then took the Heart with him to his new base, the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold"), and hung it in [his throne room](https://wowpedia.fandom.com/wiki/Inner_Sanctum_(Siege_of_Orgrimmar) "Inner Sanctum (Siege of Orgrimmar)"). Garrosh intended to use the Heart to power his new organization, the [True Horde](https://wowpedia.fandom.com/wiki/True_Horde "True Horde"), after it showed him a vision of his conquest of Azeroth using its power. Using the Heart he transformed Malkorok into a twisted [dire orc](https://wowpedia.fandom.com/wiki/Dire_orc "Dire orc") and forged a [new axe](https://wowpedia.fandom.com/wiki/Xal%27atoh,_Desecrated_Image_of_Gorehowl "Xal'atoh, Desecrated Image of Gorehowl") for himself.
+
+The Alliance and Horde, working together and led by a group of adventurers, laid [siege to Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar") to stop him. The adventurers were able to fight through the Underhold to confront Garrosh directly. During the [battle with him](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream_(tactics) "Garrosh Hellscream (tactics)"), he drained the Heart's power in a desperate attempt to achieve victory. Even this act was not enough, and Garrosh was defeated, with the power of Y'Shaarj draining away and leaving nothing but a [Fading Breath](https://wowpedia.fandom.com/wiki/Fading_Breath "Fading Breath") that soon vanished from existence.<sup id="cite_ref-LastGasp_8-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-LastGasp-8">[8]</a></sup>
+
+### War Crimes
+
+The Old Gods were indirectly involved in aiding Garrosh's escape to an [alternate universe](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)")'s past, as the True Horde's remnants were aided by the [infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") in crashing Garrosh's trial.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+When an [alternate version of Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") traveled to Azeroth and ushered in a [third invasion by the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), Azeroth's defenders became desperate for anything that could help stop them. While an adventurer traveled with [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") and Brann to Ulduar as part of this search, they discovered that Yogg-Saron's influence still haunted Ulduar, though not enough to be anything more than a minor threat.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-42">[42]</a></sup>
+
+The newly formed [Class Orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") sent their greatest champion, and eventual leaders, to find ancient and powerful artifacts to use as weapons against the Legion. Some of these involved fighting ancient forces of the Old Gods. Of note, the dark blade Xal'atath was recovered during this period by the [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave").
+
+During the course of the Burning Legion's invasion, they received help from the resurgent Emerald Nightmare, which had successfully begun beyond the Rift of Aln once more. Leading the Nightmare was a resurrected Xavius, the Nightmare Lord, and under his control large parts of the Dream had already fallen to corruption; including the Dream's versions of [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore_(Emerald_Nightmare) "Mulgore (Emerald Nightmare)"), [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills_(Emerald_Nightmare) "Grizzly Hills (Emerald Nightmare)"), [Un'Goro Crater](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater_(Emerald_Nightmare) "Un'Goro Crater (Emerald Nightmare)"), and [Moonglade](https://wowpedia.fandom.com/wiki/Moonglade_(Emerald_Nightmare) "Moonglade (Emerald Nightmare)"). While Xavius worked to aid the Legion, he and the Nightmare were still firmly under the control of the Old Gods. They seemingly aided the Legion as they delighted in the chaos the demons caused and hoped to keep their mutual enemies' attention focused on the Legion, allowing the Old Gods to work their manipulations in the background.
+
+Ultimately Xavius was killed once more, this time in the Rift of Aln, and the Nightmare dissipated almost completely. However a small [Remnant of the Void](https://wowpedia.fandom.com/wiki/Remnant_of_the_Void "Remnant of the Void") indicated that it still had not been completely destroyed.
+
+### Battle for Azeroth
+
+After the Legion's defeat and the Alliance and Horde breaking out into [open war](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the Old Gods, particularly N'Zoth, sought to take complete advantage of the situation.
+
+On [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras"), N'Zoth and Azshara worked to corrupt the [tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages"), transforming them into [k'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir"). In [Drustvar](https://wowpedia.fandom.com/wiki/Drustvar "Drustvar"), the Alliance emissary discovered an ancient power being used by the [Heartsbane Coven](https://wowpedia.fandom.com/wiki/Heartsbane_Coven "Heartsbane Coven") that drew from a mysterious death realm called [Thros](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands "Thros, the Blighted Lands"). Unknown to them, this was an offshoot of the Emerald Nightmare.
+
+Meanwhile, on [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), the artificial Old God [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun") had forged a pact with the [troll](https://wowpedia.fandom.com/wiki/Troll "Troll") [prophet](https://wowpedia.fandom.com/wiki/Prophet "Prophet") [Zul](https://wowpedia.fandom.com/wiki/Zul "Zul") to escape its imprisonment in [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir"). In return, G'huun would become the [loa](https://wowpedia.fandom.com/wiki/Loa "Loa") of Zul's new troll [empire](https://wowpedia.fandom.com/wiki/Empire "Empire"). A C'Thrax named [Mythrax](https://wowpedia.fandom.com/wiki/Mythrax "Mythrax") was also resurrected, thanks to the hunger for power of the [sethrak](https://wowpedia.fandom.com/wiki/Sethrak "Sethrak") [Korthek](https://wowpedia.fandom.com/wiki/Emperor_Korthek "Emperor Korthek") and his troll ally [Jakra'zet](https://wowpedia.fandom.com/wiki/General_Jakra%27zet "General Jakra'zet"). G'huun's forces sought to destroy the seals keeping it imprisoned in Uldir. Zul and Mythrax were ultimately successful in this, leading a massive army of G'huun's zealous [blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll") worshippers in an attack on [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor"). Though Zul was slain in the assault, Mythrax was able to launch an attack on the [seal in Dazar'alor](https://wowpedia.fandom.com/wiki/Great_Seal "Great Seal") and destroy it.
+
+Afterwards, G'huun's influence began to rapidly spread through the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands"), corrupting spirits and throwing the plane into turmoil. When the Zandalari princess [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji"), the Horde emissary, [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan"), and [Master Gadrin](https://wowpedia.fandom.com/wiki/Master_Gadrin "Master Gadrin") discovered this from the [spirit](https://wowpedia.fandom.com/wiki/Ghost "Ghost") of [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin"), they decided the time to assault Uldir and put a stop to G'huun was now. A group of Horde adventurers, led by Talanji, descended into the depths of the titan complex and successfully defeated the so-called Blood God. To prove to the Zandalari that the monstrosity was dead, [Vol'jin's glaive](https://wowpedia.fandom.com/wiki/Glaive_of_Vol%27jin "Glaive of Vol'jin") was dipped in its blood.
+
+When Azeroth's chosen champion had the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth) relic empowered, the Old Gods attempted to interfere with the ritual, sending some n'raqi to attack the adventurer.
+
+In time, [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") was able to use the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Inv_smallazeriteshard.png/revision/latest/scale-to-width-down/16?cb=20180508232452)[\[Azerite\]](https://wowpedia.fandom.com/wiki/Azerite) collected by the Heart of Azeroth to break the chains binding N'Zoth after activating the titan device in the [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison"). With the set staged for N'Zoth's release, an ancient corruption took root across Azeroth. [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha"), the Sleeping City, has awakened. Under N'Zoth's command, the armies of the Black Empire threaten to engulf the world and reshape it according to their [master's vision](https://wowpedia.fandom.com/wiki/Vision_of_N%27Zoth "Vision of N'Zoth"). Nightmares dwell in [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City"), the link:Void[void]\-shrouded heart of the ancient Black Empire. The [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of Azeroth ventured deep into the horrific realm to confront mad heralds and inscrutable horrors, and ultimately go eye-to-eyes with N'Zoth itself for one final confrontation against the Old God in a fateful battle for Azeroth's survival.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-43">[43]</a></sup>
+
+Ultimately N'Zoth (along with Ny'alotha) was destroyed when the Heart of Azeroth fired the powers of the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"), empowered by the [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha"), upon it.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-44">[44]</a></sup> In the aftermath [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") declared that Azeroth was made free of the grasp of the Old Gods.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-45">[45]</a></sup>
+
+## Power and strength
+
+“For I bear allegiance to powers untouched by time, unmoved by fate. No force on this world or beyond harbors the strength to bend our knee. Not even the mighty [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").”
+
+— [Harbinger Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+
+### Comparative strength
+
+-   Based on [ancient tales](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore"), [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus") incorrectly<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-46">[46]</a></sup> believed that should the Old Gods open the gates of their prison, even the titan [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") would find himself pleading for the peace of death. Krasus further thought that the [Aspects](https://wowpedia.fandom.com/wiki/Aspects "Aspects") were the most powerful creatures on all the mortal plane, so all five of the Aspects combined would represent a force capable of defeating the elder beings.<sup id="cite_ref-TSc10_47-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TSc10-47">[47]</a></sup>
+-   However, [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") and link:AmanThul[Aman'Thul] both demonstrated the ability to kill Old Gods with ease, mostly by taking advantage of their significant size difference. Sargeras killed numerous Old Gods simultaneously with a single stroke of his sword, destroying a nameless [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") infested with Old Gods.<sup id="cite_ref-Chronicle24_20-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle24-20">[20]</a></sup> Aman'Thul killed the most powerful of the Old Gods on link:Azeroth[Azeroth], link:YShaarj[Y'Shaarj], by tearing him from the surface of the planet. In doing so, he inadvertently wounded the sleeping world-soul due to how deeply Y'Shaarj had burrowed into the planet's crust. Though the titans could have easily destroyed the rest of the Old Gods in a similar fashion, it was avoided so as to not damage Azeroth any further.<sup id="cite_ref-Chronicle36_4-3"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Chronicle36-4">[4]</a></sup>
+-   On the other hand, the Old Gods of Azeroth don't seem particularly concerned with the Legion or Sargeras, and [Star Augur Etraeus](https://wowpedia.fandom.com/wiki/Star_Augur_Etraeus "Star Augur Etraeus") considers the 'avatars of non-existence' to be the 'true horror of our reality'. While they may not be as strong as titans, they should not be underestimated.
+-   As discovered by Maw Walkers and Firim in Zereth Mortis, it ultimately seems that the nature of the First Ones' pattern, which created and ordered the six major planes, is that all six powers have strengths and weaknesses that perfectly balance and complement each other. As the Old Gods are of the Void, they would seemingly be subject to this as well.
+
+### Powers
+
+One of the Old Gods' most notable abilities is their psychic power, being able to mentally twist the thoughts of most beings and take full control of them. Entire armies of link:TitanForged[titan-forged] would turn against themselves under the influence of the Old Gods, and even the weakest of the Old Gods was able to completely corrupt one of the strongest of the Keepers. Even confined, their mental abilities can reach out to nearly anything around them in the form of dark whispers.
+
+Old Gods have also immense power over Void and [twilight magic](https://wowpedia.fandom.com/wiki/Magic#Twilight "Magic") and can spread a seeping miasma from their bodies. Their corruption is strong enough to transform a pure world-soul into a twisted abomination. They are so confident in their corruption that Xal'atath stated all things could be corrupted, and are willing to wait millennia for it to bear fruit, showing incredible patience. Only awakened titans are known to be able to fully resist the corruption of the Old Gods. Organic matter seeping from the Old Gods' blighted forms gives birth to hideous minions, such as the [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") and link:Aqir[Aqir], who serve their masters with fanatical loyalty.
+
+They've also proven tricky to deal with on a permanent basis, particularly if they've already begun to burrow into a planet with a world-soul. Y'Shaarj has demonstrated that even killing an Old God is not necessarily an end to their evil, as even a single fragment of it became a curse on Pandaria for millennia. The Old God that attacked [Fyzandi](https://wowpedia.fandom.com/wiki/Fyzandi "Fyzandi") also illustrates this principle, as even after its death, the wasteland where it had dwelt remained, and the lingering power of the Void was sufficient enough to drive those who entered the wasteland to madness.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-48">[48]</a></sup>
+
+### Whispers
+
+Since the dawn of life on link:Azeroth[Azeroth], the Old Gods have been whispering to the subconsciousness of beings at the surface, subverting their thoughts and feelings, and sometimes driving them to great malice, complete insanity, or both.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-49">[49]</a></sup> The old whisperings urge one to do dark, terrible things. They are subtle whispers that eventually become indistinguishable from one's own thoughts.<sup id="cite_ref-TToA_41-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TToA-41">[41]</a></sup>
+
+The most notorious and tragic victim of the Old Gods' whispers is [Neltharion the Earth-Warder](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), the once-mighty [Dragon Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect") who had been empowered by the link:Titan[titan] [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth") with dominion over the deep places of the world. Yet, not even Neltharion's great wisdom and power proved capable of breaking the grip the old whisperings had on his mind, causing the Earth-Warder to eventually lose all his sanity. Neltharion renamed himself [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), seeking the genocide of all non-draconic life, the enslavement of the other dragonflights, and the release of his masters.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-50">[50]</a></sup>
+
+The [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and [Varo'then](https://wowpedia.fandom.com/wiki/Varo%27then "Varo'then") momentarily heard the whisperings when they held the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") in their grasp. Malfurion has since stated that "[Ysera's noble brood](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight") had fallen victim to the old whisperings", as well. This was a reference to the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare").<sup id="cite_ref-Furion_34-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Furion-34">[34]</a></sup> The [highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") too heard the whispers moments before what would have been her death during the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"). She accepted the Three's offer: Azshara and her Highborne would be saved, but they would become servants of the Old Gods. They were subsequently transformed into the monstrous [naga](https://wowpedia.fandom.com/wiki/Naga "Naga").<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-51">[51]</a></sup>
+
+The most striking historic account of the old whisperings, however, is found in the myths of the [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") tribes. According to them, their goddess, the [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother"), heard the whispers of the "Old Ones" in the time before time but was unswayed by them. She created the world and the elements so she could give birth to her children, [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she") and [Mu'sha](https://wowpedia.fandom.com/wiki/Mu%27sha "Mu'sha"), in a place safe from the Old Ones' corruption, and for a time the elements kept the darkness of the depths at bay. However, after the creation of the tauren and while the Earth Mother slept, the Old Ones stretched their influence across the land and whispered to the tauren, teaching them of hatred, greed, sorrow, and war. A number of the tauren were swayed by the whispers and began unleashing the elements on each other, while others "lost their light" after the darkness invaded their minds and took from them their very selves. The Earth Mother ultimately sacrificed herself, embracing the land and giving all of herself, in order to keep her creations safe from the corrupting shadows, while An'she and Mu'sha took up a place in the skies where they could chase away any traces of shadow their mother could not hold.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-52">[52]</a></sup><sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-53">[53]</a></sup> [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") acknowledged that the beings the tauren stories speak of were the Old Gods, and that their whispers penetrate even into the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream").<sup id="cite_ref-TToA_41-2"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TToA-41">[41]</a></sup>
+
+All the Old Gods encountered by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to date have whispered to them throughout the fights, trying to convince the heroes of Azeroth to turn on their allies and give in to loneliness and despair. For all the mystical and military might the Old Gods command, it is perhaps these whispers, and their penchant for manipulation, that are their greatest ability.
+
+### The Hour of Twilight
+
+_Main article: [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")_
+
+An ancient prophecy speaks of the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"), the final days of the world and if the Old Gods that were chained long ago had their way set in motion, this chain of events would enact their final vision to remake the world in their image.<sup id="cite_ref-HoT_Metzen_54-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-HoT_Metzen-54">[54]</a></sup>
+
+This, however, may be one variation of the prophecy, as the Pale Orcs of Draenor had also heard of an Hour of Twilight, one whispered to them by the Void lords themselves, stating that the Hour of Twilight is when the Void will consume all existence.
+
+## Other names
+
+The Old Gods have been called various different names by different individuals and organizations.
+
+-   Old-Gods<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-55">[55]</a></sup>
+-   Gods Below<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-56">[56]</a></sup>
+-   old lords of the earth<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-57">[57]</a></sup>
+-   Those Who Sleep<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-58">[58]</a></sup>
+-   Old Ones<sup id="cite_ref-TSc10_47-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TSc10-47">[47]</a></sup><sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-59">[59]</a></sup><sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-60">[60]</a></sup>
+-   Gods of shadow<sup id="cite_ref-Samuelson_61-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Samuelson-61">[61]</a></sup>
+-   Lords of twilight<sup id="cite_ref-Samuelson_61-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Samuelson-61">[61]</a></sup>
+-   Elder Gods<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-62">[62]</a></sup>
+-   elder beings<sup id="cite_ref-TSc10_47-2"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TSc10-47">[47]</a></sup>
+-   dark elders<sup id="cite_ref-TSc10_47-3"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TSc10-47">[47]</a></sup>
+-   dread elders<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-63">[63]</a></sup>
+
+## Mortal worship
+
+_Main article: [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Beckoner_of_Evil.jpg/revision/latest/scale-to-width-down/180?cb=20160311191046)](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Beckoner_of_Evil.jpg/revision/latest?cb=20160311191046)
+
+A priestess of link:CThun[C'Thun].
+
+“Body and soul, to be swallowed whole!”
+
+— [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+
+The Old Gods' crazed worshipers seem to spring from all of the world's cultures and peoples. The Old Gods are asleep and imprisoned deep beneath the earth, yet their power is so vast that their maddening, destructive taint seeps out from their prisons and appears to tear away at the sanity of some of link:Azeroth[Azeroth]'s inhabitants. To what extent sentient beings can fall under the influence of the Old Gods in this manner is not well understood, but those who hear the Old Whisperings most clearly have joined together in a coalition that is known as the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer").
+
+Most of these followers and cultists have lost every ounce of their sanity and have become completely unpredictable and malevolent, or were forever changed, for example into [faceless ones](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") or [elemental ascendants](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant"). Through the leadership of the [ogre-mage](https://wowpedia.fandom.com/wiki/Ogre-mage "Ogre-mage") [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall"), a powerful champion of the Old God link:CThun[C'Thun], the Twilight's Hammer became the focal point for mortal worship of the Old Gods. Large groups of the Twilight's Hammer have been observed to settle at or near sites where they believe the Old Gods or their minions are sealed away; many await C'Thun's awakening in [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus"), while others appear to serve [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") in the [Blackrock Depths](https://wowpedia.fandom.com/wiki/Blackrock_Depths "Blackrock Depths") alongside the [Dark Iron dwarves](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf").
+
+The largest concentrations of the Twilight's Hammer, however, were located at [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol") and the [Bastion of Twilight](https://wowpedia.fandom.com/wiki/Bastion_of_Twilight "Bastion of Twilight"), within a region of the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") that is now referred to as the [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands"). The link:Mantid[Mantid], a race cousin to the [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji") and [Nerubians](https://wowpedia.fandom.com/wiki/Nerubians "Nerubians"), still worship link:YShaarj[Y'Shaarj], an Old God killed by the Pantheon in ancient times.
+
+## Quotes
+
+_See also: [Whispers of C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun#Quotes "C'Thun"), [Whispers of Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron#Quotes "Yogg-Saron") and [Whispers of Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj#Quotes "Y'Shaarj")_
+
+### Whispers to Neltharion
+
+-   "The [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") will destroy the world..."
+-   "[The Well](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") is out of control..."
+-   "No one can be trusted... they want your secrets, your power..."
+-   "[Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") would take what is yours..."
+-   "[Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") seeks dominion over you..."
+-   "They are no better than [the demons](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")..."
+-   "They must be dealt with like the demons..."
+
+### Whispers to Azshara
+
+-   "There is [a way](https://wowpedia.fandom.com/wiki/Naga "Naga")... there is a way..."
+-   "You will become more than you ever were... more than you ever were..."
+-   "We can help... we can help..."
+-   "You will be more than you have ever been... and when the time comes, for what we grant you... you will serve us well..."
+
+## In Hearthstone
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Whispers_of_the_Old_Gods_key_art.jpg/revision/latest/scale-to-width-down/250?cb=20180306033341)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Whispers_of_the_Old_Gods_key_art.jpg/revision/latest?cb=20180306033341)
+
+Whispers of the Old Gods artwork.
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+The Old Gods are the main focus of the third expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_: [Whispers of the Old Gods](https://wowpedia.fandom.com/wiki/Hearthstone:_Whispers_of_the_Old_Gods "Hearthstone: Whispers of the Old Gods"). In addition to adding legendary card versions of the four Azerothian Old Gods, the expansion added a myriad of different cards related to the eldritch beings in some way — mainly in the form of [faceless ones](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi"), mortal cultists and "what-if" corrupted versions of existing characters such as the [Polluted Hoarder](https://hearthstone.fandom.com/wiki/Polluted_Hoarder "hswiki:Polluted Hoarder") ([Loot Hoarder](https://hearthstone.fandom.com/wiki/Loot_Hoarder "hswiki:Loot Hoarder")) or [Hogger, Doom of Elwynn](https://hearthstone.fandom.com/wiki/Hogger,_Doom_of_Elwynn "hswiki:Hogger, Doom of Elwynn") ([Hogger](https://wowpedia.fandom.com/wiki/Hogger "Hogger")).
+
+link:CThun[C'Thun] was the primary focus of the expansion, and was accompanied by a total of 16 different minion cards who either buffed C'Thun in various ways or activated unique effects if C'Thun had been buffed a sufficient amount of times.
+
+A mechanical version of C'Thun named [Mecha'thun](https://hearthstone.fandom.com/wiki/Mecha%27thun "hswiki:Mecha'thun") appears in _[The Boomsday Project](https://hearthstone.fandom.com/wiki/The_Boomsday_Project "hswiki:The Boomsday Project")_. This version was built by [Dr. Boom](https://wowpedia.fandom.com/wiki/Dr._Boom "Dr. Boom") "for some reason" and, contrary to the goal of its organic counterpart, seeks to end all flesh.
+
+The Old Gods returned in the sixteenth expansion, _[Madness at the Darkmoon Faire](https://hearthstone.fandom.com/wiki/Madness_at_the_Darkmoon_Faire "hswiki:Madness at the Darkmoon Faire")_, having been awakened on [Darkmoon Island](https://wowpedia.fandom.com/wiki/Darkmoon_Island "Darkmoon Island"). In addition to a new set of legendary cards for the Azerothian Old Gods, the set also added a legendary card for [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun"), as well as link:NZoth[N'Zoth] as an alternate hero for the Warlock class as a pre-order bonus. Additionally, four cards - [Mask of C'Thun](https://hearthstone.fandom.com/wiki/Mask_of_C%27Thun "hswiki:Mask of C'Thun"), [Idol of Y'Shaarj](https://hearthstone.fandom.com/wiki/Idol_of_Y%27Shaarj "hswiki:Idol of Y'Shaarj"), [Jewel of N'Zoth](https://hearthstone.fandom.com/wiki/Jewel_of_N%27Zoth "hswiki:Jewel of N'Zoth"), and [Oh My Yogg!](https://hearthstone.fandom.com/wiki/Oh_My_Yogg! "hswiki:Oh My Yogg!") - were added, calling back to the Old Gods' original effects.
+
+## Notes and trivia
+
+-   [Prospector Whelgar](https://wowpedia.fandom.com/wiki/Prospector_Whelgar "Prospector Whelgar") uncovered a large tablet called the Goaz Stone. Upon receiving the missing tablets called Ados, Modr, Golm, and Neru, he was able to translate: "Old Gods... Chained Beneath the Land."<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-64">[64]</a></sup>
+-   The [Twilight Beetle](https://wowpedia.fandom.com/wiki/Twilight_Beetle "Twilight Beetle") is an enigmatic species, said to feed off the chaotic energies of the Old Gods.
+-   According to [legend](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore"), three Old Gods ruled over a bloody chaos that even the Lords of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") could not imagine. They had ruled over the "primal plane" until the coming of the [world's creators](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"). After a war of cosmic proportions, the Old Gods fell and were cast down into eternal imprisonment. The place of their confinement was hidden from all and their powers were bound until the end of time.<sup id="cite_ref-TS_157_10-2"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TS_157-10">[10]</a></sup>
+-   Some Old God minions claimed that "They do not die; they do not live. They are outside the cycle."<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-65">[65]</a></sup> The death of link:YShaarj[Y'Shaarj] and of the Old Gods killed by [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") seem to contradict this.
+-   The Old Gods do not actually have gender. When referring to an Old God, it is better to use the gender-neutral pronoun "it" rather than "he" or "she".<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-66">[66]</a></sup>
+    -   All Old Gods that have so far appeared in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ have had male voice actors, which is likely why they are often mistakenly referred to as male.
+    -   link:YoggSaron[Yogg-Saron] is referred to as male in [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)").<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-67">[67]</a></sup>
+    -   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun") is referred to as "him" by [Grand Ma'da Ateena](https://wowpedia.fandom.com/wiki/Grand_Ma%27da_Ateena "Grand Ma'da Ateena").<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-68">[68]</a></sup>
+    -   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") refers to link:NZoth[N'Zoth] as "he" and "his" in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") and during the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") raid more than once.
+-   During _[Blizzcon 2010](https://wowpedia.fandom.com/wiki/Blizzcon_2010 "Blizzcon 2010"): Quests and lore panel,_ a person brought up the Tribunal of Ages event, pointing out that despite us players having "killed" two of the Old Gods, "we're not really seeing much calamity happening." The response from Afrasiabi was a succinct, "Have you played any Cataclysm?" followed by a, "You know, where the world blows up? Because of the Old Gods?" from Metzen.<sup id="cite_ref-Blizzcon2010_13-2"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Blizzcon2010-13">[13]</a></sup>
+    -   It was not necessarily anything related to their deaths which caused the Cataclysm. Consequences of killing an Old God were explored with the [sha](https://wowpedia.fandom.com/wiki/Sha "Sha"), and then expanded upon in _Chronicle_, which states that the only reason killing the Old Gods would destroy Azeroth is because they had embedded themselves too deep in the planet's crust for the Pantheon to tear them out without causing permanent damage to the [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").
+-   Various sources give conflicting information as to exactly how many Old Gods exist or existed on Azeroth.
+    -   The _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_ manual, as well as [the Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth") in-game book, stated that five Old Gods were chained beneath the world.<sup id="cite_ref-Ordering_28-1"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Ordering-28">[28]</a></sup><sup id="cite_ref-WCIII_79_69-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-WCIII_79-69">[69]</a></sup>
+        -   In reference to this discrepancy about the number of Old Gods found in [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth"), [Nyorloth](https://wowpedia.fandom.com/wiki/Nyorloth "Nyorloth") commented that "Perhaps to actually destroy something that lives outside of time and space, life and death, you would have to erase it from existence completely"<sup id="cite_ref-Nyorloth_70-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-Nyorloth-70">[70]</a></sup> implying that there were, in fact, originally five who landed on Azeroth, but one of them was completely destroyed. One of the possible origins of [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") refers to this comment and suggests that its counterparts were the cause of its annihilation. <sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-71">[71]</a></sup>
+    -   According to the _[War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")_, there are three Old Gods actively trying to escape their prison. There may be more, however; the Three are indicated to have formed a sort of alliance in order to escape their imprisonment. However, according to a legend Krasus describes, there were only ever three.<sup id="cite_ref-TS_157_10-3"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-TS_157-10">[10]</a></sup>
+    -   _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ finally establishes that there were four Old Gods on Azeroth, and since Y'Shaarj was slain this would agree with Krasus's statement that there were three trying to escape.
+-   The [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages"), a device created by [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") to tell a false story of the events that unfolded on Azeroth to the link:Pantheon[Pantheon] or [Algalon](https://wowpedia.fandom.com/wiki/Algalon "Algalon") in his favor, described the Old Gods as "_parasitic, necrophotic symbiotes_".<sup id="cite_ref-ToA_72-0"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-ToA-72">[72]</a></sup> "Necrophotic" is not a real English word. The term necrophotic is composed of the Greek roots necro- (> νεκρὸς/nekrós 'dead') and photo- (> φῶς/phôs 'light'). The suffix -ic describes something as having the character or form of, as of or relating to, or as having coming from or containing. The combination of roots and suffix would thus mean "having the character or form of dead light," "of, or relating, to dead light," or "coming from, or containing, dead light." This could be referring to [Shadow](https://wowpedia.fandom.com/wiki/Void "Void").
+-   In the non-canon RPG book _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, Ragnaros is called "a blazing Old God", while [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek") is suggested to be one, and [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer") is simply said to be an "old god".<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-73">[73]</a></sup> This was probably in a time where the current Old Gods had not been invented yet.
+
+## Inspiration
+
+The names and overall nature of the Old Gods are an homage to the various group of deities from the Cthulhu Mythos in the works of [H.P. Lovecraft](http://en.wikipedia.org/wiki/H.P._Lovecraft "wikipedia:H.P. Lovecraft") (first stage), [Brian Lumley](http://en.wikipedia.org/wiki/Brian_Lumley "wikipedia:Brian Lumley") (third stage), and the _Call of Cthulhu_ RPG.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-74">[74]</a></sup> C'Thun and Yogg-Saron are named after [Cthulhu](http://en.wikipedia.org/wiki/Cthulhu "wikipedia:Cthulhu") and the [Outer God](http://en.wikipedia.org/wiki/Outer_God "wikipedia:Outer God") [Yog-Sothoth](http://en.wikipedia.org/wiki/Yog-Sothoth "wikipedia:Yog-Sothoth").<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_note-75">[75]</a></sup> N'Zoth's name is most likely derived from [Zoth-Ommog](http://en.wikipedia.org/wiki/Xothic_legend_cycle#Zoth-Ommog "wikipedia:Xothic legend cycle") of [H.P. Lovecraft](http://en.wikipedia.org/wiki/H.P._Lovecraft "wikipedia:H.P. Lovecraft")'s shared [Cthulhu Mythos](http://en.wikipedia.org/wiki/Cthulhu_Mythos "wikipedia:Cthulhu Mythos"). Furthermore, the story which concerns the titans' imprisoning of the Old Gods is an inspiration from the story [August Derleth](http://en.wikipedia.org/wiki/August_Derleth "wikipedia:August Derleth") proposed as the ancient outcome of the war between the Elder Gods (represented in the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan")) and the Outer Gods (represented in the Old Gods). An alternative name of the Old Gods is the Elder Gods.
+
+## Theories and speculation
+
+_Main article: [Old Gods speculation](https://wowpedia.fandom.com/wiki/Old_Gods_speculation "Old Gods speculation")_
+
+## Gallery
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/aa/OldGods.png/revision/latest/scale-to-width-down/120?cb=20091017104914)](https://static.wikia.nocookie.net/wowpedia/images/a/aa/OldGods.png/revision/latest?cb=20091017104914)
+
+    Fan art - Full body of C'Thun.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Oldgod2.jpg/revision/latest/scale-to-width-down/120?cb=20100912050608)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Oldgod2.jpg/revision/latest?cb=20100912050608)
+
+    Fan art - Full body of C'Thun.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Yogg-Saron_Blizzard_com.jpg/revision/latest/scale-to-width-down/120?cb=20090611114735)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Yogg-Saron_Blizzard_com.jpg/revision/latest?cb=20090611114735)
+
+    Fan art of Yogg-Saron.
+
+
+## Videos
+
+<iframe title="Play video" src="//www.youtube.com/embed/w9cwR777ohA?" width="392" height="220.5" frameborder="0" allowfullscreen="true" data-orig-height="225" data-orig-width="400"></iframe>
+
+## See also
+
+-   [Contents of Mosh'Ogg Bounty](https://wowpedia.fandom.com/wiki/Contents_of_Mosh%27Ogg_Bounty "Contents of Mosh'Ogg Bounty")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-1) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 36
+2.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-2) [Yor'sahj the Unsleeping#Quotes](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping#Quotes "Yor'sahj the Unsleeping")
+3.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-3) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 14
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle36_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle36_4-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle36_4-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle36_4-3">d</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 36 - 37
+5.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-5) [Ny'alotha, the Waking City: The Corruptor's End#Notes](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City:_The_Corruptor%27s_End#Notes "Ny'alotha, the Waking City: The Corruptor's End")
+6.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-6) _[Exploring Azeroth: Northrend](https://wowpedia.fandom.com/wiki/Exploring_Azeroth:_Northrend "Exploring Azeroth: Northrend")_, pg. 15
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle21_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle21_7-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle21_7-2">c</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 21
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-LastGasp_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-LastGasp_8-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35\] [The Last Gasp of Y'Shaarj](https://wowpedia.fandom.com/wiki/The_Last_Gasp_of_Y%27Shaarj).
+9.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Patch_4.3_Raid_Preview:_Dragon_Soul_9-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Patch_4.3_Raid_Preview:_Dragon_Soul_9-1">b</a></sup> [Patch 4.3 Raid Preview: Dragon Soul](https://web.archive.org/web/20170627151842/https://worldofwarcraft.com/en-us/news/3516572)
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TS_157_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TS_157_10-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TS_157_10-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TS_157_10-3">d</a></sup> _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 157 - 158
+11.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-11) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 44 - 45
+12.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-UVG33_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-UVG33_12-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-UVG33_12-2">c</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 33
+13.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Blizzcon2010_13-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Blizzcon2010_13-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Blizzcon2010_13-2">c</a></sup> [Quests and Lore Panel, Blizzcon 2010](http://www.youtube.com/watch?v=d343AvMF4yA&t=4m55s)
+14.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-14) [N'Zoth the Corruptor](https://wowpedia.fandom.com/wiki/N%27Zoth_the_Corruptor "N'Zoth the Corruptor")
+15.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle38_15-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle38_15-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 38
+16.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-16) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 125
+17.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-17)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30R\] [C'Thun's Legacy](https://wowpedia.fandom.com/wiki/C%27Thun%27s_Legacy)
+18.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-18) [Game Guide: Ulduar](http://us.battle.net/wow/en/zone/ulduar/)
+19.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-ASKCD2_19-0) [Ask CDev Answers - Round 1](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_1 "Ask CDev"): _There are more Old Gods than just the ones trapped on Azeroth. It takes a lot for them to become manifested on a physical plane, however; ..._
+20.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle24_20-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle24_20-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 24
+21.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-21)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70D\] [Harbinger of Doom](https://wowpedia.fandom.com/wiki/Harbinger_of_Doom_(quest))
+22.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-22) [Word of the Conclave](https://wowpedia.fandom.com/wiki/Word_of_the_Conclave "Word of the Conclave")
+23.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-23) [WoW Legion: Game Systems Panel - Blizzcon 2015](https://www.youtube.com/watch?v=YMCFSDWPNa4&feature=youtu.be&t=38m54s)
+24.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-24) [Legion Class Preview Series: Priest](http://us.battle.net/wow/en/blog/19941176/)
+25.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-25) [Legion: Priest Artifact Reveal](http://eu.battle.net/wow/en/blog/19942704)
+26.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle29_26-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Chronicle29_26-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 29 - 30
+27.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-27) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 176
+28.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Ordering_28-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Ordering_28-1">b</a></sup> [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+29.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-29) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 31 - 32
+30.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Stormrage,_389_30-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Stormrage,_389_30-1">b</a></sup> _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, 389
+31.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-31) _[World of Warcraft: The Magazine Issue 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_2 "World of Warcraft: The Magazine Issue 2")_, pg. 75
+32.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-32) [Xal'atath, Blade of the Black Empire#Quotes](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire#Quotes "Xal'atath, Blade of the Black Empire")
+33.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-33) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, Prologue
+34.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Furion_34-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Furion_34-1">b</a></sup> [Malfurion Stormrage#Conversation with Remulos](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage#Conversation_with_Remulos "Malfurion Stormrage")
+35.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-35) [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+36.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-36) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 198
+37.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-37) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 86
+38.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-WCEgods_38-0) [The Warcraft Encyclopedia: Gods](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Gods "The Warcraft Encyclopedia/Gods")
+39.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-39) [http://www.worldofwarcraft.com/info/dungeons/wrath-ulduar.xml](http://www.worldofwarcraft.com/info/dungeons/wrath-ulduar.xml)
+40.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-40) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 191
+41.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TToA_41-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TToA_41-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TToA_41-2">c</a></sup> _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_
+42.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-42)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [The Diamond King](https://wowpedia.fandom.com/wiki/The_Diamond_King)
+43.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-43) World of Warcraft 2019-12-19. [Battle for Azeroth: Visions of N’Zoth Goes Live January 14](https://worldofwarcraft.com/en-us/news/23237904/battle-for-azeroth-visions-of-n-zoth-goes-live-january-14). Blizzard. Retrieved on 2019-12-19.
+44.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-44) [N'Zoth the Corruptor](https://wowpedia.fandom.com/wiki/N%27Zoth_the_Corruptor "N'Zoth the Corruptor")
+45.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-45) [Ny'alotha, the Waking City: The Corruptor's End#Notes](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City:_The_Corruptor%27s_End#Notes "Ny'alotha, the Waking City: The Corruptor's End")
+46.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-46) [BlizzCon 2014 - Krasus' words were qualified as "hyperbolic" and they are not to be taken "too literally".](https://www.youtube.com/watch?v=sYuENty20g4&t=4m43s)
+47.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TSc10_47-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TSc10_47-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TSc10_47-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-TSc10_47-3">d</a></sup> _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, chapter 10
+48.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-48) [Qadarin#Gossip](https://wowpedia.fandom.com/wiki/Qadarin#Gossip "Qadarin")
+49.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-49) [Knaak, Richard A.](https://wowpedia.fandom.com/wiki/Richard_A._Knaak "Richard A. Knaak"). _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_. [ISBN 978-0-7434-2898-9](https://wowpedia.fandom.com/wiki/Special:BookSources/9780743428989). 
+50.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-50) ~[Faces of Cataclysm: Deathwing](http://www.worldofwarcraft.com/cataclysm/features/lore.html;jsessionid=87454436A3FB5FF01063CB389120354C.blade24_02)~ _(Dead link)_
+51.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-51) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 332 - 333
+52.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-52) "[Eyes of the Earth Mother](https://wowpedia.fandom.com/wiki/Eyes_of_the_Earth_Mother "Eyes of the Earth Mother")"
+53.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-53) [Sorrow of the Earthmother](https://wowpedia.fandom.com/wiki/Sorrow_of_the_Earthmother "Sorrow of the Earthmother")
+54.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-HoT_Metzen_54-0) [World of Warcraft: Cataclysm Collector's Edition](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm_Collector%27s_Edition "World of Warcraft: Cataclysm Collector's Edition"), [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen")
+55.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-55) [Warcraft III - Firelord description](http://classic.battle.net/war3/neutral/firelord.shtml)
+56.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-56)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[30-35\] [Skullcrusher the Mountain](https://wowpedia.fandom.com/wiki/Skullcrusher_the_Mountain_(quest))
+57.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-57)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[17\] [The Master's Glaive](https://wowpedia.fandom.com/wiki/The_Master%27s_Glaive_(quest))
+58.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-58)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[25\] [Knowledge in the Deeps](https://wowpedia.fandom.com/wiki/Knowledge_in_the_Deeps)
+59.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-59)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Shadow of the Empire](https://wowpedia.fandom.com/wiki/Shadow_of_the_Empire)
+60.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-60) [Paragons of the Klaxxi#Quotes](https://wowpedia.fandom.com/wiki/Paragons_of_the_Klaxxi#Quotes "Paragons of the Klaxxi")
+61.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Samuelson_61-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Samuelson_61-1">b</a></sup> [Samuelson Unmasked#Quotes](https://wowpedia.fandom.com/wiki/Samuelson_Unmasked#Quotes "Samuelson Unmasked")
+62.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-62) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, chapter 16
+63.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-63) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, chapter 21
+64.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-64)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[28\] [Uncovering the Past](https://wowpedia.fandom.com/wiki/Uncovering_the_Past)
+65.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-65) [Herald Volazj#Quotes](https://wowpedia.fandom.com/wiki/Herald_Volazj#Quotes "Herald Volazj")
+66.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-66) [Loreology on Twitter](https://twitter.com/Loreology/status/464467581857185792) (2014-05-08) "_The Old Gods do not have gender. When referring to an Old God, use the gender-neutral pronoun "it", never "he" or "she"._"
+67.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-67) [Yogg-Saron (tactics)#Adventure Guide](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics)#Adventure_Guide "Yogg-Saron (tactics)")
+68.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-68)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[20-60\] [Containment Procedure](https://wowpedia.fandom.com/wiki/Containment_Procedure)
+69.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-WCIII_79_69-0) _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_ manual, 79
+70.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-Nyorloth_70-0) [Blizzard lore posts#Nyorloth](https://wowpedia.fandom.com/wiki/Blizzard_lore_posts#Nyorloth "Blizzard lore posts")
+71.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-71) [Word of the Conclave#Xal'atath, Blade of the Black Empire](https://wowpedia.fandom.com/wiki/Word_of_the_Conclave#Xal'atath,_Blade_of_the_Black_Empire "Word of the Conclave")
+72.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-ToA_72-0) [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+73.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-73) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 191, 117, 59
+74.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-74) [Blizzcon 2010: Art Panel HD Part 2](http://www.youtube.com/watch?v=7ZXXbyhXlF4&feature=related)
+75.  [^](https://wowpedia.fandom.com/wiki/Old_God#cite_ref-75) _[World of Warcraft: The Magazine Issue 4](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_4 "World of Warcraft: The Magazine Issue 4")_, 25
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| **Old Gods** |
+
+-   link:CThun[C'Thun]
+-   link:NZoth[N'Zoth]
+-   link:YoggSaron[Yogg-Saron]
+-   link:YShaarj[Y'Shaarj]
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters |
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") |
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   link:Aqir[Aqir]
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   link:Mantid[Mantid]
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+== Territories
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+[Groups](https://wowpedia.fandom.com/wiki/Faction "Faction")
+
+-   link:BlackEmpire[Black Empire]
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+|
+
+-   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
