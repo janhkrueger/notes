@@ -1,0 +1,139 @@
+= {subject}
+Jan H. Krueger
+:subject: Qiraji
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
+
+The **qiraji** are a race of xref:Insectoid.adoc[Insectoid] creatures based in southern xref:Silithus.adoc[Silithus]. Different types of qiraji are referred to as castes and it seems to be that every caste has a leader who are under the command of the xref:TwinEmperors.adoc[Twin Emperors]: xref:Veknilash.adoc[Vek'nilash] and xref:Veklor.adoc[Vek'lor]. The three most notable castes are the battleguards, led by xref:BattleguardSartura.adoc[Battleguard Sartura], gladiators, led by xref:GeneralRajaxx.adoc[General Rajaxx], and prophets, led by xref:TheProphetSkeram.adoc[The Prophet Skeram].
+
+## History
+
+### Origin
+
+Aftermath of the xref:AqirAndTrollWar.adoc[Aqir and Troll War] with aqir that became qiraji new home of Ahn'Qiraj.
+
+Not long after the troll empires divided the insectoid kingdom of the xref:Aqir.adoc[aqir], the aqir split in half, one group going north and the other south; The aqir who traveled north reached the icy land that would become known as Northrend evolved a spider-like shape, founding the kingdom of xref:Azjol-Nerub.adoc[Azjol-Nerub], and eventually came to be known as xref:Nerubian.adoc[nerubians]; the aqir that traveled south ransacked and overthrew a titan research station near xref:Uldum.adoc[Uldum] and enslaved the xref:Tolvir.adoc[tol'vir] based there. Converting the research station into an extensive hive, they renamed themselves the qiraji and calling their new home xref:AhnQiraj.adoc[Ahn'Qiraj].
+
+The research station also held a darker secret; it had the secondary purpose of serving as the prison of xref:CThun.adoc[C'Thun], one of the xref:OldGod.adoc[Old Gods] who had reigned over primordial Azeroth before being cast down and imprisoned by the Titans. The arrival of the qiraji turned the station from a prison into a seat of power - as the aqir had worshiped and served the Old Gods, so the qiraji chose to become the servants of C'thun. The qiraji spent the next thousands of years building an army capable of exacting revenge upon the whole of Kalimdor.
+
+A third group of aqir traveled further south to the land that would become known as [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"). They became known as the [mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid"), and fought with the [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") servants of the [titanic watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") stationed there. Comments by [Kil'ruk the Wind-Reaver](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver") suggest that the various descendants of the aqir were aware of each other and ruled much of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") together prior to the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").
+
+At some point, the qiraji and the [sand trolls](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") of the [Sandfury tribe](https://wowpedia.fandom.com/wiki/Sandfury_tribe "Sandfury tribe") were at brutal war. They failed to destroy [Zul'Farrak](https://wowpedia.fandom.com/wiki/Zul%27Farrak "Zul'Farrak") because of [Theka](https://wowpedia.fandom.com/wiki/Theka_the_Martyr "Theka the Martyr") who sacrificed himself and took dozens of the insectoid warriors with him cursing them as mindless scarabs.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-3">[3]</a></sup>
+
+### The War of the Shifting Sands
+
+_Main article: [War of the Shifting Sands](https://wowpedia.fandom.com/wiki/War_of_the_Shifting_Sands "War of the Shifting Sands")_
+
+Only the xref:NightElf.adoc[night elves], who once inhabited Silithus, stood in their way. The [War of the Shifting Sands](https://wowpedia.fandom.com/wiki/War_of_the_Shifting_Sands "War of the Shifting Sands") raged for long, agonizing months. The night elves were always on the defensive, always outnumbered, always being driven back. The whole of Silithus was soon engulfed by the [silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid") and their qiraji hosts. The night elf army was pushed back through [Un'Goro](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater "Un'Goro Crater"), to the borders of the [Tanaris](https://wowpedia.fandom.com/wiki/Tanaris "Tanaris") desert. Out of desperation, the night elven leader [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") sought the aid of the elusive [bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight"). Their initial refusal to interfere was reversed when the brazen qiraji attacked the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time"), home and province of [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), the Timeless One. Nozdormu's heir, [Anachronos](https://wowpedia.fandom.com/wiki/Anachronos "Anachronos"), agreed to enlist the bronze dragonflight against the marauding qiraji. Every able-bodied night elf joined the cause, and together they forged a campaign to retake Silithus. Even with the might of the dragons backing them, however, the sheer numbers of the qiraji and silithid proved overwhelming. And so Anachronos called upon the progeny of the remaining flights. Even so, it seemed that the numbers of qiraji and silithid were never-ending. So the dragons and Fandral hatched their final, desperate plan: to contain the qiraji within the city, to erect a barrier that would confine them until a more hopeful stratagem could be devised. With the blessing of Elune the barrier was erected before their eyes, rock and stone and roots from beneath the sands emerging to create an impenetrable wall. Even the winged soldiers who attempted to fly over the barrier met with an invisible obstruction that they could not pass. The qiraji who remained outside the wall were quickly slain. The dragon told Fandral that should any mortal ever wish to pass the magical barrier and access the ancient city, they need only strike the scepter against the gong and the gates would open. He then handed the scepter to the arch-druid.<sup id="cite_ref-The_War_of_the_Shifting_Sands_4-0"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-The_War_of_the_Shifting_Sands-4">[4]</a></sup>
+
+Hoping to contain the threat for all eternity, the arrogant Fandral then broke the scepter, both insulting and angering the bronze dragonflight. His actions that day created a rift between the allies that has existed to this day.<sup id="cite_ref-The_War_of_the_Shifting_Sands_4-1"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-The_War_of_the_Shifting_Sands-4">[4]</a></sup>
+
+### Reawakening
+
+The threat posed by the qiraji has thus remained behind its wall for thousands of years. Recently, however, the unmentionable Old God slowly awakened from his slumber beneath Ahn'Qiraj. Behind the gates of the Scarab Wall, the merciless qiraji stirred once again. Empowered by the Old God, C'Thun, the qiraji prepared their legions for a worldwide assault to avenge their bitter defeat at the hands of the night elves a thousand years ago.
+
+It was discovered that some of the qiraji were finding ways past the wall. [Anachronos](https://wowpedia.fandom.com/wiki/Anachronos "Anachronos"), the [bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon"), helped the adventurers of Azeroth open the [Scarab Wall](https://wowpedia.fandom.com/wiki/Scarab_Wall "Scarab Wall") to prevent more incursions. There was a lot of preparation both the Horde and the Alliance had to deal with before the gates could be opened. There were two primary branches of this prep work: gathering war supplies and reconstructing the Scepter of Shifting Sands. After [Shiromar](https://wowpedia.fandom.com/wiki/Shiromar "Shiromar")<sup id="cite_ref-The_War_of_the_Shifting_Sands_4-2"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-The_War_of_the_Shifting_Sands-4">[4]</a></sup> rang the gong with the Scepter the ancient gates of Ahn'Qiraj opened, revealing the horrors of a forgotten war.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-6">[6]</a></sup>
+
+### Opening of the Gate
+
+_Main article: [Ahn'Qiraj War](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_War "Ahn'Qiraj War")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Echoes_of_the_Shifting_Sands.jpg/revision/latest/scale-to-width-down/180?cb=20160212220757)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Echoes_of_the_Shifting_Sands.jpg/revision/latest?cb=20160212220757)
+
+Opening of the Gate
+
+After the Gates of Ahn'Qiraj were shattered, and the qiraji poured forth. The combined forces of the Horde and the Alliance, with [High Overlord Varok Saurfang](https://wowpedia.fandom.com/wiki/High_Overlord_Varok_Saurfang "High Overlord Varok Saurfang") as their Supreme Commander, had to stop the qiraji before they could overrun Silithus and eventually Kalimdor. The qiraji xref:GeneralRajaxx.adoc[General Rajaxx] commanded the opposing forces, and an endless flow of [silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid") and [anubisaths](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath") flooded Silithus. This battle stretched across all of Kalimdor, with qiraji [resonating crystals](https://wowpedia.fandom.com/wiki/Resonating_Crystal_Formation "Resonating Crystal Formation") summoning the insects.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-7">[7]</a></sup> Nonetheless the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor") was victorious. The last of the qiraji forces were defeated, retreating back to the ancient city-fortress of Ahn'Qiraj. The qiraji resonating crystals littering Kalimdor vanish as quickly as they appeared, leaving behind nothing but sundered earth.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-8">[8]</a></sup>
+
+Adventurers fought the qiraji and finally reached the chamber of C'Thun. After C'Thun was defeated [his remnants](https://wowpedia.fandom.com/wiki/Eye_of_C%27Thun "Eye of C'Thun") were brought to [Caelestrasz](https://wowpedia.fandom.com/wiki/Caelestrasz "Caelestrasz").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-9">[9]</a></sup>
+
+### The Burning Crusade
+
+[Harbinger Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss") is one of the qiraji entities that the naaru kept locked up within the [Arcatraz](https://wowpedia.fandom.com/wiki/Arcatraz "Arcatraz"). As a servant of the Old Gods, he seeks to usher in his masters' vision of conquering all of the [worlds](https://wowpedia.fandom.com/wiki/World "World") in the [universe](https://wowpedia.fandom.com/wiki/Warcraft_universe "Warcraft universe").<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-10">[10]</a></sup> He corrupted [Warden Mellichar](https://wowpedia.fandom.com/wiki/Warden_Mellichar "Warden Mellichar") into releasing all the prisoners within the Arcatraz.
+
+### Cataclysm
+
+During the [Elemental Invasion](https://wowpedia.fandom.com/wiki/Elemental_Invasion "Elemental Invasion"), it is revealed that some qiraji led by [Prince Sarsarun](https://wowpedia.fandom.com/wiki/Prince_Sarsarun "Prince Sarsarun") still reside in Ahn'Qiraj and some work for [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") due to their joint faith in the Old Gods. [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") led by [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") or [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") led by [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof") defeated these qiraji before they could invade [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff").
+
+Since the arrival of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), the qiraji have not been seen. Though contained, they remain a threat.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-11">[11]</a></sup>
+
+## Culture
+
+The qiraji share their progenitor's hatred of non-insectoid life and are utterly inimical to the other races. They hold a particular dislike for the Titans, who like other servants of the Old Gods they consider usurpers, and their servants.
+
+The qiraji and their servants wield items made with the rarest and finest materials: bones from gargantuan ancient creatures, gems from the depths of the earth, metals pure and strong.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-12">[12]</a></sup> The most powerful qiraji wield items of such might they'd give pause even to a dragon.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-13">[13]</a></sup> The rings worn by the qiraji lieutenants are rumored to grant them formidable abilities. The corrupted gems that adorn them could, in theory, be swapped out with more pure materials to create uncorrupted versions of the rings.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-14">[14]</a></sup>
+
+It seems that female qiraji must constantly keep their face covered.
+
+Each of the [silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid") [hives](https://wowpedia.fandom.com/wiki/Hives "Hives") in Silithus has a crystalline prism in it. They are apparently a means for the qiraji to communicate various messages and orders to the silithid.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Qiraji#cite_note-15">[15]</a></sup>
+
+## Types
+
+### Qiraji gladiator
+
+Qiraji gladiators are walking, male qiraji warriors with pincer-like claws led by xref:GeneralRajaxx.adoc[General Rajaxx]. They have human-like feet, and some of their carapace seems to be armor. They are the most common type of qiraji. They are apparently the male counterpart to the qiraji battleguards, but how qiraji actually reproduce is unknown.
+
+### Qiraji battleguard
+
+Qiraji battleguards (possibly also known as swarmguards) are flying, feminine qiraji warriors with huge insectoid eyes alongside their humanoid ones, and long scythe-like claws hidden under their sleeves. They are very fast and agile, but also less armored than other types of qiraji. It seems to be that the battleguards must constantly keep their face covered. They are apparently the female counterpart to the qiraji gladiators, but how qiraji actually reproduce is unknown. It is also unknown where their clothing ends and their carapace begins, though their shoulder guards do detach upon death.
+
+### Qiraji prophet
+
+Qiraji prophets are a type of eight-legged qiraji spellcaster who command powerful mental abilities, often able to take control of their enemies' minds and turn them against each other. Veiled by a robe, qiraji prophets have eight visible legs and three elytra used as shoulder guards and a back-plate. They have long antennae and covered faces. Their robes feature sleeves, which is odd because they have no apparent arms in them. Their breastplate also seems to be the lower half of their head, or at least hangs from under it, and features what seems to be their arms and pincers.
+
+### Qiraji emperors
+
+Qiraji emperors are a type of qiraji who command powerful psionic abilities, feeding off other nearby emperors' powers to fuel their own.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Emperor_Vek%27lor.jpg/revision/latest/scale-to-width-down/73?cb=20151029235526)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Emperor_Vek%27lor.jpg/revision/latest?cb=20151029235526)
+
+    One of the Twin Emperors
+
+
+## Named
+
+| Name | Role | Condition |
+| --- | --- | --- |
+| [![IconSmall QirajiEmperor.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/9f/IconSmall_QirajiEmperor.gif/revision/latest?cb=20200518203149) xref:Veknilash.adoc[Vek'nilash] | The brothers Vek'nilash and Vek'lor are known as the xref:TwinEmperors.adoc[Twin Emperors]. They rule over the qiraji from the sanctuary of their [temple](https://wowpedia.fandom.com/wiki/Temple_of_Ahn%27Qiraj "Temple of Ahn'Qiraj"). | Killable |
+| [![IconSmall QirajiEmperor.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/9f/IconSmall_QirajiEmperor.gif/revision/latest?cb=20200518203149) xref:Veklor.adoc[Vek'lor] | The brothers Vek'nilash and Vek'lor are known as the xref:TwinEmperors.adoc[Twin Emperors]. They rule over the qiraji from the sanctuary of their [temple](https://wowpedia.fandom.com/wiki/Temple_of_Ahn%27Qiraj "Temple of Ahn'Qiraj"). | Killable |
+| [![IconSmall QirajiProphet.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/IconSmall_QirajiProphet.gif/revision/latest?cb=20200518215604) xref:TheProphetSkeram.adoc[The Prophet Skeram] | Important religious leader in xref:AhnQiraj.adoc[Ahn'Qiraj], the author of [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun") and a boss in the [Temple of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Temple_of_Ahn%27Qiraj "Temple of Ahn'Qiraj") | Killable |
+| [![IconSmall QirajiProphet.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/IconSmall_QirajiProphet.gif/revision/latest?cb=20200518215604) [Harbinger Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss") | Kept locked up by the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") within the [Arcatraz](https://wowpedia.fandom.com/wiki/Arcatraz "Arcatraz") until he corrupted [Warden Mellichar](https://wowpedia.fandom.com/wiki/Warden_Mellichar "Warden Mellichar") into releasing all the prisoners | Killable |
+| [![IconSmall Qiraji Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Qiraji_Female.gif/revision/latest?cb=20200518221300) xref:BattleguardSartura.adoc[Battleguard Sartura] | Boss in the [Temple of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Temple_of_Ahn%27Qiraj "Temple of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) xref:GeneralRajaxx.adoc[General Rajaxx] | Commander of the qiraji armies since the [War of the Shifting Sands](https://wowpedia.fandom.com/wiki/War_of_the_Shifting_Sands "War of the Shifting Sands") and boss in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Lieutenant General Nokhor](https://wowpedia.fandom.com/wiki/Lieutenant_General_Nokhor "Lieutenant General Nokhor") | Spawns only during the [Gates of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj "Gates of Ahn'Qiraj") event | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Qiraji Brigadier General Pax-lish](https://wowpedia.fandom.com/wiki/Qiraji_Brigadier_General_Pax-lish "Qiraji Brigadier General Pax-lish") | Spawns only during the [Gates of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj "Gates of Ahn'Qiraj") event | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Qiraji Major He'al-ie](https://wowpedia.fandom.com/wiki/Qiraji_Major_He%27al-ie "Qiraji Major He'al-ie") | Spawns only during the [Gates of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj "Gates of Ahn'Qiraj") event | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Qiraji Captain Ka'ark](https://wowpedia.fandom.com/wiki/Qiraji_Captain_Ka%27ark "Qiraji Captain Ka'ark") | Spawns only during the [Gates of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj "Gates of Ahn'Qiraj") event | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Qiraji Lieutenant Jo-rel](https://wowpedia.fandom.com/wiki/Qiraji_Lieutenant_Jo-rel "Qiraji Lieutenant Jo-rel") | Spawns only during the [Gates of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj "Gates of Ahn'Qiraj") event | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Qiraji Officer Zod](https://wowpedia.fandom.com/wiki/Qiraji_Officer_Zod "Qiraji Officer Zod") | Spawns only during the [Gates of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj "Gates of Ahn'Qiraj") event | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Captain Drenn](https://wowpedia.fandom.com/wiki/Captain_Drenn "Captain Drenn") | Can be found in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Captain Qeez](https://wowpedia.fandom.com/wiki/Captain_Qeez "Captain Qeez") | Can be found in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Captain Tuubid](https://wowpedia.fandom.com/wiki/Captain_Tuubid "Captain Tuubid") | Can be found in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Captain Xurrem](https://wowpedia.fandom.com/wiki/Captain_Xurrem "Captain Xurrem") | Can be found in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Colonel Zerran](https://wowpedia.fandom.com/wiki/Colonel_Zerran "Colonel Zerran") | Can be found in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Major Pakkon](https://wowpedia.fandom.com/wiki/Major_Pakkon "Major Pakkon") | Can be found in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+| [![IconSmall Qiraji Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/IconSmall_Qiraji_Male.gif/revision/latest?cb=20200518215154) [Major Yeggeth](https://wowpedia.fandom.com/wiki/Major_Yeggeth "Major Yeggeth") | Can be found in the [Ruins of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ruins_of_Ahn%27Qiraj "Ruins of Ahn'Qiraj") | Killable |
+
+## Types
+
+-   Gladiators:
+-   Battleguards: Prophets:
+
+## As a companion pet
+
+-   [Qiraji Guardling](https://wowpedia.fandom.com/wiki/Qiraji_Guardling "Qiraji Guardling") can be captured in pet battles in xref:Silithus.adoc[Silithus] during summer (as opposed to the [Snowy Owl](https://wowpedia.fandom.com/wiki/Snowy_Owl "Snowy Owl"), which can be captured in [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring") during winter).
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Inv_misc_enchantedpearle.png/revision/latest/scale-to-width-down/16?cb=20100930220044)[\[Jewel of Maddening Whispers\]](https://wowpedia.fandom.com/wiki/Jewel_of_Maddening_Whispers) drops from xref:TheProphetSkeram.adoc[The Prophet Skeram] in the [Temple of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Temple_of_Ahn%27Qiraj "Temple of Ahn'Qiraj").
+
+## Notes
+
+
+## Patch changes
+
+-   [![Mists of Pandaria](https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "Mists of Pandaria") **[Patch 5.1.0](https://wowpedia.fandom.com/wiki/Patch_5.1.0 "Patch 5.1.0") (2012-11-27):** The majority of these creatures are now classified as Humanoids instead of being uncategorized.
+
+
+## See also
+
+-   [Origin of the races: The Evolution of the Aqir](https://wowpedia.fandom.com/wiki/Origin_of_the_Races#The_Evolution_of_the_Aqir "Origin of the Races")
