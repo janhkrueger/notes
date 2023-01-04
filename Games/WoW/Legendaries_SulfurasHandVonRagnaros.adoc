@@ -1,0 +1,26 @@
+= {subject}
+Jan H. Krueger
+:subject: Sulfuras, Hand von Ragnaros
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+
+Raid: Der Geschmolzene Kerne
+
+Erhalte Auge von Sulfuras (sehr seltener drop) von Ragnaros in Der Geschmolzene Kern
+
+Erhalte Sulfuronhammer vin einem 300+ skill Schwarzschmied
+
+Um das Schmiedekunstrezept für Sulfuronhammer zu erhalten muss ein Schmied mit Lokhtos Düsterfeilsch in der Grim Guzzler in  Die Schwarzfelstiefen wenn ein Sulfuronblock im Inventar liegt. Das Quest Ein verbindlicher Vertrag wird vergeben welches das Rezept bereit stellt.
+
+ Sulfuronhammer Rohstoffe:
+8 x  Sulfuronblock
+20 x  Dunkeleisenbarren
+50 x  Arkanitbarren
+25 x  Essenz des Feuers
+10 x  Blut des Berges
+10 x  Lavakern
+10 x  Feuerkern
+
+
+ Sulfuras, Hand von Ragnaros wird durch die Kombination von Auge von Sulfuras mit Sulfuronhammer hergestellt.
