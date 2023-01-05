@@ -1,28 +1,13 @@
-_For the Lunarfall NPCs, see [Adventurer (NPC)](https://wowpedia.fandom.com/wiki/Adventurer_(NPC) "Adventurer (NPC)"). For Covenant Sanctum followers used for [adventures](https://wowpedia.fandom.com/wiki/Adventures "Adventures"), see [adventure companion](https://wowpedia.fandom.com/wiki/Adventure_companion "Adventure companion")._
+= {subject}
+Jan H. Krueger
+:subject: Adventurer
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 3
 
-| [![Alliance & Horde](https://static.wikia.nocookie.net/wowpedia/images/9/96/Both_32.png/revision/latest?cb=20110622074333)](https://wowpedia.fandom.com/wiki/Faction "Alliance & Horde")Adventurers |
-| --- |
-| [![Fortifying Shout TCG.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/70/Fortifying_Shout_TCG.jpg/revision/latest/scale-to-width-down/260?cb=20180220191412)](https://static.wikia.nocookie.net/wowpedia/images/7/70/Fortifying_Shout_TCG.jpg/revision/latest?cb=20180220191412) |
-| Main leader | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council")  
-[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [High King](https://wowpedia.fandom.com/wiki/High_King "High King") |
-|   Formerly | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") |
-| Secondary leaders | [Horde leaders](https://wowpedia.fandom.com/wiki/Horde#Leadership "Horde")  
-[Alliance leaders](https://wowpedia.fandom.com/wiki/Alliance#Leadership "Alliance") |
-| Race(s) | [Playable races](https://wowpedia.fandom.com/wiki/Race "Race") |
-| Character classes | [Playable classes](https://wowpedia.fandom.com/wiki/Class "Class") |
-| Capital | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")  
-[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") |
-| Other major settlements | [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital"), [order halls](https://wowpedia.fandom.com/wiki/Order_Hall "Order Hall") |
-| Theater of operations | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")  
-[Outland](https://wowpedia.fandom.com/wiki/Outland "Outland")  
-[Alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)")  
-[Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")  
-[Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")  
-[Other planets](https://wowpedia.fandom.com/wiki/Planet "Planet") |
-| Affiliation | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Various others organizations](https://wowpedia.fandom.com/wiki/Organization "Organization") |
-| Status | Active |
-
-**Adventurer** is the [lore](https://wowpedia.fandom.com/wiki/Lore "Lore") name for [player characters](https://wowpedia.fandom.com/wiki/Player_character "Player character").<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Adventurer#cite_note-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Adventurer#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Adventurer#cite_note-4">[4]</a></sup><sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Adventurer#cite_note-5">[5]</a></sup> They are also referred to as **champions**, **heroes**, **commanders**, and later as **generals**, **order leaders**, and **[Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker")**. Although unnamed and numerous, it is thanks to these brave individuals that [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and worlds beyond have been saved on numerous occasions in recent times. During the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), one of each class was named leader of their [order](https://wowpedia.fandom.com/wiki/Class_Order "Class Order").
+**Adventurer** is the [lore](https://wowpedia.fandom.com/wiki/Lore "Lore") name for [player characters](https://wowpedia.fandom.com/wiki/Player_character "Player character"). They are also referred to as **champions**, **heroes**, **commanders**, and later as **generals**, **order leaders**, and **[Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker")**. Although unnamed and numerous, it is thanks to these brave individuals that [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and worlds beyond have been saved on numerous occasions in recent times. During the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), one of each class was named leader of their [order](https://wowpedia.fandom.com/wiki/Class_Order "Class Order").
 
 ## Background
 
@@ -183,7 +168,7 @@ _Main article: [Class Order](https://wowpedia.fandom.com/wiki/Class_Order "Class
 
 With the advent of the [Third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), adventurers from all around Azeroth stepped forward. Those strong enough to brave the demonic army resurrected long-forgotten [class orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") or became champions of the old. Wielding powerful legendary [weapons](https://wowpedia.fandom.com/wiki/Artifact "Artifact"), these adventurers were chosen to marshal a resistance against the [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Of these few, twelve champions from both the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") stepped forward to protect Azeroth, and brought together many notable heroes to serve alongside them.
 
-  
+
 The player-character adventurer is known among the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") itself, and their power is impressive according to [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage").<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Adventurer#cite_note-11">[11]</a></sup>
 
 They confronted the evils of the eredar homeworld of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), taking down the Legion's commanders, and defeated the titan [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)") with the aid of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"). After [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")'s imprisonment and the [wounding](https://wowpedia.fandom.com/wiki/Silithus:_The_Wound "Silithus: The Wound") of the world, the Speaker of Azeroth, [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard"), showed the champions how to use their [artifact](https://wowpedia.fandom.com/wiki/Artifact "Artifact") weapons and absorb the corrupting energy of the [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras").
