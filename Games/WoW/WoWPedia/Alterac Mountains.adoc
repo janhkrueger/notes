@@ -2,7 +2,7 @@ _For the original zone before the Cataclysm, see [Alterac Mountains (Classic)](h
 
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Alterac Mountains |
 | --- |
-| [![Ruins of Alterac.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/89/Ruins_of_Alterac.jpg/revision/latest/scale-to-width-down/260?cb=20200514183454)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Ruins_of_Alterac.jpg/revision/latest?cb=20200514183454)  
+| [![Ruins of Alterac.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/89/Ruins_of_Alterac.jpg/revision/latest/scale-to-width-down/260?cb=20200514183454)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Ruins_of_Alterac.jpg/revision/latest?cb=20200514183454)
 The [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins of Alterac") within the mountains
 
 
@@ -10,25 +10,25 @@ The [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins 
  |
 | Capital(s) | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins of Alterac") |
 |   Formerly | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") |
-| Races | [![Ogre](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)](https://wowpedia.fandom.com/wiki/Ogre "Ogre")[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Ogre_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118150603)](https://wowpedia.fandom.com/wiki/Ogre "Ogre") [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")  
-[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
-[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
-[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
-[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
-[![Kobold](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Kobold.gif/revision/latest/scale-to-width-down/16?cb=20200520131313)](https://wowpedia.fandom.com/wiki/Kobold "Kobold") [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")  
-[![Harpy](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Harpy.gif/revision/latest/scale-to-width-down/16?cb=20211118213016)](https://wowpedia.fandom.com/wiki/Harpy "Harpy") [Harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")  
-[![Gnoll](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Gnoll.gif/revision/latest/scale-to-width-down/16?cb=20220815094250)](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") [Gnoll](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll")  
+| Races | [![Ogre](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)](https://wowpedia.fandom.com/wiki/Ogre "Ogre")[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Ogre_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118150603)](https://wowpedia.fandom.com/wiki/Ogre "Ogre") [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+[![Kobold](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Kobold.gif/revision/latest/scale-to-width-down/16?cb=20200520131313)](https://wowpedia.fandom.com/wiki/Kobold "Kobold") [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+[![Harpy](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Harpy.gif/revision/latest/scale-to-width-down/16?cb=20211118213016)](https://wowpedia.fandom.com/wiki/Harpy "Harpy") [Harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")
+[![Gnoll](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Gnoll.gif/revision/latest/scale-to-width-down/16?cb=20220815094250)](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") [Gnoll](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll")
 [![Trogg](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Trogg.gif/revision/latest/scale-to-width-down/16?cb=20200520132846)](https://wowpedia.fandom.com/wiki/Trogg "Trogg") [Trogg](https://wowpedia.fandom.com/wiki/Trogg "Trogg") |
-| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") Unknown  
+| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") Unknown
 [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)[Mug'thol](https://wowpedia.fandom.com/wiki/Mug%27thol "Mug'thol") |
-| Former ruler(s) | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)[Aliden Perenolde](https://wowpedia.fandom.com/wiki/Aliden_Perenolde "Aliden Perenolde") <sup>&nbsp;†</sup>  
+| Former ruler(s) | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)[Aliden Perenolde](https://wowpedia.fandom.com/wiki/Aliden_Perenolde "Aliden Perenolde") <sup>&nbsp;†</sup>
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)[Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde") <sup>&nbsp;†</sup> |
-| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad")  
+| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad")
 [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Crushridge Hold](https://wowpedia.fandom.com/wiki/Crushridge_Hold "Crushridge Hold") |
-| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dandred's Fold](https://wowpedia.fandom.com/wiki/Dandred%27s_Fold "Dandred's Fold") (abandoned)  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Ravenholdt Manor](https://wowpedia.fandom.com/wiki/Ravenholdt_Manor "Ravenholdt Manor")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead")  
+| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dandred's Fold](https://wowpedia.fandom.com/wiki/Dandred%27s_Fold "Dandred's Fold") (abandoned)
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Ravenholdt Manor](https://wowpedia.fandom.com/wiki/Ravenholdt_Manor "Ravenholdt Manor")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead")
 [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Slaughter Hollow](https://wowpedia.fandom.com/wiki/Slaughter_Hollow "Slaughter Hollow") |
 | Affiliation | [Crushridge](https://wowpedia.fandom.com/wiki/Crushridge "Crushridge"), [Syndicate](https://wowpedia.fandom.com/wiki/Syndicate "Syndicate"), [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Stormpike Guard](https://wowpedia.fandom.com/wiki/Stormpike_Guard "Stormpike Guard"), [Stormpike clan](https://wowpedia.fandom.com/wiki/Stormpike_clan "Stormpike clan"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Ravenholdt](https://wowpedia.fandom.com/wiki/Ravenholdt "Ravenholdt") |
 | Former affiliation(s) | [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"), [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") |
@@ -62,7 +62,7 @@ After the [fall](https://wowpedia.fandom.com/wiki/Scourge_invasion_of_Quel%27Tha
 
 Kel'Thuzad opened a portal for the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") near Dalaran. After Archimonde was summoned he summoned a spell that destroyed Dalaran.
 
-After the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the area near Dalaran was a battlefield between the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and [Illidan's](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"). Illidan later used Kel'Thuzad's rift to open a portal to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").
+After the xref:ThirdWar.adoc[Third War], the area near Dalaran was a battlefield between the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and [Illidan's](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"). Illidan later used Kel'Thuzad's rift to open a portal to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").
 
 ### The Sunwell Trilogy
 
@@ -103,13 +103,13 @@ The farmlands of the kingdom of [Alterac](https://wowpedia.fandom.com/wiki/Alter
 Map of the Alterac Mountains prior to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_, before being merged with the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills").
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/WorldMap-Alterac-original.jpg/revision/latest/scale-to-width-down/120?cb=20191218132311)](https://static.wikia.nocookie.net/wowpedia/images/0/05/WorldMap-Alterac-original.jpg/revision/latest?cb=20191218132311)
-    
+
     Map of the Alterac Mountains prior to [1.5.0](https://wowpedia.fandom.com/wiki/1.5.0 "1.5.0").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/WorldMap-Alterac.jpg/revision/latest/scale-to-width-down/120?cb=20140606204949)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/WorldMap-Alterac.jpg/revision/latest?cb=20140606204949)
-    
+
     Map of the Alterac Mountains in _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ beta.
-    
+
 
 ## In the RPG
 
@@ -171,25 +171,25 @@ In the canceled _[Warcraft Adventures](https://wowpedia.fandom.com/wiki/Warcraft
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WarCraftII-TidesOfDarkness-Humans-Mission11-BetrayalAndTheDestructionOfAlterac.png/revision/latest/scale-to-width-down/120?cb=20160417133016)](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WarCraftII-TidesOfDarkness-Humans-Mission11-BetrayalAndTheDestructionOfAlterac.png/revision/latest?cb=20160417133016)
-    
+
     The Alterac City region during the Second War.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Dandred%27s_Fold.jpg/revision/latest/scale-to-width-down/120?cb=20061116121019)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Dandred%27s_Fold.jpg/revision/latest?cb=20061116121019)
-    
+
     Dandred's Fold.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/The_Uplands.jpg/revision/latest/scale-to-width-down/120?cb=20061116120737)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/The_Uplands.jpg/revision/latest?cb=20061116120737)
-    
+
     The Uplands.
-    
+
 
 Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Alterac_fan_art.jpg/revision/latest/scale-to-width-down/120?cb=20181223204902)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Alterac_fan_art.jpg/revision/latest?cb=20181223204902)
-    
+
     The Early Days of Alterac by Lost-In-Concept.
-    
+
 
 ## Speculation
 
@@ -199,8 +199,8 @@ Fan art
 
 ## Patch changes
 
--   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Zone merged into [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"). Nearly every quest involving this zone has been removed.  
-    
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Zone merged into [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"). Nearly every quest involving this zone has been removed.
+
 
 ## References
 
@@ -237,7 +237,7 @@ Fan art
 31.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-8_31-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-8_31-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-8_31-2">c</a></sup> [Warcraft Adventures: Lord of the Clans](https://wowpedia.fandom.com/wiki/Warcraft_Adventures:_Lord_of_the_Clans "Warcraft Adventures: Lord of the Clans") unreleased BETA, seen on [http://www.youtube.com/watch?v=RzLhbcFTpcI](http://www.youtube.com/watch?v=RzLhbcFTpcI)
 32.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-32) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, _[Nations of the Alliance](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#Stromgarde "Warcraft II: Tides of Darkness manual")_, Stromgarde
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Hillsbrad_Foothills "Template:Hillsbrad Foothills")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Hillsbrad_Foothills?action=edit)
 
@@ -248,11 +248,11 @@ Fan art
  |
 | --- |
 |  |
-| 
+|
 
 [![Hillsbrad Foothills is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Hillsbrad Foothills is a contested territory")
 
- | 
+ |
 
 -   [Azurelode Mine](https://wowpedia.fandom.com/wiki/Azurelode_Mine "Azurelode Mine")
 -   [Darrow Hill](https://wowpedia.fandom.com/wiki/Darrow_Hill "Darrow Hill")
@@ -275,14 +275,14 @@ Fan art
 
 
 
- | 
+ |
 
-[![Map of Hillsbrad Foothills - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest/scale-to-width-down/120?cb=20140216142816)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest?cb=20140216142816 "Map of Hillsbrad Foothills - Cataclysm")  
+[![Map of Hillsbrad Foothills - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest/scale-to-width-down/120?cb=20140216142816)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest?cb=20140216142816 "Map of Hillsbrad Foothills - Cataclysm")
 [![Map of Hillsbrad Foothills - Classic](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-Hillsbrad.jpg/revision/latest/scale-to-width-down/120?cb=20180205214426)](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-Hillsbrad.jpg/revision/latest?cb=20180205214426 "Map of Hillsbrad Foothills - Classic")
 
  |
 |  |
-| 
+|
 
 -   **Alterac Mountains** — [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead")/[Lordamere Internment Camp](https://wowpedia.fandom.com/wiki/Lordamere_Internment_Camp "Lordamere Internment Camp")
 -   [Chillwind Point](https://wowpedia.fandom.com/wiki/Chillwind_Point "Chillwind Point")
@@ -307,7 +307,7 @@ Fan art
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Baradin Bay](https://wowpedia.fandom.com/wiki/Baradin_Bay "Baradin Bay")
 -   [Darrowmere River](https://wowpedia.fandom.com/wiki/Darrowmere_River "Darrowmere River")
@@ -317,7 +317,7 @@ Fan art
 
  |
 |  |
-| 
+|
 
 [Hillsbrad Foothills category](https://wowpedia.fandom.com/wiki/Category:Hillsbrad_Foothills "Category:Hillsbrad Foothills")
 
@@ -325,7 +325,7 @@ Fan art
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms "Template:Eastern Kingdoms")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms?action=edit)
 
@@ -336,7 +336,7 @@ Fan art
  |
 | --- |
 |  |
-| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") | 
+| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") |
 
 -   [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands")
     -   [Classic](https://wowpedia.fandom.com/wiki/Blasted_Lands_(Classic) "Blasted Lands (Classic)")
@@ -362,13 +362,13 @@ Fan art
 
 
 
- | 
+ |
 
 [![Map of the Eastern Kingdoms](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest/scale-to-width-down/120?cb=20220313123633)](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest?cb=20220313123633 "Map of the Eastern Kingdoms")
 
  |
 |  |
-| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") | 
+| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") |
 
 -   [The Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands")
     -   [Classic](https://wowpedia.fandom.com/wiki/Badlands_(Classic) "Badlands (Classic)")
@@ -388,7 +388,7 @@ Fan art
 
  |
 |  |
-| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") | 
+| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") |
 
 -   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains_(Classic) "Alterac Mountains (Classic)")
 -   [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands")
@@ -423,7 +423,7 @@ Fan art
 
  |
 |  |
-| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") | 
+| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") |
 
 -   [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths")
 -   [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest")
@@ -433,7 +433,7 @@ Fan art
 
  |
 |  |
-| 
+|
 
 [Eastern Kingdoms category](https://wowpedia.fandom.com/wiki/Category:Eastern_Kingdoms "Category:Eastern Kingdoms")
 

@@ -2,20 +2,20 @@ _For Maelstrom as an in-game resource, see [Maelstrom (game resource)](https://w
 
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")The Maelstrom |
 | --- |
-| [![Cataclysm Maelstrom loading screen.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/75/Cataclysm_Maelstrom_loading_screen.jpg/revision/latest/scale-to-width-down/260?cb=20180320124617)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Cataclysm_Maelstrom_loading_screen.jpg/revision/latest?cb=20180320124617)  
+| [![Cataclysm Maelstrom loading screen.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/75/Cataclysm_Maelstrom_loading_screen.jpg/revision/latest/scale-to-width-down/260?cb=20180320124617)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Cataclysm_Maelstrom_loading_screen.jpg/revision/latest?cb=20180320124617)
 Loading screen as of [patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a")
 
 
 
  |
-| Races | [![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
-[![Broken](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)](https://wowpedia.fandom.com/wiki/Broken "Broken") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")  
-[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
-[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
-[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")  
-[![Troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Troll "Troll")[![Troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Troll "Troll") [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")  
-[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")  
-[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/6/69/IconSmall_Pandaren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015751)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Pandaren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020747)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")  
+| Races | [![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+[![Broken](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)](https://wowpedia.fandom.com/wiki/Broken "Broken") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
+[![Troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Troll "Troll")[![Troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Troll "Troll") [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")
+[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/6/69/IconSmall_Pandaren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015751)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Pandaren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020747)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
 [![Elemental](https://static.wikia.nocookie.net/wowpedia/images/4/4a/IconSmall_Air.gif/revision/latest/scale-to-width-down/16?cb=20211129111458)](https://wowpedia.fandom.com/wiki/Elemental "Elemental")[![Elemental](https://static.wikia.nocookie.net/wowpedia/images/a/ad/IconSmall_Earth.gif/revision/latest/scale-to-width-down/16?cb=20211129113137)](https://wowpedia.fandom.com/wiki/Elemental "Elemental")[![Elemental](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Fire.gif/revision/latest/scale-to-width-down/16?cb=20211129113349)](https://wowpedia.fandom.com/wiki/Elemental "Elemental")[![Elemental](https://static.wikia.nocookie.net/wowpedia/images/a/a3/IconSmall_Water.gif/revision/latest/scale-to-width-down/16?cb=20211129113948)](https://wowpedia.fandom.com/wiki/Elemental "Elemental") [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental") |
 | Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Heart of Azeroth](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth_(Class_Hall) "Heart of Azeroth (Class Hall)") |
 | Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Primordial Observatory](https://wowpedia.fandom.com/wiki/Primordial_Observatory "Primordial Observatory") |
@@ -41,7 +41,7 @@ At the center of the new sea, where the [Well of Eternity](https://wowpedia.fand
 
 ### Third War
 
-During the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")'s fleet crashed and they made an emergency landing on [an island](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands") near the Maelstrom, where they found a group of [jungle trolls](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") fighting desperately against [human](https://wowpedia.fandom.com/wiki/Human "Human") colonists and [murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc") invaders.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Maelstrom#cite_note-4">[4]</a></sup> The island was destroyed by [Zar'jira](https://wowpedia.fandom.com/wiki/Zar%27jira "Zar'jira"), with Thrall and his allies barely escaping.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Maelstrom#cite_note-5">[5]</a></sup>
+During the xref:ThirdWar.adoc[Third War], [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")'s fleet crashed and they made an emergency landing on [an island](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands") near the Maelstrom, where they found a group of [jungle trolls](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") fighting desperately against [human](https://wowpedia.fandom.com/wiki/Human "Human") colonists and [murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc") invaders.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Maelstrom#cite_note-4">[4]</a></sup> The island was destroyed by [Zar'jira](https://wowpedia.fandom.com/wiki/Zar%27jira "Zar'jira"), with Thrall and his allies barely escaping.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Maelstrom#cite_note-5">[5]</a></sup>
 
 ### Cataclysm
 
@@ -82,7 +82,7 @@ Zone map of the Maelstrom.
 Continent map of the Maelstrom.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/WorldMap-MaelstromShaman.jpg/revision/latest/scale-to-width-down/120?cb=20170607021957)](https://static.wikia.nocookie.net/wowpedia/images/b/be/WorldMap-MaelstromShaman.jpg/revision/latest?cb=20170607021957)
-    
+
 
 ### Regions adjacent to the Maelstrom
 
@@ -123,17 +123,17 @@ The two first World of Warcraft expansions, _[The Burning Cruade](https://wowped
     -   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") holds two [titan](https://wowpedia.fandom.com/wiki/Titan "Titan")\-made globes of Azeroth. The Maelstrom can be seen on these.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/WorldMap-Cosmic-old.jpg/revision/latest/scale-to-width-down/120?cb=20180819231945)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/WorldMap-Cosmic-old.jpg/revision/latest?cb=20180819231945)
-    
+
     Map of Outland and Azeroth.
-    
+
 -   [](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Azerothshadowmoonvalley.JPG/revision/latest?cb=20070720061931)
-    
+
     Azeroth, and the Maelstrom, seen from Outland.
-    
+
 -   [](https://static.wikia.nocookie.net/wowpedia/images/1/1f/HoL_Maelstrom.PNG/revision/latest?cb=20130101191141)
-    
+
     The Maelstrom on an Azeroth globe in Ulduar.
-    
+
 
 ### In Cataclysm
 
@@ -175,62 +175,62 @@ The Maelstrom is just northwest of the [Broken Isles](https://wowpedia.fandom.co
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Maelstrom_concept_art.jpg/revision/latest/scale-to-width-down/120?cb=20100910041713)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Maelstrom_concept_art.jpg/revision/latest?cb=20100910041713)
-    
+
     Concept art.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/89/TheMaelstrom2.jpg/revision/latest/scale-to-width-down/120?cb=20101103173226)](https://static.wikia.nocookie.net/wowpedia/images/8/89/TheMaelstrom2.jpg/revision/latest?cb=20101103173226)
-    
+
     Complete view from an earlier build.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/TheMaelstrom3.jpg/revision/latest/scale-to-width-down/120?cb=20101103173959)](https://static.wikia.nocookie.net/wowpedia/images/3/34/TheMaelstrom3.jpg/revision/latest?cb=20101103173959)
-    
+
     Closer view.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Maelstrom.jpg/revision/latest/scale-to-width-down/120?cb=20100801151945)](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Maelstrom.jpg/revision/latest?cb=20100801151945)
-    
+
     Entering the Maelstrom.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Deepholm0.png/revision/latest/scale-to-width-down/120?cb=20101117223222)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Deepholm0.png/revision/latest?cb=20101117223222)
-    
+
     Flying into Deepholm from the Maelstrom.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Madness_of_Deathwing_background.jpg/revision/latest/scale-to-width-down/120?cb=20160413135832)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Madness_of_Deathwing_background.jpg/revision/latest?cb=20160413135832)
-    
+
     Deathwing in his final moments in the Maelstrom.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Azeroth_from_Space.jpg/revision/latest/scale-to-width-down/120?cb=20171129202750)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Azeroth_from_Space.jpg/revision/latest?cb=20171129202750)
-    
+
     The Maelstrom is seen on Azeroth from space.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/37/Army_of_the_Light_7.3.jpg/revision/latest/scale-to-width-down/120?cb=20170824083725)](https://static.wikia.nocookie.net/wowpedia/images/3/37/Army_of_the_Light_7.3.jpg/revision/latest?cb=20170824083725)
-    
+
 
 Maps
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/41/WC3-D04.jpg/revision/latest/scale-to-width-down/120?cb=20101201070105)](https://static.wikia.nocookie.net/wowpedia/images/4/41/WC3-D04.jpg/revision/latest?cb=20101201070105)
-    
+
 
 -   [](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Maelstromundersea.PNG/revision/latest?cb=20070305205636)
-    
+
     Underneath [the Eye](https://wowpedia.fandom.com/wiki/Eye_(Maelstrom) "Eye (Maelstrom)") in the non-canon RPG.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Maelstwow.jpg/revision/latest/scale-to-width-down/120?cb=20080215151914)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Maelstwow.jpg/revision/latest?cb=20080215151914)
-    
+
     The Maelstrom's location in _World of Warcraft_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Chronicle_-_Map_of_Azeroth.jpg/revision/latest/scale-to-width-down/120?cb=20180325215922)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Chronicle_-_Map_of_Azeroth.jpg/revision/latest?cb=20180325215922)
-    
+
     The Maelstrom in _Chronicle Volume 1_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Chron3_map_of_Azeroth_after_the_Cataclysm.jpg/revision/latest/scale-to-width-down/120?cb=20180328215952)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Chron3_map_of_Azeroth_after_the_Cataclysm.jpg/revision/latest?cb=20180328215952)
-    
+
     The Maelstrom in _Chronicle Volume 3_.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/120?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450)
-    
+
 
 ## Videos
 
@@ -264,7 +264,7 @@ Maps
 
 <table><tbody><tr><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=5416">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/5416">WoWDB</a></li></ul></td><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=5630">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/5630">WoWDB</a></li></ul></td></tr></tbody></table>
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Maelstrom "Template:Maelstrom")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Maelstrom?action=edit)
 
@@ -275,11 +275,11 @@ Maps
  |
 | --- |
 |  |
-| 
+|
 
 [![Map of the Maelstrom (continent)](https://static.wikia.nocookie.net/wowpedia/images/3/36/WorldMap-TheMaelstromContinent.jpg/revision/latest/scale-to-width-down/120?cb=20100918211224)](https://static.wikia.nocookie.net/wowpedia/images/3/36/WorldMap-TheMaelstromContinent.jpg/revision/latest?cb=20100918211224 "Map of the Maelstrom (continent)")
 
- | 
+ |
 
 -   **The Maelstrom** — [![Shaman](https://static.wikia.nocookie.net/wowpedia/images/0/00/ClassIcon_shaman.png/revision/latest/scale-to-width-down/16?cb=20170130100927)](https://wowpedia.fandom.com/wiki/Shaman "Shaman") [The Heart of Azeroth](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth_(Class_Hall) "Heart of Azeroth (Class Hall)")
     -   [Storm's Eye Overlook](https://wowpedia.fandom.com/wiki/Storm%27s_Eye_Overlook "Storm's Eye Overlook")
@@ -288,13 +288,13 @@ Maps
 
 
 
- | 
+ |
 
 [![Map of the Maelstrom (zone)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/WorldMap-TheMaelstrom.jpg/revision/latest/scale-to-width-down/120?cb=20100910002029)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/WorldMap-TheMaelstrom.jpg/revision/latest?cb=20100910002029 "Map of the Maelstrom (zone)")
 
  |
 |  |
-| 
+|
 
 -   [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm")
 -   [Kezan](https://wowpedia.fandom.com/wiki/Kezan "Kezan")
@@ -305,7 +305,7 @@ Maps
 
  |
 |  |
-| 
+|
 
 [Maelstrom category](https://wowpedia.fandom.com/wiki/Category:Maelstrom "Category:Maelstrom")
 
@@ -313,7 +313,7 @@ Maps
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth "Template:Azeroth")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth?action=edit)
 
@@ -324,7 +324,7 @@ Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https:
  |
 | --- |
 |  |
-| [Continents](https://wowpedia.fandom.com/wiki/Continent "Continent") | 
+| [Continents](https://wowpedia.fandom.com/wiki/Continent "Continent") |
 
 -   [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
     -   [Balor](https://wowpedia.fandom.com/wiki/Balor "Balor")
@@ -340,13 +340,13 @@ Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https:
 
 
 
- | 
+ |
 
 [![Map of Azeroth](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/120?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450 "Map of Azeroth")
 
  |
 |  |
-| [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") | 
+| [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") |
 
 -   [Barren Atol](https://wowpedia.fandom.com/wiki/Barren_Atol "Barren Atol")
 -   [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles")
@@ -373,8 +373,8 @@ Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https:
 
  |
 |  |
-| Other [seas](https://wowpedia.fandom.com/wiki/Sea "Sea")  
-and [islands](https://wowpedia.fandom.com/wiki/Island "Island") | 
+| Other [seas](https://wowpedia.fandom.com/wiki/Sea "Sea")
+and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
 -   [The Forbidding Sea](https://wowpedia.fandom.com/wiki/Forbidding_Sea "Forbidding Sea")
 -   [Island Expeditions](https://wowpedia.fandom.com/wiki/Island_Expedition#Islands "Island Expedition")
@@ -391,7 +391,7 @@ and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
  |
 |  |
-| Miscellaneous | 
+| Miscellaneous |
 
 -   [Avaloren](https://wowpedia.fandom.com/wiki/Avaloren "Avaloren")
 -   [Khaz Algar](https://wowpedia.fandom.com/wiki/Khaz_Algar "Khaz Algar")
@@ -401,7 +401,7 @@ and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
  |
 |  |
-| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") |
 
 -   [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane")
 -   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
@@ -412,7 +412,7 @@ and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
  |
 |  |
-| 
+|
 
 [Azeroth category](https://wowpedia.fandom.com/wiki/Category:Azeroth "Category:Azeroth")
 

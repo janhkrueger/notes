@@ -2,7 +2,7 @@
 
 They are [immortal](https://wowpedia.fandom.com/wiki/Immortal "Immortal"), but they are neither omniscient nor omnipotent. Otherwise, among other things, they would have known immediately of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s first invasion, and they would have been able to thwart it with ease.<sup id="cite_ref-EnDemigods_2-1"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
 
-Sadly there is no question as to whether or not a demigod can be slain. Several demigods were killed during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), overwhelmed by [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"). In a far more recent tragedy, [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") was killed during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") by mortals under the influence of demon blood: a group of orcs led by [Grom Hellscream](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream").<sup id="cite_ref-EnDemigods_2-2"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
+Sadly there is no question as to whether or not a demigod can be slain. Several demigods were killed during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), overwhelmed by [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"). In a far more recent tragedy, [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") was killed during the xref:ThirdWar.adoc[Third War] by mortals under the influence of demon blood: a group of orcs led by [Grom Hellscream](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream").<sup id="cite_ref-EnDemigods_2-2"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
 
 ## List
 
@@ -49,7 +49,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
 ## References
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
 
@@ -60,7 +60,7 @@ There are many demigods, but only a few mortals have been called demigods due to
  |
 | --- |
 |  |
-| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") |
 
 -   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
 -   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
@@ -76,7 +76,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") |
 
 -   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
 -   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
@@ -90,7 +90,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
@@ -103,7 +103,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") |
 
 -   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
 -   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
@@ -132,7 +132,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") |
 
 -   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
 -   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
@@ -178,7 +178,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") |
 
 -   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
 -   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
@@ -191,7 +191,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
 -   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
@@ -248,7 +248,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive |
 
 -   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
 -   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
@@ -261,7 +261,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| 
+|
 
 -   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
 -   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
@@ -279,7 +279,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs "Template:Religions and beliefs")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs?action=edit)
 
@@ -290,7 +290,7 @@ There are many demigods, but only a few mortals have been called demigods due to
  |
 | --- |
 |  |
-| [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") | 
+| [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") |
 
 -   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
     -   [alternate](https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe) "Shadow Council (alternate universe)")
@@ -304,7 +304,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Holy](https://wowpedia.fandom.com/wiki/Light "Light") | 
+| [Holy](https://wowpedia.fandom.com/wiki/Light "Light") |
 
 -   [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")
 -   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
@@ -315,7 +315,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Shadow](https://wowpedia.fandom.com/wiki/Void "Void") | 
+| [Shadow](https://wowpedia.fandom.com/wiki/Void "Void") |
 
 -   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
 -   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
@@ -328,7 +328,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature") | 
+| [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature") |
 
 -   [Druidism](https://wowpedia.fandom.com/wiki/Druid "Druid")
 -   [Geomancy](https://wowpedia.fandom.com/wiki/Geomancer "Geomancer")
@@ -338,7 +338,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [Necromantic](https://wowpedia.fandom.com/wiki/Necromantic "Necromantic") | 
+| [Necromantic](https://wowpedia.fandom.com/wiki/Necromantic "Necromantic") |
 
 -   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
 
@@ -346,7 +346,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Arkkoran](https://wowpedia.fandom.com/wiki/Arkkoran "Arkkoran")
 -   [Cult of Ragnaros](https://wowpedia.fandom.com/wiki/Cult_of_Ragnaros "Cult of Ragnaros")
@@ -363,7 +363,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
  |
 |  |
-| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") | 
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") |
 
 -   [Arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") ([Echo of Life](https://wowpedia.fandom.com/wiki/Echo_of_Life "Echo of Life"))
 -   [Cult of the Burning Legion](https://wowpedia.fandom.com/wiki/Cult_of_the_Burning_Legion "Cult of the Burning Legion")

@@ -8,7 +8,7 @@ Peter Lee's 2008 concept of the remnants of Dalaran bordering Alterac Mountains.
 
 Dalaran in-game, prior to _Wrath of the Lich King_
 
-**Dalaran Crater** is an area in the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") located at the west end, on the shores of [Lordamere Lake](https://wowpedia.fandom.com/wiki/Lordamere_Lake "Lordamere Lake"). It is north of [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead"), the former [Lordamere Internment Camp](https://wowpedia.fandom.com/wiki/Lordamere_Internment_Camp "Lordamere Internment Camp"), and just east of [Silverpine](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest"). It is a massive crater where the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") once stood, which was destroyed during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). The region was once patrolled by Dalaran wizards and their rock elemental minions, who were leveled in their mid-thirties. The NPCs that remain around the crater are friendly to the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and hostile to the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
+**Dalaran Crater** is an area in the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") located at the west end, on the shores of [Lordamere Lake](https://wowpedia.fandom.com/wiki/Lordamere_Lake "Lordamere Lake"). It is north of [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead"), the former [Lordamere Internment Camp](https://wowpedia.fandom.com/wiki/Lordamere_Internment_Camp "Lordamere Internment Camp"), and just east of [Silverpine](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest"). It is a massive crater where the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") once stood, which was destroyed during the xref:ThirdWar.adoc[Third War]. The region was once patrolled by Dalaran wizards and their rock elemental minions, who were leveled in their mid-thirties. The NPCs that remain around the crater are friendly to the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and hostile to the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
 
 ## History
 
@@ -44,8 +44,8 @@ As of the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wik
 
 ## Notes and trivia
 
--   [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") had his secret lair near the ruins of Dalaran.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Dalaran_Crater#cite_note-4">[4]</a></sup> Similarly, [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") and [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner") lived somewhere near the ruins as well after the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). Near their home, there was a friendly town.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Dalaran_Crater#cite_note-5">[5]</a></sup> The town could be [Hillsbrad Fields](https://wowpedia.fandom.com/wiki/Hillsbrad_Fields "Hillsbrad Fields"), [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill") or an unseen town.
--   Among the remains of the city around the crater following the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), there are ruins of houses, barns, camps, towers and walls, and even a gallows.
+-   [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") had his secret lair near the ruins of Dalaran.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Dalaran_Crater#cite_note-4">[4]</a></sup> Similarly, [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") and [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner") lived somewhere near the ruins as well after the xref:ThirdWar.adoc[Third War]. Near their home, there was a friendly town.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Dalaran_Crater#cite_note-5">[5]</a></sup> The town could be [Hillsbrad Fields](https://wowpedia.fandom.com/wiki/Hillsbrad_Fields "Hillsbrad Fields"), [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill") or an unseen town.
+-   Among the remains of the city around the crater following the xref:ThirdWar.adoc[Third War], there are ruins of houses, barns, camps, towers and walls, and even a gallows.
     -   On a hill overlooking the crater, was formerly present the remnants of the [Lordamere Internment Camp](https://wowpedia.fandom.com/wiki/Lordamere_Internment_Camp "Lordamere Internment Camp").
 -   The Dalaran Ruins are a melee [tileset](https://wowpedia.fandom.com/wiki/Tileset "Tileset") in _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
 -   If you happen to accidentally fall into the crater, or wish to explore the bottom, there are three glowing "paths" - signs of the ley lines that ran under the city - that can guide you in and out of the crater safely.
@@ -53,45 +53,45 @@ As of the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wik
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/WorldMap-Alterac-old.jpg/revision/latest/scale-to-width-down/120?cb=20081222011409)](https://static.wikia.nocookie.net/wowpedia/images/2/22/WorldMap-Alterac-old.jpg/revision/latest?cb=20081222011409)
-    
+
     Alterac Mountains zone map in _Wrath of the Lich King_ with Dalaran Crater.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest/scale-to-width-down/120?cb=20140216142816)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest?cb=20140216142816)
-    
+
     Hillsbrad Foothills zone map.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/WorldMap-Alterac.jpg/revision/latest/scale-to-width-down/120?cb=20140606204949)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/WorldMap-Alterac.jpg/revision/latest?cb=20140606204949)
-    
+
     Cataclysm beta map of the Alterac Mountains.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Dalaran_Crater_close_dome.jpg/revision/latest/scale-to-width-down/120?cb=20080815161958)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Dalaran_Crater_close_dome.jpg/revision/latest?cb=20080815161958)
-    
+
     Full "weaker" dome around the crater.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Dalaran_hole_1.jpg/revision/latest/scale-to-width-down/120?cb=20080718210313)](https://static.wikia.nocookie.net/wowpedia/images/9/94/Dalaran_hole_1.jpg/revision/latest?cb=20080718210313)
-    
+
     Looking through "weaker" dome.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Dalaran_hole_2.jpg/revision/latest/scale-to-width-down/120?cb=20080718210313)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Dalaran_hole_2.jpg/revision/latest?cb=20080718210313)
-    
+
     More distant view of dome and crater.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Dalaran_hole_3.jpg/revision/latest/scale-to-width-down/120?cb=20080718210314)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Dalaran_hole_3.jpg/revision/latest?cb=20080718210314)
-    
+
     Deeper in crater.
-    
+
 
 Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/51/Fanart_-_The_Golden_Days_of_Dalaran_by_Lost_In_Concept.jpg/revision/latest/scale-to-width-down/120?cb=20181223212042)](https://static.wikia.nocookie.net/wowpedia/images/5/51/Fanart_-_The_Golden_Days_of_Dalaran_by_Lost_In_Concept.jpg/revision/latest?cb=20181223212042)
-    
+
     The Golden Days of Dalaran by Lost-In-Concept.
-    
+
 
 ## Patch changes
 
--   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.  
-    
+-   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.
+
 
 ## References
 
@@ -100,7 +100,7 @@ Fan art
 -   [Wowhead](https://www.wowhead.com/zone=279)
 -   [WoWDB](https://www.wowdb.com/zones/279)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Hillsbrad_Foothills "Template:Hillsbrad Foothills")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Hillsbrad_Foothills?action=edit)
 
@@ -111,11 +111,11 @@ Fan art
  |
 | --- |
 |  |
-| 
+|
 
 [![Hillsbrad Foothills is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Hillsbrad Foothills is a contested territory")
 
- | 
+ |
 
 -   [Azurelode Mine](https://wowpedia.fandom.com/wiki/Azurelode_Mine "Azurelode Mine")
 -   [Darrow Hill](https://wowpedia.fandom.com/wiki/Darrow_Hill "Darrow Hill")
@@ -138,14 +138,14 @@ Fan art
 
 
 
- | 
+ |
 
-[![Map of Hillsbrad Foothills - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest/scale-to-width-down/120?cb=20140216142816)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest?cb=20140216142816 "Map of Hillsbrad Foothills - Cataclysm")  
+[![Map of Hillsbrad Foothills - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest/scale-to-width-down/120?cb=20140216142816)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest?cb=20140216142816 "Map of Hillsbrad Foothills - Cataclysm")
 [![Map of Hillsbrad Foothills - Classic](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-Hillsbrad.jpg/revision/latest/scale-to-width-down/120?cb=20180205214426)](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-Hillsbrad.jpg/revision/latest?cb=20180205214426 "Map of Hillsbrad Foothills - Classic")
 
  |
 |  |
-| 
+|
 
 -   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains") — [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead")/[Lordamere Internment Camp](https://wowpedia.fandom.com/wiki/Lordamere_Internment_Camp "Lordamere Internment Camp")
 -   [Chillwind Point](https://wowpedia.fandom.com/wiki/Chillwind_Point "Chillwind Point")
@@ -170,7 +170,7 @@ Fan art
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Baradin Bay](https://wowpedia.fandom.com/wiki/Baradin_Bay "Baradin Bay")
 -   [Darrowmere River](https://wowpedia.fandom.com/wiki/Darrowmere_River "Darrowmere River")
@@ -180,7 +180,7 @@ Fan art
 
  |
 |  |
-| 
+|
 
 [Hillsbrad Foothills category](https://wowpedia.fandom.com/wiki/Category:Hillsbrad_Foothills "Category:Hillsbrad Foothills")
 

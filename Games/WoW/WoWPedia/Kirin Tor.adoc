@@ -4,7 +4,7 @@
 Kirin Tor banner
 
  |
-| Main leader | 
+| Main leader |
 
 [The Council of Six](https://wowpedia.fandom.com/wiki/The_Council_of_Six "The Council of Six")
 
@@ -16,36 +16,36 @@ Kirin Tor banner
     -    ![](https://static.wikia.nocookie.net/wowpedia/images/d/db/IconSmall_Vargoth.gif/revision/latest/scale-to-width-down/16?cb=20180222095914)[Vargoth](https://wowpedia.fandom.com/wiki/Vargoth "Vargoth")
 
  |
-| Race(s) | [![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_KulTiran_Male.gif/revision/latest/scale-to-width-down/16?cb=20200528184852)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/f/ff/IconSmall_KulTiran_Female.gif/revision/latest/scale-to-width-down/16?cb=20200528205801)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
-[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
-[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
-[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")  
-[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
-[![Dark Iron dwarf](https://static.wikia.nocookie.net/wowpedia/images/7/70/IconSmall_DarkIron_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520041546)](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")[![Dark Iron dwarf](https://static.wikia.nocookie.net/wowpedia/images/1/1e/IconSmall_DarkIron_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520041914)](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf") [Dark Iron dwarf](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")  
-[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
-[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")  
-[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Worgen_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520012351)](https://wowpedia.fandom.com/wiki/Worgen "Worgen")[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Worgen_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520022309)](https://wowpedia.fandom.com/wiki/Worgen "Worgen") [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")  
-[![Lightforged draenei](https://static.wikia.nocookie.net/wowpedia/images/5/57/IconSmall_Lightforged_Male.gif/revision/latest/scale-to-width-down/16?cb=20200528212053)](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")[![Lightforged draenei](https://static.wikia.nocookie.net/wowpedia/images/9/96/IconSmall_Lightforged_Female.gif/revision/latest/scale-to-width-down/16?cb=20200528214944)](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei") [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")  
-[![Mechagon mechagnome](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Junker_Male.gif/revision/latest/scale-to-width-down/16?cb=20191009084825)](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")[![Mechagon mechagnome](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Junker_Female.gif/revision/latest/scale-to-width-down/16?cb=20191009085332)](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome") [Mechagon mechagnome](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")  
-[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/6/69/IconSmall_Pandaren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015751)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Pandaren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020747)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")  
-[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
-[![Jungle troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")[![Jungle troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")  
-[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
-[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")  
-[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Nightborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20181218105426)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")  
-[![Zandalari troll](https://static.wikia.nocookie.net/wowpedia/images/c/c3/IconSmall_Zandalari_Male.gif/revision/latest/scale-to-width-down/16?cb=20190210213621)](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")[![Zandalari troll](https://static.wikia.nocookie.net/wowpedia/images/9/91/IconSmall_Zandalari_Female.gif/revision/latest/scale-to-width-down/16?cb=20190210213702)](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll") [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")  
+| Race(s) | [![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_KulTiran_Male.gif/revision/latest/scale-to-width-down/16?cb=20200528184852)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/f/ff/IconSmall_KulTiran_Female.gif/revision/latest/scale-to-width-down/16?cb=20200528205801)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+[![Dark Iron dwarf](https://static.wikia.nocookie.net/wowpedia/images/7/70/IconSmall_DarkIron_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520041546)](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")[![Dark Iron dwarf](https://static.wikia.nocookie.net/wowpedia/images/1/1e/IconSmall_DarkIron_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520041914)](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf") [Dark Iron dwarf](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
+[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Worgen_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520012351)](https://wowpedia.fandom.com/wiki/Worgen "Worgen")[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Worgen_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520022309)](https://wowpedia.fandom.com/wiki/Worgen "Worgen") [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+[![Lightforged draenei](https://static.wikia.nocookie.net/wowpedia/images/5/57/IconSmall_Lightforged_Male.gif/revision/latest/scale-to-width-down/16?cb=20200528212053)](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")[![Lightforged draenei](https://static.wikia.nocookie.net/wowpedia/images/9/96/IconSmall_Lightforged_Female.gif/revision/latest/scale-to-width-down/16?cb=20200528214944)](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei") [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")
+[![Mechagon mechagnome](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Junker_Male.gif/revision/latest/scale-to-width-down/16?cb=20191009084825)](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")[![Mechagon mechagnome](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Junker_Female.gif/revision/latest/scale-to-width-down/16?cb=20191009085332)](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome") [Mechagon mechagnome](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")
+[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/6/69/IconSmall_Pandaren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015751)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Pandaren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020747)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+[![Jungle troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")[![Jungle troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Nightborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20181218105426)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+[![Zandalari troll](https://static.wikia.nocookie.net/wowpedia/images/c/c3/IconSmall_Zandalari_Male.gif/revision/latest/scale-to-width-down/16?cb=20190210213621)](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")[![Zandalari troll](https://static.wikia.nocookie.net/wowpedia/images/9/91/IconSmall_Zandalari_Female.gif/revision/latest/scale-to-width-down/16?cb=20190210213702)](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll") [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")
 [![Vulpera](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_Vulpera_Male.gif/revision/latest/scale-to-width-down/16?cb=20191009085216)](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")[![Vulpera](https://static.wikia.nocookie.net/wowpedia/images/4/4f/IconSmall_Vulpera_Female.gif/revision/latest/scale-to-width-down/16?cb=20191009085227)](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera") [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera") |
 | Character classes | [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage") (and [various specializations](https://wowpedia.fandom.com/wiki/Kirin_Tor#Membership "Kirin Tor")) |
 | Capital | [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") |
 | Other major settlements | [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater") |
-|   Formerly | [Ambermill](https://wowpedia.fandom.com/wiki/Ambermill "Ambermill")  
+|   Formerly | [Ambermill](https://wowpedia.fandom.com/wiki/Ambermill "Ambermill")
 [Nethergarde Keep](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep") <sup>&nbsp;†</sup> |
 | Base of operations | Camp Antonidas, Rhonin's Shield, The Overlook,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-1">[1]</a></sup> [Violet Rise](https://wowpedia.fandom.com/wiki/Violet_Rise "Violet Rise"), [Amber Ledge](https://wowpedia.fandom.com/wiki/Amber_Ledge "Amber Ledge"), [Transitus Shield](https://wowpedia.fandom.com/wiki/Transitus_Shield "Transitus Shield") |
 |   Formerly | [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand"), [Khadgar's Tower](https://wowpedia.fandom.com/wiki/Khadgar%27s_Tower "Khadgar's Tower"), [Violet Bluff](https://wowpedia.fandom.com/wiki/Violet_Bluff "Violet Bluff"), [Kirin'Var Village](https://wowpedia.fandom.com/wiki/Kirin%27Var_Village "Kirin'Var Village") <sup>&nbsp;†</sup> |
 | Theater of operations | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") |
 |   Formerly | [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), [Alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") |
 | Language(s) | [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"), [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), Coded<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-2">[2]</a></sup> and various other [languages](https://wowpedia.fandom.com/wiki/Language "Language") |
-| Sub-group(s) | 
+| Sub-group(s) |
 
 -   [The Violet Eye](https://wowpedia.fandom.com/wiki/Violet_Eye "Violet Eye")
 -   [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")
@@ -53,7 +53,7 @@ Kirin Tor banner
 -   [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive")
 
  |
-| Former sub-group(s) | [Sorcerers' League](https://wowpedia.fandom.com/wiki/Sorcerers%27_League "Sorcerers' League") <sup>&nbsp;†</sup>,  
+| Former sub-group(s) | [Sorcerers' League](https://wowpedia.fandom.com/wiki/Sorcerers%27_League "Sorcerers' League") <sup>&nbsp;†</sup>,
 [Mages' Guild](https://wowpedia.fandom.com/wiki/Mages%27_Guild "Mages' Guild") <sup>&nbsp;†</sup> |
 | Affiliation | [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"),<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-4">[4]</a></sup><sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-5">[5]</a></sup> [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde"), [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall") |
 |   Formerly | [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
@@ -116,7 +116,7 @@ As a representative of the Kirin Tor and the Alliance of Lordaeron, Antonidas he
 
 While the Alliance of Lordaeron was unaware of the [death cults](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned") forming in their lands before, the departure of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") who stated that the humans' poor leadership had led to the burning of their forests during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"),<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-45">[45]</a></sup> alongside the [liberation of the orcs from](https://wowpedia.fandom.com/wiki/Liberation_of_the_orcs_from_internment_camps "Liberation of the orcs from internment camps") [internment camps](https://wowpedia.fandom.com/wiki/Internment_camp "Internment camp") by [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), led to the departure of Gilneas and Stromgarde from the Alliance.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-46">[46]</a></sup> However, several kingdoms made it known that they had no intention of letting the Alliance collapse, among them the nation of Dalaran.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-47">[47]</a></sup>
 
-At the time of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), most contemporary [human](https://wowpedia.fandom.com/wiki/Human "Human") and [high elven](https://wowpedia.fandom.com/wiki/High_elf "High elf") mages bowed to the sovereignty of Dalaran and the Kirin Tor. Elven [sorceresses](https://wowpedia.fandom.com/wiki/Sorceress "Sorceress") served the Kirin Tor as its agents.<sup id="cite_ref-W3Manual_14-2"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-W3Manual-14">[14]</a></sup> However, the city was noted for being politically aloof and secretive - magi of the Kirin Tor did not get involved in "ordinary" politics, and outsiders were rarely welcome in Dalaran, even visiting royalty.<sup id="cite_ref-RotLK_17-1"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-RotLK-17">[17]</a></sup>
+At the time of the xref:ThirdWar.adoc[Third War], most contemporary [human](https://wowpedia.fandom.com/wiki/Human "Human") and [high elven](https://wowpedia.fandom.com/wiki/High_elf "High elf") mages bowed to the sovereignty of Dalaran and the Kirin Tor. Elven [sorceresses](https://wowpedia.fandom.com/wiki/Sorceress "Sorceress") served the Kirin Tor as its agents.<sup id="cite_ref-W3Manual_14-2"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-W3Manual-14">[14]</a></sup> However, the city was noted for being politically aloof and secretive - magi of the Kirin Tor did not get involved in "ordinary" politics, and outsiders were rarely welcome in Dalaran, even visiting royalty.<sup id="cite_ref-RotLK_17-1"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-RotLK-17">[17]</a></sup>
 
 ### During the Third War
 
@@ -124,7 +124,7 @@ At the time of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third
 
 [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") battling the forces of Dalaran while [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") summons the demon lord [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde").
 
-Near the beginning of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the Kirin Tor took notice of a [mysterious plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") gripping the [northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands"). As such, their Ambassador to [King Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") revealed that the Kirin Tor were prepared to place the villages under strict quarantine. However, the King declared that there would be no quarantine without proof of these claims as the people of Lordaeron had suffered enough.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-48">[48]</a></sup> Suspecting that the plague was magical in nature, the Kirin Tor sent [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") to investigate, accompanied by the [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of the [Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and his [envoys](https://wowpedia.fandom.com/wiki/Falric "Falric") sent by King Terenas to assist her.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-49">[49]</a></sup><sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-50">[50]</a></sup> The Kirin Tor eventually learned that their suspicions were not only correct but that [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), a former member of the organization, was responsible for spreading the plague.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-51">[51]</a></sup>
+Near the beginning of the xref:ThirdWar.adoc[Third War], the Kirin Tor took notice of a [mysterious plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") gripping the [northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands"). As such, their Ambassador to [King Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") revealed that the Kirin Tor were prepared to place the villages under strict quarantine. However, the King declared that there would be no quarantine without proof of these claims as the people of Lordaeron had suffered enough.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-48">[48]</a></sup> Suspecting that the plague was magical in nature, the Kirin Tor sent [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") to investigate, accompanied by the [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of the [Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and his [envoys](https://wowpedia.fandom.com/wiki/Falric "Falric") sent by King Terenas to assist her.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-49">[49]</a></sup><sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-50">[50]</a></sup> The Kirin Tor eventually learned that their suspicions were not only correct but that [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), a former member of the organization, was responsible for spreading the plague.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-51">[51]</a></sup>
 
 When the Third War began, some of the aspiring geniuses of the magocracy were allured by the dark arts and forsook their very souls, becoming [necromancers](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") in service to the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-52">[52]</a></sup> When King [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") was killed by [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") fell, magi from Dalaran went to the ruined [kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") along with other Alliance soldiers to deal with the rampaging undead army, but soon found themselves overwhelmed.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-53">[53]</a></sup>
 
@@ -296,7 +296,7 @@ Following the defeat of the Kirin Tor, and as they have not been mentioned since
 
 ### Membership
 
-Though primarily a [human](https://wowpedia.fandom.com/wiki/Human "Human") kingdom, the Kirin Tor has always housed a sizeable [Thalassian](https://wowpedia.fandom.com/wiki/High_elf "High elf") minority. For over two thousand years, it was not uncommon for some of the long-lived elves to study and serve in Dalaran as well as [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon"). Relations were strained between the two magical kingdoms after the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), and further compounded by Silvermoon's alliance with the reformed [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"),<sup id="cite_ref-In_the_Shadow_of_the_Sun_60-2"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-In_the_Shadow_of_the_Sun-60">[60]</a></sup> however, the readmitted [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") continued tradition somewhat, even if they were excluded and subsequently readmitted in Dalaran in the last years. Most of the Kirin Tor's current high elf population is now part of the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), a militant wing of Kirin Tor defenders. The Kirin Tor also has [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome"), [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"), and [half-elves](https://wowpedia.fandom.com/wiki/Half-elf "Half-elf") in their ranks. The organization also seems to accept some of its members who became [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") after the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the only exemple being [Old Fillmaff](https://wowpedia.fandom.com/wiki/Old_Fillmaff "Old Fillmaff"),<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-109">[109]</a></sup> although he does not know that he is dead.<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-110">[110]</a></sup>
+Though primarily a [human](https://wowpedia.fandom.com/wiki/Human "Human") kingdom, the Kirin Tor has always housed a sizeable [Thalassian](https://wowpedia.fandom.com/wiki/High_elf "High elf") minority. For over two thousand years, it was not uncommon for some of the long-lived elves to study and serve in Dalaran as well as [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon"). Relations were strained between the two magical kingdoms after the xref:ThirdWar.adoc[Third War], and further compounded by Silvermoon's alliance with the reformed [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"),<sup id="cite_ref-In_the_Shadow_of_the_Sun_60-2"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-In_the_Shadow_of_the_Sun-60">[60]</a></sup> however, the readmitted [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") continued tradition somewhat, even if they were excluded and subsequently readmitted in Dalaran in the last years. Most of the Kirin Tor's current high elf population is now part of the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), a militant wing of Kirin Tor defenders. The Kirin Tor also has [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome"), [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"), and [half-elves](https://wowpedia.fandom.com/wiki/Half-elf "Half-elf") in their ranks. The organization also seems to accept some of its members who became [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") after the xref:ThirdWar.adoc[Third War], the only exemple being [Old Fillmaff](https://wowpedia.fandom.com/wiki/Old_Fillmaff "Old Fillmaff"),<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-109">[109]</a></sup> although he does not know that he is dead.<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-110">[110]</a></sup>
 
 Following the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), the Kirin Tor recruited [worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen"), [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"), and [pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") mages in their ranks. At the same time, the gradual reintroduction of arcane magic into [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") society has in turn also slowly produced mages of that race. By the time Azeroth was ready to invade [Tanaan Jungle](https://wowpedia.fandom.com/wiki/Tanaan_Jungle "Tanaan Jungle") on Draenor, night elf and [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") mages had joined the Kirin Tor, carrying out work such as maintaining a portal between [Lion's Watch](https://wowpedia.fandom.com/wiki/Lion%27s_Watch "Lion's Watch") and [Stormshield](https://wowpedia.fandom.com/wiki/Stormshield "Stormshield") in [Ashran](https://wowpedia.fandom.com/wiki/Ashran "Ashran").
 
@@ -462,7 +462,7 @@ As a result, the Kirin Tor has written several publications related to magic, in
 
 To ensure safe and fast teleportations with the [blink](https://wowpedia.fandom.com/wiki/Blink "Blink"), specific rules and boundaries were created by the Kirin Tor, and must be adhered at all times, while immense resources of the organization were being spent to perfect this already nearly flawless spell to avoid any other accident.<sup id="cite_ref-168"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-168">[168]</a></sup> Other regulations were also created by the Kirin Tor for [polymorphism](https://wowpedia.fandom.com/wiki/Polymorph "Polymorph"),<sup id="cite_ref-169"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-169">[169]</a></sup> or the use of [portals](https://wowpedia.fandom.com/wiki/Teleportation "Teleportation"), with notably dimensions to be respected, taxes to be paid, and permits to be obtained.<sup id="cite_ref-170"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-170">[170]</a></sup>
 
-Dalaran - especially the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"), [Aegwynn's Gallery](https://wowpedia.fandom.com/wiki/Aegwynn%27s_Gallery "Aegwynn's Gallery"), and the [Hall of the Guardian](https://wowpedia.fandom.com/wiki/Hall_of_the_Guardian "Hall of the Guardian") - holds libraries, archives, and research laboratories,<sup id="cite_ref-TFG_20-2"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-TFG-20">[20]</a></sup> the latter's library being capable on its own to rival with [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")'s even in its current disarray.<sup id="cite_ref-EsaraVerrinde_94-1"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-EsaraVerrinde-94">[94]</a></sup> There are also a few private libraries and secret collections.<sup id="cite_ref-The_Last_Guardian_1_124-5"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-The_Last_Guardian_1-124">[124]</a></sup> Among these collections, some of the rarer parchments need to be protected from sunlight, thus requiring reading them in rooms while wearing gloves, in order to not damage the fragile paper.<sup id="cite_ref-171"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-171">[171]</a></sup> During the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the great libraries were burned, and countless generations of knowledge had been lost,<sup id="cite_ref-172"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-172">[172]</a></sup> but with the restoration of Dalaran, the libraries too were restored. Currently, the main library from before the city's destruction still stands, and it uses protective wards. A recognition spell in order to enter it safely is used on the wards, and each mage who consigned a book to the great library put his or her own warding seal on it.<sup id="cite_ref-173"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-173">[173]</a></sup>
+Dalaran - especially the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"), [Aegwynn's Gallery](https://wowpedia.fandom.com/wiki/Aegwynn%27s_Gallery "Aegwynn's Gallery"), and the [Hall of the Guardian](https://wowpedia.fandom.com/wiki/Hall_of_the_Guardian "Hall of the Guardian") - holds libraries, archives, and research laboratories,<sup id="cite_ref-TFG_20-2"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-TFG-20">[20]</a></sup> the latter's library being capable on its own to rival with [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")'s even in its current disarray.<sup id="cite_ref-EsaraVerrinde_94-1"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-EsaraVerrinde-94">[94]</a></sup> There are also a few private libraries and secret collections.<sup id="cite_ref-The_Last_Guardian_1_124-5"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-The_Last_Guardian_1-124">[124]</a></sup> Among these collections, some of the rarer parchments need to be protected from sunlight, thus requiring reading them in rooms while wearing gloves, in order to not damage the fragile paper.<sup id="cite_ref-171"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-171">[171]</a></sup> During the xref:ThirdWar.adoc[Third War], the great libraries were burned, and countless generations of knowledge had been lost,<sup id="cite_ref-172"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-172">[172]</a></sup> but with the restoration of Dalaran, the libraries too were restored. Currently, the main library from before the city's destruction still stands, and it uses protective wards. A recognition spell in order to enter it safely is used on the wards, and each mage who consigned a book to the great library put his or her own warding seal on it.<sup id="cite_ref-173"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-173">[173]</a></sup>
 
 The mages of Dalaran created [golems](https://wowpedia.fandom.com/wiki/Golem "Golem") to perform manual labor and guard their mystical holdings.<sup id="cite_ref-W3Manual_14-7"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-W3Manual-14">[14]</a></sup> They also created the [Eye of Dalaran](https://wowpedia.fandom.com/wiki/Eye_of_Dalaran "Eye of Dalaran") to focus their magics in an effort of reconstruction.<sup id="cite_ref-174"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-174">[174]</a></sup> To control [earth elementals](https://wowpedia.fandom.com/wiki/Earth_elemental "Earth elemental"), the wizards of Dalaran may use magical stone tokens.<sup id="cite_ref-175"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-175">[175]</a></sup>
 
@@ -529,7 +529,7 @@ Before Dalaran's destruction, the Kirin Tor was the city's ruling power. Dalaran
 -   It was described as an elite cadre of the most powerful wizards in the known world,<sup id="cite_ref-BotH_12-1"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-BotH-12">[12]</a></sup> but also as the most learned and puissant of the magical academies, guilds, and societies, advisors to the kings, teachers of the learned, and revealers of secrets.<sup id="cite_ref-182"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-182">[182]</a></sup>
 -   The insignia of the Kirin Tor represents an eye. In the [Underbelly](https://wowpedia.fandom.com/wiki/Underbelly "Underbelly") of Dalaran there is an unofficial coin called the  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Achievement_reputation_kirintor_offensive.png/revision/latest/scale-to-width-down/16?cb=20130117012003)[\[Sightless Eye\]](https://wowpedia.fandom.com/wiki/Sightless_Eye).
 -   Some mages that acted in the Kirin Tor were at the same time members of the [Council of Tirisfal](https://wowpedia.fandom.com/wiki/Council_of_Tirisfal "Council of Tirisfal"), as evidenced by [Indus](https://wowpedia.fandom.com/wiki/Indus "Indus").<sup id="cite_ref-TFG_20-3"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-TFG-20">[20]</a></sup>
--   Prior to the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the Kirin Tor favored [water](https://wowpedia.fandom.com/wiki/Hydromancer "Hydromancer") and [frost](https://wowpedia.fandom.com/wiki/Frost_mage "Frost mage") spells compared to the other schools of magic. Fire was implied to be associated with the demonic.<sup id="cite_ref-183"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-183">[183]</a></sup>
+-   Prior to the xref:ThirdWar.adoc[Third War], the Kirin Tor favored [water](https://wowpedia.fandom.com/wiki/Hydromancer "Hydromancer") and [frost](https://wowpedia.fandom.com/wiki/Frost_mage "Frost mage") spells compared to the other schools of magic. Fire was implied to be associated with the demonic.<sup id="cite_ref-183"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-183">[183]</a></sup>
 -   In the past, the Kirin Tor controlled [Baradin Hold](https://wowpedia.fandom.com/wiki/Baradin_Hold "Baradin Hold") full of monstrous creatures, including demons. The magi were unable to contain the massive [pit lord](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan") [Argaloth](https://wowpedia.fandom.com/wiki/Argaloth "Argaloth") in the cells of [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold"), so they were left with no choice but to confine the powerful demon beneath [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad"). Similarly, the [shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra") [Alizabal](https://wowpedia.fandom.com/wiki/Alizabal "Alizabal") was imprisoned in the Violet Hold, not long after corrupt magi summoned her, but despite arcane wards restricting her powers, her influence alone caused her guards to murder one another in sudden fits of rage. Therefore, she was transferred to Baradin Hold prior to the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), which only aggravated the ruined prison's increasingly dire conditions. Ultimately, the mages were overrun.<sup id="cite_ref-184"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-184">[184]</a></sup>
 -   Certain criminals are not only put in the magical cells that dampen their powers in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold"), the Kirin Tor may also strip one's power, as was done with the traitorous [mage hunter](https://wowpedia.fandom.com/wiki/Mage_hunter "Mage hunter") [Crevan Falamar](https://wowpedia.fandom.com/wiki/Crevan_Falamar "Crevan Falamar"). To [his family](https://wowpedia.fandom.com/wiki/Falamar "Falamar") they said that he died, while being locked up in prison.<sup id="cite_ref-Mage_71-7"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-Mage-71">[71]</a></sup>
 -   In an [alternate universe](https://wowpedia.fandom.com/wiki/Alternate_universe "Alternate universe") where [Aedelas Blackmoore](https://wowpedia.fandom.com/wiki/Aedelas_Blackmoore_(alternate_universe) "Aedelas Blackmoore (alternate universe)") was king of Lordaeron, the Kirin Tor was led by [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas_(alternate_universe) "Antonidas (alternate universe)"), who severed all ties with [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad_(alternate_universe) "Kel'Thuzad (alternate universe)"), who was Blackmoore's chief advisor. Rumor also had it that the mages liked to appear impartial but that they favored Stormwind rather than Lordaeron. Like in the main universe, [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz_(alternate_universe) "Korialstrasz (alternate universe)") was a member too. His Alexstrasza understood that his work there would aid their flight and more importantly, Azeroth.<sup id="cite_ref-185"><a href="https://wowpedia.fandom.com/wiki/Kirin_Tor#cite_note-185">[185]</a></sup>
@@ -543,81 +543,81 @@ Before Dalaran's destruction, the Kirin Tor was the city's ruling power. Dalaran
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Kirin_Tor_banner.jpg/revision/latest/scale-to-width-down/50?cb=20180805165655)](https://static.wikia.nocookie.net/wowpedia/images/8/83/Kirin_Tor_banner.jpg/revision/latest?cb=20180805165655)
-    
+
     Alternate version of the Kirin Tor banner.
-    
+
 -   [![Kirin Tor banner 2.jpg](https://static.wikia.nocookie.net/wowpedia/images/1/17/Kirin_Tor_banner_2.jpg/revision/latest/scale-to-width-down/52?cb=20180805165707)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Kirin_Tor_banner_2.jpg/revision/latest?cb=20180805165707)
-    
+
 -   [![Kirin Tor banner 3.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Kirin_Tor_banner_3.jpg/revision/latest/scale-to-width-down/51?cb=20180805165941)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Kirin_Tor_banner_3.jpg/revision/latest?cb=20180805165941)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Kirin_Tor_Manafiend.jpg/revision/latest/scale-to-width-down/120?cb=20130225160159)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Kirin_Tor_Manafiend.jpg/revision/latest?cb=20130225160159)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Kirin_Tor_Tome.jpg/revision/latest/scale-to-width-down/120?cb=20171204121006)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Kirin_Tor_Tome.jpg/revision/latest?cb=20171204121006)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Khadgar%27s_Tower.jpg/revision/latest/scale-to-width-down/120?cb=20150519005823)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Khadgar%27s_Tower.jpg/revision/latest?cb=20150519005823)
-    
+
     Kirin Tor Tower
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/37/Arcane_Destroyer.jpg/revision/latest/scale-to-width-down/120?cb=20130225160154)](https://static.wikia.nocookie.net/wowpedia/images/3/37/Arcane_Destroyer.jpg/revision/latest?cb=20130225160154)
-    
+
     Arcane Destroyer
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Arcane_Blaster.png/revision/latest/scale-to-width-down/120?cb=20221018172841)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Arcane_Blaster.png/revision/latest?cb=20221018172841)
-    
+
     Arcane Blaster
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Eye_of_the_Kirin_Tor.jpg/revision/latest/scale-to-width-down/108?cb=20160618211811)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Eye_of_the_Kirin_Tor.jpg/revision/latest?cb=20160618211811)
-    
+
 
 _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Arcane_Fletcher.jpg/revision/latest/scale-to-width-down/90?cb=20220213162601)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Arcane_Fletcher.jpg/revision/latest?cb=20220213162601)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Arcane_Watcher_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220213164415)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Arcane_Watcher_HS.jpg/revision/latest?cb=20220213164415)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Babagahnoosh_the_Grumpy_TCG.jpg/revision/latest/scale-to-width-down/115?cb=20210514125224)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Babagahnoosh_the_Grumpy_TCG.jpg/revision/latest?cb=20210514125224)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Dalaran_Aspirant_hs.jpg/revision/latest/scale-to-width-down/120?cb=20210625093838)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Dalaran_Aspirant_hs.jpg/revision/latest?cb=20210625093838)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Dalaran_Crusader_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220213162647)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Dalaran_Crusader_HS.jpg/revision/latest?cb=20220213162647)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Dalaran_Librarian_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220213162649)](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Dalaran_Librarian_HS.jpg/revision/latest?cb=20220213162649)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Desperate_Measures_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220213164413)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Desperate_Measures_HS.jpg/revision/latest?cb=20220213164413)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Duel%21_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220213164411)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Duel%21_HS.jpg/revision/latest?cb=20220213164411)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Kirin_Tor_Elemental_HS.jpg/revision/latest/scale-to-width-down/90?cb=20210616220334)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Kirin_Tor_Elemental_HS.jpg/revision/latest?cb=20210616220334)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/64/Kirin_Tor_Guard_HS.jpg/revision/latest/scale-to-width-down/90?cb=20210616220339)](https://static.wikia.nocookie.net/wowpedia/images/6/64/Kirin_Tor_Guard_HS.jpg/revision/latest?cb=20210616220339)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Kara_Vesstal_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210616221446)](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Kara_Vesstal_TCG.jpg/revision/latest?cb=20210616221446)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Kirin_Tor_Tricaster_HS.jpg/revision/latest/scale-to-width-down/90?cb=20210616220343)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Kirin_Tor_Tricaster_HS.jpg/revision/latest?cb=20210616220343)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Lazul%27s_Scheme_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220213164417)](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Lazul%27s_Scheme_HS.jpg/revision/latest?cb=20220213164417)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Mass_Resurrection_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220213164409)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Mass_Resurrection_HS.jpg/revision/latest?cb=20220213164409)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/13/Soldier_of_Fortune_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220213164405)](https://static.wikia.nocookie.net/wowpedia/images/1/13/Soldier_of_Fortune_HS.jpg/revision/latest?cb=20220213164405)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Unsleeping_Soul_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220213164407)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Unsleeping_Soul_HS.jpg/revision/latest?cb=20220213164407)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c5/Lorekeeper_Darian_TCG.jpg/revision/latest/scale-to-width-down/105?cb=20210605120013)](https://static.wikia.nocookie.net/wowpedia/images/c/c5/Lorekeeper_Darian_TCG.jpg/revision/latest?cb=20210605120013)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/86/Violet_Illusionist_HS.jpg/revision/latest/scale-to-width-down/91?cb=20210616220347)](https://static.wikia.nocookie.net/wowpedia/images/8/86/Violet_Illusionist_HS.jpg/revision/latest?cb=20210616220347)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8d/Violet_Spellsword_HS.jpg/revision/latest/scale-to-width-down/88?cb=20220213162248)](https://static.wikia.nocookie.net/wowpedia/images/8/8d/Violet_Spellsword_HS.jpg/revision/latest?cb=20220213162248)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Violet_Warden_HS.jpg/revision/latest/scale-to-width-down/96?cb=20220213162124)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Violet_Warden_HS.jpg/revision/latest?cb=20220213162124)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Spellweaver_Jihan_TCG.jpg/revision/latest/scale-to-width-down/82?cb=20171013231604)](https://static.wikia.nocookie.net/wowpedia/images/8/84/Spellweaver_Jihan_TCG.jpg/revision/latest?cb=20171013231604)
-    
+
 
 ## Patch changes
 
--   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added as a [reputation](https://wowpedia.fandom.com/wiki/Reputation "Reputation") [faction](https://wowpedia.fandom.com/wiki/Faction "Faction").  
-    
+-   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added as a [reputation](https://wowpedia.fandom.com/wiki/Reputation "Reputation") [faction](https://wowpedia.fandom.com/wiki/Faction "Faction").
+
 
 ## See also
 
@@ -818,7 +818,7 @@ _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone 
 -   [Wowhead](https://www.wowhead.com/faction=1090)
 -   [WoWDB](https://www.wowdb.com/factions/1090)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Factions/wrath_of_the_lich_king "Template:Factions/wrath of the lich king")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Factions/wrath_of_the_lich_king?action=edit)
 
@@ -827,7 +827,7 @@ _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone 
  |
 | --- |
 |  |
-|  [Alliance Vanguard](https://wowpedia.fandom.com/wiki/Alliance_Vanguard "Alliance Vanguard") | 
+|  [Alliance Vanguard](https://wowpedia.fandom.com/wiki/Alliance_Vanguard "Alliance Vanguard") |
 
 -   [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League")
 -   [The Frostborn](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
@@ -838,7 +838,7 @@ _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone 
 
  |
 |  |
-|  [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition") | 
+|  [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition") |
 
 -   [The Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance")
 -   [The Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
@@ -849,13 +849,13 @@ _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone 
 
  |
 |  |
-|  [Neutral](https://wowpedia.fandom.com/wiki/Neutral "Neutral") | 
+|  [Neutral](https://wowpedia.fandom.com/wiki/Neutral "Neutral") |
 
 <table><tbody><tr><td colspan="2"><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argent_Crusade" title="Argent Crusade">Argent Crusade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ashen_Verdict" title="Ashen Verdict">The Ashen Verdict</a></li><li><a href="https://wowpedia.fandom.com/wiki/Kalu%27ak" title="Kalu'ak">The Kalu'ak</a></li><li><strong>Kirin Tor</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade" title="Knights of the Ebon Blade">Knights of the Ebon Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sons_of_Hodir" title="Sons of Hodir">The Sons of Hodir</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmrest_Accord" title="Wyrmrest Accord">The Wyrmrest Accord</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sholazar_Basin" title="Sholazar Basin">Sholazar Basin</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Frenzyheart_Tribe" title="Frenzyheart Tribe">Frenzyheart Tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Oracles" title="Oracles">The Oracles</a></li></ul></div></td></tr></tbody></table>
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance "Template:Grand Alliance")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance?action=edit)
 
@@ -866,7 +866,7 @@ _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone 
  |
 | --- |
 |  |
-| 
+|
 
 |  
 Leadership
@@ -874,7 +874,7 @@ Leadership
  |
 | --- |
 |  |
-| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") | 
+| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") |
 
 -   [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn")
 
@@ -882,7 +882,7 @@ Leadership
 
  |
 |  |
-| Lord Commander | 
+| Lord Commander |
 
 -   [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon")
 
@@ -890,7 +890,7 @@ Leadership
 
  |
 |  |
-| Leaders | 
+| Leaders |
 
 -   [Council of Three Hammers](https://wowpedia.fandom.com/wiki/Council_of_Three_Hammers "Council of Three Hammers")
     -   [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") ([Yorg Stormheart](https://wowpedia.fandom.com/wiki/Yorg_Stormheart "Yorg Stormheart"))
@@ -913,7 +913,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 |  
 Characters
@@ -921,7 +921,7 @@ Characters
  |
 | --- |
 |  |
-| Current | 
+| Current |
 
 -   [Dagran Thaurissan II](https://wowpedia.fandom.com/wiki/Dagran_Thaurissan_II "Dagran Thaurissan II")
 -   [Danath Trollbane](https://wowpedia.fandom.com/wiki/Danath_Trollbane "Danath Trollbane")
@@ -996,7 +996,7 @@ Characters
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")
 -   [Taylor](https://wowpedia.fandom.com/wiki/Taylor "Taylor")
@@ -1015,7 +1015,7 @@ Characters
 
  |
 |  |
-| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") | 
+| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
 
 -   [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")
 -   [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar")
@@ -1033,7 +1033,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 |  
 Races
@@ -1041,7 +1041,7 @@ Races
  |
 | --- |
 |  |
-| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") |
 
 -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
 -   [Dwarf](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
@@ -1056,7 +1056,7 @@ Races
 
  |
 |  |
-| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") |
 
 -   [Void elf](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
 -   [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")
@@ -1068,7 +1068,7 @@ Races
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")
 -   [Broken draenei](https://wowpedia.fandom.com/wiki/Broken "Broken")
@@ -1087,7 +1087,7 @@ Races
 
  |
 |  |
-| Animals | 
+| Animals |
 
 -   [Gryphon](https://wowpedia.fandom.com/wiki/Gryphon "Gryphon")
 -   [Hippogryph](https://wowpedia.fandom.com/wiki/Hippogryph "Hippogryph")
@@ -1099,7 +1099,7 @@ Races
 
  |
 |  |
-| 
+|
 
 |  
 Cities and towns
@@ -1107,7 +1107,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") |
 
 -   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
 -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
@@ -1124,7 +1124,7 @@ Cities and towns
 
  |
 |  |
-| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") |
 
 -   [Aerie Peak](https://wowpedia.fandom.com/wiki/Aerie_Peak "Aerie Peak")
 -   [Chillwind Camp](https://wowpedia.fandom.com/wiki/Chillwind_Camp "Chillwind Camp")
@@ -1154,7 +1154,7 @@ Cities and towns
 
  |
 |  |
-| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") |
 
 -   [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar")
 -   [Azure Watch](https://wowpedia.fandom.com/wiki/Azure_Watch "Azure Watch")
@@ -1172,7 +1172,7 @@ Cities and towns
 
  |
 |  |
-| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") |
 
 -   [Allerian Stronghold](https://wowpedia.fandom.com/wiki/Allerian_Stronghold "Allerian Stronghold")
 -   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
@@ -1187,7 +1187,7 @@ Cities and towns
 
  |
 |  |
-| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
 
 -   [Amberpine Lodge](https://wowpedia.fandom.com/wiki/Amberpine_Lodge "Amberpine Lodge")
 -   [Fizzcrank Airstrip](https://wowpedia.fandom.com/wiki/Fizzcrank_Airstrip "Fizzcrank Airstrip")
@@ -1204,7 +1204,7 @@ Cities and towns
 
  |
 |  |
-| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") |
 
 -   [Incursion](https://wowpedia.fandom.com/wiki/Incursion "Incursion")
 -   [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing "Lion's Landing")
@@ -1217,7 +1217,7 @@ Cities and towns
 
  |
 |  |
-| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") |
 
 -   [Fort Wrynn](https://wowpedia.fandom.com/wiki/Fort_Wrynn "Fort Wrynn")
 -   [Highpass](https://wowpedia.fandom.com/wiki/Highpass "Highpass")
@@ -1231,7 +1231,7 @@ Cities and towns
 
  |
 |  |
-| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") |
 
 -   [Greywatch](https://wowpedia.fandom.com/wiki/Greywatch "Greywatch")
 
@@ -1239,7 +1239,7 @@ Cities and towns
 
  |
 |  |
-| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") |
 
 -   [Arom's Stand](https://wowpedia.fandom.com/wiki/Arom%27s_Stand "Arom's Stand")
 -   [Brennadam](https://wowpedia.fandom.com/wiki/Brennadam "Brennadam")
@@ -1256,7 +1256,7 @@ Cities and towns
 
  |
 |  |
-| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") |
 
 -   [Fort Victory](https://wowpedia.fandom.com/wiki/Fort_Victory "Fort Victory")
 -   [Shatterstone Harbor](https://wowpedia.fandom.com/wiki/Shatterstone_Harbor "Shatterstone Harbor")
@@ -1265,7 +1265,7 @@ Cities and towns
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
 -   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
@@ -1277,7 +1277,7 @@ Cities and towns
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles")
     -   [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle")
@@ -1297,7 +1297,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 |  
 [Organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
@@ -1307,7 +1307,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") | 
+| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") |
 
 -   [House of Nobles](https://wowpedia.fandom.com/wiki/House_of_Nobles "House of Nobles")
 -   [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7")
@@ -1327,7 +1327,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") | 
+| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") |
 
 -   [Senate of Ironforge](https://wowpedia.fandom.com/wiki/Senate_of_Ironforge "Senate of Ironforge")
 -   [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")
@@ -1352,7 +1352,7 @@ Cities and towns
 
  |
 |  |
-| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") | 
+| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") |
 
 -   [Darnassian Army](https://wowpedia.fandom.com/wiki/Darnassian_Army "Darnassian Army")
     -   [Sentinels](https://wowpedia.fandom.com/wiki/Sentinels "Sentinels")
@@ -1371,7 +1371,7 @@ Cities and towns
 
  |
 |  |
-| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") | 
+| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") |
 
 -   [A.C.E.](https://wowpedia.fandom.com/wiki/A.C.E. "A.C.E.")
 -   [Gnomeregan Airmen](https://wowpedia.fandom.com/wiki/Gnomeregan_Airmen "Gnomeregan Airmen")
@@ -1384,7 +1384,7 @@ Cities and towns
 
  |
 |  |
-| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") | 
+| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") |
 
 -   [Hand of Argus](https://wowpedia.fandom.com/wiki/Hand_of_Argus "Hand of Argus")
     -   [Triumvirate of the Hand](https://wowpedia.fandom.com/wiki/Triumvirate_of_the_Hand "Triumvirate of the Hand")
@@ -1396,7 +1396,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") | 
+| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") |
 
 -   [Gilnean military](https://wowpedia.fandom.com/wiki/Gilnean_military "Gilnean military")
     -   [Gilnean Royal Guard](https://wowpedia.fandom.com/wiki/Gilnean_Royal_Guard "Gilnean Royal Guard")
@@ -1410,7 +1410,7 @@ Cities and towns
 
  |
 |  |
-| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") | 
+| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") |
 
 -   [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet")
 -   [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore")
@@ -1432,7 +1432,7 @@ Cities and towns
 
  |
 |  |
-| Other members | 
+| Other members |
 
 -   [Tushui Pandaren](https://wowpedia.fandom.com/wiki/Tushui_Pandaren "Tushui Pandaren")
 -   [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light")
@@ -1487,7 +1487,7 @@ Cities and towns
 
  |
 |  |
-| Former members | 
+| Former members |
 
 -   [Theramore](https://wowpedia.fandom.com/wiki/Theramore_(nation) "Theramore (nation)")
     -   [Theramore Guard](https://wowpedia.fandom.com/wiki/Theramore_Guard "Theramore Guard")
@@ -1501,7 +1501,7 @@ Cities and towns
 
  |
 |  |
-| Alliance-aligned and allies | 
+| Alliance-aligned and allies |
 
 -   [Council of Exarchs](https://wowpedia.fandom.com/wiki/Council_of_Exarchs "Council of Exarchs")
     -   [Hand of the Prophet](https://wowpedia.fandom.com/wiki/Hand_of_the_Prophet "Hand of the Prophet")
@@ -1515,7 +1515,7 @@ Cities and towns
 
  |
 |  |
-| Former allies | 
+| Former allies |
 
 -   [Blackmaw tribe](https://wowpedia.fandom.com/wiki/Blackmaw_tribe "Blackmaw tribe")
 -   [Blackwood tribe](https://wowpedia.fandom.com/wiki/Blackwood_tribe "Blackwood tribe")
@@ -1527,7 +1527,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)")
 -   [Alliance organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")

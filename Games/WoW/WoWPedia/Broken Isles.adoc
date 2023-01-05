@@ -3,44 +3,44 @@ _For the_ [The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Broken Isles |
 | --- |
 | Level: 10 - 45 |
-| [![Legion Broken Isles loading screen.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Legion_Broken_Isles_loading_screen.jpg/revision/latest/scale-to-width-down/260?cb=20180320013304)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Legion_Broken_Isles_loading_screen.jpg/revision/latest?cb=20180320013304)  
+| [![Legion Broken Isles loading screen.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Legion_Broken_Isles_loading_screen.jpg/revision/latest/scale-to-width-down/260?cb=20180320013304)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Legion_Broken_Isles_loading_screen.jpg/revision/latest?cb=20180320013304)
 [Loading screen](https://wowpedia.fandom.com/wiki/Loading_screen "Loading screen") as of [patch 7.1.0](https://wowpedia.fandom.com/wiki/Patch_7.1.0 "Patch 7.1.0")
 
 
 
  |
-| Capital(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")  
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor")  
+| Capital(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor")
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") |
-| Races | [![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Vrykul_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118110203)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")[![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")  
-[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Nightborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20181218105426)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")  
-[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
-[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Highmountain_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520042932)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/d/d6/IconSmall_Highmountain_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520043557)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren") [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")  
-[![IconSmall Drogbar.gif](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Drogbar.gif/revision/latest/scale-to-width-down/16?cb=20211118202447)](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Drogbar.gif/revision/latest?cb=20211118202447) [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")  
-[![Satyr](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Satyr.gif/revision/latest/scale-to-width-down/16?cb=20211118202207)](https://wowpedia.fandom.com/wiki/Satyr "Satyr") [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")  
-[![IconSmall NightmareCenarian Male.gif](https://static.wikia.nocookie.net/wowpedia/images/f/f9/IconSmall_NightmareCenarian_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519163144)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/IconSmall_NightmareCenarian_Male.gif/revision/latest?cb=20200519163144)[![Keeper of the grove](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Cenarian_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519150626)](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove") [Keeper of the grove](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove")  
-[![IconSmall NightmareCenarian Female.gif](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_NightmareCenarian_Female.gif/revision/latest/scale-to-width-down/16?cb=20200519165341)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_NightmareCenarian_Female.gif/revision/latest?cb=20200519165341)[![Dryad](https://static.wikia.nocookie.net/wowpedia/images/1/1c/IconSmall_Cenarian_Female.gif/revision/latest/scale-to-width-down/16?cb=20200519163859)](https://wowpedia.fandom.com/wiki/Dryad "Dryad") [Dryad](https://wowpedia.fandom.com/wiki/Dryad "Dryad")  
-[![Demon](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Doomguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110656)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_Felguard.gif/revision/latest/scale-to-width-down/16?cb=20211126111204)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/9/9e/IconSmall_Wrathguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110002)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Imp.gif/revision/latest/scale-to-width-down/16?cb=20211118210606)](https://wowpedia.fandom.com/wiki/Demon "Demon") [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon")  
-[![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")  
-[![Makrura](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Makrura.gif/revision/latest/scale-to-width-down/16?cb=20211118214808)](https://wowpedia.fandom.com/wiki/Makrura "Makrura") [Makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura")  
-[![IconSmall Harpy2.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Harpy2.gif/revision/latest/scale-to-width-down/16?cb=20211118213226)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Harpy2.gif/revision/latest?cb=20211118213226) [Harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")  
-[![Kobold](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Kobold.gif/revision/latest/scale-to-width-down/16?cb=20200520131313)](https://wowpedia.fandom.com/wiki/Kobold "Kobold") [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")  
-[![IconSmall DireFurbolg.gif](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_DireFurbolg.gif/revision/latest/scale-to-width-down/16?cb=20211118211017)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_DireFurbolg.gif/revision/latest?cb=20211118211017) [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg")  
-[![IconSmall Murloc.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Murloc.gif/revision/latest/scale-to-width-down/16?cb=20211119105825)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Murloc.gif/revision/latest?cb=20211119105825) [Murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc")  
-[![Storm drake](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Thorignir.gif/revision/latest/scale-to-width-down/16?cb=20211129081026)](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake") [Storm drake](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")  
-[![Blue dragon](https://static.wikia.nocookie.net/wowpedia/images/a/af/IconSmall_DragonBlue2.gif/revision/latest/scale-to-width-down/16?cb=20221208133249)](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") [Blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")  
-[![IconSmall Skrog.gif](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest/scale-to-width-down/16?cb=20211129173801)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest?cb=20211129173801) [Sea giant](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant")  
-[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
-[![IconSmall Skeleton.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest?cb=20211201223423) [Skeleton](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton")  
+| Races | [![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Vrykul_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118110203)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")[![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Nightborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20181218105426)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Highmountain_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520042932)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/d/d6/IconSmall_Highmountain_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520043557)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren") [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
+[![IconSmall Drogbar.gif](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Drogbar.gif/revision/latest/scale-to-width-down/16?cb=20211118202447)](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Drogbar.gif/revision/latest?cb=20211118202447) [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+[![Satyr](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Satyr.gif/revision/latest/scale-to-width-down/16?cb=20211118202207)](https://wowpedia.fandom.com/wiki/Satyr "Satyr") [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+[![IconSmall NightmareCenarian Male.gif](https://static.wikia.nocookie.net/wowpedia/images/f/f9/IconSmall_NightmareCenarian_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519163144)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/IconSmall_NightmareCenarian_Male.gif/revision/latest?cb=20200519163144)[![Keeper of the grove](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Cenarian_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519150626)](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove") [Keeper of the grove](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove")
+[![IconSmall NightmareCenarian Female.gif](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_NightmareCenarian_Female.gif/revision/latest/scale-to-width-down/16?cb=20200519165341)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_NightmareCenarian_Female.gif/revision/latest?cb=20200519165341)[![Dryad](https://static.wikia.nocookie.net/wowpedia/images/1/1c/IconSmall_Cenarian_Female.gif/revision/latest/scale-to-width-down/16?cb=20200519163859)](https://wowpedia.fandom.com/wiki/Dryad "Dryad") [Dryad](https://wowpedia.fandom.com/wiki/Dryad "Dryad")
+[![Demon](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Doomguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110656)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_Felguard.gif/revision/latest/scale-to-width-down/16?cb=20211126111204)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/9/9e/IconSmall_Wrathguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110002)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Imp.gif/revision/latest/scale-to-width-down/16?cb=20211118210606)](https://wowpedia.fandom.com/wiki/Demon "Demon") [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon")
+[![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+[![Makrura](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Makrura.gif/revision/latest/scale-to-width-down/16?cb=20211118214808)](https://wowpedia.fandom.com/wiki/Makrura "Makrura") [Makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura")
+[![IconSmall Harpy2.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Harpy2.gif/revision/latest/scale-to-width-down/16?cb=20211118213226)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Harpy2.gif/revision/latest?cb=20211118213226) [Harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")
+[![Kobold](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Kobold.gif/revision/latest/scale-to-width-down/16?cb=20200520131313)](https://wowpedia.fandom.com/wiki/Kobold "Kobold") [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+[![IconSmall DireFurbolg.gif](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_DireFurbolg.gif/revision/latest/scale-to-width-down/16?cb=20211118211017)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_DireFurbolg.gif/revision/latest?cb=20211118211017) [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg")
+[![IconSmall Murloc.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Murloc.gif/revision/latest/scale-to-width-down/16?cb=20211119105825)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Murloc.gif/revision/latest?cb=20211119105825) [Murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc")
+[![Storm drake](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Thorignir.gif/revision/latest/scale-to-width-down/16?cb=20211129081026)](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake") [Storm drake](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")
+[![Blue dragon](https://static.wikia.nocookie.net/wowpedia/images/a/af/IconSmall_DragonBlue2.gif/revision/latest/scale-to-width-down/16?cb=20221208133249)](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") [Blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
+[![IconSmall Skrog.gif](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest/scale-to-width-down/16?cb=20211129173801)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest?cb=20211129173801) [Sea giant](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant")
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+[![IconSmall Skeleton.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest?cb=20211201223423) [Skeleton](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton")
 [![IconSmall Ghost.gif](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Ghost.gif/revision/latest/scale-to-width-down/16?cb=20090306123755)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Ghost.gif/revision/latest?cb=20090306123755) [Ghost](https://wowpedia.fandom.com/wiki/Ghost "Ghost") |
-| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_Thalyssra.gif/revision/latest/scale-to-width-down/16?cb=20180129124130)[Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra")  
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/IconSmall_Mayla.gif/revision/latest/scale-to-width-down/16?cb=20180129123704)[Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/9/91/IconSmall_Odyn.gif/revision/latest/scale-to-width-down/16?cb=20211213160043)[Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)[Sigryn](https://wowpedia.fandom.com/wiki/Sigryn "Sigryn")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Navarrogg.gif/revision/latest/scale-to-width-down/16?cb=20211213120955)[Navarrogg](https://wowpedia.fandom.com/wiki/Navarrogg "Navarrogg")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Cenarius.gif/revision/latest/scale-to-width-down/16?cb=20200519141117)[Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/IconSmall_Farondis.gif/revision/latest/scale-to-width-down/16?cb=20180206221536)[Prince Farondis](https://wowpedia.fandom.com/wiki/Prince_Farondis "Prince Farondis")  
+| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_Thalyssra.gif/revision/latest/scale-to-width-down/16?cb=20180129124130)[Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra")
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/IconSmall_Mayla.gif/revision/latest/scale-to-width-down/16?cb=20180129123704)[Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/9/91/IconSmall_Odyn.gif/revision/latest/scale-to-width-down/16?cb=20211213160043)[Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)[Sigryn](https://wowpedia.fandom.com/wiki/Sigryn "Sigryn")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Navarrogg.gif/revision/latest/scale-to-width-down/16?cb=20211213120955)[Navarrogg](https://wowpedia.fandom.com/wiki/Navarrogg "Navarrogg")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Cenarius.gif/revision/latest/scale-to-width-down/16?cb=20200519141117)[Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/IconSmall_Farondis.gif/revision/latest/scale-to-width-down/16?cb=20180206221536)[Prince Farondis](https://wowpedia.fandom.com/wiki/Prince_Farondis "Prince Farondis")
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") |
 | Affiliation | [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe"), [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar"), [Helarjar](https://wowpedia.fandom.com/wiki/Helarjar "Helarjar"), [Tideskorn](https://wowpedia.fandom.com/wiki/Tideskorn "Tideskorn"), [Drogbar tribes](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar"), [Court of Farondis](https://wowpedia.fandom.com/wiki/Court_of_Farondis "Court of Farondis"), [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
 | Location | [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-1">[1]</a></sup> (northeast of the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")) |
@@ -77,7 +77,7 @@ During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"
 
 ### Third War
 
-During the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") chased escaped prisoner [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") to the Isles, who searched for the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). She discovered the remains of the ancient [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") city of Suramar, as well as a never-ending battle between the undead remnants of the Twilight's Hammer, Blackrock, and Stormreaver clans.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-9">[9]</a></sup> Maiev pursued Illidan into the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), but Illidan found the Eye first and used it to collapse [a section of the tomb](https://wowpedia.fandom.com/wiki/Collapse "Collapse") onto Maiev's forces.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-10">[10]</a></sup> Maiev sent a runner to return to Kalimdor and get help from Malfurion Stormrage,<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-11">[11]</a></sup> who rescued her forces and pursued Illidan.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-12">[12]</a></sup>
+During the xref:ThirdWar.adoc[Third War], [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") chased escaped prisoner [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") to the Isles, who searched for the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). She discovered the remains of the ancient [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") city of Suramar, as well as a never-ending battle between the undead remnants of the Twilight's Hammer, Blackrock, and Stormreaver clans.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-9">[9]</a></sup> Maiev pursued Illidan into the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), but Illidan found the Eye first and used it to collapse [a section of the tomb](https://wowpedia.fandom.com/wiki/Collapse "Collapse") onto Maiev's forces.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-10">[10]</a></sup> Maiev sent a runner to return to Kalimdor and get help from Malfurion Stormrage,<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-11">[11]</a></sup> who rescued her forces and pursued Illidan.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-12">[12]</a></sup>
 
 ### Legion
 
@@ -165,7 +165,7 @@ Stormreaver Bay is natural bay between the southwestern islands which boasts a b
 -   In _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness"),_ the islands were shown to be halfway between [Balor](https://wowpedia.fandom.com/wiki/Balor "Balor") and [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-20">[20]</a></sup> Still in _Warcraft II_, only Aegwynn and Medivh knew the true location of the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), and they did not share that information with anybody.
 -   It was originally established that Gul'dan had raised the Broken Isles entirely, which where described as volcanic, from the bottom of the ocean.<sup id="cite_ref-WC2Orc_7-1"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-WC2Orc-7">[7]</a></sup> However, it has since been retconned so that he raised only the island of [Thal'dranath](https://wowpedia.fandom.com/wiki/Thal%27dranath "Thal'dranath"), also known as the Broken Shore,<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-21">[21]</a></sup> the rest having survived the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-22">[22]</a></sup>
     -   [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") also knew about their existence,<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-23">[23]</a></sup> confirming the retcon.
-    -   After the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), Maiev's [runner](https://wowpedia.fandom.com/wiki/Night_Elf_Runner "Night Elf Runner") announced Illidan's presence on the Broken Isles, and they were not surprised by the location.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-24">[24]</a></sup> However, she was not aware that the Tomb of Sargeras or Suramar had remained.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-25">[25]</a></sup>
+    -   After the xref:ThirdWar.adoc[Third War], Maiev's [runner](https://wowpedia.fandom.com/wiki/Night_Elf_Runner "Night Elf Runner") announced Illidan's presence on the Broken Isles, and they were not surprised by the location.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-24">[24]</a></sup> However, she was not aware that the Tomb of Sargeras or Suramar had remained.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-25">[25]</a></sup>
 -   The Broken Isles were represented by the Sunken Ruins melee [tileset](https://wowpedia.fandom.com/wiki/Tileset "Tileset") in _The Frozen Throne_, but none of the _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ areas perfectly match with the tileset.
 -   Before being added in _Legion_, the Broken Isles were lorewise far smaller, with the ruins of Suramar seemingly occupying all of the isles as seen in the maps.
 -   Under the water around the Broken Isles you can find several ruins, shipwrecks, bones and other interesting hidden things, such as a [jinyu](https://wowpedia.fandom.com/wiki/Jinyu "Jinyu") building near the [Veiled Isles](https://wowpedia.fandom.com/wiki/Veiled_Isles "Veiled Isles"),**<sup>[70,&nbsp;76]</sup>** a semi-sunken [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [statue](https://wowpedia.fandom.com/wiki/Sotnar%27s_Rest "Sotnar's Rest") north of [Shield's Rest](https://wowpedia.fandom.com/wiki/Shield%27s_Rest "Shield's Rest"),**<sup>[68.5,&nbsp;18]</sup>** a [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") ship northeast of the [Cove of Nashal](https://wowpedia.fandom.com/wiki/Cove_of_Nashal "Cove of Nashal"),**<sup>[59,&nbsp;18]</sup>** a gigantic sea-creature skeleton found west from [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah")'s northwestern coast,**<sup>[21,&nbsp;21]</sup>** or multiple night elven ruins and skeletons (including a big horned one)**<sup>[64,&nbsp;56]</sup>** east of [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") and [Azuregale Bay](https://wowpedia.fandom.com/wiki/Azuregale_Bay "Azuregale Bay").**<sup>[64,&nbsp;50]</sup>**
@@ -201,151 +201,151 @@ Following Suramar's liberation, Malfurion and Tyrande apparently remained in [Va
 In-game maps
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/99/WorldMap-BrokenIsles-beta.jpg/revision/latest/scale-to-width-down/270?cb=20180827142031)](https://static.wikia.nocookie.net/wowpedia/images/9/99/WorldMap-BrokenIsles-beta.jpg/revision/latest?cb=20180827142031)
-    
+
     _Legion_ beta.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/02/WorldMap-BrokenIsles-old.jpg/revision/latest/scale-to-width-down/270?cb=20190225054351)](https://static.wikia.nocookie.net/wowpedia/images/0/02/WorldMap-BrokenIsles-old.jpg/revision/latest?cb=20190225054351)
-    
+
     _Legion_ release.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/WorldMap-BrokenIsles-old1.jpg/revision/latest/scale-to-width-down/270?cb=20190225045906)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/WorldMap-BrokenIsles-old1.jpg/revision/latest?cb=20190225045906)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/270?cb=20180908202003)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest?cb=20180908202003)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/AdventureMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/270?cb=20210414004128)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/AdventureMap-BrokenIsles.jpg/revision/latest?cb=20210414004128)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/AdventureMap-BrokenIslesDetailed.jpg/revision/latest/scale-to-width-down/270?cb=20210414203830)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/AdventureMap-BrokenIslesDetailed.jpg/revision/latest?cb=20210414203830)
-    
+
     Flight Map and Scouting Map when zoomed in, shows additional points of interest.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Broken_Isles_-_World_Map.png/revision/latest/scale-to-width-down/233?cb=20180414230444)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Broken_Isles_-_World_Map.png/revision/latest?cb=20180414230444)
-    
+
     _Legion_ world map.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/08/Broken_Isles_-_World_Map_BFA.jpg/revision/latest/scale-to-width-down/192?cb=20190114004052)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Broken_Isles_-_World_Map_BFA.jpg/revision/latest?cb=20190114004052)
-    
+
     _Battle for Azeroth_ world map.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/WorldMap-World-old8.jpg/revision/latest/scale-to-width-down/270?cb=20180413203728)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/WorldMap-World-old8.jpg/revision/latest?cb=20180413203728)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/27/WorldMap-World-BFA-Alpha.jpg/revision/latest/scale-to-width-down/270?cb=20180609000227)](https://static.wikia.nocookie.net/wowpedia/images/2/27/WorldMap-World-BFA-Alpha.jpg/revision/latest?cb=20180609000227)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/270?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450)
-    
+
 
 Other maps
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Warcraft_3_Loading_screen_Broken_Isles.jpg/revision/latest/scale-to-width-down/240?cb=20170416223638)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Warcraft_3_Loading_screen_Broken_Isles.jpg/revision/latest?cb=20170416223638)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Goblin_area_situated_on_the_map.jpg/revision/latest/scale-to-width-down/259?cb=20061009152504)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Goblin_area_situated_on_the_map.jpg/revision/latest?cb=20061009152504)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Azeroth_map_concept_Metzen_1999_wall_painting.jpg/revision/latest/scale-to-width-down/220?cb=20181120194524)](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Azeroth_map_concept_Metzen_1999_wall_painting.jpg/revision/latest?cb=20181120194524)
-    
+
     Early concept art with the Broken Isles and the Tomb of Sargeras west of Westfall.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/AzerothWRPG.jpg/revision/latest/scale-to-width-down/287?cb=20070729072421)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/AzerothWRPG.jpg/revision/latest?cb=20070729072421)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Kingdoms_concept_sketch.jpg/revision/latest/scale-to-width-down/139?cb=20210220164303)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Kingdoms_concept_sketch.jpg/revision/latest?cb=20210220164303)
-    
+
     Very early concept art.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/89/Broken_Isles_-_Chronicle_Volume_1.png/revision/latest/scale-to-width-down/180?cb=20180907161046)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Broken_Isles_-_Chronicle_Volume_1.png/revision/latest?cb=20180907161046)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/56/Broken_Isles_-_Chronicle_Volume_3.png/revision/latest/scale-to-width-down/171?cb=20190528145219)](https://static.wikia.nocookie.net/wowpedia/images/5/56/Broken_Isles_-_Chronicle_Volume_3.png/revision/latest?cb=20190528145219)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Legion_cinematic_Broken_Isles_map.jpg/revision/latest/scale-to-width-down/435?cb=20180826104524)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Legion_cinematic_Broken_Isles_map.jpg/revision/latest?cb=20180826104524)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Broken_Isles_original_layout.jpg/revision/latest/scale-to-width-down/320?cb=20180630150150)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Broken_Isles_original_layout.jpg/revision/latest?cb=20180630150150)
-    
+
     Gamescon 2015 original continent layout.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Azeroth_art_by_Dan_Wallace.jpg/revision/latest/scale-to-width-down/288?cb=20190108120809)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Azeroth_art_by_Dan_Wallace.jpg/revision/latest?cb=20190108120809)
-    
+
     Azeroth (with the Broken Isles) art by Dan Wallace.
-    
+
 
 BlizzCon 2015 zone images
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/WoW_7.0Zones_Azsuna_EM_002.png/revision/latest/scale-to-width-down/288?cb=20150806201321)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/WoW_7.0Zones_Azsuna_EM_002.png/revision/latest?cb=20150806201321)
-    
+
     Azsuna.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/WoW_7.0Zones_Azsuna_EM_006.png/revision/latest/scale-to-width-down/288?cb=20150806201907)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/WoW_7.0Zones_Azsuna_EM_006.png/revision/latest?cb=20150806201907)
-    
+
     Azsuna.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/WoW_7.0Zones_Azsuna_EM_008.png/revision/latest/scale-to-width-down/288?cb=20150806201918)](https://static.wikia.nocookie.net/wowpedia/images/7/74/WoW_7.0Zones_Azsuna_EM_008.png/revision/latest?cb=20150806201918)
-    
+
     Azsuna.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/WoW_7.0Zones_Azsuna_EM_012.png/revision/latest/scale-to-width-down/288?cb=20150806201928)](https://static.wikia.nocookie.net/wowpedia/images/4/47/WoW_7.0Zones_Azsuna_EM_012.png/revision/latest?cb=20150806201928)
-    
+
     Azsuna.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/41/WoW_7.0Zones_Highmountain_EM_006.png/revision/latest/scale-to-width-down/303?cb=20150806202510)](https://static.wikia.nocookie.net/wowpedia/images/4/41/WoW_7.0Zones_Highmountain_EM_006.png/revision/latest?cb=20150806202510)
-    
+
     Highmountain.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WoW_7.0Zones_Highmountain_EM_009.png/revision/latest/scale-to-width-down/308?cb=20170918181800)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WoW_7.0Zones_Highmountain_EM_009.png/revision/latest?cb=20170918181800)
-    
+
     Highmountain.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WoW_7.0Zones_Highmountain_EM_012.png/revision/latest/scale-to-width-down/288?cb=20150806202532)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WoW_7.0Zones_Highmountain_EM_012.png/revision/latest?cb=20150806202532)
-    
+
     Highmountain.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/de/WoW_7.0Zones_Highmountain_EM_013.png/revision/latest/scale-to-width-down/288?cb=20150806202542)](https://static.wikia.nocookie.net/wowpedia/images/d/de/WoW_7.0Zones_Highmountain_EM_013.png/revision/latest?cb=20150806202542)
-    
+
     Highmountain.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/33/WoW_7.0Zones_Stormheim_EM_002.png/revision/latest/scale-to-width-down/303?cb=20150806202555)](https://static.wikia.nocookie.net/wowpedia/images/3/33/WoW_7.0Zones_Stormheim_EM_002.png/revision/latest?cb=20150806202555)
-    
+
     Stormheim.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/WoW_7.0Zones_Stormheim_EM_003.png/revision/latest/scale-to-width-down/303?cb=20150806202607)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/WoW_7.0Zones_Stormheim_EM_003.png/revision/latest?cb=20150806202607)
-    
+
     Stormheim.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/WoW_7.0Zones_Stormheim_EM_007.png/revision/latest/scale-to-width-down/303?cb=20150806202946)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/WoW_7.0Zones_Stormheim_EM_007.png/revision/latest?cb=20150806202946)
-    
+
     Stormheim.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/WoW_7.0Zones_Stormheim_EM_011.png/revision/latest/scale-to-width-down/288?cb=20150806202955)](https://static.wikia.nocookie.net/wowpedia/images/a/a5/WoW_7.0Zones_Stormheim_EM_011.png/revision/latest?cb=20150806202955)
-    
+
     Stormheim.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/WoW_7.0Zones_ValSharah_EM_000.png/revision/latest/scale-to-width-down/303?cb=20150806203006)](https://static.wikia.nocookie.net/wowpedia/images/2/2a/WoW_7.0Zones_ValSharah_EM_000.png/revision/latest?cb=20150806203006)
-    
+
     Val'sharah.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/WoW_7.0Zones_ValSharah_EM_004.png/revision/latest/scale-to-width-down/303?cb=20150806203017)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/WoW_7.0Zones_ValSharah_EM_004.png/revision/latest?cb=20150806203017)
-    
+
     Val'sharah.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/WoW_7.0Zones_ValSharah_EM_011.png/revision/latest/scale-to-width-down/303?cb=20150806203029)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/WoW_7.0Zones_ValSharah_EM_011.png/revision/latest?cb=20150806203029)
-    
+
     Val'sharah.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/WoW_7.0Zones_ValSharah_EM_017.png/revision/latest/scale-to-width-down/288?cb=20150806203040)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/WoW_7.0Zones_ValSharah_EM_017.png/revision/latest?cb=20150806203040)
-    
+
     Val'sharah.
-    
+
 
 Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/BrokenIslesCompositeMap.jpg/revision/latest/scale-to-width-down/141?cb=20180929223223)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/BrokenIslesCompositeMap.jpg/revision/latest?cb=20180929223223)
-    
+
     Fan-made composite map by Subthermal.
-    
+
 
 ## Patch changes
 
--   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
-    
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.
+
 
 ## References
 
@@ -390,7 +390,7 @@ Fan art
 39.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-39)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45D\] [Vault of the Wardens: Borrowing Without Asking](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens:_Borrowing_Without_Asking)
 40.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-40)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Moments of Reflection](https://wowpedia.fandom.com/wiki/Moments_of_Reflection)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Broken_Isles "Template:Broken Isles")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Broken_Isles?action=edit)
 
@@ -401,11 +401,11 @@ Fan art
  |
 | --- |
 |  |
-| 
+|
 
 [![Broken Isles is an in-game continent](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Broken Isles is an in-game continent")
 
- | 
+ |
 
 -   [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna")
 -   [The Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore")
@@ -429,13 +429,13 @@ Fan art
 
 
 
- | 
+ |
 
 [![Map of the Broken Isles](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/120?cb=20180908202003)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest?cb=20180908202003 "Map of the Broken Isles")
 
  |
 |  |
-| 
+|
 
 [Broken Isles category](https://wowpedia.fandom.com/wiki/Category:Broken_Isles "Category:Broken Isles")
 
@@ -443,7 +443,7 @@ Fan art
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth "Template:Azeroth")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth?action=edit)
 
@@ -454,7 +454,7 @@ Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https:
  |
 | --- |
 |  |
-| [Continents](https://wowpedia.fandom.com/wiki/Continent "Continent") | 
+| [Continents](https://wowpedia.fandom.com/wiki/Continent "Continent") |
 
 -   [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
     -   [Balor](https://wowpedia.fandom.com/wiki/Balor "Balor")
@@ -470,13 +470,13 @@ Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https:
 
 
 
- | 
+ |
 
 [![Map of Azeroth](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/120?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450 "Map of Azeroth")
 
  |
 |  |
-| [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") | 
+| [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") |
 
 -   [Barren Atol](https://wowpedia.fandom.com/wiki/Barren_Atol "Barren Atol")
 -   **Broken Isles**
@@ -503,8 +503,8 @@ Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https:
 
  |
 |  |
-| Other [seas](https://wowpedia.fandom.com/wiki/Sea "Sea")  
-and [islands](https://wowpedia.fandom.com/wiki/Island "Island") | 
+| Other [seas](https://wowpedia.fandom.com/wiki/Sea "Sea")
+and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
 -   [The Forbidding Sea](https://wowpedia.fandom.com/wiki/Forbidding_Sea "Forbidding Sea")
 -   [Island Expeditions](https://wowpedia.fandom.com/wiki/Island_Expedition#Islands "Island Expedition")
@@ -521,7 +521,7 @@ and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
  |
 |  |
-| Miscellaneous | 
+| Miscellaneous |
 
 -   [Avaloren](https://wowpedia.fandom.com/wiki/Avaloren "Avaloren")
 -   [Khaz Algar](https://wowpedia.fandom.com/wiki/Khaz_Algar "Khaz Algar")
@@ -531,7 +531,7 @@ and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
  |
 |  |
-| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") |
 
 -   [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane")
 -   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
@@ -542,7 +542,7 @@ and [islands](https://wowpedia.fandom.com/wiki/Island "Island") |
 
  |
 |  |
-| 
+|
 
 [Azeroth category](https://wowpedia.fandom.com/wiki/Category:Azeroth "Category:Azeroth")
 

@@ -2,12 +2,12 @@
 | --- |
 | [![Furbolg Mossbinder.jpg](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Furbolg_Mossbinder.jpg/revision/latest/scale-to-width-down/200?cb=20210327150629)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Furbolg_Mossbinder.jpg/revision/latest?cb=20210327150629) |
 | Faction/Affiliation | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces"), [Primalists](https://wowpedia.fandom.com/wiki/Primalists "Primalists") |
-| Character classes | 
-[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Champion](https://wowpedia.fandom.com/wiki/Champion_(rank) "Champion (rank)"), [Druid](https://wowpedia.fandom.com/wiki/Druid "Druid"), [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-1">[1]</a></sup> [Shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman"),<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-2">[2]</a></sup> [Totemic](https://wowpedia.fandom.com/wiki/Totemic "Totemic"), [Tracker](https://wowpedia.fandom.com/wiki/Tracker "Tracker"), [Ursa](https://wowpedia.fandom.com/wiki/Ursa "Ursa"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-3">[3]</a></sup>  
-[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage")  
+| Character classes |
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Champion](https://wowpedia.fandom.com/wiki/Champion_(rank) "Champion (rank)"), [Druid](https://wowpedia.fandom.com/wiki/Druid "Druid"), [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-1">[1]</a></sup> [Shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman"),<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-2">[2]</a></sup> [Totemic](https://wowpedia.fandom.com/wiki/Totemic "Totemic"), [Tracker](https://wowpedia.fandom.com/wiki/Tracker "Tracker"), [Ursa](https://wowpedia.fandom.com/wiki/Ursa "Ursa"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-3">[3]</a></sup>
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage")
 
 [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [Barbarian](https://wowpedia.fandom.com/wiki/Barbarian "Barbarian"), [Fighter](https://wowpedia.fandom.com/wiki/Fighter "Fighter"), [Healer](https://wowpedia.fandom.com/wiki/Healer "Healer"), [Ursa totemic](https://wowpedia.fandom.com/wiki/Ursa_totemic "Ursa totemic") |
-| Racial capital | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Grizzlemaw](https://wowpedia.fandom.com/wiki/Grizzlemaw "Grizzlemaw")  
+| Racial capital | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Grizzlemaw](https://wowpedia.fandom.com/wiki/Grizzlemaw "Grizzlemaw")
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Timbermaw Hold](https://wowpedia.fandom.com/wiki/Timbermaw_Hold "Timbermaw Hold") |
 | Racial leader(s) | Tribal [chieftains](https://wowpedia.fandom.com/wiki/Chieftain "Chieftain") |
 | Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
@@ -48,7 +48,7 @@ In _Warcraft III_ the [Barkskin Furbolgs](https://wowpedia.fandom.com/wiki/Barks
 
 Two furbolgs fighting each other as depicted in _[Exploring Azeroth: Kalimdor](https://wowpedia.fandom.com/wiki/Exploring_Azeroth:_Kalimdor "Exploring Azeroth: Kalimdor")_.
 
-During the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), a tribe of furbolgs stationed near the borderline of [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale") was attacked by [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream") and the [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan") sent by [Neeloc Greedyfingers](https://wowpedia.fandom.com/wiki/Neeloc_Greedyfingers "Neeloc Greedyfingers") because they had been harassing the goblin. The [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") killed their chieftain and several members, and Neeloc hoped that the tribe would disperse by the death of their leader.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-12">[12]</a></sup> In Ashenvale, in a clearing housing a pool that was surrounded by furbolgs had [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") and [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") teleport there, the furbolgs fleed at their approach, but one who was slow was killed, the furbolgs continued to inhabit the surrounding forests as the orcs came into that area.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-13">[13]</a></sup><sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-14">[14]</a></sup>
+During the xref:ThirdWar.adoc[Third War], a tribe of furbolgs stationed near the borderline of [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale") was attacked by [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream") and the [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan") sent by [Neeloc Greedyfingers](https://wowpedia.fandom.com/wiki/Neeloc_Greedyfingers "Neeloc Greedyfingers") because they had been harassing the goblin. The [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") killed their chieftain and several members, and Neeloc hoped that the tribe would disperse by the death of their leader.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-12">[12]</a></sup> In Ashenvale, in a clearing housing a pool that was surrounded by furbolgs had [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") and [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") teleport there, the furbolgs fleed at their approach, but one who was slow was killed, the furbolgs continued to inhabit the surrounding forests as the orcs came into that area.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-13">[13]</a></sup><sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-14">[14]</a></sup>
 
 In Ashenvale, [a furbolg tribe](https://wowpedia.fandom.com/wiki/Felwood_Furbolgs "Felwood Furbolgs") was preparing to leave the place from the evil corrupting the lands, [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") located ten wandering tribesmen after which they were ready to evacuate their village with a [furbolg champion](https://wowpedia.fandom.com/wiki/Furbolg_Champion "Furbolg Champion") given to serve her as a reward.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-15">[15]</a></sup> In [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring"), Tyrande encountered the furbolgs that left Ashenvale, but it seemed they did not escape the corruption after all, with [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") never seeing furbolgs so aggressive before, so they killed them.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-16">[16]</a></sup> Later in the [Barrow Deeps](https://wowpedia.fandom.com/wiki/Barrow_Deeps "Barrow Deeps"), an ill [furbolg shaman](https://wowpedia.fandom.com/wiki/Furbolg_Shaman "Furbolg Shaman") of a small band of cave-dwelling furbolgs was saved by Tyrande as she brought a vial from a [fountain of life](https://wowpedia.fandom.com/wiki/Fountain_of_Health "Fountain of Health"), the shaman [gave](https://wowpedia.fandom.com/wiki/File:FurbolgConvo.jpg "File:FurbolgConvo.jpg") a [talisman](https://wowpedia.fandom.com/wiki/Talisman_of_the_Wild "Talisman of the Wild") that was able to summon furbolgs for aid in a fight. Also in the Barrow Deeps, a hidden trio of furbolgs was found that joined Malfurion's group.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Furbolg#cite_note-17">[17]</a></sup>
 
@@ -152,7 +152,7 @@ An entrance to Timbermaw tribe's capital [Timbermaw Hold](https://wowpedia.fando
 
 ### Uncorrupted
 
--   [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") [Barkskin](https://wowpedia.fandom.com/wiki/Barkskin_Furbolgs "Barkskin Furbolgs") — Found in [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). They assisted the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") and [humans](https://wowpedia.fandom.com/wiki/Human "Human") during the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal").
+-   [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") [Barkskin](https://wowpedia.fandom.com/wiki/Barkskin_Furbolgs "Barkskin Furbolgs") — Found in [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") during the xref:ThirdWar.adoc[Third War]. They assisted the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") and [humans](https://wowpedia.fandom.com/wiki/Human "Human") during the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal").
 -   [Blackmaw](https://wowpedia.fandom.com/wiki/Blackmaw_tribe "Blackmaw tribe") — Found in [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara"). They existed during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). Agents of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") attempted to ally with the Blackmaw but their efforts were thwarted by the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). They are led by [Ungarl](https://wowpedia.fandom.com/wiki/Ungarl "Ungarl").
 -   [Blackwood](https://wowpedia.fandom.com/wiki/Blackwood_tribe "Blackwood tribe") — Found in [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore"). They were led by [Elder Brownpaw](https://wowpedia.fandom.com/wiki/Elder_Brownpaw "Elder Brownpaw").
 -   [Bristlelimb](https://wowpedia.fandom.com/wiki/Bristlelimb_tribe "Bristlelimb tribe") — Found on the [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles"). They are rivals of the [Stillpine tribe](https://wowpedia.fandom.com/wiki/Stillpine_tribe "Stillpine tribe"). They are led by [High Chief Bristlelimb](https://wowpedia.fandom.com/wiki/High_Chief_Bristlelimb "High Chief Bristlelimb").
@@ -172,7 +172,7 @@ The furbolg city [Grizzlemaw](https://wowpedia.fandom.com/wiki/Grizzlemaw "Grizz
 
 -   [Bloodtooth](https://wowpedia.fandom.com/wiki/Bloodtooth_tribe "Bloodtooth tribe") — Found in [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"). They are led by [Ran Bloodtooth](https://wowpedia.fandom.com/wiki/Ran_Bloodtooth "Ran Bloodtooth").
 -   [Deadwood](https://wowpedia.fandom.com/wiki/Deadwood_tribe "Deadwood tribe") — Found in [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood"). They are rivals of the [Timbermaw tribe](https://wowpedia.fandom.com/wiki/Timbermaw_tribe "Timbermaw tribe"). They are presumably led by [Chieftain Bloodmaw](https://wowpedia.fandom.com/wiki/Chieftain_Bloodmaw "Chieftain Bloodmaw").
--   [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") [Felwood](https://wowpedia.fandom.com/wiki/Felwood_Furbolgs "Felwood Furbolgs") — Found in [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale") and [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").
+-   [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") [Felwood](https://wowpedia.fandom.com/wiki/Felwood_Furbolgs "Felwood Furbolgs") — Found in [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale") and [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring") during the xref:ThirdWar.adoc[Third War].
 -   [Foulweald](https://wowpedia.fandom.com/wiki/Foulweald_tribe "Foulweald tribe") — Found in [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"). They are led by [Chief Murgut](https://wowpedia.fandom.com/wiki/Chief_Murgut "Chief Murgut").
 -   [Frostpaw](https://wowpedia.fandom.com/wiki/Frostpaw_tribe "Frostpaw tribe") — Found in [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills"). They are rivals of the [Redfang tribe](https://wowpedia.fandom.com/wiki/Redfang_tribe "Redfang tribe").
 -   [Gnarlpine](https://wowpedia.fandom.com/wiki/Gnarlpine_tribe "Gnarlpine tribe") — Found in [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"). They are led by [Ursal](https://wowpedia.fandom.com/wiki/Ursal "Ursal") and [Ferocitas the Dream Eater](https://wowpedia.fandom.com/wiki/Ferocitas_the_Dream_Eater "Ferocitas the Dream Eater").
@@ -319,149 +319,149 @@ More specifically, "furbolg" is likely a pun on "[firbolg](http://en.wikipedia.o
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Ferocitas_the_Dream_Eater.jpg/revision/latest/scale-to-width-down/105?cb=20101125045810)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Ferocitas_the_Dream_Eater.jpg/revision/latest?cb=20101125045810)
-    
+
     A furbolg from original _World of Warcraft_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Redfang_Hunter.jpg/revision/latest/scale-to-width-down/120?cb=20090103140343)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Redfang_Hunter.jpg/revision/latest?cb=20090103140343)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Barst.png/revision/latest/scale-to-width-down/107?cb=20220907193519)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Barst.png/revision/latest?cb=20220907193519)
-    
+
     A furbolg from _Dragonflight_.
-    
+
 
 -   [](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Furbolgcomic.JPG/revision/latest?cb=20080926064041)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Northredndcreaturex.jpg/revision/latest/scale-to-width-down/120?cb=20220512182833)](https://static.wikia.nocookie.net/wowpedia/images/1/10/Northredndcreaturex.jpg/revision/latest?cb=20220512182833)
-    
+
     _Wrath of the Lich King_ furbolg concept art.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Furbolg_WotLK_artbook.jpg/revision/latest/scale-to-width-down/76?cb=20220911235931)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Furbolg_WotLK_artbook.jpg/revision/latest?cb=20220911235931)
-    
+
     _Wrath of the Lich King_ furbolg concept art.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/51/FurbolgHut.png/revision/latest/scale-to-width-down/120?cb=20150704235229)](https://static.wikia.nocookie.net/wowpedia/images/5/51/FurbolgHut.png/revision/latest?cb=20150704235229)
-    
+
     _Warcraft III_ furbolg hut.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Krolg%27s_Hut.png/revision/latest/scale-to-width-down/120?cb=20210425021306)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Krolg%27s_Hut.png/revision/latest?cb=20210425021306)
-    
+
     A furbolg hut from _World of Warcraft_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Heart%27s_Blood_Shrine.jpg/revision/latest/scale-to-width-down/120?cb=20090530014356)](https://static.wikia.nocookie.net/wowpedia/images/3/30/Heart%27s_Blood_Shrine.jpg/revision/latest?cb=20090530014356)
-    
+
     A furbolg shrine in the Grizzly Hills.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/80/Grizzlemaw.jpg/revision/latest/scale-to-width-down/120?cb=20081226224317)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Grizzlemaw.jpg/revision/latest?cb=20081226224317)
-    
+
     Grizzlemaw the furbolg city in the Grizzly Hills.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Smolderhide_Thicket.jpg/revision/latest/scale-to-width-down/120?cb=20181001174432)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Smolderhide_Thicket.jpg/revision/latest?cb=20181001174432)
-    
+
     A furbolg settlement in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Furbolg_dragonflight.jpg/revision/latest/scale-to-width-down/120?cb=20220925170808)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Furbolg_dragonflight.jpg/revision/latest?cb=20220925170808)
-    
+
     A furbolg settlement in _Dragonflight_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Stoneheart.jpg/revision/latest/scale-to-width-down/120?cb=20221229121654)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Stoneheart.jpg/revision/latest?cb=20221229121654)
-    
+
     Stoneheart.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Grizzley_Hills.jpg/revision/latest/scale-to-width-down/83?cb=20191006200526)](https://static.wikia.nocookie.net/wowpedia/images/4/48/Grizzley_Hills.jpg/revision/latest?cb=20191006200526)
-    
+
     Grizzly Hills concept art of a furbolg village.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/01/Unknownconcept.jpg/revision/latest/scale-to-width-down/120?cb=20200421004857)](https://static.wikia.nocookie.net/wowpedia/images/0/01/Unknownconcept.jpg/revision/latest?cb=20200421004857)
-    
+
     Grizzly Hills concept art of a furbolg village.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Env-grizzlemawa-large.jpg/revision/latest/scale-to-width-down/120?cb=20220512174254)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Env-grizzlemawa-large.jpg/revision/latest?cb=20220512174254)
-    
+
     Grizzlemaw concept art of the furbolg city.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Region-grizzlemaw-large.jpg/revision/latest/scale-to-width-down/120?cb=20220512192845)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Region-grizzlemaw-large.jpg/revision/latest?cb=20220512192845)
-    
+
     Grizzlemaw concept art of the furbolg city.
-    
+
 
 RPG
 
 -   [](https://static.wikia.nocookie.net/wowpedia/images/e/ed/AllianceFurbolgs.JPG/revision/latest?cb=20070917111621)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Grizzly_HillsArt.jpg/revision/latest/scale-to-width-down/120?cb=20070819060041)](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Grizzly_HillsArt.jpg/revision/latest?cb=20070819060041)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Caverns_of_Mazthoril_Lands_of_Mystery.jpg/revision/latest/scale-to-width-down/120?cb=20210606001718)](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Caverns_of_Mazthoril_Lands_of_Mystery.jpg/revision/latest?cb=20210606001718)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Furbolg_APG.jpg/revision/latest/scale-to-width-down/89?cb=20210614184801)](https://static.wikia.nocookie.net/wowpedia/images/2/21/Furbolg_APG.jpg/revision/latest?cb=20210614184801)
-    
+
 
 TCG
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Timbermaw_Ally_art.jpg/revision/latest/scale-to-width-down/120?cb=20160208152645)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Timbermaw_Ally_art.jpg/revision/latest?cb=20160208152645)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Falling_to_Corruption_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606005155)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Falling_to_Corruption_TCG.jpg/revision/latest?cb=20210606005155)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Furbolg_Champion_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210329001656)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Furbolg_Champion_TCG.jpg/revision/latest?cb=20210329001656)
-    
+
     Furbolg Champion, a warrior.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Corrupted_Furbolg_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210329002142)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Corrupted_Furbolg_TCG.jpg/revision/latest?cb=20210329002142)
-    
+
     Corrupted Furbolg, a shaman of the Deadwood tribe.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/64/Furbolg_Chieftain_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606000446)](https://static.wikia.nocookie.net/wowpedia/images/6/64/Furbolg_Chieftain_TCG.jpg/revision/latest?cb=20210606000446)
-    
+
     Furbolg Chieftain, a warrior.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/60/Furbolg_Shaman_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606003805)](https://static.wikia.nocookie.net/wowpedia/images/6/60/Furbolg_Shaman_TCG.jpg/revision/latest?cb=20210606003805)
-    
+
     Furbolg Shaman.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Furbolg_Spiritbinder_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606004337)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Furbolg_Spiritbinder_TCG.jpg/revision/latest?cb=20210606004337)
-    
+
     Furbolg Spiritbinder, a shaman.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Bigbelly_Furbolg_Chieftain_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606210611)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Bigbelly_Furbolg_Chieftain_TCG.jpg/revision/latest?cb=20210606210611)
-    
+
     Bigbelly, Furbolg Chieftain, a shaman.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Child_of_Ursol_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606210704)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Child_of_Ursol_TCG.jpg/revision/latest?cb=20210606210704)
-    
+
     Child of Ursol, classified as a Bear Beast.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Furbolg_Avenger_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606210854)](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Furbolg_Avenger_TCG.jpg/revision/latest?cb=20210606210854)
-    
+
     Furbolg Avenger, a warrior.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Furbolg_Firecaller_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606210948)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Furbolg_Firecaller_TCG.jpg/revision/latest?cb=20210606210948)
-    
+
     Furbolg Firecaller, a shaman.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Rampaging_Furbolg_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606211053)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Rampaging_Furbolg_TCG.jpg/revision/latest?cb=20210606211053)
-    
+
     Rampaging Furbolg, a warrior.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Ravenous_Furbolg_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210606210511)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Ravenous_Furbolg_TCG.jpg/revision/latest?cb=20210606210511)
-    
+
     Ravenous Furbolg, a hunter.
-    
+
 
 _Hearthstone_
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Blackseed.jpg/revision/latest/scale-to-width-down/96?cb=20171231183117)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Blackseed.jpg/revision/latest?cb=20171231183117)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Bristlesnarl.jpg/revision/latest/scale-to-width-down/103?cb=20180121025759)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Bristlesnarl.jpg/revision/latest?cb=20180121025759)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Elder_Brandlemar.jpg/revision/latest/scale-to-width-down/106?cb=20171225100546)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Elder_Brandlemar.jpg/revision/latest?cb=20171225100546)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Elder_Jari.jpg/revision/latest/scale-to-width-down/120?cb=20171231183544)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Elder_Jari.jpg/revision/latest?cb=20171231183544)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Frostfur.jpg/revision/latest/scale-to-width-down/102?cb=20171228181736)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Frostfur.jpg/revision/latest?cb=20171228181736)
-    
+
 
 ## See also
 
@@ -566,13 +566,13 @@ _Hearthstone_
  |
 | --- |
 |  |
-| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") |
 
 <table><tbody><tr><th scope="row">Corrupted</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodtooth_tribe" title="Bloodtooth tribe">Bloodtooth</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deadwood_tribe" title="Deadwood tribe">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felwood_Furbolgs" title="Felwood Furbolgs">Felwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Foulweald_tribe" title="Foulweald tribe">Foulweald</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnarlpine_tribe" title="Gnarlpine tribe">Gnarlpine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Thistlefur_tribe" title="Thistlefur tribe">Thistlefur</a></li><li><a href="https://wowpedia.fandom.com/wiki/Winterfall_tribe" title="Winterfall tribe">Winterfall</a></li><li><a href="https://wowpedia.fandom.com/wiki/Warcraft_RPG" title="Warcraft RPG"><img alt="Icon-RPG.png" decoding="async" loading="lazy" width="48" height="20" data-image-name="Icon-RPG.png" data-image-key="Icon-RPG.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632" src="https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632"></a> <a href="https://wowpedia.fandom.com/wiki/Felpaw_clan" title="Felpaw clan">Felpaw</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Uncorrupted</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Barkskin_Furbolgs" title="Barkskin Furbolgs">Barkskin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackmaw_tribe" title="Blackmaw tribe">Blackmaw</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackwood_tribe" title="Blackwood tribe">Blackwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bristlelimb_tribe" title="Bristlelimb tribe">Bristlelimb</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stillpine_tribe" title="Stillpine tribe">Stillpine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Timbermaw_tribe" title="Timbermaw tribe">Timbermaw</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
 
 -   [Frostpaw](https://wowpedia.fandom.com/wiki/Frostpaw_tribe "Frostpaw tribe")
 -   [Redfang](https://wowpedia.fandom.com/wiki/Redfang_tribe "Redfang tribe")
@@ -584,7 +584,7 @@ _Hearthstone_
 
  |
 |  |
-| [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") | 
+| [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") |
 
 -   [Longclaw](https://wowpedia.fandom.com/wiki/Longclaw_tribe "Longclaw tribe")
 -   Rustpine
@@ -594,7 +594,7 @@ _Hearthstone_
 
  |
 |  |
-| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") |
 
 -   [Grizzleweald](https://wowpedia.fandom.com/wiki/Grizzleweald_tribe "Grizzleweald tribe")
 -   [Smolderhide](https://wowpedia.fandom.com/wiki/Smolderhide_tribe "Smolderhide tribe")
@@ -604,7 +604,7 @@ _Hearthstone_
 
  |
 |  |
-| [Verdant Wilds](https://wowpedia.fandom.com/wiki/Verdant_Wilds "Verdant Wilds") | 
+| [Verdant Wilds](https://wowpedia.fandom.com/wiki/Verdant_Wilds "Verdant Wilds") |
 
 -   [Wildlands](https://wowpedia.fandom.com/wiki/Wildlands_tribe "Wildlands tribe")
 
@@ -612,7 +612,7 @@ _Hearthstone_
 
  |
 |  |
-| 
+|
 
 [Furbolg category](https://wowpedia.fandom.com/wiki/Category:Furbolgs "Category:Furbolgs")
 

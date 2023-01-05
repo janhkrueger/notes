@@ -4,32 +4,32 @@ _For further reading, see [Western Plaguelands](https://wowpedia.fandom.com/wiki
 | --- |
 | Level: 35 - 60 |
 | [![Eastern Plaguelands East Side.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Plaguelands_East_Side.jpg/revision/latest/scale-to-width-down/260?cb=20111031215828)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Plaguelands_East_Side.jpg/revision/latest?cb=20111031215828) |
-| Capital(s) | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen")  
+| Capital(s) | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen")
 [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") |
-| Races | [![Scourge](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest/scale-to-width-down/16?cb=20211201224530)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Banshee.gif/revision/latest/scale-to-width-down/16?cb=20211130195538)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/e/e0/IconSmall_Ghoul.gif/revision/latest/scale-to-width-down/16?cb=20211130170819)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://wowpedia.fandom.com/wiki/Scourge "Scourge") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")  
-[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
-[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
-[![Forest troll](https://static.wikia.nocookie.net/wowpedia/images/e/ea/IconSmall_ForestTroll_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118182424)](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")[![Forest troll](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_ForestTroll_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118183845)](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll") [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")  
-[![Undead troll](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_UndeadTroll_Male.gif/revision/latest/scale-to-width-down/16?cb=20211130192217)](https://wowpedia.fandom.com/wiki/Troll "Undead troll")[![Undead troll](https://static.wikia.nocookie.net/wowpedia/images/4/44/IconSmall_UndeadTroll_Female.gif/revision/latest/scale-to-width-down/16?cb=20211130192036)](https://wowpedia.fandom.com/wiki/Troll "Undead troll") [Undead troll](https://wowpedia.fandom.com/wiki/Troll "Troll")  
-[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
-[![Wretched](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Wretched.gif/revision/latest/scale-to-width-down/16?cb=20200529213643)](https://wowpedia.fandom.com/wiki/Wretched "Wretched") [Wretched](https://wowpedia.fandom.com/wiki/Wretched "Wretched")  
-[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
-[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
+| Races | [![Scourge](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest/scale-to-width-down/16?cb=20211201224530)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Banshee.gif/revision/latest/scale-to-width-down/16?cb=20211130195538)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/e/e0/IconSmall_Ghoul.gif/revision/latest/scale-to-width-down/16?cb=20211130170819)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://wowpedia.fandom.com/wiki/Scourge "Scourge") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+[![Forest troll](https://static.wikia.nocookie.net/wowpedia/images/e/ea/IconSmall_ForestTroll_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118182424)](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")[![Forest troll](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_ForestTroll_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118183845)](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll") [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")
+[![Undead troll](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_UndeadTroll_Male.gif/revision/latest/scale-to-width-down/16?cb=20211130192217)](https://wowpedia.fandom.com/wiki/Troll "Undead troll")[![Undead troll](https://static.wikia.nocookie.net/wowpedia/images/4/44/IconSmall_UndeadTroll_Female.gif/revision/latest/scale-to-width-down/16?cb=20211130192036)](https://wowpedia.fandom.com/wiki/Troll "Undead troll") [Undead troll](https://wowpedia.fandom.com/wiki/Troll "Troll")
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")
+[![Wretched](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Wretched.gif/revision/latest/scale-to-width-down/16?cb=20200529213643)](https://wowpedia.fandom.com/wiki/Wretched "Wretched") [Wretched](https://wowpedia.fandom.com/wiki/Wretched "Wretched")
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
 [![Gnoll](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Gnoll.gif/revision/latest/scale-to-width-down/16?cb=20220815094250)](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") [Gnoll](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") |
 | Former ruler(s) | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")  ![](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Terenas.gif/revision/latest/scale-to-width-down/16?cb=20211214091753)[Terenas Menethil](https://wowpedia.fandom.com/wiki/Terenas_Menethil "Terenas Menethil") <sup>&nbsp;†</sup> |
-| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Scarlet Enclave](https://wowpedia.fandom.com/wiki/Ruins_of_the_Scarlet_Enclave "Ruins of the Scarlet Enclave")  
+| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Scarlet Enclave](https://wowpedia.fandom.com/wiki/Ruins_of_the_Scarlet_Enclave "Ruins of the Scarlet Enclave")
 [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Zul'Mashar](https://wowpedia.fandom.com/wiki/Zul%27Mashar "Zul'Mashar") |
-| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Light%27s_Hope_Chapel "Light's Hope Chapel")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Caer Darrow](https://wowpedia.fandom.com/wiki/Caer_Darrow "Caer Darrow")  
-[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Corin's Crossing](https://wowpedia.fandom.com/wiki/Corin%27s_Crossing "Corin's Crossing")  
-[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Terrordale](https://wowpedia.fandom.com/wiki/Terrordale "Terrordale")  
+| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Light%27s_Hope_Chapel "Light's Hope Chapel")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Caer Darrow](https://wowpedia.fandom.com/wiki/Caer_Darrow "Caer Darrow")
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Corin's Crossing](https://wowpedia.fandom.com/wiki/Corin%27s_Crossing "Corin's Crossing")
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Terrordale](https://wowpedia.fandom.com/wiki/Terrordale "Terrordale")
 [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Northdale](https://wowpedia.fandom.com/wiki/Northdale "Northdale") |
 | Affiliation | [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") |
 | Location | Northern [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") |
 
-The **Plaguelands**, also referred to as the **Plagues**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-1">[1]</a></sup> and originally called the **Eastweald**,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-2">[2]</a></sup> and sometimes including all of the [Northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands") (that is globally composed by the northern regions of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron")), are the regions that were most corrupted by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").
+The **Plaguelands**, also referred to as the **Plagues**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-1">[1]</a></sup> and originally called the **Eastweald**,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-2">[2]</a></sup> and sometimes including all of the [Northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands") (that is globally composed by the northern regions of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron")), are the regions that were most corrupted by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") during the xref:ThirdWar.adoc[Third War].
 
 ## History
 
@@ -93,60 +93,60 @@ _Main article: [Eastern Plaguelands#In the RPG](https://wowpedia.fandom.com/wiki
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4a/The_Dark_Lady_-_Plaguelands_1.jpg/revision/latest/scale-to-width-down/120?cb=20180923162904)](https://static.wikia.nocookie.net/wowpedia/images/4/4a/The_Dark_Lady_-_Plaguelands_1.jpg/revision/latest?cb=20180923162904)
-    
+
     Plaguelands in _The Frozen Throne_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/The_Dark_Lady_-_Plaguelands_2.jpg/revision/latest/scale-to-width-down/120?cb=20180923162908)](https://static.wikia.nocookie.net/wowpedia/images/8/82/The_Dark_Lady_-_Plaguelands_2.jpg/revision/latest?cb=20180923162908)
-    
+
     Plaguelands in _The Frozen Throne_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/The_Menders%27_Stead.jpg/revision/latest/scale-to-width-down/120?cb=20100824211917)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/The_Menders%27_Stead.jpg/revision/latest?cb=20100824211917)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Eastern_Plaguelands_East_Side2.jpg/revision/latest/scale-to-width-down/120?cb=20111031215828)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Eastern_Plaguelands_East_Side2.jpg/revision/latest?cb=20111031215828)
-    
+
     The Eastern Plaguelands.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Plaguewood.jpg/revision/latest/scale-to-width-down/120?cb=20061231142211)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Plaguewood.jpg/revision/latest?cb=20061231142211)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Plaguelands_Forest_concept_1.jpg/revision/latest/scale-to-width-down/120?cb=20210221012226)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Plaguelands_Forest_concept_1.jpg/revision/latest?cb=20210221012226)
-    
+
     Plaguelands Forest concept, digital painting by [Bill Petras](https://wowpedia.fandom.com/wiki/Bill_Petras "Bill Petras").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Plaguelands_Forest_concept_2.jpg/revision/latest/scale-to-width-down/120?cb=20210221012253)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Plaguelands_Forest_concept_2.jpg/revision/latest?cb=20210221012253)
-    
+
     Plaguelands Forest concept, digital painting by Bill Petras.
-    
+
 -   [![Plaguelands-1024x.jpg](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Plaguelands-1024x.jpg/revision/latest/scale-to-width-down/120?cb=20180519235648)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Plaguelands-1024x.jpg/revision/latest?cb=20180519235648)
-    
+
 
 Maps
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/73/WC3x-A01.jpg/revision/latest/scale-to-width-down/120?cb=20080928045650)](https://static.wikia.nocookie.net/wowpedia/images/7/73/WC3x-A01.jpg/revision/latest?cb=20080928045650)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/WoWCE_-_Lordaeron.jpg/revision/latest/scale-to-width-down/120?cb=20161016183720)](https://static.wikia.nocookie.net/wowpedia/images/5/59/WoWCE_-_Lordaeron.jpg/revision/latest?cb=20161016183720)
-    
+
     The Plaguelands as a single area in an early _[WoW](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ map.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/01/ABE_-_Lordaeron_and_Khaz_Modan_map.jpg/revision/latest/scale-to-width-down/84?cb=20171021122353)](https://static.wikia.nocookie.net/wowpedia/images/0/01/ABE_-_Lordaeron_and_Khaz_Modan_map.jpg/revision/latest?cb=20171021122353)
-    
+
     Similarly in another concept map.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/WorldMap-WesternPlaguelands-old.jpg/revision/latest/scale-to-width-down/120?cb=20191219212836)](https://static.wikia.nocookie.net/wowpedia/images/6/61/WorldMap-WesternPlaguelands-old.jpg/revision/latest?cb=20191219212836)
-    
+
     Map of the Western Plaguelands in _Classic_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Eastern_Plaguelands_Map.jpg/revision/latest/scale-to-width-down/120?cb=20060901115342)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Eastern_Plaguelands_Map.jpg/revision/latest?cb=20060901115342)
-    
+
     Map of the Eastern Plaguelands in _Classic_ (including the PvP towers).
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/WorldMap-EasternPlaguelands-old.jpg/revision/latest/scale-to-width-down/120?cb=20081018143636)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/WorldMap-EasternPlaguelands-old.jpg/revision/latest?cb=20081018143636)
-    
+
     Map of the Eastern Plaguelands in _Wrath of the Lich King_.
-    
+
 
 ## References
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms "Template:Eastern Kingdoms")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms?action=edit)
 
@@ -157,7 +157,7 @@ Maps
  |
 | --- |
 |  |
-| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") | 
+| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") |
 
 -   [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands")
     -   [Classic](https://wowpedia.fandom.com/wiki/Blasted_Lands_(Classic) "Blasted Lands (Classic)")
@@ -183,13 +183,13 @@ Maps
 
 
 
- | 
+ |
 
 [![Map of the Eastern Kingdoms](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest/scale-to-width-down/120?cb=20220313123633)](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest?cb=20220313123633 "Map of the Eastern Kingdoms")
 
  |
 |  |
-| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") | 
+| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") |
 
 -   [The Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands")
     -   [Classic](https://wowpedia.fandom.com/wiki/Badlands_(Classic) "Badlands (Classic)")
@@ -209,7 +209,7 @@ Maps
 
  |
 |  |
-| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") | 
+| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") |
 
 -   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains_(Classic) "Alterac Mountains (Classic)")
 -   [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands")
@@ -244,7 +244,7 @@ Maps
 
  |
 |  |
-| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") | 
+| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") |
 
 -   [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths")
 -   [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest")
@@ -254,7 +254,7 @@ Maps
 
  |
 |  |
-| 
+|
 
 [Eastern Kingdoms category](https://wowpedia.fandom.com/wiki/Category:Eastern_Kingdoms "Category:Eastern Kingdoms")
 

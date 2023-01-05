@@ -4,16 +4,16 @@ _This article is about the in-game ruins. For the history before the ruins, see 
 | --- |
 | [![BfALordaeron Ruins 2.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/79/BfALordaeron_Ruins_2.jpg/revision/latest/scale-to-width-down/260?cb=20180807162204)](https://static.wikia.nocookie.net/wowpedia/images/7/79/BfALordaeron_Ruins_2.jpg/revision/latest?cb=20180807162204) |
 | Type | City ruins |
-| Races | [![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
-[![Undead elf](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516215246)](https://wowpedia.fandom.com/wiki/Elf "Undead elf")[![Undead elf](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_UndeadElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517011433)](https://wowpedia.fandom.com/wiki/Elf "Undead elf")[![IconSmall UndeadNightElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/4/45/IconSmall_UndeadNightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200529232348)](https://static.wikia.nocookie.net/wowpedia/images/4/45/IconSmall_UndeadNightElf_Male.gif/revision/latest?cb=20200529232348)[![IconSmall UndeadNightElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/7c/IconSmall_UndeadNightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200530211801)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/IconSmall_UndeadNightElf_Female.gif/revision/latest?cb=20200530211801) [Darkfallen](https://wowpedia.fandom.com/wiki/Darkfallen "Darkfallen")  
+| Races | [![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+[![Undead elf](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516215246)](https://wowpedia.fandom.com/wiki/Elf "Undead elf")[![Undead elf](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_UndeadElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517011433)](https://wowpedia.fandom.com/wiki/Elf "Undead elf")[![IconSmall UndeadNightElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/4/45/IconSmall_UndeadNightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200529232348)](https://static.wikia.nocookie.net/wowpedia/images/4/45/IconSmall_UndeadNightElf_Male.gif/revision/latest?cb=20200529232348)[![IconSmall UndeadNightElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/7c/IconSmall_UndeadNightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200530211801)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/IconSmall_UndeadNightElf_Female.gif/revision/latest?cb=20200530211801) [Darkfallen](https://wowpedia.fandom.com/wiki/Darkfallen "Darkfallen")
 [![IconSmall Abomination.gif](https://static.wikia.nocookie.net/wowpedia/images/a/a6/IconSmall_Abomination.gif/revision/latest/scale-to-width-down/16?cb=20211130162827)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/IconSmall_Abomination.gif/revision/latest?cb=20211130162827) [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination") |
-|   Formerly | [![IconSmall Skeleton.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest?cb=20211201223423) [Skeletons](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton")  
+|   Formerly | [![IconSmall Skeleton.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest?cb=20211201223423) [Skeletons](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton")
 [![IconSmall Wraith.gif](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Wraith.gif/revision/latest/scale-to-width-down/16?cb=20211130195839)](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Wraith.gif/revision/latest?cb=20211130195839) [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith") |
 | Ruler(s) | [![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") |
-| Former ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Sylvanas.gif/revision/latest/scale-to-width-down/16?cb=20221104223320)[Queen Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")  
- ![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest/scale-to-width-down/16?cb=20211125155053)[Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")  
- ![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest/scale-to-width-down/16?cb=20211125155053)[Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar")  
- ![](https://static.wikia.nocookie.net/wowpedia/images/4/4a/IconSmall_Dreadlord2.gif/revision/latest/scale-to-width-down/16?cb=20211125154547)[Detheroc](https://wowpedia.fandom.com/wiki/Detheroc "Detheroc")  
+| Former ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Sylvanas.gif/revision/latest/scale-to-width-down/16?cb=20221104223320)[Queen Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+ ![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest/scale-to-width-down/16?cb=20211125155053)[Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+ ![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest/scale-to-width-down/16?cb=20211125155053)[Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar")
+ ![](https://static.wikia.nocookie.net/wowpedia/images/4/4a/IconSmall_Dreadlord2.gif/revision/latest/scale-to-width-down/16?cb=20211125154547)[Detheroc](https://wowpedia.fandom.com/wiki/Detheroc "Detheroc")
  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_ArthasDK.gif/revision/latest/scale-to-width-down/16?cb=20200521105544)[King Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") |
 | Affiliation | [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") |
 | Former affiliation(s) | [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), [Dreadlord Insurgents](https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents "Dreadlord Insurgents"), [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") |
@@ -40,7 +40,7 @@ The entrance to the Ruins of Lordaeron in _Classic_.
 
 After the massacre of its citizens at the hands of the Scourge and the destruction of the city and its [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") defenders, the ruins were overseen by [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"), [Detheroc](https://wowpedia.fandom.com/wiki/Detheroc "Detheroc"), and [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras").
 
-Several months after the end of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), detachments of the surviving [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") emerged from the rubble of the Lordaeron to form a resistance against the Scourge and to protect those who fled to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), recaptured by the [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") led by [Grand Marshal Garithos](https://wowpedia.fandom.com/wiki/Grand_Marshal_Garithos "Grand Marshal Garithos").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-4">[4]</a></sup> Among them, the [Crippling Force](https://wowpedia.fandom.com/wiki/Crippling_Force "Crippling Force"), the [Defenders of Justice](https://wowpedia.fandom.com/wiki/Defenders_of_Justice "Defenders of Justice") and the [Circle of Holy Light](https://wowpedia.fandom.com/wiki/Circle_of_Holy_Light "Circle of Holy Light") guarded the ruined [Lordaeron palace gardens](https://wowpedia.fandom.com/wiki/Lordaeron_palace_gardens "Lordaeron palace gardens"), respectively under the command of [Dagren the Orcslayer](https://wowpedia.fandom.com/wiki/Dagren_the_Orcslayer "Dagren the Orcslayer"), [Magroth the Defender](https://wowpedia.fandom.com/wiki/Magroth_the_Defender "Magroth the Defender") and [Halahk the Lifebringer](https://wowpedia.fandom.com/wiki/Halahk_the_Lifebringer "Halahk the Lifebringer"). However, their combined efforts were not enough, as they were defeated by [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") on their return from [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), enabling the Scourge to murder the survivors and destroyed the resistance.<sup id="cite_ref-W3xU1_5-0"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-W3xU1-5">[5]</a></sup> After his victory, Arthas ousted the dreadlords of the ruined city and named himself [King of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-6">[6]</a></sup>
+Several months after the end of the xref:ThirdWar.adoc[Third War], detachments of the surviving [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") emerged from the rubble of the Lordaeron to form a resistance against the Scourge and to protect those who fled to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), recaptured by the [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") led by [Grand Marshal Garithos](https://wowpedia.fandom.com/wiki/Grand_Marshal_Garithos "Grand Marshal Garithos").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-4">[4]</a></sup> Among them, the [Crippling Force](https://wowpedia.fandom.com/wiki/Crippling_Force "Crippling Force"), the [Defenders of Justice](https://wowpedia.fandom.com/wiki/Defenders_of_Justice "Defenders of Justice") and the [Circle of Holy Light](https://wowpedia.fandom.com/wiki/Circle_of_Holy_Light "Circle of Holy Light") guarded the ruined [Lordaeron palace gardens](https://wowpedia.fandom.com/wiki/Lordaeron_palace_gardens "Lordaeron palace gardens"), respectively under the command of [Dagren the Orcslayer](https://wowpedia.fandom.com/wiki/Dagren_the_Orcslayer "Dagren the Orcslayer"), [Magroth the Defender](https://wowpedia.fandom.com/wiki/Magroth_the_Defender "Magroth the Defender") and [Halahk the Lifebringer](https://wowpedia.fandom.com/wiki/Halahk_the_Lifebringer "Halahk the Lifebringer"). However, their combined efforts were not enough, as they were defeated by [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") on their return from [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), enabling the Scourge to murder the survivors and destroyed the resistance.<sup id="cite_ref-W3xU1_5-0"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-W3xU1-5">[5]</a></sup> After his victory, Arthas ousted the dreadlords of the ruined city and named himself [King of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-6">[6]</a></sup>
 
 When [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") recalled Arthas to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), Balnazzar took control over the city once again. The combined forces of Grand Marshal Garithos and Sylvanas Windrunner defeated Balnazzar, at which point Sylvanas betrayed her [allies](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") and took the city for herself.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-7">[7]</a></sup> The [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), which lies beneath the ruins of the city, became the capital of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken").
 
@@ -98,7 +98,7 @@ After retaking [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill") and bring
 
 [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
 
-Lordaeron's capital city stood for centuries, a monument to humanity's might. In the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), [Prince Arthas](https://wowpedia.fandom.com/wiki/Prince_Arthas "Prince Arthas") slew his father [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas") in Lordaeron's [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") and ransacked the city. He planned to use Lordaeron as his capital on this continent and ordered his minions to expand the catacombs beneath the city. Then the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") summoned Arthas to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and the work was left uncompleted.
+Lordaeron's capital city stood for centuries, a monument to humanity's might. In the xref:ThirdWar.adoc[Third War], [Prince Arthas](https://wowpedia.fandom.com/wiki/Prince_Arthas "Prince Arthas") slew his father [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas") in Lordaeron's [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") and ransacked the city. He planned to use Lordaeron as his capital on this continent and ordered his minions to expand the catacombs beneath the city. Then the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") summoned Arthas to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and the work was left uncompleted.
 
 During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") broke free of the Lich King's control and took many [banshees](https://wowpedia.fandom.com/wiki/Banshee "Banshee") and other [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") with her. With [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")' assistance she defeated the [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") that controlled the city and set her newly dubbed [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") to finish Arthas' job in the dungeons. The Forsaken carved [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") and now rule the surrounding countryside.<sup id="cite_ref-LoC109_12-0"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-LoC109-12">[12]</a></sup>
 
@@ -110,63 +110,63 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Ruins_of_Lordaeron_-_entrance.jpg/revision/latest/scale-to-width-down/321?cb=20220705085200)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Ruins_of_Lordaeron_-_entrance.jpg/revision/latest?cb=20220705085200)
-    
+
     Entrance.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Ruins_of_Lordaeron_-_portal_room.jpg/revision/latest/scale-to-width-down/321?cb=20220705085208)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Ruins_of_Lordaeron_-_portal_room.jpg/revision/latest?cb=20220705085208)
-    
+
     Portal room.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Ruins_of_Lordaeron_-_inhabited_area.jpg/revision/latest/scale-to-width-down/321?cb=20220705085206)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Ruins_of_Lordaeron_-_inhabited_area.jpg/revision/latest?cb=20220705085206)
-    
+
     Inhabited area.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Ruins_of_Lordaeron_-_inhabited_area_2.jpg/revision/latest/scale-to-width-down/321?cb=20220705085202)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Ruins_of_Lordaeron_-_inhabited_area_2.jpg/revision/latest?cb=20220705085202)
-    
+
     Inhabited area.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/37/Ruins_of_Lordaeron_-_inhabited_area_3.jpg/revision/latest/scale-to-width-down/374?cb=20220705085204)](https://static.wikia.nocookie.net/wowpedia/images/3/37/Ruins_of_Lordaeron_-_inhabited_area_3.jpg/revision/latest?cb=20220705085204)
-    
+
     Inhabited area.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Ruins_of_Lordaeron_-_southern_area.jpg/revision/latest/scale-to-width-down/321?cb=20220705085719)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Ruins_of_Lordaeron_-_southern_area.jpg/revision/latest?cb=20220705085719)
-    
+
     Overview of the southern area.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/The_Flight_from_Lordaeron_-_Ruins_of_Lordaeron.jpg/revision/latest/scale-to-width-down/357?cb=20180923162926)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/The_Flight_from_Lordaeron_-_Ruins_of_Lordaeron.jpg/revision/latest?cb=20180923162926)
-    
+
     The city streets _The Frozen Throne_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/The_Flight_from_Lordaeron_-_Ruins_of_Lordaeron_2.jpg/revision/latest/scale-to-width-down/304?cb=20180923162922)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/The_Flight_from_Lordaeron_-_Ruins_of_Lordaeron_2.jpg/revision/latest?cb=20180923162922)
-    
+
     The city streets _The Frozen Throne_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Ruins_of_Lordaeron_Comic.jpg/revision/latest/scale-to-width-down/266?cb=20220513163143)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Ruins_of_Lordaeron_Comic.jpg/revision/latest?cb=20220513163143)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Ruins_of_Lordaeron_TCG.jpg/revision/latest/scale-to-width-down/245?cb=20160130220811)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Ruins_of_Lordaeron_TCG.jpg/revision/latest?cb=20160130220811)
-    
+
 
 -   [![Ruins of Lordaeron.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Ruins_of_Lordaeron.jpg/revision/latest/scale-to-width-down/240?cb=20060519230607)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Ruins_of_Lordaeron.jpg/revision/latest?cb=20060519230607)
-    
+
 -   [![Lordaeron Ruins2.jpg](https://static.wikia.nocookie.net/wowpedia/images/4/47/Lordaeron_Ruins2.jpg/revision/latest/scale-to-width-down/320?cb=20180608230606)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Lordaeron_Ruins2.jpg/revision/latest?cb=20180608230606)
-    
+
 -   [![Lordaeron Ruins3.jpg](https://static.wikia.nocookie.net/wowpedia/images/1/18/Lordaeron_Ruins3.jpg/revision/latest/scale-to-width-down/354?cb=20180608230816)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Lordaeron_Ruins3.jpg/revision/latest?cb=20180608230816)
-    
+
 -   [![Lordaeron Ruins4.jpg](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Lordaeron_Ruins4.jpg/revision/latest/scale-to-width-down/320?cb=20180608230607)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Lordaeron_Ruins4.jpg/revision/latest?cb=20180608230607)
-    
+
 -   [![Lordaeron Ruins5.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/77/Lordaeron_Ruins5.jpg/revision/latest/scale-to-width-down/320?cb=20180608230608)](https://static.wikia.nocookie.net/wowpedia/images/7/77/Lordaeron_Ruins5.jpg/revision/latest?cb=20180608230608)
-    
+
 -   [![BfALordaeron Ruins.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/b9/BfALordaeron_Ruins.jpg/revision/latest/scale-to-width-down/320?cb=20180619001304)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/BfALordaeron_Ruins.jpg/revision/latest?cb=20180619001304)
-    
+
 -   [![The Battle for Lordaeron 1.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/8c/The_Battle_for_Lordaeron_1.jpg/revision/latest/scale-to-width-down/432?cb=20180830012756)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/The_Battle_for_Lordaeron_1.jpg/revision/latest?cb=20180830012756)
-    
+
 -   [![Saurfang overview.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Saurfang_overview.jpg/revision/latest/scale-to-width-down/432?cb=20180803044059)](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Saurfang_overview.jpg/revision/latest?cb=20180803044059)
-    
+
 -   [![Horde Banner Old Soldier.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Horde_Banner_Old_Soldier.jpg/revision/latest/scale-to-width-down/432?cb=20180803044532)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Horde_Banner_Old_Soldier.jpg/revision/latest?cb=20180803044532)
-    
+
 -   [![BfA Login No text.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/8d/BfA_Login_No_text.jpg/revision/latest/scale-to-width-down/320?cb=20180620130406)](https://static.wikia.nocookie.net/wowpedia/images/8/8d/BfA_Login_No_text.jpg/revision/latest?cb=20180620130406)
-    
+
 
 ## Videos
 
@@ -189,7 +189,7 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 -   [Wowhead](https://www.wowhead.com/zone=153)
 -   [WoWDB](https://www.wowdb.com/zones/153)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Undercity "Template:Undercity")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Undercity?action=edit)
 
@@ -200,11 +200,11 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
  |
 | --- |
 |  |
-| 
+|
 
 [![The Undercity is Horde territory](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931 "The Undercity is Horde territory")
 
- | 
+ |
 
 -   [The Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium")
 -   [The Canals](https://wowpedia.fandom.com/wiki/Canals_(Undercity) "Canals (Undercity)")
@@ -218,13 +218,13 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 
 
 
- | 
+ |
 
 [![Map of the Undercity](https://static.wikia.nocookie.net/wowpedia/images/a/ac/WorldMap-Undercity.jpg/revision/latest/scale-to-width-down/120?cb=20190809231736)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/WorldMap-Undercity.jpg/revision/latest?cb=20190809231736 "Map of the Undercity")
 
  |
 |  |
-| 
+|
 
 -   [Shops in the Undercity](https://wowpedia.fandom.com/wiki/Shop#Undercity "Shop")
 -   [Undercity category](https://wowpedia.fandom.com/wiki/Category:Undercity "Category:Undercity")
@@ -233,7 +233,7 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Tirisfal_Glades "Template:Tirisfal Glades")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Tirisfal_Glades?action=edit)
 
@@ -244,12 +244,12 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
  |
 | --- |
 |  |
-| 
+|
 
-[![Map of Tirisfal Glades - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/4/4b/WorldMap-Tirisfal.jpg/revision/latest/scale-to-width-down/120?cb=20180508225645)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/WorldMap-Tirisfal.jpg/revision/latest?cb=20180508225645 "Map of Tirisfal Glades - Cataclysm")  
+[![Map of Tirisfal Glades - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/4/4b/WorldMap-Tirisfal.jpg/revision/latest/scale-to-width-down/120?cb=20180508225645)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/WorldMap-Tirisfal.jpg/revision/latest?cb=20180508225645 "Map of Tirisfal Glades - Cataclysm")
 [![Map of Deathknell](https://static.wikia.nocookie.net/wowpedia/images/9/90/WorldMap-DeathknellStart.jpg/revision/latest/scale-to-width-down/120?cb=20120621025613)](https://static.wikia.nocookie.net/wowpedia/images/9/90/WorldMap-DeathknellStart.jpg/revision/latest?cb=20120621025613 "Map of Deathknell")
 
- | 
+ |
 
 -   [Agamand Mills](https://wowpedia.fandom.com/wiki/Agamand_Mills "Agamand Mills")
     -   [Agamand Family Crypt](https://wowpedia.fandom.com/wiki/Agamand_Family_Crypt "Agamand Family Crypt")
@@ -295,14 +295,14 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 
 
 
- | 
+ |
 
-[![Map of Tirisfal Glades - Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WorldMap-Tirisfal_Terrain1.jpg/revision/latest/scale-to-width-down/120?cb=20180807170644)](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WorldMap-Tirisfal_Terrain1.jpg/revision/latest?cb=20180807170644 "Map of Tirisfal Glades - Battle for Azeroth")  
+[![Map of Tirisfal Glades - Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WorldMap-Tirisfal_Terrain1.jpg/revision/latest/scale-to-width-down/120?cb=20180807170644)](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WorldMap-Tirisfal_Terrain1.jpg/revision/latest?cb=20180807170644 "Map of Tirisfal Glades - Battle for Azeroth")
 [![Map of Tirisfal Glades - Classic](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-Tirisfal-old.jpg/revision/latest/scale-to-width-down/120?cb=20071104181232)](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-Tirisfal-old.jpg/revision/latest?cb=20071104181232 "Map of Tirisfal Glades - Classic")
 
  |
 |  |
-| 
+|
 
 -   **Deathknell** — [Deathknell](https://wowpedia.fandom.com/wiki/Deathknell "Deathknell")
 -   [The Deathknell Graves](https://wowpedia.fandom.com/wiki/Deathknell_Graves "Deathknell Graves")
@@ -314,7 +314,7 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Lordaeron's palace](https://wowpedia.fandom.com/wiki/Lordaeron%27s_palace "Lordaeron's palace")
     -   [Imperial chamber](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber")
@@ -326,7 +326,7 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 
  |
 |  |
-| 
+|
 
 [Tirisfal Glades category](https://wowpedia.fandom.com/wiki/Category:Tirisfal_Glades "Category:Tirisfal Glades")
 
@@ -334,7 +334,7 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
 -   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
 
@@ -345,7 +345,7 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
  |
 | --- |
 |  |
-| 
+|
 
 |  
 Leadership
@@ -353,7 +353,7 @@ Leadership
  |
 | --- |
 |  |
-| [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") | 
+| [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") |
 
 -   [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")
 -   [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan")
@@ -372,7 +372,7 @@ Leadership
 
  |
 |  |
-| Other leaders | 
+| Other leaders |
 
 -   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") ([Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), [Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont"), [Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara"), [Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"))
 -   [Cindrethresh](https://wowpedia.fandom.com/wiki/Scalecommander_Cindrethresh "Scalecommander Cindrethresh")
@@ -383,7 +383,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 |  
 Characters
@@ -391,7 +391,7 @@ Characters
  |
 | --- |
 |  |
-| Current | 
+| Current |
 
 -   [Aggralan](https://wowpedia.fandom.com/wiki/Aggralan "Aggralan")
 -   [Drek'Thar](https://wowpedia.fandom.com/wiki/Drek%27Thar "Drek'Thar")
@@ -454,7 +454,7 @@ Characters
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
 -   [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller")
@@ -480,7 +480,7 @@ Characters
 
  |
 |  |
-| [Historical](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") | 
+| [Historical](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") |
 
 -   [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand")
 -   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan")
@@ -498,7 +498,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 |  
 Races
@@ -506,7 +506,7 @@ Races
  |
 | --- |
 |  |
-| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") |
 
 -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
 -   [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")
@@ -521,7 +521,7 @@ Races
 
  |
 |  |
-| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") |
 
 -   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
 -   [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
@@ -533,7 +533,7 @@ Races
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")
 -   [Hobgoblin](https://wowpedia.fandom.com/wiki/Hobgoblin "Hobgoblin")
@@ -556,7 +556,7 @@ Races
 
  |
 |  |
-| Animals | 
+| Animals |
 
 -   [Kodo](https://wowpedia.fandom.com/wiki/Kodo "Kodo")
 -   [Raptor](https://wowpedia.fandom.com/wiki/Raptor "Raptor")
@@ -568,7 +568,7 @@ Races
 
  |
 |  |
-| 
+|
 
 |  
 Cities and towns
@@ -576,7 +576,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") |
 
 -   [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")
 -   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
@@ -592,7 +592,7 @@ Cities and towns
 
  |
 |  |
-| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") |
 
 -   [Bloodhoof Village](https://wowpedia.fandom.com/wiki/Bloodhoof_Village "Bloodhoof Village")
 -   [Brackenwall Village](https://wowpedia.fandom.com/wiki/Brackenwall_Village "Brackenwall Village")
@@ -614,7 +614,7 @@ Cities and towns
 
  |
 |  |
-| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") |
 
 -   [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")
 -   [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill")
@@ -638,7 +638,7 @@ Cities and towns
 
  |
 |  |
-| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") |
 
 -   [Falcon Watch](https://wowpedia.fandom.com/wiki/Falcon_Watch "Falcon Watch")
 -   [Garadar](https://wowpedia.fandom.com/wiki/Garadar "Garadar")
@@ -653,7 +653,7 @@ Cities and towns
 
  |
 |  |
-| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
 
 -   [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer")
 -   [Camp Tunka'lo](https://wowpedia.fandom.com/wiki/Camp_Tunka%27lo "Camp Tunka'lo")
@@ -668,7 +668,7 @@ Cities and towns
 
  |
 |  |
-| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") |
 
 -   [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point")
 -   [Eastwind Rest](https://wowpedia.fandom.com/wiki/Eastwind_Rest "Eastwind Rest")
@@ -680,7 +680,7 @@ Cities and towns
 
  |
 |  |
-| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") |
 
 -   [Axefall](https://wowpedia.fandom.com/wiki/Axefall "Axefall")
 -   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
@@ -695,7 +695,7 @@ Cities and towns
 
  |
 |  |
-| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") |
 
 -   [Dreadwake's Landing](https://wowpedia.fandom.com/wiki/Dreadwake%27s_Landing "Dreadwake's Landing")
 -   [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
@@ -704,7 +704,7 @@ Cities and towns
 
  |
 |  |
-| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") |
 
 -   [Warbeast Kraal](https://wowpedia.fandom.com/wiki/Warbeast_Kraal "Warbeast Kraal")
 -   [Zeb'ahari](https://wowpedia.fandom.com/wiki/Zeb%27ahari "Zeb'ahari")
@@ -714,7 +714,7 @@ Cities and towns
 
  |
 |  |
-| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") |
 
 -   [Diretusk Hollow](https://wowpedia.fandom.com/wiki/Diretusk_Hollow "Diretusk Hollow")
 -   [Hillcrest Pasture](https://wowpedia.fandom.com/wiki/Hillcrest_Pasture "Hillcrest Pasture")
@@ -732,7 +732,7 @@ Cities and towns
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Beastwatch](https://wowpedia.fandom.com/wiki/Beastwatch "Beastwatch")
 -   [Camp Taurajo](https://wowpedia.fandom.com/wiki/Camp_Taurajo "Camp Taurajo")
@@ -746,7 +746,7 @@ Cities and towns
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")
 -   [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
@@ -765,7 +765,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 |  
 [Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
@@ -775,7 +775,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Nation of Durotar](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)") | 
+| [Nation of Durotar](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)") |
 
 -   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
     -   [Rageroar clan](https://wowpedia.fandom.com/wiki/Rageroar_clan "Rageroar clan")
@@ -796,7 +796,7 @@ Cities and towns
 
  |
 |  |
-| [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") | 
+| [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") |
 
 -   [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers")
 -   [Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers")
@@ -812,7 +812,7 @@ Cities and towns
 
  |
 |  |
-| [Thunder Bluff tauren](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)") | 
+| [Thunder Bluff tauren](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)") |
 
 -   [Tauren tribes](https://wowpedia.fandom.com/wiki/Tribe#Tauren_tribes "Tribe")
     -   [Bloodhoof tribe](https://wowpedia.fandom.com/wiki/Bloodhoof_tribe "Bloodhoof tribe")
@@ -832,7 +832,7 @@ Cities and towns
 
  |
 |  |
-| [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") | 
+| [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") |
 
 -   [Vol'jin's Spear](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Spear "Vol'jin's Spear")
 -   [Vol'jin's Headhunters](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Headhunters "Vol'jin's Headhunters")
@@ -844,7 +844,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") | 
+| [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") |
 
 -   [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights")
 -   [Sunsworn](https://wowpedia.fandom.com/wiki/Sunsworn "Sunsworn")
@@ -862,7 +862,7 @@ Cities and towns
 
  |
 |  |
-| [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") | 
+| [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") |
 
 -   [Gob Squad](https://wowpedia.fandom.com/wiki/Gob_Squad "Gob Squad")
 -   [Bilgewater Battalion](https://wowpedia.fandom.com/wiki/Bilgewater_Battalion "Bilgewater Battalion")
@@ -874,7 +874,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") | 
+| [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") |
 
 -   [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)")
 -   [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch")
@@ -884,7 +884,7 @@ Cities and towns
 
  |
 |  |
-| [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe") | 
+| [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe") |
 
 -   [Rivermane tribe](https://wowpedia.fandom.com/wiki/Rivermane_tribe "Rivermane tribe")
 -   [Skyhorn tribe](https://wowpedia.fandom.com/wiki/Skyhorn_tribe "Skyhorn tribe")
@@ -893,7 +893,7 @@ Cities and towns
 
  |
 |  |
-| [Mag'har Clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)") | 
+| [Mag'har Clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)") |
 
 -   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan_(alternate_universe) "Blackrock clan (alternate universe)")
 -   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan_(alternate_universe) "Bleeding Hollow clan (alternate universe)")
@@ -910,7 +910,7 @@ Cities and towns
 
  |
 |  |
-| [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") | 
+| [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") |
 
 -   [Zanchuli Council](https://wowpedia.fandom.com/wiki/Zanchuli_Council "Zanchuli Council")
 -   [Golden Fleet](https://wowpedia.fandom.com/wiki/Golden_Fleet "Golden Fleet")
@@ -927,7 +927,7 @@ Cities and towns
 
  |
 |  |
-| Other members | 
+| Other members |
 
 -   [Huojin Pandaren](https://wowpedia.fandom.com/wiki/Huojin_Pandaren "Huojin Pandaren")
 -   [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai")
@@ -970,7 +970,7 @@ Cities and towns
 
  |
 |  |
-| Former members | 
+| Former members |
 
 -   [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire")
 -   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
@@ -992,7 +992,7 @@ Cities and towns
 
  |
 |  |
-| Horde-aligned and allies | 
+| Horde-aligned and allies |
 
 -   [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
 -   [Fogsail Freebooters](https://wowpedia.fandom.com/wiki/Fogsail_Freebooters "Fogsail Freebooters")
@@ -1001,7 +1001,7 @@ Cities and towns
 
  |
 |  |
-| Former allies | 
+| Former allies |
 
 -   [Dreadmaul tribe](https://wowpedia.fandom.com/wiki/Dreadmaul_tribe "Dreadmaul tribe")
 -   [Dustbelcher](https://wowpedia.fandom.com/wiki/Dustbelcher "Dustbelcher")
@@ -1017,7 +1017,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
 -   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")

@@ -1,14 +1,14 @@
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Nozdormu |
 | --- |
 | [![Image of Nozdormu](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Dragonflight_Nozdormu_Bayard_Wu.png/revision/latest/scale-to-width-down/200?cb=20221116225122)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Dragonflight_Nozdormu_Bayard_Wu.png/revision/latest?cb=20221116225122 "Image of Nozdormu") |
-| Title | The Timeless One,  
-the Timeless,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-1">[1]</a></sup>  
-Aspect of Time,  
-Bronze Aspect<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-2">[2]</a></sup>  
-The Lord of Time,<sup id="cite_ref-The_Well_of_Eternity_3-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-The_Well_of_Eternity-3">[3]</a></sup>  
-Lord of the Centuries,<sup id="cite_ref-Day_of_the_Dragon_4-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Day_of_the_Dragon-4">[4]</a></sup>  
-Master of Time,<sup id="cite_ref-Day_of_the_Dragon_4-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Day_of_the_Dragon-4">[4]</a></sup>  
-Dragon of the Ages,<sup id="cite_ref-The_Well_of_Eternity_3-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-The_Well_of_Eternity-3">[3]</a></sup>  
+| Title | The Timeless One,
+the Timeless,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-1">[1]</a></sup>
+Aspect of Time,
+Bronze Aspect<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-2">[2]</a></sup>
+The Lord of Time,<sup id="cite_ref-The_Well_of_Eternity_3-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-The_Well_of_Eternity-3">[3]</a></sup>
+Lord of the Centuries,<sup id="cite_ref-Day_of_the_Dragon_4-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Day_of_the_Dragon-4">[4]</a></sup>
+Master of Time,<sup id="cite_ref-Day_of_the_Dragon_4-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Day_of_the_Dragon-4">[4]</a></sup>
+Dragon of the Ages,<sup id="cite_ref-The_Well_of_Eternity_3-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-The_Well_of_Eternity-3">[3]</a></sup>
 Guardian of Time<sup id="cite_ref-Thrall:_Twilight_of_the_Aspects_5-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Thrall:_Twilight_of_the_Aspects-5">[5]</a></sup> |
 | Gender | Male |
 | Race(s) | [Bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") / [Wyrm](https://wowpedia.fandom.com/wiki/Wyrm "Wyrm") (Dragonkin) |
@@ -96,7 +96,7 @@ Nozdormu had no real involvement in the second invasion of the [Burning Legion](
 
 ### The War of the Ancients (present)
 
-After the end of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the [human](https://wowpedia.fandom.com/wiki/Human "Human") [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") was called away, once again, by his friend and mentor, the dragon-mage [Krasus](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). Nozdormu, trapped between different times, had barely managed to contact Krasus and draw his attention to a strange anomaly in the mountains of Kalimdor. Krasus convinced Rhonin to travel with him to Kalimdor to investigate. Meanwhile, the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar") and [Gaskal](https://wowpedia.fandom.com/wiki/Gaskal "Gaskal") were sent by their [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") on a similar mission, having caught wind of the strange event taking place nearby. Once there, Krasus, Rhonin, and Brox discovered a 'hole' in time. They were pulled in and ended up 10,000 years in the past, just before the first invasion of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+After the end of the xref:ThirdWar.adoc[Third War], the [human](https://wowpedia.fandom.com/wiki/Human "Human") [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") was called away, once again, by his friend and mentor, the dragon-mage [Krasus](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). Nozdormu, trapped between different times, had barely managed to contact Krasus and draw his attention to a strange anomaly in the mountains of Kalimdor. Krasus convinced Rhonin to travel with him to Kalimdor to investigate. Meanwhile, the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar") and [Gaskal](https://wowpedia.fandom.com/wiki/Gaskal "Gaskal") were sent by their [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") on a similar mission, having caught wind of the strange event taking place nearby. Once there, Krasus, Rhonin, and Brox discovered a 'hole' in time. They were pulled in and ended up 10,000 years in the past, just before the first invasion of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
 
 After the war ended and the heroes returned, he had a brief conversation with Krasus, where he thanked him for his assistance and agreed to temporarily watch over the clutch of blue dragon eggs the dragon-mage had saved. This marked one of the few (if not the only) times the Aspect had allowed the timeline to be altered, in the belief that a few blue dragons would be better than no blue dragons and then apologized for the wrongs he would commit in the future.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-13">[13]</a></sup> After their mission was complete, Nozdormu returned Krasus and Rhonin to the present. The sanctity of the timeways had been upheld, but it would not be the last time that anomalies would appear in history. Nozdormu became obsessed with unraveling the mystery of [what](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") - or [who](https://wowpedia.fandom.com/wiki/Murozond "Murozond") - was responsible. He disappeared into the timeways and would not be seen again for years.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-14">[14]</a></sup>
 
@@ -185,21 +185,21 @@ After catching up, the adventurers leapt onto [Deathwing's back](https://wowpedi
 Without his armor, Deathwing's molten form began to mutate, granting him a form far more terrifying than before. The [final battle for Azeroth](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") began in earnest, until one final surge of power from the Dragon Soul, infused with the complete essence of each Aspect, completely obliterated Deathwing, with Nozdormu using all his power to bind the moment in time and prevent the killing blow from ever being undone. After Deathwing's death, the remaining Aspects, having fulfilled their duty and expending all that remained of their ancient powers, became mortal. The glow in the Aspects eyes faded and the [Sands of Time](https://wowpedia.fandom.com/wiki/Sands_of_Time "Sands of Time") from Nozdormu's broken spaulder pour into his hand.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-17">[17]</a></sup> With the loss of Nozdormu's powers, the Dragon Soul was returned back in time to the point where it was taken.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-18">[18]</a></sup>
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20120916185224)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest?cb=20120916185224)
-    
+
     Nozdormu and the other Aspects face [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Nozdormu_Maelstrom.jpg/revision/latest/scale-to-width-down/120?cb=20111206161639)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Nozdormu_Maelstrom.jpg/revision/latest?cb=20111206161639)
-    
+
     Nozdormu during the final battle against Deathwing.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20111206095821)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest?cb=20111206095821)
-    
+
     Nozdormu in his humanoid form with the other Aspects after Deathwing is defeated.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Mortal_Nozdormu.jpg/revision/latest/scale-to-width-down/120?cb=20111206161525)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Mortal_Nozdormu.jpg/revision/latest?cb=20111206161525)
-    
+
     Nozdormu becoming a mortal.
-    
+
 
 ### Dawn of the Aspects (present)
 
@@ -392,47 +392,47 @@ He reappears in the _[Descent of Dragons](https://wowpedia.fandom.com/wiki/Heart
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/NozdormuLegends.jpg/revision/latest/scale-to-width-down/107?cb=20100106184826)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/NozdormuLegends.jpg/revision/latest?cb=20100106184826)
-    
+
     Nozdormu in _Warcraft Legends_.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Nozdormu_the_Timeless_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20221228164751)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Nozdormu_the_Timeless_TCG.jpg/revision/latest?cb=20221228164751)
-    
+
     Nozdormu in the [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Nozdormu_BotA.jpg/revision/latest/scale-to-width-down/111?cb=20120916185215)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Nozdormu_BotA.jpg/revision/latest?cb=20120916185215)
-    
+
     Nozdormu in the TCG.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/60/Nozdormu_BotA2.jpg/revision/latest/scale-to-width-down/120?cb=20120916185212)](https://static.wikia.nocookie.net/wowpedia/images/6/60/Nozdormu_BotA2.jpg/revision/latest?cb=20120916185212)
-    
+
     Nozdormu in visage form in the TCG.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Nozdormu_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210710181144)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Nozdormu_TCG.jpg/revision/latest?cb=20210710181144)
-    
+
     Nozdormu in the TCG
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Nozdormu_the_Timeless.jpg/revision/latest/scale-to-width-down/90?cb=20191104202353)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Nozdormu_the_Timeless.jpg/revision/latest?cb=20191104202353)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Dragonflight_Nozdormu_Bayard_Wu_alt.jpg/revision/latest/scale-to-width-down/120?cb=20220930220246)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Dragonflight_Nozdormu_Bayard_Wu_alt.jpg/revision/latest?cb=20220930220246)
-    
+
     Alernate version of the _Dragonflight_ Nozdormu art by [Bayard Wu](https://wowpedia.fandom.com/wiki/Bayard_Wu "Bayard Wu").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Dragonflight_five_leaders.jpg/revision/latest/scale-to-width-down/120?cb=20221123210416)](https://static.wikia.nocookie.net/wowpedia/images/4/42/Dragonflight_five_leaders.jpg/revision/latest?cb=20221123210416)
-    
+
     _Dragonflight_ art.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/48/NozdormuHumanConcept.png/revision/latest/scale-to-width-down/82?cb=20220930223257)](https://static.wikia.nocookie.net/wowpedia/images/4/48/NozdormuHumanConcept.png/revision/latest?cb=20220930223257)
-    
+
     _Dragonflight_ concept art of Nozdormu in his visage form.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Legacies_Dragon_Aspects_Visage_forms.jpg/revision/latest/scale-to-width-down/120?cb=20221121030936)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Legacies_Dragon_Aspects_Visage_forms.jpg/revision/latest?cb=20221121030936)
-    
+
     Nozdormu and the Aspects in their visage forms.
-    
+
 
 Fanart
 
@@ -506,7 +506,7 @@ Fanart
 -   [Wowhead](https://www.wowhead.com/search?q=Nozdormu#npcs)
 -   [WoWDB](https://www.wowdb.com/search?search=Nozdormu#t1:npcs)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
 
@@ -517,7 +517,7 @@ Fanart
  |
 | --- |
 |  |
-| Primary dragon types | 
+| Primary dragon types |
 
 -   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
 -   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
@@ -529,7 +529,7 @@ Fanart
 
  |
 |  |
-| Other dragon types | 
+| Other dragon types |
 
 -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
 -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
@@ -544,13 +544,13 @@ Fanart
 
  |
 |  |
-| Bronze Dragonflight | 
+| Bronze Dragonflight |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><p><strong>Nozdormu the Timeless One</strong> - Lord of Time</p></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Known_members" title="Bronze dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Anachronos" title="Anachronos">Anachronos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Andormu" title="Andormu">Andormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chronormu" title="Chronormu">Chronormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nozari" title="Nozari">Nozari</a></li><li><a href="https://wowpedia.fandom.com/wiki/Soridormi" title="Soridormi">Soridormi</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time" title="Caverns of Time">Caverns of Time</a> (Home)</li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine" title="Bronze Dragonshrine">Bronze Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scarab_Wall" title="Scarab Wall">Scarab Wall</a></li><li><a href="https://wowpedia.fandom.com/wiki/Staghelm_Point" title="Staghelm Point">Staghelm Point</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tanaris" title="Tanaris">Tanaris</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bronze_whelp" title="Bronze whelp">Bronze whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drake" title="Bronze drake">Bronze drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragon" title="Bronze dragon">Bronze dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_wyrm" title="Bronze wyrm">Bronze wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drakonid" title="Bronze drakonid">Bronze drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonspawn" title="Bronze dragonspawn">Bronze dragonspawn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Factions" title="Bronze dragonflight">Groups</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Brood_of_Nozdormu" title="Brood of Nozdormu">Brood of Nozdormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keepers_of_Time" title="Keepers of Time">Keepers of Time</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scale_of_the_Sands" title="Scale of the Sands">Scale of the Sands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Timewalkers" title="Timewalkers">Timewalkers</a></li><li><a href="https://wowpedia.fandom.com/wiki/Watcher_(bronze_dragonflight)" title="Watcher (bronze dragonflight)">Watchers</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Dragonflights | 
+| Dragonflights |
 
 -   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
 -   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
@@ -563,7 +563,7 @@ Fanart
 
  |
 |  |
-| Other draconic groups | 
+| Other draconic groups |
 
 -   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
 -   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
@@ -573,7 +573,7 @@ Fanart
 
  |
 |  |
-| 
+|
 
 -   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
 -   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")

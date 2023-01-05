@@ -12,7 +12,7 @@ _For Antonidas from an [alternate universe](https://wowpedia.fandom.com/wiki/Alt
 | Status | Deceased (aged 71)<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-4">[4]</a></sup> |
 | Student(s) | [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), various [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") mages |
 
-**Antonidas** was a powerful [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") of great influence and the leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). A young prodigy, he had already written theses at the age of twelve. He quickly rose through the ranks of the magus order and became a leader of the nation. During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), he pledged loyalty to the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") on behalf of Dalaran, in the war against the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"). Mentor to young [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), Antonidas would be killed during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") by the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") when the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invaded the city.
+**Antonidas** was a powerful [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") of great influence and the leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). A young prodigy, he had already written theses at the age of twelve. He quickly rose through the ranks of the magus order and became a leader of the nation. During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), he pledged loyalty to the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") on behalf of Dalaran, in the war against the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"). Mentor to young [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), Antonidas would be killed during the xref:ThirdWar.adoc[Third War] by the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") when the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invaded the city.
 
 ## Biography
 
@@ -106,7 +106,7 @@ The great city of Dalaran stands once again - a testament to the tenacity and wi
 
 Your sacrifices will not have been in vain, dearest friend.
 
-  
+
 With Love and Honor,
 
 Jaina Proudmoore
@@ -191,11 +191,11 @@ A version of [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas_(alternate_u
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/88/Antonidas_Mercenaries_2.jpg/revision/latest/scale-to-width-down/90?cb=20211012200031)](https://static.wikia.nocookie.net/wowpedia/images/8/88/Antonidas_Mercenaries_2.jpg/revision/latest?cb=20211012200031)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Antonidas_Mercenaries_3.jpg/revision/latest/scale-to-width-down/90?cb=20211012200059)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Antonidas_Mercenaries_3.jpg/revision/latest?cb=20211012200059)
-    
+
     Antonidas in _Hearthstone Mercenaries_.
-    
+
 
 ## Videos
 
@@ -245,18 +245,18 @@ A version of [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas_(alternate_u
 
 |  |  |
 | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/object=193942)
 -   [WoWDB](https://www.wowdb.com/objects/193942)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/object=267068)
 -   [WoWDB](https://www.wowdb.com/objects/267068)
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance "Template:Grand Alliance")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance?action=edit)
 
@@ -267,7 +267,7 @@ A version of [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas_(alternate_u
  |
 | --- |
 |  |
-| 
+|
 
 |  
 Leadership
@@ -275,7 +275,7 @@ Leadership
  |
 | --- |
 |  |
-| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") | 
+| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") |
 
 -   [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn")
 
@@ -283,7 +283,7 @@ Leadership
 
  |
 |  |
-| Lord Commander | 
+| Lord Commander |
 
 -   [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon")
 
@@ -291,7 +291,7 @@ Leadership
 
  |
 |  |
-| Leaders | 
+| Leaders |
 
 -   [Council of Three Hammers](https://wowpedia.fandom.com/wiki/Council_of_Three_Hammers "Council of Three Hammers")
     -   [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") ([Yorg Stormheart](https://wowpedia.fandom.com/wiki/Yorg_Stormheart "Yorg Stormheart"))
@@ -314,7 +314,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 |  
 Characters
@@ -322,7 +322,7 @@ Characters
  |
 | --- |
 |  |
-| Current | 
+| Current |
 
 -   [Dagran Thaurissan II](https://wowpedia.fandom.com/wiki/Dagran_Thaurissan_II "Dagran Thaurissan II")
 -   [Danath Trollbane](https://wowpedia.fandom.com/wiki/Danath_Trollbane "Danath Trollbane")
@@ -397,7 +397,7 @@ Characters
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")
 -   [Taylor](https://wowpedia.fandom.com/wiki/Taylor "Taylor")
@@ -416,7 +416,7 @@ Characters
 
  |
 |  |
-| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") | 
+| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
 
 -   [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")
 -   [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar")
@@ -434,7 +434,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 |  
 Races
@@ -442,7 +442,7 @@ Races
  |
 | --- |
 |  |
-| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") |
 
 -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
 -   [Dwarf](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
@@ -457,7 +457,7 @@ Races
 
  |
 |  |
-| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") |
 
 -   [Void elf](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
 -   [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")
@@ -469,7 +469,7 @@ Races
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")
 -   [Broken draenei](https://wowpedia.fandom.com/wiki/Broken "Broken")
@@ -488,7 +488,7 @@ Races
 
  |
 |  |
-| Animals | 
+| Animals |
 
 -   [Gryphon](https://wowpedia.fandom.com/wiki/Gryphon "Gryphon")
 -   [Hippogryph](https://wowpedia.fandom.com/wiki/Hippogryph "Hippogryph")
@@ -500,7 +500,7 @@ Races
 
  |
 |  |
-| 
+|
 
 |  
 Cities and towns
@@ -508,7 +508,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") |
 
 -   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
 -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
@@ -525,7 +525,7 @@ Cities and towns
 
  |
 |  |
-| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") |
 
 -   [Aerie Peak](https://wowpedia.fandom.com/wiki/Aerie_Peak "Aerie Peak")
 -   [Chillwind Camp](https://wowpedia.fandom.com/wiki/Chillwind_Camp "Chillwind Camp")
@@ -555,7 +555,7 @@ Cities and towns
 
  |
 |  |
-| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") |
 
 -   [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar")
 -   [Azure Watch](https://wowpedia.fandom.com/wiki/Azure_Watch "Azure Watch")
@@ -573,7 +573,7 @@ Cities and towns
 
  |
 |  |
-| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") |
 
 -   [Allerian Stronghold](https://wowpedia.fandom.com/wiki/Allerian_Stronghold "Allerian Stronghold")
 -   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
@@ -588,7 +588,7 @@ Cities and towns
 
  |
 |  |
-| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
 
 -   [Amberpine Lodge](https://wowpedia.fandom.com/wiki/Amberpine_Lodge "Amberpine Lodge")
 -   [Fizzcrank Airstrip](https://wowpedia.fandom.com/wiki/Fizzcrank_Airstrip "Fizzcrank Airstrip")
@@ -605,7 +605,7 @@ Cities and towns
 
  |
 |  |
-| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") |
 
 -   [Incursion](https://wowpedia.fandom.com/wiki/Incursion "Incursion")
 -   [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing "Lion's Landing")
@@ -618,7 +618,7 @@ Cities and towns
 
  |
 |  |
-| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") |
 
 -   [Fort Wrynn](https://wowpedia.fandom.com/wiki/Fort_Wrynn "Fort Wrynn")
 -   [Highpass](https://wowpedia.fandom.com/wiki/Highpass "Highpass")
@@ -632,7 +632,7 @@ Cities and towns
 
  |
 |  |
-| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") |
 
 -   [Greywatch](https://wowpedia.fandom.com/wiki/Greywatch "Greywatch")
 
@@ -640,7 +640,7 @@ Cities and towns
 
  |
 |  |
-| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") |
 
 -   [Arom's Stand](https://wowpedia.fandom.com/wiki/Arom%27s_Stand "Arom's Stand")
 -   [Brennadam](https://wowpedia.fandom.com/wiki/Brennadam "Brennadam")
@@ -657,7 +657,7 @@ Cities and towns
 
  |
 |  |
-| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") |
 
 -   [Fort Victory](https://wowpedia.fandom.com/wiki/Fort_Victory "Fort Victory")
 -   [Shatterstone Harbor](https://wowpedia.fandom.com/wiki/Shatterstone_Harbor "Shatterstone Harbor")
@@ -666,7 +666,7 @@ Cities and towns
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
 -   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
@@ -678,7 +678,7 @@ Cities and towns
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles")
     -   [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle")
@@ -698,7 +698,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 |  
 [Organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
@@ -708,7 +708,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") | 
+| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") |
 
 -   [House of Nobles](https://wowpedia.fandom.com/wiki/House_of_Nobles "House of Nobles")
 -   [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7")
@@ -728,7 +728,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") | 
+| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") |
 
 -   [Senate of Ironforge](https://wowpedia.fandom.com/wiki/Senate_of_Ironforge "Senate of Ironforge")
 -   [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")
@@ -753,7 +753,7 @@ Cities and towns
 
  |
 |  |
-| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") | 
+| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") |
 
 -   [Darnassian Army](https://wowpedia.fandom.com/wiki/Darnassian_Army "Darnassian Army")
     -   [Sentinels](https://wowpedia.fandom.com/wiki/Sentinels "Sentinels")
@@ -772,7 +772,7 @@ Cities and towns
 
  |
 |  |
-| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") | 
+| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") |
 
 -   [A.C.E.](https://wowpedia.fandom.com/wiki/A.C.E. "A.C.E.")
 -   [Gnomeregan Airmen](https://wowpedia.fandom.com/wiki/Gnomeregan_Airmen "Gnomeregan Airmen")
@@ -785,7 +785,7 @@ Cities and towns
 
  |
 |  |
-| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") | 
+| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") |
 
 -   [Hand of Argus](https://wowpedia.fandom.com/wiki/Hand_of_Argus "Hand of Argus")
     -   [Triumvirate of the Hand](https://wowpedia.fandom.com/wiki/Triumvirate_of_the_Hand "Triumvirate of the Hand")
@@ -797,7 +797,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") | 
+| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") |
 
 -   [Gilnean military](https://wowpedia.fandom.com/wiki/Gilnean_military "Gilnean military")
     -   [Gilnean Royal Guard](https://wowpedia.fandom.com/wiki/Gilnean_Royal_Guard "Gilnean Royal Guard")
@@ -811,7 +811,7 @@ Cities and towns
 
  |
 |  |
-| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") | 
+| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") |
 
 -   [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet")
 -   [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore")
@@ -833,7 +833,7 @@ Cities and towns
 
  |
 |  |
-| Other members | 
+| Other members |
 
 -   [Tushui Pandaren](https://wowpedia.fandom.com/wiki/Tushui_Pandaren "Tushui Pandaren")
 -   [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light")
@@ -888,7 +888,7 @@ Cities and towns
 
  |
 |  |
-| Former members | 
+| Former members |
 
 -   [Theramore](https://wowpedia.fandom.com/wiki/Theramore_(nation) "Theramore (nation)")
     -   [Theramore Guard](https://wowpedia.fandom.com/wiki/Theramore_Guard "Theramore Guard")
@@ -902,7 +902,7 @@ Cities and towns
 
  |
 |  |
-| Alliance-aligned and allies | 
+| Alliance-aligned and allies |
 
 -   [Council of Exarchs](https://wowpedia.fandom.com/wiki/Council_of_Exarchs "Council of Exarchs")
     -   [Hand of the Prophet](https://wowpedia.fandom.com/wiki/Hand_of_the_Prophet "Hand of the Prophet")
@@ -916,7 +916,7 @@ Cities and towns
 
  |
 |  |
-| Former allies | 
+| Former allies |
 
 -   [Blackmaw tribe](https://wowpedia.fandom.com/wiki/Blackmaw_tribe "Blackmaw tribe")
 -   [Blackwood tribe](https://wowpedia.fandom.com/wiki/Blackwood_tribe "Blackwood tribe")
@@ -928,7 +928,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)")
 -   [Alliance organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")

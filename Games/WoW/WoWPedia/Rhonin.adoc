@@ -3,9 +3,9 @@ _For the Boralus wolf, see [Ronin](https://wowpedia.fandom.com/wiki/Ronin "Ronin
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Rhonin |
 | --- |
 | [![Image of Rhonin](https://static.wikia.nocookie.net/wowpedia/images/d/d8/RhoninTCG.jpg/revision/latest/scale-to-width-down/200?cb=20221123202541)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/RhoninTCG.jpg/revision/latest?cb=20221123202541 "Image of Rhonin") |
-| Title | Draig'cyfaill (Dragonheart),  
-Redhair,  
-Leader of the Kirin Tor,  
+| Title | Draig'cyfaill (Dragonheart),
+Redhair,
+Leader of the Kirin Tor,
 Kirin Tor |
 | Gender | Male |
 | Race | [Human](https://wowpedia.fandom.com/wiki/Human "Human") (Humanoid) |
@@ -46,7 +46,7 @@ He was also assisted (at first) by the evil [black dragon](https://wowpedia.fand
 
 When Vereesa's sister [Alleria](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") and her husband [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") vanished on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), Vereesa and Rhonin took in their son [Arator](https://wowpedia.fandom.com/wiki/Arator "Arator").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-7">[7]</a></sup>
 
-Rhonin fought against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") as they invaded [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(continent) "Lordaeron (continent)") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). He and his wife were among the few survivors of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"). Most of Rhonin's family however, including his father, were killed during the fall of the town of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").
+Rhonin fought against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") as they invaded [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(continent) "Lordaeron (continent)") during the xref:ThirdWar.adoc[Third War]. He and his wife were among the few survivors of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"). Most of Rhonin's family however, including his father, were killed during the fall of the town of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").
 
 ### War of the Ancients
 
@@ -153,23 +153,23 @@ As a quick study of his spell selection will indicate, Rhonin prefers to use his
 
 ### War of Ancient Trilogy
 
--   **Rhonin:** "The plan sounds too simple to work..."  
-    **[Huln Highmountain](https://wowpedia.fandom.com/wiki/Huln_Highmountain "Huln Highmountain"):** "Simple can be good, if it's drawn from reason."  
-    **Rhonin:** "Somehow, I doubt [Stareye](https://wowpedia.fandom.com/wiki/Desdel_Stareye "Desdel Stareye") has reason. I don't understand why [Ravencrest](https://wowpedia.fandom.com/wiki/Kur%27talos_Ravencrest "Kur'talos Ravencrest") and he got along so well."  
-    **[Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"):** "They are of the same caste."  
+-   **Rhonin:** "The plan sounds too simple to work..."
+    **[Huln Highmountain](https://wowpedia.fandom.com/wiki/Huln_Highmountain "Huln Highmountain"):** "Simple can be good, if it's drawn from reason."
+    **Rhonin:** "Somehow, I doubt [Stareye](https://wowpedia.fandom.com/wiki/Desdel_Stareye "Desdel Stareye") has reason. I don't understand why [Ravencrest](https://wowpedia.fandom.com/wiki/Kur%27talos_Ravencrest "Kur'talos Ravencrest") and he got along so well."
+    **[Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"):** "They are of the same caste."
     **Rhonin:** "Oh! It all makes so much sense then...Never mind, we'll just have to watch out and hope for the best."
 -   "The other races may see no reason to ally themselves with ones who'd almost as much as the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") prefer to see them all wiped out. We're talking centuries of enmity, [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus")."
--   **Night Elf Noble:** [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") in [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari")? How barbaric!  
-    **Rhonin:** They'd rather have demons?  
-    **[Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"):** You wouldn't understand.  
+-   **Night Elf Noble:** [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") in [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari")? How barbaric!
+    **Rhonin:** They'd rather have demons?
+    **[Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"):** You wouldn't understand.
     **Rhonin:** No, I wouldn't.
 -   "Three against [one](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), and they still can't do anything." _(realizing Deathwing is about to gain the upper hand)_
 
 ### Night of the Dragon
 
--   **[Sinestra](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia"):** Very good, Rhonin Redhair. And do you know _what_ dragon?  
+-   **[Sinestra](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia"):** Very good, Rhonin Redhair. And do you know _what_ dragon?
     **Rhonin:** You have that admirable disposition and manner of dark dress that means you must belong to [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s [flight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"). And since you're not the rabid dog or his two [worst](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") [pups](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia"), I'd hazard by your grand posturing that you must be one of his prime bitches...
--   **[Dargonax](https://wowpedia.fandom.com/wiki/Dargonax "Dargonax"):** Gaze well upon this wretched place surrounding you and savor that view, little morsels... for it is the last sight you will live to see...  
+-   **[Dargonax](https://wowpedia.fandom.com/wiki/Dargonax "Dargonax"):** Gaze well upon this wretched place surrounding you and savor that view, little morsels... for it is the last sight you will live to see...
     **Rhonin:** Why do they always say something like that?
 
 ### World of Warcraft
@@ -188,8 +188,8 @@ _Main article: [All Is Well That Ends Well#Notes](https://wowpedia.fandom.com/wi
 
 ### Tides of War
 
-**Jaina:** "Rhonin, what is it? What's wrong?"  
-**Rhonin:** "Well, let's see. Deathwing is loose; [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") has fallen into the sea-"  
+**Jaina:** "Rhonin, what is it? What's wrong?"
+**Rhonin:** "Well, let's see. Deathwing is loose; [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") has fallen into the sea-"
 **Jaina:** "I meant with _you_."
 
 -   "[Old friend](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"), it is at times like this I miss you far more than I can say. But I must admit, it's comforting to hear you speak to me [beyond death](https://wowpedia.fandom.com/wiki/Korialstrasz#Tides_of_War "Korialstrasz")\-even if you have to do it in riddles."
@@ -229,19 +229,19 @@ Unused Rhonin NPC as seen in [Wowhead](https://classic.wowhead.com/npc=16128/rho
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Rhonin_WotA_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210327235146)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Rhonin_WotA_TCG.jpg/revision/latest?cb=20210327235146)
-    
+
     Rhonin during the War of the Ancients, as seen in the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game").
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Arcane_Watcher_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220213164415)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Arcane_Watcher_HS.jpg/revision/latest?cb=20220213164415)
-    
+
 
 ### Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Fanart_Ulduar_Patch.jpeg/revision/latest/scale-to-width-down/86?cb=20111128135055)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Fanart_Ulduar_Patch.jpeg/revision/latest?cb=20111128135055)
-    
+
     Fanart of Rhonin at an imagined [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") council.
-    
+
 
 ## Patch changes
 

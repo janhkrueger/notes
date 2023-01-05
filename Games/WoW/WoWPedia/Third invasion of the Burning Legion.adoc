@@ -10,7 +10,7 @@
 | Provocation | [Alternate Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") opened the portal inside the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") for the [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to invade Azeroth<sup id="cite_ref-SarTomb_2-0"><a href="https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion#cite_note-SarTomb-2">[2]</a></sup> |
 | Begin | [Full scale invasions of Azeroth](https://wowpedia.fandom.com/wiki/Legion_Invasions "Legion Invasions") |
 | End | [Last battle for Argus](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign") |
-| Result | 
+| Result |
 Azerothian victory
 
 -   Imprisonment of [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") with the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") and [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") acting as his wardens
@@ -19,19 +19,19 @@ Azerothian victory
     -   Tens of thousands deceased<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion#cite_note-3">[3]</a></sup>
 
  |
-| 
+|
 
 | ExpandBelligerents |
 | --- |
 
  |
-| 
+|
 
 | ExpandCommanders and leaders |
 | --- |
 
  |
-| 
+|
 
 | ExpandCasualties and losses |
 | --- |
@@ -194,7 +194,7 @@ In his last moments before the Pantheon sealed him within their [Seat](https://w
 
 ## Notes
 
--   While the Burning Legion has attempted to invade Azeroth more than three times, only three of those attempts have managed to gain a lasting foothold in Azeroth. (The other two being the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") and the latter part of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"))
+-   While the Burning Legion has attempted to invade Azeroth more than three times, only three of those attempts have managed to gain a lasting foothold in Azeroth. (The other two being the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") and the latter part of the xref:ThirdWar.adoc[Third War])
 -   Demons like [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron"), [Mal'ganis](https://wowpedia.fandom.com/wiki/Mal%27ganis "Mal'ganis"), [Sathrovarr the Corruptor](https://wowpedia.fandom.com/wiki/Sathrovarr_the_Corruptor "Sathrovarr the Corruptor") and [Lord Jaraxxus](https://wowpedia.fandom.com/wiki/Lord_Jaraxxus "Lord Jaraxxus") were summoned by Gul'dan on the Broken Shore but were never seen afterward, leaving their whereabouts unclear.
 
 ## Speculation

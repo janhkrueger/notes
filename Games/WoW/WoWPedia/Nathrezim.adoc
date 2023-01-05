@@ -4,14 +4,14 @@ _"Dreadlord" redirects here. For the_ Warcraft III _hero, see [Dreadlord (Warcra
 | --- |
 | [![Sathrovarr HS.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Sathrovarr_HS.jpg/revision/latest/scale-to-width-down/200?cb=20191206220814)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Sathrovarr_HS.jpg/revision/latest?cb=20191206220814) |
 | Faction/Affiliation | [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari"), [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light"), [Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
-| Character classes | 
-[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-1">[1]</a></sup> [Necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer"),<sup id="cite_ref-The_Demon_Soul_2-0"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-The_Demon_Soul-2">[2]</a></sup> [Paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-3">[3]</a></sup>  
+| Character classes |
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-1">[1]</a></sup> [Necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer"),<sup id="cite_ref-The_Demon_Soul_2-0"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-The_Demon_Soul-2">[2]</a></sup> [Paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-3">[3]</a></sup>
 
 [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [Arcanist](https://wowpedia.fandom.com/wiki/Arcanist "Arcanist"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") |
 | Racial leader(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/IconSmall_Denathrius.gif/revision/latest/scale-to-width-down/16?cb=20220224092815)[Sire Denathrius](https://wowpedia.fandom.com/wiki/Sire_Denathrius "Sire Denathrius") |
 |   Formerly |  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_Nathrezim2.gif/revision/latest/scale-to-width-down/16?cb=20211125154839)[Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") |
 | Racial mount | [![IconSmall Dreadsteed.gif](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Dreadsteed.gif/revision/latest/scale-to-width-down/16?cb=20211127094303)](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Dreadsteed.gif/revision/latest?cb=20211127094303) [Nightmare](https://wowpedia.fandom.com/wiki/Dreadsteed "Dreadsteed") |
-| Homeworld | [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth") (original)  
+| Homeworld | [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth") (original)
 [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza") (adopted) |
 | Area(s) | [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands"); [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"); [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"); [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"); [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"); [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"); [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") |
 | Language(s) | [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim_(language) "Nathrezim (language)"), [Eredun](https://wowpedia.fandom.com/wiki/Eredun "Eredun") |
@@ -20,7 +20,7 @@ The **nathrezim**, also called **dreadlords**<sup id="cite_ref-WC3_manual_5-0"><
 
 Sire Denathrius—the ruler of the realm of [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth") in the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")—originally created the nathrezim for the purpose of spreading the influence of Death throughout the cosmos by infiltrating the other [cosmic forces](https://wowpedia.fandom.com/wiki/Magic#The_cosmic_forces "Magic").<sup id="cite_ref-Convoy_9-2"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-Convoy-9">[9]</a></sup> As such, they are closely related to the [venthyr](https://wowpedia.fandom.com/wiki/Venthyr "Venthyr").<sup id="cite_ref-De-Infiltration_13-0"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-De-Infiltration-13">[13]</a></sup><sup id="cite_ref-The_Nathrezim_14-0"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-The_Nathrezim-14">[14]</a></sup> Denathrius later pretended to exile the dreadlords from the Shadowlands, but they secretly remained in service to him and his ally, [Zovaal the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal").<sup id="cite_ref-The_Nathrezim_14-1"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-The_Nathrezim-14">[14]</a></sup> Many nathrezim became [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") and settled on the world of [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza") in the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"), later becoming prominent members of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") in which they served as the trusted lieutenants of [Kil'jaeden the Deceiver](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"),<sup id="cite_ref-WC3_manual_5-2"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-WC3_manual-5">[5]</a></sup> all while secretly working to further Denathrius' plans.<sup id="cite_ref-The_Nathrezim_14-2"><a href="https://wowpedia.fandom.com/wiki/Nathrezim#cite_note-The_Nathrezim-14">[14]</a></sup>
 
-During the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the dreadlords served Kil'jaeden and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") as the jailors of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") and commanders of the [Undead Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). They played prominent roles in many of the Legion's subsequent campaigns (even after Nathreza was largely destroyed by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")) particularly during the Legion's [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") of Azeroth. Finally, the unseen guests returned in force to the Shadowlands after eons of supposed exile, openly revealing their allegiance to Denathrius and the Jailer and aiding them in their efforts to remake reality.
+During the xref:ThirdWar.adoc[Third War], the dreadlords served Kil'jaeden and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") as the jailors of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") and commanders of the [Undead Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). They played prominent roles in many of the Legion's subsequent campaigns (even after Nathreza was largely destroyed by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")) particularly during the Legion's [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") of Azeroth. Finally, the unseen guests returned in force to the Shadowlands after eons of supposed exile, openly revealing their allegiance to Denathrius and the Jailer and aiding them in their efforts to remake reality.
 
 ## Description
 
@@ -339,106 +339,106 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 -   _Warcraft III_
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dc/Warcraft_III_-_Alpha_Dreadlord.jpg/revision/latest/scale-to-width-down/257?cb=20170404173007)](https://static.wikia.nocookie.net/wowpedia/images/d/dc/Warcraft_III_-_Alpha_Dreadlord.jpg/revision/latest?cb=20170404173007)
-    
+
     _Warcraft III_ alpha model.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/25/Warcraft_III_-_Beta_Dreadlord.jpg/revision/latest/scale-to-width-down/236?cb=20170404173422)](https://static.wikia.nocookie.net/wowpedia/images/2/25/Warcraft_III_-_Beta_Dreadlord.jpg/revision/latest?cb=20170404173422)
-    
+
     _Warcraft III_ beta model.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/MalGanis.jpg/revision/latest/scale-to-width-down/143?cb=20111110222214)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/MalGanis.jpg/revision/latest?cb=20111110222214)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/56/Warcraft_III_Reforged_-_Dreadlord.png/revision/latest/scale-to-width-down/270?cb=20181102223624)](https://static.wikia.nocookie.net/wowpedia/images/5/56/Warcraft_III_Reforged_-_Dreadlord.png/revision/latest?cb=20181102223624)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/90/Warcraft_III_Reforged_-_Mal%27Ganis_concept_art.jpg/revision/latest/scale-to-width-down/457?cb=20190508050732)](https://static.wikia.nocookie.net/wowpedia/images/9/90/Warcraft_III_Reforged_-_Mal%27Ganis_concept_art.jpg/revision/latest?cb=20190508050732)
-    
+
     _Reforged_ concept art.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Reforged_-_Dalvengyr_concept.jpg/revision/latest/scale-to-width-down/320?cb=20201122135041)](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Reforged_-_Dalvengyr_concept.jpg/revision/latest?cb=20201122135041)
-    
+
     _Reforged_ concept art of Dalvengyr.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/96/Detheroc-Reforged.jpg/revision/latest/scale-to-width-down/145?cb=20200206102131)](https://static.wikia.nocookie.net/wowpedia/images/9/96/Detheroc-Reforged.jpg/revision/latest?cb=20200206102131)
-    
+
     Detheroc as an obese nathrezim in _Reforged_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Reforged_-_Detheroc_concept.jpg/revision/latest/scale-to-width-down/320?cb=20201122135043)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Reforged_-_Detheroc_concept.jpg/revision/latest?cb=20201122135043)
-    
+
     _Reforged_ concept art of Detheroc.
-    
+
 
 -   _World of Warcraft_
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/03/Varimathras.jpg/revision/latest/scale-to-width-down/209?cb=20191007171320)](https://static.wikia.nocookie.net/wowpedia/images/0/03/Varimathras.jpg/revision/latest?cb=20191007171320)
-    
+
     _Classic_ nathrezim model.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/60/Balnazzar_%28Cataclysm%29.jpg/revision/latest/scale-to-width-down/221?cb=20100806235238)](https://static.wikia.nocookie.net/wowpedia/images/6/60/Balnazzar_%28Cataclysm%29.jpg/revision/latest?cb=20100806235238)
-    
+
     _Wrath of the Lich King_ model.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/64/Mephistroth_Legion.jpg/revision/latest/scale-to-width-down/225?cb=20161120102014)](https://static.wikia.nocookie.net/wowpedia/images/6/64/Mephistroth_Legion.jpg/revision/latest?cb=20161120102014)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Mephistroth_CoEN.jpg/revision/latest/scale-to-width-down/225?cb=20190130012016)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Mephistroth_CoEN.jpg/revision/latest?cb=20190130012016)
-    
+
     A _Legion_ model used by some nathrezim.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/77/Nathrezim_Dreadlord_concept.jpg/revision/latest/scale-to-width-down/100?cb=20180215171735)](https://static.wikia.nocookie.net/wowpedia/images/7/77/Nathrezim_Dreadlord_concept.jpg/revision/latest?cb=20180215171735)
-    
+
     _Legion_ concept art.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Argus_Dreadlord_Concept.jpg/revision/latest/scale-to-width-down/133?cb=20170925174443)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Argus_Dreadlord_Concept.jpg/revision/latest?cb=20170925174443)
-    
+
     "[Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") dreadlord" concept art, later used as inspiration for the [antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen").
-    
+
 
 -   _Trading Card Game_
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Anetheron_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20130502161310)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Anetheron_TCG.jpg/revision/latest?cb=20130502161310)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/25/Varimathras_Art.jpg/revision/latest/scale-to-width-down/230?cb=20130720201306)](https://static.wikia.nocookie.net/wowpedia/images/2/25/Varimathras_Art.jpg/revision/latest?cb=20130720201306)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/16/Lothros_tcg.jpg/revision/latest/scale-to-width-down/222?cb=20160218204049)](https://static.wikia.nocookie.net/wowpedia/images/1/16/Lothros_tcg.jpg/revision/latest?cb=20160218204049)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Famish_the_Binder.jpg/revision/latest/scale-to-width-down/126?cb=20170906074112)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Famish_the_Binder.jpg/revision/latest?cb=20170906074112)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Darkflame_Dreadlord_TCG.jpg/revision/latest/scale-to-width-down/227?cb=20210426003731)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Darkflame_Dreadlord_TCG.jpg/revision/latest?cb=20210426003731)
-    
+
     Darkflame Dreadlord.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Scheming_Dreadlord_TCG.jpg/revision/latest/scale-to-width-down/230?cb=20150520085849)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Scheming_Dreadlord_TCG.jpg/revision/latest?cb=20150520085849)
-    
+
     Scheming Dreadlord.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/70/The_Staff_of_Twin_Worlds_TCG.jpg/revision/latest/scale-to-width-down/234?cb=20171107091620)](https://static.wikia.nocookie.net/wowpedia/images/7/70/The_Staff_of_Twin_Worlds_TCG.jpg/revision/latest?cb=20171107091620)
-    
+
 
 -   _Heroes of the Storm_
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Mal%27Ganis_HotS_concept.jpg/revision/latest/scale-to-width-down/344?cb=20220201182413)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Mal%27Ganis_HotS_concept.jpg/revision/latest?cb=20220201182413)
-    
+
     Concept art of Mal'Ganis.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Jaina_HotS_Dreadlord.jpg/revision/latest/scale-to-width-down/131?cb=20171219101108)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Jaina_HotS_Dreadlord.jpg/revision/latest?cb=20171219101108)
-    
+
     Dreadlord [Jaina](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), the first depiction of a female nathrezim.
-    
+
 
 -   _Hearthstone_
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/90/Despicable_Dreadlord.jpg/revision/latest/scale-to-width-down/135?cb=20200524181655)](https://static.wikia.nocookie.net/wowpedia/images/9/90/Despicable_Dreadlord.jpg/revision/latest?cb=20200524181655)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Portal_Keeper_HS.jpg/revision/latest/scale-to-width-down/135?cb=20191117002211)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Portal_Keeper_HS.jpg/revision/latest?cb=20191117002211)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Queen_of_Pain_HS.jpg/revision/latest/scale-to-width-down/144?cb=20191117001846)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Queen_of_Pain_HS.jpg/revision/latest?cb=20191117001846)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Desperate_Dreadlord.jpg/revision/latest/scale-to-width-down/135?cb=20200328221309)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Desperate_Dreadlord.jpg/revision/latest?cb=20200328221309)
-    
+
 
 -   Other
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Traveler_The_Shining_Blade_Cover.jpg/revision/latest/scale-to-width-down/124?cb=20191226090423)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Traveler_The_Shining_Blade_Cover.jpg/revision/latest?cb=20191226090423)
-    
+
 
 ## See also
 
@@ -584,7 +584,7 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
  |
 | --- |
 |  |
-| Leaders | 
+| Leaders |
 
 -   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
 -   [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")
@@ -598,7 +598,7 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 
  |
 |  |
-| Characters | 
+| Characters |
 
 -   [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron")
 -   [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor")
@@ -633,7 +633,7 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 
  |
 |  |
-| Major races | 
+| Major races |
 
 -   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
 -   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
@@ -662,7 +662,7 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 
  |
 |  |
-| Minor races | 
+| Minor races |
 
 -   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
 -   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
@@ -682,7 +682,7 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 
  |
 |  |
-| Constructs | 
+| Constructs |
 
 -   [Abyssal](https://wowpedia.fandom.com/wiki/Abyssal "Abyssal")
 -   [Fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver")
@@ -700,7 +700,7 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")
 -   [Xoroth](https://wowpedia.fandom.com/wiki/Xoroth "Xoroth")
@@ -712,14 +712,14 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 
  |
 |  |
-| Groups &  
-[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") | 
+| Groups &
+[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Demon" title="Demon">Demons</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Demon_Elite_Guard" title="Demon Elite Guard">Demon Elite Guard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar" title="Dreadscar">Dreadscar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tomb_Guardians" title="Tomb Guardians">Tomb Guardians</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magtheridon%27s_Forces" title="Magtheridon's Forces">Magtheridon's Forces</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hederine" title="Hederine">Hederine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_(group)" title="Felsoul (group)">Felsoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rakeeshi" title="Rakeeshi">Rakeeshi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Talgathi" title="Talgathi">Talgathi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_Covenant" title="Fel Covenant">Fel Covenant</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sunfury" title="Sunfury">Sunfury</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodwarder" title="Bloodwarder">Bloodwarder</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Hand" title="Crimson Hand">Crimson Hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dawnblade_(blood_elves)" title="Dawnblade (blood elves)">Dawnblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firewing" title="Firewing">Firewing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsword" title="Shadowsword">Shadowsword</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunblade" title="Sunblade">Sunblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunhawk" title="Sunhawk">Sunhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunseekers" title="Sunseekers">Sunseekers</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a> <a href="https://wowpedia.fandom.com/wiki/Category:Satyr_sects" title="Category:Satyr sects">sects</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Axxarien" title="Axxarien">Axxarien</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bleakheart" title="Bleakheart">Bleakheart</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deth%27ryll" title="Deth'ryll">Deth'ryll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fallenroot" title="Fallenroot">Fallenroot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmusk" title="Felmusk">Felmusk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haldarr" title="Haldarr">Haldarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hatefury" title="Hatefury">Hatefury</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jadefire" title="Jadefire">Jadefire</a></li><li><a href="https://wowpedia.fandom.com/wiki/Legashi" title="Legashi">Legashi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lords_of_the_Emerald_Flame" title="Lords of the Emerald Flame">Lords of the Emerald Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nazzivus" title="Nazzivus">Nazzivus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nethervine" title="Nethervine">Nethervine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Putridus" title="Putridus">Putridus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargeron_(Outland)" title="Sargeron (Outland)">Sargeron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound" title="Unbound">Unbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildspawn" title="Wildspawn">Wildspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xavian" title="Xavian">Xavian</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shadow_Council" title="Shadow Council">Shadow Council</a> (<a href="https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe)" title="Shadow Council (alternate universe)">alternate</a>)</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus_Wake" title="Argus Wake">Argus Wake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Blade_clan" title="Burning Blade clan">Burning Blade clan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cabal" title="Cabal">Cabal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand" title="Cult of the Dark Strand">Cult of the Dark Strand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathshadow" title="Deathshadow">Deathshadow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gorebound" title="Gorebound">Gorebound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargerei" title="Sargerei">Sargerei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Searing_Blade" title="Searing Blade">Searing Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe)" title="Sethekk (alternate universe)">Sethekk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsworn" title="Shadowsworn">Shadowsworn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Undead" title="Undead">Undead</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Risen" title="Risen">Risen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Loyalists" title="Dreadlord Loyalists">Dreadlord Loyalists</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Third_invasion" title="Third invasion">Third invasion</a>'s allies</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deadwood" title="Deadwood">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Felbound tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Felfin tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrage" title="Felrage">Felrage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrock" title="Felrock">Felrock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cragtalon" title="Cragtalon">Feltalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bloodtotem_tribe" title="Bloodtotem tribe">Feltotem tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Tideskorn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Felskorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drekirjar" title="Drekirjar">Drekirjar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonespeakers" title="Bonespeakers">Bonespeakers</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Veiled_Hand" title="Veiled Hand">Veiled Hand</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Archival_Authority_of_Argus" title="Archival Authority of Argus">Archival Authority of Argus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Green_Flame" title="Cult of the Green Flame">Cult of the Green Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Nethersworn" title="Cult of the Nethersworn">Cult of the Nethersworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Iron_Horde" title="Iron Horde">Iron Horde</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hidden" title="Hidden">Hidden</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Defectors | 
+| Defectors |
 
 -   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
 -   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
@@ -730,15 +730,15 @@ From left to right: [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "
 
  |
 |  |
-| [Burning  
-Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") | 
+| [Burning
+Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") |
 
 -   [Battle of Shar'gel](https://wowpedia.fandom.com/wiki/Battle_of_Shar%27gel "Battle of Shar'gel")
 -   [First invasion of Azeroth](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
 -   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei")
 -   [Second invasion of Azeroth](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion")
     -   [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
-    -   [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War")
+    -   xref:ThirdWar.adoc[Third War]
 -   Attempted Azeroth invasions
     -   [Invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland")
         -   [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas")
@@ -750,7 +750,7 @@ Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") |
 
  |
 |  |
-| 
+|
 
 -   [Darkstorm](https://wowpedia.fandom.com/wiki/Darkstorm "Darkstorm")
 -   [Burning Legion category](https://wowpedia.fandom.com/wiki/Category:Burning_Legion "Category:Burning Legion")

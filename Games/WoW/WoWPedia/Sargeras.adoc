@@ -1,7 +1,7 @@
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Sargeras |
 | --- |
 | [![Image of Sargeras](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Sargeras_Gamescom_2017.png/revision/latest/scale-to-width-down/200?cb=20200112215343)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Sargeras_Gamescom_2017.png/revision/latest?cb=20200112215343 "Image of Sargeras") |
-| Title | The Dark Titan,  
+| Title | The Dark Titan,
 The Lord of the Burning Legion ([see more below](https://wowpedia.fandom.com/wiki/Sargeras#Titles_and_epithets "Sargeras")) |
 | Gender | Male |
 | Race(s) | [Titan](https://wowpedia.fandom.com/wiki/Titan "Titan")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-2">[2]</a></sup> |
@@ -356,37 +356,37 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Sargeras_and_the_Legion.jpg/revision/latest/scale-to-width-down/120?cb=20120309061753)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Sargeras_and_the_Legion.jpg/revision/latest?cb=20120309061753)
-    
+
     Sargeras and the Burning Legion in _Warcraft Saga_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/SargerasNew.jpg/revision/latest/scale-to-width-down/120?cb=20120921055230)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/SargerasNew.jpg/revision/latest?cb=20120921055230)
-    
+
     Close-up from _Warcraft Saga_.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest/scale-to-width-down/90?cb=20180325103405)](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest?cb=20180325103405)
-    
+
     _Chronicle_ cosmology chart showing Sargeras twice.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Patch_7.3_Artwork.jpg/revision/latest/scale-to-width-down/83?cb=20170824055433)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Patch_7.3_Artwork.jpg/revision/latest?cb=20170824055433)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Sargeras_2_in_Magni%2C_the_Speaker.jpg/revision/latest/scale-to-width-down/120?cb=20180529174614)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Sargeras_2_in_Magni%2C_the_Speaker.jpg/revision/latest?cb=20180529174614)
-    
+
     The sword strike in _Magni: The Speaker_
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Pantheon_stars.jpg/revision/latest/scale-to-width-down/120?cb=20220917154422)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Pantheon_stars.jpg/revision/latest?cb=20220917154422)
-    
+
     Sargeras in the center of art of the titans shown at [gamescom](https://wowpedia.fandom.com/wiki/Gamescom "Gamescom") 2015.
-    
+
 
 ### Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/The_Dark_Titan_by_Joel_Lagerwall.jpg/revision/latest/scale-to-width-down/120?cb=20160512190332)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/The_Dark_Titan_by_Joel_Lagerwall.jpg/revision/latest?cb=20160512190332)
-    
+
     "The Dark Titan" by Joel Lagerwall.
-    
+
 
 ## Videos
 
@@ -395,8 +395,8 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
 ## Patch changes
 
--   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
-    
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.
+
 
 ## See also
 
@@ -484,16 +484,16 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
 |  |  |  |
 | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/npc=113978)
 -   [WoWDB](https://www.wowdb.com/npcs/113978)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=126010)
 -   [WoWDB](https://www.wowdb.com/npcs/126010)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=32277)
 -   [WoWDB](https://www.wowdb.com/npcs/32277)
@@ -511,7 +511,7 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
  |
 | --- |
 |  |
-| Leaders | 
+| Leaders |
 
 -   **Sargeras**
 -   [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")
@@ -525,7 +525,7 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
  |
 |  |
-| Characters | 
+| Characters |
 
 -   [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron")
 -   [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor")
@@ -560,7 +560,7 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
  |
 |  |
-| Major races | 
+| Major races |
 
 -   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
 -   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
@@ -589,7 +589,7 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
  |
 |  |
-| Minor races | 
+| Minor races |
 
 -   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
 -   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
@@ -609,7 +609,7 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
  |
 |  |
-| Constructs | 
+| Constructs |
 
 -   [Abyssal](https://wowpedia.fandom.com/wiki/Abyssal "Abyssal")
 -   [Fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver")
@@ -627,7 +627,7 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")
 -   [Xoroth](https://wowpedia.fandom.com/wiki/Xoroth "Xoroth")
@@ -639,14 +639,14 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
  |
 |  |
-| Groups &  
-[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") | 
+| Groups &
+[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Demon" title="Demon">Demons</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Demon_Elite_Guard" title="Demon Elite Guard">Demon Elite Guard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar" title="Dreadscar">Dreadscar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tomb_Guardians" title="Tomb Guardians">Tomb Guardians</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magtheridon%27s_Forces" title="Magtheridon's Forces">Magtheridon's Forces</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hederine" title="Hederine">Hederine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_(group)" title="Felsoul (group)">Felsoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rakeeshi" title="Rakeeshi">Rakeeshi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Talgathi" title="Talgathi">Talgathi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_Covenant" title="Fel Covenant">Fel Covenant</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sunfury" title="Sunfury">Sunfury</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodwarder" title="Bloodwarder">Bloodwarder</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Hand" title="Crimson Hand">Crimson Hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dawnblade_(blood_elves)" title="Dawnblade (blood elves)">Dawnblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firewing" title="Firewing">Firewing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsword" title="Shadowsword">Shadowsword</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunblade" title="Sunblade">Sunblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunhawk" title="Sunhawk">Sunhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunseekers" title="Sunseekers">Sunseekers</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a> <a href="https://wowpedia.fandom.com/wiki/Category:Satyr_sects" title="Category:Satyr sects">sects</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Axxarien" title="Axxarien">Axxarien</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bleakheart" title="Bleakheart">Bleakheart</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deth%27ryll" title="Deth'ryll">Deth'ryll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fallenroot" title="Fallenroot">Fallenroot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmusk" title="Felmusk">Felmusk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haldarr" title="Haldarr">Haldarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hatefury" title="Hatefury">Hatefury</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jadefire" title="Jadefire">Jadefire</a></li><li><a href="https://wowpedia.fandom.com/wiki/Legashi" title="Legashi">Legashi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lords_of_the_Emerald_Flame" title="Lords of the Emerald Flame">Lords of the Emerald Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nazzivus" title="Nazzivus">Nazzivus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nethervine" title="Nethervine">Nethervine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Putridus" title="Putridus">Putridus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargeron_(Outland)" title="Sargeron (Outland)">Sargeron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound" title="Unbound">Unbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildspawn" title="Wildspawn">Wildspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xavian" title="Xavian">Xavian</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shadow_Council" title="Shadow Council">Shadow Council</a> (<a href="https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe)" title="Shadow Council (alternate universe)">alternate</a>)</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus_Wake" title="Argus Wake">Argus Wake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Blade_clan" title="Burning Blade clan">Burning Blade clan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cabal" title="Cabal">Cabal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand" title="Cult of the Dark Strand">Cult of the Dark Strand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathshadow" title="Deathshadow">Deathshadow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gorebound" title="Gorebound">Gorebound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargerei" title="Sargerei">Sargerei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Searing_Blade" title="Searing Blade">Searing Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe)" title="Sethekk (alternate universe)">Sethekk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsworn" title="Shadowsworn">Shadowsworn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Undead" title="Undead">Undead</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Risen" title="Risen">Risen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Loyalists" title="Dreadlord Loyalists">Dreadlord Loyalists</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Third_invasion" title="Third invasion">Third invasion</a>'s allies</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deadwood" title="Deadwood">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Felbound tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Felfin tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrage" title="Felrage">Felrage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrock" title="Felrock">Felrock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cragtalon" title="Cragtalon">Feltalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bloodtotem_tribe" title="Bloodtotem tribe">Feltotem tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Tideskorn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Felskorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drekirjar" title="Drekirjar">Drekirjar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonespeakers" title="Bonespeakers">Bonespeakers</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Veiled_Hand" title="Veiled Hand">Veiled Hand</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Archival_Authority_of_Argus" title="Archival Authority of Argus">Archival Authority of Argus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Green_Flame" title="Cult of the Green Flame">Cult of the Green Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Nethersworn" title="Cult of the Nethersworn">Cult of the Nethersworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Iron_Horde" title="Iron Horde">Iron Horde</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hidden" title="Hidden">Hidden</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Defectors | 
+| Defectors |
 
 -   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
 -   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
@@ -657,15 +657,15 @@ As a former Champion of the Pantheon, Sargeras is nearly impervious to physical 
 
  |
 |  |
-| [Burning  
-Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") | 
+| [Burning
+Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") |
 
 -   [Battle of Shar'gel](https://wowpedia.fandom.com/wiki/Battle_of_Shar%27gel "Battle of Shar'gel")
 -   [First invasion of Azeroth](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
 -   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei")
 -   [Second invasion of Azeroth](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion")
     -   [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
-    -   [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War")
+    -   xref:ThirdWar.adoc[Third War]
 -   Attempted Azeroth invasions
     -   [Invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland")
         -   [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas")
@@ -677,7 +677,7 @@ Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") |
 
  |
 |  |
-| 
+|
 
 -   [Darkstorm](https://wowpedia.fandom.com/wiki/Darkstorm "Darkstorm")
 -   [Burning Legion category](https://wowpedia.fandom.com/wiki/Category:Burning_Legion "Category:Burning Legion")

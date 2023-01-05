@@ -1,13 +1,13 @@
 | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Lor'themar Theron |
 | --- |
 | [![Image of Lor'themar Theron](https://static.wikia.nocookie.net/wowpedia/images/8/89/Lor%27themar_Theron_-_%E2%80%9DA_moment_in_Verse%E2%80%9D.jpg/revision/latest/scale-to-width-down/200?cb=20200716162408)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Lor%27themar_Theron_-_%E2%80%9DA_moment_in_Verse%E2%80%9D.jpg/revision/latest?cb=20200716162408 "Image of Lor'themar Theron") |
-| Title | Regent Lord of Quel'Thalas,<sup id="cite_ref-ReferenceA_1-0"><a href="https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#cite_note-ReferenceA-1">[1]</a></sup>  
-Regent Lord of Silvermoon,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#cite_note-2">[2]</a></sup>  
-Lord Regent,<sup id="cite_ref-PofQ_3-0"><a href="https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#cite_note-PofQ-3">[3]</a></sup>  
+| Title | Regent Lord of Quel'Thalas,<sup id="cite_ref-ReferenceA_1-0"><a href="https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#cite_note-ReferenceA-1">[1]</a></sup>
+Regent Lord of Silvermoon,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#cite_note-2">[2]</a></sup>
+Lord Regent,<sup id="cite_ref-PofQ_3-0"><a href="https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#cite_note-PofQ-3">[3]</a></sup>
 Ranger Lord<sup id="cite_ref-Blood_of_the_Highborne_4-0"><a href="https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#cite_note-Blood_of_the_Highborne-4">[4]</a></sup> |
 | Gender | Male |
 | Race | [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") (Humanoid) |
-| Class | [![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Elven ranger](https://wowpedia.fandom.com/wiki/Elven_ranger "Elven ranger")  
+| Class | [![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Elven ranger](https://wowpedia.fandom.com/wiki/Elven_ranger "Elven ranger")
 [![Icon-TCG.png](https://static.wikia.nocookie.net/wowpedia/images/3/35/Icon-TCG.png/revision/latest?cb=20191213195423)](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game") [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter") |
 | Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
 | Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
@@ -87,7 +87,7 @@ The group returned triumphantly to Silvermoon, freed from the threat of the Sunw
 
 Lor'themar, [Halduron](https://wowpedia.fandom.com/wiki/Halduron "Halduron") and the [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders") intercept [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") and his companions.
 
-After the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the traitor [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir") pursued [Anveena Teague](https://wowpedia.fandom.com/wiki/Anveena_Teague "Anveena Teague"), the current avatar of the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"), into Quel'Thalas. Leading a group of blood elf rangers and employing guerilla tactics against the Scourge forces, Lor'themar, along with his close friend [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing"), sought to relieve his ravaged and shattered homeland from the Scourge's grasp. After a skirmish, Lor'themar orders his fallen comrades to be burned — to ensure they are not re-animated. Lor'themar learns of Dar'Khan's presence in Quel'Thalas, and in a conversation with Halduron, explains his history with Quel'Thalas' greatest traitor.
+After the xref:ThirdWar.adoc[Third War], the traitor [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir") pursued [Anveena Teague](https://wowpedia.fandom.com/wiki/Anveena_Teague "Anveena Teague"), the current avatar of the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"), into Quel'Thalas. Leading a group of blood elf rangers and employing guerilla tactics against the Scourge forces, Lor'themar, along with his close friend [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing"), sought to relieve his ravaged and shattered homeland from the Scourge's grasp. After a skirmish, Lor'themar orders his fallen comrades to be burned — to ensure they are not re-animated. Lor'themar learns of Dar'Khan's presence in Quel'Thalas, and in a conversation with Halduron, explains his history with Quel'Thalas' greatest traitor.
 
 Following Dar'Khan's betrayal, Lor'themar had fought desperately to protect the sight of the Sunwell; and though he survived the onslaught of the Scourge, he personally observed the annihilated sight of the once glorious font of power. That day, he resolved to protect the remains of Quel'Thalas from being further tainted by the Scourge, and especially by Dar'Khan. Lor'themar rallies his rangers, and they leave to destroy the treacherous Dar'Khan.
 
@@ -288,12 +288,12 @@ On board, Theron and Sylvanas discussed if she could raise dead elves. He forbad
 Lor'themar was present along with the rest of the Horde's leadership (barring [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw"), who was injured earlier in the siege) at the defeat and arrest of Garrosh. When Thrall named [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") the new Warchief, Lor'themar bowed in respect.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Horde_Bladefist_Bay.jpg/revision/latest/scale-to-width-down/120?cb=20180701044704)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Horde_Bladefist_Bay.jpg/revision/latest?cb=20180701044704)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/53/SoO_Horde_Leaders.jpg/revision/latest/scale-to-width-down/120?cb=20130912172803)](https://static.wikia.nocookie.net/wowpedia/images/5/53/SoO_Horde_Leaders.jpg/revision/latest?cb=20130912172803)
-    
+
     Lor'themar stands behind Vol'jin, the new Warchief of the Horde.
-    
+
 
 ### War Crimes
 
@@ -818,7 +818,7 @@ We must be mindful of the past, even as we look toward the future.
 -   Pre-purchasing the _March of the Lich King_ Mega Bundle unlocked Lor'themar as an [alternate hunter hero](https://hearthstone.fandom.com/wiki/Lor%27themar_(hero) "hswiki:Lor'themar (hero)"), along with the Lor'themar [card back](https://hearthstone.fandom.com/wiki/card_back "hswiki:card back"). The hero's flavor text reads: _Even when all hope seemed lost, Lor'themar would fight for Quel'Thalas until the bitter end._ The card back's flavor text reads: _Lor'themar has one motto that he's always lived by: dignity, always dignity._
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1b/Lor%27themar_Theron_HS.jpg/revision/latest/scale-to-width-down/86?cb=20221207220706)](https://static.wikia.nocookie.net/wowpedia/images/1/1b/Lor%27themar_Theron_HS.jpg/revision/latest?cb=20221207220706)
-    
+
 
 ## Notes and trivia
 
@@ -869,36 +869,36 @@ Lor'themar's generic stand-in, a **Farstrider Elite**.
 ### Official art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Lor%27themartheron2.jpg/revision/latest/scale-to-width-down/120?cb=20110325125709)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Lor%27themartheron2.jpg/revision/latest?cb=20110325125709)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/04/Lor%27themar_Theron_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160208153735)](https://static.wikia.nocookie.net/wowpedia/images/0/04/Lor%27themar_Theron_TCG.jpg/revision/latest?cb=20160208153735)
-    
+
     Lor'themar and his advisors in the [TCG](https://wowpedia.fandom.com/wiki/Trading_Card_Game "Trading Card Game").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Lor%27themar_tomboftheforgotten.jpg/revision/latest/scale-to-width-down/120?cb=20130614143330)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Lor%27themar_tomboftheforgotten.jpg/revision/latest?cb=20130614143330)
-    
+
     Lor'themar in the [TCG](https://wowpedia.fandom.com/wiki/Trading_Card_Game "Trading Card Game").
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/27/Lor%27themar-cata-beta.jpg/revision/latest/scale-to-width-down/79?cb=20100816110145)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Lor%27themar-cata-beta.jpg/revision/latest?cb=20100816110145)
-    
+
     Lor'themar's model in _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_, prior to receiving his eyepatch.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Warchief_of_the_Horde_-_Lor%27themar_and_Thalyssra.jpg/revision/latest/scale-to-width-down/120?cb=20200702164856)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Warchief_of_the_Horde_-_Lor%27themar_and_Thalyssra.jpg/revision/latest?cb=20200702164856)
-    
+
     Lor'themar conversing with Thalyssra after the formation of the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/88/Lor%27themar_Tides_of_Vengeance.png/revision/latest/scale-to-width-down/56?cb=20190324005836)](https://static.wikia.nocookie.net/wowpedia/images/8/88/Lor%27themar_Tides_of_Vengeance.png/revision/latest?cb=20190324005836)
-    
+
     Lor'themar in Quel'Thalas.
-    
+
 
 ### Fan art
 
 -   [![Lor'themar Fan art 5.2.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/07/Lor%27themar_Fan_art_5.2.jpg/revision/latest/scale-to-width-down/85?cb=20140312222728)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Lor%27themar_Fan_art_5.2.jpg/revision/latest?cb=20140312222728)
-    
+
 -   [![Lor'themar fan art.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Lor%27themar_fan_art.jpg/revision/latest/scale-to-width-down/106?cb=20131113225329)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Lor%27themar_fan_art.jpg/revision/latest?cb=20131113225329)
-    
+
 
 ## Videos
 
@@ -1021,24 +1021,24 @@ Lor'themar's generic stand-in, a **Farstrider Elite**.
 
 | Regular | Generic name |
 | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/search?q=Lor%27themar+Theron#npcs)
 -   [WoWDB](https://www.wowdb.com/search?search=Lor%27themar+Theron#t1:npcs)
 
- | 
+ |
 
 |  |  |  |
 | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/npc=145005)
 -   [WoWDB](https://www.wowdb.com/npcs/145005)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=155140)
 -   [WoWDB](https://www.wowdb.com/npcs/155140)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=153680)
 -   [WoWDB](https://www.wowdb.com/npcs/153680)
@@ -1058,7 +1058,7 @@ Lor'themar's generic stand-in, a **Farstrider Elite**.
  |
 | --- |
 |  |
-| 
+|
 
 | Expand 
 Leadership
@@ -1068,7 +1068,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 | Expand 
 Characters
@@ -1078,7 +1078,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 | Expand 
 Races
@@ -1088,7 +1088,7 @@ Races
 
  |
 |  |
-| 
+|
 
 | Expand 
 Cities and towns
@@ -1098,7 +1098,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 | Expand 
 [Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
@@ -1110,7 +1110,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
 -   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")

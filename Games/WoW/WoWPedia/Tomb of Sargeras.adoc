@@ -16,7 +16,7 @@ The Tomb of Sargeras as seen in-game
 
 The **Tomb of Sargeras** (formerly the **Temple of Elune**,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-1">[1]</a></sup><sup id="cite_ref-Chronicle_2-0"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-Chronicle-2">[2]</a></sup> also spelled as the **temple of Elune**,<sup id="cite_ref-TWoE_3-0"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-TWoE-3">[3]</a></sup> and simply referred to as the **Tomb**)<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-4">[4]</a></sup> is a great structure situated on the island of [Thal'dranath](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") in the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"). The [Guardian](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal") [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") imprisoned the corpse of the [Avatar of Sargeras](https://wowpedia.fandom.com/wiki/Avatar_of_Sargeras "Avatar of Sargeras") in the deepest parts of the Temple, miles beneath its surface, after she defeated it 800 years ago. After centuries of having been submerged under the sea, the dark power of the Avatar worked its influence upon the halls of the Tomb, twisting it with [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") energy.<sup id="cite_ref-RaidPreview_5-0"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-RaidPreview-5">[5]</a></sup>
 
-The Tomb was raised back to the surface by the warlock [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), but he was torn apart by the [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") guardians within before he could claim the power contained inside the Tomb. Later still, during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the structure was visited by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") in search of the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). Following the defeat of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") on the [alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)"), the Tomb was reopened by [alternate Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") to allow the Legion entry into [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") once more.
+The Tomb was raised back to the surface by the warlock [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), but he was torn apart by the [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") guardians within before he could claim the power contained inside the Tomb. Later still, during the xref:ThirdWar.adoc[Third War], the structure was visited by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") in search of the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). Following the defeat of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") on the [alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)"), the Tomb was reopened by [alternate Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") to allow the Legion entry into [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") once more.
 
 ## History
 
@@ -137,7 +137,7 @@ The Tomb of Sargeras is a haunted and eerie place. Skeletal and ghostly [orcs](h
 
 Five hundred years ago, [Magna Aegwynn](https://wowpedia.fandom.com/wiki/Magna_Aegwynn "Magna Aegwynn"), [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"), slew the demon [Sargeras](https://wowpedia.fandom.com/wiki/Avatar_of_Sargeras "Avatar of Sargeras"). Knowing that the demon-[Titan](https://wowpedia.fandom.com/wiki/Titan "Titan")'s corpse still had power, she sought a safe place to entomb it. She discovered a Kaldorei ruin deep beneath the sea, near the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"), and placed the body within, believing it to be secure. Time proved her incorrect. Centuries later, [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), possessed by [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), convinced the orc shaman Gul'dan to lead his people through the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") to wage war on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Medivh–Sargeras offered Gul'dan a powerful artifact called the Eye of Sargeras as incentive. The orc grew impatient, though, and through [magic](https://wowpedia.fandom.com/wiki/Magic "Magic") and research divined the location of the Tomb of Sargeras. He raised the Broken Isles and entered the tomb. Gul'dan encountered many trials within the tomb, as explained in a record of his experiences — a sort of diary — which he kept by painting orcish runes onto the tomb's walls. Orc forces loyal to [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer") attacked Gul'dan's Stormreavers, and the [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") desperately sought the Eye. In the end, he failed, and the tomb's demonic guardians tore him asunder.
 
-Years passed, and the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") began and ended. In the chaos following the conﬂict, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), the Betrayer, traveled to the Tomb of Sargeras. Like Gul'dan, he too sought the Eye of Sargeras, supposedly intending to use it in a ritual to destabilize and destroy the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"). The night elf [warden](https://wowpedia.fandom.com/wiki/Warden "Warden") [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") tracked Illidan to the tomb. Within the building, Maiev discovered pieces of an artifact called the [Orb of Shadow](https://wowpedia.fandom.com/wiki/Orb_of_Shadow "Orb of Shadow"), and when she collected the entirety of the object it gave her great power. Maiev and her forces confronted Illidan deep within the tomb and interrupted his ritual. Illidan used the Eye to ﬂood the tomb and escaped. Out of all the night elves, only Maiev had the power to escape death, and the loss of her forces embittered her.<sup id="cite_ref-LoM69_22-2"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-LoM69-22">[22]</a></sup><sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-23">[23]</a></sup>
+Years passed, and the xref:ThirdWar.adoc[Third War] began and ended. In the chaos following the conﬂict, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), the Betrayer, traveled to the Tomb of Sargeras. Like Gul'dan, he too sought the Eye of Sargeras, supposedly intending to use it in a ritual to destabilize and destroy the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"). The night elf [warden](https://wowpedia.fandom.com/wiki/Warden "Warden") [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") tracked Illidan to the tomb. Within the building, Maiev discovered pieces of an artifact called the [Orb of Shadow](https://wowpedia.fandom.com/wiki/Orb_of_Shadow "Orb of Shadow"), and when she collected the entirety of the object it gave her great power. Maiev and her forces confronted Illidan deep within the tomb and interrupted his ritual. Illidan used the Eye to ﬂood the tomb and escaped. Out of all the night elves, only Maiev had the power to escape death, and the loss of her forces embittered her.<sup id="cite_ref-LoM69_22-2"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-LoM69-22">[22]</a></sup><sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras#cite_note-23">[23]</a></sup>
 
 ## Notes and trivia
 
@@ -159,48 +159,48 @@ Years passed, and the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Th
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/88/Warcraft_II_Tides_of_Darkness_Tomb_of_Sargeras.jpg/revision/latest/scale-to-width-down/120?cb=20210427231035)](https://static.wikia.nocookie.net/wowpedia/images/8/88/Warcraft_II_Tides_of_Darkness_Tomb_of_Sargeras.jpg/revision/latest?cb=20210427231035)
-    
+
     Gul'dan opening the Tomb of Sargeras in _Warcraft II_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6e/WarCraftII-TidesOfDarkness-Orcs-Mission12-TombOfSargeras.png/revision/latest/scale-to-width-down/120?cb=20160417140121)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/WarCraftII-TidesOfDarkness-Orcs-Mission12-TombOfSargeras.png/revision/latest?cb=20160417140121)
-    
+
     The Tomb in _Warcraft II_.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Warcraft_3_Loading_screen_Broken_Isles.jpg/revision/latest/scale-to-width-down/120?cb=20170416223638)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Warcraft_3_Loading_screen_Broken_Isles.jpg/revision/latest?cb=20170416223638)
-    
+
     The Tomb in the Broken Isles map of _Warcraft III_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Tomb_of_Sargeras_Guldan.jpg/revision/latest/scale-to-width-down/120?cb=20160903170445)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Tomb_of_Sargeras_Guldan.jpg/revision/latest?cb=20160903170445)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Felstorm_-_Legion_cinematic_matte_painting.jpg/revision/latest/scale-to-width-down/120?cb=20180621154515)](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Felstorm_-_Legion_cinematic_matte_painting.jpg/revision/latest?cb=20180621154515)
-    
+
     Matte painting for the _Legion_ cinematic.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Broken_Shore_-_Tomb_entrance_army.jpg/revision/latest/scale-to-width-down/120?cb=20170211223158)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Broken_Shore_-_Tomb_entrance_army.jpg/revision/latest?cb=20170211223158)
-    
+
     The Tomb's entrance before [Patch 7.2.0](https://wowpedia.fandom.com/wiki/Patch_7.2.0 "Patch 7.2.0"), guarded by demons.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Patch_7.2_Artwork.jpg/revision/latest/scale-to-width-down/89?cb=20170324214707)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Patch_7.2_Artwork.jpg/revision/latest?cb=20170324214707)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/45/Patch_7.2_Artwork_alt.jpg/revision/latest/scale-to-width-down/120?cb=20220301194658)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Patch_7.2_Artwork_alt.jpg/revision/latest?cb=20220301194658)
-    
+
     Alternate version of patch 7.2.0 key art.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Tomb_Guardian_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220509125035)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Tomb_Guardian_HS.jpg/revision/latest?cb=20220509125035)
-    
+
 
 Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9b/The_Tomb_of_Sargeras_by_Dmitry_Vernygor.jpg/revision/latest/scale-to-width-down/120?cb=20160512190449)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/The_Tomb_of_Sargeras_by_Dmitry_Vernygor.jpg/revision/latest?cb=20160512190449)
-    
+
     Fanart by Dmitry Vernygor.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Goddess_light_by_hipnosworld.jpg/revision/latest/scale-to-width-down/120?cb=20170703120624)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Goddess_light_by_hipnosworld.jpg/revision/latest?cb=20170703120624)
-    
+
     Temple of Elune's original form by hipnosworld.
-    
+
 
 ## Videos
 
@@ -209,8 +209,8 @@ Fan art
 
 ## Patch changes
 
--   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
-    
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.
+
 
 ## See also
 
@@ -224,21 +224,21 @@ Fan art
 
 | Broken Shore | Alliance scenario | Horde scenario | Azsuna |
 | --- | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/zone=8336)
 -   [WoWDB](https://www.wowdb.com/zones/8336)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=7624)
 -   [WoWDB](https://www.wowdb.com/zones/7624)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=8452)
 -   [WoWDB](https://www.wowdb.com/zones/8452)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=8720)
 -   [WoWDB](https://www.wowdb.com/zones/8720)
@@ -256,11 +256,11 @@ Fan art
  |
 | --- |
 |  |
-| 
+|
 
 [![Broken Shore is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Broken Shore is a contested territory")
 
- | 
+ |
 
 -   [Aalgen Point](https://wowpedia.fandom.com/wiki/Aalgen_Point "Aalgen Point")
 -   [The Black City](https://wowpedia.fandom.com/wiki/Black_City "Black City")
@@ -321,13 +321,13 @@ Fan art
 
 
 
- | 
+ |
 
 [![Map of the Broken Shore](https://static.wikia.nocookie.net/wowpedia/images/d/d4/WorldMap-BrokenShore.jpg/revision/latest/scale-to-width-down/120?cb=20180421054424)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/WorldMap-BrokenShore.jpg/revision/latest?cb=20180421054424 "Map of the Broken Shore")
 
  |
 |  |
-| 
+|
 
 [Broken Shore category](https://wowpedia.fandom.com/wiki/Category:Broken_Shore "Category:Broken Shore")
 
