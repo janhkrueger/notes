@@ -1,0 +1,232 @@
+_This article is about second Well of Eternity at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"). For the original Well, see [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). For the instance, see [Well of Eternity (instance)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)"). For other uses, see [Well of Eternity (disambiguation)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(disambiguation) "Well of Eternity (disambiguation)")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Mount_Hyjal_Art.jpg/revision/latest/scale-to-width-down/380?cb=20210403184643)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Mount_Hyjal_Art.jpg/revision/latest?cb=20210403184643)
+
+The second Well of Eternity beneath [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil").
+
+“And the [tree](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), whose roots go deep, will keep this lake as it is.  
+The sun will always be a part of this well. The black waters will not run here.”
+
+— [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-1">[1]</a></sup>
+
+The **Well of Eternity** (or simply the **Well**)<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-2">[2]</a></sup> at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") is an immensely powerful pool of [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") [magic](https://wowpedia.fandom.com/wiki/Magic "Magic") that rests just beneath the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil") at the mountain's summit. This well is referred to as the second Well of Eternity, the first having sat at the center of [Ancient Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") for countless millennia before its eventual destruction. The second Well of Eternity glows with an intense blue radiance and remains pure due to the deep roots of Nordrassil.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-3">[3]</a></sup> The World Tree was designed to keep others from abusing the magic of the new Well, and also to prevent the second fount's power from growing too great overtime.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-4">[4]</a></sup>
+
+At the end of the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), when [the original well](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") imploded in on itself, the [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") rescued several vials of its waters from destruction. After the ensuing [Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), he would forge a new, second Well of Eternity using three of these vials. However, Illidan's actions were regarded as a crime by his kin; to both protect and control this new font of power, Nordrassil was grown atop it.
+
+Since its birth, the second Well has been a target of destructive forces, and was unsuccessfully attacked by the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during both their [second](https://wowpedia.fandom.com/wiki/Third_War "Third War") and [third](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") invasions of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").
+
+## History
+
+### Birth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/65/WellofEternity_art.jpg/revision/latest/scale-to-width-down/320?cb=20180314120523)](https://static.wikia.nocookie.net/wowpedia/images/6/65/WellofEternity_art.jpg/revision/latest?cb=20180314120523)
+
+The original Well, at the heart of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") (concept art)
+
+The first [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") sat at the center of the ancient continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") since its formation by the [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), existing as the very lifeblood of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") made manifest. Its constructive power gave birth to the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), but also drew the attention of the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Though their following invasion failed, the Well was irreparably destabilized and collapsed in on itself in a [vast explosion](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
+
+Just prior to the Well's death, the legendary [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") secretly gathered seven vials of its waters. Illidan remained convinced that a new font of power would be needed if the demons' were to return, and hoped to create a new Well of Eternity to realize this. The other kaldorei survivors, however, would consider Illidan's plan both dangerous and insane, for it was the Well's power which first drew the Legion to Azeroth.
+
+Illidan traveled to a lake at the summit of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), a body of water luckily untouched by the war. There, he began emptying the vials of the Well's water into the lake, which began to take on the properties of the Well of Eternity. By the third vial, he was interrupted by the other night elves present, who were horrified upon realizing exactly what Illidan was doing. When they moved to stop him, Illidan struck at his kin, killing most of them with magical flames.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-5">[5]</a></sup> Only the intervention of his brother, [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion "Malfurion"), halted Illidan's rampage. However, even three out of seven of the vials was enough to transform the lake into something approaching the previous Well.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-6">[6]</a></sup>
+
+A second Well of Eternity had been created, possessing a large portion of the enchanting and dangerous power of the first. With the help of the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect"), Malfurion and the other night elves oversaw the planting of a [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") above the new font, anxious to protect and contain its energies. The three Aspects present ([Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera"), and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu")) also placed their own enchantments on the tree. Over the following millennia, Nordrassil and the second Well became sacred to the new night elf civilization, who guarded both with fierce determination.
+
+### Third War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Nordrassil_Cataclysm.jpg/revision/latest/scale-to-width-down/180?cb=20100413225621)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Nordrassil_Cataclysm.jpg/revision/latest?cb=20100413225621)
+
+The Well in _World of Warcraft_
+
+As was feared during its creation, the existence of a new Well of Eternity would become another target for the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). After over 10,000 years, the demonic armies of [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") once more [invaded](https://wowpedia.fandom.com/wiki/Third_War "Third War") the world. Leading the assault, [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") the Defiler marched on [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") with the Well and World Tree as his goals.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-7">[7]</a></sup> The Legion planned to consume the concentrated, powerful energies contained within Well<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-8">[8]</a></sup> and use its power to form a powerful gateway for the Legion<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-9">[9]</a></sup> and conquer Azeroth once and for all.
+
+Though they mounted a defense, both individually and eventually united, the races of Azeroth could not withstand the Legion's relentless advance. In a last ditch effort, armies of the kaldorei, [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), and [Alliance](https://wowpedia.fandom.com/wiki/Human_Expedition "Human Expedition") tried to hold Archimonde back at Hyjal's summit to buy time for Malfurion Stormrage. When the Defiler reached Nordrassil and victory seemed at hand, a trap was sprung. A great explosion detonated by [wisps](https://wowpedia.fandom.com/wiki/Wisp "Wisp") vaporized the [demon lord](https://wowpedia.fandom.com/wiki/Demon_lord "Demon lord"), in addition to severely damaging the World Tree. Nevertheless, both the Well of Eternity and the tree survived, and were safe for the time being, although the Tree's Dragon Aspect blessings were nevertheless depleted and the kaldorei permanently lost their [immortality](https://wowpedia.fandom.com/wiki/Immortality "Immortality") as a result.
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+The Well was left untouched for many years following the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), while Azeroth's [druids](https://wowpedia.fandom.com/wiki/Druid "Druid") maintained a close watch on it and [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"). During the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), both would be threatened by the [elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental") invasion of [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros"), the Firelord. The very shores of the Well would became a base for the [Guardians of Hyjal](https://wowpedia.fandom.com/wiki/Guardians_of_Hyjal "Guardians of Hyjal"). After much fighting throughout the region, this attack was eventually defeated.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Nordrassil_Legion.jpg/revision/latest/scale-to-width-down/180?cb=20160529014754)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Nordrassil_Legion.jpg/revision/latest?cb=20160529014754)
+
+The [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") almost destroys the Well
+
+During the [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), the demons once again targeted the Well atop [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"). The Legion wanted to open a gateway within the pool itself, and spill forth to overwhelm the area's defenders. [Druids](https://wowpedia.fandom.com/wiki/Druid "Druid") of the [Dreamgrove](https://wowpedia.fandom.com/wiki/Dreamgrove "Dreamgrove") arrived to drive back the invaders, also seeking the waters of the Well in order to purify [G'Hanir](https://wowpedia.fandom.com/wiki/G%27Hanir "G'Hanir"). Together, they drove the demons back and slew their leader [Destromath](https://wowpedia.fandom.com/wiki/Destromath "Destromath"). This harmed the Well terribly but, despite being heavily depleted, so long as a single drop remains, it endures.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-10">[10]</a></sup>
+
+Later, the Well is shown whole when the [Archdruid](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"), [Keeper Remulos](https://wowpedia.fandom.com/wiki/Remulos "Remulos") and several other druids attempted to commune with [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne").<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-11">[11]</a></sup> Later, the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Inv_misc_uncutgemsuperior3.png/revision/latest/scale-to-width-down/16?cb=20101108164121)[\[Alor'idal Crystal\]](https://wowpedia.fandom.com/wiki/Alor%27idal_Crystal) given by Illidan to Tyrande summoned past visions of Tyrande, Illidan and Malfurion that transformed into sparkles and dived into the Well.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-12">[12]</a></sup>
+
+### Battle for Azeroth
+
+During the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") scars and [elementals](https://wowpedia.fandom.com/wiki/Azerite_elemental "Azerite elemental") appeared at the roots of Nordrassil. [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana") came to aid, fighting against an [Azerite Leviathan](https://wowpedia.fandom.com/wiki/Azerite_Leviathan "Azerite Leviathan") that had emerged in the lake.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-13">[13]</a></sup>
+
+After the war, when [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof"), and [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") went to a meeting with [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") in Nordrassil, Calia noticed faerie dragons chasing each other across the surface of the lake below Nordrassil. The Horde leaders met with the night elven co-leaders in a bower on a hill, on the opposite side of the lake from Nordrassil Inn.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-14">[14]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/79/NordrassilWorldtree.jpg/revision/latest/scale-to-width-down/180?cb=20081108213442)](https://static.wikia.nocookie.net/wowpedia/images/7/79/NordrassilWorldtree.jpg/revision/latest?cb=20081108213442)
+
+Nordrassil in _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_.
+
+Following its birth, to protect the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil") and continue to guard the Well, Malfurion gathered all the druids into a conclave, where they underwent a great slumber, sending their spirits into the Emerald Dream. A great barrier of mist grew around Kalimdor, to prevent eyes even in Azeroth from finding the Well.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-15">[15]</a></sup> Thanks to the World Tree, the Well of Eternity itself no longer provided the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") with such a potent source of corruption.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-16">[16]</a></sup>
+
+The glowing, swirling pool ways once a sizable lake. It extends around Nordrassil, creating a layer of protection around the Tree. Its mystic power is so potent that none who attempt to drunk from it - or, foolishly, swim in it - can hope to survive, assuming that the ambassadors would let anyone get close enough to make the attempt. The [Eternity Bridge](https://wowpedia.fandom.com/wiki/Eternity_Bridge "Eternity Bridge") arcs from the south shore of the Well to the massive roots of Nordrassil.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-17">[17]</a></sup> The magic of the Well and the Tree make the creatures of Hyjal stronger and smarter than those anywhere else on Kalimdor.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-18">[18]</a></sup><sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-19">[19]</a></sup>
+
+Coveted by demons, warlocks, and many mages, the well is currently the greatest source of arcane magic in the world. While the World Tree's powers have suppressed the corrupting nature of this magic for centuries, if the tree were ever destroyed, this Well would be the source of unfathomable power to an evil creature powerful enough to wield it. The Tree and the Well are now guarded by the [blue](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight"), [red](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), and [bronze dragonflights](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight"). [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") feared that the remaining [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") were tunneling from the [Darkwhisper Gorge](https://wowpedia.fandom.com/wiki/Darkwhisper_Gorge "Darkwhisper Gorge") closer to the Well.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-20">[20]</a></sup> Eventually, [blue dragons](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") discovered that demons led by an [eredar warlock](https://wowpedia.fandom.com/wiki/Eredar_warlock "Eredar warlock") were draining the waters of the Well into the tunnels. The warlock planed to consume the water in a ritual in an attempt to gain enough power to resurrect [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-21">[21]</a></sup>
+
+[Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") believed that the water from the Well of Eternity could restore the defiled [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-22">[22]</a></sup> [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") wanted to create another Well of Eternity on [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") to fuel his [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")' [magical addiction](https://wowpedia.fandom.com/wiki/Magical_addiction "Magical addiction").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-23">[23]</a></sup>
+
+## Notes
+
+-   Prior to the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), sea turtles were seen at the base of Nordrassil.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_note-24">[24]</a></sup>
+-   Before the _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ expansion pack, the only way to see [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil") and the Well of Eternity was to go through the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time") and the [Hyjal Summit](https://wowpedia.fandom.com/wiki/Hyjal_Summit_(Caverns_of_Time) "Hyjal Summit (Caverns of Time)") raid instance. The Well's waters give a debuff of  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Spell_nature_wispsplode.png/revision/latest/scale-to-width-down/16?cb=20070106062738)[\[Eternal Silence\]](https://wowpedia.fandom.com/wiki/Eternal_Silence). After leaving the waters, the player suffers from  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Spell_nature_wispsplode.png/revision/latest/scale-to-width-down/16?cb=20070106062738)[\[Residue of Eternity\]](https://wowpedia.fandom.com/wiki/Residue_of_Eternity).
+-   After _Cataclysm_, players can visit the Well underneath the roots of Nordrassil in [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") for themselves. If they dive to the bottom, which is _extremely_ deep, they will find solid rock.
+-   Although the Well contributed to the creation of the [moonwells](https://wowpedia.fandom.com/wiki/Moonwell "Moonwell"), which have enhanced the kaldorei society and military for millennia, it is nevertheless unclear whether Illidan's arguments that its existence was necessary to provide the kaldorei with sufficient strength to combat their enemies were ultimately valid, and whether its creation overall wrought more good than harm. For example, without the Well's perpetual and ambient energies, it is possible that [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s magi or [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor")'s defenders would have been weaker today than they otherwise would be. Although Archimonde was indeed drawn to the Well, the Legion invasion was inevitable in any case, and it is uncertain how the Third War would have played out without their forces targeting Mount Hyjal en masse.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Mount_Hyjal_Archimonde_skeleton.jpg/revision/latest/scale-to-width-down/120?cb=20170225173314)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Mount_Hyjal_Archimonde_skeleton.jpg/revision/latest?cb=20170225173314)
+    
+    The Well in the original, closed Mount Hyjal zone.
+    
+
+## See also
+
+-   [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell")
+-   [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite")
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/9/99/Achievement_zone_mount_hyjal.png/revision/latest/scale-to-width-down/16?cb=20180818164136)[\[Mount Hyjal and Illidan's Gift\]](https://wowpedia.fandom.com/wiki/Mount_Hyjal_and_Illidan%27s_Gift) & [The World Tree and the Emerald Dream](https://wowpedia.fandom.com/wiki/The_World_Tree_and_the_Emerald_Dream "The World Tree and the Emerald Dream")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-1) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 361
+2.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-2) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide,_Updated_and_Expanded "World of Warcraft: Ultimate Visual Guide, Updated and Expanded")_, pg. 52, 102
+3.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-3) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 575, 588 (ebook)
+4.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-4) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, chapter 1
+5.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-5) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 353
+6.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-6) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 356
+7.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-7) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 36, 47
+8.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-8) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 21
+9.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-9) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 138
+10.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-10)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Druid](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Ui-charactercreate-classes_druid.png/revision/latest/scale-to-width-down/16?cb=20070124144657 "Druid") \[10-45\] [Cleansing the Mother Tree](https://wowpedia.fandom.com/wiki/Cleansing_the_Mother_Tree)
+11.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-11)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Druid](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Ui-charactercreate-classes_druid.png/revision/latest/scale-to-width-down/16?cb=20070124144657 "Druid") \[45\] [Communing With Malorne](https://wowpedia.fandom.com/wiki/Communing_With_Malorne)
+12.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-12)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Moments of Reflection](https://wowpedia.fandom.com/wiki/Moments_of_Reflection)
+13.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-13)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Healing Nordrassil](https://wowpedia.fandom.com/wiki/Healing_Nordrassil)
+14.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-14) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, pg. 132
+15.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-15) _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 124
+16.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-16) _[Magic & Mayhem](https://wowpedia.fandom.com/wiki/Magic_%26_Mayhem "Magic & Mayhem")_, pg. 18
+17.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-17) _[Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft:_The_Roleplaying_Game "Warcraft: The Roleplaying Game")_, pg. 203
+18.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-18) _[Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft:_The_Roleplaying_Game "Warcraft: The Roleplaying Game")_, pg. 202
+19.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-19) _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_, pg. 18 - 19
+20.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-20) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 17
+21.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-21) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 18
+22.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-22) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 115
+23.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-23) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 151
+24.  [^](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal)#cite_ref-24)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[19\] [Beached Sea Turtle](https://wowpedia.fandom.com/wiki/Beached_Sea_Turtle_(5))
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Mount_Hyjal "Template:Mount Hyjal")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Mount_Hyjal?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Map of Mount Hyjal before the Miracle](https://static.wikia.nocookie.net/wowpedia/images/7/76/WorldMap-Hyjal_terrain1.jpg/revision/latest/scale-to-width-down/120?cb=20190825202314)](https://static.wikia.nocookie.net/wowpedia/images/7/76/WorldMap-Hyjal_terrain1.jpg/revision/latest?cb=20190825202314 "Map of Mount Hyjal before the Miracle")
+
+ | 
+
+-   [Ascendant's Rise](https://wowpedia.fandom.com/wiki/Ascendant%27s_Rise "Ascendant's Rise")
+-   [Blackhorn's Penance](https://wowpedia.fandom.com/wiki/Blackhorn%27s_Penance "Blackhorn's Penance")
+-   [Darkwhisper Gorge](https://wowpedia.fandom.com/wiki/Darkwhisper_Gorge "Darkwhisper Gorge")
+    -   [Doom's Vigil](https://wowpedia.fandom.com/wiki/Doom%27s_Vigil "Doom's Vigil")
+    -   [The Forge of Supplication](https://wowpedia.fandom.com/wiki/Forge_of_Supplication "Forge of Supplication")
+    -   [Gates of Sothann](https://wowpedia.fandom.com/wiki/Gates_of_Sothann "Gates of Sothann")
+    -   [Seat of the Chosen](https://wowpedia.fandom.com/wiki/Seat_of_the_Chosen "Seat of the Chosen")
+    -   [The Twilight Gauntlet](https://wowpedia.fandom.com/wiki/Twilight_Gauntlet "Twilight Gauntlet")
+-   [Darkwhisper Pass](https://wowpedia.fandom.com/wiki/Darkwhisper_Pass "Darkwhisper Pass")
+-   [The Flamewake](https://wowpedia.fandom.com/wiki/Flamewake "Flamewake")/[The Regrowth](https://wowpedia.fandom.com/wiki/The_Regrowth "The Regrowth")
+    -   [Ashen Lake](https://wowpedia.fandom.com/wiki/Ashen_Lake "Ashen Lake")
+    -   [The Inferno](https://wowpedia.fandom.com/wiki/Inferno "Inferno")
+    -   [Leyara's Sorrow](https://wowpedia.fandom.com/wiki/Leyara%27s_Sorrow "Leyara's Sorrow")
+    -   [Nordune Ridge](https://wowpedia.fandom.com/wiki/Nordune_Ridge "Nordune Ridge")
+    -   [Sanctuary of Malorne](https://wowpedia.fandom.com/wiki/Sanctuary_of_Malorne "Sanctuary of Malorne")
+    -   [Whistling Grove](https://wowpedia.fandom.com/wiki/Whistling_Grove "Whistling Grove")
+-   [Gar'gol's Hovel](https://wowpedia.fandom.com/wiki/Gar%27gol%27s_Hovel "Gar'gol's Hovel")
+-   [Grove of Aessina](https://wowpedia.fandom.com/wiki/Grove_of_Aessina "Grove of Aessina")
+-   [Maw of Lycanthoth](https://wowpedia.fandom.com/wiki/Maw_of_Lycanthoth "Maw of Lycanthoth")
+-   [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil")
+    -   [Nordrassil Inn](https://wowpedia.fandom.com/wiki/Nordrassil_Inn "Nordrassil Inn")
+-   [Rim of the World](https://wowpedia.fandom.com/wiki/Rim_of_the_World "Rim of the World")
+-   [The Scorched Plain](https://wowpedia.fandom.com/wiki/Scorched_Plain "Scorched Plain")
+-   [Sethria's Roost](https://wowpedia.fandom.com/wiki/Sethria%27s_Roost "Sethria's Roost")
+-   [Shrine of Aviana](https://wowpedia.fandom.com/wiki/Shrine_of_Aviana "Shrine of Aviana")
+-   [Shrine of Goldrinn](https://wowpedia.fandom.com/wiki/Shrine_of_Goldrinn "Shrine of Goldrinn")
+-   [The Throne of Flame](https://wowpedia.fandom.com/wiki/Throne_of_Flame "Throne of Flame")
+    -   [Sulfuron Spire](https://wowpedia.fandom.com/wiki/Sulfuron_Spire "Sulfuron Spire")
+-   [The Verdant Thicket](https://wowpedia.fandom.com/wiki/Verdant_Thicket "Verdant Thicket")
+    -   [The Circle of Cinders](https://wowpedia.fandom.com/wiki/Circle_of_Cinders "Circle of Cinders")
+    -   [Hyjal Barrow Dens](https://wowpedia.fandom.com/wiki/Hyjal_Barrow_Dens "Hyjal Barrow Dens")
+    -   [Lake Edunel](https://wowpedia.fandom.com/wiki/Lake_Edunel "Lake Edunel")
+    -   [Ruins of Lar'donir](https://wowpedia.fandom.com/wiki/Ruins_of_Lar%27donir "Ruins of Lar'donir")
+    -   [The Tranquil Grove](https://wowpedia.fandom.com/wiki/Tranquil_Grove "Tranquil Grove")
+    -   [Twilight Command Post](https://wowpedia.fandom.com/wiki/Twilight_Command_Post "Twilight Command Post")
+-   [Wolf's Run](https://wowpedia.fandom.com/wiki/Wolf%27s_Run "Wolf's Run")
+    -   [Lightning Ledge](https://wowpedia.fandom.com/wiki/Lightning_Ledge "Lightning Ledge")
+
+
+
+ | 
+
+[![Map of Mount Hyjal after the Miracle](https://static.wikia.nocookie.net/wowpedia/images/9/94/WorldMap-Hyjal.jpg/revision/latest/scale-to-width-down/120?cb=20180510102832)](https://static.wikia.nocookie.net/wowpedia/images/9/94/WorldMap-Hyjal.jpg/revision/latest?cb=20180510102832 "Map of Mount Hyjal after the Miracle")
+
+ |
+|  |
+| 
+
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands") — [The Crucible of Flame](https://wowpedia.fandom.com/wiki/Crucible_of_Flame "Crucible of Flame")
+-   [Firelands Forgeworks](https://wowpedia.fandom.com/wiki/Firelands_Forgeworks "Firelands Forgeworks")
+-   [Firelands Hatchery](https://wowpedia.fandom.com/wiki/Firelands_Hatchery "Firelands Hatchery")
+-   [The Inner Spire](https://wowpedia.fandom.com/wiki/Inner_Spire "Inner Spire")
+
+
+
+ |
+|  |
+| 
+
+-   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Hyjal Summit](https://wowpedia.fandom.com/wiki/Hyjal_Summit "Hyjal Summit")
+-   [The Sanctum of the Prophets](https://wowpedia.fandom.com/wiki/Sanctum_of_the_Prophets "Sanctum of the Prophets")
+-   **Well of Eternity**
+
+
+
+ |
+|  |
+| 
+
+[Mount Hyjal category](https://wowpedia.fandom.com/wiki/Category:Mount_Hyjal "Category:Mount Hyjal")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Hyjal_Summit_Subzones "Template:Hyjal Summit Subzones")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Hyjal_Summit_Subzones?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Hyjal Summit](https://wowpedia.fandom.com/wiki/Hyjal_Summit_(Caverns_of_Time) "Hyjal Summit (Caverns of Time)")
+
+
+
+ |
+| --- |

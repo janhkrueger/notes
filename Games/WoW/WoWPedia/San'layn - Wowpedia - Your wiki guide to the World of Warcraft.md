@@ -1,0 +1,342 @@
+_For the priest talent, see  ![](https://static.wikia.nocookie.net/wowpedia/images/0/01/Achievement_boss_lanathel.png/revision/latest/scale-to-width-down/16?cb=20091028042555)[\[San'layn\]](https://wowpedia.fandom.com/wiki/San%27layn_(priest_talent))._
+
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Combat_32.png/revision/latest?cb=20151213203709)](https://wowpedia.fandom.com/wiki/Mob "Mob")San'layn |
+| --- |
+| [![Prince Tenris Mirkblood.jpg](https://static.wikia.nocookie.net/wowpedia/images/5/52/Prince_Tenris_Mirkblood.jpg/revision/latest/scale-to-width-down/260?cb=20110701193147)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Prince_Tenris_Mirkblood.jpg/revision/latest?cb=20110701193147)
+A San'layn blood prince
+
+ |
+| Main leader | Unknown |
+|   Formerly | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest/scale-to-width-down/16?cb=20211130171635)[Blood Prince Dreven](https://wowpedia.fandom.com/wiki/Blood_Prince_Dreven "Blood Prince Dreven") <sup>&nbsp;†</sup>  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_San%27layn_Queen.gif/revision/latest/scale-to-width-down/16?cb=20211130171349)[Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel") <sup>&nbsp;†</sup>  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest/scale-to-width-down/16?cb=20211130171635)[Blood Prince Council](https://wowpedia.fandom.com/wiki/Blood_Prince_Council "Blood Prince Council") <sup>&nbsp;†</sup> |
+| Race(s) | [![San'layn](https://static.wikia.nocookie.net/wowpedia/images/5/59/IconSmall_San%27layn_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516215301)](https://wowpedia.fandom.com/wiki/San%27layn "San'layn")[![San'layn](https://static.wikia.nocookie.net/wowpedia/images/8/8c/IconSmall_San%27layn_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517011154)](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") [Darkfallen](https://wowpedia.fandom.com/wiki/Darkfallen "Darkfallen") |
+| Character classes | [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") |
+| Capital | None<sup id="cite_ref-Meeting_of_the_Minds_1-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Meeting_of_the_Minds-1">[1]</a></sup> |
+|   Formerly | [Crimson Hall](https://wowpedia.fandom.com/wiki/Crimson_Hall "Crimson Hall") (within [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel")) |
+| Language(s) | [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian") |
+| Affiliation | [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
+|   Formerly | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Status | Active |
+
+The **San'layn** (sometimes spelled in lowercase) are a sect<sup id="cite_ref-Magus_Installation_2-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Magus_Installation-2">[2]</a></sup><sup id="cite_ref-Exploring_Northrend_3-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Exploring_Northrend-3">[3]</a></sup> of [vampiric](https://wowpedia.fandom.com/wiki/Vampyr "Vampyr") [darkfallen](https://wowpedia.fandom.com/wiki/Darkfallen "Darkfallen") elves in service to the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").<sup id="cite_ref-Underdev/Icecrown_Citadel:_The_Frozen_Throne_4-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Underdev/Icecrown_Citadel:_The_Frozen_Throne-4">[4]</a></sup> They are known for their guile and dark magic, particularly the manipulation of [blood](https://wowpedia.fandom.com/wiki/Blood_magic "Blood magic") and [shadow](https://wowpedia.fandom.com/wiki/Shadow_(magic) "Shadow (magic)") magic.<sup id="cite_ref-Magus_Installation_2-1"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Magus_Installation-2">[2]</a></sup> They used to be among [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s [greatest followers](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury"),<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-5">[5]</a></sup> until they were raised into undeath by [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") following [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")'s failed assault on the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-6">[6]</a></sup><sup id="cite_ref-returncaladis_7-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-returncaladis-7">[7]</a></sup> During _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth "Battle for Azeroth")_, a number of San'layn led by [Blood Prince Dreven](https://wowpedia.fandom.com/wiki/Blood_Prince_Dreven "Blood Prince Dreven") were given a chance to join the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") by [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") if they could work with them, but Dreven was killed during his mission.<sup id="cite_ref-Ending_the_San'layn_Threat_8-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Ending_the_San'layn_Threat-8">[8]</a></sup>
+
+## History
+
+### The Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Return_to_Northrend.jpg/revision/latest/scale-to-width-down/180?cb=20180924194354)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Return_to_Northrend.jpg/revision/latest?cb=20180924194354)
+
+Blood elves being killed during [Arthas' return to Northrend](https://wowpedia.fandom.com/wiki/The_Return_to_Northrend_(WC3_Undead) "The Return to Northrend (WC3 Undead)").
+
+In the aftermath of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") were cut off from their source of [magic](https://wowpedia.fandom.com/wiki/Magic "Magic"), the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"). Desperate for aid, their prince [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") pledged allegiance to Illidan Stormrage who taught them how to siphon magic, and how to wield [fel](https://wowpedia.fandom.com/wiki/Fel "Fel").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-9">[9]</a></sup> The blood elves, or [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury"), seeking to avenge their fallen brethren, participated in Illidan's attempt to destroy the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-W3xU4_10-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-W3xU4-10">[10]</a></sup> [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") intervened, and the two armies clashed, but the undead ultimately defeated Illidan's forces at the foot of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown").<sup id="cite_ref-W3xU4_10-1"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-W3xU4-10">[10]</a></sup><sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-11">[11]</a></sup> The surviving blood elves returned to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") along with Kael'thas.
+
+### Aftermath
+
+A few remained lost and scattered in the frozen wastes of Northrend, but Arthas sought out one by one those who had challenged the Lich King. He shattered their forces and raised the most powerful ones into the Lich King's service as [vampyr](https://wowpedia.fandom.com/wiki/Vampyr "Vampyr") [Darkfallen](https://wowpedia.fandom.com/wiki/Darkfallen "Darkfallen"), organizing them into the San'layn.<sup id="cite_ref-returncaladis_7-1"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-returncaladis-7">[7]</a></sup> Among those survivors was [Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel"), wielder of the draconic blade [Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar"), who was no match for the power of [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"). She was chosen by the Lich King to serve him in undeath as the queen of the San'layn.<sup id="cite_ref-queldelar_12-0"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-queldelar-12">[12]</a></sup>
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Crimson_Hall.jpg/revision/latest/scale-to-width-down/180?cb=20091007021527)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Crimson_Hall.jpg/revision/latest?cb=20091007021527)
+
+The [Crimson Hall](https://wowpedia.fandom.com/wiki/Crimson_Hall "Crimson Hall") in Icecrown Citadel.
+
+The San'layn oversaw the Scourge's operations throughout Azeroth,<sup id="cite_ref-Underdev/Icecrown_Citadel:_The_Frozen_Throne_4-1"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Underdev/Icecrown_Citadel:_The_Frozen_Throne-4">[4]</a></sup> holding an important position amongst the Scourge offensive,<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-13">[13]</a></sup> with its members, most of the times, performing important tasks on the behalf of the Lich King.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-15">[15]</a></sup> They were often found in strongholds of other Scourge-affiliated races alongside with its local leadership, or in command of Scourge bases or operations across Northrend, acting as agents, leaders, or ambassadors.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-16">[16]</a></sup>
+
+During the [Scourge's second invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion#The_second_Scourge_Invasion "Scourge Invasion"), the San'layn Prince [Tenris Mirkblood](https://wowpedia.fandom.com/wiki/Tenris_Mirkblood "Tenris Mirkblood") had infiltrated [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan_(raid) "Karazhan (raid)") by orders from the Lich King, in a mission to learn about the strengths of their enemies. The operation was thwarted by experienced heroes sent by the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-17">[17]</a></sup>
+
+They took part in the assault upon the Scarlet Enclave, were responsible for the resurrection of [Archmage Arugal](https://wowpedia.fandom.com/wiki/Archmage_Arugal "Archmage Arugal"), the creation of the massive flesh titan [Thrym](https://wowpedia.fandom.com/wiki/Thrym "Thrym"), challenged heroes in battle at Valhalas, and acted as ambassadors to the vrykul of the Howling Fjord and as agents of the Scourge forces attempting to conquer Azjol-Nerub. The San'layn maintained an especially strong presence in the Borean Tundra, leading the assaults from [Temple City of En'kilah](https://wowpedia.fandom.com/wiki/Temple_City_of_En%27kilah "Temple City of En'kilah") and the necropolis [Naxxanar](https://wowpedia.fandom.com/wiki/Naxxanar "Naxxanar") floating above the fortress.
+
+The alliance between [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron") and the Scourge meant that the Lich King sent an ambassador, the San'layn [Prince Keleseth](https://wowpedia.fandom.com/wiki/Prince_Keleseth "Prince Keleseth"), to reside at [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep "Utgarde Keep"). He oversaw Scourge operations in [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord"), working with [Ingvar the Plunderer](https://wowpedia.fandom.com/wiki/Ingvar_the_Plunderer "Ingvar the Plunderer") to organize raids. [Adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") eventually killed him.<sup id="cite_ref-Exploring_Northrend_3-1"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Exploring_Northrend-3">[3]</a></sup>
+
+The San'layn faced heavy resistance from the Alliance and the Horde. With most of their blood princes slain by the end of the Northrend campaign, the [Ashen Verdict](https://wowpedia.fandom.com/wiki/Ashen_Verdict "Ashen Verdict") and a group of [heroes](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") raided the [Crimson Hall](https://wowpedia.fandom.com/wiki/Crimson_Hall "Crimson Hall") within [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel"), their headquarters. The blood-princes [Valanar](https://wowpedia.fandom.com/wiki/Valanar "Valanar"), [Keleseth](https://wowpedia.fandom.com/wiki/Keleseth "Keleseth"), and [Taldaram](https://wowpedia.fandom.com/wiki/Taldaram "Taldaram") were raised into undeath by the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") to avenge themselves, but were killed again, along with their [blood-queen](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel").<sup id="cite_ref-Underdev/Icecrown_Citadel:_The_Frozen_Throne_4-2"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Underdev/Icecrown_Citadel:_The_Frozen_Throne-4">[4]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Blood-Queen Lana'thel's daughter, [Blood-Princess Thal'ena](https://wowpedia.fandom.com/wiki/Blood-Princess_Thal%27ena "Blood-Princess Thal'ena"), had been imprisoned in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold") by the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") in the aftermath of the [war against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"). She was freed by [Lord Malgath](https://wowpedia.fandom.com/wiki/Lord_Malgath "Lord Malgath") in an attempt to strike [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") from within, but was killed by a group of heroes.
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/41/Dreven.png/revision/latest/scale-to-width-down/180?cb=20180821161223)](https://static.wikia.nocookie.net/wowpedia/images/4/41/Dreven.png/revision/latest?cb=20180821161223)
+
+Blood Prince Dreven and Rokhan
+
+With no home left, several San'layn were employed into the Horde's ranks, although [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji") did not trust them. Sylvanas came into an agreement and gave them a chance; besides having to respect the hierarchy of authority within the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), if the Darkfallen could work with them they would get a home with the Horde, if not they would be gone.<sup id="cite_ref-Meeting_of_the_Minds_1-1"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Meeting_of_the_Minds-1">[1]</a></sup>
+
+They were tasked to clear the rubble in a collapsed tunnel that connects [Nazmir](https://wowpedia.fandom.com/wiki/Nazmir "Nazmir") to [Vol'dun](https://wowpedia.fandom.com/wiki/Vol%27dun "Vol'dun"). [Blood Prince Dreven](https://wowpedia.fandom.com/wiki/Blood_Prince_Dreven "Blood Prince Dreven") and his followers came into conflict with [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon"), eventually killing members of her party. Hunted by the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), the blood prince was cornered traveling via boat. Aboard the _[Crimson Squall](https://wowpedia.fandom.com/wiki/Crimson_Squall "Crimson Squall")_ he was training [other San'layn](https://wowpedia.fandom.com/wiki/San%27layn_Neophyte "San'layn Neophyte") and alongside his followers were siphoning power from blood-infused crystals to bolster their unholy abilities, indicating that the San'layn were growing their ranks again. When cornered, Dreven killed and drained the Forsaken troops aboard his ship, intending to blame their deaths on the Alliance. The blood prince and his followers were ultimately slain by Shandris and an Alliance [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").<sup id="cite_ref-Ending_the_San'layn_Threat_8-1"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-Ending_the_San'layn_Threat-8">[8]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+With the breaking of the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination"), the san'layn [Vorath](https://wowpedia.fandom.com/wiki/Vorath "Vorath") marshaled the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") in the [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands") and marched them to attack the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") settlement of [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien").<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-18">[18]</a></sup> In response, the sin'dorei helmed by the [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights") defended the village and launched a counteroffensive across the Dead Scar into [Deatholme](https://wowpedia.fandom.com/wiki/Deatholme "Deatholme") where [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") managed to kill Vorath with their newly empowered ranseurs.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-19">[19]</a></sup>
+
+## Appearance
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/70/San%27layn_banner.png/revision/latest/scale-to-width-down/180?cb=20100203090048)](https://static.wikia.nocookie.net/wowpedia/images/7/70/San%27layn_banner.png/revision/latest?cb=20100203090048)
+
+The banner of the San'layn.
+
+San'layn mostly retain the builds of their still-living kin. They are 5–6 feet tall with slim, athletic, and strong bodies, and have fairly long hair and minimal facial hair.
+
+However, unlike blood elves, their flesh appears necrotic and, though universally pale, ranges from fleshy pinks and red to gray and light green, and they tend to have either white, blond, red or dark hair. Their eyes have white, yellow, green, blue, or black glows. Some San'layn have clawed fingers and ears more closely resembling those of a bat, and a few have developed wings.
+
+## Culture
+
+The San'layn are cold, arrogant [vampyr](https://wowpedia.fandom.com/wiki/Vampyr "Vampyr") who inflict pain for pure entertainment.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-20">[20]</a></sup> Bearer of a curse which makes them hunger for blood,<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-21">[21]</a></sup> they are often found siphoning from blood globes and crystals.
+
+San'layn, most of the times, dress in red, orange and black garments, like tarnished versions of their living cousins, the blood elves. They have assimilated the Scourge shared culture, and contributed with their own, which can be seen in the decoration of the Crimson Hall, inside the Icecrown Citadel.
+
+Their most common mount is the [skeletal horse](https://wowpedia.fandom.com/wiki/Skeletal_horse "Skeletal horse") and they have been shown to keep bats, spiders and blood worms around them.
+
+Skilled in a variety of magic schools, they often make use of vampiric skills, have even demonstrated some shape-shifting abilities and possess great mental influence over human minds, when empowered by the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-22">[22]</a></sup>
+
+## Organization
+
+During the Northrend campaign, the San'layn possessed two main bases of operations across Northrend: the Temple City of En'kilah and the Crimson Hall. The Temple City of En'kilah served as the command center of the Scourge in the Borean Tundra. The Crimson Hall was the headquarters and home of the San'layn, located inside the Icecrown Citadel, and was the place where the most powerful ones could be found. Blood-Queen Lana'thel held the leading position in the San'layn hierarchy, and the Blood Prince Council were the second in the chain of command of the faction.
+
+Later, during the [Horde War Campaign](https://wowpedia.fandom.com/wiki/Horde_War_Campaign "Horde War Campaign"), the San'layn attempted to join the Horde's ranks, only to be slain alongside their leader Blood Prince Dreven by the hands of the Alliance.
+
+The current status of their leadership and its organization is unknown.
+
+## Notable
+
+| Name | Role | Status | Location |
+| --- | --- | --- | --- |
+| [![IconSmall San'layn Queen.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_San%27layn_Queen.gif/revision/latest?cb=20211130171349) [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel") <The San'layn> | Leader of the San'layn, former wielder of [Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar"). | Deceased (lore); Killable (WoW) | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") and [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") |
+| [![IconSmall San'layn Queen.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_San%27layn_Queen.gif/revision/latest?cb=20211130171349) [Blood-Princess Thal'ena](https://wowpedia.fandom.com/wiki/Blood-Princess_Thal%27ena "Blood-Princess Thal'ena") [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") | Daughter of Lana'thel. Imprisoned in the Violet Hold. | Killable (WoW) | [Violet Hold](https://wowpedia.fandom.com/wiki/Assault_on_Violet_Hold "Assault on Violet Hold") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Blood Prince Dreven](https://wowpedia.fandom.com/wiki/Blood_Prince_Dreven "Blood Prince Dreven") [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") | Leader of a group that sought to join the Horde. | Deceased (lore); Killable (WoW) | [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Taldaram](https://wowpedia.fandom.com/wiki/Prince_Taldaram "Prince Taldaram") | Agent of the Scourge forces attempting to conquer [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"). Raised in undeath to serve in Icecrown Citadel as a member of the Blood Prince Council. | Deceased (lore); Killable (WoW) | [Ahn'kahet](https://wowpedia.fandom.com/wiki/Ahn%27kahet "Ahn'kahet") and [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Keleseth](https://wowpedia.fandom.com/wiki/Prince_Keleseth "Prince Keleseth") <The San'layn> | Overlord of Howling Fjord, ruler of the South-Eastern reaches of Northrend and ambassador to the vrykul; also took part in the assault upon the Scarlet Enclave and the ritual to raise Arugal. Raised in undeath to serve in Icecrown Citadel as a member of the Blood Prince Council. Prince Valanar's brother.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-23">[23]</a></sup> | Deceased (lore); Killable (WoW) | [Scarlet Enclave](https://wowpedia.fandom.com/wiki/Scarlet_Enclave "Scarlet Enclave"), [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord"), [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep_(instance) "Utgarde Keep (instance)") and [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Valanar](https://wowpedia.fandom.com/wiki/Prince_Valanar "Prince Valanar") <The San'layn> | Overlord of Borean Tundra and master of [Naxxanar](https://wowpedia.fandom.com/wiki/Naxxanar "Naxxanar"); also took part in the assault upon the Scarlet Enclave and the ritual to raise Arugal. Raised in undeath to serve in Icecrown Citadel as a member of the Blood Prince Council. Prince Keleseth's brother. | Deceased (lore); Killable (WoW) | [Scarlet Enclave](https://wowpedia.fandom.com/wiki/Scarlet_Enclave "Scarlet Enclave"), [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") and [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Tenris Mirkblood](https://wowpedia.fandom.com/wiki/Prince_Tenris_Mirkblood "Prince Tenris Mirkblood") <The San'layn> | Agent of the Scourge during the [second Scourge Invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion "Scourge Invasion"). | Deceased | [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Sandoval](https://wowpedia.fandom.com/wiki/Prince_Sandoval "Prince Sandoval") | Challenges fighters to battle at Valhalas. | Deceased (lore); Killable (WoW) | [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") and [Icecrown Glacier](https://wowpedia.fandom.com/wiki/Icecrown_Glacier "Icecrown Glacier") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Navarius](https://wowpedia.fandom.com/wiki/Prince_Navarius "Prince Navarius") | Masterminded the creation of the massive flesh titan, Thrym, and likely other flesh giants. | Deceased (lore); Killable (WoW) | [Zul'Drak](https://wowpedia.fandom.com/wiki/Zul%27Drak "Zul'Drak") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Atherann](https://wowpedia.fandom.com/wiki/Prince_Atherann "Prince Atherann") <The San'layn> | Took part in the ritual to raise Archmage Arugal. | Unknown | Last seen in [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Prince Theraldis](https://wowpedia.fandom.com/wiki/Prince_Theraldis "Prince Theraldis") <The San'layn> | Led the ritual to raise Arugal. | Unknown | Last seen in [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest") |
+| [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Vorath](https://wowpedia.fandom.com/wiki/Vorath "Vorath") | Mustered the leaderless [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") to attack [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien"). | Deceased (lore); Killable (WoW) | [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands") |
+| [![IconSmall San'layn Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/59/IconSmall_San%27layn_Male.gif/revision/latest?cb=20200516215301) [High Priest Andorath](https://wowpedia.fandom.com/wiki/High_Priest_Andorath "High Priest Andorath") | One of Prince Valanar's lieutenants. | Deceased (lore); Killable (WoW) | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") |
+| [![IconSmall San'layn Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/59/IconSmall_San%27layn_Male.gif/revision/latest?cb=20200516215301) [Luthion the Vile](https://wowpedia.fandom.com/wiki/Luthion_the_Vile "Luthion the Vile") <The San'layn> | One of Prince Valanar's lieutenants. | Deceased (lore); Killable (WoW) | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") |
+| [![IconSmall San'layn Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/59/IconSmall_San%27layn_Male.gif/revision/latest?cb=20200516215301) [Vanthryn the Merciless](https://wowpedia.fandom.com/wiki/Vanthryn_the_Merciless "Vanthryn the Merciless") <The San'layn> | One of Prince Valanar's lieutenants. | Deceased (lore); Killable (WoW) | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") |
+
+## Ranks and types
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/41/Crimson_Hall_01.jpg/revision/latest/scale-to-width-down/180?cb=20091121102108)](https://static.wikia.nocookie.net/wowpedia/images/4/41/Crimson_Hall_01.jpg/revision/latest?cb=20091121102108)
+
+Darkfallen in the Crimson Hall.
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Monster-nosferatu-large.jpg/revision/latest/scale-to-width-down/180?cb=20220512192344)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Monster-nosferatu-large.jpg/revision/latest?cb=20220512192344)
+
+Concept art from _[The Art of Wrath of the Lich King](https://wowpedia.fandom.com/wiki/The_Art_of_World_of_Warcraft:_Wrath_of_the_Lich_King "The Art of World of Warcraft: Wrath of the Lich King")_.
+
+-   [Sir Finley Mrrgglton](https://wowpedia.fandom.com/wiki/Sir_Finley_Mrrgglton "Sir Finley Mrrgglton") speculates that the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") vampyr of [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim") may have suffered the same curse the blood elves did.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-24">[24]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/0/01/Achievement_boss_lanathel.png/revision/latest/scale-to-width-down/16?cb=20091028042555)[\[San'layn\]](https://wowpedia.fandom.com/wiki/San%27layn_(priest_talent)) is a level 75 [Shadow Priest](https://wowpedia.fandom.com/wiki/Priest#Shadow "Priest") talent which increases the damage of  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Spell_holy_stoicism.png/revision/latest/scale-to-width-down/16?cb=20070113162702)[\[Vampiric Touch\]](https://wowpedia.fandom.com/wiki/Vampiric_Touch) and the healing of  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Spell_shadow_unsummonbuilding.png/revision/latest/scale-to-width-down/16?cb=20060923203729)[\[Vampiric Embrace\]](https://wowpedia.fandom.com/wiki/Vampiric_Embrace).
+-   In _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_, [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") has a color variant of her "Dark Lady" skin called "San'layn Dark Lady Sylvanas".
+-   During early WotLK beta, they used undead blood elf models, with some wearing the [Malefic Raiment](https://wowpedia.fandom.com/wiki/Malefic_Raiment "Malefic Raiment").<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-25">[25]</a></sup>
+-   Chris Metzen said at [BlizzCon 2007](https://wowpedia.fandom.com/wiki/BlizzCon_2007 "BlizzCon 2007") that the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") were also vampiric, something that is not visited in-game.
+-   The San'layn hold a few similarities with the [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim"), who previously served the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), both being inspired from vampires and overseeing the Scourge's efforts. The similarities may be intentional in-universe, as the Lich King could have wanted to fill the gap previously occupied by the [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord_(Warcraft_III) "Dreadlord (Warcraft III)") in his armies.
+-   The San'layn are jokingly referred by female [void elves](https://wowpedia.fandom.com/wiki/Void_elf_(playable) "Void elf (playable)") as another type of "emo elves" who drink blood.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/San%27layn#cite_note-26">[26]</a></sup>
+-   The San'layn, specifically their Princes, are inspired from vampires from folklore and fiction. They drink blood, have bat-like ears, wear cloaks with high collars, possess fangs, and display similar mannerisms, characteristics and accent. _[The Art of Wrath of the Lich King](https://wowpedia.fandom.com/wiki/The_Art_of_World_of_Warcraft:_Wrath_of_the_Lich_King "The Art of World of Warcraft: Wrath of the Lich King")_ includes a concept art titled "High Elf Nosferatu", which appears to be inspired by [Count Orlok](http://en.wikipedia.org/wiki/Count_Orlok "wikipedia:Count Orlok") from the classic German silent film _[Nosferatu](http://en.wikipedia.org/wiki/Nosferatu "wikipedia:Nosferatu")_.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   [Elder Ko'nani](https://wowpedia.fandom.com/wiki/Elder_Ko%27nani "Elder Ko'nani") of the [Kalu'ak](https://wowpedia.fandom.com/wiki/The_Kalu%27ak "The Kalu'ak") states that "the [Dark One](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") rides forth again with his San'layn..." showing that they are a major, or at least leading, part of the Scourge offensive. Depending on how the sentence is read, it may mean the San'layn were part of a previous attack of some kind.
+-   Arthas, as the Lich King, may have been inspired to create the San'layn based on visions of the venthyr he saw through the Helm of Domination.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<span title="What states that Arthas saw the venthyr?"><i>citation needed</i></span>]</a></sup> 
+
+## Gallery
+
+World of Warcraft
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/File-Crimson_Hall_02.jpg/revision/latest/scale-to-width-down/120?cb=20091121102147)](https://static.wikia.nocookie.net/wowpedia/images/4/47/File-Crimson_Hall_02.jpg/revision/latest?cb=20091121102147)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Mirkblood%27s_room.jpg/revision/latest/scale-to-width-down/120?cb=20091021222949)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Mirkblood%27s_room.jpg/revision/latest?cb=20091021222949)
+    
+    Prince Tenris Mirkblood's room in Karazhan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Blood_Prince_Emblem.png/revision/latest/scale-to-width-down/94?cb=20100203065221)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Blood_Prince_Emblem.png/revision/latest?cb=20100203065221)
+    
+    Blood Prince Emblem.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/San%27layn_painting.png/revision/latest/scale-to-width-down/82?cb=20180703003515)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/San%27layn_painting.png/revision/latest?cb=20180703003515)
+    
+    A painting possibly meant to depict a San'layn
+    
+
+Other games
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/85/Blood_Lord_Varoth.jpg/revision/latest/scale-to-width-down/91?cb=20160504032526)](https://static.wikia.nocookie.net/wowpedia/images/8/85/Blood_Lord_Varoth.jpg/revision/latest?cb=20160504032526)
+    
+    Blood Lord Vorath in the TCG.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Sleeping_Acolyte.jpg/revision/latest/scale-to-width-down/91?cb=20180513215452)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Sleeping_Acolyte.jpg/revision/latest?cb=20180513215452)
+    
+
+## Videos
+
+-   [The Story of The San'layn](https://wowpedia.fandom.com/wiki/San%27layn#)
+-   [Music of Icecrown - Crimson Hall](https://wowpedia.fandom.com/wiki/San%27layn#)
+
+## See also
+
+## References
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Scourge "Template:Scourge")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Scourge?action=edit)
+
+[Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+    -   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+    -   [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")
+    -   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Amnennar the Coldbringer](https://wowpedia.fandom.com/wiki/Amnennar_the_Coldbringer "Amnennar the Coldbringer")
+-   [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak")
+-   [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare")
+-   [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel")
+-   [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric")
+-   [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")
+-   [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron")
+-   [Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper")
+-   [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn")
+-   [Professor Putricide](https://wowpedia.fandom.com/wiki/Professor_Putricide "Professor Putricide")
+-   [Shade of Arugal](https://wowpedia.fandom.com/wiki/Shade_of_Arugal "Shade of Arugal")
+-   [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa")
+
+
+
+ |
+|  |
+| Undead types | 
+
+<table><tbody><tr><th scope="row">Corporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Abomination" title="Abomination">Abomination</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mutated_abomination" title="Mutated abomination">Mutated abomination</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_giant" title="Flesh giant">Flesh giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_titan" title="Flesh titan">Flesh titan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague-dog" title="Plague-dog">Plague-dog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wight" title="Wight">Wight</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Crypt_fiend" title="Crypt fiend">Crypt fiend</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crypt_lord" title="Crypt lord">Crypt lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Gargoyle" title="Gargoyle">Gargoyle</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dire_gargoyle" title="Dire gargoyle">Dire</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Geist" title="Geist">Geist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghoul" title="Ghoul">Ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragon" title="Plagued dragon">Plagued dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague_eruptor" title="Plague eruptor">Plague eruptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Zombie" title="Zombie">Zombie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Undead_(playable)" title="Undead (playable)">Forsaken</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mummy" title="Mummy">Mummy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Darkfallen" title="Darkfallen">Darkfallen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scourge_troll" title="Scourge troll">Scourge troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vargul" title="Vargul">Vargul</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Incorporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Banshee" title="Banshee">Banshee</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghost" title="Ghost">Ghost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shade" title="Shade">Shade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val%27kyr" title="Val'kyr">Val'kyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wraith" title="Wraith">Wraith</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Skeletal_creature" title="Skeletal creature">Skeletal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_golem" title="Bone golem">Bone golem</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bone_wraith" title="Bone wraith">Bone wraith</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lich" title="Lich">Lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeleton" title="Skeleton">Skeleton</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_mage" title="Skeletal mage">Mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_warrior" title="Skeletal warrior">Warrior</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Skeletal dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Living followers | 
+
+-   [Ice troll](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll")
+-   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frost_vrykul "Frost vrykul")
+-   [Wendigo](https://wowpedia.fandom.com/wiki/Wendigo "Wendigo")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+-   [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel")
+-   [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas")
+-   [Shadowfang Tower](https://wowpedia.fandom.com/wiki/Shadowfang_Tower "Shadowfang Tower")
+-   [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")
+-   [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep "Utgarde Keep")
+-   [Voltarus](https://wowpedia.fandom.com/wiki/Voltarus "Voltarus")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+-   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+-   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")
+-   [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Black Guard](https://wowpedia.fandom.com/wiki/Black_Guard "Black Guard")
+-   [Boneguard](https://wowpedia.fandom.com/wiki/Boneguard_(Scourge) "Boneguard (Scourge)")
+-   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+    -   [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")
+    -   [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin")
+-   [Death's Head tribe](https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe "Death's Head tribe")
+-   [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") orders
+    -   [Four Horsemen](https://wowpedia.fandom.com/wiki/Four_Horsemen "Four Horsemen")
+    -   [Host of Suffering](https://wowpedia.fandom.com/wiki/Host_of_Suffering "Host of Suffering")
+-   [Drakuru trolls](https://wowpedia.fandom.com/wiki/Drakuru_trolls "Drakuru trolls")
+-   [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood")
+-   [Mad scientists](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist")
+-   [Nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian")
+    -   [Ahn'kahar](https://wowpedia.fandom.com/wiki/Ahn%27kahar "Ahn'kahar")
+    -   [Anub'ar](https://wowpedia.fandom.com/wiki/Anub%27ar "Anub'ar")
+    -   [Hath'ar](https://wowpedia.fandom.com/wiki/Hath%27ar "Hath'ar")
+    -   [Nerub'ar](https://wowpedia.fandom.com/wiki/Nerub%27ar "Nerub'ar")
+    -   [Nerubis](https://wowpedia.fandom.com/wiki/Nerubis "Nerubis")
+-   [Rot Hide tribe](https://wowpedia.fandom.com/wiki/Rot_Hide_tribe "Rot Hide tribe")
+-   **The San'layn**
+    -   [Blood Prince Council](https://wowpedia.fandom.com/wiki/Blood_Prince_Council "Blood Prince Council")
+-   [Splinterbone](https://wowpedia.fandom.com/wiki/Splinterbone_skeletons "Splinterbone skeletons")
+-   [Vrykul clans](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Dragonflayer clan](https://wowpedia.fandom.com/wiki/Dragonflayer_clan "Dragonflayer clan")
+    -   [Mjordin](https://wowpedia.fandom.com/wiki/Mjordin "Mjordin")
+    -   [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim_vrykul "Jotunheim vrykul")
+    -   [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan")
+    -   [Valkyrion Hyldnir](https://wowpedia.fandom.com/wiki/Valkyrion "Valkyrion")
+    -   [Ymirjar](https://wowpedia.fandom.com/wiki/Ymirjar "Ymirjar")
+-   [Wolfcult](https://wowpedia.fandom.com/wiki/Wolfcult "Wolfcult")
+
+
+
+ |
+|  |
+| Defectors | 
+
+-   [Death Knights of Acherus](https://wowpedia.fandom.com/wiki/Death_Knights_of_Acherus "Death Knights of Acherus")
+    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade")
+    -   [Dark Riders of Acherus](https://wowpedia.fandom.com/wiki/Dark_Riders_of_Acherus "Dark Riders of Acherus")
+-   [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+
+
+
+ |
+|  |
+| Buildings & constructs | 
+
+-   [Ziggurat](https://wowpedia.fandom.com/wiki/Ziggurat "Ziggurat")
+-   [Necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis")
+-   [Plague spreader](https://wowpedia.fandom.com/wiki/Plague_spreader "Plague spreader")
+-   [Soul grinder](https://wowpedia.fandom.com/wiki/Soul_grinder "Soul grinder")
+
+
+
+ |
+|  |
+| 
+
+-   [Civil War in the Plaguelands](https://wowpedia.fandom.com/wiki/Civil_War_in_the_Plaguelands "Civil War in the Plaguelands")
+-   [Undead category](https://wowpedia.fandom.com/wiki/Category:Undead "Category:Undead")
+
+
+
+ |

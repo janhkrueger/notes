@@ -1,0 +1,1764 @@
+_This article is about the undead Forsaken lore. For the playable race, see [Undead (playable)](https://wowpedia.fandom.com/wiki/Undead_(playable) "Undead (playable)"). For more information on the living dead in general, see [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead"). For the in-game reputation faction, see [Undercity (faction)](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)")._
+
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")The Forsaken |
+| --- |
+| [![Forsaken Crest.png](https://static.wikia.nocookie.net/wowpedia/images/7/72/Forsaken_Crest.png/revision/latest/scale-to-width-down/224?cb=20151113054325)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Forsaken_Crest.png/revision/latest?cb=20151113054325)  
+[Icon of Torment](https://wowpedia.fandom.com/wiki/Icon_of_Torment "Icon of Torment")
+
+
+
+ |
+| Main leader | 
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [The Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council")
+
+-   [![IconSmall Voss.gif](https://static.wikia.nocookie.net/wowpedia/images/f/f6/IconSmall_Voss.gif/revision/latest/scale-to-width-down/16?cb=20190316111143)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/IconSmall_Voss.gif/revision/latest?cb=20190316111143) [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss")
+-   [![IconSmall Calia2.gif](https://static.wikia.nocookie.net/wowpedia/images/c/c8/IconSmall_Calia2.gif/revision/latest/scale-to-width-down/16?cb=20191021114102)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/IconSmall_Calia2.gif/revision/latest?cb=20191021114102) [Princess Calia Menethil](https://wowpedia.fandom.com/wiki/Princess_Calia_Menethil "Princess Calia Menethil")
+-   [![IconSmall Undead Male.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857) [Master Apothecary Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell")
+-   [![IconSmall Undead Male.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857) [Deathstalker Commander Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont")
+-   [![IconSmall UndeadElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_UndeadElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517011433)](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_UndeadElf_Female.gif/revision/latest?cb=20200517011433) [Dark Ranger Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara")
+
+ |
+|   Formerly |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Sylvanas.gif/revision/latest/scale-to-width-down/16?cb=20221104223320)[Queen Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") |
+| Secondary leaders |  ![](https://static.wikia.nocookie.net/wowpedia/images/d/db/IconSmall_Derek.gif/revision/latest/scale-to-width-down/16?cb=20190315105310)[Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)[Grand Executor Mortuus](https://wowpedia.fandom.com/wiki/Mortuus "Mortuus")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)[The Black Bride](https://wowpedia.fandom.com/wiki/The_Black_Bride "The Black Bride")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/IconSmall_UndeadNightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200530211801)[Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon") |
+|   Formerly |  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/IconSmall_Nathanos.gif/revision/latest/scale-to-width-down/16?cb=20181211114228)[Ranger Lord Nathanos](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_Dreadlord.gif/revision/latest/scale-to-width-down/16?cb=20211125154407)[Arch Lord Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/0/00/IconSmall_Putress.gif/revision/latest/scale-to-width-down/16?cb=20180129111717)[Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress") <sup>&nbsp;†</sup> |
+| Race(s) | [![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![IconSmall ForsakenDeathKnight Male.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_ForsakenDeathKnight_Male.gif/revision/latest/scale-to-width-down/16?cb=20211117184936)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_ForsakenDeathKnight_Male.gif/revision/latest?cb=20211117184936)[![IconSmall ForsakenDeathKnight Female.gif](https://static.wikia.nocookie.net/wowpedia/images/6/66/IconSmall_ForsakenDeathKnight_Female.gif/revision/latest/scale-to-width-down/16?cb=20211117184928)](https://static.wikia.nocookie.net/wowpedia/images/6/66/IconSmall_ForsakenDeathKnight_Female.gif/revision/latest?cb=20211117184928) [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![Undead elf](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516215246)](https://wowpedia.fandom.com/wiki/Elf "Undead elf")[![Undead elf](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_UndeadElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517011433)](https://wowpedia.fandom.com/wiki/Elf "Undead elf")[![IconSmall UndeadNightElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/4/45/IconSmall_UndeadNightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200529232348)](https://static.wikia.nocookie.net/wowpedia/images/4/45/IconSmall_UndeadNightElf_Male.gif/revision/latest?cb=20200529232348)[![IconSmall UndeadNightElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/7c/IconSmall_UndeadNightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200530211801)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/IconSmall_UndeadNightElf_Female.gif/revision/latest?cb=20200530211801) [Darkfallen](https://wowpedia.fandom.com/wiki/Darkfallen "Darkfallen")  
+[![IconSmall Banshee.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Banshee.gif/revision/latest?cb=20211130195538) [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")  
+[![IconSmall Skeleton.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest?cb=20211201223423)[![IconSmall SkeletalOrc.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/9c/IconSmall_SkeletalOrc.gif/revision/latest?cb=20211201133448) [Skeleton](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton")  
+[![IconSmall Abomination.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/IconSmall_Abomination.gif/revision/latest?cb=20211130162827) [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination")  
+[![IconSmall Wraith.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Wraith.gif/revision/latest?cb=20211130195839) [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith")  
+[![IconSmall Geist.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/IconSmall_Geist.gif/revision/latest?cb=20211130170935) [Geist](https://wowpedia.fandom.com/wiki/Geist "Geist")  
+[![IconSmall Zombie.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/44/IconSmall_Zombie.gif/revision/latest?cb=20211130165125) [Zombie](https://wowpedia.fandom.com/wiki/Zombie "Zombie")  
+[![Ghoul](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul") [Ghoul](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul")  
+[![IconSmall Gargoyle.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/IconSmall_Gargoyle.gif/revision/latest?cb=20211130170613) [Gargoyle](https://wowpedia.fandom.com/wiki/Gargoyle "Gargoyle")  
+[![Leper gnome](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome")[![Leper gnome](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome") [Leper gnome](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome") |
+|   Formerly | [![IconSmall Val'kyr.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/81/IconSmall_Val%27kyr.gif/revision/latest?cb=20211130201544) [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr") |
+| Character classes | 
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"), [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Monk](https://wowpedia.fandom.com/wiki/Monk "Monk"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")  
+[Apothecary](https://wowpedia.fandom.com/wiki/Apothecary "Apothecary"), [Assassin](https://wowpedia.fandom.com/wiki/Assassin "Assassin"), [Dark ranger](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [Mad scientist](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist"), [Necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer")  
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [Fighter](https://wowpedia.fandom.com/wiki/Fighter "Fighter"), [Shadow ascendant](https://wowpedia.fandom.com/wiki/Shadow_ascendant "Shadow ascendant"), [Spymaster](https://wowpedia.fandom.com/wiki/Spymaster "Spymaster"), [Lightslayer](https://wowpedia.fandom.com/wiki/Lightslayer "Lightslayer") |
+| Capital | N/A |
+|   Formerly | [The Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") <sup>&nbsp;†</sup> |
+| Other major settlements | [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal"), [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill"), [Deathknell](https://wowpedia.fandom.com/wiki/Deathknell "Deathknell"), [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron"), [The Sepulcher](https://wowpedia.fandom.com/wiki/Sepulcher "Sepulcher"), [Sludge Fields](https://wowpedia.fandom.com/wiki/Sludge_Fields "Sludge Fields"), [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill") |
+| Language(s) | [Gutterspeak](https://wowpedia.fandom.com/wiki/Gutterspeak "Gutterspeak"), [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"), [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), [Darnassian](https://wowpedia.fandom.com/wiki/Darnassian "Darnassian"),  
+[Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)"), [Goblin](https://wowpedia.fandom.com/wiki/Goblin_(language) "Goblin (language)"), [Zandali](https://wowpedia.fandom.com/wiki/Zandali "Zandali") |
+| Sub-group(s) | [Forsaken's military](https://wowpedia.fandom.com/wiki/Forsaken#Military "Forsaken") |
+| Affiliation | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows") |
+| Status | Active |
+| Reputation |
+| Tabard | [![Undercity Tabard.jpg](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Undercity_Tabard.jpg/revision/latest/scale-to-width-down/90?cb=20090505155356)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Undercity_Tabard.jpg/revision/latest?cb=20090505155356) |
+
+“Those who do not stand with the Forsaken stand against them. And those who stand against the Forsaken will not stand long.”
+
+— [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+
+The **undead Forsaken**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-2">[2]</a></sup> (or simply the **Forsaken** or **Undead**)<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-4">[4]</a></sup> are a [race](https://wowpedia.fandom.com/wiki/Race "Race")<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-5">[5]</a></sup><sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-6">[6]</a></sup> and a [faction](https://wowpedia.fandom.com/wiki/Faction "Faction")<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-7">[7]</a></sup><sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-8">[8]</a></sup> of intelligent [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") who broke away from the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and took control of much of the kingdom of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"),<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-9">[9]</a></sup> destroyed during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") by the death knight [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). The Forsaken were formerly led by their founder, [Lady Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), the former Ranger-General of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"). Their capital was the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), in the royal catacombs beneath the [ruins](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") of the [capital city of Lordaeron](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), until it was destroyed and abandoned at the start of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War").
+
+While comprised primarily of undead [humans](https://wowpedia.fandom.com/wiki/Human "Human"), the Forsaken are a diverse faction that include several different races at their biological core. However, they have all assumed their racial identity as "Forsaken," due to their shared goals and loyalties.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-10">[10]</a></sup>
+
+## Introduction
+
+When the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s grasp on his vast armies faltered after the Third War, a contingent of undead broke free of their master's iron will. Although this freedom seemed to be a blessing at first, these former humans were soon tormented by memories of the unspeakable horrors that they had committed as mindless Scourge agents. Those who did not descend into madness were faced with a chilling realization: the entirety of Azeroth sought their destruction.<sup id="cite_ref-Battlenet_Undead_11-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Battlenet_Undead-11">[11]</a></sup>
+
+In their darkest hour, the renegade undead were rallied together by the former ranger-general of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"). Defeated during an attack on her kingdom and transformed into a powerful Scourge banshee, Sylvanas had also regained her freedom from the Lich King. Under their new queen's guidance, the independent undead – known as Forsaken – established the Undercity beneath the ruins of Lordaeron's capital. While some Forsaken feared Sylvanas, others valued the security she provided. Many of the free-willed undead, however, found a purpose to their cursed existence through the banshee queen's burning desire to destroy the Lich King.
+
+Despite not being affiliated with the Scourge, the Forsaken came under threat from humans who were dedicated to eradicating all undead. As a means to further her own goals and protect her budding nation, Sylvanas sent emissaries to various factions in search of allies. The kind-hearted [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") of [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") proved to be the most promising contact. Specifically, Archdruid [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem") saw the potential for redemption in Sylvanas' people, even though he was fully aware of the Forsaken's sinister nature. Thus, the tauren convinced [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), despite his misgivings, to forge an alliance of convenience between the Forsaken and the Horde. In the end, the Forsaken's chances of victory against the Lich King were bolstered, while the Horde gained an invaluable foothold in the Eastern Kingdoms.<sup id="cite_ref-Battlenet_Undead_11-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Battlenet_Undead-11">[11]</a></sup>
+
+## History
+
+### Third War and aftermath
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Sylvanas_Raneman.jpg/revision/latest/scale-to-width-down/140?cb=20210312230118)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Sylvanas_Raneman.jpg/revision/latest?cb=20210312230118)
+
+[Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), Banshee Queen of the Forsaken.
+
+During the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the once-glorious capital of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"), [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), was decimated by a [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") army under the command of Prince [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). Death offered no escape for the scores of humans killed during the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything and everyone that they once held dear.<sup id="cite_ref-Battlenet_Undead_11-2"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Battlenet_Undead-11">[11]</a></sup>
+
+In the wake of [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan")'s failed attempt to melt the icy continent of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), the powerful energies possessed by the Lich King inside his [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") slowly began to decay. Inexorably this resulted in a partial loss of control of the more distant [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") forces. The result was that many undead under the Lich King's mental domination had their conscious will restored. Their spirits and memories were somehow returned to their undead bodies. Even the Lich King's champion, Arthas, began to weaken as the Lich King's power waned. Arthas the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") and his lieutenant [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") the [lich](https://wowpedia.fandom.com/wiki/Lich "Lich") were suddenly thrust into an undead civil war. Still fanatically loyal to the Lich King, Arthas heeded the call of his master and returned to Northrend as Illidan launched his second attempt to destroy the Lich King directly. Arthas left Kel'Thuzad in command of his forces when he departed.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Ruins_of_Lordaeron_Comic.jpg/revision/latest/scale-to-width-down/180?cb=20220513163143)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Ruins_of_Lordaeron_Comic.jpg/revision/latest?cb=20220513163143)
+
+The Forsaken move into the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron").
+
+Lady Sylvanas Windrunner rallied half of the standing undead forces in Lordaeron and staged a coup for control over the undead empire.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-12">[12]</a></sup> With their leader's sharp cunning and the assistance of their [banshees](https://wowpedia.fandom.com/wiki/Banshee "Banshee"), the undead forcibly coerced a number of lingering forces in Lordaeron to fighting their battles with them; such as gnolls, bandits, and ogres. First, the [dreadlord](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") fell to the Dark Lady, and swiftly sold his loyalty to Lady Sylvanas in return for sparing him. With Varimathras' assistance, the undead forces successfully deposed the leadership of [Detheroc](https://wowpedia.fandom.com/wiki/Detheroc "Detheroc") and his army, allying with the considerable forces of the mind-controlled [Grand Marshal Garithos](https://wowpedia.fandom.com/wiki/Othmar_Garithos "Othmar Garithos") in order to free Lordaeron from the control of the remaining dreadlord, [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"). Garithos, though despising non-humans, joined forces with the undead and their inhuman allies to this end. Lady Sylvanas promised to leave Lordaeron to his jurisdiction after the battle was won, despite herself never having any intention to respect their pact,<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-13">[13]</a></sup> and together with their new allies, the undead marched to end Balnazzar.
+
+With their combined forces, the undead and the [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") dismantled the final bastion of the dreadlords' power in Lordaeron, and Varimathras personally destroyed his nathrezim brother. No sooner had Garithos demanded that the Forsaken leave the land that Sylvanas promised him when she turned on him and executed the human leader; claiming the ruins of Lordaeron for the free-willed undead instead.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-14">[14]</a></sup>
+
+With her immediate enemies dealt with and the ruins of Lordaeron firmly in her hands, Lady Sylvanas proclaimed her faction of self-aware undead as the "Forsaken," and resolved to slaughter anyone would dare stand in the way of their dominion.
+
+Following this, Queen Sylvanas and the Forsaken claimed the Undercity as their own and completed the winding network of catacombs and crypts that the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") had begun constructing. Today, rivers of poisonous sludge flow through all avenues of the vast Undercity. The toxic fumes and fetid odors permeating every corner of the stronghold have made it a place almost unbearable for the living members of the Horde. Yet for Sylvanas and her cursed followers, the Undercity has become a much-needed refuge in a world where her kind is still feared and hunted.<sup id="cite_ref-Battlenet_Undead_11-3"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Battlenet_Undead-11">[11]</a></sup>
+
+While the Forsaken had claimed a base of power, their hold on Lordaeron was tenuous at best. To this end, the Dark Lady looked to finding allies.
+
+### Alliance with the Horde
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/04/Emerson_Zantides_TCG.jpg/revision/latest/scale-to-width-down/140?cb=20110611143122)](https://static.wikia.nocookie.net/wowpedia/images/0/04/Emerson_Zantides_TCG.jpg/revision/latest?cb=20110611143122)
+
+[Emerson Zantides](https://wowpedia.fandom.com/wiki/Emerson_Zantides), a Forsaken priest.
+
+Led by the banshee-queen Sylvanas, the Forsaken are an [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") faction that split violently with the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").<sup id="cite_ref-WoW_races_description_15-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoW_races_description-15">[15]</a></sup> Sylvanas worked to ensure that the damned such as herself would have a home free from threats by the living. As a means to further her own goals and protect her budding nation, Sylvanas sent emissaries to various factions in search of allies. The kind-hearted [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") of [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") proved to be the most promising contact. Specifically, Archdruid [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem") saw the potential for redemption in Sylvanas' people, even though he was fully aware of the Forsaken's sinister nature.<sup id="cite_ref-Battlenet_Undead_11-4"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Battlenet_Undead-11">[11]</a></sup> Knowing that no Human agency would ever give them shelter or aid against the Scourge, now their hated enemy, they turned to the savage [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), based across the sea in the distant land of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), for assistance.<sup id="cite_ref-WoW_races_description_15-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoW_races_description-15">[15]</a></sup>
+
+To convince the Horde to accept the Forsaken into its alliance, the Undead ambassadors claimed that they merely sought a cure for their degenerative condition, which they said only the powers of shamanism and the life-giving energies of the earth could provide. In exchange for this healing aid, the Forsaken vowed to support the Horde in all of its ventures throughout Lordaeron and Azeroth.<sup id="cite_ref-WoW_races_description_15-2"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoW_races_description-15">[15]</a></sup> [Magatha Grimtotem](https://wowpedia.fandom.com/wiki/Magatha_Grimtotem "Magatha Grimtotem") also claimed she merely wanted to aid the Forsaken in their quest to finding a path back to being human and was thus one of the prominent proponents for the alliance between the tauren and the Forsaken.<sup id="cite_ref-DtM_16-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-DtM-16">[16]</a></sup>
+
+Having done battle with the Undead on many occasions, [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc") [warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and Tauren chieftain [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof") of the Horde were immediately suspicious of the Forsaken's motives. However, due to growing political tensions, the warriors acquiesced to a council of sages known as The [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring"). The council argued that it was the Horde's duty to aid the Forsaken, who wrestled with inner demons just as the Orcs had for generations.<sup id="cite_ref-WoW_races_description_15-3"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoW_races_description-15">[15]</a></sup>
+
+Thus, the tauren convinced Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), despite his misgivings, to forge an alliance of convenience between the Forsaken and the Horde. In the end, the Forsaken's chances of victory against the Lich King were bolstered, while the Horde gained an invaluable foothold in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms").<sup id="cite_ref-Battlenet_Undead_11-5"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Battlenet_Undead-11">[11]</a></sup> Though Thrall and Cairne secretly suspect the worst, it remains to be seen what Sylvanas and her fanatical Forsaken have planned....<sup id="cite_ref-WoW_races_description_15-4"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoW_races_description-15">[15]</a></sup>
+
+The [Darkspear](https://wowpedia.fandom.com/wiki/Darkspear "Darkspear") [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") are not particularly fond of the Forsaken because of their [shaman](https://wowpedia.fandom.com/wiki/Shamanistic "Shamanistic") beliefs,<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  but tolerate them and have learned to trust them in times of war.
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Nathanos_Blightcaller_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20160315081905)](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Nathanos_Blightcaller_TCG.jpg/revision/latest?cb=20160315081905)
+
+[Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller"), the champion of the Banshee Queen.
+
+As the primary [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") force in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), the Forsaken went about dealing with a number of their surrounding enemies. New free-willed undead, freed by Lady Sylvanas, were inducted into the Forsaken's ranks and assisted their new (and old) people in the tasks set before them within [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). For years this blighted area has been home to Queen Sylvanas and her Forsaken, as well as the remaining vestiges of the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"). Their zealots, bent on wiping out any and all undead from Azeroth regardless of affiliation, have long been a thorn in the Forsaken's side. Recently, the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn") has offered assistance to Sylvanas' people against the Crusaders' constant harassment in eastern Tirisfal Glades. In addition, the Forsaken have begun a fresh march on their enemy's stronghold – the [Scarlet Monastery](https://wowpedia.fandom.com/wiki/Scarlet_Monastery "Scarlet Monastery") – in an effort to finally secure their homeland from external threats.<sup id="cite_ref-Battlenet_Undead_11-6"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Battlenet_Undead-11">[11]</a></sup>
+
+Concurrent with securing the immediate regions pertaining to Lordaeron, the Forsaken turned their attention to numerous conflicts neighboring their kingdom. The humans and dwarves of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), the perennial enemy of their Horde allies, remained at large on the continent. The Forsaken launched several offenses against their new enemies, resulting in the conflict for resources in [Arathi](https://wowpedia.fandom.com/wiki/Arathi "Arathi") (which the [Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers") were tasked with securing) and a number of conflicts around [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"), [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains") and the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands") arose. Furthermore, the Forsaken began research into a certain form of plague that could be used against the Scourge (and ostensibly, the living). The [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society") rose to meet this goal, and has been conducting a number of low-key experiments ever since.
+
+[Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller"), the Champion of the Forsaken, was liberated by Lady Sylvanas herself from the Scourge.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-17">[17]</a></sup> After they had proved themselves to the queen, the Blightcaller tasked Forsaken members with killing the beast that had taken his life, retrieving a document pertaining to both his and the banshee queen's time as living comrades from a [lodge of exiled elves](https://wowpedia.fandom.com/wiki/Quel%27Lithien_Lodge "Quel'Lithien Lodge"), and assaulting the Scarlet Crusade's primary power-base in Lordaeron.
+
+### The Burning Crusade
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Spider_Legs_McGillicutty.jpg/revision/latest/scale-to-width-down/140?cb=20120916230009)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Spider_Legs_McGillicutty.jpg/revision/latest?cb=20120916230009)
+
+["Spider Legs" McGillicutty](https://wowpedia.fandom.com/wiki/%22Spider_Legs%22_McGillicutty), a Forsaken warrior.
+
+The [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), newly invigorated by the returned [magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters") and the new powers at their disposal, went about reclaiming and rebuilding their ancient capital and expelling the Scourge from their lands. Lady Sylvanas, who had lost no love for her homeland even in death,<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-18">[18]</a></sup> offered numerous methods of support to her former people and was a strong supporter of their acceptance into the Horde. Together with the sin'dorei, a regiment of Forsaken troops assisted their elven allies in reclaiming much of the [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands"), including the town of [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien"). The Forsaken also assisted the blood elven [Blood Knight](https://wowpedia.fandom.com/wiki/Blood_Knight "Blood Knight") order in forging a stone of great power to wield against the Scourge; their intimate knowledge of the Lich King's grasp proving an essential component in its creation.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-19">[19]</a></sup>
+
+The Forsaken continued their research into their progressing plague in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), where numerous apothecaries such as [Apothecary Azethen](https://wowpedia.fandom.com/wiki/Apothecary_Azethen "Apothecary Azethen") took and experimented with a variety of new ingredients for Forsaken uses.
+
+During the [Scourge Invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion "Scourge Invasion"), the Forsaken dealt with curing the [plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") while the [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light") pledged itself to destroy the Scourge's [necropolises](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-20">[20]</a></sup>
+
+### War against the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Vengeance_landing_2.jpg/revision/latest/scale-to-width-down/180?cb=20070822194015)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Vengeance_landing_2.jpg/revision/latest?cb=20070822194015)
+
+A Forsaken outpost in Northrend.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Andarius_the_Damned_TCG_Blood.jpg/revision/latest/scale-to-width-down/140?cb=20220228212021)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Andarius_the_Damned_TCG_Blood.jpg/revision/latest?cb=20220228212021)
+
+[Andarius the Damned](https://wowpedia.fandom.com/wiki/Andarius_the_Damned "Andarius the Damned"), a Forsaken warlock.
+
+As the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") began to make his presence known to the inhabitants of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), the Forsaken came ever closer to achieving their vengeance upon the despoiler of Lordaeron. The Forsaken were one of the major powers in the [war against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King").
+
+[Antoine Brack](https://wowpedia.fandom.com/wiki/Antoine_Brack "Antoine Brack"), a member of the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn") and a champion of the Forsaken, was captured by the [death knights of Acherus](https://wowpedia.fandom.com/wiki/Death_knights_of_Acherus "Death knights of Acherus") of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").
+
+Lady Sylvanas moved to and from the frozen wastes of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), and oversaw the construction of a proper Forsaken town within the region of [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord"). One of the new Forsaken camps in Northrend is [New Agamand](https://wowpedia.fandom.com/wiki/New_Agamand "New Agamand"), where most of the Royal Apothecary Society's members took up residence to finish perfecting the plague to unleash upon the Lich King. Lady Sylvanas had been methodically and patiently overseeing the creation of this contagion for several years now, and it seemed the time at last had come to test it.
+
+During the Lich King's initial attack on the cities of the Horde and Alliance, a renowned apothecary named [Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress") set up camp in [Shattrath](https://wowpedia.fandom.com/wiki/Shattrath "Shattrath") to counter the Lich King's own spreading plague. After numerous stages of experimentation, Putress succeeded in forming a counter-agent and curbing the spread of the plague of undeath. For his efforts, he gained favor within the Forsaken's ranks, and Sylvanas dispensed him to assist the [Horde advance](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive") into Northrend. Both Sylvanas and Putress were present during the Scourge attack on [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), and the Dark Lady assisted [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), [High Overlord Saurfang](https://wowpedia.fandom.com/wiki/High_Overlord_Saurfang "High Overlord Saurfang") and several adventurers in fighting the invaders off. Nevertheless, the attack convinced Warchief Thrall to commit to a Northrend campaign, much to Sylvanas' approval.
+
+The Forsaken were one of the major superpowers to advance on Northrend. While the main Horde force attacked and conquered regions of [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra"), the Forsaken fleet (comprised of customized Lordaeron ships dredged up from the ocean)<sup id="cite_ref-CDev_Round_2_21-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-CDev_Round_2-21">[21]</a></sup> laid siege to Howling Fjord. Coming under the banner of the [Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance"), the Forsaken army tasked with delivering apt revenge against Arthas, the queen's navy swiftly crushed the Alliance Northwatch fleet and cornered them on the shores of the Fjord. No sooner had the Forsaken began their assault, however, had the Lich King turned his gaze back to his former servants: [Prince Valanar](https://wowpedia.fandom.com/wiki/Prince_Valanar "Prince Valanar") offered the Forsaken commander [High Executor Anselm](https://wowpedia.fandom.com/wiki/High_Executor_Anselm "High Executor Anselm") the chance to renounce his fealty to Queen Sylvanas and return to the Scourge's embrace. However, Anselm swiftly disposed of the [san'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") prince, and had adventurers slay him for his insolence in making mock of the queen and killing his men.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-22">[22]</a></sup>
+
+The Hand of Vengeance also waged a war against the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul"), and the Royal Apothecary Society's field-testing plaguebringers drenched a number with a potent strain of blight in order to test its final stages of production.
+
+Their efforts would come to a head during the events of [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight"), where the Forsaken stationed at [Venomspite](https://wowpedia.fandom.com/wiki/Venomspite "Venomspite") and [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer") perfected the final strains of the plague brought over from New Agamand. The Forsaken also came into conflict with their old enemy the Scarlet Crusade, now dissolved and reformed into the [Scarlet Onslaught](https://wowpedia.fandom.com/wiki/Scarlet_Onslaught "Scarlet Onslaught").
+
+However, just as the hour of the Forsaken was to approach, tragedy struck. During the battle for [Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Angrathar_the_Wrathgate "Angrathar the Wrathgate"), Grand Apothecary Putress and renegade plaguebringers made their appearance. After questioning the newly-arrived Lich King as to whether he thought the Forsaken had "forgotten" or "forgiven" him for what he had done, Putress drenched the battlefield in a massive strain of blight, causing huge losses to the collaboration of Horde and Alliance forces present. The blight was so powerful, in fact, that Arthas himself was brought to his knees. The Lich King fled back to Icecrown, and Putress was left to cackle triumphantly at the destruction wrought on by the plague.
+
+Putress' actions were outside the orders of the Forsaken and, concurrently with the Wrathgate attack, Varimathras had usurped control of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"). Sylvanas barely escaped with her life and her loyalists, and the Forsaken were taken in by Thrall while they planned their next move. In a conversation with [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), Thrall and Sylvanas reveal that Putress had allied with the treacherous dreadlord in order to depose the Dark Lady's rule. Despite this, Jaina warns them that [King Varian Wrynn](https://wowpedia.fandom.com/wiki/King_Varian_Wrynn "King Varian Wrynn") nonetheless holds them responsible, and is considering leading an army into the Undercity in order to reclaim Lordaeron for the Alliance. Unwilling to abandon the Undercity to the traitors, Sylvanas, Thrall, and [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") lead a [Horde counterattack](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Horde) "The Battle For The Undercity (Horde)") in order to remove Varimathras from power and restore the Undercity to the Forsaken. After fighting their way through a [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")\-controlled Undercity, the Banshee Queen and the Warchief succeed in killing Varimathras and retaking the [Royal Quarter](https://wowpedia.fandom.com/wiki/Royal_Quarter "Royal Quarter"). As they prepare to strike at Putress, however, King Varian enters and declares his intention to end it all there. Before the battle can increase in intensity, Jaina swiftly teleports the Alliance forces out of the Undercity, resulting in a successful Horde restoration.
+
+Though the Undercity had been restored to its rightful masters, the repercussions of the Wrathgate have hounded the Forsaken relentlessly. Their abomination guardians were either removed or relegated to the sewers, and [Kor'kron overseers](https://wowpedia.fandom.com/wiki/Kor%27kron_Overseer_(Undercity) "Kor'kron Overseer (Undercity)") were deployed to watch over the Forsaken from that point forward. Thrall's trust for the Forsaken seems to have become thinner than ever, and their credibility in the eyes of the wider Horde has also suffered.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-23">[23]</a></sup>
+
+With the Undercity securely back in Horde hands, Lady Sylvanas personally made her way into Northrend in order to claim vengeance upon Arthas. Together with her dark rangers, the Banshee Queen infiltrated [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") and fought her way through to the [Halls of Reflection](https://wowpedia.fandom.com/wiki/Halls_of_Reflection "Halls of Reflection"), where she came face-to-face with [the blade that took her life](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"). After Arthas successfully fought her off, however, Sylvanas was forced to face her inability to defeat her greatest foe alone.
+
+With the combined efforts of the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade") and the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade"), the Lich King finally fell. However, with his death, a void was left - while Sylvanas and the Forsaken had existed solely to claim their vengeance, the Dark Lady could only ponder what was left for them.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-24">[24]</a></sup>
+
+### Cataclysm
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Agatha.jpg/revision/latest/scale-to-width-down/140?cb=20170701010807)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Agatha.jpg/revision/latest?cb=20170701010807)
+
+[Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr") loyal to Sylvanas raise new Forsaken.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Lilian_Voss2.jpg/revision/latest/scale-to-width-down/140?cb=20101126185902)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Lilian_Voss2.jpg/revision/latest?cb=20101126185902)
+
+[Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss") as a newly raised Forsaken.
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+As it happens, the Forsaken - having successfully partaken in the fall of the Lich King - have turned their attention to other pursuits. For one: the complete conquest of Lordaeron. Now, along with being mistrusted by her own allies, Sylvanas recognizes that many of Azeroth's other inhabitants still see her people as a threat, even after the Lich King's defeat. As their numbers dwindle by the day, the Forsaken have begun fortifying their holdings around the Undercity, working to prove their loyalty to the Horde's cause even as they ready themselves for any future attacks.
+
+After the Lich King's death, a number of the more intelligent former [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") members were accepted into the Forsaken's ranks by Queen Sylvanas. Some of them, the [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr"), have brought with them a new age for the Forsaken: the ability to "procreate" via their necromantic abilities, bolstering their numbers. The second generation Forsaken are individuals who were raised into undeath by these Val'kyr.
+
+The risen dead of the new Forsaken generation are given a choice of what to do after they are reborn. Some of them, such as [Valdred Moray](https://wowpedia.fandom.com/wiki/Valdred_Moray "Valdred Moray"), accept their fate, and seem keen to make themselves useful and serve the Forsaken in death. The resurrected Prince [Galen Trollbane](https://wowpedia.fandom.com/wiki/Galen_Trollbane "Galen Trollbane") seemed resigned to the fate that befell him and while not particularly enthusiastic about killing his former allies,<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-25">[25]</a></sup> he personally gave the quests to slay them for the good of the Dark Lady.
+
+On the other hand, others do not react so positively. [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss") reacts in horror to what she had become, and [Marshal Redpath](https://wowpedia.fandom.com/wiki/Marshal_Redpath "Marshal Redpath"), not happy with his fate, attacks [Deathknell](https://wowpedia.fandom.com/wiki/Deathknell "Deathknell") after the transition. Some of the new Forsaken simply kill themselves on the spot. [Dumass](https://wowpedia.fandom.com/wiki/Dumass "Dumass") is perhaps the most extreme case of how the process can strip away rational thought and intelligence.
+
+After the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), the Forsaken launched an offensive against [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)"), after being ordered by [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") to do so. The Forsaken appear to be taking on a more offensive stance regarding the war with the Alliance, and with their new ability to bolster their ranks, their stranglehold on Lordaeron has become tighter than ever. The Forsaken have also began to fortify their own territories, stepping up from their previous preferences of run down human-esque buildings in favor of their own architecture, seen briefly in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+
+### Warlords of Draenor
+
+Forsaken activity on [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") is in [Warspear](https://wowpedia.fandom.com/wiki/Warspear "Warspear") and Horde Garrison, alongside other members of the Horde. Forsaken "ambassador" is [Captain Fennick](https://wowpedia.fandom.com/wiki/Captain_Fennick "Captain Fennick"), <Recruiting Officer>, and he can change orcish garrison guards to Frostwall Deathguards.
+
+[Benjamin Gibb](https://wowpedia.fandom.com/wiki/Benjamin_Gibb "Benjamin Gibb") ventured into [Spires of Arak](https://wowpedia.fandom.com/wiki/Spires_of_Arak "Spires of Arak") as Sylvanas's agent. He explored [Admiral Taylor's Garrison](https://wowpedia.fandom.com/wiki/Admiral_Taylor%27s_Garrison "Admiral Taylor's Garrison") and later joined the Garrison Commander as a follower.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+With the beginning of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion") on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), the dying Warchief [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") chose Sylvanas as the new Warchief of the Horde. During the invasion, various Forsaken joined the [class orders](https://wowpedia.fandom.com/wiki/Class_order "Class order") and aided them in the fight against the Legion. Meanwhile, a group of Forsaken known as the [Queensguard](https://wowpedia.fandom.com/wiki/Queensguard "Queensguard") clashed with the [Gilneas Brigade](https://wowpedia.fandom.com/wiki/Gilneas_Brigade "Gilneas Brigade") over control of the [Warden Towers](https://wowpedia.fandom.com/wiki/Warden_Tower "Warden Tower") across the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), going back and forth over control and attack of each tower. During the [Legion Assaults](https://wowpedia.fandom.com/wiki/Legion_Assaults "Legion Assaults") of [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah"), it is possible that the garrison at [Starstalker's Point](https://wowpedia.fandom.com/wiki/Starstalker%27s_Point "Starstalker's Point") is overrun by the Legion and slain.
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Sylvanas_by_Laura_Sava.jpg/revision/latest/scale-to-width-down/140?cb=20180906034951)](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Sylvanas_by_Laura_Sava.jpg/revision/latest?cb=20180906034951)
+
+The Forsaken defending [Lordaeron Keep](https://wowpedia.fandom.com/wiki/Lordaeron_Keep "Lordaeron Keep") during the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron").
+
+While [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") was preoccupied with running the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), several individuals from the Forsaken set up the [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") as an interim-government for the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") in the Dark Lady's absence. Some within the Desolate Council were dissatisfied with the Forsaken's strict culture of forgetting their past lives and enforced continued undead existence; they had hoped to one day convince Sylvanas to institute reforms. When King [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") proposed a [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering") in order to reconcile the [humans](https://wowpedia.fandom.com/wiki/Human "Human") of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") with their Forsaken relatives, Sylvanas gave it her permission on the stipulation that the Desolate Council help organize it and be its sole Forsaken participants. However, the Gathering ended in tragedy. [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") had incited the Forsaken participants of the event to defect to the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), which elicited Warchief Sylvanas's slaughter of all the Forsaken participants and Calia to curb any sedition to her authority. While the Alliance buried the Forsaken that were killed at the Gathering at an [Arathi](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands") [graveyard](https://wowpedia.fandom.com/wiki/Forsaken_graveyard "Forsaken graveyard"), Sylvanas has used the failed reunion to further alienate the Forsaken from their human counterparts.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-26">[26]</a></sup>
+
+Sylvanas later convinced the Horde that they need to take the initiative now that [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") threatened to shift the balance of power between the Alliance and Horde. Thus the Horde instigated the [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns") to sow discord among the Alliance and coerce the Alliance into submission. Although the Horde successfully conquered the [night elven](https://wowpedia.fandom.com/wiki/Night_elven "Night elven") lands, [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") had failed to kill [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), which Sylvanas believed was integral to killing the Alliance's defiant spirit. Sylvanas then ordered the burning of [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil") in order to inflict a terrible wound on the Alliance and give the Horde a chance to win the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War").
+
+As expected, the Alliance retaliated by attempting to reclaim [Lordaeron Keep](https://wowpedia.fandom.com/wiki/Lordaeron_Keep "Lordaeron Keep") during the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"). Despite the Horde's best efforts, the Alliance routed the Horde from the city. Saurfang who disapproved of Sylvanas' dishonorable tactics, was left alone to be captured by the Alliance. Rather than let the Alliance claim Lordaeron as a stronghold, Sylvanas had rigged all of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") and Lordaeron Keep to be [blighted](https://wowpedia.fandom.com/wiki/New_Plague "New Plague"). Having fled from their home, the [Forsaken Refugees](https://wowpedia.fandom.com/wiki/Forsaken_Refugee "Forsaken Refugee") that were evacuated before the battle were forced to settle in Orgrimmar.
+
+The Forsaken stand adamantly as Sylvanas loyalists throughout the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), with her using her psychologically manipulative tactics to ensure they remained angry and spiteful towards the Alliance and, eventually, towards Saurfang's loyalists as well, and with her [eliminating any Forsaken who attempted to break away](https://wowpedia.fandom.com/wiki/Gathering "Gathering"). The Forsaken recouped their losses by raising slain [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") into undeath. After discovering that [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") had become the [Night Warrior](https://wowpedia.fandom.com/wiki/Night_Warrior "Night Warrior") and her forces had returned to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") to reclaim the night elves' lost lands, the Forsaken were sent to oppose them during the [Battle for Darkshore](https://wowpedia.fandom.com/wiki/Battle_for_Darkshore "Battle for Darkshore").
+
+During the Fourth War, Sylvanas would employ extreme tactics such as raising [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") into undeath and depriving him of free will to use as a weapon against the Alliance. Such tactics did not sit well with individuals such as [Thomas Zelling](https://wowpedia.fandom.com/wiki/Thomas_Zelling "Thomas Zelling") since free will was what distinguished Forsaken from the Scourge. Thomas Zelling aided in Derek Proudmoore's escape to Alliance lands, which subsequently led to Sylvanas executing him for treason.
+
+Ultimately Sylvanas betrays even the Forsaken, denouncing them, like the rest of the Horde, as 'nothing' and abandoning the majority of them. This leaves the Forsaken without a home or a leader, and now, like the rest of the Horde, they have an uncertain future of their own to find. [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss") eventually stepped up to represent her people, serving as an interim representative for the Forsaken in the newly formed Horde council that would lead the Horde in place of the [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief"), though she notes she will only do so until a more viable leader steps forth to take the reins of their people's fate.
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+Sometime after the death of [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal"), the Forsaken took to mustering in the ruins of the [kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron"), as they sought to reclaim as much as they could of the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). The Forsaken had successfully taken [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill") and were in the process of rebuilding it, when [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), [Deathstalker Commander Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont"), [Dark Ranger Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara"), and [Master Apothecary Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"), influential figures that had risen to prominence among the Forsaken, plotted their next moves to secure the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-27">[27]</a></sup> During this meeting Voss wanted to directly focus on dealing with the plague in the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), Belmont questioned what they should do about Calia, only for Velonara to declare that they should focus on the blight. She then turned to Master Apothecary Faranell and questioned if he had more plague eaters, only for him to reveal to Calia and the others that he only had one left, and that while he could make more for them to be effective, they must be formulated to survive the plague. This in turn inspired Calia to point out that they might be able to turn to the plague-lords of [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus") for insight. When Faranell revealed that he required an undiluted sample of the plague from deep within its reaches, Calia vowed to acquire it for him, but both Faranell and Belmont were skeptical of her being able to acquire it and survive.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-28">[28]</a></sup> Calia then called upon the light and with the [Maw Walker](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker") by her side, she ventured into the plague and successfully acquired the plague sample, which greatly surprised Belmont.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-29">[29]</a></sup> With the sample in their possession, Calia, Voss, the champion, and the plague eater went to Maldraxxus.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-30">[30]</a></sup>
+
+In time they returned with the empowered plague eater, where Calia informed Faranell of how the blight sample became a living manifestation, to which Faranell was quick to declare it ingenious, as it would be easier to kill.<sup id="cite_ref-:0_31-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-:0-31">[31]</a></sup> This plan was ultimately successful as the plague manifested as an [Amalgam](https://wowpedia.fandom.com/wiki/Amalgam "Amalgam") and was slain, liberating the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") from the plague.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-32">[32]</a></sup> Following this, Voss declared that the Forsaken have many points of view and should be led by a council, not a single ruler, a motion accepted by the other Forsaken leaders. Thus a new [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") consisting of Lilian Voss, Calia Menethil, Deathstalker Commander Belmont, Dark Ranger Velonara, and Master Apothecary Faranell was created to lead the Forsaken.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-33">[33]</a></sup>
+
+## Culture and people
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/09/Undead_bc_cinematic.jpg/revision/latest/scale-to-width-down/180?cb=20180816200937)](https://static.wikia.nocookie.net/wowpedia/images/0/09/Undead_bc_cinematic.jpg/revision/latest?cb=20180816200937)
+
+A Forsaken warlock.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Undead03-large.jpg/revision/latest/scale-to-width-down/140?cb=20210530185918)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Undead03-large.jpg/revision/latest?cb=20210530185918)
+
+A Forsaken mage.
+
+“Do not shy from dark paths, if those paths lead to victory.”
+
+— Forsaken proverb<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-34">[34]</a></sup>
+
+The Forsaken capital of [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") is always awake, just like the Forsaken themselves. The city is a place of dark, somber colors, stone walkways, and steps. The Undercity has inns, forges, and businesses that cater not only to the undead, but visitors from the Horde, with whom the Forsaken have allied themselves. There are some illuminations in the form of dim lamps and muted torches. These sources of light are not merely there to serve the living; though the undead have no true need of light, it perhaps gives Undercity's chief inhabitants a facade of some other existence.<sup id="cite_ref-Stormrage56_35-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Stormrage56-35">[35]</a></sup>
+
+The Forsaken navy is composed of ships dredged up from the bottom of the ocean. Most of them were once among [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)")'s fleets.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-36">[36]</a></sup>
+
+There are some among the Forsaken who read tea leaves in order to divine the future.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-37">[37]</a></sup>
+
+According to the [Deathguards](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard"), black, grey and dark purple are the prescribed colors.
+
+### Alignment
+
+While most Forsaken are loyal to the Undercity and their Banshee Queen, there are different cases. [Leonid Barthalomew](https://wowpedia.fandom.com/wiki/Leonid_Barthalomew "Leonid Barthalomew") looks at his undeath as a malady and an illness that merely requires treatment, hence his loyalties to the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade"). [Archbishop](https://wowpedia.fandom.com/wiki/Archbishop "Archbishop") [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") simply continued to serve the Light, becoming a true neutral member of the priestly [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave") instead of repledging loyalty to the Alliance or joining the Horde.
+
+### Free will
+
+Upon first being raised, a process called "the Gift",<sup id="cite_ref-BtS19_38-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-BtS19-38">[38]</a></sup> a Forsaken does not have free will. It takes more concentrated magic to release an undead's mind.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-39">[39]</a></sup> Free will is one of the cornerstones of Forsaken culture, with the great capacity for both good and evil that it entails. However, some undead, especially those who die in combat or under extreme stress and are raised soon after, enter into a violent, frenzied state. Undead in this state are easily manipulated and their rage is often directed at the foes of those who raised them. After the effects wear off, if the risen corpse has not been destroyed, they are given the same ultimatum that other Forsaken are offered: join the Dark Lady or return to the grave.<sup id="cite_ref-CDEVR3_40-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-CDEVR3-40">[40]</a></sup> Psychological pressure can also be used to turn freshly-raised undead to the side of the Forsaken instead of the one of their former allies.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-41">[41]</a></sup> Once sufficient duty has been given, all it takes to be released from Sylvanas' command is a respectful asking. Though she demands loyalty, she would not hold her agents in thrall.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-42">[42]</a></sup>
+
+Each Forsaken member follow their queen for various reasons: fear, loyalty, no where else to go.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-43">[43]</a></sup>
+
+The Forsaken were strongly discouraged from revisiting places they had loved in life. Their home was no longer Lordaeron but the Undercity. Sometimes books from outside were confiscated, and it was stated that there was no need to remember their human history as only the history of the Undercity mattered. After Sylvanas became Warchief, the [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") was established to fill the power vacuum left with Sylvanas dealing with the Horde on Kalimdor. Except that, the Council was a response to these strict rules; for their needs were not being met. They also felt that Sylvanas needed to stop forcing them to live again if they did not wish to.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-44">[44]</a></sup>
+
+### True death
+
+True death is the harshest punishment exercised in Forsaken law — in essence, an execution. [Warden Stillwater](https://wowpedia.fandom.com/wiki/Warden_Stillwater "Warden Stillwater") and his followers were sentenced to true death for turning some Forsaken into mindless zombies, threatening their way of life.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-45">[45]</a></sup><sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-46">[46]</a></sup> True death appears to be reserved for criminals who have committed high treason against the Forsaken's leadership, like [Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress"), proved themselves a threat to the Forsaken's way of life, or taken up arms in rebellion against the Forsaken, like the [Rotbrain undead](https://wowpedia.fandom.com/wiki/Rotbrain_undead "Rotbrain undead")<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  or the ones who ran with Calia away to the Alliance side during the [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering").<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-47">[47]</a></sup>
+
+In [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), _"Bash'a no falor talah!"_ means _"Taste the chill of true death!"_ which is a threat generally directed at undead.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-48">[48]</a></sup> [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas "Sylvanas") said this when defending [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon") from [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-49">[49]</a></sup>
+
+### Last Death
+
+The experience when a Forsaken accepts his or her death willingly is called the Last Death.<sup id="cite_ref-BtS19_38-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-BtS19-38">[38]</a></sup>
+
+### Faith
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Sister_Rot_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20180214040754)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Sister_Rot_TCG.jpg/revision/latest?cb=20180214040754)
+
+[Sister Rot](https://wowpedia.fandom.com/wiki/Sister_Rot), a Forsaken priestess.
+
+Some still adhere to their old faiths, such as the [Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light").<sup id="cite_ref-Chancellor_Velora_50-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Chancellor_Velora-50">[50]</a></sup> However, the [Cult of Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadow "Cult of Forgotten Shadow") was created through the (re)discovery of the teachings of bishop [Natalie Seline](https://wowpedia.fandom.com/wiki/Natalie_Seline "Natalie Seline") by Forsaken priests in Lordaeron after the capture and refurbishing of the Undercity. Shadow priests generally do not practice openly, and not all members are Forsaken, although they formed the cult.<sup id="cite_ref-WoWMag4_51-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoWMag4-51">[51]</a></sup>
+
+Priests of the Forgotten Shadow believe that the faiths they held in life have failed them.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-52">[52]</a></sup> They instead turn to [dark energies](https://wowpedia.fandom.com/wiki/Void "Void") to accomplish their goals.<sup id="cite_ref-WoWMag4_51-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoWMag4-51">[51]</a></sup> They teach that there must be a balance between Light and darkness,<sup id="cite_ref-WoWMag4_51-2"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-WoWMag4-51">[51]</a></sup> and members of the cult must know the Light as well.<sup id="cite_ref-Garments_of_Darkness_53-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Garments_of_Darkness-53">[53]</a></sup>
+
+Some Forsaken priests continue to wield the Holy Light.<sup id="cite_ref-Chancellor_Velora_50-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Chancellor_Velora-50">[50]</a></sup><sup id="cite_ref-Garments_of_Darkness_53-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Garments_of_Darkness-53">[53]</a></sup> While it is possible for them to use or be healed by the Light to its full effect like any living humanoid, it is accompanied by intense pain, making it require notable willpower to suffer through.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-54">[54]</a></sup> Though painful, this does not cause any actual harm or damage on their undead bodies, even over long periods of time. In fact, some Forsaken with persistent contact with the Light over many years have even started to experience a return of their senses, which is not a pleasant experience given their rotted state.<sup id="cite_ref-CDev_Round_2_21-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-CDev_Round_2-21">[21]</a></sup>
+
+[Scarlet Commander Marjhan](https://wowpedia.fandom.com/wiki/Scarlet_Commander_Marjhan "Scarlet Commander Marjhan") also retained her paladin abilities after becoming a [risen](https://wowpedia.fandom.com/wiki/Risen "Risen").
+
+The Forsaken believe that without a purpose, even [beasts of burden](https://wowpedia.fandom.com/wiki/Skeletal_horse "Skeletal horse") suffer in undeath.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-55">[55]</a></sup>
+
+### Relations
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/06/SoulRend.jpg/revision/latest/scale-to-width-down/180?cb=20110429180547)](https://static.wikia.nocookie.net/wowpedia/images/0/06/SoulRend.jpg/revision/latest?cb=20110429180547)
+
+A Forsaken spellcaster tearing apart the soul of a [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf").
+
+Undercity is the home of the Forsaken. They also have control of Tirisfal Glades and Silverpine Forest and have several towns in the regions.
+
+Though the Forsaken do not trust anyone and no one trusts them, they are members of the Horde and, for now, do their best to help their allies and placate their ambassadors. Forsaken have even less love for the Alliance, particularly because they clash constantly with the human organization called the Scarlet Crusade.<sup id="cite_ref-Undead,_Forsaken_56-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Undead,_Forsaken-56">[56]</a></sup>
+
+The only other Horde faction they even have a semblance of trust with is Silvermoon City and the blood elves.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-57">[57]</a></sup> This is probably because Sylvanas was a high elf ranger in life and finds trust in her former companions. The Forsaken and blood elves even took control of the village of Tranquillien in the Ghostlands to fight the Scourge in the area together.
+
+Recently, the Forsaken gained a new enemy in form of the Gilneas people. While Sylvanas is now shown to cooperate with the High King of the Alliance, old hatred with the [worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen") will escalate in [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim").
+
+#### Relations with the Horde
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/33/BattleTactics.jpg/revision/latest/scale-to-width-down/180?cb=20110430000940)](https://static.wikia.nocookie.net/wowpedia/images/3/33/BattleTactics.jpg/revision/latest?cb=20110430000940)
+
+A Forsaken rallying his allies.
+
+Convinced that the primitive races of the Horde can help them achieve victory over their enemies, the Forsaken entered an alliance of convenience with the savage [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") and the proud [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren").<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-58">[58]</a></sup> Yet, they didn't hesitate to quietly kill prisoners of war, or experiment on and kill their own new allies if it suited their needs.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-59">[59]</a></sup><sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-60">[60]</a></sup>
+
+Their position in the faction later solidified, given that they were able to sponsor the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")' entrance into the Horde. This was strained by the events at the [Battle of Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Battle_of_Angrathar_the_Wrathgate "Battle of Angrathar the Wrathgate"), in the following quests it is revealed that [Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")'s actions were [not very well received](https://wowpedia.fandom.com/wiki/The_Battle_for_the_Undercity "The Battle for the Undercity") among most of the city's denizens. This seems to suggest that the Forsaken consider themselves part of the Horde now, or are at least upset by the [limitations](https://wowpedia.fandom.com/wiki/Kor%27kron_Overseer_(Undercity) "Kor'kron Overseer (Undercity)") his failure has placed on them. The Forsaken appear to be more or less loyal to the Horde,<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-61">[61]</a></sup><sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-62">[62]</a></sup><sup id="cite_ref-loyalty_63-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-loyalty-63">[63]</a></sup> but still have their own machinations.<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-64">[64]</a></sup><sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-65">[65]</a></sup><sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-66">[66]</a></sup> Some in the Horde are uncertain of their true intentions.<sup id="cite_ref-loyalty_63-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-loyalty-63">[63]</a></sup>
+
+Because of bad reputation after the events of Wrathgate, the warlock [Felgrim](https://wowpedia.fandom.com/wiki/Felgrim "Felgrim") was once attacked by two orcs.<sup id="cite_ref-BS_67-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-BS-67">[67]</a></sup>
+
+Relations between the Forsaken and the Horde are shown to remain strong in the aftermath of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") as shown when Thrall told Voss that "The Horde is not the Horde without the Forsaken.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-68">[68]</a></sup>
+
+#### The Grimtotems
+
+In [Direhorn Post](https://wowpedia.fandom.com/wiki/Direhorn_Post "Direhorn Post") there is [Apothecary Cylla](https://wowpedia.fandom.com/wiki/Apothecary_Cylla "Apothecary Cylla") with her direct [documentation](https://wowpedia.fandom.com/wiki/Sealed_Letter_(Dustwallow_Marsh) "Sealed Letter (Dustwallow Marsh)") and proof of an alliance between the [clan](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe") and the Forsaken.
+
+It's unknown whether the pact continues after the betrayal of Varimathras and Putress and after Magatha's exile.
+
+### Languages
+
+Forsaken speak [Gutterspeak](https://wowpedia.fandom.com/wiki/Gutterspeak "Gutterspeak"),<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-69">[69]</a></sup> also simply known as "Forsaken". Forsaken also learned [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)").
+
+Some Forsaken forgot how to speak [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)") after being raised back from their graves.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-70">[70]</a></sup>
+
+### Names
+
+The majority of Forsaken have taken new given names or surnames for themselves. They do so to mark their rebirth; to cast aside their old identities and to take pride in their new lives and the roles they play in their unified society.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-71">[71]</a></sup> Known instances are [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller"), born Marris, and [Vellcinda Benton](https://wowpedia.fandom.com/wiki/Vellcinda_Benton "Vellcinda Benton"), born Elsie.
+
+-   Male names: Coleman, Dannal, Darnell, David, Sedrick.
+-   Female names: Anette, Gretchen, Isabella, Karla, Maressa.
+-   Family names: Williams, Farthing, Trias, Dedmar, Calston.
+
+### A cure for undeath?
+
+Many of the other races (mainly the tauren) pity the Forsaken and a number of Horde healers all over Azeroth, such as [Bena Winterhoof](https://wowpedia.fandom.com/wiki/Bena_Winterhoof "Bena Winterhoof"), work tirelessly in the hopes of creating a cure for undeath. Some of the Forsaken feel that their undeath is an illness or curse and long for a cure, but many think it is impossible to attain one.
+
+There are tauren that wish to help the Forsaken like the [Elder Council](https://wowpedia.fandom.com/wiki/Elder_Council "Elder Council") of the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring").<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-72">[72]</a></sup>
+
+It seems that [Magatha Grimtotem](https://wowpedia.fandom.com/wiki/Magatha_Grimtotem "Magatha Grimtotem") wanted to help the Forsaken. According to her, the tauren ways may restore the undead back into humans.<sup id="cite_ref-DtM_16-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-DtM-16">[16]</a></sup>
+
+### Notable leaders
+
+<table><tbody><tr><th>History</th><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne" title="Warcraft III: The Frozen Throne"><img alt="WC3tFT-logo.png" decoding="async" loading="lazy" width="32" height="18" data-image-name="WC3tFT-logo.png" data-image-key="WC3tFT-logo.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2e/WC3tFT-logo.png/revision/latest/scale-to-width-down/32?cb=20210822205556" src="https://static.wikia.nocookie.net/wowpedia/images/2/2e/WC3tFT-logo.png/revision/latest/scale-to-width-down/32?cb=20210822205556"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft" title="World of Warcraft"><img alt="WoW Icon update.png" decoding="async" loading="lazy" width="32" height="16" data-image-name="WoW Icon update.png" data-image-key="WoW_Icon_update.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550" src="https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade" title="World of Warcraft: The Burning Crusade"><img alt="Bc icon.gif" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="30" height="14" data-image-name="Bc icon.gif" data-image-key="Bc_icon.gif" data-src="https://static.wikia.nocookie.net/wowpedia/images/0/0e/Bc_icon.gif/revision/latest?cb=20110218184702"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King" title="Wrath of the Lich King"><img alt="Wrath of the Lich King" decoding="async" loading="lazy" width="36" height="19" data-image-name="Wrath-Logo-Small.png" data-image-key="Wrath-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742" src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm" title="Cataclysm"><img alt="Cataclysm" decoding="async" loading="lazy" width="39" height="15" data-image-name="Cata-Logo-Small.png" data-image-key="Cata-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714" src="https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria" title="Mists of Pandaria"><img alt="Mists of Pandaria" decoding="async" loading="lazy" width="46" height="14" data-image-name="Mists-Logo-Small.png" data-image-key="Mists-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524" src="https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor" title="Warlords of Draenor"><img alt="Warlords of Draenor" decoding="async" loading="lazy" width="46" height="14" data-image-name="WoD-Logo-Small.png" data-image-key="WoD-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/7/71/WoD-Logo-Small.png/revision/latest?cb=20131108221912" src="https://static.wikia.nocookie.net/wowpedia/images/7/71/WoD-Logo-Small.png/revision/latest?cb=20131108221912"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion" title="Legion"><img alt="Legion" decoding="async" loading="lazy" width="40" height="15" data-image-name="Legion-Logo-Small.png" data-image-key="Legion-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028" src="https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028"></a></td><td colspan="3"><a href="https://static.wikia.nocookie.net/wowpedia/images/d/d0/WoW-novel-logo-16x62.png/revision/latest?cb=20080902025649" title="Before the Storm"><img alt="Before the Storm" decoding="async" loading="lazy" width="62" height="16" data-image-name="WoW-novel-logo-16x62.png" data-image-key="WoW-novel-logo-16x62.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/d/d0/WoW-novel-logo-16x62.png/revision/latest?cb=20080902025649" src="https://static.wikia.nocookie.net/wowpedia/images/d/d0/WoW-novel-logo-16x62.png/revision/latest?cb=20080902025649"></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth" title="Battle for Azeroth"><img alt="Battle for Azeroth" decoding="async" loading="lazy" width="48" height="17" data-image-name="BattleForAzeroth-Logo-Small.png" data-image-key="BattleForAzeroth-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442" src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442"></a></td><td colspan="3"><span><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands" title="Shadowlands"><img alt="Shadowlands" decoding="async" loading="lazy" width="48" height="17" data-image-name="Shadowlands-Icon-Inline.png" data-image-key="Shadowlands-Icon-Inline.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728" src="https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728"></a></span></td><td><span><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight" title="Dragonflight"><img alt="Dragonflight" decoding="async" loading="lazy" width="48" height="17" data-image-name="Dragonflight-Icon-Inline.png" data-image-key="Dragonflight-Icon-Inline.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245" src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245"></a></span></td></tr><tr><th rowspan="1">Leader</th><td colspan="24"><a href="https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner" title="Sylvanas Windrunner"><span>Sylvanas Windrunner</span></a></td><td colspan="3"><a href="https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner" title="Sylvanas Windrunner"><span>Sylvanas Windrunner</span></a> <span>&amp;</span> <a href="https://wowpedia.fandom.com/wiki/Desolate_Council" title="Desolate Council"><span>Desolate Council</span></a></td><td colspan="2"><a href="https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner" title="Sylvanas Windrunner"><span>Sylvanas Windrunner</span></a></td><td colspan="2"><a href="https://wowpedia.fandom.com/wiki/Lilian_Voss" title="Lilian Voss"><span>Lilian Voss</span></a> <span>(as interim representative on </span><a href="https://wowpedia.fandom.com/wiki/Horde_Council" title="Horde Council"><span>the Horde Council</span></a>)</td><td><a href="https://wowpedia.fandom.com/wiki/Desolate_Council" title="Desolate Council">Desolate Council</a></td></tr></tbody></table>
+
+### Notable members
+
+| Name | Role | Affiliation | Status | Location |
+| --- | --- | --- | --- | --- |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") | The Dark Lady, Former Banshee Queen of the Forsaken, Former Warchief of the Horde | [Independent](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") | Active | [Various](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner#Locations "Sylvanas Windrunner") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") | Former Ranger Lord of the Forsaken, Champion of the Banshee Queen | [Independent](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") | Deceased | [Various](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller#Locations "Nathanos Blightcaller") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Master Apothecary Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell") | Leader of the [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society") | [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Alexi Barov](https://wowpedia.fandom.com/wiki/Alexi_Barov "Alexi Barov") | Heir to [House Barov](https://wowpedia.fandom.com/wiki/Barov "Barov") | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") | Active | [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress") | Former leader of the [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society"), traitor of the Forsaken | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") | Deceased | [Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") | Former majordomo and lieutenant of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), Head of the [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers"), and
+Arch Lord of the Undercity; traitor of the Forsaken
+
+ | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") | Deceased | [Various](https://wowpedia.fandom.com/wiki/Varimathras#Locations "Varimathras") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss") | Daughter of [High Priest Voss](https://wowpedia.fandom.com/wiki/High_Priest_Benedictus_Voss "High Priest Benedictus Voss") trained to hunt undead from birth, Representative of the Forsaken on the Horde council | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") | Active | [Various](https://wowpedia.fandom.com/wiki/Lilian_Voss#Locations "Lilian Voss") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Galen Trollbane](https://wowpedia.fandom.com/wiki/Galen_Trollbane "Galen Trollbane") | Fallen Prince of [Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)"), declared independence around the time of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") | [Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)") | Deceased\-Killable | [Stromgarde Keep](https://wowpedia.fandom.com/wiki/Stromgarde_Keep "Stromgarde Keep"), [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lord Godfrey](https://wowpedia.fandom.com/wiki/Lord_Godfrey "Lord Godfrey") | Former [Gilnean](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") nobleman, committed high treason against the Forsaken | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") | Deceased\-Killable | [Various](https://wowpedia.fandom.com/wiki/Lord_Godfrey#Locations "Lord Godfrey") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ranger Captain Areiel](https://wowpedia.fandom.com/wiki/Ranger_Captain_Areiel "Ranger Captain Areiel") | Captain of the dark rangers in [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") | [Dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [The Hand of Vengeance](https://wowpedia.fandom.com/wiki/The_Hand_of_Vengeance "The Hand of Vengeance") | Deceased | [Ghostblade Post](https://wowpedia.fandom.com/wiki/Ghostblade_Post "Ghostblade Post"), [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Dark Ranger Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara") | Led the Horde against the remnants of [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade") | [Dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara#Locations "Dark Ranger Velonara") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") | Archbishop of the Conclave | [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave") | Active | [Various](https://wowpedia.fandom.com/wiki/Alonsus_Faol#Locations "Alonsus Faol") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Thomas Zelling](https://wowpedia.fandom.com/wiki/Thomas_Zelling "Thomas Zelling") | [Tidesage](https://wowpedia.fandom.com/wiki/Tidesage "Tidesage") who was terminally sick before he made a pact with the Forsaken | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") | Deceased | [Various](https://wowpedia.fandom.com/wiki/Thomas_Zelling#Locations "Thomas Zelling") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") | Former Crown Prince of Kul Tiras | [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Derek_Proudmoore#Locations "Derek Proudmoore") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Belmont](https://wowpedia.fandom.com/wiki/Belmont "Belmont") | Deathstalker Commander | [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont#Locations "Deathstalker Commander Belmont") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Sira Moonwarden](https://wowpedia.fandom.com/wiki/Sira_Moonwarden "Sira Moonwarden") | Dark Warden | [Independent](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") | Active | [Various](https://wowpedia.fandom.com/wiki/Sira_Moonwarden#Locations "Sira Moonwarden") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon") | Dark Ranger Captain | [Dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon#Locations "Delaryn Summermoon") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") | Councillor to Lilian Voss, Champion of the Conclave | [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Calia_Menethil#Locations "Calia Menethil") |  |
+
+## Military
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/61/PlagueDemonsoul.jpg/revision/latest/scale-to-width-down/140?cb=20110430173400)](https://static.wikia.nocookie.net/wowpedia/images/6/61/PlagueDemonsoul.jpg/revision/latest?cb=20110430173400)
+
+[Plague Demonsoul](https://wowpedia.fandom.com/wiki/Plague_Demonsoul "Plague Demonsoul"), a Forsaken warlock.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/de/Undercity_Banner.jpg/revision/latest/scale-to-width-down/140?cb=20180804202822)](https://static.wikia.nocookie.net/wowpedia/images/d/de/Undercity_Banner.jpg/revision/latest?cb=20180804202822)
+
+The Forsaken banner.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Forsaken_banner_2.jpg/revision/latest/scale-to-width-down/140?cb=20181103204155)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Forsaken_banner_2.jpg/revision/latest?cb=20181103204155)
+
+A new Forsaken banner.
+
+Since their independence from the Scourge, the Forsaken have created different military organizations:
+
+-   [Queensguard](https://wowpedia.fandom.com/wiki/Queensguard "Queensguard")
+-   [Deathguard](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard")
+    -   [Dreadguard](https://wowpedia.fandom.com/wiki/Dreadguard "Dreadguard")
+-   [The Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers")
+-   [The Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers")
+-   [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society")
+-   [Blightguard](https://wowpedia.fandom.com/wiki/Blightguard "Blightguard")
+
+They also include different types of undead and units within their ranks:
+
+### Abominations
+
+[Abominations](https://wowpedia.fandom.com/wiki/Abomination "Abomination") mostly serve the role of soldiers and guards, though there are exceptions to this.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-73">[73]</a></sup> Some abominations have risen as high as the rank of sergeant.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-74">[74]</a></sup>
+
+### Apothecaries
+
+[Apothecaries](https://wowpedia.fandom.com/wiki/Apothecary "Apothecary"), serving under the [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society") and based in the [Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium") of the Undercity, are a crucial part of the Forsaken society. They are the innovative force behind the [Forsaken Blight](https://wowpedia.fandom.com/wiki/Forsaken_Blight "Forsaken Blight"). They can be found across the whole of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and beyond, trying to find ways to improve the blight. [Forsaken Blightspreaders](https://wowpedia.fandom.com/wiki/Forsaken_Blightspreader_(Shadowfang_Keep) "Forsaken Blightspreader (Shadowfang Keep)") are [mad scientists](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist") who as their name implies, spread the Forsaken blight.
+
+### Banshees
+
+Many [banshees](https://wowpedia.fandom.com/wiki/Banshee "Banshee") can be found within the ranks of the Forsaken, as most of them were followers of Sylvanas Windrunner in life, so they are in undeath.
+
+### Dark rangers
+
+Sylvanas Windrunner, being one herself, employs many [dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger") under her service. Initially, almost all of these elite agents are [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") women raised into undeath, just like the Banshee Queen herself. There existed at least one exception, [Nathanos Marris](https://wowpedia.fandom.com/wiki/Nathanos_Marris "Nathanos Marris"). Nathanos however, has recently been training a new generation of Forsaken rangers comprising of undead [humans](https://wowpedia.fandom.com/wiki/Human "Human"), making the undead racial composition more diverse.<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-75">[75]</a></sup> Following the [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns"), the Forsaken raised numerous slain [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") as [Kaldorei Dark Rangers](https://wowpedia.fandom.com/wiki/Kaldorei_Dark_Ranger "Kaldorei Dark Ranger").<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-76">[76]</a></sup>
+
+### Dark Wardens
+
+Following the [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns"), several night elven [wardens](https://wowpedia.fandom.com/wiki/Warden "Warden") were slain and raised to undeath. Embittered that [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") and the night elves had allowed such a fate to befall upon them, Dark Wardens such as [Sira Moonwarden](https://wowpedia.fandom.com/wiki/Sira_Moonwarden "Sira Moonwarden") now serve the Forsaken to get vengeance.
+
+### Death knights
+
+The Forsaken have also brought [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") into their ranks.<sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-77">[77]</a></sup> The death knight [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver") is referred to as "[her majesty's](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") top death knight".
+
+### Deathguards and dreadguards
+
+[Deathguards](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard") and [dreadguards](https://wowpedia.fandom.com/wiki/Dreadguard "Dreadguard") make up the bulk of the Forsaken military force, mostly serving as soldiers on the front lines or as guards in Forsaken settlements.
+
+### Deathstalkers
+
+[Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers") are an organization of Forsaken [rogues](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), serving as secretive agents of the Banshee Queen's will.
+
+### Executors
+
+The [Executors](https://wowpedia.fandom.com/wiki/Executor "Executor") are officers within the Forsaken army. They seem to perform different tasks of military and civil nature, like commanders, lieutenants, captains or even region governors and city magistrates. Apparently, as military top officers, they also have medium-control over members of the [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers") that are working in their area of influence. They are the most skilled warriors and fighters within the Forsaken ranks, acting as strategists and leading the Dark Lady's military actions to victory.
+
+### Forsaken trooper
+
+[Forsaken troopers](https://wowpedia.fandom.com/wiki/Forsaken_trooper "Forsaken trooper") consists of the freshly raised undead created by the necromantic powers of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")'s [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr"). The [Forsaken Trooper](https://wowpedia.fandom.com/wiki/Forsaken_Trooper "Forsaken Trooper") serve as basic infantry, and have been raised from the fallen humans on the battlefield. Most recently, this new army "recruited" from the peoples of Silverpine and Hillsbrad. Forsaken Troops replenish the whittling armies of the Forsaken, whose numbers cannot be compensated without an act of reproduction.
+
+### Shadowstalkers
+
+The [Shadowstalkers](https://wowpedia.fandom.com/wiki/Shadowstalkers "Shadowstalkers") are spies — whose job description includes assassinations — and are in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") by orders of [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras").<sup id="cite_ref-78"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-78">[78]</a></sup>
+
+### Necromancers
+
+There are two well-known [necromancers](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") who joined the Forsaken — [Gunther Arcanus](https://wowpedia.fandom.com/wiki/Gunther_Arcanus "Gunther Arcanus") and [Helcular](https://wowpedia.fandom.com/wiki/Helcular "Helcular"), the former apprentice to [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad").
+
+### Val'kyr
+
+In _Cataclysm_, after the death of the Lich King, several [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr") became "unemployed" and made a pact with Sylvanas to raise more Forsaken and bolster their numbers. At the time of the Silverpine quests, the Val'kyr could only raise humans into undeath.<sup id="cite_ref-79"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-79">[79]</a></sup> However, Sylvanas later indicated that she can raise other races during the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar"). [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") said she could always grow in power down the line.<sup id="cite_ref-80"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-80">[80]</a></sup>
+
+### Other members
+
+The Forsaken include numerous other races and types of undead. Notably, at least three [leper gnomes](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome") are seen existing within the Forsaken empire. The level of trust such beings receive is dubious, though [one is referred to](https://wowpedia.fandom.com/wiki/Apprentice_Crispin "Apprentice Crispin") as having "bent the knee" to the Dark Lady, thus making him "one of us." There is also at least one [wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith") within the ranks of the Forsaken,<sup id="cite_ref-81"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-81">[81]</a></sup> two [zombies](https://wowpedia.fandom.com/wiki/Zombie "Zombie"),<sup id="cite_ref-82"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-82">[82]</a></sup><sup id="cite_ref-83"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-83">[83]</a></sup> and at least one [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") [skeleton](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton").<sup id="cite_ref-84"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-84">[84]</a></sup>
+
+## Mounts and pets
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/74/MichaelGarrett.jpg/revision/latest/scale-to-width-down/180?cb=20090511081813)](https://static.wikia.nocookie.net/wowpedia/images/7/74/MichaelGarrett.jpg/revision/latest?cb=20090511081813)
+
+[Michael Garrett](https://wowpedia.fandom.com/wiki/Michael_Garrett "Michael Garrett"), the [flight master](https://wowpedia.fandom.com/wiki/Flight_master "Flight master") of [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), with his [bats](https://wowpedia.fandom.com/wiki/Bat "Bat").
+
+Forsaken mainly use [skeletal horses](https://wowpedia.fandom.com/wiki/Skeletal_horse "Skeletal horse") as ground mounts and [bats](https://wowpedia.fandom.com/wiki/Bat "Bat") as flying mounts. As a means of transportation, they also use carriages pulled by subjugated [ettins](https://wowpedia.fandom.com/wiki/Ettin "Ettin").
+
+They keep pets such as the undead [blighthounds](https://wowpedia.fandom.com/wiki/Blighthound "Blighthound") and the magical [darkhounds](https://wowpedia.fandom.com/wiki/Darkhound "Darkhound").<sup id="cite_ref-85"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-85">[85]</a></sup> [Jeremiah Payson](https://wowpedia.fandom.com/wiki/Jeremiah_Payson "Jeremiah Payson") sells pet [cockroaches](https://wowpedia.fandom.com/wiki/Cockroach "Cockroach") to his fellow Forsaken.
+
+When fallen heroes are raised into undeath, so too are their horses.<sup id="cite_ref-86"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-86">[86]</a></sup>
+
+Through the years, the Forsaken have grown a kinship with the [spiders](https://wowpedia.fandom.com/wiki/Spider "Spider") of [Hillsbrad](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") and have managed to domesticate and breed them. Spiders now serve them as regular household pets and beasts of battle.<sup id="cite_ref-87"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-87">[87]</a></sup> The Forsaken loathe [bears](https://wowpedia.fandom.com/wiki/Bear "Bear"), but through ingenuity they have devised a way to make use of them. They use the living bears at their spider farm as living egg feeders. Their spiders lay their eggs in the bear flesh and the eggs thrive off of the meat and blood of the beasts.<sup id="cite_ref-88"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-88">[88]</a></sup>
+
+## Biology
+
+Note that the information included here is regarding the common Forsaken [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"). It may differ from individual to individual, as a [banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee") cannot be expected to have the exact same biological properties as a [skeleton](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton").
+
+Forsaken are commonly 5–6 feet tall, scrawny, and gaunt. Their skin is deteriorating, and their hair is unkempt. Both males and females have a variety of decomposing figures.<sup id="cite_ref-89"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-89">[89]</a></sup> Forsaken come in all stages of death, from freshly slain or partially rotting to almost mummified.<sup id="cite_ref-90"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-90">[90]</a></sup>
+
+Forsaken, similar to certain other undead,<sup id="cite_ref-91"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-91">[91]</a></sup><sup id="cite_ref-92"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-92">[92]</a></sup> have [Ichor of Undeath](https://wowpedia.fandom.com/wiki/Ichor_of_Undeath "Ichor of Undeath") running through their bodies, which can cause throat tickles.<sup id="cite_ref-BtS19_38-2"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-BtS19-38">[38]</a></sup> They bleed this green liquid when wounded,<sup id="cite_ref-93"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-93">[93]</a></sup> though some Forsaken have no blood or liquid running through their bodies at all.<sup id="cite_ref-94"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-94">[94]</a></sup>
+
+Given enough time, Forsaken may slowly lose their consciousness and devolve into a [mindless state](https://wowpedia.fandom.com/wiki/Mindless_state "Mindless state"). This appears in the form of a chilling sensation, making the Forsaken feel physically cold.<sup id="cite_ref-95"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-95">[95]</a></sup> However, if a Forsaken's body is kept intact, they could potentially avoid this altogether and live forever.<sup id="cite_ref-96"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-96">[96]</a></sup>
+
+Forsaken cannot naturally sleep or dream.<sup id="cite_ref-Stormrage56_35-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Stormrage56-35">[35]</a></sup> Forsaken do not require physical rest in the traditional sense,<sup id="cite_ref-97"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-97">[97]</a></sup> however, from the existence of beds and coffins in Forsaken buildings, and Forsaken innkeepers saying "Rest your weary bones..." it can be deduced that Forsaken most likely benefit from resting, as it possibly helps to preserve their bodies longer.<sup id="cite_ref-98"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-98">[98]</a></sup>
+
+Forsaken do feel the need to breathe, though they can last at least a dozen days without taking a fresh breath of air.<sup id="cite_ref-99"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-99">[99]</a></sup> As they are undead, they don't need air to live,<sup id="cite_ref-100"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-100">[100]</a></sup> and [Forward Commander Onslaught](https://wowpedia.fandom.com/wiki/Forward_Commander_Onslaught "Forward Commander Onslaught") claims that he can no longer breathe.<sup id="cite_ref-101"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-101">[101]</a></sup> This also means it is impossible for them to drown.<sup id="cite_ref-102"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-102">[102]</a></sup> Most Forsaken speak normally by forcing air through their dead lungs,<sup id="cite_ref-103"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-103">[103]</a></sup> but some have to speak through magical means due to having harmed jaws.<sup id="cite_ref-104"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-104">[104]</a></sup>
+
+All Forsaken are capable of eating, but not all Forsaken have a necessity to feed.<sup id="cite_ref-105"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-105">[105]</a></sup> Forsaken diet consists of mushrooms,<sup id="cite_ref-106"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-106">[106]</a></sup> corpses,<sup id="cite_ref-107"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-107">[107]</a></sup> slime molds from the ooze canals of the Undercity,<sup id="cite_ref-108"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-108">[108]</a></sup> arthropods,<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-109">[109]</a></sup> and more. According to [Deathguards](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard"), all food tastes like ashes to the Forsaken. Despite this, they have been known to create alcoholic drinks.<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-110">[110]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Ashra_healing_Felgrim.jpg/revision/latest/scale-to-width-down/180?cb=20220806140723)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Ashra_healing_Felgrim.jpg/revision/latest?cb=20220806140723)
+
+A Forsaken being healed by the Light and suffering extreme pain because of it.
+
+Aside from magical potions, Forsaken can "heal" themselves in numerous ways. To name a few, they can replace their body parts by harvesting and sewing on the body parts of others,<sup id="cite_ref-111"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-111">[111]</a></sup> eat other humanoids and undead,<sup id="cite_ref-112"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-112">[112]</a></sup> and drain the life force of others.<sup id="cite_ref-113"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-113">[113]</a></sup> When the Holy Light is used with the intention to heal a Forsaken, it is immensely painful, yet effective.<sup id="cite_ref-114"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-114">[114]</a></sup> The Forsaken restoration process requires the stitching or grafting of new sinew, muscle and skin to repair their bodies; and since the Forsaken body does not naturally heal itself, it is the predominant method of keeping Forsaken bodies functional. It should also be noted that a Forsaken's body, or the parts of the body they've grafted onto it, may only be preserved in the same condition as it was found when deceased. Since Forsaken bodies can't grow new muscles, a body part of a new Forsaken will never naturally grow stronger and thus will only improve if one replaces the unsatisfactory body part with another one containing more muscles. The downside to Forsaken undeath is their bodies are henceforth fragile to injury or rot and may require constant body part transplants to maintain.<sup id="cite_ref-BtS19_38-3"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-BtS19-38">[38]</a></sup> As such, Forsaken generally do not applaud or stamp their feet, as it prematurely wears out their limbs; clapping, in particular, is terrible for their hands.<sup id="cite_ref-115"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-115">[115]</a></sup>
+
+Decapitation or even dismemberment is not enough to kill a Forsaken, and many times enemies have to burn the remains of a destroyed Forsaken body. Otherwise, it can reattach its limbs and joints by temporarily melting their skin, knitting muscle and clicking bones back together.<sup id="cite_ref-116"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-116">[116]</a></sup> It should be noted, however, that this ability is considered rare among the undead, and many cannot simply re-attach limbs on their own.<sup id="cite_ref-117"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-117">[117]</a></sup>
+
+### Nature of undeath
+
+The CM Nyorloth supplied information on the nature of undeath on February 9th, 2012 on the European Story Forums, stating:
+
+**Death Knights and souls?** | 2012-09-02 00:00 | [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") **[Nyorloth](https://wowpedia.fandom.com/wiki/Nyorloth "Nyorloth")**
+
+The souls of the undead (Forsaken, PC death knights, ghouls, etc.) are imperfectly attached to their bodies; the dark magic that sustains them is a buffer that prevents their souls from properly joining with their bodies. This is why undead feel only faint sensations of pain or discomfort from most physical stimuli, and why the Light is so painful to their existence. The primary exception to this rule are liches, as liches bind their souls to a phylactery and then use the phylactery to generate a physical form; this process is why lich bodies look nothing like their mortal bodies, and also why you have to destroy a lich's phylactery to truly kill them.
+
+[View original post](http://eu.battle.net/wow/en/forum/topic/3313064613?page=3#49)
+
+Forsaken who have been raised into undeath or "awoken" as the Forsaken call it, may be terrified, confused, or disoriented by the experience. Part of this stems from being traumatized by witnessing their own skin and body decaying for the first time. Other times, it may be because they were raised with some sort of terrible malady like having only half a brain.<sup id="cite_ref-BtS19_38-4"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-BtS19-38">[38]</a></sup> Some don't survive the shock, turning into [zombies](https://wowpedia.fandom.com/wiki/Zombie "Zombie") or [ghouls](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul"). Others retain just enough humanity to seem normal on the outside... but they're sick inside.<sup id="cite_ref-118"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-118">[118]</a></sup>
+
+Aside from their affliction, undead also suffer from an addiction to terrible vices that the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") instilled in them in order to produce vile and inhumane monstrosities. [Death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") for example, possess an addiction to inflict pain. If death knights do not regularly inflict agony upon another creature, they begin to suffer wracking pains that could drive them into a mindless, blood-seeking hysteria.<sup id="cite_ref-ACD2_119-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-ACD2-119">[119]</a></sup> [Zombies](https://wowpedia.fandom.com/wiki/Zombie "Zombie") and Forsaken undead have a hungering for living flesh<sup id="cite_ref-120"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-120">[120]</a></sup><sup id="cite_ref-121"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-121">[121]</a></sup> and [San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") have an addiction to consuming blood. It is assumed that all undead have some sort of tormenting addiction to coincide with their undeath.
+
+Generally, most enslaved undead are tormented and restless by their subjugation. Some welcome it if it grants them the benefits of eternal life. Many undead who are sentient enough to understand their circumstances appear emotionally dispassionate if not melancholy. The most known emotions that the undead seem to emote are remorse, pity,<sup id="cite_ref-122"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-122">[122]</a></sup> or rage.<sup id="cite_ref-123"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-123">[123]</a></sup> Record of undead emoting positive emotions are rare, though there are reports, however, that some Forsaken have slowly experienced a sharpening of their dulled senses of touch, smell, etc., as well as an increase in the flashes of positive emotions that have otherwise become so rare since their fall into undeath, when influenced by the [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light"). The drawback however, is that they also become disgusted with themselves and are likely to increase attempts at their own self-destruction; for regaining these senses would force the undead to smell their own rotting flesh, taste the decay in their mouths and throats, and even feel the maggots burrowing within their bodies.<sup id="cite_ref-ACD2_119-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-ACD2-119">[119]</a></sup> Some take comfort from the happy memories they experienced when they were alive<sup id="cite_ref-124"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-124">[124]</a></sup> or the bonds they've developed, as demonstrated by the [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering").
+
+Some of those that freed themselves from the Lich King's grasp are tormented by memories of the unspeakable horrors that they had committed as mindless Scourge agents and are driven into madness or consumed by regret, whereas others embrace their new condition and may go on to indulge in their vile vices. Others don't even remember their time as a mindless slave of the Scourge and so bear no emotional trauma from it at all.<sup id="cite_ref-BtS19_38-5"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-BtS19-38">[38]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Forsaken.jpg/revision/latest/scale-to-width-down/140?cb=20070902030309)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Forsaken.jpg/revision/latest?cb=20070902030309)
+
+Forsaken from _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_.
+
+The forsaken are humans transformed into the undead, with all the powers associated with the Scourge. They serve the Banshee Queen, Sylvanas, looking to her as their savior for delivering them from the Lich King’s mental dominance. The forsaken dwell within the bowels of the ruins of Lordaeron’s capital city, which they have taken to calling the Undercity. Dedicated to seek vengeance upon the Scourge for damning them to their condition, they strive to undermine the Scourge’s control of Lordaeron.
+
+The forsaken are limited in their ability to reinforce their numbers, having no necromancers among their kind. Instead, these fearless undead warriors are comprised mostly of fighters and warlocks dedicated to building a culture of their own amidst a world that hates and fears them.<sup id="cite_ref-125"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-125">[125]</a></sup>
+
+### Balance
+
+Forsaken culture reflects its people; just as the Forsaken stand on the line between life and death, their culture balances between the beliefs each Forsaken held in life and each one's quest for a place in the present. Former healers find this transition more difficult than most Forsaken find it. Priests of the Holy Light in particular struggle to reconcile the philosophy that guided their life with their unfortunate new condition. Some balance their own beliefs with their new forms, but most follow one of two paths." (It goes on to give very brief descriptions of the Forgotten Shadow and the Echo of Life.)<sup id="cite_ref-126"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-126">[126]</a></sup>
+
+Perhaps the greatest element of Forsaken culture, and their culture's only universal element, is their reverence of death. Every Forsaken respects the dead, and damns those who do not. General society coddles new Forsaken like children, while venerating those who are losing themselves to the Scourge, giving them the greatest comforts before they are put out of their misery. Forsaken treat each other with a measure of respect, as it takes a strong soul to rise, and a stronger soul to not fall to mindless undeath (more on this later). Arthas earns their greatest ire, as the Lich King shows no respect for the living or dead. While Forsaken create undead, they do so with respect to the souls and bodies they use. Life and death is a balance. The Lich King, however, enslaves the dead, stripping their free will. His path is an abomination to the Forsaken.<sup id="cite_ref-127"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-127">[127]</a></sup>
+
+### Alignment
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Dark_apothecary.jpg/revision/latest/scale-to-width-down/180?cb=20050926141227)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Dark_apothecary.jpg/revision/latest?cb=20050926141227)
+
+An [apothecary](https://wowpedia.fandom.com/wiki/Apothecary "Apothecary").
+
+Although most of the race is evil,<sup id="cite_ref-Mostly_Evil_128-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Mostly_Evil-128">[128]</a></sup> the Forsaken cannot be thought of in purely dualistic terms entirely. Although undead, the Forsaken are still inherently human, the majority of whom were victims of the plague spread by Kel'Thuzad. Thus some of the Forsaken are still good beings, if no longer living. As the above suggests, some individuals among them are capable of a tragic form of nobility, in that they do not allow their inability to obtain redemption to prevent them from trying.
+
+Those that try often leave the Forsaken, seeing its flaws, and join other causes. These Forsaken rebel against their race, seeking a better way to end the Lich King's reign or search for a way to reclaim their lost humanity,<sup id="cite_ref-129"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-129">[129]</a></sup> while others work to reform it from within, such as [Roberick Dartfall](https://wowpedia.fandom.com/wiki/Roberick_Dartfall "Roberick Dartfall").
+
+[Leonid Barthalomew the Revered](https://wowpedia.fandom.com/wiki/Leonid_Barthalomew_the_Revered "Leonid Barthalomew the Revered") of the Argent Dawn is probably the greatest example of this. ([Trevor](https://wowpedia.fandom.com/wiki/Trevor "Trevor") in fact aspires to leave and join Leonid.) Others that have left include [Kegan Darkmar](https://wowpedia.fandom.com/wiki/Kegan_Darkmar "Kegan Darkmar").
+
+It is arguable that such nobility is the only truly genuine form that exists, in that it comes not from duty, religion, or custom, but from a decision born purely of free will.
+
+### Faith
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Shadowascendant.JPG/revision/latest/scale-to-width-down/140?cb=20070725221803)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Shadowascendant.JPG/revision/latest?cb=20070725221803)
+
+[Shadow ascendant](https://wowpedia.fandom.com/wiki/Shadow_ascendant "Shadow ascendant").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Lightslayer.JPG/revision/latest/scale-to-width-down/140?cb=20070815005309)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Lightslayer.JPG/revision/latest?cb=20070815005309)
+
+[Lightslayer](https://wowpedia.fandom.com/wiki/Lightslayer "Lightslayer").
+
+Some still adhere to their old faiths, such as the [Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light").<sup id="cite_ref-130"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-130">[130]</a></sup>
+
+Even as they believe they have been abandoned by their faith, so have the Forsaken abandoned the faiths of their living days.<sup id="cite_ref-Undead,_Forsaken_56-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Undead,_Forsaken-56">[56]</a></sup> Many no longer cling to any religion, placing their faith in their queen and their dark science.<sup id="cite_ref-Undead,_Forsaken_56-2"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Undead,_Forsaken-56">[56]</a></sup> Most, however, have embraced new philosophies of their own creation: the [Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadow#In_the_RPG "Cult of Forgotten Shadow"), the [Echo of Life](https://wowpedia.fandom.com/wiki/Echo_of_Life "Echo of Life"), or the simple value of knowledge.<sup id="cite_ref-131"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-131">[131]</a></sup> Some have even turned to the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") as a source of power, believing that only it is potent enough to defeat the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-Undead,_Forsaken_56-3"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Undead,_Forsaken-56">[56]</a></sup>
+
+The [Cult of Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadow "Cult of Forgotten Shadow") is largely based out of [Deathknell](https://wowpedia.fandom.com/wiki/Deathknell "Deathknell") and the warrior quarter in [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity").<sup id="cite_ref-132"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-132">[132]</a></sup> Priests of the Forgotten Shadow believe that the faiths they held in life have failed them, and so they instead rely on the power and teachings of the Shadow.<sup id="cite_ref-133"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-133">[133]</a></sup><sup id="cite_ref-134"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-134">[134]</a></sup> The members of the Cult vary between lawful and chaotic, evil and neutral,<sup id="cite_ref-135"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-135">[135]</a></sup> and are taught to eradicate anything having to do with the Holy Light — and life in general.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  It is also a philosophy of [divine humanism](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadow#Divine_Humanism "Cult of Forgotten Shadow").
+
+Priests of the Forgotten Shadow teach that there must be a balance between Light and Shadow, and while they should never forget that they are from the Shadow, members of the cult must learn the Light as well.<sup id="cite_ref-136"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-136">[136]</a></sup> Being intelligent undead, the Forsaken fully understand the limitations and vulnerabilities associated with unlife. One of these disadvantages is that they can be turned, rebuked or even commanded by powerful positive or negative energy forces. Naturally, the Forsaken are always on the lookout for ways to limit or negate this vulnerability.<sup id="cite_ref-137"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-137">[137]</a></sup>
+
+> The figure wore the robes of a priest of the Holy Light - not uncommon among the Forsaken, who mocked the order by wearing their garments and allowing the sacred robes to be soiled and tainted by their bloody work. Somehow, [Andarin](https://wowpedia.fandom.com/wiki/Andarin "Andarin") sensed, this figure was different; the robes seemed to be in almost tolerable condition, even if the body wearing them was not.<sup id="cite_ref-138"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-138">[138]</a></sup> "You wear the robes of a priest, Trevor. Why do you not channel the Light in battle, if you seek redemption?" The priest seemed to wince at that. "While I refuse to wield the shadow, the Light has refused me, or so it seems. And so, I am truly a broken man; I learned to wield spears of Light like Uther's knights did in the Second. Without the Light, I am unarmed and unarmored -- but not entirely helpless, as you see." Andarin couldn't help but feel a little sorry for the fallen priest, if his story was true. Perhaps a man, no matter how virtuous, could not channel holy power while in such a form."<sup id="cite_ref-139"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-139">[139]</a></sup>
+
+### Biology
+
+Forsaken, unsurprisingly, look like dead people. Their skin is gray and rotting, showing bone and flesh in places. Their pupil-less eyes glow with dim, white ghostlight. Their muscles are withered, making them scrawny. Their movements are slow but jagged. Forsaken hardly ever smile (unless their lips have rotted away - in which case they can appear to be smiling all the time). Necromantic magic keeps them somewhat preserved, but natural decay still proceeds, just slower than normal.<sup id="cite_ref-Undead,_Forsaken_56-4"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Undead,_Forsaken-56">[56]</a></sup>
+
+### Necromancers in the Forsaken ranks
+
+The Dark Lady, Sylvanas Windrunner, realized how valuable [necromancy](https://wowpedia.fandom.com/wiki/Necromancy "Necromancy") was to their cause. Though Forsaken heal naturally, many go to the priests of the [Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadow "Cult of Forgotten Shadow") for "repairs". Necromancers can also free enslaved, mindless undead and research powerful spells that might one day return the Forsaken to life. Sylvanas knew she needed necromancers to heal, strengthen and replace her people, and she set about wooing necromancers away from the Scourge, mainly by force.<sup id="cite_ref-140"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-140">[140]</a></sup>
+
+The Forsaken are desperate for the powers of a necromancer. As such they tried to stop [Linnena Hallow](https://wowpedia.fandom.com/wiki/Linnena_Hallow "Linnena Hallow") and to convert her students to their side.<sup id="cite_ref-141"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-141">[141]</a></sup>
+
+### A cure for undeath?
+
+Forsaken with an undead soul can be brought back with raise dead and [reincarnate](https://wowpedia.fandom.com/wiki/Reincarnate "Reincarnate"). The spells work normally on them. Resurrection, true resurrection and similar effects restore them to their undead life rather than to the being they were before they became undead. A Forsaken's body of this type is undead… and so is its soul, corrupted and changed to such a degree that it belongs to its new body now, rather than its old one.<sup id="cite_ref-142"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-142">[142]</a></sup> Forsaken priests have the power to restore those foolishly slain in battle, though only to unlife. Nothing short of a [miracle](https://wowpedia.fandom.com/wiki/Miracle "Miracle") can return true life.<sup id="cite_ref-143"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-143">[143]</a></sup>
+
+### Names
+
+Like their Dark Lady, Forsaken tend to keep the names they had when they were alive. If a Forsaken cannot remember their name or simply wish to change their name; they may make up a suitable name or read one from a headstone. Some invent surnames that imply their desire to eradicate the Scourge or about their undead nature.<sup id="cite_ref-144"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-144">[144]</a></sup>
+
+-   Male names: Roberick, Magan, Danforth, Lansire.
+-   Female names: Yellen, Limmy, Sarias, Mierelle.
+-   Family names: Dartfall, Blacksling, Ghoulhunter, Blastlich.<sup id="cite_ref-Undead,_Forsaken_56-5"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Undead,_Forsaken-56">[56]</a></sup>
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/89/Forsaken_Chinese_model.jpg/revision/latest/scale-to-width-down/180?cb=20170216230702)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Forsaken_Chinese_model.jpg/revision/latest?cb=20170216230702)
+
+The Chinese Forsaken models do not show bones. This option was later added in _Shadowlands_ to all regions, with a slightly decayed version as pictured here and a fully fresh version without any skin blotches.
+
+-   The Forsaken almost didn't make the cut as a playable race in _World of Warcraft_ due to the designers' animation workload and limited resources.<sup id="cite_ref-Countdown_To_Classic_145-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Countdown_To_Classic-145">[145]</a></sup><sup id="cite_ref-MMO-C_Staats_146-0"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-MMO-C_Staats-146">[146]</a></sup> There was talk of axing the undead during development, but the suggestion was so unpopular that the debate was postponed until the producers had a better idea of how much work could be handled. At the time, _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")'_s storyline hadn't yet solidified, and [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") wasn't sure what he wanted to do with the undead. According to [Johnathan Staats](https://wowpedia.fandom.com/wiki/Johnathan_Staats "Johnathan Staats"), a lot of the designers simply wanted to be able to play as an evil, "badass monster", rather than simply a misunderstood plagued human, but in the end the Forsaken ended up around the center of the spectrum. At the time, the team also referred to the undead as [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"); since they hadn't yet played through _Warcraft III_, they didn't quite understand that the Scourge and Forsaken were separate factions. Many also wanted to use Scourge-like buildings for the playable undead, but the burned-out human buildings proved easier to make.<sup id="cite_ref-Countdown_To_Classic_145-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-Countdown_To_Classic-145">[145]</a></sup> Despite talk of cutting the playable Forsaken, the animators committed to them near the tail end of the project and doubled their efforts to give them all the player character animations they needed. Staats cites this effort as likely being the main reason for why playable Forsaken made it into classic WoW.<sup id="cite_ref-MMO-C_Staats_146-1"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-MMO-C_Staats-146">[146]</a></sup>
+-   In China, most bone and gore related depictions are censored. This affects the Forsaken models as they do not have any bones showing. This option was later added to all regions in _Shadowlands_ as a customization option.
+-   Forsaken in the _Shadowlands_ expansion can have different eye colors in-game but originally only appeared with yellow glowing eyes.
+    -   Some Forsaken in the [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") had originally appeared with different eye colors then the yellow then avalable in-game: glowing red eyes,<sup id="cite_ref-147"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-147">[147]</a></sup><sup id="cite_ref-148"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-148">[148]</a></sup><sup id="cite_ref-149"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-149">[149]</a></sup><sup id="cite_ref-150"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-150">[150]</a></sup><sup id="cite_ref-151"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-151">[151]</a></sup><sup id="cite_ref-152"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-152">[152]</a></sup><sup id="cite_ref-153"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-153">[153]</a></sup><sup id="cite_ref-154"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-154">[154]</a></sup> glowing blue,<sup id="cite_ref-155"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-155">[155]</a></sup><sup id="cite_ref-156"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-156">[156]</a></sup><sup id="cite_ref-157"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-157">[157]</a></sup><sup id="cite_ref-158"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-158">[158]</a></sup><sup id="cite_ref-159"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-159">[159]</a></sup><sup id="cite_ref-160"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-160">[160]</a></sup> with glowing green,<sup id="cite_ref-161"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-161">[161]</a></sup><sup id="cite_ref-162"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-162">[162]</a></sup> and glowing purple<sup id="cite_ref-163"><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_note-163">[163]</a></sup> appearing less common.
+    -   Some Forsaken were shown in-game with diffrent eye colors form the standard yellow prior to _Shadowlands_: [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), [Lord Godfrey](https://wowpedia.fandom.com/wiki/Lord_Godfrey "Lord Godfrey") and [Master Forteski](https://wowpedia.fandom.com/wiki/Master_Forteski "Master Forteski") haveing glowing blue eyes, and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), [dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger") and [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") haveing glowing red eyes.
+
+## Inspirations
+
+-   Undead are culturally inspired by zombie motifs in media and other undead, particularly 19th and 20th century media, and ghost-like creatures in folklore, as well other elements from the United Kingdom.
+    -   The notion of [undead](http://en.wikipedia.org/wiki/undead "wikipedia:undead") [zombies](http://en.wikipedia.org/wiki/zombie "wikipedia:zombie") is originally a Haitian folklore creature derived from West and Central African folklore, with a significant amount of our modern ideas of "undeath" and "zombie apocalypse" come from the movie _[Night of the Living Dead](http://en.wikipedia.org/wiki/Night_of_the_Living_Dead "wikipedia:Night of the Living Dead")_ and from the book _[I Am Legend](http://en.wikipedia.org/wiki/I_Am_Legend_(novel) "wikipedia:I Am Legend (novel)")_.
+    -   Another general foundation for the Forsaken as a whole is [gothic fiction](http://en.wikipedia.org/wiki/gothic_fiction "wikipedia:gothic fiction").
+    -   A meaningful amount of WoW's Undead themes are derived from the [Undead](https://warhammerfantasy.fandom.com/wiki/Undead) of the Warhammer universe.
+    -   There are multiple monster mythos (real and fictional) references within the Forsaken narrative. The banshee motif of Sylvanas Windrunner (Banshee Queen), Aelthalyste (a high elf banshee), and Calia Menethil (undead porcelain-skinned [White Lady](http://en.wikipedia.org/wiki/White_Lady "wikipedia:White Lady")) all gesture to real-world [banshees](http://en.wikipedia.org/wiki/banshee "wikipedia:banshee"), the flesh constructs are of course a reference to [Frankenstein's monster](http://en.wikipedia.org/wiki/Frankenstein%27s_monster "wikipedia:Frankenstein's monster"), the liches are [liches](http://en.wikipedia.org/wiki/lich "wikipedia:lich") (but particularly the [Tomb Kings](https://warhammerfantasy.fandom.com/wiki/Tomb_Kings) of Warhammer via their Egyptian motifs), Deathstalker Commander Belmont is a reference to the [Belmont Clan](https://castlevania.fandom.com/wiki/Belmont_Clan) of the [Castlevania](http://en.wikipedia.org/wiki/Castlevania "wikipedia:Castlevania") video games, and more.
+    -   The use of [tesla coils](http://en.wikipedia.org/wiki/tesla_coil "wikipedia:tesla coil") in Forsaken architecture is a reference to the recurring association of tesla coils with undeath or "mad scientist" themes, first implemented in the 1931 movie _[Frankenstein](http://en.wikipedia.org/wiki/Frankenstein_(1931) "wikipedia:Frankenstein (1931)")_.
+    -   The [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society") is likely a reference to the [Royal Society](http://en.wikipedia.org/wiki/Royal_Society "wikipedia:Royal Society") of the UK.
+    -   The building styles of the Forsaken use [Victorian architecture](http://en.wikipedia.org/wiki/Victorian_architecture "wikipedia:Victorian architecture"), in particular the Queen Anne style exemplified in the [Carson Mansion](http://en.wikipedia.org/wiki/Carson_Mansion "wikipedia:Carson Mansion") in California, while the boat styles use late colonial [Galleons](http://en.wikipedia.org/wiki/Galleon "wikipedia:Galleon")
+    -   The Forsaken generally speak in either [General American English](http://en.wikipedia.org/wiki/General_American_English "wikipedia:General American English"), the [Mid-Atlantic accent](http://en.wikipedia.org/wiki/Mid-Atlantic_accent "wikipedia:Mid-Atlantic accent"), or [Received Pronunciation](http://en.wikipedia.org/wiki/Received_Pronunciation "wikipedia:Received Pronunciation").
+    -   Some Forsaken, [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), and [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus") architecture, with the use of bones as architectural structural and decorative elements, resembles the "bone churches" that came about during Medieval and Early Modern Catholicism, such as the [Capuchin Crypt](http://en.wikipedia.org/wiki/Capuchin_Crypt "wikipedia:Capuchin Crypt") in Rome, the [Capela dos Ossos](http://en.wikipedia.org/wiki/Capela_dos_Ossos "wikipedia:Capela dos Ossos") in Portugal, [San Bernardino alle Ossa](http://en.wikipedia.org/wiki/San_Bernardino_alle_Ossa "wikipedia:San Bernardino alle Ossa") in Milan, and the [Sedlec Ossuary](http://en.wikipedia.org/wiki/Sedlec_Ossuary "wikipedia:Sedlec Ossuary") in the Czech Republic.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Nathanos_Blightcaller_WoD_model.jpg/revision/latest/scale-to-width-down/61?cb=20180123201452)](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Nathanos_Blightcaller_WoD_model.jpg/revision/latest?cb=20180123201452)
+    
+    Male model from 6.0.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Terrified_Citizen_Female_Undercity.jpg/revision/latest/scale-to-width-down/61?cb=20180810151735)](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Terrified_Citizen_Female_Undercity.jpg/revision/latest?cb=20180810151735)
+    
+    Female model from 6.0.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Deathguard_Phillip.jpg/revision/latest/scale-to-width-down/83?cb=20220601181757)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Deathguard_Phillip.jpg/revision/latest?cb=20220601181757)
+    
+    Original male model.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Maquell_Ebonwood.jpg/revision/latest/scale-to-width-down/64?cb=20220601180556)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Maquell_Ebonwood.jpg/revision/latest?cb=20220601180556)
+    
+    Original female model.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Sylvanas_Grommash_Hold.jpg/revision/latest/scale-to-width-down/42?cb=20190216030413)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Sylvanas_Grommash_Hold.jpg/revision/latest?cb=20190216030413)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Sharlindra_New.jpg/revision/latest/scale-to-width-down/80?cb=20160723223602)](https://static.wikia.nocookie.net/wowpedia/images/6/68/Sharlindra_New.jpg/revision/latest?cb=20160723223602)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Algernon.jpg/revision/latest/scale-to-width-down/94?cb=20191116193202)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Algernon.jpg/revision/latest?cb=20191116193202)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Undercity_Guardian.jpg/revision/latest/scale-to-width-down/120?cb=20170727195512)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Undercity_Guardian.jpg/revision/latest?cb=20170727195512)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Ophelia_Montague.jpg/revision/latest/scale-to-width-down/66?cb=20211023194246)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Ophelia_Montague.jpg/revision/latest?cb=20211023194246)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/33/Dark_Ranger.jpg/revision/latest/scale-to-width-down/56?cb=20160301192313)](https://static.wikia.nocookie.net/wowpedia/images/3/33/Dark_Ranger.jpg/revision/latest?cb=20160301192313)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/80/Dark_Ranger_%28Tiragarde_Sound%29.jpg/revision/latest/scale-to-width-down/80?cb=20220604073558)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Dark_Ranger_%28Tiragarde_Sound%29.jpg/revision/latest?cb=20220604073558)
+    
+    Dark ranger male.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7e/Nathanos_Blightcaller_in_Undercity.jpg/revision/latest/scale-to-width-down/70?cb=20200503224628)](https://static.wikia.nocookie.net/wowpedia/images/7/7e/Nathanos_Blightcaller_in_Undercity.jpg/revision/latest?cb=20200503224628)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Derek_Proudmoore.png/revision/latest/scale-to-width-down/63?cb=20200624232633)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Derek_Proudmoore.png/revision/latest?cb=20200624232633)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Kaldorei_Dark_Ranger.jpg/revision/latest/scale-to-width-down/86?cb=20181227032732)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Kaldorei_Dark_Ranger.jpg/revision/latest?cb=20181227032732)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/db/Kaldorei_Dark_Ranger_male.jpg/revision/latest/scale-to-width-down/87?cb=20190323234806)](https://static.wikia.nocookie.net/wowpedia/images/d/db/Kaldorei_Dark_Ranger_male.jpg/revision/latest?cb=20190323234806)
+    
+    Kaldorei Dark Ranger male.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Sira_Moonwarden_Dark_Warden.jpg/revision/latest/scale-to-width-down/70?cb=20181227032328)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Sira_Moonwarden_Dark_Warden.jpg/revision/latest?cb=20181227032328)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Dave_Wilson_tweet_4.png/revision/latest/scale-to-width-down/120?cb=20170410173940)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Dave_Wilson_tweet_4.png/revision/latest?cb=20170410173940)
+    
+    Male and female pre-release models from 2000.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/20/Character_customization_2.jpg/revision/latest/scale-to-width-down/120?cb=20191102003729)](https://static.wikia.nocookie.net/wowpedia/images/2/20/Character_customization_2.jpg/revision/latest?cb=20191102003729)
+    
+    _Shadowlands_ character customizations including "fresh" option not showing decay on skin
+    
+-   [![Forsaken Plaguebringer.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Forsaken_Plaguebringer.jpg/revision/latest/scale-to-width-down/104?cb=20160228094739)](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Forsaken_Plaguebringer.jpg/revision/latest?cb=20160228094739)
+    
+-   [![Lancer-Captain Blaer.jpg](https://static.wikia.nocookie.net/wowpedia/images/2/22/Lancer-Captain_Blaer.jpg/revision/latest/scale-to-width-down/93?cb=20190323205736)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Lancer-Captain_Blaer.jpg/revision/latest?cb=20190323205736)
+    
+-   [![Forsaken Deadshot.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/06/Forsaken_Deadshot.jpg/revision/latest/scale-to-width-down/107?cb=20211112165430)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Forsaken_Deadshot.jpg/revision/latest?cb=20211112165430)
+    
+-   [![Forsaken Bat-Rider.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/df/Forsaken_Bat-Rider.jpg/revision/latest/scale-to-width-down/120?cb=20160818185544)](https://static.wikia.nocookie.net/wowpedia/images/d/df/Forsaken_Bat-Rider.jpg/revision/latest?cb=20160818185544)
+    
+-   [![Crimson Squall at shipwreck.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/71/Crimson_Squall_at_shipwreck.jpg/revision/latest/scale-to-width-down/120?cb=20180827011737)](https://static.wikia.nocookie.net/wowpedia/images/7/71/Crimson_Squall_at_shipwreck.jpg/revision/latest?cb=20180827011737)
+    
+-   [![The Oblivion - Legion.jpg](https://static.wikia.nocookie.net/wowpedia/images/5/5e/The_Oblivion_-_Legion.jpg/revision/latest/scale-to-width-down/120?cb=20160808174747)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/The_Oblivion_-_Legion.jpg/revision/latest?cb=20160808174747)
+    
+-   [![TeldrassilBfA 2.jpg](https://static.wikia.nocookie.net/wowpedia/images/4/4d/TeldrassilBfA_2.jpg/revision/latest/scale-to-width-down/120?cb=20181004231119)](https://static.wikia.nocookie.net/wowpedia/images/4/4d/TeldrassilBfA_2.jpg/revision/latest?cb=20181004231119)
+    
+-   [![Dread Ballista.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/04/Dread_Ballista.jpg/revision/latest/scale-to-width-down/120?cb=20200703083639)](https://static.wikia.nocookie.net/wowpedia/images/0/04/Dread_Ballista.jpg/revision/latest?cb=20200703083639)
+    
+-   [![Forsaken Catapult Hillsbrad.jpg](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Forsaken_Catapult_Hillsbrad.jpg/revision/latest/scale-to-width-down/115?cb=20180723133413)](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Forsaken_Catapult_Hillsbrad.jpg/revision/latest?cb=20180723133413)
+    
+-   [![Forsaken Catapult (Nashal scenario).jpg](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Forsaken_Catapult_%28Nashal_scenario%29.jpg/revision/latest/scale-to-width-down/105?cb=20180723134110)](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Forsaken_Catapult_%28Nashal_scenario%29.jpg/revision/latest?cb=20180723134110)
+    
+-   [![Chemical Wagon.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Chemical_Wagon.jpg/revision/latest/scale-to-width-down/120?cb=20220217193446)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Chemical_Wagon.jpg/revision/latest?cb=20220217193446)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Captain_Amalia_Stone_size_difference.jpg/revision/latest/scale-to-width-down/120?cb=20220604143615)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Captain_Amalia_Stone_size_difference.jpg/revision/latest?cb=20220604143615)
+    
+    Size difference between mainlander and [Kul Tiran](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") Forsaken.
+    
+
+Cinematic stills
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Infernal_with_undead_warlock_-_WoWcinematic.jpg/revision/latest/scale-to-width-down/120?cb=20200803190913)](https://static.wikia.nocookie.net/wowpedia/images/3/30/Infernal_with_undead_warlock_-_WoWcinematic.jpg/revision/latest?cb=20200803190913)
+    
+    Forsaken warlock with a [infernal](https://wowpedia.fandom.com/wiki/Infernal "Infernal") in the cinematic intro for _World of Warcraft_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1b/BfA_Horde.jpg/revision/latest/scale-to-width-down/120?cb=20180516214302)](https://static.wikia.nocookie.net/wowpedia/images/1/1b/BfA_Horde.jpg/revision/latest?cb=20180516214302)
+    
+    Sylvanas in the center and a Forsaken archer on the right.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Safe_Haven_-_Undead_Rogue_and_Thrall.jpg/revision/latest/scale-to-width-down/120?cb=20190516175328)](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Safe_Haven_-_Undead_Rogue_and_Thrall.jpg/revision/latest?cb=20190516175328)
+    
+    A Forsaken assassin attacking [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") in a cinematic.
+    
+
+Art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Undead_Playable.jpg/revision/latest/scale-to-width-down/88?cb=20210515125303)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Undead_Playable.jpg/revision/latest?cb=20210515125303)
+    
+    Forsaken mage art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/13/Forsaken_Warrior.jpg/revision/latest/scale-to-width-down/93?cb=20210527205746)](https://static.wikia.nocookie.net/wowpedia/images/1/13/Forsaken_Warrior.jpg/revision/latest?cb=20210527205746)
+    
+    Forsaken warrior art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Bloody_Mary.jpg/revision/latest/scale-to-width-down/87?cb=20081002090900)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Bloody_Mary.jpg/revision/latest?cb=20081002090900)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/28/DeathstalkerLeanna.jpg/revision/latest/scale-to-width-down/120?cb=20160130220249)](https://static.wikia.nocookie.net/wowpedia/images/2/28/DeathstalkerLeanna.jpg/revision/latest?cb=20160130220249)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Holy_Nova_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210513123203)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Holy_Nova_TCG.jpg/revision/latest?cb=20210513123203)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Alliance_vs._Horde.jpg/revision/latest/scale-to-width-down/120?cb=20180619194613)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Alliance_vs._Horde.jpg/revision/latest?cb=20180619194613)
+    
+    _The Burning Crusade_ art with a Forsaken in the bottom right.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Warfront_-_Darkshore_Horde_Mail_concept.jpg/revision/latest/scale-to-width-down/120?cb=20181213230630)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Warfront_-_Darkshore_Horde_Mail_concept.jpg/revision/latest?cb=20181213230630)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Undercity_Valiant_HS.png/revision/latest/scale-to-width-down/90?cb=20150825141316)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Undercity_Valiant_HS.png/revision/latest?cb=20150825141316)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/Small_World_-_Forsaken.jpg/revision/latest/scale-to-width-down/120?cb=20210110155324)](https://static.wikia.nocookie.net/wowpedia/images/8/82/Small_World_-_Forsaken.jpg/revision/latest?cb=20210110155324)
+    
+
+## See also
+
+-   [Forsaken technology](https://wowpedia.fandom.com/wiki/Horde_technology#Forsaken_technology "Horde technology")
+-   [Forsaken catapult](https://wowpedia.fandom.com/wiki/Forsaken_catapult "Forsaken catapult")
+-   [New Plague](https://wowpedia.fandom.com/wiki/New_Plague "New Plague")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-1) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, chapter 10
+2.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-2) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 17
+3.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-3) [Races of World of Warcraft](https://worldofwarcraft.com/en-us/game/races/undead)
+4.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-4) _[World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_
+5.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-5) _[Ultimate Visual Guide, Updated and Expanded](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide,_Updated_and_Expanded "Ultimate Visual Guide, Updated and Expanded")_
+6.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-6) _[Annual 2015](https://wowpedia.fandom.com/wiki/Annual_2015 "Annual 2015")_
+7.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-7) _[Bloodsworn](https://wowpedia.fandom.com/wiki/Bloodsworn "Bloodsworn")_, intro
+8.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-8) [Trag saga](https://wowpedia.fandom.com/wiki/Trag_saga "Trag saga"), summaries
+9.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-9) _[Ultimate Visual Guide, Updated and Expanded](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide,_Updated_and_Expanded "Ultimate Visual Guide, Updated and Expanded")_, pg. 125
+10.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-10) [Apprentice Crispin](https://wowpedia.fandom.com/wiki/Apprentice_Crispin "Apprentice Crispin")_"... he's bent the knee to the Dark Lady, so that makes him one of us."_
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Battlenet_Undead_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Battlenet_Undead_11-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Battlenet_Undead_11-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Battlenet_Undead_11-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Battlenet_Undead_11-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Battlenet_Undead_11-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Battlenet_Undead_11-6">g</a></sup> [Forsaken](http://us.battle.net/wow/en/game/race/forsaken). _Races of World of Warcraft_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+12.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-12) _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ [manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual"), pg. 165
+13.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-13) [Dreadlord's Fall (WC3 Undead)](https://wowpedia.fandom.com/wiki/Dreadlord%27s_Fall_(WC3_Undead) "Dreadlord's Fall (WC3 Undead)") - **Sylvanas Windrunner says:** Of course not. The humans are simply a means to an end.
+14.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-14) [A New Power in Lordaeron (WC3 Undead)](https://wowpedia.fandom.com/wiki/A_New_Power_in_Lordaeron_(WC3_Undead) "A New Power in Lordaeron (WC3 Undead)")
+15.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoW_races_description_15-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoW_races_description_15-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoW_races_description_15-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoW_races_description_15-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoW_races_description_15-4">e</a></sup> [\[1\]](http://www.worldofwarcraft.com/info/faq/races.html)
+16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-DtM_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-DtM_16-1">b</a></sup>  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[52\] [Delivery to Magatha](https://wowpedia.fandom.com/wiki/Delivery_to_Magatha)
+17.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-17) _[Dark Mirror](https://wowpedia.fandom.com/wiki/Dark_Mirror "Dark Mirror")_
+18.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-18) [Meeting the Warchief](https://wowpedia.fandom.com/wiki/Meeting_the_Warchief "Meeting the Warchief")
+19.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-19)  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Inv_misc_rune_10.png/revision/latest/scale-to-width-down/16?cb=20070120143104)[\[Scourgebane\]](https://wowpedia.fandom.com/wiki/Scourgebane)
+20.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-20) [Bishop Lazaril#Quotes](https://wowpedia.fandom.com/wiki/Bishop_Lazaril#Quotes "Bishop Lazaril")
+21.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-CDev_Round_2_21-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-CDev_Round_2_21-1">b</a></sup> [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev") - [Round 2 Answers](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_2 "Ask CDev")
+22.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-22)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-30D\] [A Score to Settle](https://wowpedia.fandom.com/wiki/A_Score_to_Settle)
+23.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-23) _[Glory](https://wowpedia.fandom.com/wiki/Glory_(short_story) "Glory (short story)")_
+24.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30\] [Sylvanas' Vengeance](https://wowpedia.fandom.com/wiki/Sylvanas%27_Vengeance)
+25.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-25)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-30\] [The Forsaken Trollbane](https://wowpedia.fandom.com/wiki/The_Forsaken_Trollbane)
+26.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-26) [Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")
+27.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-27)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Assemble the Forsaken](https://wowpedia.fandom.com/wiki/Assemble_the_Forsaken)
+28.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-28)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Blight Congress](https://wowpedia.fandom.com/wiki/The_Blight_Congress)
+29.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-29)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Walk of Faith](https://wowpedia.fandom.com/wiki/Walk_of_Faith)
+30.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-30)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [House of Plagues](https://wowpedia.fandom.com/wiki/House_of_Plagues_(quest))
+31.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-:0_31-0)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Return to Brill](https://wowpedia.fandom.com/wiki/Return_to_Brill)
+32.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-32)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Remedy of Lordaeron](https://wowpedia.fandom.com/wiki/The_Remedy_of_Lordaeron)
+33.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-33)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Desolate Council](https://wowpedia.fandom.com/wiki/The_Desolate_Council)
+34.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-34)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[23\] [The Flying Machine Airport](https://wowpedia.fandom.com/wiki/The_Flying_Machine_Airport)
+35.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Stormrage56_35-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Stormrage56_35-1">b</a></sup> [Knaak, Richard A.](https://wowpedia.fandom.com/wiki/Richard_A._Knaak "Richard A. Knaak"). _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, 56. [ISBN 978-1439-18946-7](https://wowpedia.fandom.com/wiki/Special:BookSources/9781439189467). 
+36.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-36) [Ask CDev Answers - Round 2](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_2 "Ask CDev")
+37.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-37) _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_, chapter 27
+38.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-BtS19_38-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-BtS19_38-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-BtS19_38-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-BtS19_38-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-BtS19_38-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-BtS19_38-5">f</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 19
+39.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-39) _[Traveler: The Spiral Path](https://wowpedia.fandom.com/wiki/Traveler:_The_Spiral_Path "Traveler: The Spiral Path")_, pg. 20
+40.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-CDEVR3_40-0) [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev") - [Round 3 Answers](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_3 "Ask CDev")
+41.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-41)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [A Stroll Through a Cemetery](https://wowpedia.fandom.com/wiki/A_Stroll_Through_a_Cemetery) - **[Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss") says:** You are one of us now. They will not accept you., said to [Captain Amalia Stone](https://wowpedia.fandom.com/wiki/Captain_Amalia_Stone "Captain Amalia Stone") after being killed and raised by the Forsaken.
+42.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-42) _[Traveler: The Spiral Path](https://wowpedia.fandom.com/wiki/Traveler:_The_Spiral_Path "Traveler: The Spiral Path")_, pg. 169
+43.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-43) [Loreology on Twitter](https://twitter.com/Loreology/status/443151848749285376) (dead link)
+44.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-44) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 12
+45.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-45)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[7-30\] [Freedom for Lydon](https://wowpedia.fandom.com/wiki/Freedom_for_Lydon)
+46.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-46)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[7-30\] [A Blight Upon the Land](https://wowpedia.fandom.com/wiki/A_Blight_Upon_the_Land)
+47.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-47) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_
+48.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-48) [The Warcraft Encyclopedia/Thalassian](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Thalassian "The Warcraft Encyclopedia/Thalassian")
+49.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-49) [The Fall of Silvermoon](https://wowpedia.fandom.com/wiki/The_Fall_of_Silvermoon "The Fall of Silvermoon")
+50.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Chancellor_Velora_50-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Chancellor_Velora_50-1">b</a></sup> _[World of Warcraft Trading Card Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game")_: _[March of the Legion](https://wowpedia.fandom.com/wiki/March_of_the_Legion_(TCG) "March of the Legion (TCG)")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). 12: [Chancellor Velora](https://wowpedia.fandom.com/wiki/Chancellor_Velora "Chancellor Velora"):_"The Light rewards faith, not form."_.
+51.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoWMag4_51-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoWMag4_51-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-WoWMag4_51-2">c</a></sup> _[World of Warcraft: The Magazine Issue 4](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_4 "World of Warcraft: The Magazine Issue 4")_
+52.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-52)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) ![Priest](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Ui-charactercreate-classes_priest.png/revision/latest/scale-to-width-down/16?cb=20100721005923 "Priest") \[3\] [Hallowed Scroll](https://wowpedia.fandom.com/wiki/Hallowed_Scroll_(quest)), _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). [Dark Cleric Duesten](https://wowpedia.fandom.com/wiki/Dark_Cleric_Duesten "Dark Cleric Duesten"): _"...the Holy Light no longer concerns you, the spirits of your forefathers are fairy tales, and creatures from the Nether don't want you."_.
+53.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Garments_of_Darkness_53-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Garments_of_Darkness_53-1">b</a></sup>    ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall Undead Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857)[![IconSmall Undead Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest?cb=20200520011546) ![Priest](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Ui-charactercreate-classes_priest.png/revision/latest/scale-to-width-down/16?cb=20100721005923 "Priest") \[4\] [Garments of Darkness](https://wowpedia.fandom.com/wiki/Garments_of_Darkness), _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). [Dark Cleric Beryl](https://wowpedia.fandom.com/wiki/Dark_Cleric_Beryl "Dark Cleric Beryl"): _"But before you can know the dark, you must also know the light."_.
+54.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-54) [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev") - [Round 1 Answers](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_1 "Ask CDev")
+55.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-55) [Mount Journal](https://wowpedia.fandom.com/wiki/Mount_Journal "Mount Journal") entry for [Red](https://wowpedia.fandom.com/wiki/Red_Skeletal_Horse "Red Skeletal Horse"), [Black](https://wowpedia.fandom.com/wiki/Black_Skeletal_Horse "Black Skeletal Horse"), [Blue](https://wowpedia.fandom.com/wiki/Blue_Skeletal_Horse "Blue Skeletal Horse") and [Brown Skeletal Horses](https://wowpedia.fandom.com/wiki/Brown_Skeletal_Horse "Brown Skeletal Horse").
+56.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Undead,_Forsaken_56-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Undead,_Forsaken_56-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Undead,_Forsaken_56-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Undead,_Forsaken_56-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Undead,_Forsaken_56-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Undead,_Forsaken_56-5">f</a></sup> "Undead, Forsaken", _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_: 51-53. 
+57.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-57) Forsaken and blood elves start as Friendly to each other, but Neutral to the other Horde factions
+58.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-58) _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_, pg. 188
+59.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-59) [Thersa Windsong](https://wowpedia.fandom.com/wiki/Thersa_Windsong "Thersa Windsong")
+60.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-60) [Infiltrator Marksen](https://wowpedia.fandom.com/wiki/Infiltrator_Marksen "Infiltrator Marksen")
+61.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-61)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[5-30\] [The Warchief Cometh](https://wowpedia.fandom.com/wiki/The_Warchief_Cometh)
+62.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-62) [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)")
+63.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-loyalty_63-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-loyalty_63-1">b</a></sup> [Races of World of Warcraft: Undead](http://us.battle.net/wow/en/game/race/undead). "While Sylvanas maintains that her loyalty to the Horde is undiminished, some of the faction's members are uncertain about her true intentions."
+64.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-64) [Garrosh Hellscream (tactics)#Horde perspective](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream_(tactics)#Horde_perspective "Garrosh Hellscream (tactics)")
+65.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-65) [BlizzCon 2013 World of Warcraft: The Adventure Continues](https://www.youtube.com/watch?v=DIBgmttuEpo&t=50m40s)
+66.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-66) _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_, chapter 16. "We can reshape the Horde in our image."
+67.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-BS_67-0) _[Bloodsworn](https://wowpedia.fandom.com/wiki/Bloodsworn "Bloodsworn")_
+68.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-68) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, chapter 1
+69.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-69) _[World of Warcraft Battle Chest Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Battle_Chest_Guide "World of Warcraft Battle Chest Guide")_
+70.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-70) [Dan Golthas#Quotes](https://wowpedia.fandom.com/wiki/Dan_Golthas#Quotes "Dan Golthas")
+71.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-71) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 20
+72.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-72)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[38D\] [Compendium of the Fallen](https://wowpedia.fandom.com/wiki/Compendium_of_the_Fallen_(original))
+73.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-73) [Gordo](https://wowpedia.fandom.com/wiki/Gordo "Gordo")
+74.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-74) [Sergeant Gorth](https://wowpedia.fandom.com/wiki/Sergeant_Gorth "Sergeant Gorth")
+75.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-75)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-45\] [Making the Rounds](https://wowpedia.fandom.com/wiki/Making_the_Rounds_(Horde))
+76.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-76)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [Dark Ranger Round-Up](https://wowpedia.fandom.com/wiki/Dark_Ranger_Round-Up)
+77.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-77)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-30\] [The Battle for Andorhal](https://wowpedia.fandom.com/wiki/The_Battle_for_Andorhal_(Horde))
+78.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-78)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-30\] [Untold Truths](https://wowpedia.fandom.com/wiki/Untold_Truths)
+79.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-79)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[5-30\] [Lessons in Fear](https://wowpedia.fandom.com/wiki/Lessons_in_Fear)
+80.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-80) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/410196701735972866) (2013-12-09)
+81.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-81) [Ophelia Montague](https://wowpedia.fandom.com/wiki/Ophelia_Montague "Ophelia Montague")
+82.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-82) [Algernon](https://wowpedia.fandom.com/wiki/Algernon "Algernon")
+83.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-83) [Boyle](https://wowpedia.fandom.com/wiki/Boyle "Boyle")
+84.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-84) [Tsimonh](https://wowpedia.fandom.com/wiki/Tsimonh "Tsimonh")
+85.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-85) [Billie](https://wowpedia.fandom.com/wiki/Billie "Billie")
+86.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-86) [Mount Journal](https://wowpedia.fandom.com/wiki/Mount_Journal "Mount Journal") entry for [Ochre](https://wowpedia.fandom.com/wiki/Ochre_Skeletal_Warhorse "Ochre Skeletal Warhorse"), [Green](https://wowpedia.fandom.com/wiki/Green_Skeletal_Warhorse "Green Skeletal Warhorse"), [Red](https://wowpedia.fandom.com/wiki/Red_Skeletal_Warhorse "Red Skeletal Warhorse"), [Purple](https://wowpedia.fandom.com/wiki/Purple_Skeletal_Warhorse "Purple Skeletal Warhorse"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken_Warhorse "Forsaken Warhorse") and [White Skeletal Warhorses](https://wowpedia.fandom.com/wiki/White_Skeletal_Warhorse "White Skeletal Warhorse")
+87.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-87)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[7-30\] [Glorious Harvest](https://wowpedia.fandom.com/wiki/Glorious_Harvest)
+88.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-88)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[7-30\] [Past Their Prime](https://wowpedia.fandom.com/wiki/Past_Their_Prime)
+89.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-89) _[World of Warcraft: Official Beginner's Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Official_Beginner%27s_Guide "World of Warcraft: Official Beginner's Guide")_, pg. 49
+90.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-90) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 32
+91.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-91)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Priest](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Ui-charactercreate-classes_priest.png/revision/latest/scale-to-width-down/16?cb=20100721005923 "Priest") \[52\] [The Ichor of Undeath](https://wowpedia.fandom.com/wiki/The_Ichor_of_Undeath)
+92.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-92) [http://www.wowhead.com/item=7972/ichor-of-undeath#dropped-by](http://www.wowhead.com/item=7972/ichor-of-undeath#dropped-by)
+93.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-93) [http://i.imgur.com/pJalOPY.jpg](http://i.imgur.com/pJalOPY.jpg) [A playable Forsaken character](https://wowpedia.fandom.com/wiki/Undead_(playable) "Undead (playable)") bleeding green
+94.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-94) _[World of Warcraft: Traveler](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Traveler "World of Warcraft: Traveler")_, pg. 96
+95.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-95)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[1-30\] [The Chill of Death](https://wowpedia.fandom.com/wiki/The_Chill_of_Death)
+96.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-96) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/252237319489343488) (2012-09-29)
+97.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-97) _[Traveler: The Spiral Path](https://wowpedia.fandom.com/wiki/Traveler:_The_Spiral_Path "Traveler: The Spiral Path")_, pg. 170
+98.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-98) [Innkeeper Norman](https://wowpedia.fandom.com/wiki/Innkeeper_Norman "Innkeeper Norman")
+99.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-99)  ![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Inv_misc_book_03.png/revision/latest/scale-to-width-down/16?cb=20070329111108)[\[Diving Log\]](https://wowpedia.fandom.com/wiki/Diving_Log)
+100.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-100) [Loreology on Twitter](http://www.qaster.com/q/402620329542946816/Loreology+Do+the+Forsaken+need+air+to+live+Can+they+live+without+air?r=02) (2013-11-19)
+101.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-101)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[5-30\] [Losing Ground](https://wowpedia.fandom.com/wiki/Losing_Ground_(Ruins_of_Gilneas))
+102.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-102) [Ga'trul's Logs](https://wowpedia.fandom.com/wiki/Ga%27trul%27s_Logs "Ga'trul's Logs")
+103.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-103) _[Traveler: The Spiral Path](https://wowpedia.fandom.com/wiki/Traveler:_The_Spiral_Path "Traveler: The Spiral Path")_, pg. 164
+104.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-104) [Knaak, Richard A.](https://wowpedia.fandom.com/wiki/Richard_A._Knaak "Richard A. Knaak"). _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, 58. [ISBN 978-1439-18946-7](https://wowpedia.fandom.com/wiki/Special:BookSources/9781439189467). 
+105.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-105)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[7-30\] [Stagwiches](https://wowpedia.fandom.com/wiki/Stagwiches)
+106.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-106)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![Cooking](https://static.wikia.nocookie.net/wowpedia/images/c/cb/ProfIcons_cooking.png/revision/latest/scale-to-width-down/15?cb=20190327212053)](https://wowpedia.fandom.com/wiki/Cooking "Cooking") \[10-70 Daily\] [Escargot A Go-Go](https://wowpedia.fandom.com/wiki/Escargot_A_Go-Go)
+107.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-107) [Lieutenant General Orion](https://wowpedia.fandom.com/wiki/Lieutenant_General_Orion "Lieutenant General Orion")'s dialogue with [Dark Cleric Malod](https://wowpedia.fandom.com/wiki/Dark_Cleric_Malod "Dark Cleric Malod")
+108.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-108)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![Fishing](https://static.wikia.nocookie.net/wowpedia/images/5/52/ProfIcons_fishing.png/revision/latest/scale-to-width-down/15?cb=20190327212118)](https://wowpedia.fandom.com/wiki/Fishing "Fishing") \[10-70 Daily\] [Time for Slime](https://wowpedia.fandom.com/wiki/Time_for_Slime)
+109.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-109)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![Cooking](https://static.wikia.nocookie.net/wowpedia/images/c/cb/ProfIcons_cooking.png/revision/latest/scale-to-width-down/15?cb=20190327212053)](https://wowpedia.fandom.com/wiki/Cooking "Cooking") \[10-70 Daily\] [Roach Coach](https://wowpedia.fandom.com/wiki/Roach_Coach)
+110.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-110)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Inv_drink_31_embalmingfluid.png/revision/latest/scale-to-width-down/16?cb=20100919132011)[\[Undercity "Skull Shocker"\]](https://wowpedia.fandom.com/wiki/Undercity_%22Skull_Shocker%22)
+111.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-111)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall Undead Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857)[![IconSmall Undead Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest?cb=20200520011546) \[1-10\] [The Wakening](https://wowpedia.fandom.com/wiki/The_Wakening)
+112.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-112)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Ability_racial_cannibalize.png/revision/latest/scale-to-width-down/16?cb=20180824003220)[\[Cannibalize\]](https://wowpedia.fandom.com/wiki/Cannibalize)
+113.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-113)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Spell_shadow_fingerofdeath.png/revision/latest/scale-to-width-down/16?cb=20060923201818)[\[Touch of the Grave\]](https://wowpedia.fandom.com/wiki/Touch_of_the_Grave)
+114.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-114) _[Bloodsworn](https://wowpedia.fandom.com/wiki/Bloodsworn "Bloodsworn")_, pg. 86
+115.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-115) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 22
+116.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-116) _[World of Warcraft: Traveler](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Traveler "World of Warcraft: Traveler")_, pg. 220
+117.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-117) _[Traveler: The Spiral Path](https://wowpedia.fandom.com/wiki/Traveler:_The_Spiral_Path "Traveler: The Spiral Path")_, pg. 163
+118.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-118)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[1-10\] [Assault on the Rotbrain Encampment](https://wowpedia.fandom.com/wiki/Assault_on_the_Rotbrain_Encampment)
+119.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-ACD2_119-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-ACD2_119-1">b</a></sup> [Ask CDev#Ask CDev Answers - Round 2](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_2 "Ask CDev")
+120.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-120)  ![](https://static.wikia.nocookie.net/wowpedia/images/d/db/Inv_misc_head_scourge_01.png/revision/latest/scale-to-width-down/16?cb=20060919221451)[\[Dual-Plagued Brain\]](https://wowpedia.fandom.com/wiki/Dual-Plagued_Brain)
+121.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-121) [Baron Ashbury#Quotes](https://wowpedia.fandom.com/wiki/Baron_Ashbury#Quotes "Baron Ashbury")
+122.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-122) [Micky Neilson on Twitter](https://twitter.com/MickyNeilson/status/607786516497047552)
+123.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-123) [Lord Walden#Quotes](https://wowpedia.fandom.com/wiki/Lord_Walden#Quotes "Lord Walden")
+124.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-124)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Inv_misc_book_04.png/revision/latest/scale-to-width-down/16?cb=20070329111149)[\[Belamoore's Research Journal\]](https://wowpedia.fandom.com/wiki/Belamoore%27s_Research_Journal): "But Kegan was very eager to speak on other subjects, particularly his time growing up in Lordaeron before its fall."
+125.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-125) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 137
+126.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-126) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 87
+127.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-127) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 151
+128.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Mostly_Evil_128-0) "The Problem of Evil, and Other Philosophical Conundrums", _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_: 53. _"Most Forsaken are pretty despicable, and their motivations as a race are evil and destructive."_ 
+129.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-129) _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_, pg. 173
+130.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-130) [Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide"), pg. 87: "Magic in the Horde" - "Priests of the Holy Light in particular struggle to reconcile the philosophy that guided their life with their unfortunate new condition. Some balance their old beliefs with their new forms, but most follow one of two paths."
+131.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-131) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 87 - 88: "Magic in the Horde"
+132.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-132) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 154: "Forsaken Knowledge"
+133.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-133) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 160: "Cult of Forgotten Shadow": _"They felt that the Light forgot them, and turned to the Shadow instead."_
+134.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-134) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 87 - 88: "Magic in the Horde": _"Forsaken who feel betrayed by the Holy Light's failure to protect them sometimes find that turning their backs on the Holy Light is not enough; they throw aside the Holy Light and embrace its dark twin out of spite."_
+135.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-135) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 160: "Cult of Forgotten Shadow": _"**Alignment:** Lawful evil, though chaotic neutral and neutral evil individuals are just as prevalent."_
+136.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-136) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 160: "Cult of Forgotten Shadow"
+137.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-137) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 126: "Technological Devices"
+138.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-138) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 170
+139.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-139) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 173
+140.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-140) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 90
+141.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-141) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 190
+142.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-142) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 37
+143.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-143) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 161
+144.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-144) _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_, pg. 52
+145.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Countdown_To_Classic_145-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-Countdown_To_Classic_145-1">b</a></sup> [Countdown To Classic: Episode #63 – The Making Of World Of Warcraft With Vanilla Dev, John Staats (2:25:25)](https://countdowntoclassic.com/2018/08/20/episode-63-the-making-of-world-of-warcraft-with-vanilla-dev-john-staats/) (2018-08-20). Retrieved on 2018-09-25.
+146.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-MMO-C_Staats_146-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-MMO-C_Staats_146-1">b</a></sup> MMO-Champion 2018-09-24. [John Staats Interview - The World of Warcraft Diary (1:12:15)](https://www.youtube.com/watch?v=L77uPm5cuTo&t=1h12m15s). _YouTube_. Retrieved on 2018-09-25.
+147.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-147) _[World of Warcraft Trading Card Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game")_: _[Through the Dark Portal](https://wowpedia.fandom.com/wiki/Through_the_Dark_Portal "Through the Dark Portal")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). 314: [A Donation of Silk](https://wowpedia.fandom.com/wiki/A_Donation_of_Silk_(Through_the_Dark_Portal) "A Donation of Silk (Through the Dark Portal)")., Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+148.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-148) [Pick Pocket](https://wowpedia.fandom.com/wiki/Pick_Pocket_(Fires_of_Outland)), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+149.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-149) [Tithe](https://wowpedia.fandom.com/wiki/Tithe), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+150.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-150) [Samuel Harrison](https://wowpedia.fandom.com/wiki/Samuel_Harrison), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+151.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-151) [Edward "Hack" Robinson](https://wowpedia.fandom.com/wiki/Edward_%22Hack%22_Robinson), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+152.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-152) [Thomas "Slash" Robinson](https://wowpedia.fandom.com/wiki/Thomas_%22Slash%22_Robinson), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+153.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-153) [Cedric Darwin](https://wowpedia.fandom.com/wiki/Cedric_Darwin), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+154.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-154) [Emerson Zantides](https://wowpedia.fandom.com/wiki/Emerson_Zantides), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+155.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-155) [Omedus the Punisher](https://wowpedia.fandom.com/wiki/Omedus_the_Punisher), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+156.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-156) [Panax the Unstable](https://wowpedia.fandom.com/wiki/Panax_the_Unstable), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+157.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-157) [Gut Shot](https://wowpedia.fandom.com/wiki/Gut_Shot), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+158.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-158) [Edgemaster's Handguards](https://wowpedia.fandom.com/wiki/Edgemaster%27s_Handguards_(Heroes_of_Azeroth)), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+159.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-159) [Combustion](https://wowpedia.fandom.com/wiki/Combustion_(Blood_of_Gladiators)), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+160.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-160) [Melissa Gerrard](https://wowpedia.fandom.com/wiki/Melissa_Gerrard), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+161.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-161) [Psychic Shriek](https://wowpedia.fandom.com/wiki/Psychic_Shriek), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+162.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-162) [Bloodbane's Fall](https://wowpedia.fandom.com/wiki/Bloodbane%27s_Fall_(Scourgewar)), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+163.  [^](https://wowpedia.fandom.com/wiki/Forsaken#cite_ref-163) [Jon Reaver](https://wowpedia.fandom.com/wiki/Jon_Reaver), Official [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") Artwork.
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
+-   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") | 
+
+-   [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")
+-   [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan")
+-   [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof")
+-   [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss")
+-   [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron")
+-   [Gazlowe](https://wowpedia.fandom.com/wiki/Gazlowe "Gazlowe")
+-   [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw")
+-   [Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra")
+-   [Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")
+-   [Geya'rah](https://wowpedia.fandom.com/wiki/Overlord_Geya%27rah "Overlord Geya'rah")
+-   [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji")
+-   [Kiro](https://wowpedia.fandom.com/wiki/Kiro "Kiro")
+
+
+
+ |
+|  |
+| Other leaders | 
+
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") ([Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), [Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont"), [Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara"), [Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"))
+-   [Cindrethresh](https://wowpedia.fandom.com/wiki/Scalecommander_Cindrethresh "Scalecommander Cindrethresh")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Aggralan](https://wowpedia.fandom.com/wiki/Aggralan "Aggralan")
+-   [Drek'Thar](https://wowpedia.fandom.com/wiki/Drek%27Thar "Drek'Thar")
+-   [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg")
+-   [Nazgrel](https://wowpedia.fandom.com/wiki/Nazgrel "Nazgrel")
+-   [Jorin Deadeye](https://wowpedia.fandom.com/wiki/Jorin_Deadeye "Jorin Deadeye")
+-   [Rehgar Earthfury](https://wowpedia.fandom.com/wiki/Rehgar_Earthfury "Rehgar Earthfury")
+-   [Cromush](https://wowpedia.fandom.com/wiki/High_Warlord_Cromush "High Warlord Cromush")
+-   [Volrath](https://wowpedia.fandom.com/wiki/High_Warlord_Volrath "High Warlord Volrath")
+-   [Gorgonna](https://wowpedia.fandom.com/wiki/Gorgonna "Gorgonna")
+-   [Gordul](https://wowpedia.fandom.com/wiki/Gordul "Gordul")
+-   [Gorfax Angerfang](https://wowpedia.fandom.com/wiki/Gorfax_Angerfang "Gorfax Angerfang")
+-   [Geyah](https://wowpedia.fandom.com/wiki/Greatmother_Geyah "Greatmother Geyah")
+-   [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen")
+-   [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar")
+-   [Master Gadrin](https://wowpedia.fandom.com/wiki/Master_Gadrin "Master Gadrin")
+-   [Zen'tabra](https://wowpedia.fandom.com/wiki/Zen%27tabra "Zen'tabra")
+-   [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan")
+-   [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem")
+-   [Dezco](https://wowpedia.fandom.com/wiki/Sunwalker_Dezco "Sunwalker Dezco")
+-   [Roanauk Icemist](https://wowpedia.fandom.com/wiki/Roanauk_Icemist "Roanauk Icemist")
+-   [Jevan Grimtotem](https://wowpedia.fandom.com/wiki/Jevan_Grimtotem "Jevan Grimtotem")
+-   [Aponi Brightmane](https://wowpedia.fandom.com/wiki/Aponi_Brightmane "Aponi Brightmane")
+-   [Tahu Sagewind](https://wowpedia.fandom.com/wiki/Tahu_Sagewind "Tahu Sagewind")
+-   [Torntusk](https://wowpedia.fandom.com/wiki/Elder_Torntusk "Elder Torntusk")
+-   [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore")
+-   [Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon")
+-   [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver")
+-   [Alexi Barov](https://wowpedia.fandom.com/wiki/Alexi_Barov "Alexi Barov")
+-   [Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin")
+-   [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing")
+-   [Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+-   [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver")
+-   [Tae'thelan Bloodwatcher](https://wowpedia.fandom.com/wiki/Tae%27thelan_Bloodwatcher "Tae'thelan Bloodwatcher")
+-   [Mida](https://wowpedia.fandom.com/wiki/Boss_Mida "Boss Mida")
+-   [Pozzik](https://wowpedia.fandom.com/wiki/Pozzik "Pozzik")
+-   [Patch](https://wowpedia.fandom.com/wiki/Patch_(goblin) "Patch (goblin)")
+-   [Oculeth](https://wowpedia.fandom.com/wiki/Chief_Telemancer_Oculeth "Chief Telemancer Oculeth")
+-   [Valtrois](https://wowpedia.fandom.com/wiki/Arcanist_Valtrois "Arcanist Valtrois")
+-   [Lashk](https://wowpedia.fandom.com/wiki/Lashk "Lashk")
+-   [Ly'leth](https://wowpedia.fandom.com/wiki/Ly%27leth_Lunastre "Ly'leth Lunastre")
+-   [Silgryn](https://wowpedia.fandom.com/wiki/Silgryn "Silgryn")
+-   [Victoire](https://wowpedia.fandom.com/wiki/Victoire "Victoire")
+-   [Jale Rivermane](https://wowpedia.fandom.com/wiki/Jale_Rivermane "Jale Rivermane")
+-   [Lasan Skyhorn](https://wowpedia.fandom.com/wiki/Lasan_Skyhorn "Lasan Skyhorn")
+-   [Loti](https://wowpedia.fandom.com/wiki/Wardruid_Loti "Wardruid Loti")
+-   [Raal](https://wowpedia.fandom.com/wiki/Hexlord_Raal "Hexlord Raal")
+-   [Jo'nok](https://wowpedia.fandom.com/wiki/Jo%27nok,_Bulwark_of_Torcali "Jo'nok, Bulwark of Torcali")
+-   [Rata](https://wowpedia.fandom.com/wiki/High_Prelate_Rata "High Prelate Rata")
+-   [Rakera](https://wowpedia.fandom.com/wiki/Rakera "Rakera")
+-   [Nisha](https://wowpedia.fandom.com/wiki/Nisha "Nisha")
+-   [Kah Kah](https://wowpedia.fandom.com/wiki/Chief_Kah_Kah "Chief Kah Kah")
+-   [Usha Eyegouge](https://wowpedia.fandom.com/wiki/Usha_Eyegouge "Usha Eyegouge")
+-   [The Black Bride](https://wowpedia.fandom.com/wiki/The_Black_Bride "The Black Bride")
+-   [Gargok](https://wowpedia.fandom.com/wiki/Gargok "Gargok")
+-   [Neri Sharpfin](https://wowpedia.fandom.com/wiki/Neri_Sharpfin "Neri Sharpfin")
+-   [Ohseso](https://wowpedia.fandom.com/wiki/Ohseso "Ohseso")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+-   [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller")
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")
+-   [Jastor Gallywix](https://wowpedia.fandom.com/wiki/Jastor_Gallywix "Jastor Gallywix")
+-   [Warlord Bloodhilt](https://wowpedia.fandom.com/wiki/Warlord_Bloodhilt "Warlord Bloodhilt")
+-   [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar")
+-   [Overlord Krom'gar](https://wowpedia.fandom.com/wiki/Overlord_Krom%27gar "Overlord Krom'gar")
+-   [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream")
+-   [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer")
+-   [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin")
+-   [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof")
+-   [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")
+-   [Malkorok](https://wowpedia.fandom.com/wiki/Malkorok "Malkorok")
+-   [Nazgrim](https://wowpedia.fandom.com/wiki/Nazgrim "Nazgrim")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela")
+-   [Jor'kil](https://wowpedia.fandom.com/wiki/Jor%27kil_the_Soulripper "Jor'kil the Soulripper")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") | 
+
+-   [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan")
+-   [Rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Maim Blackhand](https://wowpedia.fandom.com/wiki/Maim_Blackhand "Maim Blackhand")
+-   [Kilrogg Deadeye](https://wowpedia.fandom.com/wiki/Kilrogg_Deadeye "Kilrogg Deadeye")
+-   [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked")
+-   [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")
+-   [Zul'jin](https://wowpedia.fandom.com/wiki/Zul%27jin "Zul'jin")
+-   [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+-   [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")
+-   [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+-   **Undead Forsaken**
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+-   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+-   [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
+-   [Mag'har orc](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")
+-   [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")
+-   [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")
+-   [Hobgoblin](https://wowpedia.fandom.com/wiki/Hobgoblin "Hobgoblin")
+-   [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+-   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Half-orc](https://wowpedia.fandom.com/wiki/Half-orc "Half-orc") / [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+    -   [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination")
+    -   [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")
+    -   [Geist](https://wowpedia.fandom.com/wiki/Geist "Geist")
+    -   [Ghoul](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul")
+    -   [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr")
+    -   [Undead elf](https://wowpedia.fandom.com/wiki/Elf "Elf")
+    -   [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith")
+    -   [Zombie](https://wowpedia.fandom.com/wiki/Zombie "Zombie")
+-   [Hozen](https://wowpedia.fandom.com/wiki/Hozen "Hozen")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Kodo](https://wowpedia.fandom.com/wiki/Kodo "Kodo")
+-   [Raptor](https://wowpedia.fandom.com/wiki/Raptor "Raptor")
+-   [Wyvern](https://wowpedia.fandom.com/wiki/Wyvern "Wyvern")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")
+-   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
+-   [Darkspear Isle](https://wowpedia.fandom.com/wiki/Darkspear_Isle "Darkspear Isle")
+-   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+-   [Bilgewater Harbor](https://wowpedia.fandom.com/wiki/Bilgewater_Harbor "Bilgewater Harbor")
+-   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+-   [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+-   [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor")
+-   [Vulpera Hideaway](https://wowpedia.fandom.com/wiki/Vulpera_Hideaway "Vulpera Hideaway")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Bloodhoof Village](https://wowpedia.fandom.com/wiki/Bloodhoof_Village "Bloodhoof Village")
+-   [Brackenwall Village](https://wowpedia.fandom.com/wiki/Brackenwall_Village "Brackenwall Village")
+-   [Camp Mojache](https://wowpedia.fandom.com/wiki/Camp_Mojache "Camp Mojache")
+-   [Crossroads](https://wowpedia.fandom.com/wiki/Crossroads "Crossroads")
+-   [Desolation Hold](https://wowpedia.fandom.com/wiki/Desolation_Hold "Desolation Hold")
+-   [Krom'gar Fortress](https://wowpedia.fandom.com/wiki/Krom%27gar_Fortress "Krom'gar Fortress")
+-   [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill")
+-   [Sen'jin Village](https://wowpedia.fandom.com/wiki/Sen%27jin_Village "Sen'jin Village")
+-   [Shadowprey Village](https://wowpedia.fandom.com/wiki/Shadowprey_Village "Shadowprey Village")
+-   [Southwind Village](https://wowpedia.fandom.com/wiki/Southwind_Village "Southwind Village")
+-   [Splintertree Post](https://wowpedia.fandom.com/wiki/Splintertree_Post "Splintertree Post")
+-   [Stonemaul Hold](https://wowpedia.fandom.com/wiki/Stonemaul_Hold "Stonemaul Hold")
+-   [Sun Rock Retreat](https://wowpedia.fandom.com/wiki/Sun_Rock_Retreat "Sun Rock Retreat")
+-   [Westreach Summit](https://wowpedia.fandom.com/wiki/Westreach_Summit "Westreach Summit")
+-   [Zoram'gar Outpost](https://wowpedia.fandom.com/wiki/Zoram%27gar_Outpost "Zoram'gar Outpost")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")
+-   [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill")
+-   [Ar'gorok](https://wowpedia.fandom.com/wiki/Ar%27gorok "Ar'gorok")
+-   [Dragonmaw Port](https://wowpedia.fandom.com/wiki/Dragonmaw_Port "Dragonmaw Port")
+-   [Falconwing Square](https://wowpedia.fandom.com/wiki/Falconwing_Square "Falconwing Square")
+-   [Frostwolf Keep](https://wowpedia.fandom.com/wiki/Frostwolf_Keep "Frostwolf Keep")
+-   [Grom'Gol](https://wowpedia.fandom.com/wiki/Grom%27Gol "Grom'Gol")
+-   [The Krazzworks](https://wowpedia.fandom.com/wiki/Krazzworks "Krazzworks")
+-   [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall")
+-   [Hardwrench Hideaway](https://wowpedia.fandom.com/wiki/Hardwrench_Hideaway "Hardwrench Hideaway")
+-   [New Kargath](https://wowpedia.fandom.com/wiki/New_Kargath "New Kargath")
+-   [Revantusk Village](https://wowpedia.fandom.com/wiki/Revantusk_Village "Revantusk Village")
+-   [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+-   [Sepulcher](https://wowpedia.fandom.com/wiki/Sepulcher "Sepulcher")
+-   [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell")
+-   [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Falcon Watch](https://wowpedia.fandom.com/wiki/Falcon_Watch "Falcon Watch")
+-   [Garadar](https://wowpedia.fandom.com/wiki/Garadar "Garadar")
+-   [Mok'Nathal Village](https://wowpedia.fandom.com/wiki/Mok%27Nathal_Village "Mok'Nathal Village")
+-   [Stonebreaker Hold](https://wowpedia.fandom.com/wiki/Stonebreaker_Hold "Stonebreaker Hold")
+-   [Shadowmoon Village](https://wowpedia.fandom.com/wiki/Shadowmoon_Village "Shadowmoon Village")
+-   [Thrallmar](https://wowpedia.fandom.com/wiki/Thrallmar "Thrallmar")
+-   [Thunderlord Stronghold](https://wowpedia.fandom.com/wiki/Thunderlord_Stronghold "Thunderlord Stronghold")
+-   [Zabra'jin](https://wowpedia.fandom.com/wiki/Zabra%27jin "Zabra'jin")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer")
+-   [Camp Tunka'lo](https://wowpedia.fandom.com/wiki/Camp_Tunka%27lo "Camp Tunka'lo")
+-   [Conquest Hold](https://wowpedia.fandom.com/wiki/Conquest_Hold "Conquest Hold")
+-   [New Agamand](https://wowpedia.fandom.com/wiki/New_Agamand "New Agamand")
+-   [Taunka'le Village](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Vengeance Landing](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing")
+-   [Venomspite](https://wowpedia.fandom.com/wiki/Venomspite "Venomspite")
+-   [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point")
+-   [Eastwind Rest](https://wowpedia.fandom.com/wiki/Eastwind_Rest "Eastwind Rest")
+-   [Grookin Hill](https://wowpedia.fandom.com/wiki/Grookin_Hill "Grookin Hill")
+-   [Shrine of Two Moons](https://wowpedia.fandom.com/wiki/Shrine_of_Two_Moons "Shrine of Two Moons")
+-   [Thunder Cleft](https://wowpedia.fandom.com/wiki/Thunder_Cleft "Thunder Cleft")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Axefall](https://wowpedia.fandom.com/wiki/Axefall "Axefall")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Riverside Post](https://wowpedia.fandom.com/wiki/Riverside_Post "Riverside Post")
+-   [Sunsworn Camp](https://wowpedia.fandom.com/wiki/Sunsworn_Camp "Sunsworn Camp")
+-   [Vol'jin's Pride](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Pride "Vol'jin's Pride")
+-   [Vol'mar](https://wowpedia.fandom.com/wiki/Vol%27mar "Vol'mar")
+-   [Warspear](https://wowpedia.fandom.com/wiki/Warspear "Warspear")
+-   [Wor'var](https://wowpedia.fandom.com/wiki/Wor%27var "Wor'var")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Dreadwake's Landing](https://wowpedia.fandom.com/wiki/Dreadwake%27s_Landing "Dreadwake's Landing")
+-   [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Warbeast Kraal](https://wowpedia.fandom.com/wiki/Warbeast_Kraal "Warbeast Kraal")
+-   [Zeb'ahari](https://wowpedia.fandom.com/wiki/Zeb%27ahari "Zeb'ahari")
+-   [Zul'jan Ruins](https://wowpedia.fandom.com/wiki/Zul%27jan_Ruins "Zul'jan Ruins")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Diretusk Hollow](https://wowpedia.fandom.com/wiki/Diretusk_Hollow "Diretusk Hollow")
+-   [Hillcrest Pasture](https://wowpedia.fandom.com/wiki/Hillcrest_Pasture "Hillcrest Pasture")
+-   [Ironmaul Overlook](https://wowpedia.fandom.com/wiki/Ironmaul_Overlook "Ironmaul Overlook")
+-   [Krazzlefrazz Outpost](https://wowpedia.fandom.com/wiki/Krazzlefrazz_Outpost "Krazzlefrazz Outpost")
+-   [Mudfisher Cove](https://wowpedia.fandom.com/wiki/Mudfisher_Cove "Mudfisher Cove")
+-   [Stonetusk Watch](https://wowpedia.fandom.com/wiki/Stonetusk_Watch "Stonetusk Watch")
+-   [Swiftwind Post](https://wowpedia.fandom.com/wiki/Swiftwind_Post "Swiftwind Post")
+-   [Timberfell Outpost](https://wowpedia.fandom.com/wiki/Timberfell_Outpost "Timberfell Outpost")
+-   [Warfang Hold](https://wowpedia.fandom.com/wiki/Warfang_Hold "Warfang Hold")
+-   [Windfall Cavern](https://wowpedia.fandom.com/wiki/Windfall_Cavern "Windfall Cavern")
+-   [Wolf's Den](https://wowpedia.fandom.com/wiki/Wolf%27s_Den "Wolf's Den")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Beastwatch](https://wowpedia.fandom.com/wiki/Beastwatch "Beastwatch")
+-   [Camp Taurajo](https://wowpedia.fandom.com/wiki/Camp_Taurajo "Camp Taurajo")
+-   [Bloodvenom Post](https://wowpedia.fandom.com/wiki/Bloodvenom_Post "Bloodvenom Post")
+-   [Freewind Post](https://wowpedia.fandom.com/wiki/Freewind_Post "Freewind Post")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary")
+-   [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")
+-   [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+-   [Echo Isles](https://wowpedia.fandom.com/wiki/Echo_Isles "Echo Isles")
+-   [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore "Mulgore")
+-   [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens")
+-   [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+-   [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+    -   [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Nation of Durotar](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)") | 
+
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Rageroar clan](https://wowpedia.fandom.com/wiki/Rageroar_clan "Rageroar clan")
+    -   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan")
+    -   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan "Shattered Hand clan")
+    -   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
+    -   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan "Burning Blade clan")
+    -   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan")
+    -   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan")
+    -   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan")
+-   [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron")
+-   [Orgrimmar Legion](https://wowpedia.fandom.com/wiki/Orgrimmar_Legion "Orgrimmar Legion")
+-   [Hellscream's Vanguard](https://wowpedia.fandom.com/wiki/Hellscream%27s_Vanguard "Hellscream's Vanguard")
+-   [Hellscream's Hellions](https://wowpedia.fandom.com/wiki/Hellscream%27s_Hellions "Hellscream's Hellions")
+-   [Warsong Outriders](https://wowpedia.fandom.com/wiki/Warsong_Outriders "Warsong Outriders")
+
+
+
+ |
+|  |
+| **The Forsaken** | 
+
+-   [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers")
+-   [Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers")
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society")
+-   [Queensguard](https://wowpedia.fandom.com/wiki/Queensguard "Queensguard")
+-   [Deathguard](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard")
+    -   [Dreadguard](https://wowpedia.fandom.com/wiki/Dreadguard "Dreadguard")
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council")
+-   [Blightguard](https://wowpedia.fandom.com/wiki/Blightguard "Blightguard")
+
+
+
+ |
+|  |
+| [Thunder Bluff tauren](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)") | 
+
+-   [Tauren tribes](https://wowpedia.fandom.com/wiki/Tribe#Tauren_tribes "Tribe")
+    -   [Bloodhoof tribe](https://wowpedia.fandom.com/wiki/Bloodhoof_tribe "Bloodhoof tribe")
+    -   [Ragetotem tribe](https://wowpedia.fandom.com/wiki/Ragetotem_tribe "Ragetotem tribe")
+    -   [Dawnstrider tribe](https://wowpedia.fandom.com/wiki/Dawnstrider_tribe "Dawnstrider tribe")
+    -   [Runetotem tribe](https://wowpedia.fandom.com/wiki/Runetotem_tribe "Runetotem tribe")
+    -   [Highmountain tribe](https://wowpedia.fandom.com/wiki/Highmountain_tribe_(Legends) "Highmountain tribe (Legends)")
+    -   [Skychaser tribe](https://wowpedia.fandom.com/wiki/Skychaser_tribe "Skychaser tribe")
+    -   [Thunderhorn clan](https://wowpedia.fandom.com/wiki/Thunderhorn_clan "Thunderhorn clan")
+    -   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+    -   [Stonespire tribe](https://wowpedia.fandom.com/wiki/Stonespire_tribe "Stonespire tribe")
+-   [Sunwalkers](https://wowpedia.fandom.com/wiki/Sunwalkers "Sunwalkers")
+-   [Seers](https://wowpedia.fandom.com/wiki/Seers "Seers")
+-   [Longwalkers](https://wowpedia.fandom.com/wiki/Longwalkers "Longwalkers")
+
+
+
+ |
+|  |
+| [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") | 
+
+-   [Vol'jin's Spear](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Spear "Vol'jin's Spear")
+-   [Vol'jin's Headhunters](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Headhunters "Vol'jin's Headhunters")
+-   [Siame-Quashi](https://wowpedia.fandom.com/wiki/Siame-Quashi "Siame-Quashi")
+-   [Ravasaur Trainers](https://wowpedia.fandom.com/wiki/Ravasaur_Trainers "Ravasaur Trainers")
+-   [The Headhunters](https://wowpedia.fandom.com/wiki/Headhunters_(island_expedition) "Headhunters (island expedition)")
+
+
+
+ |
+|  |
+| [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") | 
+
+-   [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights")
+-   [Sunsworn](https://wowpedia.fandom.com/wiki/Sunsworn "Sunsworn")
+-   [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters")
+-   [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders")
+-   [Blood Hawks](https://wowpedia.fandom.com/wiki/Blood_Hawks "Blood Hawks")
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury")
+-   [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary")
+-   [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+    -   [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+-   [Blazing Sunhawks](https://wowpedia.fandom.com/wiki/Blazing_Sunhawks "Blazing Sunhawks")
+
+
+
+ |
+|  |
+| [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") | 
+
+-   [Gob Squad](https://wowpedia.fandom.com/wiki/Gob_Squad "Gob Squad")
+-   [Bilgewater Battalion](https://wowpedia.fandom.com/wiki/Bilgewater_Battalion "Bilgewater Battalion")
+-   [S.H.A.R.K.](https://wowpedia.fandom.com/wiki/S.H.A.R.K. "S.H.A.R.K.")
+-   [Mergers and Acquisitions](https://wowpedia.fandom.com/wiki/Mergers_and_Acquisitions "Mergers and Acquisitions")
+-   [Dredge Fleet](https://wowpedia.fandom.com/wiki/Dredge_Fleet "Dredge Fleet")
+
+
+
+ |
+|  |
+| [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") | 
+
+-   [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)")
+-   [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch")
+-   [The Highborne](https://wowpedia.fandom.com/wiki/Highborne_(island_expedition) "Highborne (island expedition)")
+
+
+
+ |
+|  |
+| [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe") | 
+
+-   [Rivermane tribe](https://wowpedia.fandom.com/wiki/Rivermane_tribe "Rivermane tribe")
+-   [Skyhorn tribe](https://wowpedia.fandom.com/wiki/Skyhorn_tribe "Skyhorn tribe")
+
+
+
+ |
+|  |
+| [Mag'har Clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)") | 
+
+-   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan_(alternate_universe) "Blackrock clan (alternate universe)")
+-   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan_(alternate_universe) "Bleeding Hollow clan (alternate universe)")
+-   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan_(alternate_universe) "Burning Blade clan (alternate universe)")
+-   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_Orcs "Frostwolf Orcs")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_Orcs "Laughing Skull Orcs")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan_(alternate_universe) "Shadowmoon clan (alternate universe)")
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan_(alternate_universe) "Shattered Hand clan (alternate universe)")
+-   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan_(alternate_universe) "Thunderlord clan (alternate universe)")
+-   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan_(alternate_universe) "Warsong clan (alternate universe)")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan_(alternate_universe) "Stonemaul clan (alternate universe)")
+
+
+
+ |
+|  |
+| [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") | 
+
+-   [Zanchuli Council](https://wowpedia.fandom.com/wiki/Zanchuli_Council "Zanchuli Council")
+-   [Golden Fleet](https://wowpedia.fandom.com/wiki/Golden_Fleet "Golden Fleet")
+-   [Zandalari army](https://wowpedia.fandom.com/wiki/Zandalari_army "Zandalari army")
+-   [Talanji's Expedition](https://wowpedia.fandom.com/wiki/Talanji%27s_Expedition "Talanji's Expedition")
+-   [Raptari](https://wowpedia.fandom.com/wiki/Raptari "Raptari")
+-   [Rastari](https://wowpedia.fandom.com/wiki/Rastari "Rastari")
+-   [Pa'kura](https://wowpedia.fandom.com/wiki/Pa%27kura "Pa'kura")
+-   [Torcalin](https://wowpedia.fandom.com/wiki/Torcalin "Torcalin")
+-   [Lun'alai](https://wowpedia.fandom.com/wiki/Lun%27alai "Lun'alai")
+-   [Warpack](https://wowpedia.fandom.com/wiki/Warpack "Warpack")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Huojin Pandaren](https://wowpedia.fandom.com/wiki/Huojin_Pandaren "Huojin Pandaren")
+-   [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai")
+-   [Dark Talons](https://wowpedia.fandom.com/wiki/Dark_Talons "Dark Talons")
+-   [Horde navy](https://wowpedia.fandom.com/wiki/Horde_navy "Horde navy")
+-   [Garad'kra](https://wowpedia.fandom.com/wiki/Garad%27kra "Garad'kra")
+-   [Kargath Expeditionary Force](https://wowpedia.fandom.com/wiki/Kargath_Expeditionary_Force "Kargath Expeditionary Force")
+-   [Hellscream's Reach](https://wowpedia.fandom.com/wiki/Hellscream%27s_Reach "Hellscream's Reach")
+-   [Krom'gar](https://wowpedia.fandom.com/wiki/Krom%27gar "Krom'gar")
+    -   [Boulderslide kobolds](https://wowpedia.fandom.com/wiki/Boulderslide "Boulderslide")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan "Stonemaul clan")
+-   [Dunemaul clan](https://wowpedia.fandom.com/wiki/Dunemaul_clan "Dunemaul clan")
+-   [Okril'lon](https://wowpedia.fandom.com/wiki/Okril%27lon "Okril'lon")
+-   [The Mag'har](https://wowpedia.fandom.com/wiki/Mag%27har_(faction) "Mag'har (faction)")
+-   [Shatterspear tribe](https://wowpedia.fandom.com/wiki/Shatterspear_tribe "Shatterspear tribe")
+-   [Revantusk tribe](https://wowpedia.fandom.com/wiki/Revantusk_tribe "Revantusk tribe")
+-   [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition")
+    -   [Warsong Offensive](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive")
+    -   [Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance")
+        -   [Shadowstalkers](https://wowpedia.fandom.com/wiki/Shadowstalkers "Shadowstalkers")
+-   [Dominance Offensive](https://wowpedia.fandom.com/wiki/Dominance_Offensive "Dominance Offensive")
+-   [Forest Hozen](https://wowpedia.fandom.com/wiki/Forest_Hozen "Forest Hozen")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+    -   [Icemist tribe](https://wowpedia.fandom.com/wiki/Icemist_tribe "Icemist tribe")
+    -   [Winterhoof](https://wowpedia.fandom.com/wiki/Camp_Winterhoof "Camp Winterhoof")
+    -   [Oneqwah](https://wowpedia.fandom.com/wiki/Camp_Oneqwah "Camp Oneqwah")
+    -   [Taunka'le](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Horde Trauma](https://wowpedia.fandom.com/wiki/Horde_Trauma "Horde Trauma")
+-   [Honorbound](https://wowpedia.fandom.com/wiki/Honorbound "Honorbound")
+-   [Rok'nah](https://wowpedia.fandom.com/wiki/Rok%27nah "Rok'nah")
+-   [Warbraves](https://wowpedia.fandom.com/wiki/Warbraves_(island_expedition) "Warbraves (island expedition)")
+-   [Greenbelly's Raiders](https://wowpedia.fandom.com/wiki/Greenbelly%27s_Raiders "Greenbelly's Raiders")
+-   [Gazlowe's Greasemonkeys](https://wowpedia.fandom.com/wiki/Gazlowe%27s_Greasemonkeys "Gazlowe's Greasemonkeys")
+-   [Draenor's Blood](https://wowpedia.fandom.com/wiki/Draenor%27s_Blood "Draenor's Blood")
+-   [The Unshackled](https://wowpedia.fandom.com/wiki/Unshackled "Unshackled")
+-   [Usha's Eyegougers](https://wowpedia.fandom.com/wiki/Usha%27s_Eyegougers "Usha's Eyegougers")
+-   [Gorok's Sea Dogs](https://wowpedia.fandom.com/wiki/Gorok%27s_Sea_Dogs "Gorok's Sea Dogs")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire")
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Black Tooth Grin clan](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan")
+    -   [Bladewind clan](https://wowpedia.fandom.com/wiki/Bladewind_clan "Bladewind clan")
+    -   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan")
+    -   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan")
+    -   [Lightning's Blade clan](https://wowpedia.fandom.com/wiki/Lightning%27s_Blade_clan "Lightning's Blade clan")
+    -   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan")
+    -   [Stormreaver clan](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan")
+    -   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan "Thunderlord clan")
+    -   [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") (enslaved)
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Death knight orders](https://wowpedia.fandom.com/wiki/Death_knight_(Old_Horde) "Death knight (Old Horde)")
+
+
+
+ |
+|  |
+| Horde-aligned and allies | 
+
+-   [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Fogsail Freebooters](https://wowpedia.fandom.com/wiki/Fogsail_Freebooters "Fogsail Freebooters")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Dreadmaul tribe](https://wowpedia.fandom.com/wiki/Dreadmaul_tribe "Dreadmaul tribe")
+-   [Dustbelcher](https://wowpedia.fandom.com/wiki/Dustbelcher "Dustbelcher")
+-   [Magram clan](https://wowpedia.fandom.com/wiki/Magram_clan "Magram clan")
+-   [Witherbark tribe](https://wowpedia.fandom.com/wiki/Witherbark_tribe "Witherbark tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Steamwheedle Cartel](https://wowpedia.fandom.com/wiki/Steamwheedle_Cartel "Steamwheedle Cartel")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
+-   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")
+-   [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)")
+-   [Horde organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+-   [Horde technology](https://wowpedia.fandom.com/wiki/Horde_technology "Horde technology")
+-   [Horde territories](https://wowpedia.fandom.com/wiki/Category:Horde_territories "Category:Horde territories")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Sapient_Species?action=edit)
+
+Sapient species/[races](https://wowpedia.fandom.com/wiki/Race "Race")
+
+ |
+| --- |
+|  |
+| [Titanic creations](https://wowpedia.fandom.com/wiki/Template:Titanic_creations "Template:Titanic creations") | 
+
+-   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
+    -   [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+-   [Giant](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   [Mechagnome](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome")
+    -   [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Drust](https://wowpedia.fandom.com/wiki/Drust "Drust")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+-   [Mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu")
+-   [Titanic watcher](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher")
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")/[Pygmy](https://wowpedia.fandom.com/wiki/Pygmy "Pygmy")
+
+
+
+ |
+|  |
+| [Native to Azeroth](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives "Template:Azeroth natives") | 
+
+-   [Cenarian](https://wowpedia.fandom.com/wiki/Cenarius#Children "Cenarius")
+-   [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+-   [Elf](https://wowpedia.fandom.com/wiki/Elf "Elf")
+-   [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")
+-   [Jalgar](https://wowpedia.fandom.com/wiki/Jalgar "Jalgar")
+    -   [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg")
+-   [Gnoll](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll")
+-   [Grell](https://wowpedia.fandom.com/wiki/Grell "Grell")
+-   [Harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")
+-   [Hozen](https://wowpedia.fandom.com/wiki/Hozen "Hozen")
+-   [Makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura")
+-   [Mistlurker](https://wowpedia.fandom.com/wiki/Mistlurker "Mistlurker")
+-   [Murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   [Saurok](https://wowpedia.fandom.com/wiki/Saurok "Saurok")
+-   [Sprite](https://wowpedia.fandom.com/wiki/Sprite "Sprite")
+-   [Yaungol](https://wowpedia.fandom.com/wiki/Yaungol "Yaungol")
+    -   [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+-   [Tuskarr](https://wowpedia.fandom.com/wiki/Tuskarr "Tuskarr")
+-   [Virmen](https://wowpedia.fandom.com/wiki/Virmen "Virmen")
+-   [Wolvar](https://wowpedia.fandom.com/wiki/Wolvar "Wolvar")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+
+
+
+ |
+|  |
+| [Alien to Azeroth](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens "Template:Azeroth aliens") | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa")
+-   [Ered'ruin](https://wowpedia.fandom.com/wiki/Ered%27ruin "Ered'ruin")
+-   [Eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar")
+-   [Ethereal](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal")
+-   [Fungi](https://wowpedia.fandom.com/wiki/Zangar_encroachment "Zangar encroachment")
+-   [Colossal](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
+-   [Imp](https://wowpedia.fandom.com/wiki/Imp "Imp")
+-   [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg")
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Observer](https://wowpedia.fandom.com/wiki/Observer "Observer")
+-   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+-   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+-   [Titan](https://wowpedia.fandom.com/wiki/Titan "Titan")
+-   [Voidwalker](https://wowpedia.fandom.com/wiki/Voidwalker "Voidwalker")
+-   [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God")
+    -   [Sha](https://wowpedia.fandom.com/wiki/Sha "Sha")
+    -   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+    -   [Faceless one](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+    -   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+    -   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+
+
+
+ |
+|  |
+| [Nature and Divine](https://wowpedia.fandom.com/wiki/Template:Nature_and_Divine "Template:Nature and Divine") | 
+
+-   [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Faerie dragon](https://wowpedia.fandom.com/wiki/Faerie_dragon "Faerie dragon")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa")
+-   [Spirit Healer](https://wowpedia.fandom.com/wiki/Spirit_Healer "Spirit Healer")
+
+
+
+ |
+|  |
+| 
+
+-   [Creatures](https://wowpedia.fandom.com/wiki/Creature "Creature")
+-   [Race origins](https://wowpedia.fandom.com/wiki/Race_origins "Race origins")
+-   [Half-breed](https://wowpedia.fandom.com/wiki/Half-breed "Half-breed")
+-   [Languages](https://wowpedia.fandom.com/wiki/Language "Language")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Creaturefooter "Template:Creaturefooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Creaturefooter?action=edit)
+
+[Creatures](https://wowpedia.fandom.com/wiki/Creature "Creature")
+
+
+
+ |
+| --- |
+|  |
+| Creature group | 
+
+-   [Aberration](https://wowpedia.fandom.com/wiki/Aberration "Aberration")
+-   [Beast](https://wowpedia.fandom.com/wiki/Beast "Beast")
+-   [Critter](https://wowpedia.fandom.com/wiki/Critter "Critter")
+-   [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon")
+-   [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Giant](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   [Humanoid](https://wowpedia.fandom.com/wiki/Humanoid "Humanoid")
+-   [Mechanical](https://wowpedia.fandom.com/wiki/Mechanical "Mechanical")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+-   [Uncategorized creature](https://wowpedia.fandom.com/wiki/Uncategorized_creature "Uncategorized creature")
+
+
+
+ |
+|  |
+| Undead creatures | 
+
+<table><tbody><tr><th scope="row">Corporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Abomination" title="Abomination">Abomination</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Flesh_beast" title="Flesh beast">Flesh beast</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_giant" title="Flesh giant">Flesh giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_titan" title="Flesh titan">Flesh titan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague-dog" title="Plague-dog">Plague-dog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wight" title="Wight">Wight</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Crawling_hand" title="Crawling hand">Crawling hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crypt_fiend" title="Crypt fiend">Crypt fiend</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crypt_lord" title="Crypt lord">Crypt lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Deathcharger" title="Deathcharger">Deathcharger</a></li><li><a href="https://wowpedia.fandom.com/wiki/Death_knight" title="Death knight">Death knight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathroc" title="Deathroc">Deathroc</a></li><li><strong>Forsaken</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Gargoyle" title="Gargoyle">Gargoyle</a></li><li><a href="https://wowpedia.fandom.com/wiki/Geist" title="Geist">Geist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Maw" title="Maw">Maw</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Maw_fog_beast" title="Maw fog beast">Fog beast</a></li><li><a href="https://wowpedia.fandom.com/wiki/Husk" title="Husk">Husk</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Mad_scientist" title="Mad scientist">Mad scientist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Soul-rotted_flesh" title="Soul-rotted flesh">Soul-rotted flesh</a></li><li><a href="https://wowpedia.fandom.com/wiki/Troll_lich" title="Troll lich">Troll lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vampire" title="Vampire">Vampire</a><ul><li><a href="https://wowpedia.fandom.com/wiki/San%27layn" title="San'layn">San'layn</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Zombie" title="Zombie">Zombie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ghoul" title="Ghoul">Ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rot_Hide_gnoll" title="Rot Hide gnoll">Rot Hide gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe" title="Death's Head tribe">Death's Head tribe</a> <a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">quilboar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mummy" title="Mummy">Mummy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague_eruptor" title="Plague eruptor">Plague eruptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scourge_troll" title="Scourge troll">Scourge troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vargul" title="Vargul">Vargul</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Ymirjar" title="Ymirjar">Ymirjar</a> <a href="https://wowpedia.fandom.com/wiki/Frost_vrykul" title="Frost vrykul">frost vrykul</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Incorporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Banshee" title="Banshee">Banshee</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathlord_(Warcraft_III)" title="Deathlord (Warcraft III)">Deathlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghost" title="Ghost">Ghost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Spectre" title="Spectre">Spectre</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Troll_spectre" title="Troll spectre">Troll</a></li></ul></li><li>Spectral animal<ul><li><a href="https://wowpedia.fandom.com/wiki/Spectral_gryphon" title="Spectral gryphon">Gryphon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Spectral_saber" title="Spectral saber">Saber</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Val%27kyr" title="Val'kyr">Val'kyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wisp" title="Wisp">Wisp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wraith" title="Wraith">Wraith</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Shade" title="Shade">Shade</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Skeletal_creature" title="Skeletal creature">Skeletal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_golem" title="Bone golem">Bone golem</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bone_wraith" title="Bone wraith">Bone wraith</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crawling_spine" title="Crawling spine">Crawling spine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Floating_skull" title="Floating skull">Floating skull</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lich" title="Lich">Lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeleton" title="Skeleton">Skeleton</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_archer" title="Skeletal archer">Archer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_mage" title="Skeletal mage">Mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Maldraxxi_skeleton" title="Maldraxxi skeleton">Maldraxxi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_orc" title="Skeletal orc">Orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_troll" title="Skeletal troll">Troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_warrior" title="Skeletal warrior">Warrior</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_animal" title="Skeletal animal">Skeletal animal</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_gryphon" title="Skeletal gryphon">Gryphon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_horse" title="Skeletal horse">Horse</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_hound" title="Skeletal hound">Hound</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Fel_wolf" title="Fel wolf">Fel wolf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hell_hound" title="Hell hound">Hell hound</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_raptor" title="Skeletal raptor">Raptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_wind_serpent" title="Skeletal wind serpent">Wind serpent</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Skeletal dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |

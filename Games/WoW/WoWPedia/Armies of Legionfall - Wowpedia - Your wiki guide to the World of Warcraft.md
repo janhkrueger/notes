@@ -1,0 +1,135 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Armies of Legionfall |
+| --- |
+| [![Armies of Legionfall Banner.jpg](https://static.wikia.nocookie.net/wowpedia/images/4/49/Armies_of_Legionfall_Banner.jpg/revision/latest/scale-to-width-down/260?cb=20180404040238)](https://static.wikia.nocookie.net/wowpedia/images/4/49/Armies_of_Legionfall_Banner.jpg/revision/latest?cb=20180404040238) |
+| Main leader | [![IconSmall Adventurer.gif](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Adventurer.gif/revision/latest/scale-to-width-down/16?cb=20200205142144)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Adventurer.gif/revision/latest?cb=20200205142144) [Order leaders](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") |
+| Secondary leaders |  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_Illidan.gif/revision/latest/scale-to-width-down/16?cb=20211211102517)[Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Khadgar.gif/revision/latest/scale-to-width-down/16?cb=20211212102856)[Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/9/97/IconSmall_Velen.gif/revision/latest/scale-to-width-down/16?cb=20221016141253)[Velen](https://wowpedia.fandom.com/wiki/Velen "Velen")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Maiev.gif/revision/latest/scale-to-width-down/16?cb=20181211112206)[Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") |
+| Race(s) | [![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
+[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")  
+[![Ironforge dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")[![Ironforge dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Ironforge_Dwarf "Ironforge Dwarf")  
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
+[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")  
+[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")  
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
+[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/6/69/IconSmall_Pandaren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015751)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Pandaren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020747)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")  
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
+[![Troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Troll "Troll")[![Troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Troll "Troll") [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")  
+[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Worgen_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520012351)](https://wowpedia.fandom.com/wiki/Worgen "Worgen")[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Worgen_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520022309)](https://wowpedia.fandom.com/wiki/Worgen "Worgen") [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")  
+[![Broken](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)](https://wowpedia.fandom.com/wiki/Broken "Broken") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")  
+[![Dark Iron dwarf](https://static.wikia.nocookie.net/wowpedia/images/7/70/IconSmall_DarkIron_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520041546)](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")[![Dark Iron dwarf](https://static.wikia.nocookie.net/wowpedia/images/1/1e/IconSmall_DarkIron_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520041914)](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf") [Dark Iron dwarf](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")  
+[![Demon](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Doomguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110656)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_Felguard.gif/revision/latest/scale-to-width-down/16?cb=20211126111204)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/9/9e/IconSmall_Wrathguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110002)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Imp.gif/revision/latest/scale-to-width-down/16?cb=20211118210606)](https://wowpedia.fandom.com/wiki/Demon "Demon") [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon")  
+[![Elemental](https://static.wikia.nocookie.net/wowpedia/images/4/4a/IconSmall_Air.gif/revision/latest/scale-to-width-down/16?cb=20211129111458)](https://wowpedia.fandom.com/wiki/Elemental "Elemental")[![Elemental](https://static.wikia.nocookie.net/wowpedia/images/a/ad/IconSmall_Earth.gif/revision/latest/scale-to-width-down/16?cb=20211129113137)](https://wowpedia.fandom.com/wiki/Elemental "Elemental")[![Elemental](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Fire.gif/revision/latest/scale-to-width-down/16?cb=20211129113349)](https://wowpedia.fandom.com/wiki/Elemental "Elemental")[![Elemental](https://static.wikia.nocookie.net/wowpedia/images/a/a3/IconSmall_Water.gif/revision/latest/scale-to-width-down/16?cb=20211129113948)](https://wowpedia.fandom.com/wiki/Elemental "Elemental") [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")  
+[![Ethereal](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest/scale-to-width-down/16?cb=20211118202836)](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") [Ethereal](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal")  
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
+[![Iron vrykul](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_IronVrykul_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118111014)](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul") [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")  
+[![Murloc](https://static.wikia.nocookie.net/wowpedia/images/f/fa/IconSmall_Murloc_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118115740)](https://wowpedia.fandom.com/wiki/Murloc "Murloc")[![Murloc](https://static.wikia.nocookie.net/wowpedia/images/3/3a/IconSmall_Murloc_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118115747)](https://wowpedia.fandom.com/wiki/Murloc "Murloc") [Murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc")  
+[![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")  
+[![Tol'vir](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_Tol%27vir.gif/revision/latest/scale-to-width-down/16?cb=20211118180646)](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")[![Tol'vir](https://static.wikia.nocookie.net/wowpedia/images/a/a2/IconSmall_Ramkahen.gif/revision/latest/scale-to-width-down/16?cb=20211118180641)](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir") [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")  
+[![Treant](https://static.wikia.nocookie.net/wowpedia/images/d/dd/IconSmall_Treant.gif/revision/latest/scale-to-width-down/16?cb=20220814193740)](https://wowpedia.fandom.com/wiki/Treant "Treant") [Treant](https://wowpedia.fandom.com/wiki/Treant "Treant")  
+[![Scourge](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Scourge "Scourge") [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")  
+[![Vrykul](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")[![Vrykul](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")  
+[![Wildhammer dwarf](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf")[![Wildhammer dwarf](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf") [Wildhammer dwarf](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf") |
+| Base of operations | [Deliverance Point](https://wowpedia.fandom.com/wiki/Deliverance_Point "Deliverance Point") |
+| Theater of operations | [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") |
+| Affiliation | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
+| Status | Unknown (presumed disbanded)  
+Active [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") |
+| Reputation |
+| Currency |  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Inv_datacrystal01.png/revision/latest/scale-to-width-down/16?cb=20180219223011)[\[Nethershard\]](https://wowpedia.fandom.com/wiki/Nethershard) |
+| Quartermaster | [![IconSmall Human Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest?cb=20200518005219) [Warmage Kath'leen](https://wowpedia.fandom.com/wiki/Warmage_Kath%27leen "Warmage Kath'leen") |
+| Tabard | [![Legionfall Tabard.jpg](https://static.wikia.nocookie.net/wowpedia/images/1/16/Legionfall_Tabard.jpg/revision/latest/scale-to-width-down/90?cb=20170319185206)](https://static.wikia.nocookie.net/wowpedia/images/1/16/Legionfall_Tabard.jpg/revision/latest?cb=20170319185206) |
+
+The **Armies of Legionfall**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Armies_of_Legionfall#cite_note-1">[1]</a></sup> are a coalition of all [orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") united to defeat the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") at the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"). Their base of operations, [Deliverance Point](https://wowpedia.fandom.com/wiki/Deliverance_Point "Deliverance Point"), is located south-west of the island of [Thal'dranath](https://wowpedia.fandom.com/wiki/Thal%27dranath "Thal'dranath").
+
+In addition to the orders, the Armies of Legionfall are also allied with the [Court of Farondis](https://wowpedia.fandom.com/wiki/Court_of_Farondis "Court of Farondis"), the [Azurewing](https://wowpedia.fandom.com/wiki/Azurewing "Azurewing"), the [Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)"), the [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe"),<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Armies_of_Legionfall#cite_note-2">[2]</a></sup> and the [Wardens](https://wowpedia.fandom.com/wiki/Wardens "Wardens"), as evidenced by their assistance to the [Legionfall Commander](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
+
+Following the end of the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") and the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"), it is unknown if the Armies of Legionfall remains active, however, it is most probably that they dissolved after reaching their goals.
+
+## Faction description
+
+_The coalition of [orders](https://wowpedia.fandom.com/wiki/Class_order "Class order") dedicated to defeating the Legion at the Tomb of Sargeras and [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore")._
+
+## Members
+
+-   ### Orders
+    
+-   ### Troops
+    
+-   ### Notable characters
+    
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Legionfall_champions.jpg/revision/latest/scale-to-width-down/180?cb=20170323193900)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Legionfall_champions.jpg/revision/latest?cb=20170323193900)
+
+[Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") and [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") with the champions of the orders
+
+-   The [orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") armies are accompanied by [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") and the [mages](https://wowpedia.fandom.com/wiki/Mage "Mage") of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") and her [Wardens](https://wowpedia.fandom.com/wiki/The_Wardens "The Wardens"), [Prophet Velen](https://wowpedia.fandom.com/wiki/Prophet_Velen "Prophet Velen"), and [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage").
+-   The Armies of Legionfall's banner features, from left to right and top to bottom, the crests of the [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar"), [Ebon Blade](https://wowpedia.fandom.com/wiki/Ebon_Blade "Ebon Blade"), [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring"), [Order of the Broken Temple](https://wowpedia.fandom.com/wiki/Order_of_the_Broken_Temple "Order of the Broken Temple"), [Unseen Path](https://wowpedia.fandom.com/wiki/Unseen_Path "Unseen Path"), [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde"), [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari"), [Silver Hand](https://wowpedia.fandom.com/wiki/Silver_Hand "Silver Hand"), [Black Harvest](https://wowpedia.fandom.com/wiki/Black_Harvest "Black Harvest"), [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"), [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave"), and the [Uncrowned](https://wowpedia.fandom.com/wiki/The_Uncrowned "The Uncrowned").
+-   During the initial meeting of the Armies of Legionfall, several important delegates from the class orders met at [Krasus' Landing](https://wowpedia.fandom.com/wiki/Krasus%27_Landing "Krasus' Landing") with [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar") and [Prophet Velen](https://wowpedia.fandom.com/wiki/Prophet_Velen "Prophet Velen") to discuss [Gul'dan's](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") [failure](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold"), the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation"), and [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"). These included:
+    -   [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") representing the [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave").
+    -   [Emmarel Shadewarden](https://wowpedia.fandom.com/wiki/Emmarel_Shadewarden "Emmarel Shadewarden") representing the [Unseen Path](https://wowpedia.fandom.com/wiki/Unseen_Path "Unseen Path").
+    -   [Ritssyn Flamescowl](https://wowpedia.fandom.com/wiki/Ritssyn_Flamescowl "Ritssyn Flamescowl") representing the [Council of the Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest").
+    -   [Havi](https://wowpedia.fandom.com/wiki/Havi "Havi") representing the [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar").
+    -   [Iron-Body Ponshu](https://wowpedia.fandom.com/wiki/Iron-Body_Ponshu "Iron-Body Ponshu") representing the [Order of the Broken Temple](https://wowpedia.fandom.com/wiki/Order_of_the_Broken_Temple "Order of the Broken Temple").
+    -   [Kor'vas Bloodthorn](https://wowpedia.fandom.com/wiki/Kor%27vas_Bloodthorn "Kor'vas Bloodthorn") representing the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari").
+    -   [Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin") representing the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") (although it appears that [Gryan Stoutmantle](https://wowpedia.fandom.com/wiki/Gryan_Stoutmantle "Gryan Stoutmantle") is present in the cinematic).
+    -   [Farseer Nobundo](https://wowpedia.fandom.com/wiki/Farseer_Nobundo "Farseer Nobundo") representing the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring").
+    -   [Meryl Felstorm](https://wowpedia.fandom.com/wiki/Meryl_Felstorm "Meryl Felstorm") representing the [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde").
+    -   [Darion Mograine](https://wowpedia.fandom.com/wiki/Darion_Mograine "Darion Mograine") representing the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade").
+    -   [Rensar Greathoof](https://wowpedia.fandom.com/wiki/Rensar_Greathoof "Rensar Greathoof") representing the [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle").
+    -   [Lord Jorach Ravenholdt](https://wowpedia.fandom.com/wiki/Lord_Jorach_Ravenholdt "Lord Jorach Ravenholdt") representing the [Uncrowned](https://wowpedia.fandom.com/wiki/Uncrowned "Uncrowned").
+
+## Patch changes
+
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.2.0](https://wowpedia.fandom.com/wiki/Patch_7.2.0 "Patch 7.2.0") (2017-03-28):** Added.  
+    
+
+## References
+
+## External links
+
+| Faction | Paragon |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/faction=2045)
+-   [WoWDB](https://www.wowdb.com/factions/2045)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/faction=2091)
+-   [WoWDB](https://www.wowdb.com/factions/2091)
+
+ |
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Factions/legion "Template:Factions/legion")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Factions/legion?action=edit)
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") Legion reputation factions
+
+ |
+| --- |
+|  |
+|  [Neutral](https://wowpedia.fandom.com/wiki/Neutral "Neutral") | 
+
+-   **Armies of Legionfall**
+-   [Court of Farondis](https://wowpedia.fandom.com/wiki/Court_of_Farondis "Court of Farondis")
+-   [Dreamweavers](https://wowpedia.fandom.com/wiki/Dreamweavers "Dreamweavers")
+-   [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe")
+-   [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)")
+-   [Talon's Vengeance](https://wowpedia.fandom.com/wiki/Talon%27s_Vengeance "Talon's Vengeance")
+-   [The Wardens](https://wowpedia.fandom.com/wiki/The_Wardens "The Wardens")
+-   [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar")
+
+<table><tbody><tr><th scope="row">Individual NPCs</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Akule_Riverhorn" title="Akule Riverhorn">Akule Riverhorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chronormu" title="Chronormu">Chromie</a></li><li><a href="https://wowpedia.fandom.com/wiki/Conjurer_Margoss" title="Conjurer Margoss">Conjurer Margoss</a></li><li><a href="https://wowpedia.fandom.com/wiki/Corbyn" title="Corbyn">Corbyn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ilyssia_of_the_Waters" title="Ilyssia of the Waters">Ilyssia of the Waters</a></li><li><a href="https://wowpedia.fandom.com/wiki/Impus" title="Impus">Impus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keeper_Raynae" title="Keeper Raynae">Keeper Raynae</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sha%27leth" title="Sha'leth">Sha'leth</a></li></ul></div></td></tr></tbody></table>
+
+<table><tbody><tr><th scope="row">Argus</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argussian_Reach" title="Argussian Reach">Argussian Reach</a></li><li><a href="https://wowpedia.fandom.com/wiki/Army_of_the_Light" title="Army of the Light">Army of the Light</a></li></ul></div></td></tr></tbody></table>
+
+ |
+
+Others like you also viewed

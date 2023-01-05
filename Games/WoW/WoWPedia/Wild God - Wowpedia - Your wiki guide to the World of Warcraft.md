@@ -1,0 +1,411 @@
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Ancients.png/revision/latest/scale-to-width-down/410?cb=20170809223754)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Ancients.png/revision/latest?cb=20170809223754)
+
+Various [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian"). From left to right: [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol"), [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina"), [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc"), [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla"), [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne"), [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane"), [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn"), [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana") and [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan").
+
+“From the dawn of its reshaping by the mysterious [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") had been guarded by beings who were tied to the world as no other creatures could be. The [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon") had been empowered by the titans, but Azeroth itself gave rise to the spirits and demigods, creatures eternal in nature yet capable of ultimate sacrifice.”
+
+— _[Wolfheart](https://wowpedia.fandom.com/wiki/Wolfheart "Wolfheart")_, chapter I
+
+**Wild Gods** are primal manifestations of [life](https://wowpedia.fandom.com/wiki/Life "Life") and [nature](https://wowpedia.fandom.com/wiki/Nature "Nature")<sup id="cite_ref-Chronicle_14_1-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Chronicle_14-1">[1]</a></sup> found on both [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and other [planets](https://wowpedia.fandom.com/wiki/Planet "Planet").<sup id="cite_ref-Swift_Gloomhoof_2-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Swift_Gloomhoof-2">[2]</a></sup><sup id="cite_ref-Aliothe_3-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Aliothe-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-4">[4]</a></sup> Many of them appear in the form of gargantuan [animals](https://wowpedia.fandom.com/wiki/Animal "Animal"), such as [wolves](https://wowpedia.fandom.com/wiki/Wolf "Wolf"), [bears](https://wowpedia.fandom.com/wiki/Bear "Bear"), [tigers](https://wowpedia.fandom.com/wiki/Tiger "Tiger"), or [birds](https://wowpedia.fandom.com/wiki/Bird "Bird"). The Wild Gods of Azeroth are creatures of two realms, for while they inhabit the physical world, their spirits are bound to the ethereal [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream").<sup id="cite_ref-Chronicle_14_1-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Chronicle_14-1">[1]</a></sup> When Wild Gods die, they go to [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald") ferried by [kyrian](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian") Bearers<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-5">[5]</a></sup> and enter a [wildseed](https://wowpedia.fandom.com/wiki/Wildseed "Wildseed") to be taken care of by keepers of the groves of one of the [celestial trees](https://wowpedia.fandom.com/wiki/Celestial_tree "Celestial tree") until they are ready to be reborn through the [Grove of Awakening](https://wowpedia.fandom.com/wiki/Grove_of_Awakening "Grove of Awakening"). Wild God, [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa"), and [August Celestial](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial") are interchangeable when referring to great spirits aligned with nature destined to Ardenweald.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-6">[6]</a></sup>
+
+## Origins
+
+As the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") began shaping Azeroth, [Keeper Freya](https://wowpedia.fandom.com/wiki/Freya "Freya") wandered the world, creating enclaves of life and nature in the places where the energies of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") had coalesced, such as [Un'Goro Crater](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater "Un'Goro Crater"), [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin") and the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms"). The greatest creatures to emerge from Freya's enclaves were the colossal Wild Gods. Seeing these creatures as her own children, Freya and the Wild Gods often wandered side by side through the primal forests and grasslands of early Azeroth. The area that they spent the most time at was the massive forested peak known as [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), and it was upon the slopes of Hyjal that Freya bound the spirits of her beloved Wild Gods to the Emerald Dream. Forever after, Hyjal would remain a sacred refuge to the Wild Gods.<sup id="cite_ref-Chronicle_7-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Chronicle-7">[7]</a></sup>
+
+## Characteristics
+
+-   Wild Gods are immortal and ageless.<sup id="cite_ref-Research_8-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Research-8">[8]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-9">[9]</a></sup> Their spirits will return to the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") when killed in the physical world, after which they can be ushered back into the world.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-10">[10]</a></sup>
+    -   When Yu'lon was killed by Lei Shen, she had to rely on a statue to reincarnate.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-11">[11]</a></sup>
+    -   It is unclear if the August Celestials visit the Emerald Dream.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-12">[12]</a></sup>
+-   Not all Wild Gods are capable of speech, as this ability was a gift bestowed by Freya only to certain chosen Wild Gods. Notable examples include the [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestials "August Celestials"), who were chosen for their intelligence, and the twin Bear Lords [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc") and [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol"), who were chosen for their stubborn bravery.<sup id="cite_ref-Research_8-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Research-8">[8]</a></sup>
+-   Much like [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon"), the August Celestials have the ability to shift into humanoid forms. During the trial of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji") appeared as a red-haired [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao") as a glowing [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") and [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen") as a pale blue [human](https://wowpedia.fandom.com/wiki/Human "Human").<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-13">[13]</a></sup> [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon") has assumed the form of a [pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") child named [Fei](https://wowpedia.fandom.com/wiki/Fei "Fei") on several occasions, including the aforementioned trial, while Chi-Ji has also been known to use the form of [Fat Long-Fat](https://wowpedia.fandom.com/wiki/Fat_Long-Fat "Fat Long-Fat"), a red-haired pandaren brawler. [Ban-Lu](https://wowpedia.fandom.com/wiki/Ban-Lu "Ban-Lu"), one of [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")'s children, uses the disguise of a pandaren elder named [Master Bu](https://wowpedia.fandom.com/wiki/Master_Bu "Master Bu").
+-   Some Wild Gods can be revived within [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald"), such as [Lord Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard") and [Droman Aliothe](https://wowpedia.fandom.com/wiki/Droman_Aliothe "Droman Aliothe").
+
+## Groups
+
+Different cultures around Azeroth have referred to the Wild Gods by various names.
+
+### Ancient Guardians
+
+_Main article: [Ancient Guardian](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian")_
+
+The Ancient Guardians are Wild Gods worshiped by the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), found in [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").<sup id="cite_ref-DK_14-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-DK-14">[14]</a></sup><sup id="cite_ref-Artifact_15-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Artifact-15">[15]</a></sup> They are greatly revered by [druids](https://wowpedia.fandom.com/wiki/Druid "Druid"). Famous Ancients include [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius"), [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne"), [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn"), [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana"), [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc") and [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol").
+
+### August Celestials
+
+_Main article: [August Celestial](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")_
+
+The August Celestials — [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon"), [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen"), [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji") and [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao") — are Wild Gods who remained in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").<sup id="cite_ref-DK_14-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-DK-14">[14]</a></sup> They have helped and guided the pandaren people for thousands of years.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-16">[16]</a></sup>
+
+### Loa
+
+_Main article: [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa")_
+
+"Loa" is the name given by the [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") to the beings they worship as deities, such as the Wild Gods,<sup id="cite_ref-Chronicle70_17-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Chronicle70-17">[17]</a></sup><sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-18">[18]</a></sup> including the [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian"),<sup id="cite_ref-Ask_CDev_19-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Ask_CDev-19">[19]</a></sup> but also other entities such as [C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax"),<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-20">[20]</a></sup> [wisps](https://wowpedia.fandom.com/wiki/Wisp "Wisp")<sup id="cite_ref-Ask_CDev_19-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Ask_CDev-19">[19]</a></sup> and spirits like [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi") or [Zanza](https://wowpedia.fandom.com/wiki/Zanza "Zanza"). The first, early troll tribes already called [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)")'s elusive Wild Gods as such, and lived among them on the [Zandalar Mountains](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar").<sup id="cite_ref-Chronicle70_17-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Chronicle70-17">[17]</a></sup> Countless loa exist, most weak, but some very powerful. Most are shapeless, whereas others have animal or creature forms. The [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll") believe that powerful, enlightened members of their tribe can become loas upon their death.<sup id="cite_ref-Shadows_of_the_Loa_21-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Shadows_of_the_Loa-21">[21]</a></sup> Some loa, like [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk"), can enter the Emerald Dream.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-22">[22]</a></sup> A few of the more famous loa include [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer"), [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra"), [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi"), [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk"), [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali"), [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah"), [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk") and [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek").
+
+## Notable Wild Gods
+
+-   ### Unnamed
+    
+    Numerous unnamed Ancients appeared during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-35">[35]</a></sup>
+    
+    -   A [being resembling a wolverine](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+    -   A tiny red [fox](https://wowpedia.fandom.com/wiki/Fox "Fox") with a sly yet gnomish visage
+    -   A winged [panther](https://wowpedia.fandom.com/wiki/Panther "Panther") with hands almost [human](https://wowpedia.fandom.com/wiki/Human "Human") (possibly [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane"))
+    -   Sword-wielding [pixies](https://wowpedia.fandom.com/wiki/Pixie "Pixie") of a sort
+    -   A reptilian warrior with a shell reminiscent of a [turtle](https://wowpedia.fandom.com/wiki/Turtle "Turtle")'s
+    -   Male figures with hooded faces and whose flesh (what little there was visible) was oak bark.
+    -   A humanoid [stick bug](https://wowpedia.fandom.com/wiki/Stick_bug "Stick bug") race
+    -   A [squat warrior](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   ### Dark Ancients
+    
+    The [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") feared that the Ancient Guardians may someday rise up to oppose them. They created twisted versions of the Ancients, summoned to replace them. They were a primal force of nature, but their origins were from a darker place. Those who birthed these beasts reached deep into the blackness, channeling powers never intended for this world.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-36">[36]</a></sup> The Twilight's Hammer dreamed of creating their own pantheon of twisted ancients to rule over the land, sea, and air,<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-37">[37]</a></sup> though only two were summoned before the Twilight's Hammer was stopped.
+    
+
+## Racial ancestry
+
+[Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") has confirmed that several races originate from the Ancients:<sup id="cite_ref-WoWM5_38-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-WoWM5-38">[38]</a></sup>
+
+-   Cenarius' descendants are the [magnataur](https://wowpedia.fandom.com/wiki/Magnataur "Magnataur"), [centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur"),<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-39">[39]</a></sup><sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-40">[40]</a></sup> [keepers of the grove](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove"),<sup id="cite_ref-Chron119_41-0"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Chron119-41">[41]</a></sup> and [dryads](https://wowpedia.fandom.com/wiki/Dryad "Dryad")<sup id="cite_ref-Chron119_41-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Chron119-41">[41]</a></sup> (along with their [forest](https://wowpedia.fandom.com/wiki/Forest_nymph "Forest nymph") and [frost](https://wowpedia.fandom.com/wiki/Frost_nymph "Frost nymph") offshoots).<sup id="cite_ref-WoWM5_38-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-WoWM5-38">[38]</a></sup>
+-   Something created the [pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   Agamaggan created the [quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   Aviana created the [harpies](https://wowpedia.fandom.com/wiki/Harpy "Harpy")
+-   Ursoc created the [furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg"). _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ revealed they came from the [jalgar](https://wowpedia.fandom.com/wiki/Jalgar "Jalgar"), but Ursoc may have created the jalgar.
+
+Brann also [speculates](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore") on the existence of several Ancients and their creation of descendant races:<sup id="cite_ref-WoWM5_38-2"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-WoWM5-38">[38]</a></sup>
+
+-   [Gorloc](https://wowpedia.fandom.com/wiki/Gorloc "Gorloc") and a frog Ancient
+-   [Wolvar](https://wowpedia.fandom.com/wiki/Wolvar "Wolvar") and a badger Ancient
+-   [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") and a bull Ancient. It is possible this might have been [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao"). _Chronicle Volume 1_ revealed they came from the [yaungol](https://wowpedia.fandom.com/wiki/Yaungol "Yaungol"), but the bull may have created the yaungol.
+-   [Tuskarr](https://wowpedia.fandom.com/wiki/Tuskarr "Tuskarr") and a walrus Ancient
+-   Aessina _might_ have created the [grell](https://wowpedia.fandom.com/wiki/Grell "Grell") (she told Brann "maybe")
+-   [Gnolls](https://wowpedia.fandom.com/wiki/Gnolls "Gnolls") and a hyena Ancient
+-   [Makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura") and a lobster Ancient
+
+## Notes
+
+-   The term "wild god" first appeared in  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[20-30\] [Strange Mojo](https://wowpedia.fandom.com/wiki/Strange_Mojo_(quest)) and  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[20-30\] [Trouble at the Altar of Sseratus](https://wowpedia.fandom.com/wiki/Trouble_at_the_Altar_of_Sseratus) in [Zul'Drak](https://wowpedia.fandom.com/wiki/Zul%27Drak "Zul'Drak"). The [Adventure Guide](https://wowpedia.fandom.com/wiki/Adventure_Guide "Adventure Guide") entry for [Gundrak](https://wowpedia.fandom.com/wiki/Gundrak "Gundrak") mentions the term "wild deities". The proper version of the term ("Wild Gods") was first mentioned by [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") on Twitter in 2014 as a categorization for the Ancient Guardians and the August Celestials.<sup id="cite_ref-DK_14-2"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-DK-14">[14]</a></sup> The concept was elaborated and expanded upon with the release of _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, which also established at least some loa as being Wild Gods.
+-   While the primal gods of [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), including [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu"), [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe"), and [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar"), were born from a large amount of [spirit](https://wowpedia.fandom.com/wiki/Spirit_of_Life "Spirit of Life") as opposed to the coalesced power of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"),<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-42">[42]</a></sup> they have similarities with Wild Gods such as massive size, age, speech, and even Rukhmar creating the [arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") like some Wild Gods made races of their own. In 2017, [Matt Burns](https://wowpedia.fandom.com/wiki/Matt_Burns "Matt Burns") stated that he was hesitant to call them Wild Gods as the term has direct ties to the [keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") on Azeroth, but added that he does think they're part of a greater set of similar creatures.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-43">[43]</a></sup><sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-44">[44]</a></sup> In _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_, "wild god" (written in lowercase) is used for some non-Azerothian nature spirits,<sup id="cite_ref-Swift_Gloomhoof_2-1"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Swift_Gloomhoof-2">[2]</a></sup><sup id="cite_ref-Aliothe_3-2"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-Aliothe-3">[3]</a></sup> making it no longer specific to Azeroth.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   The [worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen") are night elves or humans transformed by the fury of Goldrinn and magic of [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune"). Thus, in a way, it could be said that worgen originate from Goldrinn.
+-   Since it is unknown if they visit the Emerald Dream, it is possible that Freya never linked the [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestials "August Celestials") to it like she did the other Wild Gods. Alternatively, they may simply choose not to, given their dedication to providing teaching to mortals.
+
+### Possible Wild Gods
+
+The following beings may or may not be Wild Gods.
+
+-   Since Wild Gods are usually animals, some animal [loa](https://wowpedia.fandom.com/wiki/Loa "Loa") might be Wild Gods too.
+    -   It is unclear whether or not the more humanoid-looking [loa](https://wowpedia.fandom.com/wiki/Loa "Loa"), such as [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi") and [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless") would be Wild Gods or if they are simply some other kind of powerful spirit.
+    -   The spirits of wind serpent loa such as [Hakkar the Soulflayer](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer"), [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun"), and [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja"), were found in the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") instead of the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream").
+-   The [spirit beasts](https://wowpedia.fandom.com/wiki/Spirit_beast "Spirit beast") may be Wild Gods as well.
+-   The [Great Bear Spirit](https://wowpedia.fandom.com/wiki/Great_Bear_Spirit "Great Bear Spirit") and the [Great Cat Spirit](https://wowpedia.fandom.com/wiki/Great_Cat_Spirit "Great Cat Spirit") could have been Wild Gods.
+-   [Ysildar](https://wowpedia.fandom.com/wiki/Ysildar "Ysildar") was speculated to be one of Keeper Freya's animal followers, likely meaning one of the Wild Gods.
+-   The [generic deities](https://wowpedia.fandom.com/wiki/Generic_Deity "Generic Deity") that can be revived in Ardenweald may be Wild Gods from other worlds.
+-   [![IconSmall SeaTurtle.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/1b/IconSmall_SeaTurtle.gif/revision/latest?cb=20211123122312) [Ai'twen](https://wowpedia.fandom.com/wiki/Ai%27twen "Ai'twen") is a [sea turtle](https://wowpedia.fandom.com/wiki/Sea_turtle "Sea turtle") in [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley") that once saved many [tortollans](https://wowpedia.fandom.com/wiki/Tortollan "Tortollan") from the "great purge of the Inky Grotto." He needs to be enticed back to our world.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-45">[45]</a></sup>
+-   [![IconSmall Elk.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/IconSmall_Elk.gif/revision/latest?cb=20211122105243) [Athair](https://wowpedia.fandom.com/wiki/Athair "Athair") is a white stag who befriended [Arom Waycrest](https://wowpedia.fandom.com/wiki/Arom_Waycrest "Arom Waycrest") around 2,700 years ago. He can still be found in [Drustvar](https://wowpedia.fandom.com/wiki/Drustvar "Drustvar") today, and that longevity, his ability to speak, and his title "Heart of the Forest" may mean he is a Wild God.
+-   [![IconSmall Doe.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Doe.gif/revision/latest?cb=20211122105540) [Athainne](https://wowpedia.fandom.com/wiki/Athainne "Athainne"), the "Secret Keeper of the Forest", is a blue doe with glowing eyes and a moon sigil above her head who can sometimes be found accompanying Athair.
+-   [![IconSmall RavenGod.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_RavenGod.gif/revision/latest?cb=20210506005256) [Blaithe](https://wowpedia.fandom.com/wiki/Blaithe "Blaithe"), consort of Aviana.
+-   [![IconSmall Frog.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f3/IconSmall_Frog.gif/revision/latest?cb=20210429140007) [Cro'akan](https://wowpedia.fandom.com/wiki/Cro%27akan "Cro'akan") is larger than a normal frog. He can instantly kill everyone on his island with [Frog Justice](https://www.wowhead.com/spell=131725/frog-justice).
+-   [![IconSmall Moose.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/IconSmall_Moose.gif/revision/latest?cb=20211122105633) [Eche'ro](https://wowpedia.fandom.com/wiki/Eche%27ro "Eche'ro") is a powerful moose favored and blessed by Malorne.
+-   [![IconSmall Eel.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f1/IconSmall_Eel.gif/revision/latest?cb=20210510102842) [G'nathus](https://wowpedia.fandom.com/wiki/G%27nathus "G'nathus") is believed by some [pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") to be an ancient [Zandalari](https://wowpedia.fandom.com/wiki/Zandalar_tribe "Zandalar tribe") loa left behind to guard the waters south of [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen")'s [island citadel](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder").<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-46">[46]</a></sup>
+-   [![IconSmall Bramblecat.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/IconSmall_Thornclaw.gif/revision/latest?cb=20200205164911) [Greenstalker](https://wowpedia.fandom.com/wiki/Greenstalker "Greenstalker") was an ally of the [Thornspeakers](https://wowpedia.fandom.com/wiki/Thornspeakers "Thornspeakers") and protector of the forests in [Drustvar](https://wowpedia.fandom.com/wiki/Drustvar "Drustvar"), until he was corrupted by the [Heartsbane Coven](https://wowpedia.fandom.com/wiki/Heartsbane_Coven "Heartsbane Coven"). When he died his spirit visibly left his body and ran off into the wilds.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-47">[47]</a></sup>
+-   [![IconSmall Mammoth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/IconSmall_Mammoth.gif/revision/latest?cb=20211122144905) [Khu'nok the Behemoth](https://wowpedia.fandom.com/wiki/Khu%27nok_the_Behemoth "Khu'nok the Behemoth") is a wise and ancient mammoth of a much larger size than the average mammoth. He also possesses the ability to speak.
+-   [![IconSmall Devilsaur.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/34/IconSmall_Devilsaur.gif/revision/latest?cb=20211122223522) [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros") is a [devilsaur](https://wowpedia.fandom.com/wiki/Devilsaur "Devilsaur") deity fervently worshiped by the [Skumblade](https://wowpedia.fandom.com/wiki/Skumblade_tribe "Skumblade tribe") [saurok](https://wowpedia.fandom.com/wiki/Saurok "Saurok") and who may be a Wild God. The Skumblade [saur-priests](https://wowpedia.fandom.com/wiki/Skumblade_Saur-Priest "Skumblade Saur-Priest") claim that the saurok were not the result of [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") [flesh-shaping](https://wowpedia.fandom.com/wiki/Flesh-shaping "Flesh-shaping") but that they instead evolved from the great creator, Kros. While this claim is false, the [Echo of Kros](https://wowpedia.fandom.com/wiki/Echo_of_Kros "Echo of Kros") and the blessings invoked by the tribe's [brutes](https://wowpedia.fandom.com/wiki/Skumblade_Brute "Skumblade Brute") suggest that the entity very much exists.
+-   [![IconSmall SpiritLeopard.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/57/IconSmall_SpiritLeopard.gif/revision/latest?cb=20211211095828) [Loque'nahak](https://wowpedia.fandom.com/wiki/Loque%27nahak "Loque'nahak"), mate of [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa").
+-   [![IconSmall Moose.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/IconSmall_Moose.gif/revision/latest?cb=20211122105633) [Morashu](https://wowpedia.fandom.com/wiki/Morashu "Morashu") is described as an "ancient spirit" that has lingered in [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") "as long as any tribe", and [Maltha Silenthoof](https://wowpedia.fandom.com/wiki/Maltha_Silenthoof "Maltha Silenthoof") states that his presence is required to carry out the cycle of life and death that keeps nature in balance. This may mean that he is a Wild God.
+-   [![IconSmall Rhino.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/53/IconSmall_Rhino.gif/revision/latest?cb=20211122095040) [Nozronn](https://wowpedia.fandom.com/wiki/Bones_of_Nozronn "Bones of Nozronn") is a large skeletal rhino worshiped by the [Oracles](https://wowpedia.fandom.com/wiki/Oracles "Oracles"). His size and ability to speak suggest that he is a Wild God.
+-   [![IconSmall Kraken.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_Kraken.gif/revision/latest?cb=20210511001216) [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa"), a [tuskarr](https://wowpedia.fandom.com/wiki/Tuskarr "Tuskarr") sea goddess, asks [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") if they are working with "the trolls of this land" and if they have come to kill her and take her power, indicating that she is a loa akin to the [Drakkari](https://wowpedia.fandom.com/wiki/Drakkari_tribe "Drakkari tribe") loa that were killed by their worshipers.
+    -   The other three known tuskarr deities — [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka"), [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk"), and [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut") — may be Wild Gods as well. Issliruk, the spirit of war, is depicted as a silver eagle, and tuskarr stories tell of how he fought against a hundred worgs to save his young.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-48">[48]</a></sup>
+-   [![IconSmall Bear.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/49/IconSmall_Bear.gif/revision/latest?cb=20200207121844) [Orsonn](https://wowpedia.fandom.com/wiki/Orsonn "Orsonn") and [Kodian](https://wowpedia.fandom.com/wiki/Kodian "Kodian"), the son and daughter of [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc"), may be Wild Gods themselves due to their parentage.
+-   [![IconSmall Elk.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/IconSmall_Elk.gif/revision/latest?cb=20211122105243) [Redhoof the Ancient](https://wowpedia.fandom.com/wiki/Redhoof_the_Ancient "Redhoof the Ancient") may be a Wild God as he is able to give out blessings like his neighbor Ela'lothen.
+-   [![IconSmall Shen-zin Su.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Shen-zin_Su.gif/revision/latest?cb=20221012231319) [Shen-zin Su](https://wowpedia.fandom.com/wiki/Shen-zin_Su "Shen-zin Su") may be a Wild God given his colossal size, his ability to speak, and his long lifespan.
+-   [![IconSmall Nightsaber.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/IconSmall_Nightsaber.gif/revision/latest?cb=20200205144216) [Silverfang](https://wowpedia.fandom.com/wiki/Silverfang "Silverfang") may be a Wild God as she is able to give out blessings like his neighbor Ela'lothen.
+-   [![IconSmall Tarantula.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/00/IconSmall_Tarantula.gif/revision/latest?cb=20210502141402) [Lady Sathrah](https://wowpedia.fandom.com/wiki/Lady_Sathrah "Lady Sathrah") was a [tarantula](https://wowpedia.fandom.com/wiki/Tarantula "Tarantula") beloved by Elune. After Sathrah was killed, it was said that the forest would mourn her, and her spirit could be seen in the [Temple of the Moon](https://wowpedia.fandom.com/wiki/Temple_of_the_Moon "Temple of the Moon"). [Priestess A'moora](https://wowpedia.fandom.com/wiki/Priestess_A%27moora "Priestess A'moora") also said Sathrah would be reborn.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_note-49">[49]</a></sup>
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_14_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_14_1-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 14
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Swift_Gloomhoof_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Swift_Gloomhoof_2-1">b</a></sup>  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7e/Inv_horse2ardenwealdmount_dark.png/revision/latest/scale-to-width-down/16?cb=20200804154608)[\[Swift Gloomhoof\]](https://wowpedia.fandom.com/wiki/Swift_Gloomhoof)
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Aliothe_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Aliothe_3-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Aliothe_3-2">c</a></sup> [Ember Court](https://wowpedia.fandom.com/wiki/Ember_Court "Ember Court") description of [Droman Aliothe](https://wowpedia.fandom.com/wiki/Droman_Aliothe "Droman Aliothe")
+4.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-4)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Inv_misc_druidstone03.png/revision/latest/scale-to-width-down/16?cb=20160612000126)[\[Wild Godrune\]](https://wowpedia.fandom.com/wiki/Wild_Godrune)
+5.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-5)  ![N](https://static.wikia.nocookie.net/wowpedia/images/8/81/Kyrian_15.png/revision/latest?cb=20210312060401) \[60\] [A Call to Ardenweald](https://wowpedia.fandom.com/wiki/A_Call_to_Ardenweald_(Kyrian))
+6.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-6) _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 50
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-6">g</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-7">h</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-8">i</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-9">j</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-10">k</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-11">l</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle_7-12">m</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 39 - 40
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Research_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Research_8-1">b</a></sup> [Tome of the Ancients](https://wowpedia.fandom.com/wiki/Tome_of_the_Ancients "Tome of the Ancients")
+9.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-9) [The Warcraft Encyclopedia: Demigods](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Demigods "The Warcraft Encyclopedia/Demigods")
+10.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-10)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Return to Nordrassil](https://wowpedia.fandom.com/wiki/Return_to_Nordrassil)
+11.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-11) _[The Jade Hunters](https://wowpedia.fandom.com/wiki/The_Jade_Hunters "The Jade Hunters")_
+12.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-12) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/311608354957062146) (2013-03-12): "The August Celestials are very much like the ancients (Goldrinn, Tortolla, etc). Unclear if they visit the dream, tho"
+13.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-13) _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_, pg. 16
+14.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-DK_14-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-DK_14-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-DK_14-2">c</a></sup> [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/464543217380515842) (2014-05-08)
+15.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Artifact_15-0) [Legion: Druid Artifact Reveal](http://us.battle.net/wow/en/blog/19950403/)
+16.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-16) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 78
+17.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle70_17-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chronicle70_17-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 70
+18.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-18) [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") 2018-04-30. [Battle for Azeroth Preview: Zuldazar Visitor’s Guide](https://worldofwarcraft.com/en-us/news/21701414/). Retrieved on 2018-05-02.
+19.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Ask_CDev_19-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Ask_CDev_19-1">b</a></sup> [Ask CDev#Ask CDev Answers - Round 2](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_2 "Ask CDev")
+20.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-20) [Kith'ix](https://wowpedia.fandom.com/wiki/Kith%27ix "Kith'ix")
+21.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Shadows_of_the_Loa_21-0) [Shadows of the Loa](https://wowpedia.fandom.com/wiki/Shadows_of_the_Loa "Shadows of the Loa")
+22.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-22) [Zen'tabra#Gossip text](https://wowpedia.fandom.com/wiki/Zen%27tabra#Gossip_text "Zen'tabra")
+23.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-23) [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") 2015-01-23. [Legion: Druid Artifact Reveal](https://worldofwarcraft.com/en-us/news/19950403). Retrieved on 2018-03-20.
+24.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-24) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 89
+25.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-25)  ![](https://static.wikia.nocookie.net/wowpedia/images/d/df/Inv_feather_14.png/revision/latest/scale-to-width-down/16?cb=20060830082605)[\[Feather of the Moonspirit\]](https://wowpedia.fandom.com/wiki/Feather_of_the_Moonspirit)
+26.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-26)  ![N](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Night_Fae_15.png/revision/latest?cb=20210312060936) \[60\] [A Rare and Unusual Spirit](https://wowpedia.fandom.com/wiki/A_Rare_and_Unusual_Spirit)
+27.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-27)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [... It Will Come](https://wowpedia.fandom.com/wiki/..._It_Will_Come)
+28.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-28)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Unplug L'ghorek](https://wowpedia.fandom.com/wiki/Unplug_L%27ghorek)
+29.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-29)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Communing with the Ancient](https://wowpedia.fandom.com/wiki/Communing_with_the_Ancient)
+30.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-30)  ![N](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Night_Fae_15.png/revision/latest?cb=20210312060936) \[60\] [A Rare and Unusual Spirit](https://wowpedia.fandom.com/wiki/A_Rare_and_Unusual_Spirit_(4))
+31.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-31) [Wavespeaker Valoren](https://wowpedia.fandom.com/wiki/Wavespeaker_Valoren#Quotes "Wavespeaker Valoren") while inside [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")
+32.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-32)  ![N](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Night_Fae_15.png/revision/latest?cb=20210312060936) \[60\] [A Rare and Unusual Spirit](https://wowpedia.fandom.com/wiki/A_Rare_and_Unusual_Spirit_(3))
+33.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Tales_of_the_Hunt_33-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Tales_of_the_Hunt_33-1">b</a></sup> [Tales of the Hunt](https://wowpedia.fandom.com/wiki/Tales_of_the_Hunt#Talonclaw,_Spear_of_the_Wild_Gods "Tales of the Hunt")
+34.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-34) _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 59
+35.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-35) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 185-186, 210-214
+36.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-36)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[30-35\] [Lycanthoth the Corruptor](https://wowpedia.fandom.com/wiki/Lycanthoth_the_Corruptor), referring to [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")
+37.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-37)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Finish Nemesis](https://wowpedia.fandom.com/wiki/Finish_Nemesis)
+38.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-WoWM5_38-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-WoWM5_38-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-WoWM5_38-2">c</a></sup> _[World of Warcraft: The Magazine Issue 5](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_5 "World of Warcraft: The Magazine Issue 5")_
+39.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-39)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-30D\] [Princess Theradras](https://wowpedia.fandom.com/wiki/Princess_Theradras_(quest))
+40.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-40) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 144 - 145
+41.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chron119_41-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-Chron119_41-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 119
+42.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-42) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 21
+43.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-43) [Matt Burns on Twitter](https://twitter.com/Burnzerker/status/842171580398555136)
+44.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-44) [Matt Burns on Twitter](https://twitter.com/Burnzerker/status/842171720127598592)
+45.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-45)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-60\] [Flavorable Offering](https://wowpedia.fandom.com/wiki/Flavorable_Offering)
+46.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-46)  ![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Inv_misc_fish_12.png/revision/latest/scale-to-width-down/16?cb=20060717205016)[\[Spawn of G'nathus\]](https://wowpedia.fandom.com/wiki/Spawn_of_G%27nathus)
+47.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-47)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[20-60\] [Greenstalker](https://wowpedia.fandom.com/wiki/Greenstalker_(quest))
+48.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-48)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-30\] [Arming Kamagua](https://wowpedia.fandom.com/wiki/Arming_Kamagua)
+49.  [^](https://wowpedia.fandom.com/wiki/Wild_God#cite_ref-49)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[12\] [Tears of the Moon](https://wowpedia.fandom.com/wiki/Tears_of_the_Moon_(original))
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+
+-   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
+-   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
+-   [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne")
+-   [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos")<sup>3rd Arbiter</sup>
+-   [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus")
+-   [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")
+-   [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")<sup>1st Arbiter</sup>
+
+
+
+ |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+
+-   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
+-   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
+-   [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane")
+-   [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana")
+-   [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+-   [Ela'lothen](https://wowpedia.fandom.com/wiki/Ela%27lothen "Ela'lothen")
+-   [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn")
+-   [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne")
+-   [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Nemesis](https://wowpedia.fandom.com/wiki/Nemesis "Nemesis")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Ohn'ahra](https://wowpedia.fandom.com/wiki/Ohn%27ahra "Ohn'ahra")
+-   [Omen](https://wowpedia.fandom.com/wiki/Omen "Omen")
+-   [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla")
+-   [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc")
+-   [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol")
+-   [Wolverine guardian](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+-   [Reptilian warrior](https://wowpedia.fandom.com/wiki/Reptilian_warrior "Reptilian warrior")
+-   [Squat warrior ancient](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   [Fox ancient](https://wowpedia.fandom.com/wiki/Fox#Notes "Fox")
+-   [Winged panther ancient](https://wowpedia.fandom.com/wiki/Panther "Panther")
+
+
+
+ |
+|  |
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+
+-   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
+-   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
+-   [Akil'zon](https://wowpedia.fandom.com/wiki/Akil%27zon "Akil'zon")
+-   [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda")
+-   [Bethekk](https://wowpedia.fandom.com/wiki/Bethekk "Bethekk")
+-   [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi")
+-   [Dambala](https://wowpedia.fandom.com/wiki/Dambala "Dambala")
+-   [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk")
+-   [Gral](https://wowpedia.fandom.com/wiki/Gral "Gral")
+-   [Grimath](https://wowpedia.fandom.com/wiki/Grimath "Grimath")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer")
+-   [Halazzi](https://wowpedia.fandom.com/wiki/Halazzi "Halazzi")
+-   [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa")
+-   [Hethiss](https://wowpedia.fandom.com/wiki/Hethiss "Hethiss")
+-   [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek")
+-   [Jan'alai](https://wowpedia.fandom.com/wiki/Jan%27alai "Jan'alai")
+-   [Jani](https://wowpedia.fandom.com/wiki/Jani "Jani")
+-   [Kimbul](https://wowpedia.fandom.com/wiki/Kimbul "Kimbul")
+-   [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa_the_Huge "Krag'wa the Huge")
+-   [Lakali](https://wowpedia.fandom.com/wiki/Lakali "Lakali")
+-   [Lukou](https://wowpedia.fandom.com/wiki/Lukou "Lukou")
+-   [Mam'toth](https://wowpedia.fandom.com/wiki/Mam%27toth "Mam'toth")
+-   [Mueh'zala](https://wowpedia.fandom.com/wiki/Mueh%27zala "Mueh'zala")
+-   [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk")
+-   [Pa'ku](https://wowpedia.fandom.com/wiki/Pa%27ku "Pa'ku")
+-   [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan")
+-   [Rhunok](https://wowpedia.fandom.com/wiki/Rhunok "Rhunok")
+-   [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun")
+-   [Samedi](https://wowpedia.fandom.com/wiki/Samedi "Samedi")
+-   [Sethraliss](https://wowpedia.fandom.com/wiki/Sethraliss "Sethraliss")
+-   [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra")
+-   [Shango](https://wowpedia.fandom.com/wiki/Shango "Shango")
+-   [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah")
+-   [Sseratus](https://wowpedia.fandom.com/wiki/Sseratus "Sseratus")
+-   [Torga](https://wowpedia.fandom.com/wiki/Torga "Torga")
+-   [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja")
+-   [Torcali](https://wowpedia.fandom.com/wiki/Torcali "Torcali")
+-   [Xibala](https://wowpedia.fandom.com/wiki/Xibala_(devilsaur) "Xibala (devilsaur)")
+-   [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless")
+
+
+
+ |
+|  |
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
+-   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
+-   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
+-   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
+-   [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan")<sup>2nd, air</sup>
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
+-   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
+    -   [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu")
+    -   [Ka'alu](https://wowpedia.fandom.com/wiki/Ka%27alu "Ka'alu")
+    -   [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar")<sup><a href="https://wowpedia.fandom.com/wiki/Rukhmar_(alternate_universe)" title="Rukhmar (alternate universe)">alternate</a></sup>
+    -   [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe")<sup><a href="https://wowpedia.fandom.com/wiki/Sethe_(alternate_universe)" title="Sethe (alternate universe)">alternate</a></sup>
+    -   [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk")
+-   [Arkkoroc](https://wowpedia.fandom.com/wiki/Lord_Arkkoroc "Lord Arkkoroc")
+-   [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")
+    -   [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji")
+    -   [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao")
+    -   [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")
+    -   [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon")
+-   [Drakkari gods](https://wowpedia.fandom.com/wiki/Drakkari_tribe#Faith "Drakkari tribe")
+    -   [Dubra'Jin](https://wowpedia.fandom.com/wiki/Dubra%27Jin_(god) "Dubra'Jin (god)")
+    -   [Zim'Abwa](https://wowpedia.fandom.com/wiki/Zim%27Abwa_(god) "Zim'Abwa (god)")
+    -   [Zim'Rhuk](https://wowpedia.fandom.com/wiki/Zim%27Rhuk_(god) "Zim'Rhuk (god)")
+    -   [Zim'Torga](https://wowpedia.fandom.com/wiki/Zim%27Torga_(goddess) "Zim'Torga (goddess)")
+-   [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")
+-   [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones")
+-   [Gahz'rilla](https://wowpedia.fandom.com/wiki/Gahz%27rilla "Gahz'rilla")
+-   [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros")
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Mazu](https://wowpedia.fandom.com/wiki/Mazu "Mazu")
+-   [Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak")
+-   [Nhal'athoth](https://wowpedia.fandom.com/wiki/Nhal%27athoth "Nhal'athoth")
+-   [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos")
+-   [Primordial Aspects](https://wowpedia.fandom.com/wiki/Primordial_Aspects "Primordial Aspects")
+    -   [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur")
+-   [Tauren gods](https://wowpedia.fandom.com/wiki/Tauren#Faith "Tauren")
+    -   [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")
+    -   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+    -   [Lo'sho](https://wowpedia.fandom.com/wiki/Lo%27sho "Lo'sho")
+    -   [Mu'sha](https://wowpedia.fandom.com/wiki/Elune "Elune")
+    -   [Sky Father](https://wowpedia.fandom.com/wiki/Sky_Father "Sky Father")
+-   [Tuskarr gods](https://wowpedia.fandom.com/wiki/Tuskarr#Faith "Tuskarr")
+    -   [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk")
+    -   [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut")
+    -   [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa")
+    -   [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka")
+-   [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")
+    -   [Dimensius](https://wowpedia.fandom.com/wiki/Dimensius "Dimensius")
+-   **Wild Gods**
+    -   [Aliothe](https://wowpedia.fandom.com/wiki/Aliothe "Aliothe")
+    -   Falir
+    -   Lia
+    -   [Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard")
+    -   Ohm
+-   [Volcanoth](https://wowpedia.fandom.com/wiki/Volcanoth "Volcanoth")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+-   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
+-   [One in the Deeps](https://wowpedia.fandom.com/wiki/One_in_the_Deeps "One in the Deeps")
+-   [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa#In_the_RPG "Loa") ([Legba](https://wowpedia.fandom.com/wiki/Legba "Legba")
+-   [Ogoun](https://wowpedia.fandom.com/wiki/Ogoun "Ogoun"))
+
+
+
+ |
+|  |
+| 
+
+-   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life"))
+-   [Religion](https://wowpedia.fandom.com/wiki/Religion "Religion")
+-   [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")
+-   [God](https://wowpedia.fandom.com/wiki/God "God")
+-   [Demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod")
+-   **Wild God**
+
+
+
+ |
+
+Others like you also viewed

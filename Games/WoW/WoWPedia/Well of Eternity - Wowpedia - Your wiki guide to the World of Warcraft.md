@@ -1,0 +1,126 @@
+_This article is about the original Well on [Ancient Kalimdor](https://wowpedia.fandom.com/wiki/Ancient_Kalimdor "Ancient Kalimdor"). For the second Well at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), see [Well of Eternity (Hyjal)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)"). For the instance, see [Well of Eternity (instance)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)"). For other uses, see [Well of Eternity (disambiguation)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(disambiguation) "Well of Eternity (disambiguation)")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Well_of_Eternity_-_Well_of_Eternity_2.jpg/revision/latest/scale-to-width-down/320?cb=20110927222649)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Well_of_Eternity_-_Well_of_Eternity_2.jpg/revision/latest?cb=20110927222649)
+
+The original Well of Eternity, in its corrupted state during the War of the Ancients (in-game representation)
+
+The **Well of Eternity** was a lake of scintillating [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") energies and limitless power formed from the very lifeblood of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").<sup id="cite_ref-Chronicle36_1-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle36-1">[1]</a></sup> The Well was located on the ancient continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") near the [night elven](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") city of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"). The present area where the Well of Eternity was located became the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
+
+The Well was the central focus of the Burning Legion's invasion during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), and the area around it served as the final battleground of the conflict. Its waters were so powerful, that the demons hoped to bring [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") himself to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") by turning the Well into a great portal. The Well's ensuing destruction forever spread arcane power throughout the world, physically changed its geography, and heralded a new era in Azerothian history. Shortly after this, a [second Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") was created at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), who preserved water from the first Well in magical vials.
+
+## History
+
+### Origin
+
+The original Well of Eternity was formed from a great wound in Azeroth's surface, created when [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), the Highfather of the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), ripped the [Old God](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") from the world's crust and tore it apart. The volatile [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") lifeblood of Azeroth's [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") rushed to the surface and roiled over the world. It was through this event that the Pantheon realized that the Old Gods had embedded themselves too deep in Azeroth's surface to remove without severely harming the world-soul, and so they instead resolved to imprison the vile entities below the surface of the world.<sup id="cite_ref-Chronicle36_1-1"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle36-1">[1]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest/scale-to-width-down/180?cb=20160328182950)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest?cb=20160328182950)
+
+The ordered Azeroth after the fall of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire"), with the well in the continent's center.
+
+After the Old Gods and their [elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental") minions had been defeated and sealed in their prisons, the titans' most powerful servants — the [keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") — set to work to seal the still-bleeding wound. After having labored day and night to construct magic wards around the wound, the tumultous arcane energies eventually calmed and settled into balance, and the keepers named it the "Well of Eternity".<sup id="cite_ref-Chronicle36_1-2"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle36-1">[1]</a></sup> The enormous lake became the true heart of the world's magic and natural power. Drawing its energies from the infinite [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), the Well acted as a mystical fount, sending its potent energies out across the world to nourish life in all its wondrous forms.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-2">[2]</a></sup> The Well accelerated the cycles of growth and rebirth, and before long, it caused sentient beings to evolve from the land's primitive life forms.<sup id="cite_ref-Chronicle70_3-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle70-3">[3]</a></sup>
+
+### Ancient history
+
+Keeper [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya") soon set to work to populate the world with life. She created great enclaves of life at the locations where the Well's energies had coalesced — the areas that would later become known as [Un'Goro Crater](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater "Un'Goro Crater"), [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin") and the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms").<sup id="cite_ref-Chronicle_39_4-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle_39-4">[4]</a></sup> The waters also appeared in [Thaldraszus](https://wowpedia.fandom.com/wiki/Thaldraszus "Thaldraszus"), but Freya is not stated to have gone there.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-5">[5]</a></sup> She nurtured and molded various life forms and seeded them around the world, the greatest of which were the colossal animal spirits known as the [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God").<sup id="cite_ref-Chronicle_39_4-1"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle_39-4">[4]</a></sup>
+
+Some legends say that from this magical ether the [silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid") were born.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-6">[6]</a></sup>
+
+Among the first and most prolific creatures to emerge from the primordial wilderness were the [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll").<sup id="cite_ref-Chronicle70_3-1"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle70-3">[3]</a></sup> In time, a tribe of [dark trolls](https://wowpedia.fandom.com/wiki/Dark_troll "Dark troll")<sup id="cite_ref-WoWMag_7-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-WoWMag-7">[7]</a></sup> came to settle near the translucent waters of the Well. Over time, the Well's cosmic power affected the tribe, making them wise and immortal. Their skin turned various shades of violet, and they gained a shorter, yet more upright stature. Inspired by titanic words found on [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") relics around the Well's periphery, the tribe adopted the name "[kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")", meaning "children of the stars". They believed that their moon goddess, [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune"), slept within the Well's shimmering depths during the daylight hours.<sup id="cite_ref-WCE:NE_8-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-WCE:NE-8">[8]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-9">[9]</a></sup>
+
+### The night elves and the War of the Ancients
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Zin-Azshari.jpg/revision/latest/scale-to-width-down/180?cb=20160219175841)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Zin-Azshari.jpg/revision/latest?cb=20160219175841)
+
+The ancient night elven capital of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Zin-Azshari_Warbringers.jpg/revision/latest/scale-to-width-down/180?cb=20180824185633)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Zin-Azshari_Warbringers.jpg/revision/latest?cb=20180824185633)
+
+Zin-Azshari's coast.
+
+The kaldorei, or "night elves", soon built a wondrous society around the Well. They built their capital, [Elun'dris](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"), on the Well's shores and honed their ties with the surrounding woodlands. Soon, however, a small group of elves, later known as the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), became obsessed with unlocking the Well's secrets and began rigorously studying the lake's arcane energies.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-10">[10]</a></sup> It is said the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/49/Spell_shaman_maelstromweapon.png/revision/latest/scale-to-width-down/16?cb=20080822013105)[\[Heart of Zin-Azshari\]](https://wowpedia.fandom.com/wiki/Heart_of_Zin-Azshari) was key in the elves' dominance of the Well of Eternity.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-11">[11]</a></sup> Later, [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") convinced [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her Highborne to create a portal in the Well, leading to the first invasion of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Following the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the Well of Eternity was destroyed, and most of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") with it, leaving only the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom").
+
+However, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") had filled seven magical vials with water from the Well of Eternity, and he poured three of the magical vials of water into the lake at the top of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), creating a new Well. For this insane act, his brother [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and the demigod [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") imprisoned him deep beneath Mount Hyjal. The new Well was completely covered by the growth of the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), bringing it into balance, further aided by the enchantments of the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects").
+
+However, Illidan had not emptied all of his vials in creating the [second Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") (which is why the Aspects were able to enchant the World Tree with no interference). Somehow, the Highborne under the leadership of [Dath'Remar Sunstrider](https://wowpedia.fandom.com/wiki/Dath%27Remar_Sunstrider "Dath'Remar Sunstrider") had acquired one of the remaining vials and, after founding their new homeland of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), used it to create the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"). At least two of the last three vials somehow found their way back into Illidan's possession, and he gave one each to his lieutenants, [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") and [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-12">[12]</a></sup> They remained in their possession until the [Scale of the Sands](https://wowpedia.fandom.com/wiki/Scale_of_the_Sands "Scale of the Sands") recruited [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to take them back. These vials are now in the hands of [Soridormi](https://wowpedia.fandom.com/wiki/Soridormi "Soridormi"), prime mate of [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu").
+
+## Appearance
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/65/WellofEternity_art.jpg/revision/latest/scale-to-width-down/180?cb=20180314120523)](https://static.wikia.nocookie.net/wowpedia/images/6/65/WellofEternity_art.jpg/revision/latest?cb=20180314120523)
+
+Well of Eternity concept art.
+
+The first Well of Eternity was an incandescent and shimmering lake of energy.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-13">[13]</a></sup><sup id="cite_ref-WCE:NE_8-1"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-WCE:NE-8">[8]</a></sup> As the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne")'s obsession with the Well grew, they recklessly drew magic from its depths, throwing it into constant turmoil. Dark storms broke out over its surface, and its waters darkened until they became utterly black.<sup id="cite_ref-WotAT_14-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-WotAT-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-15">[15]</a></sup> The physical dimensions of the Well were only a trick of the mind. The true Well existed in a thousand dimensions, a thousand places, simultaneously.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-16">[16]</a></sup>
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Although the original Well of Eternity appears in the [titular five-player dungeon](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)"), it's portrayed as considerably smaller than in lore, as well as much smaller than the in-game portrayal of the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") which occupies the exact same space.
+
+## Notes
+
+-   After shipwrecking in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"), both [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") sensed the essence of the well in the air.
+-   [Unicorns](https://wowpedia.fandom.com/wiki/Unicorn "Unicorn") are descended from a fine line of [horses](https://wowpedia.fandom.com/wiki/Horse "Horse") that once grazed near the shores of the Well of Eternity.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-17">[17]</a></sup>
+-   A  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Trade_archaeology_naarucrystal.png/revision/latest/scale-to-width-down/16?cb=20130102215116)[\[Crystallized Drop of Eternity\]](https://wowpedia.fandom.com/wiki/Crystallized_Drop_of_Eternity) drops from [Xavius](https://wowpedia.fandom.com/wiki/Xavius_(tactics) "Xavius (tactics)").
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Nordrassil_Cataclysm.jpg/revision/latest/scale-to-width-down/180?cb=20100413225621)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Nordrassil_Cataclysm.jpg/revision/latest?cb=20100413225621)
+
+The [second Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") beneath Nordrassil.
+
+### The final vial
+
+Speculation about the final vial Illidan took from the Well points to its original host. It is unknown whether or not Illidan was in possession of it at the time of his death at the former [Temple of Karabor](https://wowpedia.fandom.com/wiki/Temple_of_Karabor "Temple of Karabor"), [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple").
+
+It is also possible (but not certain) that the final vial was used by Illidan during the War of the Ancients, to defend himself against the [Abyssal Doombringer](https://wowpedia.fandom.com/wiki/Abyssal_Doombringer "Abyssal Doombringer") in the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") instance. The uncertainty stems from a scene where Malfurion sees Illidan with his hand in the Well after the battle, leading to the possibility that he may have refilled it.
+
+In _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_, [Kanrethad Ebonlocke](https://wowpedia.fandom.com/wiki/Kanrethad_Ebonlocke "Kanrethad Ebonlocke") notes that the powers of the [Shrine of Lost Souls](https://wowpedia.fandom.com/wiki/Shrine_of_Lost_Souls "Shrine of Lost Souls") in the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") are very similar to the Well of Eternity.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-18">[18]</a></sup> Thus, it is likely that Illidan used the final vial to power the shrine as a source of arcane power to help assuage his allies' fel addiction.
+
+### The Elemental Plane
+
+The Well of Eternity may have had some sort of connection to the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane"), as the Maelstrom was used by [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") to escape from [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm").  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Inv_mace_1h_artifactazshara_d_01.png/revision/latest/scale-to-width-down/16?cb=20180823203819)[\[Sharas'dal, Scepter of Tides\]](https://wowpedia.fandom.com/wiki/Sharas%27dal,_Scepter_of_Tides), made with water from the Well, is described as being made of "living water" and is capable of controlling creatures of the sea such as [sea giants](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant") and [makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura").<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-19">[19]</a></sup>
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Ambassador_Chromie.jpg/revision/latest/scale-to-width-down/120?cb=20130721185108)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Ambassador_Chromie.jpg/revision/latest?cb=20130721185108)
+    
+    [Chromie](https://wowpedia.fandom.com/wiki/Chromie "Chromie") seeing the Well of Eternity from a distance, [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") art.
+    
+
+## See also
+
+-   [Un'Goro Crater](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater "Un'Goro Crater")
+-   [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin")
+-   [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms")
+-   [Thaldraszus](https://wowpedia.fandom.com/wiki/Thaldraszus "Thaldraszus")
+-   [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite")
+
+## References
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Well_of_Eternity_Subzones "Template:Well of Eternity Subzones")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Well_of_Eternity_Subzones?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+-   [Azshara's Palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace")
+-   [Courtyard of Lights](https://wowpedia.fandom.com/wiki/Courtyard_of_Lights "Courtyard of Lights")
+-   [Shores of the Well](https://wowpedia.fandom.com/wiki/Shores_of_the_Well "Shores of the Well")
+-   **Well of Eternity**
+
+
+
+ | 
+
+[![Well of Eternity](https://static.wikia.nocookie.net/wowpedia/images/a/a1/WorldMap-WellOfEternity.jpg/revision/latest/scale-to-width-down/120?cb=20190810124109)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/WorldMap-WellOfEternity.jpg/revision/latest?cb=20190810124109 "Well of Eternity")
+
+ |

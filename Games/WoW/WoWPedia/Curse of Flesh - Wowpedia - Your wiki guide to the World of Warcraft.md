@@ -1,0 +1,243 @@
+“It's a condition that affects titan creations. Th' titans fashioned their creatures with stone, mostly, or other mechanical means, so they could carry out their assigned duties tae th' world without fear o' deterioratin' or gettin' weak. But there are beings o' great magic an' malice that hate th' titans, and they sabotaged these creations by turnin' their bodies tae flesh like th' other creatures o' Azeroth.”
+
+— [Felyae](https://wowpedia.fandom.com/wiki/Felyae "Felyae")<sup id="cite_ref-Quest_1-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-Quest-1">[1]</a></sup>
+
+The **Curse of Flesh** (also spelled the **curse of flesh**)<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-2">[2]</a></sup> is a [curse](https://wowpedia.fandom.com/wiki/Curse "Curse") created by the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") suffered by many [titanic](https://wowpedia.fandom.com/wiki/Titan "Titan") creations.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-3">[3]</a></sup> The Curse originated from the [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills") and slowly spread through the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged"), turning them from metal and stone to flesh beings.<sup id="cite_ref-UVG_4-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-UVG-4">[4]</a></sup>
+
+## History
+
+During the ordering of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), the titans of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") were unable to kill the Old Gods without completely destroying the planet, thus they were neutralized and contained within prisons. The [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") left behind beings called [keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") as jailers of the Old Gods' prisons.<sup id="cite_ref-WoWC54_5-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC54-5">[5]</a></sup> Thereafter, the keepers created machines to produce new titan-forged,<sup id="cite_ref-UVG_4-1"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-UVG-4">[4]</a></sup> one of those was the [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills").<sup id="cite_ref-WoWC54_5-1"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC54-5">[5]</a></sup>
+
+A long time after, the Old God [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron"), imprisoned within [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") sensed a great disturbance in the [keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") that were in charge of guarding his prison. This disturbance was caused by the death of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"). Yogg-Saron used this chance to weaken his jailers. By corrupting the Forge of Wills, tainting it with a malady known as the Curse of Flesh, any titan-forged being created by it would transform into a mortal being of skin and flesh, in order to "facilitate assimilation".<sup id="cite_ref-ToA_6-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-ToA-6">[6]</a></sup> The curse would even spread to the previous generation of titan-forged.<sup id="cite_ref-WoWC54_5-2"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC54-5">[5]</a></sup>
+
+Yogg-Saron then proceeded to corrupt the keeper [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken"), tricking him to create an army with the Forge of Wills and attack his former allies. He realized his mistake too late, as he noticed the dark affliction on his army.<sup id="cite_ref-WoWC54_5-3"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC54-5">[5]</a></sup> After Loken's betrayal, many titan-forged were exiled. Around 15,000 years ago, the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")'s metallic skin became brittle and weak.<sup id="cite_ref-WoWC60_7-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC60-7">[7]</a></sup> Over their millenia of imprisonment, the afflicted vrykul continued to degenerate into fleshy beings later known as humans. Many other titan-forged - [mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome"), [tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir"), [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu"), and [giants](https://wowpedia.fandom.com/wiki/Giant "Giant") - would suffer a similar fate. However, Yogg-Saron's plan had unintended consequences; it gave rise to mortal qualities of necessity, such as courage, resolve, and heroism.<sup id="cite_ref-WoWC66_8-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC66-8">[8]</a></sup>
+
+The keepers attempted to cure the curse and extirpate the symbiotic infection unsuccessfully,<sup id="cite_ref-ToA_6-1"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-ToA-6">[6]</a></sup> recording the history of the curse and their experimentation on the [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon"), while telling how the [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen") suffered the effects of the curse.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-9">[9]</a></sup> Keeper [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra") lost faith when he discovered the titans of the Pantheon had vanished and Azeroth had been infested by the [Void](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")'s Old Gods, and he secluded himself from society.<sup id="cite_ref-WoWC81_10-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC81-10">[10]</a></sup> Keeper [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas") and his companion [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya") spent too much time thinking on how to cure the curse, becoming obsessed with it, until eventually entering a long period of hibernation. Unable to cure the Curse of Flesh, [mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome")<sup id="cite_ref-WoWC125_11-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC125-11">[11]</a></sup> and later the [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen") would be afflicted by it.<sup id="cite_ref-WoWC137_12-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC137-12">[12]</a></sup>
+
+During the [war against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"), [Gearmaster Mechazod](https://wowpedia.fandom.com/wiki/Gearmaster_Mechazod "Gearmaster Mechazod") began curing [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") of the curse of flesh and transforming them into mindless mechagnomes until he was defeated by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"). Years later, during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), [King Mechagon](https://wowpedia.fandom.com/wiki/King_Mechagon "King Mechagon") attempted a similar plan using his [Mechoriginator](https://wowpedia.fandom.com/wiki/Mechoriginator "Mechoriginator") device but failed.
+
+## Afflicted races
+
+-    **[![Earthen](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Earthen "Earthen")[![Earthen](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Earthen "Earthen") [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen") / [![Dwarf](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")** — The titans created the [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen") to shape the deep reaches of the world.<sup id="cite_ref-ToA_6-2"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-ToA-6">[6]</a></sup> After Archaedas and his allies stole the [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon") from [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken"), they traveled south to [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") with some earthen and mechagnomes and hid the Discs there. The earthen, fearing the Curse of Flesh, asked to be put into hibernation until the day would come that a cure could be found. The mechagnomes, even knowing they were also cursed, volunteered to stay awake and keep watch over the earthen. <sup id="cite_ref-WoWC62_13-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-WoWC62-13">[13]</a></sup>
+-    **[![IconSmall StoneTrogg.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/IconSmall_StoneTrogg.gif/revision/latest?cb=20200520132852) [Stone troggs](https://wowpedia.fandom.com/wiki/Stone_trogg "Stone trogg") / [![Trogg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Trogg "Trogg") [Troggs](https://wowpedia.fandom.com/wiki/Trogg "Trogg")** — The [stone troggs](https://wowpedia.fandom.com/wiki/Stone_trogg "Stone trogg") were the titans' first failed attempt to create earthen. When afflicted by the Curse, the stone troggs were turned into [troggs](https://wowpedia.fandom.com/wiki/Trogg "Trogg"), though stone troggs can still be found in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-14">[14]</a></sup>
+    -   The [Verlok](https://wowpedia.fandom.com/wiki/Verlok "Verlok") stone troggs at one point started spreading a form of corruption very similar to the Curse of Flesh in order to turn the [Stone Lords](https://wowpedia.fandom.com/wiki/Stone_Lord "Stone Lord") [loyal](https://wowpedia.fandom.com/wiki/Therazane_(faction) "Therazane (faction)") to [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane") into soft and vulnerable [fungal giants](https://wowpedia.fandom.com/wiki/Fungal_giant "Fungal giant").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-15">[15]</a></sup>
+-    **[![Mechagnome](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome") [Mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome") / [![Gnome](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome")** — The titans, or, more specifically, the [titanic watcher](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron"), created the [mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome") as servants and caretakers, much like the earthen.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-16">[16]</a></sup> When afflicted by the Curse, the robotic mechagnomes turned into fleshy [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") over the course of thousands of years. A mechagnome by the name of [Gearmaster Mechazod](https://wowpedia.fandom.com/wiki/Gearmaster_Mechazod "Gearmaster Mechazod") later found a way to reverse the effect, turning a large amount of unlucky gnomes in the [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") back into mechagnomes,<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-17">[17]</a></sup> before he was ultimately destroyed by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"). [King Mechagon](https://wowpedia.fandom.com/wiki/King_Mechagon "King Mechagon") also intended to reverse the curse from the afflicted races.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-18">[18]</a></sup>
+-    **[![IconSmall IronVrykulOld.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/11/IconSmall_IronVrykulOld.gif/revision/latest?cb=20211118111253) [Iron Vrykul](https://wowpedia.fandom.com/wiki/Iron_Vrykul "Iron Vrykul") / [![Vrykul](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")[![Vrykul](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") / [![Human](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Human "Human") [Humans](https://wowpedia.fandom.com/wiki/Human "Human")** — When afflicted by the Curse, the newborn children of the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") began to be born stunted and weak. In response, [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron") decreed that all malformed infants were to be killed at birth and that the vrykul would renounce their former gods who had now forsaken them.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-19">[19]</a></sup> However, some vrykul parents secretly escorted their children to safety, providing them with limited supplies and leaving them on an unfamiliar shoreline in the land that would later become known as the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"). These malformed vrykul children would later become known as [humans](https://wowpedia.fandom.com/wiki/Human "Human").<sup id="cite_ref-AskCDev_20-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-AskCDev-20">[20]</a></sup>
+-    **[![IconSmall Terracotta.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Terracotta.gif/revision/latest?cb=20211130151139) / [![Mogu](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Mogu "Mogu")[![Mogu](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Mogu "Mogu") [Mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu")** — The [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") were initially stone beings created to help the titans carve the mountains and valleys of the land that would later become known as [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-21">[21]</a></sup> Even when their master, [Ra-den](https://wowpedia.fandom.com/wiki/Ra "Ra"), fell silent, the mogu continued their work, until they were hit by the Curse. Along with being turned to flesh, the mogu began to feel pride, greed, fear, and anger, and began to fight amongst themselves.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-22">[22]</a></sup> Much later under [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen"), however, the mogu found a way to reverse the curse of flesh among themselves.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-23">[23]</a></sup><sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-24">[24]</a></sup>
+-    **[![IconSmall Tol'vir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_Tol%27vir.gif/revision/latest?cb=20211118180646) / [![IconSmall Ramkahen.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/IconSmall_Ramkahen.gif/revision/latest?cb=20211118180641) [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")** — The cat-like [tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir") were created to maintain titan lore repositories and machinery surrounding the titan cities of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") and [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum"),<sup id="cite_ref-AskCDev_20-2"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-AskCDev-20">[20]</a></sup> though they were later afflicted by the Curse. Thousands of years later, the [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe") of tol'vir allied with [Siamat](https://wowpedia.fandom.com/wiki/Siamat "Siamat"), a servant of [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir"), who in turn had allied with [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), in order to restore their stone forms.<sup id="cite_ref-Quest_1-1"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-Quest-1">[1]</a></sup>
+-    **[![Fire giant](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Fire_giant "Fire giant")[![Frost giant](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Frost_giant "Frost giant")[![Sea giant](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant")[![Storm giant](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Storm_giant "Storm giant")[![Stone giant](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Stone_giant "Stone giant") [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")** — According to [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard"), most forms of [giant](https://wowpedia.fandom.com/wiki/Giant "Giant") got hit with the Curse of Flesh, but it doesn't appear to have affected them much.<sup id="cite_ref-Magazine_25-0"><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_note-Magazine-25">[25]</a></sup>
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-Quest_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-Quest_1-1">b</a></sup> _[Quest for Pandaria](https://wowpedia.fandom.com/wiki/Quest_for_Pandaria "Quest for Pandaria")_ — Part 3, pg. 4
+2.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-2) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_
+3.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-3) History on common [tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir") [archaeology](https://wowpedia.fandom.com/wiki/Archaeology "Archaeology") artifacts
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-UVG_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-UVG_4-1">b</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_, pg. 22
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC54_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC54_5-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC54_5-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC54_5-3">d</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 54 - 56
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-ToA_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-ToA_6-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-ToA_6-2">c</a></sup> [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+7.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC60_7-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 60 - 61
+8.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC66_8-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 66
+9.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-9) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 52
+10.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC81_10-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 81
+11.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC125_11-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 125
+12.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC137_12-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 137
+13.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-WoWC62_13-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 62 - 63
+14.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-14)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [We're Surrounded](https://wowpedia.fandom.com/wiki/We%27re_Surrounded)
+15.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-15)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Gone Soft](https://wowpedia.fandom.com/wiki/Gone_Soft)
+16.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-16)  ![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Inv_misc_head_clockworkgnome_01.png/revision/latest/scale-to-width-down/16?cb=20080710213600)[\[Clockwork Gnome\]](https://wowpedia.fandom.com/wiki/Clockwork_Gnome)
+17.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-17)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-30\] [The Mechagnomes](https://wowpedia.fandom.com/wiki/The_Mechagnomes)
+18.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-18) _[Mechagon](https://wowpedia.fandom.com/wiki/Mechagon_(comic) "Mechagon (comic)")_
+19.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-19)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-30\] [Anguish of Nifflevar](https://wowpedia.fandom.com/wiki/Anguish_of_Nifflevar)
+20.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-AskCDev_20-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-AskCDev_20-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-AskCDev_20-2">c</a></sup> [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev")
+21.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-21) [Agents of Order](https://wowpedia.fandom.com/wiki/Agents_of_Order "Agents of Order")
+22.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-22) [The Curse and the Silence](https://wowpedia.fandom.com/wiki/The_Curse_and_the_Silence "The Curse and the Silence")
+23.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-23)  ![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Inv_titan_runestones_icon.png/revision/latest/scale-to-width-down/16?cb=20130131191658)[\[Titan Runestone\]](https://wowpedia.fandom.com/wiki/Titan_Runestone)
+24.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-24) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 81
+25.  [^](https://wowpedia.fandom.com/wiki/Curse_of_Flesh#cite_ref-Magazine_25-0) _[World of Warcraft: The Magazine Volume II Issue I](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Volume_II_Issue_I "World of Warcraft: The Magazine Volume II Issue I")_
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+
+ |
+|  |
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+
+-   [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+| 
+
+-   **Curse of Flesh**
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
+
+
+
+ |
+
+Others like you also viewed

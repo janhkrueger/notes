@@ -1,0 +1,299 @@
+[![freenet.de](https://img.3lift.com/?width=800&height=450&url=%2F%2Fimages.3lift.com%2F16942477.jpg&logo_exclude=&v=16&noCrop=1&color=%23FFFFFF "freenet.de")](https://eb2.3lift.com/pass?tl_clickthrough=true&redir=https%3A%2F%2Fr1-euc1.zemanta.com%2Frp2%2Fb1_triplelift%2F27525069%2F104586025%2FZ6PXWEXZK55BUSO6JW62B7UD4OX3NTQSJG6P3Z6XMPEW23O4HJMOD5IHKAEBU55Y2K2ZVR7T2Y6IGQAGMOMAE2EK4S2JELSK7II6WCBIV27I2AYFMZIRO2YXEVG5U3RRIRVRI5JPWENVQSWL5BO6LLYAJQAFMN6XSOM3N74OF7CHC7NWMYKR3NCDBUFMK3ZXL2DRWDP3HF747FR6UDDLERI66CIQKPWNDD6AGV26UQWZ4SIBW36PZSII3LCKUSFQ3WYOO5VBUXPYK7RQPQENIOGFAVKVCWSWXXVVCB3XZJP2FIMC6MBC4E3AHMTA5DIFXAPEENX25TJY5XL6I3PTZ2MYEDLOIOG6QKUP4D5CHAUPNF7OZZZU2HCB42BSYSAT3MKFJKS6YUQFOVVWO5TLSEJOL3VEKNGNLLCL2MXUMYHERX3ALN64N3G23IQGP7QPYWIRD5PNDL22TZ73Y33NQT2C2XS3GV2R5KGYTR5PNTSO35NSZBAZ5S6UR6ADUNXAACHDDDPXXYOAFBT7EDZSLGZW6HT72L7E4IEZPUZZRV6UZUFNTXUMV3N2K4LT34T64NIJWGWAJFIOED44ZSUQ2I5SOJQKFA33D5ECRWUNRLDWARQNGRYLFQ6S7XXTZ2OPD7DNZEP5CQTGD4RQ64UADCO4YITSQ5T7JTE4RI2ARH4PMGPVI2ZVGCT6KEG54OFSPKYRPJ33SLYDIHYHZDF4SHO6UH5JP7J62STLJHNVADQVLJLTNYF237U23CBG7OQD%2F%3Fcnsnt%3DCPk9TEAPk9TEACNAFAENCxCsAP_AAH_AACiQI8tR7D7NbSFD-e59YLs0MQ1Hx1DAYiQgAASBAmABQAKQIKwCgkA5BETABAgCAAAAIAJBAAAECABQCUAAQAAAIAFAAAAABQAKIAAAgAIRAgAICAAAAAEAEAAIgARAEgAB0AgIQIIACAwAhAAAAAAAAAAAAAABAgAAAAAAQAgIAAAAAAgAAAgAAAAAACAAABAAAgcEACIKsxAAUJY4E0gIRQAARBGEABAIAAAAIECAAAAABAgrAIQQAAAAAAACAAAAAAgAgEAAAgACEAAQAFAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAgAAAAAAABEAAAAGBAEAAAAAIAAAAAAAgAAAAAAEAA.YAAAAAAAAAAA&pr=0.053&bc=0.071&aid=22366709998982310257200&bmid=2460&biid=2460&sid=75289&brid=21403&adid=104586025&crid=100745276&ts=1672860397&bcud=71&ss=7&cb=15003)
+
+![](https://ib.3lift.com/static/buttons/edaa/OBA_TRANS.png)
+
+Advertisement
+
+Advertisement
+
+[![Wowpedia](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Site-logo.png/revision/latest?cb=20210506212731)](https://wowpedia.fandom.com/)
+
+-   [Explore](https://wowpedia.fandom.com/wiki/Frostbrood#)
+    
+    -   [Main Page](https://wowpedia.fandom.com/wiki/Wowpedia)
+    -   [All Pages](https://wowpedia.fandom.com/wiki/Special:AllPages)
+    -   [Interactive Maps](https://wowpedia.fandom.com/wiki/Special:AllMaps)
+    
+-   -   [Expansions](https://wowpedia.fandom.com/wiki/Expansion)
+        
+        -   [Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight)
+        -   [Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands)
+        -   [Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth)
+        -   [Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion)
+        -   [Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor)
+        -   [Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria)
+        -   [Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm)
+        -   [Wrath of the Lich King](https://wowpedia.fandom.com/wiki/Frostbrood#)
+            
+            -   [Classic (2022)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King_Classic)
+            -   [Original (2008)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King)
+            
+        -   [Burning Crusade](https://wowpedia.fandom.com/wiki/Frostbrood#)
+            
+            -   [Classic (2021)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Burning_Crusade_Classic)
+            -   [Original (2007)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade)
+            
+        -   [Classic Era](https://wowpedia.fandom.com/wiki/Frostbrood#)
+            
+            -   [Season of Mastery (2021)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Classic_Season_of_Mastery)
+            -   [Classic (2019)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Classic)
+            -   [Vanilla (2004)](https://wowpedia.fandom.com/wiki/World_of_Warcraft)
+            
+        
+    -   [UI & Macros](https://wowpedia.fandom.com/wiki/Wowpedia:Interface_customization)
+        
+        -   [Global API](https://wowpedia.fandom.com/wiki/World_of_Warcraft_API)
+        -   [Widget API](https://wowpedia.fandom.com/wiki/Widget_API)
+        -   [Events](https://wowpedia.fandom.com/wiki/Events)
+        -   [CVars](https://wowpedia.fandom.com/wiki/Console_variables)
+        -   [Macros](https://wowpedia.fandom.com/wiki/Macro_commands)
+        
+    -   [Classes](https://wowpedia.fandom.com/wiki/Class)
+    -   [Races](https://wowpedia.fandom.com/wiki/Race)
+    -   [Factions](https://wowpedia.fandom.com/wiki/Faction)
+    -   [Reputation](https://wowpedia.fandom.com/wiki/Reputation)
+    -   [Professions](https://wowpedia.fandom.com/wiki/Profession)
+    
+-   -   [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans)
+    -   [Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness)
+        
+        -   [Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
+        -   [The Dark Saga](https://wowpedia.fandom.com/wiki/Warcraft_II:_The_Dark_Saga)
+        -   [Battle.net Edition](https://wowpedia.fandom.com/wiki/Warcraft_II:_Battle.net_Edition)
+        
+    -   [Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos)
+        
+        -   [The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne)
+        -   [Reforged](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reforged)
+        
+    -   [Other games](https://wowpedia.fandom.com/wiki/Frostbrood#)
+        
+        -   [Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game))
+        -   [Arclight Rumble](https://wowpedia.fandom.com/wiki/Warcraft_Arclight_Rumble)
+        
+    -   [Trading Card Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Trading_Card_Game)
+    -   [Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft_RPG)
+    -   [Media](https://wowpedia.fandom.com/wiki/Category:Sources)
+        
+        -   [Online sources](https://wowpedia.fandom.com/wiki/Category:Online_sources)
+        -   [Novels](https://wowpedia.fandom.com/wiki/Novels)
+        -   [Short Stories](https://wowpedia.fandom.com/wiki/Short_stories)
+        -   [Comics](https://wowpedia.fandom.com/wiki/Comics)
+        -   [Manga](https://wowpedia.fandom.com/wiki/Manga)
+        -   [Animated shorts](https://wowpedia.fandom.com/wiki/Animated_shorts)
+        
+    
+-   -   [Major characters](https://wowpedia.fandom.com/wiki/Major_characters)
+    -   [Timelines](https://wowpedia.fandom.com/wiki/Timeline_(disambiguation))
+    -   [Worlds](https://wowpedia.fandom.com/wiki/Category:Worlds)
+    -   [Magic](https://wowpedia.fandom.com/wiki/Magic)
+    -   [Organizations](https://wowpedia.fandom.com/wiki/Organization)
+    -   [Technology](https://wowpedia.fandom.com/wiki/Technology)
+    -   [Language](https://wowpedia.fandom.com/wiki/Language)
+    
+-   -   [About Wowpedia](https://wowpedia.fandom.com/wiki/Wowpedia:About_the_wiki)
+    -   [Site policies](https://wowpedia.fandom.com/wiki/Wowpedia:Policies)
+    -   [Village pump](https://wowpedia.fandom.com/wiki/Wowpedia:Village_pump)
+    -   [Recent Changes](https://wowpedia.fandom.com/wiki/Special:RecentChanges)
+    -   [Things to do](https://wowpedia.fandom.com/wiki/Category:Things_to_do)
+    -   [Discord](https://discord.gg/gnGQcAk)
+    
+
+[![Frostbrood](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Frostbrood.png/revision/latest?cb=20090328053922)](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Frostbrood.png/revision/latest?cb=20090328053922 "Frostbrood")
+
+The **Frostbrood**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Frostbrood#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Frostbrood#cite_note-2">[2]</a></sup> are elite [frost wyrms](https://wowpedia.fandom.com/wiki/Frost_wyrm "Frost wyrm") raised from the bones of [blue dragons](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") at [Sindragosa's Fall](https://wowpedia.fandom.com/wiki/Sindragosa%27s_Fall "Sindragosa's Fall"). They consist of whelps, drakes (vanquishers), and the mighty wyrms themselves. The [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") raised a few ancient and powerful [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") to become members of the brood as well.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Frostbrood#cite_note-3">[3]</a></sup>
+
+## Notable members
+
+## Types
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Frostbrood_Proto-Wyrm.jpg/revision/latest/scale-to-width-down/180?cb=20220908184925)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Frostbrood_Proto-Wyrm.jpg/revision/latest?cb=20220908184925)
+
+A [proto-wyrm](https://wowpedia.fandom.com/wiki/Frostbrood_Proto-Wyrm "Frostbrood Proto-Wyrm") of the Frostbrood.
+
+Honest Game Trailers | Gotham Knights
+
+## References
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Scourge "Template:Scourge")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Scourge?action=edit)
+
+[Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+    -   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+    -   [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")
+    -   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Amnennar the Coldbringer](https://wowpedia.fandom.com/wiki/Amnennar_the_Coldbringer "Amnennar the Coldbringer")
+-   [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak")
+-   [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare")
+-   [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel")
+-   [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric")
+-   [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")
+-   [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron")
+-   [Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper")
+-   [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn")
+-   [Professor Putricide](https://wowpedia.fandom.com/wiki/Professor_Putricide "Professor Putricide")
+-   [Shade of Arugal](https://wowpedia.fandom.com/wiki/Shade_of_Arugal "Shade of Arugal")
+-   [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa")
+
+
+
+ |
+|  |
+| Undead types | 
+
+<table><tbody><tr><th scope="row">Corporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Abomination" title="Abomination">Abomination</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mutated_abomination" title="Mutated abomination">Mutated abomination</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_giant" title="Flesh giant">Flesh giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_titan" title="Flesh titan">Flesh titan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague-dog" title="Plague-dog">Plague-dog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wight" title="Wight">Wight</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Crypt_fiend" title="Crypt fiend">Crypt fiend</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crypt_lord" title="Crypt lord">Crypt lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Gargoyle" title="Gargoyle">Gargoyle</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dire_gargoyle" title="Dire gargoyle">Dire</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Geist" title="Geist">Geist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghoul" title="Ghoul">Ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragon" title="Plagued dragon">Plagued dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague_eruptor" title="Plague eruptor">Plague eruptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Zombie" title="Zombie">Zombie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Undead_(playable)" title="Undead (playable)">Forsaken</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mummy" title="Mummy">Mummy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Darkfallen" title="Darkfallen">Darkfallen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scourge_troll" title="Scourge troll">Scourge troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vargul" title="Vargul">Vargul</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Incorporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Banshee" title="Banshee">Banshee</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghost" title="Ghost">Ghost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shade" title="Shade">Shade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val%27kyr" title="Val'kyr">Val'kyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wraith" title="Wraith">Wraith</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Skeletal_creature" title="Skeletal creature">Skeletal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_golem" title="Bone golem">Bone golem</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bone_wraith" title="Bone wraith">Bone wraith</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lich" title="Lich">Lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeleton" title="Skeleton">Skeleton</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_mage" title="Skeletal mage">Mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_warrior" title="Skeletal warrior">Warrior</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Skeletal dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Living followers | 
+
+-   [Ice troll](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll")
+-   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frost_vrykul "Frost vrykul")
+-   [Wendigo](https://wowpedia.fandom.com/wiki/Wendigo "Wendigo")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+-   [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel")
+-   [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas")
+-   [Shadowfang Tower](https://wowpedia.fandom.com/wiki/Shadowfang_Tower "Shadowfang Tower")
+-   [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")
+-   [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep "Utgarde Keep")
+-   [Voltarus](https://wowpedia.fandom.com/wiki/Voltarus "Voltarus")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+-   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+-   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")
+-   [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Black Guard](https://wowpedia.fandom.com/wiki/Black_Guard "Black Guard")
+-   [Boneguard](https://wowpedia.fandom.com/wiki/Boneguard_(Scourge) "Boneguard (Scourge)")
+-   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+    -   [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")
+    -   [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin")
+-   [Death's Head tribe](https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe "Death's Head tribe")
+-   [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") orders
+    -   [Four Horsemen](https://wowpedia.fandom.com/wiki/Four_Horsemen "Four Horsemen")
+    -   [Host of Suffering](https://wowpedia.fandom.com/wiki/Host_of_Suffering "Host of Suffering")
+-   [Drakuru trolls](https://wowpedia.fandom.com/wiki/Drakuru_trolls "Drakuru trolls")
+-   **Frostbrood**
+-   [Mad scientists](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist")
+-   [Nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian")
+    -   [Ahn'kahar](https://wowpedia.fandom.com/wiki/Ahn%27kahar "Ahn'kahar")
+    -   [Anub'ar](https://wowpedia.fandom.com/wiki/Anub%27ar "Anub'ar")
+    -   [Hath'ar](https://wowpedia.fandom.com/wiki/Hath%27ar "Hath'ar")
+    -   [Nerub'ar](https://wowpedia.fandom.com/wiki/Nerub%27ar "Nerub'ar")
+    -   [Nerubis](https://wowpedia.fandom.com/wiki/Nerubis "Nerubis")
+-   [Rot Hide tribe](https://wowpedia.fandom.com/wiki/Rot_Hide_tribe "Rot Hide tribe")
+-   [The San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn")
+    -   [Blood Prince Council](https://wowpedia.fandom.com/wiki/Blood_Prince_Council "Blood Prince Council")
+-   [Splinterbone](https://wowpedia.fandom.com/wiki/Splinterbone_skeletons "Splinterbone skeletons")
+-   [Vrykul clans](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Dragonflayer clan](https://wowpedia.fandom.com/wiki/Dragonflayer_clan "Dragonflayer clan")
+    -   [Mjordin](https://wowpedia.fandom.com/wiki/Mjordin "Mjordin")
+    -   [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim_vrykul "Jotunheim vrykul")
+    -   [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan")
+    -   [Valkyrion Hyldnir](https://wowpedia.fandom.com/wiki/Valkyrion "Valkyrion")
+    -   [Ymirjar](https://wowpedia.fandom.com/wiki/Ymirjar "Ymirjar")
+-   [Wolfcult](https://wowpedia.fandom.com/wiki/Wolfcult "Wolfcult")
+
+
+
+ |
+|  |
+| Defectors | 
+
+-   [Death Knights of Acherus](https://wowpedia.fandom.com/wiki/Death_Knights_of_Acherus "Death Knights of Acherus")
+    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade")
+    -   [Dark Riders of Acherus](https://wowpedia.fandom.com/wiki/Dark_Riders_of_Acherus "Dark Riders of Acherus")
+-   [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+
+
+
+ |
+|  |
+| Buildings & constructs | 
+
+-   [Ziggurat](https://wowpedia.fandom.com/wiki/Ziggurat "Ziggurat")
+-   [Necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis")
+-   [Plague spreader](https://wowpedia.fandom.com/wiki/Plague_spreader "Plague spreader")
+-   [Soul grinder](https://wowpedia.fandom.com/wiki/Soul_grinder "Soul grinder")
+
+
+
+ |
+|  |
+| 
+
+-   [Civil War in the Plaguelands](https://wowpedia.fandom.com/wiki/Civil_War_in_the_Plaguelands "Civil War in the Plaguelands")
+-   [Undead category](https://wowpedia.fandom.com/wiki/Category:Undead "Category:Undead")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Creaturefooter "Template:Creaturefooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Creaturefooter?action=edit)
+
+[Creatures](https://wowpedia.fandom.com/wiki/Creature "Creature")
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Creaturefooter "Template:Creaturefooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Creaturefooter?action=edit)
+
+[Creatures](https://wowpedia.fandom.com/wiki/Creature "Creature")
+
+
+
+ |
+| --- |
+
+Others like you also viewed
+
+Community content is available under [CC BY-SA 3.0](https://www.fandom.com/licensing) unless otherwise noted.
+
+## Fan Feed

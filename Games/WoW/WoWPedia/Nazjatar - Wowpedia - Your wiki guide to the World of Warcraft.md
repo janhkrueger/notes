@@ -1,0 +1,796 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Nazjatar |
+| --- |
+| Level: 50  
+Battle Pet Level: 25 |
+| [![Nazjatar loading screen.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Nazjatar_loading_screen.jpg/revision/latest/scale-to-width-down/260?cb=20191023121616)](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Nazjatar_loading_screen.jpg/revision/latest?cb=20191023121616)  
+[Loading screen](https://wowpedia.fandom.com/wiki/Loading_screen "Loading screen") as of [patch 8.2.0](https://wowpedia.fandom.com/wiki/Patch_8.2.0 "Patch 8.2.0")
+
+
+
+ |
+| Type | Capital city / Region |
+| Capital(s) | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [The Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") |
+| Races | [![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")  
+[![Makrura](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Makrura.gif/revision/latest/scale-to-width-down/16?cb=20211118214808)](https://wowpedia.fandom.com/wiki/Makrura "Makrura") [Makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura")  
+[![IconSmall Skrog.gif](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest/scale-to-width-down/16?cb=20211129173801)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest?cb=20211129173801) [Sea giant](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant")  
+[![Gilgoblin](https://static.wikia.nocookie.net/wowpedia/images/e/ec/IconSmall_Gilgoblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200806141121)](https://wowpedia.fandom.com/wiki/Gilgoblin "Gilgoblin")[![Gilgoblin](https://static.wikia.nocookie.net/wowpedia/images/7/77/IconSmall_Gilgoblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200806141115)](https://wowpedia.fandom.com/wiki/Gilgoblin "Gilgoblin") [Gilgoblin](https://wowpedia.fandom.com/wiki/Gilgoblin "Gilgoblin")  
+[![IconSmall Ankoan.gif](https://static.wikia.nocookie.net/wowpedia/images/e/e5/IconSmall_Ankoan.gif/revision/latest/scale-to-width-down/16?cb=20211118120639)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/IconSmall_Ankoan.gif/revision/latest?cb=20211118120639) [Ankoan](https://wowpedia.fandom.com/wiki/Ankoan "Ankoan")  
+[![Murloc](https://static.wikia.nocookie.net/wowpedia/images/f/fa/IconSmall_Murloc_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118115740)](https://wowpedia.fandom.com/wiki/Murloc "Murloc")[![Murloc](https://static.wikia.nocookie.net/wowpedia/images/3/3a/IconSmall_Murloc_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118115747)](https://wowpedia.fandom.com/wiki/Murloc "Murloc") [Murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc")  
+[![IconSmall DeepSeaMurloc.gif](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_DeepSeaMurloc.gif/revision/latest/scale-to-width-down/16?cb=20211118115921)](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_DeepSeaMurloc.gif/revision/latest?cb=20211118115921) [Deep sea murloc](https://wowpedia.fandom.com/wiki/Deep_sea_murloc "Deep sea murloc") |
+| Government | Absolute monarchy |
+| Ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c3/IconSmall_AzsharaQ.gif/revision/latest/scale-to-width-down/16?cb=20211209080519)[Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") |
+| Major settlements | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Bloodfin Village](https://wowpedia.fandom.com/wiki/Bloodfin_Village "Bloodfin Village")  
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Newhome](https://wowpedia.fandom.com/wiki/Newhome "Newhome")  
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Mezzamere](https://wowpedia.fandom.com/wiki/Mezzamere "Mezzamere")  
+ |
+| Minor settlements | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Thoras'tal Spire](https://wowpedia.fandom.com/wiki/Thoras%27tal_Spire "Thoras'tal Spire")  
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Wreck of the Hungry Riverbeast](https://wowpedia.fandom.com/wiki/Wreck_of_the_Hungry_Riverbeast "Wreck of the Hungry Riverbeast")  
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Orise's Vigil](https://wowpedia.fandom.com/wiki/Orise%27s_Vigil "Orise's Vigil")  
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Wreck of the Old Blanchy](https://wowpedia.fandom.com/wiki/Wreck_of_the_Old_Blanchy "Wreck of the Old Blanchy")  
+ |
+| Languages | [Nazja](https://wowpedia.fandom.com/wiki/Nazja "Nazja"), [Nerglish](https://wowpedia.fandom.com/wiki/Nerglish "Nerglish") |
+| Faiths | Cult of personality around, and worship of, [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"); [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") |
+| Affiliation | [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire"),<sup id="cite_ref-Seal_1-0"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-Seal-1">[1]</a></sup> [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces"), [Unshackled](https://wowpedia.fandom.com/wiki/Unshackled "Unshackled"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Waveblade Ankoan](https://wowpedia.fandom.com/wiki/Waveblade_Ankoan "Waveblade Ankoan"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Kil'karrok](https://wowpedia.fandom.com/wiki/Kil%27karrok "Kil'karrok"), [Bloodfin tribe](https://wowpedia.fandom.com/wiki/Bloodfin_tribe "Bloodfin tribe"), [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
+| Location | Under the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"),<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-3">[3]</a></sup> [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") |
+| PvP status | [Contested territory](https://wowpedia.fandom.com/wiki/Contested_territory "Contested territory") |
+
+**Nazjatar** (pronounced "NAWZ-juh-tahr")<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-4">[4]</a></sup> is the subaqueous [capital city](https://wowpedia.fandom.com/wiki/Capital_city "Capital city") of the [naga race](https://wowpedia.fandom.com/wiki/Naga "Naga"), ruled by [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), the former ruler of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"). It forms the core of the [empire of the same name](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire").<sup id="cite_ref-Seal_1-1"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-Seal-1">[1]</a></sup>
+
+Nazjatar is a new [zone](https://wowpedia.fandom.com/wiki/Zone "Zone") that came with [patch 8.2.0](https://wowpedia.fandom.com/wiki/Patch_8.2.0 "Patch 8.2.0"). It is located inside a massive crevasse in the middle of the [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea"), created by Azshara's power. The entire zone is below water level and is entirely surrounded by waterfalls.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-5">[5]</a></sup> This large open-world zone will culminate in the champions of the Horde and the Alliance confronting Queen Azshara.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-6">[6]</a></sup>
+
+## Description
+
+[![Nazjatar preview screenshot.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Nazjatar_preview_screenshot.jpg/revision/latest/scale-to-width-down/180?cb=20190701202345)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Nazjatar_preview_screenshot.jpg/revision/latest?cb=20190701202345)
+
+_Delve into the depths of Nazjatar, capital city of the naga, in an all-new full zone far beneath the sea, and set foot in this fabled area for the first time in [WoW](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") history. This is a large zone with new story quests, new and interesting friends and allies to meet and befriend, new foes to overcome, a variety of replayable outdoor content, and new rewards to earn including new mounts and even a baby naga!_
+
+_Everything culminates at Azshara's palace where players will face her in her seat of power._<sup id="cite_ref-Next_7-0"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-Next-7">[7]</a></sup>
+
+Nazjatar is a dangerous and beautiful place, filled with coral forests and unfathomable deep-sea creatures skittering through passageways and clinging to rockfaces. Secrets that have remained submerged for millennia are now exposed to the surface world, including the ancient ruins of Zin-Azshari, the once-glorious capital of the kaldorei. Further in the depths, the beautiful and terrible city of the naga—and the palace of the Queen of Tides herself—awaits.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-8">[8]</a></sup>
+
+## History
+
+The city was constructed following the events of the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), when the remaining [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") were transformed into [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"). Under the direction of their ever-pragmatic [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"),<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-9">[9]</a></sup> they set about constructing a new capital beneath the waves of the [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea"), where [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") and the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") were once located.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-10">[10]</a></sup> Thus, Nazjatar was created, and Azshara knew that one day [her empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") under the sea would eclipse even that of the ancient [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf").<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-11">[11]</a></sup>
+
+The naga of Nazjatar are masters of sorcery and natural dwellers of the ocean deeps.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-12">[12]</a></sup> The naga reinforcements sent to [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle") for [Warlord Sriss'tiz](https://wowpedia.fandom.com/wiki/Warlord_Sriss%27tiz "Warlord Sriss'tiz") came directly from Nazjatar.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-13">[13]</a></sup>
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/02/Opening_Nazjatar.jpg/revision/latest/scale-to-width-down/180?cb=20190706175217)](https://static.wikia.nocookie.net/wowpedia/images/0/02/Opening_Nazjatar.jpg/revision/latest?cb=20190706175217)
+
+The [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth") opening up the seas around Nazjatar.
+
+While the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") struck a decisive blow to the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") in the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor "Battle of Dazar'alor"), it was not without some casualties. With both sides reeling from the events and healing their wounds, the naga made their move and begin striking against the two. Taking any remaining ships, the Horde and the Alliance set sail and arrive in the ancient land of Nazjatar: the land of the naga and the location of Azshara's seat of power, her [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace"), where they will face Queen Azshara herself.<sup id="cite_ref-Next_7-1"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-Next-7">[7]</a></sup>
+
+Warchief [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") devised a plan to finally destroy the Alliance and end the war. For that outcome, she sent a fleet to the high seas from [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar"), led by [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") alongside [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra"). Sylvanas gave Nathanos the blade of [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire "Xal'atath, Blade of the Black Empire") to guide them to the rendezvous point. After finding out about it, the Alliance sent another fleet led by Lord Admiral [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") alongside [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane") and [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon") to chase them. It was at the rendezvous point that Queen Azshara used the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Inv_misc_enchantedpearl.png/revision/latest/scale-to-width-down/16?cb=20100930220042)[\[Tidestone of Golganneth\]](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth) to open the seas making the two fleets wreck into the [reefs of Nazjatar](https://wowpedia.fandom.com/wiki/Spears_of_Azshara "Spears of Azshara").
+
+## Geography
+
+### Maps and subregions
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/WorldMap-Nazjatar.jpg/revision/latest/scale-to-width-down/180?cb=20190621030503)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/WorldMap-Nazjatar.jpg/revision/latest?cb=20190621030503)
+
+Map of Nazjatar.
+
+-   [Abyssal Pool](https://wowpedia.fandom.com/wiki/Abyssal_Pool "Abyssal Pool")
+-   [Ashen Strand](https://wowpedia.fandom.com/wiki/Ashen_Strand "Ashen Strand")
+    -   [Alathir Spire](https://wowpedia.fandom.com/wiki/Alathir_Spire "Alathir Spire")
+    -   [Bloodfin Village](https://wowpedia.fandom.com/wiki/Bloodfin_Village "Bloodfin Village")
+        -   [Mrgl's Bar and Gill](https://wowpedia.fandom.com/wiki/Mrgl%27s_Bar_and_Gill "Mrgl's Bar and Gill")
+-   [Azsh'ari Terrace](https://wowpedia.fandom.com/wiki/Azsh%27ari_Terrace "Azsh'ari Terrace")
+    -   [Guardian Spring](https://wowpedia.fandom.com/wiki/Guardian_Spring "Guardian Spring")
+    -   [Mardivas's Laboratory](https://wowpedia.fandom.com/wiki/Mardivas%27s_Laboratory "Mardivas's Laboratory")
+    -   [Shirakess Repository](https://wowpedia.fandom.com/wiki/Shirakess_Repository "Shirakess Repository")
+        -   [Frostbrine Cave](https://wowpedia.fandom.com/wiki/Frostbrine_Cave "Frostbrine Cave")
+        -   [Shassera's Lair](https://wowpedia.fandom.com/wiki/Shassera%27s_Lair "Shassera's Lair")
+-   [Broken Fin Hollow](https://wowpedia.fandom.com/wiki/Broken_Fin_Hollow "Broken Fin Hollow")
+-   [Chamber of Harvesters](https://wowpedia.fandom.com/wiki/Chamber_of_Harvesters "Chamber of Harvesters")
+-   [Chitterspine Caverns](https://wowpedia.fandom.com/wiki/Chitterspine_Caverns "Chitterspine Caverns")
+    -   [Brinestone Cove](https://wowpedia.fandom.com/wiki/Brinestone_Cove "Brinestone Cove")
+    -   [Chitterspine Grotto](https://wowpedia.fandom.com/wiki/Chitterspine_Grotto "Chitterspine Grotto")
+    -   [Mardivas's Hideaway](https://wowpedia.fandom.com/wiki/Mardivas%27s_Hideaway "Mardivas's Hideaway")
+-   [Coral Forest](https://wowpedia.fandom.com/wiki/Coral_Forest "Coral Forest")
+    -   [Coral Grove](https://wowpedia.fandom.com/wiki/Coral_Grove "Coral Grove")
+    -   [Maedin's Challenge](https://wowpedia.fandom.com/wiki/Maedin%27s_Challenge "Maedin's Challenge")
+-   [Deepcoil Tunnels](https://wowpedia.fandom.com/wiki/Deepcoil_Tunnels "Deepcoil Tunnels")
+    -   [Deepcoil Hatchery](https://wowpedia.fandom.com/wiki/Deepcoil_Hatchery "Deepcoil Hatchery")
+-   [Dragon's Teeth Basin](https://wowpedia.fandom.com/wiki/Dragon%27s_Teeth_Basin "Dragon's Teeth Basin")
+    -   [Basin Hideout](https://wowpedia.fandom.com/wiki/Basin_Hideout "Basin Hideout")
+-   [The Royal Approach](https://wowpedia.fandom.com/wiki/Royal_Approach_(Nazjatar) "Royal Approach (Nazjatar)")
+-   [Gate of the Queen](https://wowpedia.fandom.com/wiki/Gate_of_the_Queen "Gate of the Queen")
+    -   [The Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace")
+-   [Gorgonian Overlook](https://wowpedia.fandom.com/wiki/Gorgonian_Overlook "Gorgonian Overlook")
+-   [The Hanging Reef](https://wowpedia.fandom.com/wiki/Hanging_Reef "Hanging Reef")
+    -   [Mezzamere](https://wowpedia.fandom.com/wiki/Mezzamere "Mezzamere")
+    -   [Newhome](https://wowpedia.fandom.com/wiki/Newhome "Newhome")
+-   [Imperial Gardens](https://wowpedia.fandom.com/wiki/Imperial_Gardens "Imperial Gardens")
+-   [Kelfin Pocket](https://wowpedia.fandom.com/wiki/Kelfin_Pocket "Kelfin Pocket")
+-   [Murloco's Hideaway](https://wowpedia.fandom.com/wiki/Murloco%27s_Hideaway "Murloco's Hideaway")
+-   [Roiling Vortex](https://wowpedia.fandom.com/wiki/Roiling_Vortex "Roiling Vortex")
+-   [Spears of Azshara](https://wowpedia.fandom.com/wiki/Spears_of_Azshara "Spears of Azshara")
+    -   [Damprock Cavern](https://wowpedia.fandom.com/wiki/Damprock_Cavern "Damprock Cavern")
+    -   [Darkwater Cavern](https://wowpedia.fandom.com/wiki/Darkwater_Cavern "Darkwater Cavern")
+    -   [The Forgotten Tunnel](https://wowpedia.fandom.com/wiki/Forgotten_Tunnel "Forgotten Tunnel")
+    -   [Gorm's Den](https://wowpedia.fandom.com/wiki/Gorm%27s_Den "Gorm's Den")
+    -   [Thoras'tal Spire](https://wowpedia.fandom.com/wiki/Thoras%27tal_Spire "Thoras'tal Spire")
+    -   [Tide's Fall](https://wowpedia.fandom.com/wiki/Tide%27s_Fall "Tide's Fall")
+    -   [Wreck of the Hungry Riverbeast](https://wowpedia.fandom.com/wiki/Wreck_of_the_Hungry_Riverbeast "Wreck of the Hungry Riverbeast")
+    -   [Wreck of the Old Blanchy](https://wowpedia.fandom.com/wiki/Wreck_of_the_Old_Blanchy "Wreck of the Old Blanchy")
+-   [The Tidal Conflux](https://wowpedia.fandom.com/wiki/Tidal_Conflux "Tidal Conflux")
+-   [Zanj'ir Terrace](https://wowpedia.fandom.com/wiki/Zanj%27ir_Terrace "Zanj'ir Terrace")
+    -   [Zanj'ir Keep](https://wowpedia.fandom.com/wiki/Zanj%27ir_Keep "Zanj'ir Keep")
+-   [Zanj'ir Wash](https://wowpedia.fandom.com/wiki/Zanj%27ir_Wash "Zanj'ir Wash")
+    -   [Deepsea Refuge](https://wowpedia.fandom.com/wiki/Deepsea_Refuge "Deepsea Refuge")
+    -   [Deepsea Slave Pen](https://wowpedia.fandom.com/wiki/Deepsea_Slave_Pen "Deepsea Slave Pen")
+    -   [Void Chamber](https://wowpedia.fandom.com/wiki/Void_Chamber "Void Chamber")
+-   [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari")
+    -   [The Drowned Market](https://wowpedia.fandom.com/wiki/Drowned_Market "Drowned Market")
+    -   [Elun'alor Temple](https://wowpedia.fandom.com/wiki/Elun%27alor_Temple "Elun'alor Temple")
+    -   [Highborne Estates](https://wowpedia.fandom.com/wiki/Highborne_Estates "Highborne Estates")
+    -   [Kal'methir](https://wowpedia.fandom.com/wiki/Kal%27methir "Kal'methir")
+        -   [Kal'methir Citadel](https://wowpedia.fandom.com/wiki/Kal%27methir_Citadel "Kal'methir Citadel")
+            -   [Utama's Stand](https://wowpedia.fandom.com/wiki/Utama%27s_Stand "Utama's Stand")
+    -   [Lemor'athra Spire](https://wowpedia.fandom.com/wiki/Lemor%27athra_Spire "Lemor'athra Spire")
+    -   [Nar'anan](https://wowpedia.fandom.com/wiki/Nar%27anan "Nar'anan")
+        -   [Ekka's Hideaway](https://wowpedia.fandom.com/wiki/Ekka%27s_Hideaway "Ekka's Hideaway")
+    -   [Orise's Vigil](https://wowpedia.fandom.com/wiki/Orise%27s_Vigil "Orise's Vigil")
+
+## Quests
+
+_Main article: [Nazjatar storyline](https://wowpedia.fandom.com/wiki/Nazjatar_storyline "Nazjatar storyline")_
+
+## Instances
+
+| Instance name | Level range | Group size | Approximate run time |
+| --- | --- | --- | --- |
+| [![Instance portal](https://static.wikia.nocookie.net/wowpedia/images/4/45/Instance_portal_green.png/revision/latest?cb=20080612053957)](https://wowpedia.fandom.com/wiki/Instance_portal "Instance portal") [The Eternal Palace](https://wowpedia.fandom.com/wiki/The_Eternal_Palace "The Eternal Palace") | 120+++ | 10-30 player | Unknown |
+
+## Wildlife
+
+Outside the waterwall, the following wild animals can be seen swimming about:
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+### In Lands of Mystery and Shadows & Light
+
+The [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") [capital](https://wowpedia.fandom.com/wiki/Capital_city "Capital city") of **Nazjatar** is built into the walls of the [Rift](https://wowpedia.fandom.com/wiki/Rift_(Maelstrom) "Rift (Maelstrom)"), just under the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")'s center. This is the seat of their [hideous empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire"), and it is an eerie and frightening place. The naga dominate the [Eye](https://wowpedia.fandom.com/wiki/Eye_(Maelstrom) "Eye (Maelstrom)") from here.<sup id="cite_ref-LoM73_14-0"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-LoM73-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-15">[15]</a></sup>
+
+#### Description
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Maelstromundersea.PNG/revision/latest/scale-to-width-down/180?cb=20070305205636)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Maelstromundersea.PNG/revision/latest?cb=20070305205636)
+
+Nazjatar's location in the Eye.
+
+Much of Nazjatar was once a [Kaldorei](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") [city](https://wowpedia.fandom.com/wiki/City "City") (presumably [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari")), and the ruins and architecture remain. However, the naga have added a good amount of their own art to this place, dredging building material from coral and rock and the fallen ruins of their former civilization. The buildings' foundations merge with the walls of the Rift, though the structures themselves are oriented vertically, as normal (not horizontally; their foundations are on their walls). The place has a dark and sinister atmosphere, and naga swim among the buildings, conducting their nefarious plans. The buildings' colors are muted, usually tan or gray, and bear carvings of waves, [seahorses](https://wowpedia.fandom.com/wiki/Seahorse "Seahorse"), [fish](https://wowpedia.fandom.com/wiki/Fish "Fish"), and more disturbing motifs: powerful naga [warriors](https://wowpedia.fandom.com/wiki/Warrior "Warrior") and [mages](https://wowpedia.fandom.com/wiki/Mage "Mage"), battling the [makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura"), enslaving the [mur'gul](https://wowpedia.fandom.com/wiki/Mur%27gul "Mur'gul"), and returning to the surface to exact revenge on their [ancient kin](https://wowpedia.fandom.com/wiki/Night_elf "Night elf").<sup id="cite_ref-LoM73_14-1"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-LoM73-14">[14]</a></sup>
+
+[Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), grown massive in size and in power, dwells in the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") in Nazjatar's center; this structure was [her palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace") in the Kaldorei civilization 10,000 years ago as well.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-16">[16]</a></sup><sup id="cite_ref-LoM73_14-2"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-LoM73-14">[14]</a></sup>
+
+#### Geography
+
+Nazjatar is found in [a trench](https://wowpedia.fandom.com/wiki/Rift_(Maelstrom) "Rift (Maelstrom)") beneath the [Eye](https://wowpedia.fandom.com/wiki/Eye_(Maelstrom) "Eye (Maelstrom)") of the Maelstrom. Nearby areas of interest include [Mak'aru](https://wowpedia.fandom.com/wiki/Mak%27aru "Mak'aru") — capital city of the [makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura") lobster-men, the [Scintal Reef](https://wowpedia.fandom.com/wiki/Scintal_Reef "Scintal Reef"), the [Gishan Caverns](https://wowpedia.fandom.com/wiki/Gishan_Caverns "Gishan Caverns"), [Pillar Deep](https://wowpedia.fandom.com/wiki/Pillar_Deep "Pillar Deep"), the [Boiling Terrace](https://wowpedia.fandom.com/wiki/Boiling_Terrace "Boiling Terrace"), and the [Drowned Reaches](https://wowpedia.fandom.com/wiki/Drowned_Reaches "Drowned Reaches").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-17">[17]</a></sup>
+
+### In Dark Factions
+
+The [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") [capital](https://wowpedia.fandom.com/wiki/Capital_city "Capital city") of **Nazjatar** is at the bottom of the ocean in the [Eye](https://wowpedia.fandom.com/wiki/Eye_(Maelstrom) "Eye (Maelstrom)"), beneath the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"). Their city is built into the cliffside and adorned with fantastic decorations. Nazjatar is in fact built upon the remains of the former [kaldorei](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") capital of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") — as the naga changed with the [Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") and evolved over the millennia, so too did their city. In current times, many naga range out from Nazjatar. They prefer sea coasts and can be found throughout [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").
+
+Naga serve their own purposes and are united in their efforts to return their race to glory. All others — the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and all the rest — are either tools to further this goal or obstacles that must be destroyed.<sup id="cite_ref-DF13_18-0"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-DF13-18">[18]</a></sup>
+
+#### History
+
+When the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") imploded it left behind residual energies, which twisted in the ocean depths near the naga's city. Over ten millennia these energies mutated the fallen [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), altering them even further to suit their new environment. The naga recast ruined Zin-Azshari into a new capital: Nazjatar. Ruling the naga was Azshara, now mutated into a terrible demigod.
+
+Naga history takes a breather for 10,000 years. What they did while they sat in Nazjatar, aside from mutate, is not known. They probably tamed some native creatures to use in warfare. Studied arcane magic, and probably clashed with the [makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura"), whose capital [Mak'aru](https://wowpedia.fandom.com/wiki/Mak%27aru "Mak'aru") is in close proximity.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-19">[19]</a></sup> The makrura hate the naga and slaughter them on sight; in turn, the naga show no mercy to the makrura.<sup id="cite_ref-DF120_20-0"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-DF120-20">[20]</a></sup><sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-21">[21]</a></sup> [Murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc") fear Nazjatar's power.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-22">[22]</a></sup>
+
+#### People and culture
+
+Over the eons, [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), the most powerful [arcanist](https://wowpedia.fandom.com/wiki/Arcanist "Arcanist") of the [ancient world](https://wowpedia.fandom.com/wiki/Ancient_Kalimdor "Ancient Kalimdor"), has grown in power and magnificence. To the naga, she is a living [demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod"), and they venerate her. Her presence in Nazjatar is a powerful motivating force for the naga, and in their minds Azshara, Nazjatar, and the naga are inextricably linked — perhaps the same thing, in a way. Naga pay homage to their heritage and their queen. The beings they once revered as kaldorei — [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne"), [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius"), even [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") — are nothing but shadows.<sup id="cite_ref-DF13_18-1"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-DF13-18">[18]</a></sup> The naga draw power from the [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") influence around Nazjatar.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-23">[23]</a></sup>
+
+While exceptions exist, naga men perform tasks requiring physical strength and stamina, while naga women take up intellectual pursuits. Men mine stone and coral for building, for example, while women draw the blueprints and create the strangely delicate frescoes that adorn Nazjatar's buildings. In military matters, men are warriors and guards, while women are generals and magi. As said, some exceptions exist, and male naga commanders are not completely unknown. Both men and women emphasize learning, from weaponsmithing to spellcraft. Naga know the value of knowledge.<sup id="cite_ref-DF120_20-1"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-DF120-20">[20]</a></sup> As far as anyone knows, the only real naga armies that currently exist are beneath the waves, in Nazjatar, and in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), where a force of naga under [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") works with [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage").<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-24">[24]</a></sup>
+
+The naga have had millennia to adapt to their environment, and they make use of the surrounding areas and the native flora and fauna. Trained [sharks](https://wowpedia.fandom.com/wiki/Shark "Shark"), [dragon turtles](https://wowpedia.fandom.com/wiki/Dragon_turtle "Dragon turtle"), and great serpentlike [tube wyrms](https://wowpedia.fandom.com/wiki/Tube_wyrm "Tube wyrm") called [tidal guardians](https://wowpedia.fandom.com/wiki/Tidal_guardian "Tidal guardian") patrol the waters around Nazjatar. Apparently, this rapport is not limited to creatures beneath the waves, for naga forces on land include trained [couatl](https://wowpedia.fandom.com/wiki/Couatl "Couatl") as well. The naga also work with a race called the [mur'gul](https://wowpedia.fandom.com/wiki/Mur%27gul "Mur'gul"), who were once murlocs, but are now brutal, warped, and twisted due to the Legion's influence.<sup id="cite_ref-DF120_20-2"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-DF120-20">[20]</a></sup>
+
+## Notes and trivia
+
+-   An **Unseen Presence** whispers to the player when in [Deepcoil Tunnels](https://wowpedia.fandom.com/wiki/Deepcoil_Tunnels "Deepcoil Tunnels") or [Shirakess Repository](https://wowpedia.fandom.com/wiki/Shirakess_Repository "Shirakess Repository").
+-   Naga on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") occasionally yell "_For Nazjatar!_",<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-25">[25]</a></sup> and on [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") yell "_By Nazjatar's Depths!_"<sup id="cite_ref-CoilfangChampion_26-0"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-CoilfangChampion-26">[26]</a></sup>
+-   The _[War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")_ originally mentioned that [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") sunk whole to the bottom of the ocean during the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") and, "over the centuries, \[would\] begin to birth a new horror",<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-27">[27]</a></sup> which back then implied that it would become Nazjatar. Other sources say that the naga "built" and "created" a "new" capital and empire at the bottom of the sea.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-28">[28]</a></sup><sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-29">[29]</a></sup> In _Battle for Azeroth_, it is shown that the ruins of Zin-Azshari are part of Nazjatar.
+-   Nazjatar was originally planned to be included in classic _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ as the capital for playable naga.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-30">[30]</a></sup>
+-   This zone takes some of the elements used in the [Maelstrom's Eye](https://wowpedia.fandom.com/wiki/Eye_(Maelstrom) "Eye (Maelstrom)") RPG location, such as the subzone themes, the makrura inhabiting the region, or the slaves used by the naga.
+-   The map labeled _Nazjatar_ was first datamined long before the announcement of [patch 8.2.0](https://wowpedia.fandom.com/wiki/Patch_8.2.0 "Patch 8.2.0"), during the _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_ [alpha](https://wowpedia.fandom.com/wiki/Alpha "Alpha").<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_note-31">[31]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Inv_misc_herb_talandrasrose.png/revision/latest/scale-to-width-down/16?cb=20080710213420)[\[Budding Deepcoral\]](https://wowpedia.fandom.com/wiki/Budding_Deepcoral) allows [aquatic mounts](https://wowpedia.fandom.com/wiki/Aquatic_mounts "Aquatic mounts") function like normal mounts in Nazjatar. If players achieved  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Inv_misc_map04.png/revision/latest/scale-to-width-down/16?cb=20080805011158)[\[Battle for Azeroth Pathfinder, Part Two\]](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth_Pathfinder,_Part_Two), the mounts can fly beside  ![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Inv_misc_fish_turtle_02.png/revision/latest/scale-to-width-down/16?cb=20060902184121)[\[Sea Turtle\]](https://wowpedia.fandom.com/wiki/Sea_Turtle_(mount)).
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   The name 'Nazjatar' is presumably derived from the name of the naga language, [Nazja](https://wowpedia.fandom.com/wiki/Nazja "Nazja"), or the opposite.
+-   The destruction wrought by the [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s emergence from [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm") may have damaged Nazjatar, as this violent event occurred in the vicinity of the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") and, as such, near the naga capital.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Ashen_Strand.jpg/revision/latest/scale-to-width-down/321?cb=20190502231305)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Ashen_Strand.jpg/revision/latest?cb=20190502231305)
+    
+    The Ashen Strand.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Ruins_of_Zin-Azshari.jpg/revision/latest/scale-to-width-down/320?cb=20190813161623)](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Ruins_of_Zin-Azshari.jpg/revision/latest?cb=20190813161623)
+    
+    Zin-Azshari.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/52/AEP_exterior.jpg/revision/latest/scale-to-width-down/320?cb=20190721002237)](https://static.wikia.nocookie.net/wowpedia/images/5/52/AEP_exterior.jpg/revision/latest?cb=20190721002237)
+    
+    The Eternal Palace.
+    
+
+Art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Rise_of_Azshara_art.jpg/revision/latest/scale-to-width-down/276?cb=20190625173540)](https://static.wikia.nocookie.net/wowpedia/images/9/97/Rise_of_Azshara_art.jpg/revision/latest?cb=20190625173540)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/85/Nazjatar_BlizzCon_2018_2.jpg/revision/latest/scale-to-width-down/320?cb=20181103002712)](https://static.wikia.nocookie.net/wowpedia/images/8/85/Nazjatar_BlizzCon_2018_2.jpg/revision/latest?cb=20181103002712)
+    
+    Concept art.
+    
+-   [![Nazjatar concept art.jpg](https://static.wikia.nocookie.net/wowpedia/images/5/50/Nazjatar_concept_art.jpg/revision/latest/scale-to-width-down/376?cb=20190706235021)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Nazjatar_concept_art.jpg/revision/latest?cb=20190706235021)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Nazjatar_-_Early_stage_visual_development_1.jpg/revision/latest/scale-to-width-down/320?cb=20190714224112)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Nazjatar_-_Early_stage_visual_development_1.jpg/revision/latest?cb=20190714224112)
+    
+    Early stage visual development
+    
+-   [![Nazjatar - Early stage visual development 2.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Nazjatar_-_Early_stage_visual_development_2.jpg/revision/latest/scale-to-width-down/320?cb=20190714224158)](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Nazjatar_-_Early_stage_visual_development_2.jpg/revision/latest?cb=20190714224158)
+    
+-   [![Nazjatar - Early stage visual development 3.jpg](https://static.wikia.nocookie.net/wowpedia/images/1/12/Nazjatar_-_Early_stage_visual_development_3.jpg/revision/latest/scale-to-width-down/243?cb=20190718200718)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Nazjatar_-_Early_stage_visual_development_3.jpg/revision/latest?cb=20190718200718)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Nazjatar_BlizzCon_2018_4.jpg/revision/latest/scale-to-width-down/461?cb=20190714222635)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Nazjatar_BlizzCon_2018_4.jpg/revision/latest?cb=20190714222635)
+    
+-   [![Nazjatar BlizzCon 2018 8.jpg](https://static.wikia.nocookie.net/wowpedia/images/3/32/Nazjatar_BlizzCon_2018_8.jpg/revision/latest/scale-to-width-down/320?cb=20190714222622)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Nazjatar_BlizzCon_2018_8.jpg/revision/latest?cb=20190714222622)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Nazjatar_BlizzCon_2018_3.jpg/revision/latest/scale-to-width-down/320?cb=20190714222805)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Nazjatar_BlizzCon_2018_3.jpg/revision/latest?cb=20190714222805)
+    
+    Kelp forest biome.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/Nazjatar_Deep_Cavern_Biome.jpg/revision/latest/scale-to-width-down/320?cb=20190714223231)](https://static.wikia.nocookie.net/wowpedia/images/8/82/Nazjatar_Deep_Cavern_Biome.jpg/revision/latest?cb=20190714223231)
+    
+    Deep cavern biome.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c5/Nazjatar_Thermal_Vents.jpg/revision/latest/scale-to-width-down/320?cb=20190714223336)](https://static.wikia.nocookie.net/wowpedia/images/c/c5/Nazjatar_Thermal_Vents.jpg/revision/latest?cb=20190714223336)
+    
+    Thermal vents.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Nazjatar_-_Kaldorei_ruins_concept.jpg/revision/latest/scale-to-width-down/108?cb=20190723205047)](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Nazjatar_-_Kaldorei_ruins_concept.jpg/revision/latest?cb=20190723205047)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Nazjatar_buildings_concept.jpg/revision/latest/scale-to-width-down/320?cb=20201216211210)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Nazjatar_buildings_concept.jpg/revision/latest?cb=20201216211210)
+    
+    Naga buildings.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Nazjatar_weapon_concept.jpg/revision/latest/scale-to-width-down/144?cb=20190723205132)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Nazjatar_weapon_concept.jpg/revision/latest?cb=20190723205132)
+    
+    Naga and ancient night elf weaponry.
+    
+
+In-game maps
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/AdventureMap-NazjatarTaxi.jpg/revision/latest/scale-to-width-down/270?cb=20210414005404)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/AdventureMap-NazjatarTaxi.jpg/revision/latest?cb=20210414005404)
+    
+
+Other maps
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Azeroth_map_concept_Metzen_1999_wall_painting.jpg/revision/latest/scale-to-width-down/220?cb=20181120194524)](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Azeroth_map_concept_Metzen_1999_wall_painting.jpg/revision/latest?cb=20181120194524)
+    
+    On a 1999 map painting.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Chronicle_-_Map_of_Azeroth.jpg/revision/latest/scale-to-width-down/270?cb=20180325215922)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Chronicle_-_Map_of_Azeroth.jpg/revision/latest?cb=20180325215922)
+    
+    Nazjatar's location under the Maelstrom in _[Chronicle](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_.
+    
+
+BlizzCon 2018 preview
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Nazjatar_BlizzCon_2018_5.jpg/revision/latest/scale-to-width-down/320?cb=20181103004059)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Nazjatar_BlizzCon_2018_5.jpg/revision/latest?cb=20181103004059)
+    
+    Coral Forest.
+    
+-   [![Nazjatar BlizzCon 2018 9.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Nazjatar_BlizzCon_2018_9.jpg/revision/latest/scale-to-width-down/320?cb=20181106025127)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Nazjatar_BlizzCon_2018_9.jpg/revision/latest?cb=20181106025127)
+    
+-   [![Nazjatar BlizzCon 2018 10.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/77/Nazjatar_BlizzCon_2018_10.jpg/revision/latest/scale-to-width-down/320?cb=20181106025129)](https://static.wikia.nocookie.net/wowpedia/images/7/77/Nazjatar_BlizzCon_2018_10.jpg/revision/latest?cb=20181106025129)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Nazjatar_BlizzCon_2018_7.jpg/revision/latest/scale-to-width-down/320?cb=20181106024921)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Nazjatar_BlizzCon_2018_7.jpg/revision/latest?cb=20181106024921)
+    
+    Kelp forest.
+    
+-   [![Nazjatar BlizzCon 2018 11.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Nazjatar_BlizzCon_2018_11.jpg/revision/latest/scale-to-width-down/320?cb=20181106025131)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Nazjatar_BlizzCon_2018_11.jpg/revision/latest?cb=20181106025131)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Nazjatar_BlizzCon_2018_6.jpg/revision/latest/scale-to-width-down/320?cb=20181103004101)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Nazjatar_BlizzCon_2018_6.jpg/revision/latest?cb=20181103004101)
+    
+    Ashen Strand.
+    
+-   [![Nazjatar BlizzCon 2018 12.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/83/Nazjatar_BlizzCon_2018_12.jpg/revision/latest/scale-to-width-down/320?cb=20181106025311)](https://static.wikia.nocookie.net/wowpedia/images/8/83/Nazjatar_BlizzCon_2018_12.jpg/revision/latest?cb=20181106025311)
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Azeroth_New_World_Map.jpg/revision/latest/scale-to-width-down/120?cb=20071011083804)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Azeroth_New_World_Map.jpg/revision/latest?cb=20071011083804)
+    
+    Fan-made composite map from existing source maps before WotLK.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Map_roa_nyalotha.jpg/revision/latest/scale-to-width-down/120?cb=20150610203652)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Map_roa_nyalotha.jpg/revision/latest?cb=20150610203652)
+    
+
+## Videos
+
+-   [The Story of The Eternal Palace](https://wowpedia.fandom.com/wiki/Nazjatar#)
+
+## Patch changes
+
+-   [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") **[Patch 8.2.0](https://wowpedia.fandom.com/wiki/Patch_8.2.0 "Patch 8.2.0") (2019-06-25):** Added.  
+    
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-Seal_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-Seal_1-1">b</a></sup>  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2b/Inv_70_dungeon_ring4a.png/revision/latest/scale-to-width-down/16?cb=20160611234613)[\[Seal of the Nazjatar Empire\]](https://wowpedia.fandom.com/wiki/Seal_of_the_Nazjatar_Empire)
+2.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-2) [File:Chronicle - Map of Azeroth.jpg](https://wowpedia.fandom.com/wiki/File:Chronicle_-_Map_of_Azeroth.jpg "File:Chronicle - Map of Azeroth.jpg")
+3.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-3) _[Night of the Dragon](https://wowpedia.fandom.com/wiki/Night_of_the_Dragon "Night of the Dragon")_, chapter 6
+4.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-4) [Hatecoil Fathom-Stalker](https://wowpedia.fandom.com/wiki/Hatecoil_Fathom-Stalker "Hatecoil Fathom-Stalker")
+5.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-5) [LATAM Content Creators Interview with Jeremy Feasel and Paul Watkins](https://www.wowhead.com/news=288498/latam-content-creators-interview-with-jeremy-feasel-and-paul-watkins-flying-in-n)
+6.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-6) [Wowhead](https://www.wowhead.com/news=291015/buffed-de-8-2-interview-with-ion-hazzikostas-azshara-plot-twist-class-diversity-)
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-Next_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-Next_7-1">b</a></sup> [BlizzCon 2017 - _What's Next?_ panel recap](https://worldofwarcraft.com/en-us/news/22646758/world-of-warcraft-what-s-next-panel-recap)
+8.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-8) [Preview: Nazjatar Visitor's Guide](https://worldofwarcraft.com/en-us/news/23034748/preview-nazjatar-visitor-s-guide)
+9.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-9) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_
+10.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-10) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, chapter 14
+11.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-11) [Words of Wind and Earth](https://wowpedia.fandom.com/wiki/Words_of_Wind_and_Earth "Words of Wind and Earth")
+12.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-12)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Inv_leather_raiddruid_m_01belt.png/revision/latest/scale-to-width-down/16?cb=20130102215321)[\[Intact Nazjatar Molting\]](https://wowpedia.fandom.com/wiki/Intact_Nazjatar_Molting)
+13.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-13)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[1-30\] [Rune Covered Tablet](https://wowpedia.fandom.com/wiki/Rune_Covered_Tablet_(quest))
+14.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-LoM73_14-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-LoM73_14-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-LoM73_14-2">c</a></sup> _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 73
+15.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-15) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 71
+16.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-16) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 169
+17.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-17) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 71 - 73
+18.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-DF13_18-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-DF13_18-1">b</a></sup> _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 13
+19.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-19) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 119
+20.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-DF120_20-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-DF120_20-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-DF120_20-2">c</a></sup> _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 120
+21.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-21) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 207
+22.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-22) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 218
+23.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-23) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 68
+24.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-24) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 181
+25.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-25) [Hatecoil Slavemaster](https://wowpedia.fandom.com/wiki/Hatecoil_Slavemaster "Hatecoil Slavemaster")
+26.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-CoilfangChampion_26-0) [Coilfang Champion](https://wowpedia.fandom.com/wiki/Coilfang_Champion "Coilfang Champion")
+27.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-27) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, chapter 20
+28.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-28) [Words of Wind and Earth](https://wowpedia.fandom.com/wiki/Words_of_Wind_and_Earth "Words of Wind and Earth") - "_Though Azshara's old empire was in ruins, she crafted a new one far from the light of the sun. The queen and her naga servants created a capital, Nazjatar, at the bottom of the sea._"
+29.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-29) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 105 - _... would quietly build the naga capital of Nazjatar in the cold darkness at the bottom of the sea._
+30.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-30) MMO-Champion 2018-09-24. [John Staats Interview - The World of Warcraft Diary (17:04)](https://www.youtube.com/watch?v=L77uPm5cuTo&t=17m4s). _YouTube_. Retrieved on 2018-09-24.
+31.  [^](https://wowpedia.fandom.com/wiki/Nazjatar#cite_ref-31) Squishei 2018-01-25. [Battle for Azeroth Datamining - 8.01 Beta Build 25902](http://bfa.wowhead.com/news=281085/battle-for-azeroth-datamining-8-01-beta-build-25902). [Wowhead](https://wowpedia.fandom.com/wiki/Wowhead "Wowhead").
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/zone=10052)
+-   [WoWDB](https://www.wowdb.com/zones/10052)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Nazjatar "Template:Nazjatar")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Nazjatar?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of **Nazjatar**
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Nazjatar is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Nazjatar is a contested territory")
+
+ | 
+
+-   [Abyssal Pool](https://wowpedia.fandom.com/wiki/Abyssal_Pool "Abyssal Pool")
+-   [Ashen Strand](https://wowpedia.fandom.com/wiki/Ashen_Strand "Ashen Strand")
+    -   [Alathir Spire](https://wowpedia.fandom.com/wiki/Alathir_Spire "Alathir Spire")
+    -   [Bloodfin Village](https://wowpedia.fandom.com/wiki/Bloodfin_Village "Bloodfin Village")
+        -   [Mrgl's Bar and Gill](https://wowpedia.fandom.com/wiki/Mrgl%27s_Bar_and_Gill "Mrgl's Bar and Gill")
+-   [Azsh'ari Terrace](https://wowpedia.fandom.com/wiki/Azsh%27ari_Terrace "Azsh'ari Terrace")
+    -   [Guardian Spring](https://wowpedia.fandom.com/wiki/Guardian_Spring "Guardian Spring")
+    -   [Mardivas's Laboratory](https://wowpedia.fandom.com/wiki/Mardivas%27s_Laboratory "Mardivas's Laboratory")
+    -   [Shirakess Repository](https://wowpedia.fandom.com/wiki/Shirakess_Repository "Shirakess Repository")
+        -   [Frostbrine Cave](https://wowpedia.fandom.com/wiki/Frostbrine_Cave "Frostbrine Cave")
+        -   [Shassera's Lair](https://wowpedia.fandom.com/wiki/Shassera%27s_Lair "Shassera's Lair")
+-   [Broken Fin Hollow](https://wowpedia.fandom.com/wiki/Broken_Fin_Hollow "Broken Fin Hollow")
+-   [Chamber of Harvesters](https://wowpedia.fandom.com/wiki/Chamber_of_Harvesters "Chamber of Harvesters")
+-   [Chitterspine Caverns](https://wowpedia.fandom.com/wiki/Chitterspine_Caverns "Chitterspine Caverns")
+    -   [Brinestone Cove](https://wowpedia.fandom.com/wiki/Brinestone_Cove "Brinestone Cove")
+    -   [Chitterspine Grotto](https://wowpedia.fandom.com/wiki/Chitterspine_Grotto "Chitterspine Grotto")
+    -   [Mardivas's Hideaway](https://wowpedia.fandom.com/wiki/Mardivas%27s_Hideaway "Mardivas's Hideaway")
+-   [Coral Forest](https://wowpedia.fandom.com/wiki/Coral_Forest "Coral Forest")
+    -   [Coral Grove](https://wowpedia.fandom.com/wiki/Coral_Grove "Coral Grove")
+    -   [Maedin's Challenge](https://wowpedia.fandom.com/wiki/Maedin%27s_Challenge "Maedin's Challenge")
+-   [Deepcoil Tunnels](https://wowpedia.fandom.com/wiki/Deepcoil_Tunnels "Deepcoil Tunnels")
+    -   [Deepcoil Hatchery](https://wowpedia.fandom.com/wiki/Deepcoil_Hatchery "Deepcoil Hatchery")
+-   [Dragon's Teeth Basin](https://wowpedia.fandom.com/wiki/Dragon%27s_Teeth_Basin "Dragon's Teeth Basin")
+    -   [Basin Hideout](https://wowpedia.fandom.com/wiki/Basin_Hideout "Basin Hideout")
+-   [The Royal Approach](https://wowpedia.fandom.com/wiki/Royal_Approach_(Nazjatar) "Royal Approach (Nazjatar)")
+-   [Gate of the Queen](https://wowpedia.fandom.com/wiki/Gate_of_the_Queen "Gate of the Queen")
+    -   [The Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace")
+-   [Gorgonian Overlook](https://wowpedia.fandom.com/wiki/Gorgonian_Overlook "Gorgonian Overlook")
+-   [The Hanging Reef](https://wowpedia.fandom.com/wiki/Hanging_Reef "Hanging Reef")
+    -   [Mezzamere](https://wowpedia.fandom.com/wiki/Mezzamere "Mezzamere")
+    -   [Newhome](https://wowpedia.fandom.com/wiki/Newhome "Newhome")
+-   [Imperial Gardens](https://wowpedia.fandom.com/wiki/Imperial_Gardens "Imperial Gardens")
+-   [Kelfin Pocket](https://wowpedia.fandom.com/wiki/Kelfin_Pocket "Kelfin Pocket")
+-   [Murloco's Hideaway](https://wowpedia.fandom.com/wiki/Murloco%27s_Hideaway "Murloco's Hideaway")
+-   [Roiling Vortex](https://wowpedia.fandom.com/wiki/Roiling_Vortex "Roiling Vortex")
+-   [Spears of Azshara](https://wowpedia.fandom.com/wiki/Spears_of_Azshara "Spears of Azshara")
+    -   [Damprock Cavern](https://wowpedia.fandom.com/wiki/Damprock_Cavern "Damprock Cavern")
+    -   [Darkwater Cavern](https://wowpedia.fandom.com/wiki/Darkwater_Cavern "Darkwater Cavern")
+    -   [The Forgotten Tunnel](https://wowpedia.fandom.com/wiki/Forgotten_Tunnel "Forgotten Tunnel")
+    -   [Gorm's Den](https://wowpedia.fandom.com/wiki/Gorm%27s_Den "Gorm's Den")
+    -   [Thoras'tal Spire](https://wowpedia.fandom.com/wiki/Thoras%27tal_Spire "Thoras'tal Spire")
+    -   [Tide's Fall](https://wowpedia.fandom.com/wiki/Tide%27s_Fall "Tide's Fall")
+    -   [Wreck of the Hungry Riverbeast](https://wowpedia.fandom.com/wiki/Wreck_of_the_Hungry_Riverbeast "Wreck of the Hungry Riverbeast")
+    -   [Wreck of the Old Blanchy](https://wowpedia.fandom.com/wiki/Wreck_of_the_Old_Blanchy "Wreck of the Old Blanchy")
+-   [The Tidal Conflux](https://wowpedia.fandom.com/wiki/Tidal_Conflux "Tidal Conflux")
+-   [Zanj'ir Terrace](https://wowpedia.fandom.com/wiki/Zanj%27ir_Terrace "Zanj'ir Terrace")
+    -   [Zanj'ir Keep](https://wowpedia.fandom.com/wiki/Zanj%27ir_Keep "Zanj'ir Keep")
+-   [Zanj'ir Wash](https://wowpedia.fandom.com/wiki/Zanj%27ir_Wash "Zanj'ir Wash")
+    -   [Deepsea Refuge](https://wowpedia.fandom.com/wiki/Deepsea_Refuge "Deepsea Refuge")
+    -   [Deepsea Slave Pen](https://wowpedia.fandom.com/wiki/Deepsea_Slave_Pen "Deepsea Slave Pen")
+    -   [Void Chamber](https://wowpedia.fandom.com/wiki/Void_Chamber "Void Chamber")
+-   [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari")
+    -   [The Drowned Market](https://wowpedia.fandom.com/wiki/Drowned_Market "Drowned Market")
+    -   [Elun'alor Temple](https://wowpedia.fandom.com/wiki/Elun%27alor_Temple "Elun'alor Temple")
+    -   [Highborne Estates](https://wowpedia.fandom.com/wiki/Highborne_Estates "Highborne Estates")
+    -   [Kal'methir](https://wowpedia.fandom.com/wiki/Kal%27methir "Kal'methir")
+        -   [Kal'methir Citadel](https://wowpedia.fandom.com/wiki/Kal%27methir_Citadel "Kal'methir Citadel")
+            -   [Utama's Stand](https://wowpedia.fandom.com/wiki/Utama%27s_Stand "Utama's Stand")
+    -   [Lemor'athra Spire](https://wowpedia.fandom.com/wiki/Lemor%27athra_Spire "Lemor'athra Spire")
+    -   [Nar'anan](https://wowpedia.fandom.com/wiki/Nar%27anan "Nar'anan")
+        -   [Ekka's Hideaway](https://wowpedia.fandom.com/wiki/Ekka%27s_Hideaway "Ekka's Hideaway")
+    -   [Orise's Vigil](https://wowpedia.fandom.com/wiki/Orise%27s_Vigil "Orise's Vigil")
+
+
+
+ | 
+
+[![Map of Nazjatar](https://static.wikia.nocookie.net/wowpedia/images/5/5c/WorldMap-Nazjatar.jpg/revision/latest/scale-to-width-down/120?cb=20190621030503)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/WorldMap-Nazjatar.jpg/revision/latest?cb=20190621030503 "Map of Nazjatar")
+
+ |
+|  |
+| 
+
+[Nazjatar category](https://wowpedia.fandom.com/wiki/Category:Nazjatar "Category:Nazjatar")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth "Template:Azeroth")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth?action=edit)
+
+Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https://wowpedia.fandom.com/wiki/Sea "Sea"), [continents](https://wowpedia.fandom.com/wiki/Continent "Continent") and other [locations](https://wowpedia.fandom.com/wiki/Location "Location") of the [world](https://wowpedia.fandom.com/wiki/Planet "Planet") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |
+|  |
+| [Continents](https://wowpedia.fandom.com/wiki/Continent "Continent") | 
+
+-   [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
+    -   [Balor](https://wowpedia.fandom.com/wiki/Balor "Balor")
+    -   [Channel Islands](https://wowpedia.fandom.com/wiki/Channel_Islands "Channel Islands")
+        -   [Zul'Dare](https://wowpedia.fandom.com/wiki/Zul%27Dare "Zul'Dare")
+-   [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor")
+    -   [Seething Shore](https://wowpedia.fandom.com/wiki/Seething_Shore "Seething Shore")
+-   [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+    -   [Isle of Conquest](https://wowpedia.fandom.com/wiki/Isle_of_Conquest "Isle of Conquest")
+    -   [Strand of the Ancients](https://wowpedia.fandom.com/wiki/Strand_of_the_Ancients "Strand of the Ancients")
+-   [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria")
+    -   [Snowblossom](https://wowpedia.fandom.com/wiki/Snowblossom_Village "Snowblossom Village")
+
+
+
+ | 
+
+[![Map of Azeroth](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/120?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450 "Map of Azeroth")
+
+ |
+|  |
+| [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") | 
+
+-   [Barren Atol](https://wowpedia.fandom.com/wiki/Barren_Atol "Barren Atol")
+-   [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles")
+-   [Coral Sea](https://wowpedia.fandom.com/wiki/Coral_Sea "Coral Sea")
+-   [Darkmoon Island](https://wowpedia.fandom.com/wiki/Darkmoon_Island "Darkmoon Island")
+-   [Darkspear Islands](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands")
+-   [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles")
+-   [The Frozen Sea](https://wowpedia.fandom.com/wiki/Frozen_Sea "Frozen Sea")
+-   [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras")
+    -   [Crestfall](https://wowpedia.fandom.com/wiki/Crestfall "Crestfall")
+-   [The Lost Isles](https://wowpedia.fandom.com/wiki/Lost_Isles "Lost Isles")
+-   [The Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")
+-   **Nazjatar**
+-   [Ominous island](https://wowpedia.fandom.com/wiki/Ominous_island "Ominous island")
+-   [South Seas](https://wowpedia.fandom.com/wiki/South_Seas "South Seas")
+    -   [Kezan](https://wowpedia.fandom.com/wiki/Kezan "Kezan")
+    -   [Plunder Isle](https://wowpedia.fandom.com/wiki/Plunder_Isle "Plunder Isle")
+    -   [Tel'Abim](https://wowpedia.fandom.com/wiki/Tel%27Abim "Tel'Abim")
+    -   [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar")
+-   [Third Fleet shipwrecks](https://wowpedia.fandom.com/wiki/Third_Fleet_shipwrecks "Third Fleet shipwrecks")
+-   [Uncharted Island](https://wowpedia.fandom.com/wiki/Uncharted_Island "Uncharted Island")
+
+
+
+ |
+|  |
+| Other [seas](https://wowpedia.fandom.com/wiki/Sea "Sea")  
+and [islands](https://wowpedia.fandom.com/wiki/Island "Island") | 
+
+-   [The Forbidding Sea](https://wowpedia.fandom.com/wiki/Forbidding_Sea "Forbidding Sea")
+-   [Island Expeditions](https://wowpedia.fandom.com/wiki/Island_Expedition#Islands "Island Expedition")
+-   [The North Sea](https://wowpedia.fandom.com/wiki/North_Sea "North Sea")
+    -   [Exile's Reach](https://wowpedia.fandom.com/wiki/Exile%27s_Reach "Exile's Reach")
+    -   [The Lost Glacier](https://wowpedia.fandom.com/wiki/Lost_Glacier "Lost Glacier")
+-   [Ogrezonia](https://wowpedia.fandom.com/wiki/Ogrezonia "Ogrezonia")
+-   [Skelton Isle](https://wowpedia.fandom.com/wiki/Skelton_Isle "Skelton Isle")
+-   [The Veiled Sea](https://wowpedia.fandom.com/wiki/Veiled_Sea "Veiled Sea")
+-   [The Wandering Isle](https://wowpedia.fandom.com/wiki/Wandering_Isle "Wandering Isle")
+-   [Uncharted Isle](https://wowpedia.fandom.com/wiki/Uncharted_Isle "Uncharted Isle")
+
+
+
+ |
+|  |
+| Miscellaneous | 
+
+-   [Avaloren](https://wowpedia.fandom.com/wiki/Avaloren "Avaloren")
+-   [Khaz Algar](https://wowpedia.fandom.com/wiki/Khaz_Algar "Khaz Algar")
+-   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+
+
+
+ |
+|  |
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+
+-   [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane")
+-   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Pocket dimensions](https://wowpedia.fandom.com/wiki/Plane#Pocket_dimensions "Plane")
+
+
+
+ |
+|  |
+| 
+
+[Azeroth category](https://wowpedia.fandom.com/wiki/Category:Azeroth "Category:Azeroth")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Maelstrom%27s_Eye "Template:Maelstrom's Eye")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Maelstrom%27s_Eye?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of the [Maelstrom's Eye](https://wowpedia.fandom.com/wiki/Eye_(Maelstrom) "Eye (Maelstrom)")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Warcraft RPG](https://static.wikia.nocookie.net/wowpedia/images/a/a8/WorldofWarcraftRPG_logo.png/revision/latest/scale-to-width-down/120?cb=20180514221452)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/WorldofWarcraftRPG_logo.png/revision/latest?cb=20180514221452 "Warcraft RPG")
+
+ | 
+
+-   [Boiling Terrace](https://wowpedia.fandom.com/wiki/Boiling_Terrace "Boiling Terrace")
+    -   [Drowned Reaches](https://wowpedia.fandom.com/wiki/Drowned_Reaches "Drowned Reaches")
+-   [Gishan Caverns](https://wowpedia.fandom.com/wiki/Gishan_Caverns "Gishan Caverns")
+-   [Pillar Deep](https://wowpedia.fandom.com/wiki/Pillar_Deep "Pillar Deep")
+-   [The Rift](https://wowpedia.fandom.com/wiki/Rift_(Maelstrom) "Rift (Maelstrom)")
+    -   **Nazjatar**
+-   [Scintal Reef](https://wowpedia.fandom.com/wiki/Scintal_Reef "Scintal Reef")
+    -   [Mak'aru](https://wowpedia.fandom.com/wiki/Mak%27aru "Mak'aru")
+
+
+
+ | 
+
+[](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Maelstromundersea.PNG/revision/latest?cb=20070305205636 "Map of the Eye")
+
+ |
+|  |
+| 
+
+[Maelstrom category](https://wowpedia.fandom.com/wiki/Category:Maelstrom "Category:Maelstrom")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   **Nazjatar**
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+
+ |
+|  |
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+
+-   [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+| 
+
+-   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
+
+
+
+ |

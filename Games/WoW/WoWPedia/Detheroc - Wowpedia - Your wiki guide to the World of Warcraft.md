@@ -1,0 +1,317 @@
+_For his_ [The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne") _statistics, see [Detheroc (Warcraft III)](https://wowpedia.fandom.com/wiki/Detheroc_(Warcraft_III) "Detheroc (Warcraft III)")._
+
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Combat_32.png/revision/latest?cb=20151213203709)](https://wowpedia.fandom.com/wiki/Mob "Mob")Detheroc |
+| --- |
+| [![Image of Detheroc](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Detheroc_Legion.jpg/revision/latest/scale-to-width-down/200?cb=20161224143443)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Detheroc_Legion.jpg/revision/latest?cb=20161224143443 "Image of Detheroc") |
+| Gender | Male |
+| Race | [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") (Demon) |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Sire Denathrius](https://wowpedia.fandom.com/wiki/Sire_Denathrius "Sire Denathrius") |
+| Former affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Dreadlord Insurgents](https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents "Dreadlord Insurgents"), [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") |
+| Occupation | Agent of Sire Denathrius |
+| Former occupation(s) | Agent of the Burning Legion, Leader of the Dreadlord Insurgents, Custodianship of the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands"), Jailor and executor of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") |
+| Location | [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") (lore) |
+| Status | Alive [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands")  
+Defeatable [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") |
+| Relative(s) | [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"), [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") (brothers) |
+
+The [dreadlord](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") **Detheroc**, and his two brothers, [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar") and [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras"), were left to watch over the [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s holdings in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") when [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") and the main force of the Legion left for [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") to deal with the fleeing [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") and [humans](https://wowpedia.fandom.com/wiki/Human "Human"), as well as the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") who had defeated them in ages past. While Detheroc was the leader of the three [Dreadlord Insurgents](https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents "Dreadlord Insurgents"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-1">[1]</a></sup> he was not necessarily the most powerful.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-2">[2]</a></sup>
+
+## Biography
+
+### The breaking of Ner'zhul
+
+At [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")'s command a group of dreadlords consisting of Detheroc, [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius"), [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"), [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"), and [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") tortured the [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") after he had escaped from [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") to the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"). Eventually, Ner'zhul, his sanity cracking, would agree to serve Kil'jaeden. Kil'jaeden passed the orc's spirit through death and revived as a [spectral entity](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"). The dreadlords bound his disembodied spirit to a specifically crafted set of armor and a mighty [runeblade](https://wowpedia.fandom.com/wiki/Runeblade "Runeblade") called [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"). These items were locked in a diamond-hard block of ice to imprison Ner'zhul.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-3">[3]</a></sup> The Lich King and the dreadlords who had tortured him were then sent to Azeroth in order to weaken any resistance that the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") would face during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). While the Lich King gathered his strength, Detheroc and his fellow dreadlords would serve as jailors and executors meant to hasten the Lich King's task by any means necessary. To this end, they would construct the [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") within [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Though seemingly broken by the dreadlords, Ner'zhul sought vengeance and was able to play on the dreadlord's fears of Kil'jaeden in order trick them into allowing him to hurl Frostmourne out of the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-4">[4]</a></sup>
+
+### Third War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/96/Detheroc-Reforged.jpg/revision/latest/scale-to-width-down/180?cb=20200206102131)](https://static.wikia.nocookie.net/wowpedia/images/9/96/Detheroc-Reforged.jpg/revision/latest?cb=20200206102131)
+
+Detheroc in _[Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reforged "Warcraft III: Reforged")_.
+
+In the aftermath of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), Detheroc began to notice that much time had passed without hearing a word from [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"). One day, [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") stormed into the palace and informed them that their Legion was defeated and that their deaths would seal that fate. They were able to flee before he could strike.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-5">[5]</a></sup> Hiding in [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), they coerced [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") into assisting them, and planned a coup to take back Lordaeron and rule what were now known as the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-6">[6]</a></sup> Detheroc and his brothers assumed control of the [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") and ambushed Arthas, but the resilient [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") battled his way through their forces<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-7">[7]</a></sup> and fled across the sea to his master in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+
+With Arthas gone, Detheroc and the other dreadlords concentrated their power in Lordaeron. When [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") asked Sylvanas to join their new order she refused, butchered his forces, and turned him to her own side.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-8">[8]</a></sup> Detheroc was not so easily defeated. He used his powers of domination to control the human general, [Othmar Garithos](https://wowpedia.fandom.com/wiki/Othmar_Garithos "Othmar Garithos"), and when Sylvanas launched her next attack upon him in a city in the Plaguelands, he turned Garithos and his forces loose on her. With Varimathras at her side, Sylvanas managed to keep Garithos at bay as she stormed into Detheroc's base and tore him apart.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-9">[9]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+While leading an attack on [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar") in [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), [Eligor Dawnbringer](https://wowpedia.fandom.com/wiki/Eligor_Dawnbringer "Eligor Dawnbringer") remarked that any dreadlord slain on the mortal plane is merely banished to the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") and opined that Detheroc and his brothers may return some day.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-10">[10]</a></sup> His theory proved true several years later when, just before the [battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore"), [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") discovered a trap set by the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Before they could warn the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), Detheroc ambushed the SI:7 agents and captured their leader, [Mathias Shaw](https://wowpedia.fandom.com/wiki/Master_Mathias_Shaw "Master Mathias Shaw"), and impersonated him.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-11">[11]</a></sup> [Amber Kearnen](https://wowpedia.fandom.com/wiki/Amber_Kearnen "Amber Kearnen") managed to get away and tried to warn [the Uncrowned](https://wowpedia.fandom.com/wiki/The_Uncrowned "The Uncrowned") but Detheroc, posing as Shaw, ordered SI:7 agents to kill her.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-12">[12]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Detheroc_%28Stormwind_City%29.jpg/revision/latest/scale-to-width-down/180?cb=20200308123103)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Detheroc_%28Stormwind_City%29.jpg/revision/latest?cb=20200308123103)
+
+Detheroc unveiled
+
+As Shaw, Detheroc spoke lies to [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") about the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and manipulated the new king into preparing Stormwind's armies to attack them, intent on instigating another conflict between the Alliance and Horde when the world could least afford it. To cover his tracks, Detheroc placed wanted posters of the members of the Uncrowned all over Stormwind, claiming they had conspired with the Burning Legion and offering rewards for their deaths.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-13">[13]</a></sup> After [a member](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the Uncrowned freed the real Mathias Shaw, [Fleet Admiral Tethys](https://wowpedia.fandom.com/wiki/Fleet_Admiral_Tethys "Fleet Admiral Tethys") snuck them and [Taoshi](https://wowpedia.fandom.com/wiki/Taoshi "Taoshi") into Stormwind during the night. The three [rogues](https://wowpedia.fandom.com/wiki/Rogue "Rogue") made their way to [SI:7 headquarters](https://wowpedia.fandom.com/wiki/SI:7_(Stormwind_City) "SI:7 (Stormwind City)"), where they exposed and killed Detheroc.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-14">[14]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+Following his rebirth, Detheroc joined his fellow nathrezim in invading [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth") in order to rescue [Sire Denathrius](https://wowpedia.fandom.com/wiki/Sire_Denathrius "Sire Denathrius"). He was personally warned that if he failed again, he would be flayed, and was responsible for recovering an asset.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-15">[15]</a></sup> It was left unclear if the asset in question was Denathrius, who the nathrezim successfully liberated from his prison, or someone else.
+
+## Abilities
+
+## Objective of
+
+## Memorable quotes
+
+### Warcraft III
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Detheroc.jpg/revision/latest/scale-to-width-down/180?cb=20200206101941)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Detheroc.jpg/revision/latest?cb=20200206101941)
+
+Detheroc in _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
+
+_Main article: [King Arthas (WC3 Undead)#Transcript](https://wowpedia.fandom.com/wiki/King_Arthas_(WC3_Undead)#Transcript "King Arthas (WC3 Undead)")_
+
+_Main article: [A Kingdom Divided (WC3 Undead)#Transcript](https://wowpedia.fandom.com/wiki/A_Kingdom_Divided_(WC3_Undead)#Transcript "A Kingdom Divided (WC3 Undead)")_
+
+_Main article: [King Arthas (WC3 Undead)#Transcript](https://wowpedia.fandom.com/wiki/King_Arthas_(WC3_Undead)#Transcript "King Arthas (WC3 Undead)")_
+
+_Main article: [The Flight from Lordaeron (WC3 Undead)#Transcript](https://wowpedia.fandom.com/wiki/The_Flight_from_Lordaeron_(WC3_Undead)#Transcript "The Flight from Lordaeron (WC3 Undead)")_
+
+_Main article: [Dreadlord's Fall (WC3 Undead)#Transcript](https://wowpedia.fandom.com/wiki/Dreadlord%27s_Fall_(WC3_Undead)#Transcript "Dreadlord's Fall (WC3 Undead)")_
+
+### World of Warcraft
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+_Main article: [Deciphering the Letter#Notes](https://wowpedia.fandom.com/wiki/Deciphering_the_Letter#Notes "Deciphering the Letter")_
+
+_Main article: [The Imposter#Notes](https://wowpedia.fandom.com/wiki/The_Imposter#Notes "The Imposter")_
+
+## Notes and trivia
+
+-   With Balnazzar permanently killed in the [Netherlight Temple](https://wowpedia.fandom.com/wiki/Netherlight_Temple "Netherlight Temple") and Varimathras killed in [Antorus, the Burning Throne](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne"), Detheroc is the last living sibling.
+-   In the _Warcraft III_ campaigns, dreadlord characters were given different colors out of concern that players wouldn't be able to tell them apart.<sup id="cite_ref-DIH2_16-0"><a href="https://wowpedia.fandom.com/wiki/Detheroc#cite_note-DIH2-16">[16]</a></sup>
+-   A [realm](https://wowpedia.fandom.com/wiki/Realm "Realm") in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_, [Detheroc US](https://wowpedia.fandom.com/wiki/Server:Detheroc_US "Server:Detheroc US"), is named after the dreadlord.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Detheroc%27s_face.jpg/revision/latest/scale-to-width-down/108?cb=20200206124413)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Detheroc%27s_face.jpg/revision/latest?cb=20200206124413)
+    
+    Detheroc's face in _Warcraft III: Classic_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/79/Detheroc%27s_face_Reforged.jpg/revision/latest/scale-to-width-down/112?cb=20200206124531)](https://static.wikia.nocookie.net/wowpedia/images/7/79/Detheroc%27s_face_Reforged.jpg/revision/latest?cb=20200206124531)
+    
+    In _Warcraft III: Reforged_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Reforged_-_Detheroc_concept.jpg/revision/latest/scale-to-width-down/120?cb=20201122135043)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Reforged_-_Detheroc_concept.jpg/revision/latest?cb=20201122135043)
+    
+    _Warcraft III: Reforged_ concept art.
+    
+
+## Videos
+
+-   [A Kingdom Divided](https://wowpedia.fandom.com/wiki/Detheroc#)
+
+## Patch changes
+
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
+    
+
+## References
+
+## External links
+
+|  |  |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/npc=111192)
+-   [WoWDB](https://www.wowdb.com/npcs/111192)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=110483)
+-   [WoWDB](https://www.wowdb.com/npcs/110483)
+
+ |
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Burning_Legion "Template:Burning Legion")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Burning_Legion?action=edit)
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+-   [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")
+-   [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")
+-   [Antoran High Command](https://wowpedia.fandom.com/wiki/Antoran_High_Command "Antoran High Command")
+    -   [Erodus](https://wowpedia.fandom.com/wiki/General_Erodus "General Erodus")
+    -   [Ishkar](https://wowpedia.fandom.com/wiki/Chief_Engineer_Ishkar "Chief Engineer Ishkar")
+    -   [Svirax](https://wowpedia.fandom.com/wiki/Admiral_Svirax "Admiral Svirax")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron")
+-   [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor")
+-   [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar")
+-   [Brutallus](https://wowpedia.fandom.com/wiki/Brutallus "Brutallus")
+-   [Coven of Shivarra](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra "Coven of Shivarra")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")
+-   [Imonar](https://wowpedia.fandom.com/wiki/Imonar_the_Soulhunter "Imonar the Soulhunter")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Houndmaster "Hakkar the Houndmaster")
+-   [Hasabel](https://wowpedia.fandom.com/wiki/Portal_Keeper_Hasabel "Portal Keeper Hasabel")
+-   [Jaraxxus](https://wowpedia.fandom.com/wiki/Lord_Jaraxxus "Lord Jaraxxus")
+-   [Kruul](https://wowpedia.fandom.com/wiki/Highlord_Kruul "Highlord Kruul")
+-   [Demonic Inquisition](https://wowpedia.fandom.com/wiki/Demonic_Inquisition "Demonic Inquisition")
+    -   [Atrigan](https://wowpedia.fandom.com/wiki/Atrigan "Atrigan")
+    -   [Belac](https://wowpedia.fandom.com/wiki/Belac "Belac")
+-   [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")
+-   [Kazzak](https://wowpedia.fandom.com/wiki/Lord_Kazzak "Lord Kazzak")
+-   [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon")
+-   [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")
+-   [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")
+-   [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth")
+-   [Melris Malagan](https://wowpedia.fandom.com/wiki/Melris_Malagan "Melris Malagan")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Rakeesh](https://wowpedia.fandom.com/wiki/High_General_Rakeesh "High General Rakeesh")
+-   [Talgath](https://wowpedia.fandom.com/wiki/Talgath "Talgath")
+-   [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius")
+-   [Tyranna](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna "Brood Queen Tyranna")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| Major races | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
+-   [Doom lord](https://wowpedia.fandom.com/wiki/Doom_lord "Doom lord")
+-   [Daemon](https://wowpedia.fandom.com/wiki/Daemon "Daemon")
+-   [Ered'ruin](https://wowpedia.fandom.com/wiki/Ered%27ruin "Ered'ruin")
+    -   [Doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard")
+        -   [Doomlord](https://wowpedia.fandom.com/wiki/Doomlord "Doomlord")
+-   [Man'ari](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Eredar_brute "Eredar brute")
+    -   [Doommaiden](https://wowpedia.fandom.com/wiki/Doommaiden "Doommaiden")
+    -   [Wrathguard](https://wowpedia.fandom.com/wiki/Wrathguard "Wrathguard")
+-   [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg")
+    -   [Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard")
+        -   [Fel lord](https://wowpedia.fandom.com/wiki/Fel_lord "Fel lord")
+    -   [Gan'arg](https://wowpedia.fandom.com/wiki/Gan%27arg "Gan'arg")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Mo%27arg_brute "Mo'arg brute")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Overfiend](https://wowpedia.fandom.com/wiki/Overfiend "Overfiend")
+-   [Sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+-   [Wyrmtongue](https://wowpedia.fandom.com/wiki/Wyrmtongue "Wyrmtongue")
+
+
+
+ |
+|  |
+| Minor races | 
+
+-   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
+-   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+-   [Observer](https://wowpedia.fandom.com/wiki/Observer "Observer")
+-   [Imp](https://wowpedia.fandom.com/wiki/Imp "Imp")
+-   [Imp mother](https://wowpedia.fandom.com/wiki/Imp_mother "Imp mother")
+-   [Inquisitor](https://wowpedia.fandom.com/wiki/Inquisitor "Inquisitor")
+    -   [Guardian eye](https://wowpedia.fandom.com/wiki/Guardian_eye "Guardian eye")
+-   [Jailer](https://wowpedia.fandom.com/wiki/Jailer_(demon) "Jailer (demon)")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+    -   [Felblood elf](https://wowpedia.fandom.com/wiki/Felblood_elf "Felblood elf")
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+    -   [Felborne](https://wowpedia.fandom.com/wiki/Felborne "Felborne")
+
+
+
+ |
+|  |
+| Constructs | 
+
+-   [Abyssal](https://wowpedia.fandom.com/wiki/Abyssal "Abyssal")
+-   [Fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver")
+-   [Homunculus](https://wowpedia.fandom.com/wiki/Homunculus "Homunculus")
+-   [Infernal](https://wowpedia.fandom.com/wiki/Infernal "Infernal")
+-   [Fel cannon](https://wowpedia.fandom.com/wiki/Fel_cannon "Fel cannon")
+-   [Infernal machine](https://wowpedia.fandom.com/wiki/Infernal_machine "Infernal machine")
+-   [Devastator](https://wowpedia.fandom.com/wiki/Devastator "Devastator")
+-   [Legion ship](https://wowpedia.fandom.com/wiki/Legion_ship "Legion ship")
+-   [Soul engine](https://wowpedia.fandom.com/wiki/Soul_engine "Soul engine")
+-   [Spire of woe](https://wowpedia.fandom.com/wiki/Spire_of_woe "Spire of woe")
+-   [Fel spreader](https://wowpedia.fandom.com/wiki/Fel_spreader "Fel spreader")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")
+-   [Xoroth](https://wowpedia.fandom.com/wiki/Xoroth "Xoroth")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza")
+-   [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether")
+
+
+
+ |
+|  |
+| Groups &  
+[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Demon" title="Demon">Demons</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Demon_Elite_Guard" title="Demon Elite Guard">Demon Elite Guard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar" title="Dreadscar">Dreadscar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tomb_Guardians" title="Tomb Guardians">Tomb Guardians</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magtheridon%27s_Forces" title="Magtheridon's Forces">Magtheridon's Forces</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hederine" title="Hederine">Hederine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_(group)" title="Felsoul (group)">Felsoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rakeeshi" title="Rakeeshi">Rakeeshi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Talgathi" title="Talgathi">Talgathi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_Covenant" title="Fel Covenant">Fel Covenant</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sunfury" title="Sunfury">Sunfury</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodwarder" title="Bloodwarder">Bloodwarder</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Hand" title="Crimson Hand">Crimson Hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dawnblade_(blood_elves)" title="Dawnblade (blood elves)">Dawnblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firewing" title="Firewing">Firewing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsword" title="Shadowsword">Shadowsword</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunblade" title="Sunblade">Sunblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunhawk" title="Sunhawk">Sunhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunseekers" title="Sunseekers">Sunseekers</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a> <a href="https://wowpedia.fandom.com/wiki/Category:Satyr_sects" title="Category:Satyr sects">sects</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Axxarien" title="Axxarien">Axxarien</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bleakheart" title="Bleakheart">Bleakheart</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deth%27ryll" title="Deth'ryll">Deth'ryll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fallenroot" title="Fallenroot">Fallenroot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmusk" title="Felmusk">Felmusk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haldarr" title="Haldarr">Haldarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hatefury" title="Hatefury">Hatefury</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jadefire" title="Jadefire">Jadefire</a></li><li><a href="https://wowpedia.fandom.com/wiki/Legashi" title="Legashi">Legashi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lords_of_the_Emerald_Flame" title="Lords of the Emerald Flame">Lords of the Emerald Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nazzivus" title="Nazzivus">Nazzivus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nethervine" title="Nethervine">Nethervine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Putridus" title="Putridus">Putridus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargeron_(Outland)" title="Sargeron (Outland)">Sargeron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound" title="Unbound">Unbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildspawn" title="Wildspawn">Wildspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xavian" title="Xavian">Xavian</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shadow_Council" title="Shadow Council">Shadow Council</a> (<a href="https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe)" title="Shadow Council (alternate universe)">alternate</a>)</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus_Wake" title="Argus Wake">Argus Wake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Blade_clan" title="Burning Blade clan">Burning Blade clan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cabal" title="Cabal">Cabal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand" title="Cult of the Dark Strand">Cult of the Dark Strand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathshadow" title="Deathshadow">Deathshadow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gorebound" title="Gorebound">Gorebound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargerei" title="Sargerei">Sargerei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Searing_Blade" title="Searing Blade">Searing Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe)" title="Sethekk (alternate universe)">Sethekk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsworn" title="Shadowsworn">Shadowsworn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Undead" title="Undead">Undead</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Risen" title="Risen">Risen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Loyalists" title="Dreadlord Loyalists">Dreadlord Loyalists</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Third_invasion" title="Third invasion">Third invasion</a>'s allies</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deadwood" title="Deadwood">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Felbound tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Felfin tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrage" title="Felrage">Felrage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrock" title="Felrock">Felrock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cragtalon" title="Cragtalon">Feltalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bloodtotem_tribe" title="Bloodtotem tribe">Feltotem tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Tideskorn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Felskorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drekirjar" title="Drekirjar">Drekirjar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonespeakers" title="Bonespeakers">Bonespeakers</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Veiled_Hand" title="Veiled Hand">Veiled Hand</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Archival_Authority_of_Argus" title="Archival Authority of Argus">Archival Authority of Argus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Green_Flame" title="Cult of the Green Flame">Cult of the Green Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Nethersworn" title="Cult of the Nethersworn">Cult of the Nethersworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Iron_Horde" title="Iron Horde">Iron Horde</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hidden" title="Hidden">Hidden</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Defectors | 
+
+-   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
+-   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") blood elves
+-   Some [Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest") demons
+
+
+
+ |
+|  |
+| [Burning  
+Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") | 
+
+-   [Battle of Shar'gel](https://wowpedia.fandom.com/wiki/Battle_of_Shar%27gel "Battle of Shar'gel")
+-   [First invasion of Azeroth](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
+-   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei")
+-   [Second invasion of Azeroth](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion")
+    -   [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
+    -   [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War")
+-   Attempted Azeroth invasions
+    -   [Invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland")
+        -   [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas")
+    -   [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity")
+-   [Third invasion of Azeroth](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion")
+    -   [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign")
+
+
+
+ |
+|  |
+| 
+
+-   [Darkstorm](https://wowpedia.fandom.com/wiki/Darkstorm "Darkstorm")
+-   [Burning Legion category](https://wowpedia.fandom.com/wiki/Category:Burning_Legion "Category:Burning Legion")
+
+
+
+ |
+
+Others like you also viewed

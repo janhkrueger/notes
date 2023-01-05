@@ -1,0 +1,493 @@
+_This article is about elemental spirits. For the shaman specialization, see [Shaman#Specializations](https://wowpedia.fandom.com/wiki/Shaman#Specializations "Shaman"). For the school of magic, see [Elemental (spell school)](https://wowpedia.fandom.com/wiki/Elemental_(spell_school) "Elemental (spell school)")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Elementals.png/revision/latest/scale-to-width-down/400?cb=20091206191524)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Elementals.png/revision/latest?cb=20091206191524)
+
+From left to right, top to bottom : [Princess Theradras](https://wowpedia.fandom.com/wiki/Princess_Theradras "Princess Theradras"), [Ahune](https://wowpedia.fandom.com/wiki/Ahune "Ahune"), [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros"), [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan"), common [earth elemental](https://wowpedia.fandom.com/wiki/Earth_elemental "Earth elemental"), common [water elemental](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental"), [bog beast](https://wowpedia.fandom.com/wiki/Bog_beast "Bog beast"), common [fire elemental](https://wowpedia.fandom.com/wiki/Fire_elemental "Fire elemental") and common [air elemental](https://wowpedia.fandom.com/wiki/Air_elemental "Air elemental").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Elementals_Comic.jpg/revision/latest/scale-to-width-down/400?cb=20100228190156)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Elementals_Comic.jpg/revision/latest?cb=20100228190156)
+
+Fire, earth, water and air elementals in [the comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic").
+
+**Elementals** are ageless and unchanging<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-1">[1]</a></sup> [elemental spirits](https://wowpedia.fandom.com/wiki/Elemental_spirit "Elemental spirit") who have attained raw physical form. Their spirit - made of volatile elemental energies - remain at the core.<sup id="cite_ref-MetzenT_2-0"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-MetzenT-2">[2]</a></sup><sup id="cite_ref-UVG_3-0"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-UVG-3">[3]</a></sup> On [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), elementals were bound to the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") by the titanic [Keepers](https://wowpedia.fandom.com/wiki/Keepers "Keepers"), which means that, when slain in the physical world, they will return to the Plane.
+
+Killing them in the Elemental Plane seems to be the way to permanently defeat them,<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-4">[4]</a></sup> after which their power can be absorbed by another elemental.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-5">[5]</a></sup> Although they are imprisoned in the Elemental Plane, they can be summoned to Azeroth by those who seek to use their power.<sup id="cite_ref-UVG_3-1"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-UVG-3">[3]</a></sup> The most powerful ones reign over all others, and are called the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord"). An elemental's core retains some semi-sentient properties after death.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-6">[6]</a></sup>
+
+## Origins
+
+In the early days of the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond")'s formation, shards of fractured [Light](https://wowpedia.fandom.com/wiki/Light "Light") were sent through the universe. Upon hitting the planets they'd encounter, they would infuse them with the spark of [life](https://wowpedia.fandom.com/wiki/Life "Life"). The most common and primordial form of life to appear was the elementals, who now populate nearly every world of the [Great Dark](https://wowpedia.fandom.com/wiki/Great_Dark "Great Dark").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-7">[7]</a></sup> The elementals are nourished by the [Spirit](https://wowpedia.fandom.com/wiki/Spirit "Spirit") energy of the planet they live on.
+
+### Others
+
+-   When forging enchanted steel, bits of magic seep into the coals. Over a period of years, decades even, the unbound energy slowly takes form, creating a tiny elemental being of immense fortitude.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-8">[8]</a></sup>
+-   Elementals have been created by [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") sorcerers who preferred more solid companions over beastly familiars.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-9">[9]</a></sup>
+-   Living [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") flames can be born from demonic magic.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-10">[10]</a></sup>
+
+## Life cycle
+
+[Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s elementals are extremely violent and chaotic, because as its [world-soul](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)") developed, it consumed much of the [Spirit](https://wowpedia.fandom.com/wiki/Spirit_(lore) "Spirit (lore)") energy of the planet, which nourishes the elements.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-11">[11]</a></sup> In contrast, a large abundance of Spirit energy leads to slumbering elementals. [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor")'s elementals were harmonious and worked together, indicating a fair level of Spirit.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-12">[12]</a></sup> Spirit is also the force used by [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") to commune with the elements, while [Decay](https://wowpedia.fandom.com/wiki/Decay "Decay"), its opposite, is used by [dark shaman](https://wowpedia.fandom.com/wiki/Dark_shaman "Dark shaman") to bind the elements to their will.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-13">[13]</a></sup>
+
+It is a natural part of the elementals' life cycle that impurities are accumulated in the elemental body over time. When enough contamination has taken place, an elemental becomes unstable and in some cases volatile. A necessary part to their rebirth is pure, living essence, which can be found in the body of other elementals.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-14">[14]</a></sup>
+
+It is possible that the elementals of Azeroth have developed some sort of hierarchy, many having titles such as Baron, Lord, and Duke. Some of the most powerful offspring of the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lords "Elemental Lords") are also known as Princes and Princesses.
+
+## History
+
+### Primordial Azeroth
+
+The [elemental spirits](https://wowpedia.fandom.com/wiki/Elemental_spirit "Elemental spirit") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") became more and more erratic as the fifth element, [Spirit](https://wowpedia.fandom.com/wiki/Spirit_of_Life "Spirit of Life"), became less available. The slumbering [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") consumed much of it, rendering the elements of Azeroth extremely violent, destructive and chaotic by nature.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-15">[15]</a></sup>
+
+The elementals raged freely on primordial [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), waging war upon one another for endless millennia, and the four Elemental Lords reigned supreme over innumerable lesser spirits. [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir") used to send his minions to spy on his enemies and sow distrust to weaken them. [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") embraced brute force, seeking to boil the seas, reduce mountains to slag, and choke the skies with ash. [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane") was reclusive, entrenching herself behind towering mountain ranges before attacking her exhausted foes. [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") fought strategically, allowing the forces of the other elements to clash, before crushing his divided rivals.<sup id="cite_ref-Chronicle28_16-0"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-Chronicle28-16">[16]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest/scale-to-width-down/180?cb=20180325104143)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest?cb=20180325104143)
+
+Map of Azeroth under the Black Empire's control.
+
+When the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") plummeted down from the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), they slammed into Azeroth's surface and embedded themselves in the continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)"). For the first time in history, the four Elemental Lords banded together in an attempt to fight the Old Gods' fledgling empire. Though the elementals were mighty, they could not stand against the constant swarm of [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") and [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir"), and they were enslaved by the Old Gods.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-17">[17]</a></sup> Without the native spirits of Azeroth to counter the Old Gods' influence, the borders of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") crept over much of the world.<sup id="cite_ref-Chronicle28_16-1"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-Chronicle28-16">[16]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest/scale-to-width-down/180?cb=20160219182734)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest?cb=20160219182734)
+
+The original Elemental Lords facing the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged").
+
+The [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") armies of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") would eventually come to assault the Old Gods, defeat them and sealing them deep beneath the surface of the planet, after having imprisoned the elemental armies in the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane"), divided into four regions: the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw"), the [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands"), [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), and [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall").<sup id="cite_ref-Ordering_18-0"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-Ordering-18">[18]</a></sup><sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-19">[19]</a></sup>
+
+### Elemental Sundering
+
+Even while locked within the Elemental Plane, the Elemental Lords continued to war with each other. The [Elemental Sundering](https://wowpedia.fandom.com/wiki/Elemental_Sundering "Elemental Sundering") was a 5,000 year-long battle at the core of Azeroth. The Lieutenants of Ragnaros, [Geddon](https://wowpedia.fandom.com/wiki/Baron_Geddon "Baron Geddon") and [Garr](https://wowpedia.fandom.com/wiki/Garr "Garr"), perpetrated the betrayal against [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan"), Prince of Air, who was caught unaware. The Firelord's advances were wholly unknown to Thunderaan, and before he could react, [Sulfuras](https://wowpedia.fandom.com/wiki/Sulfuras,_Hand_of_Ragnaros "Sulfuras, Hand of Ragnaros"), the legendary hammer of Ragnaros, struck an unmerciful blow, and Thunderaan fell, utterly defeated.
+
+The Firelord feasted upon the essence of Thunderaan but was unable to consume him entirely. He stored what little remained of Thunderaan's essence within a talisman of elemental binding. Ragnaros then shattered the talisman in two flawless pieces, called the  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Spell_ice_lament.png/revision/latest/scale-to-width-down/16?cb=20080510210036)[\[Bindings of the Windseeker\]](https://wowpedia.fandom.com/wiki/Bindings_of_the_Windseeker), and assigned them to his lieutenants.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-20">[20]</a></sup>
+
+### War of the Three Hammers
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Summoning_of_Ragnaros.jpg/revision/latest/scale-to-width-down/180?cb=20160317182245)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Summoning_of_Ragnaros.jpg/revision/latest?cb=20160317182245)
+
+[Thaurissan](https://wowpedia.fandom.com/wiki/Sorcerer-Thane_Thaurissan "Sorcerer-Thane Thaurissan") summons Ragnaros into the world.
+
+During the [War of the Three Hammers](https://wowpedia.fandom.com/wiki/War_of_the_Three_Hammers "War of the Three Hammers"), 230 years before the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"), Ragnaros the Firelord was summoned to the [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains") by the [Sorcerer-Thane Thaurissan](https://wowpedia.fandom.com/wiki/Sorcerer-Thane_Thaurissan "Sorcerer-Thane Thaurissan"). It was his intent to use the Firelord for domination of the other dwarf clans. Ironically, however, Ragnaros enslaved them for his own purposes. His violent entry into the world scarred the surrounding area, creating [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain"), the [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes"), and the [Searing Gorge](https://wowpedia.fandom.com/wiki/Searing_Gorge "Searing Gorge").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-21">[21]</a></sup>
+
+### Recent events
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+In [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain"), Ragnaros and his fire elemental armies were locked in a war for control of Blackrock Moutain with the black dragon [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian").
+
+Neptulon, then at war with [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros"), seemed to use mostly mortal races to weaken the forces of the other three Elemental Lords. His agent, [Duke Hydraxis](https://wowpedia.fandom.com/wiki/Duke_Hydraxis "Duke Hydraxis"), leader of the [Hydraxian Waterlords](https://wowpedia.fandom.com/wiki/Hydraxian_Waterlords "Hydraxian Waterlords"), sought to bring others to his side. He sent [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") into the [Molten Core](https://wowpedia.fandom.com/wiki/Molten_Core "Molten Core") to fight against the Firelord. Another agent, [Tsunaman](https://wowpedia.fandom.com/wiki/Tsunaman "Tsunaman") at [Sun Rock Retreat](https://wowpedia.fandom.com/wiki/Sun_Rock_Retreat "Sun Rock Retreat"), also sought to destroy Ragnaros's elementals in the [Charred Vale](https://wowpedia.fandom.com/wiki/Charred_Vale "Charred Vale").
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+When [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") entered Azeroth from [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), the [World Pillar](https://wowpedia.fandom.com/wiki/World_Pillar "World Pillar") was shattered, causing the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") to collapse onto Azeroth, and parts of it to manifest in the real world. While [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir") and [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") accepted [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s offer of sowing destruction, [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") and [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane") refused to do so.
+
+Ragnaros's armies launched a full-scale assault on [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") in an attempt to destroy the World Tree [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"). The [Guardians of Hyjal](https://wowpedia.fandom.com/wiki/Guardians_of_Hyjal "Guardians of Hyjal") led by [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius"), [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem") along with the [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") pushed his minions back into the [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands"), where he was slain.
+
+Neptulon the Tidehunter was attacked by the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") and the [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") that worked with the [Twilight's Hammer cult](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer_cult "Twilight's Hammer cult"), while Therazane was also at odds with the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") that had intruded in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm").
+
+Al'akir called the [Conclave of Wind](https://wowpedia.fandom.com/wiki/Conclave_of_Wind "Conclave of Wind"), ancient wind elementals nearly as powerful as Al'Akir himself, to aid in the elemental invasion of his former home.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-22">[22]</a></sup>
+
+He assisted Deathwing's efforts at reclaiming the ancient re-origination device and lent his elemental forces at crushing [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum")'s native defenders and his old enemy, the [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir"). One of his first acts after the Cataclysm was destroying the inhabitants of [Orsis](https://wowpedia.fandom.com/wiki/Orsis "Orsis") in revenge for having refused Deathwing's offer of curing their [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-23">[23]</a></sup> The armies and strongest minions of Al'Akir resided within the [Vortex Pinnacle](https://wowpedia.fandom.com/wiki/Vortex_Pinnacle "Vortex Pinnacle"), training in formation and torturing tol'vir as they prepared to lash out yet again at Uldum.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-24">[24]</a></sup> At some point prior to his death, Al'Akir ensnared and twisted [Hagara the Stormbinder](https://wowpedia.fandom.com/wiki/Hagara_the_Stormbinder "Hagara the Stormbinder") with new powers for trying to bind elementals to her will.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-25">[25]</a></sup>
+
+Dwelling in the [Throne of the Four Winds](https://wowpedia.fandom.com/wiki/Throne_of_the_Four_Winds "Throne of the Four Winds"), Al'Akir was slain in his home plane, the [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall").
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+During the [Third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring") helped new elementals to replace Ragnaros and Al'Akir: [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon") and [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan") respectively. They then managed to convince the four [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") to band together against the [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Shaman and elementals now work actively to fight the Legion off the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles").
+
+### Battle for Azeroth
+
+When the Dark Irons and the Alliance emissary worked to repair the Black Anvil in Shadowforge in the aftermath of a Venture Co. attack, they were required to take a [Fragment of the Molten Core](https://wowpedia.fandom.com/wiki/Fragment_o%27_the_Molten_Core "Fragment o' the Molten Core") into the Firelands to re-energize. There, [Anvil-Thane Thurgaden](https://wowpedia.fandom.com/wiki/Anvil-Thane_Thurgaden "Anvil-Thane Thurgaden") and the emissary discovered the [Cult of Ragnaros](https://wowpedia.fandom.com/wiki/Cult_of_Ragnaros "Cult of Ragnaros"), a sect of Dark Iron Dwarves apparently led by [High Justice Grimstone](https://wowpedia.fandom.com/wiki/High_Justice_Grimstone "High Justice Grimstone") who were attempting to resurrect Ragnaros. Smolderon was worryingly absent during these events, a fact Thurgaden noted and to which Grimstone evasively answered "All in due time".<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-26">[26]</a></sup>
+
+## In World of Warcraft
+
+In _World of Warcraft,_ elementals are often found close to environments representative of their elements: water elementals are often found on coastlines and in lakes, fire elementals are often found close to lava or areas which has suffered from fire, stone elementals are often found in hills and inside caves, and air elementals are often found in windy areas like steppes and deserts. Elementals will also often drop elemental items related to their element. A fire elemental may, for example, drop a  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Spell_fire_lavaspawn.png/revision/latest/scale-to-width-down/16?cb=20060830183519)[\[Heart of Fire\]](https://wowpedia.fandom.com/wiki/Heart_of_Fire), while a water elemental may drop an  ![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Spell_nature_acid_01.png/revision/latest/scale-to-width-down/16?cb=20060930180918)[\[Essence of Water\]](https://wowpedia.fandom.com/wiki/Essence_of_Water).
+
+### Basic elemental types
+
+| Elemental | Description | Variant |
+| --- | --- | --- |
+| Generic elementals | The most commonly seen form, wearing bracers of binding | 
+-   [![IconSmall Air.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4a/IconSmall_Air.gif/revision/latest?cb=20211129111458) [Air elemental](https://wowpedia.fandom.com/wiki/Air_elemental "Air elemental")
+-   [![IconSmall Earth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/IconSmall_Earth.gif/revision/latest?cb=20211129113137) [Earth elemental](https://wowpedia.fandom.com/wiki/Earth_elemental "Earth elemental")
+-   [![IconSmall Fire.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Fire.gif/revision/latest?cb=20211129113349) [Fire elemental](https://wowpedia.fandom.com/wiki/Fire_elemental "Fire elemental")
+-   [![IconSmall Water.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/IconSmall_Water.gif/revision/latest?cb=20211129113948) [Water elemental](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental")
+-   [![IconSmall Lava.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/48/IconSmall_Lava.gif/revision/latest?cb=20211129113121) [Lava/Magma/Obsidian elemental](https://wowpedia.fandom.com/wiki/Lava_elemental "Lava elemental")
+-   [![IconSmall IceElemental.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/IconSmall_IceElemental.gif/revision/latest?cb=20211129113132) [Ice elemental](https://wowpedia.fandom.com/wiki/Ice_elemental "Ice elemental")
+-   [![IconSmall Sand.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/IconSmall_Sand.gif/revision/latest?cb=20211129113543) [Sand elemental](https://wowpedia.fandom.com/wiki/Sand_elemental "Sand elemental")
+-   [![IconSmall Mana.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/IconSmall_Mana.gif/revision/latest?cb=20211129152410) [Mana elemental](https://wowpedia.fandom.com/wiki/Mana_elemental "Mana elemental")
+-   [![IconSmall Entropy.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/85/IconSmall_Entropy.gif/revision/latest?cb=20211129113352) [Entropic elemental](https://wowpedia.fandom.com/wiki/Entropic_elemental "Entropic elemental")
+-   [![IconSmall MojoWater.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_MojoWater.gif/revision/latest?cb=20211129114001) [Mojo/Drakkari elemental](https://wowpedia.fandom.com/wiki/Drakkari_Elemental "Drakkari Elemental")
+-   [![IconSmall Voidwalker.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/IconSmall_Voidwalker.gif/revision/latest?cb=20210415121958) [Shadow elemental](https://wowpedia.fandom.com/wiki/Syth_Shadow_Elemental "Syth Shadow Elemental")
+-   [![IconSmall Light.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/IconSmall_Light.gif/revision/latest?cb=20211129152548) [Light elemental](https://wowpedia.fandom.com/wiki/Lightspawn "Lightspawn")
+
+ |
+| [Bound elemental](https://wowpedia.fandom.com/wiki/Bound_elemental "Bound elemental") | Elementals bound within cages or with magical means such as magic bracers | 
+
+-   [![IconSmall BoundAir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/IconSmall_BoundAir.gif/revision/latest?cb=20211129112017) [Bound Air Elemental](https://wowpedia.fandom.com/wiki/Bound_elemental "Bound elemental")
+-   [![IconSmall BoundEarth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_BoundEarth.gif/revision/latest?cb=20211129121312) [Bound Earth Elemental](https://wowpedia.fandom.com/wiki/Bound_elemental "Bound elemental")
+-   [![IconSmall BoundFire.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_BoundFire.gif/revision/latest?cb=20211129122006) [Bound Fire Elemental](https://wowpedia.fandom.com/wiki/Bound_elemental "Bound elemental")
+-   [![IconSmall BoundWater.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/61/IconSmall_BoundWater.gif/revision/latest?cb=20211129122400) [Bound Water Elemental](https://wowpedia.fandom.com/wiki/Bound_elemental "Bound elemental")
+
+ |
+| [Unbound elemental](https://wowpedia.fandom.com/wiki/Unbound_elemental "Unbound elemental") | Elementals not bound by neither cages nor bracers | 
+
+-   [![IconSmall UnboundAir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/74/IconSmall_UnboundAir.gif/revision/latest?cb=20211129112126) [Unbound Air Eelemental](https://wowpedia.fandom.com/wiki/Unbound_elemental "Unbound elemental")
+-   [![IconSmall UnboundEarth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/60/IconSmall_UnboundEarth.gif/revision/latest?cb=20211129121657) [Unbound Earth elemental](https://wowpedia.fandom.com/wiki/Unbound_elemental "Unbound elemental")
+    -   [![IconSmall Azerite.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/58/IconSmall_Azerite.gif/revision/latest?cb=20211129113143) [Azerite elemental](https://wowpedia.fandom.com/wiki/Azerite_elemental "Azerite elemental")
+-   [![IconSmall UnboundFire.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/85/IconSmall_UnboundFire.gif/revision/latest?cb=20211129122159) [Unbound Fire elemental](https://wowpedia.fandom.com/wiki/Unbound_elemental "Unbound elemental")
+-   [![IconSmall UnboundWater.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/60/IconSmall_UnboundWater.gif/revision/latest?cb=20211129122526) [Unbound Water elemental](https://wowpedia.fandom.com/wiki/Unbound_elemental "Unbound elemental")
+-   [![IconSmall UnboundAir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/74/IconSmall_UnboundAir.gif/revision/latest?cb=20211129112126) [Unbound Lightning elemental](https://wowpedia.fandom.com/wiki/Unbound_elemental "Unbound elemental")
+-   [![IconSmall Steam.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_Steam.gif/revision/latest?cb=20211129151951) [Steam elemental](https://wowpedia.fandom.com/wiki/Steam_elemental "Steam elemental")
+-   [![IconSmall Arcane.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/IconSmall_Arcane.gif/revision/latest?cb=20211129153646) [Arcane elemental](https://wowpedia.fandom.com/wiki/Arcane_elemental "Arcane elemental")
+-   [![IconSmall UnboundAir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/74/IconSmall_UnboundAir.gif/revision/latest?cb=20211129112126) [Flux Animator](https://wowpedia.fandom.com/wiki/Flux_Animator "Flux Animator")
+
+ |
+| [Revenant](https://wowpedia.fandom.com/wiki/Revenant "Revenant") | Elemental creatures that once served as foot soldiers for the malefic Old Gods. | 
+
+-   [![IconSmall RevenantAir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_RevenantAir.gif/revision/latest?cb=20211129112450) [Lighting/Air revenant](https://wowpedia.fandom.com/wiki/Air_revenant "Air revenant")
+-   [![IconSmall RevenantEarth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_RevenantEarth.gif/revision/latest?cb=20211129124914) [Earth revenant](https://wowpedia.fandom.com/wiki/Earth_revenant "Earth revenant")
+-   [![IconSmall RevenantFire.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/IconSmall_RevenantFire.gif/revision/latest?cb=20211129125134) [Fire revenant](https://wowpedia.fandom.com/wiki/Fire_revenant "Fire revenant")
+-   [![IconSmall RevenantWater.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/IconSmall_RevenantWater.gif/revision/latest?cb=20211129125050) [Water revenant](https://wowpedia.fandom.com/wiki/Water_revenant "Water revenant")
+    -   [![IconSmall RevenantWater.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/IconSmall_RevenantWater.gif/revision/latest?cb=20211129125050) [Sea revenant](https://wowpedia.fandom.com/wiki/Sea_revenant "Sea revenant")
+-   [![IconSmall RevenantDeath.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/99/IconSmall_RevenantDeath.gif/revision/latest?cb=20211129124553) [Death/Shadow revenant](https://wowpedia.fandom.com/wiki/Death_revenant "Death revenant")
+-   [![IconSmall RevenantIce.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/05/IconSmall_RevenantIce.gif/revision/latest?cb=20211129124919) [Ice/Frost revenant](https://wowpedia.fandom.com/wiki/Ice_revenant "Ice revenant")
+
+ |
+| [Elemental ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant") | Mortals who have ascended into elementals | 
+
+-   [![IconSmall AscendantAir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_AscendantAir.gif/revision/latest?cb=20211129123655) [Air ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant")
+-   [![IconSmall AscendantEarth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_AscendantEarth.gif/revision/latest?cb=20211129123701) [Earth ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant")
+-   [![IconSmall AscendantFire.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/85/IconSmall_AscendantFire.gif/revision/latest?cb=20211129123712) [Fire ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant")
+-   [![IconSmall AscendantWater.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/IconSmall_AscendantWater.gif/revision/latest?cb=20211129123720) [Water ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant")
+-   [![IconSmall AscendantIce.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/IconSmall_AscendantIce.gif/revision/latest?cb=20211129123737) [Ice ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant")
+-   [![IconSmall UnboundMercury.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_UnboundMercury.gif/revision/latest?cb=20211129122531) [Mercury/Quicksilver ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant")
+-   [![IconSmall AscendantElementium.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/04/IconSmall_AscendantElementium.gif/revision/latest?cb=20211129123751) [Elementium/Primal ascendant](https://wowpedia.fandom.com/wiki/Elemental_ascendant "Elemental ascendant")
+
+ |
+| [Pandaren spirit](https://wowpedia.fandom.com/wiki/Pandaren_spirit "Pandaren spirit") | Elementals found only in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") and the [Wandering Isle](https://wowpedia.fandom.com/wiki/Wandering_Isle "Wandering Isle") | 
+
+-   [![IconSmall AirSpirit.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/8f/IconSmall_AirSpirit.gif/revision/latest?cb=20211129111649) [Pandaren Air spirit](https://wowpedia.fandom.com/wiki/Pandaren_spirit "Pandaren spirit")
+-   [![IconSmall EarthSpirit.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/43/IconSmall_EarthSpirit.gif/revision/latest?cb=20211129122906) [Pandaren Earth Spirit](https://wowpedia.fandom.com/wiki/Pandaren_spirit "Pandaren spirit")
+-   [![IconSmall FireSpirit.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_FireSpirit.gif/revision/latest?cb=20211129122910) [Pandaren Fire Spirit](https://wowpedia.fandom.com/wiki/Pandaren_spirit "Pandaren spirit")
+-   [![IconSmall WaterSpirit.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/IconSmall_WaterSpirit.gif/revision/latest?cb=20211129122916) [Pandaren Water Spirit](https://wowpedia.fandom.com/wiki/Pandaren_spirit "Pandaren spirit")
+-   [![IconSmall Alemental.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Alemental.gif/revision/latest?cb=20211129125644) [Alemental](https://wowpedia.fandom.com/wiki/Alemental "Alemental")
+
+ |
+
+-   Void elementals<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-27">[27]</a></sup>
+-   Elementals of nature<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-28">[28]</a></sup>
+
+### Specific elemental types
+
+Some types of elementals have only been found in a single element.
+
+| Element | Types |
+| --- | --- |
+| 
+Air
+
+
+
+ | 
+
+-   [![IconSmall Djinn.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Djinn.gif/revision/latest?cb=20211129125308) [Djinn](https://wowpedia.fandom.com/wiki/Djinn "Djinn")
+
+ |
+| 
+
+Earth
+
+
+
+ | 
+
+-   [![IconSmall GemstoneColossus.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/IconSmall_GemstoneColossus.gif/revision/latest?cb=20211129142447) [Gemstone colossus](https://wowpedia.fandom.com/wiki/Gemstone_colossus "Gemstone colossus")
+-   [![IconSmall Geode.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/62/IconSmall_Geode.gif/revision/latest?cb=20211129142342) [Geode](https://wowpedia.fandom.com/wiki/Geode "Geode")
+-   [![IconSmall Gyreworm.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Gyreworm.gif/revision/latest?cb=20211129142639) [Gyreworm](https://wowpedia.fandom.com/wiki/Gyreworm "Gyreworm")
+-   [![IconSmall ShaleSpider.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4a/IconSmall_ShaleSpider.gif/revision/latest?cb=20211129142845) [Shale spider](https://wowpedia.fandom.com/wiki/Shale_spider "Shale spider")
+
+ |
+| 
+
+Fire
+
+
+
+ | 
+
+-   [![IconSmall Phoenix.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3a/IconSmall_Phoenix.gif/revision/latest?cb=20211129145255) [Phoenix](https://wowpedia.fandom.com/wiki/Phoenix "Phoenix")
+-   [![IconSmall Flamewaker.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Flamewaker.gif/revision/latest?cb=20211129144556) [Flamewaker](https://wowpedia.fandom.com/wiki/Flamewaker "Flamewaker")
+-   [![IconSmall FireHawk.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/71/IconSmall_FireHawk.gif/revision/latest?cb=20211129144006) [Fire hawk](https://wowpedia.fandom.com/wiki/Fire_hawk "Fire hawk")
+-   [![IconSmall HellHound.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/57/IconSmall_HellHound.gif/revision/latest?cb=20211129144715) [Hell hound](https://wowpedia.fandom.com/wiki/Hell_hound "Hell hound")
+-   [![IconSmall LavaWorm.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/29/IconSmall_LavaWorm.gif/revision/latest?cb=20211129170837) [Lava worm](https://wowpedia.fandom.com/wiki/Lava_worm "Lava worm")
+-   [![IconSmall Cinderweb.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Cinderweb.gif/revision/latest?cb=20211129144143) [Cinderweb brood](https://wowpedia.fandom.com/wiki/Cinderweb_brood "Cinderweb brood")
+-   [![IconSmall CoreHound.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/df/IconSmall_CoreHound.gif/revision/latest?cb=20211127092255) [Core hound](https://wowpedia.fandom.com/wiki/Core_hound "Core hound")
+-   [![IconSmall TurtleFire.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/IconSmall_TurtleFire.gif/revision/latest?cb=20211129143746) [Fire turtle](https://wowpedia.fandom.com/wiki/Fire_turtle "Fire turtle")
+-   [![IconSmall Firekin.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/92/IconSmall_Firekin.gif/revision/latest?cb=20211118210345) [Firekin](https://wowpedia.fandom.com/wiki/Firekin "Firekin")
+
+ |
+| 
+
+Water
+
+
+
+ | 
+
+-   [Snow Orb](https://wowpedia.fandom.com/wiki/Snow_Orb "Snow Orb")
+
+ |
+| 
+
+Mana
+
+
+
+ | 
+
+-   [![IconSmall ArcaneWraith.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/11/IconSmall_ArcaneWraith.gif/revision/latest?cb=20211129154409) [Arcane Wraith](https://wowpedia.fandom.com/wiki/Arcane_Wraith "Arcane Wraith")
+-   [![IconSmall ManaWyrm.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/ca/IconSmall_ManaWyrm.gif/revision/latest?cb=20211125084924) [Mana Wyrm](https://wowpedia.fandom.com/wiki/Mana_Wyrm "Mana Wyrm")
+-   [![IconSmall Spark.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/IconSmall_Spark.gif/revision/latest?cb=20211129151539) [Spark](https://wowpedia.fandom.com/wiki/Spark "Spark")
+
+ |
+| 
+
+Mercury
+
+
+
+ | 
+
+-   [![IconSmall MercuryOoze.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/71/IconSmall_MercuryOoze.gif/revision/latest?cb=20181111150708) [Mercury elemental](https://wowpedia.fandom.com/wiki/Mercury_elemental "Mercury elemental")
+
+ |
+| 
+
+Primordial
+
+
+
+ | 
+
+-   [![IconSmall SoundLord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/61/IconSmall_SoundLord.gif/revision/latest?cb=20221014190148) [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur") (sound)
+    -   [![IconSmall SoundLord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/61/IconSmall_SoundLord.gif/revision/latest?cb=20221014190148) [Echo of Murmur](https://wowpedia.fandom.com/wiki/Echo_of_Murmur "Echo of Murmur")
+
+ |
+
+### "Elemental" as a gameplay term
+
+Many NPCs in World of Warcraft are classed as elementals for gameplay purposes, but may not actually be true elementals. They cannot be skinned, although the remains of earth elementals may sometimes [mined](https://wowpedia.fandom.com/wiki/Mining "Mining"). [Enchanters](https://wowpedia.fandom.com/wiki/Enchanting "Enchanting") can enchant weapons with  ![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Spell_holy_greaterheal.png/revision/latest/scale-to-width-down/16?cb=20180804040103)[\[Lesser Elemental Slayer\]](https://wowpedia.fandom.com/wiki/Lesser_Elemental_Slayer) or  ![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Spell_holy_greaterheal.png/revision/latest/scale-to-width-down/16?cb=20180804040103)[\[Elemental Slayer\]](https://wowpedia.fandom.com/wiki/Elemental_Slayer), which gives them bonus damage. All elementals can be [banished](https://wowpedia.fandom.com/wiki/Banish "Banish") by [warlocks](https://wowpedia.fandom.com/wiki/Warlock "Warlock").
+
+### Plants
+
+### Constructs
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+When the Old Gods were defeated and imprisoned by the [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), the Titans banished all elementals to the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane"). The Elemental Plane is a violent and dangerous place where elementals of one type battle with all others in a never-ending conflict to expand their territory. It is no wonder, then, that some elementals attempt to escape from the unceasing struggle by traveling to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), where they establish solitary lairs in suitable environments. Such transplanted elementals find it difficult to shake off the warlike existence they lived on the Elemental Plane; they guard their new territory viciously and constantly seek to expand their boundaries.
+
+All elementals speak [Kalimag](https://wowpedia.fandom.com/wiki/Kalimag "Kalimag") and, whether summoned to Azeroth or there of their own free will, wear a set of magic bracers. These bracers form automatically when the elemental leaves the Elemental Plane. They tie the elemental to Azeroth and allow it to exist outside of the Elemental Plane. If the magic of the bracer's is disrupted, usually by prolonged physical or magical attack, the elemental loses much of its power and may inadvertently return to the Elemental Plane.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-29">[29]</a></sup>
+
+### Elemental Conglomerate
+
+[Elemental Conglomerates](https://wowpedia.fandom.com/wiki/Elemental_Conglomerate "Elemental Conglomerate") are elementals that share two or more aspects of the basic elemental types.
+
+| Conglomerate | Variant |
+| --- | --- |
+| 
+-   Dual elementals
+
+ | 
+
+-   [Dust elemental](https://wowpedia.fandom.com/wiki/Dust_elemental "Dust elemental") (air, earth)
+-   [Ice elemental](https://wowpedia.fandom.com/wiki/Ice_elemental "Ice elemental") (air, water)
+-   [Spark elemental](https://wowpedia.fandom.com/wiki/Spark_elemental "Spark elemental") (air, fire)
+-   [Lava elemental](https://wowpedia.fandom.com/wiki/Lava_elemental "Lava elemental") (earth, fire)
+-   [Mud elemental](https://wowpedia.fandom.com/wiki/Mud_elemental "Mud elemental") (earth, water)
+-   [Steam elemental](https://wowpedia.fandom.com/wiki/Steam_elemental "Steam elemental") (fire, water)
+
+ |
+| 
+
+-   Triumvirate elementals
+
+ | 
+
+-   [Geyser elemental](https://wowpedia.fandom.com/wiki/Geyser_elemental "Geyser elemental") (air, fire, water)
+-   [Pyroclastic elemental](https://wowpedia.fandom.com/wiki/Pyroclastic_elemental "Pyroclastic elemental") (air, earth, fire)
+-   [Sandstorm elemental](https://wowpedia.fandom.com/wiki/Sandstorm_elemental "Sandstorm elemental") (air, earth, water)
+-   [Volcanic elemental](https://wowpedia.fandom.com/wiki/Volcanic_elemental "Volcanic elemental") (earth, fire, water)
+
+ |
+| 
+
+-   Complete elemental
+
+ | 
+
+-   [Primal elemental](https://wowpedia.fandom.com/wiki/Primal_elemental "Primal elemental") (air, earth, fire, water)
+-   [Arcane elemental](https://wowpedia.fandom.com/wiki/Arcane_elemental "Arcane elemental") (air, earth, fire, water)
+
+ |
+
+## Notes and trivia
+
+-   Elementals bound to the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") can only truly die when slain there. If they are killed in the physical world, they are simply banished back to their corresponding plane.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-30">[30]</a></sup><sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-31">[31]</a></sup>
+-   [Sludge beasts](https://wowpedia.fandom.com/wiki/Sludge_beast "Sludge beast") share an elemental heritage.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-32">[32]</a></sup>
+-   Elementals are capable of feeling pain.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-33">[33]</a></sup>
+-   Elementals on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") are called [furies](https://wowpedia.fandom.com/wiki/Furies "Furies"), and seek to balance the world.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-34">[34]</a></sup>
+-   In WoW, elementals used to be generally immune to all spells from their own element. However, this became less and less the case as subsequent expansions were released, before being removed entirely from the game in [patch 5.0.4](https://wowpedia.fandom.com/wiki/Patch_5.0.4 "Patch 5.0.4").
+-   [Elementals](http://en.wikipedia.org/wiki/Elementals "wikipedia:Elementals") are beings that first appeared in the alchemical works of Paracelsus.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Elements_Dragonflight_concept_art.jpg/revision/latest/scale-to-width-down/120?cb=20221014203403)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Elements_Dragonflight_concept_art.jpg/revision/latest?cb=20221014203403)
+    
+    Dragonflight elementals
+    
+
+## See also
+
+-   [Elemental Invasions (Classic)](https://wowpedia.fandom.com/wiki/Elemental_Invasions_(Classic) "Elemental Invasions (Classic)")
+-   [Elemental hierarchy](https://wowpedia.fandom.com/wiki/Elemental_hierarchy "Elemental hierarchy")
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Inv_bracer_03.png/revision/latest/scale-to-width-down/16?cb=20061003003817)[\[Elemental Bindings\]](https://wowpedia.fandom.com/wiki/Elemental_Bindings)
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-1)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Inv_scroll_16.png/revision/latest/scale-to-width-down/16?cb=20180824084711)[\[Dark Iron Contingency Plan\]](https://wowpedia.fandom.com/wiki/Dark_Iron_Contingency_Plan)
+2.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-MetzenT_2-0) [Chris Metzen on Twitter](https://twitter.com/ChrisMetzen/status/413810116874350593) (2013-12-19) - "Hi. Could you clarify the difference between Elementals and elemental Spirits? Same thing or..?" - "when spirits attain raw physical form they become an elemental. They are the core of an elemental."
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_ref-UVG_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_ref-UVG_3-1">b</a></sup> _[World of Warcraft: Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_
+4.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-4)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [The Firelord](https://wowpedia.fandom.com/wiki/The_Firelord) - "Ragnaros must be defeated in his home realm. Only then will he forever be vanquished."
+5.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-5) [Ragnaros (tactics)](https://wowpedia.fandom.com/wiki/Ragnaros_(tactics) "Ragnaros (tactics)")
+6.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-6)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Inv_misc_orb_05.png/revision/latest/scale-to-width-down/16?cb=20061105112250)[\[Core of Hardened Ash\]](https://wowpedia.fandom.com/wiki/Core_of_Hardened_Ash)
+7.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-7) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 18
+8.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-8)  ![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Achievement_dungeon_blackrockcaverns.png/revision/latest/scale-to-width-down/16?cb=20100703174237)[\[Soul of the Forge\]](https://wowpedia.fandom.com/wiki/Soul_of_the_Forge)
+9.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-9) [Grinder](https://wowpedia.fandom.com/wiki/Grinder "Grinder")
+10.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-10) [Fel Flame](https://wowpedia.fandom.com/wiki/Fel_Flame "Fel Flame")
+11.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-11) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 29
+12.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-12) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 14
+13.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-13) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 10
+14.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-14)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35-40\] [Earth, Wind and Fire...and Water](https://wowpedia.fandom.com/wiki/Earth,_Wind_and_Fire...and_Water)
+15.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-15)  ![Combat](https://static.wikia.nocookie.net/wowpedia/images/f/f0/GarrisonMission_Combat.png/revision/latest/scale-to-width-down/16?cb=20201005020641 "Combat")[The Needs of the Many](https://wowpedia.fandom.com/wiki/The_Needs_of_the_Many_(mission))
+16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_ref-Chronicle28_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_ref-Chronicle28_16-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 28 - 30
+17.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-17) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 176
+18.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-Ordering_18-0) [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+19.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-19) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 31 - 32
+20.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-20) [Highlord Demitrian#Dialogue](https://wowpedia.fandom.com/wiki/Highlord_Demitrian "Highlord Demitrian")
+21.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-21) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 154 - 156
+22.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-22) [Throne of the Four Winds](http://us.battle.net/wow/en/zone/throne-of-the-four-winds/)
+23.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Al'Akir's Vengeance](https://wowpedia.fandom.com/wiki/Al%27Akir%27s_Vengeance)
+24.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35D\] [The Vortex Pinnacle](https://wowpedia.fandom.com/wiki/The_Vortex_Pinnacle_(quest))
+25.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-25) [Hagara the Stormbinder#Dungeon Journal](https://wowpedia.fandom.com/wiki/Hagara_the_Stormbinder#Dungeon_Journal "Hagara the Stormbinder")
+26.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-26)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50-70\] [Firelands](https://wowpedia.fandom.com/wiki/Firelands_(quest))
+27.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-27)  ![Exploration](https://static.wikia.nocookie.net/wowpedia/images/4/4f/GarrisonMission_Exploration.png/revision/latest/scale-to-width-down/16?cb=20201005020837 "Exploration")[Mountain of Spirits](https://wowpedia.fandom.com/wiki/Mountain_of_Spirits)
+28.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-28)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[1-30\] [Timberling Seeds](https://wowpedia.fandom.com/wiki/Timberling_Seeds)
+29.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-29) [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). _[Monster Guide](https://wowpedia.fandom.com/wiki/Monster_Guide "Monster Guide")_, 53. [ISBN 9781588469366](https://wowpedia.fandom.com/wiki/Special:BookSources/9781588469366). 
+30.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-30)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Core of Our Troubles](https://wowpedia.fandom.com/wiki/Core_of_Our_Troubles)
+31.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-31)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Something that Burns](https://wowpedia.fandom.com/wiki/Something_that_Burns)
+32.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-32) _[Warcraft III: Reign of Chaos Game Manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")_
+33.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-33) [Frag](https://wowpedia.fandom.com/wiki/Frag "Frag")
+34.  [^](https://wowpedia.fandom.com/wiki/Elemental#cite_ref-34) [Jeremy Feasel on Twitter](https://twitter.com/Muffinus/status/487125342122168320) (2014-07-09)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Cosmic_forces_and_magics "Template:Cosmic forces and magics")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Cosmic_forces_and_magics?action=edit)
+
+Warcraft cosmos
+
+ |
+| --- |
+|  |
+| Forces | 
+
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Void](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+
+
+
+ | 
+
+[![WoW Chronicle Magic.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest/scale-to-width-down/120?cb=20180325103405)](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest?cb=20180325103405)
+
+ |
+|  |
+| [Magic](https://wowpedia.fandom.com/wiki/Magic "Magic") | 
+
+-   [Holy](https://wowpedia.fandom.com/wiki/Holy "Holy")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Shadow_(magic) "Shadow (magic)")
+-   [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature")
+    -   [Blood](https://wowpedia.fandom.com/wiki/Blood_magic "Blood magic")
+-   [Necromantic](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer")
+    -   [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination")
+-   [Arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane")
+-   [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel")
+
+
+
+ |
+|  |
+| Manifestations | 
+
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+-   [Void Lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+-   [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") and [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+-   [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") and [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper")
+-   [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+|  |
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Void](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
+-   [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")
+-   Reality ([Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") and [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"))
+
+
+
+ |
+|  |
+| [Elements](https://wowpedia.fandom.com/wiki/Element "Element") | 
+
+-   [Earth](https://wowpedia.fandom.com/wiki/Spirit_of_Earth "Spirit of Earth")
+-   [Air](https://wowpedia.fandom.com/wiki/Spirit_of_Air "Spirit of Air")
+-   [Fire](https://wowpedia.fandom.com/wiki/Spirit_of_Fire "Spirit of Fire")
+-   [Water](https://wowpedia.fandom.com/wiki/Spirit_of_Water "Spirit of Water")
+-   [Spirit](https://wowpedia.fandom.com/wiki/Spirit_(lore) "Spirit (lore)")
+-   [Decay](https://wowpedia.fandom.com/wiki/Decay "Decay")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Nature_and_Divine "Template:Nature and Divine")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Nature_and_Divine?action=edit)
+
+[Nature](https://wowpedia.fandom.com/wiki/Nature "Nature") and [Holy](https://wowpedia.fandom.com/wiki/Holy "Holy") sapient species
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Creaturefooter "Template:Creaturefooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Creaturefooter?action=edit)
+
+[Creatures](https://wowpedia.fandom.com/wiki/Creature "Creature")
+
+
+
+ |
+| --- |

@@ -1,0 +1,155 @@
+_Not to be confused with [Bloodwash](https://wowpedia.fandom.com/wiki/Bloodwash "Bloodwash")._
+
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Combat_32.png/revision/latest?cb=20151213203709)](https://wowpedia.fandom.com/wiki/Mob "Mob")Bloodwash |
+| --- |
+| [![Bloodwash Shrine.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Bloodwash_Shrine.jpg/revision/latest/scale-to-width-down/260?cb=20100801134333)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Bloodwash_Shrine.jpg/revision/latest?cb=20100801134333)
+Bloodwash Shrine
+
+ |
+| Main leader | Unknown |
+| Race(s) | [![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga") |
+| Character classes | [Enchanter](https://wowpedia.fandom.com/wiki/Enchanter "Enchanter"), [Acolyte](https://wowpedia.fandom.com/wiki/Acolyte "Acolyte"), [Gambler](https://wowpedia.fandom.com/wiki/Gambler "Gambler"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest") |
+| Base of operations | [Bloodwash Cavern](https://wowpedia.fandom.com/wiki/Bloodwash_Cavern "Bloodwash Cavern") |
+| Theater of operations | [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands") |
+| Affiliation | [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") |
+|   Formerly | [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") |
+
+The **Bloodwash** are a group of [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") found along the [Red Reaches](https://wowpedia.fandom.com/wiki/Red_Reaches "Red Reaches") in [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands").
+
+The Bloodwash naga and the [Rockpool](https://wowpedia.fandom.com/wiki/Rockpool_tribe "Rockpool tribe") [murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc") lived among one another for a long time. They always had their differences, but never provoked one another. However, recently, the naga turned on the murlocs, and now they enslave, sacrifice and force their former villagers to fight one another.<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Bloodwash_naga#cite_note-1">[1]</a></sup>
+
+The Bloodwash have set up a fortress in the [Bloodwash Cavern](https://wowpedia.fandom.com/wiki/Bloodwash_Cavern "Bloodwash Cavern"), and their remaining members have erected gladiatorial pools and Azsh'ir altars on the murlocs' beach, where they pit them against one another and worship their god.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Bloodwash_naga#cite_note-2">[2]</a></sup>
+
+They have left some [Rockpool Tadpoles](https://wowpedia.fandom.com/wiki/Rockpool_Tadpole "Rockpool Tadpole") abandoned upon a series of [crates](https://wowpedia.fandom.com/wiki/Abandoned_Bloodwash_Crate "Abandoned Bloodwash Crate").<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Bloodwash_naga#cite_note-3">[3]</a></sup>
+
+The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh%27ir "Azsh'ir") naga.
+
+## Members
+
+### Named
+
+-   [Cassia the Slitherqueen](https://wowpedia.fandom.com/wiki/Cassia_the_Slitherqueen "Cassia the Slitherqueen")
+
+### Unnamed
+
+## Items
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Inv_jewelry_ring_04.png/revision/latest/scale-to-width-down/16?cb=20060831025429)[\[Bloodwash Ring\]](https://wowpedia.fandom.com/wiki/Bloodwash_Ring)
+
+## References
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Naga "Template:Naga")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Naga?action=edit)
+
+[Naga](https://wowpedia.fandom.com/wiki/Naga "Naga") [tribes](https://wowpedia.fandom.com/wiki/Category:Naga_tribes "Category:Naga tribes") and groups
+
+
+
+ |
+| --- |
+|  |
+| [![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") | 
+
+-   [Blackfathom](https://wowpedia.fandom.com/wiki/Blackfathom "Blackfathom")
+-   [Daggerspine](https://wowpedia.fandom.com/wiki/Daggerspine "Daggerspine")
+-   [Hatecrest](https://wowpedia.fandom.com/wiki/Hatecrest "Hatecrest")
+-   [Naga explorers](https://wowpedia.fandom.com/wiki/Naga_explorers "Naga explorers")
+-   [Slitherblade](https://wowpedia.fandom.com/wiki/Slitherblade "Slitherblade")
+-   [Spitelash](https://wowpedia.fandom.com/wiki/Spitelash "Spitelash")
+-   [Stormscale](https://wowpedia.fandom.com/wiki/Stormscale_tribe "Stormscale tribe")
+-   [Strashaz](https://wowpedia.fandom.com/wiki/Strashaz "Strashaz")
+-   [Wrathtail](https://wowpedia.fandom.com/wiki/Wrathtail "Wrathtail")
+
+
+
+ |
+|  |
+| [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") [The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") | 
+
+-   [Bloodcursed](https://wowpedia.fandom.com/wiki/Bloodcursed "Bloodcursed")
+-   [Bloodscale](https://wowpedia.fandom.com/wiki/Bloodscale_tribe "Bloodscale tribe")
+-   [Coilfang](https://wowpedia.fandom.com/wiki/Coilfang_tribe "Coilfang tribe")
+-   [Coilskar](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe")
+-   [Darkcrest](https://wowpedia.fandom.com/wiki/Darkcrest_tribe "Darkcrest tribe")
+-   [Darkspine](https://wowpedia.fandom.com/wiki/Darkspine "Darkspine")
+-   [Wrathfin](https://wowpedia.fandom.com/wiki/Wrathfin "Wrathfin")
+-   [Wrathscale](https://wowpedia.fandom.com/wiki/Wrathscale "Wrathscale")
+
+
+
+ |
+|  |
+| [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") [Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King") | 
+
+-   [Riplash](https://wowpedia.fandom.com/wiki/Riplash "Riplash")
+-   ~[Irontide](https://wowpedia.fandom.com/wiki/Irontide_naga "Irontide naga")~
+
+
+
+ |
+|  |
+| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") [Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm") | 
+
+-   [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh%27ir "Azsh'ir")
+-   [Blackscale](https://wowpedia.fandom.com/wiki/Blackscale_naga "Blackscale naga")
+-   **Bloodwash**
+-   [Darkscale](https://wowpedia.fandom.com/wiki/Darkscale "Darkscale")
+-   [Idra'kess](https://wowpedia.fandom.com/wiki/Idra%27kess "Idra'kess")
+-   [Naz'jar](https://wowpedia.fandom.com/wiki/Naz%27jar "Naz'jar")
+-   [Sira'kess](https://wowpedia.fandom.com/wiki/Sira%27kess "Sira'kess")
+-   [Spitescale](https://wowpedia.fandom.com/wiki/Spitescale "Spitescale")
+-   [Vashj'elan](https://wowpedia.fandom.com/wiki/Vashj%27elan "Vashj'elan")
+-   [Zin'jatar](https://wowpedia.fandom.com/wiki/Zin%27jatar "Zin'jatar")
+-   ~[Grimscale](https://wowpedia.fandom.com/wiki/Grimscale_naga "Grimscale naga")~
+
+
+
+ |
+|  |
+| [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") [Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion") | 
+
+-   [Deepsurge / Felsurge](https://wowpedia.fandom.com/wiki/Deepsurge "Deepsurge")
+-   [Felrage](https://wowpedia.fandom.com/wiki/Felrage "Felrage")
+-   [Hatecoil](https://wowpedia.fandom.com/wiki/Hatecoil "Hatecoil")
+-   [Murkwater](https://wowpedia.fandom.com/wiki/Murkwater "Murkwater")
+-   [Rimescale](https://wowpedia.fandom.com/wiki/Rimescale "Rimescale")
+-   [Sashj'tar](https://wowpedia.fandom.com/wiki/Sashj%27tar "Sashj'tar")
+-   [Tidescale](https://wowpedia.fandom.com/wiki/Tidescale "Tidescale")
+-   [Timeworn](https://wowpedia.fandom.com/wiki/Timeworn "Timeworn")
+-   [Zithreenai](https://wowpedia.fandom.com/wiki/Zithreenai "Zithreenai")
+-   Unnamed [Felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") group
+-   ~[Blackswell](https://wowpedia.fandom.com/wiki/Blackswell "Blackswell")~
+-   ~[Leyspine](https://wowpedia.fandom.com/wiki/Leyspine "Leyspine")~
+
+
+
+ |
+|  |
+| [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") [Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth") | 
+
+-   [Azsh'ari](https://wowpedia.fandom.com/wiki/Azsh%27ari "Azsh'ari")
+-   [Darktide](https://wowpedia.fandom.com/wiki/Darktide "Darktide")
+-   [Dreadcoil](https://wowpedia.fandom.com/wiki/Dreadcoil "Dreadcoil")
+-   [Nazeshi](https://wowpedia.fandom.com/wiki/Nazeshi "Nazeshi")
+-   [Shirakess](https://wowpedia.fandom.com/wiki/Shirakess "Shirakess")
+-   [Spitefin](https://wowpedia.fandom.com/wiki/Spitefin "Spitefin")
+-   [Stormcoil](https://wowpedia.fandom.com/wiki/Stormcoil "Stormcoil")
+-   [Vilescale](https://wowpedia.fandom.com/wiki/Vilescale "Vilescale")
+-   [Zanj'ir](https://wowpedia.fandom.com/wiki/Zanj%27ir "Zanj'ir")
+-   [Zeth'jir](https://wowpedia.fandom.com/wiki/Zeth%27jir "Zeth'jir")
+-   ~[Nazjarine](https://wowpedia.fandom.com/wiki/Nazjarine "Nazjarine")~
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [RPG](https://wowpedia.fandom.com/wiki/RPG "RPG") | 
+
+[Death Hiss](https://wowpedia.fandom.com/wiki/Death_Hiss_tribe "Death Hiss tribe")
+
+
+
+ |
+
+Others like you also viewed

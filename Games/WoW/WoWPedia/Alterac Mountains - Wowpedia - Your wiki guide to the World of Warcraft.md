@@ -1,0 +1,442 @@
+_For the original zone before the Cataclysm, see [Alterac Mountains (Classic)](https://wowpedia.fandom.com/wiki/Alterac_Mountains_(Classic) "Alterac Mountains (Classic)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Alterac Mountains |
+| --- |
+| [![Ruins of Alterac.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/89/Ruins_of_Alterac.jpg/revision/latest/scale-to-width-down/260?cb=20200514183454)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Ruins_of_Alterac.jpg/revision/latest?cb=20200514183454)  
+The [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins of Alterac") within the mountains
+
+
+
+ |
+| Capital(s) | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins of Alterac") |
+|   Formerly | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") |
+| Races | [![Ogre](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)](https://wowpedia.fandom.com/wiki/Ogre "Ogre")[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Ogre_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118150603)](https://wowpedia.fandom.com/wiki/Ogre "Ogre") [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")  
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
+[![Kobold](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Kobold.gif/revision/latest/scale-to-width-down/16?cb=20200520131313)](https://wowpedia.fandom.com/wiki/Kobold "Kobold") [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")  
+[![Harpy](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Harpy.gif/revision/latest/scale-to-width-down/16?cb=20211118213016)](https://wowpedia.fandom.com/wiki/Harpy "Harpy") [Harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")  
+[![Gnoll](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Gnoll.gif/revision/latest/scale-to-width-down/16?cb=20220815094250)](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") [Gnoll](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll")  
+[![Trogg](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Trogg.gif/revision/latest/scale-to-width-down/16?cb=20200520132846)](https://wowpedia.fandom.com/wiki/Trogg "Trogg") [Trogg](https://wowpedia.fandom.com/wiki/Trogg "Trogg") |
+| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") Unknown  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)[Mug'thol](https://wowpedia.fandom.com/wiki/Mug%27thol "Mug'thol") |
+| Former ruler(s) | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)[Aliden Perenolde](https://wowpedia.fandom.com/wiki/Aliden_Perenolde "Aliden Perenolde") <sup>&nbsp;†</sup>  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)[Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde") <sup>&nbsp;†</sup> |
+| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad")  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Crushridge Hold](https://wowpedia.fandom.com/wiki/Crushridge_Hold "Crushridge Hold") |
+| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dandred's Fold](https://wowpedia.fandom.com/wiki/Dandred%27s_Fold "Dandred's Fold") (abandoned)  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Ravenholdt Manor](https://wowpedia.fandom.com/wiki/Ravenholdt_Manor "Ravenholdt Manor")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead")  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Slaughter Hollow](https://wowpedia.fandom.com/wiki/Slaughter_Hollow "Slaughter Hollow") |
+| Affiliation | [Crushridge](https://wowpedia.fandom.com/wiki/Crushridge "Crushridge"), [Syndicate](https://wowpedia.fandom.com/wiki/Syndicate "Syndicate"), [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Stormpike Guard](https://wowpedia.fandom.com/wiki/Stormpike_Guard "Stormpike Guard"), [Stormpike clan](https://wowpedia.fandom.com/wiki/Stormpike_clan "Stormpike clan"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Ravenholdt](https://wowpedia.fandom.com/wiki/Ravenholdt "Ravenholdt") |
+| Former affiliation(s) | [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"), [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") |
+| Location | North of [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") |
+
+The **Alterac Mountains** is a massive mountain range bordering the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") and is also the location of the former nation of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"). Its chief settlements included [Alterac City](https://wowpedia.fandom.com/wiki/Alterac_City "Alterac City") and [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad"). It contains many areas and several ruins filled with [Crushridge](https://wowpedia.fandom.com/wiki/Crushridge "Crushridge") [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre") and members of the [Syndicate](https://wowpedia.fandom.com/wiki/Syndicate "Syndicate").
+
+In the past years, little action has been seen in the mountains apart from the skirmishes in [Alterac Valley](https://wowpedia.fandom.com/wiki/Alterac_Valley "Alterac Valley"), until the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), when the Horde took control of part of the region by reclaiming and fortifying the [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins of Alterac") and [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad"), for their operations in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron").
+
+## History
+
+### The Troll Wars
+
+The slopes of the Alterac Mountains were once home to the [human](https://wowpedia.fandom.com/wiki/Human "Human") [Alteraci tribe](https://wowpedia.fandom.com/wiki/Alteraci_tribe "Alteraci tribe"), who became part of the [Empire of Arathor](https://wowpedia.fandom.com/wiki/Arathor "Arathor") after their leader [Ignaeus](https://wowpedia.fandom.com/wiki/Ignaeus_Trollbane "Ignaeus Trollbane") was bested in a duel by [King Thoradin](https://wowpedia.fandom.com/wiki/Thoradin "Thoradin").<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-2">[2]</a></sup> During the [Troll Wars](https://wowpedia.fandom.com/wiki/Troll_Wars "Troll Wars"), generals of Arathor established the stronghold of [Alterac Fortress](https://wowpedia.fandom.com/wiki/Alterac_Fortress "Alterac Fortress") at the base of the mountains, and the final and most decisive battle between the [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire") and the combined human and [high elven](https://wowpedia.fandom.com/wiki/High_elf "High elf") armies took place at the foot of the mountains.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-4">[4]</a></sup> As Arathor began fracturing in the centuries after the Troll Wars, the city-state of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)") was established among the peaks and came to hold dominion over much of the northlands.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-5">[5]</a></sup><sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-6">[6]</a></sup>
+
+### Second War
+
+During the early days of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), the high elves of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") sent a contingent of [archers](https://wowpedia.fandom.com/wiki/Archer "Archer") south to survey the supposed [orcish](https://wowpedia.fandom.com/wiki/Orc "Orc") threat for themselves. Shortly after passing through the Alterac Mountains the elves were ambushed by [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") troops and brought to a prison camp near [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill").<sup id="cite_ref-TarrenMill_7-0"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-TarrenMill-7">[7]</a></sup>
+
+Some time later, the treachery of the humans of Alterac was revealed by the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), and an army was sent to the Alterac Mountains to strike the traitors at their heart. An Alteraci prison camp was also situated near [Alterac City](https://wowpedia.fandom.com/wiki/Alterac_City "Alterac City"), containing captured [Dalaranian](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") citizens.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-8">[8]</a></sup>
+
+After the end of the war, military outposts maintained by [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") and [Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)") were built along the borders of the Mountains. These outposts were raided by the [Horde of Draenor](https://wowpedia.fandom.com/wiki/Horde_of_Draenor "Horde of Draenor") in order to get the [Book of Medivh](https://wowpedia.fandom.com/wiki/Book_of_Medivh "Book of Medivh") back from the Alteraci.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-9">[9]</a></sup>
+
+### Third War
+
+At some point, the mountains were invaded by [gnolls](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll"). The [dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [mountain king](https://wowpedia.fandom.com/wiki/Mountain_king "Mountain king") [Murgen Hammerfall](https://wowpedia.fandom.com/wiki/Murgen_Hammerfall "Murgen Hammerfall") used his abilities to decimate the gnolls. [Kobolds](https://wowpedia.fandom.com/wiki/Kobold "Kobold") also infested the deep tunnels of the mountains.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-10">[10]</a></sup>
+
+The Alterac Mountains were home to a large portion of the demon-worshiping [orcish](https://wowpedia.fandom.com/wiki/Orc "Orc") [Blackrock Clan](https://wowpedia.fandom.com/wiki/Blackrock_Clan "Blackrock Clan") and its allies. Though they regrouped after the Alliance's retribution for their attack on [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad"), they were thoroughly defeated by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") on its march to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Other inhabitants included [gnolls](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll"), the [human](https://wowpedia.fandom.com/wiki/Human "Human") [Bloodhill Bandits](https://wowpedia.fandom.com/wiki/Bloodhill_Bandits "Bloodhill Bandits"), [murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc"),<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-11">[11]</a></sup> and [ice trolls](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-12">[12]</a></sup>
+
+After the [fall](https://wowpedia.fandom.com/wiki/Scourge_invasion_of_Quel%27Thalas "Scourge invasion of Quel'Thalas") of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), the Scourge led by Arthas later returned and amassed at the Alterac Mountains,<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-13">[13]</a></sup> setting out to wipe out the Blackrock clan villages when [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") communicated with [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") through their [Demon Gate](https://wowpedia.fandom.com/wiki/Demon_Gate "Demon Gate"). Here, the orcs still controlled [red dragons](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon") and were allied with [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre"), [forest trolls](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll"), and [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-14">[14]</a></sup>
+
+Kel'Thuzad opened a portal for the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") near Dalaran. After Archimonde was summoned he summoned a spell that destroyed Dalaran.
+
+After the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the area near Dalaran was a battlefield between the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and [Illidan's](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"). Illidan later used Kel'Thuzad's rift to open a portal to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").
+
+### The Sunwell Trilogy
+
+[![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+[Barony Mordis](https://wowpedia.fandom.com/wiki/Barony_Mordis "Barony Mordis") is located somewhere in the mountains. It was ruled by [Valimar Mordis](https://wowpedia.fandom.com/wiki/Valimar_Mordis "Valimar Mordis") until the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invaded and destroyed it. The undead were led by the [ghoul](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul") [Ichor](https://wowpedia.fandom.com/wiki/Ichor "Ichor"), who wanted to use the [Orb of Ner'zhul](https://wowpedia.fandom.com/wiki/Orb_of_Ner%27zhul "Orb of Ner'zhul") to raise dead beasts in the area, including [frost wyrms](https://wowpedia.fandom.com/wiki/Frost_wyrm "Frost wyrm") and [behemoths](https://wowpedia.fandom.com/wiki/Behemoth "Behemoth").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-15">[15]</a></sup>
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+In the years that followed, the ruins of the city of Alterac were claimed by the [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre") of the [Crushridge clan](https://wowpedia.fandom.com/wiki/Crushridge_clan "Crushridge clan"), led by warlord [Mug'thol](https://wowpedia.fandom.com/wiki/Mug%27thol "Mug'thol"). What little [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") activity was left in the region was centered around the entrances to [Alterac Valley](https://wowpedia.fandom.com/wiki/Alterac_Valley "Alterac Valley"), where the [Stormpike Guard](https://wowpedia.fandom.com/wiki/Stormpike_Guard "Stormpike Guard") and the orcish [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan") vie for supremacy. The [Syndicate](https://wowpedia.fandom.com/wiki/Syndicate "Syndicate") also have control in the area.
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+The area remained mostly unchanged with the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"). Its fingers, originally controlled by the Syndicate, turned into [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") camps, were sabotaged by the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken").<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-16">[16]</a></sup>
+
+### Battle for Azeroth
+
+During the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the Horde claimed the [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins of Alterac") and [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad"),<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-17">[17]</a></sup><sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-18">[18]</a></sup> fortifying them as defensible base for their operations in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"),<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-19">[19]</a></sup> and to fight Alliance forces from the [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-20">[20]</a></sup>
+
+## Geography
+
+The Alterac Mountains are high peaks rising up north of the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"), and spreading to the border of the [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands") in the north and [The Hinterlands](https://wowpedia.fandom.com/wiki/The_Hinterlands "The Hinterlands") in the east. Covered with snow at their highest point, these mountains were once the location of some major human settlements. Now these settlements lie in ruins and are controlled by hostile forces. The mountains themselves are home to several kinds of high-altitude flora and fauna, such as yeti and mountain lions. The rare herb  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Inv_misc_flower_03.png/revision/latest/scale-to-width-down/16?cb=20060919145132)[\[Wintersbite\]](https://wowpedia.fandom.com/wiki/Wintersbite) was found here.
+
+The mountains are surrounded by green lands having the [Lordamere Lake](https://wowpedia.fandom.com/wiki/Lordamere_Lake "Lordamere Lake") and the [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater") to the west, [Chillwind Point](https://wowpedia.fandom.com/wiki/Chillwind_Point "Chillwind Point") to the east and the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") settlements of [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill") and [Sludge Fields](https://wowpedia.fandom.com/wiki/Sludge_Fields "Sludge Fields") to the south.
+
+The farmlands of the kingdom of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)") were located in the [Uplands](https://wowpedia.fandom.com/wiki/Uplands "Uplands").
+
+### Maps and subregions
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/22/WorldMap-Alterac-old.jpg/revision/latest/scale-to-width-down/300?cb=20081222011409)](https://static.wikia.nocookie.net/wowpedia/images/2/22/WorldMap-Alterac-old.jpg/revision/latest?cb=20081222011409)
+
+Map of the Alterac Mountains prior to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_, before being merged with the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills").
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/WorldMap-Alterac-original.jpg/revision/latest/scale-to-width-down/120?cb=20191218132311)](https://static.wikia.nocookie.net/wowpedia/images/0/05/WorldMap-Alterac-original.jpg/revision/latest?cb=20191218132311)
+    
+    Map of the Alterac Mountains prior to [1.5.0](https://wowpedia.fandom.com/wiki/1.5.0 "1.5.0").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/WorldMap-Alterac.jpg/revision/latest/scale-to-width-down/120?cb=20140606204949)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/WorldMap-Alterac.jpg/revision/latest?cb=20140606204949)
+    
+    Map of the Alterac Mountains in _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ beta.
+    
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+The **Alterac Mountains** have traditionally been a home for the [humans](https://wowpedia.fandom.com/wiki/Human "Human") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") and [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"), members of the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"). The settlements were all bases of peaceful activity, and were in the beginning at peace with each other.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
+
+Once inhabited by noble [humans](https://wowpedia.fandom.com/wiki/Human "Human"), Alterac is a shattered realm struggling to survive the wars' carnage. An organization called the [Syndicate](https://wowpedia.fandom.com/wiki/Syndicate "Syndicate") is strong in this region. They are a group of thieves who were once [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)") nobles and now seek to reclaim their lands — and any other lands they can lay their hands on — by any means necessary. They battle for control with the huge [Crushridge clan](https://wowpedia.fandom.com/wiki/Crushridge "Crushridge") of [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre") that has taken over [Alterac City](https://wowpedia.fandom.com/wiki/Alterac_City "Alterac City").<sup id="cite_ref-LoC85_21-0"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC85-21">[21]</a></sup>
+
+Hostile factions control the few settlements that remain in the mountains.<sup id="cite_ref-LoC87_22-0"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC87-22">[22]</a></sup>
+
+### History
+
+During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") attempted to conscript some Alliance nobles to help them in their campaign, and the weak-willed nobles of Alterac readily agreed to help the orcs overthrow the Alliance leaders and take Lordaeron. With the defeat of the Horde came the punishment for these traitors: exile from their former holdings. These exiles would eventually form the Syndicate and take back the Alterac Mountains from the Alliance.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-23">[23]</a></sup>
+
+Like all of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron")'s regions, Alterac suffered horrendously when the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") blazed through the continent. The [Perenolde family](https://wowpedia.fandom.com/wiki/Perenolde_family "Perenolde family")'s current scion, [Lord Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde"), is a high-ranking Syndicate member who [resides](https://wowpedia.fandom.com/wiki/Dandred%27s_Fold "Dandred's Fold") in the [Uplands](https://wowpedia.fandom.com/wiki/Uplands "Uplands"). The Syndicate struggles to regain control of this wild land, while ruins dot the mountainsides and Crushridge ogres patrol their territory.
+
+The Syndicate kidnapped a wealthy [dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") merchant's son and they didn't want ransom but help in driving the ogres from Alterac City. [Murrik Doubletoe](https://wowpedia.fandom.com/wiki/Murrik_Doubletoe "Murrik Doubletoe"), the captured dwarf's father, hired outside help to advise him and either rescue his son or defeat the ogres.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-24">[24]</a></sup>
+
+### People and culture
+
+Two major factions control the Alterac Mountains: the [Syndicate](https://wowpedia.fandom.com/wiki/Syndicate "Syndicate") and the [Crushridge](https://wowpedia.fandom.com/wiki/Crushridge "Crushridge") ogres. The Syndicate is a complicated network of bandits who were once Alterac nobles. These men and women operate mainly in the Alterac Mountains and the surrounding area, but fight, murder, lie and steal to reclaim their ancient lands. They are out for themselves, though it would work with others if doing so helped them meet its ultimate goal. Syndicate agents dress in brown and black when on the prowl, but don their aristocratic finery in their holds.<sup id="cite_ref-LoC85_21-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC85-21">[21]</a></sup>
+
+The Crushridge ogres are cunning, massive, and strong. Leftovers from the Second War, these ogres have thrown off orc rule for their own primitive ways. They live in Alterac City and kill whatever they can. The ogres and the Syndicate fight a continuous guerilla war.
+
+The Syndicate's private war and the ogres' mindless slaughter are foolishness. Alterac shares its northern border with the [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands"), so a Scourge invasion is only a matter of time. Such an attack would spur the Syndicate to battle against the undead, and the ogres would fight to stay alive. Their numbers, however, are too few.<sup id="cite_ref-LoC86_25-0"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC86-25">[25]</a></sup>
+
+The [Stormpike clan](https://wowpedia.fandom.com/wiki/Stormpike_clan "Stormpike clan") have taken a liking to the Alterac Mountains and defend them fiercely against the [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") and [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") invading the area.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-26">[26]</a></sup>
+
+### Geography
+
+The Alterac Mountains are not only high and temperate but also cold and misty. Few fertile valleys lie within the peaks, and those that do are fallow. Rainfall is high and the sky is often overcast with gray clouds, making the region drear. The Crushridge ogres and the Syndicate have driven away most native wildlife, but [yetis](https://wowpedia.fandom.com/wiki/Yeti "Yeti") still inhabit the deeper caves.<sup id="cite_ref-LoC86_25-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC86-25">[25]</a></sup> Alterac resembles [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan"), but warmer. Huge pine trees tower over the landscape and occasional green meadows and tenacious shrubs can be found amid the gray, rocky peaks.<sup id="cite_ref-LoC85_21-2"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC85-21">[21]</a></sup>
+
+To the south are the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"), east is the [Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands"), west is [Lordamere Lake](https://wowpedia.fandom.com/wiki/Lordamere_Lake "Lordamere Lake") and north are the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands").<sup id="cite_ref-LoC85_21-3"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC85-21">[21]</a></sup> A magic field closes off [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), to the southwest. Its [wizards](https://wowpedia.fandom.com/wiki/Wizard "Wizard") patrol the local surroundings, but wisely do not concern themselves with Alterac's affairs.<sup id="cite_ref-LoC87_22-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-LoC87-22">[22]</a></sup>
+
+In the [RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") book _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, [Durnholde Keep](https://wowpedia.fandom.com/wiki/Durnholde_Keep "Durnholde Keep") is labelled as part of the Alterac Mountains and Hillsbrad Foothills.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-27">[27]</a></sup>
+
+The [ice trolls](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll") of the [Winterax tribe](https://wowpedia.fandom.com/wiki/Winterax_tribe "Winterax tribe") dwell in the mountains and valleys of Alterac, and are hated foes of the [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan") orcs and both the [Stormpike](https://wowpedia.fandom.com/wiki/Stormpike_clan "Stormpike clan") and [Wildhammer](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan") [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf").<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-28">[28]</a></sup>
+
+## Warcraft Adventures: Lord of the Clans
+
+In the canceled _[Warcraft Adventures](https://wowpedia.fandom.com/wiki/Warcraft_Adventures:_Lord_of_the_Clans "Warcraft Adventures: Lord of the Clans")_, much of the story takes place here. Along with familiar locations like the [home of the Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_Village "Frostwolf Village"), Alterac is home to snowy deciduous forests<sup id="cite_ref-AdventuresWalkthrough-7_29-0"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-7-29">[29]</a></sup> and an insolated [gnomish workshop](https://wowpedia.fandom.com/wiki/Gnomish_inventor "Gnomish inventor").<sup id="cite_ref-AdventuresWalkthrough-3_30-0"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-3-30">[30]</a></sup> It is also inhabited by a number of species not found here in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ or _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_:
+
+-   [Eagles](https://wowpedia.fandom.com/wiki/Eagle "Eagle")<sup id="cite_ref-AdventuresWalkthrough-3_30-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-3-30">[30]</a></sup>
+-   [Owls](https://wowpedia.fandom.com/wiki/Owl "Owl")<sup id="cite_ref-AdventuresWalkthrough-7_29-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-7-29">[29]</a></sup>
+-   [Snow beasts](https://wowpedia.fandom.com/wiki/Snow_beast "Snow beast")<sup id="cite_ref-AdventuresWalkthrough-8_31-0"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-8-31">[31]</a></sup>
+-   [Squirrels](https://wowpedia.fandom.com/wiki/Squirrel "Squirrel")<sup id="cite_ref-AdventuresWalkthrough-7_29-2"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-7-29">[29]</a></sup>
+-   [Vultures](https://wowpedia.fandom.com/wiki/Vulture "Vulture")<sup id="cite_ref-AdventuresWalkthrough-8_31-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-8-31">[31]</a></sup>
+-   [Wendigo](https://wowpedia.fandom.com/wiki/Wendigo "Wendigo")<sup id="cite_ref-AdventuresWalkthrough-8_31-2"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-8-31">[31]</a></sup>
+-   [Wolves](https://wowpedia.fandom.com/wiki/Wolf "Wolf")<sup id="cite_ref-AdventuresWalkthrough-7_29-3"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-AdventuresWalkthrough-7-29">[29]</a></sup>
+-   [Razor-rats](https://wowpedia.fandom.com/wiki/Razor-rat "Razor-rat")
+
+## Notes and trivia
+
+-   [Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)") was once described as being situated amongst the foothills of the Alterac Mountains.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-32">[32]</a></sup>
+-   In _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ and _[Warcraft II: Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal "Warcraft II: Beyond the Dark Portal")_ the Alterac Mountains were much more verdant than in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_, even being referred to as the "Alterac grasslands".<sup id="cite_ref-TarrenMill_7-1"><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_note-TarrenMill-7">[7]</a></sup>
+-   The Alterac Mountains are one of the locations featured in _[South Park](http://en.wikipedia.org/wiki/South_Park "wikipedia:South Park")_ _[Make Love, Not Warcraft](http://en.wikipedia.org/wiki/Make_Love,_Not_Warcraft "wikipedia:Make Love, Not Warcraft")_ episode.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WarCraftII-TidesOfDarkness-Humans-Mission11-BetrayalAndTheDestructionOfAlterac.png/revision/latest/scale-to-width-down/120?cb=20160417133016)](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WarCraftII-TidesOfDarkness-Humans-Mission11-BetrayalAndTheDestructionOfAlterac.png/revision/latest?cb=20160417133016)
+    
+    The Alterac City region during the Second War.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Dandred%27s_Fold.jpg/revision/latest/scale-to-width-down/120?cb=20061116121019)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Dandred%27s_Fold.jpg/revision/latest?cb=20061116121019)
+    
+    Dandred's Fold.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/The_Uplands.jpg/revision/latest/scale-to-width-down/120?cb=20061116120737)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/The_Uplands.jpg/revision/latest?cb=20061116120737)
+    
+    The Uplands.
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Alterac_fan_art.jpg/revision/latest/scale-to-width-down/120?cb=20181223204902)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Alterac_fan_art.jpg/revision/latest?cb=20181223204902)
+    
+    The Early Days of Alterac by Lost-In-Concept.
+    
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   The [Red Caverns](https://wowpedia.fandom.com/wiki/Red_Caverns "Red Caverns") may be in the Alterac Mountains.
+
+## Patch changes
+
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Zone merged into [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"). Nearly every quest involving this zone has been removed.  
+    
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-1) [Saga of the Valarjar: Strom'kar, the Warbreaker](https://wowpedia.fandom.com/wiki/Saga_of_the_Valarjar#Strom'kar,_the_Warbreaker "Saga of the Valarjar")
+2.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-2) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 126
+3.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-3)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Achievement_zone_arathihighlands_01.png/revision/latest/scale-to-width-down/16?cb=20180218140157)[\[Arathor and the Troll Wars\]](https://wowpedia.fandom.com/wiki/Arathor_and_the_Troll_Wars)
+4.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-4) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 131 - 132
+5.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-5) [The Seven Kingdoms](https://wowpedia.fandom.com/wiki/The_Seven_Kingdoms "The Seven Kingdoms")
+6.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-6) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 141
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-TarrenMill_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-TarrenMill_7-1">b</a></sup> [Ambush at Tarren Mill (WC2 Human)](https://wowpedia.fandom.com/wiki/Ambush_at_Tarren_Mill_(WC2_Human) "Ambush at Tarren Mill (WC2 Human)")
+8.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-8) [Betrayal and the Destruction of Alterac (WC2 Human)](https://wowpedia.fandom.com/wiki/Betrayal_and_the_Destruction_of_Alterac_(WC2_Human) "Betrayal and the Destruction of Alterac (WC2 Human)")
+9.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-9) [Alterac (WC2 Orc)](https://wowpedia.fandom.com/wiki/Alterac_(WC2_Orc) "Alterac (WC2 Orc)")
+10.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-10) [Warcraft III: Reign of Chaos Game Manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")
+11.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-11) "[The Scourge of Lordaeron](https://wowpedia.fandom.com/wiki/The_Scourge_of_Lordaeron "The Scourge of Lordaeron"): [Blackrock & Roll](https://wowpedia.fandom.com/wiki/Blackrock_%26_Roll "Blackrock & Roll")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+12.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-12) "[Path of the Damned](https://wowpedia.fandom.com/wiki/Path_of_the_Damned "Path of the Damned"): [Blackrock & Roll, Too!](https://wowpedia.fandom.com/wiki/Blackrock_%26_Roll,_Too! "Blackrock & Roll, Too!")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+13.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-13) [The Revelation (WC3 Undead)](https://wowpedia.fandom.com/wiki/The_Revelation_(WC3_Undead) "The Revelation (WC3 Undead)")
+14.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-14) [Blackrock & Roll, Too! (WC3 Undead)](https://wowpedia.fandom.com/wiki/Blackrock_%26_Roll,_Too!_(WC3_Undead) "Blackrock & Roll, Too! (WC3 Undead)")
+15.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-15) _[Shadows of Ice](https://wowpedia.fandom.com/wiki/Shadows_of_Ice "Shadows of Ice")_
+16.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-16)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[7-30\] [Stormpike Apocalypse](https://wowpedia.fandom.com/wiki/Stormpike_Apocalypse)
+17.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-17)  ![War Campaign Generic](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WarCampaignMission_Generic.png/revision/latest/scale-to-width-down/16?cb=20200701003708 "War Campaign Generic")[Rebuilding Alterac](https://wowpedia.fandom.com/wiki/Rebuilding_Alterac)
+18.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-18)  ![Generic](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WarCampaignMission_Generic.png/revision/latest/scale-to-width-down/16?cb=20200701003708 "Generic")[Dancing with the Dark Rangers](https://wowpedia.fandom.com/wiki/Dancing_with_the_Dark_Rangers)
+19.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-19)  ![War Campaign Generic](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WarCampaignMission_Generic.png/revision/latest/scale-to-width-down/16?cb=20200701003708 "War Campaign Generic")[Alterac Scouting](https://wowpedia.fandom.com/wiki/Alterac_Scouting)
+20.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-20)  ![Stealth](https://static.wikia.nocookie.net/wowpedia/images/d/d7/WarCampaignMission_Stealth.png/revision/latest/scale-to-width-down/16?cb=20200701003713 "Stealth")[Dancing with Dark Rangers](https://wowpedia.fandom.com/wiki/Dancing_with_Dark_Rangers)
+21.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC85_21-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC85_21-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC85_21-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC85_21-3">d</a></sup> _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 85
+22.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC87_22-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC87_22-1">b</a></sup> _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 87
+23.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-23) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 171
+24.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-24) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 88
+25.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC86_25-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-LoC86_25-1">b</a></sup> _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 86
+26.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-26) _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 166
+27.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-27) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 87, 98
+28.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-28) White Wolf. _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, 166. [ISBN 9781588467737](https://wowpedia.fandom.com/wiki/Special:BookSources/9781588467737). 
+29.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-7_29-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-7_29-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-7_29-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-7_29-3">d</a></sup> [Warcraft Adventures: Lord of the Clans](https://wowpedia.fandom.com/wiki/Warcraft_Adventures:_Lord_of_the_Clans "Warcraft Adventures: Lord of the Clans") unreleased BETA, seen on [http://www.youtube.com/watch?v=VN\_7\_pXeuwI](http://www.youtube.com/watch?v=VN_7_pXeuwI)
+30.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-3_30-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-3_30-1">b</a></sup> [Warcraft Adventures: Lord of the Clans](https://wowpedia.fandom.com/wiki/Warcraft_Adventures:_Lord_of_the_Clans "Warcraft Adventures: Lord of the Clans") unreleased BETA, seen on [http://www.youtube.com/watch?v=IumBxZ-thzQ](http://www.youtube.com/watch?v=IumBxZ-thzQ)
+31.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-8_31-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-8_31-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-AdventuresWalkthrough-8_31-2">c</a></sup> [Warcraft Adventures: Lord of the Clans](https://wowpedia.fandom.com/wiki/Warcraft_Adventures:_Lord_of_the_Clans "Warcraft Adventures: Lord of the Clans") unreleased BETA, seen on [http://www.youtube.com/watch?v=RzLhbcFTpcI](http://www.youtube.com/watch?v=RzLhbcFTpcI)
+32.  [^](https://wowpedia.fandom.com/wiki/Alterac_Mountains#cite_ref-32) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, _[Nations of the Alliance](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#Stromgarde "Warcraft II: Tides of Darkness manual")_, Stromgarde
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Hillsbrad_Foothills "Template:Hillsbrad Foothills")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Hillsbrad_Foothills?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Hillsbrad Foothills is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Hillsbrad Foothills is a contested territory")
+
+ | 
+
+-   [Azurelode Mine](https://wowpedia.fandom.com/wiki/Azurelode_Mine "Azurelode Mine")
+-   [Darrow Hill](https://wowpedia.fandom.com/wiki/Darrow_Hill "Darrow Hill")
+-   [Dun Garok](https://wowpedia.fandom.com/wiki/Dun_Garok "Dun Garok")
+-   [Durnholde Keep](https://wowpedia.fandom.com/wiki/Durnholde_Keep "Durnholde Keep")
+-   [Eastern Strand](https://wowpedia.fandom.com/wiki/Eastern_Strand "Eastern Strand")
+-   [Eastpoint Tower](https://wowpedia.fandom.com/wiki/Eastpoint_Tower "Eastpoint Tower")
+-   [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea")
+-   [Nethander Stead](https://wowpedia.fandom.com/wiki/Nethander_Stead "Nethander Stead")
+-   [Purgation Isle](https://wowpedia.fandom.com/wiki/Purgation_Isle "Purgation Isle")
+-   [Ruins of Southshore](https://wowpedia.fandom.com/wiki/Ruins_of_Southshore "Ruins of Southshore")/[Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore")
+    -   [Southshore Town Hall](https://wowpedia.fandom.com/wiki/Southshore_Town_Hall "Southshore Town Hall")
+-   [Hillsbrad](https://wowpedia.fandom.com/wiki/Hillsbrad "Hillsbrad")
+-   [The Sludge Fields](https://wowpedia.fandom.com/wiki/Sludge_Fields "Sludge Fields")/[Hillsbrad Fields](https://wowpedia.fandom.com/wiki/Hillsbrad_Fields "Hillsbrad Fields")
+-   [Sludgeguard Tower](https://wowpedia.fandom.com/wiki/Sludgeguard_Tower "Sludgeguard Tower")
+-   [Southpoint Gate](https://wowpedia.fandom.com/wiki/Southpoint_Gate "Southpoint Gate")/[Southpoint Tower](https://wowpedia.fandom.com/wiki/Southpoint_Tower "Southpoint Tower")
+-   [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill")
+-   [Thoradin's Wall](https://wowpedia.fandom.com/wiki/Thoradin%27s_Wall "Thoradin's Wall")
+-   [Western Strand](https://wowpedia.fandom.com/wiki/Western_Strand "Western Strand")
+
+
+
+ | 
+
+[![Map of Hillsbrad Foothills - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest/scale-to-width-down/120?cb=20140216142816)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/WorldMap-HillsbradFoothills.jpg/revision/latest?cb=20140216142816 "Map of Hillsbrad Foothills - Cataclysm")  
+[![Map of Hillsbrad Foothills - Classic](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-Hillsbrad.jpg/revision/latest/scale-to-width-down/120?cb=20180205214426)](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-Hillsbrad.jpg/revision/latest?cb=20180205214426 "Map of Hillsbrad Foothills - Classic")
+
+ |
+|  |
+| 
+
+-   **Alterac Mountains** — [Brazie Farmstead](https://wowpedia.fandom.com/wiki/Brazie_Farmstead "Brazie Farmstead")/[Lordamere Internment Camp](https://wowpedia.fandom.com/wiki/Lordamere_Internment_Camp "Lordamere Internment Camp")
+-   [Chillwind Point](https://wowpedia.fandom.com/wiki/Chillwind_Point "Chillwind Point")
+-   [Corrahn's Dagger](https://wowpedia.fandom.com/wiki/Corrahn%27s_Dagger "Corrahn's Dagger")
+-   [Crushridge Hold](https://wowpedia.fandom.com/wiki/Crushridge_Hold "Crushridge Hold")
+-   [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater")/[Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
+-   [Gallows' Corner](https://wowpedia.fandom.com/wiki/Gallows%27_Corner "Gallows' Corner")
+-   [Gavin's Naze](https://wowpedia.fandom.com/wiki/Gavin%27s_Naze "Gavin's Naze")
+-   [Growless Cave](https://wowpedia.fandom.com/wiki/Growless_Cave "Growless Cave")
+-   [The Headland](https://wowpedia.fandom.com/wiki/Headland "Headland")
+-   [Lordamere Lake](https://wowpedia.fandom.com/wiki/Lordamere_Lake "Lordamere Lake")
+-   [Misty Shore](https://wowpedia.fandom.com/wiki/Misty_Shore "Misty Shore")
+-   [Ravenholdt Manor](https://wowpedia.fandom.com/wiki/Ravenholdt_Manor "Ravenholdt Manor")
+-   [Ruins of Alterac](https://wowpedia.fandom.com/wiki/Ruins_of_Alterac "Ruins of Alterac")
+-   [Slaughter Hollow](https://wowpedia.fandom.com/wiki/Slaughter_Hollow "Slaughter Hollow")
+-   [Sofera's Naze](https://wowpedia.fandom.com/wiki/Sofera%27s_Naze "Sofera's Naze")
+-   [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad")
+-   [The Uplands](https://wowpedia.fandom.com/wiki/Uplands "Uplands")
+    -   [Dandred's Fold](https://wowpedia.fandom.com/wiki/Dandred%27s_Fold "Dandred's Fold")
+
+
+
+ |
+|  |
+| 
+
+-   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Baradin Bay](https://wowpedia.fandom.com/wiki/Baradin_Bay "Baradin Bay")
+-   [Darrowmere River](https://wowpedia.fandom.com/wiki/Darrowmere_River "Darrowmere River")
+-   [Foothill Caverns](https://wowpedia.fandom.com/wiki/Foothill_Caverns "Foothill Caverns")
+
+
+
+ |
+|  |
+| 
+
+[Hillsbrad Foothills category](https://wowpedia.fandom.com/wiki/Category:Hillsbrad_Foothills "Category:Hillsbrad Foothills")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms "Template:Eastern Kingdoms")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
+
+
+
+ |
+| --- |
+|  |
+| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") | 
+
+-   [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Blasted_Lands_(Classic) "Blasted Lands (Classic)")
+-   [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Burning_Steppes_(Classic) "Burning Steppes (Classic)")
+-   [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Deadwind_Pass_(Classic) "Deadwind Pass (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Duskwood_(Classic) "Duskwood (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Elwynn_Forest_(Classic) "Elwynn Forest (Classic)")
+    -   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Redridge_Mountains_(Classic) "Redridge Mountains (Classic)")
+-   [Stranglethorn Vale](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale "Stranglethorn Vale")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale_(Classic) "Stranglethorn Vale (Classic)")
+    -   [Cape of Stranglethorn](https://wowpedia.fandom.com/wiki/Cape_of_Stranglethorn "Cape of Stranglethorn")
+    -   [Northern Stranglethorn](https://wowpedia.fandom.com/wiki/Northern_Stranglethorn "Northern Stranglethorn")
+-   [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows_(Classic) "Swamp of Sorrows (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Westfall](https://wowpedia.fandom.com/wiki/Westfall "Westfall")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Westfall_(Classic) "Westfall (Classic)")
+
+
+
+ | 
+
+[![Map of the Eastern Kingdoms](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest/scale-to-width-down/120?cb=20220313123633)](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest?cb=20220313123633 "Map of the Eastern Kingdoms")
+
+ |
+|  |
+| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") | 
+
+-   [The Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Badlands_(Classic) "Badlands (Classic)")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Dun_Morogh_(Classic) "Dun Morogh (Classic)")
+    -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Loch_Modan_(Classic) "Loch Modan (Classic)")
+-   [Searing Gorge](https://wowpedia.fandom.com/wiki/Searing_Gorge "Searing Gorge")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Searing_Gorge_(Classic) "Searing Gorge (Classic)")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [The Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Wetlands_(Classic) "Wetlands (Classic)")
+
+
+
+ |
+|  |
+| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") | 
+
+-   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains_(Classic) "Alterac Mountains (Classic)")
+-   [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Arathi_Highlands_(Classic) "Arathi Highlands (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills_(Classic) "Hillsbrad Foothills (Classic)")
+    -   **Alterac Mountains**
+-   [The Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hinterlands_(Classic) "Hinterlands (Classic)")
+-   [The Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands")
+    -   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+    -   [Classic Eastern](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands_(Classic) "Eastern Plaguelands (Classic)")
+    -   [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands")
+    -   [Classic Western](https://wowpedia.fandom.com/wiki/Western_Plaguelands_(Classic) "Western Plaguelands (Classic)")
+-   [Ruins of Gilneas](https://wowpedia.fandom.com/wiki/Ruins_of_Gilneas "Ruins of Gilneas")
+    -   [starting zone](https://wowpedia.fandom.com/wiki/Gilneas_(starting_zone) "Gilneas (starting zone)")
+    -   [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+        -   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+    -   [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Silverpine_Forest_(Classic) "Silverpine Forest (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Tirisfal_Glades_(Classic) "Tirisfal Glades (Classic)")
+    -   [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")
+-   [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad")
+    -   [Tol Barad Peninsula](https://wowpedia.fandom.com/wiki/Tol_Barad_Peninsula "Tol Barad Peninsula")
+
+
+
+ |
+|  |
+| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") | 
+
+-   [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths")
+-   [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest")
+-   [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse")
+
+
+
+ |
+|  |
+| 
+
+[Eastern Kingdoms category](https://wowpedia.fandom.com/wiki/Category:Eastern_Kingdoms "Category:Eastern Kingdoms")
+
+
+
+ |

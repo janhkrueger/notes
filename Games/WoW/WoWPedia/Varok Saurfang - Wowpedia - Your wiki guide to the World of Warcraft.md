@@ -1,0 +1,813 @@
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Varok Saurfang |
+| --- |
+| [![Image of Varok Saurfang](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Overlord_Saurfang.jpg/revision/latest/scale-to-width-down/200?cb=20210408143351)](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Overlord_Saurfang.jpg/revision/latest?cb=20210408143351 "Image of Varok Saurfang") |
+| Title | High Overlord of the Horde,<sup id="cite_ref-Old_Soldier_(quest)_1-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Old_Soldier_(quest)-1">[1]</a></sup>  
+High Overlord of the [Kor'kron Guard](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron"),<sup id="cite_ref-UVG_2-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-UVG-2">[2]</a></sup>  
+Saurfang the Elder,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-3">[3]</a></sup>  
+Supreme Commander of the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor"),  
+Lord<sup id="cite_ref-Old_Soldier_4-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Old_Soldier-4">[4]</a></sup> |
+| Gender | Male |
+| Race | [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc") (Humanoid) |
+| Class | [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar_(faction) "Orgrimmar (faction)"), [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan"), [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Former affiliation(s) | [Warsong Offensive](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive"), [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition"), [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor"), [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") |
+| Occupation | Leader of the orcs,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-5">[5]</a></sup><sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-6">[6]</a></sup> Leader of Durotar and Orgrimmar,  
+High Overlord of the Horde and the Kor'kron |
+| Former occupation(s) | Chief Advisor to [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"),  
+Leader and second-in-command of the Horde Expedition and Warsong Offensive,  
+[Captain](https://wowpedia.fandom.com/wiki/Captain_(rank) "Captain (rank)") of _[Orgrim's Hammer](https://wowpedia.fandom.com/wiki/Orgrim%27s_Hammer "Orgrim's Hammer")_,<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-7">[7]</a></sup>  
+Supreme commander of the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor"),  
+Second-in-command to [Warchief Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer"),  
+Lieutenant of [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand") |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Varok_Saurfang#Locations) |
+| Status | Deceased<sup id="cite_ref-BeforeTheGates_8-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-BeforeTheGates-8">[8]</a></sup> |
+| Relative(s) | [Koruk](https://wowpedia.fandom.com/wiki/Koruk "Koruk") (father),  
+[Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar") (older brother),<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-9">[9]</a></sup> Unnamed half brother,  
+[Remda](https://wowpedia.fandom.com/wiki/Remda "Remda") (mate),  
+[Dranosh](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang") (son),  
+[Thura](https://wowpedia.fandom.com/wiki/Thura "Thura") (half-niece) |
+| Student(s) | [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang") |
+| Companion(s) | [Makka](https://wowpedia.fandom.com/wiki/Makka "Makka") (wyvern mount)  
+[Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan") |
+
+“Honor, young heroes... no matter how dire the battle... never forsake it.”
+
+— Varok to Horde adventurers after the death of his son<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-10">[10]</a></sup>
+
+High Overlord **Varok Saurfang**<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-11">[11]</a></sup> (pronounced "VEH-rawk SAHR-fang")<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-12">[12]</a></sup> was a renowned [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan"), and the younger brother of [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar"). A famed veteran of the [First](https://wowpedia.fandom.com/wiki/First_War "First War"), [Second](https://wowpedia.fandom.com/wiki/Second_War "Second War"), and [Third Wars](https://wowpedia.fandom.com/wiki/Third_War "Third War"), he served as [Warchief Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer")'s second-in-command during the Second War, and as Supreme Commander of the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor") during the [second War of the Shifting Sands](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_War "Ahn'Qiraj War") against the [qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji") of [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj").<sup id="cite_ref-UVG_2-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-UVG-2">[2]</a></sup>
+
+He later led the [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron") against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), and assisted [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") during the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar"). Following the [tragic battle](https://wowpedia.fandom.com/wiki/Battle_for_Broken_Shore "Battle for Broken Shore") on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")'s promotion to [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief"), Saurfang took up the position of leader of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") and resided in [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold"). Disgusted with Sylvanas' increasingly cruel and brutal reign, Saurfang turned against the Warchief and asked [King Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") for assistance in removing her from power. Both the armies of the Alliance and the Horde-loyalists gathered by Saurfang and [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan")'s campaign [gathered at the gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Battle_at_the_Gates_of_Orgrimmar "Battle at the Gates of Orgrimmar"), where Saurfang challenged Sylvanas to [mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora"), which culminated in his death and in Sylvanas's departure, preventing massive bloodshed between the two factions.<sup id="cite_ref-BeforeTheGates_8-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-BeforeTheGates-8">[8]</a></sup>
+
+He was one of the main protagonists in _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_.
+
+## Biography
+
+### Early life
+
+“The warlocks gave me a gift. I was once powerful. Now, I am the whirlwind. I am war itself. I shall bring glory to my people until my dying day.”
+
+— Varok to [Remda](https://wowpedia.fandom.com/wiki/Remda "Remda") some time before her death<sup id="cite_ref-A_Good_War_3-4_13-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-A_Good_War_3-4-13">[13]</a></sup>
+
+Varok Saurfang was born on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") as a member of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") and the younger brother of [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-14">[14]</a></sup> Broxigar and Varok also had an unnamed half brother, sharing the same mother but different fathers.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-15">[15]</a></sup><sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-16">[16]</a></sup> Shortly after [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand") was named [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") of the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde"), 5 years before the opening of the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"), he named Varok, [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg") and [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer") as his lieutenants, and they helped oversee the Blackrock war machine as it prepared for the war with the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-17">[17]</a></sup> Varok made the free decision to drink the [blood of Mannoroth](https://wowpedia.fandom.com/wiki/Blood_of_Mannoroth "Blood of Mannoroth") alongside [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream") and led forces in the sacking of [Shattrath](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City"), the [Blood Curse](https://wowpedia.fandom.com/wiki/Blood_Curse "Blood Curse") causing them to murder many innocent draenei, children included.
+
+Around the time of the Dark Portal's opening, Varok's mate [Remda](https://wowpedia.fandom.com/wiki/Remda "Remda") apparently died and was burned in [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand "Nagrand"). Having promised his mate that their son would not be exposed to the [warlocks](https://wowpedia.fandom.com/wiki/Warlock "Warlock") or cross the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"), their son [Dranosh](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang") was hidden away at [Garadar](https://wowpedia.fandom.com/wiki/Garadar "Garadar") in [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand "Nagrand"),<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-18">[18]</a></sup> while Varok charged into the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), commanding Blackhand's army like an unstoppable force towards [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"), never losing in battle until the Horde was routed at the end of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War").<sup id="cite_ref-Ask_CDev_19-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Ask_CDev-19">[19]</a></sup> When Orgrim seized control of the Horde in the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), he chose Varok as his second-in-command after witnessing Saurfang's efficient and brutal tactics on the field.<sup id="cite_ref-Ask_CDev_19-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Ask_CDev-19">[19]</a></sup> Shortly after Orgrim's ascension, Saurfang participated in the war's final battle, the siege of Stormwind City, in which he personally hunted down [humans](https://wowpedia.fandom.com/wiki/Human "Human") in the streets while the city burned around him.<sup id="cite_ref-A_Good_War_3-4_13-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-A_Good_War_3-4-13">[13]</a></sup> When the Horde marched from the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") into the [Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands") during the Second War, Varok commanded a rearguard of Blackrock orcs to waylay the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-20">[20]</a></sup> At some point during the war, he faced [Cyrus Crestfall](https://wowpedia.fandom.com/wiki/Cyrus_Crestfall "Cyrus Crestfall") and almost killed him.
+
+At some point during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), Varok fought alongside the [troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [Hekazi](https://wowpedia.fandom.com/wiki/Hekazi "Hekazi").<sup id="cite_ref-Old_Soldier_4-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Old_Soldier-4">[4]</a></sup> He participated in the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal"), witnessing [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")'s fall to the [wisps](https://wowpedia.fandom.com/wiki/Wisp "Wisp").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-21">[21]</a></sup> After the demonic bloodlust had been lifted from the orcs due to [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream")'s sacrifice, Varok helped dozens of veterans come to grips with their previous atrocities, ultimately saving the lives of many great Horde soldiers.<sup id="cite_ref-Ask_CDev_19-2"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Ask_CDev-19">[19]</a></sup> His own actions under the Blood Curse, however, continue to haunt him, as the sound of swine being killed when they are ready for slaughter reminds him of the death screams of the draenei children, and older veterans like Varok are often troubled by the memory. It disturbed Varok so deeply that he has refused to eat pork ever since.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-22">[22]</a></sup> He will not shy away from war, or hesitate to defend his people and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). However, he refuses to start a war, and if it is within his power, he will prevent a warmongering spirit from doing so. Whether through actions or by words, he will stop them anyway he can... no matter what.
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Assault_on_Ahn%27Qiraj.jpg/revision/latest/scale-to-width-down/180?cb=20190921185136)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Assault_on_Ahn%27Qiraj.jpg/revision/latest?cb=20190921185136)
+
+Saurfang leads the assault on Ahn'Qiraj.
+
+Saurfang was initially stationed in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")'s [Valley of Strength](https://wowpedia.fandom.com/wiki/Valley_of_Strength "Valley of Strength"), where he enforced the rule of [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"). He was the one who announced the death of [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") when his [head](https://wowpedia.fandom.com/wiki/Head_of_Nefarian "Head of Nefarian") was [turned in](https://wowpedia.fandom.com/wiki/The_Lord_of_Blackrock_(Horde)_(2) "The Lord of Blackrock (Horde) (2)").
+
+During the [second War of the Shifting Sands](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj#Opening_the_gates "Gates of Ahn'Qiraj"), Saurfang traveled to the front lines in [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus"). He acted as the Supreme Commander of the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor") in the war against the [silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid") and their [qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji") masters.
+
+### War against the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Saurfang_Northrend.jpg/revision/latest/scale-to-width-down/180?cb=20150712171950)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Saurfang_Northrend.jpg/revision/latest?cb=20150712171950)
+
+Saurfang in Warsong Hold.
+
+In [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), adventurers encountered Varok's now-adult son Dranosh, who later traveled to Azeroth and reunited with his father.<sup id="cite_ref-UVG_2-2"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-UVG-2">[2]</a></sup>
+
+Varok participated in the defense of Orgrimmar when it was [attacked](https://wowpedia.fandom.com/wiki/Scourge_Invasion_(Orgrimmar) "Scourge Invasion (Orgrimmar)") by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). After the battle, Thrall told Varok to marshal the Horde's forces and prepare them to travel to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+
+Around this time, Varok gave his battle armor and axe to Dranosh, who was put in command of the [Kor'kron Vanguard](https://wowpedia.fandom.com/wiki/Kor%27kron_Vanguard "Kor'kron Vanguard") in the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-23">[23]</a></sup> Varok himself is stationed in [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold") as an advisor to [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"). He commands the Kor'kron in Northrend and remains wary of the resurfacing bloodlust of the orcs, due to its employment in Hellscream's savage but successful tactics. Varok assisted adventurers in killing [Varidus the Flenser](https://wowpedia.fandom.com/wiki/Varidus_the_Flenser "Varidus the Flenser") but insisted on not telling Garrosh about this.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-24">[24]</a></sup>
+
+During the battle for [Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Angrathar_the_Wrathgate "Angrathar the Wrathgate"), the main entrance to [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), Dranosh fell to the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"). At the behest of [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), adventurers brought Dranosh's shattered armor back to his father. Although Varok mourned his son, he stated that the boy had died a hero much like [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar").<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-25">[25]</a></sup>
+
+After the [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity"), Varok reminded [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), who was lamenting the broken peace between the Alliance and the Horde, of his duty to lead their people.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-26">[26]</a></sup>
+
+After Garrosh and Thrall returned to Warsong Hold after a meeting in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), Varok gave them a message from [Korm Blackscar](https://wowpedia.fandom.com/wiki/Korm_Blackscar "Korm Blackscar").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-27">[27]</a></sup>
+
+### Fall of the Lich King
+
+Horde players can find him standing near [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring") inside Icecrown Citadel at [Light's Hammer](https://wowpedia.fandom.com/wiki/Light%27s_Hammer "Light's Hammer"). High Overlord Saurfang commands the [gunship](https://wowpedia.fandom.com/wiki/Gunship "Gunship") _[Orgrim's Hammer](https://wowpedia.fandom.com/wiki/Orgrim%27s_Hammer "Orgrim's Hammer")_ during the [Gunship Battle](https://wowpedia.fandom.com/wiki/Gunship_Battle "Gunship Battle") in [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel_(instance) "Icecrown Citadel (instance)").<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-28">[28]</a></sup> Varok appears in both encounters with [Deathbringer Saurfang](https://wowpedia.fandom.com/wiki/Deathbringer_Saurfang "Deathbringer Saurfang"), though the exact circumstances differ depending on who wins the Gunship Battle.
+
+Following the Horde's victory in the Gunship Battle, Varok joined Horde champions in confronting [his son](https://wowpedia.fandom.com/wiki/Deathbringer_Saurfang "Deathbringer Saurfang"), now risen into a powerful champion of the Lich King. He refused his son's offer to join him in the Scourge and declared that his boy died at the [Wrathgate](https://wowpedia.fandom.com/wiki/Wrathgate "Wrathgate"). Once the undead form of his son was defeated, Varok collected his son's body, promised to give Dranosh a proper ceremony in [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand "Nagrand"), and finally told Horde adventurers: "Honor, young heroes. No matter how dire the battle, never forsake it."
+
+Following the Alliance's victory in the Gunship Battle, Varok was forced to retreat. Despite his retreat, he returned after his son had been slain in order to collect his body. Though [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") initially refused to let him pass, [Varian](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and [Jaina](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") arrived and Varian told Muradin to let the grieving father pass. Varok claimed his son's body and declared that he would not forget the king's kindness before leaving with his son's corpse.
+
+As he had promised, Varok personally cremated Dranosh in Nagrand, near the final resting places of the [boy's mother](https://wowpedia.fandom.com/wiki/Remda "Remda") and the rest of his family.<sup id="cite_ref-A_Good_War_3-4_13-2"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-A_Good_War_3-4-13">[13]</a></sup> The death of his son deeply wounded Varok, and he wished to grieve in peace. His absence meant that the Horde no longer had his experience and leadership, and that would create severe problems in the days to come.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-29">[29]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Saurfang_ICC.jpg/revision/latest/scale-to-width-down/173?cb=20150914180640)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Saurfang_ICC.jpg/revision/latest?cb=20150914180640)
+    
+    Saurfang inside Icecrown Citadel.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Saurfang_Claims_His_Son%27s_Body.jpg/revision/latest/scale-to-width-down/207?cb=20150915164338)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Saurfang_Claims_His_Son%27s_Body.jpg/revision/latest?cb=20150915164338)
+    
+    Saurfang claiming Dranosh's corrupted body after the latter's death.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Dranosh_Old_Soldier_distance.jpg/revision/latest/scale-to-width-down/433?cb=20211010125140)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Dranosh_Old_Soldier_distance.jpg/revision/latest?cb=20211010125140)
+    
+    Varok mourning the death of his son.
+    
+
+### The Shattering: Prelude to Cataclysm
+
+Some months before the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof") traveled to [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold") to meet with Garrosh. It was revealed that Saurfang would remain within the hold as part of the Horde's Northrend skeleton crew and as the leader of the [Warsong Offensive](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive") and the [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition"). As Cairne bid Saurfang farewell, he could see in the orc's eyes that he knew that there would be plenty of ghosts to haunt him, if only in his memories.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-30">[30]</a></sup>
+
+### Siege of Orgrimmar
+
+Thrall mentioned that he would head over to Orgrimmar to find any orcs that wish to rebel against Garrosh, specifically Eitrigg and Saurfang.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-31">[31]</a></sup>
+
+Saurfang arrived at the siege to fulfill the promise he made to Garrosh many years before. He met with Thrall and attempted to enter Orgrimmar but was stopped by [Nazgrim](https://wowpedia.fandom.com/wiki/Nazgrim "Nazgrim"). Nazgrim sent the Kor'kron army away and let the two orcs inside but could not guarantee their safety. Varok then followed Thrall to the lair of Hellscream below Orgrimmar. However, he became injured in a battle against [mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid") and insisted that Thrall continued without him. He was later encountered by heroes seeking to destroy Hellscream and end his reign and asked them about the fate of General Nazgrim. He was saddened to hear of Nazgrim's demise and laments the loss of the great leader and warrior Nazgrim has been. He then retrieves his axe from a dead mantid and returns to the surface.
+
+### War Crimes
+
+Saurfang accompanied [Go'el](https://wowpedia.fandom.com/wiki/Go%27el "Go'el") and [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg") to the trial of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"). He agreed with Baine as Garrosh's defender. Acknowledged as a hero by Horde and Alliance alike, he was called upon by [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") as the third witness, and told the court of his conflicts with Garrosh in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). His threat to kill Garrosh should he take the orcs down another dark road (and his subsequent uprising against Garrosh in the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar")) was key testimony, and seen as proof by many that Garrosh had gone too far in the eyes of some fellow orcs.
+
+However, Saurfang did not desire the court to give Garrosh a death sentence. Were it up to him, Garrosh's love for his people would have earned him a trial tied to orcish customs, and a [mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora") against Saurfang to determine whether he would live and repent or perish for his crimes.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-32">[32]</a></sup>
+
+### Warlords of Draenor
+
+Varok is one of the several Garrison visitors that can appear every day. Upon entering [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall") he will inform the [the Commander](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of various threats to the Draenor campaign and will direct them to deal with dungeon and raid bosses.
+
+### Legion
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Saurfang_Orgrimmar.jpg/revision/latest/scale-to-width-down/180?cb=20200504203336)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Saurfang_Orgrimmar.jpg/revision/latest?cb=20200504203336)
+
+Saurfang in Grommash Hold.
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Back in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), Varok became commander of the city's defenses.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-33">[33]</a></sup> Following the [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore") Varok barred the entrance to [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") to a select few, and allowed the adventurer entry to see the dying [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin"). Following Vol'jin's death, Varok was present at the [warchiefs](https://wowpedia.fandom.com/wiki/Warchief "Warchief")' funeral ceremony at the [Dranosh'ar Blockade](https://wowpedia.fandom.com/wiki/Dranosh%27ar_Blockade "Dranosh'ar Blockade"). When [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") took the mantle of Warchief,<sup id="cite_ref-The_Warchief_Beckons_34-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-The_Warchief_Beckons-34">[34]</a></sup> Varok was stationed inside [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") presiding over Orgrimmar<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-35">[35]</a></sup> as the leader of the orcs. Varok also personally led the defense of the [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens") during the [Legion Invasion](https://wowpedia.fandom.com/wiki/Legion_Invasion "Legion Invasion") event from the [Crossroads](https://wowpedia.fandom.com/wiki/Crossroads "Crossroads").
+
+Varok later traveled to the Broken Shore with a [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), believing that he needed to regain his valor after the disastrous battle on the island. Unfortunately, he got shot by a [fel cannon](https://wowpedia.fandom.com/wiki/Fel_cannon "Fel cannon") mid-air, asking the adventurer to proceed and make them pay. [Master Smith Helgar](https://wowpedia.fandom.com/wiki/Master_Smith_Helgar "Master Smith Helgar") of the [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar") later sent the warrior adventurer to find Varok and duel him on the Broken Shore as he is believed to be the greatest axe wielder on Azeroth and could be an inspiration to forge  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Inv_axe_2h_artifactarathor_d_06.png/revision/latest/scale-to-width-down/16?cb=20161005192932)[\[The Arcanite Bladebreaker\]](https://wowpedia.fandom.com/wiki/The_Arcanite_Bladebreaker).
+
+When a [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") player reaches Prestige Rank 2, Varok can be found in the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") alongside other notable leaders of the Horde. During  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-45\] [A Royal Audience](https://wowpedia.fandom.com/wiki/A_Royal_Audience_(Horde)), he is present at the ceremony hosted by newly-appointed Warchief Windrunner that congratulates the character for their battles against the Alliance, following their receiving of the  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Achievement_pvp_h_14.png/revision/latest/scale-to-width-down/16?cb=20180723162957)[\[High Warlord's Medal of Valor\]](https://wowpedia.fandom.com/wiki/High_Warlord%27s_Medal_of_Valor) from the Warchief, as well as an artifact appearance.
+
+During [Brewfest](https://wowpedia.fandom.com/wiki/Brewfest "Brewfest"), Saurfang will ride out of the city to the festival grounds at 8:10 A.M. and 8:10 P.M. each day for the ceremonial [tapping of the keg](https://wowpedia.fandom.com/wiki/Brewfest#Tapping_of_the_Keg "Brewfest") at 8:15. Players present when he does this receive a 2 hour _Brewfest Enthusiast_ [buff](https://wowpedia.fandom.com/wiki/Buff "Buff") that increases [experience](https://wowpedia.fandom.com/wiki/Experience_point "Experience point") gained by 10%.
+
+Following the end of the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"), Varok Saurfang was the last Horde leader to join the Orgrimmar parade. Though [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") grudgingly respected Varok, she also sensed that out of all the Horde leaders, Varok was most likely the one to challenge or outright oppose her should she misstep too badly.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-36">[36]</a></sup> At a dinner celebrating the Legion's defeat, Saurfang and [Baine](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") expressed distrust towards [Gallywix](https://wowpedia.fandom.com/wiki/Jastor_Gallywix "Jastor Gallywix"), who went to speak with Sylvanas privately about a [mysterious new substance](https://wowpedia.fandom.com/wiki/Azerite "Azerite"). When Baine told Saurfang that Gallywix had been sending many of his goblins to [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus"), Saurfang angrily stated that nothing good ever came from Silithus.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-37">[37]</a></sup>
+
+### Battle for Azeroth
+
+#### War of the Thorns
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Varok_Saurfang_War_of_the_Thorns.jpg/revision/latest/scale-to-width-down/180?cb=20180804180707)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Varok_Saurfang_War_of_the_Thorns.jpg/revision/latest?cb=20180804180707)
+
+Saurfang in the [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens").
+
+Following the [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering"), [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") had been saturated with [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [spies](https://wowpedia.fandom.com/wiki/Spy "Spy"). Since it would be too costly for the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") to uproot them all, [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") had chosen to tolerate their presence. After Varok chastised a group of Orgrimmar [grunts](https://wowpedia.fandom.com/wiki/Grunt "Grunt") who were drunk on guard duty, Varok traveled to [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") to attend the secret meeting he was summoned to by his warchief. After Sylvanas assured Varok that her champion [Nathanos](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") was keeping this meeting private from Alliance spying, Sylvanas asked Varok to make a hypothetical battle plan on how to sack [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
+
+After evaluating all the scenarios he could think of, Varok concluded that the Horde would be unable to sack Stormwind City, and any progress at doing so would be tentative at best. Sylvanas suggested Varok think of a more elaborate strategy with Stormwind's conquering as the final phase rather than the sole objective. Enraged by Sylvanas' warmongering, Varok finally questioned his warchief why she was eager to start a bloody war with the Alliance. Sylvanas rationalized that she believed that the Alliance and Horde will never forgive the transgressions they had committed against one another and that war was inevitable. Thus, the only way to ensure peace for the Horde was to dominate the Alliance in war and win it on their terms. When Varok suggested that the Horde should then be preparing to defend themselves for the next war instead of instigating it, Sylvanas countered by explaining that while Varok himself had shown that Stormwind City was seemingly impenetrable to conquering, the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar") showed that Orgrimmar was not; thus the Horde was more vulnerable to losing in a war than the Alliance. With [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") undoubtedly changing warcraft, Sylvanas proposed that they take every opportunity to achieve victory and ensure lasting peace for future generations of the Horde. Varok came to agree with Sylvanas' sound reasoning but still could not fathom what strategy would be effective enough to sack Stormwind when they lack the logistics to maintain an invasion.
+
+Sylvanas led Varok to the realization that the [war with the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") had weakened both factions' navies and the deterrence of swift reprisal that enforced the stalemate between the Horde and Alliance was no longer feasible. With both the Alliance and Horde's navies diminished, they would be unable to transport troops and thus would be slow to project military power to reinforce distant warfronts. With such a weakness, the Horde could secure [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus"), the center of Alliance military power in Kalimdor, would be a feasible target to conquer; especially if the Horde took the Alliance by surprise. The cost, however, would be that their holdings in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") would likely be susceptible to reprisal, especially Sylvanas' own capital, the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity").
+
+Sylvanas, however, proposed to politically divide the Alliance by baiting the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") into demanding the Alliance prioritize the retaking of their homeland and thus dividing the Alliance's forces. The Alliance would lack the fleet nor the strength to retake Kalimdor and thus weaken or become politically fractured. Furthermore, holding Darnassus hostage would paralyze the Alliance from counterattacking as the night elves would not stand for their city being annihilated and thus create a divide between them and the [Gilneans](https://wowpedia.fandom.com/wiki/Gilnean "Gilnean"), who had lost their nation years ago and were not prioritized for military aid on that warfront either. With such a political crisis, [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") would not be able to act and each Alliance nation will act in its own interest to defend themselves from a unified Horde. Varok came to the realization that was how they intended to defeat Stormwind, by politically carving each individual nation away from the Alliance and then dominating them into a surrender. However, Sylvanas was well aware that they can only divide the Alliance if the war to conquer Darnassus does not unite the Alliance against the Horde. That can only happen if the Horde wins in an honorable victory, which Sylvanas knows the Horde doesn't trust her to do. Thus, Sylvanas authorized Saurfang to create the battle plans and execute their strategy.
+
+To lure out the Alliance from [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"), Sylvanas suggested duping the Alliance spies into believing a false narrative. Thus, Varok began planting misinformation and acting out an adversarial relationship with Sylvanas and Nathanos to make it seem as if he was priming the Horde to monopolize the Azerite in [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus") and was also bullying Sylvanas into endorsing his campaign. The Alliance took the bait; fearing the Horde was proliferating Azerite weapons, they sent a sizable night elf fleet to Silithus as deterrence. [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") traveled to Stormwind City to help the Alliance leadership plan the war, leaving only [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and his skeleton crew of night elf defenders for the Horde to contend with. To scare the night elves into surrendering without creating a unifying atrocity for the Alliance to rally to, Varok suggested they bring many [siege weapons](https://wowpedia.fandom.com/wiki/Siege_weapon "Siege weapon") with them. That way, the threat of raining death on Darnassus with impunity would deter the night elves in the city from resisting.
+
+Before the Horde commenced their invasion, Varok deployed Horde rogues as his vanguard force and had them attack every night elf patrol and outpost. When the Horde army reached the junction in the [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens"), Saurfang revealed to his army their secret plan to conquer Darnassus. After galvanizing his army with promises of battle and glory, Saurfang led the Horde to invade Ashenvale. Despite the Horde's overwhelming numbers, the night elf defenders met the invading army with fierce resistance. The night elves managed to hold off the Horde at the [Falfarren River](https://wowpedia.fandom.com/wiki/Falfarren_River "Falfarren River") for a while until the Horde overcame them and routed their army. As the night elves fell back deeper into the forests, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") spoke to Varok from the concealment of the woods. Varok proclaimed that the night elves' lands would soon belong to the Horde and offers the night elves a chance to leave in peace; Malfurion responded that the Horde will pay in blood for each step it gains.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/01/A_Good_War_-_Saurfang_vs_Malfurion.jpg/revision/latest/scale-to-width-down/180?cb=20181001141619)](https://static.wikia.nocookie.net/wowpedia/images/0/01/A_Good_War_-_Saurfang_vs_Malfurion.jpg/revision/latest?cb=20181001141619)
+
+Saurfang fighting [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") in [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar").
+
+During the Horde's march on Ashenvale, the forces led by Saurfang were lured into an ambush by Malfurion Stormrage and [Captain Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Captain_Delaryn_Summermoon "Captain Delaryn Summermoon") in [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar"). Astranaar, being an island, was somewhere that Saurfang realized the Horde could not escape from. Saurfang challenged Malfurion to a [mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora") in order to buy his tacticians time to escape with their battle plans, but Malfurion did not care about orcish duels and was after Saurfang's life. He overwhelmed Saurfang and used [roots](https://wowpedia.fandom.com/wiki/Entangling_Roots "Entangling Roots") to bind his legs, and Saurfang admitted to himself that there was nothing he could do against Malfurion's power. But as the inn they were fighting in began to collapse around them, Sylvanas fired an arrow of dark magic at Malfurion, distracting him from Saurfang. Saurfang was buried under collapsing rubble while Sylvanas rallied the Horde to route the night elves. Once Astranaar was secured, the Horde rescued Saurfang from the rubble. Saurfang was then briefed that Ashenvale was secure and the next step for the Horde was to advance to [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore").
+
+When the Horde invaded Darkshore, many of their men were incinerated by the wall of [wisps](https://wowpedia.fandom.com/wiki/Wisp "Wisp") Malfurion had erected. To compound to their troubles, the night elven fleet had returned and were aiding in the kaldorei defense. The night elves' defenses were enough to halt the Horde's advance, and Sylvanas and Saurfang knew they needed to act quickly before [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind")'s reinforcements arrive to stop the invasion. Thus Sylvanas and Saurfang came up with a plan to divide the wisps' attention on multiple fronts, thus diminishing their effectiveness. Saurfang and Nathanos Blightcaller took a group and went to [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood"); once there, they used a smuggler's passage to scale the mountain pass. Once they reached the north of Darkshore, they began desecrating the forest, distracting the wisps and dispersing the wisp wall. That allowed the Horde army under Sylvanas to breach the wisp wall. Saurfang later regrouped with the Horde army and oversaw the conquering of [Lor'danel](https://wowpedia.fandom.com/wiki/Lor%27danel "Lor'danel").<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-38">[38]</a></sup>
+
+Saurfang found Sylvanas and Malfurion battling on the shores of Darkshore. Should Sylvanas fall in battle, it was up to Saurfang to kill Malfurion. The chaotic battle obscured who was the victor, but when Saurfang saw antlers, he instinctively threw his axe which transfixed upon Malfurion's back. The moment it hit Malfurion, Saurfang had regretted it, as the fight had not ended and he had dealt Malfurion a dishonorable blow. Sylvanas however, commended him for his actions and gave Saurfang the honor of finishing Malfurion off. Saurfang however, could not bring himself to kill him. Saurfang's chance to do so was soon over as Tyrande had arrived to protect and heal Malfurion. Though Tyrande criticized Saurfang for leading the Horde into this dishonorable war, Saurfang was unrepentant as he felt victory in this war was necessary for the survival of the Horde. For not killing her husband, Tyrande had decided not to kill Saurfang so long as he did not interfere in allowing both of them to leave in peace. Saurfang agreed, but also warned her that Darnassus was lost and if she returned to Teldrassil, she and Malfurion will die. Tyrande and Malfurion [hearthstoned](https://wowpedia.fandom.com/wiki/Hearthstone "Hearthstone") to Stormwind and although he was sure Malfurion would recover and pay back the Horde in blood, he felt content in his decision as it was honorable.
+
+When Saurfang reported back to Sylvanas, Sylvanas and Nathanos were displeased to learn that Saurfang had allowed Malfurion to escape alive. When Sylvanas ordered to secure the beach, Varok ordered Nathanos to join the first wave in conquering Darnassus. However, Nathanos was contrary and wanted to fulfill a list of orders from his warchief. Ignoring Nathanos' contempt, he spotted the night elf ships [Morka Bruggu](https://wowpedia.fandom.com/wiki/Morka_Bruggu "Morka Bruggu") had commandeered and started making arrangements to use the ships to sail them to [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"). Before he could act on his plans, Sylvanas ordered the [Burning of Teldrassil](https://wowpedia.fandom.com/wiki/Burning_of_Teldrassil "Burning of Teldrassil"). The siege weapons had carried out the task efficiently quick once Sylvanas had become stern with her order, and Saurfang could only watch in shock and dismay. Once the second volley launched, Saurfang tried to stop the siege, but it was too late. Once the second barrage hit, the lower half of the World Tree was engulfed in flames. The fire moved as if it were alive, climbing the tree, scrambling toward the city in the heights of its branches. Saurfang tried to rationalize Sylvanas' order but could come to no other conclusion other than madness. The [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns") was meant to divide the Alliance, instead this atrocity would be its rallying cry and they would stop at nothing to get their vengeance. Varok roared at Sylvanas and scolded her for her lack of honor and the danger she put the Horde in. Sylvanas however, was calm and was already proceeding with planning the defense of Undercity. When Varok accused Sylvanas of damning the Horde for a thousand generations, Sylvanas retorted that this was a war and a failure of his own making. Darnassus was never the objective; the goal was to create a wedge that would split the Alliance apart. Sylvanas needed a weapon that would destroy hope and Varok gave that up to spare Malfurion. The genocide in Teldrassil is Sylvanas' way of remedying Saurfang's blunder. Sylvanas believes that the Alliance will now fight in pain and that will give them a chance at victory. Despite Saurfang's anger at Sylvanas, Varok believed she was right. A wound that can never heal was the objective and Saurfang had failed to inflict it on the Alliance. Now a prolonged war will come that will cost countless lives, and both the Alliance and the Horde would both understand that the only choices they have is victory or death. As Sylvanas turned back toward the World Tree, watching it burn, Saurfang made himself watch the flames consume city and citizens alike. He would not dishonor himself further by turning away. As he watched the genocide occur in front of him, Saurfang reflected on all the death he committed in past wars such as [Shattrath](https://wowpedia.fandom.com/wiki/Shattrath "Shattrath") and Stormwind and was ashamed that this time, there was no haze of corruption now to soften the horror. Saurfang lamented he had dishonored himself and the Horde in this war and would carry that burden with him until the end of his days; which he hoped would come soon.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-39">[39]</a></sup>
+
+#### Battle for Lordaeron
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Old_Soldier_portrait.jpg/revision/latest/scale-to-width-down/180?cb=20190926205402)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Old_Soldier_portrait.jpg/revision/latest?cb=20190926205402)
+
+Battle for Lordaeron
+
+On the eve of the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"), Varok went up on the ramparts of [Lordaeron Keep](https://wowpedia.fandom.com/wiki/Lordaeron_Keep "Lordaeron Keep"). The [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") forces were amassing before the fortress, as retaliation for the [burning of Teldrassil](https://wowpedia.fandom.com/wiki/Burning_of_Teldrassil "Burning of Teldrassil"), something he had warned Warchief [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") of. He was found by [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan"), who asked him for advice, and told him about his eagerness to die with honor and glory. Saurfang's only advice to him was not to die, and he added that there was no honor or glory in this war.
+
+Disillusioned with the Horde, the orc removed his armor and went to meet the Alliance army head-on and alone, and finally earn the warrior death he longed for. With a torch held high above him, there would be no doubt that they would see him approaching. However, the young troll rushed to him and convinced him to live another day by returning [Dranosh's](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang") necklace, which Varok had left behind to burn in a brazier. Varok took it, the same way he retrieved it from Dranosh's body, and returned back behind the walls just as the dawn arrived and the Alliance prepared to march forward.<sup id="cite_ref-Old_Soldier_4-2"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Old_Soldier-4">[4]</a></sup>
+
+As the war raged above the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), Varok and the Horde champion initially worked on evacuating the city's civilians and fighting any infiltrators they found from the [Mage Quarter](https://wowpedia.fandom.com/wiki/Mage_Quarter "Mage Quarter") all the way into the [Trade Quarter](https://wowpedia.fandom.com/wiki/Trade_Quarter "Trade Quarter"). After the evacuation, Varok soon joined Sylvanas in Lordaeron Keep.<sup id="cite_ref-quest_40-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-quest-40">[40]</a></sup>
+
+He defended [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), taking up the Horde banner and leading the charge. The orc leader managed to strike an uppercut with the haft of his axe on the Alliance leader, [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), knocking down the young king but was pushed back by King [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane"). After this, Sylvanas and Saurfang looked in awe as Wrynn conjured a massive dome of light to heal and rally his wavering men, before clashing once again with the Alliance.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-41">[41]</a></sup>
+
+When the Horde began to lose the battle, Saurfang was against Sylvanas's decision to use the [blight](https://wowpedia.fandom.com/wiki/New_Plague "New Plague"). He argued with her that Horde troops would be caught in the field of fire, to which Sylvanas found it to be acceptable losses. He then vanished, watching the results of Sylvanas's tactics: the blight killed Alliance and Horde alike and Sylvanas raised them as [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"). Varok returned when the Horde was pushed back to Lordaeron Keep's courtyard. There, Varok confronted Sylvanas about her honorless strategy, but she didn't care about honor; only victory. Sylvanas told Varok he could follow her or die his warrior's death and threatened to raise him as undead afterward. She then ordered everyone else to the Lordaeron throne room, while Saurfang chose to stay behind to face the encroaching Alliance army.<sup id="cite_ref-quest_40-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-quest-40">[40]</a></sup>
+
+Outside in the courtyard, Saurfang waited to confront the Alliance forces and refused Anduin's offer to stand down. He was defeated, but Anduin ordered his forces to stop before any could kill him, much to Saurfang's chagrin as he wanted an honorable death. Anduin said that [his father](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") had told him that Saurfang represented what was best about the Horde and admired him for that, and the new king felt the same. Anduin attempted to persuade Saurfang that simply dying there had no honor; while Saurfang disagreed that an Alliance king had any say in such matters, Anduin stated that for that moment it was, and then ordered his men to take the High Overlord to the [Stormwind Stockades](https://wowpedia.fandom.com/wiki/Stormwind_Stockades "Stormwind Stockades"). Anduin stated his intention to speak with Saurfang about reclaiming honor after returning to Stormwind, though Varok was skeptical that Anduin would live that long.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-42">[42]</a></sup>
+
+[Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan"), [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra"), and the Horde adventurer infiltrated the Stockades to break out [Zul](https://wowpedia.fandom.com/wiki/Zul "Zul") and [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji"), and found Saurfang. Although they opened his cell, he stated that he had lost track of time and had spent it coming to a difficult decision: for her past actions, as long as Sylvanas was Warchief he would never return to her Horde. He also advises that one needs to know the difference between loyalty and honor and to pray to never have to choose between the two. Rokhan and Thalyssra respect his decision, and after he points out the way to the trolls, he bids them farewell with a simple _lok'tar_ (victory), notably leaving out the _Ogar_ (victory or death), and is left behind in his cell.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-43">[43]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/VarokSaurfangOldSoldier.jpg/revision/latest/scale-to-width-down/262?cb=20180803051027)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/VarokSaurfangOldSoldier.jpg/revision/latest?cb=20180803051027)
+    
+    Saurfang accepts Zekhan's request in _Old Soldier_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Sylvanas_and_Saurfang_-_Battle_for_Azeroth.jpg/revision/latest/scale-to-width-down/432?cb=20180625155829)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Sylvanas_and_Saurfang_-_Battle_for_Azeroth.jpg/revision/latest?cb=20180625155829)
+    
+    Sylvanas and Saurfang before resuming the battle.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/Saurfang_in_the_Undercity.jpg/revision/latest/scale-to-width-down/195?cb=20181230182020)](https://static.wikia.nocookie.net/wowpedia/images/8/82/Saurfang_in_the_Undercity.jpg/revision/latest?cb=20181230182020)
+    
+    Varok in the Undercity during the Battle for Lordaeron.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Saurfang%27s_Capture_by_Dean_Oyebo.jpg/revision/latest/scale-to-width-down/119?cb=20180906031102)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Saurfang%27s_Capture_by_Dean_Oyebo.jpg/revision/latest?cb=20180906031102)
+    
+    Saurfang's capture
+    
+
+#### Lost Honor
+
+Some time later, Anduin approached Saurfang in his cell to ask him why the orc had spared him at Lordaeron when he could have killed him and ended the war there. As Anduin asked him if he was wrong about Saurfang's honor and questioned if he wanted more innocents to suffer, Saurfang angrily shouted that he had given everything for the Horde but Sylvanas was destroying it, and what he wanted was to have his Horde back. Saurfang admitted to Anduin that the reason he had spared him was because he thought Anduin could stop Sylvanas, but as Anduin left the Stockades he told Saurfang he couldn't—not alone. As Anduin left, he kept Saurfang's cell door open.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-44">[44]</a></sup>
+
+#### Tides of Vengeance
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Saurfang_incognito.jpg/revision/latest/scale-to-width-down/180?cb=20200619140219)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Saurfang_incognito.jpg/revision/latest?cb=20200619140219)
+
+Saurfang after escaping Stormwind.
+
+Saurfang left the Stockades via the sewers, emerging at [Mirror Lake](https://wowpedia.fandom.com/wiki/Mirror_Lake "Mirror Lake") in [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest").<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-45">[45]</a></sup> As he traveled east into the [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains"), [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") of [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") told the guards at [Three Corners](https://wowpedia.fandom.com/wiki/Three_Corners "Three Corners") to take the night off and provided them with plenty of alcohol to drink. Once they were drunk, they missed Saurfang passing by. Shaw also provided plenty of gold for more guards to stay at the [Lakeshire](https://wowpedia.fandom.com/wiki/Lakeshire "Lakeshire") inn and told the captain of the guards to heavily guard the road from Lakeshire to the [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes") due to a possible attack.<sup id="cite_ref-:0_46-0"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-:0-46">[46]</a></sup> Guards were pulled from southern Redridge as a result, allowing Saurfang to pass unhindered. It is unknown whether Saurfang knew of Shaw's actions.<sup id="cite_ref-:0_46-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-:0-46">[46]</a></sup>
+
+In eastern Redridge, Saurfang came across Zekhan. Knowing that Sylvanas would send assassins after him, Saurfang told Zekhan to watch the [Redridge Pass](https://wowpedia.fandom.com/wiki/Redridge_Pass "Redridge Pass") for any sign of Horde agents and to warn him if there were. With that Saurfang continued into the [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows") and set up camp at [Misty Reed Farm](https://wowpedia.fandom.com/wiki/Misty_Reed_Farm "Misty Reed Farm").<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-47">[47]</a></sup> Eventually Saurfang was confronted by a team of Forsaken led by [Dark Ranger Lyana](https://wowpedia.fandom.com/wiki/Dark_Ranger_Lyana "Dark Ranger Lyana"), who had been following his trail from Mirror Lake and was there to kill him on Sylvanas's orders for turning his back on his duty and then conspiring with humans against Sylvanas. Zekhan and a Horde adventurer arrived and stood by Saurfang after all he had done for the Horde.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-48">[48]</a></sup> When Lyana and her forces were killed, Saurfang told Zekhan and the adventurer to return to Orgrimmar and make it look like Saurfang escaped, to keep the adventurer in Sylvanas's favor, and so Zekhan could spread the word in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") that those who wish to restore the honor of the Horde must not give up hope. Promising his friends to see them again, Saurfang traveled further west into the swamp.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-49">[49]</a></sup>
+
+#### Meeting with Thrall
+
+In the hopes of securing a future for the Horde, Varok returned to [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand "Nagrand") and sought out the home where [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and his family had taken up residence. Upon reuniting with his old friend, Varok commented that despite the land's beauty, it was wrong, broken, and falling apart, just like the Horde. When he asked if Thrall knew what Sylvanas had done while he had been hiding, Thrall responded that he had left that life behind and would not take up the mantle of warchief again. Varok replied that he didn't ask for that but he had hoped he would at least fight for it. Moments later, the two orcs were attacked by Forsaken assassins. After a brief fight, they managed to defeat their ambushers, and Saurfang revealed that he had followed the assassins to Thrall's home. He continued, "You and I... we don't get to hide". With that, Thrall retrieved [an axe](https://wowpedia.fandom.com/wiki/Dra%27gora "Dra'gora") he had hidden in a compartment under his anvil and slung it over his shoulders, ready to fight for the Horde alongside Varok.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-50">[50]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/57/Saurfang_Mercenaries_1.jpg/revision/latest/scale-to-width-down/135?cb=20211012190722)](https://static.wikia.nocookie.net/wowpedia/images/5/57/Saurfang_Mercenaries_1.jpg/revision/latest?cb=20211012190722)
+    
+    Varok in Nagrand.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Safe_Haven_-_Varok.jpg/revision/latest/scale-to-width-down/432?cb=20190515214731)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Safe_Haven_-_Varok.jpg/revision/latest?cb=20190515214731)
+    
+    Varok seeing how Nagrand's grain crumbles.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Safe_Haven_-_Thrall_and_Varok.jpg/revision/latest/scale-to-width-down/432?cb=20190515214628)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Safe_Haven_-_Thrall_and_Varok.jpg/revision/latest?cb=20190515214628)
+    
+    Varok reuniting with Thrall in Nagrand.
+    
+
+#### Rise of Azshara
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Varok_Saurfang_Orgrimmar.png/revision/latest/scale-to-width-down/180?cb=20200622162601)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Varok_Saurfang_Orgrimmar.png/revision/latest?cb=20200622162601)
+
+In Orgrimmar.
+
+Seeking to rescue [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof"), Saurfang and Thrall made their way to the [Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow") where they received aid from [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") who sent the [Speaker of the Horde](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to aid them.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-51">[51]</a></sup> As Saurfang, Thrall, and the Speaker ventured into the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold") where they sought to minimize the spilling of Horde blood as they moved throughout the city. Amidst their quest, the group ran into [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw"), who had also come to rescue Baine at [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn")'s request and after a brief moment agreed to work together to save Baine. When things started getting heated between Saurfang and Shaw, Jaina and Thrall were quick to get them focused on the task at hand. Upon nearly reaching Baine, the group was attacked by [Rowa Bloodstrike](https://wowpedia.fandom.com/wiki/Rowa_Bloodstrike "Rowa Bloodstrike"), who expressed disappointment but not surprise by Saurfang's and Thrall's decision to rescue Baine. Unwilling to stand down, the group was forced to kill Rowa and moved forward to Baine, who was surprised at their presence. While Shaw moved to liberate Baine from his chains, Saurfang remarked that it felt too easy and the group was then attacked by [Magister Hathorel](https://wowpedia.fandom.com/wiki/Magister_Hathorel "Magister Hathorel"), who sought to kill them and Jaina in particular in vengeance for the [purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran"). Ultimately, the group was successful in liberating Baine from his chains and Jaina teleported the group safely out of the [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar").<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-52">[52]</a></sup>
+
+Before Jaina and Shaw departed to report the mission's success to Anduin, Saurfang asked for Jaina to let Anduin know that he did not stand alone.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-53">[53]</a></sup>
+
+### Death
+
+As Saurfang's and Anduin's forces rallied together, Anduin and Saurfang had a private meeting in which Anduin asked what type of [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") Saurfang would be. In response Saurfang revealed that the Horde he joined was birthed by blood and tainted by [corruption](https://wowpedia.fandom.com/wiki/Fel "Fel"), founded on the great lie that anything it did was honorable as evidenced by the [Path of Glory](https://wowpedia.fandom.com/wiki/Path_of_Glory "Path of Glory") that was constructed with the bones of innocents leading to the Dark Portal. He further remarked that it wasn't Thrall or [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") but Sylvanas who inherited [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand")'s bloody legacy. However, Anduin denied this telling him that his forces were the Horde but was interrupted by scornful Saurfang who remarked that he never knew honor. He further remarked that his loyalists deserved more and that he felt that the Horde was forever shackled to the past, which caused Anduin to point out that the Horde had no inclusive claim to regrets by invoking [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore"). Saurfang was dismissive however pointing out that nothing could close the chasm between the Horde and Alliance, which made Anduin ask what they were fighting for. After a moment Saurfang and Anduin rallied their forces to break the cycle and defend Azeroth, with "For Azeroth" as their rallying cry.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-54">[54]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/08/Reckoning_Saurfang_wielding_Shalamayne_against_Sylvanas.png/revision/latest/scale-to-width-down/180?cb=20200405123910)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Reckoning_Saurfang_wielding_Shalamayne_against_Sylvanas.png/revision/latest?cb=20200405123910)
+
+Varok confronting Sylvanas with Dra'gora and Shalamayne in hand.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/23/Saurfang_Mercenaries_3.jpg/revision/latest/scale-to-width-down/180?cb=20211012190818)](https://static.wikia.nocookie.net/wowpedia/images/2/23/Saurfang_Mercenaries_3.jpg/revision/latest?cb=20211012190818)
+
+Varok with the split Shalamayne.
+
+Thus to protect Azeroth and depose of Sylvanas, the Horde revolutionaries and Alliance planned to strike at Orgrimmar and to that end set up camp in [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill"). In response to Sylvanas's forces collapsing part of the canyon between Razor Hill and Orgrimmar, Saurfang turned to [Gazlowe](https://wowpedia.fandom.com/wiki/Gazlowe "Gazlowe") and [Tinkmaster Overspark](https://wowpedia.fandom.com/wiki/Tinkmaster_Overspark "Tinkmaster Overspark") breach the canyon.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-55">[55]</a></sup> With his forces established within the [Dranosh'ar Blockade](https://wowpedia.fandom.com/wiki/Dranosh%27ar_Blockade "Dranosh'ar Blockade"), Saurfang turned to dealing with Sylvanas's spies and protecting their siege weapons.<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-56">[56]</a></sup><sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-57">[57]</a></sup> Knowing that Orgrimmar's greatest weakness was its multiple entrances Saurfang's strategy relied on attacking all three entrances at once. To that end, he directed for [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane")'s forces to attack Orgrimmar from the [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens"), [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon") to lead their forces to attack the city from [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara"), and he, Thrall, and Anduin would lead their forces to attack Orgrimmar from Durotar. He further ordered [Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain") to lead her people to protect [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") in case of Sylvanas launching a counterattack.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-58">[58]</a></sup>
+
+However, before the battle could commence, Saurfang, recognizing Sylvanas's loyalists as their brothers and sisters in the Horde and unwilling to spill more Horde blood, challenged Sylvanas to [Mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora"), in spite of Thrall voicing his suspicions that he would die. When Sylvanas questioned why she should accept his challenge, Saurfang merely pointed out that she wanted him to suffer, causing Sylvanas to wordlessly agree. While Sylvanas armed herself, Saurfang was granted [Dra'gora](https://wowpedia.fandom.com/wiki/Dra%27gora "Dra'gora") by Thrall and [Shalamayne](https://wowpedia.fandom.com/wiki/Shalamayne "Shalamayne") by Anduin. Sylvanas initially had the upper hand against Saurfang, however, when she began to mock him about hope, Saurfang got his second wind by declaring that Sylvanas couldn't kill hope. As Saurfang turned the tide against Sylvanas he claimed that she failed to kill hope at [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"), failed in getting the Horde and Alliance to keep killing each other, he further declared that the Horde would endure, that Horde was strong and was able to slash Sylvanas across her eye. This turn caused an enraged Sylvanas to declare that Horde was nothing, that they were all nothing. Sylvanas then killed Saurfang quickly with a blast of unknown magic, and abandoned the Horde altogether.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-59">[59]</a></sup>
+
+### Legacy
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/71/Saurfang%27s_Funeral.jpg/revision/latest/scale-to-width-down/180?cb=20190926003848)](https://static.wikia.nocookie.net/wowpedia/images/7/71/Saurfang%27s_Funeral.jpg/revision/latest?cb=20190926003848)
+
+The funeral of Varok Saurfang.
+
+In the aftermath of Saurfang's death and Sylvanas's betrayal, his beloved Horde reunited once more with her former loyalists defecting to his revolution. Saurfang's funeral was held in front of [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold"), where many heroes of the Horde and even a few of the Alliance attended. He was remembered for his role in leading the fight against [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj"), the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and defending Azeroth against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Thrall declared Saurfang an inspiration for all those who strived for true honor and that his legacy would live on their deeds. Anduin stated that his sacrifice would never be forgotten, and Thrall declared that Saurfang had earned his warriors' death and was to be buried in [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand "Nagrand") as he would have wanted.<sup id="cite_ref-Old_Soldier_(quest)_1-1"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Old_Soldier_(quest)-1">[1]</a></sup> [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem") believed that Saurfang's final act had given the Horde a renewal and rebirth,<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-60">[60]</a></sup> and [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra") credits their survival against [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") as a result of Saurfang's sacrifice.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-61">[61]</a></sup>
+
+Zekhan was deeply affected by Varok's death. When the newly-formed [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") asked him to serve as the Horde ambassador to [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), the troll hesitated at first but then accepted the mission after he thought he felt Saurfang's presence as a supporting hand on his shoulder.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-62">[62]</a></sup> As part of a bargain, the death [loa](https://wowpedia.fandom.com/wiki/Loa "Loa") [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi") later showed Zekhan a vision of Varok reunited with his family in a blissful afterlife where the old orc could hunt [talbuk](https://wowpedia.fandom.com/wiki/Talbuk "Talbuk") across the plains of Draenor with Dranosh and spend his evenings with his dearly missed wife, [Remda](https://wowpedia.fandom.com/wiki/Remda "Remda").<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-63">[63]</a></sup> Unbeknownst to Zekhan, Bwonsamdi's vision was a lie, as the souls of almost everyone killed during the Fourth War were actually claimed by the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw").<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-64">[64]</a></sup><sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-65">[65]</a></sup> During the battle at the [Shoaljai Tar Pits](https://wowpedia.fandom.com/wiki/Shoaljai_Tar_Pits "Shoaljai Tar Pits"), Zekhan took it upon himself to save two captive Zandalari children from an ignited tar pool. As he carried them on his back, he tried to summon the wind to speed his feet, but nothing happened. He privately asked "What now, ancestors?" and heard Saurfang's voice reply "You know". He realized that this was true and used the wind to carry the children to safety while he remained stuck in the tar and only narrowly escaped death.<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-66">[66]</a></sup>
+
+In the [Sanctum of Domination](https://wowpedia.fandom.com/wiki/Sanctum_of_Domination "Sanctum of Domination"), Sylvanas drops a trinket named  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Ability_warrior_warcry.png/revision/latest/scale-to-width-down/16?cb=20060829232409)[\[Old Warrior's Soul\]](https://wowpedia.fandom.com/wiki/Old_Warrior%27s_Soul).
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Anduin_Raid_Finale_-_Varok.png/revision/latest/scale-to-width-down/180?cb=20220305170228)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Anduin_Raid_Finale_-_Varok.png/revision/latest?cb=20220305170228)
+
+Varok appearing to Anduin in the Sepulcher of the First Ones.
+
+During events in the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands"), Anduin fell under the control of [the Jailer](https://wowpedia.fandom.com/wiki/The_Jailer "The Jailer")'s [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination") magic, with his sword Shalamayne being transformed into the [mourneblade](https://wowpedia.fandom.com/wiki/Mourneblade "Mourneblade") [Kingsmourne](https://wowpedia.fandom.com/wiki/Kingsmourne "Kingsmourne"). In the [Sepulcher of the First Ones](https://wowpedia.fandom.com/wiki/Sepulcher_of_the_First_Ones "Sepulcher of the First Ones"), as Anduin struggled to regain control from the Jailer, he suddenly saw his father [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") appear by his side to remind him that Shalamayne had been forged by valor, followed by Varok appearing at his other side to add that the sword had been forged by honor as well. Varian continued that both of their legacies along with that of Shalamayne were with Anduin. With their help, Anduin was able to split Kingsmourne back into its component swords of Shalla'tor and Ellemayne and free himself.<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-67">[67]</a></sup> It is not stated whether these appearances of Varok and Varian were their actual souls or only part of Anduin's imagination.
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Warrior](https://static.wikia.nocookie.net/wowpedia/images/3/37/Ui-charactercreate-classes_warrior.png/revision/latest/scale-to-width-down/16?cb=20070124145122 "Warrior") \[10-45\] [Secrets of the Axes](https://wowpedia.fandom.com/wiki/Secrets_of_the_Axes) ([Skyhold](https://wowpedia.fandom.com/wiki/Skyhold "Skyhold")) | 100 - 110 | 13,866,541 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-45\] [A Royal Audience](https://wowpedia.fandom.com/wiki/A_Royal_Audience_(Horde)) | 110 | 831,413,600 |
+| [Orgrimmar Embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy") | ?? | 24,406,145 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[110\] [The Warchief Commands](https://wowpedia.fandom.com/wiki/The_Warchief_Commands) | 110 | 7,481,000 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron_(Horde)) | ?? | 4,568,000 |
+|  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron_(Alliance)) | ?? | 913,600 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-60\] [The Stormwind Extraction](https://wowpedia.fandom.com/wiki/The_Stormwind_Extraction) | 110 - 120 | 1,898,301 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [A Warrior's Death](https://wowpedia.fandom.com/wiki/A_Warrior%27s_Death) | ?? | 21,680,500 |
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") | 83 | 2,789,000 |
+| [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity") | ?? | 2,819,000 |
+| [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") | ?? | 4,183,500 |
+| [Gunship Battle](https://wowpedia.fandom.com/wiki/Gunship_Battle "Gunship Battle") | ?? | 
+<table><tbody><tr><td><b><abbr title="10-player mode">10</abbr></b></td><td>2,440,375</td></tr><tr><td><b><abbr title="10-player Heroic mode">10H</abbr></b></td><td>4,880,750</td></tr><tr><td><b><abbr title="25-player Heroic mode">25H</abbr></b></td><td>6,972,500</td></tr></tbody></table>
+
+ |
+| [Siege of Orgrimmar (instance)](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)") | 90 | 295,455,744 |
+| [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall") | 100 | 29,356,200 |
+| [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") | ?? | 28,527,600 |
+| [Legion Invasion](https://wowpedia.fandom.com/wiki/Legion_Invasion "Legion Invasion") | 100 | 1,467,810 |
+|   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) ![Warrior](https://static.wikia.nocookie.net/wowpedia/images/3/37/Ui-charactercreate-classes_warrior.png/revision/latest/scale-to-width-down/16?cb=20070124145122 "Warrior") \[10-45\] [A Desperate Plea](https://wowpedia.fandom.com/wiki/A_Desperate_Plea_(Legion)) | 100 | 4,486,980 |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Warrior](https://static.wikia.nocookie.net/wowpedia/images/3/37/Ui-charactercreate-classes_warrior.png/revision/latest/scale-to-width-down/16?cb=20070124145122 "Warrior") \[10-45\] [Secrets of the Axes](https://wowpedia.fandom.com/wiki/Secrets_of_the_Axes) ([Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles")) | 110 | 15,589,005 |
+
+## Abilities
+
+## Quests
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up"). Reason: **BfA removal**
+
+Orgrimmar
+
+Iron Invasion
+
+Frostwall
+
+Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Battle for Azeroth
+
+[![Removed from game](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251 "Removed from game") The subject of this section did not make it out of the [beta](https://wowpedia.fandom.com/wiki/Beta "Beta") stages.
+
+## Quotes
+
+Vanilla, Grommash Hold and [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns")
+
+I am he that watches they. I am the fist of retribution. That which does quell the recalcitrant. Dare you defy the Warchief? Dare you face my merciless judgment?
+
+Might of Kalmidor
+
+**High Overlord Saurfang says:** Soon, young ones. Soon the armies of the Horde will arrive. We march. March to the cursed gates and crush all in our way. Let them feel the might of Kalimdor!
+
+**[High Commander Lynore Windstryke](https://wowpedia.fandom.com/wiki/Lynore_Windstryke "Lynore Windstryke") says:** You have a way with words, Overlord Saurfang.
+
+**High Commander Lynore Windstryke says:** As to your warning - worry not. Our troops are all aware of the chain of command. We fight united. Let us hope your own troops remember that...
+
+Ahn'Qiraj - Cenarion Hold attacked
+
+**Warcaller Finster yells:** Sandstorm coming from the south, take co... That's no sandstorm! INCOMING QIRAJI ARMY!
+
+**High Overlord Saurfang yells:** FOR KALIMDOR!
+
+**High Overlord Saurfang yells:** HOLD THE LINE! LET NOTHING THROUGH!
+
+Ahn'Qiraj War
+
+"I am Saurfang. Brother of [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar"). You know me to be the Supreme Commander of the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor"). An [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") - a true orc [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") - wishes for one thing: To die in the glory of battle against [a hated enemy](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun"). Some of you have fought in battles. Peace has been with us for many years. Many years we sat idle but many years we battled. In those years - where strife the land and [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") sacked our homes, killed our families - [these insects](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji") dwelled beneath us. Beneath our homes - waiting. Waiting to crush the life from our little ones. To slay all in their path. This they do for their god. And for our gods? We defend. We stand. We show that as one. United. We destroy. Their god will fall. To die today, on this field of battle, is to die an orcish death. To die today is to die for our little ones. Our old ones. Our… loved ones. Would any of you deny yourselves such a death? Such an honor?"
+
+\- addressing the [Might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor") during the [second War of the Shifting Sands](https://wowpedia.fandom.com/wiki/Gates_of_Ahn%27Qiraj#Opening_the_gates "Gates of Ahn'Qiraj")
+
+### Wrath of the Lich King
+
+Scourge Invasion
+
+I understand Garrosh's desires. The urge for battle is strong within every orc, especially against a foe that has killed our people. But, the warchief has proven time and again that strategy is as important as strength in a battle.
+
+We will set out when the time is right. We are no longer a band of mindless, demon-manipulated savages. This is the new Horde.
+
+During an invasion in Orgrimmar
+
+You there! Why are you not fighting? Kill these Scourge horrors before they do more damage to Orgrimmar!
+
+Warsong Hold gossip
+
+Fear has always been our greatest weapon. Entire wars have been won and lost upon the shifting shoulders of trepidation and doubt. So how, then, does one fight an enemy that knows no fear?
+
+<Saurfang shakes his head.>
+
+We do not just fight the Scourge in Northrend, we fight to gain control of our senses before they tear us apart...
+
+#### Dialogue with Garrosh in Warsong Hold
+
+Saurfang scolds [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")'s impatience and lust for killing, reminding him of their race's history during a strategy conference in [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold"):
+
+_Varok Saurfang turns around to speak with Garrosh._  
+**High Overlord Saurfang says:** We are surrounded... Our enemies press in from all sides, young Hellscream.  
+_Saurfang walks to the central and [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") portions of the hide map of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") on the floor, kneeling to point them out, then walks off the map to stand before Garrosh._  
+**High Overlord Saurfang says:** The Scourge descends like locust from the north.  
+**High Overlord Saurfang says:** The [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") holds the only secure shipping lane in this region, and even that is at risk of being lost to those dreaded mists.  
+**High Overlord Saurfang says:** Our [only viable port](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing") for resupply is held by the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") on the [other side](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") of this blasted continent!  
+**High Overlord Saurfang says:** Anything our [zeppelins](https://wowpedia.fandom.com/wiki/Zeppelin "Zeppelin") cannot haul must be brought in by ship and travel the length of Northrend to reach us.  
+_Saurfang walks back to his usual spot._  
+Garrosh Hellscream grunts.  
+_Garrosh walks up to the map and kneels._  
+**Garrosh Hellscream says:** Shipping lanes... supplies... You bore me to death! We need nothing more than the warrior spirit of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), Saurfang! Now that we are firmly entrenched in this frozen wasteland, nothing shall stop us!  
+**High Overlord Saurfang says:** Siege engines, ammunition, heavy armor... How do you propose to shatter the walls of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") without those?  
+_Garrosh stands._  
+**Garrosh Hellscream says:** Propose? I will show you what I propose!  
+_Garrosh crushes the figures and flag indicating [Valiance Keep](https://wowpedia.fandom.com/wiki/Valiance_Keep "Valiance Keep") on the map._  
+**Garrosh Hellscream says:** There... Now we now have a shipping lane.  
+**Garrosh Hellscream says:** And just for good measure...  
+_Garrosh crushes the figures and flags indicating [Valgarde](https://wowpedia.fandom.com/wiki/Valgarde "Valgarde") and [Westguard Keep](https://wowpedia.fandom.com/wiki/Westguard_Keep "Westguard Keep"). Garrosh walks back to his usual spot._  
+**High Overlord Saurfang says:** So the prodigal son has spoken!  
+**High Overlord Saurfang says:** [Your father](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream")'s blood runs strong in you, Hellscream. Impatient as always... Impatient and reckless.  
+**High Overlord Saurfang says:** You rush headlong into all-out war without a thought of the consequences.  
+**Garrosh Hellscream says:** Do not speak to me of consequences, old one.  
+**High Overlord Saurfang says:** I drank of the same [blood](https://wowpedia.fandom.com/wiki/Blood_of_Mannoroth "Blood of Mannoroth") your father did, Garrosh. [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")'s cursed venom pumped through my veins as well.  
+**High Overlord Saurfang says:** I drove my weapons into the bodies and minds of my enemies.  
+**High Overlord Saurfang says:** And while Grom died a glorious death - freeing us all from the [blood curse](https://wowpedia.fandom.com/wiki/Blood_Curse "Blood Curse") - he could not wipe away the terrible memory of our past.  
+**High Overlord Saurfang says:** His act could not erase the horrors we committed.  
+High Overlord Saurfang pauses.  
+**High Overlord Saurfang says:** The winter after the curse was lifted, hundreds of veteran orcs like me were lost to despair.  
+**High Overlord Saurfang says:** Our minds were finally free, yes... Free to relive all of the unthinkable acts that we had performed under the [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s influence.  
+High Overlord Saurfang nods.  
+**High Overlord Saurfang says:** I think it was the sounds of the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") children that unnerved most of them... You never forget...  
+**High Overlord Saurfang says:** Have you ever been to [Jaggedswine Farm](https://wowpedia.fandom.com/wiki/Jaggedswine_Farm "Jaggedswine Farm")? When the swine are of age for the slaughter... It's that sound. The sound of the swine being killed... It resonates the loudest. Those are hard times for us older veterans.  
+**Garrosh Hellscream says:** But surely you cannot think that those children were born into innocence? They would have grown up and taken arms against us!  
+High Overlord Saurfang shakes his head.  
+**High Overlord Saurfang says:** I am not speaking solely of the children of our enemies...  
+High Overlord Saurfang pauses.  
+**High Overlord Saurfang says:** I won't let you take us down that dark path again, young Hellscream. I'll kill you myself before that day comes...  
+_Saurfang turns away and looks at the map instead._  
+**Garrosh Hellscream says:** How have you managed to survive for so long, Saurfang? Not fallen victim to your own memories?  
+_Saurfang turns around for a moment to answer._  
+**High Overlord Saurfang says:** I don't eat pork...  
+High Overlord Saurfang spits.
+
+#### Borean Tundra
+
+_Main article: [Foolish Endeavors#Notes](https://wowpedia.fandom.com/wiki/Foolish_Endeavors#Notes "Foolish Endeavors")_
+
+#### Icecrown Citadel
+
+_Main article: [Light's Hammer#Quotes](https://wowpedia.fandom.com/wiki/Light%27s_Hammer#Quotes "Light's Hammer")_
+
+_Main article: [Gunship Battle#Quotes](https://wowpedia.fandom.com/wiki/Gunship_Battle#Quotes "Gunship Battle")_
+
+_Main article: [Deathbringer Saurfang#Quotes](https://wowpedia.fandom.com/wiki/Deathbringer_Saurfang#Quotes "Deathbringer Saurfang")_
+
+### _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_
+
+-   _"High Overlord," [Cairne](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof") rumbled, bowing. "As a father myself, I grieve for what you have had to endure. But know that your son died a hero, and what you have wrought here honors his memory. Anything else is borne away on the winds."_  
+    _Saurfang grunted acknowledgment. "It is good to see you again, High Chieftain Cairne Bloodhoof. And... I know what you say is true. I am not ashamed to say, though, that I am glad this campaign has finally come to an end. We have lost too much."_
+-   _"I \[Garrosh\] leave a skeleton crew with Saurfang." \[...\] "It is my belief that my former advisor will sit and watch spiders spin cobwebs and fully enjoy the peace he so obviously craves."_  
+    _"We have both done our duties. We serve the Horde. If I serve by watching little spiders instead of fighting large ones, then I am well content."_
+
+### [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)")
+
+Ah, more of [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin")'s revolutionaries. You've made it.
+
+Have you found [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")? I am badly hurt, he insisted on going ahead alone.
+
+Tell me, how goes the battle up above? What of [Nazgrim](https://wowpedia.fandom.com/wiki/Nazgrim "Nazgrim")? Speak to me!
+
+Ah, Nazgrim. A great leader and a fine warrior. He valued his oath to the [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") more than his life.
+
+I tried to tell him... to tell him that [Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") betrayed us, cast aside a Warchief's responsibility to his own [people](https://wowpedia.fandom.com/wiki/Orc "Orc"). But Nazgrim... too loyal... too proud.
+
+Damn Hellscream. His ambition tore our [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") apart.
+
+Go on, find Thrall. Finish this. I will live.
+
+###   ![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315 "Horde") ![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Inv_axe_1h_horde_d_05.png/revision/latest/scale-to-width-down/16?cb=20160615160819)[\[Fight for the Horde\]](https://wowpedia.fandom.com/wiki/Fight_for_the_Horde) letter
+
+For the Horde!
+
+We [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") came to [this world](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") [decades ago](https://wowpedia.fandom.com/wiki/First_War "First War"), driven by demonic bloodlust, pillaging and carving a swath of destruction. Now free of the [Blood Curse](https://wowpedia.fandom.com/wiki/Blood_Curse "Blood Curse"), we stand proudly alongside the greatest warriors of Azeroth, defending family and homeland with our dying breath. But we must never forget that dark past, lest it overtake us once again. Take these arms as a reminder of our origins, [the foe](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") we now face, and what it means to be of Horde. Lok'tar Ogar!
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+_Main article: [Legion Invasion#Stages](https://wowpedia.fandom.com/wiki/Legion_Invasion#Stages "Legion Invasion")_
+
+_Main article: [A Desperate Plea (Legion)#Notes](https://wowpedia.fandom.com/wiki/A_Desperate_Plea_(Legion)#Notes "A Desperate Plea (Legion)")_
+
+_Main article: [Return to the Broken Shore (Horde)#Notes](https://wowpedia.fandom.com/wiki/Return_to_the_Broken_Shore_(Horde)#Notes "Return to the Broken Shore (Horde)")_
+
+#### Orgrimmar Embassy
+
+[![Removed from game](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251 "Removed from game") The subject of this section did not make it out of the [PTR](https://wowpedia.fandom.com/wiki/PTR "PTR") stages.
+
+Diplomacy has never been my strong suit.
+
+This work is best left in your hands.
+
+### Battle for Azeroth
+
+#### Gossip
+
+The Dranosh'ar Blockade
+
+Today we make our stand.
+
+#### On-click
+
+Greetings
+
+-   I am Saurfang. Brother of [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar").
+-   I serve the Horde.
+-   Lok-tar.
+-   Now is not the time for pleasantries.
+-   Speak quickly and speak the truth.
+-   Throm-ka.
+-   What would you ask of me?
+
+Irritated
+
+-   I'm too old for this nonsense.
+-   If you knew how much blood has stained my axe, you would not be so quick to pester me!
+-   Why do you keep prodding me? Is there another war to fight? Ugh, what am I saying... there is _always_ another war to fight.
+-   I have served many [warchiefs](https://wowpedia.fandom.com/wiki/Warchief "Warchief"). Go travel the world a bit. No doubt you will run into [a](https://wowpedia.fandom.com/wiki/Thrall "Thrall") [number](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") [of](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") [them](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner").
+
+Farewell
+
+-   Do not grow old... if you can help it.
+-   In battle, strategy is as important as strength.
+-   May you die in battle against a hated enemy.
+-   The Horde will endure.
+-   To die today, on the field of battle, is to die an orcish death.
+-   We are the true [might of Kalimdor](https://wowpedia.fandom.com/wiki/Might_of_Kalimdor "Might of Kalimdor").
+-   Without honor, we have nothing.
+
+#### Dialogue
+
+_Main article: [A Quick Diversion#Notes](https://wowpedia.fandom.com/wiki/A_Quick_Diversion#Notes "A Quick Diversion")_
+
+_Main article: [A Quick Flyover#Notes](https://wowpedia.fandom.com/wiki/A_Quick_Flyover#Notes "A Quick Flyover")_
+
+_Main article: [An Unstoppable Force#Notes](https://wowpedia.fandom.com/wiki/An_Unstoppable_Force#Notes "An Unstoppable Force")_
+
+_Main article: [A Threat from the North#Notes](https://wowpedia.fandom.com/wiki/A_Threat_from_the_North#Notes "A Threat from the North")_
+
+_Main article: [Saurfang Returns#Notes](https://wowpedia.fandom.com/wiki/Saurfang_Returns#Notes "Saurfang Returns")_
+
+_Main article: [The Guidance of Our Shan'do#Notes](https://wowpedia.fandom.com/wiki/The_Guidance_of_Our_Shan%27do#Notes "The Guidance of Our Shan'do")_
+
+_Main article: [Killer Queen#Notes](https://wowpedia.fandom.com/wiki/Killer_Queen#Notes "Killer Queen")_
+
+_Main article: [The Battle for Lordaeron#Notes](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron#Notes "The Battle for Lordaeron")_
+
+_Main article: [The Stormwind Extraction#Notes](https://wowpedia.fandom.com/wiki/The_Stormwind_Extraction#Notes "The Stormwind Extraction")_
+
+_Main article: [A Warrior's Death#Notes](https://wowpedia.fandom.com/wiki/A_Warrior%27s_Death#Notes "A Warrior's Death")_
+
+_Main article: [Queen's Favor#Notes](https://wowpedia.fandom.com/wiki/Queen%27s_Favor#Notes "Queen's Favor")_
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   Varok appears as a [special minion](https://hearthstone.fandom.com/wiki/Varok_Saurfang "hswiki:Varok Saurfang") used in the warrior chapter of [Book of Heroes](https://hearthstone.fandom.com/wiki/Book_of_Heroes "hswiki:Book of Heroes") and a [boss encounter](https://hearthstone.fandom.com/wiki/Varok_Saurfang_(boss) "hswiki:Varok Saurfang (boss)") in the paladin chapter.
+-   He appears as a [legendary warrior card](https://hearthstone.fandom.com/wiki/Overlord_Saurfang "hswiki:Overlord Saurfang") in the _[Forged in the Barrens](https://hearthstone.fandom.com/wiki/Forged_in_the_Barrens "hswiki:Forged in the Barrens")_ expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. His flavor text reads: "_Eats more than his fair share of sour candy._"
+-   He appears as an epic Fighter mercenary in the [Mercenaries](https://hearthstone.fandom.com/wiki/Mercenaries "hswiki:Mercenaries") game mode.
+
+## Notes and trivia
+
+-   Varok guided [Natoj](https://wowpedia.fandom.com/wiki/Natoj "Natoj") in overseeing the defense of Orgrimmar.
+-   Varok was present in the [Orgrimmar Embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy") during the [patch 7.3.5](https://wowpedia.fandom.com/wiki/Patch_7.3.5 "Patch 7.3.5"). PTR.
+-   Varok is the only racial leader not to be acknowledged as such on the official _World of Warcraft_ website. Instead, the site's page for playable orcs lists [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") as the race's "Paragon".<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-68">[68]</a></sup> Varok was confirmed to be the leader of the orcs in  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[1-30\] [Meeting the Orcs](https://wowpedia.fandom.com/wiki/Meeting_the_Orcs) and in [an interview with Ion Hazzikostas](https://twitter.com/Warcraft/status/901078556855414784).
+-   Saurfang and his  ![](https://static.wikia.nocookie.net/wowpedia/images/3/36/Inv_axe_09.png/revision/latest/scale-to-width-down/16?cb=20060930205622)[\[Arcanite Reaper\]](https://wowpedia.fandom.com/wiki/Arcanite_Reaper) were used by [Master Smith Helgar](https://wowpedia.fandom.com/wiki/Master_Smith_Helgar "Master Smith Helgar") as the inspiration for  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Inv_axe_2h_artifactarathor_d_06.png/revision/latest/scale-to-width-down/16?cb=20161005192932)[\[The Arcanite Bladebreaker\]](https://wowpedia.fandom.com/wiki/The_Arcanite_Bladebreaker).<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-69">[69]</a></sup>
+    -   Saurfang wielded the  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Inv_axe_21.png/revision/latest/scale-to-width-down/16?cb=20060930213552)[\[High Warlord's Battle Axe\]](https://wowpedia.fandom.com/wiki/High_Warlord%27s_Battle_Axe) in-game, which was updated in [patch 7.3.5](https://wowpedia.fandom.com/wiki/Patch_7.3.5 "Patch 7.3.5") for _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_. In the _[World of Warcraft Trading Card Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game")_, Saurfang was depicted as wielding an Arcanite Reaper.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-70">[70]</a></sup> In _[Chronicle's](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_ depiction of the [second War of the Shifting Sands](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_War "Ahn'Qiraj War"), he wields the Arcanite Bladebreaker.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-71">[71]</a></sup> In _[Old Soldier's](https://wowpedia.fandom.com/wiki/Old_Soldier "Old Soldier")_ vision of the past, after the [War against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"), Saurfang wields his updated _Battle for Azeroth_ Arcanite Reaper.
+-   During  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-45\] [A Royal Audience](https://wowpedia.fandom.com/wiki/A_Royal_Audience_(Horde)), Varok has a mana bar.
+-   During the [Legion Invasions](https://wowpedia.fandom.com/wiki/Legion_Invasion "Legion Invasion") in the [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens") and during the [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns"), Saurfang rode a [Kor'kron War Wolf](https://wowpedia.fandom.com/wiki/Reins_of_the_Kor%27kron_War_Wolf "Reins of the Kor'kron War Wolf").
+-   [Kingslayer Orkus](https://wowpedia.fandom.com/wiki/Kingslayer_Orkus "Kingslayer Orkus") once met Varok: Did I ever tell you about the time I met Varok Saurfang? I asked him to sign my massive pectoral muscles. He backhanded me instead, which is why I sometimes forget things now. It was totally worth it.
+-   Despite his originally minor role, Saurfang quickly gained popularity with Horde players because of how powerful his abilities were, somewhat similar to the way [Hogger](https://wowpedia.fandom.com/wiki/Hogger "Hogger") gained his fame. Saurfang's  ![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Ability_warrior_charge.png/revision/latest/scale-to-width-down/16?cb=20060829230621)[\[Charge\]](https://wowpedia.fandom.com/wiki/Charge) had a knockback of 30 yards, his [Rage](https://wowpedia.fandom.com/wiki/Rage "Rage") bar was always full, and his  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Ability_warrior_savageblow.png/revision/latest/scale-to-width-down/16?cb=20060829232240)[\[Mortal Strike\]](https://wowpedia.fandom.com/wiki/Mortal_Strike) dealt heavy critical damage.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-72">[72]</a></sup> Additionally, he had the unique, high-damaging ability [Saurfang's Rage](https://www.wowhead.com/spell=26339/saurfangs-rage) which activated when he received a critical hit. Due to all of these factors, Saurfang was often a challenge for Alliance raids when they came to kill Thrall and quickly became a pop icon to Horde players. This led players to create ["Saurfang facts"](https://wowpedia.fandom.com/wiki/Saurfang_facts "Saurfang facts"), in the style of other pop culture icons such as [Vin Diesel](http://en.wikipedia.org/wiki/Vin_Diesel "wikipedia:Vin Diesel") and [Chuck Norris](http://en.wikipedia.org/wiki/Chuck_Norris "wikipedia:Chuck Norris").
+    -   At one point, Varok was able to be [mind controlled](https://wowpedia.fandom.com/wiki/Mind_Control "Mind Control") by [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") players. Due to a [bug](https://wowpedia.fandom.com/wiki/Bug "Bug"), they could then use his  ![](https://static.wikia.nocookie.net/wowpedia/images/5/51/Inv_sword_48.png/revision/latest/scale-to-width-down/16?cb=20060925163613)[\[Execute\]](https://wowpedia.fandom.com/wiki/Execute) skill with a full rage bar. This only added to his popularity with the playerbase.
+    -   Saurfang's original counterpart on the Alliance side was [Field Marshal Afrasiabi](https://wowpedia.fandom.com/wiki/Field_Marshal_Afrasiabi "Field Marshal Afrasiabi"), but Afrasiabi never received the same popularity that Saurfang did.
+    -   Varok's appearances in the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)") and in the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron") are other instances of Saurfang single-handedly facing "raids".
+-   During [BlizzCon 2013](https://wowpedia.fandom.com/wiki/BlizzCon_2013 "BlizzCon 2013"), [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") named Saurfang as his personal favorite choice for the new [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") racial leader. This would later be realized in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ when Saurfang replaced [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") in [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold").
+-   Varok was voiced by [Alan Shearman](https://wowpedia.fandom.com/wiki/Alan_Shearman "Alan Shearman") from _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_ until the later half of _Legion_.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-73">[73]</a></sup><sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-74">[74]</a></sup><sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-75">[75]</a></sup> He is now voiced by [Andrew Morgado](https://wowpedia.fandom.com/wiki/Andrew_Morgado "Andrew Morgado"), starting with the end of _Legion_.<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-76">[76]</a></sup>
+    -   Prior to [patch 8.0.1](https://wowpedia.fandom.com/wiki/Patch_8.0.1 "Patch 8.0.1"), Varok did not have unique NPC quotes but rather used the generic orc ones, in contrast to other racial leaders and many other major characters.
+-   Saurfang was initially planned to appear in [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill") with [patch 5.4.0](https://wowpedia.fandom.com/wiki/Patch_5.4.0 "Patch 5.4.0") as part of a [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") questline.<sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-77">[77]</a></sup>
+-   In the early _[Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_ beta, Saurfang served as the Horde player's [garrison](https://wowpedia.fandom.com/wiki/Garrison "Garrison") assistant in [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall"), but was replaced with [General Zog](https://wowpedia.fandom.com/wiki/General_Zog "General Zog") prior to the expansion's release.
+    -   Following Varok's addition to Frostwall in [patch 6.1.0](https://wowpedia.fandom.com/wiki/Patch_6.1.0 "Patch 6.1.0"), it was initially possible for Horde players to take him for a patrol around the garrison. This was later [hotfixed](https://worldofwarcraft.com/en-us/news/18061645) with the description: "_Visiting High Overlord Saurfang no longer offers to accompany Horde players on patrol over concerns that he may [cleave](https://wowpedia.fandom.com/wiki/Cleave "Cleave") the Garrison in half._"
+-   Rumor has it that Saurfang once cleaved three men in half with one swing... of his hand.<sup id="cite_ref-Ask_CDev_19-3"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Ask_CDev-19">[19]</a></sup>
+-   According to [Hekazi](https://wowpedia.fandom.com/wiki/Hekazi "Hekazi"), Saurfang cut down ten enemies in a single blow in the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").<sup id="cite_ref-Old_Soldier_4-3"><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_note-Old_Soldier-4">[4]</a></sup> This constitutes another ["Saurfang fact"](https://wowpedia.fandom.com/wiki/Saurfang_facts "Saurfang facts").
+    -   This is likely referential to the fact that his Cleave ability was able to hit up to ten targets.
+-   During the _Mists of Pandaria_ beta there was a [wyvern](https://wowpedia.fandom.com/wiki/Wyvern "Wyvern") called [Sourfang](https://wowpedia.fandom.com/wiki/Sourfang "Sourfang").
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+After the [war against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"), Varok did not return to Kalimdor but remained on Northrend to lead the Horde forces there. Since he returned to Orgrimmar, he may have given the command to someone else, or he may have been still leading the Expedition from afar.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/HighOverlordSaurfang.jpg/revision/latest/scale-to-width-down/120?cb=20060811174156)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/HighOverlordSaurfang.jpg/revision/latest?cb=20060811174156)
+    
+    Saurfang doing what he does best.
+    
+
+-   [](https://static.wikia.nocookie.net/wowpedia/images/9/9c/High_Overlord_Saurfang.JPG/revision/latest?cb=20160212205814)
+    
+    Saurfang in the TCG. (_Through the Dark Portal_)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Varok_Saurfang_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20110301205236)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Varok_Saurfang_TCG.jpg/revision/latest?cb=20110301205236)
+    
+    Saurfang in the TCG. (_Assault on Icecrown Citadel_)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Saurfang_Brewfest.jpg/revision/latest/scale-to-width-down/120?cb=20170923011746)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Saurfang_Brewfest.jpg/revision/latest?cb=20170923011746)
+    
+    Saurfang about to tap the keg.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1b/BfA_Horde.jpg/revision/latest/scale-to-width-down/120?cb=20180516214302)](https://static.wikia.nocookie.net/wowpedia/images/1/1b/BfA_Horde.jpg/revision/latest?cb=20180516214302)
+    
+    Saurfang on a _Battle for Azeroth_ wallpaper.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Saurfang_Mercenaries_2.jpg/revision/latest/scale-to-width-down/90?cb=20211012190751)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Saurfang_Mercenaries_2.jpg/revision/latest?cb=20211012190751)
+    
+    In _Hearthstone Mercenaries_.
+    
+
+## Videos
+
+-   [A Vision of Time](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Refining The Vision](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Legion Epilogue (Horde)](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Old Soldier](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Lost Honor](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Safe Haven](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Crossroads](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [The Negotiation](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Reckoning](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+-   [Anduin Raid Finale](https://wowpedia.fandom.com/wiki/Varok_Saurfang#)
+
+## Patch changes
+
+## See also
+
+-   [Blizzard Collectible](https://wowpedia.fandom.com/wiki/Blizzard_Collectible "Blizzard Collectible")
+-   [High Overlord Saurfang](https://wowpedia.fandom.com/wiki/High_Overlord_Saurfang_(Through_the_Dark_Portal)), TCG card
+-   [Varok Saurfang, High Overlord](https://wowpedia.fandom.com/wiki/Varok_Saurfang,_High_Overlord), TCG card
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Old_Soldier_(quest)_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Old_Soldier_(quest)_1-1">b</a></sup>  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Old Soldier](https://wowpedia.fandom.com/wiki/Old_Soldier_(quest))
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-UVG_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-UVG_2-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-UVG_2-2">c</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_, pg. 123
+3.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-3) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, pg. 5
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Old_Soldier_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Old_Soldier_4-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Old_Soldier_4-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Old_Soldier_4-3">d</a></sup> _[Old Soldier](https://wowpedia.fandom.com/wiki/Old_Soldier "Old Soldier")_
+5.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-5)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[1-30\] [Meeting the Orcs](https://wowpedia.fandom.com/wiki/Meeting_the_Orcs)
+6.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-6) [Ion Hazzikostas Q&A, Gamescom 2017](https://twitter.com/Warcraft/status/901078556855414784)
+7.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-7) [Kor'kron Defender (Icecrown Citadel)](https://wowpedia.fandom.com/wiki/Kor%27kron_Defender_(Icecrown_Citadel) "Kor'kron Defender (Icecrown Citadel)")
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-BeforeTheGates_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-BeforeTheGates_8-1">b</a></sup>  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Before the Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Before_the_Gates_of_Orgrimmar)
+9.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-9) _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_, pg. 14
+10.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-10) [Deathbringer Saurfang#Quotes](https://wowpedia.fandom.com/wiki/Deathbringer_Saurfang#Quotes "Deathbringer Saurfang")
+11.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-11) [The Battle For The Undercity - Notes](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Horde)#Notes "The Battle For The Undercity (Horde)"), **Thrall says:** It's good to have you back, Varok, old friend. I'm sorry about your boy.
+12.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-12) [BlizzCon 2017](https://wowpedia.fandom.com/wiki/BlizzCon_2017 "BlizzCon 2017"), _World of Warcraft | What's New_
+13.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-A_Good_War_3-4_13-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-A_Good_War_3-4_13-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-A_Good_War_3-4_13-2">c</a></sup> _[A Good War](https://wowpedia.fandom.com/wiki/A_Good_War "A Good War")_, pg. 3 - 4
+14.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-14) [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen"), Quests & Lore Panel, [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010")
+15.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-15) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, pg. 4
+16.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-16) [Richard Knaak Q&A about Thura's parentage](https://wowpedia.fandom.com/wiki/Thura#Parentage "Thura")
+17.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-17) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 83
+18.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-18) [Deathbringer Saurfang - Quotes](https://wowpedia.fandom.com/wiki/Deathbringer_Saurfang#Quotes "Deathbringer Saurfang"), **High Overlord Saurfang says:** I made a promise to his mother before she died: that I would cross the Dark Portal alone
+19.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Ask_CDev_19-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Ask_CDev_19-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Ask_CDev_19-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-Ask_CDev_19-3">d</a></sup> [Ask CDev Answers - Round 1](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_1 "Ask CDev")
+20.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-20) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 160
+21.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-21)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[110\] [On The Prowl](https://wowpedia.fandom.com/wiki/On_The_Prowl_(Warchief%27s_Agenda))
+22.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-22) [Saurfang's conversation with Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Varok_Saurfang#Dialogue_with_Garrosh_in_Warsong_Hold)
+23.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-23) [Dranosh Saurfang#Wrath of the Lich King 2](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang#Wrath_of_the_Lich_King_2 "Dranosh Saurfang")
+24.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-24)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-30\] [Foolish Endeavors](https://wowpedia.fandom.com/wiki/Foolish_Endeavors)
+25.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-25)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[74\] [Darkness Stirs](https://wowpedia.fandom.com/wiki/Darkness_Stirs)
+26.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-26)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[74\] [The Battle For The Undercity](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Horde))
+27.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-27) _[Heart of War](https://wowpedia.fandom.com/wiki/Heart_of_War "Heart of War")_
+28.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-28) [http://www.worldofwarcraft.com/info/underdev/3p3/icecrown-raid.xml](http://www.worldofwarcraft.com/info/underdev/3p3/icecrown-raid.xml)
+29.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-29) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 187
+30.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-30) _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_
+31.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-31) [Escalation](https://wowpedia.fandom.com/wiki/Escalation "Escalation")
+32.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-32) _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_
+33.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-33)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[10-45\] [Audience with the Warchief](https://wowpedia.fandom.com/wiki/Audience_with_the_Warchief)
+34.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-The_Warchief_Beckons_34-0)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-45\] [The Warchief Beckons](https://wowpedia.fandom.com/wiki/The_Warchief_Beckons)
+35.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-35)   ![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714 "Alliance") ![](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Ability_warrior_cleave.png/revision/latest/scale-to-width-down/16?cb=20060928010105)[\[Orgrimmar Offensive\]](https://wowpedia.fandom.com/wiki/Orgrimmar_Offensive)
+36.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-36) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 2
+37.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-37) [Epilogue Horde Cinematic](https://www.youtube.com/watch?v=3MQl08qS2r0%7CLegion)
+38.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-38)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[110\] [No Small Mercy](https://wowpedia.fandom.com/wiki/No_Small_Mercy)
+39.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-39) _[A Good War](https://wowpedia.fandom.com/wiki/A_Good_War "A Good War")_
+40.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-quest_40-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-quest_40-1">b</a></sup>  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron_(Horde))
+41.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-41) [What Makes Us Strong](https://wowpedia.fandom.com/wiki/What_Makes_Us_Strong "What Makes Us Strong")
+42.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-42)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron_(Alliance))
+43.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-43)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-60\] [The Stormwind Extraction](https://wowpedia.fandom.com/wiki/The_Stormwind_Extraction)
+44.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-44) _[Lost Honor](https://wowpedia.fandom.com/wiki/Lost_Honor "Lost Honor")_
+45.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-45)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [On Track](https://wowpedia.fandom.com/wiki/On_Track)
+46.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-:0_46-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-:0_46-1">b</a></sup>  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [Corner Crossing](https://wowpedia.fandom.com/wiki/Corner_Crossing)
+47.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-47)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [Grim Tidings](https://wowpedia.fandom.com/wiki/Grim_Tidings)
+48.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-48)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [A Warrior's Death](https://wowpedia.fandom.com/wiki/A_Warrior%27s_Death)
+49.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-49)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [Queen's Favor](https://wowpedia.fandom.com/wiki/Queen%27s_Favor)
+50.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-50) _[Safe Haven](https://wowpedia.fandom.com/wiki/Safe_Haven "Safe Haven")_
+51.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-51)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [Old Allies](https://wowpedia.fandom.com/wiki/Old_Allies)
+52.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-52)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Stay of Execution](https://wowpedia.fandom.com/wiki/Stay_of_Execution)
+53.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-53) [Crossroads - Cinematic (Spoiler)](https://www.youtube.com/watch?v=LEV0jmGFRPk)
+54.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-54) [The Negotiation – Cinematic (Spoiler)](https://www.youtube.com/watch?v=2DjwOglqONg)
+55.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-55)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [This Ain't Mine](https://wowpedia.fandom.com/wiki/This_Ain%27t_Mine)
+56.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-56)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Saving the Siege](https://wowpedia.fandom.com/wiki/Saving_the_Siege)
+57.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-57)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Already Among Us](https://wowpedia.fandom.com/wiki/Already_Among_Us)
+58.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-58)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Strategic Deployment](https://wowpedia.fandom.com/wiki/Strategic_Deployment)
+59.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-59) _[Reckoning](https://wowpedia.fandom.com/wiki/Reckoning "Reckoning")_
+60.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-60) [Hamuul Runetotem#Battle for Azeroth 2](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem#Battle_for_Azeroth_2 "Hamuul Runetotem")
+61.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-61) [Old Soldier (Horde)#Leader dialogue](https://wowpedia.fandom.com/wiki/Old_Soldier_(Horde)#Leader_dialogue "Old Soldier (Horde)")
+62.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-62) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, pg. 53
+63.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-63) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, pg. 78 - 80
+64.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-64) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, pg. 215
+65.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-65) [Its Always Sunny in Stormwind! Ep 17: The One with Madeleine Roux (1:19:15 - 1:19:50)](https://www.warcraftradio.com/its-always-sunny-in-stormwind-ep-17-the-one-with-madeleine-roux/). Warcraft Radio (2020-07-21). Retrieved on 2021-08-27.
+66.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-66) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, pg. 212
+67.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-67) [Anduin Raid Finale](https://wowpedia.fandom.com/wiki/Anduin_Wrynn_(tactics)#Cinematic "Anduin Wrynn (tactics)")
+68.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-68) [Orc - WoW](https://worldofwarcraft.com/en-us/game/races/orc). Retrieved on 2018-10-16.
+69.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-69)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Warrior](https://static.wikia.nocookie.net/wowpedia/images/3/37/Ui-charactercreate-classes_warrior.png/revision/latest/scale-to-width-down/16?cb=20070124145122 "Warrior") \[10-45\] [Secrets of the Axes](https://wowpedia.fandom.com/wiki/Secrets_of_the_Axes)
+70.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-70) [High Overlord Saurfang in the TCG](https://wowpedia.fandom.com/wiki/File:High_Overlord_Saurfang.JPG "File:High Overlord Saurfang.JPG")
+71.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-71) [Assault on Ahn'Qiraj](https://wowpedia.fandom.com/wiki/File:Assault_on_Ahn%27Qiraj.jpg "File:Assault on Ahn'Qiraj.jpg")
+72.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-72) [Wowhead comment from 2006](https://i.imgur.com/W6Jllo7.jpg)
+73.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-73) [World of Warcraft: Wrath of the Lich King](http://www.lowmoan.com/ashearman/voice.html)
+74.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-74) [World of Warcraft: Mists of Pandaria](http://www.lowmoan.com/ashearman/voice.html)
+75.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-75) [World of Warcraft: Legion](http://www.lowmoan.com/ashearman/voice.html)
+76.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-76) [Andrea Toyias on Twitter](https://twitter.com/AndreaToyias/status/1025313215310311431) (2018-08-03). Retrieved on 2018-10-16.
+77.  [^](https://wowpedia.fandom.com/wiki/Varok_Saurfang#cite_ref-77)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) ![Warrior](https://static.wikia.nocookie.net/wowpedia/images/3/37/Ui-charactercreate-classes_warrior.png/revision/latest/scale-to-width-down/16?cb=20070124145122 "Warrior") \[90\] [Saurfang, Warrior](https://wowpedia.fandom.com/wiki/Saurfang,_Warrior)
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Saurfang#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Saurfang#t1:npcs)
+
+![WowInsider](https://static.wikia.nocookie.net/wowpedia/images/b/b1/ElinkIcon-wowinsider.png/revision/latest?cb=20080120194737 "WowInsider") [WowInsider](http://www.wowinsider.com/2008/08/28/know-your-lore-high-overlord-saurfang/) Know Your Lore: High Overlord Saurfang
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
+-   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+| Expand 
+Leadership
+
+ |
+| --- |
+
+ |
+|  |
+| 
+
+| Expand 
+Characters
+
+ |
+| --- |
+
+ |
+|  |
+| 
+
+| Expand 
+Races
+
+ |
+| --- |
+
+ |
+|  |
+| 
+
+| Expand 
+Cities and towns
+
+ |
+| --- |
+
+ |
+|  |
+| 
+
+| Expand 
+[Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+
+
+
+ |
+| --- |
+
+ |
+|  |
+| 
+
+-   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
+-   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")
+-   [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)")
+-   [Horde organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+-   [Horde technology](https://wowpedia.fandom.com/wiki/Horde_technology "Horde technology")
+-   [Horde territories](https://wowpedia.fandom.com/wiki/Category:Horde_territories "Category:Horde territories")
+
+
+
+ |

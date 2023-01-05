@@ -1,0 +1,88 @@
+_This article is about Azshara's palace in pre-[Sundering](https://wowpedia.fandom.com/wiki/Sundering "Sundering") [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"). For the raid in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"), see [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Well_of_Eternity_-_Elves_3.jpg/revision/latest/scale-to-width-down/180?cb=20110923181028)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Well_of_Eternity_-_Elves_3.jpg/revision/latest?cb=20110923181028)
+
+The palace as depicted in the [Well of Eternity dungeon](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)").
+
+[![Well of Eternity - Palace 1.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Well_of_Eternity_-_Palace_1.jpg/revision/latest/scale-to-width-down/180?cb=20110923181444)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Well_of_Eternity_-_Palace_1.jpg/revision/latest?cb=20110923181444)
+
+**Azshara's Palace** was the palace of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara").<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-1">[1]</a></sup> Azshara, the night elves' beautiful and gifted queen, built an immense, wondrous palace on the Well of Eternity's shore that housed her favored servitors within its bejeweled halls.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-2">[2]</a></sup>
+
+The palace was located in the capital of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"), and was built on the very shore of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") itself, the source of power and efficacy for the Kaldorei race. The palace served as the residence for both the queen and her closest followers - the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") - who collectively presided over and ruled the empire. During the later years of the empire, just before and during the infamous [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the palace became home to a large host of [demonic invaders](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") as powerful spell-work was conducted within its walls to summon the demon lord [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") and his legion to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). At the war's violent conclusion, the palace, the city, and the entire continent, were torn apart by the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), with the palace itself sinking beneath the waves.
+
+## Description
+
+The palace rested on a cliff overlooking the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). When first the vast, walled edifice had been constructed, using magic that melded both stone and forest into a single, cohesive form, it had been a wonder to touch the heart of any who saw it. Its towers were trees strengthened by rock, with jutting spires and high, open windows. The walls were volcanic stone raised up, then bound tightly by draping vines and giant roots. The main palace at the center had originally by the mystical binding of more than a hundred giant, ancient trees. Bent in together, they had formed the skeleton of the rounded center, over which the stone and vines had been set.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-3">[3]</a></sup>
+
+In the highest tower, [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius") and the other Highborne studied the powers of the Well of Eternity.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-4">[4]</a></sup> That tower was destroyed by Malfurion, temporarily closing the Burning Legion's portal.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-5">[5]</a></sup>
+
+## World of Warcraft
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Xavius%27_tower.jpg/revision/latest/scale-to-width-down/180?cb=20151217195218)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Xavius%27_tower.jpg/revision/latest?cb=20151217195218)
+
+The tower that Malfurion destroyed.
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Azshara's Palace features prominently in the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") instance. The [Courtyard of Lights](https://wowpedia.fandom.com/wiki/Courtyard_of_Lights "Courtyard of Lights") surrounds it. Its design somewhat resembles the [Temple of the Moon](https://wowpedia.fandom.com/wiki/Temple_of_the_Moon "Temple of the Moon") in [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus"). A glass walkway goes around it towards a platform where [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara_(tactics) "Queen Azshara (tactics)"), and the highborne who are casting the spell to summon Sargeras, can be fought. It contains several inaccessible sections, both inside and out.
+
+## Notes
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+-   It was destroyed in the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), but Queen Azshara ordered a palace built in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") to rival her old home.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-6">[6]</a></sup>
+-   Though it had a prominent role in the [War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy"), the palace was never given a proper name. Instead, it was usually just called "the palace", or the like. _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_ calls it the "Eternal Palace".<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-7">[7]</a></sup>
+    -   While not directly referenced in the Caverns of Time version, [Eternal Champions](https://wowpedia.fandom.com/wiki/Eternal_Champion "Eternal Champion") guard the palace, and Azshara refers to the "Eternal Court" in her boss fight, possibly referencing the RPG name. "Eternal" is obviously derived from the Well of Eternity.
+    -   The name would later be used for her new palace in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"), the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace").
+-   While the War of the Ancients Trilogy described the palace as being in [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"), _Shadows & Light_ describes it as being in [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"). This point is an error, but the cities (or their outskirts) may have connected, as the cities shared the [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune "Temple of Elune") and Zin-Azshari reached to [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara").
+-   Both the [History of Warcraft](https://wowpedia.fandom.com/wiki/History_of_Warcraft "History of Warcraft") (found in the Warcraft III manual, in-game, and on the official site), and _Shadows & Light_ also call the palace the alternate name of Azshara's temple<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-8">[8]</a></sup>/the Eternal Temple.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_note-9">[9]</a></sup> The reasoning for the shift in the name in both sources from palace to temple is unknown. The War of the Ancients Trilogy does not appear to use this name.
+
+## Patch changes
+
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.3.0](https://wowpedia.fandom.com/wiki/Patch_4.3.0 "Patch 4.3.0") (2011-11-29):** Added.  
+    
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-1) [Patch 4.3 Dungeons Preview, Part Two: Well of Eternity - World of Warcraft](http://us.battle.net/wow/en/blog/3502666/Patch_43_Dungeons_Preview%2C_Part_Two_Well_of_Eternity-9_19_2011#blog)
+2.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-2) [The Waking World and the Well of Eternity](https://wowpedia.fandom.com/wiki/The_Waking_World_and_the_Well_of_Eternity "The Waking World and the Well of Eternity")
+3.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-3) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 1
+4.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-4) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 2, 88
+5.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-5) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 357 - 358
+6.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-6) _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 72 - 73
+7.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-7) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 64, 65, 75, 169
+8.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-8) [The War of the Ancients](https://wowpedia.fandom.com/wiki/The_War_of_the_Ancients "The War of the Ancients")
+9.  [^](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace#cite_ref-9) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 65
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/zone=5995)
+-   [WoWDB](https://www.wowdb.com/zones/5995)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Well_of_Eternity_Subzones "Template:Well of Eternity Subzones")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Well_of_Eternity_Subzones?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+-   **Azshara's Palace**
+-   [Courtyard of Lights](https://wowpedia.fandom.com/wiki/Courtyard_of_Lights "Courtyard of Lights")
+-   [Shores of the Well](https://wowpedia.fandom.com/wiki/Shores_of_the_Well "Shores of the Well")
+-   [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity")
+
+
+
+ | 
+
+[![Well of Eternity](https://static.wikia.nocookie.net/wowpedia/images/a/a1/WorldMap-WellOfEternity.jpg/revision/latest/scale-to-width-down/120?cb=20190810124109)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/WorldMap-WellOfEternity.jpg/revision/latest?cb=20190810124109 "Well of Eternity")
+
+ |
+
+Others like you also viewed

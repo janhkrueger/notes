@@ -1,0 +1,985 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Alexstrasza |
+| --- |
+| 
+-   [Dragon](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+    
+-   [Visage](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+    
+
+[![Dragonflight Cinematic Render Alexstrasza.png](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Dragonflight_Cinematic_Render_Alexstrasza.png/revision/latest/scale-to-width-down/200?cb=20221118070552)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Dragonflight_Cinematic_Render_Alexstrasza.png/revision/latest?cb=20221118070552)
+
+[![Dragonflight Leader Alexstrasza.png](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Dragonflight_Leader_Alexstrasza.png/revision/latest/scale-to-width-down/200?cb=20221118071238)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Dragonflight_Leader_Alexstrasza.png/revision/latest?cb=20221118071238)
+
+
+
+ |
+| Title | Dragon Queen (or Dragonqueen),  
+Queen of the Dragons,  
+Life-Binder,  
+Aspect of Life,  
+Queen Of Life,  
+Red Aspect,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-1">[1]</a></sup>  
+Life-Giver,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-2">[2]</a></sup>  
+She Who Is Life,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-3">[3]</a></sup>  
+"The Red Leviathan",<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-4">[4]</a></sup>  
+Scarlet Broodmother<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-5">[5]</a></sup> |
+| Gender | Female |
+| Race(s) | [Red dragon](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon") / [Wyrm](https://wowpedia.fandom.com/wiki/Wyrm "Wyrm") (Dragonkin) |
+| Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord") |
+| Former affiliation(s) | [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") |
+| Occupation | Queen of dragons, Leader of the red dragonflight |
+| Former occupation(s) | Aspect of the red dragonflight, Guardian of life on Azeroth |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Alexstrasza#Locations) |
+| Status | Alive |
+| Relative(s) | [Tyranastrasz](https://wowpedia.fandom.com/wiki/Tyranastrasz "Tyranastrasz") (first former prime consort), [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") (second former prime consort), [Caelestrasz](https://wowpedia.fandom.com/wiki/Caelestrasz "Caelestrasz"), [Vaelastrasz](https://wowpedia.fandom.com/wiki/Vaelastrasz "Vaelastrasz") (sons), [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") (sister), [Dralad](https://wowpedia.fandom.com/wiki/Dralad "Dralad") (brother), [Merithra](https://wowpedia.fandom.com/wiki/Merithra "Merithra") (niece),  
+numerous other draconic children |
+| Companion(s) | [Handmaidens](https://wowpedia.fandom.com/wiki/Life-Binder%27s_Handmaiden "Life-Binder's Handmaiden") |
+
+“Life is my Aspect, Dark One, and I, like all mothers, know both the pain and wonders that entails! For the past several years, I have watched my children be raised as instruments of war, slaughtered if they proved insufficient or too willful! I have lived knowing that so many died that I could do nothing for!”
+
+— Alexstrasza
+
+**Alexstrasza** the Life-Binder, [Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") of the [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), is the guardian of all life in the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). She was one of five great dragons chosen by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") to be empowered with a portion of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")'s power and rule over her flight while they watched over Azeroth and its inhabitants. The titans also appointed her queen of all dragons.
+
+Today, Alexstrasza resides at the top of the [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") in the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight"), a place considered a holy ground for the [dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight"). No longer content to simply watch over the mortal races, the Dragonqueen took action in bringing the dragonflights together to battle the then-hostile [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") and its [Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects"), [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), as well as the looming threat of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").
+
+With the rise of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") during _[World of Warcraft: Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_, Alexstrasza took a very active role in defending Azeroth against the Aspect of Death, eventually ordering her entire dragonflight to war against the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"). Alexstrasza, along with her fellow Aspects, gave their all to stop Deathwing [once and for all,](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") but lost much of their power in the process.
+
+She has now passed on her legacy to the mortals of the world.<sup id="cite_ref-UVG_6-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-UVG-6">[6]</a></sup> Her humanoid form is that of a [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf").<sup id="cite_ref-Before_the_Storm_7-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-Before_the_Storm-7">[7]</a></sup>
+
+## Biography
+
+### [Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects") (past)
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/90/Legacies_Alexstrasza_proto-dragon.jpg/revision/latest/scale-to-width-down/180?cb=20221227165140)](https://static.wikia.nocookie.net/wowpedia/images/9/90/Legacies_Alexstrasza_proto-dragon.jpg/revision/latest?cb=20221227165140)
+
+Alexstrasza when she was a [proto-dragon](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon"), as seen in _[Legacies](https://wowpedia.fandom.com/wiki/Legacies "Legacies")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/62/Legacies_Proto-dragons_Ysera_Alexstrasza.jpg/revision/latest/scale-to-width-down/180?cb=20221227161117)](https://static.wikia.nocookie.net/wowpedia/images/6/62/Legacies_Proto-dragons_Ysera_Alexstrasza.jpg/revision/latest?cb=20221227161117)
+
+Alexstrasza and her sister [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera"), protecting eggs from a proto-dragon.
+
+In [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s ancient past, the Dragon Aspects were [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") who stood united against a foe who threatened their entire species: the bloodthirsty Father of Dragons, [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-8">[8]</a></sup>
+
+Alexstrasza, her brother [Dralad](https://wowpedia.fandom.com/wiki/Dralad "Dralad"), and her younger sister [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") were the only three survivors of their clutch. Ysera was sick and smaller than average, and Alexstrasza watched out for her.
+
+Alexstrasza was one of the more intelligent of proto-dragons, capable of broken speech unlike most of the other, more animal-like of her kind. When one of her clutch brothers went missing, Alexstrasza searched to find him and met with [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"). The two were attacked by a savage gray proto-dragon, and though they fought it off Alexstrasza noted that it was frightened of something. Alexstrasza and Malygos would later find her brother, though he was a shriveled husk of flesh and bone.
+
+Some time later, dozens of proto-dragons hunted caribou, Alexstrasza and Ysera included. While Alexstrasza would offer Ysera her kills, Ysera declined. Ysera approached Malygos to ask him about her brother's corpse, which Malygos had found alongside Alexstrasza. She said that there was another corpse she and Alexstrasza had found, though Alexstrasza reprimanded her, saying they had agreed not to speak of that. The two argued, but they were interrupted by the sudden appearance of Galakrond. After the gigantic terror had flown away, a confident grey proto-dragon named [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") taunted them all for being afraid.
+
+Ysera and Alexstrasza would later come across the shriveled up corpses of two proto-dragons, including Malygos's old companion [Tarys](https://wowpedia.fandom.com/wiki/Tarys "Tarys"). A small and terrified purple proto-dragon insisted that Galakrond had devoured the dead dragons, which matched theories Malygos had expressed to the two sisters. They went to fetch Malygos so he could meet the purple dragon. After his arrival, the corpses stirred and attacked as undead. Alexstrasza, Malygos, and Ysera tore them apart.
+
+Like the other proto-dragons Alexstrasza would gather under the command of [Talonixa](https://wowpedia.fandom.com/wiki/Talonixa "Talonixa"). While her sister believed that peace could made with Galakrond and the [not-living](https://wowpedia.fandom.com/wiki/Not-living "Not-living"). Alexstrasza knew that fighting was the only option, however, she vowed to not fight like Talonixa. When Ysera was given a chance to speak her idea of peace, Alexstrasza was worried about Talonixa's reaction. Alexstrasza became outraged that [Coros](https://wowpedia.fandom.com/wiki/Coros "Coros"), who encouraged Ysera, did not stand with her. While seemingly supporting her, Malygos later learned that Coros used the meeting as a distraction so that he could join up Galakrond unnoticed following its conclusion in which Talonixa swayed the other proto-dragons to her side on fighting Galakrond.
+
+Witnessing Coros's betrayal and subsequent devouring by Galakrond, Malygos would return to the others only to find Ysera and Talonixa in conflict over the fate of the bitten proto-dragons who had begun to act like Galakrond. Alexstrasza found herself agreeing with Talonixa over the issue. Seeming to agree with Ysera's desire for them to still live, Talonixa decreed that the bitten would have to be quarantined for the safety of everyone else. Alexstrasza watched the bitten dragons be herded into a canyon. She was shocked to see Talonixa collapse it and killing all those trapped inside.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Legacies_Chapter_1.jpg/revision/latest/scale-to-width-down/180?cb=20221118070145)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Legacies_Chapter_1.jpg/revision/latest?cb=20221118070145)
+
+The [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects"), before they were blessed by the [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), facing [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond").
+
+Alexstrasza would then later save her sister from Galakrond, after Ysera tried to plead peace even as the proto-dragon army fought the not-living. As Galakrond began to fight the proto-dragon army, the Watcher [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") used one of the not-living to catch the sister's attention.
+
+Some time after, Malygos found his way to the three of them, and Ysera attacked him when he tried to kill the bound undead proto-dragon. As Tyr spoke with Malygos, Ysera freed the undead proto-dragon in order to make it see reason, an action which could have killed her if not for Malygos's timely intervention. After destroying the undead Malygos briefly succumbed to the hunger for flesh, but Ysera was able to recall him to his senses and Malygos was then cured by Tyr. Tyr then proposed hunting Galakrond and decided to stand by the proto-dragons this time, revealing a war hammer from beneath his cloak. Lastly, he pulled out an octagonal artifact, moving it to the three proto-dragons as it glowed, with the promise that he was "trying to ensure some future."
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest/scale-to-width-down/180?cb=20220228210748)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest?cb=20220228210748)
+
+The future Aspects fighting against Galakrond.
+
+Alexstrasza would witness Galakrond returning outside the cavern, chasing Neltharion and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"). Malygos and Tyr moved to the entrance to witness their battle, and Tyr was overjoyed at the proto-dragons' coordination. Alexstrasza, Malygos and a now full-sized Tyr joined in the battle. Temporarily stunning Galakrond with his hammer, Tyr ordered the proto-dragons to flee as he stayed to battle the monster.
+
+An unknown time later, Tyr met with the five proto-dragons, informing them that Galakrond was sleeping in a mountain range to the north and that it was the perfect time to attack. He told them to eat before doing so, and just before they left Tyr held the octagonal artifact before Nozdormu and Neltharion as he had to the others before. After doing so, Tyr vanished in the blink of an eye.
+
+Tyr and the proto-dragons met up near Galakrond's slumbering place, which [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") would later note in his visions was nowhere near [Galakrond's Rest](https://wowpedia.fandom.com/wiki/Galakrond%27s_Rest "Galakrond's Rest"). Save for Ysera, they all began the battle against Galakrond, who had grown larger and even more mutated than before. Throughout the battle, the octagonal object on Tyr's belt glowed ever brighter. When Galakrond suddenly expanded in size without warning, Tyr's hammer could no longer harm him. With a flap of wings, Galakrond called up a massive wind that scattered the fighters. Ysera suddenly appeared and Galakrond attempted to devour her, but Tyr silenced his laughter with a mighty blow from his hammer. Tyr pulled Galakrond to the ground and began to mercilessly beat him even as Galakrond began mutating further - as he began to resemble a true dragon.
+
+In the battle, Tyr's hammer and the strange artifact were knocked free from his person. Tyr reached to grab the artifact, just as Galakrond's massive maw came within range and the monster clamped down on Tyr's hand. Malygos moved to save Tyr, examining the bloody stump as Galakrond roared in triumph and grew ever larger. An unconscious Tyr was brought to a frozen lake by the proto-dragons, only to vanish from the shore. After being attacked by two not-living Alexstrasza and the others found they could not find Tyr where they left him, concluding that some beast must have taken him for food.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Legacies_Proto-dragons_becoming_Aspects.jpg/revision/latest/scale-to-width-down/180?cb=20221227161111)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Legacies_Proto-dragons_becoming_Aspects.jpg/revision/latest?cb=20221227161111)
+
+Alexstrasza becoming the first dragon of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Legacies_Alexstrasza_Dragon.jpg/revision/latest/scale-to-width-down/180?cb=20221227214207)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Legacies_Alexstrasza_Dragon.jpg/revision/latest?cb=20221227214207)
+
+Alexstrasza the Dragon Queen.
+
+After recuperating Alexstrasza and the others decide to hunt down Galakrond in order to kill him once and for all or die trying. It was during this time that Malygos feeling burdened by leadership role cast upon him gave it to Alexstrasza, after she took charge in response to his unvoiced question. Alexstrasza, along with the others would be stunned to learn that Galakrond had begun to devour the not-living in order to feed his hunger and shortly after would engage in battle with the behemoth. During the battle, Galakrond would ultimately be killed after Malygos and Neltharion forced a boulder down his throat.
+
+After killing Galakrond Alexstrasza and the others were approached by two other watchers, who revealed that they had taken Tyr to help him. Agreeing to protect Azeroth with her friends the two watchers were joined by two others and the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") acted through the [keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") to transform Alexstrasza and the others into the Dragon Aspects. [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya") channeled the powers of [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar") into Alexstrasza, making her the warden of life. Since she had led the proto-dragons in the last assault against Galakrond, Alexstrasza was made the Dragonqueen.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-9">[9]</a></sup> One of the Aspects first actions was to encourage the rumor that they had been formed from Galakrond. This was done to prevent the truth about Galakrond from leaking to ensure no one would follow in the behemoth's footsteps.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-10">[10]</a></sup>
+
+### The Winterskorn War
+
+When fallen [Keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper") [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") instigated the [Winterskorn War](https://wowpedia.fandom.com/wiki/Winterskorn_War "Winterskorn War"), fought between the [Winterskorn](https://wowpedia.fandom.com/wiki/Winterskorn "Winterskorn") [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") and the [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen"), [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") and his allies fought on the earthen's side. However, when Tyr realized that they could not win against the [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan") alone he called upon the Dragon Aspects for aid. The noble Aspects grew enraged upon seeing so many dead [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged"). Their fury only deepened when they learned that proto-dragons had been enslaved. Without hesitation, the Aspects took wing and unleashed their powers on the Winterskorn's iron ranks.
+
+Much as they had done in the fight against [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond"), the aspects worked in unison to overwhelm and the vrykul army. Alexstrasza held the Winterskorn at bay with towering walls of enchanted fire. [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") drained the magical essence that fueled the constructs and golems, rendering them useless. He also shattered the enchanted snares that bound the proto-dragons and set the beasts free. [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") raised mountains from the earth to corral and contain the vrykul and their giant masters. Lastly, [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") combined their powers to create a spell that would bring a decisive end to the conflict.
+
+Ysera and Nozdormu enveloped the Winterskorn in a cloying mist that caused them the titan-forged to fall asleep. These incapacitated creatures were then locked away in tombs cities across northern [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). They would not know the peaceful slumber of the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). Rather, they would languish in a timeless, unconscious slumber for thousands upon thousands of years.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-11">[11]</a></sup>
+
+### War of the Ancients
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Legacies_Demon_Soul_2.jpg/revision/latest/scale-to-width-down/180?cb=20221227025643)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Legacies_Demon_Soul_2.jpg/revision/latest?cb=20221227025643)
+
+Alexstrasza and the dragonflights empowering the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul").
+
+Alexstrasza was one of the three dragon aspects that fought the demons of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). It was also in that war that the black dragon [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") deceived his fellow Aspects, using the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") (also now known as the Demon Soul) to steal a portion of their power. After the War of the Ancients ended, when [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan"), brother of [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), emptied three vials of water from the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") over the river of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), Alexstrasza, along with [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), decided to use the Well as a tool to heal the war-ravaged land by placing a magical acorn from [G'Hanir](https://wowpedia.fandom.com/wiki/G%27Hanir "G'Hanir"), the Mother Tree, into the new Well of Hyjal. The tree that grew from this acorn was proclaimed the original [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") of Azeroth, and is named [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil").
+
+### Later activity
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Chronicle_Nordrassil_blessing.jpg/revision/latest/scale-to-width-down/180?cb=20160219184440)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Chronicle_Nordrassil_blessing.jpg/revision/latest?cb=20160219184440)
+
+Alexstrasza, Ysera, and Nozdormu blessing Nordrassil.
+
+For some time after, she and her fellow red dragons were at peace, but over time they began to argue about how best to shelter and protect the world. The rise to power of [humans](https://wowpedia.fandom.com/wiki/Human "Human") and other races left many believing that these new people were dangerous and should be destroyed, while others of Alexstrasza's ilk felt they should be educated to teach them right from wrong.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
+
+At some point, the blade [Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar") was handed to the [high elven](https://wowpedia.fandom.com/wiki/High_elven "High elven") king [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider") personally by Alexstrasza the Life-Binder.
+
+Alexstrasza officiated the [Visage Day](https://wowpedia.fandom.com/wiki/Visage_Day "Visage Day")—the ceremony in which a dragon decides what their mortal form will be—for the [bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu"). Chronormu almost fainted on the spot when he heard that the queen would be attending. When she arrived to the ceremony atop [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"), she kindly told him in private that she could postpone the ceremony if he liked since she'd heard that he'd had doubts about his choice of form, but he replied that he was ready. After it was revealed that Chronormu had chosen the form of the female [gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome") Chromie, Alexstrasza warmly smiled at her and said that it was good to meet her.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-12">[12]</a></sup>
+
+[Dahlia Suntouch](https://wowpedia.fandom.com/wiki/Dahlia_Suntouch "Dahlia Suntouch") offered herself to Alexstrasza and became a keeper of the [Ruby Dragonshrine](https://wowpedia.fandom.com/wiki/Ruby_Dragonshrine "Ruby Dragonshrine").<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-13">[13]</a></sup>
+
+823 [BDP](https://wowpedia.fandom.com/wiki/BDP "BDP"), Alexstrasza was approached by [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") to join forces against a group of [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Led by Alexstrasza, the dragons and the Guardian fought against the Legion in [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-14">[14]</a></sup>
+
+### Tides of Darkness
+
+Ten thousand years later during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher"), an [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") of the [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan"), was given the Dragon Soul by his Warchief [Zuluhed](https://wowpedia.fandom.com/wiki/Zuluhed "Zuluhed") after [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") led them to its resting place in the [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains"). Far from the mountains, Alexstrasza sensed the wards around the artifact breaking and grew concerned when she heard no word from its guardian [Orastrasz](https://wowpedia.fandom.com/wiki/Orastrasz "Orastrasz"). She and several of her red dragons hurried south, though she believed that some mortal had found the disc and Orastrasz was currently hunting for it and that it would be easy to help him retrieve. In truth, they were heading right into Deathwing's trap.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-15">[15]</a></sup>
+
+Using the awesome power of this ancient artifact, Nekros and the Dragonmaw orcs captured Alexstrasza and her consorts, including her eldest consort [Tyranastrasz](https://wowpedia.fandom.com/wiki/Tyranastrasz "Tyranastrasz"). Nekros was but one orc and so could only focus on Alexstrasza, but the other dragons were kept in line by him lashing out at the Life-Binder with the Dragon Soul's power whenever they tried to save her. Alexstrasza was brought to [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol"), where she was forced to lay eggs. The adult dragons were used as powerful war mounts, while the eggs would be raised as loyal [whelps](https://wowpedia.fandom.com/wiki/Dragon_whelp "Dragon whelp").<sup id="cite_ref-Chronicle155-156_16-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-Chronicle155-156-16">[16]</a></sup> As she was magically kept in a constant state of weakness and pain and bound by mighty chains of [adamantine](https://wowpedia.fandom.com/wiki/Adamantine "Adamantine") steel,<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-17">[17]</a></sup> Alexstrasza had no choice but to succumb to this terrible slavery, lest her unborn clutches be slain at the hand of her cruel captor. As the aspect of life, this caused Alexstrasza pain as it could no one else, and she cried for the deaths of her children and the deaths they caused.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-18">[18]</a></sup>
+
+From afar, Deathwing rejoiced in Alexstrasza's imprisonment. He continued to subtly advise Nekros on how best to use the Demon Soul to control the red dragons. Not only would making the Horde stronger help his plan to restore the black dragonflight, but he also knew that seeing her children be used as tools for war would make Alexstrasza's heart suffer. And Deathwing would relish every moment of Alexstrasza's torment.<sup id="cite_ref-Chronicle155-156_16-1"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-Chronicle155-156-16">[16]</a></sup>
+
+### Battle of Grim Batol
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Chronicle3_Alexstrasza.jpg/revision/latest/scale-to-width-down/180?cb=20180806225234)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Chronicle3_Alexstrasza.jpg/revision/latest?cb=20180806225234)
+
+Alexstrasza breaks free of Nekros.
+
+After the Second War ended, Alexstrasza became more valuable to the Horde than ever, as a consummation of Horde military power. Thus she was to be protected at all costs. However, [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), ancient traitor to Alexstrasza and her most hated enemy, who had partly arranged for her continued subjugation during the Second War, arranged an elaborate plot to draw her into the open and steal her children in the hopes of generating his own progeny. His plan, however, unwittingly facilitated her escape.
+
+As the orcs began moving their captive dragons away from the fortress of [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol") in an attempt to safeguard their slaves from the reach of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), the caravan was attacked by Deathwing. During the battle that followed, Tyranastrasz was slain by the black wyrm, but the ancient Dragonqueen was set free and the first thing she did was to swallow her evil captor Nekros whole and to reclaim her children from the grip of the Horde. With the help of her former mate [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"), Alexstrasza then rejoined the remaining Aspects [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), and [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera"). The human mage, [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), destroyed the Demon Soul, releasing their powers and enabling them to drive Deathwing into hiding. Though Neltharion ultimately escaped the wrath of the other Aspects, the ravaged orc caravan still remains in the [Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands") swamps. Her fire-breathing children returned to their posts as protectors of all life and worked to rebuild their devastated race.
+
+### Forgotten oaths
+
+For ten thousand years, Deathwing's fellow Dragon Aspects had lived without the full measure of their power, and the sudden return of their strength was physically and mentally exhausting. Needing to recover from this and her traumatic ordeal under the Dragonmaw, Alexstrasza and her flight sequestered themselves away to heal, both physically and emotionally.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-19">[19]</a></sup> As such, even as her consorts and children continued to have their impact on Azeroth, Alexstrasza's whereabouts were unknown to most, though [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") seemed to know where she resided at the time.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-20">[20]</a></sup> The Dragon Aspects had no real involvement in the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), but in its aftermath, the new [Archdruid](https://wowpedia.fandom.com/wiki/Archdruid "Archdruid") [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") asked her to bless the new [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree"), [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"). The Dragonqueen refused.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-21">[21]</a></sup>
+
+### The Nexus War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Alexstrasza_Dragon.jpg/revision/latest/scale-to-width-down/180?cb=20220424170154)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Alexstrasza_Dragon.jpg/revision/latest?cb=20220424170154)
+
+Alexstrasza in WoW.
+
+The Dragonqueen traveled to [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") in Northrend, where she called upon the members of the [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord") to play their part against the blue dragons in the [Nexus War](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War"). Malygos has declared war on all mortal spellcasters, especially the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). The red dragonflight is allying with the mortals against Malygos' crusade, partly because of a promise made by Alexstrasza to Rhonin after being freed from the Dragonmaw clan, that neither she nor her flight would harm the races of the rescuers. Alexstrasza is the head of the [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord"), the united effort of the dragonflights against Malygos' crusade.
+
+Alexstrasza appears normally on the top tier of the [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") in [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") in a form resembling an unnaturally tall (nearly twice as tall as [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") player characters) female [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") with pink skin, amber eyes, and horns. Alexstrasza also appears in her draconic form at [Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Angrathar_the_Wrathgate "Angrathar the Wrathgate") after the completion of  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[15-30\] [Return To Angrathar](https://wowpedia.fandom.com/wiki/Return_To_Angrathar) (where she will replay the [cutscene depicting the battle there](https://wowpedia.fandom.com/wiki/Battle_of_Angrathar_the_Wrathgate "Battle of Angrathar the Wrathgate") at the players' request) and in the [Eye of Eternity](https://wowpedia.fandom.com/wiki/Eye_of_Eternity "Eye of Eternity") raid in the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus"), where she and her children will aid players in slaying the Spell-Weaver.
+
+Alexstrasza was also visited by [Kekek](https://wowpedia.fandom.com/wiki/Kekek "Kekek") and [Roo](https://wowpedia.fandom.com/wiki/Roo "Roo") during the Children's Week. They wanted to see her in her dragon form, but she told them that there would be no space.
+
+#### Ulduar
+
+During the battle against [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics) "Yogg-Saron (tactics)") in [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)"), Alexstrasza appears in her elf form, along with the other [Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects"), during a flashback of the creation of the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"), ten thousand years earlier.
+
+### Stormrage
+
+When Azeroth was attacked by the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"), Alexstrasza ventured into [Bough Shadow](https://wowpedia.fandom.com/wiki/Bough_Shadow "Bough Shadow"), where she rescued [Broll Bearmantle](https://wowpedia.fandom.com/wiki/Broll_Bearmantle "Broll Bearmantle"), [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), and [Eranikus](https://wowpedia.fandom.com/wiki/Eranikus "Eranikus") from being attacked by [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon") and [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss"). Alexstrasza then convinced Eranikus to join the mortals in the Emerald Dream to search for [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") by saying that Ysera understood him and his motive for seeking isolation. When the [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle") purged [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil") of its corruption, she sensed its purity and blessed the World Tree so it may become the haven for nature it was meant to be. She then accompanied Malfurion to [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus"), where he found Fandral's secret portal to the Emerald Dream. During the [War Against the Nightmare](https://wowpedia.fandom.com/wiki/War_Against_the_Nightmare "War Against the Nightmare"), Alexstrasza stayed there defending the portal while druids were battling in the Emerald Dream.
+
+Around that time, Tyrande, [Lucan](https://wowpedia.fandom.com/wiki/Lucan_Foxblood "Lucan Foxblood"), and [Thura](https://wowpedia.fandom.com/wiki/Thura "Thura") became prisoners of the [Nightmare Lord](https://wowpedia.fandom.com/wiki/Xavius "Xavius"), who created a false vision of a captured Alexstrasza in order to break their hope.
+
+Following the conflict's conclusion, she, along with her sister Ysera, blessed the new World Tree [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil") and presided over the marriage ceremony of the Archdruid [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-22">[22]</a></sup>
+
+### The Battle of Life and Death
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+In the [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands"), Alexstrasza confronted Deathwing. After several minutes of battle, Deathwing and Alexstrasza fell towards the ground, clutched in each other's claws. Alexstrasza, exhausted and gravely injured, was found laying on the ground in her humanoid form, while Deathwing fell out of sight beyond the crest of the mountain. [Calen](https://wowpedia.fandom.com/wiki/Calen "Calen") (who likewise took elven form), an [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") and the adventurer's [drake](https://wowpedia.fandom.com/wiki/Drake "Drake") raced to the dragon queen's side. Her voice wavered as she explained that the Earth Warder was dead. Like a phantom, the gigantic form of Deathwing rose up behind them. Calen exclaimed "he lives!" and the wounded Alexstrasza forced herself to sit up, stating that it was "impossible" for Deathwing to have survived the wounds she dealt him. Deathwing set the ground at his feet aflame and glowered over the group. Calen moved to put himself between his queen and Deathwing, while the adventurer threw Alexstrasza's body over their mount's back and took her to safety, despite her protests. Calen took his true form again, but he was completely dwarfed by the Black Aspect. Realizing he stood no chance of defeating Deathwing, Calen darted back and forth, shooting fireballs, in an effort to distract him while Alexstrasza escaped. He later stated that this was a partial victory, as Deathwing was gravely wounded and would need to go into hiding to recuperate. Alexstrasza was moved to Wyrmrest to recuperate.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-23">[23]</a></sup>
+
+-   [](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Alexstrasza_TCG2.JPG/revision/latest?cb=20210328014759)
+    
+    Alexstrasza in Twilight Highlands.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Battle_of_Life_and_Death.jpg/revision/latest/scale-to-width-down/120?cb=20210328013748)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Battle_of_Life_and_Death.jpg/revision/latest?cb=20210328013748)
+    
+    Alexstrasza faces Deathwing.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/41/Alexstrasza_vs_Deathwing.jpg/revision/latest/scale-to-width-down/120?cb=20110412195106)](https://static.wikia.nocookie.net/wowpedia/images/4/41/Alexstrasza_vs_Deathwing.jpg/revision/latest?cb=20110412195106)
+    
+    Alexstrasza faces Deathwing (In-game).
+    
+
+### Thrall: Twilight of the Aspects
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Alexstrasza_TotA.jpg/revision/latest/scale-to-width-down/180?cb=20180917045356)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Alexstrasza_TotA.jpg/revision/latest?cb=20180917045356)
+
+A grieving Alexstrasza.
+
+After [the cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), the dragons convened upon Wyrmrest Temple to have their first meeting with the blue dragonflight since the death of Malygos. Korialstrasz, not particularly liked by many of the blues, specifically [Arygos](https://wowpedia.fandom.com/wiki/Arygos "Arygos"), chose to stay behind and watch his newest clutch of eggs in the Ruby Sanctum. As Alexstrasza traveled to the meeting above, Korialstrasz discovered the [Twilight Hammer](https://wowpedia.fandom.com/wiki/Twilight_Hammer "Twilight Hammer") within the sanctum, casting dark spells on the eggs. Confronting them, he discovered that their spells had mutated the hatchlings, transforming them into deformed [chromatic dragons](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight"). When he touched a mutated egg, the infection passed on to him. It was then revealed to him that not only was the entire clutch of eggs infected, but every flight's eggs, in each of their sanctums. Half-mutated into a Chromatic dragon but thinking of his beloved Queen one last time, Korialstrasz summoned every ounce of his power and exploded the sanctum outward, destroying a good chunk of Wyrmrest Temple, and utterly obliterating himself and the sanctums. Along with the sanctums fell the thousands of corrupted eggs. While his death and apparent betrayal was a shock to the other dragonflights, Alexstrasza suffered the most. In sadness bordering on madness, she shattered the [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord") and fled to the center of [Desolace](https://wowpedia.fandom.com/wiki/Desolace "Desolace"), where she sat waiting for death. [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") attempted to rouse her from her depression but could not.
+
+Later, during a battle above Wyrmrest Temple, Thrall had a near-death experience after falling from extraordinary heights. In his vision, among other things he saw the truth behind Korialstrasz's actions. When the battle had ended, Thrall brought the news to Alexstrasza, who rejoined the fight with renewed purpose to not let her love's sacrifice be in vain.
+
+### Rage of the Firelands
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+In [patch 4.2.0](https://wowpedia.fandom.com/wiki/Patch_4.2.0 "Patch 4.2.0"), Alexstrasza, who has made a full recovery, is present in Nordrasil to cleanse the World Tree. However, the fearsome [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druids_of_the_Flame "Druids of the Flame") interrupt the ceremony and \*kill\*[Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), much to [Aggra](https://wowpedia.fandom.com/wiki/Aggra "Aggra")'s horror. Although Alexstrasza, [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") and [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") conclude Thrall is lost in the elements, Aggra - determined as always - believes Thrall may be saved and wants adventurers to assist her in her rescue mission.
+
+### Charge of the Aspects
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Alexstrasza_Nozdormu.jpg/revision/latest/scale-to-width-down/180?cb=20120310011109)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Alexstrasza_Nozdormu.jpg/revision/latest?cb=20120310011109)
+
+Alexstrasza and Nozdormu in Hyjal.
+
+While meditating, Ysera had a flashback to the creation of the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") and realized that it might be the only weapon powerful enough to defeat [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"). Alexstrasza agreed that Deathwing had to be slain: "to protect life, there are times when we must destroy that which seeks to end it". She stated that he would need to be completely "unmade", for he had been twisted by the dark energies of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") and could not be destroyed by any physical assault.
+
+[Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") suggested that the artifact could be modified to harm Deathwing, while [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") proposed a plan to retrieve it from the past when it was in its purest form - during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-24">[24]</a></sup>
+
+### Hour of Twilight
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Alexstrasza's past self appears in the [Well of Eternity instance](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)").
+
+Alexstrasza also appears in the [Dragon Soul raid](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul"). Like the other Aspects, she bestows her power upon the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") so [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") can use it to vanquish [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") once and for all.
+
+The [battle for Azeroth](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") ended when a final attack from the Dragon Soul, infused with the essence of each Aspect, completely obliterated Deathwing. Alexstrasza revealed that Aggra is pregnant and stated that by averting the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"), the Aspects had fulfilled their great purpose. With their ancient powers expended, Alexstrasza and the other remaining Aspects became mortal.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20120916185224)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest?cb=20120916185224)
+    
+    Alexstrasza and the other Aspects fighting against Deathwing.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Alexstrasza_Maelstrom.jpg/revision/latest/scale-to-width-down/120?cb=20150618191444)](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Alexstrasza_Maelstrom.jpg/revision/latest?cb=20150618191444)
+    
+    Alexstrasza during the final battle against Deathwing.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Assault_Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20210328013324)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Assault_Aspects.jpg/revision/latest?cb=20210328013324)
+    
+    Alexstrasza fights Deathwing for the last time.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20111206095821)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest?cb=20111206095821)
+    
+    Alexstrasza in her humanoid form with the other Aspects after Deathwing is defeated.
+    
+
+### Dawn of the Aspects (present)
+
+Adhering to their tradition to meet when the two moons of Azeroth were at particular cycle Alexstrasza and the other former aspects gathered together. At the end of the brief meeting Alexstrasza, along with Ysera and Nozdormu, decided that they would officially end the Accord one month from now, to the shock of Kalecgos. Later, Alexstrasza traveled to a human village in a forested land and watched children playing. Kalecgos sought her out there, and wanted to ask her for advice about an artifact he had found, but he understood Alexstrasza's pain and her reluctance.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-25">[25]</a></sup>
+
+Later on, Alexstrasza and the others responded Kalecgos's request for a meeting, where using the [artifact](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr") from Watcher Tyr reminded them about their past battle against Galakrond and that they didn't need to be aspects to help safeguard the world. Agreeing with him, the other three decided to continue their affairs in protecting Azeroth and that the Accord would continue. They also swore Kalecgos to secrecy about the nature of Galakrond, as they did not want anyone to follow in his dark path. As Alexstrasza was leaving, she took the spark with her and asked Kalec to thank [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") in her part of the events.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-26">[26]</a></sup>
+
+### War Crimes
+
+Alexstrasza and Ysera were present at the trial of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"). She was the seventh witness, retelling the event of her torture in [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol") by the [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan"). Yet, when questioned on what she would do if she could confront those who had inflicted such pain on her and her brood, she simply stated that she loved every creature on Azeroth — orcs included. She would pardon her torturers if they came from the past and genuinely asked her forgiveness, indicating that Thrall was an example of the possibility for redemption among all life when allowed to flourish.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-27">[27]</a></sup>
+
+### Deaths of Chromie
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Seeking leads on who wants her dead Chromie asks Alexstrasza if she's noticed anything suspicious and she mentions that the undead have been acting up at the [Ruby Dragonshrine](https://wowpedia.fandom.com/wiki/Ruby_Dragonshrine "Ruby Dragonshrine").
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/In_the_Shadow_of_Crimson_Wings.jpg/revision/latest/scale-to-width-down/180?cb=20190822213025)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/In_the_Shadow_of_Crimson_Wings.jpg/revision/latest?cb=20190822213025)
+
+[Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona") stunning [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") and Alexstrasza.
+
+At the time of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), Alexstrasza dispatched the [red drake](https://wowpedia.fandom.com/wiki/Red_drake "Red drake") [Zallestrasza](https://wowpedia.fandom.com/wiki/Zallestrasza "Zallestrasza") to the region of [Drustvar](https://wowpedia.fandom.com/wiki/Drustvar "Drustvar") on [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras"). Her mission was to locate the recently-revealed remains of the ancient dragon [Vadekius](https://wowpedia.fandom.com/wiki/Vadekius "Vadekius"), and perform a ritual to prevent them from ever being reanimated.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-28">[28]</a></sup> Zallestrasza was successful in the task and traveled on to deal with other business assigned to her by Alexstrasza.
+
+In time, Alexstrasza and the red dragonflight would come under attack by forces of the [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight") led by [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona"). As the red and [twilight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight") dragons clashed, Kalecgos tried to send word to Alexstrasza about empowering the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth) with the powers of the dragonflights. Finding it odd that Alexstrasza remained silent in the face of [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian") and [Merithra of the Dream](https://wowpedia.fandom.com/wiki/Merithra_of_the_Dream "Merithra of the Dream") empowering the artifact with powers of the [black](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") and [green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight") respectively, Kalecgos became convinced that she was in trouble. Thus to that end, he recruited [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to come with him to the [Vermillion Redoubt](https://wowpedia.fandom.com/wiki/Vermillion_Redoubt "Vermillion Redoubt") within the [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands").<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-29">[29]</a></sup>
+
+After discovering the conflict, the pair aided the red dragonflight, with Alexstrasza personally considering their aid well-timed. As the twilight dragons were beaten back, Vexiona sough to flee but was ultimately confronted outside of [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol") by Alexstrasza, Kalecgos, and the champion. During the fight, Vexiona implored Alexstrasza and Kalecgos to join her and, in the face of their rejection, Vexiona trapped them in stasis. However, the champion was able to free the former aspects and subsequently forced Vexiona to flee from the battlefield. With her children now an eternally grateful, Alexstrasza vowed to empower the Heart of Azeroth and directed [Corastrasza](https://wowpedia.fandom.com/wiki/Corastrasza "Corastrasza") to carry the champion back to [Silithus](https://wowpedia.fandom.com/wiki/Silithus:_The_Wound "Silithus: The Wound"). Within the [Chamber of Heart](https://wowpedia.fandom.com/wiki/Chamber_of_Heart "Chamber of Heart"), Alexstrasza declared that her flight shall continue to protect Azeroth as long as they drew breath and as she channeled her power into the [Heart Forge](https://wowpedia.fandom.com/wiki/Heart_Forge "Heart Forge"), she implored champions to accept this gift so that it may light a flame within them, to burn bright through the darkest times.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-30">[30]</a></sup>
+
+Alexstrasza later journeyed to the [Chamber of Heart](https://wowpedia.fandom.com/wiki/Chamber_of_Heart "Chamber of Heart") where she joined with [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos"), [Chromie](https://wowpedia.fandom.com/wiki/Chromie "Chromie"), [Merithra](https://wowpedia.fandom.com/wiki/Merithra "Merithra"), and [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian") in empowering the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth).<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-31">[31]</a></sup> She spoke of Ysera to Merithra and upon learning of her doubts, Alexstrasza encouraged her to be strong.
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+Following the fall of Ny'alotha and Azeroth beginning to heal at last from Sargeras' wounds, Alexstrasza returned to the [Vermillion Redoubt](https://wowpedia.fandom.com/wiki/Vermillion_Redoubt "Vermillion Redoubt").
+
+While investigating the [Night Warrior](https://wowpedia.fandom.com/wiki/Night_Warrior "Night Warrior"), [Shandris](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon") and the [Maw Walker](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker") who joined the [Night Fae](https://wowpedia.fandom.com/wiki/Night_Fae_Covenant "Night Fae Covenant") would meet the spirits of a former [Night Warrior](https://wowpedia.fandom.com/wiki/Night_Warrior "Night Warrior"), [Thiernax](https://wowpedia.fandom.com/wiki/Thiernax "Thiernax"), and his husband [Qadarin](https://wowpedia.fandom.com/wiki/Qadarin "Qadarin"). While speaking with them, they were attacked by [spriggans](https://wowpedia.fandom.com/wiki/Spriggan "Spriggan"), and the leader of the band cursed Qadarin with its dying breath. Part of the counter-curse required a token of lost love, which Ysera, now residing in the [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald"), believed could be found with Alexstrasza as something she had been given by her last prime consort; [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4f/A_Token_of_Lost_Love.jpg/revision/latest/scale-to-width-down/180?cb=20201221001642)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/A_Token_of_Lost_Love.jpg/revision/latest?cb=20201221001642)
+
+Alexstrasza and [Keepsake Chest](https://wowpedia.fandom.com/wiki/Keepsake_Chest "Keepsake Chest").
+
+When the Maw Walker found Alexstrasza, the dragon queen explained that, while she had indeed loved Korialstrasz, she had never loved anyone more than [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera"), her sister. Happy to hear that she had found a new purpose and life in the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands"), Alexstrasza gave the Maw Walker [a small carving](https://wowpedia.fandom.com/wiki/A_Small_Carving_of_Ysera "A Small Carving of Ysera") Ysera had made and gifted to her shortly after they'd been empowered by the Titans.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-32">[32]</a></sup>This would ultimately prove a sufficient 'token of lost love' to help break the curse on Qadarin.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-33">[33]</a></sup>
+
+If the Maw Walker is a [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"), Alexstrasza will be hostile in her interactions due to the events of the _Legion_ class hall quest,   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Death Knight](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Ui-charactercreate-classes_deathknight.png/revision/latest/scale-to-width-down/16?cb=20080906194908 "Death Knight") \[45\] [Draconic Secrets](https://wowpedia.fandom.com/wiki/Draconic_Secrets), _especially_ if they approach her while riding the  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Ability_mount_dkmount.png/revision/latest/scale-to-width-down/16?cb=20180818180404)[\[Deathlord's Vilebrood Vanquisher\]](https://wowpedia.fandom.com/wiki/Deathlord%27s_Vilebrood_Vanquisher) they obtained from the questline. After being given the small carving, Alexstrasza advises the death knight to leave as not all of her brood are as tolerant of them as she is.
+
+### The Vow Eternal
+
+In his quest for the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles"), [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") had swallowed his pride and turned to Alexstrasza who sadly told him "It is a place that is lost to us." After the isles had awakened, she warmly welcomed every dragon who had arrived at the [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") and informed the confused Wrathion and everyone else that they were feeling the call to home.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-34">[34]</a></sup>
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Dragonflight_cinematic_-_Alexstrasza_roar.jpg/revision/latest/scale-to-width-down/180?cb=20220419183606)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Dragonflight_cinematic_-_Alexstrasza_roar.jpg/revision/latest?cb=20220419183606)
+
+Alexstrasza just after returning to the Dragon Isles.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Alexstrasza_at_the_Ruby_Lifepools.png/revision/latest/scale-to-width-down/180?cb=20220909124124)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Alexstrasza_at_the_Ruby_Lifepools.png/revision/latest?cb=20220909124124)
+
+Alexstrasza at the Ruby Lifepools.
+
+Alexstrasza returned to the dragons' homeland, the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles"), arriving just in time to save [Watcher Koranos](https://wowpedia.fandom.com/wiki/Watcher_Koranos "Watcher Koranos") from falling to his death.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-35">[35]</a></sup> As all the dragons had felt the call to home, she put aside her past disagreements with [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") and offered him guidance.<sup id="cite_ref-WileyWangInterview_36-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-WileyWangInterview-36">[36]</a></sup> She also instructed [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian") and Wrathion to extend a formal invitation to the Dragon Isles to the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), while having them warned that she would not abide their conflict on isles. The factions promised to honor their truce and instead sent the [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary") and [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League") to work together as an [expedition of discovery](https://wowpedia.fandom.com/wiki/Dragonscale_Expedition "Dragonscale Expedition").<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-37">[37]</a></sup>
+
+Following the liberation of [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth"), Alexstrasza convened with [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos"), Koranos, and [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") to discuss the matter. Alexstrasza revealed to the confused Kalecgos and Wrathion, their history with Raszageth and the early war with the [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates"), of how it took everything to beat them back and seal them. When the outraged Wrathion demanded to know, she didn't execute them, she revealed that she didn't have the heart to do so, as they were once as close as clutch mates. However in the face of Raszageth's awakening and the possibility of the other incarnates being unleashed, Alexstrasza declared that they must reclaim their Aspect of their dragonflights must be made anew.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-38">[38]</a></sup> To that end she sought a disc within [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman:_Legacy_of_Tyr "Uldaman: Legacy of Tyr"), only to learn from Ebyssian and Wrathion that the [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") led by [Chrono-Lord Deios](https://wowpedia.fandom.com/wiki/Chrono-Lord_Deios "Chrono-Lord Deios") had attacked and sent the disc to be lost through time.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-39">[39]</a></sup>
+
+Alexstrasza also sent [Majordomo Selistra](https://wowpedia.fandom.com/wiki/Majordomo_Selistra "Majordomo Selistra") to serve as her emissary to the arriving Horde and Alliance [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to the isles, with instructions to escort them to her at the [Life Pools](https://wowpedia.fandom.com/wiki/Life_Pools "Life Pools").<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-40">[40]</a></sup> After adventures brought the Infused Dragon Egg to the majordomo, they believed that Alexstrasza would know what to do to save the whelp inside from the [Primalists](https://wowpedia.fandom.com/wiki/Primalists "Primalists") machinations.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-41">[41]</a></sup> After the egg was brought to her, she declared that the situation was dire, and that the eggs' only hope of salvation within the Life Pools.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-42">[42]</a></sup>
+
+When the Life Pools came under attack by Raszageth and her [Primalists](https://wowpedia.fandom.com/wiki/Primalists "Primalists"), she ordered her flight to protect the eggs, and then flew off to personally confront Raszageth.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-43">[43]</a></sup> As they clashed, she pleaded with Raszageth to see reason, to stop the fighting so they could have peace. However, Raszageth refused, pushed the blame for the war solely on the Aspects' shoulders, and wounded Alexstrasza, who found herself saved by Wrathion. An amused Raszageth decided to leave the pair, as she wanted Alexstrasza to watch as everything she cared for was destroyed before killing her.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-44">[44]</a></sup>
+
+After being informed of the safety of the eggs by Selistra, she offered her gratitude to Wrathion, who was quick to try and recruit her and [her flight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")'s aid in claiming the [Obsidian Citadel](https://wowpedia.fandom.com/wiki/Obsidian_Citadel "Obsidian Citadel") from the [djaradin](https://wowpedia.fandom.com/wiki/Djaradin "Djaradin"). Alexstrasza to do, after they had seen to the safety of the eggs, a declaration that confused Wrathion now that Raszageth had left. However, Alexstrasza was quick to point out that Wrathion didn't know her as she did, that she was an unpredictable foe, and that for now the red dragonflight must remain at the Life Pools to safeguard their future. Wrathion was quick to question if it was the dragon's future or her flights that she sought to safeguard, as the Obsidian Citadel was built to defend all the Dragon Isles, and implored that she couldn't abandon the legacy of [his flight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") to the hands of their enemies. In response, she remarked that she would have expected him to care more for the protection of helpless eggs. Wrathion subsequently departed, determined to claim the citadel with the aid of his [Blacktalon](https://wowpedia.fandom.com/wiki/Blacktalon "Blacktalon").<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-45">[45]</a></sup> Having nothing but concern for Wrathion, she enlisted adventurers to go and aid him in her stead, while she helped focus on protecting the new generation of [dragonkind](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin").<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-46">[46]</a></sup>
+
+Sometime later, Alexstrasza was approached by Wrathion and informed that the last black dragon eggs were destroyed because of [Sabellian](https://wowpedia.fandom.com/wiki/Sabellian "Sabellian"). However when she demanded answers, Sabellian revealed that the eggs were perfect, that he in fact had used himself and Wrathion as bait to attract their enemies' attention, while his clutch of black dragons safely traveled by air to deliver the eggs. He then pledged his loyalty and that of his flight as [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion")'s heir to her. However Alexstrasza was unmoved, recalling how Sabellian had played a part in [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s twisted legacy, to which he had defended as being a matter of duty. Though she took the eggs under her care, she remarked that she would not get involved in their bickering and the matter of Aspectship between them was a matter for the [black](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), not the [red](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), to decide.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-47">[47]</a></sup>
+
+After [Mother Elion](https://wowpedia.fandom.com/wiki/Mother_Elion "Mother Elion") successfully tended to eggs, the Dragon Queen declared that the future of all the flights was secured.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-48">[48]</a></sup> She then revealed that [Merithra](https://wowpedia.fandom.com/wiki/Merithra "Merithra") and the [green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight") had entered the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") in an attempt to empower [their own oathstone](https://wowpedia.fandom.com/wiki/Emerald_Oathstone "Emerald Oathstone"), but had heard nothing since their slumber began. She thus suggested that they seek out the [centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur") that rule over the [Ohn'ahran Plains](https://wowpedia.fandom.com/wiki/Ohn%27ahran_Plains "Ohn'ahran Plains"), feeling that they would need their connection to the land and its spirits in order to rouse the greens.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-49">[49]</a></sup>
+
+Sometime later, she traveled to [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken") within [Thaldraszus](https://wowpedia.fandom.com/wiki/Thaldraszus "Thaldraszus"), where [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") would inform her and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") of his battle against [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth").<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-50">[50]</a></sup> In the subsequent meeting, Kalecgos revealed that while [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth") was fended off her storms still persisted around the Vakthros' tower. In return, Alexstrasza voiced her confusion on the matter as the other [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates") were not imprisoned within the [Azure Span](https://wowpedia.fandom.com/wiki/Azure_Span "Azure Span") and wondered what else she could be after, turning to [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") for insight. However, he revealed that his vision was still clouded and remarked that for all he knew, the [Primalists](https://wowpedia.fandom.com/wiki/Primalists "Primalists") could be within [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"). Thus the aspects decided that they had to protect their home and search out any Primalists within the city.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-51">[51]</a></sup> A wise precaution as [Captain Drine](https://wowpedia.fandom.com/wiki/Captain_Drine "Captain Drine") and the adventurer discovered that Primalists had infiltrated into the city and were seeking to create discontent against the Aspects.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-52">[52]</a></sup>
+
+After the Bronze Oathstone was restored, Nozdormu sent the adventurer to inform Alexstrasza that all the oathstones were now active. She subsequently thanked them for all they have done for the flights and expressed her belief that with the oathstones active, they would be able to use the Mother Oathstone in order to regain their Aspect powers.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-53">[53]</a></sup> Sometime later she decided to show her mortal allies Silver Scale,. that [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") had left in their possession long ago, which served as a symbol of unity and friendship to the dragonflights. However as she revealed to it, Kalecgos noted that it pulsed with magic, which was a surprise to her and Nozdormu, who thought it was an example of the scale simply changing in their absence. However, Alexstrasza believed that their return to the Dragon Isles had awakened the scale, that Tyr had left them on the last enigma for them to investigate. Thus she directed [Watcher Koranos](https://wowpedia.fandom.com/wiki/Watcher_Koranos "Watcher Koranos") and adventurers with venturing to [Tyrhold](https://wowpedia.fandom.com/wiki/Tyrhold "Tyrhold") for answers.<sup id="cite_ref-:0_54-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-:0-54">[54]</a></sup>
+
+As the pair investigated, they ultimately awaken the magic within Tyrhold by placing the scale within and subsequently used the scale to draw out the secrets about the place.<sup id="cite_ref-:0_54-1"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-:0-54">[54]</a></sup><sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-55">[55]</a></sup> They ultimately created a spark, whose creation was felt by Kalecgos, who shared it with his fellow aspects, and the trio departed from Valdrakken to join the pair at Tyrhold.<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-56">[56]</a></sup> After witnessing a memory of Tyr's departure from the original five aspects, Alexstrasza reflected that while it was a sad memory, she was grateful for the chance to hear his voice again.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-57">[57]</a></sup> She was expressed her hope that Tyr would be proud of their accomplishments and despite the hardships dragonkind thrives, only the aspects to then be stunned when the spark reacted to the "dragonkind thrives" and revealed a message from Tyr directing them to reactivate the forge within Tyrhold, while revealing that the Silver Scale was the key.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-58">[58]</a></sup> Following this task being taken care of, the forge was activated, where to the shock of all present, the silver scale had forged a new lifeless body of Tyr, himself. Though noting that the body didn't have the spark of life, Alexstrasza couldn't help but be overcome with gratitude that a long-lost friend had been returned to them, and expressed that they must do what they could to restore his true self, reflecting that the answers might be within the disc of Tyr <sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-59">[59]</a></sup>
+
+Following the return of Tyr's body and [Merithra](https://wowpedia.fandom.com/wiki/Merithra "Merithra")'s ascension as the new Dreamer, but with the position of Earth-Warder still in dispute between Sabellian and Wrathion, Alexstrasza returned to Tyrhold in order to activate the Mother Oathstone to restore the aspectral powers to flights. However to her shock, and the hidden Raszageth's glee, the ritual failed. After Raszageth revealed herself they blamed one another for the ritual failing, with Alexstrasza believing that the Storm-Eater had done something to prevent it from succeeding and Raszageth believing that Alexstrasza had proven unworthy on her own. Regardless of the reason, Raszageth quickly departed to liberate her fellow [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates") from their prisoner, causing Alexstrasza to give chase.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-60">[60]</a></sup> However the Dragon Queen was unable to stop Raszageth from breaking into the [Vault of the Incarnates](https://wowpedia.fandom.com/wiki/Vault_of_the_Incarnates "Vault of the Incarnates") and sent Kalecgos, [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), and adventurers into the vault to stop her, while she and Nozdormu to plan for whatever is to come.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-61">[61]</a></sup>
+
+In time she was informed that while Raszageth was slain, she had successfully freed her siblings. Upon hearing this news Nozdormu found that his vision was still clouded but sensed a dark future was coming, which causes her to reflect that Raszageth's reckless haste had caused her death and that the other Incarnates would not make the same mistake. Khadgar noticed that she and Nozdormu were particularly concerned with [Iridikron](https://wowpedia.fandom.com/wiki/Iridikron "Iridikron")'s release over the others, causing the pair to reveal that while [Fyrakk](https://wowpedia.fandom.com/wiki/Fyrakk "Fyrakk") and [Vyranoth](https://wowpedia.fandom.com/wiki/Vyranoth "Vyranoth") were loyal to the Primalists ideals, it was Iridikron who had truly devoted himself to the war, striking dark bargains to do so. However, Kalecgos rallied them together by reminding them that only together do they have a chance at victory. Thus the group vowed to move forward together as one against the Incarnates and were determined to protect Azeroth.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-62">[62]</a></sup>
+
+## Personality
+
+Compassionate and wise, Alexstrasza treasures life in all its forms.<sup id="cite_ref-UVG_6-1"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-UVG-6">[6]</a></sup> She firmly believes that few beings are truly evil and that even they are not necessarily beyond redemption, for change and growth is inherent in life. It can seek the light or the darkness, and it is only when it chooses the darkness so completely that life itself is endangered that there is no hope (as was the case with [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") and [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")).<sup id="cite_ref-War_Crimes_22_63-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-War_Crimes_22-63">[63]</a></sup> The Life-Binder has always behaved with dignity, courage, grace, and compassion, even in the face of inconceivable horrors and deep personal loss.<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-64">[64]</a></sup> She is known to be a kind and patient mentor. Under her tutelage, only the most dedicated pupils acquire the title of "[Life-Binder's Handmaiden](https://wowpedia.fandom.com/wiki/Life-Binder%27s_Handmaiden "Life-Binder's Handmaiden")".<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-65">[65]</a></sup>
+
+She prefers peace and solitude, although she will defend her lands with all her power against any who threaten them without due cause. She often uses her shapechange power to appear as a creature of nature, in order to see what encroaching mortals will do before revealing her presence. Alexstrasza is devoted to all forests, and to a lesser extent all other types of green and fertile growing things. She considers all natural woodlands her home, and she need fear no beast within such lands. Although many of Azeroth’s natural creatures revere the Great Red Leviathan, she is not a goddess and does not pretend to be otherwise. Alexstrasza is rarely venerated by any particular group, although some elven communities pay her homage. Druids of the wild, in particular, appreciate her serene presence, considering her second in importance only to Ysera.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
+
+In her humanoid guise, Alexstrasza appears as a [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")<sup id="cite_ref-Before_the_Storm_7-1"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-Before_the_Storm-7">[7]</a></sup> with brownish red skin, intricate horns, and a mane of fiery hair that has licks of flame constantly escaping from it. Only her eyes remain unchanged from her dragon form. Her face appears rounder than any [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")'s, almost as if mixed with [human](https://wowpedia.fandom.com/wiki/Human "Human") traits.<sup id="cite_ref-Stormrage_12_66-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-Stormrage_12-66">[66]</a></sup> In this guise, the Life-Binder doesn't usually display much modesty in her choice of clothing,<sup id="cite_ref-War_Crimes_22_63-1"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-War_Crimes_22-63">[63]</a></sup> most often being dressed as a warrior maiden with intricate, colorful armor and a cloak resembling a membranous wing.<sup id="cite_ref-Stormrage_12_66-1"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-Stormrage_12-66">[66]</a></sup> However, during the trial of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), she instead wore a red-gold gown that covered her from neck to toe, leaving only her throat and arms bare.<sup id="cite_ref-War_Crimes_22_63-2"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-War_Crimes_22-63">[63]</a></sup>
+
+## Powers and abilities
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Breath_of_Alexstrasza_effect.jpg/revision/latest/scale-to-width-down/180?cb=20091015232530)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Breath_of_Alexstrasza_effect.jpg/revision/latest?cb=20091015232530)
+
+[The Breath of Alexstrasza](https://wowpedia.fandom.com/wiki/The_Breath_of_Alexstrasza "The Breath of Alexstrasza") cause flowers to sprout.
+
+The dragon-queen possess magics over all life. In the past, she has used great fire used to incinerate undead and rebirth fresh new life in their place.<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-67">[67]</a></sup> Cleansing the body in favor life anew is well within Alexstrasza's grasp; however, removing the [Plague of Undeath](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") without affecting the body is beyond the scope of the powers that she controls.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-68">[68]</a></sup> Among Alexstrasza's abilities, she can regrow forests and heal the land. She can animate the dead and resurrect as evidenced with [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon").
+
+In [Blackwing Lair](https://wowpedia.fandom.com/wiki/Blackwing_Lair "Blackwing Lair"), [Vaelastrasz](https://wowpedia.fandom.com/wiki/Vaelastrasz "Vaelastrasz") calls upon the power of Alexstrasza to aid the raid group in defeating his corrupted form. The raid is then given a buff called _Essence of the Red_, which essentially grants infinite [mana](https://wowpedia.fandom.com/wiki/Mana "Mana"), [rage](https://wowpedia.fandom.com/wiki/Rage "Rage"), [runic power](https://wowpedia.fandom.com/wiki/Rune_system "Rune system"), and [energy](https://wowpedia.fandom.com/wiki/Energy "Energy") for 3 minutes.
+
+Her [breath](https://wowpedia.fandom.com/wiki/The_Breath_of_Alexstrasza "The Breath of Alexstrasza") causes flowers to grow, seen at [Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Angrathar_the_Wrathgate "Angrathar the Wrathgate") and in  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [Hope Yet Remains](https://wowpedia.fandom.com/wiki/Hope_Yet_Remains). Other powers in _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_ include turning an archer's arrows into a blossoming tree branch. The intense thickness of her scales causes ordinary arrows to bounce off, and she is rather agile in humanoid form, able to do an impressive backflip with ease.
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") | ?? | 4,387,000 |
+| [Eye of Eternity](https://wowpedia.fandom.com/wiki/Eye_of_Eternity "Eye of Eternity") | ?? | 43,870,000 |
+| [The Mind's Eye](https://wowpedia.fandom.com/wiki/The_Mind%27s_Eye "The Mind's Eye") | 83 | 7,096 |
+| [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") | ?? | 55,020,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35\] [The Nordrassil Summit](https://wowpedia.fandom.com/wiki/The_Nordrassil_Summit) | ?? | 42,946,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35\] [Elemental Bonds: The Vow](https://wowpedia.fandom.com/wiki/Elemental_Bonds:_The_Vow) | ?? | 5,087,000 |
+| [Well of Eternity (instance)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") | ?? | 4,995,000 |
+| [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul") | ?? | 467,900 |
+| [Madness of Deathwing](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") | ?? | 5,181,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [The Day That Chromie Dies](https://wowpedia.fandom.com/wiki/The_Day_That_Chromie_Dies) | ?? | 293,233 |
+
+## Quests
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Alexstrasza_the_Life-Binder.jpg/revision/latest/scale-to-width-down/180?cb=20181121201314)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Alexstrasza_the_Life-Binder.jpg/revision/latest?cb=20181121201314)
+
+Alexstrasza's humanoid form
+
+She is involved in the following quests: [Azure Dragonshrine](https://wowpedia.fandom.com/wiki/Azure_Dragonshrine "Azure Dragonshrine") quest chain:
+
+1.   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[15-30\] [Informing the Queen](https://wowpedia.fandom.com/wiki/Informing_the_Queen) [![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Report to Lord Devrestrasz](https://wowpedia.fandom.com/wiki/Report_to_Lord_Devrestrasz) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+
+[Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Angrathar_the_Wrathgate "Angrathar the Wrathgate") quest chain:
+
+1.   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[15-30\] [Audience With The Dragon Queen](https://wowpedia.fandom.com/wiki/Audience_With_The_Dragon_Queen) [![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Galakrond and the Scourge](https://wowpedia.fandom.com/wiki/Galakrond_and_the_Scourge) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+3.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [On Ruby Wings](https://wowpedia.fandom.com/wiki/On_Ruby_Wings) [![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+4.   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[15-30\] [Return To Angrathar](https://wowpedia.fandom.com/wiki/Return_To_Angrathar) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+
+1.   ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[74\] [Reborn From The Ashes](https://wowpedia.fandom.com/wiki/Reborn_From_The_Ashes) or  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[74\] [Darkness Stirs](https://wowpedia.fandom.com/wiki/Darkness_Stirs) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+
+Saving [Crusader Bridenbrad](https://wowpedia.fandom.com/wiki/Crusader_Bridenbrad "Crusader Bridenbrad") quest chain:
+
+1.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [The Touch of an Aspect](https://wowpedia.fandom.com/wiki/The_Touch_of_an_Aspect) [![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [Dahlia's Tears](https://wowpedia.fandom.com/wiki/Dahlia%27s_Tears_(quest)) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")[![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+3.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [The Boon of Alexstrasza](https://wowpedia.fandom.com/wiki/The_Boon_of_Alexstrasza) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+
+She finishes the quest from a [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas") item drop:
+
+1.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30\] [The Key to the Focusing Iris](https://wowpedia.fandom.com/wiki/The_Key_to_the_Focusing_Iris) [![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30\] [The Heroic Key to the Focusing Iris](https://wowpedia.fandom.com/wiki/The_Heroic_Key_to_the_Focusing_Iris) [![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+
+### Cataclysm
+
+### Legion
+
+### Battle for Azeroth
+
+#### Objective of
+
+-    ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [In the Shadow of Crimson Wings](https://wowpedia.fandom.com/wiki/In_the_Shadow_of_Crimson_Wings)
+
+## Achievement
+
+Upon completing the meta Achievement  ![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Achievement_bg_masterofallbgs.png/revision/latest/scale-to-width-down/16?cb=20080918174350)[\[What a Long, Strange Trip It's Been\]](https://wowpedia.fandom.com/wiki/What_a_Long,_Strange_Trip_It%27s_Been), players will receive a letter from Alexstrasza congratulating players. This letter also contains the  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Ability_mount_drake_proto.png/revision/latest/scale-to-width-down/16?cb=20180824002514)[\[Reins of the Violet Proto-Drake\]](https://wowpedia.fandom.com/wiki/Reins_of_the_Violet_Proto-Drake).
+
+Time and Time Again
+
+With the drums of war pounding in the distance, it is easy for the denizens of Azeroth to forget all that life has to offer.
+
+You, on the other hand, have maintained the dignity of the good races of Azeroth with your ability to remember what we fight for. To not celebrate our victories is another form of defeat. Remember that well, reveler.
+
+May others be inspired by your good cheer.
+
+Alexstrasza the Life-Binder
+
+## Quotes
+
+### [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
+
+-   "It is good that [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") has [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") to turn to. He has been quiet with me of late."
+-   "Neltharion... this is not you! You always sought to make the world one of peace, of harmony..."
+
+### Visage Day
+
+-   "Many ages have passed since we dragons first peered down from our roosts and watched the young mortal races begin to spread across Azeroth. As we saw their villages grow into cities, and their cities become kingdoms, the timeways told us that we must find a way to live alongside them. And so it was decided that we would each assume a form that would allow us to walk freely among their kind and see this world as they do."
+
+### Battle for Grim Batol
+
+-   "I... will... kill... [you](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")... someday..." _(after being captured)_
+-   **Deathwing:** "I have faced the [ravages of time](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), the [curse of nightmares](https://wowpedia.fandom.com/wiki/Ysera "Ysera"), and the [mists of sorcery](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), thanks to the others! What weapons do _you_ bring?"  
+    **Alexstrasza:** "Life... hope... and what they bring with them..."  
+    **Deathwing:** "Then you're as good as dead already!"
+-   "[Nekrosss](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")... You had them ssslay my _children_! My _children_!" _(seconds before eating Nekros)_
+-   "You will go through all I have gone through, [Dark One](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")."
+-   "Life is my Aspect, Dark One, and I, like all mothers, know both the pain and wonders that entails! For the past several years, I have watched my children be raised as instruments of war, slaughtered if they proved insufficient or too willful! I have lived knowing that so many died that I could do nothing for!"
+-   "I shall let you experience firsthand all that I have suffered..."
+
+### Wrath of the Lich King
+
+Gossip ([Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"))
+
+Greetings, my <race> friend. You honor me with your presence. How may I help you?
+
+#### [Eye of Eternity](https://wowpedia.fandom.com/wiki/Eye_of_Eternity "Eye of Eternity")
+
+_Main article: [Malygos (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Malygos_(tactics)#Quotes "Malygos (tactics)")_
+
+### [Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Twilight_of_the_Aspects "Twilight of the Aspects")
+
+[He](https://wowpedia.fandom.com/wiki/Krasus "Krasus")...used his [life energy](https://wowpedia.fandom.com/wiki/Life "Life") to link the portals. To destroy all the contaminated eggs before anyone else became infected. I couldn't understand why there was so much verdancy that remained...Now I know. Somehow, I understand. He brought death with life...to preserve other lives."<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-69">[69]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Greetings
+
+-   Yes [Champion](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")?
+-   It is the fires within, that burn the brightest.
+-   All life is to be treasured.
+-   Life begets life, and the cycle of life is reborn anew.
+
+Pissed
+
+Surely you were not brought into this world solely to bother me.
+
+#### [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+
+_Main article: [Enter the Dragon Queen#Notes](https://wowpedia.fandom.com/wiki/Enter_the_Dragon_Queen#Notes "Enter the Dragon Queen")_
+
+_Main article: [Battle of Life and Death#Notes](https://wowpedia.fandom.com/wiki/Battle_of_Life_and_Death#Notes "Battle of Life and Death")_
+
+#### [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)")
+
+**Bronze Drake yells:** It is them!
+
+**Bronze Drake yells:** Heroes! We have been sent by Nozdormu! Quickly, on our backs, we must get you to the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul")!
+
+**Bronze Drake yells:** Sister, look! The artifact is surrounded by an aura of darkness!
+
+**Bronze Drake yells:** The [Aspects](https://wowpedia.fandom.com/wiki/Aspect "Aspect")!
+
+**Alexstrasza yells:** Come sister, it is time to end this, We will cleanse the Dragon Soul from the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") dark influence!
+
+A dark force from within the Dragon Soul reacts violently to the cleansing!
+
+**Ysera yells:** It is too powerful!
+
+**Neltharion yells:** How DARE you touch my creation! It is mine...mine...MINE!
+
+**Alexstrasza yells:** Neltharion! What have you done? You have doomed us all to the madness of the Old Gods!
+
+**Neltharion yells:** IT IS MINE!!
+
+**Ysera yells:** He is lost to us sister. He is Neltharion...no longer.
+
+**Alexstrasza yells:** The power of the Soul is tearing him apart!
+
+**An Unknown Evil yells:** Nooooo...Away...
+
+**Neltharion yells:** I WILL NOT BE DENIED!
+
+_Neltharion roars._
+
+**An Unknown Evil yells:** AWAY!
+
+**Bronze Drake yells:** The Old Gods protects the Soul!
+
+**Bronze Drake yells:** The link to the portal must be broken! Quickly, to [Storm](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")[rage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")!
+
+#### [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul")
+
+_Main article: [Wyrmrest Summit](https://wowpedia.fandom.com/wiki/Wyrmrest_Summit "Wyrmrest Summit")_
+
+_Main article: [Ultraxion#Quotes](https://wowpedia.fandom.com/wiki/Ultraxion#Quotes "Ultraxion")_
+
+_Main article: [Madness of Deathwing#Quotes](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing#Quotes "Madness of Deathwing")_
+
+### Other
+
+-   _"I thought the [thing](https://wowpedia.fandom.com/wiki/Mottled_Drake "Mottled Drake") was ill until it took to the air. It flies as true as any of [my own](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")."_<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-70">[70]</a></sup>
+-   _"I cannot help but wonder if things would have turned out different if the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") had elevated even one more [dragonflight](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight")."_<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-71">[71]</a></sup>
+
+### Battle for Azeroth
+
+Chamber of Heart
+
+The Aspects have watched over this world for eons. While there may only be a few of us left, I will do everything in my power to protect Life on Azeroth.
+
+-   ![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) <Stay a while and listen.>
+
+**Merithra of the Dream says:** Life-Binder, might I ask you something?
+
+**Alexstrasza says:** Of course, Merithra. You may always speak openly with me.
+
+**Merithra of the Dream says:** Long did [my mother](https://wowpedia.fandom.com/wiki/Ysera "Ysera") lead the green dragonflight as the Aspect of the Dream.
+
+**Merithra of the Dream says:** And yet she always seemed... distant. As if she were in two places at once.
+
+**Merithra of the Dream says:** You knew her before you became Aspects. What was she truly like?
+
+**Alexstrasza says:** We were sisters. The only two of our brood to survive. Inseparable ever since birth.
+
+**Alexstrasza says:** Some believed that as the smallest among us, she was also the weakest. They were wrong.
+
+**Alexstrasza says:** Ysera was strong in a way most could not understand. But hers was a strength on which Azeroth depended.
+
+**Merithra of the Dream says:** I do not know if I possess such strength. Or if I can fulfill the task that lies ahead of me.
+
+**Alexstrasza says:** Neither did she. None of the Aspects did. But we rose to the challenge, as you will. Have faith in yourself Merithra.
+
+**Merithra of the Dream says:** Thank you, Alexstrasza. I will do my best to live up to my mother's legacy.
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+_Main article: [A Token of Lost Love#Notes](https://wowpedia.fandom.com/wiki/A_Token_of_Lost_Love#Notes "A Token of Lost Love")_
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+#### Gossip
+
+Initial at the Ruby Lifeshrine
+
+The Ruby Lifeshrine was once the center of our flight. We must restore its former glory.
+
+After  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [A Charge of Care](https://wowpedia.fandom.com/wiki/A_Charge_of_Care)
+
+The waters of this place empowered generations of dragonkind.
+
+It is time they do so once more.
+
+#### Dialogue
+
+...
+
+#### On-click
+
+...
+
+## Alternate timeline
+
+In an [alternate timeline](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") where [Thrall](https://wowpedia.fandom.com/wiki/Thrall_(alternate_universe) "Thrall (alternate universe)") died as an infant, according to [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz_(alternate_universe) "Korialstrasz (alternate universe)"), Alexstrasza understood that his work among the Kirin Tor would aid the red dragonflight and Azeroth.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-72">[72]</a></sup>
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   Alexstrasza appears as [a legendary card](https://hearthstone.fandom.com/wiki/Alexstrasza "hswiki:Alexstrasza") in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_s Classic set. Her flavor text reads: _Alexstrasza the Life-Binder brings life and hope to everyone. Except [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"). And [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"). And [Nekros](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")._
+-   With the introduction of the [Core](https://hearthstone.fandom.com/wiki/Core "hswiki:Core") set, the original Alexstrasza minion was rotated to the [Wild](https://hearthstone.fandom.com/wiki/Wild "hswiki:Wild") format and replaced by [Alexstrasza the Life-Binder](https://hearthstone.fandom.com/wiki/Alexstrasza_the_Life-Binder "hswiki:Alexstrasza the Life-Binder"), whose flavor text reads: _Friendly Fire: Off_
+-   In _[The Grand Tournament](https://hearthstone.fandom.com/wiki/The_Grand_Tournament "hswiki:The Grand Tournament")_ expansion, she is represented by the rare warrior card [Alexstrasza's Champion](https://hearthstone.fandom.com/wiki/Alexstrasza%27s_Champion "hswiki:Alexstrasza's Champion"), whose flavor text reads: _"Put more spikes on her. No, more spikes. What part of 'more spikes' do you not understand? MORE SPIKES!" - Alexstrasza_
+-   The Life-Binder reappears in the _[Descent of Dragons](https://hearthstone.fandom.com/wiki/Descent_of_Dragons "hswiki:Descent of Dragons")_ expansion as the legendary card [Dragonqueen Alexstrasza](https://hearthstone.fandom.com/wiki/Dragonqueen_Alexstrasza "hswiki:Dragonqueen Alexstrasza"). Her flavor text reads: _Givin' lives and takin' names._
+-   Alexstrasza appears as a legendary Protector mercenary in the [Mercenaries](https://hearthstone.fandom.com/wiki/Mercenaries "hswiki:Mercenaries") game mode.
+
+## In Heroes of the Storm
+
+Alexstrasza is a playable character in _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-73">[73]</a></sup>
+
+An artifact titled [Alexstrasza's Scale](https://heroesofthestorm.fandom.com/wiki/Artifact "hots:Artifact") was temporarily available in the game's alpha.
+
+## In the RPG
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Alexstrasza.PNG/revision/latest/scale-to-width-down/180?cb=20080111163107)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Alexstrasza.PNG/revision/latest?cb=20080111163107)
+
+Alexstrasza from _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_.
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+For someone of her power, the Dragonqueen is surprisingly compassionate. While Ysera has always favored the dreaming races and the [students of Cenarius](https://wowpedia.fandom.com/wiki/Druid "Druid"), Alexstrasza and her flight are known for avoiding killing if at all possible (as they are the defenders of life). Alexstrasza loves all living creatures and protects them, and only those who menace the dragonflights or the world face her wrath. Alexstrasza is supremely confident in her strength and righteousness. She does not seek out combat, but destroys only to punish or renew. In battle, she observes her foes carefully before striking at those she believes are the most deserving of her wrath. Enemies who flee when their leaders are defeated are generally allowed to escape, having learned a lesson they will not soon forget.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-74">[74]</a></sup>
+
+Alexstrasza believed she knew a way to rejuvenate the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"), but was too busy with affairs in [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol").<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-75">[75]</a></sup>
+
+## Warcraft Adventures: Lord of the Clans
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Alextrasza.jpg/revision/latest/scale-to-width-down/180?cb=20070415012931)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Alextrasza.jpg/revision/latest?cb=20070415012931)
+
+Alexstrasza lets loose her fiery breath on Thrall.
+
+In the canceled _[Warcraft Adventures](https://wowpedia.fandom.com/wiki/Warcraft_Adventures:_Lord_of_the_Clans "Warcraft Adventures: Lord of the Clans")_, she was a huge [red dragon](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") depicted as far less kind and life-loving than her _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ incarnation.
+
+In order to storm [Durnholde](https://wowpedia.fandom.com/wiki/Durnholde_Keep "Durnholde Keep"), [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") had to secure the aid of Alexstrasza and her dragons. He headed to her cave, hidden at [Crestfall](https://wowpedia.fandom.com/wiki/Crestfall "Crestfall"). During the encounter, she let loose on Thrall with fiery blasts, which he blocked with a special [dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") shield fortified with Alexstrasza's own scales. Alexstrasza was understandably unwilling to help Thrall, since she still hated the orcs for enslaving her during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"). She told Thrall that she would only agree to help him and his orcs if he managed to kill [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), a feat that the young orc eventually managed.
+
+## Notes and trivia
+
+-   Alexstrasza shares the title of "Life-Binder" with the first Life-Binder that empowered her, [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar").
+-   Prior to the opening of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar"), Alexstrasza had the most health in the game, with 139,450,000 HP in her dragon form. From its opening until _Cataclysm_, [Flame Leviathan](https://wowpedia.fandom.com/wiki/Flame_Leviathan "Flame Leviathan") in 25-man Ulduar had the highest, with either three (192 million) or four (269 million) towers. After _Cataclysm_, Deathwing now has the most HP in the game, with 858,000,000.
+-   Before _Dragonflight_, Alexstrasza's high elf form was a recolor of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")'s model.
+-   One of the [realms](https://wowpedia.fandom.com/wiki/Realm "Realm") in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ is named after Alexstrasza.
+-   Alexstrasza created the [Ruby Dragonshrine](https://wowpedia.fandom.com/wiki/Ruby_Dragonshrine "Ruby Dragonshrine") when a single drop of her blood melted the snows of the Dragonblight and gave rise to a great tree.<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-76">[76]</a></sup>
+-   Prior to patch 4.3 Alexstrasza used the `/hi` and `/bye` emotes of blood elf females.
+-   Aside from her wisdom and beauty, Alexstrasza can be recognized by the gems on her wrists, the 2nd digit of her left paw, and her huge horns. She also has an opal chain on her chin.
+-   Alexstrasza was previously voiced by [Barbara Goodson](https://wowpedia.fandom.com/wiki/Barbara_Goodson "Barbara Goodson").<sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-77">[77]</a></sup> Since patch 4.3.0, she has been voiced by [Wendee Lee](https://wowpedia.fandom.com/wiki/Wendee_Lee "Wendee Lee").<sup id="cite_ref-78"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-78">[78]</a></sup>
+-   As of _[World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_, Alexstrasza is the only Dragon Aspect that has never been fought by players. Kalecgos, Malygos, and Deathwing are all raid bosses (although Kalecgos was not yet an Aspect at the time he was fought), Nozdormu (as Murozond) is a dungeon boss, and Ysera is fought in a quest.
+-   In ancient times, Alexstrasza saved the life of the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [Oktel](https://wowpedia.fandom.com/wiki/Oktel_Dragonblood "Oktel Dragonblood") by mingling her blood with his, and he subsequently became known as "Dragonblood".<sup id="cite_ref-79"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-79">[79]</a></sup>
+-   [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") calls Alexstrasza "Allie".<sup id="cite_ref-80"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-80">[80]</a></sup>
+-   It was originally stated that Alexstrasza was picked by [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar"), the titan patron of all life, and given a portion of the titan's power. Thus forevermore, Alexstrasza would be known as the Life-Binder, working to safeguard all living creatures of Azeroth. Due to her supreme wisdom and limitless compassion for all living things, Alexstrasza was crowned the Dragonqueen and given dominion over her kind.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
+-   During the _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ beta, a [companion](https://wowpedia.fandom.com/wiki/Companion "Companion") version of her was found in the files:  ![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Ability_mount_drake_red.png/revision/latest/scale-to-width-down/16?cb=20180824002516)[\[Lil' Alexstrasza\]](https://wowpedia.fandom.com/wiki/Lil%27_Alexstrasza).
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+### Consorts
+
+Tyranastrasz was Alexstrasza's prime consort during the War of the Ancients. Tyran was described as her eldest of three consorts captured by the Dragonmaw clan of orcs. Korialstrasz was her most recent prime consort, and youngest of all consorts. That made him her fourth known consort. Korialstrasz sacrificed himself, to save the dragonflights from the corruption of the clutches of eggs in each sanctum below Wyrmrest temple by the Twilight Cult, during the events of the book "Thrall: Twilight of the aspects.". It is not mentioned who the second and third consorts were by name but it is stated that one perished trying to escape over the sea and the other had died of injuries inflicted by Deathwing.<sup id="cite_ref-Age_81-0"><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_note-Age-81">[81]</a></sup>
+
+### Aspectship restoration
+
+It is currently unknown why Alexstrasza thought the Mother Oathstone ritual to restore the Aspectship to the flights would work with the Earth-Warder title and leadership of the black dragonflight in dispute. It is possible that she thought the oathstone itself would make the choice or had faith that blacks had already settled the matter themselves.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/29/AlexstraszaWCA.jpg/revision/latest/scale-to-width-down/120?cb=20080227080607)](https://static.wikia.nocookie.net/wowpedia/images/2/29/AlexstraszaWCA.jpg/revision/latest?cb=20080227080607)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/AlexstraszaLegends.jpg/revision/latest/scale-to-width-down/120?cb=20100106184825)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/AlexstraszaLegends.jpg/revision/latest?cb=20100106184825)
+    
+    Alexstrasza in _Warcraft Legends_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Alexstrasza_BotA.jpg/revision/latest/scale-to-width-down/94?cb=20190823181625)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Alexstrasza_BotA.jpg/revision/latest?cb=20190823181625)
+    
+    Alexstrasza in the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Alexstrasza_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20180921161638)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Alexstrasza_TCG.jpg/revision/latest?cb=20180921161638)
+    
+    Alexstrasza's humanoid form in the TCG.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/80/Alexstrasza_Cata.jpg/revision/latest/scale-to-width-down/111?cb=20161101123140)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Alexstrasza_Cata.jpg/revision/latest?cb=20161101123140)
+    
+    Artwork of Alexstrasza in her humanoid form.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Alexstrasza_vs_Deathwing2.jpg/revision/latest/scale-to-width-down/120?cb=20110607213935)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Alexstrasza_vs_Deathwing2.jpg/revision/latest?cb=20110607213935)
+    
+    Image of Deathwing fighting Alexstrasza from the official website.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/MOTHER_Knows_Best_-_Alexstrasza_%26_Freya.jpg/revision/latest/scale-to-width-down/120?cb=20190719162349)](https://static.wikia.nocookie.net/wowpedia/images/7/72/MOTHER_Knows_Best_-_Alexstrasza_%26_Freya.jpg/revision/latest?cb=20190719162349)
+    
+    A projection of [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya") empowering Alexstrasza.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Dragonflight_key_art_2.jpg/revision/latest/scale-to-width-down/120?cb=20220420193901)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Dragonflight_key_art_2.jpg/revision/latest?cb=20220420193901)
+    
+    Alexstrasza on the _Dragonflight_ key art with a differant stance.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/43/LadyAlexstraszaHumanConcept.jpg/revision/latest/scale-to-width-down/120?cb=20220930223255)](https://static.wikia.nocookie.net/wowpedia/images/4/43/LadyAlexstraszaHumanConcept.jpg/revision/latest?cb=20220930223255)
+    
+    _Dragonflight_ concept art of Alexstrasza's visage.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Alexstrasza_visage_concept.jpg/revision/latest/scale-to-width-down/120?cb=20221213192926)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Alexstrasza_visage_concept.jpg/revision/latest?cb=20221213192926)
+    
+    _Dragonflight_ concept art of Alexstrasza's visage.
+    
+
+_Hearthstone_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/37/Alexstrasza%27s_Champion.jpg/revision/latest/scale-to-width-down/96?cb=20150919142750)](https://static.wikia.nocookie.net/wowpedia/images/3/37/Alexstrasza%27s_Champion.jpg/revision/latest?cb=20150919142750)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/Dragonqueen_Alexstrasza.jpg/revision/latest/scale-to-width-down/90?cb=20191201095549)](https://static.wikia.nocookie.net/wowpedia/images/3/34/Dragonqueen_Alexstrasza.jpg/revision/latest?cb=20191201095549)
+    
+    Alexstrasza in _Descent of Dragons_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/78/Alexstrasza_the_Life_Binder_HS.jpg/revision/latest/scale-to-width-down/93?cb=20210402220444)](https://static.wikia.nocookie.net/wowpedia/images/7/78/Alexstrasza_the_Life_Binder_HS.jpg/revision/latest?cb=20210402220444)
+    
+    Alexstrasza outside Wyrmrest Temple.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/70/Alexstrasza_Mercenaries_2.jpg/revision/latest/scale-to-width-down/90?cb=20211013184755)](https://static.wikia.nocookie.net/wowpedia/images/7/70/Alexstrasza_Mercenaries_2.jpg/revision/latest?cb=20211013184755)
+    
+    Alexstrasza's humanoid form in _Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Alexstrasza_Mercenaries_3.jpg/revision/latest/scale-to-width-down/86?cb=20211013184815)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Alexstrasza_Mercenaries_3.jpg/revision/latest?cb=20211013184815)
+    
+    An armored and empowered version of the Dragonqueen in _Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/15/Alexstrasza_Mercenaries_Dragonqueen%27s_Gambit.jpg/revision/latest/scale-to-width-down/120?cb=20220429040423)](https://static.wikia.nocookie.net/wowpedia/images/1/15/Alexstrasza_Mercenaries_Dragonqueen%27s_Gambit.jpg/revision/latest?cb=20220429040423)
+    
+    Her Dragonqueen's Gambit ability art in _Mercenaries_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Alexstrasza%2C_Sea_Dragon_Queen_HS.jpg/revision/latest/scale-to-width-down/112?cb=20220419024239)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Alexstrasza%2C_Sea_Dragon_Queen_HS.jpg/revision/latest?cb=20220419024239)
+    
+
+_Heroes of the Storm_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Alexstrasza_HotS_Art.jpg/revision/latest/scale-to-width-down/120?cb=20171219091146)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Alexstrasza_HotS_Art.jpg/revision/latest?cb=20171219091146)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Alexstrasza_HotS_Art_2.jpg/revision/latest/scale-to-width-down/120?cb=20180529232045)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Alexstrasza_HotS_Art_2.jpg/revision/latest?cb=20180529232045)
+    
+    Modified artwork from _Heroes of the Storm_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Alexstrasza_Heroes_of_the_Storm_home.jpg/revision/latest/scale-to-width-down/78?cb=20171128220317)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Alexstrasza_Heroes_of_the_Storm_home.jpg/revision/latest?cb=20171128220317)
+    
+    Alexstrasza on the _Heroes of the Storm_ home screen.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/90/Alexstrasza_HotS.jpg/revision/latest/scale-to-width-down/68?cb=20171219091319)](https://static.wikia.nocookie.net/wowpedia/images/9/90/Alexstrasza_HotS.jpg/revision/latest?cb=20171219091319)
+    
+    Alexstrasza the Life-Binder.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Alexstrasza_Dragonqueen_HotS.jpg/revision/latest/scale-to-width-down/120?cb=20180614000105)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Alexstrasza_Dragonqueen_HotS.jpg/revision/latest?cb=20180614000105)
+    
+    Alexstrasza in Dragonqueen form.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Alexstrasza_HotS_Dark_Queen.jpg/revision/latest/scale-to-width-down/68?cb=20171219091435)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Alexstrasza_HotS_Dark_Queen.jpg/revision/latest?cb=20171219091435)
+    
+    Dark Queen Alexstrasza.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Alexstrasza_HotS_Dragon_Aspect.jpg/revision/latest/scale-to-width-down/68?cb=20171219091452)](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Alexstrasza_HotS_Dragon_Aspect.jpg/revision/latest?cb=20171219091452)
+    
+    Dragon Aspect Alexstrasza.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Alexstrasza_HotS_Dragon_Aspect_Kaldorei.jpg/revision/latest/scale-to-width-down/68?cb=20180616202606)](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Alexstrasza_HotS_Dragon_Aspect_Kaldorei.jpg/revision/latest?cb=20180616202606)
+    
+    Kaldorei Aspect Alexstrasza.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Spectral_Wyrm_Alexstrasza_HotS.jpg/revision/latest/scale-to-width-down/85?cb=20201225025400)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Spectral_Wyrm_Alexstrasza_HotS.jpg/revision/latest?cb=20201225025400)
+    
+    Spectral Wyrm Alexstrasza.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Dragons_of_the_Nexus_HotS_key_art.jpg/revision/latest/scale-to-width-down/117?cb=20210403000917)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Dragons_of_the_Nexus_HotS_key_art.jpg/revision/latest?cb=20210403000917)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/20/HotS_Alexstrasza_in_promo_art.jpg/revision/latest/scale-to-width-down/100?cb=20210528194403)](https://static.wikia.nocookie.net/wowpedia/images/2/20/HotS_Alexstrasza_in_promo_art.jpg/revision/latest?cb=20210528194403)
+    
+    Alexstrasza from a piece of promotional art.
+    
+
+Fanart
+
+## Videos
+
+-   [Battle of Life and Death](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Fall of Deathwing cinematic](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Dragons of the Nexus – BlizzCon 2017 Hero trailer](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Dragonflight Announce Cinematic Trailer](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Legacies Chapter One](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Legacies Chapter Two](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Take to the Skies](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Kalecgos informs Khadgar](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [The Storm-Eater’s Fury - Raszageth Confronts Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Alexstrasza and Wrathion Argument](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Mother Oathstone Malfunction](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+-   [Post-Raid aspect debrief](https://wowpedia.fandom.com/wiki/Alexstrasza#)
+
+## Patch changes
+
+## See also
+
+-   [Alex (battle pet)](https://wowpedia.fandom.com/wiki/Alex_(battle_pet) "Alex (battle pet)")
+-   [Alexstrasza the Life-Binder](https://wowpedia.fandom.com/wiki/Alexstrasza_the_Life-Binder_(Worldbreaker)), TCG card
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-1) _[World of Warcraft: The Magazine Volume I Issue II](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Volume_I_Issue_II "World of Warcraft: The Magazine Volume I Issue II")_
+2.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-2) [Warcraft III: Reign of Chaos manual#Night Elves: the Sentinels](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_manual#Night_Elves:_the_Sentinels "Warcraft III: Reign of Chaos manual")
+3.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-3) _[The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")_
+4.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-4) [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
+5.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-5)  ![](https://static.wikia.nocookie.net/wowpedia/images/9/99/Inv_misc_monsterscales_15.png/revision/latest/scale-to-width-down/16?cb=20061105104719)[\[Tempered Scale of the Scarlet Broodmother\]](https://wowpedia.fandom.com/wiki/Tempered_Scale_of_the_Scarlet_Broodmother)
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-UVG_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-UVG_6-1">b</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 172
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-Before_the_Storm_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-Before_the_Storm_7-1">b</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 10
+8.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-8) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_ description
+9.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-9) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 45
+10.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-10) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_
+11.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-11) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 61
+12.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-12) "[Visage Day](https://wowpedia.fandom.com/wiki/Visage_Day_(short_story) "Visage Day (short story)")"
+13.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-13)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[15-30\] [Through Fields of Flame](https://wowpedia.fandom.com/wiki/Through_Fields_of_Flame)
+14.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-14) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 148
+15.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-15) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 141
+16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-Chronicle155-156_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-Chronicle155-156_16-1">b</a></sup> _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 155 - 156
+17.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-17) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, _[Orc Buildings](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#Orc_Buildings "Warcraft II: Tides of Darkness manual")_, Dragon Roost
+18.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-18) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_
+19.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-19) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 25
+20.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-20) [Unfinished Business](https://wowpedia.fandom.com/wiki/Unfinished_Business "Unfinished Business")
+21.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-21)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[11\] [Crown of the Earth](https://wowpedia.fandom.com/wiki/Crown_of_the_Earth_(5))
+22.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-22) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_
+23.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Battle of Life and Death](https://wowpedia.fandom.com/wiki/Battle_of_Life_and_Death)
+24.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-24) _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_
+25.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-25) _Dawn of the Aspects_ Part 1
+26.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-26) _Dawn of the Aspects_ Part 5
+27.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-27) _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_
+28.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-28)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[20-60\] [Life Preserver](https://wowpedia.fandom.com/wiki/Life_Preserver)
+29.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-29)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Investigating the Highlands](https://wowpedia.fandom.com/wiki/Investigating_the_Highlands)
+30.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-30)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [In the Shadow of Crimson Wings](https://wowpedia.fandom.com/wiki/In_the_Shadow_of_Crimson_Wings)
+31.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-31)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[120\] [We Stand United](https://wowpedia.fandom.com/wiki/We_Stand_United)
+32.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-32)  ![N](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Night_Fae_15.png/revision/latest?cb=20210312060936) \[60\] [A Token of Lost Love](https://wowpedia.fandom.com/wiki/A_Token_of_Lost_Love)
+33.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-33)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-40\] [Mending A Broken Heart](https://wowpedia.fandom.com/wiki/Mending_A_Broken_Heart)
+34.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-34) _[The Vow Eternal](https://wowpedia.fandom.com/wiki/The_Vow_Eternal "The Vow Eternal")_
+35.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-35) [Dragonflight cinematic](https://wowpedia.fandom.com/wiki/Dragonflight_cinematic "Dragonflight cinematic")
+36.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-WileyWangInterview_36-0) 2022-04-20, [WORLD OF WARCRAFT: DRAGONFLIGHT INTERVIEW WITH JACKIE WILEY AND TINA WANG](https://warcraft.blizzplanet.com/blog/comments/world-of-warcraft-dragonflight-interview-with-jackie-wiley-and-tina-wang). _Blizzplanet_, retrieved on 2022-04-22
+37.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-37)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60-62\] [Aspectral Invitation](https://wowpedia.fandom.com/wiki/Aspectral_Invitation)
+38.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-38) [A Tempest Unleashed](https://www.youtube.com/watch?v=so3XZk5Kj1g&t=2s)
+39.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-39)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-60D\] [Legacy of Tyr: Secrets of the Past](https://wowpedia.fandom.com/wiki/Legacy_of_Tyr:_Secrets_of_the_Past)
+40.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-40)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [The Djaradin Have Awoken](https://wowpedia.fandom.com/wiki/The_Djaradin_Have_Awoken)
+41.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-41)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [A Last Hope](https://wowpedia.fandom.com/wiki/A_Last_Hope)
+42.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-42)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [For the Benefit of the Queen](https://wowpedia.fandom.com/wiki/For_the_Benefit_of_the_Queen)
+43.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-43)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [Who Brought the Ruckus?](https://wowpedia.fandom.com/wiki/Who_Brought_the_Ruckus%3F)
+44.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-44) [The Storm-Eater’s Fury - Raszageth Confronts Alexstrasza | Dragonflight In-game Cinematic \[SPOILERS\]](https://www.youtube.com/watch?v=hK-edQ3tgPU)
+45.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-45)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [Exeunt, Triumphant](https://wowpedia.fandom.com/wiki/Exeunt,_Triumphant)
+46.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-46)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [Wrathion Awaits](https://wowpedia.fandom.com/wiki/Wrathion_Awaits)
+47.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-47)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [The Last Eggtender](https://wowpedia.fandom.com/wiki/The_Last_Eggtender)
+48.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-48)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [Life-Binder on Duty](https://wowpedia.fandom.com/wiki/Life-Binder_on_Duty)
+49.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-49)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[62-65\] [Next Steppes](https://wowpedia.fandom.com/wiki/Next_Steppes)
+50.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-50) To Valdrakken
+51.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-51)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[68-70\] [A Message Most Dire](https://wowpedia.fandom.com/wiki/A_Message_Most_Dire)
+52.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-52)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Nowhere to Hide](https://wowpedia.fandom.com/wiki/Nowhere_to_Hide)
+53.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-53) Moving On (Thaldraszus)
+54.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-:0_54-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-:0_54-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70\] [The Gift of Silver](https://wowpedia.fandom.com/wiki/The_Gift_of_Silver)
+55.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-55) The Magic Within
+56.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-56) A Spark of Discovery
+57.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-57) Memories of the Past
+58.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-58) Parting Instructions
+59.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-59) The Silver Purpose
+60.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-60) Aspect Power
+61.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-61) Vault of the Incarnates: Fury of the Storm-Eater
+62.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-62) Together We Are Unstoppable
+63.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-War_Crimes_22_63-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-War_Crimes_22_63-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-War_Crimes_22_63-2">c</a></sup> _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_, chapter 22
+64.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-64) _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_, chapter 5
+65.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-65)  ![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Ability_mount_drake_red.png/revision/latest/scale-to-width-down/16?cb=20180824002516)[\[Life-Binder's Handmaiden\]](https://wowpedia.fandom.com/wiki/Life-Binder%27s_Handmaiden)
+66.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-Stormrage_12_66-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-Stormrage_12_66-1">b</a></sup> _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, chapter 12
+67.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-67)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [The Touch of an Aspect](https://wowpedia.fandom.com/wiki/The_Touch_of_an_Aspect)
+68.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-68)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [The Boon of Alexstrasza](https://wowpedia.fandom.com/wiki/The_Boon_of_Alexstrasza)
+69.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-69) _[Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Twilight_of_the_Aspects "Twilight of the Aspects")_, pg. 458
+70.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-70)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Ability_mount_drake_bronze.png/revision/latest/scale-to-width-down/16?cb=20180824002511)[\[Mottled Drake\]](https://wowpedia.fandom.com/wiki/Mottled_Drake)
+71.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-71)  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Ability_mount_drake_proto.png/revision/latest/scale-to-width-down/16?cb=20180824002514)[\[Reins of the Violet Proto-Drake\]](https://wowpedia.fandom.com/wiki/Reins_of_the_Violet_Proto-Drake)
+72.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-72) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_
+73.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-73) [Dragons of the Nexus – BlizzCon 2017 Hero Trailer - YouTube](https://www.youtube.com/watch?v=XQV2MLHFYFg) (2017-11-03). Retrieved on 2017-11-04.
+74.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-74) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 90
+75.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-75) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 115
+76.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-76) [Echo of Sylvanas](https://wowpedia.fandom.com/wiki/Echo_of_Sylvanas#Quotes "Echo of Sylvanas")
+77.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-77) [Voice Work & Comedy: World of Warcraft](http://www.barbaragoodson.com/resume.php)
+78.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-78) [Andrea Toyias confirms voice actor of character](https://twitter.com/AndreaToyias/status/935233503314132993)
+79.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-79) [The Favored of Odyn#His Name Is Dragonblood](https://wowpedia.fandom.com/wiki/The_Favored_of_Odyn#His_Name_Is_Dragonblood "The Favored of Odyn")
+80.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-80)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Rewind](https://wowpedia.fandom.com/wiki/Rewind)
+81.  [^](https://wowpedia.fandom.com/wiki/Alexstrasza#cite_ref-Age_81-0) [Knaak, Richard A.](https://wowpedia.fandom.com/wiki/Richard_A._Knaak "Richard A. Knaak"). _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, 58. [ISBN 978-0671041526](https://wowpedia.fandom.com/wiki/Special:BookSources/9780671041526). 
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Alexstrasza#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Alexstrasza#t1:npcs)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
+
+[Dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon")
+
+
+
+ |
+| --- |
+|  |
+| Primary dragon types | 
+
+-   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
+-   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
+-   [Bronze](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")
+-   [Green](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon")
+-   [Red](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon")
+
+
+
+ |
+|  |
+| Other dragon types | 
+
+-   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+-   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Nether](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon")
+-   [Plagued](https://wowpedia.fandom.com/wiki/Plagued_dragon "Plagued dragon")
+-   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Storm](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")
+-   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead_dragon "Undead dragon")
+
+
+
+ |
+|  |
+| Red Dragonflight | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><p><strong>Alexstrasza the Life-Binder</strong> - Queen of Life</p></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Red_dragonflight#Known_members" title="Red dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Caelestrasz" title="Caelestrasz">Caelestrasz</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keristrasza" title="Keristrasza">Keristrasza</a></li><li><a href="https://wowpedia.fandom.com/wiki/Korialstrasz" title="Korialstrasz">Korialstrasz</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rheastrasza" title="Rheastrasza">Rheastrasza</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tyranastrasz" title="Tyranastrasz">Tyranastrasz</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vaelastrasz" title="Vaelastrasz">Vaelastrasz</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sanctum_Guardian_Xerestrasza" title="Sanctum Guardian Xerestrasza">Xerestrasza</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Amber_Ledge" title="Amber Ledge">Amber Ledge</a></li><li><a href="https://wowpedia.fandom.com/wiki/Grim_Batol" title="Grim Batol">Grim Batol</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ruby_Dragonshrine" title="Ruby Dragonshrine">Ruby Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ruby_Sanctum" title="Ruby Sanctum">Ruby Sanctum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Transitus_Shield" title="Transitus Shield">Transitus Shield</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vermillion_Redoubt" title="Vermillion Redoubt">Vermillion Redoubt</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmrest_Temple" title="Wyrmrest Temple">Wyrmrest Temple</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Red_dragon" title="Red dragon">Red dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Red_wyrm" title="Red wyrm">Red wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Dragonflights | 
+
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
+-   [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight")
+-   [Green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")
+-   [Netherwing dragonflight](https://wowpedia.fandom.com/wiki/Netherwing "Netherwing")
+
+
+
+ |
+|  |
+| Other draconic groups | 
+
+-   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
+-   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| 
+
+-   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
+-   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
+-   [Legacy of the Aspects](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects "Legacy of the Aspects")
+-   [Dragons category](https://wowpedia.fandom.com/wiki/Category:Dragons "Category:Dragons")
+-   [Dragonkin category](https://wowpedia.fandom.com/wiki/Category:Dragonkin "Category:Dragonkin")
+
+
+
+ |

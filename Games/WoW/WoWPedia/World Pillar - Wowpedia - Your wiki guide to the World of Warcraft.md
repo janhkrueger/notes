@@ -1,0 +1,224 @@
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Temple-of-Earth-World-Pillar.jpg/revision/latest/scale-to-width-down/180?cb=20170715143149)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Temple-of-Earth-World-Pillar.jpg/revision/latest?cb=20170715143149)
+
+The shattered World Pillar.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c3/World_Pillar_restored.png/revision/latest/scale-to-width-down/180?cb=20210415215154)](https://static.wikia.nocookie.net/wowpedia/images/c/c3/World_Pillar_restored.png/revision/latest?cb=20210415215154)
+
+Restored World pillar
+
+**The World Pillar** is a [titan](https://wowpedia.fandom.com/wiki/Titan "Titan")\-made stone which is inside the [Temple of Earth](https://wowpedia.fandom.com/wiki/Temple_of_Earth "Temple of Earth") in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"). It bears the weight of all the elemental and magnetic forces in the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane").
+
+When [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") [broke through into Azeroth](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), the World Pillar was shattered into three pieces, the [upper](https://wowpedia.fandom.com/wiki/The_Upper_World_Pillar_Fragment "The Upper World Pillar Fragment"), the [middle](https://wowpedia.fandom.com/wiki/The_Middle_Fragment_of_the_World_Pillar "The Middle Fragment of the World Pillar") and the lower. If the World Pillar had not been restored, Deepholm would have collapsed into Azeroth.<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/World_Pillar#cite_note-1">[1]</a></sup>
+
+When the [shamans](https://wowpedia.fandom.com/wiki/Shaman "Shaman") of the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring") felt the distress of the planet, they worked to repair the damage Deathwing caused. After [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") gave the title of [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") to [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), he and other shamans like [Nobundo](https://wowpedia.fandom.com/wiki/Nobundo "Nobundo") and [Muln](https://wowpedia.fandom.com/wiki/Muln "Muln") tried to stabilize the rift within the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"), keeping Azeroth from collapsing into the Elemental Plane. Forces of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") later joined the Earthen Ring to battle the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") in Deepholm, and recovered the missing pieces of the World Pillar. Rather than joining [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") and [Al'akir](https://wowpedia.fandom.com/wiki/Al%27akir "Al'akir"), [Therazane the Stonemother](https://wowpedia.fandom.com/wiki/Therazane_the_Stonemother "Therazane the Stonemother") chose to side with the mortals to prevent her enemies from taking her realm, or even, its eventual collapse.
+
+The World Pillar was eventually repaired by the Earthen Ring shaman with minimal casualties.
+
+Honest Game Trailers | The Callisto Protocol
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/World_Pillar#cite_ref-1)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Deepholm, Realm of Earth](https://wowpedia.fandom.com/wiki/Deepholm,_Realm_of_Earth)
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/object=204576)
+-   [WoWDB](https://www.wowdb.com/objects/204576)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Titans "Template:Titans")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Titans?action=edit)
+
+[Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") | 
+
+-   [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas")
+-   [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya")
+-   [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron")
+-   [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")
+-   [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra")
+-   [Thorim](https://wowpedia.fandom.com/wiki/Thorim "Thorim")
+-   [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr")
+
+
+
+ |
+|  |
+| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") | 
+
+-   [Eyir](https://wowpedia.fandom.com/wiki/Eyir "Eyir")
+-   [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya")
+-   [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya")
+-   [Norushen](https://wowpedia.fandom.com/wiki/Norushen "Norushen")
+-   [Rajh](https://wowpedia.fandom.com/wiki/Rajh "Rajh")
+-   [Ammunae](https://wowpedia.fandom.com/wiki/Ammunae "Ammunae")
+-   [Isiset](https://wowpedia.fandom.com/wiki/Isiset "Isiset")
+-   [Setesh](https://wowpedia.fandom.com/wiki/Setesh "Setesh")
+-   [Jotun](https://wowpedia.fandom.com/wiki/Jotun "Jotun")
+-   [Creteus](https://wowpedia.fandom.com/wiki/Creteus "Creteus")
+-   [Nablya](https://wowpedia.fandom.com/wiki/Nablya "Nablya")
+-   [Stone guardians](https://wowpedia.fandom.com/wiki/Stone_guardian "Stone guardian")
+-   [Stone keepers](https://wowpedia.fandom.com/wiki/Stone_keeper "Stone keeper")
+-   [Stone watchers](https://wowpedia.fandom.com/wiki/Stone_watcher "Stone watcher")
+-   [Uldum watchers](https://wowpedia.fandom.com/wiki/Uldum_watcher "Uldum watcher")
+-   [Yotnar](https://wowpedia.fandom.com/wiki/Yotnar "Yotnar")
+
+
+
+ |
+|  |
+| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") | 
+
+-   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
+-   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome")
+-   [Mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu")
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+
+
+
+ |
+|  |
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+
+-   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
+-   [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
+-   [Magnaron](https://wowpedia.fandom.com/wiki/Magnaron "Magnaron")
+-   [Gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn")
+    -   [Gronnling](https://wowpedia.fandom.com/wiki/Gronnling "Gronnling")
+-   [Goren](https://wowpedia.fandom.com/wiki/Goren "Goren")
+-   [Ogron](https://wowpedia.fandom.com/wiki/Ogron "Ogron")
+-   [Ogre lords](https://wowpedia.fandom.com/wiki/Ogre_lord "Ogre lord")
+-   [Ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Orcs](https://wowpedia.fandom.com/wiki/Orc "Orc")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
+    -   [Algalon](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer")
+-   [Dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight")
+    -   [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects")
+-   [Gold Beetles](https://wowpedia.fandom.com/wiki/Gold_Beetle "Gold Beetle")
+-   [Winged Guardians](https://wowpedia.fandom.com/wiki/Winged_Guardian "Winged Guardian")
+-   [Seekers](https://wowpedia.fandom.com/wiki/Seeker "Seeker")
+-   [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar")
+
+
+
+ |
+|  |
+| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") | 
+
+-   [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination")
+-   [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills")
+-   [Bael Modan](https://wowpedia.fandom.com/wiki/Bael_Modan "Bael Modan")
+-   [Chamber of Heart](https://wowpedia.fandom.com/wiki/Chamber_of_Heart "Chamber of Heart")
+-   [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha")
+-   [Engine of the Makers](https://wowpedia.fandom.com/wiki/Engine_of_the_Makers "Engine of the Makers")
+-   [Hall of Communion](https://wowpedia.fandom.com/wiki/Hall_of_Communion "Hall of Communion")
+-   [Inventor's Library](https://wowpedia.fandom.com/wiki/Inventor%27s_Library "Inventor's Library")
+-   [Jewelhammer's Vault](https://wowpedia.fandom.com/wiki/Jewelhammer%27s_Vault "Jewelhammer's Vault")
+-   [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison")
+-   [Life Vault](https://wowpedia.fandom.com/wiki/Life_Vault_Ruins "Life Vault Ruins")
+-   [Loken's Bargain](https://wowpedia.fandom.com/wiki/Loken%27s_Bargain "Loken's Bargain")
+-   [Mimir's Workshop](https://wowpedia.fandom.com/wiki/Mimir%27s_Workshop "Mimir's Workshop")
+-   [Primordial Observatory](https://wowpedia.fandom.com/wiki/Primordial_Observatory "Primordial Observatory")
+-   [Temple of Life](https://wowpedia.fandom.com/wiki/Temple_of_Life "Temple of Life")
+-   [Temple of Storms](https://wowpedia.fandom.com/wiki/Temple_of_Storms "Temple of Storms")
+-   [Temple of Wisdom](https://wowpedia.fandom.com/wiki/Temple_of_Wisdom "Temple of Wisdom")
+-   [Terrace of the Makers](https://wowpedia.fandom.com/wiki/Terrace_of_the_Makers "Terrace of the Makers")
+    -   [Temple of Invention](https://wowpedia.fandom.com/wiki/Temple_of_Invention "Temple of Invention")
+    -   [Temple of Order](https://wowpedia.fandom.com/wiki/Temple_of_Order "Temple of Order")
+    -   [Temple of Winter](https://wowpedia.fandom.com/wiki/Temple_of_Winter "Temple of Winter")
+-   [Terramok](https://wowpedia.fandom.com/wiki/Terramok "Terramok")
+-   [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras")
+    -   [The Guardian's Sanctum](https://wowpedia.fandom.com/wiki/The_Guardian%27s_Sanctum "The Guardian's Sanctum")
+    -   [Chamber of the Avatar](https://wowpedia.fandom.com/wiki/Chamber_of_the_Avatar "Chamber of the Avatar")
+-   [Tyrhold/Uldorus](https://wowpedia.fandom.com/wiki/Tyrhold "Tyrhold")
+    -   [Beacon of Tyrhold](https://wowpedia.fandom.com/wiki/Beacon_of_Tyrhold "Beacon of Tyrhold")
+-   [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum")
+-   [Uldis](https://wowpedia.fandom.com/wiki/Uldis "Uldis")
+-   [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir")
+-   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+-   [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Vault of Y'Shaarj](https://wowpedia.fandom.com/wiki/Vault_of_Y%27Shaarj "Vault of Y'Shaarj")
+-   [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple")
+    -   [Chamber of Aspects](https://wowpedia.fandom.com/wiki/Chamber_of_Aspects "Chamber of Aspects")
+-   [Wintergrasp Fortress](https://wowpedia.fandom.com/wiki/Wintergrasp_Fortress "Wintergrasp Fortress")
+    -   [Vault of Archavon](https://wowpedia.fandom.com/wiki/Vault_of_Archavon "Vault of Archavon")
+
+
+
+ |
+|  |
+| Relics | 
+
+-   [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
+-   [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon")
+-   [Lore Keeper of Norgannon](https://wowpedia.fandom.com/wiki/Lore_Keeper_of_Norgannon "Lore Keeper of Norgannon")
+-   [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation")
+    -   [Aegis of Aggramar](https://wowpedia.fandom.com/wiki/Aegis_of_Aggramar "Aegis of Aggramar")
+    -   [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul")
+    -   [Hammer of Khaz'goroth](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth "Hammer of Khaz'goroth")
+    -   [Tears of Elune](https://wowpedia.fandom.com/wiki/Tears_of_Elune "Tears of Elune")
+    -   [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth")
+-   [Orbs](https://wowpedia.fandom.com/wiki/Titan_orb "Titan orb")
+-   [Plates of Uldum](https://wowpedia.fandom.com/wiki/Plates_of_Uldum "Plates of Uldum")
+-   [Seals of Uldir](https://wowpedia.fandom.com/wiki/Seals_of_Uldir "Seals of Uldir")
+-   [Stone Watcher of Norgannon](https://wowpedia.fandom.com/wiki/Stone_Watcher_of_Norgannon "Stone Watcher of Norgannon")
+-   [Spark of Tyr](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Titan Relic](https://wowpedia.fandom.com/wiki/Titan_Relic "Titan Relic")
+-   [Val'anyr, Hammer of Ancient Kings](https://wowpedia.fandom.com/wiki/Val%27anyr,_Hammer_of_Ancient_Kings "Val'anyr, Hammer of Ancient Kings")
+-   **World Pillar**
+-   [Mystery of the Makers](https://wowpedia.fandom.com/wiki/Mystery_of_the_Makers "Mystery of the Makers") [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |
+|  |
+| Weapons | 
+
+-   [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras")
+-   [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach")
+-   ([Gorshalach](https://wowpedia.fandom.com/wiki/Gorshalach "Gorshalach")
+-   [Gorribal](https://wowpedia.fandom.com/wiki/Gorribal "Gorribal")
+-   [Orodur](https://wowpedia.fandom.com/wiki/Orodur "Orodur")
+-   [Seschenal](https://wowpedia.fandom.com/wiki/Seschenal "Seschenal")
+-   [Shargahn](https://wowpedia.fandom.com/wiki/Shargahn "Shargahn")
+-   [Vulraiis](https://wowpedia.fandom.com/wiki/Vulraiis "Vulraiis")) [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |

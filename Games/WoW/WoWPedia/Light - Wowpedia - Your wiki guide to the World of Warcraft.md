@@ -1,0 +1,724 @@
+_For the [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") ability, see  ![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Spell_holy_surgeoflight.png/revision/latest/scale-to-width-down/16?cb=20070113162514)[\[Holy Light\]](https://wowpedia.fandom.com/wiki/Holy_Light). For the Pet Battle ability, see   ![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Peticon-magical.png/revision/latest/scale-to-width-down/16?cb=20120726165718) ![](https://static.wikia.nocookie.net/wowpedia/images/4/4a/Spell_paladin_lightofdawn.png/revision/latest/scale-to-width-down/16?cb=20100919133248)[\[Light\]](https://wowpedia.fandom.com/wiki/Light_(pet_battle_ability))._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/89/The_Light_.jpg/revision/latest/scale-to-width-down/360?cb=20151027160929)](https://static.wikia.nocookie.net/wowpedia/images/8/89/The_Light_.jpg/revision/latest?cb=20151027160929)
+
+[Vindicator Maraad](https://wowpedia.fandom.com/wiki/Vindicator_Maraad "Vindicator Maraad") wielding the Light during _[The Burning Crusade](https://wowpedia.fandom.com/wiki/The_Burning_Crusade "The Burning Crusade")_ Cinematic Trailer.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/The_Battle_for_Lordaeron_5.jpg/revision/latest/scale-to-width-down/360?cb=20180625155838)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/The_Battle_for_Lordaeron_5.jpg/revision/latest?cb=20180625155838)
+
+[King Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") using the Light to heal the wounded Alliance forces during the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron").
+
+The **Light** (also known as the **Holy Light**,<sup id="cite_ref-RotLK_1-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-RotLK-1">[1]</a></sup><sup id="cite_ref-ToD_2-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ToD-2">[2]</a></sup><sup id="cite_ref-BtDP_3-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-BtDP-3">[3]</a></sup> **Holy Light of Creation**<sup id="cite_ref-TBC_FAQ_4-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-TBC_FAQ-4">[4]</a></sup> and **light of Creation**<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-5">[5]</a></sup>) is an endless, shimmering sea of energy situated outside the barriers of reality and one of the two most fundamental forces in the _Warcraft_ universe along with the [Void](https://wowpedia.fandom.com/wiki/Void "Void"), which was born from the absence of the former. The two cannot exist without the other.<sup id="cite_ref-Chronicle10_6-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Chronicle10-6">[6]</a></sup> The Light is not necessarily "good"; it is a primal force with its morality characterized by how it is wielded.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-7">[7]</a></sup>
+
+Pure Light cannot exist within the [physical universe](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") but shades of it manifest as [holy](https://wowpedia.fandom.com/wiki/Holy "Holy") [magic](https://wowpedia.fandom.com/wiki/Magic "Magic").<sup id="cite_ref-Chronicle10_6-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Chronicle10-6">[6]</a></sup> The Light is the source of all life in the cosmos.<sup id="cite_ref-Chronicle18_8-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Chronicle18-8">[8]</a></sup> Summoned by emotions,<sup id="cite_ref-Whispers_9-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup> willpower or faith in one's ability to do so,<sup id="cite_ref-ACD1_10-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD1-10">[10]</a></sup> the powers of the Light can be harnessed to heal, cleanse, protect, or harm. Most of its practitioners are called [priests](https://wowpedia.fandom.com/wiki/Priest "Priest") or [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin"), devoted to cleansing the universe of [darkness](https://wowpedia.fandom.com/wiki/Void "Void").<sup id="cite_ref-UVG_11-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-UVG-11">[11]</a></sup> Learning to wield this healing force<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-12">[12]</a></sup> takes years of discipline,<sup id="cite_ref-Secrets_13-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Secrets-13">[13]</a></sup> as it is necessary to learn to abnegate oneself through meditation, in order to become conduits for the Light.<sup id="cite_ref-Whispers_9-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup>
+
+Its positive energies,<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-14">[14]</a></sup> residing in every living being, in every heart and [soul](https://wowpedia.fandom.com/wiki/Soul "Soul"),<sup id="cite_ref-ToDpg267_15-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ToDpg267-15">[15]</a></sup> is everywhere, binding all sentient beings together as one,<sup id="cite_ref-ToDpg267_15-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ToDpg267-15">[15]</a></sup> as it pervades and shines through everything, resonating within all things in the universe.<sup id="cite_ref-Whispers_9-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup> The [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru"), enigmatic beings composed of shards of fractured Light, may be the purest expression of the Light in the physical universe. They taught the use of the Light to the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") and other enlightened races, such as the [humans](https://wowpedia.fandom.com/wiki/Human "Human"),<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-16">[16]</a></sup> but others have come into the study and practice of Light-based magic of their own accord.<sup id="cite_ref-UVG_11-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-UVG-11">[11]</a></sup>
+
+The Light cannot fully see destiny, though neither can the Void, for neither are singularly responsible for creation. The Light seeks one path and shuns all others as lies.<sup id="cite_ref-ThousandYearsWar_17-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ThousandYearsWar-17">[17]</a></sup>
+
+## Origins and characteristics
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Lightwell_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20220808165337)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Lightwell_TCG.jpg/revision/latest?cb=20220808165337)
+
+[Lightwell](https://wowpedia.fandom.com/wiki/Lightwell_(Through_the_Dark_Portal) "Lightwell (Through the Dark Portal)") in the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game").
+
+Before life began and before even the universe existed, there was only the Light. The Light existed as a boundless sea of living energy, swelling across all of existence, unfettered by time and space. Yet as the ever-shifting sea expanded, pockets of cold nothingness appeared, giving birth to a second, opposite force: the [Void](https://wowpedia.fandom.com/wiki/Void "Void"). The growing tension between the two opposing energies eventually ignited a series of cosmic explosions that gave birth to the physical universe, the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond").<sup id="cite_ref-Chronicle18_8-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Chronicle18-8">[8]</a></sup>
+
+The cataclysmic birth of the cosmos sent shards of fractured Light flying through the cosmos, suffusing the newly formed planets of the universe with the spark of life and giving birth to countless life-forms, the most common of which were the primordial [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental"). Occasionally, these shards of Light would gather and form clouds of Light from which powerful beings would emerge, among which the benevolent [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru").<sup id="cite_ref-Chronicle18_8-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Chronicle18-8">[8]</a></sup>
+
+The most unstable energies created by the cosmic explosions coalesced into an astral dimension known as the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether").<sup id="cite_ref-Chronicle18_8-3"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Chronicle18-8">[8]</a></sup>
+
+The forces of the Light, including the naaru, have been locked in a cosmic power struggle with the [Void](https://wowpedia.fandom.com/wiki/Void "Void") and the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") for thousands of years, with the [Xenedar](https://wowpedia.fandom.com/wiki/Xenedar "Xenedar") described as the Light's largest remaining refuge, and the only one capable of waging war against the Legion. Sargeras allegedly believed he had already defeated the Light, instead focusing his efforts on the Void, although it was ironically the [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light") which ultimately helped end his [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade").<sup id="cite_ref-ThousandYearsWar_17-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ThousandYearsWar-17">[17]</a></sup>
+
+### Appearance
+
+Most of the time, the Light manifests itself as a golden, shinning light,<sup id="cite_ref-W3_19-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-W3-19">[19]</a></sup><sup id="cite_ref-WoW_20-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-WoW-20">[20]</a></sup> though it has also appeared as a glowing white, silver light,<sup id="cite_ref-ToD_2-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ToD-2">[2]</a></sup><sup id="cite_ref-BtDP_3-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-BtDP-3">[3]</a></sup> especially when coming from [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-21">[21]</a></sup>
+
+Not all wielders of the Light follow the same path. For example, humans and dwarves follow the path of the [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light"), while the tauren [Sunwalkers](https://wowpedia.fandom.com/wiki/Sunwalkers "Sunwalkers") revere [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she"), whose power can appear either as red flames or as golden magic similar to other [divine magic](https://wowpedia.fandom.com/wiki/Divine_magic "Divine magic"). The [Sunwalker Kodo](https://wowpedia.fandom.com/wiki/Sunwalker_Kodo "Sunwalker Kodo")'s eyes and war-drums noticeably emit red and orange flame, while in contrast, the saddle emits faint waves of golden light.
+
+[Blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") wield the Light through the power of the renewed [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"). It is a harmonious relationship, no longer one of discord caused by the blood elves' attempts to bend the Light to their will, which will likely have a positive effect on blood elf society in the long run.<sup id="cite_ref-ACD1_10-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD1-10">[10]</a></sup>
+
+### Sapiency
+
+The Light is a fundamental force, but it has been personified many times by its followers and others, [believing](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore") that it had a "will", or that it made deliberate choices, or that it was "good", while the Void was "evil", but such concepts do not apply to the Light and the Void, they are simply primal forces with their morality characterized by how they are wielded.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-22">[22]</a></sup>
+
+-   The general belief was that mortals were chosen to act as vessels for the Light's will.<sup id="cite_ref-Dark_Riders_23-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Dark_Riders-23">[23]</a></sup>
+-   There are human sayings such as "Light be with you" and "Light willing"<sup id="cite_ref-ThousandYearsWar_17-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ThousandYearsWar-17">[17]</a></sup> or draenei ones such as "May the Light embrace you" and "Open your heart to the Light" or "Light protect us from this madness".
+-   [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring") directly addressed the Light and asked it to grant him one last blessing.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-24">[24]</a></sup>
+-   [Dansel Adams](https://wowpedia.fandom.com/wiki/Dansel_Adams "Dansel Adams") interpreted the disappearance of [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas") when it teleported as "a miracle of the Light".<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-25">[25]</a></sup>
+-   Others such as [Revil Kost](https://wowpedia.fandom.com/wiki/Revil_Kost "Revil Kost") and [Ambrose](https://wowpedia.fandom.com/wiki/Ambrose "Ambrose") also believed that the Light was some kind of abstract deity that guided mortals for some benign purpose and all actions and fates were all constructs of its design.<sup id="cite_ref-Dark_Riders_23-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Dark_Riders-23">[23]</a></sup>
+
+## Races of the Light
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/55/Mi%27da%2C_Pure_Light_HS.jpg/revision/latest/scale-to-width-down/180?cb=20220807192034)](https://static.wikia.nocookie.net/wowpedia/images/5/55/Mi%27da%2C_Pure_Light_HS.jpg/revision/latest?cb=20220807192034)
+
+The naaru [Mi'da](https://hearthstone.fandom.com/wiki/Mi%27da,_Pure_Light "hswiki:Mi'da, Pure Light") in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_.
+
+Though rarely seen, the creatures of the Light have been observed to be naturally orderly. They are a necessary part of the universe, much like their counterparts of the Void. And as the Light must keep the Void in check,<sup id="cite_ref-UnboundDarkness_26-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-UnboundDarkness-26">[26]</a></sup> it would follow that they must also be kept in check by the Void for there to be balance.
+
+Similar to other cosmic forces, beings of the Light can normally only be permanently killed in the realm of Light. If killed in the mortal realm, their essence returns to the Light to reconstitute, though some exceptionally powerful forces can intervene in the process.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-27">[27]</a></sup>
+
+### Naaru
+
+The [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") are a race of living, sentient energy beings made up of scintillating holy energies from clouds of fractured Light gathered.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-28">[28]</a></sup> Though born in the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), not within the Light, they are its purest known expression, and have vowed to bring peace and hope to all mortal civilizations and waylay the forces of the [Void](https://wowpedia.fandom.com/wiki/Void "Void").<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-29">[29]</a></sup> They are known to travel through dimensions,<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-30">[30]</a></sup> and are the sworn enemies of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-OfficialSite_31-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-OfficialSite-31">[31]</a></sup> However, the naaru themselves have different objectives; for example, [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal") sought Illidan's death, while [Xe'ra](https://wowpedia.fandom.com/wiki/Xe%27ra "Xe'ra") apparently wanted to forge him into a Lightforged soldier capable of destroying the Legion and the Void. Some of them, such as Xe'ra and the [Light Mother](https://wowpedia.fandom.com/wiki/Light_Mother_(alternate_universe) "Light Mother (alternate universe)") have even displayed blatant disregard for mortal creatures' free will, and despite likely doing what they believe is correct, have demonstrated borderline fanaticism, apparently believing the ends justify the means.
+
+### Lightspawn
+
+Encountered only recently, [Lightspawn](https://wowpedia.fandom.com/wiki/Lightspawn "Lightspawn") appears to be the Light's counterpart to [voidwalkers](https://wowpedia.fandom.com/wiki/Voidwalker "Voidwalker"), and can always be found amongst the battlefields of the Light.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-32">[32]</a></sup> At least one was seen to have acted on its own to attempt to stop a necromantic ritual on [Exile's Reach](https://wowpedia.fandom.com/wiki/Exile%27s_Reach "Exile's Reach") but was captured instead.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-33">[33]</a></sup> After a new adventurer freed it, it left Azeroth. A handful of others can be found in the [Netherlight Temple](https://wowpedia.fandom.com/wiki/Netherlight_Temple "Netherlight Temple"), order hall of the [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave"), but also in [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth") at the site of the Light's assault upon the realm: the [Ember Ward](https://wowpedia.fandom.com/wiki/Ember_Ward "Ember Ward").
+
+## Effects
+
+### On living beings
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Blood_Elf_bc_cinematic_2.jpg/revision/latest/scale-to-width-down/220?cb=20181119012628)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Blood_Elf_bc_cinematic_2.jpg/revision/latest?cb=20181119012628)
+
+A blood elf [priestess](https://wowpedia.fandom.com/wiki/Priest "Priest") resurrecting a orc [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior").
+
+The Light is often said to bring about feelings of positive emotion—hope, courage, comfort—coming from the "heart",<sup id="cite_ref-ACD3_34-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD3-34">[34]</a></sup> and brings a sense of peace and calmness whenever its blessings are placed on someone. The Light can cure sickness, remove aches, pains, and stiffness. It can also mend broken bones.<sup id="cite_ref-OBaH2_35-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-OBaH2-35">[35]</a></sup><sup id="cite_ref-BtDP21_36-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-BtDP21-36">[36]</a></sup> [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") believes that restoring an old man's youth is not beyond the Light's power, but it is not in the healer's hands.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-37">[37]</a></sup>
+
+During the ritual that empowers the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), the Light shines down on them and through them with blinding radiance. It warms at first, then sears. The person feels scoured; emptied, scrubbed clean, then filled again. The Light swells inside and then fades away to a tolerable level.<sup id="cite_ref-RotLK_1-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-RotLK-1">[1]</a></sup>
+
+When he used the Light to shield himself from the whispers of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"), [Med'an](https://wowpedia.fandom.com/wiki/Med%27an "Med'an") described holy magic as similar to shamanic magic, but different, as it wraps around him like "a warm blanket".<sup id="cite_ref-Whispers_9-3"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup>
+
+Recent events have shown the Light can be just as dangerous as the Void to those who delve too deeply into it. Due to the Light's tendency towards only one path, it can lead the overly devout to closed-mindedness, adamantly refusing to acknowledge any other power or lifestyle other than the Light.
+
+### On undead
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Ashra_healing_Felgrim.jpg/revision/latest/scale-to-width-down/180?cb=20220806140723)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Ashra_healing_Felgrim.jpg/revision/latest?cb=20220806140723)
+
+A forsaken being healed by the Light.
+
+The Light is agonizingly painful and destructive to the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"), but can also be used to heal undead, and while this is an efficient process, it is also very painful.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-38">[38]</a></sup>
+
+The souls of the undead ([Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"), [ghouls](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul"), etc.) are imperfectly attached to their bodies; the dark magic that sustains them is a buffer that prevents their souls from properly joining with their bodies. This is why undead feel only faint sensations of pain or discomfort from most physical stimuli, and why the Light is so painful to their existence.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-39">[39]</a></sup> [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") for example used the Light for interrogating the death knight [Gaz Soulripper](https://wowpedia.fandom.com/wiki/Gaz_Soulripper "Gaz Soulripper"), causing him excruciating pain.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-40">[40]</a></sup>
+
+When undead channel the Light, they do not disintegrate or explode from channeling the Light, though they may wish they would.<sup id="cite_ref-ACD2_41-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD2-41">[41]</a></sup> Instead, it feels to them as if their entire bodies are being consumed in righteous fire. Forsaken healed by the Light (whether the healer is Forsaken or not) are effectively cauterized by the effect: the wound is healed, but the healing effect is cripplingly painful. Thus, Forsaken priests are beings of unwavering willpower. Forsaken and death knight tanks suffer nobly when they have priest or paladin healers in the group, and [Sir Zeliek](https://wowpedia.fandom.com/wiki/Sir_Zeliek "Sir Zeliek") really hates himself.<sup id="cite_ref-ACD1_10-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD1-10">[10]</a></sup>
+
+There are reports that some Forsaken have slowly experienced a sharpening of their dulled senses of touch, smell, etc., as well as an increase in the flashes of positive emotions that have otherwise become so rare since their fall into undeath. Unfortunately, this may be the cause of the Forsaken priesthood's increased attempts at self-destruction; regaining these senses would force the priests to smell their own rotting flesh, taste the decay in their mouths and throats, and even feel the maggots burrowing within their bodies.<sup id="cite_ref-ACD2_41-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD2-41">[41]</a></sup>
+
+Despite all this, there exists at least one account of someone becoming undead through the power of the Light: [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil").<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-42">[42]</a></sup>
+
+### Other
+
+The Light is seen in the [Ember Ward](https://wowpedia.fandom.com/wiki/Ember_Ward "Ember Ward") in Revendreth, where their army retaliated against [Sire Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius") long ago for unknown experiments.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-43">[43]</a></sup> They entered from [Dawnkeep](https://wowpedia.fandom.com/wiki/Dawnkeep "Dawnkeep"), among them the naaru [Z'rali](https://wowpedia.fandom.com/wiki/Z%27rali "Z'rali"). The presence of the Light in Revendreth cause [venthyr](https://wowpedia.fandom.com/wiki/Venthyr "Venthyr") to turn into [ash ghouls](https://wowpedia.fandom.com/wiki/Ash_ghoul "Ash ghoul"), and until the successful rebellion by [Prince Renathal](https://wowpedia.fandom.com/wiki/Prince_Renathal "Prince Renathal"), this was used as punishment for any venthyr who went against Denathrius.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-44">[44]</a></sup>
+
+The Light can notably deal damage to the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"),<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-45">[45]</a></sup> and in the case of [Lothraxion](https://wowpedia.fandom.com/wiki/Lothraxion "Lothraxion"), can even alter them by infuse them with [Holy magic](https://wowpedia.fandom.com/wiki/Holy "Holy").<sup id="cite_ref-ThousandYearsWar_17-3"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ThousandYearsWar-17">[17]</a></sup>
+
+## Uses
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Anduin_kills_nathrezim_-_SotW.jpg/revision/latest/scale-to-width-down/180?cb=20220807184459)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Anduin_kills_nathrezim_-_SotW.jpg/revision/latest?cb=20220807184459)
+
+[Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") using the Light to kill a [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim").
+
+-   The powers of the Light allow its practitioners to heal wounds, mend broken bones,<sup id="cite_ref-OBaH2_35-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-OBaH2-35">[35]</a></sup><sup id="cite_ref-BtDP21_36-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-BtDP21-36">[36]</a></sup> dispel mind control,<sup id="cite_ref-Secrets_13-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Secrets-13">[13]</a></sup> and even [restore life to the dead](https://wowpedia.fandom.com/wiki/Resurrect "Resurrect").<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-46">[46]</a></sup><sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-47">[47]</a></sup><sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-48">[48]</a></sup><sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-49">[49]</a></sup><sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-50">[50]</a></sup><sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-51">[51]</a></sup>
+    -   Priest can smite their enemies, shield from damage, [levitate](https://wowpedia.fandom.com/wiki/Levitate "Levitate") themselves off the ground, cure ills and magical curses, and remove beneficial magical effects from their enemies.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-52">[52]</a></sup>
+    -   Paladins can augment their own martial prowess and those of their allies with their [blessings](https://wowpedia.fandom.com/wiki/Blessing "Blessing") and [auras](https://wowpedia.fandom.com/wiki/Paladin_auras "Paladin auras"), but also stun, debilitate, and silence their foes.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-53">[53]</a></sup>
+-   The Light can be used to put the deceased to rest:
+    -   The naaru [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal") sent [Crusader Bridenbrad](https://wowpedia.fandom.com/wiki/Crusader_Bridenbrad "Crusader Bridenbrad") to the Light itself.
+    -   When [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") blessed the corpse of [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar") with the Light, his features were described as "relaxed slightly, growing calm, even quietly content".<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-54">[54]</a></sup>
+    -   The [Auchenai](https://wowpedia.fandom.com/wiki/Auchenai "Auchenai") draenei, or "death priests", and the tauren [Seers](https://wowpedia.fandom.com/wiki/Seers "Seers") can also use the Light to contact the dead to ask for help, to question them, or to help them rest in peace.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-55">[55]</a></sup> <sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-56">[56]</a></sup>
+-   The Light magnified Turalyon's voice so it carried to several hundred soldiers under his command.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-57">[57]</a></sup>
+-   The Light made [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")'s hammer seem to weigh less in his hands.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-58">[58]</a></sup>
+-   Through the Light, a paladin can develop an empathic ability to sense deep emotions from others, such as sincerity,<sup id="cite_ref-OBaH3_59-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-OBaH3-59">[59]</a></sup> or the nature of their intentions.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-60">[60]</a></sup>
+-   The Light can be used for interrogation purposes by making someone tell all they know and find out if they are lying:
+    -   In _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, Turalyon marked the forehead of an orc prisoner with the Light, leaving a burn on his flesh, and forcing him to say everything he knew without being able to lie.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-61">[61]</a></sup>
+    -   In the _[Ashbringer](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ashbringer "World of Warcraft: Ashbringer")_ comic, the paladin [Alexandros Mograine](https://wowpedia.fandom.com/wiki/Alexandros_Mograine "Alexandros Mograine") used the Light on the [jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [Zabra Hexx](https://wowpedia.fandom.com/wiki/Zabra_Hexx "Zabra Hexx") to know if he was lying.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-62">[62]</a></sup>
+    -   In the _[Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders_(comic) "Dark Riders (comic)")_ comic, the priest [Revil Kost](https://wowpedia.fandom.com/wiki/Revil_Kost "Revil Kost") used the Light on a [worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen") to force him to tell the truth and answer questions.<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-63">[63]</a></sup>
+-   Through the Light, its practitioners can feel a connection that is sometimes established between them, allowing them to know if they are still alive, to communicate words and thoughts, or to have visions concerning them through their dreams. It was the case between [Darion Mograine](https://wowpedia.fandom.com/wiki/Darion_Mograine "Darion Mograine") and [Fairbanks](https://wowpedia.fandom.com/wiki/High_Inquisitor_Fairbanks "High Inquisitor Fairbanks"),<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-64">[64]</a></sup> between Zabra Hexx and Alexandros Mograine after the latter saved his life,<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-65">[65]</a></sup> and also between [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") and her son [Arator](https://wowpedia.fandom.com/wiki/Arator "Arator").<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-66">[66]</a></sup>
+    -   They can also use the Light to practice divination, through an incantation described by books of priestly magic as a "holy vision" that can grant sight of distant objects and far-off locations.<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-67">[67]</a></sup><sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-68">[68]</a></sup><sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-69">[69]</a></sup>
+-   A priest or paladin can use the Light to shield themselves mentally from the whispers of the Old Gods and their minions, although it takes energy and practice, especially through meditation.<sup id="cite_ref-Whispers_9-4"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup>
+    -   At the same time, a paladin or priest can help someone to resist the whispers by channeling their holy powers through them, in order to calm and protect their spirit.<sup id="cite_ref-Secrets_13-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Secrets-13">[13]</a></sup><sup id="cite_ref-Whispers_9-5"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup>
+-   Following a sacred ritual of the Light, a [Deathcharger](https://wowpedia.fandom.com/wiki/Deathcharger "Deathcharger") can be redeemed as a [Charger](https://wowpedia.fandom.com/wiki/Charger "Charger") and serves as a steed for paladins.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-70">[70]</a></sup><sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-71">[71]</a></sup>
+-   The Light can be manifested in the form of chains and handcuffs to hinder living and undead.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-72">[72]</a></sup>
+    -   In _[Anduin: Son of the Wolf](https://wowpedia.fandom.com/wiki/Anduin:_Son_of_the_Wolf "Anduin: Son of the Wolf")_, Anduin used the Light in the form of a web to capture a nathrezim who was trying to assassinate him.<sup id="cite_ref-Son_73-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Son-73">[73]</a></sup>
+    -   In _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, Turalyon used the Light to restrain prisoners while Alleria used the Void to invade their minds for information.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-74">[74]</a></sup>
+-   The Light is employed during an exorcism rite to extract a [demon](https://wowpedia.fandom.com/wiki/Demon "Demon") or an evil spirit from the body of someone possessed, purifying the body and the soul from corruption.<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-75">[75]</a></sup>
+-   The Light is used to empower its practitioners:
+    -   If they succeed the trial of the [Forge of Aeons](https://wowpedia.fandom.com/wiki/Forge_of_Aeons "Forge of Aeons"), members of the [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light") are empowered to become [Lightforged](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei"), immortal protectors of the creation.<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-76">[76]</a></sup><sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-77">[77]</a></sup>
+    -   After their training, the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") are empowered by clerics and paladins during their ceremony of induction to join the order,<sup id="cite_ref-Of_Blood_and_Honor_78-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Of_Blood_and_Honor-78">[78]</a></sup> immunizing them to disease of any kind.<sup id="cite_ref-warcraftIII_79-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-warcraftIII-79">[79]</a></sup>
+    -   Before the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell")'s rebirth, the [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights") empowered themselves by sapping the energy from the captive [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [M'uru](https://wowpedia.fandom.com/wiki/M%27uru "M'uru").
+        -   Following the [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas"), they embraced the Light through the Sunwell in a healthier way.<sup id="cite_ref-WotLK8_80-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-WotLK8-80">[80]</a></sup>
+-   The holy magic is employed in the creation of [holy water](https://wowpedia.fandom.com/wiki/Holy_water "Holy water"),<sup id="cite_ref-81"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-81">[81]</a></sup><sup id="cite_ref-82"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-82">[82]</a></sup> artifacts,<sup id="cite_ref-83"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-83">[83]</a></sup> [runes](https://wowpedia.fandom.com/wiki/Rune_magic "Rune magic"),<sup id="cite_ref-84"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-84">[84]</a></sup><sup id="cite_ref-85"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-85">[85]</a></sup> and [lightwells](https://wowpedia.fandom.com/wiki/Lightwell "Lightwell"), but also to infuse weapons,<sup id="cite_ref-86"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-86">[86]</a></sup><sup id="cite_ref-87"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-87">[87]</a></sup><sup id="cite_ref-88"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-88">[88]</a></sup> armors,<sup id="cite_ref-89"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-89">[89]</a></sup> and [librams](https://wowpedia.fandom.com/wiki/Libram_(relic) "Libram (relic)") with the power of the Light.
+    -   Holy energy can be focused into the shape of a weapon and used to attack an enemy.<sup id="cite_ref-Son_73-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Son-73">[73]</a></sup>
+    -   Anduin enchanted his [father's compass](https://wowpedia.fandom.com/wiki/Varian%27s_compass "Varian's compass"), imbuing it with a memory of a conversation between him and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner").<sup id="cite_ref-90"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-90">[90]</a></sup>
+-   The Light is also a source of technology development:
+    -   On the [alternate](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)"), the [high arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") used the Light's power to create lasers and [Apexis guardians](https://wowpedia.fandom.com/wiki/Apexis_guardian "Apexis guardian").
+    -   The Army of Light uses and develops advanced Light-based technology, including teleportation pylons,<sup id="cite_ref-91"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-91">[91]</a></sup> [warframe](https://wowpedia.fandom.com/wiki/Warframe "Warframe"), [artillery battery](https://wowpedia.fandom.com/wiki/Artillery_battery "Artillery battery"), and holograms that Turalyon used to place a message inside  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Inv_jewelcrafting_taladitecrystal.png/revision/latest/scale-to-width-down/16?cb=20141002092827)[\[Light's Heart\]](https://wowpedia.fandom.com/wiki/Light%27s_Heart).
+    -   Following the retaking of [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan"), some gnomes were interested in the powers of the Light to save and purify irradiated gnomes. Their research led them to radical advances in Light-based technology.<sup id="cite_ref-ACD2_41-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD2-41">[41]</a></sup>
+
+## Influence
+
+The Light is an important part of several races' cultures. Though overlap exists in themes and practices, several of the races have differing viewpoints and methods of wielding the Light. One thing is certain, wielding the Light takes intense focus and a very powerful belief.<sup id="cite_ref-92"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-92">[92]</a></sup>
+
+### Arakkoa
+
+The [Skettis Outcasts](https://wowpedia.fandom.com/wiki/Skettis_Outcasts "Skettis Outcasts") are [arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") who shunned the teachings of the corrupted [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu") and embraced the Light taught by the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal"). [Kirrik the Awakened](https://wowpedia.fandom.com/wiki/Kirrik_the_Awakened "Kirrik the Awakened") and those like him found a great devotion in the Light. Most of these arakkoa are affiliated with the [Lower City](https://wowpedia.fandom.com/wiki/Lower_City "Lower City").<sup id="cite_ref-93"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-93">[93]</a></sup>
+
+The [high arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") of the [alternate timeline](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") worship [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar") and the sun, similar in ways to how the [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") worship [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she"). Unlike the tauren, the [Adherents of Rukhmar](https://wowpedia.fandom.com/wiki/Adherents_of_Rukhmar "Adherents of Rukhmar") are fanatically devoted to showing how the sun and the Light favor them over all other races and are genocidal supremacists.<sup id="cite_ref-94"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-94">[94]</a></sup> They also used [Apexis](https://wowpedia.fandom.com/wiki/Apexis "Apexis") crystals and devices to channel the Light's power into [lasers](https://wowpedia.fandom.com/wiki/Breath_of_Rukhmar "Breath of Rukhmar") and [Apexis guardians](https://wowpedia.fandom.com/wiki/Apexis_guardian "Apexis guardian"). The [Arakkoa Outcasts](https://wowpedia.fandom.com/wiki/Arakkoa_Outcasts "Arakkoa Outcasts") are incapable of using the light due to the corruption in their bodies, similar to how draenei cannot wield the Light when they become [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken").<sup id="cite_ref-BotSL_95-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-BotSL-95">[95]</a></sup>
+
+### Blood elves
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Liadrin_Hearthstone.jpg/revision/latest/scale-to-width-down/180?cb=20160501001642)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Liadrin_Hearthstone.jpg/revision/latest?cb=20160501001642)
+
+[Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin"), Matriarch of the [Blood Knight order](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights").
+
+Before the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), high elf priests and paladins were known to have been practitioners of the Holy Light in the same vein as humans and dwarves — some, such as [Mehlar Dawnblade](https://wowpedia.fandom.com/wiki/Mehlar_Dawnblade "Mehlar Dawnblade"), despite their race's general seclusion, were even part of the original [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") order. The high elves also had their own priesthood chapters back home in [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), though these were less prominent than their [magic-users](https://wowpedia.fandom.com/wiki/Magisters "Magisters").<sup id="cite_ref-96"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-96">[96]</a></sup>
+
+Many of the Light-wielding elves suffered a mass loss of faith during and after the [Scourge invasion of Quel'Thalas](https://wowpedia.fandom.com/wiki/The_Scourge_invasion_of_Quel%27Thalas "The Scourge invasion of Quel'Thalas"), in which 90% of their people were slaughtered and their kingdom was sacked. Renaming themselves the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), many of them swore off the Light, condemning it as a fickle thing that had faltered in the defense of their people during the undead onslaught.<sup id="cite_ref-TBC_BtS_97-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-TBC_BtS-97">[97]</a></sup>
+
+When Prince [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") and his blood elves conquered [Tempest Keep](https://wowpedia.fandom.com/wiki/Tempest_Keep "Tempest Keep"), they discovered a lone [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") who had stayed behind to maintain the keep's defenses. With some difficulty, Kael'thas subdued the [M'uru](https://wowpedia.fandom.com/wiki/M%27uru "M'uru") and sent it to [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") so that the magic-addicted blood elves could feed upon it.
+
+After long months of study and experimentation, [Magister Astalor Bloodsworn](https://wowpedia.fandom.com/wiki/Magister_Astalor_Bloodsworn "Magister Astalor Bloodsworn") and his fellow wizards learned how to manipulate and corrupt the naaru's luminous energies. In the end, the sorcerers devised a process by which the powers of the Light could be transferred to recipients who had not earned such abilities. Instead of feeding upon the naaru's magic, the blood elves would wield the naaru's Light-given powers themselves.<sup id="cite_ref-TBC_BtS_97-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-TBC_BtS-97">[97]</a></sup>
+
+[Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin"), formerly a priestess, had recently renounced her vows, for she felt the Light had abandoned her people. She volunteered to be the first to bend the powers stolen from M'uru to her will. With her decision, a new order was born: the [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights"). Most members of the Blood Knights were once part of the Royal Guard – proud defenders of high elven society who came to believe that the Light had failed them in their hour of greatest need. They saw their appropriation of the captive naaru's powers as well-deserved justice.<sup id="cite_ref-98"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-98">[98]</a></sup>
+
+Eventually, M'uru was abducted and defeated by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), and his heart was used by [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") to purify and restore the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell") as a fount of both holy and [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") energy. Blood elves who wield the Light now do so through the power of the renewed Sunwell. It is a harmonious relationship, no longer one of discord caused by the blood elves' attempts to bend the Light to their will.<sup id="cite_ref-ACD1_10-3"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD1-10">[10]</a></sup>
+
+Notable Thalassian Light-wielders include [Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin"), [High Priest Vandellor](https://wowpedia.fandom.com/wiki/Vandellor "Vandellor"), [Lord Solanar Bloodwrath](https://wowpedia.fandom.com/wiki/Lord_Solanar_Bloodwrath "Lord Solanar Bloodwrath"), and [Mehlar Dawnblade](https://wowpedia.fandom.com/wiki/Mehlar_Dawnblade "Mehlar Dawnblade").
+
+### Draenei
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Prophet_Velen_Mercenaries_2.jpg/revision/latest/scale-to-width-down/180?cb=20211012192929)](https://static.wikia.nocookie.net/wowpedia/images/4/48/Prophet_Velen_Mercenaries_2.jpg/revision/latest?cb=20211012192929)
+
+[Velen](https://wowpedia.fandom.com/wiki/Velen "Velen"), the Prophet of the Naaru.
+
+Nearly twenty-five thousand years ago, the [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar") race arose on the world of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"). They were extremely intelligent and had a natural affinity for magic in all its myriad forms. Using their gifts, they developed a vast and wondrous society. Unfortunately, the eredar's accomplishments caught the attention of [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), the Destroyer of Worlds. He had already begun his [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") to eradicate all life from the cosmos, and he believed that the brilliant eredar would be pivotal in leading the vast demonic army he was gathering. Thus, he contacted the eredar's three most prominent leaders: [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"), and [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen"). In exchange for the loyalty of the eredar race, Sargeras offered untold power and knowledge.<sup id="cite_ref-Unbroken_99-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Unbroken-99">[99]</a></sup>
+
+Although the offer sounded very tempting, Velen had a vision of the future that filled him with sick dread. Sargeras had spoken the truth: the eredar who joined the Dark Titan would indeed gain enormous power and knowledge. However, the eredar would themselves be transformed into [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"). Velen saw the Legion in all its terrible might and witnessed the destruction it would wreak upon all of creation. He hastened to warn Kil'jaeden and Archimonde, but they dismissed his concerns, for they had been enticed by Sargeras' promises. They gave Sargeras their allegiance and were transformed into colossal beings of depthless evil. The sheer power that Sargeras commanded made direct opposition unthinkable.<sup id="cite_ref-100"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-100">[100]</a></sup>
+
+Velen nearly despaired, but his prayer for help was overheard. A being came to Velen and explained that it was one of the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru"), a race of sentient energy beings bent on stopping the Burning Crusade. The naaru offered to take Velen and any other like-minded eredar to safety. Deeply relieved, Velen gathered the other eredar who had thus far refused to join Sargeras. Naming themselves the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"), or "exiled ones" in the Eredun language, the renegades barely escaped from Argus, with the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") only moments behind. Kil'jaeden was furious with what he felt was Velen's betrayal, and the demon vowed to hunt Velen and the rest of the draenei to the ends of the cosmos if need be. The Legion chased the draenei for many thousands of years. The draenei visited many worlds and explored much of the known cosmos in their quest to find a safe harbor. Still, the Legion would not give up its pursuit. Meanwhile, the enigmatic naaru race blessed the draenei with Light-given knowledge and power.<sup id="cite_ref-Behind_The_Scenes_101-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Behind_The_Scenes-101">[101]</a></sup>
+
+Draenei serve the "Holy Light of Creation" as either a [Vindicator](https://wowpedia.fandom.com/wiki/Vindicator "Vindicator"),<sup id="cite_ref-Unbroken_99-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Unbroken-99">[99]</a></sup> an [Anchorite](https://wowpedia.fandom.com/wiki/Anchorite "Anchorite"),<sup id="cite_ref-102"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-102">[102]</a></sup> or a priest are some of the most common profession choices for the draenei. The draenei prophet, Velen, is also a staunch practitioner of the Light, and the high vindicator has a seat as an [Exarch](https://wowpedia.fandom.com/wiki/Exarch "Exarch").
+
+Unlike the humans and dwarves, whose knowledge of the Light is tied mainly to religious sects, and the blood elves, who usually channel their powers through the Sunwell, the draenei have a more direct link to it through their relationship with the naaru.<sup id="cite_ref-TBC_FAQ_4-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-TBC_FAQ-4">[4]</a></sup> [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei") for example, infuse their bodies with the very essence of the Holy Light.<sup id="cite_ref-ThousandYearsWar_17-4"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ThousandYearsWar-17">[17]</a></sup> One of Prophet Velen's ultimate goals is to form a prophecized [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light") against the Legion, a grand Light-based coalition of all manner of races.<sup id="cite_ref-103"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-103">[103]</a></sup> The draenei also have an explicit priesthood in the [Aldor](https://wowpedia.fandom.com/wiki/Aldor "Aldor"), an ancient order of draenei priests and priestesses once led by Velen himself, calling themselves the "keepers of the Light".<sup id="cite_ref-OS_104-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-OS-104">[104]</a></sup>
+
+Notable draenei Light-wielders include [Prophet Velen](https://wowpedia.fandom.com/wiki/Velen "Velen"), [Vindicator Maraad](https://wowpedia.fandom.com/wiki/Vindicator_Maraad "Vindicator Maraad"), [Yrel](https://wowpedia.fandom.com/wiki/Yrel "Yrel"), and [High Priestess Ishanah](https://wowpedia.fandom.com/wiki/High_Priestess_Ishanah "High Priestess Ishanah").
+
+### Dwarves
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/MoiraHS.jpg/revision/latest/scale-to-width-down/180?cb=20150406103732)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/MoiraHS.jpg/revision/latest?cb=20150406103732)
+
+[Moira Thaurissan](https://wowpedia.fandom.com/wiki/Moira_Thaurissan "Moira Thaurissan"), Queen of the [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan").
+
+Of Azeroth's races, dwarves and humans seem to have the most in common in their worship of the Light, with few (if any) notable differences in their approach, by the fact that humans are the ones who introduced the dwarves to the Holy Light.<sup id="cite_ref-105"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-105">[105]</a></sup>
+
+While some Ironforge dwarves worship the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), many follow the Church of the Holy Light, which has some in its ranks, while dwarves paladins are also inducted into the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), and can also be seen in the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade"). At least some Dark Iron dwarves also practice faith in the Light, becoming priests and paladins.<sup id="cite_ref-106"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-106">[106]</a></sup><sup id="cite_ref-107"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-107">[107]</a></sup><sup id="cite_ref-108"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-108">[108]</a></sup>
+
+Notable dwarven Light-wielders include [High Priest Rohan](https://wowpedia.fandom.com/wiki/High_Priest_Rohan "High Priest Rohan"), [Valgar Highforge](https://wowpedia.fandom.com/wiki/Valgar_Highforge "Valgar Highforge"), [Moira Thaurissan](https://wowpedia.fandom.com/wiki/Moira_Thaurissan "Moira Thaurissan"), and [Frida Ironbellows](https://wowpedia.fandom.com/wiki/Frida_Ironbellows "Frida Ironbellows").
+
+### Gilneans
+
+In the early days of humanity and its civilization, many tribes of humans had primitive belief systems that incorporated simple nature magic. However, the rise of organized religion such as the Holy Light and the potent arcane magics introduced by the high elves quickly supplanted such traditions. In the center of [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City") is located the [Light's Dawn Cathedral](https://wowpedia.fandom.com/wiki/Light%27s_Dawn_Cathedral "Light's Dawn Cathedral"), the heart of the Cult of Light in the kingdom, where the Gilnean priests of the clergy are present and officiate.
+
+Due to its relative isolation, the countryside of [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas "Gilneas") has retained a degree of their ancient culture in the contemporary era, the religious leaders of what was in Gilneas referred to as the "old ways" eventually became "harvest-witches"; those who used their nature powers to augment Gilneas' agricultural output during and following its period of industrialization.<sup id="cite_ref-ACD3_34-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD3-34">[34]</a></sup>
+
+Notable Gilnean Light-wielders include [Sister Almyra](https://wowpedia.fandom.com/wiki/Sister_Almyra "Sister Almyra") and [Sister Elsington](https://wowpedia.fandom.com/wiki/Sister_Elsington "Sister Elsington").
+
+### Gnomes
+
+The [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") have had an interest in the Light since they joined the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), but they were so focused on technology and, later, the retaking of [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan") that studying the Light didn't feel necessary to them; the dwarven priests and paladins of [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge") served as the only connection to the Light they needed.
+
+Now that the gnomes have reclaimed a foothold in Gnomeregan and begun rebuilding their culture outside of Ironforge, however, they've recognized the importance of having followers of the Light in their own ranks. In addition, researching new methods of purifying irradiated gnomes has led to radical advances in Light-based technology!<sup id="cite_ref-ACD2_41-3"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD2-41">[41]</a></sup>
+
+Notable gnome Light-wielders include ["Doc" Cogspin](https://wowpedia.fandom.com/wiki/%22Doc%22_Cogspin ""Doc" Cogspin") and [High Cleric Alphus](https://wowpedia.fandom.com/wiki/High_Cleric_Alphus "High Cleric Alphus").
+
+### Humans
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Uther_HoW.jpg/revision/latest/scale-to-width-down/180?cb=20210404001235)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Uther_HoW.jpg/revision/latest?cb=20210404001235)
+
+[Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"), First paladin and Supreme Commander of the [Order of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand").
+
+The Holy Light is a central part of civilized [human](https://wowpedia.fandom.com/wiki/Human "Human") society. It is the primary human [religion](https://wowpedia.fandom.com/wiki/Religion "Religion") and a staple of worship, respect, and honor in the societies of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") and [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), both of whom have produced Light-wielders of note and renown. Human paladins of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") often become members of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), seeking to do justice across Azeroth, while other humans join the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade"). The humans were the first race on Azeroth to utilize the Light in an offensive manner through the creation of paladins, employing them against the [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") forces and then the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Human Light-wielders must abide by a strict code of moral conduct — instilled in them by teachings of the [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light") — and face the gradual loss of their powers should they knowingly commit acts of evil.
+
+Humans also founded the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), a branch of errant paladins and priests (among others) driven zealous in their war against the undead. Unlike the Silver Hand's emphasis on retribution through clarity and righteousness over vengeance, the Crusade is vicious, brutal, and indiscriminate in its cause: if one does not stand with the Scarlet Crusade, one is seen as a heretic. In spite of their attitude, the Scarlet Crusade genuinely believes that they are doing righteous work, and thus have not lost their connection to the Light.
+
+Notable human Light-wielders include [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"), [High Exarch Turalyon](https://wowpedia.fandom.com/wiki/High_Exarch_Turalyon "High Exarch Turalyon"), [Highlord Tirion Fordring](https://wowpedia.fandom.com/wiki/Highlord_Tirion_Fordring "Highlord Tirion Fordring"), [Alexandros Mograine](https://wowpedia.fandom.com/wiki/Alexandros_Mograine "Alexandros Mograine"), [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), and [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn").
+
+### Tauren
+
+The [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Seers](https://wowpedia.fandom.com/wiki/Seers "Seers") and [Sunwalkers](https://wowpedia.fandom.com/wiki/Sunwalkers "Sunwalkers") aim to revere the light of hope that the Earth Mother shines upon the world, through the use of [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")'s power,<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-109">[109]</a></sup> by worshipping him and wield his Light powers, essentially believing this practice to be balancing out the night elves' worship of the moon.<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-110">[110]</a></sup>
+
+Notable tauren Light-wielders include [Aponi Brightmane](https://wowpedia.fandom.com/wiki/Aponi_Brightmane "Aponi Brightmane"), [Sunwalker Dezco](https://wowpedia.fandom.com/wiki/Sunwalker_Dezco "Sunwalker Dezco") and [Tahu Sagewind](https://wowpedia.fandom.com/wiki/Tahu_Sagewind "Tahu Sagewind").
+
+### Others
+
+Though wielding the Light is most prominent among humans, dwarves, blood elves, and draenei, other races also use the Light — or powers closely resembling the Light — through various means, though their relation to the above powers (all of which have fairly clear connections) are usually ambiguous.
+
+Among the pandaren, some give the impression that the Light is a foreign concept to pandaren, it's notably the case of [Jojo Ironbrow](https://wowpedia.fandom.com/wiki/Jojo_Ironbrow "Jojo Ironbrow") when the [Tushui](https://wowpedia.fandom.com/wiki/Tushui "Tushui") arrive in Stormwind. However, some pandaren use the Light, like [Yalia Sagewhisper](https://wowpedia.fandom.com/wiki/Yalia_Sagewhisper "Yalia Sagewhisper") who has found the Light and is actually a Champion of the [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave"), indicating that knowledge of the Light is already well established among some of the pandaren by the time of adventurers' arrival in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"). One possibility is that the term is not used on the [Wandering Isle](https://wowpedia.fandom.com/wiki/Wandering_Isle "Wandering Isle") (Jojo's home), but is used on [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria").
+
+[Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") paladins are very rare, with only a few being seen in the game. [Delas Moonfang](https://wowpedia.fandom.com/wiki/Delas_Moonfang "Delas Moonfang") is a priestess who is learning the ways of a paladin, where her uncle [Nerus Moonfang](https://wowpedia.fandom.com/wiki/Nerus_Moonfang "Nerus Moonfang") and [Alynblaze](https://wowpedia.fandom.com/wiki/Alynblaze "Alynblaze") are ancients, fully trained paladins. However, night elven [priestesses](https://wowpedia.fandom.com/wiki/Priestess_of_the_Moon "Priestess of the Moon") who also wield Light-esque abilities, are followers of [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") rather than followers of the Holy Light. [Prophet Velen](https://wowpedia.fandom.com/wiki/Prophet_Velen "Prophet Velen") believes there to be some striking similarities between the night elven goddess and the naaru, though this notion has been met with criticism by [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind").<sup id="cite_ref-ACD2_41-4"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-ACD2-41">[41]</a></sup>
+
+The [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"), against their nature, also have access to priests, and at least [one](https://wowpedia.fandom.com/wiki/Sir_Zeliek "Sir Zeliek") undead paladin exists. The act of channeling the Light is painful for the undead, but not impossible. Light-wielding [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") are fairly rare and are somewhat antithetical to the prime Forsaken religion: the [Cult of Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadow "Cult of Forgotten Shadow").
+
+Inhabitants of [Drustvar](https://wowpedia.fandom.com/wiki/Drustvar "Drustvar") in [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") also worship the Light.<sup id="cite_ref-111"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-111">[111]</a></sup><sup id="cite_ref-112"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-112">[112]</a></sup><sup id="cite_ref-113"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-113">[113]</a></sup><sup id="cite_ref-114"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-114">[114]</a></sup><sup id="cite_ref-115"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-115">[115]</a></sup> During the [invasion of Durotar](https://wowpedia.fandom.com/wiki/Invasion_of_Durotar "Invasion of Durotar"), the Kul Tiras navy deployed Light-wielding [chaplains](https://wowpedia.fandom.com/wiki/Chaplain_(Warcraft_III) "Chaplain (Warcraft III)") and [elites](https://wowpedia.fandom.com/wiki/Elite_Chaplain "Elite Chaplain"), under the guidance of a [superior officer](https://wowpedia.fandom.com/wiki/Chief_of_Chaplains "Chief of Chaplains"). At least [two](https://wowpedia.fandom.com/wiki/Inquisitor_Erik "Inquisitor Erik") [members](https://wowpedia.fandom.com/wiki/Cleric_Loriette "Cleric Loriette") of the [Order of Embers](https://wowpedia.fandom.com/wiki/Order_of_Embers "Order of Embers") also wield the Light, and some Kul Tirans can be found among the [Purified](https://wowpedia.fandom.com/wiki/Purified "Purified") that defend Drustvar during [Faction Assaults](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Drustvar "Faction Assault on Drustvar").
+
+In the [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire"), the [prelates](https://wowpedia.fandom.com/wiki/Prelate "Prelate") are [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari "Zandalari") paladins who serve the Loa of Kings [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan"). They are the highest order of holy warriors to serve any loa, taking only those gifted from birth with prowess in battle and gifted by the loa, and crafting champions of light to defend their empire. After Rezan's death, the prelates were cut off from his power except for a handful of his followers.<sup id="cite_ref-116"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-116">[116]</a></sup>
+
+In _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_, [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") and [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin") also have access to the priest class, though where they stand in relation to the Light is unclear.
+
+In _[War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy"): [The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") uses healing magic that suspiciously similar to the Light to [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"). It bathes the Aspect in a golden radiance and its effect are described as calming to [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and co., and eases their troubled minds. Krasus also conjures a golden energy shield to protect himself against [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s magma breath in the same novel, which is not unlike  ![](https://static.wikia.nocookie.net/wowpedia/images/3/35/Spell_holy_powerwordshield.png/revision/latest/scale-to-width-down/16?cb=20100927124748)[\[Power Word: Shield\]](https://wowpedia.fandom.com/wiki/Power_Word:_Shield).
+
+## Worship
+
+### Church of the Holy Light
+
+_Main article: [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Cathedral_of_Light_HS.jpg/revision/latest/scale-to-width-down/200?cb=20211210193057)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Cathedral_of_Light_HS.jpg/revision/latest?cb=20211210193057)
+
+The [Cathedral of Light](https://wowpedia.fandom.com/wiki/Cathedral_of_Light "Cathedral of Light") in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
+
+The Church is the religious institution at the head of the predominant [human](https://wowpedia.fandom.com/wiki/Human "Human") [religion](https://wowpedia.fandom.com/wiki/Religion "Religion"), the worship of the Holy Light. Its clergy is renowned for spreading goodness, as its priests heal and restore in times of peace, protect in times of war, and are guiding the spiritual destiny of their people. They are devoted to the spiritual, and express their unwavering faith by serving the people.<sup id="cite_ref-117"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-117">[117]</a></sup> Among them, the [Clerics of Northshire](https://wowpedia.fandom.com/wiki/Clerics_of_Northshire "Clerics of Northshire") once claimed their mission was to achieve "everlasting peace".<sup id="cite_ref-WarcraftI_118-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-WarcraftI-118">[118]</a></sup>
+
+The [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") are the martial branch of the Church and seek to be an example of the Light's teachings as well as enforce its laws. Powerful holy [knights](https://wowpedia.fandom.com/wiki/Knight "Knight"), these crusaders are called to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. As the general ideology of the Light is to strive to be good in all actions, the [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") respect its teachings depicted in the  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Inv_misc_book_07.png/revision/latest/scale-to-width-down/16?cb=20070329111400)[\[Tome of Divinity\]](https://wowpedia.fandom.com/wiki/Tome_of_Divinity) and the  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Inv_misc_book_07.png/revision/latest/scale-to-width-down/16?cb=20070329111400)[\[Tome of Valor\]](https://wowpedia.fandom.com/wiki/Tome_of_Valor_(Classic)).
+
+As a religious institution, there are many roles and statuses in the Church's ranks:
+
+-   [Acolyte](https://wowpedia.fandom.com/wiki/Acolyte "Acolyte")
+-   [Archbishop](https://wowpedia.fandom.com/wiki/Archbishop "Archbishop")
+-   [Auradin](https://wowpedia.fandom.com/wiki/Auradin "Auradin") [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+-   [Bishop](https://wowpedia.fandom.com/wiki/Bishop "Bishop")
+-   [Chaplain](https://wowpedia.fandom.com/wiki/Chaplain "Chaplain")
+-   [Cleric](https://wowpedia.fandom.com/wiki/Cleric "Cleric")
+-   [Confessor](https://wowpedia.fandom.com/wiki/Confessor "Confessor")
+-   [Inquisitor](https://wowpedia.fandom.com/wiki/Inquisitor_(occupation) "Inquisitor (occupation)")
+-   [Paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin")
+-   [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest")
+-   [Squire](https://wowpedia.fandom.com/wiki/Squire "Squire")
+-   [Templar](https://wowpedia.fandom.com/wiki/Templar "Templar")
+
+### Draenei's clergy
+
+_Main article: [Draenei#Faith](https://wowpedia.fandom.com/wiki/Draenei#Faith "Draenei")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Aldor_Rise.jpg/revision/latest/scale-to-width-down/200?cb=20220807213613)](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Aldor_Rise.jpg/revision/latest?cb=20220807213613)
+
+The [Aldor Rise](https://wowpedia.fandom.com/wiki/Aldor_Rise "Aldor Rise") in [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City").
+
+As the draenei were introduced to the Light by the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") while sailing across the cosmos aboard [Oshu'gun](https://wowpedia.fandom.com/wiki/Oshu%27gun "Oshu'gun"), their society is centered around the "Holy Light of Creation".<sup id="cite_ref-TBC_FAQ_4-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-TBC_FAQ-4">[4]</a></sup>
+
+Blessed by the naaru with Light-given knowledge and power, one of them being the  ![](https://static.wikia.nocookie.net/wowpedia/images/2/28/Spell_holy_holyprotection.png/revision/latest/scale-to-width-down/16?cb=20060923091352)[\[Gift of the Naaru\]](https://wowpedia.fandom.com/wiki/Gift_of_the_Naaru) to signify their new connection the Light, the draenei vowed to honor the Light and uphold the naaru's altruistic ideals. As a result, the draenei has their own religious institutions, their own holy places of worship, and explicit priesthood such as the [Omenai](https://wowpedia.fandom.com/wiki/Omenai "Omenai") or the [Aldor](https://wowpedia.fandom.com/wiki/Aldor "Aldor"), an ancient order of draenei priests and priestesses once led by [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen"),<sup id="cite_ref-119"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-119">[119]</a></sup> calling themselves the "keepers of the Light" and in charge with the safeguarding of the draenei holy sites and altars.<sup id="cite_ref-120"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-120">[120]</a></sup>
+
+Thus, the draenei serve the Light as [Vindicators](https://wowpedia.fandom.com/wiki/Vindicator "Vindicator") or [Anchorites](https://wowpedia.fandom.com/wiki/Anchorite "Anchorite"), the most common profession choices for the pious draenei.
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Followers of the Holy Light do not worship any gods or beings, the power comes from some benevolent force, known simply as the "Light".<sup id="cite_ref-121"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-121">[121]</a></sup>
+
+Different cultures and organizations' reverence for the Light is collectively called the **Faith of the Holy Light**. Most [humans](https://wowpedia.fandom.com/wiki/Human "Human"), [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"), and some [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") follow the path of the Holy Light. It is a faith that advocates purity, goodness, kindness, and compassion in the face of adversity. Those who belong to this faith are among the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s greatest foes.<sup id="cite_ref-122"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-122">[122]</a></sup> Some organizations are [heretics of the Holy Light](https://wowpedia.fandom.com/wiki/Heretics_of_the_Holy_Light "Heretics of the Holy Light") — while they still follow the holy light, they have altered aspects of the philosophy.
+
+Domains: Healing, Protection, War. [Priests](https://wowpedia.fandom.com/wiki/Priest "Priest") of the Holy Light who serve the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade") can gain access to the Crusader, Healing, and War domains (but not Protection).<sup id="cite_ref-123"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-123">[123]</a></sup>
+
+### Church of the Holy Light
+
+_Main article: [Church of the Holy Light#In the RPG](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light#In_the_RPG "Church of the Holy Light")_
+
+No one knows how the Church was founded, and no one remembers when people first discovered the Holy Light - or were discovered by it. In a time prior to the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), humans began preaching about the Holy Light; explaining that it is a great and benevolent force that sought out mortal spirits interested in helping others and protecting life. Because the philosophy involves a significant amount of study and contemplation, they likely built libraries before churches. As the organization grew, the places of teaching and study grew as well. Eventually, all of the individual churches began working together and formed the Church of the Holy Light.<sup id="cite_ref-APG152_124-0"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-APG152-124">[124]</a></sup>
+
+The Church sends its people all over the world, spreading the wisdom and comfort of the Holy Light. They also do what they can to help people with more practical matters, from building homes to settling family disputes to scaring off enemies. It is all very noble, of course, but that fits with the Holy Light's teachings of making the world a better place and making oneself better by helping other people. The Church has everyone's best interests at heart, and the priest, paladins, and lay members do their best to help everyone. It is a [religion](https://wowpedia.fandom.com/wiki/Religion "Religion") that is all about making people truly happy, not to mention a religion whose practitioners show clear evidence of divine blessing.
+
+For a long time, the Church was the dominant human religion. The followers of the Holy Light were everywhere, supporting civilizations, building cities, founding temples, and generally bringing light and hope and help to everyone. Then the First War began. And there were the members of the Church, right in the thick of things, using their Light-given gifts to hold back the Horde. It was impressive — awe-inspiring, really. Unfortunately (say some), most of the priests focused on defending people rather than taking the fight to the Horde. And there just weren’t enough priests to go around. The leader of the Holy Order of Northshire Clerics during the war was Archbishop Alonsus Faol, and his apprentice was a devout lad named Uther. After the First War, Uther knew that that the Church needed to do more when the orcs came again — its people needed to stand up and fight instead of just healing and defending. They needed to go after the darkness and actively prevent it from harming anyone, rather than waiting for it to come to them. He issued a call to all the bravest knights to join his new order, the Knights of the Silver Hand, and thus the paladins were born. They saw their first battles in the Second War and were instrumental in the Alliance’s victory.<sup id="cite_ref-APG152_124-1"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-APG152-124">[124]</a></sup>
+
+## Notes and trivia
+
+-   [Shu-Zen](https://wowpedia.fandom.com/wiki/Shu-Zen,_the_Divine_Sentinel "Shu-Zen, the Divine Sentinel") is said to be a holy gift from the Light.
+-   In the older games, the Light was sometimes referred to as the "spirit of humanity",<sup id="cite_ref-125"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-125">[125]</a></sup> or the "spirit of mankind".<sup id="cite_ref-126"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-126">[126]</a></sup>
+    -   The [clerics](https://wowpedia.fandom.com/wiki/Cleric "Cleric") of [Northshire Abbey](https://wowpedia.fandom.com/wiki/Northshire_Abbey "Northshire Abbey") used to call the Light "[God](https://wowpedia.fandom.com/wiki/God "God")",<sup id="cite_ref-127"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-127">[127]</a></sup> however, "God" has [lost its usage](https://wowpedia.fandom.com/wiki/Retcon "Retcon") since then.
+-   In the novella _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_, Tirion Fordring is [excommunicated](https://wowpedia.fandom.com/wiki/Excommunication "Excommunication") by Uther who can strip his light-given powers but not his connection with the Light.
+-   According to [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw"), many of those present in the [Cathedral of Light](https://wowpedia.fandom.com/wiki/Cathedral_of_Light "Cathedral of Light") for the induction of [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") into the [Order of the Silver Hand](https://wowpedia.fandom.com/wiki/Order_of_the_Silver_Hand "Order of the Silver Hand") noted that the Light itself seemed uncertain whether to bless the young prince.<sup id="cite_ref-128"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-128">[128]</a></sup>
+-   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") realized that the paladin [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") was not just a warrior, but akin to a shaman-except that the forces he tapped were somehow on a grander scale than a mere planet's.<sup id="cite_ref-129"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-129">[129]</a></sup>
+-   In a vision of what would happen if he accepted Sargeras' offer, [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") saw light radiate from him, but it was not the golden Holy Light, it was a sickly [green](https://wowpedia.fandom.com/wiki/Fel "Fel").
+-   [High General Abbendis](https://wowpedia.fandom.com/wiki/Brigitte_Abbendis "Brigitte Abbendis") believed that the Light had called to her,<sup id="cite_ref-130"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-130">[130]</a></sup><sup id="cite_ref-131"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-131">[131]</a></sup> and that it had taken notice of its believers' good deeds, works, and prayers. She stated that the force of its voice had clarity and sense of purpose. However, the entity that called her was actually something else far more sinister - as she said that it commanded her to abandon the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade") to its doom, an act she believed was dishonorable - the dreadlord [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis").
+-   [Reanimated Crusaders](https://wowpedia.fandom.com/wiki/Reanimated_Crusader "Reanimated Crusader") in Icecrown can cast the spell [Unholy Light](http://www.wowhead.com/spell=58153), which contrary to what the name implies is actually [Shadow](https://wowpedia.fandom.com/wiki/Shadow "Shadow") magic.<sup id="cite_ref-132"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-132">[132]</a></sup>
+-   The perspective of the practitioners of the Holy Light is closely linked to [agathism](http://en.wikipedia.org/wiki/agathism "wikipedia:agathism") in its philosophy, where the end result is good, even with the evil in between. It is also tied to holism, psychometrics (on oneself), humanistic psychology, transcendentalism, and theological overoptimism. The philosophy shows characteristics of real-world philosophies and religions, such as Transcendence, Pantheism, and the Society of Friends (Quakerism).
+-   The Light [similarly exists](https://diablo.fandom.com/wiki/Light "diablo:Light") in the _[Diablo](https://wowpedia.fandom.com/wiki/Diablo "Diablo")_ universe.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   The "will of the Light" may also be that of beings of Light, like the "[Void](https://wowpedia.fandom.com/wiki/Void "Void")'s will" may be the will of the [void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")'.
+-   It is likely that the "paradise eternal" that the Crusader Bridenbrad was sent to is the Light. The Light could, thus, be akin to heaven in the _Warcraft_ universe.
+-   It is speculated by some that since the [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") rule over the [Void](https://wowpedia.fandom.com/wiki/Void "Void"), there could be entities that rule over the Light as well, commonly referred to as "Light lords" by the fans. This is because of the opposite nature of the Void and the Light.
+
+## Gallery
+
+### Trading Card Game
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Binding_Heal_TCG.jpg/revision/latest/scale-to-width-down/229?cb=20130526150719)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Binding_Heal_TCG.jpg/revision/latest?cb=20130526150719)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Blessed_Defense_%28Assault_on_Icecrown_Citadel%29_TCG.jpg/revision/latest/scale-to-width-down/224?cb=20210405164441)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Blessed_Defense_%28Assault_on_Icecrown_Citadel%29_TCG.jpg/revision/latest?cb=20210405164441)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Blessing_of_the_Just_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20210601022336)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Blessing_of_the_Just_TCG.jpg/revision/latest?cb=20210601022336)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/BlessingOfTrials.jpg/revision/latest/scale-to-width-down/224?cb=20110430000940)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/BlessingOfTrials.jpg/revision/latest?cb=20110430000940)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Blessing_of_Virtue_TCG.jpg/revision/latest/scale-to-width-down/229?cb=20110830183045)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Blessing_of_Virtue_TCG.jpg/revision/latest?cb=20110830183045)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Bottled_Light_TCG.jpg/revision/latest/scale-to-width-down/235?cb=20220808165113)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Bottled_Light_TCG.jpg/revision/latest?cb=20220808165113)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Boundless_Might_TCG.jpg/revision/latest/scale-to-width-down/215?cb=20210513123200)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Boundless_Might_TCG.jpg/revision/latest?cb=20210513123200)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Chastise_TCG.jpg/revision/latest/scale-to-width-down/220?cb=20210513123205)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Chastise_TCG.jpg/revision/latest?cb=20210513123205)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Darkest_Before_the_Light_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20171110194339)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Darkest_Before_the_Light_TCG.jpg/revision/latest?cb=20171110194339)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Divine_Redemption_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20220812211447)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Divine_Redemption_TCG.jpg/revision/latest?cb=20220812211447)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Divine_Spirit_TCG_Full.jpg/revision/latest/scale-to-width-down/230?cb=20170913215656)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Divine_Spirit_TCG_Full.jpg/revision/latest?cb=20170913215656)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/EqualOpportunity.jpg/revision/latest/scale-to-width-down/223?cb=20110428152115)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/EqualOpportunity.jpg/revision/latest?cb=20110428152115)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/86/EssenceOfMending.jpg/revision/latest/scale-to-width-down/232?cb=20110421001351)](https://static.wikia.nocookie.net/wowpedia/images/8/86/EssenceOfMending.jpg/revision/latest?cb=20110421001351)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Hammer_of_Justice_%28Assault_on_Icecrown_Citadel%29_TCG.jpg/revision/latest/scale-to-width-down/288?cb=20190309224515)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Hammer_of_Justice_%28Assault_on_Icecrown_Citadel%29_TCG.jpg/revision/latest?cb=20190309224515)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/86/Hammer_of_Justice_TCG.jpg/revision/latest/scale-to-width-down/194?cb=20090624203417)](https://static.wikia.nocookie.net/wowpedia/images/8/86/Hammer_of_Justice_TCG.jpg/revision/latest?cb=20090624203417)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Heroic_Bulwark_TCG.jpg/revision/latest/scale-to-width-down/230?cb=20210521204902)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Heroic_Bulwark_TCG.jpg/revision/latest?cb=20210521204902)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Holy_Light_TCG.jpg/revision/latest/scale-to-width-down/155?cb=20210516165926)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Holy_Light_TCG.jpg/revision/latest?cb=20210516165926)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Holy_Light_Worldbreaker_TCG.jpg/revision/latest/scale-to-width-down/217?cb=20210513123202)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Holy_Light_Worldbreaker_TCG.jpg/revision/latest?cb=20210513123202)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Holy_Nova_TCG.jpg/revision/latest/scale-to-width-down/222?cb=20210513123203)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Holy_Nova_TCG.jpg/revision/latest?cb=20210513123203)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Holy_Shock_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20160218082518)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Holy_Shock_TCG.jpg/revision/latest?cb=20160218082518)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Holy_Strike_TCG.jpg/revision/latest/scale-to-width-down/225?cb=20180131193735)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Holy_Strike_TCG.jpg/revision/latest?cb=20180131193735)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Holy_Wrath_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20150827035837)](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Holy_Wrath_TCG.jpg/revision/latest?cb=20150827035837)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Illumination_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20210721104028)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Illumination_TCG.jpg/revision/latest?cb=20210721104028)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/Lesson_of_the_Divine_TCG.jpg/revision/latest/scale-to-width-down/190?cb=20180317213105)](https://static.wikia.nocookie.net/wowpedia/images/3/34/Lesson_of_the_Divine_TCG.jpg/revision/latest?cb=20180317213105)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/92/Light_of_Reckoning_TCG.jpg/revision/latest/scale-to-width-down/230?cb=20210513123206)](https://static.wikia.nocookie.net/wowpedia/images/9/92/Light_of_Reckoning_TCG.jpg/revision/latest?cb=20210513123206)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Power_Word_Restore_TCG.jpg/revision/latest/scale-to-width-down/224?cb=20171110201717)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Power_Word_Restore_TCG.jpg/revision/latest?cb=20171110201717)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Power_Word_Shield.jpg/revision/latest/scale-to-width-down/131?cb=20210307222439)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Power_Word_Shield.jpg/revision/latest?cb=20210307222439)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Power_Word_Barrier_TCG.jpg/revision/latest/scale-to-width-down/219?cb=20110825201910)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Power_Word_Barrier_TCG.jpg/revision/latest?cb=20110825201910)
+    
+    Power Word: Barrier (Twilight of the Dragons)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Reckoning_of_the_Light_TCG.jpg/revision/latest/scale-to-width-down/263?cb=20171110083943)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Reckoning_of_the_Light_TCG.jpg/revision/latest?cb=20171110083943)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Redemption_TCG_2.jpg/revision/latest/scale-to-width-down/230?cb=20110608181534)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Redemption_TCG_2.jpg/revision/latest?cb=20110608181534)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Resurrection_TCG.jpg/revision/latest/scale-to-width-down/157?cb=20210516183400)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Resurrection_TCG.jpg/revision/latest?cb=20210516183400)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Seal_of_Divinity_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20180228023526)](https://static.wikia.nocookie.net/wowpedia/images/3/30/Seal_of_Divinity_TCG.jpg/revision/latest?cb=20180228023526)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Seal_of_Righteousness_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20150713102515)](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Seal_of_Righteousness_TCG.jpg/revision/latest?cb=20150713102515)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Timeless_light_by_minhee_kim.jpg/revision/latest/scale-to-width-down/230?cb=20131124084035)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Timeless_light_by_minhee_kim.jpg/revision/latest?cb=20131124084035)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Touched_by_Light_TCG.jpg/revision/latest/scale-to-width-down/179?cb=20210516172010)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Touched_by_Light_TCG.jpg/revision/latest?cb=20210516172010)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Vengeance_of_the_Light_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20180228033905)](https://static.wikia.nocookie.net/wowpedia/images/2/21/Vengeance_of_the_Light_TCG.jpg/revision/latest?cb=20180228033905)
+    
+-   [](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Woe_or_Grow_TCG.JPG/revision/latest?cb=20110608084107)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/WrathOfTuralyon.jpg/revision/latest/scale-to-width-down/224?cb=20110429224953)](https://static.wikia.nocookie.net/wowpedia/images/4/42/WrathOfTuralyon.jpg/revision/latest?cb=20110429224953)
+    
+
+### Hearthstone
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/A_Light_in_the_Darkness_HS.jpg/revision/latest/scale-to-width-down/191?cb=20210808135608)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/A_Light_in_the_Darkness_HS.jpg/revision/latest?cb=20210808135608)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Apotheosis_HS.jpg/revision/latest/scale-to-width-down/210?cb=20220816000610)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Apotheosis_HS.jpg/revision/latest?cb=20220816000610)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/db/Bless_HS.jpg/revision/latest/scale-to-width-down/223?cb=20220815000603)](https://static.wikia.nocookie.net/wowpedia/images/d/db/Bless_HS.jpg/revision/latest?cb=20220815000603)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Condemn_HS.jpg/revision/latest/scale-to-width-down/228?cb=20220815000600)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Condemn_HS.jpg/revision/latest?cb=20220815000600)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Conviction_3_HS.jpg/revision/latest/scale-to-width-down/240?cb=20220811135159)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Conviction_3_HS.jpg/revision/latest?cb=20220811135159)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Devout_Blessings_HS.jpg/revision/latest/scale-to-width-down/217?cb=20220816001239)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Devout_Blessings_HS.jpg/revision/latest?cb=20220816001239)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Forge_in_Light_HS.jpg/revision/latest/scale-to-width-down/203?cb=20220812205402)](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Forge_in_Light_HS.jpg/revision/latest?cb=20220812205402)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Gift_of_Luminance_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220816001240)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Gift_of_Luminance_HS.jpg/revision/latest?cb=20220816001240)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/92/Gift_of_the_Naaru_HS.jpg/revision/latest/scale-to-width-down/222?cb=20211205192546)](https://static.wikia.nocookie.net/wowpedia/images/9/92/Gift_of_the_Naaru_HS.jpg/revision/latest?cb=20211205192546)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Heal_HS.jpg/revision/latest/scale-to-width-down/180?cb=20220816000608)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Heal_HS.jpg/revision/latest?cb=20220816000608)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Holy_Ripple_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220815001026)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Holy_Ripple_HS.jpg/revision/latest?cb=20220815001026)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/77/Holy_Word_-_Salvation_HS.jpg/revision/latest/scale-to-width-down/180?cb=20220815001014)](https://static.wikia.nocookie.net/wowpedia/images/7/77/Holy_Word_-_Salvation_HS.jpg/revision/latest?cb=20220815001014)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Invigorating_Sermon_HS.jpg/revision/latest/scale-to-width-down/218?cb=20220813000112)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Invigorating_Sermon_HS.jpg/revision/latest?cb=20220813000112)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Level_Up%21.jpg/revision/latest/scale-to-width-down/249?cb=20210809004814)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Level_Up%21.jpg/revision/latest?cb=20210809004814)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Lightforged_Blessing_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220813000114)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Lightforged_Blessing_HS.jpg/revision/latest?cb=20220813000114)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Mass_Resurrection_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220213164409)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Mass_Resurrection_HS.jpg/revision/latest?cb=20220213164409)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Never_Surrender%21_HS.jpg/revision/latest/scale-to-width-down/253?cb=20220811143718)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Never_Surrender%21_HS.jpg/revision/latest?cb=20220811143718)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Power_Infusion_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220815001511)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Power_Infusion_HS.jpg/revision/latest?cb=20220815001511)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Purify_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220815001034)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Purify_HS.jpg/revision/latest?cb=20220815001034)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Pursuit_of_Justice_HS.jpg/revision/latest/scale-to-width-down/221?cb=20210809004512)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Pursuit_of_Justice_HS.jpg/revision/latest?cb=20210809004512)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/af/Radiance_HS.jpg/revision/latest/scale-to-width-down/215?cb=20220816001242)](https://static.wikia.nocookie.net/wowpedia/images/a/af/Radiance_HS.jpg/revision/latest?cb=20220816001242)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Regenerate_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220815001512)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Regenerate_HS.jpg/revision/latest?cb=20220815001512)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Renew_HS.jpg/revision/latest/scale-to-width-down/222?cb=20210516123726)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Renew_HS.jpg/revision/latest?cb=20210516123726)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Renounce_Darkness_HS.jpg/revision/latest/scale-to-width-down/210?cb=20220815001515)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Renounce_Darkness_HS.jpg/revision/latest?cb=20220815001515)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/16/Righteousness.jpg/revision/latest/scale-to-width-down/249?cb=20210808135311)](https://static.wikia.nocookie.net/wowpedia/images/1/16/Righteousness.jpg/revision/latest?cb=20210808135311)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/80/Shield_of_Honor_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220811143734)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Shield_of_Honor_HS.jpg/revision/latest?cb=20220811143734)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Subdue_HS.jpg/revision/latest/scale-to-width-down/223?cb=20220814231254)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Subdue_HS.jpg/revision/latest?cb=20220814231254)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Time_Out%21_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220816001243)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Time_Out%21_HS.jpg/revision/latest?cb=20220816001243)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Vitality_Surge_HS.jpg/revision/latest/scale-to-width-down/222?cb=20220812211036)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Vitality_Surge_HS.jpg/revision/latest?cb=20220812211036)
+    
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-RotLK_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-RotLK_1-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-RotLK_1-2">c</a></sup> _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 62
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ToD_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ToD_2-1">b</a></sup> _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-BtDP_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-BtDP_3-1">b</a></sup> _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-TBC_FAQ_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-TBC_FAQ_4-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-TBC_FAQ_4-2">c</a></sup> [The Burning Crusade Townhall](https://wowpedia.fandom.com/wiki/The_Burning_Crusade_Townhall "The Burning Crusade Townhall"): [FAQ - Races](https://wowpedia.fandom.com/wiki/The_Burning_Crusade_Townhall/FAQ#Races "The Burning Crusade Townhall/FAQ")
+5.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-5) [Sunwell Plateau epilogue](https://wowpedia.fandom.com/wiki/Sunwell_Plateau_epilogue "Sunwell Plateau epilogue")
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Chronicle10_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Chronicle10_6-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 10
+7.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-7) [Blizzblizz - Entrevista com Interview, 27:43](https://www.youtube.com/watch?v=8PBzHRc4FZY&t=27m43s)
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Chronicle18_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Chronicle18_8-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Chronicle18_8-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Chronicle18_8-3">d</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 18
+9.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Whispers_9-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Whispers_9-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Whispers_9-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Whispers_9-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Whispers_9-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Whispers_9-5">f</a></sup> _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 22: _[Whispers](https://wowpedia.fandom.com/wiki/Whispers "Whispers")_
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD1_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD1_10-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD1_10-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD1_10-3">d</a></sup> [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev") - [Round 1](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_1 "Ask CDev")
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-UVG_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-UVG_11-1">b</a></sup> _[World of Warcraft: Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_, pg. 21
+12.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-12) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, pg. 109
+13.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Secrets_13-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Secrets_13-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Secrets_13-2">c</a></sup> _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 21: _[Secrets](https://wowpedia.fandom.com/wiki/Secrets "Secrets")_
+14.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-14) _[Warcraft III: Reign of Chaos Game Manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")_, pg. 4 - 5
+15.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ToDpg267_15-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ToDpg267_15-1">b</a></sup> _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, pg. 267
+16.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-16) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 142
+17.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ThousandYearsWar_17-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ThousandYearsWar_17-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ThousandYearsWar_17-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ThousandYearsWar_17-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ThousandYearsWar_17-4">e</a></sup> _[A Thousand Years of War](https://wowpedia.fandom.com/wiki/A_Thousand_Years_of_War "A Thousand Years of War")_
+18.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-Sha552_18-0) _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_, pg. 552
+19.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-W3_19-0) _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_
+20.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-WoW_20-0) _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_
+21.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-21) [Sean Copeland on Twitter](https://wowpedia.fandom.com/wiki/Blizzard_lore_posts#SeanCopeland "Blizzard lore posts") (2014-07-22). _"Both priests and paladins can wield the Holy Light. However, not all wield it through the same means (e.g., Elune, An'she)"_
+22.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-22) [Blizzblizz interview with Johnny Cash and Michael Bighby](https://www.youtube.com/watch?v=8PBzHRc4FZY&t=27m55s)
+23.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Dark_Riders_23-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Dark_Riders_23-1">b</a></sup> _[Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders_(comic) "Dark Riders (comic)")_
+24.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-24) [Lich King (tactics)](https://wowpedia.fandom.com/wiki/Lich_King_(tactics) "Lich King (tactics)")
+25.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-25)  ![](https://static.wikia.nocookie.net/wowpedia/images/0/04/Inv_letter_05.png/revision/latest/scale-to-width-down/16?cb=20060831173549)[\[News From The North\]](https://wowpedia.fandom.com/wiki/News_From_The_North)
+26.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-UnboundDarkness_26-0)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[25-30D\] [Unbound Darkness](https://wowpedia.fandom.com/wiki/Unbound_Darkness)
+27.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-27) Ezgi Pajecki 2020-09-26. [Maldraxxus, Shadowlands and Beyond - Interview with Steve Danuser](https://web.archive.org/web/20200927142456/http://lorekeeper.net/en/maldraxxus-shadowlands-and-beyond-interview-with-steve-danuser/). Lorekeeper. Archived from [the original](http://lorekeeper.net/en/maldraxxus-shadowlands-and-beyond-interview-with-steve-danuser/) on 2020-09-27.
+28.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-28) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 18 - 19
+29.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-29) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 13
+30.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-30) _[World of Warcraft: Paragons](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Paragons "World of Warcraft: Paragons")_, pg. 912
+31.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-OfficialSite_31-0) [The Mechanar](http://eu.battle.net/wow/en/zone/the-mechanar/). Retrieved on 2016-03-18.
+32.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-32)  ![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Inv_bracer_armor_gnome_d_01.png/revision/latest/scale-to-width-down/16?cb=20190822183257)[\[Lightbinders\]](https://wowpedia.fandom.com/wiki/Lightbinders)
+33.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-33)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[6-10\] [Freeing the Light](https://wowpedia.fandom.com/wiki/Freeing_the_Light)
+34.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD3_34-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD3_34-1">b</a></sup> [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev") - [Round 3](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_3 "Ask CDev")
+35.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-OBaH2_35-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-OBaH2_35-1">b</a></sup> _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_, chapter 2
+36.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-BtDP21_36-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-BtDP21_36-1">b</a></sup> _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, chapter 21
+37.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-37) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 16
+38.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-38) _[Bloodsworn](https://wowpedia.fandom.com/wiki/Bloodsworn "Bloodsworn")_, pg. 86
+39.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-39) [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Nyorloth](https://wowpedia.fandom.com/wiki/Nyorloth "Nyorloth") [forum post](http://eu.battle.net/wow/en/forum/topic/3313064613?page=3#49)
+40.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-40) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, chapter 13
+41.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD2_41-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD2_41-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD2_41-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD2_41-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-ACD2_41-4">e</a></sup> [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev") - [Round 2](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_2 "Ask CDev")
+42.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-42) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 35
+43.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-43)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[58-60\] [Where is Prince Renathal?](https://wowpedia.fandom.com/wiki/Where_is_Prince_Renathal%3F)
+44.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-44)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[58-60\] [A Lesson in Humility](https://wowpedia.fandom.com/wiki/A_Lesson_in_Humility)
+45.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-45) _[Warcraft III: Reign of Chaos Game Manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")_
+46.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-46) _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ manual, _[Human Hero Units](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual#Paladin "Warcraft III: Reign of Chaos Game Manual")_, Paladin
+47.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-47)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) ![Paladin](https://static.wikia.nocookie.net/wowpedia/images/8/80/Ui-charactercreate-classes_paladin.png/revision/latest/scale-to-width-down/16?cb=20070124144728 "Paladin") \[12\] [Redeeming the Dead](https://wowpedia.fandom.com/wiki/Redeeming_the_Dead)
+48.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-48)  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[25-30G5\] [Deathblow to the Legion](https://wowpedia.fandom.com/wiki/Deathblow_to_the_Legion)
+49.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-49)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Paladin](https://static.wikia.nocookie.net/wowpedia/images/8/80/Ui-charactercreate-classes_paladin.png/revision/latest/scale-to-width-down/16?cb=20070124144728 "Paladin") \[45\] [Fate's Blessing](https://wowpedia.fandom.com/wiki/Fate%27s_Blessing)
+50.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-50) "Priests healed, but their patients were flesh. They mended wounds, cured illnesses and curses, and sometimes, if the Light willed, brought the dead back to life." _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_
+51.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-51)   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) ![Priest](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Ui-charactercreate-classes_priest.png/revision/latest/scale-to-width-down/16?cb=20100721005923 "Priest") \[1-10\] [Resurrecting the Recruits](https://wowpedia.fandom.com/wiki/Resurrecting_the_Recruits)
+52.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-52) [Priest abilities](https://wowpedia.fandom.com/wiki/Priest_abilities "Priest abilities")
+53.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-53) [Paladin abilities](https://wowpedia.fandom.com/wiki/Paladin_abilities "Paladin abilities")
+54.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-54) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, chapter 22
+55.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-55) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, chapter 21
+56.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-56)   _![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Paladin](https://static.wikia.nocookie.net/wowpedia/images/8/80/Ui-charactercreate-classes_paladin.png/revision/latest/scale-to-width-down/16?cb=20070124144728 "Paladin") \[10-45\] [The End of the Saga](https://wowpedia.fandom.com/wiki/The_End_of_the_Saga)_
+57.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-57) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, pg. 212
+58.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-58) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 140
+59.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-OBaH3_59-0) _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_, chapter 3
+60.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-60) _[A Thousand Years of War](https://wowpedia.fandom.com/wiki/A_Thousand_Years_of_War "A Thousand Years of War")_, pg. 8
+61.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-61) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, chapter 9
+62.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-62) _[Ashes to Ashes](https://wowpedia.fandom.com/wiki/Ashes_to_Ashes "Ashes to Ashes")_, pg. 5
+63.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-63) _[Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders")_, pg. 54
+64.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-64) _[Dust to Dust](https://wowpedia.fandom.com/wiki/Dust_to_Dust "Dust to Dust")_
+65.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-65) _[Ashes to Ashes](https://wowpedia.fandom.com/wiki/Ashes_to_Ashes "Ashes to Ashes")_, pg. 25 - 26
+66.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-66) _[A Thousand Years of War](https://wowpedia.fandom.com/wiki/A_Thousand_Years_of_War "A Thousand Years of War") Part Two: The Emerald Star_, pg. 16
+67.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-67) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, chapter 6
+68.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-68) _[Warcraft: Orcs & Humans](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_ manual, [Cleric unit spells](https://wowpedia.fandom.com/wiki/Cleric_(Warcraft_I)#Spells "Cleric (Warcraft I)")
+69.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-69) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, [Paladin unit spells](https://wowpedia.fandom.com/wiki/Paladin_(Warcraft_II)#Spells "Paladin (Warcraft II)")
+70.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-70)   ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) ![Paladin](https://static.wikia.nocookie.net/wowpedia/images/8/80/Ui-charactercreate-classes_paladin.png/revision/latest/scale-to-width-down/16?cb=20070124144728 "Paladin") \[60D\] [Judgement and Redemption](https://wowpedia.fandom.com/wiki/Judgment_and_Redemption)
+71.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-71)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Paladin](https://static.wikia.nocookie.net/wowpedia/images/8/80/Ui-charactercreate-classes_paladin.png/revision/latest/scale-to-width-down/16?cb=20070124144728 "Paladin") \[45\] [Stirring in the Shadows](https://wowpedia.fandom.com/wiki/Stirring_in_the_Shadows)
+72.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-72)  ![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Spell_nature_slow.png/revision/latest/scale-to-width-down/16?cb=20060923184514)[\[Shackle Undead\]](https://wowpedia.fandom.com/wiki/Shackle_Undead)
+73.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Son_73-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Son_73-1">b</a></sup> _[Anduin: Son of the Wolf](https://wowpedia.fandom.com/wiki/Anduin:_Son_of_the_Wolf "Anduin: Son of the Wolf")_
+74.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-74) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, chapter 9
+75.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-75)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-30\] [The Exorcism of Colonel Jules](https://wowpedia.fandom.com/wiki/The_Exorcism_of_Colonel_Jules)
+76.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-76) _[A Thousand Years of War](https://wowpedia.fandom.com/wiki/A_Thousand_Years_of_War "A Thousand Years of War") Part Two: The Emerald Star_, pg. 16 - 17
+77.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-77)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[45-70\] [Forge of Aeons](https://wowpedia.fandom.com/wiki/Forge_of_Aeons_(quest))
+78.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-Of_Blood_and_Honor_78-0) _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_
+79.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-warcraftIII_79-0) [Warcraft III - Undead -> Units -> Death Knight](http://classic.battle.net/war3/undead/units/deathknight.shtml).
+80.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-WotLK8_80-0) _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/Wrath_of_the_Lich_King "Wrath of the Lich King")_ manual, pg. 8 - 9: _Winds of Change: From Dark Horizons to a Beacon of Hope in the World of Warcraft_
+81.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-81)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60D\] [Houses of the Holy](https://wowpedia.fandom.com/wiki/Houses_of_the_Holy)
+82.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-82)  ![](https://static.wikia.nocookie.net/wowpedia/images/1/11/Inv_potion_78.png/revision/latest/scale-to-width-down/16?cb=20061123060134)[\[Tyr's Hand Holy Water\]](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand_Holy_Water)
+83.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-83)  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Inv_staff_05.png/revision/latest/scale-to-width-down/16?cb=20060923022358)[\[Torch of Holy Flame\]](https://wowpedia.fandom.com/wiki/Torch_of_Holy_Flame)
+84.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-84) _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_, chapter 3 - "The expertly weighted hammer felt good in his hands. The holy runes etched in its head shone as brightly as they ever had."
+85.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-85) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, part 1, chapter 5 – "Gavinrad stepped forth, holding an enormous, heavy-looking hammer, its silver head etched with runes and its sturdy haft wrapped in blue leather."
+86.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-86)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[35-40\] [... and My Hammer](https://wowpedia.fandom.com/wiki/..._and_My_Hammer)
+87.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-87)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-45\] [To Be Prepared](https://wowpedia.fandom.com/wiki/To_Be_Prepared_(Alliance))
+88.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-88)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-45\] [To Be Prepared](https://wowpedia.fandom.com/wiki/To_Be_Prepared_(Horde))
+89.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-89) [Lawbringer Armor](https://wowpedia.fandom.com/wiki/Lawbringer_Armor "Lawbringer Armor")
+90.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-90)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [A Symbol of Hope](https://wowpedia.fandom.com/wiki/A_Symbol_of_Hope)
+91.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-91)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Inv_pet_scorchedstone.png/revision/latest/scale-to-width-down/16?cb=20090315122655)[\[Lightbound Runestone\]](https://wowpedia.fandom.com/wiki/Lightbound_Runestone)
+92.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-92) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/663775639275569153)
+93.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-93)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [The Eyes of Skettis](https://wowpedia.fandom.com/wiki/The_Eyes_of_Skettis)
+94.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-94)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[40H\] [Gloriously Incandescent](https://wowpedia.fandom.com/wiki/Gloriously_Incandescent)
+95.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-BotSL_95-0) [Beasts of the Savage Lands — Spires of Arak](https://wowpedia.fandom.com/wiki/WoW_Blog/Beasts_of_the_Savage_Lands#Spires_of_Arak "WoW Blog/Beasts of the Savage Lands")
+96.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-96) [Priest (Warcraft III)](https://wowpedia.fandom.com/wiki/Priest_(Warcraft_III) "Priest (Warcraft III)")
+97.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-TBC_BtS_97-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-TBC_BtS_97-1">b</a></sup> [Burning Crusade Behind The Scenes - Blood Elves](http://www.youtube.com/watch?v=NE-4Edh3RuM). YouTube (2008-03-19).
+98.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-98) [The Burning Crusade Townhall/Shamans and Paladins](https://wowpedia.fandom.com/wiki/The_Burning_Crusade_Townhall/Shamans_and_Paladins "The Burning Crusade Townhall/Shamans and Paladins")
+99.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Unbroken_99-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-Unbroken_99-1">b</a></sup> _[Unbroken](https://wowpedia.fandom.com/wiki/Unbroken_(short_story) "Unbroken (short story)")_
+100.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-100) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 51 - 52
+101.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-Behind_The_Scenes_101-0) [Burning Crusade Behind The Scenes - The Draenei](https://www.youtube.com/watch?v=kei61shkWhU) (2008-03-19). Retrieved on 2016-05-26.
+102.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-102)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-30\] [The Cleansing Must Be Stopped](https://wowpedia.fandom.com/wiki/The_Cleansing_Must_Be_Stopped)
+103.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-103) _[Prophet's Lesson](https://wowpedia.fandom.com/wiki/Prophet%27s_Lesson "Prophet's Lesson")_
+104.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-OS_104-0) [World of Warcraft Community Site - Retrieved](http://web.archive.org/web/20130309074414/http://us.battle.net/wow/en/faction/the-aldor)
+105.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-105)   ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) ![Paladin](https://static.wikia.nocookie.net/wowpedia/images/8/80/Ui-charactercreate-classes_paladin.png/revision/latest/scale-to-width-down/16?cb=20070124144728 "Paladin") \[1\] [Consecrated Rune](https://wowpedia.fandom.com/wiki/Consecrated_Rune_(Classic))
+106.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-106) [Betild Deepanvil](https://wowpedia.fandom.com/wiki/Betild_Deepanvil "Betild Deepanvil")
+107.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-107) [Anointed Disciple](https://wowpedia.fandom.com/wiki/Anointed_Disciple "Anointed Disciple")
+108.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-108) [Darkforged Crusader](https://wowpedia.fandom.com/wiki/Darkforged_Crusader "Darkforged Crusader")
+109.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-109) [Aponi Brightmane#Quotes](https://wowpedia.fandom.com/wiki/Aponi_Brightmane#Quotes "Aponi Brightmane")
+110.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-110) _[World of Warcraft: Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_
+111.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-111) **[Besieged Villager](https://wowpedia.fandom.com/wiki/Besieged_Villager "Besieged Villager") says:** "By the light! You can speak!" Arom exclaimed!
+112.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-112) **[Lost Soul](https://wowpedia.fandom.com/wiki/Lost_Soul_(Drustvar) "Lost Soul (Drustvar)") says:** The Light is so warm...
+113.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-113)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[20-60\] [To Market, To Market](https://wowpedia.fandom.com/wiki/To_Market,_To_Market)
+114.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-114)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[20-60\] [The Adventurer's Society](https://wowpedia.fandom.com/wiki/The_Adventurer%27s_Society)
+115.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-115)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-70\] [Shapeshifters!](https://wowpedia.fandom.com/wiki/Shapeshifters!) - **[Liam](https://wowpedia.fandom.com/wiki/Liam_(child) "Liam (child)") says:** By the light! A talking cat!
+116.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-116) [High Prelate Rata#Quotes](https://wowpedia.fandom.com/wiki/High_Prelate_Rata#Quotes "High Prelate Rata")
+117.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-117) [http://us.battle.net/wow/en/game/class/priest](http://us.battle.net/wow/en/game/class/priest)
+118.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-WarcraftI_118-0) _[Warcraft: Orcs & Humans](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_ manual, _[Azeroth Army of the First War](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans_manual#Cleric "Warcraft: Orcs & Humans manual")_, Cleric
+119.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-119) [World of Warcraft Community Site - Retrieved](http://web.archive.org/web/20130309074414/http://us.battle.net/wow/en/faction/the-aldor)
+120.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-120)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Restoring the Light](https://wowpedia.fandom.com/wiki/Restoring_the_Light)
+121.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-121) _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 152
+122.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-122) _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_, 71
+123.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-123) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 87
+124.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-APG152_124-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Light#cite_ref-APG152_124-1">b</a></sup> _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 152
+125.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-125) _[Warcraft: Orcs & Humans](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_ manual, _[Azeroth Army of the First War](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans_manual#Cleric "Warcraft: Orcs & Humans manual")_, Cleric
+126.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-126) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, _[Paladin Spells](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#Paladin_Spells "Warcraft II: Tides of Darkness manual")_
+127.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-127) [Warcraft I manual#Cleric Spells](https://wowpedia.fandom.com/wiki/Warcraft_I_manual#Cleric_Spells "Warcraft I manual")
+128.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-128) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 17
+129.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-129) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, pg. 617
+130.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-130)  ![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Inv_misc_book_05.png/revision/latest/scale-to-width-down/16?cb=20070329111243)[\[The Path of Redemption\]](https://wowpedia.fandom.com/wiki/The_Path_of_Redemption_(Updated_version))
+131.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-131)  ![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Inv_misc_book_05.png/revision/latest/scale-to-width-down/16?cb=20070329111243)[\[The Diary of High General Abbendis\]](https://wowpedia.fandom.com/wiki/The_Diary_of_High_General_Abbendis)
+132.  [^](https://wowpedia.fandom.com/wiki/Light#cite_ref-132) [Dave Kosak on Twitter](https://wowpedia.fandom.com/wiki/Blizzard_lore_posts#Dave_Kosak "Blizzard lore posts")
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Cosmic_forces_and_magics "Template:Cosmic forces and magics")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Cosmic_forces_and_magics?action=edit)
+
+Warcraft cosmos
+
+ |
+| --- |
+|  |
+| Forces | 
+
+-   **Light**
+-   [Void](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+
+
+
+ | 
+
+[![WoW Chronicle Magic.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest/scale-to-width-down/120?cb=20180325103405)](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest?cb=20180325103405)
+
+ |
+|  |
+| [Magic](https://wowpedia.fandom.com/wiki/Magic "Magic") | 
+
+-   [Holy](https://wowpedia.fandom.com/wiki/Holy "Holy")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Shadow_(magic) "Shadow (magic)")
+-   [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature")
+    -   [Blood](https://wowpedia.fandom.com/wiki/Blood_magic "Blood magic")
+-   [Necromantic](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer")
+    -   [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination")
+-   [Arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane")
+-   [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel")
+
+
+
+ |
+|  |
+| Manifestations | 
+
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+-   [Void Lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+-   [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") and [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+-   [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") and [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper")
+-   [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+|  |
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+
+-   **Light**
+-   [Void](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
+-   [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")
+-   Reality ([Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") and [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"))
+
+
+
+ |
+|  |
+| [Elements](https://wowpedia.fandom.com/wiki/Element "Element") | 
+
+-   [Earth](https://wowpedia.fandom.com/wiki/Spirit_of_Earth "Spirit of Earth")
+-   [Air](https://wowpedia.fandom.com/wiki/Spirit_of_Air "Spirit of Air")
+-   [Fire](https://wowpedia.fandom.com/wiki/Spirit_of_Fire "Spirit of Fire")
+-   [Water](https://wowpedia.fandom.com/wiki/Spirit_of_Water "Spirit of Water")
+-   [Spirit](https://wowpedia.fandom.com/wiki/Spirit_(lore) "Spirit (lore)")
+-   [Decay](https://wowpedia.fandom.com/wiki/Decay "Decay")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe "Template:Warcraft universe")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe?action=edit)
+
+Worlds of the [_Warcraft_ universe](https://wowpedia.fandom.com/wiki/Warcraft_universe "Warcraft universe")
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs "Template:Religions and beliefs")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs?action=edit)
+
+[Religions](https://wowpedia.fandom.com/wiki/Religion "Religion") and beliefs
+
+
+
+ |
+| --- |

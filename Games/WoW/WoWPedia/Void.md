@@ -1,0 +1,433 @@
+_Not to be confused with [Void (cat)](https://wowpedia.fandom.com/wiki/Void_(cat) "Void (cat)") or [Shadow (disambiguation)](https://wowpedia.fandom.com/wiki/Shadow_(disambiguation) "Shadow (disambiguation)")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/df/Bottled_Void.jpg/revision/latest/scale-to-width-down/180?cb=20160415173727)](https://static.wikia.nocookie.net/wowpedia/images/d/df/Bottled_Void.jpg/revision/latest?cb=20160415173727)
+
+Bottled Void (from the [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG")).
+
+“[Death](https://wowpedia.fandom.com/wiki/Death "Death") crept nearer, and the Void called out to [Alleria](https://wowpedia.fandom.com/wiki/Alleria "Alleria"), begging her to give over her soul entirely and become a manifestation of power even greater than [her sister](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"). It was tempting. Oh, it was tempting. Abandon your flesh, came the whispers. Abandon your flesh.”
+
+— [Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")
+
+The **Void** (also referred to as **Shadow**)<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-3">[3]</a></sup>, along with the [Light](https://wowpedia.fandom.com/wiki/Light "Light"), is one of the most fundamental forces in existence. Although contradictory by their very nature, they are bound together on a cosmic scale. One cannot exist without the other. Pure Light and Shadow dwell in realms outside the borders of reality. The Void is not necessarily "evil", it is a primal force with its morality characterized by how it is wielded.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-4">[4]</a></sup> [Dimensius the All-Devouring](https://wowpedia.fandom.com/wiki/Dimensius_the_All-Devouring "Dimensius the All-Devouring") opened gateways to the Void and the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") when he invaded [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh").<sup id="cite_ref-Ask_CDev_1_5-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Ask_CDev_1-5">[5]</a></sup> However, shades of their presence are found in the physical universe: Light manifests as [holy magic](https://wowpedia.fandom.com/wiki/Holy_magic "Holy magic"), while the Void appears as [shadow magic](https://wowpedia.fandom.com/wiki/Shadow_magic "Shadow magic").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-6">[6]</a></sup>
+
+The Void can be a source of terrible power, the kind of power that comes at a price.<sup id="cite_ref-Disrupt_7-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Disrupt-7">[7]</a></sup> While the Light is often said to bring about feelings of positive emotion—hope, courage, comfort—and the like, Shadow abilities are the opposite, able to impart feelings like despair, doubt, and panic. In a poetic sense, it can be said that the emotions which the Light brings about come from the "heart", whereas the emotions manipulated by Shadow are often based on survival logic, and therefore affect the "mind".<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-8">[8]</a></sup>
+
+The Void shows only half truths.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-9">[9]</a></sup> It cannot fully see destiny, though neither can the Light because neither is singularly responsible for creation. The Void seeks every possible path and sees them all as truth.<sup id="cite_ref-A_Thousand_Years_of_War_10-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-A_Thousand_Years_of_War-10">[10]</a></sup>
+
+## History
+
+In the very beginning of time, before even the cosmos existed, there was only the [Light](https://wowpedia.fandom.com/wiki/Light "Light") and the Void. Originally, only the Light existed as an unfettered, shifting ocean of living energy. However, as some of its energies faded and dimmed, pockets of cold nothingness were created. From the absence of Light in these spaces, a new power coalesced and came to be. This was the Void, a dark and vampiric force driven to devour all energy, to twist creation inward to feed upon itself. The Void quickly grew and began to move against the Light, and before long, the mounting tension between the two forces ignited a series of explosions that ruptured the very fabric of creation, giving birth to the physical universe. The most unstable energies coalesced into an astral dimension known as the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"). Light and Void collided and bled together at the edges of this realm, throwing it into turmoil.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-11">[11]</a></sup>
+
+The [void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and their servants have seemingly been locked in a perpetual power struggle with the other five cosmic powers of reality for at least thousands of years. The Void and the Light, being opposite counterparts, have been locked in perpetual conflict since before [time](https://wowpedia.fandom.com/wiki/Time "Time") itself began, waging their massive battle across countless worlds and planets and affecting millions of lives, with the Void regarding the Light as voracious and stagnant, "a force that granted them fleeting moments of peace in exchange for absolute obedience".<sup id="cite_ref-A_Thousand_Years_of_War_10-1"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-A_Thousand_Years_of_War-10">[10]</a></sup> The naaru [T'uure](https://wowpedia.fandom.com/wiki/T%27uure "T'uure") sacrificed herself in a massive  ![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Spell_holy_holynova.png/revision/latest/scale-to-width-down/16?cb=20060930060844)[\[Holy Nova\]](https://wowpedia.fandom.com/wiki/Holy_Nova) to save an entire world [Karkora](https://wowpedia.fandom.com/wiki/Karkora "Karkora") from [Dimensius the All-Devouring](https://wowpedia.fandom.com/wiki/Dimensius_the_All-Devouring "Dimensius the All-Devouring"), and some of the Void's servants apparently regard the naaru as "beloved brethren that lost the true path" which will return to their embrace eventually, despite their war being of a scope which would apparently destroy most mortal minds, well predating both the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") and the entire history of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-12">[12]</a></sup>
+
+The very creation of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") and their nearly successful corruption of multiple [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") worlds, including [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), at least at one point in its history, was ultimately to corrupt all existence and allow the void lords to manifest in the physical cosmos; the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") and [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") have both attempted to oppose the Void in different ways, with the former being responsible for the destruction of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") and the latter unleashing his [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") against them. The Void-corrupted titan would have allegedly been unstoppable by any force in the universe, including the Pantheon themselves.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-13">[13]</a></sup> In one instance, the Void was able to attack and permanently destroy every demon on a small Legion prison world, dragging them through the Twisting Nether before butchering them; [Lothraxion](https://wowpedia.fandom.com/wiki/Lothraxion "Lothraxion") described even the Legion's enslavement as far preferable to the horrors of what the Void-spawn endured. The naaru which Illidan encountered before his defeat on Outland, likely [Xe'ra](https://wowpedia.fandom.com/wiki/Xe%27ra "Xe'ra"), stated that the Void was "a more potent foe by far than the Burning Legion",<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-14">[14]</a></sup> [Harbinger Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss") insisted that no force in existence, including the Legion, being able to make the Void's servants, as "countless as the stars", bend their knee, and according to [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath"), the Legion's invasion is ultimately futile, as dreams and demons alike can be corrupted, and not even the extinction of all things would really save the Legion from the Void.
+
+The Void has successfully corrupted much of the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"), the plane of [Life](https://wowpedia.fandom.com/wiki/Life "Life"), in the past, turning the realm into the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"), whose corruption apparently still lingers despite repeated attempts from [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), the [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"), and the [green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight") to cleanse it of its corruption. It has also attacked the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") in eons past with forces described as practically "infinite",<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-15">[15]</a></sup> inflicting massive damage against [Bastion](https://wowpedia.fandom.com/wiki/Bastion "Bastion") in particular, and would have purportedly destroyed all of the Shadowlands had the [kyrians](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian") not barely managed to stop them.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-16">[16]</a></sup> Although the [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") have attempted to manipulate the void lords,<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-17">[17]</a></sup> wielding Shadow powers to this day, the Void appears somewhat aware of their machinations, and regards [Death](https://wowpedia.fandom.com/wiki/Death "Death") as "the true enemy" which seeks the death of all possibilities and all futures.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-18">[18]</a></sup>
+
+## Void realm
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/WoD_Shadowmoon_Valley_void_realm.jpg/revision/latest/scale-to-width-down/180?cb=20191124012635)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/WoD_Shadowmoon_Valley_void_realm.jpg/revision/latest?cb=20191124012635)
+
+Void realm in Shadowmoon Valley on alternate Draenor.
+
+“It rips. It tears. It is boundless and eternal...the Void, it hungers!”
+
+— [Dia Darkwhisper](https://wowpedia.fandom.com/wiki/Dia_Darkwhisper "Dia Darkwhisper")
+
+Wherever there is light, there is shadow, and it is this shadow that the Orc [Necrolyte](https://wowpedia.fandom.com/wiki/Necrolyte "Necrolyte") uses to see into places he cannot travel with a spell called Dark Vision. Wherever the slightest shadow is cast, the sight of the Necrolyte can enter and view. The effects of this spell are limited in size, for too much knowledge of the confines of shadow has been known to forever trap the caster within the realm of darkness.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-19">[19]</a></sup>
+
+On [alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") using a  ![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Inv_misc_trinket6oih_lanternb3.png/revision/latest/scale-to-width-down/16?cb=20141002094047)[\[Void Lantern\]](https://wowpedia.fandom.com/wiki/Void_Lantern) allows seeing into the void realm.
+
+The [Shadow Realm](https://wowpedia.fandom.com/wiki/Shadow_Realm "Shadow Realm") is a plane of existence visited by the [arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") that is related to the Void.
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[Zuraal the Ascended](https://wowpedia.fandom.com/wiki/Zuraal_the_Ascended "Zuraal the Ascended") in the [Seat of the Triumvirate](https://wowpedia.fandom.com/wiki/Seat_of_the_Triumvirate "Seat of the Triumvirate") on Argus puts adventurers into the void realm.
+
+## Races of the Void
+
+Creatures of the Void are naturally chaotic. They are a necessary part of the universe, but they must be kept in check by the [Light](https://wowpedia.fandom.com/wiki/Light "Light").<sup id="cite_ref-UnboundDarkness_20-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-UnboundDarkness-20">[20]</a></sup>
+
+### The Old Gods
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Old_Gods_2.jpg/revision/latest/scale-to-width-down/180?cb=20160506075539)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Old_Gods_2.jpg/revision/latest?cb=20160506075539)
+
+The four Old Gods on Azeroth.
+
+“The void sucks at your soul. It is content to feast slowly.”
+
+— [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron"), the Old God of Death
+
+The [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") were created by the malignant entities known as the [void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord"), and they live only to transform the worlds they infest into places of despair and [death](https://wowpedia.fandom.com/wiki/Death "Death"). Physical manifestations of the Void, they are nightmares incarnate: mountains of blighted flesh and writhing tentacles that grow like cancers within the worlds of the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"). Their goal is to find and corrupt a [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") in order to create a dark [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") that would annihilate the universe.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-21">[21]</a></sup>
+
+Many of the Old Gods' minions make extensive use of Shadow magic, and the terrifying dagger known as [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath"), which was used by dark priests during the height of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire"), uses powerful Void energies and mind magics to warp everything around it for nefarious purpose.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-22">[22]</a></sup> In [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)"), [Faceless Horrors](https://wowpedia.fandom.com/wiki/Faceless_Horror "Faceless Horror") surround themselves with shadowy barriers and summon [voidwalkers](https://wowpedia.fandom.com/wiki/Voidwalker "Voidwalker") to aid them in combat.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-23">[23]</a></sup> Twilight magic is presumably Old God magic of the void branch.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-24">[24]</a></sup>
+
+Despite being the weakest of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"),<sup id="cite_ref-Whispers_25-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Whispers-25">[25]</a></sup><sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-26">[26]</a></sup> [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") was able to empower [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") to the point that he seemed able to fight all four of the other fully empowered [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") in open combat simultaneously,<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-27">[27]</a></sup> and was very nearly able to successfully unleash the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight") capable of wiping out all life on Azeroth, stopped only after the four Aspects sacrificed nearly all their energies in order to destroy him.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-28">[28]</a></sup> The [Twilight Prophet Benedictus](https://wowpedia.fandom.com/wiki/Benedictus "Benedictus") seemed able to fight evenly with the World-Shaman [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") during their confrontation,<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-29">[29]</a></sup> and the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") successfully corrupted thousands of dragon eggs in the sanctums next to [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"), nearly converting them all into [chromatic dragons](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight") and enslaving them to their cause.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-30">[30]</a></sup> Later at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), five members of the Twilight's Hammer were able to briefly incapacitate all four Aspects and nearly destroy Thrall by splitting his essence into the four [elements](https://wowpedia.fandom.com/wiki/Element "Element").<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-31">[31]</a></sup>
+
+### Voidwalkers
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Velnoth_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20160410015007)](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Velnoth_TCG.jpg/revision/latest?cb=20160410015007)
+
+Velnoth, a voidwalker.
+
+[Voidwalkers](https://wowpedia.fandom.com/wiki/Voidwalker "Voidwalker") are seemingly the most common type of Void being. They do not fear pain, so they are popular with [warlocks](https://wowpedia.fandom.com/wiki/Warlock "Warlock") who do.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-32">[32]</a></sup>
+
+### Void lords
+
+The [void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") are evil entities composed of pure shadow energy. These beings are cruel and merciless beyond mortal comprehension. Driven by an insatiable hunger, the void lords seek to devour all matter and energy in the physical universe. In their natural state, the void lords exist outside reality. Only the most powerful of these entities can manifest in the physical universe, and only for limited amounts of time. To maintain their presence in reality, the void lords must consume untold amounts of matter and energy.<sup id="cite_ref-Chronicle24_33-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Chronicle24-33">[33]</a></sup> They instead created the eldritch [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") to find and corrupt a [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") and turn it into an unspeakably dark being that not even the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") would be able to stand against.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-34">[34]</a></sup>
+
+### Void revenants
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Nhallish.jpg/revision/latest/scale-to-width-down/180?cb=20150122201511)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Nhallish.jpg/revision/latest?cb=20150122201511)
+
+[Nhallish](https://wowpedia.fandom.com/wiki/Nhallish "Nhallish"), a void revenant.
+
+[Void revenants](https://wowpedia.fandom.com/wiki/Void_revenant "Void revenant") are a race of parasitic void-beings that tear holes through the planes of reality, consuming and absorbing the energies and beings within. There is one known occurrence of a void revenant being fed overwhelming [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") energy, [Xhul'horac](https://wowpedia.fandom.com/wiki/Xhul%27horac "Xhul'horac").
+
+### Others
+
+There are many different types of beings that originate from the Void. Although they aren't [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"),<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-35">[35]</a></sup> they are often classified as such for gameplay reasons.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-36">[36]</a></sup> In _[Warlords of Draenor](https://wowpedia.fandom.com/wiki/Warlords_of_Draenor "Warlords of Draenor")_, most void creatures are classified as either [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental") or [aberrations](https://wowpedia.fandom.com/wiki/Aberration "Aberration") (although the [void revenant](https://wowpedia.fandom.com/wiki/Void_revenant "Void revenant") [Nhallish](https://wowpedia.fandom.com/wiki/Nhallish "Nhallish") is classified as [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")).
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Voidshrieker_TCG.png/revision/latest/scale-to-width-down/120?cb=20160322205031)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Voidshrieker_TCG.png/revision/latest?cb=20160322205031)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/Demidos.jpg/revision/latest/scale-to-width-down/90?cb=20150504013904)](https://static.wikia.nocookie.net/wowpedia/images/a/a5/Demidos.jpg/revision/latest?cb=20150504013904)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/15/Thoglos_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160322210305)](https://static.wikia.nocookie.net/wowpedia/images/1/15/Thoglos_TCG.jpg/revision/latest?cb=20160322210305)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Zereketh_the_Unbound.jpg/revision/latest/scale-to-width-down/120?cb=20080507203223)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Zereketh_the_Unbound.jpg/revision/latest?cb=20080507203223)
+    
+
+## Effects on beings
+
+Rumor has it that some beasts that were touched by the Void exist in a space between this world and the next.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-37">[37]</a></sup>
+
+The void can consume life or meld with it, but the latter often has unperceived consequences.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-38">[38]</a></sup>
+
+### Arakkoa
+
+[Talonpriests](https://wowpedia.fandom.com/wiki/Talonpriest "Talonpriest"), [arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") followers of [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk"), wield the Void.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-39">[39]</a></sup> They use special [elixirs](https://wowpedia.fandom.com/wiki/Elixir_of_Shadow_Sight "Elixir of Shadow Sight"), made from [shadow dust](https://wowpedia.fandom.com/wiki/Shadow_Dust_(Draenor) "Shadow Dust (Draenor)"), to cross over into a realm of shadows, which is also where they sealed Terokk after he descended into madness and hatred.
+
+The ancient [Apexis](https://wowpedia.fandom.com/wiki/Apexis "Apexis") arakkoa wielded Light and Void in balance (as well as [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane")).
+
+### Dark naaru
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/96/M%27uru_Sunwell.jpg/revision/latest/scale-to-width-down/180?cb=20080211151709)](https://static.wikia.nocookie.net/wowpedia/images/9/96/M%27uru_Sunwell.jpg/revision/latest?cb=20080211151709)
+
+[M'uru](https://wowpedia.fandom.com/wiki/M%27uru "M'uru"), a darkened naaru.
+
+“It is a facet of the naaru condition - without the void, the [Light](https://wowpedia.fandom.com/wiki/Light "Light") cannot exist.”
+
+— [D'ore](https://wowpedia.fandom.com/wiki/D%27ore "D'ore")<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-40">[40]</a></sup>
+
+It is exceedingly rare for a [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") to fall into a void state, and even rarer for a fallen naaru to be brought back into the Light. A naaru's fall into the void represents a catastrophic loss for the naaru and for the forces of the Light, and it is the saddest, most heart-wrenching event for the naaru to witness. Conversely, a naaru being reborn into the Light brings renewed hope and sense of purpose to every naaru.<sup id="cite_ref-Ask_CDev_1_5-1"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Ask_CDev_1-5">[5]</a></sup>
+
+The few cases of dark naaru that [Locus-Walker](https://wowpedia.fandom.com/wiki/Locus-Walker "Locus-Walker") knows of all involved mortals in some way, which he thinks carries fascinating implications.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-41">[41]</a></sup>
+
+### Void elves
+
+[High elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") and [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") imbued with void have transformed themselves into [void elves](https://wowpedia.fandom.com/wiki/Void_elf "Void elf"), under the tutelage of [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") and her teacher, [Locus-Walker](https://wowpedia.fandom.com/wiki/Locus-Walker "Locus-Walker"), the two known mortals who were able to successfully defy the Void's whispers and truly resist its corruption while wielding its powers. These ren'dorei, the "Children of the Void" have established a base at [Telogrus Rift](https://wowpedia.fandom.com/wiki/Telogrus_Rift "Telogrus Rift"), and much like Alleria herself, have re-pledged themselves to their original faction, the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance").
+
+Void elves gain new powers such as  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Ability_racial_entropicembrace.png/revision/latest/scale-to-width-down/16?cb=20180218114839)[\[Entropic Embrace\]](https://wowpedia.fandom.com/wiki/Entropic_Embrace) to enhance their abilities with the power of the Void, while apparently retaining most of their previous abilities. They also have the ability to create [Spatial Rifts](https://wowpedia.fandom.com/wiki/Spatial_Rift "Spatial Rift"), allowing them to teleport through space and distance instantly. Additionally, void elves may use their  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Ability_racial_etherealconnection.png/revision/latest/scale-to-width-down/16?cb=20180218114836)[\[Ethereal Connection\]](https://wowpedia.fandom.com/wiki/Ethereal_Connection) to reduce the cost of [Void Storage](https://wowpedia.fandom.com/wiki/Void_Storage "Void Storage") and [Transmogrification](https://wowpedia.fandom.com/wiki/Transmogrification "Transmogrification") or withstand [shadow magic](https://wowpedia.fandom.com/wiki/Shadow_magic "Shadow magic").<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-42">[42]</a></sup> Void elves have a  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Ability_racial_preturnaturalcalm.png/revision/latest/scale-to-width-down/16?cb=20180218115533)[\[Preternatural Calm\]](https://wowpedia.fandom.com/wiki/Preternatural_Calm), which gives them an unwavering focus when casting spells even when in pain. Although having the power of the Void at their command has its benefits, it also has its drawbacks. Void elves must constantly resist the whispers of the shadow that attempt to lure them into madness. The Void seeks to strip away the void elves of their flesh and their mortality so that they may become slaves to the shadow's all-consuming hunger.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-43">[43]</a></sup> Furthermore, so long as the void elves pulse with void energy, they also become a beacon for other creatures of the void. If they cannot corrupt the void elves, they will use them to corrupt other powerful sources of Light, such as the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell").<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-44">[44]</a></sup>
+
+### Void ethereals
+
+[Void ethereals](https://wowpedia.fandom.com/wiki/Void_ethereal "Void ethereal") are ethereals infused with the power of the Void. Their energies are dark purple or red. They also hear maddening whispers that sway them to do the will of the Void.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-45">[45]</a></sup> [Nexus-stalkers](https://wowpedia.fandom.com/wiki/Ethereal#Nexus-stalkers "Ethereal") are a partially Void-based form of ethereals created by the rogue [Ethereum](https://wowpedia.fandom.com/wiki/Ethereum "Ethereum") faction, and are considered by the [Protectorate](https://wowpedia.fandom.com/wiki/Protectorate "Protectorate") to be aberrations.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-46">[46]</a></sup> Though the Ethereum was initially dedicated to hunting down and taking revenge on Dimensius, their goal later changed to "becoming void." To that end, they constructed a proto-accelerator which was used to manipulate the abundance of Void energy at [Manaforge Ultris](https://wowpedia.fandom.com/wiki/Manaforge_Ultris "Manaforge Ultris"), bonding it with their own energy to transform into nexus-stalkers.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-47">[47]</a></sup>
+
+The physiology of a nexus-stalker is similar to that of a typical ethereal, albeit with hybrid bodies composed in part of Void energy. As such, they appear translucent and perpetually emanate a shadowy, purple miasma. Those that have been encountered have had the ability to drain their enemies' power.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-48">[48]</a></sup>
+
+### Demons
+
+[Demons](https://wowpedia.fandom.com/wiki/Demon "Demon") were originally formed as a result of the Light and Void energies that had bled together at the borders of the Twisting Nether. They wield the Void as part of their arsenal. The nathrezim, otherwise known as dreadlords, are cunning, manipulative, and masters of the arts of shadow magic.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-49">[49]</a></sup> The [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") is known to summon and bind Void creatures to serve them.
+
+### Orcs
+
+On the [alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)"), the [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan_(alternate_universe) "Shadowmoon clan (alternate universe)") of [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") discovered the Void after the arrival of the [Dark Star](https://wowpedia.fandom.com/wiki/K%27ara_(alternate_universe) "K'ara (alternate universe)"), but when [necromancy](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") was discovered, the clan leaders outlawed the Void's power. After the formation of the [Iron Horde](https://wowpedia.fandom.com/wiki/Iron_Horde "Iron Horde"), [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul_(alternate_universe) "Ner'zhul (alternate universe)") broke those laws for the sake of his clan's safety. Shadowmoon spellcasters began experimenting with unstable void magic near the [Teluuna Observatory](https://wowpedia.fandom.com/wiki/Teluuna_Observatory "Teluuna Observatory").<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-50">[50]</a></sup> The void's effect on Draenor also became more pronounced. Vile bloods of the land emerged.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-51">[51]</a></sup> The Shadowmoon also began summoning void beasts through hastily opened portals that could have torn Draenor apart.<sup id="cite_ref-Lessons_52-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Lessons-52">[52]</a></sup>
+
+### Undead
+
+The [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") are beings who have died and become trapped between life and death. One of the consequences of the involvement of Void in the undead's metaphysics is that they only feel faint sensations of pain or discomfort from most physical stimuli. This is also why the Light is so painful to their existence. The dark energy serves as a buffer that prevents the souls of the undead from properly joining their bodies. As a result, their souls are imperfectly attached to them.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-53">[53]</a></sup>
+
+When a spirit is consumed by the Void, an echo of the [soul](https://wowpedia.fandom.com/wiki/Soul "Soul") is all that is left behind. These echoes are not truly "alive" in either the physical or spiritual sense, and are merely twisted reverberations of the anguish of the soul left behind when it was consumed.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-54">[54]</a></sup>
+
+### Priests
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Shadowform_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20120326024829)](https://static.wikia.nocookie.net/wowpedia/images/2/21/Shadowform_TCG.jpg/revision/latest?cb=20120326024829)
+
+"I draw deep from the [shadows](https://wowpedia.fandom.com/wiki/Shadowform "Shadowform") to slake my thirst for power. I'm never thirsty for long."
+
+[Priests](https://wowpedia.fandom.com/wiki/Priest "Priest") are devoted to the spiritual, that which relates to Spirit. Priestly Shadow magic can deliver great amounts of immediate damage, or wracking pains that punish foes over longer periods of time.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-55">[55]</a></sup> The Light in which many priests bathe is brilliant and effervescent, granting them immense divine power. But the brightest light casts the darkest shadow—and from within this blackness, a rival power dwells. [Shadow priests](https://wowpedia.fandom.com/wiki/Priest#Shadow "Priest") fully embrace this opposing polarity, their faith equally resolute as their holy counterparts—but focused on shadowy magics and mental manipulation. Like all priests, they dedicate much of their lives to worship—but they derive their power from the Void, straying dangerously close to the domain of the Old Gods. To truly understand such ancient, corruptive influence is to be driven mad. This is the state in which these dark priests thrive, embracing insanity and feeding off of the minds of their opponents to reach terrifying new limits.<sup id="cite_ref-Preview_56-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Preview-56">[56]</a></sup>
+
+[Shadow priests](https://wowpedia.fandom.com/wiki/Shadow_priest "Shadow priest") preach balance between [Light](https://wowpedia.fandom.com/wiki/Light "Light") and Darkness, for it is often too hard to find one's way back to the Shadow from the deepest reaches of the Void.<sup id="cite_ref-WoWM4_57-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-WoWM4-57">[57]</a></sup> When entering  ![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Spell_priest_voidform.png/revision/latest/scale-to-width-down/16?cb=20160612130422)[\[Voidform\]](https://wowpedia.fandom.com/wiki/Voidform), shadow priests are forced to speak [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar"), the language of the Old Gods.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-58">[58]</a></sup>
+
+### Necrolytes
+
+Practitioners of religions, [necrolytes](https://wowpedia.fandom.com/wiki/Necrolyte "Necrolyte") are binders of souls and command the black powers that hold control over the earth.
+
+### Rogues
+
+[Subtlety rogues](https://wowpedia.fandom.com/wiki/Rogue#Subtlety "Rogue") are the masters of the shadows, and they strike unseen. They don't have the lethal poison-tipped daggers of the assassin or the brawling prowess of the outlaw, but their acumen on the battlefield and ability to hide in plain sight are unrivaled. Some claim the art of subtlety looks like malevolent shadow magic—but no matter from where their power is derived, these rogues are capable of performing devastating assaults on their enemies, slipping away unharmed to strike again without detection. Most rogues train their entire lives to learn how to walk in the shadows—subtlety rogues were born there.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-59">[59]</a></sup>
+
+### Shaman
+
+[Shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") are spiritual guides and practitioners, not of the divine, but of the very elements. The Void is capable of dominating and enslaving [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental").<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-60">[60]</a></sup> One way for a shaman to become a [dark shaman](https://wowpedia.fandom.com/wiki/Dark_shaman "Dark shaman") is to use the Void to control the elements.<sup id="cite_ref-Disrupt_7-1"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Disrupt-7">[7]</a></sup>
+
+A group of dark shaman of the [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan_(alternate_universe) "Warsong clan (alternate universe)") also began channeling Void energies near [Oshu'gun](https://wowpedia.fandom.com/wiki/Oshu%27gun_(alternate_universe) "Oshu'gun (alternate universe)") in [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand_(alternate_universe) "Nagrand (alternate universe)"), using the elements to channel the darkness of the void.<sup id="cite_ref-Disrupt_7-2"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-Disrupt-7">[7]</a></sup> The dark shaman used [Nether Beacons](https://wowpedia.fandom.com/wiki/Nether_Beacon "Nether Beacon"), powered from within the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") itself, to connect to the void,<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-61">[61]</a></sup> and hidden behind the veil of the Twisting Nether, the abominations of the void began marching upon [Oshu'gun](https://wowpedia.fandom.com/wiki/Oshu%27gun_(alternate_universe) "Oshu'gun (alternate universe)").<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-62">[62]</a></sup>
+
+### Warlocks
+
+[![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Bildros_Nullvoid.jpg/revision/latest/scale-to-width-down/180?cb=20170105044708)](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Bildros_Nullvoid.jpg/revision/latest?cb=20170105044708)
+
+Bildros Nullvoid: "Fools are quick to dismiss what they don't understand as evil. I see what I do as a series of calculated risks in exchange for greater power and insight. Oh, with demons."
+
+[Warlocks](https://wowpedia.fandom.com/wiki/Warlock "Warlock") are magical practitioners who seek to understand darker, fel-based magics, including destructive spells.<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-63">[63]</a></sup> Warlocks peer into the Void without hesitation, leveraging the chaos they glimpse within to devastating ends in battle. Their greatest abilities are fueled by the souls they've harvested from their victims and they exploit powerful shadow magic to manipulate and degrade the minds and bodies of their enemies. Affliction warlocks are masters of shadow-touched powers, but unlike shadow priests—deadliest when pushed to the brink of insanity—these warlocks delight in using fel forces to cause intense pain and suffering in others. They revel in corrupting minds and agonizing souls, leaving enemies in a state of torment that would see them undone in due time. Even the most battle-hardened warriors can be deceived, landing blow after blow against the warlock, only to succumb to their suffering as their very vitality is siphoned away by the dark spellcaster.<sup id="cite_ref-LegionLock_64-0"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-LegionLock-64">[64]</a></sup>
+
+By their very nature, demons are leeches on the living universe—but the demonologist has mastered harnessing the power of these malefic beings on the field of battle. Warlocks harvest the souls of their defeated enemies; those specialized in the ways of demonology use this life essence to tap into the Void, pulling all manner of abomination from the chaos of the Twisting Nether. While such a practice is often considered by outsiders to be wicked and reckless, the demonologist maintains absolute control over the summoned creatures. These malignant entities are fully beholden to—and empowered by—the will of the warlock, until banished to the realm from whence they came. Warlocks who command the power of destruction favor incantations of pure chaos and aggression in battle. In this regard, they'd find a stronger kinship with fire mages than warlocks of other disciplines—if not for their propensity to make use of magic deemed detestable by all mage orders. The destruction warlock is well-versed in discharging a dizzying array of shadow, fel, fire, and chaos magics upon opponents that rattle souls and conflagrate bodies. They require little motivation for the havoc they wreak, happy to revel in the destruction they cause—thrilled at any opportunity to watch the world erupt in discord around them.<sup id="cite_ref-LegionLock_64-1"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-LegionLock-64">[64]</a></sup>
+
+## Organizations
+
+The [Church of the Light](https://wowpedia.fandom.com/wiki/Church_of_the_Light "Church of the Light") preaches against the Shadow, which the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") were once strongly perceived to be creatures of.<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-65">[65]</a></sup> [Priests](https://wowpedia.fandom.com/wiki/Priest "Priest") and [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of this religion are known to condemn their foes with such epitaphs as 'shadowspawn' and 'spawn of darkness'.<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-66">[66]</a></sup>
+
+### [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+
+After the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), [Bishop Seline](https://wowpedia.fandom.com/wiki/Natalie_Seline "Natalie Seline") investigated the dark magic used by the orc necrolytes to raise their dead. Her studies became obsessed as she tried to discover why such energy existed at all and why she began to see the ebb and flow of it in the world around her. She began preaching about the necessity of a balance between dark and [light](https://wowpedia.fandom.com/wiki/Light "Light"), but after her death, her books were locked away in the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")'s vaults in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran").<sup id="cite_ref-WoWM4_57-1"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-WoWM4-57">[57]</a></sup>
+
+Her teachings, rediscovered by [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") priests during the capture of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), served as the theological base for the [Cult of Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadow "Cult of Forgotten Shadow"). This cult uses the term "Shadow" to refer to _reality_ and believes that there must be a balance between the wielders of holy and dark energies; because of that, they mostly manipulate the dark energies "discovered" by [Natalie Seline](https://wowpedia.fandom.com/wiki/Natalie_Seline "Natalie Seline").<sup id="cite_ref-WoWM4_57-2"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-WoWM4-57">[57]</a></sup>
+
+### [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+A nihilist quasi-religious sect<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-67">[67]</a></sup> active across Azeroth that fanatically serves and worships the Old Gods and seeks to bring about the end of the world. [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha") a book of the sect states that in the beginning there was shadow eternal and implies the elements were born from it and that the shadow is the "world we know".
+
+### [Alternate Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan_(alternate_universe) "Shadowmoon clan (alternate universe)")
+
+When the [Iron Horde](https://wowpedia.fandom.com/wiki/Iron_Horde "Iron Horde") strong-armed the Shadowmoon clan into joining them, [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul_(alternate_universe) "Ner'zhul (alternate universe)") broke one of their ancient laws forbidding the use of the power drawn from the 'Dark Star'. In doing so, he and the Shadowmoon clan became powerful wielders of the Void. They tried to summon the Dark Star, in actuality the darkened form of the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [K'ara](https://wowpedia.fandom.com/wiki/K%27ara "K'ara"), to the surface of [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") and wield it as a weapon to empower the Iron Horde. Their effort failed when [Prophet Velen](https://wowpedia.fandom.com/wiki/Prophet_Velen_(alternate_universe) "Prophet Velen (alternate universe)") used his [life](https://wowpedia.fandom.com/wiki/Life "Life")\-force to purify K'ara. This didn't, however, stop the Shadowmoon from practicing Void magic. They retreated into their ancient burial grounds and continued to experiment on the [souls](https://wowpedia.fandom.com/wiki/Soul "Soul") and bones of the dead. Ner'zhul was eventually slain by adventurers, and the rest of the Void practitioners seemed to join with [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") when the Iron Horde became the Fel Horde. It's unknown what happened to them in the years since Archimonde's death.
+
+### [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+
+The prehistoric empire formed and ruled by the Old Gods while they worked to corrupt Azeroth was, ultimately, formed in the name of the Void. It enslaved the elements and engaged in endless civil wars, seemingly for the amusement of its masters. Though toppled by the coming of the Titans, it continued to fester in the shadows of Azeroth as the Old Gods enacted their millennia-long plans to escape confinement. In the end, it re-emerged when [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") successfully escaped its prison and all of its servants, now consisting of corrupted mortals, as well as the [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") and aqir that originally formed its rank, wield Void magic. In areas that the Black Empire assaults, the sky darkens and resembles the Void as well.
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+The **Shadows** are the dark, malevolent forces seeking the world's (or even the universe's) dissolution; the "light" includes the virtuous, heroic forces preserving order and goodness. Their deeds and the powers they wield make up the stuff of legends... if not myths.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-68">[68]</a></sup>
+
+[Shadow ascendants](https://wowpedia.fandom.com/wiki/Shadow_ascendant "Shadow ascendant"), followers of the [Cult of the Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_the_Forgotten_Shadow "Cult of the Forgotten Shadow"), become one with this power as their physical form fades away. Some [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") revere these creatures as dark [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa").<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-69">[69]</a></sup>
+
+The Shadow Plane is an integral part of the universe, woven into every other plane of existence. It is from here that spells conjure shadow magic.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-70">[70]</a></sup> The arcane and shadow magic appear to be tied together.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-71">[71]</a></sup>
+
+## Notes and trivia
+
+-   [Magister Umbric](https://wowpedia.fandom.com/wiki/Magister_Umbric "Magister Umbric") gave [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") champions a [Void Shard](https://wowpedia.fandom.com/wiki/Magister_Umbric%27s_Void_Shard "Magister Umbric's Void Shard") to cast [Bilgewater Frackers](https://wowpedia.fandom.com/wiki/Bilgewater_Fracker "Bilgewater Fracker") into the Void.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-72">[72]</a></sup>
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai"), herald of the Old Gods, was trying to emerge from the Void.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-73">[73]</a></sup>
+-   The quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-35 Daily\] [Flames of the Void](https://wowpedia.fandom.com/wiki/Flames_of_the_Void) involves putting out "Void Flames" created by the [sha](https://wowpedia.fandom.com/wiki/Sha "Sha") running rampant throughout the [Temple of the Jade Serpent](https://wowpedia.fandom.com/wiki/Temple_of_the_Jade_Serpent "Temple of the Jade Serpent").
+-   The [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") used to be sometimes called the Void. There is now a clear distinction between the two.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-74">[74]</a></sup> This originally led to some believing that the Void was also a faction of voidwalkers led by [Dimensius the All-Devouring](https://wowpedia.fandom.com/wiki/Dimensius_the_All-Devouring "Dimensius the All-Devouring"), rather than the universal force.
+-   Using a [Void Totem](https://wowpedia.fandom.com/wiki/Void_Totem "Void Totem") weakens the barrier between the mortal world and the Twisting Nether.<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-75">[75]</a></sup>
+-   The term used to describe the combination of [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") and Void energies seems to be Shadowfel. The [void revenant](https://wowpedia.fandom.com/wiki/Void_revenant "Void revenant") known as [Xhul'horac](https://wowpedia.fandom.com/wiki/Xhul%27horac "Xhul'horac") was infused with fel energy and became known as a "Shadowfel Amalgamation", and deals Shadowfel damage during the encounter with it.
+-   In _Warcraft III_ and early _World of Warcraft_, the Shadow was held as the opposite of the Light and a force in its own right. This concept has been replaced with or renamed as the Void. This was vaguely alluded to in _The Burning Crusade_, and then fleshed out in _World of Warcraft: The Magazine_, _Warlords of Draenor_ and _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_.
+-   A Void [similarly](https://diablo.fandom.com/wiki/Void) [exists](https://starcraft.fandom.com/wiki/Void) in the _[Diablo](https://wowpedia.fandom.com/wiki/Diablo "Diablo")_ and _[StarCraft](https://wowpedia.fandom.com/wiki/StarCraft "StarCraft")_ universes.
+-   Despite most sources stating that Shadow and Void are different names for the same force, _World of Warcraft_ description of Priest's Shadow specialization makes a distinction between them ("Uses sinister Shadow magic and terrifying Void magic to eradicate enemies").
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   There are a number of Old God related realms: [Twilight Realm](https://wowpedia.fandom.com/wiki/Twilight_Realm "Twilight Realm"), [Dread Expanse](https://wowpedia.fandom.com/wiki/Dread_Expanse "Dread Expanse"), [Realm of Y'Shaarj](https://wowpedia.fandom.com/wiki/Realm_of_Y%27Shaarj "Realm of Y'Shaarj"), [Za'qul](https://wowpedia.fandom.com/wiki/Za%27qul "Za'qul")'s Fear realm and Delirium realm, and [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha"), and the locations inside of the minds of [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") and [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") all of which could have some relation to the Void realm in some way.
+    -   [Consumers of souls](https://wowpedia.fandom.com/wiki/Consumer_of_souls "Consumer of souls") in [Brawler's Guilds](https://wowpedia.fandom.com/wiki/Brawler%27s_Guild "Brawler's Guild") are seen in an alternate dimension by wearing special goggles<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Void#cite_note-76">[76]</a></sup> that dimension could be the Void realm.
+
+## See also
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Inv_chest_cloth_raidpriestmythic_o_01.png/revision/latest/scale-to-width-down/16?cb=20141002093928)[\[Heart of the Void\]](https://wowpedia.fandom.com/wiki/Heart_of_the_Void)
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-1) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_
+2.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-2) [Matt Burns on Twitter](https://twitter.com/Burnzerker/status/827410222486425600)
+3.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-3) [Matt Burns on Twitter](https://twitter.com/Burnzerker/status/827410044694073344)
+4.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-4) [Blizzblizz - Entrevista com Interview, 27:43](https://www.youtube.com/watch?v=8PBzHRc4FZY&t=27m43s)
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-Ask_CDev_1_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-Ask_CDev_1_5-1">b</a></sup> [Ask CDev##Ask CDev Answers - Round 1](https://wowpedia.fandom.com/wiki/Ask_CDev##Ask_CDev_Answers_-_Round_1 "Ask CDev")
+6.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-6) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 16
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-Disrupt_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-Disrupt_7-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-Disrupt_7-2">c</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35-40\] [Disrupt the Rituals](https://wowpedia.fandom.com/wiki/Disrupt_the_Rituals)
+8.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-8) [Ask CDev#Ask CDev Answers - Round 3](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_3 "Ask CDev")
+9.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-9)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [A Vessel Made Ready](https://wowpedia.fandom.com/wiki/A_Vessel_Made_Ready)
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-A_Thousand_Years_of_War_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-A_Thousand_Years_of_War_10-1">b</a></sup> _[A Thousand Years of War](https://wowpedia.fandom.com/wiki/A_Thousand_Years_of_War "A Thousand Years of War")_
+11.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-11) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, 30-31 on e-book
+12.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-12)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Inv_knife_1h_artifactcthun_d_01.png/revision/latest/scale-to-width-down/16?cb=20151208214717)[\[Xal'atath, Blade of the Black Empire\]](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire)
+13.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-13) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. ??
+14.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-14) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_ pg. 274
+15.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-15)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[51-60\] [Wicked Gateways](https://wowpedia.fandom.com/wiki/Wicked_Gateways)
+16.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-16)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[51-60\] [Warriors of the Void](https://wowpedia.fandom.com/wiki/Warriors_of_the_Void)
+17.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-17)  ![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Inv_misc_book_05.png/revision/latest/scale-to-width-down/16?cb=20070329111243)[\[Enemy Infiltration - Preface\]](https://wowpedia.fandom.com/wiki/Enemy_Infiltration_-_Preface)
+18.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-18) _[Windrunner: Three Sisters](https://wowpedia.fandom.com/wiki/Windrunner:_Three_Sisters "Windrunner: Three Sisters")_
+19.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-19) [Warcraft: Orcs & Humans manual](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans_manual "Warcraft: Orcs & Humans manual")
+20.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-UnboundDarkness_20-0)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[25-30D\] [Unbound Darkness](https://wowpedia.fandom.com/wiki/Unbound_Darkness)
+21.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-21) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, 26 on e-book
+22.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-22) [Legion: Priest Artifact Reveal](http://eu.battle.net/wow/en/blog/19942704)
+23.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-23) [Wowhead - Faceless Horror](http://www.wowhead.com/npc=33772/faceless-horror#abilities)
+24.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-24) [Jeremy Feasel on Twitter](https://twitter.com/Muffinus/status/613961991162564608)
+25.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-Whispers_25-0) [Xal'atath, Blade of the Black Empire#Whispers](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire#Whispers "Xal'atath, Blade of the Black Empire")
+26.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-26) [Dark Inquisitor Xanesh#Quotes](https://wowpedia.fandom.com/wiki/Dark_Inquisitor_Xanesh#Quotes "Dark Inquisitor Xanesh"): **Queen Azshara says:** For all his bluster, N'Zoth was ever the weakest of his kin. One vestige of their power yet remains that can be turned against him.
+27.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-27) [Madness of Deathwing](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing")
+28.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-28) [Hour of Twilight (instance)](https://wowpedia.fandom.com/wiki/Hour_of_Twilight_(instance) "Hour of Twilight (instance)")
+29.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-29) [Archbishop Benedictus (tactics)](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus_(tactics) "Archbishop Benedictus (tactics)")
+30.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-30) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_
+31.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-31)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35\] [The Nordrassil Summit](https://wowpedia.fandom.com/wiki/The_Nordrassil_Summit)
+32.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-32) [Sarmoth](https://wowpedia.fandom.com/wiki/Sarmoth)
+33.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-Chronicle24_33-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, 24-25 on e-book
+34.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-34) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 21
+35.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-35) [Ask CDev Answers - Round 4](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_4 "Ask CDev")
+36.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-36) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/442062392281665536)
+37.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-37)  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Inv_pet_frostwolfpup_shadow.png/revision/latest/scale-to-width-down/16?cb=20150923162306)[\[Lost Netherpup\]](https://wowpedia.fandom.com/wiki/Lost_Netherpup)
+38.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-38) [Voidstalker Runt](https://wowpedia.fandom.com/wiki/Voidstalker_Runt "Voidstalker Runt")
+39.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-39) [Don Adams on Twitter](https://twitter.com/_DonAdams/status/653305256856555520)
+40.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-40)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-30\] [What the Soul Sees](https://wowpedia.fandom.com/wiki/What_the_Soul_Sees)
+41.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-41) [Locus-Walker#Quotes](https://wowpedia.fandom.com/wiki/Locus-Walker#Quotes "Locus-Walker")
+42.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-42)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Ability_racial_chillofnight.png/revision/latest/scale-to-width-down/16?cb=20180218114531)[\[Chill of Night\]](https://wowpedia.fandom.com/wiki/Chill_of_Night)
+43.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-43)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[45-70\] [Telogrus Rift](https://wowpedia.fandom.com/wiki/Telogrus_Rift_(quest))
+44.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-44)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[45-70\] [Remember the Sunwell](https://wowpedia.fandom.com/wiki/Remember_the_Sunwell)
+45.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-45) [General Zah'd](https://wowpedia.fandom.com/wiki/General_Zah%27d "General Zah'd")
+46.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-46)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [S-A-B-O-T-A-G-E](https://wowpedia.fandom.com/wiki/S-A-B-O-T-A-G-E)
+47.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-47)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [Potential for Brain Damage = High](https://wowpedia.fandom.com/wiki/Potential_for_Brain_Damage_%3D_High)
+48.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-48) [Ethereum Nexus-Stalker abilities](https://wowpedia.fandom.com/wiki/Ethereum_Nexus-Stalker#Abilities "Ethereum Nexus-Stalker")
+49.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-49) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, 38-39 on e-book
+50.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-50)  ![Combat](https://static.wikia.nocookie.net/wowpedia/images/f/f0/GarrisonMission_Combat.png/revision/latest/scale-to-width-down/16?cb=20201005020641 "Combat")[Sorcery, Meet Sword](https://wowpedia.fandom.com/wiki/Sorcery,_Meet_Sword)
+51.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-51)  ![Combat](https://static.wikia.nocookie.net/wowpedia/images/f/f0/GarrisonMission_Combat.png/revision/latest/scale-to-width-down/16?cb=20201005020641 "Combat")[Vile Bloods](https://wowpedia.fandom.com/wiki/Vile_Bloods)
+52.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-Lessons_52-0)  ![Combat](https://static.wikia.nocookie.net/wowpedia/images/f/f0/GarrisonMission_Combat.png/revision/latest/scale-to-width-down/16?cb=20201005020641 "Combat")[Lessons of History](https://wowpedia.fandom.com/wiki/Lessons_of_History)
+53.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-53) [Blizzard lore posts](https://wowpedia.fandom.com/wiki/Blizzard_lore_posts "Blizzard lore posts")
+54.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-54)  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[35-40\] [Echoes of the Past](https://wowpedia.fandom.com/wiki/Echoes_of_the_Past)
+55.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-55) [World of Warcraft > Game Guide > Classes > Priest](https://worldofwarcraft.com/en-us/game/classes/priest)
+56.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-Preview_56-0) [Legion Class Preview Series: Priest](http://us.battle.net/wow/en/blog/19941176/legion-class-preview-series-priest-11-9-2015)
+57.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-WoWM4_57-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-WoWM4_57-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-WoWM4_57-2">c</a></sup> _[World of Warcraft: The Magazine Issue 4](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_4 "World of Warcraft: The Magazine Issue 4")_
+58.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-58) [WarcraftDevs on Twitter](https://twitter.com/WarcraftDevs/status/663807800783450112)
+59.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-59) [Legion Class Preview Series: Rogue](https://worldofwarcraft.com/en-us/news/19955666/legion-class-preview-series-rogue)
+60.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-60)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[35-40\] [Dark Binding](https://wowpedia.fandom.com/wiki/Dark_Binding)
+61.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-61)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35-40\] [Through the Nether](https://wowpedia.fandom.com/wiki/Through_the_Nether)
+62.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-62)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35-40\] [The Void March](https://wowpedia.fandom.com/wiki/The_Void_March)
+63.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-63) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 21
+64.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-LegionLock_64-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Void#cite_ref-LegionLock_64-1">b</a></sup> [Legion Class Preview Series: Warlock](http://us.battle.net/wow/en/blog/19955662/legion-class-preview-series-warlock-11-10-2015)
+65.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-65) _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_
+66.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-66) _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, quotes from the [Priest](https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III/Human_Alliance#Priest "Quotes of Warcraft III/Human Alliance") and [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III/Human_Alliance#Uther_the_Lightbringer "Quotes of Warcraft III/Human Alliance").
+67.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-67) _[Threat!](https://wowpedia.fandom.com/wiki/Threat! "Threat!")_, pg. 8
+68.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-68) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 9
+69.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-69) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 63 - 64
+70.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-70) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 132
+71.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-71) _[More Magic and Mayhem](https://wowpedia.fandom.com/wiki/More_Magic_and_Mayhem "More Magic and Mayhem")_, pg. 73
+72.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-72)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [The Void Solution](https://wowpedia.fandom.com/wiki/The_Void_Solution)
+73.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-73)  ![Ability rogue envelopingshadows.png](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Ability_rogue_envelopingshadows.png/revision/latest/scale-to-width-down/16?cb=20180824003417) **Tearing the Void** — [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai_the_Devourer "Aku'mai the Devourer") widens the portal, allowing more pieces of himself to emerge from the void.
+74.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-74) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/442062392281665536) (2014-03-07)
+75.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-75)  ![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Spell_nature_groundingtotem.png/revision/latest/scale-to-width-down/16?cb=20070106055729)[\[Void Totem\]](https://wowpedia.fandom.com/wiki/Void_Totem)
+76.  [^](https://wowpedia.fandom.com/wiki/Void#cite_ref-76)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[120\] [The Precious 13-Tooth Gogglegear](https://wowpedia.fandom.com/wiki/The_Precious_13-Tooth_Gogglegear)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Cosmic_forces_and_magics "Template:Cosmic forces and magics")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Cosmic_forces_and_magics?action=edit)
+
+Warcraft cosmos
+
+ |
+| --- |
+|  |
+| Forces | 
+
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   **Void**
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+
+
+
+ | 
+
+[![WoW Chronicle Magic.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest/scale-to-width-down/120?cb=20180325103405)](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest?cb=20180325103405)
+
+ |
+|  |
+| [Magic](https://wowpedia.fandom.com/wiki/Magic "Magic") | 
+
+-   [Holy](https://wowpedia.fandom.com/wiki/Holy "Holy")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Shadow_(magic) "Shadow (magic)")
+-   [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature")
+    -   [Blood](https://wowpedia.fandom.com/wiki/Blood_magic "Blood magic")
+-   [Necromantic](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer")
+    -   [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination")
+-   [Arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane")
+-   [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel")
+
+
+
+ |
+|  |
+| Manifestations | 
+
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+-   [Void Lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+-   [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") and [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+-   [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") and [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper")
+-   [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+|  |
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   **Void**
+-   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
+-   [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")
+-   Reality ([Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") and [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"))
+
+
+
+ |
+|  |
+| [Elements](https://wowpedia.fandom.com/wiki/Element "Element") | 
+
+-   [Earth](https://wowpedia.fandom.com/wiki/Spirit_of_Earth "Spirit of Earth")
+-   [Air](https://wowpedia.fandom.com/wiki/Spirit_of_Air "Spirit of Air")
+-   [Fire](https://wowpedia.fandom.com/wiki/Spirit_of_Fire "Spirit of Fire")
+-   [Water](https://wowpedia.fandom.com/wiki/Spirit_of_Water "Spirit of Water")
+-   [Spirit](https://wowpedia.fandom.com/wiki/Spirit_(lore) "Spirit (lore)")
+-   [Decay](https://wowpedia.fandom.com/wiki/Decay "Decay")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe "Template:Warcraft universe")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe?action=edit)
+
+Worlds of the [_Warcraft_ universe](https://wowpedia.fandom.com/wiki/Warcraft_universe "Warcraft universe")
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs "Template:Religions and beliefs")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs?action=edit)
+
+[Religions](https://wowpedia.fandom.com/wiki/Religion "Religion") and beliefs
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens "Template:Azeroth aliens")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens?action=edit)
+
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |

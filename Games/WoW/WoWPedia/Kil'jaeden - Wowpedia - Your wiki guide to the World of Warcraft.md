@@ -1,0 +1,714 @@
+_For his_ [The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne") _appearance, see [Kil'jaeden (Warcraft III)](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(Warcraft_III) "Kil'jaeden (Warcraft III)"). For his tactics in [Sunwell Plateau](https://wowpedia.fandom.com/wiki/Sunwell_Plateau "Sunwell Plateau"), see [Kil'jaeden (tactics)](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(tactics) "Kil'jaeden (tactics)"). For his tactics in [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras_(instance) "Tomb of Sargeras (instance)"), see [Kil'jaeden (Tomb of Sargeras tactics)](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(Tomb_of_Sargeras_tactics) "Kil'jaeden (Tomb of Sargeras tactics)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Kil'jaeden |
+| --- |
+| [![Image of Kil'jaeden](https://static.wikia.nocookie.net/wowpedia/images/8/81/Kiljaeden_Sunwell.jpg/revision/latest/scale-to-width-down/200?cb=20190615115315)](https://static.wikia.nocookie.net/wowpedia/images/8/81/Kiljaeden_Sunwell.jpg/revision/latest?cb=20190615115315 "Image of Kil'jaeden") |
+| Title | The Deceiver,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-1">[1]</a></sup>  
+The Beautiful One,<sup id="cite_ref-UVG_2-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-UVG-2">[2]</a></sup>  
+Great Friend,  
+Great One,<sup id="cite_ref-UVG_2-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-UVG-2">[2]</a></sup>  
+Legionlord,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-3">[3]</a></sup>  
+Lord of Flame,<sup id="cite_ref-UVG_2-2"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-UVG-2">[2]</a></sup><sup id="cite_ref-Fangs_4-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Fangs-4">[4]</a></sup> Lord<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-5">[5]</a></sup> |
+| Gender | Male |
+| Race | [Man'ari eredar](https://wowpedia.fandom.com/wiki/Man%27ari_eredar "Man'ari eredar") (Demon) |
+| Class | [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"), [Necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer")<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-6">[6]</a></sup> |
+| Affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
+| Former affiliation(s) | [Second Duumvirate](https://wowpedia.fandom.com/wiki/Second_Duumvirate "Second Duumvirate") of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") |
+| Occupation | Supreme commander of the Burning Legion, chief lieutenant of Sargeras |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Kil%27jaeden#Locations) |
+| Status | Deceased (lore)  
+Defeatable ([![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion")) |
+| Mentor(s) | [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") |
+| Student(s) | [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"), [alternate Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)"), [Vorusk](https://wowpedia.fandom.com/wiki/Jed%27hin_Champion_Vorusk "Jed'hin Champion Vorusk") (disciple)<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-7">[7]</a></sup> |
+
+“I was always envious of [you](https://wowpedia.fandom.com/wiki/Velen "Velen"). Your [gift](https://wowpedia.fandom.com/wiki/Sight "Sight"). Your [faith](https://wowpedia.fandom.com/wiki/Light "Light"). Your vision. I never believed that [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") could be stopped. Perhaps you will prove me wrong.”
+
+— Kil'jaeden's final words to Velen
+
+**Kil'jaeden** (sometimes spelled as **Kil'Jaeden**)<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-8">[8]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-9">[9]</a></sup><sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-10">[10]</a></sup><sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-11">[11]</a></sup> [\[kɪlˈdʒeɪdən\]](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet "wikipedia:International Phonetic Alphabet") (pronounced Kill-jay-den), was a powerful [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar") [demon lord](https://wowpedia.fandom.com/wiki/Demon_lord "Demon lord") and the second in rank of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). 13,000 years ago,<sup id="cite_ref-Bringer_of_the_Light_12-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Bringer_of_the_Light-12">[12]</a></sup> Kil'jaeden, [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") and [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") were the leaders of the benevolent eredar people of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"). When the Dark Titan [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") arrived and offered them the answer to the most important question there was, "what is the one true underlying [flaw](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") of the universe?", the eredar, as a knowledge-seeking race, accepted, led by Kil'jaeden and Archimonde. Sargeras blessed them with unimaginable power, turning the eredar into [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") who would help Sargeras get rid of that flaw, while [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") and his followers fled, renaming themselves the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei").
+
+While Archimonde led the Legion's armies, Kil'jaeden was charged with assimilating as many races as possible into the folds of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). He long sought to exact revenge on Velen and his followers for their perceived betrayal, which eventually led him to corrupt the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"), native inhabitants of the world of [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") which the draenei had settled upon. The orcs formed the [First Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde"), slaughtered the draenei, and invaded the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), marking the beginning of the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"). Kil'jaeden also created the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") and the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") as a means to weaken Azeroth's defenses in preparation for a future Legion invasion.
+
+Since Sargeras was nowhere to be seen following the death of [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), Kil'jaeden had assumed the role of acting leader of the Burning Legion.<sup id="cite_ref-WCEBL_13-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-WCEBL-13">[13]</a></sup>
+
+Kil'jaeden is one of the two main antagonists in _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_ (alongside [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")), the main antagonist in _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade"),_ and the secondary antagonist in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
+
+## Biography
+
+### Argus
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Young_KJ%2C_Velen_and_Archie.jpg/revision/latest/scale-to-width-down/180?cb=20170827133151)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Young_KJ%2C_Velen_and_Archie.jpg/revision/latest?cb=20170827133151)
+
+Younger Kil'jaeden, [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde").
+
+Twenty-five millennia ago, the world of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") was shaped into a paradise by the [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar") race who called it home. Kil'jaeden, respected for his intelligence, a genius among a race of geniuses, quickly rose to become a leader of Argus alongside his best friend, [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen"), who he loved as a brother.<sup id="cite_ref-RotH_82_14-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-RotH_82-14">[14]</a></sup> Together they formed the [Second Duumvirate](https://wowpedia.fandom.com/wiki/Second_Duumvirate "Second Duumvirate").<sup id="cite_ref-Warlock_15-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Warlock-15">[15]</a></sup>
+
+At one point, Kil'jaeden, Velen and the eredar rulers' inner circle bore witness to a grand demonstration held by the [sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer") [Thal'kiel](https://wowpedia.fandom.com/wiki/Thal%27kiel "Thal'kiel"), who led an order of [magi](https://wowpedia.fandom.com/wiki/Mage "Mage") called the [Wakeners](https://wowpedia.fandom.com/wiki/Wakeners "Wakeners"). First, Thal'kiel summoned orderly rows of the old, familiar [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") constructs he and his followers were known for. Then, he started summoning a storm of [infernals](https://wowpedia.fandom.com/wiki/Infernal "Infernal") to destroy the constructs as a symbolic display of the "new era" he foresaw for his people thanks to the arts of [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") summoning he had recently discovered.
+
+However, when he looked upon his colleagues' faces, Thal'kiel didn't see the approval he expected. Kil'jaeden's expression was remote and inscrutable, but Velen harshly condemned Thal'kiel's actions and forbade him from ever conjuring demons again, denouncing his "new era" as a failed experiment. Some time later, Thal'kiel resumed his experiments regardless, using cloaking magic to hide a demonic army he and his Wakeners were constructing with the purpose of installing him as dictator of Argus. The night before the planned coup, however, Thal'kiel's ambitious young apprentice, [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"), informed Kil'jaeden and Velen of his master's plans. To prove his loyalty to Argus' rulers, Archimonde himself led the attack on the Wakeners' secret training grounds and decapitated his former master with his own blade. Later, he would rise to rule the eredar alongside Kil'jaeden and Velen.<sup id="cite_ref-Warlock_15-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Warlock-15">[15]</a></sup>
+
+### Corruption
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Kil%27jaeden_eredar_flashback.jpg/revision/latest/scale-to-width-down/180?cb=20180123204954)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Kil%27jaeden_eredar_flashback.jpg/revision/latest?cb=20180123204954)
+
+Kil'jaeden during the [flight from Argus](https://wowpedia.fandom.com/wiki/Eredath,_Jewel_of_Argus "Eredath, Jewel of Argus").
+
+Eredar society was shattered when their three leaders were contacted by [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), who offered the eredar untold knowledge and magic at their disposal in exchange for their loyalty. Kil'jaeden and Archimonde readily accepted, though Velen curiously held back. As the eredar were preparing to receive their new powers, Kil'jaeden learned that Velen and his followers had sided with the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") and were in the process of fleeing Argus. Enraged by this "betrayal", Kil'jaeden loosed his new powers and minions on the "Exiled Ones", or [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") in Eredun, and relentlessly pursued them across the cosmos for thousands of years.
+
+[Talgath](https://wowpedia.fandom.com/wiki/Talgath "Talgath") delivered Velen's [wife](https://wowpedia.fandom.com/wiki/Nuuri "Nuuri") and [son](https://wowpedia.fandom.com/wiki/Rakeesh "Rakeesh") to Kil'jaeden,<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-16">[16]</a></sup> who then renamed the boy Rakeesh, meaning "butcher", and had the [Demonic Inquisition](https://wowpedia.fandom.com/wiki/Demonic_Inquisition "Demonic Inquisition") torture him into an agent of the Burning Legion.<sup id="cite_ref-Bringer_of_the_Light_12-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Bringer_of_the_Light-12">[12]</a></sup><sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-17">[17]</a></sup>
+
+Sargeras molded Kil'jaeden's innate cunning and intellect and charged him with seeking out and transforming the races of the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") into demons of the Burning Legion.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-18">[18]</a></sup> The Deceiver first enslaved the vampiric race called the dreadlords - or [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") - led by [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius"),<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-19">[19]</a></sup> after which he also recruited the barbarous pit lords, or [annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-20">[20]</a></sup>
+
+### The Orcish Horde
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/The_Path_to_Corruption_by_Twincruiser.jpg/revision/latest/scale-to-width-down/180?cb=20171218004149)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/The_Path_to_Corruption_by_Twincruiser.jpg/revision/latest?cb=20171218004149)
+
+The path to corruption.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Kiljaedendaemon.JPG/revision/latest/scale-to-width-down/180?cb=20210616222617)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Kiljaedendaemon.JPG/revision/latest?cb=20210616222617)
+
+The demon Kil'jaeden as he appeared in the _Warcraft II_ manual.
+
+For millennia, Kil'jaeden's scouts searched the Nether for the draenei, finding and destroying the worlds they had settled on, but they always managed to escape. Then, one day, Kil'jaeden's favored servant, [Talgath](https://wowpedia.fandom.com/wiki/Talgath "Talgath"), stumbled upon a world that showed signs of the draenei's magic. Though they initially assumed it was just another one of the planets the draenei briefly stopped upon,<sup id="cite_ref-RotH_82_14-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-RotH_82-14">[14]</a></sup> further investigations quickly discovered that the draenei had actually settled there, even going so far as to give it an eredun name: [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), meaning "Exiles' Refuge". There also resided a race of shamanistic beings called [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"). Intrigued by their potential, Kil'jaeden realized that they were exactly what he was looking for and thus sought an agent the orcish race to follow his will. Though Kil'jaeden found many suitable candidates none held as much potential as [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan").<sup id="cite_ref-Chronicles68_21-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Chronicles68-21">[21]</a></sup>
+
+Gul'dan was born crippled, weak and deformed, which made him a target for constant mockery and abuse ever since his childhood. He knew that he was meant for more than his clan would ever allow of him, and he hated them for it. He used the hate and bitterness he felt as a way to keep going. One day, the other clan members grew so tired of the runt's refusal to accept his place in the clan that they beat him repeatedly in an attempt to rid themselves of him once and for all. As the chieftain was about to beat him again, the elderly [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") of the clan stopped him, saying that he had tried and failed to help Gul'dan find his place in the clan. Laying a hand on Gul'dan's shoulder, the elder said, not unkindly, that there was nothing more he could do for him, but that he had always believed there was greatness within him. He then advised the runt to seek out the [Throne of the Elements](https://wowpedia.fandom.com/wiki/Throne_of_the_Elements "Throne of the Elements"), for perhaps there he would find his destiny. Though at first dismissal Gul'dan would eventually follow the advice, only to be rejected by the [furies](https://wowpedia.fandom.com/wiki/Furies "Furies") who sensed the darkness and fury within his heart. It was when he was at his lowest, that Kil'jaeden spoke to Gul'dan, promising power and godhood in exchange for Gul'dan helping the Burning Legion turn the orcs as a weapon to destroy the draenei.
+
+Gul'dan quickly agreed, for he only held disdain for his people. Kil'jaeden instructed his new servant in the ways of fel magic. The demon lord knew that these energies would physically change the orc or even draw the draenei's attention, so he took steps to hide Gul'dan new abilities. Kil'jaeden taught the orc how to mask his powers, and he ordered him to use fel magic only when absolutely necessary. Gul'dan took to the volatile power faster than expected, reveling in the destructive might his fingertips.<sup id="cite_ref-Chronicles68_21-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Chronicles68-21">[21]</a></sup>
+
+Knowing that Gul'dan couldn't serve as the figure they needed to forge the orc clans into an army, Kil'jaeden ordered Gul'dan to ally with someone who could inspire or lead the orc race. After destroying his former clan (in order to ensure that no one knew his past) Gul'dan would join the [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan"), which was under the rule of [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"). In time Gul'dan's would earn Ner'zhul's trust and became the elder's shamanic apprentice. Under the guise of the orcs' sacred ancestors, Kil'jaeden tricked the shamans of each clan—including their most respected leader, the elder shaman [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")—into thinking that the draenei were plotting against the orcs.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-22">[22]</a></sup> Soon, the clans began to launch successful skirmishes and raids against the draenei, believing it to be their ancestors' will that they be exterminated. However, plans faltered when Ner'zhul traveled to [Oshu'gun](https://wowpedia.fandom.com/wiki/Oshu%27gun "Oshu'gun"), was shown the truth about his new patron, and attempted to undo his actions. Kil'jaeden, however, was already aware of Ner'zhul's actions and stripped the elderly shaman of his power, and Gul'dan would teach his fel magics to other the orcs. Eventually, as the [elemental spirits](https://wowpedia.fandom.com/wiki/Elemental_spirit "Elemental spirit") refused to grant their powers to the [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman"), these demonic powers would overtake the orcs.
+
+Gul'dan also turned to Kil'jaeden for assistance in creating two [deadly](https://wowpedia.fandom.com/wiki/Anguish "Anguish") [weapons](https://wowpedia.fandom.com/wiki/Sorrow "Sorrow"), imploring the Burning Legion for aid since he did not want to ask the [Furies](https://wowpedia.fandom.com/wiki/Furies "Furies") for help. Kil'jaeden saw the value of having a covert assassin at the Shadow Council's command. The demon lord instructed and provided him the raw materials needed to create them.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-23">[23]</a></sup>
+
+After proving the orcs' ability to fight the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"), [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")'s blood was given to the orcs to drink, and they degraded into a horrible bloodlust. As both a test of his new minions and as a revenge to his wayward brethren, Kil'jaeden ordered Gul'dan to finish the slaughter of the draenei in one climactic battle at [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City"). The attack was a brutal massacre, with much of Shattrath being destroyed. To all appearances, Kil'jaeden's pawns had finally triumphed over the draenei. Kil'jaeden was relatively pleased with the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde")'s destruction of the draenei, as was Sargeras who viewed the Horde as the perfect army to weaken Azeroth and thus ordered Kil'jaeden to cut all communication with them. Sargeras wanted the orcs to be so desperate that they would anything to survive, even if that meant journeying to another world.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-24">[24]</a></sup> Obeying his master's orders and taking it as a sign that Sargeras required him elsewhere Kil'jaeden retreated from Draenor, abandoning the Horde<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-25">[25]</a></sup>
+
+Following [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer")'s take-over of the Horde and resulting in its victory during the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), Kil'jaeden would reestablish contact with Gul'dan, convincing the warlock to support Doomhammer.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-26">[26]</a></sup> Unknown to Kil'jaeden however, Gul'dan had grown disillusioned with the eredar and plotted to acquire the power within the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") for himself. Thus his betrayal of the Horde came as a complete shock to Kil'jaeden. The enraged demon lord prepared to annihilate his servant for single-handedly dooming what should have been a momentous Legion victory when Sargeras himself ordered him to stand down. Sargeras decided that he would allow Gul'dan to come within reach of what he desired, let the foolish orc taste could have been his, and then Sargeras would rip it all away, as Gul'dan had done to the Horde's hopes of victory.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-27">[27]</a></sup>
+
+### The Lich King
+
+The defeat of the Horde during the Second War infuriated Kil'jaeden but it did not deter the demon lord. In truth, Kil'jaeden had learned an extremely valuable lesson. The Horde had failed because of internal conflict and disloyalty. The Legion's next strike against Azeroth would not suffer from the same weakness. Kil'jaeden convinced of a dark, disturbing way to raise a new puppet army that would be utterly incapable of diverging from the Legion's will. All he needed was a powerful spirit, skilled in the art of wielding magic to control it.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-28">[28]</a></sup>
+
+Calling in an unpaid vendetta, the Deceiver found Ner'zhul within the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"), and, seeking vengeance against the shaman's defiance, tortured the orc for an impossibly long time, destroying his body piece by piece until finally, nothing remained but the shaman's tortured soul.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-29">[29]</a></sup> Kil'jaeden offered the remnant of the soul a choice: remain in eternal pain in the eredar torture dimension, or become the ruler of an army of undeath. Ner'zhul, predictably, chose the latter and was transformed into the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"). Recalling Ner'zhul's previous duplicity and Gul'dan's failure, Kil'jaeden took no chances whatsoever. He refused to give the Lich King a body, instead sealing specially forged armor, along with the Lich King's soul, into the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"). Just in case Ner'zhul wasn't daunted by immobility, he dispatched the Dreadlords to make sure he stayed on task. From his followers, he created the first [liches](https://wowpedia.fandom.com/wiki/Lich "Lich"). The demon lord promised him that if he succeeds, he will give him freedom and a new body.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-30">[30]</a></sup>
+
+The Lich King was to succeed where the orcs had failed: His undead servants would wipe out any potential resistance, and raise the unfortunate fallen as undead legions and thus the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") began. However, the Lich King, aware of the eredar's hatred for the immortal elves, betrayed the Legion by breaking the pact he had forged with Kil'jaeden which bound him to the latter's will. In informing [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan") of the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") through his pawn [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas"), he facilitated the death of one of the Legion's greatest tacticians, [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius"), and dealt the first blow against the Legion that led to the ultimate fall of their forces in the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal").
+
+### The Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Kiljaeden_face.jpg/revision/latest?cb=20081205222442)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Kiljaeden_face.jpg/revision/latest?cb=20081205222442)
+
+Kil'jaeden in _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Kil%27jaeden3.jpg/revision/latest/scale-to-width-down/180?cb=20180923173258)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Kil%27jaeden3.jpg/revision/latest?cb=20180923173258)
+
+Kil'jaeden as he appeared to Illidan in the Frozen Throne.
+
+Although Kil'jaeden was infuriated at the failure and death of Archimonde,<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-31">[31]</a></sup> he knew better than to take reckless vengeance.
+
+He did not believe that all was lost. He was still confident about the Scourge, the dreadlords, and the Lich King. But when he reached to the Lich King, the entity refused him. Kil'jaeden realized that if the Lich King conquered Azeroth, any future demonic invasions would be nearly impossible. He sensed a new demon who could complete the task of destroying the Lich King.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-32">[32]</a></sup>
+
+He found [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), and told him that, despite his part in the Legion's downfall, the Deceiver was willing to offer him a chance at power. Illidan was informed that if he destroyed the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), thus killing the Lich King, that Kil'jaeden would reward him with power beyond his imagination (whether or not Kil'jaeden actually intended to do so is a moot point).<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-33">[33]</a></sup> He gave Illidan the [Orb of Kil'jaeden](https://wowpedia.fandom.com/wiki/Orb_of_Kil%27jaeden "Orb of Kil'jaeden") to aid him in his task.
+
+Illidan first gained the allegiance of the [naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"), who helped him first flee from [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") and then later seek out the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). With it, they performed an arcane ritual to tear [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), the base of the undead Scourge, apart. Thus, the minions of Kil'jaeden came full circle, back to the power of the Dark Titan.
+
+However, due to interference from Illidan's brother, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), the Eye was destroyed before Illidan managed to destroy the Frozen Throne. Having failed Kil'jaeden, Illidan instead went on to rescue [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") from the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") along with his brother. Aware of Kil'jaeden's capabilities, he fled to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") to evade capture, during which he gained the loyalty of one more former Highborne race, the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"). With his new servitors, Illidan eventually moved against the pit lord [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon") by destroying the dimensional gates Ner'zhul had opened decades before. The stratagem was meant to keep Kil'jaeden and his minions away from Outland and would have stopped Magtheridon from calling in reinforcements. Without any further demonic aid to strengthen his standing forces, Magtheridon was quick to fall before Illidan and his followers.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-34">[34]</a></sup>
+
+But Kil'jaeden was no fool. Because of Draenor's former importance as the homeworld of the orcs and the refuge of the draenei (and Magtheridon himself an agent of the Legion), Kil'jaeden kept at least half an eye on the torn planet. Quickly uncovering what had happened (or perhaps watching all along), the Deceiver once again appeared in front of Illidan and commanded him to return to the icy continent to finish what he had started (citing that his new servitors showed "_some_ promise"; while Kil'jaeden probably didn't buy Illidan's story, he knew that his best bet in destroying the traitor still lay in Illidan), and told him that if he failed again, he would face his "_**eternal wrath.**_"<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-35">[35]</a></sup> However, Illidan failed and the Lich King persists, having cheated the Deceiver by merging with [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil").
+
+### The war in Outland
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+After Illidan destroyed the dreadlord homeworld of [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza") and dealt the greatest blow to the Legion in ten thousand years, the Legion was now clearly aware of the threat that Illidan posed and would learn from spies from within the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") that Illidan planned to launch a similar assault on [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"). He believed that Kil'jaeden attacked the forces of Azeroth, luring them to Outland to put an end to Illidan. Once within the shattered realm, the Horde and Alliance would begin striking against both the Legion and the Illidari. Kil'jaeden manipulated his enemies into fighting each other, and when they were weakened from the battle he planned to destroy them all.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-36">[36]</a></sup> Kil'jaeden also sent the [Doomwalker](https://wowpedia.fandom.com/wiki/Doomwalker "Doomwalker") to lay siege to the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple").
+
+After [Varedis Felsoul](https://wowpedia.fandom.com/wiki/Varedis_Felsoul "Varedis Felsoul") was killed at the Black Temple, his demonic soul entered the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") where he was found by Kil'jaeden. Kil'jaeden heaped endless torment upon Varedis, who resisted for a time, but it was not pain that broke his spirit. The Deceiver played upon his shock from the battle at the Black Temple. Champions had been prepared to face Varedis and known to use the  ![](https://static.wikia.nocookie.net/wowpedia/images/9/96/Inv_misc_book_06.png/revision/latest/scale-to-width-down/16?cb=20070329111319)[\[Book of Fel Names\]](https://wowpedia.fandom.com/wiki/Book_of_Fel_Names), so who had told them of that power? Varedis knew it would not have been the Burning Legion or the Shadow Council, as they would have preferred the book to remain intact. Kil'jaeden convinced Varedis that it could only have been the Illidari, who knew of his power and betrayed him.
+
+With the help of other [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar"), Kil'jaeden conducted a dangerous, agonizing ritual, infusing a small part of his soul into Varedis's spirit. When the ritual was complete, Varedis was not a demon hunter but a demon, loyal to the Burning Legion and hungry for vengeance. Varedis found that his weapons, now the [Twinblades of the Deceiver](https://wowpedia.fandom.com/wiki/Twinblades_of_the_Deceiver "Twinblades of the Deceiver"), had also been changed. The ritual had imbued them with another slice of Kil'jaeden's astonishing power.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-37">[37]</a></sup> [Caria Felsoul](https://wowpedia.fandom.com/wiki/Caria_Felsoul "Caria Felsoul") willingly joined the demon lord and Kil'jaeden bestowed her the ancient [Aldrachi Warblades](https://wowpedia.fandom.com/wiki/Aldrachi_Warblades "Aldrachi Warblades").<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-38">[38]</a></sup>
+
+### Fury of the Sunwell
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+_Main article: [Kil'jaeden (tactics)](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(tactics) "Kil'jaeden (tactics)")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Sunwell_Classic_key_art_version_3.jpg/revision/latest/scale-to-width-down/180?cb=20220513032809)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Sunwell_Classic_key_art_version_3.jpg/revision/latest?cb=20220513032809)
+
+Kil'jaeden at the Sunwell.
+
+Some time prior to Illidan's defeat at the Black Temple, Kil'jaeden turned to one of the Betrayer's former lieutenants to be his instrument of vengeance: [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider"), Lord of the Blood Elves whom he enticed with promises of salvation for the blood elves.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-39">[39]</a></sup> Defeated at [Tempest Keep](https://wowpedia.fandom.com/wiki/Tempest_Keep "Tempest Keep"), Kael was revived by [Priestess Delrissa](https://wowpedia.fandom.com/wiki/Priestess_Delrissa "Priestess Delrissa") who healed his wounds by planting a fel crystal inside his chest. Kael'thas was then sent to Azeroth, where he infiltrated [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"), took the dark naaru [M'uru](https://wowpedia.fandom.com/wiki/M%27uru "M'uru"), and traveled to the [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas") where he planned to use the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell") as a gateway for Kil'jaeden to enter the world. Kil'jaeden used the [Jeweled Scepter of Sargeras](https://wowpedia.fandom.com/wiki/Jeweled_Scepter_of_Sargeras "Jeweled Scepter of Sargeras"), which he had retrieved from Ner'zhul after Draenor's destruction, to aid Kael'thas in opening the portal.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-40">[40]</a></sup> Adventurers fought their way through Kael's minions and Burning Legion demons to reach the Sunwell, just in time to see Kil'jaeden begin pulling himself through... [Anveena](https://wowpedia.fandom.com/wiki/Anveena_Teague "Anveena Teague"), the embodiment of the Sunwell's energies, was held in an arcane barrier, her powers being drained to feed the portal, but later in the encounter she sacrificed herself to weaken the Deceiver, who could then successfully be banished back into the Nether, leaving only his large necklace behind on the surface of the Sunwell.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/Kil%27jaeden_Magister%27s_Terrace.jpg/revision/latest/scale-to-width-down/120?cb=20090526220408)](https://static.wikia.nocookie.net/wowpedia/images/3/34/Kil%27jaeden_Magister%27s_Terrace.jpg/revision/latest?cb=20090526220408)
+    
+    Kil'jaeden as depicted on the walls of the Magisters' Terrace.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/KiljaedenSunwell.jpg/revision/latest/scale-to-width-down/120?cb=20120707071755)](https://static.wikia.nocookie.net/wowpedia/images/a/a5/KiljaedenSunwell.jpg/revision/latest?cb=20120707071755)
+    
+    Kil'jaeden in the Sunwell Plateau.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Chronicle3_Kil%27jaeden.jpg/revision/latest/scale-to-width-down/96?cb=20180806224505)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Chronicle3_Kil%27jaeden.jpg/revision/latest?cb=20180806224505)
+    
+    Kil'jaeden faces the Alliance.
+    
+-   [](https://static.wikia.nocookie.net/wowpedia/images/6/67/KJ_Necklace.JPG/revision/latest?cb=20080605150024)
+    
+    Kil'jaeden's necklace, which becomes his "corpse", at the end of the fight.
+    
+
+### Warlords of Draenor
+
+Kil'jaeden's plans to corrupt the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") into a [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") that would slaughter the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") he hated so much went awry on an alternate [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") due to the intervention of a time-traveling [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), who prevented the drinking of the [Blood of Mannoroth](https://wowpedia.fandom.com/wiki/Blood_of_Mannoroth "Blood of Mannoroth") by warning the orcs beforehand. With Kil'jaeden's plan falling to pieces, [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") took control of the Legion's invasion of Draenor himself. Under Archimonde, the demons were much more forceful and out in the open than they were in the main timeline.
+
+Though Kil'jaeden's plans failed, he continued to watch [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")'s actions throughout the events on Draenor.<sup id="cite_ref-BlizzCon_41-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-BlizzCon-41">[41]</a></sup>
+
+### The Tomb of Sargeras
+
+After the defeat of Archimonde in [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel_(alternate_universe) "Hellfire Citadel (alternate universe)"), Gul'dan was sent to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") to open the way for the Burning Legion to invade. Kil'jaeden telepathically communicated and instructed Gul'dan until the warlock had successfully entered the Tomb of Sargeras. Soon after [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") (who had been searching Gul'dan) arrived and a furious battle erupted between the two. When Khadgar began gaining the upper hand Kil'jaeden instructed Gul'dan how to shattered the seals blocking the power of the Tomb of Sargeras from being used. However, Gul'dan soon realized that he could not kill Khadgar and shatter the final seal at the same, Gul'dan sought to convince Kil'jaeden to infuse him with the tomb's power. A plea that Kil'jaeden granted, after Gul'dan learned the fate of his prime timeline counterpart.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Kil%27jaeden_and_Gul%27dan.jpg/revision/latest/scale-to-width-down/250?cb=20160814205726)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Kil%27jaeden_and_Gul%27dan.jpg/revision/latest?cb=20160814205726)
+
+Gul'dan encounters his master once again.
+
+With his new power Gul'dan was able to defeat Khadgar and Kil'jaeden ordered Gul'dan to allow the power to flow to the portal and spark the invasion of Azeroth. However, Gul'dan refused and instead used his new power to reach through his demonic link and speak face to face with his master, sitting on a throne in some distant world within the Nether. Gul'dan accused him of planning to discard the orc from the beginning. Kil'jaeden denied this, having invested too much into Gul'dan. He explained that the original Gul'dan died because his betrayal is what sealed the defeat of the [first Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") — and by extension, Kil'jaeden and the Legion — on Azeroth during the Second War. When Gul'dan angrily replied that that was not him, Kil'jaeden told him that betrayal was in his nature. Seeing great potential within the orc, however, buried beneath a short-sighted selfishness, the eredar had dragged Gul'dan to Thal'dranath to lead him to even greater power. The eredar then went on to explain that while Gul'dan had always been destined for power, he would never be his own master; that every creature served a master, [even the Deceiver](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"). Then, he gave the warlock a choice: prove himself loyal, return his power to the portal and open the way for the Legion, or betray his masters yet again to exact his petty vengeance on insignificant mortals before the Legion destroyed him. He left with a closing thought: Gul'dan may call him 'the Deceiver', but Kil'jaeden stated that he had never lied to him. "Not once. Not in [this world](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"), and not in [yours](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)")."
+
+Gul'dan would ultimately realign with the Legion, a choice that Kil'jaeden would commend Gul'dan for, and later reveal that in doing so that Gul'dan had secured the trust of the Legion.<sup id="cite_ref-Tomb_of_Sargeras_42-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Tomb_of_Sargeras-42">[42]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Kil%27jaeden_and_Akaari.jpg/revision/latest/scale-to-width-down/180?cb=20161016183016)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Kil%27jaeden_and_Akaari.jpg/revision/latest?cb=20161016183016)
+
+Kil'jaeden bestowing his blessing upon Akaari.
+
+Kil'jaeden briefly appears on board the [Shadowgore Citadel](https://wowpedia.fandom.com/wiki/Shadowgore_Citadel "Shadowgore Citadel") to bless [Akaari Shadowgore](https://wowpedia.fandom.com/wiki/Akaari_Shadowgore "Akaari Shadowgore") and her [Fangs of the Devourer](https://wowpedia.fandom.com/wiki/Fangs_of_the_Devourer "Fangs of the Devourer").<sup id="cite_ref-Fangs_4-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-Fangs-4">[4]</a></sup> He also orders [Varedis Felsoul](https://wowpedia.fandom.com/wiki/Varedis_Felsoul "Varedis Felsoul") to return to [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") before he dies at the hands of the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari").<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-43">[43]</a></sup>
+
+Kil'jaeden appears before the Illidari at the _[Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")_ on [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum") and gives them an offer to join the Burning Legion. When [their leader](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in Illidan's absence declines, Kil'jaeden replies that he will send Caria and Varedis after them.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-44">[44]</a></sup> As the Illidari invade [Niskara](https://wowpedia.fandom.com/wiki/Niskara "Niskara") to kill Varedis and Caria, Kil'jaeden watches the battle and tells them to fight for his pleasure. He ignores his demon hunters' pleas to be saved as they die, and tells the Illidari that their fate is sealed.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-45">[45]</a></sup>
+
+#### Legionfall
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Kil%27jaeden_patch_7.2.0.png/revision/latest/scale-to-width-down/180?cb=20170324183807)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Kil%27jaeden_patch_7.2.0.png/revision/latest?cb=20170324183807)
+
+Kil'jaeden in [the Tomb of Sargeras trailer](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_trailer "The Tomb of Sargeras trailer").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Kil%27jaeden_in_the_Chamber_of_the_Avatar.jpg/revision/latest/scale-to-width-down/180?cb=20220205193442)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Kil%27jaeden_in_the_Chamber_of_the_Avatar.jpg/revision/latest?cb=20220205193442)
+
+Kil'jaeden in the [Chamber of the Avatar](https://wowpedia.fandom.com/wiki/Chamber_of_the_Avatar "Chamber of the Avatar").
+
+Since striking the bargain that chased the draenei into the stars, Kil'jaeden believed the Legion could not be stopped. Yet, none of his deceptions prevented the [heroes](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of Azeroth from reaching this critical moment. Infuriated that Sargeras' promise of victory never came to pass, the demon lord prepared to battle the order leaders himself in the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras_(instance) "Tomb of Sargeras (instance)"), for a final battle that would shape Azeroth's destiny forever.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-46">[46]</a></sup> Kil'jaeden is seen watching Khadgar and Velen meeting with the Order Hall champions in Dalaran and listening as his former friend derides him as a monster. Kil'jaeden then reminisced about what was promised him and proceeded to question Sargeras saying all they have to show for their efforts is failure. Sargeras, in return, asked Kil'jaeden if he had lost sight of the Legion's destiny, and wondered if he had overestimated Kil'jaeden's resolve. An irritated Kil'jaeden claimed that he paid for his destiny with his world and that the time had come to see it done. He then summoned several Legion ships to invade Dalaran, commanding them to burn it to ash.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-47">[47]</a></sup>
+
+After the [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall") began to reclaim the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), Kil'jaeden sent Legion invasions across all the Broken Isles.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-48">[48]</a></sup>
+
+In the Tomb of Sargeras, Kil'jaeden sent the [Fallen Avatar](https://wowpedia.fandom.com/wiki/Fallen_Avatar "Fallen Avatar") against adventurers. During the battle, Velen confronted Kil'jaeden with [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") and Illidan and pursued him into the Twisting Nether.
+
+Aboard Kil'jaeden's command ship, Velen confronted his old friend and declared his intent to stop Kil'jaeden's hunt across the stars. Kil'jaeden told Velen that he had lacked vision back then and refused to see the Legion's inevitable victory, while Velen insisted that Kil'jaeden had lost faith in the Light and if the two of them had worked together they could have resisted Sargeras and saved Argus. Kil'jaeden questioned if the Light had saved [Velen's son](https://wowpedia.fandom.com/wiki/Rakeesh "Rakeesh"), or if what shone in Rakeesh's eyes when he died was hatred for the father who had abandoned him. Enraged, Velen declared his intent to fight alongside Azeroth's champions against Kil'jaeden and end his crusade.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/44/Kil%27jaeden_Death.jpg/revision/latest/scale-to-width-down/180?cb=20170620204603)](https://static.wikia.nocookie.net/wowpedia/images/4/44/Kil%27jaeden_Death.jpg/revision/latest?cb=20170620204603)
+
+Kil'jaeden's death.
+
+Upon Kil'jaeden's defeat, his ship began to crash toward Argus. Mortally wounded, Kil'jaeden admitted to Velen that he was always envious of the latter's gift, faith, and vision. Kil'jaeden had never believed that Sargeras could be stopped but wondered if perhaps Velen would prove him wrong. As Khadgar prepared to teleport everyone back to Azeroth through a rift Illidan had opened with the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone), Velen silently placed a hand on Kil'jaeden's forehead as a sign of forgiveness and sympathy, letting go of his hatred for his own sake and for Rakeesh's memory. When the heroes of Azeroth vanished before him, Kil'jaeden closed his eyes as he died in a fel explosion that destroyed him and his command ship.
+
+Once again, it is his [necklace](https://wowpedia.fandom.com/wiki/Spoils_of_the_Legion%27s_Fall "Spoils of the Legion's Fall") that is looted by adventurers. As he died in the Nether, his death is final.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-49">[49]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Kil'jaeden (tactics)](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(tactics) "Kil'jaeden (tactics)") | ?? | 9,347,800 |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[45\] [A Final Offer](https://wowpedia.fandom.com/wiki/A_Final_Offer) | 113 | 1,610,821,760 |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[45\] [The Invasion of Niskara](https://wowpedia.fandom.com/wiki/The_Invasion_of_Niskara) | 113 | 28,673,400 |
+| [Chamber of the Avatar](https://wowpedia.fandom.com/wiki/Chamber_of_the_Avatar "Chamber of the Avatar") | ?? | 
+<table><tbody><tr><td><b><abbr title="Looking for Raid">LFR</abbr></b></td><td>Scales</td></tr><tr><td><b><abbr title="10-30 player Normal mode">Normal</abbr></b>&nbsp;<abbr title="Base health; scales with additional characters">+</abbr></td><td>Scales</td></tr><tr><td><b><abbr title="10-30 player Heroic mode">Heroic</abbr></b>&nbsp;<abbr title="Base health; scales with additional characters">+</abbr></td><td>Scales</td></tr><tr><td><b><abbr title="20 player Mythic mode">Mythic</abbr></b></td><td>4,070,683</td></tr></tbody></table>
+
+ |
+| [Kil'jaeden (Tomb of Sargeras tactics)](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(Tomb_of_Sargeras_tactics) "Kil'jaeden (Tomb of Sargeras tactics)") | ?? | 
+
+<table><tbody><tr><td><b><abbr title="Looking for Raid">LFR</abbr></b></td><td>Scales</td></tr><tr><td><b><abbr title="10-30 player Normal mode">Normal</abbr></b>&nbsp;<abbr title="Base health; scales with additional characters">+</abbr></td><td>Scales</td></tr><tr><td><b><abbr title="10-30 player Heroic mode">Heroic</abbr></b>&nbsp;<abbr title="Base health; scales with additional characters">+</abbr></td><td>Scales</td></tr><tr><td><b><abbr title="20 player Mythic mode">Mythic</abbr></b></td><td>18,966,616</td></tr></tbody></table>
+
+ |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Flanking Maneuvers](https://wowpedia.fandom.com/wiki/Flanking_Maneuvers) | 110 | 36,555 |
+| [Echo of Kil'jaeden](https://wowpedia.fandom.com/wiki/Echo_of_Kil%27jaeden "Echo of Kil'jaeden") | ?? | 269,804 |
+
+## Personality
+
+Kil'jaeden was described as the most powerful and decisive of the three eredar leaders, while Velen was described as once the strongest, the wisest, and the most attuned to magic and science.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-50">[50]</a></sup>
+
+Prior to joining the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), Kil'jaeden was the most brilliant of the three rulers of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"). He was witty and cunning, reveling in puzzling out the most confounding mysteries of the cosmos.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-51">[51]</a></sup> He was described as being the most decisive of the three and wanted what was best for their people.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-52">[52]</a></sup>
+
+Kil'jaeden seems to have no problem keeping his ego from dominating judgment. He is surprisingly forgiving to failed servitors, provided they aren't complete failures.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-53">[53]</a></sup> He nursed a burning desire for utter obliteration that Archimonde lacked. Kil'jaeden regards [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen"), who was once closer to him than a brother, as his arch-nemesis, and has spent millennia in a fury over what he perceives as Velen's betrayal, much to the confusion of his servitors and Archimonde. Whenever Velen had escaped his grasp, Kil'jaeden nursed his insulted pride by destroying the worlds visited by the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"), but the slaughter of primitive races did not slake his demonic thirst for complete and total revenge.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-54">[54]</a></sup>
+
+He was described as a schemer who corrupted so many.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-55">[55]</a></sup>
+
+Kil'jaeden consistently allows those who serve under him chances to redeem themselves, a policy which acts to cement their loyalty. Kil'jaeden also takes the excuses and explanations of those who serve under him with careful consideration and merit so long as he believes them to be doing all they can. These policies are in direct contrast to Archimonde's approach, which can be summed up as "succeed or die."<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-56">[56]</a></sup>
+
+One of his agendas is to consume life and magic, assimilate every possible race into the Legion's ranks, slay any who dare resist, and ultimately destroy all of creation.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-57">[57]</a></sup><sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-58">[58]</a></sup>
+
+Velen wonders whether his lost friend has grown to tire of the death he brings, and if, in the blackness of his soul, Kil'jaeden ever doubts the choices he has made.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-59">[59]</a></sup>
+
+In [The Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras_(instance) "Tomb of Sargeras (instance)") [patch 7.2](https://wowpedia.fandom.com/wiki/Patch_7.2.0 "Patch 7.2.0") trailer, after dismissing Velen's hologram with a swipe, Kil'jaeden seemed to be displeased when Velen called him a "[monster](https://wowpedia.fandom.com/wiki/Demon "Demon")" that hunted his [people](https://wowpedia.fandom.com/wiki/Draenei "Draenei") across the [stars](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"). He reminisces that on the day he took the fel fire into his veins, he saw his destiny shown to him by Sargeras: a [grand crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") reaching the ends of creation. Despite Sargeras assuring his second-in-command that the Burning Crusade would prevail, a frustrated Kil'jaeden voiced doubts that for every plan the Legion carried out on Azeroth per Sargeras' design, all they showed for it was failure, that Sargeras' promise of victory has not come to pass. Kil'jaeden was then offended by Sargeras telling him that he might have lost sight of their destiny and even voicing an opinion that he might've overestimated Kil'jaeden's resolve. Kil'jaeden then vehemently stated that he paid for his destiny with his [world](https://wowpedia.fandom.com/wiki/Argus "Argus").
+
+On his deathbed, Kil'jaeden revealed he had always been envious of Velen's gift, faith, and vision and now wondered if he would be able to stop Sargeras after all, since he believed it to be impossible. This may imply that the Deceiver may have accepted Sargeras' deal out of fear to preserve his people rather than a desire for power like Archimonde. Upon silently being forgiven by Velen for all of his terrible transactions against him, Kil'jaeden seemed to welcome death calmly.
+
+## Powers
+
+The exact powers at the Deceiver's command are unknown. As his ultimatum to Illidan and his appearance to Ner'zhul and the orcs exemplifies, he is a master of illusions. Kil'jaeden has also shown the ability to control his overall size (an ability shared by Archimonde), but that may not be the limit to his shapeshifting abilities. Though these are the only powers observed in recent years, assuming that these cantrips are the limits of his power is a grave mistake. Even prior to the eredar's transformation, Velen acknowledged that Kil'jaeden was his, as well as Archimonde's, superior in matters of the arcane. However, in Kil'jaeden's point of view, Velen was the strongest and wisest of the three of them. Velen was also said to be the most attuned to magic and science.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-60">[60]</a></sup>
+
+However, Kil'jaeden's full powers lie not within the boundaries of physical and magical ability, but in the mind. His unrivaled cunning allowed him to corrupt the orcs with very little magical expenditure, a plan executed almost entirely by manipulation.
+
+## Character development
+
+Like most demons, Kil'jaeden's original position in Warcraft lore was a minor one; in this case, he was the tutor of Gul'dan, one of the major characters in Warcraft II. After the role of Sargeras was built up from a footnote to that of the major lore antagonist, Kil'jaeden's role was also increased, to the extent that he is now one of the most significant behind-the-scenes villains.
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Kiljaedenallendilling.jpg/revision/latest/scale-to-width-down/180?cb=20080322174928)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Kiljaedenallendilling.jpg/revision/latest?cb=20080322174928)
+
+Kil'jaeden, as he appeared in _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Kil%27jaeden_and_Ner%27zhul.jpg/revision/latest/scale-to-width-down/150?cb=20210430074459)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Kil%27jaeden_and_Ner%27zhul.jpg/revision/latest?cb=20210430074459)
+
+Kil'jaeden meets Ner'zhul in the _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_.
+
+Kil'jaeden possesses an extremely long-term mindset and views individual events as nothing more than single links in the thousand-year-long chains of his schemes. Perhaps because of this outlook, Kil'jaeden is extremely tenacious and rarely lets short-term defeats or missteps prevent him from reaching his goals. If one method of completing a scheme is prevented for whatever reason, he simply finds other ways to proceed. However, he also has a long memory when it comes to individuals who, either intentionally or unintentionally, obstruct his plans. Kil'jaeden does not forget those who hinder him in any way and often comes back to brutally punish them later, in his own time. His bidding is typically carried out by minions or intermediaries, and Kil'jaeden rarely meets individuals face to face. When he does, it is usually to force them to his will or to slay them once and for all.<sup id="cite_ref-S&amp;L_61_61-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-S&amp;L_61-61">[61]</a></sup>
+
+Kil'jaeden the Deceiver has a highly adaptable physical presence and frequently shifts among several forms. He usually tries to assume whatever shape the people around him will trust the most or be the most awestruck by. He attains his goals through a combination of subtle coercion and blatant intimidation.<sup id="cite_ref-S&amp;L_60_62-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-S&amp;L_60-62">[62]</a></sup>
+
+As with Archimonde, Kil'jaeden has his own hierarchy of demons.<sup id="cite_ref-MoM_112_63-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-MoM_112-63">[63]</a></sup> The Dreadlords, like Tichondrius, serve under him.<sup id="cite_ref-RPG_28_64-0"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-RPG_28-64">[64]</a></sup> Risen terrors and [shadow priests](https://wowpedia.fandom.com/wiki/Shadow_priest "Shadow priest") serve under him also.<sup id="cite_ref-MoM_112_63-1"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-MoM_112-63">[63]</a></sup>
+
+## Memorable quotes
+
+### Rise of the Horde
+
+-   _"I do not want to give up what I know to be positive and good and true for what I fear might be unpleasant. Nor, I think, do [you](https://wowpedia.fandom.com/wiki/Velen "Velen")."_<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-65">[65]</a></sup>
+
+-   "_It is not about rendering [him](https://wowpedia.fandom.com/wiki/Velen "Velen") powerless. It is about destroying him and those foolish enough to have followed him. It is about crushing him for his lack of faith. For his stubbornness. For his refusal to think about what was best for all of us._"<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-66">[66]</a></sup>
+
+-   _"If I will do away with lies, so must [you](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"). You live for power. You hunger for it. You thirst for it. And over the last few months, your skill has grown to where I can make proper use of you. Ours is not a partnership of adoration or respect, but one of convenience and selfish benefit. Which means that it will likely last."_<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-67">[67]</a></sup>
+
+-   "_There is more...New spells have flooded [your](https://wowpedia.fandom.com/wiki/Warlocks "Warlocks") minds. Use them well. Take the draenei now!_"<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-68">[68]</a></sup>
+
+### Beyond the Dark Portal
+
+-   _"[You](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") could not leave well enough alone, I knew that eventually you would try to cast magics you were not ready to handle and did not understand. I waited, knowing that some day your own arrogance would bring you to me. And here we are! You have dreamed of death. You thought to escape it. Now, my little puppet, [death will be all you ever know](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")."_<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-69">[69]</a></sup>
+
+### Warcraft III: The Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Kil%27jaeden_and_Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20180923183630)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Kil%27jaeden_and_Illidan.jpg/revision/latest?cb=20180923183630)
+
+Meeting with Illidan.
+
+#### [Illidan's Task](https://wowpedia.fandom.com/wiki/Illidan%27s_Task "Illidan's Task")
+
+**Kil'jaeden:** _"Illidan, in the past you have been both friend and foe to the Burning Legion. But, by consuming the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan"), you sealed our defeat in this world. I come to offer you a second chance to serve us."_
+
+**[Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"):** _"What would you have me do, great one?"_
+
+**Kil'jaeden:** _"My creation, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), has betrayed me. He dared to break the pact that binds him to my will, but his spirit still lies trapped inside the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"). Destroy it for me, and I will grant you your heart's desire."_
+
+**Illidan Stormrage:** _"It shall be done, great one. It shall be done."_
+
+#### [Kil'jaeden's Command](https://wowpedia.fandom.com/wiki/Kil%27jaeden%27s_Command "Kil'jaeden's Command")
+
+**Kil'jaeden:** _"Foolish little mongrel. You failed to destroy the Frozen Throne as I commanded. And still you thought to hide from me in this [forsaken backwater](https://wowpedia.fandom.com/wiki/Outland "Outland")! I thought you to be more cunning, Illidan."_
+
+**Illidan Stormrage:** _"Kil'jaeden! I was [merely set back](https://wowpedia.fandom.com/wiki/Merely_a_set_back "Merely a set back"). I was attempting to bolster my forces. The Lich King will be destroyed, I promise you!"_
+
+**Kil'jaeden:** _"Indeed?"_
+
+**Kil'jaeden:** _"Still, these [servi](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")[tors](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") you've gathered show some promise. I will give you one last chance, Illidan. Destroy the Frozen Throne, or face my eternal wrath!"_
+
+### World of Warcraft
+
+#### Burning Crusade
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+##### [Sunwell Plateau](https://wowpedia.fandom.com/wiki/Sunwell_Plateau "Sunwell Plateau")
+
+_Main article: [Kil'jaeden (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(tactics)#Quotes "Kil'jaeden (tactics)")_
+
+#### [Legion](https://wowpedia.fandom.com/wiki/Legion "Legion")
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+#### The Tomb of Sargeras (audio drama)
+
+"_I was there when you first bound yourself to us. False ambition has always poisoned your mind, [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")._"
+
+"_We tempt the weak with trinkets and fleeting rewards... We promised you much, **much** more._"
+
+"_You died because you betrayed us. You were meant to help **my** [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") exterminate all resistance on this world. Yet at the moment of truth, you [abandoned them](https://wowpedia.fandom.com/wiki/Siege_of_Capital_City "Siege of Capital City"). You split their armies to claim [this place](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"). Our plans came to nothing. You earned your fate._"
+
+_"Betrayal is in your nature. I dragged you here by the scruff of your neck because you are still too foolish to understand your full potential. Even now you believe the power you hold is significant? You lack vision."_
+
+_"I had hoped you would have greater vision than your [other self](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"). Perhaps you still will."_
+
+"_From the beginning, you believed you were destined for power. You are. You also believed you were destined to be your own master. **That will never happen.**_"
+
+_"Every creature serves a master, [even I](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"). That is the choice of all: serve another, or die alone."_
+
+_"How far will you go? How many worlds can you rule? The power you hold will not last forever. You are nothing before the Legion."_
+
+_"Servitude is not imprisonment. You will serve me, others will serve you. Imagine being the master of so many. Imagine the ranks of the Legion at your command. Imagine what you will burn for us."_
+
+_"Enough, Gul'dan. Make your choice. You can prove yourself loyal: Return your power and the way will open, or you can betray us yet again. Your only satisfaction before we destroy you will be meaningless vengeance upon [insignificant](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") [mortals](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")."_
+
+"_Know this: you can call me 'Deceiver', but I did not lie to you. Not once. Not in [this world](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), and not in [yours](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)")._"
+
+Dialogues
+
+_Main article: [The Hunt (Suramar)#Notes](https://wowpedia.fandom.com/wiki/The_Hunt_(Suramar)#Notes "The Hunt (Suramar)")_
+
+_Main article: [A Final Offer#Notes](https://wowpedia.fandom.com/wiki/A_Final_Offer#Notes "A Final Offer")_
+
+_Main article: [The Invasion of Niskara#Notes](https://wowpedia.fandom.com/wiki/The_Invasion_of_Niskara#Notes "The Invasion of Niskara")_
+
+_Main article: [Fangs of the Devourer (quest)#Notes](https://wowpedia.fandom.com/wiki/Fangs_of_the_Devourer_(quest)#Notes "Fangs of the Devourer (quest)")_
+
+_Main article: [The Tomb of Sargeras trailer#Transcript](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_trailer#Transcript "The Tomb of Sargeras trailer")_
+
+_Main article: [Fallen Avatar#Quotes](https://wowpedia.fandom.com/wiki/Fallen_Avatar#Quotes "Fallen Avatar")_
+
+_Main article: [Kil'jaeden (Tomb of Sargeras tactics)#Quotes](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(Tomb_of_Sargeras_tactics)#Quotes "Kil'jaeden (Tomb of Sargeras tactics)")_
+
+_Main article: [Flanking Maneuvers#Notes](https://wowpedia.fandom.com/wiki/Flanking_Maneuvers#Notes "Flanking Maneuvers")_
+
+_Main article: [What Might Have Been#Notes](https://wowpedia.fandom.com/wiki/What_Might_Have_Been#Notes "What Might Have Been")_
+
+_Main article: [Bully Pulpit#Notes](https://wowpedia.fandom.com/wiki/Bully_Pulpit#Notes "Bully Pulpit")_
+
+## Notes and trivia
+
+-   Initially, in _Warcraft II_, Kil'jaeden was portrayed as a _[daemon](https://wowpedia.fandom.com/wiki/Daemon "Daemon")_. In _Warcraft III_ he was portrayed as red-skinned eredar, and finally in _World of Warcraft_ he was portrayed as a combination of the two, gaining horns and wings. As a shapeshifter, the difference in appearance between Warcraft II and III is likely not a retcon. Notably, he is the first winged eredar to appear in Warcraft lore, and the only male eredar with wings witnessed thus far.
+-   In _Warcraft III_, Kil'jaeden leaves fiery track marks when he walks, like Illidan.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-70">[70]</a></sup> This visual feature appears to be common to demons of great power, and may not have any other connotation.
+-   Kil'jaeden's art in the non-canon _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_ RPG book has defined his general appearance since then.
+-   [Jaedenar](https://wowpedia.fandom.com/wiki/Jaedenar "Jaedenar") in [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood") is named after him.
+-   There is a mountain in the [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula") in Outland north of Thrallmar known as the [Throne of Kil'jaeden](https://wowpedia.fandom.com/wiki/Throne_of_Kil%27jaeden "Throne of Kil'jaeden"). The mountain was named by Gul'dan, after he gathered the orcs there to partake of the [blood of Mannoroth](https://wowpedia.fandom.com/wiki/Blood_of_Mannoroth "Blood of Mannoroth"). Today, [Doom Lord Kazzak](https://wowpedia.fandom.com/wiki/Doom_Lord_Kazzak "Doom Lord Kazzak"), one of Kil'jaeden's lieutenants, resides there after reopening the Dark Portal from Azeroth.
+-   Minions of the Burning Legion who reside in [Terokkar Forest](https://wowpedia.fandom.com/wiki/Terokkar_Forest "Terokkar Forest") and [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand "Nagrand") drop [Marks of Kil'jaeden](https://wowpedia.fandom.com/wiki/Mark_of_Kil%27jaeden "Mark of Kil'jaeden") that can be turned in for reputation with the [Aldor](https://wowpedia.fandom.com/wiki/Aldor "Aldor").
+-   [Sinestra](https://wowpedia.fandom.com/wiki/Sinestra "Sinestra")'s model in _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ uses Kil'jaeden's skeleton and animations.
+-   Data exists for Kil'jaeden in _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-71">[71]</a></sup>
+-   Kil'jaeden was voiced by an unknown actor in _[Warcraft III: Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_Frozen_Throne "Warcraft III: Frozen Throne")_, [Fred Tatasciore](https://wowpedia.fandom.com/wiki/Fred_Tatasciore "Fred Tatasciore") in _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_ and is now voiced by [Lex Lang](https://wowpedia.fandom.com/wiki/Lex_Lang "Lex Lang") in _[World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
+-   Kil'jaeden's unique model for the Sunwell raid seems to be based on [Gustave Doré](http://en.wikipedia.org/wiki/Gustave_Dor%C3%A9 "wikipedia:Gustave Doré")'s [depiction](http://en.wikipedia.org/wiki/File:DVinfernoLuciferKingOfHell_m.jpg "wikipedia:File:DVinfernoLuciferKingOfHell m.jpg") of Satan for [Dante Alighieri](http://en.wikipedia.org/wiki/Dante_Alighieri "wikipedia:Dante Alighieri")'s _[Divine Comedy](http://en.wikipedia.org/wiki/Divine_Comedy "wikipedia:Divine Comedy")_, half embedded in the ground.
+-   In the original lore, the first orc Kil'jaeden directly contacted was [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") instead of [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"), and it was only after Gul'dan betrayed Ner'zhul at [Oshu'gun](https://wowpedia.fandom.com/wiki/Oshu%27gun "Oshu'gun") that the demonlord would take him as an apprentice. The formation of the [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") was also described as being more of Kil'jaeden's pet project rather than as a plan of the entire [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), as it was only after the [genocide of the draenei](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei") that Kil'jaeden informed Sargeras that the orcs could eventually be used for his vengeance against [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-72">[72]</a></sup>
+-   Whenever his forces would experience setbacks in Azeroth, Kil'jaeden would pull out [Micronax](https://wowpedia.fandom.com/wiki/Micronax_Controller "Micronax Controller") and terrorize the local cat-like creatures of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") to vent his frustrations.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_note-73">[73]</a></sup>
+-   The music from [Sunwell Plateau](https://wowpedia.fandom.com/wiki/Sunwell_Plateau "Sunwell Plateau") plays on the walk-up to Kil'jaeden in the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras_(instance) "Tomb of Sargeras (instance)"), in reference to [his previous encounter](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(tactics) "Kil'jaeden (tactics)").
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/DecieverMetzen.jpg/revision/latest/scale-to-width-down/79?cb=20090724095326)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/DecieverMetzen.jpg/revision/latest?cb=20090724095326)
+    
+    "The Deceiver" by Metzen, most likely depicting Kil'jaeden.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Kil%27jaeden_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160212205045)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Kil%27jaeden_TCG.jpg/revision/latest?cb=20160212205045)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Kil%27jaeden_TCG2.jpg/revision/latest/scale-to-width-down/81?cb=20200418091349)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Kil%27jaeden_TCG2.jpg/revision/latest?cb=20200418091349)
+    
+    Kil'jaeden in the TCG.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Kil%27jaeden7.2.jpg/revision/latest/scale-to-width-down/120?cb=20170102201505)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Kil%27jaeden7.2.jpg/revision/latest?cb=20170102201505)
+    
+    Kil'jaeden as he appears in the Tomb of Sargeras raid (BlizzCon 2016 panel)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Patch_7.2_Artwork.jpg/revision/latest/scale-to-width-down/89?cb=20170324214707)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Patch_7.2_Artwork.jpg/revision/latest?cb=20170324214707)
+    
+
+### Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/89/Kil%27jaeden_confronts_Illidan.jpg/revision/latest/scale-to-width-down/120?cb=20130324195647)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Kil%27jaeden_confronts_Illidan.jpg/revision/latest?cb=20130324195647)
+    
+    Kil'jaeden's Command
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Kil%27jaeden_by_Konstantin_Turovec.jpg/revision/latest/scale-to-width-down/85?cb=20160701182618)](https://static.wikia.nocookie.net/wowpedia/images/9/94/Kil%27jaeden_by_Konstantin_Turovec.jpg/revision/latest?cb=20160701182618)
+    
+    Kil'jaeden by Konstantin Turovec
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Kil%27Jaeden-by-Kirill-stepanov.jpg/revision/latest/scale-to-width-down/84?cb=20210327060146)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Kil%27Jaeden-by-Kirill-stepanov.jpg/revision/latest?cb=20210327060146)
+    
+    "One last chance, Illidan" by Kirill Stepanov
+    
+
+## Videos
+
+-   [Illidan's Task](https://wowpedia.fandom.com/wiki/Kil%27jaeden#)
+-   [Kil'jaeden's Command](https://wowpedia.fandom.com/wiki/Kil%27jaeden#)
+-   [The Story of Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden#)
+-   [Kil'jaeden's defeat cinematic](https://wowpedia.fandom.com/wiki/Kil%27jaeden#)
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   It's possible the difference in Kil'jaeden's appearance between _Warcraft III_ and _World of Warcraft_ is not a retcon either and he in fact gained his enhanced form as a gift from Sargeras during the interim period. At the least he didn't gain his wings when he was first transformed into a demon, as he's witnessed in his freshly converted form during Velen's escape. It is also almost certainly his true form, as he sported the wings while speaking directly to Sargeras in solitude; two things which would discourage him from assuming any other.
+
+## See also
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-1) _[The Tomb of Sargeras](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras "The Tomb of Sargeras")_
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-UVG_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-UVG_2-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-UVG_2-2">c</a></sup> _[World of Warcraft: Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_, pg. 37
+3.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-3) [Kalecgos#Magisters' Terrace](https://wowpedia.fandom.com/wiki/Kalecgos#Magisters'_Terrace "Kalecgos")
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Fangs_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Fangs_4-1">b</a></sup>   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Rogue](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Ui-charactercreate-classes_rogue.png/revision/latest/scale-to-width-down/16?cb=20070124144931 "Rogue") \[10-45\] [Fangs of the Devourer](https://wowpedia.fandom.com/wiki/Fangs_of_the_Devourer_(quest))
+5.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-5) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 5
+6.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-6) _[Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II "Warcraft II")_ manual: [The Rise of the Shadow Council](https://wowpedia.fandom.com/wiki/Warcraft_II_manual#The_Rise_of_the_Shadow_Council "Warcraft II manual"). "In pursuit of furthering our magical resources, I opened a new school of magical discipline that became known as Necromancy. We began training young Warlocks in the arcane mysteries of life and death. Again, with tutelage from the Daemon Kil'jaeden, these Necrolytes delved into the dark arts, eventually gaining power enough to animate and control the bodies of the newly dead."
+7.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-7)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45REWQ\] [Jed'hin Champion Vorusk](https://wowpedia.fandom.com/wiki/Jed%27hin_Champion_Vorusk_(quest))
+8.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-8) [Artificer Daelo#Quotes](https://wowpedia.fandom.com/wiki/Artificer_Daelo#Quotes "Artificer Daelo")
+9.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-9)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Jaedenar Awaits](https://wowpedia.fandom.com/wiki/Jaedenar_Awaits)
+10.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-10)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Rogue](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Ui-charactercreate-classes_rogue.png/revision/latest/scale-to-width-down/16?cb=20070124144931 "Rogue") \[10-45\] [The Shadows Reveal](https://wowpedia.fandom.com/wiki/The_Shadows_Reveal)
+11.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-11)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45R\] [Tomb of Sargeras: The Deceiver](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras:_The_Deceiver)
+12.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Bringer_of_the_Light_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Bringer_of_the_Light_12-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Bringer of the Light](https://wowpedia.fandom.com/wiki/Bringer_of_the_Light)
+13.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-WCEBL_13-0) [The Warcraft Encyclopedia/Burning Legion](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Burning_Legion "The Warcraft Encyclopedia/Burning Legion")
+14.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-RotH_82_14-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-RotH_82_14-1">b</a></sup> _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 82
+15.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Warlock_15-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Warlock_15-1">b</a></sup> [Tome of Blighted Implements](https://wowpedia.fandom.com/wiki/Tome_of_Blighted_Implements#The_Skull_of_the_Man'ari "Tome of Blighted Implements")
+16.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-16)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Eredath, Jewel of Argus](https://wowpedia.fandom.com/wiki/Eredath,_Jewel_of_Argus)
+17.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-17) [Demonic Inquisition#Quotes](https://wowpedia.fandom.com/wiki/Demonic_Inquisition#Quotes "Demonic Inquisition")
+18.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-18) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 52
+19.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-19) [Sargeras and the Betrayal](https://wowpedia.fandom.com/wiki/Sargeras_and_the_Betrayal "Sargeras and the Betrayal")
+20.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-20) _[World of Warcraft: Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_, pg. 38
+21.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Chronicles68_21-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Chronicles68_21-1">b</a></sup> _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 68
+22.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-22) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, chapter 7
+23.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-23) [Blood Ledger#The Kingslayers](https://wowpedia.fandom.com/wiki/Blood_Ledger#The_Kingslayers "Blood Ledger")
+24.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-24) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 99
+25.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-25) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, chapter 20
+26.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-26) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 147 - 148
+27.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-27) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 168
+28.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-28) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 17
+29.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-29) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, epilogue
+30.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-30) [The Birth of the Lich King](https://wowpedia.fandom.com/wiki/The_Birth_of_the_Lich_King "The Birth of the Lich King")
+31.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-31) _[World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_
+32.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-32) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 84
+33.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-33) [Illidan's Task (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/Illidan%27s_Task_(WC3_BloodElf) "Illidan's Task (WC3 BloodElf)")
+34.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-34) [Lord of Outland (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/Lord_of_Outland_(WC3_BloodElf) "Lord of Outland (WC3 BloodElf)")
+35.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-35) [Kil'jaeden's Command (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/Kil%27jaeden%27s_Command_(WC3_BloodElf) "Kil'jaeden's Command (WC3 BloodElf)")
+36.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-36) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_ pg. 283-284
+37.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-37) [Tome of Fel Secrets](https://wowpedia.fandom.com/wiki/Tome_of_Fel_Secrets "Tome of Fel Secrets")
+38.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-38) [Legion: Demon Hunter Artifact Reveal](http://eu.battle.net/wow/en/blog/19940945/)
+39.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-39) [The Burning Crusade Townhall/The Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/The_Burning_Crusade_Townhall/The_Isle_of_Quel%27Danas "The Burning Crusade Townhall/The Isle of Quel'Danas")
+40.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-40) [Tome of Blighted Implements](https://wowpedia.fandom.com/wiki/Tome_of_Blighted_Implements "Tome of Blighted Implements")
+41.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-BlizzCon_41-0) [BlizzCon 2015: World and Content Overview Panel](https://www.youtube.com/watch?v=iCPPCssbt-o) (around 2:20)
+42.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-Tomb_of_Sargeras_42-0) _[The Tomb of Sargeras](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras "The Tomb of Sargeras")_
+43.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-43)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[10-45\] [The Hunt](https://wowpedia.fandom.com/wiki/The_Hunt_(Suramar))
+44.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-44)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[45\] [A Final Offer](https://wowpedia.fandom.com/wiki/A_Final_Offer)
+45.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-45)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[45\] [The Invasion of Niskara](https://wowpedia.fandom.com/wiki/The_Invasion_of_Niskara)
+46.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-46) [Kil'jaeden dungeon journal](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(Tomb_of_Sargeras_tactics)#Adventure_Guide "Kil'jaeden (Tomb of Sargeras tactics)")
+47.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-47) [World of Warcraft: Legion - Patch 7.2 – The Tomb of Sargeras Trailer](https://www.youtube.com/watch?v=ixtWdYkJbdE)
+48.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-48)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Defending Broken Isles](https://wowpedia.fandom.com/wiki/Defending_Broken_Isles)
+49.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-49) [Kil'jaeden (Tomb of Sargeras tactics)](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(Tomb_of_Sargeras_tactics) "Kil'jaeden (Tomb of Sargeras tactics)")
+50.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-50) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_
+51.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-51) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 51
+52.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-52) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, prologue
+53.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-53) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 80
+54.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-54) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 131 - 133
+55.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-55) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 24
+56.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-56) [Golden, Christie](https://wowpedia.fandom.com/wiki/Christie_Golden "Christie Golden"). "Five", _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, 119 (ebook). [ISBN 978-0-7434-7138-1](https://wowpedia.fandom.com/wiki/Special:BookSources/9780743471381). 
+57.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-57)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Sha_spell_fire_bluepyroblast_nightmare.png/revision/latest/scale-to-width-down/16?cb=20160702114900)[\[Kil'jaeden's Burning Wish\]](https://wowpedia.fandom.com/wiki/Kil%27jaeden%27s_Burning_Wish)
+58.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-58) [March Badness](http://us.battle.net/wow/en/blog/20056283/march-badness-3-7-2016)
+59.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-59) _[Prophet's Lesson](https://wowpedia.fandom.com/wiki/Prophet%27s_Lesson "Prophet's Lesson")_
+60.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-60) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 123 (ebook)
+61.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-S&L_61_61-0) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 61
+62.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-S&L_60_62-0) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 60
+63.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-MoM_112_63-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-MoM_112_63-1">b</a></sup> _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 112
+64.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-RPG_28_64-0) _[Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft:_The_Roleplaying_Game "Warcraft: The Roleplaying Game")_, pg. 28
+65.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-65) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 18
+66.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-66) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 127
+67.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-67) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 298
+68.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-68) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_, pg. 472
+69.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-69) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, pg. 424
+70.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-70) [Illidan's Task (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/Illidan%27s_Task_(WC3_BloodElf) "Illidan's Task (WC3 BloodElf)")
+71.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-71) 2014-11-25, [Heroes of the Storm Data Mining: 37 New Heroes and Kill Voiceovers Preview](http://2p.com/11377731_1/Heroes-of-the-Storm-Data-Mining-37-New-Heroes-and-Kill-Voiceovers-Preview-by-JaminNoob.htm). _2p.com_, accessed on 2015-05-01
+72.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-72) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde_(History_of_Warcraft) "Rise of the Horde (History of Warcraft)")_ (in-game book)
+73.  [^](https://wowpedia.fandom.com/wiki/Kil%27jaeden#cite_ref-73)  ![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Inv_legionadventure.png/revision/latest/scale-to-width-down/16?cb=20160611161012)[\[Micronax Controller\]](https://wowpedia.fandom.com/wiki/Micronax_Controller)
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Kil%27jaeden#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Kil%27jaeden#t1:npcs)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Burning_Legion "Template:Burning Legion")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Burning_Legion?action=edit)
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+-   **Kil'jaeden**
+-   [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")
+-   [Antoran High Command](https://wowpedia.fandom.com/wiki/Antoran_High_Command "Antoran High Command")
+    -   [Erodus](https://wowpedia.fandom.com/wiki/General_Erodus "General Erodus")
+    -   [Ishkar](https://wowpedia.fandom.com/wiki/Chief_Engineer_Ishkar "Chief Engineer Ishkar")
+    -   [Svirax](https://wowpedia.fandom.com/wiki/Admiral_Svirax "Admiral Svirax")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron")
+-   [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor")
+-   [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar")
+-   [Brutallus](https://wowpedia.fandom.com/wiki/Brutallus "Brutallus")
+-   [Coven of Shivarra](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra "Coven of Shivarra")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")
+-   [Imonar](https://wowpedia.fandom.com/wiki/Imonar_the_Soulhunter "Imonar the Soulhunter")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Houndmaster "Hakkar the Houndmaster")
+-   [Hasabel](https://wowpedia.fandom.com/wiki/Portal_Keeper_Hasabel "Portal Keeper Hasabel")
+-   [Jaraxxus](https://wowpedia.fandom.com/wiki/Lord_Jaraxxus "Lord Jaraxxus")
+-   [Kruul](https://wowpedia.fandom.com/wiki/Highlord_Kruul "Highlord Kruul")
+-   [Demonic Inquisition](https://wowpedia.fandom.com/wiki/Demonic_Inquisition "Demonic Inquisition")
+    -   [Atrigan](https://wowpedia.fandom.com/wiki/Atrigan "Atrigan")
+    -   [Belac](https://wowpedia.fandom.com/wiki/Belac "Belac")
+-   [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")
+-   [Kazzak](https://wowpedia.fandom.com/wiki/Lord_Kazzak "Lord Kazzak")
+-   [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon")
+-   [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")
+-   [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")
+-   [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth")
+-   [Melris Malagan](https://wowpedia.fandom.com/wiki/Melris_Malagan "Melris Malagan")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Rakeesh](https://wowpedia.fandom.com/wiki/High_General_Rakeesh "High General Rakeesh")
+-   [Talgath](https://wowpedia.fandom.com/wiki/Talgath "Talgath")
+-   [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius")
+-   [Tyranna](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna "Brood Queen Tyranna")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| Major races | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
+-   [Doom lord](https://wowpedia.fandom.com/wiki/Doom_lord "Doom lord")
+-   [Daemon](https://wowpedia.fandom.com/wiki/Daemon "Daemon")
+-   [Ered'ruin](https://wowpedia.fandom.com/wiki/Ered%27ruin "Ered'ruin")
+    -   [Doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard")
+        -   [Doomlord](https://wowpedia.fandom.com/wiki/Doomlord "Doomlord")
+-   [Man'ari](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Eredar_brute "Eredar brute")
+    -   [Doommaiden](https://wowpedia.fandom.com/wiki/Doommaiden "Doommaiden")
+    -   [Wrathguard](https://wowpedia.fandom.com/wiki/Wrathguard "Wrathguard")
+-   [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg")
+    -   [Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard")
+        -   [Fel lord](https://wowpedia.fandom.com/wiki/Fel_lord "Fel lord")
+    -   [Gan'arg](https://wowpedia.fandom.com/wiki/Gan%27arg "Gan'arg")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Mo%27arg_brute "Mo'arg brute")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Overfiend](https://wowpedia.fandom.com/wiki/Overfiend "Overfiend")
+-   [Sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+-   [Wyrmtongue](https://wowpedia.fandom.com/wiki/Wyrmtongue "Wyrmtongue")
+
+
+
+ |
+|  |
+| Minor races | 
+
+-   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
+-   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+-   [Observer](https://wowpedia.fandom.com/wiki/Observer "Observer")
+-   [Imp](https://wowpedia.fandom.com/wiki/Imp "Imp")
+-   [Imp mother](https://wowpedia.fandom.com/wiki/Imp_mother "Imp mother")
+-   [Inquisitor](https://wowpedia.fandom.com/wiki/Inquisitor "Inquisitor")
+    -   [Guardian eye](https://wowpedia.fandom.com/wiki/Guardian_eye "Guardian eye")
+-   [Jailer](https://wowpedia.fandom.com/wiki/Jailer_(demon) "Jailer (demon)")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+    -   [Felblood elf](https://wowpedia.fandom.com/wiki/Felblood_elf "Felblood elf")
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+    -   [Felborne](https://wowpedia.fandom.com/wiki/Felborne "Felborne")
+
+
+
+ |
+|  |
+| Constructs | 
+
+-   [Abyssal](https://wowpedia.fandom.com/wiki/Abyssal "Abyssal")
+-   [Fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver")
+-   [Homunculus](https://wowpedia.fandom.com/wiki/Homunculus "Homunculus")
+-   [Infernal](https://wowpedia.fandom.com/wiki/Infernal "Infernal")
+-   [Fel cannon](https://wowpedia.fandom.com/wiki/Fel_cannon "Fel cannon")
+-   [Infernal machine](https://wowpedia.fandom.com/wiki/Infernal_machine "Infernal machine")
+-   [Devastator](https://wowpedia.fandom.com/wiki/Devastator "Devastator")
+-   [Legion ship](https://wowpedia.fandom.com/wiki/Legion_ship "Legion ship")
+-   [Soul engine](https://wowpedia.fandom.com/wiki/Soul_engine "Soul engine")
+-   [Spire of woe](https://wowpedia.fandom.com/wiki/Spire_of_woe "Spire of woe")
+-   [Fel spreader](https://wowpedia.fandom.com/wiki/Fel_spreader "Fel spreader")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")
+-   [Xoroth](https://wowpedia.fandom.com/wiki/Xoroth "Xoroth")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza")
+-   [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether")
+
+
+
+ |
+|  |
+| Groups &  
+[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Demon" title="Demon">Demons</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Demon_Elite_Guard" title="Demon Elite Guard">Demon Elite Guard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar" title="Dreadscar">Dreadscar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tomb_Guardians" title="Tomb Guardians">Tomb Guardians</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magtheridon%27s_Forces" title="Magtheridon's Forces">Magtheridon's Forces</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hederine" title="Hederine">Hederine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_(group)" title="Felsoul (group)">Felsoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rakeeshi" title="Rakeeshi">Rakeeshi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Talgathi" title="Talgathi">Talgathi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_Covenant" title="Fel Covenant">Fel Covenant</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sunfury" title="Sunfury">Sunfury</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodwarder" title="Bloodwarder">Bloodwarder</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Hand" title="Crimson Hand">Crimson Hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dawnblade_(blood_elves)" title="Dawnblade (blood elves)">Dawnblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firewing" title="Firewing">Firewing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsword" title="Shadowsword">Shadowsword</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunblade" title="Sunblade">Sunblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunhawk" title="Sunhawk">Sunhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunseekers" title="Sunseekers">Sunseekers</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a> <a href="https://wowpedia.fandom.com/wiki/Category:Satyr_sects" title="Category:Satyr sects">sects</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Axxarien" title="Axxarien">Axxarien</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bleakheart" title="Bleakheart">Bleakheart</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deth%27ryll" title="Deth'ryll">Deth'ryll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fallenroot" title="Fallenroot">Fallenroot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmusk" title="Felmusk">Felmusk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haldarr" title="Haldarr">Haldarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hatefury" title="Hatefury">Hatefury</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jadefire" title="Jadefire">Jadefire</a></li><li><a href="https://wowpedia.fandom.com/wiki/Legashi" title="Legashi">Legashi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lords_of_the_Emerald_Flame" title="Lords of the Emerald Flame">Lords of the Emerald Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nazzivus" title="Nazzivus">Nazzivus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nethervine" title="Nethervine">Nethervine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Putridus" title="Putridus">Putridus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargeron_(Outland)" title="Sargeron (Outland)">Sargeron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound" title="Unbound">Unbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildspawn" title="Wildspawn">Wildspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xavian" title="Xavian">Xavian</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shadow_Council" title="Shadow Council">Shadow Council</a> (<a href="https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe)" title="Shadow Council (alternate universe)">alternate</a>)</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus_Wake" title="Argus Wake">Argus Wake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Blade_clan" title="Burning Blade clan">Burning Blade clan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cabal" title="Cabal">Cabal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand" title="Cult of the Dark Strand">Cult of the Dark Strand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathshadow" title="Deathshadow">Deathshadow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gorebound" title="Gorebound">Gorebound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargerei" title="Sargerei">Sargerei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Searing_Blade" title="Searing Blade">Searing Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe)" title="Sethekk (alternate universe)">Sethekk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsworn" title="Shadowsworn">Shadowsworn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Undead" title="Undead">Undead</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Risen" title="Risen">Risen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Loyalists" title="Dreadlord Loyalists">Dreadlord Loyalists</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Third_invasion" title="Third invasion">Third invasion</a>'s allies</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deadwood" title="Deadwood">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Felbound tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Felfin tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrage" title="Felrage">Felrage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrock" title="Felrock">Felrock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cragtalon" title="Cragtalon">Feltalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bloodtotem_tribe" title="Bloodtotem tribe">Feltotem tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Tideskorn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Felskorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drekirjar" title="Drekirjar">Drekirjar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonespeakers" title="Bonespeakers">Bonespeakers</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Veiled_Hand" title="Veiled Hand">Veiled Hand</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Archival_Authority_of_Argus" title="Archival Authority of Argus">Archival Authority of Argus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Green_Flame" title="Cult of the Green Flame">Cult of the Green Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Nethersworn" title="Cult of the Nethersworn">Cult of the Nethersworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Iron_Horde" title="Iron Horde">Iron Horde</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hidden" title="Hidden">Hidden</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Defectors | 
+
+-   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
+-   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") blood elves
+-   Some [Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest") demons
+
+
+
+ |
+|  |
+| [Burning  
+Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") | 
+
+-   [Battle of Shar'gel](https://wowpedia.fandom.com/wiki/Battle_of_Shar%27gel "Battle of Shar'gel")
+-   [First invasion of Azeroth](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
+-   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei")
+-   [Second invasion of Azeroth](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion")
+    -   [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
+    -   [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War")
+-   Attempted Azeroth invasions
+    -   [Invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland")
+        -   [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas")
+    -   [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity")
+-   [Third invasion of Azeroth](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion")
+    -   [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign")
+
+
+
+ |
+|  |
+| 
+
+-   [Darkstorm](https://wowpedia.fandom.com/wiki/Darkstorm "Darkstorm")
+-   [Burning Legion category](https://wowpedia.fandom.com/wiki/Category:Burning_Legion "Category:Burning Legion")
+
+
+
+ |

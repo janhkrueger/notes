@@ -1,0 +1,1299 @@
+_This article is about the Forsaken capital. For the in-game faction of the same name, see [Undercity (faction)](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)")._
+
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Undercity |
+| --- |
+| [![Undercity TCG.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Undercity_TCG.jpg/revision/latest/scale-to-width-down/260?cb=20220218224313)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Undercity_TCG.jpg/revision/latest?cb=20220218224313)  
+The [imperial chamber](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") near Undercity's entrance.
+
+
+
+ |
+| Type | Capital city |
+| Races | [![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
+[![IconSmall UndeadElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516215246)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest?cb=20200516215246)[![IconSmall UndeadElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_UndeadElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517011433)](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_UndeadElf_Female.gif/revision/latest?cb=20200517011433) [Darkfallen](https://wowpedia.fandom.com/wiki/Darkfallen "Darkfallen")  
+[![IconSmall Banshee.gif](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Banshee.gif/revision/latest/scale-to-width-down/16?cb=20211130195538)](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Banshee.gif/revision/latest?cb=20211130195538) [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")  
+[![IconSmall Abomination.gif](https://static.wikia.nocookie.net/wowpedia/images/a/a6/IconSmall_Abomination.gif/revision/latest/scale-to-width-down/16?cb=20211130162827)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/IconSmall_Abomination.gif/revision/latest?cb=20211130162827) [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination")  
+[![IconSmall Val'kyr.gif](https://static.wikia.nocookie.net/wowpedia/images/8/81/IconSmall_Val%27kyr.gif/revision/latest/scale-to-width-down/16?cb=20211130201544)](https://static.wikia.nocookie.net/wowpedia/images/8/81/IconSmall_Val%27kyr.gif/revision/latest?cb=20211130201544) [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr")  
+[![IconSmall Wraith.gif](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Wraith.gif/revision/latest/scale-to-width-down/16?cb=20211130195839)](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Wraith.gif/revision/latest?cb=20211130195839) [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith")  
+[![IconSmall Zombie.gif](https://static.wikia.nocookie.net/wowpedia/images/4/44/IconSmall_Zombie.gif/revision/latest/scale-to-width-down/16?cb=20211130165125)](https://static.wikia.nocookie.net/wowpedia/images/4/44/IconSmall_Zombie.gif/revision/latest?cb=20211130165125) [Zombie](https://wowpedia.fandom.com/wiki/Zombie "Zombie")  
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
+[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")  
+[![Leper gnome](https://static.wikia.nocookie.net/wowpedia/images/7/75/IconSmall_LeperGnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200802134710)](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome")[![Leper gnome](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_LeperGnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200802140549)](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome") [Leper gnome](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome")  
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") |
+| Government | Monarchy; Autocracy |
+| Ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Sylvanas.gif/revision/latest/scale-to-width-down/16?cb=20221104223320)[Queen Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") |
+| Former ruler(s) | [![Undead](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Undead "Undead")[![Undead](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Undead "Undead") [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") <sup>&nbsp;†</sup>  
+ ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") <sup>&nbsp;†</sup> |
+| Languages | [Gutterspeak](https://wowpedia.fandom.com/wiki/Gutterspeak "Gutterspeak"), [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"), [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)"), [Goblin](https://wowpedia.fandom.com/wiki/Goblin_(language) "Goblin (language)"), [Taur-ahe](https://wowpedia.fandom.com/wiki/Taur-ahe "Taur-ahe") |
+| Faiths | [Forgotten Shadow](https://wowpedia.fandom.com/wiki/Cult_of_the_Forgotten_Shadow "Cult of the Forgotten Shadow"), [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light") |
+| Affiliation | [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Former affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [The Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") |
+| Location | Beneath the [Ruins of Capital City](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron"),  
+southern [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades") |
+| PvP status | [Horde territory](https://wowpedia.fandom.com/wiki/Horde_territory "Horde territory") |
+| Status | Plagued<sup id="cite_ref-Exploring_Azeroth_1-0"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-Exploring_Azeroth-1">[1]</a></sup> |
+
+“Beneath the ruins of Lordaeron, the armies of the Forsaken plot and scheme.”
+
+— [TCG card](https://wowpedia.fandom.com/wiki/Undercity_(Fields_of_Honor) "Undercity (Fields of Honor)") description
+
+The **Undercity**, now known as the **Ruins of Undercity**, was the [capital](https://wowpedia.fandom.com/wiki/Capital_city "Capital city") [city](https://wowpedia.fandom.com/wiki/City "City") of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). Its ruins are located right under the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") in [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), at the northwestern edge of the continent of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron").
+
+Far beneath the ruined [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") of the [kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"), its royal crypts were turned into a bastion of evil and undeath. Originally intended by [Prince Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") to be the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")'s seat of power, the budding "Undercity" was abandoned when Arthas was recalled to aid the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") in the distant [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). In Arthas's absence, the Dark Lady, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), led the rebel [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") to the Undercity, and claimed it for her own. Since taking up residence, the Forsaken worked to complete the Undercity's construction by dredging the twisted maze of catacombs, tombs, and dungeons that Arthas began.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-2">[2]</a></sup> The Undercity is much more defensible than the city above it.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-3">[3]</a></sup>
+
+It was plagued during the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron").
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/35/ForsakenCrest.jpg/revision/latest/scale-to-width-down/180?cb=20180710142604)](https://static.wikia.nocookie.net/wowpedia/images/3/35/ForsakenCrest.jpg/revision/latest?cb=20180710142604)
+
+The [icon of Torment](https://wowpedia.fandom.com/wiki/Icon_of_Torment "Icon of Torment")
+
+The Undercity was so named many years before the Forsaken claimed it as their own. Far beneath the [palace](https://wowpedia.fandom.com/wiki/Lordaeron%27s_palace "Lordaeron's palace") of Lordaeron, the Undercity held the ancient crypts and catacombs of Lordaeron's royalty, as well as the city's dungeons and sewers. Although the Undercity was only intended for prisoners and the dead, the poorest of the Lordaeron people lived within. Now and then the guards would go down and make a sweep of the place in a desperate and ultimately futile attempt to clean it out. When the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") captured [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer"), they sent him to the Undercity; sometime later he managed to escape and wandered for many years afterwards.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-4">[4]</a></sup><sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-5">[5]</a></sup>
+
+### Legacy of the Damned
+
+[Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron")'s [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") stood for centuries, a monument to humanity's might. In the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), Prince [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") slew his father, King [Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II"), in Lordaeron's [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") and ransacked the city.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-6">[6]</a></sup>
+
+During the Third War, the once-glorious capital of Lordaeron, Capital City, was decimated by a [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") army under the command of Prince [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). When the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") continued their campaign against the living throughout the continent, only a small contingent of Arthas’ forces were left behind to carve out a new “Undercity” beneath the ruined capital.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-7">[7]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Varimathras_kills_Garithos_Reforged.jpg/revision/latest/scale-to-width-down/180?cb=20200206123208)](https://static.wikia.nocookie.net/wowpedia/images/6/68/Varimathras_kills_Garithos_Reforged.jpg/revision/latest?cb=20200206123208)
+
+Sylvanas orders Varimathras to kill Garithos.
+
+After the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s defeat at the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal"), [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") returned to his ruined kingdom of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") to rule over his undead subjects, annihilate the last pockets of human resistance, and oust the remaining [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") who were unaware of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s defeat. However, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s powers began to wane and demanded Arthas travel to [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") to defend it from [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")'s [Forces](https://wowpedia.fandom.com/wiki/Illidari "Illidari").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-8">[8]</a></sup> With the Lich King's control over the undead faltering, one group of undead broke away from the Scourge and freed themselves of the Lich King's domination. Among them was [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") who plotted with the [Dreadlord Insurgents](https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents "Dreadlord Insurgents") to destroy Arthas.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-9">[9]</a></sup> Sylvanas rallied the free-willed undead and lured Arthas into a trap, but Arthas was rescued by [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"). Arthas fled to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") to defend the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne")<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-10">[10]</a></sup> and eventually [ascend as the Lich King](https://wowpedia.fandom.com/wiki/Ascension_of_the_Lich_King "Ascension of the Lich King"), leaving the Dreadlord Insurgents, [Sylvanas' Forces](https://wowpedia.fandom.com/wiki/Sylvanas%27_Forces "Sylvanas' Forces") and the [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") to vie for the lands of Lordaeron in a [Plaguelands civil war](https://wowpedia.fandom.com/wiki/Plaguelands_civil_war "Plaguelands civil war"). Ultimately Sylvanas and her rebel [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") (known as the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")) emerged victorious and claimed the [ruined capital city of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") as their own. Constructing their own bastion, far beneath the wrecked city, the Forsaken vowed to defeat the Scourge and drive Kel'Thuzad and his minions from the land. Over time the Forsaken began to fight a constant battle not only to retain their freedom from the Scourge, but also to exterminate those who would hunt them as monsters.<sup id="cite_ref-WoWmanual_11-0"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-WoWmanual-11">[11]</a></sup>
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+Far beneath the ruined capital city of Lordaeron, the royal crypts have been turned into a bastion of evil and undeath. Arthas originally intended the Undercity to be the Scourge's seat of power, but the budding city was abandoned when he was recalled to aid the Lich King in distant Northrend. In Arthas' absence, the Dark Lady, Sylvanas Windrunner, led the rebel Forsaken to the Undercity and claimed it for her own. Since taking up residence, the Forsaken have worked to complete the Undercity's construction by dredging out the twisted maze of catacombs, tombs, and dungeons that Arthas began.<sup id="cite_ref-WoWmanual_11-1"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-WoWmanual-11">[11]</a></sup>
+
+### Wrath of the Lich King
+
+_Main article: [The Battle For The Undercity](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity "The Battle For The Undercity")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Undercity.jpg/revision/latest/scale-to-width-down/320?cb=20111110211945)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Undercity.jpg/revision/latest?cb=20111110211945)
+
+The Trade Quarter within the city.
+
+While the forces of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") were concentrated on a joint effort at [Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Angrathar_the_Wrathgate "Angrathar the Wrathgate"), an uprising broke out within the Undercity. [Demons](https://wowpedia.fandom.com/wiki/Demon "Demon") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and Forsaken rebels led by the [dreadlord](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") and [Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress") managed to take control of the Undercity, killing several Forsaken and nearly killing the Dark Lady as well. In response the Horde led by Sylvanas Windrunner and [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") attacked from the front entrance to reclaim the city. While the Alliance led by [Varian](https://wowpedia.fandom.com/wiki/Varian "Varian") and [Jaina](https://wowpedia.fandom.com/wiki/Jaina "Jaina") attacked from the Sewers to restore Lordaeron to the Alliance. The ensuing battle ultimately killed both Varimathras and Putress, along with their fellow demons and Forsaken rebels.
+
+With [Patch 3.3.0](https://wowpedia.fandom.com/wiki/Patch_3.3.0 "Patch 3.3.0"), Thrall sent a legion of [Kor'kron Guard](https://wowpedia.fandom.com/wiki/Kor%27kron_Guard "Kor'kron Guard") led by captain [Bragor Bloodfist](https://wowpedia.fandom.com/wiki/Bragor_Bloodfist "Bragor Bloodfist"), who replaced Varimathras, with [Kor'kron Overseers](https://wowpedia.fandom.com/wiki/Kor%27kron_Overseer_(Undercity) "Kor'kron Overseer (Undercity)") replacing the [Undercity Guardians](https://wowpedia.fandom.com/wiki/Undercity_Guardian "Undercity Guardian"), in order to ensure that the events of the [Battle of Angrathar the Wrathgate](https://wowpedia.fandom.com/wiki/Battle_of_Angrathar_the_Wrathgate "Battle of Angrathar the Wrathgate") never occur again.
+
+Some guardians still remain in the [Sewers](https://wowpedia.fandom.com/wiki/Sewers "Sewers"); it's unknown if this is an error or not.
+
+### Stormrage
+
+After the death of Arthas, Undercity was attacked by the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")'s mists and shadowy warriors of nightmares. Sylvanas, half of the Forsaken and all Horde representatives were having nightmares. [Sharlindra](https://wowpedia.fandom.com/wiki/Sharlindra "Sharlindra") and some Forsaken witnessed Sylvanas' murmur and moments later, shadowy figures attacked Sharlindra and her followers - thus the whole Undercity was enveloped by the Nightmare.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-12">[12]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+As the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") was about to begin, the Undercity felt massive quakes.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-13">[13]</a></sup> The upper levels of Lordaeron Keep have been re-designed to accommodate flying.
+
+### Warlords of Draenor
+
+All the Kor'kron guards left, making only Bragor, now with the title of Hand of Warchief, being there. Under odd circumstances, the body of Overseer Kraggosh is now found in a cage.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+During the [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion"), the Undercity's Apothecarium was infiltrated by the [Ebon Blade](https://wowpedia.fandom.com/wiki/Ebon_Blade "Ebon Blade") who rescued the captive [Koltira](https://wowpedia.fandom.com/wiki/Koltira "Koltira").
+
+### Before the Storm
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+After the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"), the [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") governed the city in Sylvanas Windrunner's absence. The Desolate Council hosted a remembrance cermony in the Undercity to honor the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") that died during the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion").
+
+### Battle for Azeroth
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+Prior to the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"), Undercity's civilians were evacuated to [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") while the Gallywix's Boys's [Bilgewater Blastmasters](https://wowpedia.fandom.com/wiki/Bilgewater_Blastmasters "Bilgewater Blastmasters") loaded the streets with [Blight](https://wowpedia.fandom.com/wiki/New_Plague "New Plague") barrels and explosives as they were tasked. In the meantime, the city was infiltrated by the [druids of the claw](https://wowpedia.fandom.com/wiki/Druid_of_the_claw "Druid of the claw") and [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") agents though they were quickly dispatched.
+
+Instead of losing the battle, Sylvanas ordered the explosives to be activated flooding the upper and lower cities with plague, which kills both the living and the dead, making the capital uninhabitable.<sup id="cite_ref-Exploring_Azeroth_1-1"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-Exploring_Azeroth-1">[1]</a></sup>
+
+The Forsaken civilians that fled to Orgrimmar established camps on top of the [Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Gates_of_Orgrimmar "Gates of Orgrimmar") and inside Orgrimmar's streets.
+
+## Geography
+
+The Undercity is an extension of the crypts and dungeons originally beneath Lordaeron's capital city. The Forsaken dredged out complex catacombs and caverns below the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron"). The place is dark, smells of corpses and has an evil feel. Spiders, oozes and other subterranean creatures occupy the distant passages.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-14">[14]</a></sup> Rivers of poisonous sludge flow through all avenues of the vast Undercity. The toxic fumes and fetid odors permeating every corner of the stronghold have made it a place almost unbearable for the living members of the Horde. Yet for Sylvanas and her cursed followers, the Undercity has become a much-needed refuge in a world where her kind is still feared and hunted.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-15">[15]</a></sup> It is drastically different from any of the other capital cities for the Horde. Unlike [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), which are at the surface and often the sites of multiple festivals, the Undercity is dark, dreary, and cold. The Forsaken, however, are known for holding two festivals, [Hallow's End](https://wowpedia.fandom.com/wiki/Hallow%27s_End "Hallow's End") and [Pilgrim's Bounty](https://wowpedia.fandom.com/wiki/Pilgrim%27s_Bounty "Pilgrim's Bounty"). The Forsaken chose to manly live below ground, with limited Forsaken activity in the ruins above.
+
+The Undercity has many secret routes used by [the Banshee Queen](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") to move about the city in secret. [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") suspects that there are a few such passageways kept hidden even from him.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-16">[16]</a></sup>
+
+### Map and quarters
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/WorldMap-Undercity.jpg/revision/latest/scale-to-width-down/300?cb=20190809231736)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/WorldMap-Undercity.jpg/revision/latest?cb=20190809231736)
+
+Map of the Undercity.
+
+The city is made up of roughly symmetrical quarters arranged around a circular center.
+
+-   **[Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")** - Outdoors area beyond and including the entry area.
+-   **[The Trade Quarter](https://wowpedia.fandom.com/wiki/Trade_Quarter "Trade Quarter")** - The city center at the bottom elevator exits.
+-   **[The Magic Quarter](https://wowpedia.fandom.com/wiki/Magic_Quarter "Magic Quarter")** - Northeast from the Trade Quarter.
+-   **[The Rogues' Quarter](https://wowpedia.fandom.com/wiki/Rogues%27_Quarter "Rogues' Quarter")** - Southeast from the Trade Quarter.
+-   **[The Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium")** - Southwest from the Trade Quarter.
+-   **[The War Quarter](https://wowpedia.fandom.com/wiki/War_Quarter "War Quarter")** - Northwest from the Trade Quarter.
+-   **[The Royal Quarter](https://wowpedia.fandom.com/wiki/Royal_Quarter "Royal Quarter")** - South from the Apothecarium entrance.
+-   **[The Sewers](https://wowpedia.fandom.com/wiki/Sewers "Sewers")** - Through a tunnel west of city.
+-   **[The Canals](https://wowpedia.fandom.com/wiki/Canals_(Undercity) "Canals (Undercity)")** - Interspace between the different quarters.
+
+### Points of interest
+
+_Main article: [Undercity points of interest](https://wowpedia.fandom.com/wiki/Undercity_points_of_interest "Undercity points of interest")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/07/UCRight.jpg/revision/latest/scale-to-width-down/180?cb=20061107203216)](https://static.wikia.nocookie.net/wowpedia/images/0/07/UCRight.jpg/revision/latest?cb=20061107203216)
+
+The Orb of Translocation location on the map of the Undercity.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/OrbofTranslocationUC.jpg/revision/latest/scale-to-width-down/280?cb=20061129170815)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/OrbofTranslocationUC.jpg/revision/latest?cb=20061129170815)
+
+The Orb of Translocation at the Ruins of Lordaeron outside of the Undercity
+
+-   The [Bank](https://wowpedia.fandom.com/wiki/Bank "Bank") in the very heart of the city, in the middle of the Trade Quarter.
+-   The [Bat Handler](https://wowpedia.fandom.com/wiki/Bat_Handler "Bat Handler") stands in the southwestern part of the Trade Quarter.
+-   The City Hall in the northeastern edge of the Trade Quarter.
+-   The [Auction House](https://wowpedia.fandom.com/wiki/Auction_House "Auction House") is located in the circular area that leads between the Trade Quarter and the rest of the city.
+-   The [mailbox](https://wowpedia.fandom.com/wiki/Mailbox "Mailbox") is located on the north side of the upper rim of the Trade Quarter. Mailboxes are now also located near the auctioneers.
+
+### Orb of Translocation
+
+Since the release of _[The Burning Crusade](https://wowpedia.fandom.com/wiki/The_Burning_Crusade "The Burning Crusade")_, players with the expansion are able to access an [Orb of Translocation](https://wowpedia.fandom.com/wiki/Orb_of_Translocation "Orb of Translocation") to the [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City") palace, making it easy for anyone to travel between the two cities without having to go through the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands"). The translocator works both ways. The Undercity orb is located in a newly opened city section west off the main part of the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron"). The translocator teleports you to the [Inner Sanctum](https://wowpedia.fandom.com/wiki/Inner_Sanctum_(Silvermoon_City) "Inner Sanctum (Silvermoon City)") of the [Sunfury Spire](https://wowpedia.fandom.com/wiki/Sunfury_Spire "Sunfury Spire") within [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City").
+
+It cannot be used by the Alliance.
+
+### King Terenas' tomb
+
+Although the memorial to [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas") appears to be a stone tomb, it was shown in _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ that after his death, Terenas was [cremated](http://en.wikipedia.org/wiki/Cremation "wikipedia:Cremation"). Furthermore, the urn containing his ashes was used to resurrect the [Lich](https://wowpedia.fandom.com/wiki/Lich "Lich") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"). It is unknown what happened to the King's remains after this point. The memorial was crafted by the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") humans who once inhabited the old city, who risked everything to ensure that the memory of Lordaeron's last true king would not be forgotten.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-17">[17]</a></sup>
+
+### The throne room
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Throneroom.jpg/revision/latest/scale-to-width-down/300?cb=20181223183453)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Throneroom.jpg/revision/latest?cb=20181223183453)
+
+The throne room of Lordaeron.
+
+When you stand in the [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber"), at least in the center of the circle on the floor, with the ambient sound turned all the way up, in the background noises you can hear small clips of [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas"), [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), and [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas"). For those who wish to hear this without venturing into the Undercity, the ambient sound file is located at (WoW Directory)\\Data\\Sound\\Ambience\\WMOAmbience\\UnderCityThorneRoom.wav.
+
+If you look closely on the floor of the throne room, near the foot of the throne, you can see a small trail of blood that was left by the crown as it rolled onto the floor.
+
+By the same token, in the outer hall leading into the throne room, one can hear the celebration of Arthas' return by Lordaeron's citizens. The floor is littered with dead rose petals, the same ones seen showering Arthas during the cutscene in _Warcraft III_.
+
+When standing by the bell outside of the throne room you can hear it ringing.
+
+## Notable characters
+
+_Main article: [Undercity NPCs](https://wowpedia.fandom.com/wiki/Undercity_NPCs "Undercity NPCs")_
+
+From her throne in the Royal Quarter, the banshee queen [Lady Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") rules with the support of [Bragor Bloodfist](https://wowpedia.fandom.com/wiki/Bragor_Bloodfist "Bragor Bloodfist") and the banshee [Sharlindra](https://wowpedia.fandom.com/wiki/Sharlindra "Sharlindra"). Other luminaries include [Bethor Iceshard](https://wowpedia.fandom.com/wiki/Bethor_Iceshard "Bethor Iceshard"), who is a powerful wizard that heads the joint warlock and mage guilds in the Undercity, and [Master Apothecary Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell") of the [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society").
+
+## Travel connections
+
+### Flight
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [The Sepulcher](https://wowpedia.fandom.com/wiki/The_Sepulcher "The Sepulcher"), [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Forsaken High Command](https://wowpedia.fandom.com/wiki/Forsaken_High_Command "Forsaken High Command"), [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill"), [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [The Bulwark](https://wowpedia.fandom.com/wiki/The_Bulwark "The Bulwark"), [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill"), [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall"), [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Revantusk Village](https://wowpedia.fandom.com/wiki/Revantusk_Village "Revantusk Village"), [Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [New Kargath](https://wowpedia.fandom.com/wiki/New_Kargath "New Kargath"), [Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Sandy Beach](https://wowpedia.fandom.com/wiki/Sandy_Beach "Sandy Beach"), [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse") [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Light%27s_Hope_Chapel "Light's Hope Chapel")
+
+### Zeppelin
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Grom'gol Base Camp](https://wowpedia.fandom.com/wiki/Grom%27gol_Base_Camp "Grom'gol Base Camp"), [Northern Stranglethorn](https://wowpedia.fandom.com/wiki/Northern_Stranglethorn "Northern Stranglethorn")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Vengeance Landing](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing"), [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King")
+
+### Teleport
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"), [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods") [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") ([Orb of Translocation](https://wowpedia.fandom.com/wiki/Orb_of_Translocation "Orb of Translocation") from the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron"))
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [The Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"), [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands") (from the [Magic Quarter](https://wowpedia.fandom.com/wiki/Magic_Quarter "Magic Quarter"))
+
+## Quests
+
+_Main article: [Undercity quests](https://wowpedia.fandom.com/wiki/Undercity_quests "Undercity quests")_
+
+_See also: [Undercity questing guide](https://wowpedia.fandom.com/wiki/Undercity_questing_guide "Undercity questing guide")_
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+To the southeastern [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades") you will find the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")'s capital of Undercity. This maze was originally the crypts and dungeons beneath [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)")'s [capital](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), but the Forsaken have added to their city with tunnels, caverns, structures and the like.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-18">[18]</a></sup>
+
+The city is protected by 13 mysterious [black iron golems](https://wowpedia.fandom.com/wiki/Black_iron_golem "Black iron golem"), metal juggernauts of unknown origin.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-19">[19]</a></sup>
+
+### History
+
+Lordaeron's capital city stood for centuries, a monument to humanity's might. In the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), [Prince Arthas](https://wowpedia.fandom.com/wiki/Prince_Arthas "Prince Arthas") slew his father [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas") in Lordaeron's [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") and ransacked the city. He planned to use Lordaeron as his capital on this continent and ordered his minions to expand the catacombs beneath the city. Then the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") summoned Arthas to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and the work was left uncompleted.
+
+During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") broke free of the Lich King's control and took many [banshees](https://wowpedia.fandom.com/wiki/Banshee "Banshee") and other [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") with her. With [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")' assistance she defeated the [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") that controlled the city and set her newly dubbed Forsaken to finish Arthas' job in the dungeons. The Forsaken carved Undercity and now rule the surrounding countryside.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-20">[20]</a></sup>
+
+Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof") sent [Ambassador Galavosh](https://wowpedia.fandom.com/wiki/Ambassador_Galavosh "Ambassador Galavosh"), a mighty shaman, to Undercity to keep an eye on the Forsaken and make sure they are honest about their intention to dismiss their evil tendencies. He is investigating the the [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society") who are based in the [Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium"). They mess around with potions, venoms, diseases and other alchemy. Their leader, [Master Apothecary Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"), sends many Forsaken out on missions to gather strange objects that must be ingredients for something.
+
+Sylvanas Windrunner, once the elven ranger captain of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), claims to drive the Forsaken to defeat the Scourge and establish their own place on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), but what that place may be, and whether or not it includes living beings is not known. Varimathras serves as Sylvanas' lieutenant and closest advisor. Formerly one of Sylvanas' greatest enemies, Varimathras betrayed the Scourge and the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and defected to Sylvanas' side. He is in charge of Undercity's defense, and his forces range across Tirisfal, eliminating all those they see as a threat. The dreadlord is tasked with eradicating the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), a fanatical group of humans who seek to destroy all undead.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-21">[21]</a></sup>
+
+### Geography
+
+Undercity is an extension of the crypts and dungeons originally beneath Lordaeron's capital city. The Forsaken dredged out complex catacombs and caverns. The place is dark, smells like dead people and has an evil feel. [Spiders](https://wowpedia.fandom.com/wiki/Spider "Spider"), [oozes](https://wowpedia.fandom.com/wiki/Ooze "Ooze") and other subterranean creatures occupy the distant passages. You could wander for weeks in Undercity and never see everything.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-22">[22]</a></sup>
+
+## Notes and trivia
+
+-   The Undercity was infiltrated by [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") - [Renzik "The Shiv"](https://wowpedia.fandom.com/wiki/Renzik_%22The_Shiv%22 "Renzik "The Shiv"") who then provided sketches of the city and the Royal Quarter to his organization; as well as their leader [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") who entered through the throne room.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-23">[23]</a></sup>
+-   A [tentacle monster](https://wowpedia.fandom.com/wiki/Moat_Monster "Moat Monster") lived in the Undercity moat, fed by the Forsaken to defend it.
+-   [Clayton Backston](https://wowpedia.fandom.com/wiki/Clayton_Backston "Clayton Backston") had a garden in the Undercity.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-24">[24]</a></sup>
+-   There are two zeppelin towers within fairly short walking distance of the Ruins of Lordaeron, one offers flights to [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar") and [Grom'Gol Base Camp](https://wowpedia.fandom.com/wiki/Grom%27Gol_Base_Camp "Grom'Gol Base Camp") in [Northern Stranglethorn](https://wowpedia.fandom.com/wiki/Northern_Stranglethorn "Northern Stranglethorn"), the other to [Vengeance Landing](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing") in the [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+-   Do not worry about falling into the green liquid; it is harmless, and you may get out of it by finding a sewer pipe exit (exterior of the Undercity) or a small stairway (interior of the Undercity). You can even fish on it, but you won't catch anything magnificent...
+-   The Undercity doesn't have a [fruit vendor](https://wowpedia.fandom.com/wiki/Fruit_vendors "Fruit vendors").
+-   Using  ![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Spell_shadow_detectlesserinvisibility.png/revision/latest/scale-to-width-down/16?cb=20060930191415)[\[Detect Invisibility\]](https://wowpedia.fandom.com/wiki/Detect_Invisibility) or a similar ability within the Ruins of Lordaeron (within the walls but before entering the throne room), it is possible to see low-level undead mobs (each named "[Lordaeron Citizen](https://wowpedia.fandom.com/wiki/Lordaeron_Citizen "Lordaeron Citizen")"), similar to the [Unseen](https://wowpedia.fandom.com/wiki/Unseen "Unseen") in [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood").
+-   Though from the outside players see many towers and rooftops, they were originally, in fact, nothing more than an illusion. The former Lordaeron capital was sparsely decorated in-game with only the courtyard, translocater room and tomb being an actual part of the former structure. The game designers did not intend for anyone to see Lordaeron from above, or get to other parts, just to walk through it. This was changed in _[World of Warcraft: Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_, and the ruins of Lordaeron are now fully built.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Undercity_balconies.jpg/revision/latest/scale-to-width-down/180?cb=20081104031625)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Undercity_balconies.jpg/revision/latest?cb=20081104031625)
+
+The upper balconies of the Undercity.
+
+-   Balconies above the inner circle parts of the [War Quarter](https://wowpedia.fandom.com/wiki/War_Quarter "War Quarter"), [Mage Quarter](https://wowpedia.fandom.com/wiki/Mage_Quarter "Mage Quarter"), [Rogues' Quarter](https://wowpedia.fandom.com/wiki/Rogues%27_Quarter "Rogues' Quarter"), and [Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium") can be seen while flying in and out of the city by taxi. These empty balconies, aside from a single [food crate](https://wowpedia.fandom.com/wiki/Food_Crate "Food Crate"), are on the same level as the [Trade Quarter](https://wowpedia.fandom.com/wiki/Trade_Quarter "Trade Quarter") and are connected by footbridges that span above the corridors leading to and from the Trade Quarter and the outer quarters. These balconies and their connecting bridges can actually be seen on the map of Undercity. They cannot be reached on foot, but a mage can use  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Spell_magic_featherfall.png/revision/latest/scale-to-width-down/16?cb=20070106054830)[\[Slow Fall\]](https://wowpedia.fandom.com/wiki/Slow_Fall_(ability)), a priest can use  ![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Spell_holy_layonhands.png/revision/latest/scale-to-width-down/16?cb=20060930061401)[\[Levitate\]](https://wowpedia.fandom.com/wiki/Levitate), and an Engineer can use a  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Inv_misc_cape_11.png/revision/latest/scale-to-width-down/16?cb=20061019165521)[\[Parachute Cloak\]](https://wowpedia.fandom.com/wiki/Parachute_Cloak) to reach these balconies. From the top of the [sewer](https://wowpedia.fandom.com/wiki/Sewers "Sewers") tunnel where [vampire bats](https://wowpedia.fandom.com/wiki/Vampire_Bat "Vampire Bat") pass, a player can activate either any one of these, mount up, run and jump, aiming to the left of the tunnel, to land on the balconies above the [War Quarter](https://wowpedia.fandom.com/wiki/War_Quarter "War Quarter"). [Video of how to reach them](https://wowpedia.fandom.com/wiki/Undercity#Undercity's_Upper_floor).
+-   There are portions of the Undercity where effects from _Warcraft III_ were deliberately inserted into the game as ambient sounds. These areas are the throne room, the hallway directly outside of it, and even the bell tower located just at its entrance. Near the bell, you will hear the churchbells ringing when Arthas returns to Lordaeron before he becomes a death knight.
+    -   In the hall before the throne room, there are still scattered rose petals on the cobblestones from Arthas' return. In the throne room itself, a slight trail of blood — from when [Terenas'](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") crown rolled on the floor after Arthas murdered him — can be seen near the throne. What is most chilling is that the room echoes with Arthas' own voice saying the words, "Succeeding you, father," his words before he murdered his own father.
+-   On the in-game map of the Undercity, the emblem of the Scourge is used instead of the regular Forsaken emblem.
+-   [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") seems to find the Undercity appealing to the eye, in spite of its rotting guards, necromantic constructs and mysterious green fluids. When she, [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and the player invaded the Undercity during the [struggle to retake it](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Horde) "The Battle For The Undercity (Horde)"), she exclaimed, "What have they done to my beautiful city?"
+-   At one time there was a glitch in the game, so that a character running towards the opposing wall of a descending elevator would fall through the world, into [Stonetalon Mountains](https://wowpedia.fandom.com/wiki/Stonetalon_Mountains "Stonetalon Mountains"), and then the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains"). This may suggest that Blizzard used a vertical system for zone placement in addition to the existing horizontal one, creating another reason for not allowing flying mounts in classic content.
+-   Guards spawned from civilians are only level 65.
+-   A [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") riding on a [kodo](https://wowpedia.fandom.com/wiki/Kodo "Kodo") [mount](https://wowpedia.fandom.com/wiki/Mount "Mount") has to dismount to enter the elevators through the throne room.
+-   [Report from the Frontlines: Undercity](https://wowpedia.fandom.com/wiki/Report_from_the_Frontlines:_Undercity "Report from the Frontlines: Undercity"), a book found in [Acherus: The Ebon Hold](https://wowpedia.fandom.com/wiki/Acherus:_The_Ebon_Hold "Acherus: The Ebon Hold"), reveals that the Undercity at one point had Scourge infiltrators within the city walls.
+-   The [orcish guards](https://wowpedia.fandom.com/wiki/Kor%27kron_Overseer_(Undercity) "Kor'kron Overseer (Undercity)") who temporarily replaced most of the Forsaken guards and Abominations inside Undercity also had their own flavor of text responses when players interacted with them when finding out something like class or profession trainers. They had distinct reservations about Undercity, from its inn to its cooking, and sometimes had hostile responses, particularly for players wishing to find the warlock trainer.
+-   The Undercity was originally called "[Necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis")" in early concept maps for _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-25">[25]</a></sup><sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-26">[26]</a></sup> The quest  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10\] [Delivery to Silverpine Forest](https://wowpedia.fandom.com/wiki/Delivery_to_Silverpine_Forest) mentions a Necropolis while talking about Undercity, which may be a remnant of the alpha stage considering the ID of the quest. _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_ refers to the Undercity as a "subterranean necropolis".<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-27">[27]</a></sup>
+    -   The city's layout may be a remnant of this, as its circular design with four distinct quadrants is very reminiscent of the necropoli [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas") and [Acherus](https://wowpedia.fandom.com/wiki/Acherus:_The_Ebon_Hold "Acherus: The Ebon Hold").
+-   It took several months for Jose Aello Jr. and Dana Jan to create the Undercity during the development of WoW. According to [John Staats](https://wowpedia.fandom.com/wiki/Johnathan_Staats "Johnathan Staats"), [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") wanted the Undercity to just be a disheveled, wrecked, and ugly-looking city where everything was split up, while the artists wanted more of a habitable hub as opposed to a randomized maze (partially because many of the artists had nightmares from a city in the [_Diablo_ universe](https://wowpedia.fandom.com/wiki/Diablo_franchise "Diablo franchise") where the player had to run everywhere to get to all of the NPCs they needed to talk to). Eventually, the level designers won out on that argument.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_note-28">[28]</a></sup>
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Undercitymapmanual.jpg/revision/latest/scale-to-width-down/120?cb=20150722155543)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Undercitymapmanual.jpg/revision/latest?cb=20150722155543)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/WorldMap-Undercity-old.jpg/revision/latest/scale-to-width-down/120?cb=20071104181235)](https://static.wikia.nocookie.net/wowpedia/images/1/17/WorldMap-Undercity-old.jpg/revision/latest?cb=20071104181235)
+    
+    Undercity map prior to _Cataclysm_, with the Scourge [icon](https://wowpedia.fandom.com/wiki/Icon "Icon").
+    
+
+## Videos
+
+-   [The secret floor of Undercity revealed! (Undercity's Upper floor)](https://wowpedia.fandom.com/wiki/Undercity#)
+
+## Patch changes
+
+## See also
+
+-   [TCG card](https://wowpedia.fandom.com/wiki/Undercity_(Fields_of_Honor) "Undercity (Fields of Honor)")
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_ref-Exploring_Azeroth_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_ref-Exploring_Azeroth_1-1">b</a></sup> _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 116
+2.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-2) [http://eu.battle.net/wow/en/faction/undercity](http://eu.battle.net/wow/en/faction/undercity)
+3.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-3) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 110
+4.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-4) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 2
+5.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-5) [http://www.worldofwarcraft.com/info/story/arthas/index.xml#top](http://www.worldofwarcraft.com/info/story/arthas/index.xml#top) page 4
+6.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-6) [Arthas' Betrayal (WC3 Human)](https://wowpedia.fandom.com/wiki/Arthas%27_Betrayal_(WC3_Human) "Arthas' Betrayal (WC3 Human)")
+7.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-7) [Races of World of Warcraft](https://worldofwarcraft.com/en-us/game/races/undead)
+8.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-8) [King Arthas (WC3 Undead)](https://wowpedia.fandom.com/wiki/King_Arthas_(WC3_Undead) "King Arthas (WC3 Undead)")
+9.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-9) [A Kingdom Divided (WC3 Undead)](https://wowpedia.fandom.com/wiki/A_Kingdom_Divided_(WC3_Undead) "A Kingdom Divided (WC3 Undead)")
+10.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-10) [Sylvanas' Farewell (WC3 Undead)](https://wowpedia.fandom.com/wiki/Sylvanas%27_Farewell_(WC3_Undead) "Sylvanas' Farewell (WC3 Undead)")
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_ref-WoWmanual_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Undercity#cite_ref-WoWmanual_11-1">b</a></sup> _[World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_
+12.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-12) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, chapter 18
+13.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-13) _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_, chapter 32
+14.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-14) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg 108-109
+15.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-15) [http://us.battle.net/wow/en/game/race/forsaken](http://us.battle.net/wow/en/game/race/forsaken)
+16.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-16) _[Dark Mirror](https://wowpedia.fandom.com/wiki/Dark_Mirror "Dark Mirror")_
+17.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-17) [Ask CDev#Ask CDev Answers - Round 4](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_4 "Ask CDev")
+18.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-18) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 107
+19.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-19) _[Magic & Mayhem](https://wowpedia.fandom.com/wiki/Magic_%26_Mayhem "Magic & Mayhem")_, pg. 199 - 200; 206
+20.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-20) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 109
+21.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-21) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 107 - 108
+22.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-22) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 108 - 109
+23.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-23) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 110, 113
+24.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-24)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [Zandalari Justice](https://wowpedia.fandom.com/wiki/Zandalari_Justice)
+25.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-25) [File:ABE - Lordaeron and Khaz Modan map.jpg](https://wowpedia.fandom.com/wiki/File:ABE_-_Lordaeron_and_Khaz_Modan_map.jpg "File:ABE - Lordaeron and Khaz Modan map.jpg")
+26.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-26) [File:WoWCE - Lordaeron.jpg](https://wowpedia.fandom.com/wiki/File:WoWCE_-_Lordaeron.jpg "File:WoWCE - Lordaeron.jpg")
+27.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-27) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 12
+28.  [^](https://wowpedia.fandom.com/wiki/Undercity#cite_ref-28) [Countdown To Classic: Episode #63 – The Making Of World Of Warcraft With Vanilla Dev, John Staats (around 2:28:20)](https://countdowntoclassic.com/2018/08/20/episode-63-the-making-of-world-of-warcraft-with-vanilla-dev-john-staats/) (2018-08-20). Retrieved on 2018-09-24.
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/zone=1497)
+-   [WoWDB](https://www.wowdb.com/zones/1497)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Undercity "Template:Undercity")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Undercity?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of the **Undercity**
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![The Undercity is Horde territory](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931 "The Undercity is Horde territory")
+
+ | 
+
+-   [The Apothecarium](https://wowpedia.fandom.com/wiki/Apothecarium "Apothecarium")
+-   [The Canals](https://wowpedia.fandom.com/wiki/Canals_(Undercity) "Canals (Undercity)")
+-   [The Magic Quarter](https://wowpedia.fandom.com/wiki/Magic_Quarter "Magic Quarter")
+-   [The Rogues' Quarter](https://wowpedia.fandom.com/wiki/Rogues%27_Quarter "Rogues' Quarter")
+-   [The Royal Quarter](https://wowpedia.fandom.com/wiki/Royal_Quarter "Royal Quarter")
+-   [The Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+-   [The Sewers](https://wowpedia.fandom.com/wiki/Sewers "Sewers")
+-   [The Trade Quarter](https://wowpedia.fandom.com/wiki/Trade_Quarter "Trade Quarter")
+-   [The War Quarter](https://wowpedia.fandom.com/wiki/War_Quarter "War Quarter")
+
+
+
+ | 
+
+[![Map of the Undercity](https://static.wikia.nocookie.net/wowpedia/images/a/ac/WorldMap-Undercity.jpg/revision/latest/scale-to-width-down/120?cb=20190809231736)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/WorldMap-Undercity.jpg/revision/latest?cb=20190809231736 "Map of the Undercity")
+
+ |
+|  |
+| 
+
+-   [Shops in the Undercity](https://wowpedia.fandom.com/wiki/Shop#Undercity "Shop")
+-   [Undercity category](https://wowpedia.fandom.com/wiki/Category:Undercity "Category:Undercity")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Tirisfal_Glades "Template:Tirisfal Glades")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Tirisfal_Glades?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Map of Tirisfal Glades - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/4/4b/WorldMap-Tirisfal.jpg/revision/latest/scale-to-width-down/120?cb=20180508225645)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/WorldMap-Tirisfal.jpg/revision/latest?cb=20180508225645 "Map of Tirisfal Glades - Cataclysm")  
+[![Map of Deathknell](https://static.wikia.nocookie.net/wowpedia/images/9/90/WorldMap-DeathknellStart.jpg/revision/latest/scale-to-width-down/120?cb=20120621025613)](https://static.wikia.nocookie.net/wowpedia/images/9/90/WorldMap-DeathknellStart.jpg/revision/latest?cb=20120621025613 "Map of Deathknell")
+
+ | 
+
+-   [Agamand Mills](https://wowpedia.fandom.com/wiki/Agamand_Mills "Agamand Mills")
+    -   [Agamand Family Crypt](https://wowpedia.fandom.com/wiki/Agamand_Family_Crypt "Agamand Family Crypt")
+-   [Balnir Farmstead](https://wowpedia.fandom.com/wiki/Balnir_Farmstead "Balnir Farmstead")
+-   [Brightwater Lake](https://wowpedia.fandom.com/wiki/Brightwater_Lake "Brightwater Lake")
+    -   [Gunther's Retreat](https://wowpedia.fandom.com/wiki/Gunther%27s_Retreat "Gunther's Retreat")
+-   [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill")
+    -   Brill Inn
+    -   [Brill Town Hall](https://wowpedia.fandom.com/wiki/Brill_Town_Hall "Brill Town Hall")
+    -   [Gallows' End Tavern](https://wowpedia.fandom.com/wiki/Gallows%27_End_Tavern "Gallows' End Tavern")
+-   [The Bulwark](https://wowpedia.fandom.com/wiki/Bulwark "Bulwark")
+-   [Calston Estate](https://wowpedia.fandom.com/wiki/Calston_Estate "Calston Estate")
+-   [Cold Hearth Manor](https://wowpedia.fandom.com/wiki/Cold_Hearth_Manor "Cold Hearth Manor")
+-   [Crusader Outpost](https://wowpedia.fandom.com/wiki/Crusader_Outpost "Crusader Outpost")
+-   [Death's Watch Waystation](https://wowpedia.fandom.com/wiki/Death%27s_Watch_Waystation "Death's Watch Waystation")
+-   [Faol's Rest](https://wowpedia.fandom.com/wiki/Faol%27s_Rest "Faol's Rest")
+-   [Garren's Haunt](https://wowpedia.fandom.com/wiki/Garren%27s_Haunt "Garren's Haunt")
+-   [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea")
+-   [Nightmare Vale](https://wowpedia.fandom.com/wiki/Nightmare_Vale "Nightmare Vale")
+-   [The North Coast](https://wowpedia.fandom.com/wiki/North_Coast "North Coast")
+-   [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") **Undercity**
+-   [Scarlet Monastery](https://wowpedia.fandom.com/wiki/Scarlet_Monastery "Scarlet Monastery")
+    -   [The Grand Vestibule](https://wowpedia.fandom.com/wiki/Grand_Vestibule "Grand Vestibule")
+    -   [Terrace of Repose](https://wowpedia.fandom.com/wiki/Terrace_of_Repose "Terrace of Repose")
+    -   [Whispering Gardens](https://wowpedia.fandom.com/wiki/Whispering_Gardens "Whispering Gardens")
+-   [Scarlet Palisade](https://wowpedia.fandom.com/wiki/Scarlet_Palisade "Scarlet Palisade")
+    -   [Crusader's Outpost](https://wowpedia.fandom.com/wiki/Crusader%27s_Outpost "Crusader's Outpost")
+-   [Scarlet Watchtower](https://wowpedia.fandom.com/wiki/Scarlet_Watchtower "Scarlet Watchtower")
+-   [Scarlet Watch Post](https://wowpedia.fandom.com/wiki/Scarlet_Watch_Post "Scarlet Watch Post")
+-   [Solliden Farmstead](https://wowpedia.fandom.com/wiki/Solliden_Farmstead "Solliden Farmstead")
+-   [Stillwater Pond](https://wowpedia.fandom.com/wiki/Stillwater_Pond "Stillwater Pond")
+-   [Venomweb Vale](https://wowpedia.fandom.com/wiki/Venomweb_Vale "Venomweb Vale")
+    -   [Scarlet Encampment](https://wowpedia.fandom.com/wiki/Scarlet_Encampment "Scarlet Encampment")
+-   [Whispering Forest](https://wowpedia.fandom.com/wiki/Whispering_Forest "Whispering Forest")
+    -   [Tyr's Fall](https://wowpedia.fandom.com/wiki/Tyr%27s_Fall "Tyr's Fall")
+        -   [The Tomb of Tyr](https://wowpedia.fandom.com/wiki/Tomb_of_Tyr "Tomb of Tyr")
+            -   [The Darkwalk](https://wowpedia.fandom.com/wiki/Darkwalk "Darkwalk")
+            -   [Grave-Prison of Zakajz](https://wowpedia.fandom.com/wiki/Grave-Prison_of_Zakajz "Grave-Prison of Zakajz")
+            -   [Vestibule of the Silver Hand](https://wowpedia.fandom.com/wiki/Vestibule_of_the_Silver_Hand "Vestibule of the Silver Hand")
+        -   [Underwater Passage](https://wowpedia.fandom.com/wiki/Underwater_Passage "Underwater Passage")
+-   [Whispering Shore](https://wowpedia.fandom.com/wiki/Whispering_Shore "Whispering Shore")
+
+
+
+ | 
+
+[![Map of Tirisfal Glades - Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WorldMap-Tirisfal_Terrain1.jpg/revision/latest/scale-to-width-down/120?cb=20180807170644)](https://static.wikia.nocookie.net/wowpedia/images/2/2b/WorldMap-Tirisfal_Terrain1.jpg/revision/latest?cb=20180807170644 "Map of Tirisfal Glades - Battle for Azeroth")  
+[![Map of Tirisfal Glades - Classic](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-Tirisfal-old.jpg/revision/latest/scale-to-width-down/120?cb=20071104181232)](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-Tirisfal-old.jpg/revision/latest?cb=20071104181232 "Map of Tirisfal Glades - Classic")
+
+ |
+|  |
+| 
+
+-   **Deathknell** — [Deathknell](https://wowpedia.fandom.com/wiki/Deathknell "Deathknell")
+-   [The Deathknell Graves](https://wowpedia.fandom.com/wiki/Deathknell_Graves "Deathknell Graves")
+-   [Night Web's Hollow](https://wowpedia.fandom.com/wiki/Night_Web%27s_Hollow "Night Web's Hollow")
+-   [Rotbrain Encampment](https://wowpedia.fandom.com/wiki/Rotbrain_Encampment "Rotbrain Encampment")
+-   [Shadow Grave](https://wowpedia.fandom.com/wiki/Shadow_Grave "Shadow Grave")
+
+
+
+ |
+|  |
+| 
+
+-   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Lordaeron's palace](https://wowpedia.fandom.com/wiki/Lordaeron%27s_palace "Lordaeron's palace")
+    -   [Imperial chamber](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber")
+-   [The Lion's Wake](https://wowpedia.fandom.com/wiki/Lion%27s_Wake "Lion's Wake")
+-   [Mass Graves](https://wowpedia.fandom.com/wiki/Mass_Grave "Mass Grave")
+-   [Zeppelin Landing](https://wowpedia.fandom.com/wiki/Zeppelin_Landing "Zeppelin Landing")
+
+
+
+ |
+|  |
+| 
+
+[Tirisfal Glades category](https://wowpedia.fandom.com/wiki/Category:Tirisfal_Glades "Category:Tirisfal Glades")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms "Template:Eastern Kingdoms")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
+
+
+
+ |
+| --- |
+|  |
+| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") | 
+
+-   [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Blasted_Lands_(Classic) "Blasted Lands (Classic)")
+-   [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Burning_Steppes_(Classic) "Burning Steppes (Classic)")
+-   [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Deadwind_Pass_(Classic) "Deadwind Pass (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Duskwood_(Classic) "Duskwood (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Elwynn_Forest_(Classic) "Elwynn Forest (Classic)")
+    -   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Redridge_Mountains_(Classic) "Redridge Mountains (Classic)")
+-   [Stranglethorn Vale](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale "Stranglethorn Vale")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale_(Classic) "Stranglethorn Vale (Classic)")
+    -   [Cape of Stranglethorn](https://wowpedia.fandom.com/wiki/Cape_of_Stranglethorn "Cape of Stranglethorn")
+    -   [Northern Stranglethorn](https://wowpedia.fandom.com/wiki/Northern_Stranglethorn "Northern Stranglethorn")
+-   [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows_(Classic) "Swamp of Sorrows (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Westfall](https://wowpedia.fandom.com/wiki/Westfall "Westfall")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Westfall_(Classic) "Westfall (Classic)")
+
+
+
+ | 
+
+[![Map of the Eastern Kingdoms](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest/scale-to-width-down/120?cb=20220313123633)](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest?cb=20220313123633 "Map of the Eastern Kingdoms")
+
+ |
+|  |
+| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") | 
+
+-   [The Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Badlands_(Classic) "Badlands (Classic)")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Dun_Morogh_(Classic) "Dun Morogh (Classic)")
+    -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Loch_Modan_(Classic) "Loch Modan (Classic)")
+-   [Searing Gorge](https://wowpedia.fandom.com/wiki/Searing_Gorge "Searing Gorge")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Searing_Gorge_(Classic) "Searing Gorge (Classic)")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [The Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Wetlands_(Classic) "Wetlands (Classic)")
+
+
+
+ |
+|  |
+| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") | 
+
+-   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains_(Classic) "Alterac Mountains (Classic)")
+-   [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Arathi_Highlands_(Classic) "Arathi Highlands (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills_(Classic) "Hillsbrad Foothills (Classic)")
+    -   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains")
+-   [The Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hinterlands_(Classic) "Hinterlands (Classic)")
+-   [The Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands")
+    -   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+    -   [Classic Eastern](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands_(Classic) "Eastern Plaguelands (Classic)")
+    -   [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands")
+    -   [Classic Western](https://wowpedia.fandom.com/wiki/Western_Plaguelands_(Classic) "Western Plaguelands (Classic)")
+-   [Ruins of Gilneas](https://wowpedia.fandom.com/wiki/Ruins_of_Gilneas "Ruins of Gilneas")
+    -   [starting zone](https://wowpedia.fandom.com/wiki/Gilneas_(starting_zone) "Gilneas (starting zone)")
+    -   [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+        -   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+    -   [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Silverpine_Forest_(Classic) "Silverpine Forest (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Tirisfal_Glades_(Classic) "Tirisfal Glades (Classic)")
+    -   **Undercity**
+-   [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad")
+    -   [Tol Barad Peninsula](https://wowpedia.fandom.com/wiki/Tol_Barad_Peninsula "Tol Barad Peninsula")
+
+
+
+ |
+|  |
+| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") | 
+
+-   [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths")
+-   [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest")
+-   [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse")
+
+
+
+ |
+|  |
+| 
+
+[Eastern Kingdoms category](https://wowpedia.fandom.com/wiki/Category:Eastern_Kingdoms "Category:Eastern Kingdoms")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
+-   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") | 
+
+-   [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")
+-   [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan")
+-   [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof")
+-   [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss")
+-   [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron")
+-   [Gazlowe](https://wowpedia.fandom.com/wiki/Gazlowe "Gazlowe")
+-   [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw")
+-   [Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra")
+-   [Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")
+-   [Geya'rah](https://wowpedia.fandom.com/wiki/Overlord_Geya%27rah "Overlord Geya'rah")
+-   [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji")
+-   [Kiro](https://wowpedia.fandom.com/wiki/Kiro "Kiro")
+
+
+
+ |
+|  |
+| Other leaders | 
+
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") ([Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), [Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont"), [Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara"), [Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"))
+-   [Cindrethresh](https://wowpedia.fandom.com/wiki/Scalecommander_Cindrethresh "Scalecommander Cindrethresh")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Aggralan](https://wowpedia.fandom.com/wiki/Aggralan "Aggralan")
+-   [Drek'Thar](https://wowpedia.fandom.com/wiki/Drek%27Thar "Drek'Thar")
+-   [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg")
+-   [Nazgrel](https://wowpedia.fandom.com/wiki/Nazgrel "Nazgrel")
+-   [Jorin Deadeye](https://wowpedia.fandom.com/wiki/Jorin_Deadeye "Jorin Deadeye")
+-   [Rehgar Earthfury](https://wowpedia.fandom.com/wiki/Rehgar_Earthfury "Rehgar Earthfury")
+-   [Cromush](https://wowpedia.fandom.com/wiki/High_Warlord_Cromush "High Warlord Cromush")
+-   [Volrath](https://wowpedia.fandom.com/wiki/High_Warlord_Volrath "High Warlord Volrath")
+-   [Gorgonna](https://wowpedia.fandom.com/wiki/Gorgonna "Gorgonna")
+-   [Gordul](https://wowpedia.fandom.com/wiki/Gordul "Gordul")
+-   [Gorfax Angerfang](https://wowpedia.fandom.com/wiki/Gorfax_Angerfang "Gorfax Angerfang")
+-   [Geyah](https://wowpedia.fandom.com/wiki/Greatmother_Geyah "Greatmother Geyah")
+-   [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen")
+-   [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar")
+-   [Master Gadrin](https://wowpedia.fandom.com/wiki/Master_Gadrin "Master Gadrin")
+-   [Zen'tabra](https://wowpedia.fandom.com/wiki/Zen%27tabra "Zen'tabra")
+-   [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan")
+-   [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem")
+-   [Dezco](https://wowpedia.fandom.com/wiki/Sunwalker_Dezco "Sunwalker Dezco")
+-   [Roanauk Icemist](https://wowpedia.fandom.com/wiki/Roanauk_Icemist "Roanauk Icemist")
+-   [Jevan Grimtotem](https://wowpedia.fandom.com/wiki/Jevan_Grimtotem "Jevan Grimtotem")
+-   [Aponi Brightmane](https://wowpedia.fandom.com/wiki/Aponi_Brightmane "Aponi Brightmane")
+-   [Tahu Sagewind](https://wowpedia.fandom.com/wiki/Tahu_Sagewind "Tahu Sagewind")
+-   [Torntusk](https://wowpedia.fandom.com/wiki/Elder_Torntusk "Elder Torntusk")
+-   [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore")
+-   [Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon")
+-   [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver")
+-   [Alexi Barov](https://wowpedia.fandom.com/wiki/Alexi_Barov "Alexi Barov")
+-   [Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin")
+-   [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing")
+-   [Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+-   [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver")
+-   [Tae'thelan Bloodwatcher](https://wowpedia.fandom.com/wiki/Tae%27thelan_Bloodwatcher "Tae'thelan Bloodwatcher")
+-   [Mida](https://wowpedia.fandom.com/wiki/Boss_Mida "Boss Mida")
+-   [Pozzik](https://wowpedia.fandom.com/wiki/Pozzik "Pozzik")
+-   [Patch](https://wowpedia.fandom.com/wiki/Patch_(goblin) "Patch (goblin)")
+-   [Oculeth](https://wowpedia.fandom.com/wiki/Chief_Telemancer_Oculeth "Chief Telemancer Oculeth")
+-   [Valtrois](https://wowpedia.fandom.com/wiki/Arcanist_Valtrois "Arcanist Valtrois")
+-   [Lashk](https://wowpedia.fandom.com/wiki/Lashk "Lashk")
+-   [Ly'leth](https://wowpedia.fandom.com/wiki/Ly%27leth_Lunastre "Ly'leth Lunastre")
+-   [Silgryn](https://wowpedia.fandom.com/wiki/Silgryn "Silgryn")
+-   [Victoire](https://wowpedia.fandom.com/wiki/Victoire "Victoire")
+-   [Jale Rivermane](https://wowpedia.fandom.com/wiki/Jale_Rivermane "Jale Rivermane")
+-   [Lasan Skyhorn](https://wowpedia.fandom.com/wiki/Lasan_Skyhorn "Lasan Skyhorn")
+-   [Loti](https://wowpedia.fandom.com/wiki/Wardruid_Loti "Wardruid Loti")
+-   [Raal](https://wowpedia.fandom.com/wiki/Hexlord_Raal "Hexlord Raal")
+-   [Jo'nok](https://wowpedia.fandom.com/wiki/Jo%27nok,_Bulwark_of_Torcali "Jo'nok, Bulwark of Torcali")
+-   [Rata](https://wowpedia.fandom.com/wiki/High_Prelate_Rata "High Prelate Rata")
+-   [Rakera](https://wowpedia.fandom.com/wiki/Rakera "Rakera")
+-   [Nisha](https://wowpedia.fandom.com/wiki/Nisha "Nisha")
+-   [Kah Kah](https://wowpedia.fandom.com/wiki/Chief_Kah_Kah "Chief Kah Kah")
+-   [Usha Eyegouge](https://wowpedia.fandom.com/wiki/Usha_Eyegouge "Usha Eyegouge")
+-   [The Black Bride](https://wowpedia.fandom.com/wiki/The_Black_Bride "The Black Bride")
+-   [Gargok](https://wowpedia.fandom.com/wiki/Gargok "Gargok")
+-   [Neri Sharpfin](https://wowpedia.fandom.com/wiki/Neri_Sharpfin "Neri Sharpfin")
+-   [Ohseso](https://wowpedia.fandom.com/wiki/Ohseso "Ohseso")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+-   [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller")
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")
+-   [Jastor Gallywix](https://wowpedia.fandom.com/wiki/Jastor_Gallywix "Jastor Gallywix")
+-   [Warlord Bloodhilt](https://wowpedia.fandom.com/wiki/Warlord_Bloodhilt "Warlord Bloodhilt")
+-   [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar")
+-   [Overlord Krom'gar](https://wowpedia.fandom.com/wiki/Overlord_Krom%27gar "Overlord Krom'gar")
+-   [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream")
+-   [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer")
+-   [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin")
+-   [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof")
+-   [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")
+-   [Malkorok](https://wowpedia.fandom.com/wiki/Malkorok "Malkorok")
+-   [Nazgrim](https://wowpedia.fandom.com/wiki/Nazgrim "Nazgrim")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela")
+-   [Jor'kil](https://wowpedia.fandom.com/wiki/Jor%27kil_the_Soulripper "Jor'kil the Soulripper")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") | 
+
+-   [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan")
+-   [Rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Maim Blackhand](https://wowpedia.fandom.com/wiki/Maim_Blackhand "Maim Blackhand")
+-   [Kilrogg Deadeye](https://wowpedia.fandom.com/wiki/Kilrogg_Deadeye "Kilrogg Deadeye")
+-   [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked")
+-   [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")
+-   [Zul'jin](https://wowpedia.fandom.com/wiki/Zul%27jin "Zul'jin")
+-   [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+-   [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")
+-   [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+-   [Undead Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+-   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+-   [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
+-   [Mag'har orc](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")
+-   [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")
+-   [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")
+-   [Hobgoblin](https://wowpedia.fandom.com/wiki/Hobgoblin "Hobgoblin")
+-   [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+-   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Half-orc](https://wowpedia.fandom.com/wiki/Half-orc "Half-orc") / [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+    -   [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination")
+    -   [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")
+    -   [Geist](https://wowpedia.fandom.com/wiki/Geist "Geist")
+    -   [Ghoul](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul")
+    -   [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr")
+    -   [Undead elf](https://wowpedia.fandom.com/wiki/Elf "Elf")
+    -   [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith")
+    -   [Zombie](https://wowpedia.fandom.com/wiki/Zombie "Zombie")
+-   [Hozen](https://wowpedia.fandom.com/wiki/Hozen "Hozen")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Kodo](https://wowpedia.fandom.com/wiki/Kodo "Kodo")
+-   [Raptor](https://wowpedia.fandom.com/wiki/Raptor "Raptor")
+-   [Wyvern](https://wowpedia.fandom.com/wiki/Wyvern "Wyvern")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")
+-   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
+-   [Darkspear Isle](https://wowpedia.fandom.com/wiki/Darkspear_Isle "Darkspear Isle")
+-   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+-   [Bilgewater Harbor](https://wowpedia.fandom.com/wiki/Bilgewater_Harbor "Bilgewater Harbor")
+-   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+-   [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+-   [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor")
+-   [Vulpera Hideaway](https://wowpedia.fandom.com/wiki/Vulpera_Hideaway "Vulpera Hideaway")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Bloodhoof Village](https://wowpedia.fandom.com/wiki/Bloodhoof_Village "Bloodhoof Village")
+-   [Brackenwall Village](https://wowpedia.fandom.com/wiki/Brackenwall_Village "Brackenwall Village")
+-   [Camp Mojache](https://wowpedia.fandom.com/wiki/Camp_Mojache "Camp Mojache")
+-   [Crossroads](https://wowpedia.fandom.com/wiki/Crossroads "Crossroads")
+-   [Desolation Hold](https://wowpedia.fandom.com/wiki/Desolation_Hold "Desolation Hold")
+-   [Krom'gar Fortress](https://wowpedia.fandom.com/wiki/Krom%27gar_Fortress "Krom'gar Fortress")
+-   [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill")
+-   [Sen'jin Village](https://wowpedia.fandom.com/wiki/Sen%27jin_Village "Sen'jin Village")
+-   [Shadowprey Village](https://wowpedia.fandom.com/wiki/Shadowprey_Village "Shadowprey Village")
+-   [Southwind Village](https://wowpedia.fandom.com/wiki/Southwind_Village "Southwind Village")
+-   [Splintertree Post](https://wowpedia.fandom.com/wiki/Splintertree_Post "Splintertree Post")
+-   [Stonemaul Hold](https://wowpedia.fandom.com/wiki/Stonemaul_Hold "Stonemaul Hold")
+-   [Sun Rock Retreat](https://wowpedia.fandom.com/wiki/Sun_Rock_Retreat "Sun Rock Retreat")
+-   [Westreach Summit](https://wowpedia.fandom.com/wiki/Westreach_Summit "Westreach Summit")
+-   [Zoram'gar Outpost](https://wowpedia.fandom.com/wiki/Zoram%27gar_Outpost "Zoram'gar Outpost")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")
+-   [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill")
+-   [Ar'gorok](https://wowpedia.fandom.com/wiki/Ar%27gorok "Ar'gorok")
+-   [Dragonmaw Port](https://wowpedia.fandom.com/wiki/Dragonmaw_Port "Dragonmaw Port")
+-   [Falconwing Square](https://wowpedia.fandom.com/wiki/Falconwing_Square "Falconwing Square")
+-   [Frostwolf Keep](https://wowpedia.fandom.com/wiki/Frostwolf_Keep "Frostwolf Keep")
+-   [Grom'Gol](https://wowpedia.fandom.com/wiki/Grom%27Gol "Grom'Gol")
+-   [The Krazzworks](https://wowpedia.fandom.com/wiki/Krazzworks "Krazzworks")
+-   [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall")
+-   [Hardwrench Hideaway](https://wowpedia.fandom.com/wiki/Hardwrench_Hideaway "Hardwrench Hideaway")
+-   [New Kargath](https://wowpedia.fandom.com/wiki/New_Kargath "New Kargath")
+-   [Revantusk Village](https://wowpedia.fandom.com/wiki/Revantusk_Village "Revantusk Village")
+-   [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+-   [Sepulcher](https://wowpedia.fandom.com/wiki/Sepulcher "Sepulcher")
+-   [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell")
+-   [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Falcon Watch](https://wowpedia.fandom.com/wiki/Falcon_Watch "Falcon Watch")
+-   [Garadar](https://wowpedia.fandom.com/wiki/Garadar "Garadar")
+-   [Mok'Nathal Village](https://wowpedia.fandom.com/wiki/Mok%27Nathal_Village "Mok'Nathal Village")
+-   [Stonebreaker Hold](https://wowpedia.fandom.com/wiki/Stonebreaker_Hold "Stonebreaker Hold")
+-   [Shadowmoon Village](https://wowpedia.fandom.com/wiki/Shadowmoon_Village "Shadowmoon Village")
+-   [Thrallmar](https://wowpedia.fandom.com/wiki/Thrallmar "Thrallmar")
+-   [Thunderlord Stronghold](https://wowpedia.fandom.com/wiki/Thunderlord_Stronghold "Thunderlord Stronghold")
+-   [Zabra'jin](https://wowpedia.fandom.com/wiki/Zabra%27jin "Zabra'jin")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer")
+-   [Camp Tunka'lo](https://wowpedia.fandom.com/wiki/Camp_Tunka%27lo "Camp Tunka'lo")
+-   [Conquest Hold](https://wowpedia.fandom.com/wiki/Conquest_Hold "Conquest Hold")
+-   [New Agamand](https://wowpedia.fandom.com/wiki/New_Agamand "New Agamand")
+-   [Taunka'le Village](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Vengeance Landing](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing")
+-   [Venomspite](https://wowpedia.fandom.com/wiki/Venomspite "Venomspite")
+-   [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point")
+-   [Eastwind Rest](https://wowpedia.fandom.com/wiki/Eastwind_Rest "Eastwind Rest")
+-   [Grookin Hill](https://wowpedia.fandom.com/wiki/Grookin_Hill "Grookin Hill")
+-   [Shrine of Two Moons](https://wowpedia.fandom.com/wiki/Shrine_of_Two_Moons "Shrine of Two Moons")
+-   [Thunder Cleft](https://wowpedia.fandom.com/wiki/Thunder_Cleft "Thunder Cleft")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Axefall](https://wowpedia.fandom.com/wiki/Axefall "Axefall")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Riverside Post](https://wowpedia.fandom.com/wiki/Riverside_Post "Riverside Post")
+-   [Sunsworn Camp](https://wowpedia.fandom.com/wiki/Sunsworn_Camp "Sunsworn Camp")
+-   [Vol'jin's Pride](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Pride "Vol'jin's Pride")
+-   [Vol'mar](https://wowpedia.fandom.com/wiki/Vol%27mar "Vol'mar")
+-   [Warspear](https://wowpedia.fandom.com/wiki/Warspear "Warspear")
+-   [Wor'var](https://wowpedia.fandom.com/wiki/Wor%27var "Wor'var")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Dreadwake's Landing](https://wowpedia.fandom.com/wiki/Dreadwake%27s_Landing "Dreadwake's Landing")
+-   [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Warbeast Kraal](https://wowpedia.fandom.com/wiki/Warbeast_Kraal "Warbeast Kraal")
+-   [Zeb'ahari](https://wowpedia.fandom.com/wiki/Zeb%27ahari "Zeb'ahari")
+-   [Zul'jan Ruins](https://wowpedia.fandom.com/wiki/Zul%27jan_Ruins "Zul'jan Ruins")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Diretusk Hollow](https://wowpedia.fandom.com/wiki/Diretusk_Hollow "Diretusk Hollow")
+-   [Hillcrest Pasture](https://wowpedia.fandom.com/wiki/Hillcrest_Pasture "Hillcrest Pasture")
+-   [Ironmaul Overlook](https://wowpedia.fandom.com/wiki/Ironmaul_Overlook "Ironmaul Overlook")
+-   [Krazzlefrazz Outpost](https://wowpedia.fandom.com/wiki/Krazzlefrazz_Outpost "Krazzlefrazz Outpost")
+-   [Mudfisher Cove](https://wowpedia.fandom.com/wiki/Mudfisher_Cove "Mudfisher Cove")
+-   [Stonetusk Watch](https://wowpedia.fandom.com/wiki/Stonetusk_Watch "Stonetusk Watch")
+-   [Swiftwind Post](https://wowpedia.fandom.com/wiki/Swiftwind_Post "Swiftwind Post")
+-   [Timberfell Outpost](https://wowpedia.fandom.com/wiki/Timberfell_Outpost "Timberfell Outpost")
+-   [Warfang Hold](https://wowpedia.fandom.com/wiki/Warfang_Hold "Warfang Hold")
+-   [Windfall Cavern](https://wowpedia.fandom.com/wiki/Windfall_Cavern "Windfall Cavern")
+-   [Wolf's Den](https://wowpedia.fandom.com/wiki/Wolf%27s_Den "Wolf's Den")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Beastwatch](https://wowpedia.fandom.com/wiki/Beastwatch "Beastwatch")
+-   [Camp Taurajo](https://wowpedia.fandom.com/wiki/Camp_Taurajo "Camp Taurajo")
+-   [Bloodvenom Post](https://wowpedia.fandom.com/wiki/Bloodvenom_Post "Bloodvenom Post")
+-   [Freewind Post](https://wowpedia.fandom.com/wiki/Freewind_Post "Freewind Post")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary")
+-   **Undercity**
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")
+-   [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+-   [Echo Isles](https://wowpedia.fandom.com/wiki/Echo_Isles "Echo Isles")
+-   [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore "Mulgore")
+-   [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens")
+-   [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+-   [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+    -   [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Nation of Durotar](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)") | 
+
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Rageroar clan](https://wowpedia.fandom.com/wiki/Rageroar_clan "Rageroar clan")
+    -   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan")
+    -   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan "Shattered Hand clan")
+    -   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
+    -   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan "Burning Blade clan")
+    -   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan")
+    -   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan")
+    -   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan")
+-   [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron")
+-   [Orgrimmar Legion](https://wowpedia.fandom.com/wiki/Orgrimmar_Legion "Orgrimmar Legion")
+-   [Hellscream's Vanguard](https://wowpedia.fandom.com/wiki/Hellscream%27s_Vanguard "Hellscream's Vanguard")
+-   [Hellscream's Hellions](https://wowpedia.fandom.com/wiki/Hellscream%27s_Hellions "Hellscream's Hellions")
+-   [Warsong Outriders](https://wowpedia.fandom.com/wiki/Warsong_Outriders "Warsong Outriders")
+
+
+
+ |
+|  |
+| [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") | 
+
+-   [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers")
+-   [Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers")
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society")
+-   [Queensguard](https://wowpedia.fandom.com/wiki/Queensguard "Queensguard")
+-   [Deathguard](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard")
+    -   [Dreadguard](https://wowpedia.fandom.com/wiki/Dreadguard "Dreadguard")
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council")
+-   [Blightguard](https://wowpedia.fandom.com/wiki/Blightguard "Blightguard")
+
+
+
+ |
+|  |
+| [Thunder Bluff tauren](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)") | 
+
+-   [Tauren tribes](https://wowpedia.fandom.com/wiki/Tribe#Tauren_tribes "Tribe")
+    -   [Bloodhoof tribe](https://wowpedia.fandom.com/wiki/Bloodhoof_tribe "Bloodhoof tribe")
+    -   [Ragetotem tribe](https://wowpedia.fandom.com/wiki/Ragetotem_tribe "Ragetotem tribe")
+    -   [Dawnstrider tribe](https://wowpedia.fandom.com/wiki/Dawnstrider_tribe "Dawnstrider tribe")
+    -   [Runetotem tribe](https://wowpedia.fandom.com/wiki/Runetotem_tribe "Runetotem tribe")
+    -   [Highmountain tribe](https://wowpedia.fandom.com/wiki/Highmountain_tribe_(Legends) "Highmountain tribe (Legends)")
+    -   [Skychaser tribe](https://wowpedia.fandom.com/wiki/Skychaser_tribe "Skychaser tribe")
+    -   [Thunderhorn clan](https://wowpedia.fandom.com/wiki/Thunderhorn_clan "Thunderhorn clan")
+    -   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+    -   [Stonespire tribe](https://wowpedia.fandom.com/wiki/Stonespire_tribe "Stonespire tribe")
+-   [Sunwalkers](https://wowpedia.fandom.com/wiki/Sunwalkers "Sunwalkers")
+-   [Seers](https://wowpedia.fandom.com/wiki/Seers "Seers")
+-   [Longwalkers](https://wowpedia.fandom.com/wiki/Longwalkers "Longwalkers")
+
+
+
+ |
+|  |
+| [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") | 
+
+-   [Vol'jin's Spear](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Spear "Vol'jin's Spear")
+-   [Vol'jin's Headhunters](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Headhunters "Vol'jin's Headhunters")
+-   [Siame-Quashi](https://wowpedia.fandom.com/wiki/Siame-Quashi "Siame-Quashi")
+-   [Ravasaur Trainers](https://wowpedia.fandom.com/wiki/Ravasaur_Trainers "Ravasaur Trainers")
+-   [The Headhunters](https://wowpedia.fandom.com/wiki/Headhunters_(island_expedition) "Headhunters (island expedition)")
+
+
+
+ |
+|  |
+| [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") | 
+
+-   [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights")
+-   [Sunsworn](https://wowpedia.fandom.com/wiki/Sunsworn "Sunsworn")
+-   [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters")
+-   [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders")
+-   [Blood Hawks](https://wowpedia.fandom.com/wiki/Blood_Hawks "Blood Hawks")
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury")
+-   [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary")
+-   [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+    -   [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+-   [Blazing Sunhawks](https://wowpedia.fandom.com/wiki/Blazing_Sunhawks "Blazing Sunhawks")
+
+
+
+ |
+|  |
+| [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") | 
+
+-   [Gob Squad](https://wowpedia.fandom.com/wiki/Gob_Squad "Gob Squad")
+-   [Bilgewater Battalion](https://wowpedia.fandom.com/wiki/Bilgewater_Battalion "Bilgewater Battalion")
+-   [S.H.A.R.K.](https://wowpedia.fandom.com/wiki/S.H.A.R.K. "S.H.A.R.K.")
+-   [Mergers and Acquisitions](https://wowpedia.fandom.com/wiki/Mergers_and_Acquisitions "Mergers and Acquisitions")
+-   [Dredge Fleet](https://wowpedia.fandom.com/wiki/Dredge_Fleet "Dredge Fleet")
+
+
+
+ |
+|  |
+| [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") | 
+
+-   [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)")
+-   [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch")
+-   [The Highborne](https://wowpedia.fandom.com/wiki/Highborne_(island_expedition) "Highborne (island expedition)")
+
+
+
+ |
+|  |
+| [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe") | 
+
+-   [Rivermane tribe](https://wowpedia.fandom.com/wiki/Rivermane_tribe "Rivermane tribe")
+-   [Skyhorn tribe](https://wowpedia.fandom.com/wiki/Skyhorn_tribe "Skyhorn tribe")
+
+
+
+ |
+|  |
+| [Mag'har Clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)") | 
+
+-   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan_(alternate_universe) "Blackrock clan (alternate universe)")
+-   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan_(alternate_universe) "Bleeding Hollow clan (alternate universe)")
+-   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan_(alternate_universe) "Burning Blade clan (alternate universe)")
+-   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_Orcs "Frostwolf Orcs")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_Orcs "Laughing Skull Orcs")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan_(alternate_universe) "Shadowmoon clan (alternate universe)")
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan_(alternate_universe) "Shattered Hand clan (alternate universe)")
+-   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan_(alternate_universe) "Thunderlord clan (alternate universe)")
+-   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan_(alternate_universe) "Warsong clan (alternate universe)")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan_(alternate_universe) "Stonemaul clan (alternate universe)")
+
+
+
+ |
+|  |
+| [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") | 
+
+-   [Zanchuli Council](https://wowpedia.fandom.com/wiki/Zanchuli_Council "Zanchuli Council")
+-   [Golden Fleet](https://wowpedia.fandom.com/wiki/Golden_Fleet "Golden Fleet")
+-   [Zandalari army](https://wowpedia.fandom.com/wiki/Zandalari_army "Zandalari army")
+-   [Talanji's Expedition](https://wowpedia.fandom.com/wiki/Talanji%27s_Expedition "Talanji's Expedition")
+-   [Raptari](https://wowpedia.fandom.com/wiki/Raptari "Raptari")
+-   [Rastari](https://wowpedia.fandom.com/wiki/Rastari "Rastari")
+-   [Pa'kura](https://wowpedia.fandom.com/wiki/Pa%27kura "Pa'kura")
+-   [Torcalin](https://wowpedia.fandom.com/wiki/Torcalin "Torcalin")
+-   [Lun'alai](https://wowpedia.fandom.com/wiki/Lun%27alai "Lun'alai")
+-   [Warpack](https://wowpedia.fandom.com/wiki/Warpack "Warpack")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Huojin Pandaren](https://wowpedia.fandom.com/wiki/Huojin_Pandaren "Huojin Pandaren")
+-   [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai")
+-   [Dark Talons](https://wowpedia.fandom.com/wiki/Dark_Talons "Dark Talons")
+-   [Horde navy](https://wowpedia.fandom.com/wiki/Horde_navy "Horde navy")
+-   [Garad'kra](https://wowpedia.fandom.com/wiki/Garad%27kra "Garad'kra")
+-   [Kargath Expeditionary Force](https://wowpedia.fandom.com/wiki/Kargath_Expeditionary_Force "Kargath Expeditionary Force")
+-   [Hellscream's Reach](https://wowpedia.fandom.com/wiki/Hellscream%27s_Reach "Hellscream's Reach")
+-   [Krom'gar](https://wowpedia.fandom.com/wiki/Krom%27gar "Krom'gar")
+    -   [Boulderslide kobolds](https://wowpedia.fandom.com/wiki/Boulderslide "Boulderslide")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan "Stonemaul clan")
+-   [Dunemaul clan](https://wowpedia.fandom.com/wiki/Dunemaul_clan "Dunemaul clan")
+-   [Okril'lon](https://wowpedia.fandom.com/wiki/Okril%27lon "Okril'lon")
+-   [The Mag'har](https://wowpedia.fandom.com/wiki/Mag%27har_(faction) "Mag'har (faction)")
+-   [Shatterspear tribe](https://wowpedia.fandom.com/wiki/Shatterspear_tribe "Shatterspear tribe")
+-   [Revantusk tribe](https://wowpedia.fandom.com/wiki/Revantusk_tribe "Revantusk tribe")
+-   [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition")
+    -   [Warsong Offensive](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive")
+    -   [Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance")
+        -   [Shadowstalkers](https://wowpedia.fandom.com/wiki/Shadowstalkers "Shadowstalkers")
+-   [Dominance Offensive](https://wowpedia.fandom.com/wiki/Dominance_Offensive "Dominance Offensive")
+-   [Forest Hozen](https://wowpedia.fandom.com/wiki/Forest_Hozen "Forest Hozen")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+    -   [Icemist tribe](https://wowpedia.fandom.com/wiki/Icemist_tribe "Icemist tribe")
+    -   [Winterhoof](https://wowpedia.fandom.com/wiki/Camp_Winterhoof "Camp Winterhoof")
+    -   [Oneqwah](https://wowpedia.fandom.com/wiki/Camp_Oneqwah "Camp Oneqwah")
+    -   [Taunka'le](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Horde Trauma](https://wowpedia.fandom.com/wiki/Horde_Trauma "Horde Trauma")
+-   [Honorbound](https://wowpedia.fandom.com/wiki/Honorbound "Honorbound")
+-   [Rok'nah](https://wowpedia.fandom.com/wiki/Rok%27nah "Rok'nah")
+-   [Warbraves](https://wowpedia.fandom.com/wiki/Warbraves_(island_expedition) "Warbraves (island expedition)")
+-   [Greenbelly's Raiders](https://wowpedia.fandom.com/wiki/Greenbelly%27s_Raiders "Greenbelly's Raiders")
+-   [Gazlowe's Greasemonkeys](https://wowpedia.fandom.com/wiki/Gazlowe%27s_Greasemonkeys "Gazlowe's Greasemonkeys")
+-   [Draenor's Blood](https://wowpedia.fandom.com/wiki/Draenor%27s_Blood "Draenor's Blood")
+-   [The Unshackled](https://wowpedia.fandom.com/wiki/Unshackled "Unshackled")
+-   [Usha's Eyegougers](https://wowpedia.fandom.com/wiki/Usha%27s_Eyegougers "Usha's Eyegougers")
+-   [Gorok's Sea Dogs](https://wowpedia.fandom.com/wiki/Gorok%27s_Sea_Dogs "Gorok's Sea Dogs")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire")
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Black Tooth Grin clan](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan")
+    -   [Bladewind clan](https://wowpedia.fandom.com/wiki/Bladewind_clan "Bladewind clan")
+    -   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan")
+    -   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan")
+    -   [Lightning's Blade clan](https://wowpedia.fandom.com/wiki/Lightning%27s_Blade_clan "Lightning's Blade clan")
+    -   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan")
+    -   [Stormreaver clan](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan")
+    -   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan "Thunderlord clan")
+    -   [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") (enslaved)
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Death knight orders](https://wowpedia.fandom.com/wiki/Death_knight_(Old_Horde) "Death knight (Old Horde)")
+
+
+
+ |
+|  |
+| Horde-aligned and allies | 
+
+-   [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Fogsail Freebooters](https://wowpedia.fandom.com/wiki/Fogsail_Freebooters "Fogsail Freebooters")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Dreadmaul tribe](https://wowpedia.fandom.com/wiki/Dreadmaul_tribe "Dreadmaul tribe")
+-   [Dustbelcher](https://wowpedia.fandom.com/wiki/Dustbelcher "Dustbelcher")
+-   [Magram clan](https://wowpedia.fandom.com/wiki/Magram_clan "Magram clan")
+-   [Witherbark tribe](https://wowpedia.fandom.com/wiki/Witherbark_tribe "Witherbark tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Steamwheedle Cartel](https://wowpedia.fandom.com/wiki/Steamwheedle_Cartel "Steamwheedle Cartel")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
+-   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")
+-   [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)")
+-   [Horde organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+-   [Horde technology](https://wowpedia.fandom.com/wiki/Horde_technology "Horde technology")
+-   [Horde territories](https://wowpedia.fandom.com/wiki/Category:Horde_territories "Category:Horde territories")
+
+
+
+ |

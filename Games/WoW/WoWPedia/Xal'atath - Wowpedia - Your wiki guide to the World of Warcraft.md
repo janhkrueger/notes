@@ -1,0 +1,115 @@
+_For the Legion artifact, see  ![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Inv_knife_1h_artifactcthun_d_01.png/revision/latest/scale-to-width-down/16?cb=20151208214717)[\[Xal'atath, Blade of the Black Empire\]](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire). For the BfA quest item, see  ![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Inv_knife_1h_artifactcthun_d_01.png/revision/latest/scale-to-width-down/16?cb=20151208214717)[\[Xal'atath, Blade of the Black Empire\]](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire_(quest_item))._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Xal'atath |
+| --- |
+| [![Image of Xal'atath](https://static.wikia.nocookie.net/wowpedia/images/5/53/Xal%27atath.jpg/revision/latest/scale-to-width-down/115?cb=20201028232151)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Xal%27atath.jpg/revision/latest?cb=20201028232151 "Image of Xal'atath") |
+| Title | <Blade of the Black Empire> |
+| Race | Unknown (Humanoid) |
+| Level | ?? Elite |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Location | Various |
+| Status | Active |
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Xal%27atath%2C_Blade_of_the_Black_Empire.jpg/revision/latest?cb=20160923004304)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Xal%27atath%2C_Blade_of_the_Black_Empire.jpg/revision/latest?cb=20160923004304)
+
+Xal'atath as a sentient blade.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/89/Xal%27atath_%28Freehold%29.jpg/revision/latest/scale-to-width-down/140?cb=20190811121440)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Xal%27atath_%28Freehold%29.jpg/revision/latest?cb=20190811121440)
+
+Xal'atath in Freehold.
+
+**Xal'atath** is the sentient entity once bound within [a dagger of the same name](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire "Xal'atath, Blade of the Black Empire"). Originally an artifact in _[World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_, the weapon was used by a [shadow priest](https://wowpedia.fandom.com/wiki/Shadow_priest "Shadow priest") during the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") before being abandoned. Xal'atath later freed herself from the blade in a pact with [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") by possessing a [deceased elven body](https://wowpedia.fandom.com/wiki/Inanis "Inanis"). Her present location is unknown.
+
+## Biography
+
+_Main article: [Xal'atath, Blade of the Black Empire § Biography](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire#History "Xal'atath, Blade of the Black Empire")_
+
+Xal'atath is truly ancient, dating back to the time of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")' [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire"). Theories abound as to the nature of its creation: the more outlandish claim that the blade is the remains of a forgotten Old God who was consumed by its kin, while other theories state it is the claw of [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") itself. Whatever the truth of its origin, the blade is infused with the Old Gods' power. Legends state that it can even grant its wielder visions of the Black Empire, though doing so inevitably drives the viewer mad.
+
+Xal'atath passed through many hands over the millennia, sowing chaos as it went. It was used by the [jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [Zan'do](https://wowpedia.fandom.com/wiki/Zan%27do "Zan'do") to resurrect the [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") general, [Kith'ix](https://wowpedia.fandom.com/wiki/Kith%27ix "Kith'ix"); by [Sorcerer-Thane Thaurissan](https://wowpedia.fandom.com/wiki/Sorcerer-Thane_Thaurissan "Sorcerer-Thane Thaurissan")'s wife, [Modgud](https://wowpedia.fandom.com/wiki/Modgud "Modgud"), to curse [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol"); and by the [human](https://wowpedia.fandom.com/wiki/Human "Human") [priestess](https://wowpedia.fandom.com/wiki/Priest "Priest") [Natalie Seline](https://wowpedia.fandom.com/wiki/Natalie_Seline "Natalie Seline") to study the dark secrets of the [Void](https://wowpedia.fandom.com/wiki/Void "Void").<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-1">[1]</a></sup> Eventually it found its way into the hands of the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer"), who attempted to use it to reanimate Kith'ix's fellow general [Zakajz the Corruptor](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor"). They were stopped by the [High Priest](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of [Netherlight Temple](https://wowpedia.fandom.com/wiki/Netherlight_Temple "Netherlight Temple"), who claimed the blade for themselves.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-2">[2]</a></sup> The High Priest wielded Xal'atath against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") for a time, ultimately draining much of its power to purge the [sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras") of its corrupting power in [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus").<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-3">[3]</a></sup>
+
+Xal'atath was ultimately either lost or abandoned by the High Priest, and fell into the hands of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"). When they began attacking [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") and [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), they brought the blade with them;<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-4">[4]</a></sup> [Collector Kojo](https://wowpedia.fandom.com/wiki/Collector_Kojo "Collector Kojo") came across it by accident near a makeshift altar in [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley"), and adventurers sought to use it to gain insight into the naga's plans.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-5">[5]</a></sup> Xal'atath explained that the naga sought to conjure a storm powerful enough to scour all [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") using three relics: the [Void Stone](https://wowpedia.fandom.com/wiki/Void_Stone_(quest_item) "Void Stone (quest item)"), the [Trident of Deep Ocean](https://wowpedia.fandom.com/wiki/Trident_of_Deep_Ocean_(quest_item) "Trident of Deep Ocean (quest item)"), and the [Tempest Caller](https://wowpedia.fandom.com/wiki/Tempest_Caller "Tempest Caller"). Xal'atath guided the adventurer to [Drustvar](https://wowpedia.fandom.com/wiki/Drustvar "Drustvar"), where they found the [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") [Inanis](https://wowpedia.fandom.com/wiki/Inanis "Inanis") attempting to wield the Void Stone's power. After killing her, Xal'atath drew upon the Void Stone's power and possessed Inanis's corpse.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-6">[6]</a></sup> Now in a mortal form, she helped the adventurer find the other two relics<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-7">[7]</a></sup><sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-8">[8]</a></sup> and brought them to the [Crucible of Storms](https://wowpedia.fandom.com/wiki/Crucible_of_Storms "Crucible of Storms") beneath the [Precipice of Oblivion](https://wowpedia.fandom.com/wiki/Precipice_of_Oblivion "Precipice of Oblivion").
+
+Rather than stopping the naga, however, Xal'atath offered the relics and the adventurer to [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") in exchange for her freedom. N'Zoth severed her from the [dagger](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire "Xal'atath, Blade of the Black Empire"), keeping it for himself in the bargain; Xal'atath departed through a portal, confident she would see the adventurer once more.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-9">[9]</a></sup>
+
+## Quests
+
+## Objective of
+
+## Quotes
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+_Main article: [Blade in Twilight § Notes](https://wowpedia.fandom.com/wiki/Blade_in_Twilight#Notes "Blade in Twilight")_
+
+_Main article: [Xal'atath, Blade of the Black Empire § Quotes](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire#Quotes "Xal'atath, Blade of the Black Empire")_
+
+### Battle for Azeroth
+
+#### On-click
+
+Greeting
+
+-   What do you seek?
+-   So many possibilities...
+-   Tell me what you want.
+
+Farewell
+
+-   Such magnificence awaits us.
+-   Open your mind to the whispers.
+-   The time comes... soon.
+
+#### Dialogue
+
+_Main article: [Every Little Death Helps#Notes](https://wowpedia.fandom.com/wiki/Every_Little_Death_Helps#Notes "Every Little Death Helps")_
+
+_Main article: [Every Little Death Helps (priest)#Notes](https://wowpedia.fandom.com/wiki/Every_Little_Death_Helps_(priest)#Notes "Every Little Death Helps (priest)")_
+
+_Main article: [Unintended Consequences#Notes](https://wowpedia.fandom.com/wiki/Unintended_Consequences#Notes "Unintended Consequences")_
+
+_Main article: [Unintended Consequences (priest)#Notes](https://wowpedia.fandom.com/wiki/Unintended_Consequences_(priest)#Notes "Unintended Consequences (priest)")_
+
+_Main article: [The Pirate's Treasure#Notes](https://wowpedia.fandom.com/wiki/The_Pirate%27s_Treasure#Notes "The Pirate's Treasure")_
+
+_Main article: [The Tempest Crown#Notes](https://wowpedia.fandom.com/wiki/The_Tempest_Crown#Notes "The Tempest Crown")_
+
+_Main article: [Twist the Knife#Notes](https://wowpedia.fandom.com/wiki/Twist_the_Knife#Notes "Twist the Knife")_
+
+#### Gossip
+
+Drustvar
+
+Let us hurry. The whispers grow more insistent.
+
+Freehold
+
+Are you ready for what comes next?
+
+## Notes and trivia
+
+-   In the [Patch 8.6.7.5309](https://wowpedia.fandom.com/wiki/Patch_8.6.7.5309 "Patch 8.6.7.5309") joke patch notes, Blizzard declared that Knaifu has been renamed "[Bae](https://www.urbandictionary.com/define.php?term=B%C3%A6) [Blade](http://en.wikipedia.org/wiki/Beyblade_(toy) "wikipedia:Beyblade (toy)")." Blizzard has also used the term "knife friend".<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-11">[11]</a></sup>
+
+-   Her _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ voice uses the model of [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and of a [human](https://wowpedia.fandom.com/wiki/Human "Human") female that can only be seen in the model viewer.
+-   Xal'atath is voiced by [Claudia Christian](https://wowpedia.fandom.com/wiki/Claudia_Christian "Claudia Christian").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Xal%27atath#cite_note-12">[12]</a></sup>
+-   The name of this dagger is similar, and may be a reference, to that of Xel'lotath, one of the Ancients in [Eternal Darkness: Sanity's Requiem](http://en.wikipedia.org/wiki/Eternal_Darkness "wikipedia:Eternal Darkness"), whose main power is in driving her enemies mad by whispering to them.
+
+## Videos
+
+-   [The Story of Xal'atath, Blade of the Black Empire](https://wowpedia.fandom.com/wiki/Xal%27atath#)
+
+## Patch changes
+
+-   [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") **[Patch 8.1.5](https://wowpedia.fandom.com/wiki/Patch_8.1.5 "Patch 8.1.5") (2019-03-12):** Added.  
+    
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Xal%27atath#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Xal%27atath#t1:npcs)
+
+Others like you also viewed

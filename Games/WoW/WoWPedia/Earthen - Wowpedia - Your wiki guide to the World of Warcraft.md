@@ -1,0 +1,355 @@
+| Earthen |
+| --- |
+| [![Earthen Statue.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Earthen_Statue.jpg/revision/latest/scale-to-width-down/200?cb=20151114114254)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Earthen_Statue.jpg/revision/latest?cb=20151114114254) |
+| Faction/Affiliation | [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), [Kurun](https://wowpedia.fandom.com/wiki/Kurun "Kurun"), [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
+| Racial capital | [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") ([Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"))  
+[Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") ([Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"))  
+[Stonehearth](https://wowpedia.fandom.com/wiki/Stonehearth "Stonehearth") ([Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm")) |
+| Racial leader(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_EarthenNorth.gif/revision/latest/scale-to-width-down/16?cb=20200520104145)[Bouldercrag the Rockshaper](https://wowpedia.fandom.com/wiki/Bouldercrag_the_Rockshaper "Bouldercrag the Rockshaper")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/IconSmall_WoodGiant.gif/revision/latest/scale-to-width-down/16?cb=20211129173128)[Kurun](https://wowpedia.fandom.com/wiki/Kurun "Kurun")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_EarthenNorth.gif/revision/latest/scale-to-width-down/16?cb=20200520104145)[Stonefather Oremantle](https://wowpedia.fandom.com/wiki/Stonefather_Oremantle "Stonefather Oremantle") |
+| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Language(s) | [Titan](https://wowpedia.fandom.com/wiki/Titan_(language) "Titan (language)") |
+| Organization(s) | [Clans](https://wowpedia.fandom.com/wiki/Clan "Clan")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-1">[1]</a></sup> |
+
+The **earthen** (sometimes referred to as **earthen dwarves**<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-2">[2]</a></sup> or early **dwarves**)<sup id="cite_ref-WC3_79_3-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-WC3_79-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-4">[4]</a></sup> are stony [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") beings that were created by the [Titanic Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") to help shape the subterranean regions of the world during the ordering of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Succumbing to the [curse of flesh](https://wowpedia.fandom.com/wiki/Curse_of_flesh "Curse of flesh"), most of the earthen became mortal creatures of flesh and blood known as [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"). There remains a sizable population of earthen in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") and [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar").
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Frost_giant_and_earthen.jpg/revision/latest/scale-to-width-down/180?cb=20150824075504)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Frost_giant_and_earthen.jpg/revision/latest?cb=20150824075504)
+
+A [frost giant](https://wowpedia.fandom.com/wiki/Frost_giant "Frost giant") and a group of earthen
+
+### Origins
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Bouldercrag_the_Rockshaper.jpg/revision/latest/scale-to-width-down/180?cb=20160215171540)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Bouldercrag_the_Rockshaper.jpg/revision/latest?cb=20160215171540)
+
+Earthen (Northrend & Deepholm)
+
+Following the war with the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"), the [titan keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") used the [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills") to create new [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") races to help them reshape and order the world. Yet their first designs proved too complex and overambitious. Rather than making the perfect servants, they had created stone-skinned savages known as [troggs](https://wowpedia.fandom.com/wiki/Stone_trogg "Stone trogg"). The keepers quickly refined and perfected their designs. The craggy, kindhearted earthen were the next generation of titan-forged to emerge from the Forge of Wills, created from [magical](https://wowpedia.fandom.com/wiki/Magic "Magic"), living stone.<sup id="cite_ref-WC3_79_3-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-WC3_79-3">[3]</a></sup> The keepers were troubled by the troggs, but they could not bear to destroy them. Instead, the [titanic watcher](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya") built a small subterranean vault known as [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") that would act as a stasis chamber for them. Other new titan-forged races were the clockwork [mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome"), the stone-skinned [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu"), the iron-skinned [vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul") and the chiseled [tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir"). The earthen would specialize in crafting mountains and carving out the deep places of the world.<sup id="cite_ref-Chronicle_5-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup><sup id="cite_ref-LKoN_6-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LKoN-6">[6]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Earthen_Rocksmasher.jpg/revision/latest/scale-to-width-down/180?cb=20150822083912)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Earthen_Rocksmasher.jpg/revision/latest?cb=20150822083912)
+
+Earthen (Eastern Kingdoms & Kalimdor)
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Earthencomp.jpg/revision/latest/scale-to-width-down/180?cb=20090306193105)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Earthencomp.jpg/revision/latest?cb=20090306193105)
+
+Various Earthen
+
+Created by the titans themselves, [Val'anyr, Hammer of Ancient Kings](https://wowpedia.fandom.com/wiki/Val%27anyr,_Hammer_of_Ancient_Kings "Val'anyr, Hammer of Ancient Kings") was given to the first earthen king, [Urel Stoneheart](https://wowpedia.fandom.com/wiki/Urel_Stoneheart "Urel Stoneheart"). With the hammer, he was to create and give life to the rest of his brethren.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-7">[7]</a></sup> Val'anyr was eventually shattered during the [first war between the earthen and the iron dwarves](https://wowpedia.fandom.com/wiki/First_war_between_the_earthen_and_the_iron_dwarves "First war between the earthen and the iron dwarves").
+
+### Exiled from Ulduar
+
+Keeper [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") had fallen under the Old God [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")'s sway, and taken control of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") and Ulduar's servant [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged"). But he had banished a great number of his servants to the [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks") and sealed the fortress of Ulduar. For many ages after Loken's betrayal the titan-forged who were exiled from Ulduar spread across northern Kalimdor, with the earthen tunneled into the deep places of the world, where they fought for dominance against the misshapen and brutish troggs.<sup id="cite_ref-Chronicle_5-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup> And so after the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")'s departure, the earthen were largely unconcerned with the affairs of the surface-dwelling races and longed only to plumb the dark depths of the earth.<sup id="cite_ref-IAotD_8-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup>
+
+During the [Winterskorn War](https://wowpedia.fandom.com/wiki/Winterskorn_War "Winterskorn War") the massive Winterskorn army marched first against the good-natured earthen, storming their underground lairs. The earthen foes were led by fire giants [Volkhan](https://wowpedia.fandom.com/wiki/Volkhan "Volkhan") and [Ignis](https://wowpedia.fandom.com/wiki/Ignis "Ignis") and consisted of the [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan") [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") and newly molded powerful molten golems and iron constructs designed by the fire giants. The earthen were unprepared for such an organized force, entire caverns were massacred to the last living creature. A small group of survivors escaped and sought out [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr"), [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas"), and [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya") who had eluded Loken's wrath. Tyr and his allies immediately journeyed in aid to the earthen's cavernous home, and in time the earthen and their allies drove back the Winterskorn. The fire giants next enslaved entire flights of [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") with enchanted snares with which the Winterskorn army shattered the earthen's defenses and scattered them across the icy mountain passes. The earthen were hunted by vrykul and golems on the ground and proto-dragons from the sky. Even Tyr was forced to flee, knowing that he and his allies could not defeat the Winterskorn alone he called on the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") for help. The Aspects enraged by these events unleashed their power on the Winterskorn's iron ranks and brought a decisive end to the conflict.
+
+With the Winterskorn defeated the titan titan-forged were still divided, Tyr and his allies Archaedas and Ironaya stole the [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon") from Loken and gathered great numbers of titan-forged who dwelled around Ulduar and whom they saw as innocent victims of Loken's treachery. Most of the surviving earthen, a large group of peaceful vrykul afflicted by the curse of flesh, and many of the mechagnomes agreed to flee with them southward in preparation for their next move. They traveled for weeks until they reached what would one day become known as the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). It is here that Tyr sacrificed himself fighting a [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") monstrosity in order to allow the rest of the titan-forged to flee further south. The vrykul were so moved by the keeper's deeds that they decided to settle at the battle site and stand vigil over his grave until the end of days, while the earthen with Archaedas, Ironaya, and mechagnomes continued south until they reached the easternmost titan-forged vault on Kalimdor, [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman"). The keeper and the giantess expanded the site, carving out new chambers.<sup id="cite_ref-Chronicle_5-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup>
+
+### Curse of Flesh and hibernation
+
+As years passed, some of the earthen in Uldaman exhibited signs of the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh"). Fearing that the effects would only worsen, they asked to be placed in hibernation until a cure could one day be found. Archaedas agreed, promising to rouse them at some time in the future. He sealed his followers within the vast subterranean vaults. The mechagnomes, however, remained awake. Even though they knew the curse would one day overtake them as well, they heroically vowed to watch over the facility and maintain its wondrous machineries. A small number of the earthen had chosen not to be placed in stasis as well, deciding that they would watch over and maintain the facility alongside their mechagnomes companions.
+
+The earthen largely kept to themselves. They were unconcerned with the activities of the world's other races as new civilizations arose across Azeroth. Some earthen remained isolated underneath the icy mountains of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Those who came south with Keeper Archaedas and the watcher Ironaya continued to dwell or slumber within the catacomb vaults of Uldaman.<sup id="cite_ref-Chronicle_5-3"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup> Some of the earthen came to conflict against the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), but were defeated by the military power of the [House of Ravencrest](https://wowpedia.fandom.com/wiki/House_of_Ravencrest "House of Ravencrest").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-9">[9]</a></sup> The night elves came to use the derogatory term of "dwarf" to refer to those earthen.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-10">[10]</a></sup>
+
+### War of the Ancients
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Earthen_Crusher_full.jpg/revision/latest/scale-to-width-down/180?cb=20220301025621)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Earthen_Crusher_full.jpg/revision/latest?cb=20220301025621)
+
+An earthen ally of night elves in the War of the Ancients.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-11">[11]</a></sup>
+
+When the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") invaded [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), many other clans of earthen led by [Dungard Ironcutter](https://wowpedia.fandom.com/wiki/Dungard_Ironcutter "Dungard Ironcutter") were convinced to join the resistance against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") by [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"), or alternately by the dragon-mage [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus") when he traveled in time, even while [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") looked down upon other races. It was a reluctant truce, as the earthen were called in by Krasus in defiance of the xenophobic commander [Desdel Stareye](https://wowpedia.fandom.com/wiki/Desdel_Stareye "Desdel Stareye"). The earthen were initially put to the outskirts of the host, but after Stareye's demise, their warriors were put to their best use under the new commander, [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-12">[12]</a></sup><sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-13">[13]</a></sup>
+
+### Sundering and further hibernation
+
+When the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") tore through Azeroth, many of the active earthen reeled from the catastrophe. They felt the pain of the broken world as their own. They tunneled deep within Uldaman and locked themselves away within the hibernation chambers alongside their sleeping brethren.
+
+Only the mechagnomes remained to watch over the facility. Yet they, too, eventually succumbed to the curse of flesh, causing them to turn into fleshy beings later known as [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome"). Physically and mentally debilitated, they lost all sense of purpose and left the halls of Uldaman. Only a handful of mechagnomes stayed in the facility, still driven by their titan-forged imperative. They gradually succumbed to the degradations of time until only one was left. This lone clockwork servant did her best to maintain Uldaman, until the curse of flesh began to chip away at her metallic form as well. Aware that she did not have much time left, the gnome worked to free the still-slumbering earthen. With her dying breath, she activated the hibernation chambers.<sup id="cite_ref-Chronicle_5-4"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup>
+
+### Awakening as dwarves
+
+The awakened earthen found that they had changed dramatically. Their rocky hides had softened and become smooth skin, they had become mortal creatures of flesh and blood. Calling themselves [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"), the last of the earthen left the halls of Uldaman and ventured out into the waking world. They found themselves drawn to the west, where a range of majestic stone mountains towered into the clouds. Settling in the snowy region of [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh"), and still lulled by the safety and wonders of the deep places, they founded a vast kingdom under the highest mountain in the land and named their land _[Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan")_, or "Mountain of Khaz", in honor of the titan [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth"). They delved into the heart of Khaz Modan's tallest mountain and crafted an immense forge, around which they built a proud city called [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge").<sup id="cite_ref-Chronicle_5-5"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup><sup id="cite_ref-IAotD_8-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup>
+
+## Physiology
+
+The earthen's design maximizes strength and stamina without sacrificing cognitive processing power. The earthen's physical features are that of a smaller stature humanoid, though their composition is that of Azeroth's various stone core compounds. As such, they do not bleed.<sup id="cite_ref-bleed_14-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-bleed-14">[14]</a></sup> Their skin and musculature are nearly impervious to physical damage, and with very minor modifications the earthen display a remarkable resiliency to unwanted magical forces.<sup id="cite_ref-LKoN_6-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LKoN-6">[6]</a></sup> Despite this, they are still capable of being mortally wounded.<sup id="cite_ref-bleed_14-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-bleed-14">[14]</a></sup> Their beards are actually an intricate series of mineral growths. Some of them like to smoke pipes.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-15">[15]</a></sup>
+
+## Groups of earthen
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Earthen_Guardian_-_Silithus.jpg/revision/latest/scale-to-width-down/200?cb=20180718215734)](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Earthen_Guardian_-_Silithus.jpg/revision/latest?cb=20180718215734)
+
+[Earthen Guardians](https://wowpedia.fandom.com/wiki/Earthen_Guardian "Earthen Guardian") located in [Magni's Encampment](https://wowpedia.fandom.com/wiki/Magni%27s_Encampment "Magni's Encampment") in [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus") appear to be infused with [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite").
+
+### Uldaman
+
+_Main article: [#Awakening](https://wowpedia.fandom.com/wiki/Earthen#Awakening)_
+
+The Uldaman facility is one of the facilities that the earthen were sealed in.<sup id="cite_ref-IAotD_8-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup> It came to contain destabilized earthen, and the original stony variant. The stone earthen remain there to this day. The facility also contains the [Stonevault](https://wowpedia.fandom.com/wiki/Stonevault "Stonevault") troggs.
+
+### Ulduar
+
+Ulduar is one of the ancient titan cities where the earthen first took shape and form. It is said that after the War of the Ancients earthen reeled with the pain of the earth itself and lost much of their identity and sealed themselves within the city's stone chambers.<sup id="cite_ref-IAotD_8-3"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup> The earthen of Ulduar are currently led by [Bouldercrag the Rockshaper](https://wowpedia.fandom.com/wiki/Bouldercrag_the_Rockshaper "Bouldercrag the Rockshaper"). They seem to be a subrace of earthen made of  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Inv_misc_powder_iron.png/revision/latest/scale-to-width-down/16?cb=20070120142942)[\[Enchanted Earth\]](https://wowpedia.fandom.com/wiki/Enchanted_Earth) (which may give them their unique look).<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-16">[16]</a></sup> These earthen are incapable of bleeding.<sup id="cite_ref-Find_Kurun!_17-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Find_Kurun!-17">[17]</a></sup> They were forced out of their home by the [iron dwarves](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf"), with whom they are at war. [Kurun](https://wowpedia.fandom.com/wiki/Kurun "Kurun"), a [stone giant](https://wowpedia.fandom.com/wiki/Stone_giant "Stone giant") leads the earthen in [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills") in their war.
+
+It is speculated that these earthen are the ones made by the [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills"), and are immune to the Curse of Flesh.
+
+### Uldum
+
+Uldum is one of the ancient titan cities where the earthen first took shape and form. It is said that after the War of the Ancients earthen reeled with the pain of the earth itself and lost much of their identity and sealed themselves within the city's stone chambers.<sup id="cite_ref-IAotD_8-4"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup> Earthen, like the [Sandstone Earthen](https://wowpedia.fandom.com/wiki/Sandstone_Earthen "Sandstone Earthen"), exist in its [Tanaris](https://wowpedia.fandom.com/wiki/Tanaris "Tanaris") section, but no others can be found in the zone. See the Deepholm section below.
+
+### Stonetalon
+
+Besides the ones near Uldum, only [Goggeroc](https://wowpedia.fandom.com/wiki/Goggeroc "Goggeroc") has been seen in Kalimdor.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-18">[18]</a></sup> The [Resonite Crystals](https://wowpedia.fandom.com/wiki/Resonite_Crystal "Resonite Crystal") from [Boulderslide Ravine](https://wowpedia.fandom.com/wiki/Boulderslide_Ravine "Boulderslide Ravine") in [Stonetalon](https://wowpedia.fandom.com/wiki/Stonetalon "Stonetalon") contain Earthen magic.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-19">[19]</a></sup>
+
+### Deepholm
+
+Earthen, appearing similar to the Ulduar type, as opposed to the other earthen, can be found in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), the elemental plane of earth. They are led by [Stonefather Oremantle](https://wowpedia.fandom.com/wiki/Stonefather_Oremantle "Stonefather Oremantle"), and are battling the [stone troggs](https://wowpedia.fandom.com/wiki/Stone_trogg "Stone trogg").
+
+The earthen and the stone troggs somehow found their way to Deepholm through Uldum more than fifteen thousand years ago. They've been warring ever since.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-20">[20]</a></sup> They may have come through the portal to Uldum there.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-21">[21]</a></sup>
+
+## Notable
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Dungard_Ironcutter.jpg/revision/latest/scale-to-width-down/180?cb=20151122143154)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Dungard_Ironcutter.jpg/revision/latest?cb=20151122143154)
+
+[Dungard Ironcutter](https://wowpedia.fandom.com/wiki/Dungard_Ironcutter "Dungard Ironcutter") earthen spokesman during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").
+
+| Name | Role | Status | Location |
+| --- | --- | --- | --- |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Urel Stoneheart](https://wowpedia.fandom.com/wiki/Urel_Stoneheart "Urel Stoneheart") | First king of the earthen, wielder of  ![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Inv_mace_99.png/revision/latest/scale-to-width-down/16?cb=20090228101257)[\[Val'anyr, Hammer of Ancient Kings\]](https://wowpedia.fandom.com/wiki/Val%27anyr,_Hammer_of_Ancient_Kings) | Deceased | Unknown |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Bouldercrag the Rockshaper](https://wowpedia.fandom.com/wiki/Bouldercrag_the_Rockshaper "Bouldercrag the Rockshaper") | Leader of the [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") earthen | Alive | [Bouldercrag's Refuge](https://wowpedia.fandom.com/wiki/Bouldercrag%27s_Refuge "Bouldercrag's Refuge"), [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Dungard Ironcutter](https://wowpedia.fandom.com/wiki/Dungard_Ironcutter "Dungard Ironcutter") | Earthen spokesman during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") | Unknown | Unknown |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Stonefather Oremantle](https://wowpedia.fandom.com/wiki/Stonefather_Oremantle "Stonefather Oremantle") | Leader of the [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm") earthen | Alive | [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Flint Oremantle](https://wowpedia.fandom.com/wiki/Flint_Oremantle "Flint Oremantle") | Son of [Stonefather Oremantle](https://wowpedia.fandom.com/wiki/Stonefather_Oremantle "Stonefather Oremantle") | Alive | [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Goggeroc](https://wowpedia.fandom.com/wiki/Goggeroc "Goggeroc") | Slumbering in [Boulderslide Ravine](https://wowpedia.fandom.com/wiki/Boulderslide_Ravine "Boulderslide Ravine") | Removed | Formerly [Boulderslide Ravine](https://wowpedia.fandom.com/wiki/Boulderslide_Ravine "Boulderslide Ravine"), [Stonetalon Mountains](https://wowpedia.fandom.com/wiki/Stonetalon_Mountains "Stonetalon Mountains") |
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+The titans created two caretaker races to watch over and help reshape the world. The dwarves are placed in charge of maintaining the earth, while the sea giants watch over the waters.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-22">[22]</a></sup> The titans created the earthen to watch over the realms deep within the ground.<sup id="cite_ref-APG_140_23-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-APG_140-23">[23]</a></sup>
+
+The [troggs](https://wowpedia.fandom.com/wiki/Trogg "Trogg") were the mistaken first attempt at crafting a mortal race of guardians from living stone for Azeroth. When the titans saw how brutal and misshapen the troggs were, they buried them in the northern vault of [Bael Modan](https://wowpedia.fandom.com/wiki/Bael_Modan "Bael Modan") (and other locations). The titan scientists referred to the successful second race experiment as [Series Two](https://wowpedia.fandom.com/wiki/Series_Two "Series Two"). Series Two were the successful conclusion of the titan's experiments, called "earthen" in ancient times.<sup id="cite_ref-HPG_242_24-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-HPG_242-24">[24]</a></sup>
+
+Long thought to be merely myth, the troggs were the titans' first attempt at creating a race. The second attempt, entirely successful, produced the dwarves. Rather than destroy the troggs, the titans locked them deep beneath the earth where they slept for untold generations.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-25">[25]</a></sup>
+
+Before the War of the Ancients, the dwarves are just beginning to develop their traditions and make the earliest of the technological innovations that will revolutionize the world.<sup id="cite_ref-LoC_17_26-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LoC_17-26">[26]</a></sup> Tinkers and even simple technology (phlogiston and gunpowder have yet to be discovered) are exceedingly rare in these days, found mostly among the dwarves.<sup id="cite_ref-LoC_17_26-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LoC_17-26">[26]</a></sup>
+
+During the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the dwarves sealed the gates of their underground cities, leaving the Kaldorei to face the demons on their own.<sup id="cite_ref-LoC_17_26-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LoC_17-26">[26]</a></sup> However, the night elves remember the dwarf race from their most ancient days, back before they were called "dwarves." They know that although their two races never had much contact, the earthen fought against the demons in both the War of the Ancients.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-27">[27]</a></sup> An underground war was fought by the earthen in the shadows to prevent the return of the demons to the world of the living.<sup id="cite_ref-LOC_16_28-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LOC_16-28">[28]</a></sup> The Kaldorei were known to the earthen. In the early histories of dwarves, the Kaldorei are shadowy figures of dark perfection wielding incredible god-like powers.<sup id="cite_ref-LoC_17_26-3"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LoC_17-26">[26]</a></sup>
+
+When the Well collapsed, it took the world with it. Even in their distant fortresses, far from the Well, the dwarves feared for their lives as the very rocks around them shifted and crawled as though they were living creatures.<sup id="cite_ref-LoC_17_26-4"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LoC_17-26">[26]</a></sup>
+
+Something happened to change the earthen, though, and they turned mortal, as they are now. Maybe it was the result of the War of the Ancients.<sup id="cite_ref-APG_140_23-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-APG_140-23">[23]</a></sup>
+
+They emerged into the world and wandered about, searching for a home.<sup id="cite_ref-APG_140_23-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-APG_140-23">[23]</a></sup>
+
+The race of dwarves awakened and emerged from the expansive titan-created city of Uldaman, located deep beneath the earth. They call their new civilization Khaz Modan.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-29">[29]</a></sup>
+
+At this point, the dwarves have "awakened" from ancient times, shaken deeply by the Sundering and forgetting much of what they were as a race. Emerging from beneath the earth, they begin to explore their surroundings. Yet they no longer have skin of stone, but are flesh like other races — losing all knowledge of their racial heritage, especially knowledge of the titans who created them and of their purpose (to shape the world).<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-30">[30]</a></sup>
+
+Dwarven history tells little of this period. Except for occasional armed expeditions from one clanhold to another, they sealed themselves underground. They neither knew nor cared what went on outside their mountain homes.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-31">[31]</a></sup>
+
+They have stone hides (or "rock skin") and are more "elemental" in nature.<sup id="cite_ref-LOC_16_28-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LOC_16-28">[28]</a></sup> They do not need to breathe and can tunnel around without shovels or picks.<sup id="cite_ref-APG_140_23-3"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-APG_140-23">[23]</a></sup> They are immortal.<sup id="cite_ref-APG_140_23-4"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-APG_140-23">[23]</a></sup>
+
+[Khaz'Goroth](https://wowpedia.fandom.com/wiki/Khaz%27Goroth "Khaz'Goroth") was the facility overseer of the facility near Bael Modan nearly 100,000 years ago. His scientists began the first series of experiments to create a race of stone, known as the "earthen". What was made here turned into troggs. When the titans saw how brutal and misshapen the troggs were, they buried them in the northern vault of the facility.<sup id="cite_ref-HPG_242_24-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-HPG_242-24">[24]</a></sup>
+
+Most pre-Sundering history was later forgotten as the earthen entered their slumber, and changed into the beings they are now. [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") states in one of his books that when the humans first met the dwarves they just simply called them dwarves.
+
+> Back when we created Ironforge we had no idea that anyone else existed in the world. We didn’t even have a written language — everything was handed down by word of mouth. Naturally, facts became legends and legends became forgotten. The early dwarves were so busy mining and smithing their little hearts out that remembering the past just didn’t seem all that important. They got very, very good at smelting ore and making things, but that was about it. However, from what we know of those early days, my people were happy. Then, one day, a couple thousand years ago or so, the first humans appeared at the gates of Ironforge. We know this because human written tales of the day tell of the race of short, stocky, bearded master smiths who shared a great love of crafting and storytelling. Dwarves, they called us, and thus we are known today, even though at the time we didn’t know the word literally meant “diminutive.” Ah well, it could be worse — they could’ve called us "beard-men" or "rockheads" or something like that.<sup id="cite_ref-APG_140_23-5"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-APG_140-23">[23]</a></sup>
+
+## Notes and trivia
+
+-   The script of  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Inv_misc_book_16.png/revision/latest/scale-to-width-down/16?cb=20100703183406)[\[Ancient Journal\]](https://wowpedia.fandom.com/wiki/Ancient_Journal) is referred to as ancient earthen.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-32">[32]</a></sup>
+-   Before the War of the Ancients, the term "dwarf" was used as a derogatory term by the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") towards the earthen.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-33">[33]</a></sup>
+-   Some [Lunar Festival Elders](https://wowpedia.fandom.com/wiki/Lunar_Festival_Elders "Lunar Festival Elders") such as [Elder Bronzebeard](https://wowpedia.fandom.com/wiki/Elder_Bronzebeard "Elder Bronzebeard") ([Bronzebeard](https://wowpedia.fandom.com/wiki/Bronzebeard_clan "Bronzebeard clan")), [Elder Ironband](https://wowpedia.fandom.com/wiki/Elder_Ironband "Elder Ironband") ([Dark Iron](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")) and [Elder Firebeard](https://wowpedia.fandom.com/wiki/Elder_Firebeard "Elder Firebeard") ([Wildhammer](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")), are earthen. This may suggest that the [dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") clans started as earthen ones.
+-   Previous lore had different origins for the earthen, dwarves, and troggs. According to the [Lore Keeper of Norgannon](https://wowpedia.fandom.com/wiki/Lore_Keeper_of_Norgannon "Lore Keeper of Norgannon"), earthen afflicted with the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh") would turn either into troggs, or dwarves.<sup id="cite_ref-LKoN_6-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-LKoN-6">[6]</a></sup> According to the [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages"), the earthen were created before the Old Gods were imprisoned. When they were cursed with flesh, the Forge of Wills was created to churn out new earthen, and the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") were appointed. Then [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") put the original earthen into stasis, and they eventually woke up millennia later as dwarves.<sup id="cite_ref-ToA_34-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-ToA-34">[34]</a></sup> According to [Ironforge - the Awakening of the Dwarves](https://wowpedia.fandom.com/wiki/Ironforge_-_the_Awakening_of_the_Dwarves "Ironforge - the Awakening of the Dwarves"), the earthen sealed themselves within multiple facilities ([Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman"), [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum"), [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")...) instead of just Uldaman following the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").<sup id="cite_ref-IAotD_8-5"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup> _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_ later retconned and clarified the events and timeline as detailed in the rest of the article.
+
+## Speculation
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Brandig.jpg/revision/latest/scale-to-width-down/200?cb=20160215170853)](https://static.wikia.nocookie.net/wowpedia/images/4/40/Brandig.jpg/revision/latest?cb=20160215170853)
+
+The [Frostborn](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn") model is a recolored earthen model, including the head gem
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+### Frostborn
+
+The [frostborn](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn") use recolored earthen models. It is thus unsure if they are actually icy earthen, or dwarves who have adapted to their environment. They are however referred to as "frost dwarves" and, contrary to earthen,<sup id="cite_ref-bleed_14-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-bleed-14">[14]</a></sup> are capable of bleeding.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-35">[35]</a></sup> Brann makes note that they originated from Earthen in his titan-forged chart, and the Frostborn also make note of their heritage.
+
+## See also
+
+-   [Subterranean being matrix](https://wowpedia.fandom.com/wiki/Subterranean_being_matrix "Subterranean being matrix")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-1) _[The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")_, chapter 1
+2.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-2) [Sjonnir The Ironshaper](https://wowpedia.fandom.com/wiki/Sjonnir_The_Ironshaper "Sjonnir The Ironshaper")'s dungeon journal.
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-WC3_79_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-WC3_79_3-1">b</a></sup> [Warcraft III: Reign of Chaos Game Manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual"), pg. 79 - 80: _"The Titans empowered a number of races to help them fashion the world. To help them dredge out the fathomless caverns beneath the earth, they created the dwarves from magical, living stone."_
+4.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-4) [War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-Chronicle_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-Chronicle_5-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-Chronicle_5-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-Chronicle_5-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-Chronicle_5-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-Chronicle_5-5">f</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LKoN_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LKoN_6-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LKoN_6-2">c</a></sup> [Lore Keeper of Norgannon](https://wowpedia.fandom.com/wiki/Lore_Keeper_of_Norgannon "Lore Keeper of Norgannon")
+7.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-7) [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-IAotD_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-IAotD_8-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-IAotD_8-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-IAotD_8-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-IAotD_8-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-IAotD_8-5">f</a></sup> [Ironforge - the Awakening of the Dwarves](https://wowpedia.fandom.com/wiki/Ironforge_-_the_Awakening_of_the_Dwarves "Ironforge - the Awakening of the Dwarves")
+9.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-9) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, chapter 18
+10.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-10) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, chapter 1
+11.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-11) Earthen Crusher TCG card flavor text: "Dungard Ironcutter enlisted his earthen brethren to aid the night elves against the Burning Legion."
+12.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-12) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, chapter ??
+13.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-13) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 104
+14.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-bleed_14-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-bleed_14-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-bleed_14-2">c</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Find Kurun!](https://wowpedia.fandom.com/wiki/Find_Kurun!)
+15.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-15) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 14
+16.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-16)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [Rare Earth](https://wowpedia.fandom.com/wiki/Rare_Earth_(quest))
+17.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-Find_Kurun!_17-0)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Find Kurun!](https://wowpedia.fandom.com/wiki/Find_Kurun!)
+18.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-18)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[20\] [Earthen Arise](https://wowpedia.fandom.com/wiki/Earthen_Arise)
+19.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-19)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[18\] [Boulderslide Ravine](https://wowpedia.fandom.com/wiki/Boulderslide_Ravine_(quest))
+20.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-20)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [To Stonehearth's Aid](https://wowpedia.fandom.com/wiki/To_Stonehearth%27s_Aid)
+21.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-21)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[30-35\] [The Wrong Sequence](https://wowpedia.fandom.com/wiki/The_Wrong_Sequence)
+22.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-22) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 30
+23.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-APG_140_23-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-APG_140_23-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-APG_140_23-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-APG_140_23-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-APG_140_23-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-APG_140_23-5">f</a></sup> _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 140
+24.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-HPG_242_24-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-HPG_242_24-1">b</a></sup> _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 242
+25.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-25) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 66
+26.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LoC_17_26-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LoC_17_26-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LoC_17_26-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LoC_17_26-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LoC_17_26-4">e</a></sup> _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 17
+27.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-27) _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 169
+28.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LOC_16_28-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_ref-LOC_16_28-1">b</a></sup> _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 16
+29.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-29) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 31
+30.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-30) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 19
+31.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-31) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 18
+32.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-32)   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) [![Jewelcrafting](https://static.wikia.nocookie.net/wowpedia/images/6/61/ProfIcons_jewelcrafting.png/revision/latest/scale-to-width-down/15?cb=20190327212138)](https://wowpedia.fandom.com/wiki/Jewelcrafting "Jewelcrafting") \[50\] [A Rocky Start](https://wowpedia.fandom.com/wiki/A_Rocky_Start)
+33.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-33) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 15
+34.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-ToA_34-0) [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+35.  [^](https://wowpedia.fandom.com/wiki/Earthen#cite_ref-35) [Frostborn Scout#Quotes](https://wowpedia.fandom.com/wiki/Frostborn_Scout#Quotes "Frostborn Scout")
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Titanic_creations "Template:Titanic creations")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Titanic_creations?action=edit)
+
+Sapient [titanic creations](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged")
+
+
+
+ |
+| --- |
+|  |
+| **Earthen**  
+related | 
+
+-   [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+    -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
+    -   [Wildhammer](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf")
+    -   [Dark Iron](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")
+    -   [![WoW-novel-logo-16x62.png](https://static.wikia.nocookie.net/wowpedia/images/d/d0/WoW-novel-logo-16x62.png/revision/latest?cb=20080902025649)](https://wowpedia.fandom.com/wiki/Novels "Novels") [Hill](https://wowpedia.fandom.com/wiki/Hill_dwarf "Hill dwarf")
+    -   [![WoW-novel-logo-16x62.png](https://static.wikia.nocookie.net/wowpedia/images/d/d0/WoW-novel-logo-16x62.png/revision/latest?cb=20080902025649)](https://wowpedia.fandom.com/wiki/Novels "Novels") [Mountain](https://wowpedia.fandom.com/wiki/Mountain_dwarf "Mountain dwarf")
+-   **Earthen**
+-   [Frostborn](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
+-   [Grummle](https://wowpedia.fandom.com/wiki/Grummle "Grummle")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+    -   [Snobold](https://wowpedia.fandom.com/wiki/Snobold "Snobold")
+-   [Skardyn](https://wowpedia.fandom.com/wiki/Skardyn "Skardyn")
+-   [Trogg](https://wowpedia.fandom.com/wiki/Trogg "Trogg")
+    -   [Stone](https://wowpedia.fandom.com/wiki/Stone_trogg "Stone trogg")
+
+
+
+ |
+|  |
+| [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Fire giant](https://wowpedia.fandom.com/wiki/Fire_giant "Fire giant")
+-   [Frost giant](https://wowpedia.fandom.com/wiki/Frost_giant "Frost giant")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Sea giant](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant")
+-   [Stone giant](https://wowpedia.fandom.com/wiki/Stone_giant "Stone giant")
+    -   [Colossi](https://wowpedia.fandom.com/wiki/Colossus "Colossus")
+    -   [Ice](https://wowpedia.fandom.com/wiki/Ice_giant "Ice giant")
+    -   [Mountain](https://wowpedia.fandom.com/wiki/Mountain_giant "Mountain giant")
+-   [Storm giant](https://wowpedia.fandom.com/wiki/Storm_giant "Storm giant")
+-   [Titanic watcher](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher")
+
+
+
+ |
+|  |
+| [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") | 
+
+-   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Drust](https://wowpedia.fandom.com/wiki/Drust "Drust")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frost_vrykul "Frost vrykul")
+    -   [Kvaldir](https://wowpedia.fandom.com/wiki/Kvaldir "Kvaldir")
+    -   [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr")
+
+
+
+ |
+|  |
+| [Gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") | 
+
+-   [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+    -   [Mechagon](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")
+    -   [Leper](https://wowpedia.fandom.com/wiki/Leper_gnome "Leper gnome")
+    -   [Sand](https://wowpedia.fandom.com/wiki/Sand_gnome "Sand gnome")
+-   [Mechagnome](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome")
+
+
+
+ |
+|  |
+| [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragonflight" title="Dragonflight">Dragonflights</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Red_dragonflight" title="Red dragonflight">Red</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight" title="Blue dragonflight">Blue</a></li><li><a href="https://wowpedia.fandom.com/wiki/Green_dragonflight" title="Green dragonflight">Green</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight" title="Bronze dragonflight">Bronze</a></li><li><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight" title="Black dragonflight">Black</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherwing_dragonflight" title="Netherwing dragonflight">Netherwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chromatic_dragonflight" title="Chromatic dragonflight">Chromatic</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_dragonflight" title="Twilight dragonflight">Twilight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infinite_dragonflight" title="Infinite dragonflight">Infinite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragonflight" title="Plagued dragonflight">Plagued</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nightmare_dragonflight" title="Nightmare dragonflight">Nightmare</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_drake" title="Storm drake">Storm</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragonkin#Types" title="Dragonkin">Types</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aberration_(mob)" title="Aberration (mob)">Aberration</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Scalebane" title="Scalebane">Scalebane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmkin" title="Wyrmkin">Wyrmkin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+
+-   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
+-   [Colossal](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
+-   [Magnaron](https://wowpedia.fandom.com/wiki/Magnaron "Magnaron")
+-   [Gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn")
+    -   [Gronnling](https://wowpedia.fandom.com/wiki/Gronnling "Gronnling")
+-   [Goren](https://wowpedia.fandom.com/wiki/Goren "Goren")
+-   [Ogron](https://wowpedia.fandom.com/wiki/Ogron "Ogron")
+-   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+    -   [Ogre lord](https://wowpedia.fandom.com/wiki/Ogre_lord "Ogre lord")
+    -   [Ogre mage](https://wowpedia.fandom.com/wiki/Ogre_mage "Ogre mage")
+-   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Fel](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+    -   [Mag'har](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")
+    -   [Pale](https://wowpedia.fandom.com/wiki/Pale_orc "Pale orc")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+    -   [Obsidian destroyer](https://wowpedia.fandom.com/wiki/Obsidian_destroyer "Obsidian destroyer")
+-   [Mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu")
+-   [Refti](https://wowpedia.fandom.com/wiki/Refti "Refti")
+-   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+    -   [Gilgoblin](https://wowpedia.fandom.com/wiki/Gilgoblin "Gilgoblin")
+    -   [Hobgoblin](https://wowpedia.fandom.com/wiki/Hobgoblin "Hobgoblin")
+
+
+
+ |
+|  |
+| 
+
+-   This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Dwarves "Template:Dwarves")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Dwarves?action=edit)
+
+[Dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [clans](https://wowpedia.fandom.com/wiki/Category:Dwarf_clans "Category:Dwarf clans")
+
+
+
+ |
+| --- |

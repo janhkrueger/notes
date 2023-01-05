@@ -1,0 +1,450 @@
+_For the encounter in [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)"), see [Yogg-Saron (tactics)](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics) "Yogg-Saron (tactics)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Yogg-Saron |
+| --- |
+| [![Image of Yogg-Saron](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Yogg-Saron_HS.jpg/revision/latest/scale-to-width-down/200?cb=20160409162526)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Yogg-Saron_HS.jpg/revision/latest?cb=20160409162526 "Image of Yogg-Saron") |
+| Title | The Lucid Dream,  
+The Monster In Your Nightmares,  
+The Beast With a Thousand Maws,  
+The Fiend of a Thousand Faces,  
+The God of Death,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-2">[2]</a></sup>  
+That Which Must Not Be Named<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-3">[3]</a></sup>  
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") Hope's End<sup id="cite_ref-HS_4-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-HS-4">[4]</a></sup> Master of Fate [![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone")<sup id="cite_ref-Madness_at_the_Darkmoon_Faire_5-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-Madness_at_the_Darkmoon_Faire-5">[5]</a></sup> |
+| Race | [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") (Aberration) |
+| Affiliation(s) | [Itself](https://wowpedia.fandom.com/wiki/Yogg-Saron%27s_forces "Yogg-Saron's forces"), [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces"), [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") |
+| Occupation | Old God of Death<sup id="cite_ref-UlduarPreviewUS_6-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-UlduarPreviewUS-6">[6]</a></sup> |
+| Location | [The Prison of Yogg-Saron](https://wowpedia.fandom.com/wiki/The_Prison_of_Yogg-Saron "The Prison of Yogg-Saron"), [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)") |
+| Status | Defeatable [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King")  
+Defeated (lore)<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-7">[7]</a></sup> |
+
+_"ALL PLACES. ALL THINGS HAVE SOULS. ALL SOULS CAN BE DEVOURED."_<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-8">[8]</a></sup>
+
+**Yogg-Saron** (pronounced yog-suh-RAWN)<sup id="cite_ref-HS_4-1"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-HS-4">[4]</a></sup> is one of the four [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), mysterious and dread elder beings that were defeated and sequestered by the armies of the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") during the world's primordial ages. Upon its fall at the hands of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") countless millennia ago, Yogg-Saron was imprisoned inside the titan complex of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") within the depths of what would become the continent of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+
+Yogg-Saron is responsible for many horrors suffered by Azeroth. In an attempt to escape its prison, the Old God corrupted the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") [keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper") [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") and turned him against his own brethren, resulting in the death of [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr"), and created the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh"), a malaise that turned countless titan-forged into mortal beings of flesh and blood. Millennia later, Yogg-Saron also corrupted the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Andrassil](https://wowpedia.fandom.com/wiki/Andrassil "Andrassil"), forcing its [night elven](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") creators to cut it down, but not before the Old God secretly managed to open a gateway into the ethereal spirit world known as the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") and plant the seed of corruption that would later grow into the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare").
+
+Yogg-Saron made its first appearance in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ as the final [boss](https://wowpedia.fandom.com/wiki/Boss "Boss") in the [Ulduar raid instance](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)"), which was implemented in [patch 3.1](https://wowpedia.fandom.com/wiki/Patch_3.1 "Patch 3.1").<sup id="cite_ref-UlduarAchievements_9-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-UlduarAchievements-9">[9]</a></sup> It serves as one of the secondary antagonists in _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_.
+
+Yogg-Saron seemingly later returns in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_, its whispers heard throughout the halls of Ulduar once again.
+
+## Biography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest/scale-to-width-down/180?cb=20180325104143)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest?cb=20180325104143)
+
+[](https://wowpedia.fandom.com/wiki/File:Black_Empire_Kalimdor.jpeg)
+
+Yogg-Saron in the north of [ancient Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") during the reign of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Yogg-Saron_Dungeon_Companion.jpg/revision/latest/scale-to-width-down/180?cb=20210323102724)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Yogg-Saron_Dungeon_Companion.jpg/revision/latest?cb=20210323102724)
+
+[](https://wowpedia.fandom.com/wiki/File:Yogg-Saron_Dungeon_Companion.jpg)
+
+Yogg-Saron on the cover of _[World of Warcraft: Dungeon Companion 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dungeon_Companion_3 "World of Warcraft: Dungeon Companion 3")_.
+
+One of the greatly malevolent and ancient entities known only as [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"), Yogg-Saron held chaotic tyranny over the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") in the very distant past, and was responsible for the creation of the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh") to "facilitate assimilation" of the [Titans](https://wowpedia.fandom.com/wiki/Titans "Titans")' creations. When the Titans waged war against the Old Gods and shattered their citadels, they found that the infestation of the entities had grown so severe that destroying the Old Gods would also lead to the annihilation of Azeroth. Instead, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") took measures to neutralize the Old Gods' power and bind them within Azeroth for the remainder of its existence. Yogg-Saron was sealed away within the depths of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") in the far northern reaches of the infant world, and had six watchers assigned to it which served as wardens for its near-eternal imprisonment; the [Titanic watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") known as [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken"), [Thorim](https://wowpedia.fandom.com/wiki/Thorim "Thorim"), [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir"), [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr"), [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron") and [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya").
+
+In time Loken would have an affair with [Sif](https://wowpedia.fandom.com/wiki/Sif "Sif"), the wife of his brother Thorim. Yogg-Saron, from his prison within Ulduar, muddled Loken's thoughts and made him lash out at Sif, scared at the thought of losing her, and he killed her by accident. Horrified at what he had done but too scared to tell Thorim the truth, Loken tricked Thorim into believing that it had been the work of [Arngrim](https://wowpedia.fandom.com/wiki/Arngrim_the_Insatiable "Arngrim the Insatiable"), the king of the [frost giants](https://wowpedia.fandom.com/wiki/Frost_giant "Frost giant"), turning Thorim against his allies. Loken would stop the war between Thorim's and Arngrim's forces with an army he had created with the [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills"), but unknown to Loken Yogg-Saron had planted the [curse of flesh](https://wowpedia.fandom.com/wiki/Curse_of_flesh "Curse of flesh") inside the forge, which would slowly convert titan-forged into flesh and could also spread to those forged before the curse was created.<sup id="cite_ref-Chronicle_10-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-Chronicle-10">[10]</a></sup>
+
+With Thorim retreated to the [Temple of Storms](https://wowpedia.fandom.com/wiki/Temple_of_Storms "Temple of Storms"), Loken who was desperate to cover his actions, even if it meant using Yogg-Saron's power to do so, for if [Algalon](https://wowpedia.fandom.com/wiki/Algalon "Algalon") or the Pantheon ever found out his life would be forfeit. He arranged the death of [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron"), making it look like a lab accident, though Mimiron's [mechagnome](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome") followers would create a new mechagnome body to house the Keeper's soul. Loken subdued [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir") and [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya"), corrupting them into complacency with Yogg-Saron. He convinced the titan-forged [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya") to imprison [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn"), the Prime Designate, within his [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor"), claiming the title of Prime Designate that was rightfully Odyn's in the process. Loken expected [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra") to come up from [the south](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") and investigate what was going on, but Ra never arrived. This is because he had discovered that the Pantheon was dead, killed by [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), and had locked himself up in the [Mogu'shan Vaults](https://wowpedia.fandom.com/wiki/Mogu%27shan_Vaults "Mogu'shan Vaults") in despair. Afterward, Loken exiled all titan-forged from Ulduar and retreated into the depths of the complex.<sup id="cite_ref-Chronicle_10-1"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-Chronicle-10">[10]</a></sup>
+
+For thousands of years the imprisoned Yogg-Saron was unable to do more than keeping the Keepers, Loken included, quiet and complacent inside Ulduar. His grasp on them was tenuous, and convincing them to directly help the Old God had proven fruitless in the past. It was not until [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") of the Old God-worshiping [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer_clan "Twilight's Hammer clan") infiltrated Ulduar and weakened Yogg-Saron's chains that the entity's influence on the Keepers increased, becoming strong as iron. Yogg-Saron commanded Loken to create a new army from the Forge of Wills. In Loken's hands, the forge churned out legions of [iron dwarves](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf") and [vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul") who sought only bloodshed and war.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-11">[11]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/80/Grizzlemaw1.jpg/revision/latest/scale-to-width-down/180?cb=20091222042640)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Grizzlemaw1.jpg/revision/latest?cb=20091222042640)
+
+[](https://wowpedia.fandom.com/wiki/File:Grizzlemaw1.jpg)
+
+The remains of the world tree [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil").
+
+Yogg-Saron was also the source of the corruption that befell the [world tree](https://wowpedia.fandom.com/wiki/World_tree "World tree") [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil"),<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-12">[12]</a></sup> after its roots grew too close to the Old God's prison<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-13">[13]</a></sup> and allowed it and the other Old Gods to create the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare").<sup id="cite_ref-Chronicle_10-2"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-Chronicle-10">[10]</a></sup> The ancient [druids](https://wowpedia.fandom.com/wiki/Druid "Druid") growing Vordrassil destroyed the tree immediately upon discovering the sheer power behind Yogg-Saron's corrupting influence, however the taint nonetheless continued to spread to the [Grizzlemaw](https://wowpedia.fandom.com/wiki/Grizzlemaw "Grizzlemaw") [furbolgs](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg") who came to inhabit the tree's stump ages later. They became murderously insane soon after settling within Vordrassil's remains, and began attempting to regrow the afflicted world tree. The Furbolgs also used the dire power still emanating from the tree's stump to resurrect the bear god [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc"), who returned to the world as a viciously twisted reflection of his former self.
+
+During the encounter with the Old God in the Ulduar raid, three visions are shown to players which represent key moments in the history of Azeroth; strongly implying Yogg-Saron can be directly linked to these events somehow. These three visions include the creation of the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") by [Neltharion](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") and the other [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") (which resulted in the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") of the world), the assassination of [King Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn_I "Llane Wrynn I") by [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen") (which caused the fall of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") at the end of the [First War](https://wowpedia.fandom.com/wiki/First_War "First War")), and a vision of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") torturing [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") (the man who would become the new Lich King after [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")'s death). During this last vision, the voice of Yogg-Saron can be heard proclaiming: "_He will learn--**no king rules forever**! Only death is eternal!_", a prophecy of the Old God that would come to pass with Arthas' defeat by the [Ashen Verdict](https://wowpedia.fandom.com/wiki/Ashen_Verdict "Ashen Verdict"), and the words of which are eerily repeated by [Terenas Menethil](https://wowpedia.fandom.com/wiki/Terenas_Menethil "Terenas Menethil")'s spirit as his final words to his dying son.
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+When [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") and [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") traveled to Ulduar to meet [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard"), saronite vapors flooded Ulduar's antechamber and faceless ones attacked them as an unknown voice, presumably related to Yogg-Saron given the location and saronite, whispered in their minds.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-14">[14]</a></sup>
+
+Following the defeat of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") declared that Azeroth was made free of the grasp of the Old Gods,<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-15">[15]</a></sup> suggesting that a future return of Yogg-Saron is unlikely.
+
+After the [war against the Jailer](https://wowpedia.fandom.com/wiki/War_against_the_Jailer "War against the Jailer"), [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") reported that although Yogg-Saron had long been defeated, its influence still lingers in places where it once held power, such as [Whisper Gulch](https://wowpedia.fandom.com/wiki/Whisper_Gulch "Whisper Gulch").<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-16">[16]</a></sup> Its whispers are still heard around Northrend and throughout Ulduar, though it remains physically imprisoned in Ulduar and its influence seems to be contained.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-17">[17]</a></sup>
+
+## Saronite and the Scourge
+
+Throughout [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") deposits of an [unnatural](https://wowpedia.fandom.com/wiki/Pure_Evil#Notes "Pure Evil") ore named "[Saronite](https://wowpedia.fandom.com/wiki/Saronite "Saronite")" can be found, which is called the "[Black Blood of Yogg-Saron](https://wowpedia.fandom.com/wiki/Black_Blood_of_Yogg-Saron "Black Blood of Yogg-Saron")" by the [Tuskarr](https://wowpedia.fandom.com/wiki/Tuskarr "Tuskarr") people and who advise any who will listen to keep their distance from it. Saronite is known to drive any that are repeatedly exposed to it to [violent insanity](https://wowpedia.fandom.com/wiki/Deranged_Explorer "Deranged Explorer"), and it appears to be a type of byproduct of the Old God's physical manifestation. The [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") mine extensively for this dread ore;<sup id="cite_ref-blackblood_18-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-blackblood-18">[18]</a></sup><sup id="cite_ref-uther_19-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-uther-19">[19]</a></sup> It is used in their fuel, armament, weapons and most notably in the construction of their buildings, including [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") itself.<sup id="cite_ref-blackblood_18-1"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-blackblood-18">[18]</a></sup><sup id="cite_ref-arrows_20-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-arrows-20">[20]</a></sup><sup id="cite_ref-slinkin_21-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-slinkin-21">[21]</a></sup> [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") questing revealed, however, that the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") of the Scourge mysteriously utter the name "Yogg-Saron" with tremendous hatred and contempt.<sup id="cite_ref-slinkin_21-1"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-slinkin-21">[21]</a></sup>
+
+Blizzard representatives have stated that they feel the connection between Yogg-Saron and the Lich King ended up being poorly expressed in-game,<sup id="cite_ref-chilton_22-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-chilton-22">[22]</a></sup> but added that it "had a lot to do with the ability for mortals to become corrupted."<sup id="cite_ref-Bornakk_23-0"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-Bornakk-23">[23]</a></sup>
+
+## Composition
+
+"Yogg-Saron" is a composition of several different NPCs in the Ulduar encounter:
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Sara.jpg/revision/latest/scale-to-width-down/65?cb=20090426231316)](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Sara.jpg/revision/latest?cb=20090426231316)
+    
+    [Sara](https://wowpedia.fandom.com/wiki/Sara "Sara"), the avatar of Yogg-Saron.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Yoggsaron.jpg/revision/latest/scale-to-width-down/120?cb=20090503013456)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Yoggsaron.jpg/revision/latest?cb=20090503013456)
+    
+    Body of Yogg-Saron.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Brain_of_Yogg-Saron.jpg/revision/latest/scale-to-width-down/120?cb=20090605123552)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Brain_of_Yogg-Saron.jpg/revision/latest?cb=20090605123552)
+    
+
+## Quotes
+
+_See also: [Old Gods#Whispers](https://wowpedia.fandom.com/wiki/Old_Gods#Whispers "Old Gods")_
+
+### Wrath of the Lich King
+
+The whispers heard inside [Whisper Gulch](https://wowpedia.fandom.com/wiki/Whisper_Gulch "Whisper Gulch") from "An Unknown Voice" are listed in the game files as "Creature - Yogg-Saron Whisper". They sound similar to the [whispers of C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun#The_Whispers_of_C'Thun "C'Thun"), the first named [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God"):
+
+-   They are coming for you.
+-   Give in to your fear.
+-   Kill them all before they kill you.
+-   They have turned against you. Now, take your revenge.
+-   It WAS your fault.
+-   Tell yourself again that these are not truly your friends.
+-   You are a pawn of forces unseen.
+-   There is no escape. Not in this life, not in the next.
+
+In the 5-man [Ahn'kahet](https://wowpedia.fandom.com/wiki/Ahn%27kahet "Ahn'kahet") instance, which features a desecrated [Nerubian](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian") temple now dedicated to Yogg-Saron, "A Mysterious Voice" can sometimes be heard whispering to players at random. This voice most likely is Yogg-Saron's as well:
+
+-   Trust is your weakness.
+-   Hope is an illusion.
+-   All that you know will fade.
+-   You will be alone in the end.
+
+(These voices can also be heard within the [Ymirheim](https://wowpedia.fandom.com/wiki/Ymirheim "Ymirheim") [Saronite Mines](https://wowpedia.fandom.com/wiki/Saronite_Mines "Saronite Mines").)
+
+Ulduar
+
+_Main article: [Yogg-Saron (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics)#Quotes "Yogg-Saron (tactics)")_
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+In [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm "Cataclysm"), [archaeology](https://wowpedia.fandom.com/wiki/Archaeology "Archaeology") allows for players to assemble [fragments](https://wowpedia.fandom.com/wiki/Nerubian_Archaeology_Fragment "Nerubian Archaeology Fragment") of an [ancient Nerubian puzzle box](https://wowpedia.fandom.com/wiki/Puzzle_Box_of_Yogg-Saron "Puzzle Box of Yogg-Saron") that is somehow related to Yogg-Saron's dread and mysterious nature. The puzzle appears impossible to solve properly, but with every attempt the player makes the Old God will whisper chilling knowledge to them:
+
+-   At the bottom of the ocean even light must die.
+-   Even death may die.
+-   All places, all things have souls. All souls can be devoured.
+-   There is a little lamb lost in dark woods.
+-   The silent, sleeping, staring houses in the backwoods always dream. It would be merciful to tear them down.
+-   The void sucks at your soul. It is content to feast slowly.
+-   There is no sharp distinction between the real and the unreal.
+-   The stars sweep chill currents that make men shiver in the dark.
+-   What can change the nature of a man?
+-   Look around. They will all betray you. Flee screaming into the black forest.
+-   Do you dream while you sleep or is it an escape from the horrors of reality?
+-   In the land of [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha") there is only sleep.
+-   In the sleeping city of Ny'alotha walk only mad things.
+-   Ny'alotha is a city of old, terrible, unnumbered crimes.
+-   Y'knath k'th'rygg k'yi mrr'ungha gr'mula.
+-   The drowned god's heart is black ice.
+-   In the sunken city, he lays dreaming.
+-   Have you had the dream again? A black goat with seven eyes that watches from the outside.
+-   It is standing right behind you. Do not move. Do not breathe.
+-   The fish know all the secrets. They know the cold. They know the dark.
+-   The giant rook watches from the dead trees. Nothing breathes beneath his shadow.
+-   The tortured spirits of your ancestors cling to you, screaming in silence. Apparently they are quite numerous.
+-   You resist. You cling to your life as if it actually matters. You will learn.
+-   Open me! Open me! Open me! Then only will you know peace.
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+Yogg-Saron appears as [a legendary card](https://hearthstone.fandom.com/wiki/Yogg-Saron,_Hope%27s_End "hswiki:Yogg-Saron, Hope's End") in the [Whispers of the Old Gods](https://wowpedia.fandom.com/wiki/Whispers_of_the_Old_Gods "Whispers of the Old Gods") expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. Its flavor text reads: _"I spell your doom... Y-O-U-R D-O-O-M!"_
+
+-   There is also a rare Mage card known as the [Servant of Yogg-Saron](https://hearthstone.fandom.com/wiki/Servant_of_Yogg-Saron "hswiki:Servant of Yogg-Saron"). Its flavor text reads: _"Yogg-Saron always likes to complain about how he has too many servants and there are too many mouths to feed."_
+-   [Yogg-Saron's Magic](https://hearthstone.fandom.com/wiki/Yogg-Saron%27s_Magic "hswiki:Yogg-Saron's Magic") is one of the two spell effects that can be chosen when playing the [Mire Keeper](https://hearthstone.fandom.com/wiki/Mire_Keeper "hswiki:Mire Keeper") card.
+-   Additionally, the Clutch of Yogg-Saron [card back](https://hearthstone.fandom.com/wiki/card_back "hswiki:card back") was rewarded for achieving Rank 20 in Ranked Season 25, which took place during April 2016. The flavor text reads: _"There are several cults trying to summon the Old God Yogg-Saron, and the competition for cultists is causing salaries to skyrocket."_
+-   It reappeared in _[Madness at the Darkmoon Faire](https://hearthstone.fandom.com/wiki/Madness_at_the_Darkmoon_Faire "hswiki:Madness at the Darkmoon Faire")_ as [Yogg-Saron, Master of Fate](https://hearthstone.fandom.com/wiki/Yogg-Saron,_Master_of_Fate "hswiki:Yogg-Saron, Master of Fate"). Its flavor text reads "_Yogg take the wheel!"_
+
+## Notes and trivia
+
+-   During the [Zek'voz](https://wowpedia.fandom.com/wiki/Zek%27voz "Zek'voz") encounter in the Archives of Eternity in [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir"), a Projection of Yogg-Saron is summoned.
+-   Despite calling himself the "God of Death", Yogg-Saron has never been shown practicing necromancy or having any powers related to the dead in general. The Scourge make use of his hardened blood, Saronite, in mass quantities for unknown reasons.
+    -   In _[Edge of Night](https://wowpedia.fandom.com/wiki/Edge_of_Night "Edge of Night")_, Sylvanas thinks that committing suicide with Saronite "would tear the body apart but would obliterate the soul as well," granting her a final death.
+    -   Retroactively, this act allowed her to meet [The Jailer](https://wowpedia.fandom.com/wiki/The_Jailer "The Jailer").
+-   An unknown entity time-traveled to [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)") in order to tamper with and artificially age the [titan locks](https://wowpedia.fandom.com/wiki/Titan_Prison_Fragment "Titan Prison Fragment") holding Yogg-Saron in place, releasing the Old God forty millennia early. [Vormu](https://wowpedia.fandom.com/wiki/Vormu "Vormu") of the [bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") came too late to stop this modification of the timeline.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-24">[24]</a></sup>
+-   Yogg-Saron is voiced by [Jamieson Price](https://wowpedia.fandom.com/wiki/Jamieson_Price "Jamieson Price").
+
+## Inspiration
+
+-   Yogg-Saron's name is derived from [Yog-Sothoth](http://en.wikipedia.org/wiki/Yog-Sothoth "wikipedia:Yog-Sothoth") of H.P. Lovecraft's Cthulhu Mythos.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-25">[25]</a></sup> Additionally, by the same turn, his monikers "The Beast with a Thousand Maws", or "Fiend of a Thousand Faces" are references to [Shub-Niggurath](http://en.wikipedia.org/wiki/Shub-Niggurath "wikipedia:Shub-Niggurath"), who is referred to as "The Black Goat of the Woods with a Thousand Young" and to whom Yogg-Saron bears a resemblance. "That Which Must Not Be Named" may be a reference to Hastur, whose role in the Cthulhu mythos remains unclear. In Lovecraft's own "The Whisperer in Darkness," the protagonist hears a recording of cultists reciting, in reverence, the names of several beings, including Yog-Sothoth, Cthulhu, and Hastur (as "That Which Must Not Be Named"). However, in the same story and in the expanded universe created by authors continuing Lovecraft's mythos, Hastur is shown as being at war with the Mi-Go, the race of extraterrestrials that seems to worship the aforementioned "Gods" as a group (who were among the voices heard on the recording).
+-   "Yogg" might also be an intentional misspelling of "Ygg", referring to [Yggdrasil](http://en.wikipedia.org/wiki/Yggdrasil "wikipedia:Yggdrasil"), the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") of Norse mythology, tying in with Yogg-Saron's corruption of [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil").
+-   "Ygg" is also one of the aliases of the Norse God "Odin".
+-   The name "Saron" could also refer to [Sauron](http://en.wikipedia.org/wiki/Sauron "wikipedia:Sauron"), the evil necromancer and antagonist of the novel [The Lord of the Rings](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings "wikipedia:The Lord of the Rings") by [J. R. R. Tolkien](http://en.wikipedia.org/wiki/J._R._R._Tolkien "wikipedia:J. R. R. Tolkien"). On Wikipedia, in the Adaptation section it is quoted: _In interviews, Jackson repeatedly refers to Sauron as "just a giant floating eyeball." In the novel, even if one interprets the text as saying that the Eye exists physically, it is never clear whether it is disembodied or not._ In the very novel, Sauron is indeed referred as The Eye, but Sauron is furthermore the evil opponent, called the one who should not be mentioned, a sort of death god, who has corrupted the world, able to see things beyond others/create visions - alike Yogg-Saron.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+### Forgotten One
+
+In _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_, [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") encountered and defeated a "[Forgotten One](https://wowpedia.fandom.com/wiki/Forgotten_One_(Warcraft_III) "Forgotten One (Warcraft III)")" while traveling through [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"). This eldritch creature could have been a manifestation or extension of Yogg Saron, similar to [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth") with [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth").
+
+### Visions
+
+During the encounter in Ulduar, players encounter three visions in Yogg-Saron's mind:
+
+-   The assassination of [King Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn_I "Llane Wrynn I") by [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen").
+-   The creation of the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") by [Neltharion](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") and the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects").
+-   The [torturing of Bolvar Frodragon](https://wowpedia.fandom.com/wiki/Immolated_Champion "Immolated Champion"), where he says that the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") will learn _"No king rules forever"_.
+
+The Old God's relation with these events is unknown.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Sara_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20151201182950)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Sara_TCG.jpg/revision/latest?cb=20151201182950)
+    
+    [Sara](https://wowpedia.fandom.com/wiki/Sara "Sara") from the TCG, the avatar of Yogg-Saron.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Call_of_Yogg-Saron.jpg/revision/latest/scale-to-width-down/87?cb=20180228154256)](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Call_of_Yogg-Saron.jpg/revision/latest?cb=20180228154256)
+    
+
+Hearthstone
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Yogg-Saron%2C_Master_of_Fate.jpg/revision/latest/scale-to-width-down/120?cb=20210409133358)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Yogg-Saron%2C_Master_of_Fate.jpg/revision/latest?cb=20210409133358)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/DOOM%21_HS.jpg/revision/latest/scale-to-width-down/120?cb=20210324092139)](https://static.wikia.nocookie.net/wowpedia/images/3/34/DOOM%21_HS.jpg/revision/latest?cb=20210324092139)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/33/Yogg-Saron_Devourer_of_Stars.jpg/revision/latest/scale-to-width-down/120?cb=20220218022339)](https://static.wikia.nocookie.net/wowpedia/images/3/33/Yogg-Saron_Devourer_of_Stars.jpg/revision/latest?cb=20220218022339)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/45/Servant_of_Yogg-Saron.jpg/revision/latest/scale-to-width-down/90?cb=20160427091407)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Servant_of_Yogg-Saron.jpg/revision/latest?cb=20160427091407)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/Clutch_of_Yogg-Saron_card_back.png/revision/latest/scale-to-width-down/82?cb=20160502182447)](https://static.wikia.nocookie.net/wowpedia/images/8/82/Clutch_of_Yogg-Saron_card_back.png/revision/latest?cb=20160502182447)
+    
+    A card back themed after Yogg-Saron.
+    
+
+Fanart
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Yogg-Saron_Blizzard_com.jpg/revision/latest/scale-to-width-down/120?cb=20090611114735)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Yogg-Saron_Blizzard_com.jpg/revision/latest?cb=20090611114735)
+    
+    Fan art of Yogg-Saron.
+    
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-1) [Yogg-Saron (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics)#Quotes "Yogg-Saron (tactics)")
+2.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-2) [Timewalking: Ulduar Raid trailer](https://www.youtube.com/watch?v=BGzTPQxzX8s)
+3.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-3) **[Deranged Explorer](https://wowpedia.fandom.com/wiki/Deranged_Explorer "Deranged Explorer") says:** The end is nigh! Which Must Not Be Named is almost free!
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-HS_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-HS_4-1">b</a></sup> [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Daxxarri](https://wowpedia.fandom.com/wiki/Daxxarri "Daxxarri") 2016-04-07. [Whispers of the Old Gods – It's Never a Yawn with Yogg-Saron](http://us.battle.net/hearthstone/en/blog/20079876/whispers-of-the-old-gods-its-never-a-yawn-with-yogg-saron-4-7-2016). Retrieved on 2016-04-07.
+5.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-Madness_at_the_Darkmoon_Faire_5-0) Blizzard Entertainment 2020-10-22. [Announcing Madness at the Darkmoon Faire](https://playhearthstone.com/en-us/news/23533210). Retrieved on 2020-10-24.
+6.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-UlduarPreviewUS_6-0) Blizzard Entertainment. [Under Development (US): Ulduar](http://www.worldofwarcraft.com/info/underdev/3p1/ulduar.xml). Retrieved on 2009-02-17.
+7.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-7) [BlizzCon 2018 Interview with Alex Afrasiabi and Patrick Dawson](http://xdlate.com/blizzcon-2018-intervju-s-aleksom-afrasiabi-i-patrikom-dousonom/) _"I would say that we should consider them dead. But! As with all things in World of Warcraft and in general in the Warcraft universe, death is not always final. Therefore, if there is the coming of the Old Gods, or some precursor of the Old Gods appear from the eternal darkness, from the Void, for example, if there is any way or opportunity to return them, I imagine that this may well happen."_
+8.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-8) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 33
+9.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-UlduarAchievements_9-0) Michael Sacco 2009-12-03. [Ulduar achievements unveiled](http://www.wowinsider.com/2009/03/12/ulduar-achievements-unveiled/). Retrieved on 2009-12-03.
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-Chronicle_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-Chronicle_10-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-Chronicle_10-2">c</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_
+11.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-11) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 163
+12.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-12) [PlayHearthstone on Twitter](https://twitter.com/PlayHearthstone/status/713063477112410112) (2016-03-24). - NB: This is a _Hearthstone_ lore source.
+13.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-13)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-30G3\] [Ursoc, the Bear God](https://wowpedia.fandom.com/wiki/Ursoc,_the_Bear_God_(Alliance)): **Spirit of Ursoc says:** I thank you all. The druids of old were wise to tear down Vordrassil, for its roots seep deep into the dwelling of an ancient evil. You know their kind as old gods. Beware Yogg-Saron, the beast with a thousand maws. His evil extends beyond Vordrassil's roots.
+14.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-14)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [The Diamond King](https://wowpedia.fandom.com/wiki/The_Diamond_King)
+15.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-15) [Ny'alotha, the Waking City: The Corruptor's End#Notes](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City:_The_Corruptor%27s_End#Notes "Ny'alotha, the Waking City: The Corruptor's End")
+16.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-16) _[Exploring Azeroth: Northrend](https://wowpedia.fandom.com/wiki/Exploring_Azeroth:_Northrend "Exploring Azeroth: Northrend")_, pg. 15
+17.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-17) _[Exploring Azeroth: Northrend](https://wowpedia.fandom.com/wiki/Exploring_Azeroth:_Northrend "Exploring Azeroth: Northrend")_, pg. 85
+18.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-blackblood_18-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-blackblood_18-1">b</a></sup> [Black Blood of Yogg-Saron](https://wowpedia.fandom.com/wiki/Black_Blood_of_Yogg-Saron "Black Blood of Yogg-Saron")
+19.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-uther_19-0) [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"): "You have forged this blade from saronite, the very blood of an old god. The power of the Lich King calls to this weapon." ( ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30D\] [The Halls Of Reflection](https://wowpedia.fandom.com/wiki/The_Halls_Of_Reflection))
+20.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-arrows_20-0)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Death Knight](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Ui-charactercreate-classes_deathknight.png/revision/latest/scale-to-width-down/16?cb=20080906194908 "Death Knight") \[8-30\] [Tonight We Dine in Havenshire](https://wowpedia.fandom.com/wiki/Tonight_We_Dine_In_Havenshire)
+21.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-slinkin_21-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-slinkin_21-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-30\] [The Search for Slinkin](https://wowpedia.fandom.com/wiki/The_Search_for_Slinkin)
+22.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-chilton_22-0) [Phil Kollar](http://gameinformer.com/members/GIPhil/default.aspx) 2010-02-17. [Afterwords: World of Warcraft: Wrath Of The Lich King](http://gameinformer.com/games/world_of_warcraft_wrath_of_the_lich_king/b/pc/archive/2010/02/17/afterwords-world-of-warcraft-wrath-of-the-lich-king.aspx) 3. Retrieved on 2010-02-19. “There is supposed to be a tie-in between Yogg-Saron (the boss of Ulduar) and the Lich King, and that’s how that was supposed to make sense – through Yogg-Saron’s manipulation of world events. I don’t think that was obvious enough to the players. It’s hard for them to draw that connection even though theoretically that connection exists. In the planning stages, that wasn’t much of a factor for us, because in our minds that connection existed and was clear. We just didn’t do a very good job of expressing it.”
+23.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-Bornakk_23-0) [Bornakk](http://forums.worldofwarcraft.com/search.html?characterId=7125775617&blizzardPoster=true&sid=1) 2010-02-26. [Re: #BlizzChat Developer Chat on Twitter 2/26](http://forums.worldofwarcraft.com/thread.html?topicId=23425524394&postId=234232770317&sid=1#14). Retrieved on 2010-02-27.
+24.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30R\] [Disturbance Detected: Ulduar](https://wowpedia.fandom.com/wiki/Disturbance_Detected:_Ulduar)
+25.  [^](https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_ref-25) _[World of Warcraft: The Magazine Issue 4](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_4 "World of Warcraft: The Magazine Issue 4")_, page 25
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   **Yogg-Saron**
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+
+ |
+|  |
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+
+-   [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+| 
+
+-   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |

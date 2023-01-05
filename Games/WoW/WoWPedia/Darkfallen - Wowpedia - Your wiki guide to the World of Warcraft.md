@@ -1,0 +1,470 @@
+_For the Krokul sometimes referred to as Darkfallen, see [Argussian Reach](https://wowpedia.fandom.com/wiki/Argussian_Reach "Argussian Reach")._
+
+| Darkfallen |
+| --- |
+| [![Darkfallen Neophyte HS.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/03/Darkfallen_Neophyte_HS.jpg/revision/latest/scale-to-width-down/200?cb=20221217230526)](https://static.wikia.nocookie.net/wowpedia/images/0/03/Darkfallen_Neophyte_HS.jpg/revision/latest?cb=20221217230526)  
+[Darkfallen Neophyte](https://hearthstone.fandom.com/wiki/Darkfallen_Neophyte "hswiki:Darkfallen Neophyte") in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_
+
+
+
+ |
+| Faction/Affiliation | [San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") ([Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")),  
+[Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") ([Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")),  
+[Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") ([Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")),<sup id="cite_ref-PDR_1-0"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-PDR-1">[1]</a></sup>  
+[Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade") |
+| Character classes | [Blood mage](https://wowpedia.fandom.com/wiki/Blood_magic "Blood magic"), [Dark ranger](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warden](https://wowpedia.fandom.com/wiki/Warden "Warden"), [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") |
+| Racial capital | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Acherus: The Ebon Hold](https://wowpedia.fandom.com/wiki/Acherus:_The_Ebon_Hold "Acherus: The Ebon Hold") |
+|   Formerly | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") <sup>&nbsp;†</sup>  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Crimson Hall](https://wowpedia.fandom.com/wiki/Crimson_Hall "Crimson Hall") |
+| Racial leader(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [The Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council")  
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")  ![](https://static.wikia.nocookie.net/wowpedia/images/0/05/IconSmall_TyrandeNight.gif/revision/latest/scale-to-width-down/16?cb=20211214140930)[Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/2/24/IconSmall_BolvarUndead2.gif/revision/latest/scale-to-width-down/16?cb=20211209173809)[Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") |
+|   Formerly | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [![IconSmall Sylvanas.gif](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Sylvanas.gif/revision/latest/scale-to-width-down/16?cb=20221104223320)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Sylvanas.gif/revision/latest?cb=20221104223320) [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")   ![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_LichKing.gif/revision/latest/scale-to-width-down/16?cb=20090307151644) ![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/IconSmall_NewLichKing.gif/revision/latest/scale-to-width-down/16?cb=20101230224228)[The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") <sup>&nbsp;†</sup>  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [![IconSmall San'layn Queen.gif](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_San%27layn_Queen.gif/revision/latest/scale-to-width-down/16?cb=20211130171349)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_San%27layn_Queen.gif/revision/latest?cb=20211130171349) [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel") <sup>&nbsp;†</sup> |
+| Racial mount | [![IconSmall SkeletalHorse.gif](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_SkeletalHorse.gif/revision/latest/scale-to-width-down/16?cb=20211201225546)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_SkeletalHorse.gif/revision/latest?cb=20211201225546) [Skeletal Horse](https://wowpedia.fandom.com/wiki/Skeletal_Horse "Skeletal Horse") |
+| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Area(s) | [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") |
+| Language(s) | [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), [Darnassian](https://wowpedia.fandom.com/wiki/Darnassian "Darnassian") |
+
+The **Darkfallen**<sup id="cite_ref-Warcraft:_Sylvanas_2-0"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-Warcraft:_Sylvanas-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-4">[4]</a></sup><sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-5">[5]</a></sup> (also spelled **darkfallen**)<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-6">[6]</a></sup> are [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [elves](https://wowpedia.fandom.com/wiki/Elf "Elf"), including the [dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger") of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), the [vampiric](https://wowpedia.fandom.com/wiki/Vampyr "Vampyr") [San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), and the [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") of the [Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade").
+
+Darkfallen are accessible as a playable option in the form of a skintone for the [Void elf](https://wowpedia.fandom.com/wiki/Void_elf_(playable) "Void elf (playable)"), [Night elf](https://wowpedia.fandom.com/wiki/Night_elf_(playable) "Night elf (playable)"), and [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf_(playable) "Blood elf (playable)") races upon completion of the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Inv_shield_58.png/revision/latest/scale-to-width-down/16?cb=20080710175001)[\[Return to Lordaeron\]](https://wowpedia.fandom.com/wiki/Return_to_Lordaeron) achievement, or by simply playing one of those races as a death knight.
+
+## History
+
+### Third War
+
+When [Prince Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") [invaded](https://wowpedia.fandom.com/wiki/Scourge_invasion_of_Quel%27Thalas "Scourge invasion of Quel'Thalas") [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), he raised the fallen members of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")'s army either as incorporeal [banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee") or as intact bodies. These fallen [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") would become known as Darkfallen, prowling the lands as either [dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger") or [blood mages](https://wowpedia.fandom.com/wiki/Blood_magic "Blood magic") for the Scourge.<sup id="cite_ref-Warcraft:_Sylvanas_2-1"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-Warcraft:_Sylvanas-2">[2]</a></sup> Others were reanimated as [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"), becoming the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s champions.<sup id="cite_ref-Classes_of_World_of_Warcraft_7-0"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-Classes_of_World_of_Warcraft-7">[7]</a></sup>
+
+When the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") slowly began to lose his power after [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan")'s failed attempt to kill him in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), many Darkfallen dark rangers had their conscious will restored. They later joined [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") and her [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") in [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), as elite agents and personal guards of the Banshee Queen.
+
+### The Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/41/Crimson_Hall_01.jpg/revision/latest/scale-to-width-down/180?cb=20091121102108)](https://static.wikia.nocookie.net/wowpedia/images/4/41/Crimson_Hall_01.jpg/revision/latest?cb=20091121102108)
+
+[](https://wowpedia.fandom.com/wiki/File:Crimson_Hall_01.jpg)
+
+The [San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") in the [Crimson Hall](https://wowpedia.fandom.com/wiki/Crimson_Hall "Crimson Hall").
+
+In the aftermath of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") were cut off from their source of [magic](https://wowpedia.fandom.com/wiki/Magic "Magic"), the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"). Desperate for aid, their prince [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") pledged allegiance to [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") who taught them how to siphon magic, and how to wield [fel](https://wowpedia.fandom.com/wiki/Fel "Fel").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-8">[8]</a></sup> The blood elves, or [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury"), seeking to avenge their fallen brethren, participated in Illidan's attempt to destroy the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-W3xU4_9-0"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-W3xU4-9">[9]</a></sup> [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") intervened, and the two armies clashed, but the undead ultimately defeated Illidan's forces at the foot of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown").<sup id="cite_ref-W3xU4_9-1"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-W3xU4-9">[9]</a></sup><sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-10">[10]</a></sup> Arthas raised the fallen blood elves as a new generation of [vampyr](https://wowpedia.fandom.com/wiki/Vampyr "Vampyr") Darkfallen in service to the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"),<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-11">[11]</a></sup> organizing them in the sect known as the [San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-12">[12]</a></sup>
+
+### Wrath of the Lich King
+
+During the [Battle for Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Battle_for_Light%27s_Hope_Chapel "Battle for Light's Hope Chapel"), the [Death Knights of Acherus](https://wowpedia.fandom.com/wiki/Death_Knights_of_Acherus "Death Knights of Acherus") managed to free themselves from the will of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), among them were some Darkfallen death knights such as [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver"). Under the lead of [Highlord Darion Mograine](https://wowpedia.fandom.com/wiki/Highlord_Darion_Mograine "Highlord Darion Mograine"), they formed the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade"), took control of [Acherus: The Ebon Hold](https://wowpedia.fandom.com/wiki/Acherus:_The_Ebon_Hold "Acherus: The Ebon Hold") as their headquarters, and cooperated with the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade") to defeat [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") during the [Scourgewar](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King").
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/The_Hidden_Need.png/revision/latest/scale-to-width-down/180?cb=20200624233249)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/The_Hidden_Need.png/revision/latest?cb=20200624233249)
+
+[](https://wowpedia.fandom.com/wiki/File:The_Hidden_Need.png)
+
+The dark rangers that sided with [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil").
+
+Following the [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns"), the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") raised to undeath fallen [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), turning them into Darkfallen dark rangers. While a few sided with [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") after she raised them, many of them including their leader [Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon") joined [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") in a quest to learn life as undead.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-13">[13]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+Following the [war against the Jailer](https://wowpedia.fandom.com/wiki/War_against_the_Jailer "War against the Jailer"), several Darkfallen joined the Forsaken as they mustered in the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). After the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") were cleansed, [Dark Ranger Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara") joined the [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council"), the new governing body of the Forsaken. While Delaryn and other Darkfallen night elves joined the Horde, Dark Ranger Velonara said those who wished to depart and rejoin the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") were free to do so.<sup id="cite_ref-PDR_1-1"><a href="https://wowpedia.fandom.com/wiki/Darkfallen#cite_note-PDR-1">[1]</a></sup>
+
+## Appearance
+
+Darkfallen mostly retain the builds of their still-living kin. Their once lustrous skin is now pale and lifeless, while the color of their eyes were displaced by a glow of crimson red or icy blue.
+
+### Notable
+
+| Name | Role | Affiliation | Status | Location |
+| --- | --- | --- | --- | --- |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [![IconSmall Sylvanas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Sylvanas.gif/revision/latest?cb=20221104223320)[![IconSmall Sylvanas2.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/IconSmall_Sylvanas2.gif/revision/latest?cb=20211214091747)[![IconSmall Sylvanas3.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/IconSmall_Sylvanas3.gif/revision/latest?cb=20220323085533) [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") | The Dark Lady, Former Banshee Queen of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") and Warchief of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") | [Independent](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") | Active | [Various](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner#Locations "Sylvanas Windrunner") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [![IconSmall Dar'khan.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/49/IconSmall_Dar%27khan.gif/revision/latest?cb=20200520191436)[![IconSmall UndeadElf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest?cb=20200516215246) [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir") | Traitor of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), leader of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") forces in the [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands"). | [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned") | Deceased | [Tower of the Damned](https://wowpedia.fandom.com/wiki/Tower_of_the_Damned "Tower of the Damned"), [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [![IconSmall Koltira.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/IconSmall_Koltira.gif/revision/latest?cb=20220104120357) [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver") | First [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") to re-join the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") | [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Koltira#Locations "Koltira") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Dread Commander Thalanor](https://wowpedia.fandom.com/wiki/Dread_Commander_Thalanor "Dread Commander Thalanor") | Second-in-command of [Acherus: The Ebon Hold](https://wowpedia.fandom.com/wiki/Acherus:_The_Ebon_Hold "Acherus: The Ebon Hold"), former ranger of the [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders") | [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade") | Active | [Various](https://wowpedia.fandom.com/wiki/Dread_Commander_Thalanor#Locations "Dread Commander Thalanor") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [![IconSmall BloodElfDeathKnight Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/IconSmall_BloodElfDeathKnight_Female.gif/revision/latest?cb=20200517011216) [Lyandra Sunstrider](https://wowpedia.fandom.com/wiki/Lyandra_Sunstrider "Lyandra Sunstrider") | The latest wielder of  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Inv_sword_1h_artifactfelomelorn_d_01.png/revision/latest/scale-to-width-down/16?cb=20160801223428)[\[Felo'melorn\]](https://wowpedia.fandom.com/wiki/Felo%27melorn). | [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") | Deceased | [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ranger Captain Areiel](https://wowpedia.fandom.com/wiki/Ranger_Captain_Areiel "Ranger Captain Areiel") | Captain of the dark rangers in [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") | [Dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance") | Deceased | [Ghostblade Post](https://wowpedia.fandom.com/wiki/Ghostblade_Post "Ghostblade Post"), [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Dark Ranger Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara") | Member of the [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") | [Dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara#Locations "Dark Ranger Velonara") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [![IconSmall San'layn Queen.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_San%27layn_Queen.gif/revision/latest?cb=20211130171349) [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel") | Leader of the [San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn"), former wielder of [Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar"). | [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") | Deceased | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") and [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [![IconSmall San'layn Prince.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_San%27layn_Prince.gif/revision/latest?cb=20211130171635) [Blood Prince Dreven](https://wowpedia.fandom.com/wiki/Blood_Prince_Dreven "Blood Prince Dreven") | Sought with a group of San'layn to join the Horde during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"). | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") | Deceased | [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Sira Moonwarden](https://wowpedia.fandom.com/wiki/Sira_Moonwarden "Sira Moonwarden") | Dark Warden | [Independent](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") | Active | [Various](https://wowpedia.fandom.com/wiki/Sira_Moonwarden#Locations "Sira Moonwarden") |
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon") | Dark Ranger Captain | [Dark rangers](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") | Active | [Various](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon#Locations "Delaryn Summermoon") |  |
+
+## Notes and trivia
+
+## Gallery
+
+_World of Warcraft_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Warchief_of_the_Horde_-_Velonara.jpg/revision/latest/scale-to-width-down/44?cb=20201117183250)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Warchief_of_the_Horde_-_Velonara.jpg/revision/latest?cb=20201117183250)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Dark_Ranger_%28Stay_of_Execution%29.png/revision/latest/scale-to-width-down/61?cb=20200621194723)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Dark_Ranger_%28Stay_of_Execution%29.png/revision/latest?cb=20200621194723)
+    
+    Undead high elf
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Koltira_Deathweaver.jpg/revision/latest/scale-to-width-down/58?cb=20160315144857)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Koltira_Deathweaver.jpg/revision/latest?cb=20160315144857)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Bloodrose_Datura.jpg/revision/latest/scale-to-width-down/42?cb=20160223140506)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Bloodrose_Datura.jpg/revision/latest?cb=20160223140506)
+    
+    Undead blood elf
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Kaldorei_Dark_Ranger.jpg/revision/latest/scale-to-width-down/86?cb=20181227032732)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Kaldorei_Dark_Ranger.jpg/revision/latest?cb=20181227032732)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/db/Kaldorei_Dark_Ranger_male.jpg/revision/latest/scale-to-width-down/87?cb=20190323234806)](https://static.wikia.nocookie.net/wowpedia/images/d/db/Kaldorei_Dark_Ranger_male.jpg/revision/latest?cb=20190323234806)
+    
+    Undead night elf
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Sira_Moonwarden_Dark_Warden.jpg/revision/latest/scale-to-width-down/70?cb=20181227032328)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Sira_Moonwarden_Dark_Warden.jpg/revision/latest?cb=20181227032328)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Darkfallen_Blood_Knight.jpg/revision/latest/scale-to-width-down/87?cb=20161218112847)](https://static.wikia.nocookie.net/wowpedia/images/8/84/Darkfallen_Blood_Knight.jpg/revision/latest?cb=20161218112847)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Darkfallen_Archmage.jpg/revision/latest/scale-to-width-down/51?cb=20161218112906)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Darkfallen_Archmage.jpg/revision/latest?cb=20161218112906)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/95/Tenris_Mirkblood.jpg/revision/latest/scale-to-width-down/56?cb=20081027013533)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Tenris_Mirkblood.jpg/revision/latest?cb=20081027013533)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/San%27layn_painting.png/revision/latest/scale-to-width-down/82?cb=20180703003515)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/San%27layn_painting.png/revision/latest?cb=20180703003515)
+    
+    A painting depicting a Darkfallen San'layn.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Lana%27thel.jpg/revision/latest/scale-to-width-down/99?cb=20091113051106)](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Lana%27thel.jpg/revision/latest?cb=20091113051106)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Sylvanas_Grommash_Hold.jpg/revision/latest/scale-to-width-down/42?cb=20190216030413)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Sylvanas_Grommash_Hold.jpg/revision/latest?cb=20190216030413)
+    
+-   [![Sylvanas Windrunner - Maw.png](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Sylvanas_Windrunner_-_Maw.png/revision/latest/scale-to-width-down/56?cb=20200811231403)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Sylvanas_Windrunner_-_Maw.png/revision/latest?cb=20200811231403)
+    
+-   [![Sylvanas 9.2.png](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Sylvanas_9.2.png/revision/latest/scale-to-width-down/72?cb=20220227191846)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Sylvanas_9.2.png/revision/latest?cb=20220227191846)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Dar%27Khan_Drathir_%28Mob%29.jpg/revision/latest/scale-to-width-down/70?cb=20200406224328)](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Dar%27Khan_Drathir_%28Mob%29.jpg/revision/latest?cb=20200406224328)
+    
+
+Cinematic stills
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/51/SylvanasCinematic.png/revision/latest/scale-to-width-down/120?cb=20210403030915)](https://static.wikia.nocookie.net/wowpedia/images/5/51/SylvanasCinematic.png/revision/latest?cb=20210403030915)
+    
+    Sylvanas in the _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ cinematic.
+    
+
+Flags and [banners](https://wowpedia.fandom.com/wiki/Banner "Banner")
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Forsaken_banner_2.jpg/revision/latest/scale-to-width-down/77?cb=20181103204155)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Forsaken_banner_2.jpg/revision/latest?cb=20181103204155)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/70/San%27layn_banner.png/revision/latest/scale-to-width-down/57?cb=20100203090048)](https://static.wikia.nocookie.net/wowpedia/images/7/70/San%27layn_banner.png/revision/latest?cb=20100203090048)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Blood_Prince_Emblem.png/revision/latest/scale-to-width-down/94?cb=20100203065221)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Blood_Prince_Emblem.png/revision/latest?cb=20100203065221)
+    
+    The Blood Prince emblem.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Ebon_Blade_banner_1.jpg/revision/latest/scale-to-width-down/48?cb=20220609092404)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Ebon_Blade_banner_1.jpg/revision/latest?cb=20220609092404)
+    
+
+Art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Monster-nosferatu-large.jpg/revision/latest/scale-to-width-down/120?cb=20220512192344)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Monster-nosferatu-large.jpg/revision/latest?cb=20220512192344)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Dark_Ranger_%28Curse_of_the_Worgen%29.jpg/revision/latest/scale-to-width-down/50?cb=20220606132026)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Dark_Ranger_%28Curse_of_the_Worgen%29.jpg/revision/latest?cb=20220606132026)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/70/Dark_Ranger_Anya_Comic.jpg/revision/latest/scale-to-width-down/57?cb=20180605193424)](https://static.wikia.nocookie.net/wowpedia/images/7/70/Dark_Ranger_Anya_Comic.jpg/revision/latest?cb=20180605193424)
+    
+
+_Hearthstone_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Sylvanas_Mercenaries_2.png/revision/latest/scale-to-width-down/90?cb=20210402213503)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Sylvanas_Mercenaries_2.png/revision/latest?cb=20210402213503)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Blood-Queen_Lana%27thel_HS.jpg/revision/latest/scale-to-width-down/93?cb=20170810192903)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Blood-Queen_Lana%27thel_HS.jpg/revision/latest?cb=20170810192903)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Dar%27Khan_Drathir_HS.jpg/revision/latest/scale-to-width-down/92?cb=20221202085556)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Dar%27Khan_Drathir_HS.jpg/revision/latest?cb=20221202085556)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Sleeping_Acolyte.jpg/revision/latest/scale-to-width-down/91?cb=20180513215452)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Sleeping_Acolyte.jpg/revision/latest?cb=20180513215452)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Sanguine_Reveler_-_Hearthstone.jpg/revision/latest/scale-to-width-down/90?cb=20180703011823)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Sanguine_Reveler_-_Hearthstone.jpg/revision/latest?cb=20180703011823)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Arrogant_Crusader_HS.jpg/revision/latest/scale-to-width-down/90?cb=20190105132539)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Arrogant_Crusader_HS.jpg/revision/latest?cb=20190105132539)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Corpsetaker_HS.jpg/revision/latest/scale-to-width-down/90?cb=20190105132511)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Corpsetaker_HS.jpg/revision/latest?cb=20190105132511)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Fallen_Sun_Cleric_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220801105309)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Fallen_Sun_Cleric_HS.jpg/revision/latest?cb=20220801105309)
+    
+
+RTS series
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7e/BTNBansheeRanger.png/revision/latest?cb=20090111200801)](https://static.wikia.nocookie.net/wowpedia/images/7/7e/BTNBansheeRanger.png/revision/latest?cb=20090111200801)
+    
+-   [![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/DarkRanger.gif/revision/latest?cb=20070807235231)
+    
+    Dark Ranger portrait in _Warcraft III: The Frozen Throne_.
+    
+-   [![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Darkranger2.gif/revision/latest?cb=20061126182002)
+    
+    Dark Ranger hero unit in _Warcraft III: The Frozen Throne_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Reforged_credits_art_1.png/revision/latest/scale-to-width-down/120?cb=20200518201206)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Reforged_credits_art_1.png/revision/latest?cb=20200518201206)
+    
+    Dark Ranger art from _Warcraft III: Reforged_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/BTNSylvanas.png/revision/latest/scale-to-width-down/120?cb=20210516060023)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/BTNSylvanas.png/revision/latest?cb=20210516060023)
+    
+    [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner_(dark_ranger) "Sylvanas Windrunner (dark ranger)") portrait from _Warcraft III: Reforged_.
+    
+
+_Heroes of the Storm_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Sylvanas_HotS.jpg/revision/latest/scale-to-width-down/91?cb=20160112231517)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Sylvanas_HotS.jpg/revision/latest?cb=20160112231517)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Sylvanas_HotS_Dark_Lady_San%27layn.jpg/revision/latest/scale-to-width-down/89?cb=20180703014235)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Sylvanas_HotS_Dark_Lady_San%27layn.jpg/revision/latest?cb=20180703014235)
+    
+    San'layn Dark Lady Sylvanas.
+    
+
+## References
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives "Template:Azeroth natives")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives?action=edit)
+
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") native to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |
+|  |
+| [Ancient guardian](https://wowpedia.fandom.com/wiki/Ancient_guardian "Ancient guardian") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Cenarius#Children" title="Cenarius">Cenarian</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dryad" title="Dryad">Dryad</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crystal_dryad" title="Crystal dryad">Crystal dryad</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forest_nymph" title="Forest nymph">Forest nymph</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_nymph" title="Frost nymph">Frost nymph</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Keeper_of_the_grove" title="Keeper of the grove">Keeper of the grove</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Centaur" title="Centaur">Centaur</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Magnataur" title="Magnataur">Magnataur</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Harpy" title="Harpy">Harpy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jalgar" title="Jalgar">Jalgar</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Furbolg" title="Furbolg">Furbolg</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Quilboar_brute" title="Quilboar brute">Quilboar brute</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Worgen" title="Worgen">Worgen</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Troll/Elf | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Troll" title="Troll">Troll</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blood_troll" title="Blood troll">Blood troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dark_troll" title="Dark troll">Dark troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dire_troll" title="Dire troll">Dire troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forest_troll" title="Forest troll">Forest troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ice_troll" title="Ice troll">Ice troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jungle_troll" title="Jungle troll">Jungle troll</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Sand_troll" title="Sand troll">Sand troll</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Zandalari_troll" title="Zandalari troll">Zandalari troll</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Night_elf" title="Night elf">Night elf</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crystal_satyr" title="Crystal satyr">Crystal satyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Naga" title="Naga">Naga</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Naga_brute" title="Naga brute">Brute</a></li><li><a href="https://wowpedia.fandom.com/wiki/Naga_centaur" title="Naga centaur">Centaur</a></li><li><i><a href="https://wowpedia.fandom.com/wiki/Naga_lord" title="Naga lord">Lord</a></i></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/High_elf" title="High elf">High elf</a>/<a href="https://wowpedia.fandom.com/wiki/Blood_elf" title="Blood elf">Blood elf</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Felblood_elf" title="Felblood elf">Felblood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Void_elf" title="Void elf">Void elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wretched" title="Wretched">Wretched</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nightborne" title="Nightborne">Nightborne</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Nightfallen" title="Nightfallen">Nightfallen</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Withered" title="Withered">Withered</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Fal%27dorei" title="Fal'dorei">Fal'dorei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felborne" title="Felborne">Felborne</a></li></ul></li><li><strong>Darkfallen</strong></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Other | 
+
+<table><tbody><tr><td colspan="2"><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonkin" title="Dragonkin">Dragonkin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drogbar" title="Drogbar">Drogbar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ettin" title="Ettin">Ettin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fungarian" title="Fungarian">Fungarian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Grell" title="Grell">Grell</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hozen" title="Hozen">Hozen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Makrura" title="Makrura">Makrura</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mermaid" title="Mermaid">Mermaid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mistlurker" title="Mistlurker">Mistlurker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pandaren" title="Pandaren">Pandaren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pixie" title="Pixie">Pixie</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ranishu" title="Ranishu">Ranishu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saurok" title="Saurok">Saurok</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethrak" title="Sethrak">Sethrak</a></li><li><a href="https://wowpedia.fandom.com/wiki/Siren" title="Siren">Siren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sprite" title="Sprite">Sprite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Titan-forged" title="Titan-forged">Titan-forged</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tortollan" title="Tortollan">Tortollan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tuskarr" title="Tuskarr">Tuskarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Virmen" title="Virmen">Virmen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vulpera" title="Vulpera">Vulpera</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildkin" title="Wildkin">Wildkin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wolvar" title="Wolvar">Wolvar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Yaungol" title="Yaungol">Yaungol</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Taunka" title="Taunka">Taunka</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tauren" title="Tauren">Tauren</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Highmountain_tauren" title="Highmountain tauren">Highmountain</a></li></ul></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Goblin/Pygmy</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Goblin" title="Goblin">Goblin</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Hobgoblin" title="Hobgoblin">Hobgoblin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gilgoblin" title="Gilgoblin">Gilgoblin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Pygmy" title="Pygmy">Pygmy</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Gorloc</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Gorloc" title="Gorloc">Gorloc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jinyu" title="Jinyu">Jinyu</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ankoan" title="Ankoan">Ankoan</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Murloc" title="Murloc">Murloc</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Deep_sea_murloc" title="Deep sea murloc">Deep sea</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27gul" title="Mur'gul">Mur'gul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mutant_murloc" title="Mutant murloc">Mutant</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Unknown relation</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Jungle_stalker" title="Jungle stalker">Jungle stalker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sasquatch" title="Sasquatch">Sasquatch</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wendigo" title="Wendigo">Wendigo</a></li><li><a href="https://wowpedia.fandom.com/wiki/Yeti" title="Yeti">Yeti</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| 
+
+This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Scourge "Template:Scourge")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Scourge?action=edit)
+
+[Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+    -   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+    -   [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")
+    -   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Amnennar the Coldbringer](https://wowpedia.fandom.com/wiki/Amnennar_the_Coldbringer "Amnennar the Coldbringer")
+-   [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak")
+-   [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare")
+-   [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel")
+-   [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric")
+-   [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")
+-   [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron")
+-   [Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper")
+-   [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn")
+-   [Professor Putricide](https://wowpedia.fandom.com/wiki/Professor_Putricide "Professor Putricide")
+-   [Shade of Arugal](https://wowpedia.fandom.com/wiki/Shade_of_Arugal "Shade of Arugal")
+-   [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa")
+
+
+
+ |
+|  |
+| Undead types | 
+
+<table><tbody><tr><th scope="row">Corporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Abomination" title="Abomination">Abomination</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mutated_abomination" title="Mutated abomination">Mutated abomination</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_giant" title="Flesh giant">Flesh giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_titan" title="Flesh titan">Flesh titan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague-dog" title="Plague-dog">Plague-dog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wight" title="Wight">Wight</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Crypt_fiend" title="Crypt fiend">Crypt fiend</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crypt_lord" title="Crypt lord">Crypt lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Gargoyle" title="Gargoyle">Gargoyle</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dire_gargoyle" title="Dire gargoyle">Dire</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Geist" title="Geist">Geist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghoul" title="Ghoul">Ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragon" title="Plagued dragon">Plagued dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague_eruptor" title="Plague eruptor">Plague eruptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Zombie" title="Zombie">Zombie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Undead_(playable)" title="Undead (playable)">Forsaken</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mummy" title="Mummy">Mummy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li><li><strong>Darkfallen</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Scourge_troll" title="Scourge troll">Scourge troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vargul" title="Vargul">Vargul</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Incorporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Banshee" title="Banshee">Banshee</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghost" title="Ghost">Ghost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shade" title="Shade">Shade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val%27kyr" title="Val'kyr">Val'kyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wraith" title="Wraith">Wraith</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Skeletal_creature" title="Skeletal creature">Skeletal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_golem" title="Bone golem">Bone golem</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bone_wraith" title="Bone wraith">Bone wraith</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lich" title="Lich">Lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeleton" title="Skeleton">Skeleton</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_mage" title="Skeletal mage">Mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_warrior" title="Skeletal warrior">Warrior</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Skeletal dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Living followers | 
+
+-   [Ice troll](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll")
+-   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frost_vrykul "Frost vrykul")
+-   [Wendigo](https://wowpedia.fandom.com/wiki/Wendigo "Wendigo")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+-   [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel")
+-   [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas")
+-   [Shadowfang Tower](https://wowpedia.fandom.com/wiki/Shadowfang_Tower "Shadowfang Tower")
+-   [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")
+-   [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep "Utgarde Keep")
+-   [Voltarus](https://wowpedia.fandom.com/wiki/Voltarus "Voltarus")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+-   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+-   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")
+-   [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Black Guard](https://wowpedia.fandom.com/wiki/Black_Guard "Black Guard")
+-   [Boneguard](https://wowpedia.fandom.com/wiki/Boneguard_(Scourge) "Boneguard (Scourge)")
+-   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+    -   [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")
+    -   [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin")
+-   [Death's Head tribe](https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe "Death's Head tribe")
+-   [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") orders
+    -   [Four Horsemen](https://wowpedia.fandom.com/wiki/Four_Horsemen "Four Horsemen")
+    -   [Host of Suffering](https://wowpedia.fandom.com/wiki/Host_of_Suffering "Host of Suffering")
+-   [Drakuru trolls](https://wowpedia.fandom.com/wiki/Drakuru_trolls "Drakuru trolls")
+-   [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood")
+-   [Mad scientists](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist")
+-   [Nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian")
+    -   [Ahn'kahar](https://wowpedia.fandom.com/wiki/Ahn%27kahar "Ahn'kahar")
+    -   [Anub'ar](https://wowpedia.fandom.com/wiki/Anub%27ar "Anub'ar")
+    -   [Hath'ar](https://wowpedia.fandom.com/wiki/Hath%27ar "Hath'ar")
+    -   [Nerub'ar](https://wowpedia.fandom.com/wiki/Nerub%27ar "Nerub'ar")
+    -   [Nerubis](https://wowpedia.fandom.com/wiki/Nerubis "Nerubis")
+-   [Rot Hide tribe](https://wowpedia.fandom.com/wiki/Rot_Hide_tribe "Rot Hide tribe")
+-   [The San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn")
+    -   [Blood Prince Council](https://wowpedia.fandom.com/wiki/Blood_Prince_Council "Blood Prince Council")
+-   [Splinterbone](https://wowpedia.fandom.com/wiki/Splinterbone_skeletons "Splinterbone skeletons")
+-   [Vrykul clans](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Dragonflayer clan](https://wowpedia.fandom.com/wiki/Dragonflayer_clan "Dragonflayer clan")
+    -   [Mjordin](https://wowpedia.fandom.com/wiki/Mjordin "Mjordin")
+    -   [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim_vrykul "Jotunheim vrykul")
+    -   [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan")
+    -   [Valkyrion Hyldnir](https://wowpedia.fandom.com/wiki/Valkyrion "Valkyrion")
+    -   [Ymirjar](https://wowpedia.fandom.com/wiki/Ymirjar "Ymirjar")
+-   [Wolfcult](https://wowpedia.fandom.com/wiki/Wolfcult "Wolfcult")
+
+
+
+ |
+|  |
+| Defectors | 
+
+-   [Death Knights of Acherus](https://wowpedia.fandom.com/wiki/Death_Knights_of_Acherus "Death Knights of Acherus")
+    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade")
+    -   [Dark Riders of Acherus](https://wowpedia.fandom.com/wiki/Dark_Riders_of_Acherus "Dark Riders of Acherus")
+-   [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+
+
+
+ |
+|  |
+| Buildings & constructs | 
+
+-   [Ziggurat](https://wowpedia.fandom.com/wiki/Ziggurat "Ziggurat")
+-   [Necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis")
+-   [Plague spreader](https://wowpedia.fandom.com/wiki/Plague_spreader "Plague spreader")
+-   [Soul grinder](https://wowpedia.fandom.com/wiki/Soul_grinder "Soul grinder")
+
+
+
+ |
+|  |
+| 
+
+-   [Civil War in the Plaguelands](https://wowpedia.fandom.com/wiki/Civil_War_in_the_Plaguelands "Civil War in the Plaguelands")
+-   [Undead category](https://wowpedia.fandom.com/wiki/Category:Undead "Category:Undead")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Elves "Template:Elves")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Elves?action=edit)
+
+[Elven](https://wowpedia.fandom.com/wiki/Elf "Elf") groups
+
+
+
+ |
+| --- |
+|  |
+| [High](https://wowpedia.fandom.com/wiki/High_elf "High elf")/[Void](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")/[Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") | 
+
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Highvale](https://wowpedia.fandom.com/wiki/Highvale "Highvale")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Void elf](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)")
+-   [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Scryers](https://wowpedia.fandom.com/wiki/Scryers "Scryers")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") ~[Silvermoon Remnant](https://wowpedia.fandom.com/wiki/Silvermoon_Remnant "Silvermoon Remnant")~
+
+
+
+ |
+|  |
+| [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") | 
+
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Darnassian night elves](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Shen'dralar](https://wowpedia.fandom.com/wiki/Shen%27dralar "Shen'dralar")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne")
+
+
+
+ |
+|  |
+| [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") | 
+
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen "Nightfallen")
+-   [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Felborne](https://wowpedia.fandom.com/wiki/Felborne "Felborne")
+
+
+
+ |
+|  |
+| Mutated | 
+
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Fal'dorei](https://wowpedia.fandom.com/wiki/Fal%27dorei "Fal'dorei")
+-   [Wretched](https://wowpedia.fandom.com/wiki/Wretched "Wretched")
+-   [Felblood elf](https://wowpedia.fandom.com/wiki/Felblood_elf "Felblood elf")
+-   [Withered](https://wowpedia.fandom.com/wiki/Withered "Withered")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   **Darkfallen**
+
+
+
+ |

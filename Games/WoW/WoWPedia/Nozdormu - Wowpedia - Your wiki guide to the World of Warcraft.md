@@ -1,0 +1,586 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Nozdormu |
+| --- |
+| [![Image of Nozdormu](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Dragonflight_Nozdormu_Bayard_Wu.png/revision/latest/scale-to-width-down/200?cb=20221116225122)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Dragonflight_Nozdormu_Bayard_Wu.png/revision/latest?cb=20221116225122 "Image of Nozdormu") |
+| Title | The Timeless One,  
+the Timeless,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-1">[1]</a></sup>  
+Aspect of Time,  
+Bronze Aspect<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-2">[2]</a></sup>  
+The Lord of Time,<sup id="cite_ref-The_Well_of_Eternity_3-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-The_Well_of_Eternity-3">[3]</a></sup>  
+Lord of the Centuries,<sup id="cite_ref-Day_of_the_Dragon_4-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Day_of_the_Dragon-4">[4]</a></sup>  
+Master of Time,<sup id="cite_ref-Day_of_the_Dragon_4-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Day_of_the_Dragon-4">[4]</a></sup>  
+Dragon of the Ages,<sup id="cite_ref-The_Well_of_Eternity_3-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-The_Well_of_Eternity-3">[3]</a></sup>  
+Guardian of Time<sup id="cite_ref-Thrall:_Twilight_of_the_Aspects_5-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Thrall:_Twilight_of_the_Aspects-5">[5]</a></sup> |
+| Gender | Male |
+| Race(s) | [Bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") / [Wyrm](https://wowpedia.fandom.com/wiki/Wyrm "Wyrm") (Dragonkin) |
+| Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight"), [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord") |
+| Former affiliation(s) | [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") |
+| Occupation | Leader of the Bronze dragonflight |
+| Former occupation(s) | Aspect of of the bronze dragonflight, Guardian of Azeroth's timestreams |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Nozdormu#Locations) |
+| Status | Alive |
+| Relative(s) | [Soridormi](https://wowpedia.fandom.com/wiki/Soridormi "Soridormi") (prime consort), [Anachronos](https://wowpedia.fandom.com/wiki/Anachronos "Anachronos") (son and heir), [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond") (future self) |
+
+“At last it has come to pass. The moment of my demise. The loop is closed. My future self will cause no more harm. Still, in time, I will... fall to madness. And you, heroes... will vanquish me. The cycle will repeat. So it goes. What matters is that Azeroth did not fall; that we survived to fight another day. All that matters... is this moment.”
+
+— Nozdormu upon the defeat of his [corrupted future self](https://wowpedia.fandom.com/wiki/Murozond "Murozond") in the [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time")
+
+**Nozdormu the Timeless One**, aspect of the [bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") and guardian of time, is one of the former [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") empowered by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") to watch over [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). He fought against the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). Following this intervention, he retreated into seclusion, immersing himself in his duties. He emerges only infrequently when events require his direct presence. He intervened in the defeat of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") at the hands of [Krasus](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") and his allies, one of the few times he has been seen in the skies of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").
+
+With the threat of the [infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") and the advent of the [Shattering](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), Nozdormu found himself less able to ignore the needs of his fellow Aspects and their allies. After aiding in the defeat of Deathwing's abominable creation [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus") and his own [insane future self](https://wowpedia.fandom.com/wiki/Murozond "Murozond"), the Aspect of Time joined his brother and sister Aspects in killing Deathwing [once and for all](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing"), but at the cost of most of his power, becoming mortal.
+
+## Biography
+
+### Dawn of the Aspects (past)
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest/scale-to-width-down/300?cb=20220228210748)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest?cb=20220228210748)
+
+The Dragon Aspects, before they were Aspects, facing Galakrond.
+
+In Azeroth's ancient past, the Dragon Aspects were [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") who stood united against a foe who threatened their entire species: the bloodthirsty Father of Dragons, [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-6">[6]</a></sup> Nozdormu was a dust-brown male who first met [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") and [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") when he saved them from being devoured by Galakrond.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-7">[7]</a></sup> He was contemplative and, like Malygos, seemed to be relatively intelligent even compared to other sentient proto-dragons.
+
+Like the other proto-dragons Nozdormu rallied under [Talonixa](https://wowpedia.fandom.com/wiki/Talonixa "Talonixa") by accepting her as alpha in order to deal with the threat of Galakrond and the [not-living](https://wowpedia.fandom.com/wiki/Not-living "Not-living"). During this time Nozdormu quickly became fast friends with Malygos, Neltharion, Alexstrasza, and Ysera. While not agreeing with all of Ysera's beliefs Nozdormu was rather stunned at Talonixa's deception of herding the bitten into a cave and then collapsing it on them, which eventually killed all the bitten who had begun to act like Galakrond.
+
+Nozdormu later found himself as part of Talonixa's proto-dragon army that moved to combat Galakrond. Before the proto-dragon army engaged their enemy in battle Malygos devised a plan in which the army would fly higher in the air where Galakrond could not fly. Quickly informing Talonixa of his plan Malygos was relived that to note that she was considering it. However, hearing his sigh Talonixa took it as a sign of Malygos's satisfaction of her bowing to his wisdom and engaged Malygos in battle. While Nozdormu and Neltharion were quick to help Malygos, Talonixa was helped by her two lieutenants. Despite Nozdormu encouraging a retreat, Neltharion openly called for Malygos to fight Talonixa and became the new alpha an action which enraged Talonixa and brought more of her followers to join her, which caused the trio to flee high into the air.
+
+Using his not-living Galakrond was able to lure Talonixa's army into a trap where he erupted from the ground when the army was in position and swiftly shattered it. After killing Talonixa, Galakrond was unable to devour the fast of the army due to the actions of Malygos, Nozdormu, and Neltharion. As Malygos broke off to find Ysera and Alexstrasza, Galakrond ended engaging in battle against the future aspects only to be driven off by Tyr after being stunned by his hammer.
+
+An unknown time later, Tyr met with the five proto-dragons, informing them that Galakrond was sleeping in a mountain range to the north and that it was the perfect time to attack. He told them to eat before doing so, and just before they left Tyr held the octagonal artifact before Nozdormu and Neltharion as he had to the others before. After doing so, Tyr vanished in the blink of an eye.
+
+Tyr and the proto-dragons met up near Galakrond's slumbering place, which Kalecgos would later note in his visions was nowhere near Galakrond's Rest. Save for Ysera, they all began the battle against Galakrond, who had grown larger and even more mutated than before. Throughout the battle, the octagonal object on Tyr's belt glowed ever brighter. When Galakrond suddenly expanded in size without warning, Tyr's hammer could no longer harm him. With a flap of wings, Galakrond called up a massive wind that scattered the fighters. Ysera suddenly appeared and Galakrond attempted to devour her, but Tyr silenced his laughter with a mighty blow from his hammer. Tyr pulled Galakrond to the ground and began to mercilessly beat him even as Galakrond began mutating further - as he began to resemble a true dragon.
+
+In the battle, Tyr's hammer and the strange artifact were knocked free from his person. Tyr reached to grab the artifact, just as Galakrond's massive maw came within range and the monster clamped down on Tyr's hand. Malygos moved to save Tyr, examining the bloody stump as Galakrond roared in triumph and grew ever larger. An unconscious Tyr was brought to a frozen lake by the proto-dragons, only to vanish from the shore. After being attacked by two not-living Ysera and the others found they could not find Tyr where they left him, concluding that some beast must have taken him for food.
+
+After recuperating Nozdormu and the others decide to hunt down Galakrond in order to kill him once and for all or die trying. Nozdormu, along with the others would be stunned to learn that Galakrond had begun to devour the not-living in order to feed his hunger and shortly after would engage in battle with the behemoth. During the battle, Nozdormu would work closely with Ysera and Galakrond would ultimately be killed after Malygos and Neltharion forced a boulder down his throat.
+
+After killing Galakrond, Nozdormu and the others were approached by two other watchers, who revealed that they had taken Tyr to help him. After Nozdormu agreed to protect Azeroth with his friends, the two watchers were joined by two others and the titan [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), acted through the keepers to transform Nozdormu and the others into the Dragon Aspects, where one of their first acts was to encourage the rumor that the titans created them from Galakrond. This was done to prevent the truth about Galakrond from leaking to ensure no one would follow in the behemoth's footsteps.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-8">[8]</a></sup> Specifically, [Highkeeper Ra](https://wowpedia.fandom.com/wiki/Highkeeper_Ra "Highkeeper Ra") channeled [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")'s powers to give Nozdormu (and through him, the future [bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight")) a portion of his mastery over time itself, enabling him to hold "dominion over the interweaving pathways of fate and destiny".<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-9">[9]</a></sup>
+
+### The Winterskorn War
+
+When fallen [Keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper") [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") instigated the [Winterskorn War](https://wowpedia.fandom.com/wiki/Winterskorn_War "Winterskorn War"), fought between the [Winterskorn](https://wowpedia.fandom.com/wiki/Winterskorn "Winterskorn") [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") and the [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen"), [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") and his allies fought on the earthen's side. However, when Tyr realized that they could not win against the [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan") alone he called upon the Dragon Aspects for aid. The noble Aspects grew enraged upon seeing so many dead titan-forged. Their fury only deepened when they learned that proto-dragons had been enslaved. Without hesitation, the Aspects took wing and unleashed their powers on the Winterskorn's iron ranks.
+
+Much as they had done in the fight against [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond"), the Aspects worked in unison to overwhelm the vrykul army. [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") held the Winterskorn at bay with towering walls of enchanted fire. [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") drained the magical essence that fueled the constructs and golems, rendering them useless. He also shattered the enchanted snares that bound the proto-dragons and set the beasts free. [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") raised mountains from the earth to corral and contain the vrykul and their giant masters. Lastly, [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and Nozdormu combined their powers to create a spell that would bring a decisive end to the conflict.
+
+Ysera and Nozdormu enveloped the Winterskorn in a cloying mist that caused them the titan-forged to fall asleep. These incapacitated creatures were then locked away in tombs cities across northern Kalimdor. They would not know the peaceful slumber of the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). Rather, they would languish in a timeless, unconscious slumber for thousands upon thousands of years.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-10">[10]</a></sup>
+
+### The War of the Ancients (past)
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Chronicle_Nordrassil_blessing.jpg/revision/latest/scale-to-width-down/180?cb=20160219184440)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Chronicle_Nordrassil_blessing.jpg/revision/latest?cb=20160219184440)
+
+Alexstrasza, Ysera, and Nozdormu blessing Nordrassil.
+
+Nozdormu was missing at this time because he was trapped in a time anomaly caused by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"). During the war, Nozdormu's interests were represented by his mate, [Soridormi](https://wowpedia.fandom.com/wiki/Soridormi "Soridormi"), who added a portion of Nozdormu's essence into the Dragon Soul in his absence, thus imbuing it with his power. At the end of the war, upon the destruction of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s portal and the halting of the Old Gods' attempt to escape, Nozdormu was freed from his entrapment. He assisted the other [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") with the creation of the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree"), [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"). Nozdormu placed an enchantment upon it to ensure that as long as the colossal tree stood, the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") would never age past their prime.
+
+### The Watchers
+
+The Bronze Dragonflight rescued [Xarantaur](https://wowpedia.fandom.com/wiki/Xarantaur "Xarantaur"), one of the first tauren druids, from death and took him before their master, Nozdormu. He granted him immortality as a Watcher, tasked to bear witness to the history of Azeroth as one of his agents. He also gave him the [Lorehammer](https://wowpedia.fandom.com/wiki/Lorehammer "Lorehammer"). At some point, he similarly blessed [Jonathan the Revelator](https://wowpedia.fandom.com/wiki/Jonathan_the_Revelator "Jonathan the Revelator").
+
+### Chronormu's visage
+
+Over the years, Nozdormu helped countless members of the bronze flight prepare for their [Visage Days](https://wowpedia.fandom.com/wiki/Visage_Day "Visage Day")—the ceremony in which dragons decide what their mortal form will be. The young bronze dragon [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu"), who could not make up his mind about what visage he would choose, at one point sought out Nozdormu at the [Bronze Dragonshrine](https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine "Bronze Dragonshrine") to seek his counsel and ramblingly tried to ask if he could reveal what visage the future Chronormu would choose. After getting him to calm down, the Bronze Aspect assumed his own mortal guise and stated that just as the dragons' visages allowed them to see the world as the young races do, it informed how the young races perceived the dragons. Since this choice was deeply personal, he would not say anything that might sway Chronormu's decision and instead advised him to seek out other dragons—friends or otherwise—to learn how they made their choices.
+
+When the day of the ceremony arrived, Nozdormu was in attendance at [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple")—as befit the Visage Days for members of his flight—and announced the beginning of the ceremony and the arrival of Alexstrasza, who officiated the event. After it was revealed that Chronormu had chosen the form of the female [gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome") Chromie, Nozdormu told her that she had made a wise choice (though he refused to say if he'd known all along what her decision would be).<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-11">[11]</a></sup>
+
+### Day of the Dragon
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Chronicle3_Alexstrasza.jpg/revision/latest/scale-to-width-down/180?cb=20180806225234)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Chronicle3_Alexstrasza.jpg/revision/latest?cb=20180806225234)
+
+The Aspects battling Deathwing as Alexstrasza breaks free of the Dragonmaw.
+
+During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), the [orcish](https://wowpedia.fandom.com/wiki/Orc "Orc") [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") [Nekros](https://wowpedia.fandom.com/wiki/Nekros "Nekros") managed to get a hold of the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"). He used it to enslave [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), the Queen of the [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), and force her brood to serve the orcs. It was eventually destroyed at [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol") by the mage [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), who had obtained a scale from [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") himself (since Deathwing was the only dragon not to add his power, his matter was the only thing that could harm the object). Nozdormu, convinced by [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") (who had been appealed to by [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus")) to help, finally aided the other [Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") in chasing off Deathwing after the Demon Soul was destroyed.
+
+### The Third War
+
+Nozdormu had no real involvement in the second invasion of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), but he did make a choice that affects the world still today. When the mortal races banded together and made a last stand at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") was sacrificed to destroy [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"), the night elves once again became mortal. The [druids](https://wowpedia.fandom.com/wiki/Druid "Druid"), led by [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm"), created a new World Tree off the coast of Kalimdor and named it [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"), however, this tree did not receive Nozdormu's, or any other Aspect's, blessing.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-12">[12]</a></sup>
+
+### The War of the Ancients (present)
+
+After the end of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the [human](https://wowpedia.fandom.com/wiki/Human "Human") [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") was called away, once again, by his friend and mentor, the dragon-mage [Krasus](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). Nozdormu, trapped between different times, had barely managed to contact Krasus and draw his attention to a strange anomaly in the mountains of Kalimdor. Krasus convinced Rhonin to travel with him to Kalimdor to investigate. Meanwhile, the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar") and [Gaskal](https://wowpedia.fandom.com/wiki/Gaskal "Gaskal") were sent by their [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") on a similar mission, having caught wind of the strange event taking place nearby. Once there, Krasus, Rhonin, and Brox discovered a 'hole' in time. They were pulled in and ended up 10,000 years in the past, just before the first invasion of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+
+After the war ended and the heroes returned, he had a brief conversation with Krasus, where he thanked him for his assistance and agreed to temporarily watch over the clutch of blue dragon eggs the dragon-mage had saved. This marked one of the few (if not the only) times the Aspect had allowed the timeline to be altered, in the belief that a few blue dragons would be better than no blue dragons and then apologized for the wrongs he would commit in the future.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-13">[13]</a></sup> After their mission was complete, Nozdormu returned Krasus and Rhonin to the present. The sanctity of the timeways had been upheld, but it would not be the last time that anomalies would appear in history. Nozdormu became obsessed with unraveling the mystery of [what](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") - or [who](https://wowpedia.fandom.com/wiki/Murozond "Murozond") - was responsible. He disappeared into the timeways and would not be seen again for years.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-14">[14]</a></sup>
+
+### The Burning Crusade
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+Nozdormu's whereabouts during this period are unknown. Ruling the Bronze flight in his stead are [Anachronos](https://wowpedia.fandom.com/wiki/Anachronos "Anachronos") (leader of the [Brood of Nozdormu](https://wowpedia.fandom.com/wiki/Brood_of_Nozdormu "Brood of Nozdormu")), Prime Consort [Soridormi](https://wowpedia.fandom.com/wiki/Soridormi "Soridormi") (leader of the [Scale of the Sands](https://wowpedia.fandom.com/wiki/Scale_of_the_Sands "Scale of the Sands")), and [Andormu](https://wowpedia.fandom.com/wiki/Andormu "Andormu") and his sister [Nozari](https://wowpedia.fandom.com/wiki/Nozari "Nozari") (leaders of the [Keepers of Time](https://wowpedia.fandom.com/wiki/Keepers_of_Time "Keepers of Time")).
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Nozdormu_Dragonblight_New.jpg/revision/latest/scale-to-width-down/180?cb=20111007172821)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Nozdormu_Dragonblight_New.jpg/revision/latest?cb=20111007172821)
+
+Nozdormu at the Bronze Dragonshrine.
+
+Though absent for most of the plot, Nozdormu is seen briefly at the [Bronze Dragonshrine](https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine "Bronze Dragonshrine") during the quests  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Mystery of the Infinite](https://wowpedia.fandom.com/wiki/Mystery_of_the_Infinite) and  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Mystery of the Infinite, Redux](https://wowpedia.fandom.com/wiki/Mystery_of_the_Infinite,_Redux), where he appears as a vision as the "leader of the [Infinite Dragonflight](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")". [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") dismisses the vision as incorrect, since it makes no sense to her.
+
+### Cataclysm
+
+#### Thrall: Twilight of the Aspects
+
+Following [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera")'s instructions Thrall and a green dragon named [Desharin](https://wowpedia.fandom.com/wiki/Desharin "Desharin") traveled to the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time") and became aware that even the bronze dragonflight did not know where Nozdormu was. Thrall, however, becomes aware of the Infinite dragonflight, and is told that his escape from Durnholde Keep was one such example of the Infinite dragonflight's attack. So Thrall and Desharin attempted to mediate on helping the Bronze dragons to find Nozdormu when an assassin - later to be revealed as [Aedelas Blackmoore](https://wowpedia.fandom.com/wiki/Aedelas_Blackmoore_(alternate_universe) "Aedelas Blackmoore (alternate universe)") from an alternate timeline - decapitates the green dragon. Thrall was rescued by a Bronze and hurled into one of the Caverns of Time portals. After a few adventures in different timelines, Thrall asked the elements to help him find Nozdormu. In that moment, an image of the Timeless One appeared before him, beckoning Thrall forward. He appeared in different times of his life, and each time, an image of Nozdormu was present in that specific "timeline." Finally, he found himself into an alternate timeline. After a spirited conversation, Thrall came to the realization that there are not multiple timelines, but only one. One past, one present, and one future. He realized that Nozdormu must be trapped in all moments of time at once, and that he now knew where to find him. He closed his eyes and found himself outside of the Timeline, floating in space but not-space, with infinite portals to the timeline around him. He found himself back in the Caverns of Time with Nozdormu, and on each one of the Timeless One's scales was a portal to a moment in Thrall's past, present, and future. Nozdormu came to the realization that he became lost in time after Thrall's alternating between various events of his life, some that have happened, some that should have never happened. Nozdormu then told Thrall that every single event in Azeroth's history, all the harm that came to the Aspects, the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"), the madness of Neltharion and Malygos, are all intertwined, orchestrated by the same dark hand. Nozdormu became stuck in time while trying to figure out who was responsible for it and to prevent it. And he realized, that the one responsible for sending Blackmoore after Thrall was himself. Nozdormu explained that in one of the potential futures, he will become the leader of the Infinite Dragonflight. He further explained that he had not yet figured out how to stop himself from becoming the leader of the Infinite Dragonflight, but made it abundantly clear that he did not wish to become it. So Nozdormu told Thrall that his next task must be to rouse Alexstrasza from her grief of losing [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"). She couldn't get over the fact that Korialstrasz would have destroyed the [Chamber of the Aspects](https://wowpedia.fandom.com/wiki/Chamber_of_the_Aspects "Chamber of the Aspects").
+
+Later during the Aspects fight against [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus") the Bronze dragons, with Nozdormu at their front, joined the battle. However, the first thing the Timeless One urged was they all had to retreat, stating that if they had persisted, they all would have died as he had seen this in the timelines. As they fled, Nozdormu explained that they were all born as a part of something whole. And they realized that they were only four parts out of five, and as long as the fifth part remained empty, they would not be able to defeat Chromatus. So Thrall offered to give his spirit of Earth in the battle with Chromatus, so that all five spirits of the Aspects were whole once more. The four Aspects renewed their attack upon Chromatus after the ritual, but this time with a much more unified power. With their combined power, Chromatus fell, lifeless, to the ground. The Aspects attempted to destroy the husk of Chromatus but were unable to do so. [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") stated that Malygos created a number of Arcane Prisons during the [Nexus War](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War"), and Alexstrasza decided that representatives from all the flights will watch over him, as he is not dead.
+
+After the battle, Nozdormu took the time to explain that in one of the future timeways, he becomes the leader of the Infinite Dragonflight. Stunned, the three other Aspect listened as Nozdormu explained why he was late to the final battle: He was following another thread of information. He discovered who was behind the vast and dreadful conspiracy: The [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"). Nozdormu confirmed that they caused all of the horrible events against the Dragonflights and Azeroth. He stated that he believes even himself becoming the [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") leader in one timeline is caused by the Old Gods. Ysera told them all that they need to continue to fight as one, in order to avoid the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"). Before Thrall left, each of the Aspects gave him a scale from their hides, representing what he had done for each of them. The Bronze dragon [Tick](https://wowpedia.fandom.com/wiki/Tick_(drake) "Tick (drake)") told Thrall that whenever he needs the aid of the Dragonflights, he can use the scales.<sup id="cite_ref-Thrall:_Twilight_of_the_Aspects_5-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-Thrall:_Twilight_of_the_Aspects-5">[5]</a></sup>
+
+#### Rage of the Firelands
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Nozdormu appears as himself in patch 4.2 during the [Elemental Bonds questline](https://wowpedia.fandom.com/wiki/Elemental_Bonds_questline "Elemental Bonds questline") intro. He is present during the meeting to restore the world tree along with Ysera, Alexstrasza, Kalecgos, Malfurion, Thrall and [Aggra](https://wowpedia.fandom.com/wiki/Aggra "Aggra").
+
+After Thrall's wedding he says to players when you click on him:
+
+_Yes, <class>, things appear bleak. But know that even as things appear to unravel, they do so with greater purpose._
+
+_<Despite his comforting words, Nozdormu looks stricken, if not ill.>_
+
+#### Charge of the Aspects
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Nozdormu_Tick_Zirion.jpg/revision/latest/scale-to-width-down/180?cb=20120310011113)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Nozdormu_Tick_Zirion.jpg/revision/latest?cb=20120310011113)
+
+Nozdormu and Tick with the dying Zirion.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Alexstrasza_Nozdormu.jpg/revision/latest/scale-to-width-down/180?cb=20120310011109)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Alexstrasza_Nozdormu.jpg/revision/latest?cb=20120310011109)
+
+Alexstrasza and Nozdormu in Hyjal.
+
+Nozdormu arrives at Mount Hyjal to find [Tick](https://wowpedia.fandom.com/wiki/Tick_(drake) "Tick (drake)") and a dying [Zirion](https://wowpedia.fandom.com/wiki/Zirion "Zirion"). Zirion is leaking the [Sands of Time](https://wowpedia.fandom.com/wiki/Sands_of_Time "Sands of Time") which Nozdormu attempts to reverse to no effect. He is shocked to discover that his powers had been predicted and countered by equally powerful spellwork. Tick then says Zirion came from the future, the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"). Nozdormu realized that he would descend into madness with the Hour of Twilight. He asks how Zirion was injured, and Tick answers saying that it was the [Infinite Dragonflight](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight") and their [leader](https://wowpedia.fandom.com/wiki/Murozond "Murozond"). Nozdormu then pleads for forgiveness from Zirion before he passes away. Zirion uses the last of his strength to look away from the Timeless One with a look of terror in his eyes. Nozdormu then ventures to Nordrassil to have a meeting with the other aspects when he explains that he killed Zirion and will become the Infinite leader. [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") ponders the thought of an aspect being charged to protect their flight but then killing one of their own before Nozdormu departed.
+
+Shortly afterwards, Ysera and Kalecgos come up with an idea of retrieving the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") from the past to vanquish Deathwing. After telling Alexstrasza, the Dragonqueen departs to tell Nozdormu. The two aspects eventually meet and discuss the plan. Nozdormu admitting that he once pondered on whether he should go back in time and save the dragonflights and Malygos. They debate on Alexstrasza's intentions but eventually agree that sometimes life must be taken in order to preserve it. Nozdormu then returns, and the aspects work out a plan which involves going to the future to defeat Murozond and open the timeways to allow them to retrieve the Dragon Soul during the [War of the Ancients](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)"). The aspects then ask [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") to wield the Dragon Soul for no dragon can use it without causing themselves harm. Thrall agrees but asks if the [short-lived races](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") can assist him. Alexstrasza agrees. Not long afterwards, Kalecgos brings up the fact that the Titans blessed the aspects for a reason, to stop the Hour of Twilight, but what would become of them afterwards. The aspects establish that they are intended to preserve the gifts they were given, for time, life, nature and magic last forever.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-15">[15]</a></sup>
+
+#### End Time
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Murozond_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20120809090213)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Murozond_TCG.jpg/revision/latest?cb=20120809090213)
+
+Murozond, Lord of the Infinite
+
+The Dragon Aspects, with allegiance from Thrall, have devised a dangerous and unorthodox strategy to bring [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") down once and for all. But to do so, they must acquire the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") from a pivotal moment in the distant past. One of an infinite number of potential outcomes, the "[End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time")" timeway depicts the desolate future of Azeroth should its defenders fail to stop Deathwing. In this bleak future, Nozdormu has identified an anomaly that bars access to both the past and the Dragon Soul: a powerful creature from out of time, living alone amid time-twisted echoes of the past. In order for Nozdormu to provide you the ability to travel back in time to a point before the Dragon Soul was hidden by [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") from anyone who'd seek its power, heroes must first go to a distant and desolate future to discover the anomaly blocking the past. The maniacal figure named [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond") blocking Nozdormu's vision has the ability to create a new and infinite dragonflight.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-16">[16]</a></sup>
+
+Murozond is, in fact, the future version of Nozdormu who will inevitably go mad and try to interfere with the past, thus his past self will send [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") into the future to strike him down. Right after Murozond is slain Nozdormu told them:
+
+_"At last it has come to pass. The moment of my demise. The loop is closed. My future self will cause no more harm._
+
+_Still, in the future, I will... fall to madness. And you, heroes... will vanquish me. The cycle will repeat. So it goes._
+
+_What matters is that Azeroth did not fall; that humanity survived to live another day._
+
+_All that matters... is this moment."_
+
+Fighting Murozond technically makes Nozdormu the second Aspect which can be fought and killed, [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") being the first, and [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") the third.
+
+He is later seen in the next instance of the Well of Eternity where he saves the Dragon Soul from falling into the collapsing font.
+
+#### Hour of Twilight
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Nozdormu_Elf.jpg/revision/latest/scale-to-width-down/180?cb=20181122141852)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Nozdormu_Elf.jpg/revision/latest?cb=20181122141852)
+
+Nozdormu humanoid form.
+
+After the Dragon Soul was brought to the present, it had to be transported by Thrall and mortal heroes to [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"), a place of great power connected to the [Chamber of the Aspects](https://wowpedia.fandom.com/wiki/Chamber_of_the_Aspects "Chamber of the Aspects"), where the artifact was originally imbued. Since Deathwing learned of their intent, he and his minions converged on the temple to waylay them at all costs. At Wyrmrest the Aspects infused it with their essences once again, making it more potent than it ever was. Kalecgos altered the Dragon Soul's properties so that it would affect Deathwing. But the artifact was imbued with the essences of the four Aspects and Deathwing never imparted his into it. To use the weapon to defeat him, they had to infuse it with the power of the Earth-Warder. Thrall possessed a portion - however small - of that exact thing: the essence of Azeroth itself. After the death of the twilight dragon [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion"), Thrall unleashed the Dragon Soul upon its creator. Wounded, Deathwing fled, attempting to return to the relative safety of [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), through the Maelstrom. Thrall, the Aspects, and the Adventurers gave chase, riding a gunship after the Aspect of Death, battling his personal escort along the way.
+
+After catching up, the adventurers leapt onto [Deathwing's back](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing "Spine of Deathwing") and began prying the elementium plates from his back, eventually making an opening big enough for Thrall to blast a hole into Deathwing's chest with the Dragon Soul, causing Deathwing to crash into the Maelstrom. The defenders of Azeroth briefly rejoiced at having rid themselves of the Destroyer, but Deathwing rose from the Maelstrom.
+
+Without his armor, Deathwing's molten form began to mutate, granting him a form far more terrifying than before. The [final battle for Azeroth](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") began in earnest, until one final surge of power from the Dragon Soul, infused with the complete essence of each Aspect, completely obliterated Deathwing, with Nozdormu using all his power to bind the moment in time and prevent the killing blow from ever being undone. After Deathwing's death, the remaining Aspects, having fulfilled their duty and expending all that remained of their ancient powers, became mortal. The glow in the Aspects eyes faded and the [Sands of Time](https://wowpedia.fandom.com/wiki/Sands_of_Time "Sands of Time") from Nozdormu's broken spaulder pour into his hand.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-17">[17]</a></sup> With the loss of Nozdormu's powers, the Dragon Soul was returned back in time to the point where it was taken.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-18">[18]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20120916185224)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest?cb=20120916185224)
+    
+    Nozdormu and the other Aspects face [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Nozdormu_Maelstrom.jpg/revision/latest/scale-to-width-down/120?cb=20111206161639)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Nozdormu_Maelstrom.jpg/revision/latest?cb=20111206161639)
+    
+    Nozdormu during the final battle against Deathwing.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20111206095821)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest?cb=20111206095821)
+    
+    Nozdormu in his humanoid form with the other Aspects after Deathwing is defeated.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Mortal_Nozdormu.jpg/revision/latest/scale-to-width-down/120?cb=20111206161525)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Mortal_Nozdormu.jpg/revision/latest?cb=20111206161525)
+    
+    Nozdormu becoming a mortal.
+    
+
+### Dawn of the Aspects (present)
+
+Adhering to their tradition to meet when the two moons of Azeroth were at a particular cycle, Nozdormu and the other former Aspects gathered together. When [Chromie](https://wowpedia.fandom.com/wiki/Chromie "Chromie") reports that the timeways appear to be a state of flux, possibly due to the moment of the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul")'s taking from the ancient past, Nozdormu states resolutely that the timeways are no longer the bronze dragonflight's concern, beyond his current ability to control, and thus fall now to the responsibility of the mortal races to protect. At the end of the brief meeting Nozdormu, along with Alexstrasza and Ysera, decided that they would officially end the Accord one month from now, to the shock of Kalecgos.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-19">[19]</a></sup>
+
+Later on, Nozdormu and the others responded Kalecgos's request for a meeting, where using an artifact from Watcher Tyr reminded them about their past battle against Galakrond and that they didn't need to be aspects to help safeguard the world. Agreeing with him, the other three decided to continue their affairs in protecting Azeroth and that the Accord would continue. They also swore Kalecgos to secrecy about the nature of Galakrond, as they did not want anyone to follow in his dark path.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-20">[20]</a></sup>
+
+### The Vow Eternal
+
+During [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion")'s quest for information on the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles"), he turned to Nozdormu for aid. However, Nozdormu refused to even grant him an audience. After the Dragon Isles were awakening, he joined the other dragons at the [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-21">[21]</a></sup>
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+#### Forbidden Reach
+
+When [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth"), one of the Dragon Aspects' ancient enemies called the [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates"), breaks free of her prison, Nozdormu travels to the [Forbidden Reach](https://wowpedia.fandom.com/wiki/Forbidden_Reach "Forbidden Reach") to confront her. Though she escapes, Nozdormu tells the [dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr") that had been slumbering on the island to go and warn the kingdoms of the world of her threat.
+
+#### Legacies
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Legacies_Nozdormu.jpg/revision/latest/scale-to-width-down/180?cb=20221227203106)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Legacies_Nozdormu.jpg/revision/latest?cb=20221227203106)
+
+Nozdormu as seen in _[Legacies](https://wowpedia.fandom.com/wiki/Legacies "Legacies")_.
+
+Nozdormu encounters the dracthyr [Scalecommander Emberthal](https://wowpedia.fandom.com/wiki/Scalecommander_Emberthal "Scalecommander Emberthal") and helps her with her amnesia by informing her of the history of dragonkind. He also enabled her help in order to discover a moment in history blocked from him, which turned out to be the exact moment [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") fell to the whispers of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") as he used their power to defeat and seal Raszageth.
+
+#### Dragon Isles
+
+Nozdormu later convened with [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos"), [Watcher Koranos](https://wowpedia.fandom.com/wiki/Watcher_Koranos "Watcher Koranos"), and [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") to discuss Raszageth's return. Though concerned about her freeing the other [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates"), Nozdormu was most concerned about the potential release of [Iridikron](https://wowpedia.fandom.com/wiki/Iridikron "Iridikron") and his hunger. Thus the decision was made that the Aspects would seek to reclaim their lost powers.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-22">[22]</a></sup>
+
+Sometime later, he traveled to [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken") within [Thaldraszus](https://wowpedia.fandom.com/wiki/Thaldraszus "Thaldraszus"), where [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") would inform him and [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") of his battle against [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-23">[23]</a></sup> In the subsequent meeting, Kalecgos revealed that while [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth") was fended off her storms still persisted around the Vakthros' tower. In return, Alexstrasza voiced her confusion on the matter as the other [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates") were not imprisoned within the [Azure Span](https://wowpedia.fandom.com/wiki/Azure_Span "Azure Span") and wondered what else she could be after, turning to Nozdormu for insight. However, he revealed that his vision was still clouded and remarked that for all he knew, the [Primalists](https://wowpedia.fandom.com/wiki/Primalists "Primalists") could be within [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"). Thus the aspects decided that they had to protect their home and search out any Primalists within the city.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-24">[24]</a></sup> A wise precaution as [Captain Drine](https://wowpedia.fandom.com/wiki/Captain_Drine "Captain Drine") and the adventurer discovered that Primalists had infiltrated into the city and were seeking to create discontent against the Aspects.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-25">[25]</a></sup>
+
+At the bronze flight's base in [Thaldraszus](https://wowpedia.fandom.com/wiki/Thaldraszus "Thaldraszus"), the Temporal Conflux, the infinite dragonflight attacks and attempts to corrupt Nozdormu into Murozond. During the fighting, [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") and the infinite dragon Eternus are lost in time. Nozdormu, [Soridormi](https://wowpedia.fandom.com/wiki/Soridormi "Soridormi"), [Andantenormu](https://wowpedia.fandom.com/wiki/Andantenormu "Andantenormu"), and an adventurer chase them across time to save them. After returning to the present, Nozdormu allows Eternus to leave for now because she helped Chromie get home. Eternus does leave, but promises that she will corrupt Nozdormu eventually.
+
+Nozdormu agrees with her conclusion, and resigned to his fate, knows that the day in which he will become Murozond is coming soon. He asks Chromie when that time comes to do what must be done, and Chromie says that she will find another way. Despite Nozdormu insisting that his fate is inevitable, Chromie says that she'll search every timeline for a way to save him. With a smile and his confidence restored, Nozdormu tells her how proud he has always been of her.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-26">[26]</a></sup>
+
+In a titan sanctum decorated with runes mentioning [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), an adventurer finds a [swirling sphere](https://wowpedia.fandom.com/wiki/Echo_of_Duty "Echo of Duty") which seems to whisper Nozdormu's name. Upon delivering it to the Aspect, Nozdormu recognizes the sphere and thought it had been lost. He recounts how after he had been empowered by Aman'Thul, great secrets had been revealed to him. He captured that knowledge within the sphere: an echo of what is, what has been, and what must always be. He hid the sphere away in a corner of every timeline so that he would always remember those words, even after he reached his fate.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-27">[27]</a></sup>
+
+With the Bronze Oathstone restored, Nozdormu and the adventurer returned to Valdrakken and informed Alexstrasza that all the oathstones were now active.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-28">[28]</a></sup>
+
+Sometime later Alexstrasza decided to show their mortal allies the Silver Scale, that [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") had left in their possession long ago, which served as a symbol of unity and friendship to the dragonflights. However as she revealed to it, Kalechos noted that it pulsed with magic, which was a surprise to her and Nozdormu, who thought it was an example of the scale simple changing in their absence. However, Alexstrasza believed that their return to the Dragon Isles had awakened the scale, that Tyr had left them on last enigma for them to investigate. Thus she directed [Watcher Koranos](https://wowpedia.fandom.com/wiki/Watcher_Koranos "Watcher Koranos") and adventurers with venturing to [Tyrhold](https://wowpedia.fandom.com/wiki/Tyrhold "Tyrhold") for answers.<sup id="cite_ref-:0_29-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-:0-29">[29]</a></sup>
+
+As the pair investigated, they ultimately awaken the magic within Tyrhold by placing the scale within and subsequently used the scale to draw out the secrets about the place.<sup id="cite_ref-:0_29-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-:0-29">[29]</a></sup><sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-30">[30]</a></sup> They ultimately created a spark, whose creation was felt by Kalecgos, who shared it with his fellow aspects, and the trio departed from Valdrakken to join the pair at Tyrhold.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-31">[31]</a></sup> After witnessing a memory of Tyr's departure from the original five aspects, Nozdormu reflected on how the bronze dragonflight tended to forget it can be pleasant to linger on certain moments and admitted that he missed Tyr.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-32">[32]</a></sup> After Alexstrasza expressed her hope that Tyr would be proud of their accomplishments and that "dragonkind thrives", they were group were would be stunned when the spark reacted to that statement and revealed a message from Tyr directing them to reactivate the forge within Tyrhold, while revealing that the Silver Scale was the key.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-33">[33]</a></sup> Following this deed being done, the silver scale was placed within the forge, where to the shock of all present it had forged a new lifeless body of Tyr, himself. Though noting that the body didn't have the spark of life, Alexstrasza couldn't help but be overcome with gratitude that a long-lost friend had been returned to them, and expressed that they must do what they could to restore his true self.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-34">[34]</a></sup>
+
+After sensing Alexstrasza's attempt at using the Mother Oathstone to restore their aspectral powers, Nozdormu quickly returned to Tyrhold. However, upon his arrival she was nowhere to be informed, having rushed off in an attempt to stop Raszageth from breaking into the [Vault of the Incarnates](https://wowpedia.fandom.com/wiki/Vault_of_the_Incarnates "Vault of the Incarnates") to free her fellow [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates") from their prison.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-35">[35]</a></sup> Fearing that the timeways will bend to a dark future for all of Azeroth should Raszageth succeed, he sent adventurers to regroup with Alexstrasza, who revealed that she was unable to stop Raszageth from breaking into the vault. While he and the Dragon-Queen planned for whatever is to come, Kalecgos, [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), and adventurers were into the vault to stop her.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-36">[36]</a></sup>
+
+In time he was informed that while Raszageth was slain, she had successfully freed her siblings. Upon hearing this news Nozdormu found that his vision was still clouded but sensed a dark future was coming, which causes Alexstrasza to reflect that Raszageth's reckless haste had caused her death and that the other Incarnates would not make the same mistake. Khadgar noticed that they were particularly concerned with [Iridikron](https://wowpedia.fandom.com/wiki/Iridikron "Iridikron")'s release over the others, causing the pair to reveal that while [Fyrakk](https://wowpedia.fandom.com/wiki/Fyrakk "Fyrakk") and [Vyranoth](https://wowpedia.fandom.com/wiki/Vyranoth "Vyranoth") were loyal to the Primalists ideals, it was Iridikron who had truly devoted himself to the war, striking dark bargains to do so. However, Kalecgos rallied them together by reminding them that only together do they have a chance at victory. Thus the group vowed to move forward together as one against the Incarnates and were determined to protect Azeroth.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-37">[37]</a></sup>
+
+### Future corruption
+
+Some day in the future, Nozdormu will fall to madness.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-38">[38]</a></sup> Tricked by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") into trying to subvert his own mortality, Nozdormu will shatter the timeways and create the infinite dragonflight, becoming Murozond in the process.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-39">[39]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") | ?? | 438,700 |
+| [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") | ?? | 5,181,000 |
+| [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time") | ?? | 5,181,000 |
+| [Well of Eternity (instance)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") | ?? | 2,590,500 |
+| [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul") | ?? | 467,900 |
+| [Madness of Deathwing](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") | ?? | 5,181,000 |
+
+## Quests
+
+## Memorable quotes
+
+### War of the Ancients
+
+-   "[Korialstraszzzz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz")... You dare disturb my resst? You dare disssturb my peace?"
+-   "Ssso much to gather, ssso much to catalog-" _(Before [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") [mocks him](https://wowpedia.fandom.com/wiki/Malygos#Memorable_quotes "Malygos"))_
+-   "Even Deathwing will pass into time... even he will eventually be part... of my collection..."
+-   "Just in Time..."
+-   "We musssst not let [him](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") ssssslip away!" _(when Deathwing flees)_
+-   “I know what you hide from [her](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), from [usss](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects"). It is my fate and curssse to know such things and be unable myssself to prevent them. Know that I now asssk for forgiveness for the wrongs I will caussse you in the future, but I mussst be what I am destined to be... as [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") is.” _(speaking to Krasus, referring to Deathwing's impending betrayal)_
+
+### Visage Day
+
+-   "The [Sands of Time](https://wowpedia.fandom.com/wiki/Sands_of_Time "Sands of Time") are plentiful but precious. Waste not a single grain." _(said during a lecture to his flight)_
+-   "Since we Aspects first realized our kind was destined to share Azeroth with the young races, we have each taken a visage that allowed us to see the world as they do. Just as importantly, it informs how they perceive us. Do you wish them to see you as a trustworthy sage? A tyrant to be feared? Distant and aloof, or warm and generous? This choice is deeply personal, and it says much about who you are as a dragon. So no, I will not tell you anything that might sway your decision." _(to [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu"))_
+
+### Day of the Dragon
+
+-   "Enough babble! Let ussss be done with thisss!" _(ready to aid [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), [Vereesa](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner") and [Falstad](https://wowpedia.fandom.com/wiki/Falstad_Wildhammer "Falstad Wildhammer"))_
+-   "We're wassssting time... Precioussssss time."
+-   "Compared to all elssse that has happened, it isss a sssmall change to the time line and one of which I approve. The [bluesss](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") will fly the skies again, even though their numberss will not be great even after ten thousand yearsss. But better sssome, than none."
+
+### Thrall: Twilight of the Aspects
+
+-   "It was given unto me to know the very hour and method of my own death. I would never ssubvert it. But only one of the pathwaysss to my destiny can be correct. And in one unfolding future, I became the leader of the infinite dragonflight. That was why I became lost in the timewaysss, Thrall. I was ssseeking understanding of how such a thing came to be. How I, who have always striven to honor the great duty the titans charged me with, could have fallen so far astray." (to Thrall)
+-   “Unto you is charged the great task of keeping the purity of time. Know that there is only one true timeline, though there are those who would have it otherwise. You must protect it. Without the truth of time as it is meant to unfold, more will be lost than you can possibly imagine. The fabric of reality will unravel. It is a heavy task ― the base of all tasks of this world, for nothing can transpire without time.” ― [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")'s blessing of the Timeless One
+
+### World of Warcraft
+
+Greeting
+
+-   In time, all things are possible...
+-   All that matters, is this moment...
+-   Time is a tangled web. Try not to dwell on all the loose ends.
+-   Do not confine yourself into linear thinking.
+
+Pissed
+
+I can arrange for your parents not to meet.
+
+Elemental Bonds
+
+Time is precious, [sister](https://wowpedia.fandom.com/wiki/Ysera "Ysera"). Let us see to our ritual.
+
+#### End Time
+
+_Main article: [The End Time#Notes](https://wowpedia.fandom.com/wiki/The_End_Time#Notes "The End Time")_
+
+_Main article: [Echo of Baine#Quotes](https://wowpedia.fandom.com/wiki/Echo_of_Baine#Quotes "Echo of Baine")_
+
+_Main article: [Echo of Jaina#Quotes](https://wowpedia.fandom.com/wiki/Echo_of_Jaina#Quotes "Echo of Jaina")_
+
+_Main article: [Echo of Sylvanas#Quotes](https://wowpedia.fandom.com/wiki/Echo_of_Sylvanas#Quotes "Echo of Sylvanas")_
+
+_Main article: [Echo of Tyrande#Quotes](https://wowpedia.fandom.com/wiki/Echo_of_Tyrande#Quotes "Echo of Tyrande")_
+
+_Main article: [Murozond#Quotes](https://wowpedia.fandom.com/wiki/Murozond#Quotes "Murozond")_
+
+Gossip at the shrines
+
+Yes, <name>?
+
+#### Well of Eternity
+
+I see you've arrived. This is the eve of the sundering, when the collapse of the Well of Eternity fractured the continents of the world.
+
+Here, we will snatch up the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") before it is lost to the mists of time.
+
+But first, you must bring down the protective wards of [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")'s [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") lackeys. You will find them within the palace. I will scout on ahead.
+
+Good luck, heroes.
+
+_Main article: [Mannoroth and Varo'then#Quotes](https://wowpedia.fandom.com/wiki/Mannoroth_and_Varo%27then#Quotes "Mannoroth and Varo'then")_
+
+_Main article: [The Well of Eternity (quest)#Notes](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity_(quest)#Notes "The Well of Eternity (quest)")_
+
+#### [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul")
+
+_Main article: [Wyrmrest Summit](https://wowpedia.fandom.com/wiki/Wyrmrest_Summit "Wyrmrest Summit")_
+
+_Main article: [Ultraxion#Quotes](https://wowpedia.fandom.com/wiki/Ultraxion#Quotes "Ultraxion")_
+
+_Main article: [Madness of Deathwing#Quotes](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing#Quotes "Madness of Deathwing")_
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Nozdormu.jpg/revision/latest/scale-to-width-down/180?cb=20060106175737)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Nozdormu.jpg/revision/latest?cb=20060106175737)
+
+Nozdormu in _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_.
+
+Nozdormu is a slim and sinuous bronze dragon, with scales of a metallic golden-brown color, and can arrange sand to conform to his body, cementing into one definite form. His eyes are made from gemstones, the color of the sun. He moves with a speed and grace belied by his monstrous form. Curiously, his position seems to change from moment to moment, as though its location in space were constantly in flux.<sup id="cite_ref-S&amp;l_95_40-0"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-S&amp;l_95-40">[40]</a></sup>
+
+Nozdormu is tasked with ensuring that the flow of time occurs normally, without interruption, and that events happen as they are fated. To accomplish this mission, Nozdormu knows much about the nature of time. He uses his abilities and powers to prevent others from discovering these same secrets. Should a sorcerer or other mortal being begin to delve too deeply into magic that alters or affects time, Nozdormu always steps in to remove the threat, one way or another. Nozdormu is closely associated with time itself and is the very soul of patience. He has few worshippers, save perhaps among the night elves who wish to become once again timeless themselves. He pays no attention to those who venerate him, neither accepting nor disapproving of their efforts. Nozdormu lives in the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time"), a closely guarded complex located deep in the [Tanaris Desert](https://wowpedia.fandom.com/wiki/Tanaris_Desert "Tanaris Desert"). Those who venture there and get past the bronze dragon sentinels rarely emerge unchanged. Some age, or become so youthful they are but infants. Others are lost in time and return decades or even centuries later. There are even legends of some who leave the caverns before they even enter!<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-41">[41]</a></sup>
+
+Nozdormu is difficult to defeat because of his ability to look into the corridors of time and repeat events if they do not progress as he feels they should. He is extremely wise and uses his insight to determine the best course of action before proceeding. Should this fail, he simply tries again as necessary or uses his power to avoid the encounter entirely. Nozdormu can take any form he desires, as though constantly under the effects of a shapechange spell. He frequently takes on the role of a humanoid creature and travels incognito as a simple commoner or peon. When doing this, the only consistent trait he displays is the absence of any need to hurry.<sup id="cite_ref-S&amp;l_95_40-1"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-S&amp;l_95-40">[40]</a></sup>
+
+In the early years, it is said that [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s black flight attempted to subjugate the bronze dragons. The assault was unsuccessful, primarily because the bronze dragons did not stay and fight as expected. His command of time offering insight into the blacks' plans, Nozdormu alerted his flight of the danger. The bronze dragonflight scattered to the four corners of the globe, where they continue to monitor events.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-42">[42]</a></sup>
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+Nozdormu appears as [a legendary card](https://hearthstone.fandom.com/wiki/Nozdormu "hswiki:Nozdormu") in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. His flavor text reads: _"Time to write some flavor text."_
+
+He reappears in the _[Descent of Dragons](https://wowpedia.fandom.com/wiki/Hearthstone:_Descent_of_Dragons "Hearthstone: Descent of Dragons")_ expansion as the legendary paladin card [Nozdormu the Timeless](https://hearthstone.fandom.com/wiki/Nozdormu_the_Timeless "hswiki:Nozdormu the Timeless"). His flavor text reads: _"Time is mana!"_
+
+## Notes and trivia
+
+-   Instead of the normal sand breathed by bronze dragons, Nozdormu can breath the [Sands of Time](https://wowpedia.fandom.com/wiki/Sands_of_Time "Sands of Time") instead.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-43">[43]</a></sup>
+-   During his appearance at the start of the Elemental Bonds quest chain Nozdormu is seen wielding a  ![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Inv_staff_13.png/revision/latest/scale-to-width-down/16?cb=20070120233003)[\[Staff of Dominance\]](https://wowpedia.fandom.com/wiki/Staff_of_Dominance).
+-   The phrase "So it goes." in Nozdormu's speech after Murozond's demise is a reference to Kurt Vonnegut's 1969 novel _Slaughterhouse-Five_. Vonnegut would use the phrase after anything had died.
+-   In the books, Nozdormu puts emphasis on the letter "S", drawing it out like a snake. This was not carried forward to his in-game dialogue.
+-   Nozdormu created the [Hourglass of Time](https://wowpedia.fandom.com/wiki/Hourglass_of_Time "Hourglass of Time") located in the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time"). He was also sure that  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Inv_relics_hourglass.png/revision/latest/scale-to-width-down/16?cb=20110928094456)[\[Vision of Time\]](https://wowpedia.fandom.com/wiki/Vision_of_Time) shows only visions from the past and future.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-44">[44]</a></sup>
+-   Nozdormu is the only living Aspect who does not appear to bless the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth) during the events of _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_, with [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") giving the bronze blessing in his stead. His absence is not commented on. However, there's an unused ID from [patch 8.2.0](https://wowpedia.fandom.com/wiki/Patch_8.2.0 "Patch 8.2.0").
+-   Originally, it was stated that Nozdormu was handpicked by [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), the Highfather of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), who bestowed a portion of his cosmic power upon the massive bronze dragon. The Highfather empowered him to guard time itself and police the ever-spinning pathways of fate and destiny. The stoic, honorable Nozdormu became known as the Timeless One. He had also been granted by his creators with the knowledge of his own demise. That had been given as a lesson, so that he would never think his power so great and terrible that he had to answer to no other. Nozdormu knows exactly how and when he will perish.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-45">[45]</a></sup>
+-   At least initially, whether Nozdormu's fate was inevitable seems to have been unclear. Nozdormu stated that the End Time was not an "inevitable" future,<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-46">[46]</a></sup> [Alurmi](https://wowpedia.fandom.com/wiki/Alurmi "Alurmi") claims afterwards that the End Time was apparently overwritten as a timestrand,<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-47">[47]</a></sup> and [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") in their post-_Cataclysm_ meeting believes that Nozdormu and others "had altered that future forever", thereby erasing his responsibility for Murozond.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-48">[48]</a></sup> Nevertheless, the most recent lore in Chronicles Vol. 3 seems to indicate that Nozdormu's fate was "inescapable".<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_note-49">[49]</a></sup> Exactly how Nozdormu regained enough of his Aspect abilities as Murozond to counter his former empowered self is also debatable, although it is possible the Old Gods or their servants (although most of those on Azeroth are apparently slain in the present day) empowered him much like they did Deathwing.
+-   Nozdormu was rumored for years to have been voiced by Martin Sheen in _Cataclysm_, but [Sean Copeland](https://wowpedia.fandom.com/wiki/Sean_Copeland "Sean Copeland") confirmed that it was in fact not him. He was voiced by an unknown voice actor in _Cataclysm_ and by Harry Myers in _Dragonflight_.
+-   Nozdormu's _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ mortal [visage](https://wowpedia.fandom.com/wiki/Visage "Visage") form used night elf animations despite having a blood elf skin color. His _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_ visage model uses blood elf animations.
+-   Nozdormu changes his left shoulder tattoo of his visage form depending on the [expansion](https://wowpedia.fandom.com/wiki/Expansion "Expansion").
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/NozdormuLegends.jpg/revision/latest/scale-to-width-down/107?cb=20100106184826)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/NozdormuLegends.jpg/revision/latest?cb=20100106184826)
+    
+    Nozdormu in _Warcraft Legends_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Nozdormu_the_Timeless_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20221228164751)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Nozdormu_the_Timeless_TCG.jpg/revision/latest?cb=20221228164751)
+    
+    Nozdormu in the [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Nozdormu_BotA.jpg/revision/latest/scale-to-width-down/111?cb=20120916185215)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Nozdormu_BotA.jpg/revision/latest?cb=20120916185215)
+    
+    Nozdormu in the TCG.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/60/Nozdormu_BotA2.jpg/revision/latest/scale-to-width-down/120?cb=20120916185212)](https://static.wikia.nocookie.net/wowpedia/images/6/60/Nozdormu_BotA2.jpg/revision/latest?cb=20120916185212)
+    
+    Nozdormu in visage form in the TCG.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Nozdormu_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210710181144)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Nozdormu_TCG.jpg/revision/latest?cb=20210710181144)
+    
+    Nozdormu in the TCG
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Nozdormu_the_Timeless.jpg/revision/latest/scale-to-width-down/90?cb=20191104202353)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Nozdormu_the_Timeless.jpg/revision/latest?cb=20191104202353)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Dragonflight_Nozdormu_Bayard_Wu_alt.jpg/revision/latest/scale-to-width-down/120?cb=20220930220246)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Dragonflight_Nozdormu_Bayard_Wu_alt.jpg/revision/latest?cb=20220930220246)
+    
+    Alernate version of the _Dragonflight_ Nozdormu art by [Bayard Wu](https://wowpedia.fandom.com/wiki/Bayard_Wu "Bayard Wu").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Dragonflight_five_leaders.jpg/revision/latest/scale-to-width-down/120?cb=20221123210416)](https://static.wikia.nocookie.net/wowpedia/images/4/42/Dragonflight_five_leaders.jpg/revision/latest?cb=20221123210416)
+    
+    _Dragonflight_ art.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/48/NozdormuHumanConcept.png/revision/latest/scale-to-width-down/82?cb=20220930223257)](https://static.wikia.nocookie.net/wowpedia/images/4/48/NozdormuHumanConcept.png/revision/latest?cb=20220930223257)
+    
+    _Dragonflight_ concept art of Nozdormu in his visage form.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Legacies_Dragon_Aspects_Visage_forms.jpg/revision/latest/scale-to-width-down/120?cb=20221121030936)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Legacies_Dragon_Aspects_Visage_forms.jpg/revision/latest?cb=20221121030936)
+    
+    Nozdormu and the Aspects in their visage forms.
+    
+
+Fanart
+
+## Videos
+
+-   [Fall of Deathwing cinematic](https://wowpedia.fandom.com/wiki/Nozdormu#)
+-   [Dragonflight Announce Cinematic Trailer](https://wowpedia.fandom.com/wiki/Nozdormu#)
+-   [Legacies Chapter One](https://wowpedia.fandom.com/wiki/Nozdormu#)
+-   [Legacies Chapter Two](https://wowpedia.fandom.com/wiki/Nozdormu#)
+-   [Legacies Chapter Three](https://wowpedia.fandom.com/wiki/Nozdormu#)
+-   [Kalecgos informs Khadgar](https://wowpedia.fandom.com/wiki/Nozdormu#)
+-   [Nozdormu Chromie Epilogue](https://wowpedia.fandom.com/wiki/Nozdormu#)
+-   [Post-Raid aspect debrief](https://wowpedia.fandom.com/wiki/Nozdormu#)
+
+## Patch changes
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-1)  ![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Inv_misc_book_09.png/revision/latest/scale-to-width-down/16?cb=20070329111544)[\[Legacy of the Aspects\]](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects)
+2.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-2) _[World of Warcraft: The Magazine Volume I Issue II](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Volume_I_Issue_II "World of Warcraft: The Magazine Volume I Issue II")_
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-The_Well_of_Eternity_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-The_Well_of_Eternity_3-1">b</a></sup> _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-Day_of_the_Dragon_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-Day_of_the_Dragon_4-1">b</a></sup> _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-Thrall:_Twilight_of_the_Aspects_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-Thrall:_Twilight_of_the_Aspects_5-1">b</a></sup> _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_
+6.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-6) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_ description
+7.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-7) _Dawn of the Aspects_ Part 2
+8.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-8) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_
+9.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-9) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 45
+10.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-10) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 61
+11.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-11) "[Visage Day](https://wowpedia.fandom.com/wiki/Visage_Day_(short_story) "Visage Day (short story)")"
+12.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-12)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[11\] [Crown of the Earth](https://wowpedia.fandom.com/wiki/Crown_of_the_Earth_(5))
+13.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-13) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_
+14.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-14) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 132
+15.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-15) _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_
+16.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-16) [Patch 4.3 Dungeons Preview, Part One: End Time](http://us.battle.net/wow/en/blog/3502665/Patch_43_Dungeons_Preview%2C_Part_One_End_Time-9_19_2011#blog)
+17.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-17) Cataclysm Epilogue
+18.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-18) Gossip text after the raid
+19.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-19) _Dawn of the Aspects_ Part 1
+20.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-20) _Dawn of the Aspects_ Part 5
+21.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-21) _[The Vow Eternal](https://wowpedia.fandom.com/wiki/The_Vow_Eternal "The Vow Eternal")_
+22.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-22) [A Tempest Unleashed](https://www.youtube.com/watch?v=so3XZk5Kj1g&t=2s)
+23.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-23) To Valdrakken
+24.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[68-70\] [A Message Most Dire](https://wowpedia.fandom.com/wiki/A_Message_Most_Dire)
+25.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-25)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Nowhere to Hide](https://wowpedia.fandom.com/wiki/Nowhere_to_Hide)
+26.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-26) Back to the Future
+27.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-27)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[68-70\] [An Anomalous Shrine](https://wowpedia.fandom.com/wiki/An_Anomalous_Shrine)
+28.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-28) Moving On (Thaldraszus)
+29.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-:0_29-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-:0_29-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70\] [The Gift of Silver](https://wowpedia.fandom.com/wiki/The_Gift_of_Silver)
+30.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-30) The Magic Within
+31.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-31) A Spark of Discovery
+32.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-32) Memories of the Past
+33.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-33) Parting Instructions
+34.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-34) The Silver Purpose
+35.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-35) Aspect Power
+36.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-36) Vault of the Incarnates: Fury of the Storm-Eater
+37.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-37) Together We Are Unstoppable
+38.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-38) At last it has come to pass. The moment of my demise. The loop is closed. [My future self](https://wowpedia.fandom.com/wiki/Murozond "Murozond") will cause no more harm. Still, in time, I will... fall to madness. And you, [heroes](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")... will vanquish me.
+39.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-39) [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond") Dungeon Journal
+40.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-S&amp;l_95_40-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-S&amp;l_95_40-1">b</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 95
+41.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-41) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 96
+42.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-42) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 33
+43.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-43) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, prologue
+44.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-44) _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_
+45.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-45) [William Brinkman in upperdeck.com via Wayback Machine](http://web.archive.org/web/20100824210119/http://entertainment.upperdeck.com/wowminis/en/news/default.aspx?aid=5832)
+46.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-46)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35D\] [Murozond](https://wowpedia.fandom.com/wiki/Murozond_(quest))
+47.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-47)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35D\] [Documenting the Timeways](https://wowpedia.fandom.com/wiki/Documenting_the_Timeways)
+48.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-48) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_ pg. 43
+49.  [^](https://wowpedia.fandom.com/wiki/Nozdormu#cite_ref-49) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Nozdormu#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Nozdormu#t1:npcs)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
+
+[Dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon")
+
+
+
+ |
+| --- |
+|  |
+| Primary dragon types | 
+
+-   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
+-   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
+-   [Bronze](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")
+-   [Green](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon")
+-   [Red](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon")
+
+
+
+ |
+|  |
+| Other dragon types | 
+
+-   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+-   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Nether](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon")
+-   [Plagued](https://wowpedia.fandom.com/wiki/Plagued_dragon "Plagued dragon")
+-   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Storm](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")
+-   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead_dragon "Undead dragon")
+
+
+
+ |
+|  |
+| Bronze Dragonflight | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><p><strong>Nozdormu the Timeless One</strong> - Lord of Time</p></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Known_members" title="Bronze dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Anachronos" title="Anachronos">Anachronos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Andormu" title="Andormu">Andormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chronormu" title="Chronormu">Chronormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nozari" title="Nozari">Nozari</a></li><li><a href="https://wowpedia.fandom.com/wiki/Soridormi" title="Soridormi">Soridormi</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time" title="Caverns of Time">Caverns of Time</a> (Home)</li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine" title="Bronze Dragonshrine">Bronze Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scarab_Wall" title="Scarab Wall">Scarab Wall</a></li><li><a href="https://wowpedia.fandom.com/wiki/Staghelm_Point" title="Staghelm Point">Staghelm Point</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tanaris" title="Tanaris">Tanaris</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bronze_whelp" title="Bronze whelp">Bronze whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drake" title="Bronze drake">Bronze drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragon" title="Bronze dragon">Bronze dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_wyrm" title="Bronze wyrm">Bronze wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drakonid" title="Bronze drakonid">Bronze drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonspawn" title="Bronze dragonspawn">Bronze dragonspawn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Factions" title="Bronze dragonflight">Groups</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Brood_of_Nozdormu" title="Brood of Nozdormu">Brood of Nozdormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keepers_of_Time" title="Keepers of Time">Keepers of Time</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scale_of_the_Sands" title="Scale of the Sands">Scale of the Sands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Timewalkers" title="Timewalkers">Timewalkers</a></li><li><a href="https://wowpedia.fandom.com/wiki/Watcher_(bronze_dragonflight)" title="Watcher (bronze dragonflight)">Watchers</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Dragonflights | 
+
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
+-   [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight")
+-   [Green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")
+-   [Netherwing dragonflight](https://wowpedia.fandom.com/wiki/Netherwing "Netherwing")
+
+
+
+ |
+|  |
+| Other draconic groups | 
+
+-   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
+-   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| 
+
+-   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
+-   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
+-   [Legacy of the Aspects](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects "Legacy of the Aspects")
+-   [Dragons category](https://wowpedia.fandom.com/wiki/Category:Dragons "Category:Dragons")
+-   [Dragonkin category](https://wowpedia.fandom.com/wiki/Category:Dragonkin "Category:Dragonkin")
+
+
+
+ |

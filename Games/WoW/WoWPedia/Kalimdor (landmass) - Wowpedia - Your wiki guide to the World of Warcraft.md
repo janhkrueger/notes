@@ -1,0 +1,176 @@
+_For the modern-day landmass, see [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Kalimdor |
+| --- |
+| [![Ordered Azeroth.jpg](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest/scale-to-width-down/260?cb=20160328182950)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest?cb=20160328182950)
+A map of Kalimdor after it was ordered by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged")
+
+ |
+| Type | Continent |
+| Capital(s) | [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") ([Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"))  
+[Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar") ([Empire of Zul](https://wowpedia.fandom.com/wiki/Empire_of_Zul "Empire of Zul"))  
+Unknown ([Pandaren Empire](https://wowpedia.fandom.com/wiki/Pandaren_Empire "Pandaren Empire"))  
+ |
+|   Formerly | [Mogu'shan Palace](https://wowpedia.fandom.com/wiki/Mogu%27shan_Palace "Mogu'shan Palace") ([Mogu empire](https://wowpedia.fandom.com/wiki/Mogu_empire "Mogu empire"))  
+Y'Shaarj's temple city ([Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire"))<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-1">[1]</a></sup>  
+ |
+| Races | [Various](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#Inhabitants) |
+| Government | Various |
+| Ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Azshara.gif/revision/latest/scale-to-width-down/16?cb=20211209080510)[Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/IconSmall_Shaohao.gif/revision/latest/scale-to-width-down/16?cb=20200530095117)[Shaohao](https://wowpedia.fandom.com/wiki/Emperor_Shaohao "Emperor Shaohao")  
+Many others |
+| Major settlements | [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City"), [Eldre'Thalas](https://wowpedia.fandom.com/wiki/Eldre%27Thalas "Eldre'Thalas"), [Hajiri](https://wowpedia.fandom.com/wiki/Hajiri "Hajiri"), [Zul'Gurub](https://wowpedia.fandom.com/wiki/Zul%27Gurub "Zul'Gurub"), [Zul'Aman](https://wowpedia.fandom.com/wiki/Zul%27Aman "Zul'Aman"), [Zul'Drak](https://wowpedia.fandom.com/wiki/Zul%27Drak "Zul'Drak") |
+| Minor settlements | [Ara-Hinam](https://wowpedia.fandom.com/wiki/Ara-Hinam "Ara-Hinam"), [Aru-Talis](https://wowpedia.fandom.com/wiki/Aru-Talis "Aru-Talis"), [Black Rook Hold](https://wowpedia.fandom.com/wiki/Black_Rook_Hold "Black Rook Hold"), [Galhara](https://wowpedia.fandom.com/wiki/Galhara "Galhara"), [Zul'Farrak](https://wowpedia.fandom.com/wiki/Zul%27Farrak "Zul'Farrak") |
+| Languages | [Darnassian](https://wowpedia.fandom.com/wiki/Darnassian "Darnassian"), [Mogu](https://wowpedia.fandom.com/wiki/Mogu_(language) "Mogu (language)"), [Zandali](https://wowpedia.fandom.com/wiki/Zandali "Zandali") and various others |
+| Faiths | [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune"), [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa"), [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God"), [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestials "August Celestials"), [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
+| Affiliation | [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), [Azj'Aqir](https://wowpedia.fandom.com/wiki/Azj%27Aqir "Azj'Aqir") ([Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj"), [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Nerubian_empire "Nerubian empire"), [Manti'vess](https://wowpedia.fandom.com/wiki/Manti%27vess "Manti'vess")), [Empire of Zul](https://wowpedia.fandom.com/wiki/Empire_of_Zul "Empire of Zul") ([Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire"), [Gurubashi Empire](https://wowpedia.fandom.com/wiki/Gurubashi_Empire "Gurubashi Empire"), [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire"), [Drakkari Empire](https://wowpedia.fandom.com/wiki/Drakkari_Empire "Drakkari Empire")), [Mogu empire](https://wowpedia.fandom.com/wiki/Mogu_empire "Mogu empire"), [Pandaren Empire](https://wowpedia.fandom.com/wiki/Pandaren_Empire "Pandaren Empire"), [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), and various [independent](https://wowpedia.fandom.com/wiki/Independent "Independent") [clans](https://wowpedia.fandom.com/wiki/Clan "Clan") and [tribes](https://wowpedia.fandom.com/wiki/Tribe "Tribe") |
+| Former affiliation(s) | [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") |
+| Location | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Status | [Broken](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") |
+
+**Kalimdor** (aka **ancient Kalimdor**<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-3">[3]</a></sup> or **Old Kalimdor**)<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  was the name of the main [continent](https://wowpedia.fandom.com/wiki/Continent "Continent") shaped by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") on the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") ages ago.
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest/scale-to-width-down/180?cb=20180325104143)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest?cb=20180325104143)
+
+Kalimdor during the reign of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Kalimdor_Chronicle.jpg/revision/latest/scale-to-width-down/180?cb=20180325104337)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Kalimdor_Chronicle.jpg/revision/latest?cb=20180325104337)
+
+Kalimdor after the war between the [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir") and the [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Night_Elf_Empire.jpg/revision/latest/scale-to-width-down/180?cb=20160428235210)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Night_Elf_Empire.jpg/revision/latest?cb=20160428235210)
+
+Kalimdor at the height of the [night elven](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") empire.
+
+### Ordering Azeroth
+
+After battling and imprisoning the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"), the [titanic](https://wowpedia.fandom.com/wiki/Titan "Titan") [Keepers](https://wowpedia.fandom.com/wiki/Keepers "Keepers") set out to repair the damage [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")'s death had caused. At the continent's center, where Y'Shaarj had settled, an immense hole was torn as [Aman'thul](https://wowpedia.fandom.com/wiki/Aman%27thul "Aman'thul") ripped Y'Shaarj from the planet's crust, and from which tremendous amounts of [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") energy - the very lifeblood of the [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") - now seeped. The Keepers closed the wound in the form of a massive lake of scintillating energies. The lake, which they named the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), was to be the fount of life for the world.
+
+Its potent energies would nurture the bones of the world and nourish life to take root in the land's rich soil. Over time, plants, trees, monsters, and creatures of every kind began to thrive on the primordial continent. As twilight fell on the final day of their labors, the [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") named the continent Kalimdor: "land of eternal starlight" in [their language](https://wowpedia.fandom.com/wiki/Titan_(language) "Titan (language)").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-4">[4]</a></sup>
+
+The waters of the Well of Eternity would coalesce in a select few places and create gigantic enclaves of life that Keeper [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya") would take care of. It is from these magically nurtured places - the [Un'goro Crater](https://wowpedia.fandom.com/wiki/Un%27goro_Crater "Un'goro Crater"), the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms"), [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin") - that the [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God") would eventually emerge.
+
+With time, that landmass became home to a number of disparate [races](https://wowpedia.fandom.com/wiki/Race "Race") and [creatures](https://wowpedia.fandom.com/wiki/Creature "Creature"), all vying for survival amongst the savage elements of the waking world.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-5">[5]</a></sup>
+
+### The Great Sundering
+
+10,000 years ago, while the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") was raging on, [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")' failed entrance through the Well of Eternity caused the unstable portal within the Well's depths to explode and ignite a catastrophic chain of events known as the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"). The massive explosion sent massive quakes ripping through the tortured earth and the surging Well of Eternity buckled in upon itself and collapsed. The resultant catastrophic explosion shattered the earth and blotted out the skies. As the aftershocks from the implosion rattled the bones of the world, the seas rushed in to fill the gaping wounds left in the earth. Nearly eighty percent of Kalimdor's landmass had been blasted apart, leaving only a new, [raging sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea"), and the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") - an eternal storm of chaotic energies at its center, surrounding a handful of major new continents and scattered islands: the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"), [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles"), the remnant still referred to as [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), and many other smaller islands.
+
+## Geography
+
+Since the [Elemental Lord](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir") was fought by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") in his lair among the highest peaks of Azeroth,<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-6">[6]</a></sup> this means the highest point in Kalimdor (at least before the ordering of Azeroth) was located in Al'Akir's domain to the southwest, near the ocean, between what would become [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum") and [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria").
+
+### Locations
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+
+-   [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire")
+    -   [Ameth'Aran](https://wowpedia.fandom.com/wiki/Ameth%27Aran "Ameth'Aran")
+    -   [Ara-Hinam](https://wowpedia.fandom.com/wiki/Ara-Hinam "Ara-Hinam")
+    -   [Aru-Talis](https://wowpedia.fandom.com/wiki/Aru-Talis "Aru-Talis")
+    -   [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna")
+        -   [Nar'thalas](https://wowpedia.fandom.com/wiki/Ruins_of_Nar%27thalas "Ruins of Nar'thalas")
+        -   [Zarkhenar](https://wowpedia.fandom.com/wiki/Ley-Ruins_of_Zarkhenar "Ley-Ruins of Zarkhenar")
+    -   [Bashal'Aran](https://wowpedia.fandom.com/wiki/Bashal%27Aran "Bashal'Aran")
+    -   [Dy-Jaru](https://wowpedia.fandom.com/wiki/Dy-Jaru "Dy-Jaru")
+    -   [Eldarath](https://wowpedia.fandom.com/wiki/Ruins_of_Eldarath "Ruins of Eldarath")
+    -   [Eldre'thar](https://wowpedia.fandom.com/wiki/Ruins_of_Eldre%27thar "Ruins of Eldre'thar")
+    -   [Eldre'Thalas](https://wowpedia.fandom.com/wiki/Eldre%27Thalas "Eldre'Thalas")
+    -   [Galhara](https://wowpedia.fandom.com/wiki/Galhara "Galhara")
+    -   [Hajiri](https://wowpedia.fandom.com/wiki/Hajiri "Hajiri")
+    -   [Halumar](https://wowpedia.fandom.com/wiki/Halumar "Halumar")
+    -   [Lathar'Lazal](https://wowpedia.fandom.com/wiki/Lathar%27Lazal "Lathar'Lazal")
+    -   [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal")
+    -   [Shandaral](https://wowpedia.fandom.com/wiki/Shandaral "Shandaral")
+    -   [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+        -   [Temple of Elune](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras")
+    -   [Tal'doren](https://wowpedia.fandom.com/wiki/Tal%27doren "Tal'doren")<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-7">[7]</a></sup>
+    -   [Then'Ralore](https://wowpedia.fandom.com/wiki/Then%27Ralore "Then'Ralore")
+    -   [Urae](https://wowpedia.fandom.com/wiki/Urae "Urae")
+    -   [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah")
+        -   [Andu'talah](https://wowpedia.fandom.com/wiki/Andu%27talah "Andu'talah")
+        -   [Black Rook Hold](https://wowpedia.fandom.com/wiki/Black_Rook_Hold "Black Rook Hold")
+        -   [Shaladrassil](https://wowpedia.fandom.com/wiki/Shaladrassil "Shaladrassil")
+    -   [Vashj'ir](https://wowpedia.fandom.com/wiki/Ruins_of_Vashj%27ir "Ruins of Vashj'ir")
+    -   [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity")
+    -   [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari")
+        -   [Azshara's Palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace")
+-   [Empire of Zul](https://wowpedia.fandom.com/wiki/Empire_of_Zul "Empire of Zul")
+    -   [Zandalar Mountains](https://wowpedia.fandom.com/wiki/Zandalar_Mountains "Zandalar Mountains")
+        -   [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar")
+    -   [Zul'Aman](https://wowpedia.fandom.com/wiki/Zul%27Aman "Zul'Aman")
+    -   [Zul'Drak](https://wowpedia.fandom.com/wiki/Zul%27Drak "Zul'Drak")
+        -   [Gundrak](https://wowpedia.fandom.com/wiki/Gundrak "Gundrak")
+    -   [Zul'Farrak](https://wowpedia.fandom.com/wiki/Zul%27Farrak "Zul'Farrak")
+    -   [Zul'Gurub](https://wowpedia.fandom.com/wiki/Zul%27Gurub "Zul'Gurub")
+-   [Mogu empire](https://wowpedia.fandom.com/wiki/Mogu_empire "Mogu empire")/[Pandaren Empire](https://wowpedia.fandom.com/wiki/Pandaren_Empire "Pandaren Empire") ([Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"))
+    -   [Jade Forest](https://wowpedia.fandom.com/wiki/Jade_Forest "Jade Forest")
+    -   [Krasarang Wilds](https://wowpedia.fandom.com/wiki/Krasarang_Wilds "Krasarang Wilds")
+    -   [Kun-Lai Summit](https://wowpedia.fandom.com/wiki/Kun-Lai_Summit "Kun-Lai Summit")
+        -   [Mogu'shan Vaults](https://wowpedia.fandom.com/wiki/Mogu%27shan_Vaults "Mogu'shan Vaults")
+        -   [Mount Neverest](https://wowpedia.fandom.com/wiki/Mount_Neverest "Mount Neverest")
+    -   [Serpent's Spine](https://wowpedia.fandom.com/wiki/Serpent%27s_Spine "Serpent's Spine")
+    -   [Thundering Mountain](https://wowpedia.fandom.com/wiki/Thundering_Mountain "Thundering Mountain")
+    -   [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms")
+        -   [Mogu'shan Palace](https://wowpedia.fandom.com/wiki/Mogu%27shan_Palace "Mogu'shan Palace")
+        -   [Vault of Y'Shaarj](https://wowpedia.fandom.com/wiki/Vault_of_Y%27Shaarj "Vault of Y'Shaarj")
+-   [Azj'Aqir](https://wowpedia.fandom.com/wiki/Azj%27Aqir "Azj'Aqir")
+    -   [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj")
+    -   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+    -   [Manti'vess](https://wowpedia.fandom.com/wiki/Manti%27vess "Manti'vess")
+        -   [Dread Wastes](https://wowpedia.fandom.com/wiki/Dread_Wastes "Dread Wastes")
+        -   [Townlong Steppes](https://wowpedia.fandom.com/wiki/Townlong_Steppes "Townlong Steppes")
+-   [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") & [Dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight")
+    -   [Broodlands](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles")
+        -   [Uldorus](https://wowpedia.fandom.com/wiki/Uldorus "Uldorus")
+    -   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+        -   [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple")
+    -   [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman")
+    -   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+    -   [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir")
+    -   [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum")
+    -   [Un'goro Crater](https://wowpedia.fandom.com/wiki/Un%27goro_Crater "Un'goro Crater")
+    -   [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin")
+    -   [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks")
+        -   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+
+## Inhabitants
+
+### Native
+
+-   #### Wild god heritage
+    
+    #### Trolls and elves
+    
+    -   [Trolls](https://wowpedia.fandom.com/wiki/Troll "Troll")
+-   #### Titan
+    
+    -   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   #### Dragonkin
+    
+    #### Other
+    
+
+### Outsiders
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+_[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_ states that the war between the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") and the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") "ripped Azeroth into new shapes".<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-8">[8]</a></sup>
+
+## Notes
+
+-   _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ hints that the Kalimdor landmass wasn't the only continent on Azeroth.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-9">[9]</a></sup> _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_ however states that the night elven empire was located on Azeroth's single landmass.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Kalimdor_(landmass)#cite_note-10">[10]</a></sup>
+-   The ancient landmass known as Kalimdor would be called a supercontinent since all known lands on Azeroth were once a part of it.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Well_of_Eternity_-_Palace_1.jpg/revision/latest/scale-to-width-down/120?cb=20110923181444)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Well_of_Eternity_-_Palace_1.jpg/revision/latest?cb=20110923181444)
+    
+
+## References
+
+Others like you also viewed

@@ -1,0 +1,287 @@
+_Not to be confused with [Grakkarond](https://wowpedia.fandom.com/wiki/Grakkarond "Grakkarond")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Galakrond |
+| --- |
+| [![Image of Galakrond](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest/scale-to-width-down/200?cb=20220228210748)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest?cb=20220228210748 "Image of Galakrond") |
+| Title | Father of Dragons<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-1">[1]</a></sup> |
+| Gender | Male |
+| Race | [Proto-dragon](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") |
+| Affiliation(s) | [Not-living](https://wowpedia.fandom.com/wiki/Not-living "Not-living") |
+| Location | Remains in the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") |
+| Status | Deceased |
+| Relative(s) | [Galakras](https://wowpedia.fandom.com/wiki/Galakras "Galakras"), [Spawn of Galakras](https://wowpedia.fandom.com/wiki/Reins_of_Galakras "Reins of Galakras") (direct descendants)<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-2">[2]</a></sup> |
+
+**Galakrond** was a massive [proto-dragon](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon"), who is known as the "progenitor of [dragonkind](https://wowpedia.fandom.com/wiki/Dragon "Dragon")".<sup id="cite_ref-Audience_4-0"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-Audience-4">[4]</a></sup> He was a threat which five proto-dragons of varying colors united against.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-5">[5]</a></sup> It is said that from him the [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") created the [Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect"),<sup id="cite_ref-Audience_4-1"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-Audience-4">[4]</a></sup> but this is a rumor the Aspects actively encouraged so as to keep the truth about Galakrond a secret from the dragonflights so that no one would follow his path.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-6">[6]</a></sup>
+
+His size alone was greater than all of the Aspects combined,<sup id="cite_ref-Audience_4-2"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-Audience-4">[4]</a></sup> large enough that the only possible being Galakrond could be compared to was himself. His roar could be heard from miles around, and the flap of his wings generated powerful wind.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-7">[7]</a></sup> As he continued to consume the life-energies of his fellow proto-dragons, Galakrond grew hideous mutations all over his body (such as limbs and even eyes) and his skin started to decay, almost as if he had become an undead like his victims.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-8">[8]</a></sup> Galakrond was not always this large and he used to have a smoother, more streamlined appearance.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-9">[9]</a></sup> His mutations were caused by cannibalizing on other proto-dragons, and as a by-product of his absorption of the proto-dragons' life essence, his vomited-up victims came back as [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"), called the [not-living](https://wowpedia.fandom.com/wiki/Not-living "Not-living").
+
+## History
+
+### Dawn of the Aspects
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legacies_Galakrond.jpg/revision/latest/scale-to-width-down/180?cb=20221227203104)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legacies_Galakrond.jpg/revision/latest?cb=20221227203104)
+
+Galakrond as seen in _[Legacies](https://wowpedia.fandom.com/wiki/Legacies "Legacies")_.
+
+Galakrond who once hunted with his fellow proto-dragons and was seen as benevolent suddenly changed and became terror that caused the other proto-dragons in prehistoric Azeroth to fear him. While the proto-dragons did not know what caused the change in Galakrond, [Keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper") [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") at least blames himself for Galakrond's actions and mutations, saying "We never intended this path. Galakrond should never have journeyed in the direction he did, and we did not prevent it."<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-10">[10]</a></sup> Galakrond's mutations were caused by [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") corrupting the waters which Galakrond drank from.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-11">[11]</a></sup>
+
+On a day when dozens gathered to hunt, Galakrond appeared and took their prey, terrifying them all. The blue-white proto-dragon [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") was curious as to why Galakrond would hunt in that area when he never had before, to which his new friend [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") responded that there was more food. Malygos, however, was quick to point out that the food was _their_ food. In addition, Galakrond began to devour dozens of other [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon"), which was unthinkable to the others as they didn't practice cannibalism. However, the horror did not end there as it was revealed that those cannibalized by Galakrond rose as undead, called the [Not-living](https://wowpedia.fandom.com/wiki/Not-living "Not-living"), enslaved to his will.
+
+At Galakrond's command, the not-living hunted their living counterparts and infected those they bit. The proto-dragon [Coros](https://wowpedia.fandom.com/wiki/Coros "Coros") sought to emulate Galakrond believing that Galakrond would not devour those like him. To this end Coros would meet with Galakrond in secret and inform him of the time and place that [Talonixa](https://wowpedia.fandom.com/wiki/Talonixa "Talonixa"), the chosen alpha of the living proto-dragons, decided that the proto-dragon army would venture forth and attack Galakrond. Seemingly pleased with this information and the thought of the feast that he would have Galakrond flew off, seemingly sparing Coros and his fellow cohorts. However, as Coros and his band took off to the sky Galakrond returned and quickly devoured them all.
+
+Despite Talonixa learning of Coros's betrayal and striking at a different place and time Galakrond was able to use not-living forces to lure the proto-dragon to him. Galakrond erupted from the ground when the army was in position and swiftly shattered it. After killing Talonixa, Galakrond was unable to devour the fast of the army due to the actions of Malygos, [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), and [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion"). As Malygos broke off to find [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), Galakrond ended engaging in battle against the future aspects only to be driven off by Tyr after being stunned by his hammer.
+
+An unknown time later, Tyr met with the five proto-dragons, informing them that Galakrond was sleeping in a [mountain range to the north](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks") and that it was the perfect time to attack. After eating and gathering their strength Tyr and the others met up near Galakrond's slumbering place and would engage the behemoth in battle. During the course of the battle, Tyr's hammer and his [Spark of Tyr](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr") were knocked free from his person and as he reached out to grab the Spark, Galakrond's massive maw came within range and ended claiming both the artifact and Tyr's hand. Pleased by his victory and being further mutated, Galakrond did not even notice when his enemies had left the battle.
+
+After regaining his senses Galakrond found himself unable to find prey as the living had become adept at hiding. With his hunger ever-growing Galakrond, in a move that stunned and surprised the future aspects, began to devour his own not-living as they were the only thing that would not hide from him. Despite his hunger, Galakrond was able to show restraint by keeping enough not-living to serve as a scouting force to hunt down his preferred prey: the living proto-dragons.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Legacies_Chapter_1.jpg/revision/latest/scale-to-width-down/180?cb=20221118070145)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Legacies_Chapter_1.jpg/revision/latest?cb=20221118070145)
+
+Galakrond and the Aspects at the final battle.
+
+With Tyr out of commission from his wound, the proto-dragons had to battle Galakrond alone. Galakrond and his remaining not-living forces would eventually be attacked by the future Aspects, in what would become known as the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight"). During the battle, Malygos would be able to lodge a boulder into Galakrond's throat; an action which not only saw Galakrond to focus his attention on dislodging it, instead of combating the others, but also forced him to release his hold on the remaining not-living who then began to attack one another. Despite his best efforts, the actions of Malygos's ice breaths would force the boulder to remain in the place and the boulder would ultimately be lodged further down his throat when Neltharion blasted a not-living into it, causing Galakrond to ultimately choke to death.
+
+Wanting to keep the truth about Galakrond a secret in order to prevent others from following in his path, the aspects encouraged the rumor that the [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") created them from Galakrond.<sup id="cite_ref-DotA_12-0"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-DotA-12">[12]</a></sup>
+
+### Present day
+
+More than 20,000 years later a taunka named [Buniq](https://wowpedia.fandom.com/wiki/Buniq "Buniq") was trying to prove herself worthy to her mate [Akiak](https://wowpedia.fandom.com/wiki/Akiak "Akiak"). Akiak along with [Trag Highmountain](https://wowpedia.fandom.com/wiki/Trag_Highmountain "Trag Highmountain") found her corpse near the remains of Galakrond in Dragonblight. A bone fragment from his corpse was retrieved by Trag. He could see its potential and took it with him.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Galakrond%27s_Rest.jpg/revision/latest/scale-to-width-down/180?cb=20221212000855)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Galakrond%27s_Rest.jpg/revision/latest?cb=20221212000855)
+
+Galakrond's remains at [Galakrond's Rest](https://wowpedia.fandom.com/wiki/Galakrond%27s_Rest "Galakrond's Rest").
+
+Some time afterwards, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") put [Grand Necrolord Antiok](https://wowpedia.fandom.com/wiki/Grand_Necrolord_Antiok "Grand Necrolord Antiok") in charge of an effort to raise Galakrond into [undeath](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath"). These plans were thwarted by adventurers who slew Antiok and ended his rituals.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-13">[13]</a></sup> When Deathwing attacked Wyrmrest Temple for the second time, Galakrond's boneyard was used by the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") as an assault point against [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and his [companions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
+
+Following a meeting between the former aspects, [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") discovered the [Spark of Tyr](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr")\--and later Tyr's hand--within Galakrond's skeleton. The artifact showed Kalecgos visions of the distant past, which caused him to learn the truth about Galakrond. As Kalec was rocked by these visions [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") traveled to Galakrond's skeleton looking for a way to aid her love.
+
+Both Kalec and Jaina encounter the ghost of the [taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka") [Buniq](https://wowpedia.fandom.com/wiki/Buniq "Buniq") in their exploration's of Galakrond's skeleton (Jaina theorized her to be Tyr in disguise). After using the artifact to remind the other former aspects of their duties, Kalec thought he saw Tyr standing at [Galakrond's Rest](https://wowpedia.fandom.com/wiki/Galakrond%27s_Rest "Galakrond's Rest").<sup id="cite_ref-DotA_12-1"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-DotA-12">[12]</a></sup>
+
+Galakrond's bloodline continued into the present day, when his direct descendant [Galakras](https://wowpedia.fandom.com/wiki/Galakras "Galakras") was ridden by [Warlord Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela") during the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar").
+
+## Quotes
+
+### [Dawn of the Aspects: Part III](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")
+
+-   "Where will [they](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") gather?"
+-   "Great I am. [You](https://wowpedia.fandom.com/wiki/Coros "Coros") would be great too."
+-   "There can be only one me...."
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+Galakrond is the central antagonist of the _[Descent of Dragons](https://wowpedia.fandom.com/wiki/Hearthstone:_Descent_of_Dragons "Hearthstone: Descent of Dragons")_ expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_, playing a similar role to [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") from _[Whispers of the Old Gods](https://wowpedia.fandom.com/wiki/Whispers_of_the_Old_Gods "Whispers of the Old Gods")_. Galakrond appears as five different hero cards for each class representing the League of E.V.I.L., and a new mechanic, [Invoke](https://hearthstone.fandom.com/wiki/Invoke "hswiki:Invoke"), directly upgrades him into a more powerful form. The hero cards representing him are as follows:
+
+-   [![Rogue](https://static.wikia.nocookie.net/wowpedia/images/2/20/ClassIcon_rogue.png/revision/latest/scale-to-width-down/16?cb=20170130100921)](https://wowpedia.fandom.com/wiki/Rogue "Rogue") [Galakrond, the Nightmare](https://hearthstone.fandom.com/wiki/Galakrond,_the_Nightmare "hswiki:Galakrond, the Nightmare"), raised by [Heistbaron Togwaggle](https://hearthstone.fandom.com/wiki/Heistbaron_Togwaggle "hswiki:Heistbaron Togwaggle") and infused with venom. This card's flavor text reads: _The enormous creature unfurled terrifying claws dripping with poisonous ichor. King Togwaggle was pleased, but inwardly disappointed the great Nightmare refused to wear the candle._
+-   [![Shaman](https://static.wikia.nocookie.net/wowpedia/images/0/00/ClassIcon_shaman.png/revision/latest/scale-to-width-down/16?cb=20170130100927)](https://wowpedia.fandom.com/wiki/Shaman "Shaman") [Galakrond, the Tempest](https://hearthstone.fandom.com/wiki/Galakrond,_the_Tempest "hswiki:Galakrond, the Tempest"), raised by [Swampqueen Hagatha](https://hearthstone.fandom.com/wiki/Swampqueen_Hagatha "hswiki:Swampqueen Hagatha") with the power of the elements. Flavor text: _Hagatha cried out over the winds: "Truly, you are as powerful as the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")!" To which the Tempest answered: "I AM THE MAELSTROM."_
+-   [![Warrior](https://static.wikia.nocookie.net/wowpedia/images/6/62/ClassIcon_warrior.png/revision/latest/scale-to-width-down/16?cb=20170130100941)](https://wowpedia.fandom.com/wiki/Warrior "Warrior") [Galakrond, the Unbreakable](https://hearthstone.fandom.com/wiki/Galakrond,_the_Unbreakable "hswiki:Galakrond, the Unbreakable"), raised by [Blastmaster Boom](https://hearthstone.fandom.com/wiki/Blastmaster_Boom "hswiki:Blastmaster Boom") and upgraded with advanced armor. Flavor text: _The ground quaked beneath the behemoth as Dr. Boom continued: "…with over 400 TONS of solid [Storm Silver](https://wowpedia.fandom.com/wiki/Storm_Silver_Ore "Storm Silver Ore") plate." Then he beeped a small remote. "And luxury spikes!"_
+-   [![Priest](https://static.wikia.nocookie.net/wowpedia/images/3/37/ClassIcon_priest.png/revision/latest/scale-to-width-down/16?cb=20170130100912)](https://wowpedia.fandom.com/wiki/Priest "Priest") [Galakrond, the Unspeakable](https://hearthstone.fandom.com/wiki/Galakrond,_the_Unspeakable "hswiki:Galakrond, the Unspeakable"), raised by [Madame Lazul](https://hearthstone.fandom.com/wiki/Madame_Lazul_(minion) "hswiki:Madame Lazul (minion)") and corrupted by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"). Flavor text: _Lazul called Galakrond's name, her voice echoed by whispers from the deep. Both of Galakrond's eyes opened... and then other eyes opened, as well._
+-   [![Warlock](https://static.wikia.nocookie.net/wowpedia/images/7/77/ClassIcon_warlock.png/revision/latest/scale-to-width-down/16?cb=20170130100934)](https://wowpedia.fandom.com/wiki/Warlock "Warlock") [Galakrond, the Wretched](https://hearthstone.fandom.com/wiki/Galakrond,_the_Wretched "hswiki:Galakrond, the Wretched"), raised by [Arch-Villain Rafaam](https://hearthstone.fandom.com/wiki/Arch-Villain_Rafaam "hswiki:Arch-Villain Rafaam") using [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") magic. Flavor text: _Fel-flames slowly writhed around the skeleton, until the great bones knit themselves together into a demonic monstrosity. Rafaam shielded his face from the heat but could not hide his grin._
+
+When upgraded for the first time Galakrond becomes "[Galakrond, the Apocalypse](https://hearthstone.fandom.com/wiki/Galakrond,_the_Apocalypse "hswiki:Galakrond, the Apocalypse")" and when he's upgraded for the second time he becomes "[Galakrond, Azeroth's End](https://hearthstone.fandom.com/wiki/Galakrond,_Azeroth%27s_End "hswiki:Galakrond, Azeroth's End")".
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Galakrond%2C_the_Nightmare.jpg/revision/latest/scale-to-width-down/103?cb=20191104200056)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Galakrond%2C_the_Nightmare.jpg/revision/latest?cb=20191104200056)
+    
+    Galakrond, the Nightmare
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/71/Galakrond%2C_the_Apocalypse_%28Rogue%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035226)](https://static.wikia.nocookie.net/wowpedia/images/7/71/Galakrond%2C_the_Apocalypse_%28Rogue%29.jpg/revision/latest?cb=20220301035226)
+    
+    Galakrond, the Apocalypse rogue version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Galakrond%2C_Azeroth%27s_End_%28Rogue%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035216)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Galakrond%2C_Azeroth%27s_End_%28Rogue%29.jpg/revision/latest?cb=20220301035216)
+    
+    Galakrond, Azeroth's End rogue version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Galakrond%2C_the_Tempest.jpg/revision/latest/scale-to-width-down/103?cb=20191208110726)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Galakrond%2C_the_Tempest.jpg/revision/latest?cb=20191208110726)
+    
+    Galakrond, the Tempest
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Galakrond%2C_the_Apocalypse_%28Shaman%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035228)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Galakrond%2C_the_Apocalypse_%28Shaman%29.jpg/revision/latest?cb=20220301035228)
+    
+    Galakrond, the Apocalypse shaman version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/64/Galakrond%2C_Azeroth%27s_End_%28Shaman%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035218)](https://static.wikia.nocookie.net/wowpedia/images/6/64/Galakrond%2C_Azeroth%27s_End_%28Shaman%29.jpg/revision/latest?cb=20220301035218)
+    
+    Galakrond, Azeroth's End shaman version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Galakrond%2C_the_Unbreakable.jpg/revision/latest/scale-to-width-down/103?cb=20191128150551)](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Galakrond%2C_the_Unbreakable.jpg/revision/latest?cb=20191128150551)
+    
+    Galakrond, the Unbreakable
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Galakrond%2C_the_Apocalypse_%28Warrior%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035232)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Galakrond%2C_the_Apocalypse_%28Warrior%29.jpg/revision/latest?cb=20220301035232)
+    
+    Galakrond, the Apocalypse warrior version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Galakrond%2C_Azeroth%27s_End_%28Warrior%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035223)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Galakrond%2C_Azeroth%27s_End_%28Warrior%29.jpg/revision/latest?cb=20220301035223)
+    
+    Galakrond, Azeroth's End warrior version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Galakrond%2C_the_Unspeakable.jpg/revision/latest/scale-to-width-down/103?cb=20191104200237)](https://static.wikia.nocookie.net/wowpedia/images/1/10/Galakrond%2C_the_Unspeakable.jpg/revision/latest?cb=20191104200237)
+    
+    Galakrond, the Unspeakable
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Galakrond%2C_the_Apocalypse_%28Priest%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035225)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Galakrond%2C_the_Apocalypse_%28Priest%29.jpg/revision/latest?cb=20220301035225)
+    
+    Galakrond, the Apocalypse priest version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/36/Galakrond%2C_Azeroth%27s_End_%28Priest%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035215)](https://static.wikia.nocookie.net/wowpedia/images/3/36/Galakrond%2C_Azeroth%27s_End_%28Priest%29.jpg/revision/latest?cb=20220301035215)
+    
+    Galakrond, Azeroth's End priest version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Galakrond%2C_the_Wretched.jpg/revision/latest/scale-to-width-down/103?cb=20191104200304)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Galakrond%2C_the_Wretched.jpg/revision/latest?cb=20191104200304)
+    
+    Galakrond, the Wretched
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Galakrond%2C_the_Apocalypse_%28Warlock%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035230)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Galakrond%2C_the_Apocalypse_%28Warlock%29.jpg/revision/latest?cb=20220301035230)
+    
+    Galakrond, the Apocalypse warlock version
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/45/Galakrond%2C_Azeroth%27s_End_%28Warlock%29.jpg/revision/latest/scale-to-width-down/103?cb=20220301035220)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Galakrond%2C_Azeroth%27s_End_%28Warlock%29.jpg/revision/latest?cb=20220301035220)
+    
+    Galakrond, Azeroth's End warlock version
+    
+
+A "Devastation" is unleashed when playing [Kronx Dragonhoof](https://hearthstone.fandom.com/wiki/Kronx_Dragonhoof "hswiki:Kronx Dragonhoof") when the hero already is Galakrond, the four devastations show Galakrond and his abilities:
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Annihilation_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301000734)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Annihilation_HS.jpg/revision/latest?cb=20220301000734)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Decimation_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301001107)](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Decimation_HS.jpg/revision/latest?cb=20220301001107)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7e/Domination_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301000757)](https://static.wikia.nocookie.net/wowpedia/images/7/7e/Domination_HS.jpg/revision/latest?cb=20220301000757)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Reanimation_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301002112)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Reanimation_HS.jpg/revision/latest?cb=20220301002112)
+    
+    [Reanimation](https://hearthstone.fandom.com/wiki/Reanimation "hswiki:Reanimation"), showing undead proto-dragons reanimated by Galakrond
+    
+
+Galakrond is in the art of some class-specific cards in the _Descent of Dragons_ set and _[Galakrond's Awakening](https://hearthstone.fandom.com/wiki/Galakrond%27s_Awakening "hswiki:Galakrond's Awakening")_ adventure as well as an alternate skin in _Battlegrounds_:
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Awaken%21_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301003054)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Awaken%21_HS.jpg/revision/latest?cb=20220301003054)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d1/Invocation_of_Frost_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301003800)](https://static.wikia.nocookie.net/wowpedia/images/d/d1/Invocation_of_Frost_HS.jpg/revision/latest?cb=20220301003800)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Summon_Galakrond_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301010654)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Summon_Galakrond_HS.jpg/revision/latest?cb=20220301010654)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Rafaam_%26_Galakrond.jpg/revision/latest/scale-to-width-down/120?cb=20200320081714)](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Rafaam_%26_Galakrond.jpg/revision/latest?cb=20200320081714)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Unleash_Galakrond_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220301010806)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Unleash_Galakrond_HS.jpg/revision/latest?cb=20220301010806)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Deep_Sea_Galakrond_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220419022546)](https://static.wikia.nocookie.net/wowpedia/images/9/97/Deep_Sea_Galakrond_HS.jpg/revision/latest?cb=20220419022546)
+    
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+### Magic
+
+When Galakrond started destroying the life essence of proto-dragons by consuming them, he underwent mutations. Eventually, he started to breathe a sickly green mist that Malygos described as "slow death" and reminded him "much too much of that 'breathed' by the not-living."<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-15">[15]</a></sup> Those exposed to this mist became either lethargic as if their lives were slowly seeping out afterwards,<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-16">[16]</a></sup> or violent.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-17">[17]</a></sup>
+
+-   This shares characteristics with [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") [magic](https://wowpedia.fandom.com/wiki/Magic "Magic"), which is created by destroying life energy and<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-18">[18]</a></sup> manifests as entropic green, causing demonic mutations in those exposed to it, and sometimes makes people more violent or lethargic.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-19">[19]</a></sup> [Richard A. Knaak](https://wowpedia.fandom.com/wiki/Richard_A._Knaak "Richard A. Knaak") stated that he likes the theory of Galakrond being affected by fel and that it works with what he knows of fel, but that Blizzard instructed him to keep the "green stuff" mysterious.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-20">[20]</a></sup> However, when [Micky Neilson](https://wowpedia.fandom.com/wiki/Micky_Neilson "Micky Neilson") was asked if Galakrond was affected by fel energy, he stated that he believes it was just disease.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_note-21">[21]</a></sup>
+-   It may have been a form of [death](https://wowpedia.fandom.com/wiki/Death "Death") magic, given how it gave rise to the not-living and how Galakrond's skin started to decay. Death magic sometimes appears as green, such as the Unholy specialization for [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight").
+-   It may have been [Decay](https://wowpedia.fandom.com/wiki/Decay "Decay"), which would explain his rotting flesh and match the sickly green color of Decay as seen in _Dragonflight_.
+
+This ambiguity may be related to his multiple _Hearthstone_ forms above.
+
+## See also
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Inv_misc_ring_mop3.png/revision/latest/scale-to-width-down/16?cb=20130811235709)[\[Galakrond Control Band\]](https://wowpedia.fandom.com/wiki/Galakrond_Control_Band)
+-   [The Age of Galakrond](https://wowpedia.fandom.com/wiki/The_Age_of_Galakrond "The Age of Galakrond")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-1) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_, part I, chapter 1
+2.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-2) [Adventure Guide: Galakras](https://wowpedia.fandom.com/wiki/Adventure_Guide_Mists_of_Pandaria_raids#Siege_of_Orgrimmar "Adventure Guide Mists of Pandaria raids")
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-Audience_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-Audience_4-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-Audience_4-2">c</a></sup>  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[15-30\] [Audience With The Dragon Queen](https://wowpedia.fandom.com/wiki/Audience_With_The_Dragon_Queen)
+4.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-5) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_ description
+5.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-6) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_, part V
+6.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-7) [_Dawn of the Aspects_ excerpt](http://us.battle.net/wow/en/blog/8636640/World_of_Warcraft_Dawn_of_the_Aspects_-_Part_1_Coming_Soon-2_6_2013).
+7.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-8) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_, part IV, pg. 123
+8.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-9) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_, part II, chapter 2
+9.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-10) _Dawn of the Aspects: Part III_, pg. 106 - 107
+10.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-11)  ![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Inv_misc_questionmark.png/revision/latest/scale-to-width-down/16?cb=20180222205140)[\[Progress Report: Uldorus\]](https://wowpedia.fandom.com/wiki/Progress_Report:_Uldorus)
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-DotA_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-DotA_12-1">b</a></sup> _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_
+12.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-13)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Galakrond and the Scourge](https://wowpedia.fandom.com/wiki/Galakrond_and_the_Scourge)
+13.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-14) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects"),_ part IV, pg. 46
+14.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-15) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_, part IV, pg. 16
+15.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-16) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects"),_ part IV, pg. 47
+16.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-17) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects"),_ part IV, pg. 48
+17.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-18) [Sean Copeland on Twitter](https://twitter.com/Loreology/status/405009802784305152) (2013-11-25)
+18.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-19) [Lethargy of the Orcs](https://wowpedia.fandom.com/wiki/Lethargy_of_the_Orcs "Lethargy of the Orcs")
+19.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-20) [Richard A. Knaak on Twitter](https://twitter.com/richardaknaak/status/520436335174094849) (2014-10-09)
+20.  [^](https://wowpedia.fandom.com/wiki/Galakrond#cite_ref-21) [Neilson on Twitter](https://twitter.com/MickyNeilson/status/587659944737931265) (2015-04-13)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
+
+[Dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon")
+
+
+
+ |
+| --- |
+|  |
+| Primary dragon types | 
+
+-   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
+-   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
+-   [Bronze](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")
+-   [Green](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon")
+-   [Red](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon")
+
+
+
+ |
+|  |
+| Other dragon types | 
+
+-   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+-   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Nether](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon")
+-   [Plagued](https://wowpedia.fandom.com/wiki/Plagued_dragon "Plagued dragon")
+-   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Storm](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")
+-   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead_dragon "Undead dragon")
+
+
+
+ |
+|  |
+| Dragonflights | 
+
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
+-   [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight")
+-   [Green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")
+-   [Netherwing dragonflight](https://wowpedia.fandom.com/wiki/Netherwing "Netherwing")
+
+
+
+ |
+|  |
+| Other draconic groups | 
+
+-   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
+-   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| 
+
+-   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
+-   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
+-   [Legacy of the Aspects](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects "Legacy of the Aspects")
+-   [Dragons category](https://wowpedia.fandom.com/wiki/Category:Dragons "Category:Dragons")
+-   [Dragonkin category](https://wowpedia.fandom.com/wiki/Category:Dragonkin "Category:Dragonkin")
+
+
+
+ |

@@ -1,0 +1,1648 @@
+_This article is about Arthas' life as a human. For his existence after he was transformed, see [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"). For other uses, see [Arthas (disambiguation)](https://wowpedia.fandom.com/wiki/Arthas_(disambiguation) "Arthas (disambiguation)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Arthas Menethil |
+| --- |
+| [![Image of Arthas Menethil](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Lich_King_by_Raneman.jpg/revision/latest/scale-to-width-down/200?cb=20210415161401)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Lich_King_by_Raneman.jpg/revision/latest?cb=20210415161401 "Image of Arthas Menethil") |
+| Title | 
+[![IconSmall ArthasDK.gif](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_ArthasDK.gif/revision/latest/scale-to-width-down/16?cb=20200521105544)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_ArthasDK.gif/revision/latest?cb=20200521105544) Champion of [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"),  
+Blessed Lord,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-1">[1]</a></sup>  
+King of Lordaeron,<sup id="cite_ref-crowned_2-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-crowned-2">[2]</a></sup>  
+[Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")  
+
+[![IconSmall Arthas.gif](https://static.wikia.nocookie.net/wowpedia/images/5/50/IconSmall_Arthas.gif/revision/latest/scale-to-width-down/16?cb=20200521105558)](https://static.wikia.nocookie.net/wowpedia/images/5/50/IconSmall_Arthas.gif/revision/latest?cb=20200521105558) Crown Prince of Lordaeron,  
+Paladin of the Silver Hand<sup id="cite_ref-Ultimate_Visual_Guide_3-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-Ultimate_Visual_Guide-3">[3]</a></sup>  
+Paladin defender of Lordaeron,<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-4">[4]</a></sup> Lord<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-5">[5]</a></sup> |
+| Gender | Male |
+| Race | [Human](https://wowpedia.fandom.com/wiki/Human "Human") ([Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")) |
+| Class | [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"), formerly [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") |
+| Affiliation(s) | [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") |
+| Former affiliation(s) | [1st Legion](https://wowpedia.fandom.com/wiki/1st_Legion "1st Legion"), [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), [Kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"), [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
+| Occupation | The [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") |
+| Former occupation(s) | First death knight and Champion of [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"), Revered champion of the Silver Hand,<sup id="cite_ref-Blood_of_the_Highborne_6-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-Blood_of_the_Highborne-6">[6]</a></sup> Prince of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Arthas_Menethil#Locations) |
+| Status | Deceased ([lore](https://wowpedia.fandom.com/wiki/Lore "Lore"))<sup id="cite_ref-Ultimate_Visual_Guide_3-1"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-Ultimate_Visual_Guide-3">[3]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-7">[7]</a></sup>  
+Killable [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") |
+| Relative(s) | [Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") (father),  
+[Lianne](https://wowpedia.fandom.com/wiki/Lianne_Menethil "Lianne Menethil") (mother),  
+[Calia](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") (sister),  
+Unnamed niece,  
+Unnamed brother-in-law,  
+[Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") (former lover)  
+[Uther](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") ("uncle")<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-8">[8]</a></sup> |
+| Mentor(s) | [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"), [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") |
+| Companion(s) | [Trueheart](https://wowpedia.fandom.com/wiki/Trueheart "Trueheart") & [Invincible](https://wowpedia.fandom.com/wiki/Invincible "Invincible") (steeds), [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") (formerly conjoined spirit) |
+
+“Nothing shall prevent me from having my revenge, [old friend](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"). Not even you. Now, I call out to the spirits of [this place](https://wowpedia.fandom.com/wiki/Frostmourne_Cavern "Frostmourne Cavern"). I will give anything, or pay any price, if only you will help me save my people.”
+
+— Arthas, just prior to claiming [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne")
+
+**Arthas Menethil**, Crown Prince of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") and [Knight of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), was the son of King [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") and heir to the throne. He was trained as a [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") by [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") and was inducted into the [Order of the Silver Hand](https://wowpedia.fandom.com/wiki/Order_of_the_Silver_Hand "Order of the Silver Hand"). Arthas also had a romantic relationship with the kind [sorceress](https://wowpedia.fandom.com/wiki/Mage "Mage") [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"). Committed to the protection of his people, Arthas was determined to stop the [plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") spreading throughout Lordaeron.
+
+Despite his promising beginnings, Arthas became one of the most powerful and evil beings [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") would ever know. Although he killed the [necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), Arthas was unable to stop the spread of the plague and resorted to increasingly desperate methods, such as purging the city of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"). Taking up the cursed [runeblade](https://wowpedia.fandom.com/wiki/Runeblade "Runeblade") [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"), Arthas was able to defeat the [demon](https://wowpedia.fandom.com/wiki/Demon "Demon") [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"), but he lost his [soul](https://wowpedia.fandom.com/wiki/Soul "Soul") in the process. Becoming a [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), he led the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") in destroying [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"), [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), and [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Arthas later made his way to the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") and merged with the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-9">[9]</a></sup>
+
+Ruling as the Lich King for years afterward, Arthas had the [last remnants of his humanity](https://wowpedia.fandom.com/wiki/Pulsing_Crystal "Pulsing Crystal") destroyed and was ultimately defeated in combat by [Highlord Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring") and his [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Light](https://wowpedia.fandom.com/wiki/Light "Light"). Cradled by the spirit of his father, Arthas Menethil died, leaving the mantle of the Lich King to be taken by [a noble soul](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") who would contain the power of the Scourge. Arthas' soul found no rest in [the afterlife](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands"), instead being forged [into a weapon](https://wowpedia.fandom.com/wiki/Kingsmourne "Kingsmourne") in the schemes of [the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal") that was spent until nothing was left.
+
+Arthas first appeared as one of the main protagonists of _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ and _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_. He also serves as the main antagonist in _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_.
+
+## Biography
+
+### Arthas: Rise of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Arthas_Jaina_Chronicle.jpg/revision/latest/scale-to-width-down/180?cb=20180404035918)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Arthas_Jaina_Chronicle.jpg/revision/latest?cb=20180404035918)
+
+Arthas and Jaina in Lordaeron.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Warcraft_III_Box_-_Arthas.jpg/revision/latest/scale-to-width-down/180?cb=20210618013155)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Warcraft_III_Box_-_Arthas.jpg/revision/latest?cb=20210618013155)
+
+Prince Arthas Menethil, Knight of the Silver Hand.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Arthas_HS_cropped.jpg/revision/latest/scale-to-width-down/180?cb=20170728094710)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Arthas_HS_cropped.jpg/revision/latest?cb=20170728094710)
+
+Arthas, Crown Prince of Lordaeron.
+
+Prince Arthas Menethil was born to King [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") and Queen [Lianne Menethil](https://wowpedia.fandom.com/wiki/Lianne_Menethil "Lianne Menethil"), four years before the start of the [First War](https://wowpedia.fandom.com/wiki/First_War "First War").<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-10">[10]</a></sup> The young prince grew up in a time when the lands of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") were ravaged by war, the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") was crumbling, and darker clouds still loomed on the horizon.
+
+As a young child, Arthas became best friends with [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and often sparred with him, though Arthas was less experienced. He also watched as his future steed, [Invincible](https://wowpedia.fandom.com/wiki/Invincible "Invincible"), grew up. As a youth, Arthas was trained in combat by [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"), the brother of the dwarven king [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard"), and became an adept swordsman. At the same time he learned the ways of the Light under the tutelage of [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_Lightbringer "Uther Lightbringer"). He also developed an interest in [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") when she was staying in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") while on her way to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), where she would be studying. Some time later, Terenas arranged a political marriage for Arthas' sister [Calia](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") with [Daval Prestor](https://wowpedia.fandom.com/wiki/Daval_Prestor "Daval Prestor"). Calia was distraught by the decision and hoped Arthas would marry for love rather than politics.
+
+Arthas was inducted into the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") at the young age of 19. The ceremony was held in the [Cathedral of Light](https://wowpedia.fandom.com/wiki/Cathedral_of_Light "Cathedral of Light") in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"), and was attended by prominent figures such as [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane"), [Thoras Trollbane](https://wowpedia.fandom.com/wiki/Thoras_Trollbane "Thoras Trollbane"), [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore"), and Jaina Proudmoore, whom Arthas had not seen since childhood. Archbishop [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") led the initiation process, which included four of the five original paladins: Uther, [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring"), [Saidan Dathrohan](https://wowpedia.fandom.com/wiki/Saidan_Dathrohan "Saidan Dathrohan"), and [Gavinrad the Dire](https://wowpedia.fandom.com/wiki/Gavinrad_the_Dire "Gavinrad the Dire"). Arthas was presented with the holy warhammer called  ![](https://static.wikia.nocookie.net/wowpedia/images/a/af/Inv_hammer_04.png/revision/latest/scale-to-width-down/16?cb=20061009075526)[\[Light's Vengeance\]](https://wowpedia.fandom.com/wiki/Light%27s_Vengeance) by Gavinrad and had the ceremonial silver plates placed upon his shoulders by Uther. While in Stormwind, Arthas visited the newly crowned king, [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), and sparred with him while recounting old memories. He also met the recently born prince, [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), who gripped his finger.
+
+Arthas once visited [Durnholde Keep](https://wowpedia.fandom.com/wiki/Durnholde_Keep "Durnholde Keep") and saw the famous [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") gladiator [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"). He stayed in the keep during the night and [Aedelas](https://wowpedia.fandom.com/wiki/Aedelas_Blackmoore "Aedelas Blackmoore") sent [Taretha](https://wowpedia.fandom.com/wiki/Taretha_Foxton "Taretha Foxton") to Arthas' chamber to please him. However, Arthas only talked with her and he noticed that Taretha reminded him of Jaina Proudmoore, whom he had begun to fall in love with. Later on, he rode on Invincible only to have an accident which caused Invincible to suffer a mortal wound. Arthas had no other option than to kill his beloved steed in order to stop its suffering, an act which would haunt him for the rest of his life.
+
+Arthas once stayed in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") so he could spend time with Jaina. During his visit, [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas") organized a banquet for Arthas and [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider"), who happened to be there at the same time. At the banquet, Arthas and Antonidas spoke of the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") strange lethargy, Terenas's health, Stormwind, the young [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), and Arthas' relationship status. Kael'thas, who was also fond of Jaina, was upset when he saw Arthas kissing her.
+
+Having grown into a strong, confident young man, Arthas was headstrong and somewhat arrogant, though none could dispute his bravery and tenacity. Arthas came to be considered one of the finest swordsmen in Lordaeron, and was famed for counterattacking and defeating the [forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll") warbands of [Zul'Aman](https://wowpedia.fandom.com/wiki/Zul%27Aman "Zul'Aman") when they began raiding the settlements along the border of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas").<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-11">[11]</a></sup>
+
+Later on, Arthas invited Jaina to Lordaeron to celebrate the festivals of [Noblegarden](https://wowpedia.fandom.com/wiki/Noblegarden "Noblegarden") and [Hallow's End](https://wowpedia.fandom.com/wiki/Hallow%27s_End "Hallow's End"). During that time Arthas revealed that he was courting Jaina to the public. Eventually, however, Arthas began to question whether the two of them were ready to be together. Arthas abruptly ended the relationship so Jaina could focus on her magical studies in Dalaran and Arthas could focus on his commitments to [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-12">[12]</a></sup>
+
+During the trial of [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring") in [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), Arthas served as one of the four jurors. Like the other judges, he was shocked when Tirion admitted his guilt, which led the paladin to his [excommunication](https://wowpedia.fandom.com/wiki/Excommunication "Excommunication") and his exile.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-13">[13]</a></sup><sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-14">[14]</a></sup>
+
+### Knight of the Silver Hand
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/19/BTNArthas-Reforged.png/revision/latest/scale-to-width-down/180?cb=20210415222355)](https://static.wikia.nocookie.net/wowpedia/images/1/19/BTNArthas-Reforged.png/revision/latest?cb=20210415222355)
+
+Arthas, as a paladin, in _[Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reforged "Warcraft III: Reforged")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Arthaspaladin2.JPG/revision/latest/scale-to-width-down/180?cb=20080830001007)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Arthaspaladin2.JPG/revision/latest?cb=20080830001007)
+
+Arthas, as a paladin, in _Warcraft III_.
+
+Troubles began to stir in Lordaeron. [Orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") broke free of their internment camps, and there was distressing news of a [plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") that had gripped the [northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands"). Arthas and Uther were sent to [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad") to defend the town from orcish raids.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-15">[15]</a></sup> The young prince defeated the [black drake](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") [Searinox](https://wowpedia.fandom.com/wiki/Searinox "Searinox") to retrieve its heart for the [dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Feranor Steeltoe](https://wowpedia.fandom.com/wiki/Feranor_Steeltoe "Feranor Steeltoe") to forge into an [Orb of Fire](https://wowpedia.fandom.com/wiki/Orb_of_Fire "Orb of Fire"). Arthas used this magical item to help defeat the orcs and kill the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") [blademaster](https://wowpedia.fandom.com/wiki/Blademaster "Blademaster") leading the raids.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-16">[16]</a></sup>
+
+#### Plague of Undeath
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Lore_in_Short_-_Confronting_Kel%27Thuzad.png/revision/latest/scale-to-width-down/180?cb=20220922144906)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Lore_in_Short_-_Confronting_Kel%27Thuzad.png/revision/latest?cb=20220922144906)
+
+Arthas and Jaina encountering Kel'Thuzad.
+
+Weeks later a more vile threat arose in the form of the [Plague of Undeath](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath"). Jaina and [Captain Falric](https://wowpedia.fandom.com/wiki/Captain_Falric "Captain Falric") were sent to help Arthas, now 24 years old, investigate the strange disease. They fought against the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") at an infested granary, then encountered the [necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") in the town of [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill") and pursued him to [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-17">[17]</a></sup>
+
+Kel'Thuzad had already infected the stored grain in Andorhal and shipped it out to outlying villages. Before Arthas killed him, Kel'Thuzad spoke of [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"), a [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") demon who led the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-18">[18]</a></sup> Jaina and Arthas traveled north to confront him in [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme").
+
+Along the way, Arthas and Jaina stopped at [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen") where they hoped to rest. Instead, they were warned of an approaching army of undead. Arthas ordered Jaina to find [Uther](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") and seek his aid while he remained behind to defend the town. To his horror, Arthas discovered that the plague was not merely a means of mass murder, but rather the means of turning innocent townsfolk into [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") creatures. Arthas' forces barely held out and were on the verge of defeat when Uther arrived with reinforcements and saved the village.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-19">[19]</a></sup>
+
+While traveling to Stratholme, Arthas was met by the enigmatic prophet [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"). He gave him the same advice he gave Terenas — to travel west to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), as fighting the undead would speed up the delivery of Lordaeron to them. Arthas argued that his place was with his people, and vowed that he would not abandon them. Jaina suggested that the prophet might be right, but Arthas paid her no heed and continued to Stratholme.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-20">[20]</a></sup>
+
+#### Culling of Stratholme
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Chronicle3_Arthas_in_Stratholme.jpg/revision/latest/scale-to-width-down/180?cb=20180515193153)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Chronicle3_Arthas_in_Stratholme.jpg/revision/latest?cb=20180515193153)
+
+Arthas during the Culling of Stratholme.
+
+When he arrived at [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), Arthas found that the grain had already been distributed. He knew the people of Stratholme would soon become undead, and ordered Uther and his knights to [purge](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme") the entire city. Horrified, Uther rebuked him by saying he would not follow such an order even if Arthas were already king. Proclaiming that Uther had committed treason, Arthas relieved him of his command and suspended his paladins from service. Several soldiers, such as [Sir Thomas Thomson](https://wowpedia.fandom.com/wiki/Sir_Thomas_Thomson "Sir Thomas Thomson"), left with Uther — as did Jaina — while those who remained loyal to Arthas joined him in slaughtering the infected citizens.
+
+As Arthas began to slay the citizens of Stratholme, he was met by [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis") himself, who was working to claim their souls. Arthas sought to destroy them before Mal'Ganis could reach them, and eventually demanded a final showdown with the dreadlord. Mal'Ganis slipped away, however, vowing to meet him in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Arthas then set fire to Stratholme, and those fires burn to this day.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-21">[21]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Warcraft_III_Reforged_-_The_Culling_intro_screen.jpg/revision/latest/scale-to-width-down/120?cb=20190510150959)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Warcraft_III_Reforged_-_The_Culling_intro_screen.jpg/revision/latest?cb=20190510150959)
+    
+    _Reforged_ art of Arthas at the gates of Stratholme.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Arthas_BFA_cinematic.jpg/revision/latest/scale-to-width-down/120?cb=20180824183901)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Arthas_BFA_cinematic.jpg/revision/latest?cb=20180824183901)
+    
+    Arthas' appearance prior to the Culling of Stratholme as remembered by Jaina.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Lore_in_Short_-_The_Culling.png/revision/latest/scale-to-width-down/120?cb=20220922145152)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Lore_in_Short_-_The_Culling.png/revision/latest?cb=20220922145152)
+    
+    Arthas starting to kill the citizens in _Lore in Short_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Warcraft_III_Reforged_-_The_Culling_outro_screen.jpg/revision/latest/scale-to-width-down/120?cb=20181102201603)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Warcraft_III_Reforged_-_The_Culling_outro_screen.jpg/revision/latest?cb=20181102201603)
+    
+    _Reforged_ art of the Culling of Stratholme.
+    
+
+#### Northrend
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/ArthasTreachery.jpg/revision/latest/scale-to-width-down/180?cb=20180516181653)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/ArthasTreachery.jpg/revision/latest?cb=20180516181653)
+
+Arthas frames his mercenaries.
+
+Arthas followed Mal'Ganis with a detachment of his troops. They arrived a month later in [Daggercap Bay](https://wowpedia.fandom.com/wiki/Daggercap_Bay "Daggercap Bay"). As they searched for a proper place to set up camp, Arthas' men came under gunfire before being recognized by the dwarven [explorers' guild](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League"). Arthas was shocked to come upon his good friend and former mentor [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"). At first, Muradin thought Arthas was leading a rescue party sent to save his men, who had been besieged by the undead as they searched for the runeblade [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"), but Arthas admitted it was mere coincidence. Together they destroyed the nearby undead camp, but there was still no sign of [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-22">[22]</a></sup>
+
+As Muradin and Arthas continued their search for Frostmourne, an emissary from Lordaeron arrived in a [zeppelin](https://wowpedia.fandom.com/wiki/Zeppelin "Zeppelin") and spoke to [Captain Luc Valonforth](https://wowpedia.fandom.com/wiki/Captain_Luc_Valonforth "Captain Luc Valonforth"). He bore orders from Uther and Terenas, instructing Arthas and his men to return home. When Arthas returned to his base, the men had abandoned their posts and were making their way through the forest towards their ships. Arthas had no intention of leaving before Mal'Ganis was destroyed. With the help of some indigenous mercenaries, he managed to reach and burn his ships before his men got to them. When his men arrived, Arthas betrayed the mercenaries by accusing them of destroying the ships. To Muradin's disgust, they were promptly killed. Arthas told his men they had no means of going home, and the only way they were leaving Northrend was through victory.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-23">[23]</a></sup>
+
+#### Frostmourne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Warcraft_III_Reforged_-_Arthas_taking_Frostmourne.png/revision/latest/scale-to-width-down/180?cb=20190516175856)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Warcraft_III_Reforged_-_Arthas_taking_Frostmourne.png/revision/latest?cb=20190516175856)
+
+Arthas holding the cursed blade [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4a/ArthasMalganisRF.jpg/revision/latest/scale-to-width-down/180?cb=20200422005531)](https://static.wikia.nocookie.net/wowpedia/images/4/4a/ArthasMalganisRF.jpg/revision/latest?cb=20200422005531)
+
+Arthas "kills" Mal'Ganis in _Reforged_.
+
+Arthas and his troops continued to press on to [Draktharon Keep](https://wowpedia.fandom.com/wiki/Draktharon_Keep "Draktharon Keep") in search of [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"). As he arrived, [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis") appeared to him, and foretold his death. Arthas went to search for Frostmourne with [Muradin](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"), leaving his captain to defend the camp.
+
+Using an ancient waygate Arthas, Muradin, and a small group of men traveled to the vicinity of the fabled runeblade. Arthas was soon confronted by [the Guardian](https://wowpedia.fandom.com/wiki/The_Guardian "The Guardian"), who tried to keep him from Frostmourne, apparently for his own protection. The Guardian fell, and Arthas and Muradin claimed their prize. Muradin, reading an inscription, reported that the blade was cursed. He pleaded with Arthas to forget his desire for vengeance and lead his men home, but Arthas was adamant. Arthas asked the spirits of the cavern for the sword to be released from its icy prison, proclaiming that he would "give anything or pay any price, if only they will help him save his people". When the weapon broke free, Muradin was struck by a rogue shard of ice, rendering him unconscious. Arthas moved to help Muradin, but was dissuaded by the call of Frostmourne in his mind. Arthas discarded his holy warhammer,  ![](https://static.wikia.nocookie.net/wowpedia/images/a/af/Inv_hammer_04.png/revision/latest/scale-to-width-down/16?cb=20061009075526)[\[Light's Vengeance\]](https://wowpedia.fandom.com/wiki/Light%27s_Vengeance), then picked Frostmourne up and returned to his base, leaving Muradin for dead. With Frostmourne in hand, Arthas [defeated](https://wowpedia.fandom.com/wiki/Frostmourne_(WC3) "Frostmourne (WC3)") Mal'Ganis's army, destroyed his base, and finally confronted the demon.
+
+Mal'Ganis told him that the voice he was now hearing was that of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") and asked what he was telling him. Arthas replied that voice was instructing him to destroy Mal'Ganis, much to the dreadlord's surprise. After slaying the dreadlord, Arthas fled into the frozen north, leaving his troops to fend for themselves. Arthas soon lost the last remnants of his sanity.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-24">[24]</a></sup> Arthas was unaware that Mal'Ganis had survived their encounter.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Lore_in_Short_-_Muradin_abandoned.png/revision/latest/scale-to-width-down/120?cb=20220922145425)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Lore_in_Short_-_Muradin_abandoned.png/revision/latest?cb=20220922145425)
+    
+    Leaving Frostmourne Cavern in _Lore in Short_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Lore_in_Short_-_Arthas_vs_Mal%27Ganis.png/revision/latest/scale-to-width-down/120?cb=20220922145536)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Lore_in_Short_-_Arthas_vs_Mal%27Ganis.png/revision/latest?cb=20220922145536)
+    
+    About to strike Mal'Ganis in _Lore in Short_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Mal%27Ganis%27_death.jpg/revision/latest/scale-to-width-down/112?cb=20100709010421)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Mal%27Ganis%27_death.jpg/revision/latest?cb=20100709010421)
+    
+    Arthas "kills" Mal'Ganis.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Arthas_vs_Ghouls.jpg/revision/latest/scale-to-width-down/120?cb=20130722033251)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Arthas_vs_Ghouls.jpg/revision/latest?cb=20130722033251)
+    
+    Arthas, using Frostmourne against the Scourge.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Arthas_vs_Mal%27Ganis_1.jpg/revision/latest/scale-to-width-down/120?cb=20130722033301)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Arthas_vs_Mal%27Ganis_1.jpg/revision/latest?cb=20130722033301)
+    
+    Arthas, fighting against Mal'Ganis.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Arthas_vs_Mal%27Ganis_2.jpg/revision/latest/scale-to-width-down/120?cb=20130722033306)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Arthas_vs_Mal%27Ganis_2.jpg/revision/latest?cb=20130722033306)
+    
+    Arthas stands triumphant.
+    
+
+### Champion of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6c/BTNArthasEvil.png/revision/latest/scale-to-width-down/180?cb=20210415222401)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/BTNArthasEvil.png/revision/latest?cb=20210415222401)
+
+Arthas, as a death knight, in _[Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reforged "Warcraft III: Reforged")_.
+
+In [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), Arthas became the first of the Lich King's [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight"). He was given a suit of [saronite](https://wowpedia.fandom.com/wiki/Saronite "Saronite") armor,<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-25">[25]</a></sup> and slew nearly all of his own men before raising them as [undead](https://wowpedia.fandom.com/wiki/Undead "Undead").<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-26">[26]</a></sup> Some among them, notably [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric"), [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn") and [Thassarian](https://wowpedia.fandom.com/wiki/Thassarian "Thassarian"), were raised as death knights in Arthas' service.<sup id="cite_ref-DK_Manga_27-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-DK_Manga-27">[27]</a></sup>
+
+#### Betrayal
+
+Arthas returned to Lordaeron months later, and the kingdom rejoiced at the return of its champion. Flanked by [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric") and [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn"), Arthas entered the [imperial chamber](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") and knelt before the throne. After telling his father that he no longer needed to bear the weight of his crown, Arthas walked up to Terenas and ran Frostmourne through his heart.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-28">[28]</a></sup> The king's [bloodied, broken crown](https://wowpedia.fandom.com/wiki/Bloodied_crown "Bloodied crown") remains lost to this day. As he drew Frostmourne, Arthas remembered the words of his old friend [Varian](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") describing his own father and king [Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn "Llane Wrynn") being stabbed in the heart.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-29">[29]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Arthas2.jpg/revision/latest/scale-to-width-down/97?cb=20050707201602)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/Arthas2.jpg/revision/latest?cb=20050707201602)
+    
+    Prince Arthas returns home.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Arthas%27_Betrayal_cinematic_Arthas_smirk.jpg/revision/latest/scale-to-width-down/120?cb=20210504143427)](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Arthas%27_Betrayal_cinematic_Arthas_smirk.jpg/revision/latest?cb=20210504143427)
+    
+    Arthas just prior to the betrayal.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Arthas_dark.jpg/revision/latest/scale-to-width-down/120?cb=20170416173434)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Arthas_dark.jpg/revision/latest?cb=20170416173434)
+    
+    Arthas, about to kill Terenas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Legacy_of_the_Damned_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210328195033)](https://static.wikia.nocookie.net/wowpedia/images/9/94/Legacy_of_the_Damned_TCG.jpg/revision/latest?cb=20210328195033)
+    
+    Arthas murders his father.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Lore_in_Short_-_Arthas%27_betrayal.png/revision/latest/scale-to-width-down/120?cb=20220922145840)](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Lore_in_Short_-_Arthas%27_betrayal.png/revision/latest?cb=20220922145840)
+    
+    After the murder in _Lore in Short_.
+    
+
+Arthas then unleashed the Scourge upon the Capital City. He soon found [Vivian](https://wowpedia.fandom.com/wiki/Vivian "Vivian"), wife of the fallen hero [Killoren](https://wowpedia.fandom.com/wiki/Killoren "Killoren"). Sensing a conflict within Thassarian, Arthas ordered Thassarian to kill Vivian - his mother - in order to prove his loyalty.<sup id="cite_ref-DK_Manga_27-1"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-DK_Manga-27">[27]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Arthasdeathknight2.JPG/revision/latest/scale-to-width-down/180?cb=20220625171616)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Arthasdeathknight2.JPG/revision/latest?cb=20220625171616)
+
+Arthas, as a death knight, in _Warcraft III_.
+
+Leaving [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric") and [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn") to oversee his forces in the city, Arthas ran to the [Balnir Farmstead](https://wowpedia.fandom.com/wiki/Balnir_Farmstead "Balnir Farmstead"). There he used his necromantic powers to raise his faithful steed [Invincible](https://wowpedia.fandom.com/wiki/Invincible "Invincible") into undeath, allowing it to serve as his mount once again.
+
+A few days later, Arthas appeared in [Vandermar Village](https://wowpedia.fandom.com/wiki/Vandermar_Village "Vandermar Village") at the bidding of his new master, the Lich King. There he met [Tichondrius the Darkener](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius"), a dreadlord like Mal'Ganis. Thinking that the dreadlord was Mal'Ganis out for revenge, Arthas immediately threatened him, only to discover that this dreadlord had come to congratulate Arthas for his efforts. When spoken to Arthas said he no longer felt remorse for any of his actions, though deep in his heart he knew this was a lie.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-30">[30]</a></sup> Tichondrius explained that the sword was designed to steal souls, and that Arthas' own soul was the first one it had claimed.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-31">[31]</a></sup>
+
+Tichondrius tasked Arthas with gathering the members of the vile [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned") that were hiding in Vandermar, learning that Kel'Thuzad had expected him, much to his surprise. They aided him with their magical abilities as he traveled to [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") where he was to recover [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")'s corpse. Arthas initially asked as to why they couldn't reanimate him on the spot, only to be informed by a cultist that a being like Kel'Thuzad required a powerful energy source. He confronted the paladin guarding the crypt, [Gavinrad the Dire](https://wowpedia.fandom.com/wiki/Gavinrad_the_Dire "Gavinrad the Dire"), who had given Arthas his holy warhammer at his induction ceremony into the Silver Hand. After killing Gavinrad, he recovered the remains of the necromancer. This brought [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")'s ghost into being, and he secretly instructed Arthas not to trust the dreadlords. Arthas quietly contemplated this.
+
+Kel'Thuzad's remains were badly decomposed and needed to be taken to the mystical Sunwell in Quel'Thalas to be revived. To ensure that the remains would survive the trip, Arthas was tasked with taking a [special urn](https://wowpedia.fandom.com/wiki/Urn_of_King_Terenas "Urn of King Terenas") that was being held by the Knights of the Silver Hand. Arthas killed two paladins, [Ballador the Bright](https://wowpedia.fandom.com/wiki/Ballador_the_Bright "Ballador the Bright") and [Sage Truthbearer](https://wowpedia.fandom.com/wiki/Sage_Truthbearer "Sage Truthbearer"), who both condemned Arthas' betrayal. He then faced [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"), who explained that the urn held the ashes of his father, King Terenas. The two engaged in a duel with Uther initially having the upper hand, knocking Arthas down and sending Frostmourne flying from his hands. As Arthas awaited the killing blow, the sword seemed to find its own way into his hands and he was granted more power by the Lich King. The battle began to turn in Arthas' favor. Eventually, Uther, covered in blood from his wounds, fell to his knees and told Arthas he hoped there was a special place in hell waiting for him. Arthas replied that they would never know because he intended to live forever, then delivered the killing blow. He seized the urn and [blasphemed](https://wowpedia.fandom.com/wiki/Blasphemy "Blasphemy") his father's remains by throwing them, which suddenly swarmed on him with the wind, choking him and burning his eyes. Arthas had the remains of Kel'Thuzad placed within the urn, and then began the long journey to Quel'Thalas.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-32">[32]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Afterlives_-_Arthas_vs_Uther.png/revision/latest/scale-to-width-down/120?cb=20200827201437)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Afterlives_-_Arthas_vs_Uther.png/revision/latest?cb=20200827201437)
+    
+    Arthas after defeating his old teacher in Andorhal.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Afterlives_-_Uther%27s_soul_split.png/revision/latest/scale-to-width-down/120?cb=20200827195522)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Afterlives_-_Uther%27s_soul_split.png/revision/latest?cb=20200827195522)
+    
+    Arthas killing Uther.
+    
+
+#### Fall of Quel'Thalas
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Sylvanas_Warbringers5.jpg/revision/latest/scale-to-width-down/200?cb=20190412225535)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Sylvanas_Warbringers5.jpg/revision/latest?cb=20190412225535)
+
+Arthas leading the undead Scourge against the kingdom of Quel'Thalas in _[Warbringers](https://wowpedia.fandom.com/wiki/Warbringers "Warbringers")_.
+
+Arthas met heavy resistance from the elves, rallied by [Ranger-General](https://wowpedia.fandom.com/wiki/Ranger-general_of_Silvermoon "Ranger-general of Silvermoon") [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"). Driving their forces before his undead army, he steadily pushed her people back in a swath of destruction towards Silvermoon, breaching the kingdom's two elfgates with ease. Sylvanas tried to warn the vast elven capital of the coming of the Scourge, but Arthas destroyed her camps and killed the Ranger-General. To make her pay for her perceived insolence towards him, Arthas corrupted her elven spirit, transforming it into a horrendous twisted form (a [banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")) and enslaving her to the will of the Lich King, forcing her to slay her own people.
+
+Arthas and the marching armies of the Scourge annihilated Silvermoon, leaving it in ruins. On the road to the Sunwell, he fought [Grand Magister Belo'vir](https://wowpedia.fandom.com/wiki/Grand_Magister_Belo%27vir "Grand Magister Belo'vir") and left him critically injured after severing his right arm. Arthas also faced [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider"), the aged High King of Quel'Thalas, and killed him with minimal struggle. Arthas then used the Sunwell to bring Kel'Thuzad back as an undead [lich](https://wowpedia.fandom.com/wiki/Lich "Lich").<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-33">[33]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/The_First_to_Fall_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20181212010246)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/The_First_to_Fall_Arthas.jpg/revision/latest?cb=20181212010246)
+    
+    Arthas and Invincible entering Quel'Thalas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5e/Path_of_the_Damned_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20140430144544)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/Path_of_the_Damned_TCG.jpg/revision/latest?cb=20140430144544)
+    
+    Arthas leads the Scourge against Silvermoon.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Arthas_kills_Sylvanas.jpg/revision/latest/scale-to-width-down/120?cb=20220930220604)](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Arthas_kills_Sylvanas.jpg/revision/latest?cb=20220930220604)
+    
+    Arthas kills Sylvanas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Bansheeritual.jpg/revision/latest/scale-to-width-down/83?cb=20080909061448)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Bansheeritual.jpg/revision/latest?cb=20080909061448)
+    
+    Arthas raising Sylvanas as a banshee.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Arthas_defeats_Sylvanas.jpg/revision/latest/scale-to-width-down/90?cb=20180328211828)](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Arthas_defeats_Sylvanas.jpg/revision/latest?cb=20180328211828)
+    
+    Arthas' victory over Sylvanas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Anasterian_vs_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20220705195545)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Anasterian_vs_Arthas.jpg/revision/latest?cb=20220705195545)
+    
+    Arthas against Anasterian Sunstrider.
+    
+
+#### Destruction of Dalaran
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Warcraft_III_Reforged_-_Arthas_and_Archimonde_-_Arthas.jpg/revision/latest/scale-to-width-down/140?cb=20220625185702)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Warcraft_III_Reforged_-_Arthas_and_Archimonde_-_Arthas.jpg/revision/latest?cb=20220625185702)
+
+Arthas battling the forces of Dalaran while Kel'Thuzad summons the demon lord.
+
+As the pair traveled to [Alterac](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains"), Kel'Thuzad explained the full extent of the "second invasion" and the Lich King's plan.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-34">[34]</a></sup> Arthas and Kel'Thuzad went to the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains") to destroy encampments of [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") orcs who possessed a functional demon gate, which the lich would use to speak to the demon lord [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde_the_Defiler "Archimonde the Defiler"). The Scourge destroyed the orcs to secure the portal for themselves. Archimonde instructed them to march to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and acquire the spellbook of [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") so he could be summoned into Azeroth.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-35">[35]</a></sup>
+
+Despite the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")'s valiant efforts to repel the invasion, the Scourge [fought through their magical defenses and fortifications](https://wowpedia.fandom.com/wiki/Siege_of_Dalaran "Siege of Dalaran"), killed the Archmage [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas") and claimed the [Book of Medivh](https://wowpedia.fandom.com/wiki/Book_of_Medivh "Book of Medivh").
+
+Arthas and his troops repelled the mages' vast counterattack as Kel'Thuzad began the lengthy summoning of the demon lord, reinforced by the Burning Legion's forces as the ritual progressed. Once Archimonde arrived, he proclaimed that the Lich King was of no further use to the Legion, and Tichondrius was placed in command of the Scourge. Arthas was left to wonder what would become of him and Kel'Thuzad, but the lich replied that all was going as the Lich King foresaw.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-36">[36]</a></sup> The pair disappeared as Archimonde took his revenge on the city, destroying Dalaran with a single powerful ritual.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-37">[37]</a></sup>
+
+#### Invasion of Kalimdor
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Illidan_meets_Arthas_Reforged.jpg/revision/latest/scale-to-width-down/180?cb=20220305205138)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Illidan_meets_Arthas_Reforged.jpg/revision/latest?cb=20220305205138)
+
+Arthas informed [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") about the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan").
+
+Arthas was next seen in [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") on the Lich King's orders, joining the Legion's invasion not to aid them but to secretly undermine their efforts. From the shadows he influenced the Scourge, causing them to disobey their demon masters. This slowed the Legion's progress towards [Hyjal Summit](https://wowpedia.fandom.com/wiki/Hyjal_Summit "Hyjal Summit") and sometimes even allowed the Legion's enemies to escape. When Arthas considered another way to more severely damage the Legion, he noticed [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") and the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") which the dreadlord had used to create [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood") and corrupt the surrounding forests. The death knight was aware that he could not destroy Tichondrius directly without attracting Archimonde's attention. When he discovered [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), Arthas realized that he could manipulate someone else to kill the dreadlord instead.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-38">[38]</a></sup>
+
+Arthas sensed Illidan's yearning for power and approached him in Felwood. He told the recently freed demon hunter how to claim the skull's powers as his own, whereupon he could destroy Tichondrius. Illidan agreed to his plan, and Arthas disappeared again,<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-39">[39]</a></sup> awaiting to be teleported by [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad").<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-40">[40]</a></sup>
+
+Arthas remained on Kalimdor until after the Battle of Mount Hyjal, which resulted in the obliteration of the Legion forces. Following Archimonde's death, the allied forces launched a counterattack on the demonic remnants. Arthas only narrowly escaped the attack. He rallied as many of the Scourge as he could before retreating back home.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-41">[41]</a></sup>
+
+#### Return to Lordaeron
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Warcraft_III_TFT_box_artwork.jpg/revision/latest/scale-to-width-down/180?cb=20210618013030)](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Warcraft_III_TFT_box_artwork.jpg/revision/latest?cb=20210618013030)
+
+King Arthas Menethil, Death Knight of the Scourge.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Arthasdreadlords.JPG/revision/latest/scale-to-width-down/180?cb=20071110045125)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Arthasdreadlords.JPG/revision/latest?cb=20071110045125)
+
+Arthas confronts the dreadlords.
+
+Archimonde left a trio of dreadlords behind in the ruined palace gardens of Lordaeron to ensure that the nation remained under control, and to watch over the cunning servitors of Ner'zhul. When the demon lord was defeated, however, they were not originally aware of it. This changed several months later, when Arthas returned to reclaim his throne. He threatened the dreadlords, who immediately fled, and then called Sylvanas and Kel'Thuzad to his side to stop a large group of human refugees, who were led by the [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") [Halahk the Lifebringer](https://wowpedia.fandom.com/wiki/Halahk_the_Lifebringer "Halahk the Lifebringer"), [Magroth the Defender](https://wowpedia.fandom.com/wiki/Magroth_the_Defender "Magroth the Defender"), and [Dagren the Orcslayer](https://wowpedia.fandom.com/wiki/Dagren_the_Orcslayer "Dagren the Orcslayer") as they tried to stall the Scourge so they could escape into the canyons, where the undead would have difficulty hunting them. However, during the climax of the battle, Arthas had a painful seizure, and felt the Lich King calling out to him. Despite his diminished powers, Arthas fought on until all the humans in the area were killed.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-42">[42]</a></sup>
+
+Little did Arthas know that the Lich King's power had dwindled to the point that Sylvanas was no longer under his control. In secret, she attended a meeting with the three dreadlords, who told her that the Lich King's power was waning, and so the time had come to claim her vengeance.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-43">[43]</a></sup>
+
+As Arthas returned to the capital city with Kel'Thuzad to discuss the threat, he was separated from Kel'Thuzad by the dreadlords, who attempted to kill him with several ghouls. Arthas killed the rogue undead and was forced to collect what loyalists he could find and fight his way through the dreadlords' forces, which included the powerful abomination [Bloodfeast](https://wowpedia.fandom.com/wiki/Bloodfeast_(Warcraft_III) "Bloodfeast (Warcraft III)"). As he arrived on the city's limits, he was saved by a cadre of banshees, who told him that Sylvanas had sent them to see him safely away.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-44">[44]</a></sup> However, as they neared an empty spot in the forest, Arthas received another vision from the Lich King, who told him he'd been betrayed. Sylvanas then appeared and shot him with a paralyzing arrow, promising to torture him like he had done to her. Before she could start, Kel'Thuzad stepped in and chased her off with his forces.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-45">[45]</a></sup>
+
+The Lich King's mental cries pierced Arthas' mind - he was told to return to Northrend, for demonic forces (later revealed to be Illidan and the naga) were working to destroy the Frozen Throne and end the self-proclaimed king's reign. Immediately, Arthas prepared his fleet and set sail for Northrend, leaving Kel'Thuzad behind to watch over Lordaeron.
+
+#### Escape to Northrend
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Warcraft_III_Reforged_Scourge_Undead_Campaign.jpg/revision/latest/scale-to-width-down/220?cb=20210426141649)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Warcraft_III_Reforged_Scourge_Undead_Campaign.jpg/revision/latest?cb=20210426141649)
+
+Arthas in Northrend.
+
+Three weeks later, Arthas landed upon the familiar coast of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), and unexpectedly found himself being attacked by [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") led by [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas "Kael'thas"), hungry for vengeance at their kingdom's destruction. Arthas was unexpectedly saved by a large [crypt lord](https://wowpedia.fandom.com/wiki/Crypt_lord "Crypt lord") who introduced himself as [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak"), the former king of [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"). Kael'thas warned that though the preliminary scouting force may have fallen, their main army would not be so easily defeated, before teleporting away to safety.
+
+Arthas worried that Kael'thas was right and that they would never reach the Citadel before Illidan could. However, Anub'arak revealed that they could use the ancient tunnels of [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub") as a shortcut. With little choice, Arthas accepted the crypt lord's suggestion. While setting up a camp to fight to the passageway, Anub'arak suggested raiding the hoard of [Sapphiron](https://wowpedia.fandom.com/wiki/Sapphiron "Sapphiron"), an ancient blue dragon and servant of [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") and using whatever treasures the dragon had to strengthen themselves. Not only did they slay the dragon, but Arthas used what power he had left to raise Sapphiron into a powerful [frost wyrm](https://wowpedia.fandom.com/wiki/Frost_wyrm "Frost wyrm").<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-46">[46]</a></sup>
+
+#### Race to the Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Illidan_v_Arthas.jpg/revision/latest/scale-to-width-down/180?cb=20210405024857)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Illidan_v_Arthas.jpg/revision/latest?cb=20210405024857)
+
+Arthas and Illidan's fight, as seen in _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_.
+
+When he came to the doors of Azjol-Nerub, Arthas found himself being fired upon by dwarves, who revealed themselves to be followers of Muradin who had remained there when their leader was apparently killed. Now, they were led by Muradin's second in command, [Baelgun Flamebeard](https://wowpedia.fandom.com/wiki/Baelgun_Flamebeard "Baelgun Flamebeard"). Leaving Sapphiron outside, Arthas battled through not only Baelgun's dwarves, but also the nerubian survivors, as he delved into the broken [Spider Kingdom](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"). Anub'arak's aid was invaluable, as he circumvented many traps which would have cut Arthas' stay fatally short.
+
+When Arthas faced off against Baelgun, the dwarf warned that the shifting earth had released an ancient evil from below the kingdom.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-47">[47]</a></sup> As Arthas and Anub'arak delved deeper into the kingdom, that evil became apparent - the [faceless ones](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi"), a powerful, vicious race thought only to exist in legend. Arthas and Anub'arak even managed to defeat the incredibly powerful [forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_One_(Warcraft_III) "Forgotten One (Warcraft III)").<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-48">[48]</a></sup>
+
+As they made their way to the Upper Kingdom, an earthquake collapsed part of the passage they were in, separating Anub'arak from Arthas. The young king had to rely upon his wits to see himself through several daunting booby traps before Anub'arak dug his way to Arthas. Once reunited, the crypt lord complimented the young death knight, saying he now understood why Ner'zhul had chosen him as his champion.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-49">[49]</a></sup> As they climbed out of Azjol-Nerub, the Lich King contacted Arthas once again, and explained that he was losing his power because the Frozen Throne had been cracked and his energy was seeping from it. Ner'zhul replenished Arthas' powers, knowing he would need them in the coming battle.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-50">[50]</a></sup>
+
+When they finally reached the surface, they immediately had to contend with Illidan's forces. Vashj's [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") and Kael's blood elves were there to contest Arthas' minions at every turn. With Anub'arak's help, Arthas fought his way through their forces and magically activated the four [Icecrown Obelisks](https://wowpedia.fandom.com/wiki/Icecrown_Obelisk "Icecrown Obelisk") around the glacier, opening the doors to the Frozen Throne. However, Illidan was waiting for him. Arthas warned him to leave Azeroth and never return.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-51">[51]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/ArthasObelisk.jpg/revision/latest/scale-to-width-down/120?cb=20220922202210)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/ArthasObelisk.jpg/revision/latest?cb=20220922202210)
+    
+    Arthas activates the obelisks.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Arthas_vs_Illidan.jpg/revision/latest/scale-to-width-down/120?cb=20150808061923)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Arthas_vs_Illidan.jpg/revision/latest?cb=20150808061923)
+    
+    Arthas confronts Illidan at the base of Icecrown Glacier.
+    
+
+#### The Lich King triumphant
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Chronicle3_Arthas_and_the_Frozen_Throne.jpg/revision/latest/scale-to-width-down/220?cb=20190921184200)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Chronicle3_Arthas_and_the_Frozen_Throne.jpg/revision/latest?cb=20190921184200)
+
+Arthas approaching the Frozen Throne.
+
+After a short but intense battle, [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") inadvertently left himself open and Arthas took advantage of it, slicing open the demon hunter's chest with Frostmourne. Illidan collapsed in the snow, as Arthas turned towards the doors of Icecrown.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-52">[52]</a></sup> According to [Matthias Lehner](https://wowpedia.fandom.com/wiki/Matthias_Lehner "Matthias Lehner"), the duel with Illidan was the only battle in which Arthas came close to dying,<sup id="cite_ref-The_Hunter_and_the_Prince_53-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-The_Hunter_and_the_Prince-53">[53]</a></sup> although Arthas was at the mercy of a killing blow during his battle with [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther").<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-54">[54]</a></sup>
+
+Arthas entered the hollow glacier and beheld a winding pinnacle chained to the ice. As he strode up the stairs towards his destiny, the voices of those he had forsaken flooded through his mind. He heard [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"), [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther"), and [Jaina](https://wowpedia.fandom.com/wiki/Jaina "Jaina") calling out to him, yet he ignored them, continuing his ascent. Finally, he reached the pinnacle and before him he saw an icy cask. Inside was a suit of armour, arranged as if seated on a massive throne. Now only one voice spoke to him - the rasping whisper of [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"):
+
+_"Return the blade... complete the circle... release me from this prison!"_
+
+With a great cry of strength, Arthas brought [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne") to bear against the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s icy prison and with a haunting scream, the ice that encased the Frozen Throne and the armour exploded, and shards of the ice scattered on the ground. With Ner'zhul's [helm](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination") at his feet, Arthas leaned forward, picked it up, and placed the unimaginably powerful artifact on his head.
+
+"Now," they spoke together, "we are one."<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-55">[55]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Frozen_Throne_Ner%27zhul.jpg/revision/latest/scale-to-width-down/120?cb=20120311125256)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Frozen_Throne_Ner%27zhul.jpg/revision/latest?cb=20120311125256)
+    
+    "Return the blade... complete the circle... release me from this prison!"
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Frozen_Throne_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20120311125259)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Frozen_Throne_Arthas.jpg/revision/latest?cb=20120311125259)
+    
+    Arthas, about to shatter the Frozen Throne.
+    
+
+-   [](https://static.wikia.nocookie.net/wowpedia/images/4/41/ArthasLichKingMerge.JPG/revision/latest?cb=20070611183111)
+    
+    "Now... we are one!"
+    
+
+### Lich King of the Scourge
+
+_Main article: [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Lich_King.jpg/revision/latest/scale-to-width-down/230?cb=20220516215225)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Lich_King.jpg/revision/latest?cb=20220516215225)
+
+Arthas, now the Lich King, on the Frozen Throne.
+
+For years, Arthas dreamed and reflected on his past. Eventually he banished the last vestiges of his humanity,<sup id="cite_ref-Arthas_page_306_56-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-Arthas_page_306-56">[56]</a></sup> and consumed Ner'zhul's spirit to become the sole personality of the Lich King.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-57">[57]</a></sup><sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-58">[58]</a></sup><sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-59">[59]</a></sup>
+
+As the Lich King, Arthas instigated another Scourge invasion of Azeroth, provoking a counteroffensive in Northrend by the Alliance, the Horde, the Argent Crusade, and the Knights of the Ebon Blade. By doing so, he lured powerful heroes to Northrend and placed many challenges before them, seeking to weed out the weak and make the strong question their own morality. He planned to raise the world's greatest fighters as his new champions, and use them to spearhead attacks on their homelands, in a reflection of his own journey.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-60">[60]</a></sup><sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-61">[61]</a></sup>
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+A purple flowering plant,  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Inv_misc_herb_13.png/revision/latest/scale-to-width-down/16?cb=20060919180808)[\[Arthas' Tears\]](https://wowpedia.fandom.com/wiki/Arthas%27_Tears), was named after the dark prince. An alchemical elixir, the  ![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Inv_potion_28.png/revision/latest/scale-to-width-down/16?cb=20061121070300)[\[Gift of Arthas\]](https://wowpedia.fandom.com/wiki/Gift_of_Arthas), was also named after him.
+
+A player who stands in the throne room of Lordaeron (and turns the ambient volume up) can hear an echo of Terenas's voice, confused by what Arthas was about to do.
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Wotlk_Classic_key_art.jpg/revision/latest/scale-to-width-down/220?cb=20220419200825)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Wotlk_Classic_key_art.jpg/revision/latest?cb=20220419200825)
+
+The awakened [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") and his undead armies in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown").
+
+Prince Arthas appears in _[World of Warcraft: Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_ within the [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme_(instance) "Culling of Stratholme (instance)") wing of the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time"). The player accompanies him through the town as he kills its plagued population (and agents of the [infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") attempting to kill _him_).
+
+The player can also see him in flashbacks on the [Forgotten Shore](https://wowpedia.fandom.com/wiki/Forgotten_Shore_(Dragonblight) "Forgotten Shore (Dragonblight)"), when the [Alliance Emissary](https://wowpedia.fandom.com/wiki/Alliance_Emissary "Alliance Emissary") arrives to order the troops home (in the quest  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-30\] [The Truth Shall Set Us Free](https://wowpedia.fandom.com/wiki/The_Truth_Shall_Set_Us_Free)) and in [Frostmourne Cavern](https://wowpedia.fandom.com/wiki/Frostmourne_Cavern "Frostmourne Cavern"), where he claims the cursed runeblade Frostmourne. The flashback itself is essentially the cutscene from [Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III") where he claims Frostmourne — with an ending revealing that after Arthas left the cavern with Muradin supposedly dead, Muradin awakened with amnesia and wandered outside the cavern.
+
+In a quest chain given by [Matthias Lehner](https://wowpedia.fandom.com/wiki/Matthias_Lehner "Matthias Lehner") (an anagram of "Arthas Menethil") in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), the player can actually take on the role of Arthas in two critical moments in his history: When he turned on [his own men](https://wowpedia.fandom.com/wiki/1st_Legion "1st Legion") and raised them as the undead in the quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [Army of the Damned](https://wowpedia.fandom.com/wiki/Army_of_the_Damned) and his epic duel with Illidan in  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [The Hunter and the Prince](https://wowpedia.fandom.com/wiki/The_Hunter_and_the_Prince).
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Throne_WotLK_Cinematic.jpg/revision/latest/scale-to-width-down/120?cb=20181119102110)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Throne_WotLK_Cinematic.jpg/revision/latest?cb=20181119102110)
+    
+    Lich King Arthas frozen before emerging, in the _WotLK_ cinematic.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Arthas_Cinematic.png/revision/latest/scale-to-width-down/120?cb=20210315003402)](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Arthas_Cinematic.png/revision/latest?cb=20210315003402)
+    
+    Lich King Arthas in the _WotLK_ cinematic.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Arthaswotlkcin.jpg/revision/latest/scale-to-width-down/120?cb=20220426154239)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Arthaswotlkcin.jpg/revision/latest?cb=20220426154239)
+    
+    The Lich King with [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa") emerging from the ice behind him.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/11/Arthas_vs_Tirion.jpg/revision/latest/scale-to-width-down/120?cb=20160319103224)](https://static.wikia.nocookie.net/wowpedia/images/1/11/Arthas_vs_Tirion.jpg/revision/latest?cb=20160319103224)
+    
+    Arthas is confronted by Tirion at Light's Hope Chapel.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/56/The_Prodigal_Leader.jpg/revision/latest/scale-to-width-down/109?cb=20081011091820)](https://static.wikia.nocookie.net/wowpedia/images/5/56/The_Prodigal_Leader.jpg/revision/latest?cb=20081011091820)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/23/Illidan_and_Arthas_Redux.jpg/revision/latest/scale-to-width-down/120?cb=20111112075111)](https://static.wikia.nocookie.net/wowpedia/images/2/23/Illidan_and_Arthas_Redux.jpg/revision/latest?cb=20111112075111)
+    
+    The duel with Arthas in _Wrath of the Lich King_.
+    
+
+### Death
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Afterlives_-_Arthas_dying.png/revision/latest/scale-to-width-down/220?cb=20200902160410)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Afterlives_-_Arthas_dying.png/revision/latest?cb=20200902160410)
+
+Arthas' last moments before his soul is claimed by Devos and Uther.
+
+“I see... only darkness... before me.”
+
+— Arthas' final words.
+
+Arthas' plan nearly succeeded when a group of [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), led by [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring"), assaulted Icecrown Citadel and ascended to the Frozen Throne. The Lich King froze Tirion in a block of ice, and once he was satisfied that the adventurers opposing him were "the greatest fighting force" on Azeroth, he killed them with a single mighty blow. Just as he was about to raise them into undeath, Tirion freed himself and destroyed [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne") with the [Ashbringer](https://wowpedia.fandom.com/wiki/Ashbringer "Ashbringer"). This released the souls inside, which attacked and immobilized the Lich King. The spirit of Terenas then resurrected the fallen heroes, who helped Tirion mortally wound Arthas. With Frostmourne destroyed and the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination") out of reach, the Lich King returns to who he once was: Arthas Menethil. As he lay dying, comforted by the spirit of his father, Arthas asked if it was over, to which Terenas replied "At long last. No king rules forever, my son." Arthas said that he saw only darkness before him, with his eyes rolling back and his hand falling lifelessly to the ground.
+
+In his last moments, Arthas saw the [kyrian](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian") [Devos](https://wowpedia.fandom.com/wiki/Devos "Devos") arriving alongside his old teacher Uther to claim his soul. On Devos' urging, and in defiance of the laws of the Shadowlands, Uther subsequently cast Arthas' spirit into the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw")—the realm of eternal suffering.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-62">[62]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/The_Lich_King_and_Terenas.jpg/revision/latest/scale-to-width-down/120?cb=20170218043610)](https://static.wikia.nocookie.net/wowpedia/images/2/26/The_Lich_King_and_Terenas.jpg/revision/latest?cb=20170218043610)
+    
+    The spirit of King Terenas and the Lich King.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/13/The_Lich_King_HD.png/revision/latest/scale-to-width-down/120?cb=20181117185037)](https://static.wikia.nocookie.net/wowpedia/images/1/13/The_Lich_King_HD.png/revision/latest?cb=20181117185037)
+    
+    Arthas the Lich King, seated on the Frozen Throne.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/The-Lich-King-7.jpg/revision/latest/scale-to-width-down/84?cb=20201114003606)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/The-Lich-King-7.jpg/revision/latest?cb=20201114003606)
+    
+    The Lich King at the top of Icecrown Citadel.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/48/The_Lich_King_in_Battle.jpg/revision/latest/scale-to-width-down/120?cb=20110225070146)](https://static.wikia.nocookie.net/wowpedia/images/4/48/The_Lich_King_in_Battle.jpg/revision/latest?cb=20110225070146)
+    
+    The Lich King in combat before the Frozen Throne.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Ashbringer_vs_Frostmourne.jpg/revision/latest/scale-to-width-down/120?cb=20100924103534)](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Ashbringer_vs_Frostmourne.jpg/revision/latest?cb=20100924103534)
+    
+    Tirion breaks Frostmourne.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Chronicle3_Tirion_v_Lich_King.jpg/revision/latest/scale-to-width-down/94?cb=20181001142455)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Chronicle3_Tirion_v_Lich_King.jpg/revision/latest?cb=20181001142455)
+    
+    The fall of the Lich King.
+    
+-   [![Lich King Souls.jpg](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Lich_King_Souls.jpg/revision/latest/scale-to-width-down/120?cb=20100924103532)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Lich_King_Souls.jpg/revision/latest?cb=20100924103532)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8d/Arthas_Death.jpg/revision/latest/scale-to-width-down/120?cb=20220930212916)](https://static.wikia.nocookie.net/wowpedia/images/8/8d/Arthas_Death.jpg/revision/latest?cb=20220930212916)
+    
+    Arthas dies in the arms of his father's spirit as [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring") looks on.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/TirionsVictory.jpg/revision/latest/scale-to-width-down/120?cb=20170819132112)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/TirionsVictory.jpg/revision/latest?cb=20170819132112)
+    
+    Tirion claims victory.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Afterlives_-_Justice.png/revision/latest/scale-to-width-down/120?cb=20200827215355)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Afterlives_-_Justice.png/revision/latest?cb=20200827215355)
+    
+    Uther holding Arthas over the Maw.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Afterlives_-_Into_the_Maw.png/revision/latest/scale-to-width-down/120?cb=20200827201444)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Afterlives_-_Into_the_Maw.png/revision/latest?cb=20200827201444)
+    
+    Uther casts Arthas into the Maw.
+    
+
+### Edge of Night
+
+After the Lich King's defeat, [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") went to see the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"). She found Arthas' discarded armor, but his body and the remnants of Frostmourne had already been removed. After committing suicide, Sylvanas's soul was sent to a realm of darkness where she encountered the tormented spirit of Arthas, who appeared in the form of a frightened child and ran to her for help, but then retreated in horror upon recognizing her. Sylvanas noted that if it wasn't for the fact that her own soul was being tortured at the same time, she might have felt the slightest amount of pity for him.<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-63">[63]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+“I hated you, hunted you, and with each selfish act... became you. That is my burden to bear. But your legacy... is at an end. Begone then, Arthas Menethil. May the last whisper of your name fade... and be forgotten.”
+
+— Sylvanas Windrunner to Arthas' fading soul
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Arthas%27_soul.png/revision/latest/scale-to-width-down/180?cb=20220305171037)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Arthas%27_soul.png/revision/latest?cb=20220305171037)
+
+Arthas' soul in the hand of the Jailer.
+
+The Maw's ruler, [the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal"), eventually stored away what was left of Arthas' soul in the form of a soul crystal<sup id="cite_ref-The_Highlord's_Vision_64-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-The_Highlord's_Vision-64">[64]</a></sup> (identical in appearance to the shattered soul fragments of the people Arthas himself had killed with Frostmourne).<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-65">[65]</a></sup> In order to [Dominate](https://wowpedia.fandom.com/wiki/Domination "Domination") [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") and turn him into his servant, the Jailer had the crystal infused into [Kingsmourne](https://wowpedia.fandom.com/wiki/Kingsmourne "Kingsmourne"), a [mourneblade](https://wowpedia.fandom.com/wiki/Mourneblade "Mourneblade") created from Anduin's sword [Shalamayne](https://wowpedia.fandom.com/wiki/Shalamayne "Shalamayne").<sup id="cite_ref-The_Highlord's_Vision_64-1"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-The_Highlord's_Vision-64">[64]</a></sup> Arthas' presence in the sword served as the source of Anduin's Domination, binding the young king to the Jailer's will.<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-66">[66]</a></sup> During a confrontation with the Dominated Anduin in [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis"), Jaina sensed a "familiar presence" within Kingsmourne.<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-67">[67]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Arthas_Last_Remnant.jpg/revision/latest/scale-to-width-down/180?cb=20220304235743)](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Arthas_Last_Remnant.jpg/revision/latest?cb=20220304235743)
+
+Anduin and Jaina watching the last, dwindling piece of Arthas.
+
+Anduin was forced to follow the Jailer to the [Sepulcher of the First Ones](https://wowpedia.fandom.com/wiki/Sepulcher_of_the_First_Ones "Sepulcher of the First Ones") and try to waylay the heroes of Azeroth, including Jaina, Uther, and Sylvanas. During the battle, the adventurers helped restore Anduin's willpower, allowing him to periodically manifest the Remnant of a Fallen King from the sword. Ultimately, however, Anduin was able to free himself from the Jailer's control and shatter Kingsmourne back into Shalamayne, freeing the remnant of Arthas: a faintly glowing flicker, consumed in the forges of the Jailer, with not even enough of a soul left to receive a proper judgment. Sylvanas stated that despite her hatred, she had become no better than her nemesis in her pursuit of vengeance and that she would have to answer for this, but that Arthas' own legacy was now at an end. She told the remnant "May the last whisper of your name fade and be forgotten", and the heroes looked on in silence as this last part of Arthas Menethil faded away forever.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-68">[68]</a></sup>
+
+## Legacy
+
+### Cataclysm
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IllidanFelwoodQuest.jpg/revision/latest/scale-to-width-down/180?cb=20101206173817)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IllidanFelwoodQuest.jpg/revision/latest?cb=20101206173817)
+
+Arthas in [a quest](https://wowpedia.fandom.com/wiki/A_Destiny_of_Flame_and_Sorrow_(quest) "A Destiny of Flame and Sorrow (quest)") in _Cataclysm_.
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Arthas appears in  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [A Destiny of Flame and Sorrow](https://wowpedia.fandom.com/wiki/A_Destiny_of_Flame_and_Sorrow_(quest)), a flashback quest in [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood") that allows the player to relive the first encounter between Arthas and Illidan.
+
+### Mists of Pandaria
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Gods_and_Monsters_-_Terenas_and_Arthas.jpg/revision/latest/scale-to-width-down/180?cb=20130227212648)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Gods_and_Monsters_-_Terenas_and_Arthas.jpg/revision/latest?cb=20130227212648)
+
+Arthas and Terenas in [Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho")'s story.
+
+Arthas and Terenas briefly appear in  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Gods and Monsters](https://wowpedia.fandom.com/wiki/Gods_and_Monsters_(quest)), a story told by [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho").
+
+### Tides of War
+
+When [Jaina](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") met at [Tidefury Cove](https://wowpedia.fandom.com/wiki/Tidefury_Cove "Tidefury Cove"), she remembered Arthas as an example of one of her failed love interests. Later on, [Kalec](https://wowpedia.fandom.com/wiki/Kalec "Kalec") was able to persuade Jaina not to go through with her plan to kill the citizens of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") by pointing out that not only had Arthas used the same logic to justify the Culling of Stratholme but that he had been acting out of misguided compassion rather than hatred, which made what Jaina was planning to do even worse.<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-69">[69]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Echo_of_Arthas_Menethil.jpg/revision/latest/scale-to-width-down/180?cb=20161012164050)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Echo_of_Arthas_Menethil.jpg/revision/latest?cb=20161012164050)
+
+The [Echo of Arthas Menethil](https://wowpedia.fandom.com/wiki/Echo_of_Arthas_Menethil "Echo of Arthas Menethil") inside the [Blades of the Fallen Prince](https://wowpedia.fandom.com/wiki/Blades_of_the_Fallen_Prince "Blades of the Fallen Prince").
+
+_Main articles: [Echo of Arthas Menethil](https://wowpedia.fandom.com/wiki/Echo_of_Arthas_Menethil "Echo of Arthas Menethil"), [Memory of Arthas](https://wowpedia.fandom.com/wiki/Memory_of_Arthas "Memory of Arthas")_
+
+When one of the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade") enters the [Blades of the Fallen Prince](https://wowpedia.fandom.com/wiki/Blades_of_the_Fallen_Prince "Blades of the Fallen Prince"), reforged from the shards of Frostmourne, echoes of Ner'zhul and Arthas can be found within. When Arthas is defeated he says he sees only darkness, while Ner'zhul exclaims that his plans have been ruined.
+
+Throughout the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), [frost](https://wowpedia.fandom.com/wiki/Death_knight#Frost "Death knight") [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") wielding the Blades of the Fallen Prince will occasionally encounter [Memories of Arthas](https://wowpedia.fandom.com/wiki/Memory_of_Arthas "Memory of Arthas") that give them cryptic messages. While the memories don't refer to any one being by name, they imply that the darkness never dies and that while the death knights may believe they are free, they exist only by "his" will and do as "he" commands.
+
+### Battle for Azeroth
+
+When [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore") goes to [Fate's End](https://wowpedia.fandom.com/wiki/Fate%27s_End "Fate's End") to rescue her daughter [Jaina](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") from Gorak Tul, she is pulled into visions of Jaina's past. One of these visions is Jaina witnessing Arthas declare his intent to purge the city of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") before its population can turn into the undead. Jaina then laments not stopping him, believing that if she had he never would have become the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") and that he'd still be alive.
+
+When [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") expressed his belief to [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") that the Horde was forever shackled to the past, Anduin cited Arthas as an example of the Alliance's regrets.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-70">[70]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+[The Jailer](https://wowpedia.fandom.com/wiki/The_Jailer "The Jailer") revealed that the Lich King was meant to herald his coming and thus considered Arthas, along with his [predecessor](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") and [successor](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon"), a failure due to his defiance of him.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-71">[71]</a></sup> Upon learning this, [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), his older sister, stated that while Arthas had made his own choices, his fate was "shaped in part" by the Jailer.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-72">[72]</a></sup>
+
+Arthas is encountered in Uther's memories first in the Culling of Stratholme as a paladin and also as a death knight when he kills Uther in Andorhal. Upon viewing these memories, Uther regrets the many things he said to Arthas, such as not listening to his doubts and anxieties when he first became a paladin and how he faced him at Andorhal not as a friend but as a foe. Uther realized in those moments that he failed Arthas, having not upheld the virtue of compassion.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-73">[73]</a></sup><sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-74">[74]</a></sup> Upon learning of what Uther and Devos had done to Arthas, the [kyrian](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian") [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos") realized that the former Lich King could've had a chance at redemption if he'd been brought to the [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter").<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-75">[75]</a></sup>
+
+When Uther was reunited with Jaina Proudmoore, the two shared their memories of Arthas, whom both had loved in their own ways, and Uther advised Jaina that she could choose to leave her painful memories of Arthas behind and instead carry her love forward with her so that it could lend her strength.<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-76">[76]</a></sup> After Arthas' soul faded away, Jaina told adventurers that she felt conflicted about him, as he always thought he acted in the name of justice even when committing atrocities, and that she was one of the few who could still remember the prince he'd been and not just the monster he became.<sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-77">[77]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Culling of Stratholme (instance)](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme_(instance) "Culling of Stratholme (instance)") | 80 | 
+<table><tbody><tr><td><b><abbr title="5-player mode">5</abbr></b></td><td>44,100</td></tr><tr><td><b><abbr title="5-player Heroic mode">5H</abbr></b></td><td>63,000</td></tr></tbody></table>
+
+ |
+| [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") | ?? | 8,982 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [The Hunter and the Prince](https://wowpedia.fandom.com/wiki/The_Hunter_and_the_Prince) | ?? | 188,734 |
+| [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood") | ?? | 19,900 |
+| [Echo of Arthas Menethil](https://wowpedia.fandom.com/wiki/Echo_of_Arthas_Menethil "Echo of Arthas Menethil") | 98 - 110 | 1,346,093 |
+| [Memory of Arthas](https://wowpedia.fandom.com/wiki/Memory_of_Arthas "Memory of Arthas") | 100 - 110 | 614,430 |
+|   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/15?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437)[![IconSmall BloodElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/15?cb=20200517222352)](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest?cb=20200517222352) \[50-70\] [The Setting Sun](https://wowpedia.fandom.com/wiki/The_Setting_Sun) | 120 | 274,259 |
+|   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/15?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437)[![IconSmall BloodElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/15?cb=20200517222352)](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest?cb=20200517222352) \[50-70\] [The Fall of the Sunwell](https://wowpedia.fandom.com/wiki/The_Fall_of_the_Sunwell) | 120 | 270,009 |
+
+## Abilities
+
+### Culling of Stratholme
+
+_Main article: [Arthas (Stratholme)#Abilities](https://wowpedia.fandom.com/wiki/Arthas_(Stratholme)#Abilities "Arthas (Stratholme)")_
+
+### Icecrown
+
+ ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [Army of the Damned](https://wowpedia.fandom.com/wiki/Army_of_the_Damned)
+
+ ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [The Hunter and the Prince](https://wowpedia.fandom.com/wiki/The_Hunter_and_the_Prince)
+
+ ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [A Destiny of Flame and Sorrow](https://wowpedia.fandom.com/wiki/A_Destiny_of_Flame_and_Sorrow_(quest))
+
+-    ![Spell shadow deathcoil.png](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Spell_shadow_deathcoil.png/revision/latest/scale-to-width-down/16?cb=20060923201506) **Death Coil** — Deals 133 to 161 Shadow damage to a nearby random target.
+
+## Personality
+
+As a human, Arthas was a man of action - brave, impulsive and straightforward. He was an inspiring leader, leading his men by example and more than once leading charges in his campaigns against the Plague.<sup id="cite_ref-78"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-78">[78]</a></sup> In conversations with others, he appeared witty and easy-going, yet able to hold true to his decisions and convince others to accept them. At the same time, Arthas was vindictive, quick to anger, and exceptionally arrogant, often being reprimanded by Uther for his hastiness (as at Stratholme) and even naming his horse "Invincible" as (it is implied) a symptom of his self-aggrandizement.<sup id="cite_ref-79"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-79">[79]</a></sup> He never took well to losing and had difficulty admitting his mistakes. He always sought the approval of others (such as his father) and often felt underappreciated. He could not stand the thought of others betraying his trust, going as far as making Jaina promise never to deny him anything.<sup id="cite_ref-80"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-80">[80]</a></sup>
+
+After he murdered his father, Arthas claimed he no longer felt remorse, shame, or pity, which may be explained by him losing his soul to Frostmourne.<sup id="cite_ref-81"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-81">[81]</a></sup> He became a ruthless and cynical person with a grim sense of humor, regularly mocking his enemies and gloating over their defeats or deaths (e.g. as he did with his former mentor Uther). This is perhaps most notable in his resurrection, control and torture of Sylvanas Windrunner—specifically raising her as a banshee for him to toy with and force her to murder her own kind.<sup id="cite_ref-82"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-82">[82]</a></sup> Even as a death knight, though, Arthas felt as though the last remnants of his humanity were holding him back, and he still regularly thought of Jaina and his past life. He also still showed a degree of attachment to things he valued in life that echoed his humanity, most notably Invincible.<sup id="cite_ref-83"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-83">[83]</a></sup>
+
+Before he awoke as the Lich King, Arthas extinguished the final spark of goodness that remained within him, and thereby gave Frostmourne the final piece of his soul.<sup id="cite_ref-Arthas_page_306_56-1"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-Arthas_page_306-56">[56]</a></sup> He also removed his heart and threw it into the [forgotten depths](https://wowpedia.fandom.com/wiki/Naz%27anak:_The_Forgotten_Depths "Naz'anak: The Forgotten Depths") beneath Icecrown.<sup id="cite_ref-The_Hunter_and_the_Prince_53-1"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-The_Hunter_and_the_Prince-53">[53]</a></sup> As the Lich King, he was cruel, merciless, and utterly lacking in any kind of humanity—even when seeing his former love, Jaina, in the Halls of Reflection, he remained unmoved by her attempts to bring him back to the Light. He also retained his sense of arrogance, which more than once almost caused his demise (e.g. at the Wrathgate, where revealing himself exposed him to Putress's plague attacks), until it finally did, at the hands of the very adventurers he had brought to Northrend in the hopes of inevitably forcing them to serve him. Arthas may have regained a measure of humanity in his final moments, but only after Frostmourne was shattered and the souls it had stolen were released.
+
+### Friendships
+
+Arthas was friends with [Jarim Balnir](https://wowpedia.fandom.com/wiki/Jarim_Balnir "Jarim Balnir"), despite their differences in station. He was also close with his royal guards particularly Captain [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric").<sup id="cite_ref-84"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-84">[84]</a></sup> Arthas met [Varian](https://wowpedia.fandom.com/wiki/Varian "Varian") when the Prince of Stormwind came to Lordaeron in the company of [Lothar](https://wowpedia.fandom.com/wiki/Lothar "Lothar") and [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"),<sup id="cite_ref-85"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-85">[85]</a></sup> and the pair would occasionally spar together. Arthas also became good friends with his mentors, [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther") and [Muradin](https://wowpedia.fandom.com/wiki/Muradin "Muradin"). [Jaina](https://wowpedia.fandom.com/wiki/Jaina "Jaina") and Arthas were close friends for many years and eventually became lovers. Though Arthas abruptly ended their relationship when he decided he wasn't ready to marry yet, he was determined to remain friends with the sorceress.<sup id="cite_ref-86"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-86">[86]</a></sup> Arthas and Jaina would reignite their romance,<sup id="cite_ref-87"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-87">[87]</a></sup> but the events of the Third War got in the way, and it would change both of their lives forever, starting with the [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme").
+
+As a death knight, Arthas seemed to enjoy conversations with his new allies, [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") and [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak"). He was not above expressing gratitude to Kel'Thuzad, and one of his final phrases before departing to Northrend was _"You have been a loyal friend"_,<sup id="cite_ref-88"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-88">[88]</a></sup> something rarely heard from a dark lord addressing his minion.
+
+### Subjects
+
+Arthas cared deeply for his people and sought their approval in return. He rarely let his title stand in the way and often treated commoners as near-equals. It was Arthas' empathy that would ultimately lead to his downfall, as he was driven to the edge by the sight of his people falling before the Scourge. Once Arthas was convinced the only way to save his homeland was to destroy Mal'Ganis, he became determined to accomplish that at any cost.
+
+After learning Frostmourne had stolen his soul, one of the first things Arthas reflects on is whether he truly saved his people by taking it up.<sup id="cite_ref-89"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-89">[89]</a></sup> With his mind twisted by Frostmourne's curse, Arthas comes to look upon the undead soldiers of the Scourge with affection,<sup id="cite_ref-90"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-90">[90]</a></sup> viewing them as his new subjects. He is described as feeling a form of sadness as he releases some badly damaged minions from his grip during the battles of Quel'Thalas, and he was outraged when [Anasterian](https://wowpedia.fandom.com/wiki/Anasterian "Anasterian") damaged his steed, [Invincible](https://wowpedia.fandom.com/wiki/Invincible "Invincible").<sup id="cite_ref-91"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-91">[91]</a></sup>
+
+When [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"), [Detheroc](https://wowpedia.fandom.com/wiki/Detheroc "Detheroc") and [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") managed to usurp control over most of his warriors, Arthas realized that the undead were more like weapons or tools than subjects.<sup id="cite_ref-92"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-92">[92]</a></sup> That the loyal subjects he'd "made" would betray him came as a shock.<sup id="cite_ref-93"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-93">[93]</a></sup> Even so, the Lich King Arthas still seemed proud of his ability to "stir the hearts" of his "people."<sup id="cite_ref-94"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-94">[94]</a></sup> At one point, the Lich King referred to his Scourge minions as his "children".<sup id="cite_ref-95"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-95">[95]</a></sup>
+
+## Memorable quotes
+
+-   Faith alone is not enough to stop the enemies of the Light. _([Wrath of Turalyon](https://wowpedia.fandom.com/wiki/File:WrathOfTuralyon.jpg "File:WrathOfTuralyon.jpg") flavor text)_
+
+### Reign of Chaos
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Arthaspaladin1.JPG/revision/latest/scale-to-width-down/180?cb=20080830000926)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Arthaspaladin1.JPG/revision/latest?cb=20080830000926)
+
+Arthas, as a paladin, in _Warcraft III_.
+
+_For unit quotes, see [Quotes of Warcraft III/Human Alliance#Arthas](https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III/Human_Alliance#Arthas "Quotes of Warcraft III/Human Alliance")._
+
+_For unit quotes, see [Quotes of Warcraft III/Undead Scourge#Arthas](https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III/Undead_Scourge#Arthas "Quotes of Warcraft III/Undead Scourge")._
+
+-   "Can the formalities, [Uther](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"). I'm not king yet. It's good to see you."
+-   "Gentlemen, meet Miss [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), special agent to the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), and one of the most talented sorceresses in the land."
+-   "The [plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") was never meant to simply kill my [people](https://wowpedia.fandom.com/wiki/Human "Human"). It was meant to turn them... into the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")! Defend yourselves!"
+-   "Then we should strike at their leader! I'll go to [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") and kill [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis") myself if I have to!"
+-   "Nothing [he](https://wowpedia.fandom.com/wiki/Medivh "Medivh") can say will make me abandon my [homeland](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), Jaina. I don't care if that madman has seen the future. Let's go."
+-   "This entire [city](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") must be purged."
+-   "Damn it, [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther")! As your future king, I order you to purge this city!"
+-   "Then I must consider this an act of treason."
+-   "Lord [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther"), by my right of succession and the sovereignty of my crown, I hereby relieve you of your command and suspend your [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") from service."
+-   "I'll hunt [you](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis") to the ends of the earth if I have to! Do you hear me? To the ends of the earth!"
+-   "[Uther](https://wowpedia.fandom.com/wiki/Uther "Uther") had my troops recalled? Damn it! If my warriors abandon me, I'll never defeat [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"). The ships must be burned before the men reach the shore!"
+-   "I would gladly bear any curse to save my [homeland](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron")."
+-   "Damn the men! Nothing shall prevent me from having my revenge, [old friend](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"). Not even you."
+-   "Now, I call out to the spirits of [this place](https://wowpedia.fandom.com/wiki/Frostmourne_Cavern "Frostmourne Cavern"). I will give anything or pay any price, if only you will help me save my people."
+-   "You waste your breath, [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"). I heed only the voice of [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne") now."
+-   "[He](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") tells me the time for my vengeance has come."
+-   "[You](https://wowpedia.fandom.com/wiki/Terenas_Menethil "Terenas Menethil") no longer need to sacrifice for your people. You no longer need to bear the weight of your crown. I've taken care of everything."
+-   "[This kingdom](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron") shall fall, and from the ashes shall arise a new order that will shake the very foundations of the world."
+-   "I've damned everyone and everything I've ever loved in [his](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") name, and I still feel no remorse. No shame. No pity."
+-   "We may never know, [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther"). I intend to live forever."
+-   "After all you've put me through, woman, the last thing I'll give [you](https://wowpedia.fandom.com/wiki/Sylvanas "Sylvanas") is the [peace of death](https://wowpedia.fandom.com/wiki/Banshee "Banshee")."
+-   "Citizens of [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")! I have given you ample opportunities to surrender, but you have stubbornly refused! Know that today, your entire [race](https://wowpedia.fandom.com/wiki/High_elf "High elf") and your ancient heritage will end! Death itself has come to claim the high [home](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas") of the elves!"
+-   "Wizards of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")! I am Arthas, first of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight")! I demand that you open your gates and surrender to the might of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")!"
+-   "My [master](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") sees all, [demon hunter](https://wowpedia.fandom.com/wiki/Illidan "Illidan"). He knows that you've sought power your whole life. Now [it](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") lies within your grasp! Seize it, and your [enemies](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") will be undone."
+
+### The Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Arthasdeathknight1.JPG/revision/latest?cb=20080830001055)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Arthasdeathknight1.JPG/revision/latest?cb=20080830001055)
+
+Arthas, as a death knight, in _Warcraft III_.
+
+-   "Greetings, [dreadlords](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim"). I should thank you for looking after my [kingdom](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron") during my absence. However, I won't be requiring your services any longer."
+-   "I have returned, [lich](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), but you will now address me as King. This is, after all, my land. Now we must secure the kingdom by scouring the last remnants of humanity from it!"
+-   "Take me back to the [capital](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"). I have a long journey ahead of me."
+-   "You have been a loyal friend, [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"). I don't know what the future holds, or if I'll even return, but I want you to watch over this land. See to it that my legacy endures."
+-   "Sorry we don't have time to chat, [great wyrm](https://wowpedia.fandom.com/wiki/Sapphiron "Sapphiron"). We've come to murder you and steal whatever artifacts you've been hoarding over the centuries."
+-   "[Muradin](https://wowpedia.fandom.com/wiki/Muradin "Muradin")'s dwarves? Doesn't anyone stay dead anymore?"
+-   "I saw another vision of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"). He has restored my powers! I know now what I must do. It's time to end the game... once and for all."
+-   "[Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") has mocked the Scourge long enough! It's time we put the fear of death back in him."
+-   "The [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") is mine, [demon](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"). Step aside. Leave this [world](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and never return. If you do, I'll be waiting."
+
+### Arthas: Rise of the Lich King
+
+[![WoW-novel-logo-16x62.png](https://static.wikia.nocookie.net/wowpedia/images/d/d0/WoW-novel-logo-16x62.png/revision/latest?cb=20080902025649)](https://wowpedia.fandom.com/wiki/Novels "Novels") **This section concerns content related to Arthas: Rise of the Lich King.**
+
+No _we_. No one tells me what to do. I've got everything I need from [you](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")—now the power is mine and mine alone. Now there is only I. I am the Lich King. And I am ready.
+
+### World of Warcraft
+
+#### Wrath of the Lich King
+
+_Main article: [The Truth Shall Set Us Free#Notes](https://wowpedia.fandom.com/wiki/The_Truth_Shall_Set_Us_Free#Notes "The Truth Shall Set Us Free")_
+
+_Main article: [Frostmourne Cavern (quest)#Notes](https://wowpedia.fandom.com/wiki/Frostmourne_Cavern_(quest)#Notes "Frostmourne Cavern (quest)")_
+
+_Main article: [Lich King (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Lich_King_(tactics)#Quotes "Lich King (tactics)")_
+
+#### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+_Main article: [The Call of Icecrown#Notes](https://wowpedia.fandom.com/wiki/The_Call_of_Icecrown#Notes "The Call of Icecrown")_
+
+_Main article: [Blades of the Fallen Prince#Quotes](https://wowpedia.fandom.com/wiki/Blades_of_the_Fallen_Prince#Quotes "Blades of the Fallen Prince")_
+
+#### Battle for Azeroth
+
+_Main article: [Defense of Quel'Danas#Notes](https://wowpedia.fandom.com/wiki/Defense_of_Quel%27Danas#Notes "Defense of Quel'Danas")_
+
+_Main article: [The Setting Sun#Notes](https://wowpedia.fandom.com/wiki/The_Setting_Sun#Notes "The Setting Sun")_
+
+_Main article: [The Fall of the Sunwell#Notes](https://wowpedia.fandom.com/wiki/The_Fall_of_the_Sunwell#Notes "The Fall of the Sunwell")_
+
+## Kill count
+
+“Men, women and children... None were spared the master's wrath.”
+
+— [Falric](https://wowpedia.fandom.com/wiki/Falric_(tactics) "Falric (tactics)")
+
+Arthas' personal kill count contains several characters in _Warcraft'_s lore, including the kings of three powerful nations. This list includes:
+
+-   [![IconSmall ChaosOrc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_ChaosOrc_Male.gif/revision/latest?cb=20211118153741) [Slave Master](https://wowpedia.fandom.com/wiki/Slave_Master "Slave Master") (killed in [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad"), _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_)
+-   [![IconSmall DrakeBlack.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/IconSmall_DrakeBlack.gif/revision/latest?cb=20211129101645) [Searinox](https://wowpedia.fandom.com/wiki/Searinox "Searinox") (killed near Strahnbrad, _Warcraft III_)
+-   [![IconSmall Orc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest?cb=20200518012003) [Blademaster of the Blackrock Clan](https://wowpedia.fandom.com/wiki/Blademaster_of_the_Blackrock_Clan "Blademaster of the Blackrock Clan") (killed near Strahnbrad, _Warcraft III_)
+-   [![IconSmall Necromancer.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Necromancer.gif/revision/latest?cb=20200807105319) [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") (killed in [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal"), _Warcraft III_; resurrected as a lich)
+-   [![IconSmall Lich Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest?cb=20211201224530) [Venim Iceblade](https://wowpedia.fandom.com/wiki/Venim_Iceblade "Venim Iceblade") (killed near [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen"), _Warcraft III_)
+-   [![IconSmall Lich Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest?cb=20211201224530) [Calis Wraithson](https://wowpedia.fandom.com/wiki/Calis_Wraithson "Calis Wraithson") (killed near Hearthglen, _Warcraft III_)
+-   [![IconSmall RevenantDeath.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/99/IconSmall_RevenantDeath.gif/revision/latest?cb=20211129124553) [The Guardian](https://wowpedia.fandom.com/wiki/The_Guardian "The Guardian") (killed outside [Frostmourne Cavern](https://wowpedia.fandom.com/wiki/Frostmourne_Cavern "Frostmourne Cavern"), _Warcraft III_)
+-   [![IconSmall Nathrezim.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest?cb=20211125155053) [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis") (killed in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), _Warcraft III_; returns in _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_)
+-   [![IconSmall Captain.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Captain.gif/revision/latest?cb=20200520185804) [Captain Falric](https://wowpedia.fandom.com/wiki/Falric "Falric") (killed in Northrend, _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_; resurrected as a death knight)
+-   [![IconSmall Captain.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Captain.gif/revision/latest?cb=20200520185804) [Captain Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn") (killed in Northrend, _Arthas: Rise of the Lich King_; resurrected as a death knight)
+-   [![IconSmall Terenas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Terenas.gif/revision/latest?cb=20211214091753) [King Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") (killed in the [imperial chamber](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") of [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), _Warcraft III_)
+-   [![IconSmall Gavinrad.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/IconSmall_Gavinrad.gif/revision/latest?cb=20180222101025) [Gavinrad the Dire](https://wowpedia.fandom.com/wiki/Gavinrad_the_Dire "Gavinrad the Dire") (killed near Andorhal, _Warcraft III_)
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Ballador the Bright](https://wowpedia.fandom.com/wiki/Ballador_the_Bright "Ballador the Bright") (killed near Andorhal, _Warcraft III_)
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Sage Truthbearer](https://wowpedia.fandom.com/wiki/Sage_Truthbearer "Sage Truthbearer") (killed near Andorhal, _Warcraft III_)
+-   [![IconSmall Uther.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/IconSmall_Uther.gif/revision/latest?cb=20220620195102) [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") (killed near Andorhal, _Warcraft III_)
+-   [![IconSmall SylvanasHE.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/IconSmall_SylvanasHE.gif/revision/latest?cb=20180306201302) [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") (killed in [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), _Warcraft III_; resurrected as a banshee)
+-   [![IconSmall Anasterian.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Anasterian.gif/revision/latest?cb=20220104112457) [King Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider") (killed on the [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas"), _Arthas: Rise of the Lich King_)
+-   [![IconSmall Dar'khan.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/49/IconSmall_Dar%27khan.gif/revision/latest?cb=20200520191436) [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir") (killed on the Isle of Quel'Danas, _Arthas: Rise of the Lich King_; resurrected later)
+-   [![IconSmall Orc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest?cb=20200518012003) [Genjuros](https://wowpedia.fandom.com/wiki/Genjuros "Genjuros") (killed in [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains"), _Warcraft III_)
+-   [![IconSmall Orc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest?cb=20200518012003) [Haomarush](https://wowpedia.fandom.com/wiki/Haomarush "Haomarush") (killed in Alterac Mountains, _Warcraft III_)
+-   [![IconSmall Orc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest?cb=20200518012003) [Khanzo](https://wowpedia.fandom.com/wiki/Khanzo "Khanzo") (killed in Alterac Mountains, _Warcraft III_)
+-   [![IconSmall CultistOrc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/IconSmall_CultistOrc_Male.gif/revision/latest?cb=20211118153728) [Mazrigos](https://wowpedia.fandom.com/wiki/Mazrigos "Mazrigos") (killed in Alterac Mountains, _Warcraft III_)
+-   [![IconSmall CultistOrc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/IconSmall_CultistOrc_Male.gif/revision/latest?cb=20211118153728) [Throk'Feroth](https://wowpedia.fandom.com/wiki/Throk%27Feroth "Throk'Feroth") (killed in Alterac Mountains, _Warcraft III_)
+-   [![IconSmall FelOrc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/95/IconSmall_FelOrc_Male.gif/revision/latest?cb=20211118162732) [Jubei'Thos](https://wowpedia.fandom.com/wiki/Jubei%27Thos "Jubei'Thos") (killed in Alterac Mountains, _Warcraft III_)
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Fordred Aran](https://wowpedia.fandom.com/wiki/Fordred_Aran "Fordred Aran") (killed in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), _Warcraft III_)
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Landazar](https://wowpedia.fandom.com/wiki/Landazar "Landazar") (killed in Dalaran, _Warcraft III_)
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Conjurus Rex](https://wowpedia.fandom.com/wiki/Conjurus_Rex "Conjurus Rex") (killed in Dalaran, _Warcraft III_)
+-   [![IconSmall Antonidas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_Antonidas.gif/revision/latest?cb=20200521105522) [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas") (killed in Dalaran, _Warcraft III_)
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Halahk the Lifebringer](https://wowpedia.fandom.com/wiki/Halahk_the_Lifebringer "Halahk the Lifebringer") (killed in [Lordaeron palace gardens](https://wowpedia.fandom.com/wiki/Lordaeron_palace_gardens "Lordaeron palace gardens"), _Warcraft III_)
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Magroth the Defender](https://wowpedia.fandom.com/wiki/Magroth_the_Defender "Magroth the Defender") (killed in Lordaeron palace gardens, _Warcraft III_)
+-   [![IconSmall HighElf Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest?cb=20200517002342) [Jennalla Deemspring](https://wowpedia.fandom.com/wiki/Jennalla_Deemspring "Jennalla Deemspring") (killed in Lordaeron palace gardens, _Warcraft III_)
+-   [![IconSmall Abomination.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/IconSmall_Abomination.gif/revision/latest?cb=20211130162827) [Bloodfeast](https://wowpedia.fandom.com/wiki/Bloodfeast_(Warcraft_III) "Bloodfeast (Warcraft III)") (killed in Lordaeron palace gardens, _Warcraft III_)
+-   [![IconSmall DragonBlue.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/IconSmall_DragonBlue.gif/revision/latest?cb=20211127102541) [Sapphiron](https://wowpedia.fandom.com/wiki/Sapphiron "Sapphiron") (killed in Northrend, _Warcraft III_; resurrected as a frost wyrm)
+-   [![IconSmall OldGod.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_OldGod.gif/revision/latest?cb=20221014224415) [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_One_(Warcraft_III) "Forgotten One (Warcraft III)") (killed in [Inner Kingdom](https://wowpedia.fandom.com/wiki/Inner_Kingdom "Inner Kingdom"), _Warcraft III_)
+-   [![IconSmall Dwarf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest?cb=20200517225556) [Baelgun Flamebeard](https://wowpedia.fandom.com/wiki/Baelgun_Flamebeard "Baelgun Flamebeard") (killed in [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"), _Warcraft III_)
+-   [![IconSmall BloodElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest?cb=20200517222352) [Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel") (killed in Northrend, _Wrath of the Lich King_; resurrected as blood-queen of the [San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn"))
+-   [![IconSmall IceTroll Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e9/IconSmall_IceTroll_Male.gif/revision/latest?cb=20211118182431) [Overlord Drakuru](https://wowpedia.fandom.com/wiki/Overlord_Drakuru "Overlord Drakuru") (killed atop [Voltarus](https://wowpedia.fandom.com/wiki/Voltarus "Voltarus"), _Wrath of the Lich King_)
+-   [![IconSmall Dranosh.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/IconSmall_Dranosh.gif/revision/latest?cb=20180306201754) [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang") (killed in Northrend, _Wrath of the Lich King_; resurrected as a death knight)
+-   [![IconSmall Val'kyr.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/81/IconSmall_Val%27kyr.gif/revision/latest?cb=20211130201544) [Vardmadra](https://wowpedia.fandom.com/wiki/Vardmadra "Vardmadra") (killed atop [Balargarde Fortress](https://wowpedia.fandom.com/wiki/Balargarde_Fortress "Balargarde Fortress"), _Wrath of the Lich King_)
+
+## Alternate timelines
+
+In an [alternate timeline](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") visited by [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil_(alternate_universe) "Arthas Menethil (alternate universe)") never became the Lich King. Instead, he married Jaina and became a father.<sup id="cite_ref-96"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-96">[96]</a></sup>
+
+## In the RPG
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/The_Lich_King.jpg/revision/latest/scale-to-width-down/180?cb=20071124134725)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/The_Lich_King.jpg/revision/latest?cb=20071124134725)
+
+The Lich King as he appears in _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_.
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Arthas wielded the [Plate of the Damned](https://wowpedia.fandom.com/wiki/Plate_of_the_Damned "Plate of the Damned").<sup id="cite_ref-97"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-97">[97]</a></sup>
+
+### Letters concerning Arthas
+
+Uther Lightbringer to Mimblis Evermorne
+
+[Mimblis Evermorne](https://wowpedia.fandom.com/wiki/Mimblis_Evermorne "Mimblis Evermorne") was a fellow paladin of Uther Lightbringer. This letter was sent in the year 24.
+
+> Mimblis, Greetings, my friend. I hope the Light finds you well.
+
+> The young Arthas fills me with hope. He recently became a full paladin, and is nearly all I could hope for in a Knight of the Silver Hand. He is strong and powerful, with a devotion to his people that borders on zealousness. He's a fine paladin and will make a fine king when our beloved Terenas leaves us. Arthas has some growing to do, so I hope King Terenas will remain here for some time.
+
+> The only thing that bothers me about Arthas is that he has a disturbing quality in him. Sometimes, in training, I have seen him go a little far while sparring. He is so dedicating to winning the match that he forgets that it is only for training. He lacks control; I suppose it's a sense of ruthlessness that lies under his honorable exterior. I have full confidence that he will use this dedication to battle for his people, and I look forward to testing him. Once he really wets his sword, I can begin to teach him control. I don't want to rein his power just yet, until I can see what he's capable of.
+
+> Arthas loves his people very much. We recently visited some of the poorer villages outside of Lordaeron, giving healing to those in need. I wanted to test his healing powers, as well as see how he interacted with his people beyond the wealthy nobles in the city. He was full of pity for these people, weeping for a woman who had lost her leg in a wolf attack. After healing her pain, he set out on horseback, searching for the wolf. He slew three, bringing the pelts back to the woman to serve as her blankets. I was touched, but again, a little alarmed at his single-mindedness. She was grateful, and as we were there to serve the wounded and sick, our work was completed.
+
+> His relationship with Jaina Proudmoore is one I must watch. Lordaeron has never had a mage as a queen, but if she and Arthas wed, that's what we will be faced with. Perhaps it will be a good union of magic and politics, or at least bring the mages and paladins closer together. I will watch them carefully. A good thing about Jaina is that she will soften his hard edges. While she attacks her obstacles with a firm and unyielding mind, she is more diplomatic and cerebral in her approach, while Arthas may simply hammer on something until it disintegrates. They will make a strong union: he is the naked steel of a sword, and she is a fist in a velvet glove. I have confidence that they will receive public support, and I will lend them my support as well. I watch Arthas training on the field, and feel he can take on anything. He attacks with a single-mindedness that I know he will apply toward anything in life, be it physical confrontations or political. King Terenas has a good son. I have total confidence in Arthas. Yes, he has more to learn, but don't we all? He'll overcome his weaknesses and become a wise king, in time.
+
+> Looking forward to our trip to Stratholme,
+
+> — Uther
+
+Arthas to Magni Bronzebeard
+
+> To King Magni Bronzebeard, Lord of [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge"),
+
+> It is my sad duty to bring you very grim news. I am certain you know of Muradin's mission here in Northrend to strike at the Scourge and discover useful artifacts. We fought together against the Scourge, and although I survived, Muradin fell to the undead and demons. I grieve for my brave friend and your valiant brother. Yet know that his heroic death was not in vain, for his life ensured my victory against the Lich King's minions — and my recovery of the ancient sword known as Frostmourne. I shall be returning to Lordaeron soon. With Frostmourne in hand, I come to reestablish order and bring forth a shining new age. Muradin's remaining clansmen here will take his body back to Ironforge. You cannot know how deep are my sympathies. I know that this letter offers small consolation, but I felt you should learn of Muradin's death as soon as possible. You have lost a brother, and I have lost a valued friend.
+
+> May the Light preserve our peoples,
+
+> — Prince Arthas Menethil<sup id="cite_ref-98"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-98">[98]</a></sup>
+
+## In other media
+
+-   An enemy named Lord Arrgthas appears in _AdventureQuest_. His description says he is "not a lich king just yet".
+-   In _Guitar Hero: Warriors of Rock_, both Arthas (as the Lich King) and Frostmourne (his guitar) are unlockable after earning 1600 stars and reaching level 71.<sup id="cite_ref-99"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-99">[99]</a></sup>
+-   Arthas appears in _[Snow Fight](https://wowpedia.fandom.com/wiki/Snow_Fight "Snow Fight")_, a children's book written by [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") and illustrated by [Wei Wang](https://wowpedia.fandom.com/wiki/Wei_Wang "Wei Wang").
+-   Arthas is a playable character in _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_.<sup id="cite_ref-100"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-100">[100]</a></sup>
+    -   One of his skins, "Frost Wyrm Arthas", depicts an alternate reality in which the [Ashen Verdict](https://wowpedia.fandom.com/wiki/Ashen_Verdict "Ashen Verdict") failed to defeat the Lich King. The description reads, _"After the death of the Ashen Verdict's [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") none could halt the Lich King's advance. As a reminder of his victory, he grafted the bones of his [fallen servants](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood") onto his armor."_
+-   Prince Arthas is an unlockable, alternate hero for the [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") class in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_, and the eighth alternate hero to be revealed. He is rewarded when a player completes the extremely difficult task of defeating the final [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") encounter in the _[Knights of the Frozen Throne](https://wowpedia.fandom.com/wiki/Hearthstone:_Knights_of_the_Frozen_Throne "Hearthstone: Knights of the Frozen Throne")_ expansion with all nine classes.<sup id="cite_ref-101"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-101">[101]</a></sup>
+    -   In the _[League of Explorers](https://wowpedia.fandom.com/wiki/Hearthstone:_The_League_of_Explorers "Hearthstone: The League of Explorers")_ adventure, Arthas' [signet ring](https://hearthstone.fandom.com/wiki/Skelesaurus_Hex#Dialogue "hswiki:Skelesaurus Hex") can be found in the [Hall of Explorers](https://wowpedia.fandom.com/wiki/Hall_of_Explorers "Hall of Explorers") wing.
+    -   On July 31, _Hearthstone_ Game Director [Ben Brode](https://wowpedia.fandom.com/wiki/Ben_Brode "Ben Brode") released the rap video "[Ben Brode- ARTHAS](https://www.youtube.com/watch?v=j-KU-_-CtJw)", showcasing the prince's fall to evil.
+    -   His flavor text reads: _"The boy who would be King... LICH King. Obtained by defeating the Lich King with every class."_
+    -   _Knights of the Frozen Throne_ expansion's promotion included a live action Lich King in costume with dubed voice over visiting Blizzard.<sup id="cite_ref-102"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-102">[102]</a></sup><sup id="cite_ref-103"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-103">[103]</a></sup><sup id="cite_ref-104"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-104">[104]</a></sup><sup id="cite_ref-105"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-105">[105]</a></sup><sup id="cite_ref-106"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-106">[106]</a></sup>
+
+## Notes and trivia
+
+-   Arthas died at the age of 31.
+-   [The spot](https://wowpedia.fandom.com/wiki/Menethil%27s_Gift "Menethil's Gift") where the Lich King raised [Ras Frostwhisper](https://wowpedia.fandom.com/wiki/Ras_Frostwhisper "Ras Frostwhisper") as a [lich](https://wowpedia.fandom.com/wiki/Lich "Lich") in [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") is considered holy ground by the Scourge.
+-   In the Matthias Lehner questline, Matthias said that the fight between Arthas and [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") was the only battle where Arthas came close to being killed.<sup id="cite_ref-107"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-107">[107]</a></sup> However, this was contradicted by _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, as Uther also almost killed Arthas, and was about to land the killing blow until Frostmourne magically flew into Arthas' hands and Uther's heart.
+-   Before _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, after the Legion left to invade Kalimdor, Kel'Thuzad told Arthas about [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"). He teleported Arthas directly to Illidan's location in [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood") in [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").<sup id="cite_ref-108"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-108">[108]</a></sup>
+-   Prince Arthas is one of the four possibilities for a Time Anomaly summoned by mages wearing the [Raiment of the Arcanic Conclave](https://wowpedia.fandom.com/wiki/Raiment_of_the_Arcanic_Conclave "Raiment of the Arcanic Conclave").<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-109">[109]</a></sup>
+-   In _Warcraft III_, Arthas is voiced by [Justin Gross](https://wowpedia.fandom.com/wiki/Justin_Gross "Justin Gross"). In subsequent appearances, he is voiced by [Patrick Seitz](https://wowpedia.fandom.com/wiki/Patrick_Seitz "Patrick Seitz")<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-110">[110]</a></sup> (paladin/death knight Arthas) and [Michael McConnohie](https://wowpedia.fandom.com/wiki/Michael_McConnohie "Michael McConnohie") (Lich King Arthas).
+-   Arthas appeared in nearly every campaign in _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, with [Exodus of the Horde](https://wowpedia.fandom.com/wiki/Exodus_of_the_Horde "Exodus of the Horde") and [The Invasion of Kalimdor](https://wowpedia.fandom.com/wiki/The_Invasion_of_Kalimdor "The Invasion of Kalimdor") being the exceptions.
+-   Arthas' first line ("Can the formalities, Uther") caused a big argument among the game developers as to whether or not canning existed in Lordaeron.<sup id="cite_ref-DIH1_111-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-DIH1-111">[111]</a></sup>
+-   Arthas wields Frostmourne with his left hand during the [undead](https://wowpedia.fandom.com/wiki/Path_of_the_Damned "Path of the Damned") [campaigns](https://wowpedia.fandom.com/wiki/Legacy_of_the_Damned "Legacy of the Damned") in _Warcraft III_, but with his right hand in most other depictions, including the _Warcraft III_ cinematics.
+-   Arthas' _Warcraft III_ model has blue eyes, but he has green eyes in _Warcraft III_ artwork and in _World of Warcraft_. In _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, he is described as having sea-green eyes. In Jaina's memory prior to the Culling of Stratholme in _Battle for Azeroth_, he has blue eyes.
+-   Before leaving for [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") to aid the Lich King, Arthas intended to use the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") as the Scourge's seat of power.<sup id="cite_ref-112"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-112">[112]</a></sup>
+-   [Alex Afrasiabi](https://wowpedia.fandom.com/wiki/Alex_Afrasiabi "Alex Afrasiabi") originally said that Arthas "never died"<sup id="cite_ref-113"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-113">[113]</a></sup> and the Matthias Lehner questline involved Arthas removing his [heart](https://wowpedia.fandom.com/wiki/Pulsing_Crystal "Pulsing Crystal") because the "incessant drumming" of living hearts disgusted him,<sup id="cite_ref-114"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-114">[114]</a></sup> but this was later contradicted by Arthas being described as an [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") in _[Rise of the Lich King](https://wowpedia.fandom.com/wiki/Rise_of_the_Lich_King "Rise of the Lich King")_,<sup id="cite_ref-115"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-115">[115]</a></sup><sup id="cite_ref-116"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-116">[116]</a></sup> and as having felt the Lich King's power pierce his heart, stop his breath, and freeze his veins when he donned the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination").<sup id="cite_ref-117"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-117">[117]</a></sup> It added that his hair and skin grew pale, plants died at his touch, living animals feared him, and he did not tire.<sup id="cite_ref-118"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-118">[118]</a></sup> _Chronicle_ also described him as an undead<sup id="cite_ref-119"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-119">[119]</a></sup> and the game categorized him as an Undead creature.
+-   Arthas was described as a black rider.<sup id="cite_ref-Blood_of_the_Highborne_6-1"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-Blood_of_the_Highborne-6">[6]</a></sup>
+-   As the Crown Prince of Lordaeron, Arthas wore a large ring on one of his fingers, which the stone had the design of the seal of Lordaeron.<sup id="cite_ref-120"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-120">[120]</a></sup>
+-   [Chief Archaeologist Letoll](https://wowpedia.fandom.com/wiki/Chief_Archaeologist_Letoll "Chief Archaeologist Letoll") once claimed to have heard that Arthas' "cousin's" skeleton was frozen beneath a glacier in [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring").<sup id="cite_ref-121"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-121">[121]</a></sup>
+-   Arthas appeared in the [nightmares](https://wowpedia.fandom.com/wiki/War_Against_the_Nightmare "War Against the Nightmare") of both [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner").<sup id="cite_ref-122"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-122">[122]</a></sup><sup id="cite_ref-123"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-123">[123]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/0/01/Inv_misc_coin_17.png/revision/latest/scale-to-width-down/16?cb=20080911133117)[\[Arthas' Gold Coin\]](https://wowpedia.fandom.com/wiki/Arthas%27_Gold_Coin) can be fished from the [Dalaran Fountain](https://wowpedia.fandom.com/wiki/Dalaran_Fountain "Dalaran Fountain").
+-   Players can transform into Arthas using  ![](https://static.wikia.nocookie.net/wowpedia/images/9/99/Expansionicon_wrathofthelichking.png/revision/latest/scale-to-width-down/16?cb=20120525121915)[\[Exquisite Costume Set: "The Lich King"\]](https://wowpedia.fandom.com/wiki/Exquisite_Costume_Set:_%22The_Lich_King%22).
+-   One of the battleships used during the naval missions on the [alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") bears the name "Arthas's Downfall".
+-   [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") compared [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") to Arthas by mentioning a golden-haired, beloved human prince who turned his back on the Light.<sup id="cite_ref-124"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-124">[124]</a></sup> [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") later stated that Anduin reminded him of Arthas when the latter was younger and still followed the Light. Unlike Garrosh, Faol meant the comparison as a compliment.<sup id="cite_ref-125"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-125">[125]</a></sup>
+-   In a PC World [article](http://www.pcworld.idg.com.au/index.php/id;338891934;pp;2), Arthas was voted #19 of the top 47 "most diabolical game villains of all time".
+-   A 14-foot statue of Arthas can be seen at the Calligraphy Greenway in Taichung, Taiwan.<sup id="cite_ref-Statue_126-0"><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_note-Statue-126">[126]</a></sup>
+-   In the end credits for _Warcraft III: The Frozen Throne_, Arthas was the lead guitarist for [Tenth Level Tauren Chieftain](https://wowpedia.fandom.com/wiki/Elite_Tauren_Chieftain "Elite Tauren Chieftain").
+
+## Inspiration
+
+Arthas could be seen as a "reverse" version of [King Arthur](http://en.wikipedia.org/wiki/King_Arthur "wikipedia:King Arthur"). Frostmourne is comparable to [the Sword in the Stone](http://en.wikipedia.org/wiki/Excalibur#Excalibur_and_the_Sword_in_the_Stone "wikipedia:Excalibur")/[Excalibur](http://en.wikipedia.org/wiki/Excalibur "wikipedia:Excalibur"), Ner'zhul (or Kel'Thuzad) could be seen as roughly equivalent to [Merlin](http://en.wikipedia.org/wiki/Merlin "wikipedia:Merlin") (the wizard figure behind the king), and Uther shares his name with King Arthur's father. In contrast to Arthur, Arthas destroyed a Camelot-styled kingdom and built its opposite.
+
+Arthas also has many similarities with [Michael Moorcock](http://en.wikipedia.org/wiki/Michael_Moorcock "wikipedia:Michael Moorcock")'s [Elric of Melniboné](http://en.wikipedia.org/wiki/Elric_of_Melnibon%C3%A9 "wikipedia:Elric of Melniboné") character and his sword [Stormbringer](http://en.wikipedia.org/wiki/Stormbringer "wikipedia:Stormbringer"). Both are rulers who betray their own lands, and both are cursed by their runeblades.
+
+[Hernan Cortes](http://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s "wikipedia:Hernán Cortés"), a Spanish conquistador, made a very similar decision to Arthas in _Warcraft III_. When Uther convinced King Terenas II to send ships to Arthas' expedition in Northrend as a way to tell them to go back home to Lordaeron, Arthas decided to burn the ships to continue his campaign against Mal'Ganis. Due to half of his men protesting and wanting to go back to the mainland, Cortes decided to burn his ships until victory was achieved against the Aztecs so he could claim their land. That manner of decision was also believed to have been made, before Cortes, by Umayyad commander [Tariq bin Ziyad](http://en.wikipedia.org/wiki/Tariq_ibn_Ziyad "wikipedia:Tariq ibn Ziyad") in order to conquer Hispania (modern-day Spain) and make it Al-Andalus. Cortes is believed to have been inspired by Tariq bin Ziyad's strategic movement of conquering Cortes's own hometown.
+
+Arthas also draws parallels with [Anakin Skywalker/Darth Vader](http://en.wikipedia.org/wiki/Star_Wars "wikipedia:Star Wars"). Anakin is another prominent example of the "fallen hero" archetype in modern fiction. Like Anakin, Arthas began his career as a promising knight sworn to altruism and justice, under the tutelage of an experienced warrior who attempted to instil these values in his pupil. Both men were eventually seduced by dark powers, and aided in the destruction of their orders and the killing of their mentors. Both ended their lives not as Darth Vader or the Lich King, but as Anakin Skywalker and Arthas Menethil, respectively. One key difference though was at the end of their lives; where as Vader redeemed himself and became Anakin by destroying his master to save his son Luke, Arthas had no such redemption given to him.
+
+## Gallery
+
+### Paladin
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Warcraft_III_Reforged_-_Arthas_concept_art_2.jpg/revision/latest/scale-to-width-down/120?cb=20190508050430)](https://static.wikia.nocookie.net/wowpedia/images/4/48/Warcraft_III_Reforged_-_Arthas_concept_art_2.jpg/revision/latest?cb=20190508050430)
+    
+    _Reforged_ concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Reforged_-_Arthas_concept.jpg/revision/latest/scale-to-width-down/120?cb=20201122135016)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Reforged_-_Arthas_concept.jpg/revision/latest?cb=20201122135016)
+    
+    _Reforged_ concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Reforgedarthasgood.png/revision/latest/scale-to-width-down/93?cb=20210322193611)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Reforgedarthasgood.png/revision/latest?cb=20210322193611)
+    
+    Arthas, as a paladin, in _Warcraft III: Reforged_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/64/Arthas_%28Reforged%29_holding_frostmourne.jpg/revision/latest/scale-to-width-down/120?cb=20210207022555)](https://static.wikia.nocookie.net/wowpedia/images/6/64/Arthas_%28Reforged%29_holding_frostmourne.jpg/revision/latest?cb=20210207022555)
+    
+    Arthas, as a paladin with Frostmourne, in _Warcraft III: Reforged_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Arthas_Hammer_BFA.jpg/revision/latest/scale-to-width-down/114?cb=20190108123732)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Arthas_Hammer_BFA.jpg/revision/latest?cb=20190108123732)
+    
+    Light's Vengeance model used in a _Battle for Azeroth_ in-game cinematic.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Lore_in_Short_-_Arthas_and_mentors.png/revision/latest/scale-to-width-down/120?cb=20220922144750)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Lore_in_Short_-_Arthas_and_mentors.png/revision/latest?cb=20220922144750)
+    
+    Arthas depicted alongside his teachers Muradin and Uther in _[Lore in Short](https://wowpedia.fandom.com/wiki/Lore_in_Short "Lore in Short")_.
+    
+
+### Death knight
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Arthas_corruption.jpg/revision/latest/scale-to-width-down/120?cb=20210221200020)](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Arthas_corruption.jpg/revision/latest?cb=20210221200020)
+    
+    Corrupting to a death knight.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/73/WC3Arthas_cloak.jpg/revision/latest/scale-to-width-down/93?cb=20210330182351)](https://static.wikia.nocookie.net/wowpedia/images/7/73/WC3Arthas_cloak.jpg/revision/latest?cb=20210330182351)
+    
+    Arthas concept art variation with a cloak.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Wc3-arthas-full.jpg/revision/latest/scale-to-width-down/120?cb=20130803044334)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Wc3-arthas-full.jpg/revision/latest?cb=20130803044334)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Reforged_-_Arthas_DK_concept.jpg/revision/latest/scale-to-width-down/120?cb=20201122135018)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Reforged_-_Arthas_DK_concept.jpg/revision/latest?cb=20201122135018)
+    
+    _Reforged_ concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Reforgedarthasevil.png/revision/latest/scale-to-width-down/120?cb=20210322193549)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Reforgedarthasevil.png/revision/latest?cb=20210322193549)
+    
+    Arthas, as a death knight, in _Warcraft III: Reforged_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Reforged_credits_art_21.png/revision/latest/scale-to-width-down/120?cb=20200518201320)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Reforged_credits_art_21.png/revision/latest?cb=20200518201320)
+    
+    _Reforged_ model up front.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Sylvanas_Warbringers9.jpg/revision/latest/scale-to-width-down/120?cb=20190412230032)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Sylvanas_Warbringers9.jpg/revision/latest?cb=20190412230032)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Manga_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20070418050636)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Manga_Arthas.jpg/revision/latest?cb=20070418050636)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/KingArthasDreadloardsRF.jpg/revision/latest/scale-to-width-down/120?cb=20200425044811)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/KingArthasDreadloardsRF.jpg/revision/latest?cb=20200425044811)
+    
+    Arthas confronts the dreadlords, in _Warcraft III: Reforged_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Arthas_Frostmourne.jpg/revision/latest/scale-to-width-down/92?cb=20200908175009)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Arthas_Frostmourne.jpg/revision/latest?cb=20200908175009)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/The_Frozen_Throne_beta_Opening_theme.jpg/revision/latest/scale-to-width-down/120?cb=20180701120058)](https://static.wikia.nocookie.net/wowpedia/images/3/34/The_Frozen_Throne_beta_Opening_theme.jpg/revision/latest?cb=20180701120058)
+    
+    On the opening screen during the beta of _The Frozen Throne_.
+    
+
+### Lich King
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Lich_King_-_Wei_Wang.jpg/revision/latest/scale-to-width-down/47?cb=20210313214802)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Lich_King_-_Wei_Wang.jpg/revision/latest?cb=20210313214802)
+    
+    Lich King by Wei Wang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/The_Lich-King.jpg/revision/latest/scale-to-width-down/120?cb=20221121025947)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/The_Lich-King.jpg/revision/latest?cb=20221121025947)
+    
+    Lich King in Icecrown by Wei Wang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Lich_King_Glowei.jpg/revision/latest/scale-to-width-down/110?cb=20100905062001)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Lich_King_Glowei.jpg/revision/latest?cb=20100905062001)
+    
+    Lich King on the throne by Wei Wang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Arthas_Graven_Tung_concept.jpg/revision/latest/scale-to-width-down/120?cb=20210501222632)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Arthas_Graven_Tung_concept.jpg/revision/latest?cb=20210501222632)
+    
+    Concept art of Arthas by Graven Tung.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/02/Raising_Sindragosa_concept.jpg/revision/latest/scale-to-width-down/120?cb=20210501195229)](https://static.wikia.nocookie.net/wowpedia/images/0/02/Raising_Sindragosa_concept.jpg/revision/latest?cb=20210501195229)
+    
+    Concept art of Arthas raising Sindragosa into undeath by Graven Tung.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Sindragosa_and_Arthas_by_Bernie_Kang.jpg/revision/latest/scale-to-width-down/120?cb=20210403040631)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Sindragosa_and_Arthas_by_Bernie_Kang.jpg/revision/latest?cb=20210403040631)
+    
+    Sindragosa and Arthas by Bernie Kang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Arthas_by_Bernie_Kang.jpeg/revision/latest/scale-to-width-down/120?cb=20210403040628)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Arthas_by_Bernie_Kang.jpeg/revision/latest?cb=20210403040628)
+    
+    Arthas by Bernie Kang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Arthas_Lich_King_by_Bernie_Kang.jpg/revision/latest/scale-to-width-down/120?cb=20210403040629)](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Arthas_Lich_King_by_Bernie_Kang.jpg/revision/latest?cb=20210403040629)
+    
+    Arthas and the Frozen Throne by Bernie Kang.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Lich_King_Arthas_art.jpg/revision/latest/scale-to-width-down/120?cb=20220927183113)](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Lich_King_Arthas_art.jpg/revision/latest?cb=20220927183113)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/41/Lich_King_Phroilan.jpg/revision/latest/scale-to-width-down/92?cb=20110604071902)](https://static.wikia.nocookie.net/wowpedia/images/4/41/Lich_King_Phroilan.jpg/revision/latest?cb=20110604071902)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Lich_King_Magazine_Art.jpg/revision/latest/scale-to-width-down/83?cb=20091226014949)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Lich_King_Magazine_Art.jpg/revision/latest?cb=20091226014949)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Journey_Trailer_-_Lich_King.jpg/revision/latest/scale-to-width-down/120?cb=20220922231809)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Journey_Trailer_-_Lich_King.jpg/revision/latest?cb=20220922231809)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/LichKing1CoverArtwork.jpg/revision/latest/scale-to-width-down/120?cb=20090603113649)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/LichKing1CoverArtwork.jpg/revision/latest?cb=20090603113649)
+    
+    The Lich King on the cover of the unreleased _[Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Lich_King "World of Warcraft: Lich King")_ comic.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/WotLK_cinematic_belt.jpg/revision/latest/scale-to-width-down/120?cb=20210403041831)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/WotLK_cinematic_belt.jpg/revision/latest?cb=20210403041831)
+    
+    Concept art of _WotLK_ cinematic updated version of Arthas's belt.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c5/WotLK_cinematic_shoulderskull.jpg/revision/latest/scale-to-width-down/120?cb=20210403041834)](https://static.wikia.nocookie.net/wowpedia/images/c/c5/WotLK_cinematic_shoulderskull.jpg/revision/latest?cb=20210403041834)
+    
+    Concept art of _WotLK_ cinematic updated version of Arthas's shoulder skull.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/WotLK_cinematic_heelSkull.jpg/revision/latest/scale-to-width-down/97?cb=20210403041832)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/WotLK_cinematic_heelSkull.jpg/revision/latest?cb=20210403041832)
+    
+    Concept art of _WotLK_ cinematic Arthas's heel skull.
+    
+
+### _Trading Card Game_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/85/Scourgewar_Icecrown.jpg/revision/latest/scale-to-width-down/120?cb=20210326090708)](https://static.wikia.nocookie.net/wowpedia/images/8/85/Scourgewar_Icecrown.jpg/revision/latest?cb=20210326090708)
+    
+    Scourgewar Icecrown TCG expansion key art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Army_of_the_Damned.jpg/revision/latest/scale-to-width-down/120?cb=20131029182146)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Army_of_the_Damned.jpg/revision/latest?cb=20131029182146)
+    
+    Army of the Damned (_Icecrown_) by Michael Komarck.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/The_Lich_King_TCG.jpg/revision/latest/scale-to-width-down/106?cb=20210415161750)](https://static.wikia.nocookie.net/wowpedia/images/f/fc/The_Lich_King_TCG.jpg/revision/latest?cb=20210415161750)
+    
+    The Lich King (_Icecrown_) by Glenn Rane.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Tirion%27s_Gambit_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210326222918)](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Tirion%27s_Gambit_TCG.jpg/revision/latest?cb=20210326222918)
+    
+    Tirion's Gambit (_Icecrown_) by Clint Langley.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Lich_King_Frozen_Throne.jpg/revision/latest/scale-to-width-down/115?cb=20131128033416)](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Lich_King_Frozen_Throne.jpg/revision/latest?cb=20131128033416)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Wow_tcg_lich_king_by_james_ryman.jpg/revision/latest/scale-to-width-down/107?cb=20131125063733)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Wow_tcg_lich_king_by_james_ryman.jpg/revision/latest?cb=20131125063733)
+    
+    Ashes to Ashes (_Assault on Icecrown Citadel_) by James Ryman.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Helm_of_Domination_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20180502215340)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Helm_of_Domination_TCG.jpg/revision/latest?cb=20180502215340)
+    
+    Helm of Domination (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Justice_of_the_Grave.jpg/revision/latest/scale-to-width-down/120?cb=20130705202135)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Justice_of_the_Grave.jpg/revision/latest?cb=20130705202135)
+    
+    Justice of the Grave (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Pain_and_suffering_icr.jpeg/revision/latest/scale-to-width-down/120?cb=20180502213753)](https://static.wikia.nocookie.net/wowpedia/images/c/c3/Pain_and_suffering_icr.jpeg/revision/latest?cb=20180502213753)
+    
+    Pain and Suffering (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/79/Quake.jpg/revision/latest/scale-to-width-down/120?cb=20210326223711)](https://static.wikia.nocookie.net/wowpedia/images/7/79/Quake.jpg/revision/latest?cb=20210326223711)
+    
+    Quake (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/90/Remorseless_winter.jpg/revision/latest/scale-to-width-down/120?cb=20210324181451)](https://static.wikia.nocookie.net/wowpedia/images/9/90/Remorseless_winter.jpg/revision/latest?cb=20210324181451)
+    
+    Remorseless Winter (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Servants_of_undeath.jpg/revision/latest/scale-to-width-down/120?cb=20221202022106)](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Servants_of_undeath.jpg/revision/latest?cb=20221202022106)
+    
+    Servants of Undeath (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Soul_reaper.jpg/revision/latest/scale-to-width-down/120?cb=20170930211838)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Soul_reaper.jpg/revision/latest?cb=20170930211838)
+    
+    Soul Reaper (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/One_True_King.jpg/revision/latest/scale-to-width-down/120?cb=20180502213833)](https://static.wikia.nocookie.net/wowpedia/images/7/72/One_True_King.jpg/revision/latest?cb=20180502213833)
+    
+    The One True King (_Assault on Icecrown Citadel_).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/The_Lich_King_AoIC.jpg/revision/latest/scale-to-width-down/120?cb=20210501200045)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/The_Lich_King_AoIC.jpg/revision/latest?cb=20210501200045)
+    
+    The Lich King (_Assault on Icecrown Citadel_) by Ben Thompson.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/The_Lich_King_AoIC_Back.jpg/revision/latest/scale-to-width-down/82?cb=20210501200129)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/The_Lich_King_AoIC_Back.jpg/revision/latest?cb=20210501200129)
+    
+    The Lich King (_Assault on Icecrown Citadel_) by Ben Thompson.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Arthas_TCG.jpg/revision/latest/scale-to-width-down/85?cb=20210326070804)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Arthas_TCG.jpg/revision/latest?cb=20210326070804)
+    
+    Arthas Menethil (_Timewalkers_) by James Ryman.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Arthas_TCG_Alt.jpg/revision/latest/scale-to-width-down/84?cb=20130226185612)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Arthas_TCG_Alt.jpg/revision/latest?cb=20130226185612)
+    
+    Arthas Menethil (_Timewalkers_) by James Ryman.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legacy_of_Lordaeron.jpg/revision/latest/scale-to-width-down/120?cb=20130908184654)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legacy_of_Lordaeron.jpg/revision/latest?cb=20130908184654)
+    
+    Legacy of Lordaeron (_Reign of Fire_) by Ruan Jia.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Scourge_of_Lordaeron_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210328195458)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Scourge_of_Lordaeron_TCG.jpg/revision/latest?cb=20210328195458)
+    
+    The Scourge of Lordaeron (_Reign of Fire_) by Tooth.
+    
+
+### _Hearthstone_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/77/Arthas_Mercenaries_1.jpg/revision/latest/scale-to-width-down/89?cb=20220207060608)](https://static.wikia.nocookie.net/wowpedia/images/7/77/Arthas_Mercenaries_1.jpg/revision/latest?cb=20220207060608)
+    
+    In _Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Arthas_Mercenaries_2.jpg/revision/latest/scale-to-width-down/94?cb=20220207060619)](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Arthas_Mercenaries_2.jpg/revision/latest?cb=20220207060619)
+    
+    In _Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Arthas_Mercenaries_3.jpg/revision/latest/scale-to-width-down/89?cb=20220207060630)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Arthas_Mercenaries_3.jpg/revision/latest?cb=20220207060630)
+    
+    In _Mercenaries_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Hearthstone_Mercenaries_Korea_advertising.jpg/revision/latest/scale-to-width-down/120?cb=20220228215255)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Hearthstone_Mercenaries_Korea_advertising.jpg/revision/latest?cb=20220228215255)
+    
+    _Mercenaries_ advertising illustration.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/HS_Mercenaries_Anime_Opening_Illidan_Jaina_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20220601224428)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/HS_Mercenaries_Anime_Opening_Illidan_Jaina_Arthas.jpg/revision/latest?cb=20220601224428)
+    
+    From a promotional video for _Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/March_of_the_Lich_King_key_art.jpg/revision/latest/scale-to-width-down/120?cb=20221203161140)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/March_of_the_Lich_King_key_art.jpg/revision/latest?cb=20221203161140)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/March_of_the_Lich_King_DK_1k_wins_art.jpg/revision/latest/scale-to-width-down/120?cb=20221203161754)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/March_of_the_Lich_King_DK_1k_wins_art.jpg/revision/latest?cb=20221203161754)
+    
+    _March of the Lich King_ reward for 1000 wins with the death knight class.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/04/Remorseless_Winter_HS.jpg/revision/latest/scale-to-width-down/120?cb=20221203162941)](https://static.wikia.nocookie.net/wowpedia/images/0/04/Remorseless_Winter_HS.jpg/revision/latest?cb=20221203162941)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/98/March_of_the_Lich_King_promotional_image.jpg/revision/latest/scale-to-width-down/120?cb=20221203171644)](https://static.wikia.nocookie.net/wowpedia/images/9/98/March_of_the_Lich_King_promotional_image.jpg/revision/latest?cb=20221203171644)
+    
+    _March of the Lich King_ promotional image.
+    
+
+### _Heroes of the Storm_
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Arthas_HotS.jpg/revision/latest/scale-to-width-down/120?cb=20160112224111)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Arthas_HotS.jpg/revision/latest?cb=20160112224111)
+    
+    Lich King Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Arthas_HotS_Death_God.jpg/revision/latest/scale-to-width-down/120?cb=20171219092816)](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Arthas_HotS_Death_God.jpg/revision/latest?cb=20171219092816)
+    
+    Death God Arthas (formerly Master Arthas).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Arthas_HotS_Crown_Prince.jpg/revision/latest/scale-to-width-down/120?cb=20171219092808)](https://static.wikia.nocookie.net/wowpedia/images/8/81/Arthas_HotS_Crown_Prince.jpg/revision/latest?cb=20171219092808)
+    
+    Crown Prince Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Arthas_HotS_Frost_Wyrm.jpg/revision/latest/scale-to-width-down/120?cb=20171219092824)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Arthas_HotS_Frost_Wyrm.jpg/revision/latest?cb=20171219092824)
+    
+    Frost Wyrm Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Arthas_HotS_Crimson_Count.jpg/revision/latest/scale-to-width-down/120?cb=20171219092800)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Arthas_HotS_Crimson_Count.jpg/revision/latest?cb=20171219092800)
+    
+    Crimson Count Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8e/Arthas_HotS_Crimson_Count_Bat_Form.jpg/revision/latest/scale-to-width-down/120?cb=20210502183313)](https://static.wikia.nocookie.net/wowpedia/images/8/8e/Arthas_HotS_Crimson_Count_Bat_Form.jpg/revision/latest?cb=20210502183313)
+    
+    Crimson Count Arthas in his mount Bat Form.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/45/Arthas_HotS_Mystic_Kingdoms.jpg/revision/latest/scale-to-width-down/120?cb=20171219092836)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Arthas_HotS_Mystic_Kingdoms.jpg/revision/latest?cb=20171219092836)
+    
+    Mystic Kingdoms Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/15/King_of_Blades_Arthas_HotS.jpg/revision/latest/scale-to-width-down/120?cb=20201225025049)](https://static.wikia.nocookie.net/wowpedia/images/1/15/King_of_Blades_Arthas_HotS.jpg/revision/latest?cb=20201225025049)
+    
+    King of Blades Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Arthas_HotS_Death_Knight.jpg/revision/latest/scale-to-width-down/120?cb=20140630053413)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Arthas_HotS_Death_Knight.jpg/revision/latest?cb=20140630053413)
+    
+    Death Knight Arthas (removed).
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Heroes_of_the_Storm.jpg/revision/latest/scale-to-width-down/96?cb=20131107031242)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Heroes_of_the_Storm.jpg/revision/latest?cb=20131107031242)
+    
+    Arthas in promotional art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/CraftWars_art.png/revision/latest/scale-to-width-down/120?cb=20210528192336)](https://static.wikia.nocookie.net/wowpedia/images/0/05/CraftWars_art.png/revision/latest?cb=20210528192336)
+    
+
+### Physical figurines
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/ActionArthas.jpg/revision/latest/scale-to-width-down/120?cb=20070629184437)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/ActionArthas.jpg/revision/latest?cb=20070629184437)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Lich_King_Arthas_Statue.jpg/revision/latest/scale-to-width-down/120?cb=20120310133834)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Lich_King_Arthas_Statue.jpg/revision/latest?cb=20120310133834)
+    
+    The Arthas statue by Sideshow Collectibles.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Vinyl_Arthas.jpg/revision/latest/scale-to-width-down/62?cb=20131003141251)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Vinyl_Arthas.jpg/revision/latest?cb=20131003141251)
+    
+    The vinyl Arthas statue by Funko.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Arthas_Mini.jpg/revision/latest?cb=20150221075113)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Arthas_Mini.jpg/revision/latest?cb=20150221075113)
+    
+    The Arthas mini-figure by Funko.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Arthas_NECA.jpg/revision/latest/scale-to-width-down/96?cb=20150724112148)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Arthas_NECA.jpg/revision/latest?cb=20150724112148)
+    
+    The Arthas NECA figure.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Mega_Bloks_Arthas.png/revision/latest/scale-to-width-down/120?cb=20140711191200)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Mega_Bloks_Arthas.png/revision/latest?cb=20140711191200)
+    
+    The Arthas Mega Bloks figure.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Blizzard_Collectibles_WC3_Prince_Arthas_2020.jpg/revision/latest/scale-to-width-down/120?cb=20201031224401)](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Blizzard_Collectibles_WC3_Prince_Arthas_2020.jpg/revision/latest?cb=20201031224401)
+    
+    Prince Arthas Commemorative Statue.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/56/From_the_Vault_%28Anniversary%29_Lich_King_2021.jpg/revision/latest/scale-to-width-down/120?cb=20210409152314)](https://static.wikia.nocookie.net/wowpedia/images/5/56/From_the_Vault_%28Anniversary%29_Lich_King_2021.jpg/revision/latest?cb=20210409152314)
+    
+    Lich King Premium Statue.
+    
+
+### Other
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Arthas_rocking.jpg/revision/latest/scale-to-width-down/120?cb=20180924195849)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Arthas_rocking.jpg/revision/latest?cb=20180924195849)
+    
+    Arthas rocking out in the _Frozen Throne_ credits.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Christmas_%2708_by_Samwise.jpg/revision/latest/scale-to-width-down/120?cb=20171223175903)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Christmas_%2708_by_Samwise.jpg/revision/latest?cb=20171223175903)
+    
+    Arthas on art by Samwise Didier for Christmas '08.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Raneman_Anniversary_Artwork.jpg/revision/latest/scale-to-width-down/120?cb=20150320195439)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Raneman_Anniversary_Artwork.jpg/revision/latest?cb=20150320195439)
+    
+    Prince Arthas, depicted with other heroes from _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/WOTLK_Arthas_Steve_Hui_explored_idea.jpg/revision/latest/scale-to-width-down/120?cb=20210501221225)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/WOTLK_Arthas_Steve_Hui_explored_idea.jpg/revision/latest?cb=20210501221225)
+    
+    _WotLK_ concept art by Steve Hui.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Ultimate_Visual_Guide.jpg/revision/latest/scale-to-width-down/98?cb=20131009211844)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Ultimate_Visual_Guide.jpg/revision/latest?cb=20131009211844)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/37/Snow_Fight_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20180218125201)](https://static.wikia.nocookie.net/wowpedia/images/3/37/Snow_Fight_Arthas.jpg/revision/latest?cb=20180218125201)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/King_Arthas_Menethil_by_pulyx.jpg/revision/latest/scale-to-width-down/107?cb=20161020200413)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/King_Arthas_Menethil_by_pulyx.jpg/revision/latest?cb=20161020200413)
+    
+    "King Arthas Menethil" imagined by Pulyx45699, as used in _[Tribute](https://wowpedia.fandom.com/wiki/Tribute "Tribute")_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Arthas_Statue.jpg/revision/latest/scale-to-width-down/120?cb=20180307125512)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Arthas_Statue.jpg/revision/latest?cb=20180307125512)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/BTNFallenKingArthas.png/revision/latest/scale-to-width-down/120?cb=20210426031900)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/BTNFallenKingArthas.png/revision/latest?cb=20210426031900)
+    
+    Fallen King Arthas Icon.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/df/Forging_Worlds-_Stories_Behind_the_Art_of_Blizzard_Entertainment.jpg/revision/latest/scale-to-width-down/84?cb=20210529192523)](https://static.wikia.nocookie.net/wowpedia/images/d/df/Forging_Worlds-_Stories_Behind_the_Art_of_Blizzard_Entertainment.jpg/revision/latest?cb=20210529192523)
+    
+
+### Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Young_Arthas.jpg/revision/latest/scale-to-width-down/75?cb=20190129022219)](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Young_Arthas.jpg/revision/latest?cb=20190129022219)
+    
+    "Young Arthas" by Minhee Kim.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Arthas_Stratholme_by_Tooth.jpg/revision/latest/scale-to-width-down/120?cb=20210501200541)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Arthas_Stratholme_by_Tooth.jpg/revision/latest?cb=20210501200541)
+    
+    Arthas purging Stratholme.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Arthas%27_Betrayal_dai_song_fanart.jpg/revision/latest/scale-to-width-down/120?cb=20191118013453)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Arthas%27_Betrayal_dai_song_fanart.jpg/revision/latest?cb=20191118013453)
+    
+    "Arthas" by dai song.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6e/AArthas.jpg/revision/latest/scale-to-width-down/120?cb=20080102185859)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/AArthas.jpg/revision/latest?cb=20080102185859)
+    
+    Arthas leading the Scourge.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Empire_of_the_Blizzard.jpg/revision/latest/scale-to-width-down/120?cb=20150624081904)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Empire_of_the_Blizzard.jpg/revision/latest?cb=20150624081904)
+    
+    "Lich King - Empire of the Blizzard" by Jorcerca.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/End_of_Sorrow_by_Xuezhi_Wang.jpg/revision/latest/scale-to-width-down/93?cb=20160531123050)](https://static.wikia.nocookie.net/wowpedia/images/4/47/End_of_Sorrow_by_Xuezhi_Wang.jpg/revision/latest?cb=20160531123050)
+    
+    "End of Sorrow" by Xuezhi Wang.
+    
+
+## Videos
+
+-   [The Prince and the Prophet](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [Arthas' Betrayal](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [The Revelation](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [Sylvanas' Farewell](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [Boiling Point](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [A Long Time Coming](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [The Ascension](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [Fall of the Lich King](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+-   [The Story of Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil#)
+
+## Patch changes
+
+-   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.3](https://wowpedia.fandom.com/wiki/Patch_3.0.3 "Patch 3.0.3") (2008-11-04):** Added.  
+    
+
+## See also
+
+-   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+-   [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne")
+-   [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination")
+-   [Matthias Lehner](https://wowpedia.fandom.com/wiki/Matthias_Lehner "Matthias Lehner")
+-   [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil_(TCG_Timewalkers)), TCG card
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-1) _[The Sunwell Trilogy](https://wowpedia.fandom.com/wiki/The_Sunwell_Trilogy "The Sunwell Trilogy")_
+2.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-crowned_2-0) [Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne") manual, pg. 6, quote: _"And Arthas, the newly crowned king of Lordaeron..."_
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-Ultimate_Visual_Guide_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-Ultimate_Visual_Guide_3-1">b</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_
+4.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-4) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 5
+5.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-5)  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Inv_letter_01.png/revision/latest/scale-to-width-down/16?cb=20061007001729)[\[A Careworn Note\]](https://wowpedia.fandom.com/wiki/A_Careworn_Note)
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-Blood_of_the_Highborne_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-Blood_of_the_Highborne_6-1">b</a></sup> _[Blood of the Highborne](https://wowpedia.fandom.com/wiki/Blood_of_the_Highborne "Blood of the Highborne")_
+7.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-7) [Chris Metzen on Twitter](https://twitter.com/ChrisMetzen/status/260421632307372032) (2012-10-22). "Dead as a doornail. :)"
+8.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-8) [Warcraft III: Reign of Chaos Game Manual#Prince Arthas](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual#Prince_Arthas "Warcraft III: Reign of Chaos Game Manual")
+9.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-9) [March Badness](https://worldofwarcraft.com/en-us/news/20056283)
+10.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-10) [Sean Copeland on Twitter](https://twitter.com/Loreology/status/464465825681133568)
+11.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-11) [Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") manual, [Human History (since the end of the second war)](https://wowpedia.fandom.com/wiki/Human_History_(since_the_end_of_the_second_war) "Human History (since the end of the second war)")
+12.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-12) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_
+13.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-13) [Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")
+14.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-14) _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_
+15.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-15) [The Defense of Strahnbrad](https://wowpedia.fandom.com/wiki/The_Defense_of_Strahnbrad "The Defense of Strahnbrad")
+16.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-16) [Blackrock & Roll](https://wowpedia.fandom.com/wiki/Blackrock_%26_Roll "Blackrock & Roll")
+17.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-17) [Ravages of the Plague](https://wowpedia.fandom.com/wiki/Ravages_of_the_Plague "Ravages of the Plague")
+18.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-18) [The Cult of the Damned](https://wowpedia.fandom.com/wiki/The_Cult_of_the_Damned "The Cult of the Damned")
+19.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-19) [March of the Scourge](https://wowpedia.fandom.com/wiki/March_of_the_Scourge "March of the Scourge")
+20.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-20) [The Prince and the Prophet](https://wowpedia.fandom.com/wiki/The_Prince_and_the_Prophet "The Prince and the Prophet")
+21.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-21) [The Culling (WC3 Human)](https://wowpedia.fandom.com/wiki/The_Culling_(WC3_Human) "The Culling (WC3 Human)")
+22.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-22) [The Shores of Northrend](https://wowpedia.fandom.com/wiki/The_Shores_of_Northrend "The Shores of Northrend")
+23.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-23) [Dissension](https://wowpedia.fandom.com/wiki/Dissension "Dissension")
+24.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-24) [Frostmourne (Warcraft III)](https://wowpedia.fandom.com/wiki/Frostmourne_(Warcraft_III) "Frostmourne (Warcraft III)")
+25.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-25) [The Cinematic Art of World of Warcraft: Wrath of the Lich King (2009)](https://wowpedia.fandom.com/wiki/The_Cinematic_Art_of_World_of_Warcraft:_Wrath_of_the_Lich_King_(2009) "The Cinematic Art of World of Warcraft: Wrath of the Lich King (2009)"), pg. 30
+26.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-26)  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [Army of the Damned](https://wowpedia.fandom.com/wiki/Army_of_the_Damned)
+27.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-DK_Manga_27-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-DK_Manga_27-1">b</a></sup> _[Death Knight](https://wowpedia.fandom.com/wiki/Death_Knight_(manga) "Death Knight (manga)")_
+28.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-28) [Arthas' Betrayal](https://wowpedia.fandom.com/wiki/Arthas%27_Betrayal "Arthas' Betrayal")
+29.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-29) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 16
+30.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-30) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King"),_ pg. 21, 35, 133-134
+31.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-31) [Trudging through the Ashes](https://wowpedia.fandom.com/wiki/Trudging_through_the_Ashes "Trudging through the Ashes")
+32.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-32) [Digging up the Dead](https://wowpedia.fandom.com/wiki/Digging_up_the_Dead "Digging up the Dead")
+33.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-33) [The Fall of Silvermoon](https://wowpedia.fandom.com/wiki/The_Fall_of_Silvermoon "The Fall of Silvermoon")
+34.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-34) [The Revelation](https://wowpedia.fandom.com/wiki/The_Revelation "The Revelation")
+35.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-35) [Blackrock & Roll, Too!](https://wowpedia.fandom.com/wiki/Blackrock_%26_Roll,_Too! "Blackrock & Roll, Too!")
+36.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-36) [Under the Burning Sky](https://wowpedia.fandom.com/wiki/Under_the_Burning_Sky "Under the Burning Sky")
+37.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-37) [The Destruction of Dalaran](https://wowpedia.fandom.com/wiki/The_Destruction_of_Dalaran "The Destruction of Dalaran")
+38.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-38) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 77 - 78
+39.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-39) [A Destiny of Flame and Sorrow](https://wowpedia.fandom.com/wiki/A_Destiny_of_Flame_and_Sorrow "A Destiny of Flame and Sorrow")
+40.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-40) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 21
+41.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-41) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 80
+42.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-42) [King Arthas (Warcraft III)](https://wowpedia.fandom.com/wiki/King_Arthas_(Warcraft_III) "King Arthas (Warcraft III)")
+43.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-43) [A Kingdom Divided](https://wowpedia.fandom.com/wiki/A_Kingdom_Divided "A Kingdom Divided")
+44.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-44) [The Flight from Lordaeron](https://wowpedia.fandom.com/wiki/The_Flight_from_Lordaeron "The Flight from Lordaeron")
+45.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-45) [Sylvanas' Farewell](https://wowpedia.fandom.com/wiki/Sylvanas%27_Farewell "Sylvanas' Farewell")
+46.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-46) [The Return to Northrend](https://wowpedia.fandom.com/wiki/The_Return_to_Northrend "The Return to Northrend")
+47.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-47) [Into the Shadow Web Caverns](https://wowpedia.fandom.com/wiki/Into_the_Shadow_Web_Caverns "Into the Shadow Web Caverns")
+48.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-48) [The Forgotten Ones (WC3 Undead)](https://wowpedia.fandom.com/wiki/The_Forgotten_Ones_(WC3_Undead) "The Forgotten Ones (WC3 Undead)")
+49.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-49) [Ascent to the Upper Kingdom](https://wowpedia.fandom.com/wiki/Ascent_to_the_Upper_Kingdom "Ascent to the Upper Kingdom")
+50.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-50) [Boiling Point](https://wowpedia.fandom.com/wiki/Boiling_Point "Boiling Point")
+51.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-51) [A Symphony of Frost and Flame](https://wowpedia.fandom.com/wiki/A_Symphony_of_Frost_and_Flame "A Symphony of Frost and Flame")
+52.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-52) [A Long Time Coming](https://wowpedia.fandom.com/wiki/A_Long_Time_Coming "A Long Time Coming")
+53.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-The_Hunter_and_the_Prince_53-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-The_Hunter_and_the_Prince_53-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [The Hunter and the Prince](https://wowpedia.fandom.com/wiki/The_Hunter_and_the_Prince)
+54.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-54) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 17
+55.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-55) [The Ascension](https://wowpedia.fandom.com/wiki/The_Ascension "The Ascension")
+56.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-Arthas_page_306_56-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-Arthas_page_306_56-1">b</a></sup> _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 306
+57.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-57) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, epilogue. "Arthas, the Lich King, alone in his glory and power, slowly opened his eyes."
+58.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-58) _[Warcraft: Legends Volume 4](https://wowpedia.fandom.com/wiki/Warcraft:_Legends_Volume_4 "Warcraft: Legends Volume 4")_ _[Fate](https://wowpedia.fandom.com/wiki/Fate_(Legends) "Fate (Legends)")_. "Ner'zhul is no more. He is consumed. There is only Arthas now... Arthas, whom you shall serve for all eternity."
+59.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-59) [BlizzCon 2010 Lore Q&A Panel](http://www.youtube.com/watch?v=kUek4R-2baA). "Yeah, Ner'zhul is done. He served us well in that capacity, but really the Lich King idea... really has the ultimate expression, you know, as Arthas or whatever. Ner'zhul's done."
+60.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-60) [Lich King (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Lich_King_(tactics)#Quotes "Lich King (tactics)")
+61.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-61) [1up - WotLK preview](http://www.1up.com/do/previewPage?pager.offset=0&cId=3163178)
+62.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-62) _[Afterlives: Bastion](https://wowpedia.fandom.com/wiki/Afterlives "Afterlives")_
+63.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-63) _[Edge of Night](https://wowpedia.fandom.com/wiki/Edge_of_Night "Edge of Night")_
+64.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-The_Highlord's_Vision_64-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-The_Highlord's_Vision_64-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Highlord's Vision](https://wowpedia.fandom.com/wiki/The_Highlord%27s_Vision)
+65.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-65)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Paladin's Soul](https://wowpedia.fandom.com/wiki/A_Paladin%27s_Soul)
+66.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-66) [Anduin Wrynn (tactics)#Overview](https://wowpedia.fandom.com/wiki/Anduin_Wrynn_(tactics)#Overview "Anduin Wrynn (tactics)"): _Throughout the encounter, Anduin temporarily manifests the source of his domination. This manifestation is linked to him by **Domination's Grasp**._
+67.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-67)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Seeking Haven](https://wowpedia.fandom.com/wiki/Seeking_Haven)
+68.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-68) [Anduin Raid Finale](https://wowpedia.fandom.com/wiki/Anduin_Wrynn_(tactics)#Cinematic "Anduin Wrynn (tactics)")
+69.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-69) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_
+70.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-70)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [The Eve of Battle](https://wowpedia.fandom.com/wiki/The_Eve_of_Battle)
+71.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-71)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Jailer's Grasp](https://wowpedia.fandom.com/wiki/The_Jailer%27s_Grasp)
+72.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-72) [Taelia, Jaina, and Calia dialogue in Oribos](https://wowpedia.fandom.com/wiki/Taelia_Fordragon#Shadowlands_2 "Taelia Fordragon")
+73.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-73)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Step Into the Light](https://wowpedia.fandom.com/wiki/Step_Into_the_Light)
+74.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-74)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [I Intend to Live Forever](https://wowpedia.fandom.com/wiki/I_Intend_to_Live_Forever)
+75.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-75)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [New Sigil of the Kyrian](https://wowpedia.fandom.com/wiki/New_Sigil_of_the_Kyrian)
+76.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-76) [Uther and Jaina dialogue in Keeper's Respite](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer#Shadowlands_2 "Uther the Lightbringer")
+77.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-77)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Hello, Darkness](https://wowpedia.fandom.com/wiki/Hello,_Darkness)
+78.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-78) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 84
+79.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-79) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King"),_ pg. 21, 35, 133-134
+80.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-80) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 93
+81.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-81) [Reign of Chaos](https://wowpedia.fandom.com/wiki/Reign_of_Chaos "Reign of Chaos"): [Trudging through the Ashes](https://wowpedia.fandom.com/wiki/Trudging_through_the_Ashes "Trudging through the Ashes")
+82.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-82) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King"),_ pg. 158 - 162
+83.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-83) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King"),_ pg. 161
+84.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-84) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 1
+85.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-85) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 18
+86.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-86) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 97
+87.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-87) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 11
+88.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-88) [The Frozen Throne](https://wowpedia.fandom.com/wiki/The_Frozen_Throne "The Frozen Throne"): Sylvanas' Farewell
+89.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-89) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 204
+90.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-90) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 223, 236
+91.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-91) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 237
+92.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-92) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 270
+93.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-93) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 269
+94.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-94) [Wrath of the Lich King](https://wowpedia.fandom.com/wiki/Wrath_of_the_Lich_King "Wrath of the Lich King"): Opening Cinematic
+95.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-95)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [The Battle For Crusaders' Pinnacle](https://wowpedia.fandom.com/wiki/The_Battle_For_Crusaders%27_Pinnacle)
+96.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-96) [Golden, Christie](https://wowpedia.fandom.com/wiki/Christie_Golden "Christie Golden"). "Ten", _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_, 219 (ebook). [ISBN 978-1439-19663-2](https://wowpedia.fandom.com/wiki/Special:BookSources/9781439196632). 
+97.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-97) [Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")
+98.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-98) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 75
+99.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-99) [The Four Lich Kings Bohemian Rhapsody Performance Mode!](http://www.youtube.com/watch?v=Hu4rpMEfvqw)
+100.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-100) [Heroes of the Storm Official Game Site](http://www.heroesofthestorm.com/en-gb/)
+101.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-101) [Hearthside Chat with Dave Kosak: Knights of the Frozen Throne Missions](https://www.youtube.com/watch?v=9tz9edwttng) (2017-07-27). Retrieved on 2017-07-28.
+102.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-102) [Hearthstone: The Lich King Interviews for a Job at Blizzard](https://www.youtube.com/watch?v=4lVio-6Wv54)
+103.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-103) [Hearthstone: The Lich King at Blizzard, Part 1](https://www.youtube.com/watch?v=gMCYvlrUcSw)
+104.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-104) [Hearthstone: The Lich King at Blizzard, Part 2](https://www.youtube.com/watch?v=BnyujgRa7R8)
+105.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-105) [Hearthstone: The Lich King Responds to Comments](https://www.youtube.com/watch?v=S5VWb4i_BwM)
+106.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-106) [Hearthstone: Join Forces Against the Lich King!](https://www.youtube.com/watch?v=_wk7sr0zwVU)
+107.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-107)  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [The Hunter and the Prince](https://wowpedia.fandom.com/wiki/The_Hunter_and_the_Prince)
+108.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-108) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 21
+109.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-109) [Spell](http://www.wowhead.com/spell=186166/item-mage-t18-arcane-2p-bonus)
+110.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-110) [Video Games (Selected): World of Warcraft](http://www.patrickseitz.com/resume.pdf)
+111.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-DIH1_111-0) [Warcraft III - Design Insights Highlights 01: Human Campaign](https://www.youtube.com/watch?v=DRrFQS9hIZg)
+112.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-112) _[World of Warcraft Official Strategy Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Official_Strategy_Guide "World of Warcraft Official Strategy Guide")_
+113.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-113) [BlizzCon Day 2 WoW Lore and Quests panel liveblog](http://www.wowinsider.com/2007/08/04/blizzcon-day-2-wow-lore-and-quests-panel-liveblog/)
+114.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-114) [Shadow's Edge#Whispers](https://wowpedia.fandom.com/wiki/Shadow%27s_Edge#Whispers "Shadow's Edge")
+115.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-115) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 203 - "_stradding the worlds of life and death_"
+116.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-116) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 191 - "_alive after a fashion_"
+117.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-117) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 301
+118.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-118) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 193
+119.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-119) [Chronicle Volume 3](https://wowpedia.fandom.com/wiki/Chronicle_Volume_3 "Chronicle Volume 3"), pg. 53
+120.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-120) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 6
+121.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-121)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Digging Through Bones](https://wowpedia.fandom.com/wiki/Digging_Through_Bones)
+122.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-122) _[Legends](https://wowpedia.fandom.com/wiki/Legends "Legends")_: _[Nightmares](https://wowpedia.fandom.com/wiki/Nightmares "Nightmares")_
+123.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-123) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_
+124.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-124) _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_
+125.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-125) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 9, pg. 74
+126.  [^](https://wowpedia.fandom.com/wiki/Arthas_Menethil#cite_ref-Statue_126-0) [A King is Born in Taiwan – Unveiling the Arthas Statue](http://us.battle.net/heroes/en/blog/20191556/a-king-is-born-in-taiwan-unveiling-the-arthas-statue-7-25-2016)
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Arthas#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Arthas#t1:npcs)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Scourge "Template:Scourge")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Scourge?action=edit)
+
+[Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+    -   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+    -   **Arthas Menethil**
+    -   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Amnennar the Coldbringer](https://wowpedia.fandom.com/wiki/Amnennar_the_Coldbringer "Amnennar the Coldbringer")
+-   [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak")
+-   [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare")
+-   [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel")
+-   [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric")
+-   [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")
+-   [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron")
+-   [Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper")
+-   [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn")
+-   [Professor Putricide](https://wowpedia.fandom.com/wiki/Professor_Putricide "Professor Putricide")
+-   [Shade of Arugal](https://wowpedia.fandom.com/wiki/Shade_of_Arugal "Shade of Arugal")
+-   [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa")
+
+
+
+ |
+|  |
+| Undead types | 
+
+<table><tbody><tr><th scope="row">Corporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Abomination" title="Abomination">Abomination</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mutated_abomination" title="Mutated abomination">Mutated abomination</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_giant" title="Flesh giant">Flesh giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_titan" title="Flesh titan">Flesh titan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague-dog" title="Plague-dog">Plague-dog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wight" title="Wight">Wight</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Crypt_fiend" title="Crypt fiend">Crypt fiend</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crypt_lord" title="Crypt lord">Crypt lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Gargoyle" title="Gargoyle">Gargoyle</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dire_gargoyle" title="Dire gargoyle">Dire</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Geist" title="Geist">Geist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghoul" title="Ghoul">Ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragon" title="Plagued dragon">Plagued dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague_eruptor" title="Plague eruptor">Plague eruptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Zombie" title="Zombie">Zombie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Undead_(playable)" title="Undead (playable)">Forsaken</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mummy" title="Mummy">Mummy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Darkfallen" title="Darkfallen">Darkfallen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scourge_troll" title="Scourge troll">Scourge troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vargul" title="Vargul">Vargul</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Incorporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Banshee" title="Banshee">Banshee</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghost" title="Ghost">Ghost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shade" title="Shade">Shade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val%27kyr" title="Val'kyr">Val'kyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wraith" title="Wraith">Wraith</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Skeletal_creature" title="Skeletal creature">Skeletal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_golem" title="Bone golem">Bone golem</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bone_wraith" title="Bone wraith">Bone wraith</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lich" title="Lich">Lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeleton" title="Skeleton">Skeleton</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_mage" title="Skeletal mage">Mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_warrior" title="Skeletal warrior">Warrior</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Skeletal dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Living followers | 
+
+-   [Ice troll](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll")
+-   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frost_vrykul "Frost vrykul")
+-   [Wendigo](https://wowpedia.fandom.com/wiki/Wendigo "Wendigo")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+-   [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel")
+-   [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas")
+-   [Shadowfang Tower](https://wowpedia.fandom.com/wiki/Shadowfang_Tower "Shadowfang Tower")
+-   [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")
+-   [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep "Utgarde Keep")
+-   [Voltarus](https://wowpedia.fandom.com/wiki/Voltarus "Voltarus")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+-   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+-   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")
+-   [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Black Guard](https://wowpedia.fandom.com/wiki/Black_Guard "Black Guard")
+-   [Boneguard](https://wowpedia.fandom.com/wiki/Boneguard_(Scourge) "Boneguard (Scourge)")
+-   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+    -   [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")
+    -   [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin")
+-   [Death's Head tribe](https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe "Death's Head tribe")
+-   [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") orders
+    -   [Four Horsemen](https://wowpedia.fandom.com/wiki/Four_Horsemen "Four Horsemen")
+    -   [Host of Suffering](https://wowpedia.fandom.com/wiki/Host_of_Suffering "Host of Suffering")
+-   [Drakuru trolls](https://wowpedia.fandom.com/wiki/Drakuru_trolls "Drakuru trolls")
+-   [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood")
+-   [Mad scientists](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist")
+-   [Nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian")
+    -   [Ahn'kahar](https://wowpedia.fandom.com/wiki/Ahn%27kahar "Ahn'kahar")
+    -   [Anub'ar](https://wowpedia.fandom.com/wiki/Anub%27ar "Anub'ar")
+    -   [Hath'ar](https://wowpedia.fandom.com/wiki/Hath%27ar "Hath'ar")
+    -   [Nerub'ar](https://wowpedia.fandom.com/wiki/Nerub%27ar "Nerub'ar")
+    -   [Nerubis](https://wowpedia.fandom.com/wiki/Nerubis "Nerubis")
+-   [Rot Hide tribe](https://wowpedia.fandom.com/wiki/Rot_Hide_tribe "Rot Hide tribe")
+-   [The San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn")
+    -   [Blood Prince Council](https://wowpedia.fandom.com/wiki/Blood_Prince_Council "Blood Prince Council")
+-   [Splinterbone](https://wowpedia.fandom.com/wiki/Splinterbone_skeletons "Splinterbone skeletons")
+-   [Vrykul clans](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Dragonflayer clan](https://wowpedia.fandom.com/wiki/Dragonflayer_clan "Dragonflayer clan")
+    -   [Mjordin](https://wowpedia.fandom.com/wiki/Mjordin "Mjordin")
+    -   [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim_vrykul "Jotunheim vrykul")
+    -   [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan")
+    -   [Valkyrion Hyldnir](https://wowpedia.fandom.com/wiki/Valkyrion "Valkyrion")
+    -   [Ymirjar](https://wowpedia.fandom.com/wiki/Ymirjar "Ymirjar")
+-   [Wolfcult](https://wowpedia.fandom.com/wiki/Wolfcult "Wolfcult")
+
+
+
+ |
+|  |
+| Defectors | 
+
+-   [Death Knights of Acherus](https://wowpedia.fandom.com/wiki/Death_Knights_of_Acherus "Death Knights of Acherus")
+    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade")
+    -   [Dark Riders of Acherus](https://wowpedia.fandom.com/wiki/Dark_Riders_of_Acherus "Dark Riders of Acherus")
+-   [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+
+
+
+ |
+|  |
+| Buildings & constructs | 
+
+-   [Ziggurat](https://wowpedia.fandom.com/wiki/Ziggurat "Ziggurat")
+-   [Necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis")
+-   [Plague spreader](https://wowpedia.fandom.com/wiki/Plague_spreader "Plague spreader")
+-   [Soul grinder](https://wowpedia.fandom.com/wiki/Soul_grinder "Soul grinder")
+
+
+
+ |
+|  |
+| 
+
+-   [Civil War in the Plaguelands](https://wowpedia.fandom.com/wiki/Civil_War_in_the_Plaguelands "Civil War in the Plaguelands")
+-   [Undead category](https://wowpedia.fandom.com/wiki/Category:Undead "Category:Undead")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Elite_Tauren_Chieftain "Template:Elite Tauren Chieftain")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Elite_Tauren_Chieftain?action=edit)
+
+[Elite Tauren Chieftain](https://wowpedia.fandom.com/wiki/Elite_Tauren_Chieftain "Elite Tauren Chieftain")
+
+
+
+ |
+| --- |
+|  |
+| Band members | 
+
+-   [Bergrisst](https://wowpedia.fandom.com/wiki/Bergrisst "Bergrisst")
+-   [Mai'Kyl](https://wowpedia.fandom.com/wiki/Mai%27Kyl "Mai'Kyl")
+-   [Sig Nicious](https://wowpedia.fandom.com/wiki/Sig_Nicious "Sig Nicious")
+-   [Samuro](https://wowpedia.fandom.com/wiki/Samuro_(singer) "Samuro (singer)")
+-   [Chief Thunder-Skins](https://wowpedia.fandom.com/wiki/Chief_Thunder-Skins "Chief Thunder-Skins")
+-   **Arthas Menethil**
+
+
+
+ | 
+
+[![The band's former logo.](https://static.wikia.nocookie.net/wowpedia/images/2/2f/TAFKAL80ETC_Symbol.png/revision/latest/scale-to-width-down/100?cb=20091025225357)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/TAFKAL80ETC_Symbol.png/revision/latest?cb=20091025225357 "The band's former logo.")
+
+ |
+|  |
+| Actual band | 
+
+-   [Dave Berggren](https://wowpedia.fandom.com/wiki/Dave_Berggren "Dave Berggren")
+-   [Michael Morhaime](https://wowpedia.fandom.com/wiki/Michael_Morhaime "Michael Morhaime")
+-   [Chris Sigaty](https://wowpedia.fandom.com/wiki/Chris_Sigaty "Chris Sigaty")
+-   [Samwise Didier](https://wowpedia.fandom.com/wiki/Samwise_Didier "Samwise Didier")
+-   [Alan Dabiri](https://wowpedia.fandom.com/wiki/Alan_Dabiri "Alan Dabiri")
+
+
+
+ |
+|  |
+| Crew | 
+
+-   [Roitau](https://wowpedia.fandom.com/wiki/Roitau "Roitau")
+-   [Michael Schweitzer](https://wowpedia.fandom.com/wiki/Michael_Schweitzer "Michael Schweitzer")
+
+
+
+ |
+|  |
+| Songs | 
+
+-   "[Power of the Horde](https://wowpedia.fandom.com/wiki/Power_of_the_Horde "Power of the Horde")"
+-   "[I Am Murloc](https://wowpedia.fandom.com/wiki/I_Am_Murloc "I Am Murloc")"
+-   "[Rogues Do it from Behind](https://wowpedia.fandom.com/wiki/Rogues_Do_it_from_Behind "Rogues Do it from Behind")"
+-   "[Terran Up the Night](https://wowpedia.fandom.com/wiki/Terran_Up_the_Night "Terran Up the Night")"
+-   "[Raise Some Hell](https://wowpedia.fandom.com/wiki/Raise_Some_Hell "Raise Some Hell")"
+-   "[Nightfall](https://wowpedia.fandom.com/wiki/Nightfall_(song) "Nightfall (song)")"
+-   "[Warriors of Azeroth](https://wowpedia.fandom.com/wiki/Warriors_of_Azeroth "Warriors of Azeroth")"
+-   "[Zergling Rush](https://wowpedia.fandom.com/wiki/Zergling_Rush_(song) "Zergling Rush (song)")"
+
+
+
+ |
+|  |
+| Venues | 
+
+-   [Darkmoon Island](https://wowpedia.fandom.com/wiki/Darkmoon_Island "Darkmoon Island")
+-   [Grim Guzzler](https://wowpedia.fandom.com/wiki/Grim_Guzzler "Grim Guzzler")
+-   [World's End Tavern](https://wowpedia.fandom.com/wiki/World%27s_End_Tavern "World's End Tavern")
+
+
+
+ |

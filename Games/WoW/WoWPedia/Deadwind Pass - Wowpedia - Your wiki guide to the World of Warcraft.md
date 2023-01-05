@@ -1,0 +1,332 @@
+_For the lore of the zone and its status before the Cataclysm, see [Deadwind Pass (Classic)](https://wowpedia.fandom.com/wiki/Deadwind_Pass_(Classic) "Deadwind Pass (Classic)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Deadwind Pass |
+| --- |
+| Level: 10-30  
+Battle Pet Level: 17 - 18 |
+| [![Deadwind pass Harbingers.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/82/Deadwind_pass_Harbingers.jpg/revision/latest/scale-to-width-down/260?cb=20160712113913)](https://static.wikia.nocookie.net/wowpedia/images/8/82/Deadwind_pass_Harbingers.jpg/revision/latest?cb=20160712113913) |
+| Capital(s) | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan") |
+| Races | [![Undead](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Undead "Undead")[![Undead](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Undead "Undead") [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")  
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![Demon](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Doomguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110656)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_Felguard.gif/revision/latest/scale-to-width-down/16?cb=20211126111204)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/9/9e/IconSmall_Wrathguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110002)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Imp.gif/revision/latest/scale-to-width-down/16?cb=20211118210606)](https://wowpedia.fandom.com/wiki/Demon "Demon") [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon")  
+[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)](https://wowpedia.fandom.com/wiki/Ogre "Ogre")[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Ogre_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118150603)](https://wowpedia.fandom.com/wiki/Ogre "Ogre") [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") |
+| Ruler(s) | None |
+| Former ruler(s) | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c9/IconSmall_Medivh.gif/revision/latest/scale-to-width-down/16?cb=20211213121317)[Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") <sup>&nbsp;†</sup>  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/3/34/IconSmall_Aegwynn.gif/revision/latest/scale-to-width-down/16?cb=20181211115038)[Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") <sup>&nbsp;†</sup> |
+| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Karazhan Catacombs](https://wowpedia.fandom.com/wiki/Karazhan_Catacombs "Karazhan Catacombs")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Master's Cellar](https://wowpedia.fandom.com/wiki/Master%27s_Cellar "Master's Cellar")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Grosh'gok Compound](https://wowpedia.fandom.com/wiki/Grosh%27gok_Compound "Grosh'gok Compound") |
+| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Alturus' Sanctum](https://wowpedia.fandom.com/wiki/Alturus%27_Sanctum "Alturus' Sanctum")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Morgan's Plot](https://wowpedia.fandom.com/wiki/Morgan%27s_Plot "Morgan's Plot")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Ariden's Camp](https://wowpedia.fandom.com/wiki/Ariden%27s_Camp "Ariden's Camp") (abandoned)  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Abandoned Kirin Tor Camp](https://wowpedia.fandom.com/wiki/Abandoned_Kirin_Tor_Camp "Abandoned Kirin Tor Camp") |
+| Affiliation | [Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders"), [Deadwind ogres](https://wowpedia.fandom.com/wiki/Deadwind_ogres "Deadwind ogres"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") (claimed) |
+| Location | Central [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") |
+| PvP status | [Contested territory](https://wowpedia.fandom.com/wiki/Contested_territory "Contested territory") |
+
+**Deadwind Pass** is a contested [region](https://wowpedia.fandom.com/wiki/Zone "Zone") located in central [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)"), joining the southeastern reaches of the [kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") (via [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")) from the east to the [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows") (and, eventually, the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") in the [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands")) from the west. It was, a score of years ago, considered a part of the [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains").<sup id="cite_ref-LG_43_1-0"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-LG_43-1">[1]</a></sup>
+
+The Ivory Tower of [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"), once the dark wizard [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")’s seat of power, stands in the center of this jagged region and leaks evil magic into the land. The trees are petrified and leafless, and a terrible wind keens through the canyon. Ogres, demons, undead and a few human gypsies roam the interior. Deadwind Pass connects Duskwood and the Swamp of Sorrows, and travelers are advised to move quickly — whispers tell that a new force has claimed the Ivory Tower, and that the ogres and demons are under its sway.<sup id="cite_ref-World_of_Warcraft_The_Roleplaying_Game_16_2-0"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-World_of_Warcraft_The_Roleplaying_Game_16-2">[2]</a></sup>
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/08/WoWAzeroth.jpg/revision/latest/scale-to-width-down/180?cb=20080823082154)](https://static.wikia.nocookie.net/wowpedia/images/0/08/WoWAzeroth.jpg/revision/latest?cb=20080823082154)
+
+Deadwind Pass on the map of the _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ _[Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Deadwind_pass.jpg/revision/latest/scale-to-width-down/180?cb=20050925110342)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Deadwind_pass.jpg/revision/latest?cb=20050925110342)
+
+The landscape of Deadwind Pass.
+
+Deadwind Pass is another region of the continent of Azeroth dominated by evil magic. It sits in the very middle of Azeroth and connects [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood") and the [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows"). The Ivory Spire of Karazhan, once the seat of Medivh, still stands. It leaks corrupting magic, destroying the region's flora. The crater where Karazhan is built was formed by a magical arcane explosion long ago, and Medivh's personal theory is that the explosion happened specifically because he would one day come to live there.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-3">[3]</a></sup> A foul wind constantly blows across the decimated canyon, giving it the name Deadwind. Although Deadwind does have a handful of inhabitants, few run across them. [Sataiel](https://wowpedia.fandom.com/wiki/Sataiel "Sataiel"), Azeroth's first [necrolyte](https://wowpedia.fandom.com/wiki/Necrolyte "Necrolyte"), was given  ![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Inv_staff_2h_artifactdeadwind_d_01.png/revision/latest/scale-to-width-down/16?cb=20180824090702)[\[Ulthalesh, the Deadwind Harvester\]](https://wowpedia.fandom.com/wiki/Ulthalesh,_the_Deadwind_Harvester) by [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") himself. Sataiel methodically drained all life from the hapless inhabitants of Deadwind Pass, creating a potent magical nexus there in the process and causing the explosion that formed the crater. Hunting down Sataiel, the [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal") [Scavell](https://wowpedia.fandom.com/wiki/Scavell "Scavell") turned the scythe on her, sending her soul to join those of her victims.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-4">[4]</a></sup>
+
+The fates of many people in Azeroth and the surrounding continents were forged here. Medivh made his home here and planned the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal")'s creation and opening. His evil is felt in this region more strongly than anywhere else, the land corrupted with the foul taint of his magic. Currently, the pass has little significance. People move through quickly, wishing to avoid ogres, undead and demons. It is rumored that the attacking monsters do not kill those they capture, but take them back to the tower.<sup id="cite_ref-Lands_of_Conflict_43,_44_5-0"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-Lands_of_Conflict_43,_44-5">[5]</a></sup>
+
+In pursuit of his studies, [Arrexis](https://wowpedia.fandom.com/wiki/Arrexis "Arrexis") gathered his apprentice magi and from [his camp](https://wowpedia.fandom.com/wiki/Abandoned_Kirin_Tor_Camp "Abandoned Kirin Tor Camp") performed research on [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan") and the way it bends reality in the area. He found a way to stop the warping from happening within special wards, but while bringing the wards up reality was weakened. [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), who was possessed by [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") came to the camp and encouraged Arrexis to try his ritual on demonic realms. Arrexis caught the attention of the [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar") [Balaadur](https://wowpedia.fandom.com/wiki/Balaadur "Balaadur").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-6">[6]</a></sup> The catastrophe ended with Arrexis and all of his apprentices dead, Balaadur taking Ebonchill, [Daio](https://wowpedia.fandom.com/wiki/Daio_the_Decrepit "Daio the Decrepit") exiled from the Kirin Tor for his part in it, and all records of Arrexis destroyed and stripped from Kirin Tor records so that no one would repeat his mistakes.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-7">[7]</a></sup>
+
+Medivh was sought out and killed during the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), and the tower has since been apparently abandoned, though unknown dangers yet lurk within.
+
+### Third invasion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Around the time of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), Deadwind Pass appears mostly devoid of life. Many spectres, ghosts, wildlife and even the [nearby ogre clan](https://wowpedia.fandom.com/wiki/Deadwind_ogres "Deadwind ogres")<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<span title="What says that the ogres are no longer there?"><i>citation needed</i></span>]</a></sup>  have been cleared away by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") from years past. The Violet Eye mages also seem to be gone. Right after the [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore"), [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") was hovering over Deadwind Pass and more particularly [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-8">[8]</a></sup> The entire city had been moved by a giant [Blink](https://wowpedia.fandom.com/wiki/Blink "Blink") spell, but not before Khadgar activated the defense mechanisms of Karazhan to repel the invading demons. However, the Legion was successful in taking control of the tower's exterior and town ruins around it, and the Violet Eye has returned to counter the demonic threat under the orders of Khadgar. The Legion intends to use the tower as a tether to other Legion worlds in order to open a second front in the Eastern Kingdoms, as Karazhan is built upon a ley line nexus.
+
+## Geography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Deadman%27s_Crossing.jpg/revision/latest/scale-to-width-down/180?cb=20200715234330)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Deadman%27s_Crossing.jpg/revision/latest?cb=20200715234330)
+
+Deadman's Crossing.
+
+This land is dead. The remaining trees are leafless and petrified, leeched of life by the tower's foul magic. The wind smells foul and dead, and the lightning storms are of concern to travelers carrying metal weapons. Undead and demons move over the land, refusing to allow it any chance of healing itself. In clear view of the road, scarecrow-like totems hang from the trees, a warning to remain on the path. The weather is in one of two states: threatening to storm or stormy. The main pass is through the middle of the region, and one must travel to the south to reach the cursed Ivory Tower of Karazhan. Few people wish to travel there, and few ever return. The few who have returned never reached the tower; attacking ogres forced them back before they came within sight of it. Besides the ogres, travelers must watch for harpies in the canyons.
+
+Although Deadwind does have a handful of inhabitants, few are likely to run across them if they are just passing through. The Deadwind ogres comprise most of the population. The ogres are dedicated to cleansing the region of all interlopers, led by a "master". These ogres dress in foul rags and carry crude, rough weapons. They are the biggest, most obvious threat to travelers and why most caravans and groups go heavily guarded.
+
+The humans of the region are travelers, carrying their homes on their backs and trying to stay one step ahead of the ogres, demons and undead that haunt them. They do not recognize the Alliance or even ask its aid. They simply move from place to place, fighting for their lives, stolidly proclaiming Deadwind Pass as their home.<sup id="cite_ref-Lands_of_Conflict_44_9-0"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-Lands_of_Conflict_44-9">[9]</a></sup>
+
+This region is barren and devoid of any useful resources - herbs do not grow here, and there are no precious metals to be found. The only wildlife to speak of are carrion birds.
+
+The raid dungeon [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan") can be found in this zone. Other than that, there are no dungeons of any kind and no battlegrounds here. In addition, there are no travel hubs - players will have to rely on the nearby towns of [Darkshire](https://wowpedia.fandom.com/wiki/Darkshire "Darkshire") (Alliance) and [Stonard](https://wowpedia.fandom.com/wiki/Stonard "Stonard") (Horde) to access this zone.
+
+In the northern part of the region is an abandoned camp that is labeled "[Ariden's Camp](https://wowpedia.fandom.com/wiki/Ariden%27s_Camp "Ariden's Camp")".
+
+If merely passing through, the only mobs travelers usually come across are [vultures](https://wowpedia.fandom.com/wiki/Vulture "Vulture") and [wisp](https://wowpedia.fandom.com/wiki/Wisp "Wisp")\-like sprites, all of which are aggressive and will attack on sight. As one goes further south, though, one will come across a tribe of [Deadwind Ogres](https://wowpedia.fandom.com/wiki/Deadwind_Ogre "Deadwind Ogre") living around the bend in the road leading to [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"). They live both along the roadside and within the nearby caves. In addition to the ogres and vultures, many [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") aggressive [spirits](https://wowpedia.fandom.com/wiki/Spirit "Spirit") haunt the remains of the town at the base of Karazhan, far south down the road, whose villagers were slaughtered by Sataiel long ago. Their presence also extends deep underground. There are open cellar entrances in two of the ruined houses which will lead to catacombs and caverns filled with these ghosts.
+
+Of course, there is the tower of Karazhan itself, which dominates the southern area of the pass. Karazhan is a level 70 10-man instance in _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.
+
+Deadwind Pass is also known to be the origin point of a mysterious regime known as the [Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders"), who have been sighted in [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood") when they slaughtered a family of farmers in search of the [Scythe of Elune](https://wowpedia.fandom.com/wiki/Scythe_of_Elune "Scythe of Elune").
+
+The Redridge Range stretches from the region of the [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains") to Deadwind Pass.
+
+### Maps and subregions
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/af/WorldMap-DeadwindPass.jpg/revision/latest/scale-to-width-down/300?cb=20100919013649)](https://static.wikia.nocookie.net/wowpedia/images/a/af/WorldMap-DeadwindPass.jpg/revision/latest?cb=20100919013649)
+
+Map of Deadwind Pass.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/85/WorldMap-DeadwindPass-old.jpg/revision/latest/scale-to-width-down/300?cb=20071104181022)](https://static.wikia.nocookie.net/wowpedia/images/8/85/WorldMap-DeadwindPass-old.jpg/revision/latest?cb=20071104181022)
+
+Map of Deadwind Pass prior to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.
+
+<table><tbody><tr><td><ul><li><a href="https://wowpedia.fandom.com/wiki/Abandoned_Kirin_Tor_Camp" title="Abandoned Kirin Tor Camp">Abandoned Kirin Tor Camp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Alturus%27_Sanctum" title="Alturus' Sanctum">Alturus' Sanctum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ariden%27s_Camp" title="Ariden's Camp">Ariden's Camp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forgotten_Crypt" title="Forgotten Crypt">Forgotten Crypt</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Pauper%27s_Walk" title="Pauper's Walk">Pauper's Walk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Slough_of_Dispair" title="Slough of Dispair">The Slough of Dispair</a></li><li><a href="https://wowpedia.fandom.com/wiki/Upside-down_Sinners" title="Upside-down Sinners">The Upside-down Sinners</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pit_of_Criminals" title="Pit of Criminals">The Pit of Criminals</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tome_of_the_Unrepentant" title="Tome of the Unrepentant">Tome of the Unrepentant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Well_of_the_Forgotten" title="Well of the Forgotten">Well of the Forgotten</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Deadman%27s_Crossing" title="Deadman's Crossing">Deadman's Crossing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deadwind_Ravine" title="Deadwind Ravine">Deadwind Ravine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Karazhan" title="Karazhan">Karazhan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Karazhan_Catacombs" title="Karazhan Catacombs">Karazhan Catacombs</a></li><li><a href="https://wowpedia.fandom.com/wiki/Master%27s_Cellar" title="Master's Cellar">The Master's Cellar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Morgan%27s_Plot" title="Morgan's Plot">Morgan's Plot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sleeping_Gorge" title="Sleeping Gorge">Sleeping Gorge</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vice" title="Vice">The Vice</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Grosh%27gok_Compound" title="Grosh'gok Compound">Grosh'gok Compound</a></li></ul></li></ul></td></tr><tr><td><hr><dl><dt><a href="https://wowpedia.fandom.com/wiki/Removed_location" title="Removed location">Removed locations</a></dt></dl><ul><li><a href="https://wowpedia.fandom.com/wiki/Diamondhead_River" title="Diamondhead River">Diamondhead River</a></li></ul></td></tr></tbody></table>
+
+[Topographic map of Deadwind Pass](http://wow.gamepressure.com/map.asp?ID=17)
+
+### Instances
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/25/Karazhan.jpg/revision/latest/scale-to-width-down/180?cb=20080527143311)](https://static.wikia.nocookie.net/wowpedia/images/2/25/Karazhan.jpg/revision/latest?cb=20080527143311)
+
+Karazhan
+
+| Dungeon Name | Level Range | Group Size | Approximate Run Time |
+| --- | --- | --- | --- |
+| [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")[![Instance portal](https://static.wikia.nocookie.net/wowpedia/images/4/45/Instance_portal_green.png/revision/latest?cb=20080612053957)](https://wowpedia.fandom.com/wiki/Instance_portal "Instance portal") [Karazhan (raid)](https://wowpedia.fandom.com/wiki/Karazhan_(raid) "Karazhan (raid)") | 70+ | 10-man | Two days (3–4 hours a day) |
+| [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion")[![Instance portal](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Instance_portal_purple.png/revision/latest?cb=20080612054055)](https://wowpedia.fandom.com/wiki/Instance_portal "Instance portal") [Return to Karazhan](https://wowpedia.fandom.com/wiki/Return_to_Karazhan "Return to Karazhan") | 110 | 5-man | Unknown |
+
+### Adjacent regions
+
+| Zone Name | Faction | Level Range | Direction | Access |
+| --- | --- | --- | --- | --- |
+| [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") | 20 - 60 | West | By foot only |
+| [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 40 - 60 | East | By foot only |
+
+## Getting there
+
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")Alliance
+
+From [Darkshire](https://wowpedia.fandom.com/wiki/Darkshire "Darkshire") in [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood"), simply follow the road east into Deadwind Pass.
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")Horde
+
+It is a little more difficult for Horde to reach the pass. Head north through [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood") from [Stranglethorn Vale](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale "Stranglethorn Vale"), skirting alliance camps and the town of [Darkshire](https://wowpedia.fandom.com/wiki/Darkshire "Darkshire"). The road east from Darkshire leads into Deadwind Pass. For those who have already been to [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows"), the road west from [Stonard](https://wowpedia.fandom.com/wiki/Stonard "Stonard") also runs into the Pass.
+
+## Notable characters
+
+_Main article: [Deadwind Pass NPCs](https://wowpedia.fandom.com/wiki/Deadwind_Pass_NPCs "Deadwind Pass NPCs")_
+
+[Archmage Alturus](https://wowpedia.fandom.com/wiki/Archmage_Alturus "Archmage Alturus"), [Archmage Leryda](https://wowpedia.fandom.com/wiki/Archmage_Leryda "Archmage Leryda"), and [Apprentice Darius](https://wowpedia.fandom.com/wiki/Apprentice_Darius "Apprentice Darius") are the only friendly characters that have dared to brave the pass. They have come on behalf of Dalaran to investigate the disturbances coming from Karazhan and are enlisting adventurers to delve deep into the tower's mysteries.
+
+## Wild creatures
+
+-   [Ghosts](https://wowpedia.fandom.com/wiki/Ghost "Ghost")
+-   [Ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Shades](https://wowpedia.fandom.com/wiki/Shade "Shade")
+-   [Spiders](https://wowpedia.fandom.com/wiki/Spider "Spider")
+-   [Vultures](https://wowpedia.fandom.com/wiki/Vulture "Vulture")
+-   [Wisps](https://wowpedia.fandom.com/wiki/Wisp "Wisp")
+-   [Wraiths](https://wowpedia.fandom.com/wiki/Wraith "Wraith")
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[Harpies](https://wowpedia.fandom.com/wiki/Harpy "Harpy") live here in the canyons.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Deadwind_Pass#cite_note-10">[10]</a></sup>
+
+## Film universe
+
+Deadwind Pass is depicted as a healthy forested area, but once barrage of [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") energy is unleashed from [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan#Film_universe "Karazhan") the area becomes as desolate as its _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ incarnation.
+
+## Notes and trivia
+
+-   This area might have been the [Borderlands](https://wowpedia.fandom.com/wiki/Borderlands "Borderlands") from the original _[Warcraft](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_.
+-   For a time during the _Cataclysm_ beta, the Eastern Kingdoms world map did not show a border between Duskwood and Deadwind Pass. This was later corrected. Despite speculation about changes to the area as a result of the map issue, the area remained largely untouched by the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"). With the new continental maps in _Battle for Azeroth_, the border was missing once again.
+-   In _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, the area Karazhan stood in was described as being shaped like a skull. Despite this, it doesn't resemble a skull in _World of Warcraft_.
+
+## Gallery
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/zone=41)
+-   [WoWDB](https://www.wowdb.com/zones/41)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Deadwind_Pass "Template:Deadwind Pass")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Deadwind_Pass?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of **Deadwind Pass**
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Deadwind Pass is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Deadwind Pass is a contested territory")
+
+ | 
+
+-   [Abandoned Kirin Tor Camp](https://wowpedia.fandom.com/wiki/Abandoned_Kirin_Tor_Camp "Abandoned Kirin Tor Camp")
+-   [Alturus' Sanctum](https://wowpedia.fandom.com/wiki/Alturus%27_Sanctum "Alturus' Sanctum")
+-   [Ariden's Camp](https://wowpedia.fandom.com/wiki/Ariden%27s_Camp "Ariden's Camp")
+-   [Forgotten Crypt](https://wowpedia.fandom.com/wiki/Forgotten_Crypt "Forgotten Crypt")
+    -   [Pauper's Walk](https://wowpedia.fandom.com/wiki/Pauper%27s_Walk "Pauper's Walk")
+    -   [The Slough of Dispair](https://wowpedia.fandom.com/wiki/Slough_of_Dispair "Slough of Dispair")
+    -   [The Upside-down Sinners](https://wowpedia.fandom.com/wiki/Upside-down_Sinners "Upside-down Sinners")
+    -   [The Pit of Criminals](https://wowpedia.fandom.com/wiki/Pit_of_Criminals "Pit of Criminals")
+    -   [Tome of the Unrepentant](https://wowpedia.fandom.com/wiki/Tome_of_the_Unrepentant "Tome of the Unrepentant")
+    -   [Well of the Forgotten](https://wowpedia.fandom.com/wiki/Well_of_the_Forgotten "Well of the Forgotten")
+-   [Deadman's Crossing](https://wowpedia.fandom.com/wiki/Deadman%27s_Crossing "Deadman's Crossing")
+-   [Deadwind Ravine](https://wowpedia.fandom.com/wiki/Deadwind_Ravine "Deadwind Ravine")
+-   [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan")
+-   [Karazhan Catacombs](https://wowpedia.fandom.com/wiki/Karazhan_Catacombs "Karazhan Catacombs")
+-   [The Master's Cellar](https://wowpedia.fandom.com/wiki/Master%27s_Cellar "Master's Cellar")
+-   [Morgan's Plot](https://wowpedia.fandom.com/wiki/Morgan%27s_Plot "Morgan's Plot")
+-   [Sleeping Gorge](https://wowpedia.fandom.com/wiki/Sleeping_Gorge "Sleeping Gorge")
+-   [The Vice](https://wowpedia.fandom.com/wiki/Vice "Vice")
+    -   [Grosh'gok Compound](https://wowpedia.fandom.com/wiki/Grosh%27gok_Compound "Grosh'gok Compound")
+
+
+
+ | 
+
+[![Map of Deadwind Pass - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/a/af/WorldMap-DeadwindPass.jpg/revision/latest/scale-to-width-down/120?cb=20100919013649)](https://static.wikia.nocookie.net/wowpedia/images/a/af/WorldMap-DeadwindPass.jpg/revision/latest?cb=20100919013649 "Map of Deadwind Pass - Cataclysm")  
+[![Map of Deadwind Pass - Classic](https://static.wikia.nocookie.net/wowpedia/images/8/85/WorldMap-DeadwindPass-old.jpg/revision/latest/scale-to-width-down/120?cb=20071104181022)](https://static.wikia.nocookie.net/wowpedia/images/8/85/WorldMap-DeadwindPass-old.jpg/revision/latest?cb=20071104181022 "Map of Deadwind Pass - Classic")
+
+ |
+|  |
+| 
+
+[Deadwind Pass category](https://wowpedia.fandom.com/wiki/Category:Deadwind_Pass "Category:Deadwind Pass")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms "Template:Eastern Kingdoms")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
+
+
+
+ |
+| --- |
+|  |
+| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") | 
+
+-   [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Blasted_Lands_(Classic) "Blasted Lands (Classic)")
+-   [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Burning_Steppes_(Classic) "Burning Steppes (Classic)")
+-   **Deadwind Pass**
+    -   [Classic](https://wowpedia.fandom.com/wiki/Deadwind_Pass_(Classic) "Deadwind Pass (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Duskwood_(Classic) "Duskwood (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Elwynn_Forest_(Classic) "Elwynn Forest (Classic)")
+    -   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Redridge_Mountains_(Classic) "Redridge Mountains (Classic)")
+-   [Stranglethorn Vale](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale "Stranglethorn Vale")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale_(Classic) "Stranglethorn Vale (Classic)")
+    -   [Cape of Stranglethorn](https://wowpedia.fandom.com/wiki/Cape_of_Stranglethorn "Cape of Stranglethorn")
+    -   [Northern Stranglethorn](https://wowpedia.fandom.com/wiki/Northern_Stranglethorn "Northern Stranglethorn")
+-   [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows_(Classic) "Swamp of Sorrows (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Westfall](https://wowpedia.fandom.com/wiki/Westfall "Westfall")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Westfall_(Classic) "Westfall (Classic)")
+
+
+
+ | 
+
+[![Map of the Eastern Kingdoms](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest/scale-to-width-down/120?cb=20220313123633)](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest?cb=20220313123633 "Map of the Eastern Kingdoms")
+
+ |
+|  |
+| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") | 
+
+-   [The Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Badlands_(Classic) "Badlands (Classic)")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Dun_Morogh_(Classic) "Dun Morogh (Classic)")
+    -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Loch_Modan_(Classic) "Loch Modan (Classic)")
+-   [Searing Gorge](https://wowpedia.fandom.com/wiki/Searing_Gorge "Searing Gorge")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Searing_Gorge_(Classic) "Searing Gorge (Classic)")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [The Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Wetlands_(Classic) "Wetlands (Classic)")
+
+
+
+ |
+|  |
+| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") | 
+
+-   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains_(Classic) "Alterac Mountains (Classic)")
+-   [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Arathi_Highlands_(Classic) "Arathi Highlands (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills_(Classic) "Hillsbrad Foothills (Classic)")
+    -   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains")
+-   [The Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hinterlands_(Classic) "Hinterlands (Classic)")
+-   [The Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands")
+    -   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+    -   [Classic Eastern](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands_(Classic) "Eastern Plaguelands (Classic)")
+    -   [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands")
+    -   [Classic Western](https://wowpedia.fandom.com/wiki/Western_Plaguelands_(Classic) "Western Plaguelands (Classic)")
+-   [Ruins of Gilneas](https://wowpedia.fandom.com/wiki/Ruins_of_Gilneas "Ruins of Gilneas")
+    -   [starting zone](https://wowpedia.fandom.com/wiki/Gilneas_(starting_zone) "Gilneas (starting zone)")
+    -   [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+        -   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+    -   [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Silverpine_Forest_(Classic) "Silverpine Forest (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Tirisfal_Glades_(Classic) "Tirisfal Glades (Classic)")
+    -   [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")
+-   [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad")
+    -   [Tol Barad Peninsula](https://wowpedia.fandom.com/wiki/Tol_Barad_Peninsula "Tol Barad Peninsula")
+
+
+
+ |
+|  |
+| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") | 
+
+-   [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths")
+-   [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest")
+-   [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse")
+
+
+
+ |
+|  |
+| 
+
+[Eastern Kingdoms category](https://wowpedia.fandom.com/wiki/Category:Eastern_Kingdoms "Category:Eastern Kingdoms")
+
+
+
+ |

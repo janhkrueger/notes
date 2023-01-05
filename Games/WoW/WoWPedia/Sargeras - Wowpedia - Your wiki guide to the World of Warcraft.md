@@ -1,0 +1,709 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Sargeras |
+| --- |
+| [![Image of Sargeras](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Sargeras_Gamescom_2017.png/revision/latest/scale-to-width-down/200?cb=20200112215343)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Sargeras_Gamescom_2017.png/revision/latest?cb=20200112215343 "Image of Sargeras") |
+| Title | The Dark Titan,  
+The Lord of the Burning Legion ([see more below](https://wowpedia.fandom.com/wiki/Sargeras#Titles_and_epithets "Sargeras")) |
+| Gender | Male |
+| Race(s) | [Titan](https://wowpedia.fandom.com/wiki/Titan "Titan")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-2">[2]</a></sup> |
+| Affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
+| Former affiliation(s) | [Pantheon of Order](https://wowpedia.fandom.com/wiki/Pantheon_of_Order "Pantheon of Order") |
+| Occupation | Supreme commander and creator of the Burning Legion |
+| Former occupation(s) | Champion of the Pantheon |
+| Location | [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon") |
+| Status | Imprisoned |
+| Student(s) | [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"), [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar") |
+| Companion(s) | The [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"),<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-3">[3]</a></sup> [Goremaw the Devourer](https://wowpedia.fandom.com/wiki/Goremaw_the_Devourer "Goremaw the Devourer") (personal hound) |
+
+“The [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") is but a shadow of his terrible darkness. Trust in me when I say that we have hope even if every demon who serves him comes through, but no hope if we destroy all only to have him step into the world.”
+
+— [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus")<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-4">[4]</a></sup>
+
+**Sargeras** (pronounced "SAHR-gair-ahs")<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-5">[5]</a></sup> is a [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") and the creator and leader of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). He was once the champion of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), chosen to defend the worlds the titans had ordered. However, while he once served as a guardian and protector, he later set out to destroy all [world-souls](https://wowpedia.fandom.com/wiki/World-soul "World-soul") and life in the universe, and undo what the titans had strived for ages to achieve.<sup id="cite_ref-WoWM5_6-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-WoWM5-6">[6]</a></sup>
+
+His actions and their effects essentially made him one of the main antagonists — or as [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") called him, "the big, mega bad guy" —<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-7">[7]</a></sup> of the _[Warcraft](https://wowpedia.fandom.com/wiki/Warcraft "Warcraft")_ franchise, and he served as the main antagonist of _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
+
+## Biography
+
+### Champion of the Pantheon
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Pantheon_Chronicle.jpg/revision/latest/scale-to-width-down/180?cb=20170318191805)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Pantheon_Chronicle.jpg/revision/latest?cb=20170318191805)
+
+Sargeras among the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Sargeras_Good.jpg/revision/latest/scale-to-width-down/140?cb=20110816022723)](https://static.wikia.nocookie.net/wowpedia/images/3/30/Sargeras_Good.jpg/revision/latest?cb=20110816022723)
+
+Sargeras as part of the titan Pantheon
+
+Like all [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), Sargeras was born from a [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") maturing within a planet in the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"). He was the mightiest warrior of the titan [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") and originally possessed the title "The Defender" and was the "noblest of all".<sup id="cite_ref-WoWM5_6-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-WoWM5-6">[6]</a></sup> Like the rest of his kind, he was altruistic and just, unable to conceive of pure evil.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-8">[8]</a></sup> When the chaotic [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"), spawn of the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"), began to threaten the Pantheon's work of bringing order to worlds in the [Great Dark](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), Sargeras was sent to [battle](https://wowpedia.fandom.com/wiki/Rise_of_demons "Rise of demons") them. Sargeras continued defeating the disorganized and incompetent demons with ease, but he also soon discovered that some demons had begun wielding the dark energies of the [Void](https://wowpedia.fandom.com/wiki/Void "Void"). The Defender also suspected the existence of malevolent beings far more powerful than mere demons who sought to influence the physical universe hidden behind the veil of the Void. The presence of these beings troubled Sargeras, but he nonetheless continued his work.<sup id="cite_ref-Chronicle22_9-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle22-9">[9]</a></sup>
+
+To his dismay, Sargeras soon discovered that the demons he had defeated simply returned to the Twisting Nether to be reborn in new bodies and continue to torment the worlds of the Great Dark. The Pantheon grew concerned about this development and the increase of demonic activity, and so sent the inexperienced titan [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar") to aid Sargeras in battle. Aggramar proved a quick study and soon earned Sargeras' admiration, and became the warrior's trusted lieutenant. The two fought shoulder to shoulder against the endless demons of the Nether. This allowed Sargeras to more closely study the nature of the Nether, and by learning how to manipulate the chaotic realm's magical energies, he created a prison world known as [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum") to contain the demons he had defeated (though in Mardum, the demons were not idle; a [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") named [Ulthalesh](https://wowpedia.fandom.com/wiki/Ulthalesh "Ulthalesh"), in particular, ruled the pocket dimension with an iron fist, plotting his vengeance<sup id="cite_ref-Research_10-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Research-10">[10]</a></sup>). Demonic invasions became increasingly rare, and together, the two titans soon brought peace to the cosmos.<sup id="cite_ref-Chronicle22_9-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle22-9">[9]</a></sup>
+
+At some point, Sargeras had started using the enslaved demonic [doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard") as hounds to police the use of arcane magics. [Sacrificial magic](https://wowpedia.fandom.com/wiki/Fel "Fel") was considered the greatest violation of life and the doomguard had been attuned to instantly punish those who delved into such sorcery.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-11">[11]</a></sup>
+
+### Betrayal
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Sargeras_cleaving_planet.jpg/revision/latest/scale-to-width-down/140?cb=20160317183346)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Sargeras_cleaving_planet.jpg/revision/latest?cb=20160317183346)
+
+Sargeras destroying the corrupted world-soul
+
+Sargeras and Aggramar eventually agreed to go their own separate ways in order to protect several parts of the universe at the same time, allowing them to more effectively combat the demons. It was during this time that Sargeras learned about the Void Lords and discovered their plans. Coming across a world that had been completely infected by monstrous aberrations known as [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"), the titan ruthlessly interrogated a conclave of nathrezim demons who dwelled on the black world. From them, Sargeras learned that the void lords had sent the Old Gods out into the cosmos to infect any worlds that housed titan [world-souls](https://wowpedia.fandom.com/wiki/World-soul "World-soul"), and if they succeeded, the world-soul would be twisted into an unspeakably dark creature that not even the Pantheon could stand against: a Dark Titan. Enraged at this discovery, Sargeras cleaved the planet in two, instantly killing the nascent titan it housed. He then immediately returned to the rest of the Pantheon to tell of his discovery, but they chastised him for his rash action, insisting that they might have been able to purge the world-soul of its corruption without killing it. Sargeras tried to convince the other titans that what he had done was right, and that the universe needed to be purged of life - which, in his mind, could have been already corrupted by the void lords - in order to prevent the risk of a world-soul becoming corrupted and opening the way for the void lords (in his mind, even a lifeless universe was better than one dominated by the Void, for he argued that if life had once taken root in the Great Dark on its own, perhaps it would do so again). Eventually realizing that the others would never see things the way he did, Sargeras stormed off, and never returned.<sup id="cite_ref-Chronicle22_9-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle22-9">[9]</a></sup><sup id="cite_ref-Chronicle22_9-3"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle22-9">[9]</a></sup>
+
+### Birth of the Legion
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Chronicle_Burning_Legion.jpg/revision/latest/scale-to-width-down/140?cb=20160317181423)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Chronicle_Burning_Legion.jpg/revision/latest?cb=20160317181423)
+
+Sargeras leading the Burning Legion in battle
+
+While the titans continued their work, Sargeras meditated on the fate of the cosmos in isolation. Fear, doubt and despair overwhelmed him, and he eventually came to the conclusion that the only way to spare the fundamentally flawed universe from the void lords was to purge it all of life. Thus began the [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade"). The fallen titan knew that he would need an army to accomplish this, and so he traveled to Mardum, which had become bloated and twisted with [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") energies over the eons. Sargeras instantly shattered the prison world, unleashing its countless demonic inhabitants onto the cosmos and creating an explosion of fel energies so powerful that it warped his form into a horrific being of blistering hatred. In the process of destroying the prison world, the fallen titan had also ripped open a wound in the boundaries between the Nether and the [Great Dark](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), creating a great burning maw of emerald fire that would remain an eternal reminder of the titan's betrayal for all time.<sup id="cite_ref-Chronicle48_12-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle48-12">[12]</a></sup>
+
+Sargeras then imbued the ravenous demon hordes before him with his power, granting them increased size or intelligence, before offering them a simple choice: join his cause or be destroyed.<sup id="cite_ref-Chronicle48_12-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle48-12">[12]</a></sup> While most of the demons accepted, a minority refused, instead rallying around the Dreadlord Ulthalesh. In answer to the challenge, Sargeras forged a great felsteel scythe from the fires of Mardum's destruction, using it to harvest the souls of the rebellious demons and trapping them in a new prison. Ulthalesh, strongest in will, was the last to be devoured. Sargeras named the scythe, later known as [Ulthalesh, the Deadwind Harvester](https://wowpedia.fandom.com/wiki/Ulthalesh,_the_Deadwind_Harvester "Ulthalesh, the Deadwind Harvester"), after the nathrezim who had opposed him, and would over the ages bestow the weapon to nathrezim, [doomlords](https://wowpedia.fandom.com/wiki/Doomlord "Doomlord") and even [demigods](https://wowpedia.fandom.com/wiki/Demigod "Demigod"), only to see their spirits be devoured by the scythe as they fell.<sup id="cite_ref-Research_10-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Research-10">[10]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Lore_in_Short_-_Aggramar_vs_Sargeras.png/revision/latest/scale-to-width-down/180?cb=20210711130839)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Lore_in_Short_-_Aggramar_vs_Sargeras.png/revision/latest?cb=20210711130839)
+
+Sargeras battling Aggramar
+
+With the rebellious demons annihilated, Sargeras had his [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") formed. The army fell upon its first world, extinguishing several mortal civilizations and sentient species. Sargeras himself annihilated the [constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar") who had been assigned to watch over the planet. Aggramar, Sargeras' former student, was the first to learn of the constellar's death and arrived to confront his former master. He demanded an explanation from Sargeras, but when he realized that his words would not sway him, Aggramar challenged the fallen titan to single combat. The battle between the two raged until, in an explosion of fel and [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") power, both of the combatants' blades shattered. Heavily wounded, Aggramar retreated and informed the Pantheon of Sargeras' betrayal.<sup id="cite_ref-Chronicle48_12-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle48-12">[12]</a></sup>
+
+### Nihilam
+
+The Pantheon and the Legion, both girded for war, confronted one another near a planet called [Nihilam](https://wowpedia.fandom.com/wiki/Nihilam "Nihilam"). [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), the Highfather of the Pantheon, pleaded with Sargeras to abandon his mad cause, telling him of a distant world-soul called [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)") who would one day be powerful enough to challenge the void lords. Sargeras listened closely but was unmoved. Despite their earlier battle, Aggramar then made one last attempt to reason with Sargeras. He approached his former tutor, unarmed, trying to persuade him by recounting tales of the glorious battles the two had fought. But Sargeras was set in his ways. With a howl of fury and sorrow, the former champion raised his blade and struck Aggramar down, cleaving him in two. Outraged by this murder, the Pantheon launched an all-out assault on Sargeras, but, unable to stand against the fallen titan's Fel might, soon perished as well. The fallen titan proclaimed his army victorious and set out to continue the Burning Crusade and discover the location of Azeroth for, to him, Azeroth was not the savior of the universe but the opposite, if corrupted. Unbeknownst to Sargeras, however, the titan [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon") had managed to weave a final spell which managed to temporarily save the Pantheon's souls from the destruction of their bodies, sending their spirits hurtling out through the cosmos.<sup id="cite_ref-Chronicle48_12-3"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle48-12">[12]</a></sup>
+
+### The Burning Crusade
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Sargeras_meets_Triumvirate.jpg/revision/latest/scale-to-width-down/180?cb=20170823232441)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Sargeras_meets_Triumvirate.jpg/revision/latest?cb=20170823232441)
+
+Sargeras appearing to the Triumvirate on Argus under the guise of an elegant, radiant being
+
+Though Sargeras had succeeded in destroying the Pantheon, much of the Legion had been needlessly killed in the battle on Nihilam. Most demons, though bloodthirsty, lacked strategic thinking, and the fallen titan could not direct his entire army at once. On the planet [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), Sargeras found the cunning and tactically minded agents he sought — the [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar"), a race of highly intelligent beings with a natural affinity for magic in all its myriad forms. In the form of a radiant and elegant being, Sargeras appeared to the eredar's three greatest leaders, [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"), and [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen"), and made his offer: untold power, prestige and the opportunity to transform primitive worlds into peaceful sanctuaries in exchange for their allegiance. Though Velen had doubts, Kil'jaeden and Archimonde readily agreed. Guided by a vision from the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") and the [ata'mal crystal](https://wowpedia.fandom.com/wiki/Ata%27mal_crystal "Ata'mal crystal") Velen and his followers fled, becoming the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"). The remainder of the eredar people were transformed into hideous demons, Sargeras' fel whisperings surging through the minds of Argus' every inhabitant and drowning out their ability to reason.<sup id="cite_ref-Chronicle48_12-4"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle48-12">[12]</a></sup>
+
+Sargeras tasked Kil'jaeden the Deceiver to seek out the darkest races in the universe and recruit them into the Legion's ranks. Meanwhile, Archimonde the Defiler would lead Sargeras' vast armies into battle against any who might resist the titan's will. Now that his armies were amassed and ready to follow his every command, he launched his raging forces into the vastness of the [Great Dark](https://wowpedia.fandom.com/wiki/Great_Dark "Great Dark"). To this date, it is still unclear how many worlds his Burning Legion has consumed and burned on their unholy [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") across the universe.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-13">[13]</a></sup>
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+At some point after the formation of the Legion, Sargeras entrusted an [aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi") named [Brood Queen Tyranna](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna "Brood Queen Tyranna") with an artifact called the [Sargerite Keystone](https://wowpedia.fandom.com/wiki/Sargerite_Keystone "Sargerite Keystone") and assigned her as ruler of the now-shattered realm of Mardum. Moreover, Sargeras offered the mighty [aldrachi](https://wowpedia.fandom.com/wiki/Aldrachi "Aldrachi") people a place in his Burning Legion. But the aldrachi proved incorruptible: they slew innumerable demons before their race was wiped out. Sargeras, using an Avatar, personally killed their greatest champion and seized his weapons - the [Aldrachi Warblades](https://wowpedia.fandom.com/wiki/Aldrachi_Warblades "Aldrachi Warblades") which eventually ended up with Kil'jaeden and his loyal demon hunter.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-14">[14]</a></sup>
+
+Sargeras also had a personal hound named [Goremaw the Devourer](https://wowpedia.fandom.com/wiki/Goremaw_the_Devourer "Goremaw the Devourer"). At some point, the Legion conquered a new world, corrupting its leaders and killing their heroes. However, a child, burning with righteous fury for his dying world, crept into the Legion's stronghold and killed several eredar guards--and Goremaw--while they rested. When Sargeras saw his slain hound, he was consumed with rage. That world, and all who lived upon it, was scattered as ashes in the Great Dark.
+
+The dreadlord, [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth"), believed that Goremaw could still serve the Legion. He extracted the felhound's fangs and took them to a great demon forge on the eredar homeworld of Argus and eventually created two of the deadliest weapons the universe had ever known, the [Fangs of the Devourer](https://wowpedia.fandom.com/wiki/Fangs_of_the_Devourer "Fangs of the Devourer"). These daggers could twist the air and bend light, allowing their wielders to conceal themselves effortlessly. He presented the daggers to Sargeras, who was greatly pleased. It took time for Sargeras to find someone worthy of wielding the Fangs of the Devourer. Loyalty was a concern. Skilled [assassins](https://wowpedia.fandom.com/wiki/Assassin "Assassin") are deceptive by nature, all too capable of betrayal. Sargeras would not abide the thought of Goremaw's legacy falling into the hands of the Legion's enemies. Finally, Sargeras found someone suitable to carry these daggers into battle. An eredar [tracker](https://wowpedia.fandom.com/wiki/Tracker "Tracker") named [Akaari](https://wowpedia.fandom.com/wiki/Akaari_Shadowgore "Akaari Shadowgore") had distinguished herself in several Legion invasions, silently murdering those who suspected that the demons' promises were laced with doom. She was summoned to Argus and told of the great honor being offered to her. Sargeras promised Akaari that she would become a fearsome instrument of death, one of the deadliest creatures alive in any known realm, but at a cost of her will. If she wanted to be this living weapon, betrayal would become impossible. It was a grim bargain, but Akaari accepted it.
+
+Sargeras had his eyes on a small, militaristic world. Its inhabitants would have fought hard against a Legion invasion. Though they would have fallen eventually to direct force, Sargeras believed they might be vulnerable to fear and paranoia. This world was Akaari's first mission with her newly granted powers.She infiltrated its strongholds alone and was successful. Thus, Akaari became Sargeras's asset, loyal and unquestioning. But even though her will was gone, her guile remained. She requested that Sargeras allow her to roam the Twisting Nether for a time. He agreed, curious to see how she would further the goals of the Burning Legion.
+
+She returned to Sargeras with new skills and a new philosophy: fear was a double-edged sword, useful, but not always the right choice. An unseen assassin inspired terror, yes, but an unknown assassin inspired complacency. An enemy could not prepare to face a danger that seemingly did not exist.<sup id="cite_ref-Blood_Ledger_15-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Blood_Ledger-15">[15]</a></sup>
+
+### The first invasion of Azeroth
+
+On [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), 10,000 years before the opening of the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"), the [elven](https://wowpedia.fandom.com/wiki/Elf "Elf") [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her people, the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), were wielding magic as their plaything. Sensing the great magical power of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), Sargeras finally discovered the location of Azeroth. In order to invade the planet, he called to Azshara. The Highborne queen was impressed and overwhelmed by Sargeras' great power. He used a subtle form of mental manipulation while speaking to her and her councilor, [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius"). They saw Sargeras as a god and worshiped him. Azshara agreed to grant him entrance to her world if only for a taste of a portion of his knowledge and energy. (Furthermore, she thought he would marry her.) Thus, the first invasion of Azeroth began.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/27/Sargeras_blinds_Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20160925164547)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Sargeras_blinds_Illidan.jpg/revision/latest?cb=20160925164547)
+
+Sargeras burning out Illidan's eyes
+
+Archimonde and the great [pit lord](https://wowpedia.fandom.com/wiki/Pit_lord "Pit lord") [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") stormed through [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)"), ripping the world to shreds and sucking every ounce of energy from it that they could. Sargeras waited in the Twisting Nether for Azshara to strengthen the portal enough to allow him entrance, and during that time, he accomplished many things.<sup id="cite_ref-warancients_16-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-warancients-16">[16]</a></sup>
+
+Among them, he transformed Xavius into the first [satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr") and gifted [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") with his dark magic, burning out the eyes of the night elf and covering both of his shoulders with arcane tattoos.<sup id="cite_ref-warancients_16-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-warancients-16">[16]</a></sup><sup id="cite_ref-UVG_17-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-UVG-17">[17]</a></sup> Then, he gave the scythe [Ulthalesh](https://wowpedia.fandom.com/wiki/Ulthalesh,_the_Deadwind_Harvester "Ulthalesh, the Deadwind Harvester") to [Sataiel](https://wowpedia.fandom.com/wiki/Sataiel "Sataiel") and commanded her to reap the souls of Azeroth's rebellious denizens, starting with the area that would later be known as [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass").<sup id="cite_ref-Research_10-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Research-10">[10]</a></sup>
+
+But, at the crucial moment for his entering on Azeroth, the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), aided by [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")' woodfolk and [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza")'s [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon"), mustered their forces and rebelled against the Highborne in a climactic battle that destroyed the Well of Eternity and crushed much of the continent to rubble. The defenders of Azeroth paid a great cost to throw the demons back into the Twisting Nether, but in the end, Sargeras' mission had failed for the very first time. Because the portal rift into the Twisting Nether vanished in such a great display of magical power, the forces holding the worlds together ruptured, causing the Well of Eternity to implode. A massive part of Kalimdor sank beneath the ocean, and where the Well of Eternity had been before there was only a gigantic oceanic vortex, later named the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom").
+
+In the novel _[War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")_, [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus"), [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), and [Brox](https://wowpedia.fandom.com/wiki/Brox "Brox") are thrown back in time and are able to help the demi-god Cenarius and the dragon Aspects fight the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Once again, in this new timeline, Sargeras' first invasion of Azeroth failed. During the end of the war, [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar") leapt through the portal and using the [Axe of Cenarius](https://wowpedia.fandom.com/wiki/Axe_of_Cenarius "Axe of Cenarius") crafted by [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") killed many demons before catching the attention of Sargeras himself. In a last desperate attempt to buy time for his allies, Broxigar personally attacked the huge titan with the Axe of Cenarius, wounding him in his leg - an extraordinary feat for anyone as he was said to be invincible. Sargeras then killed Broxigar, however, the scratch was pivotal. When Sargeras approached the gateway, Krasus poured the combined power of his companions at the tiny wound and momentarily distracted Sargeras from the portal. [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion "Malfurion") used this opening to assail the portal and destabilize it. Refusing to believe his defeat, Sargeras stepped within the collapsing portal in a futile attempt to rebuild it. It imploded, casting him in to the Nether.<sup id="cite_ref-Chronicle105_18-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle105-18">[18]</a></sup>
+
+### After the Well of Eternity
+
+After his defeat at the Well of Eternity, Sargeras immediately planned his next method of infiltrating Azeroth. He knew he couldn't rely on a static portal; to serve a titan, such a gateway required an astronomical amount of power, and the most promising source had been destroyed in his last attempt. Moreover, the Highborne's laborious preparation and spellwork had given away his intentions, which had allowed the night elf resistance to thwart him. If he wanted to overcome Azeroth's defenders, Sargeras needed to enter the world with minimal warning.
+
+Thus he commanded the [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar") to forge a tool that would wrench open rifts between worlds for only a short time, just long enough to let a portion of his soul through. Although that meant he couldn't enter Azeroth in his most devastating form, such an instrument would clear a path for his avatar to lead the Legion's invasion or carry out subtler schemes. Such an instrument would also weaken the integrity of the physical universe and threaten to collapse it, but Sargeras considered those to be only side benefits.
+
+First, scores of magi conducted dark rituals to channel countless portals into a single staff. They then projected the empowered artifact into every corner of the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), weaving it into the fabric of reality, creating a thread that could be pulled to unravel the seams of the physical universe at will. To fuel this monstrous undertaking, a hundred warlocks sacrificed a hundred demons, selecting them from among the Legion troops that had been part of the failed invasion of Azeroth. Thus was forged the [Jeweled Scepter of Sargeras](https://wowpedia.fandom.com/wiki/Jeweled_Scepter_of_Sargeras "Jeweled Scepter of Sargeras").
+
+Soon after the War of the Ancients, Sargeras also had a vision: the Well of Eternity imploded once again, but this time, it dragged him down to the very core of Azeroth. He was there for only an instant, but in that moment, he saw Azeroth's slumbering [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul")\--and in that moment, the world-soul opened one eye and gazed at the Dark Titan. He was enraptured. Since then, the eye of Azeroth's world-soul has not been far from his thoughts. He commanded the eredar who forged the scepter to crown it with that lone, wondrous orb. Next to it, the eredar placed two [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") wings, a testament to Sargeras's conception of the world-soul: corrupted, demonic, and most importantly, his.<sup id="cite_ref-Research_10-3"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Research-10">[10]</a></sup>
+
+#### Sargeras and Sataiel
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+In the millennia after the collapse of the Well of Eternity, [Sataiel](https://wowpedia.fandom.com/wiki/Sataiel "Sataiel"), who was still on Azeroth, grew into an over-ambitious, strong-willed, and supremely confident. She had come to Azeroth to prove herself to Sargeras, but when she saw the heights of power she could reach with [Ulthalesh](https://wowpedia.fandom.com/wiki/Ulthalesh,_the_Deadwind_Harvester "Ulthalesh, the Deadwind Harvester"), she wondered whether she'd set her sights too low. She had massacred thousands, turned the [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass") into a tomb, and ripped open a magical nexus of unspeakable force. Her destiny was bright, and she needed no one's patronage to achieve it. The dreadlord Ulthalesh whispered to Sataiel from the scythe, infecting her mind. She decided to keep the magical nexus for herself, and she cast potent wards to hide it from the outside world. Then she cut off all contact with the Legion, biding her time until she and Ulthalesh had the strength to challenge the Dark Titan.
+
+When Sargeras discovered her deception, he was furious. The fount of power was his by right, and Sataiel was keeping it from him. Not only that, but his spies on Azeroth informed him that she was harboring delusions of grandeur, conspiring with the spirit of Ulthalesh to slay Sargeras. Such arrogance could not go unpunished. The upstart eredar had to be eliminated. Sargeras found his champion in [Scavell](https://wowpedia.fandom.com/wiki/Scavell "Scavell"), the [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"). He sent the Guardian visions of a dangerous entity lurking in Deadwind Pass, a demon awaiting the return of the Burning Legion. Scavell boldly took up the charge, hunting down Sataiel and, after an epic battle, slaying her with her own weapon. Her soul was cast screaming into the scythe.<sup id="cite_ref-Research_10-4"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Research-10">[10]</a></sup>
+
+### Aegwynn and Medivh
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Aegwynn_vs_Avatar.jpg/revision/latest/scale-to-width-down/180?cb=20160317181352)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Aegwynn_vs_Avatar.jpg/revision/latest?cb=20160317181352)
+
+[Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") battling the [Avatar of Sargeras](https://wowpedia.fandom.com/wiki/Avatar_of_Sargeras "Avatar of Sargeras") from _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Sargeras_by_Jian_Guo.jpg/revision/latest/scale-to-width-down/180?cb=20181030003054)](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Sargeras_by_Jian_Guo.jpg/revision/latest?cb=20181030003054)
+
+Aegwynn fighting the Avatar of Sargeras from the _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_
+
+Some nine thousand years after the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), another Guardian of Tirisfal, Magna Aegwynn, kept a constant vigil over Azeroth, destroying demons wherever she found them. Sargeras saw that Aegwynn was a serious threat, but he also saw how she could be manipulated. The Dark Titan sent demonic agents on a great dragonhunt. The demons killed several dragons, but Aegwynn inevitably appeared to aid the great beasts. It was then that Sargeras used the Scepter of Sargeras to send his own [avatar](https://wowpedia.fandom.com/wiki/Avatar_of_Sargeras "Avatar of Sargeras") to battle the Guardian. Though Aegwynn emerged victorious with the help of the dragons, defeat had been Sargeras's plan all along; his spirit entered her body, lying in wait for centuries.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-19">[19]</a></sup>
+
+After Aegwynn defeated Sargeras's avatar, she interred his corpse in the ruins of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"), along with the artifacts that he bore. Deep beneath the sea, shielded by enchanted Highborne seals, the Scepter of Sargeras remained for centuries, its power undiminished. Sargeras attempted to regain control of the staff through Aegwynn, but the task proved more difficult than he had estimated. He could sway the Guardian in many ways, but he could not compel her to exhume his scepter from its watery grave. Something held her back, a primal instinct louder than Sargeras's whispering. She knew the artifact was dangerous, that its use risked the destruction of all things. Even possessed by the Dark Titan, she would not yield.<sup id="cite_ref-Research_10-5"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Research-10">[10]</a></sup>
+
+Years later, the [Order of Tirisfal](https://wowpedia.fandom.com/wiki/Order_of_Tirisfal "Order of Tirisfal") informed Aegwynn that her time as a Guardian was up and asked her to proceed to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to choose her successor. Aegwynn disobeyed the Order's command, deciding that only one of her own lineage would suffice. Sargeras, within Aegwynn, was slowly twisting her thoughts. She became more distant from the Council; rarely being seen by them. Sargeras amplified fears she already had about the Council. The Council had been using its powers to manipulate the politics of the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"). They believed they had the power to prevent war suffering, for the greater good. Aegwynn believed that their constant manipulations would end in disaster. She decided to not relinquish her role as Guardian, for fear that the Council could elect a new weaker Guardian they could control and manipulate. Aegwynn would eventually fall in love with [Nielas Aran](https://wowpedia.fandom.com/wiki/Nielas_Aran "Nielas Aran") of the [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde"), who agreed with her opinions on the council, and the two fathered [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") to pass the Guardian powers on to. Unbeknownst to either of them, Sargeras began to corrupt Medivh from within Aegwynn.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-20">[20]</a></sup> Through this new vessel, Sargeras planned to recover his beloved Jeweled Scepter.<sup id="cite_ref-Research_10-6"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Research-10">[10]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/73/Medivh_the_Corrupted.jpg/revision/latest/scale-to-width-down/180?cb=20160118131023)](https://static.wikia.nocookie.net/wowpedia/images/7/73/Medivh_the_Corrupted.jpg/revision/latest?cb=20160118131023)
+
+Medivh the Corrupted in the TCG
+
+When Medivh reached fourteen, his powers as a Guardian manifested themselves throwing him into a coma that lasted for ten years. Medivh awoke a decade later under a facade of control, and assured the clerics and the court that he was fine.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-21">[21]</a></sup> In time Sargeras would influence Medivh by guiding his thoughts and emotions towards an insidious end. Eventually, Medivh would become determined to stop the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") at all costs and under Sargeras's influence would discover [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") and its [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde"). Seeing that the Horde had been abandoned by the Legion Medivh felt that it would be perfect irony to use the orcs against their (seemingly) former demonic masters. Thus bargaining with the [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") from his chambers in the tower of [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"), Medivh promised to furnish Gul'dan with the location of the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") if Gul'dan would bring the Horde to Azeroth. And so, aided on the other side by Gul'dan's [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council"), Medivh went to the [Black Morass](https://wowpedia.fandom.com/wiki/Black_Morass "Black Morass") in the remote, southern parts of the continent and opened the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") between Azeroth and Draenor, allowing the orcs permanent access to the planet and signaling the beginning of the [Age of Chaos](https://wowpedia.fandom.com/wiki/Age_of_Chaos "Age of Chaos").
+
+When the Dark Portal was opened by him, almost every creature attuned to magic on Azeroth felt ripples as the gateway flared to life. Aegwynn could not fathom what had happened, but she sensed the presence of fel magic and knew Medivh must have somehow allied himself with the Legion. Aegwynn traveled to Karazhan with the [blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") [Arcanagos](https://wowpedia.fandom.com/wiki/Arcanagos "Arcanagos") to confront her son about it. The tower was crowded with nobles who were expecting a gala, and so Aegwynn entered alone at first, hoping to convince Medivh to give up his power peacefully. It was then that Medivh revealed that, as he fell in battle before her, Sargeras had spirited his essence into Aegwynn's own body like a cancer, lying in wait for her to conceive an heir as he knew she would. Sargeras later stitched himself into the fabric of Medivh's unborn body so that when he awoke and realized the power of Tirisfal he would also manifest his unholy, demonic heritage.
+
+Aegwynn was stunned as the truth set in, but she did not lose herself to despair. Instead, Aegwynn became angry and knew she would defeat Sargeras there and then, even if it meant striking against her beloved son. The battle between the two shook the tower to its foundations and sent the would-be revelers fleeing. When Aegwynn was temporarily incapacitated, Arcanagos joined in. However, despite being a blue dragon, Arcanagos was severely outmatched. Sargeras struck him down, burning him from the inside out until all that was left was bone. Her friend's death sent Aegwynn further into her rage. Sargeras may have had the full weight of a Guardian's power, but she had centuries of experience. As their duel continued, Medivh slowly gained the upper hand.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-22">[22]</a></sup> His original personality then surfaced back and, unable to kill his mother, Medivh instead banished her from his sight.
+
+It was shortly after this time that the mages of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") sent Medivh an apprentice. This young apprentice was known as [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), who in time would discover that it was Medivh who has brought the orcs upon the lands of Azeroth. During this time, Khadgar and [Garona](https://wowpedia.fandom.com/wiki/Garona "Garona") had an audience with [King Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn_I "Llane Wrynn I") and [Sir Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar"), where Lothar was convinced of Medivh's corruption. Lothar, one of Medivh's best friends, led a troop of human forces, which included Khadgar and Garona, to deal with the crazed Guardian. During the battle with Medivh, Khadgar—magically aged by Medivh's spellwork—held Lothar's blade to the Guardian's chest, and finally ran it through Medivh's heart. The demon within him awakened at that point, right up until Lothar delivered the mercy stroke, decapitating the Guardian and banishing Sargeras into the Nether. At the same time, Gul'dan was trying to probe Medivh's mind for the location of the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"). The warlock was still deep within the Guardian's thoughts when Lothar and Khadgar killed him, ending Medivh's treachery and forcing Gul'dan into a coma.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-23">[23]</a></sup>
+
+Sargeras desired vengeance against the mortals of Azeroth and expected the orcs to travel through the portal and destroy them. Although the orcs did enter the portal, and eventually caused a great amount of damage to the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), Sargeras ultimately failed in his plans because of Medivh's early death. Eventually, Sargeras wanted to shed the body of Medivh and once again enter his avatar, but he didn't have enough time to do so.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-24">[24]</a></sup> Although he tried to control Garona and cursed Khadgar, the apprentice stabbed the Guardian into the chest, forcing the spirit of Sargeras out of his body, and banishing him into the depths of the Twisting Nether.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-25">[25]</a></sup>
+
+### Gul'dan's encounter with Sargeras
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Sargeras_in_warcraft_III.jpg/revision/latest/scale-to-width-down/180?cb=20180917204536)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Sargeras_in_warcraft_III.jpg/revision/latest?cb=20180917204536)
+
+Sargeras (or an illusion) seen in a flashback of [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") in _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_
+
+The orcish warlock Gul'dan believed the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") to hold amazing power since he had been told as much by both Medivh and the eredar demon [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"). Gul'dan attempted to claim the tomb for himself, but when he gained access to the grave, Sargeras' avatar was not there. Instead, Gul'dan found a plethora of [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") that had been driven mad by their long imprisonment. The demons proceeded to attack Gul'dan but he survived the first ambush. Then [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") saw Sargeras (or at least an illusion of him) laughing at him and understood that he had been a pawn, a fool. Now that he knew he would not get the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras") and would instead die in the tomb, he wrote his story in runes with his own blood. Shortly afterward, the demons sent by Sargeras<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-26">[26]</a></sup> came for him and killed him, eventually using his [skull](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") as a focal point of demonic power.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-27">[27]</a></sup><sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-28">[28]</a></sup>
+
+### Wrath of the Lich King
+
+Sargeras appeared as a distant voice during the [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity"), telling [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") that he was a failure.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-29">[29]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Many years later, the Burning Legion launched their [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") of Azeroth. [Adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") that approached the Tomb of Sargeras during the battle at the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") were instantly killed by the "Gaze of Sargeras", a spell followed by the message: You feel a staggering presence on the other side of the portal touch you for a moment....<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-30">[30]</a></sup>
+
+[The](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") [forces](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [of](https://wowpedia.fandom.com/wiki/Horde "Horde") [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s only hope to defeat the Legion is to find the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation"), mighty artifacts created by the titans of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") themselves, to close the portal inside the Tomb of Sargeras. Aware that the people of Azeroth are seeking the Pillars of Creation, Sargeras personally sent [Thar'zul](https://wowpedia.fandom.com/wiki/Thar%27zul "Thar'zul") to lead an army of demons to [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan") to stop them from learning more about the Pillars' locations.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-31">[31]</a></sup>
+
+Though he does not appear in person, Sargeras's voice is heard in a flashback to the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") when he burned out the eyes of [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") and revealed to him in a vision the true might of his infinite army.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-32">[32]</a></sup>
+
+The Legion's full, terrifying might is fixed on summoning Sargeras to Azeroth, and they have already located the key to his return, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")'s body.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-33">[33]</a></sup> Gul'dan seeks to use Illidan's body as a vessel for Sargeras' entry into Azeroth, and so [Xe'ra](https://wowpedia.fandom.com/wiki/Xe%27ra "Xe'ra") and the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") seek out Illidan's soul to return it to his body before Sargeras can possess him.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-34">[34]</a></sup> Class orders and a coalition of all elf factions led by Tyrande Whisperwind, Vereesa Windrunner and Lady Liadrin gathered together to back the Nightfallen Rebellion up and take the Nightwell, the Eye of Aman'thul and Illidan's body back from Gul'dan, before he manages to put a portion of Sargeras' soul into the latter.
+
+At the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold"), [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") attempts to return Illidan's soul to his dormant body. But unbeknownst to Khadgar, Sargeras has already filled Illidan's empty shell, and doing so awakens him.<sup id="cite_ref-Mythic_Gul'dan_35-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Mythic_Gul'dan-35">[35]</a></sup> The adventurers then battle [The Demon Within](https://wowpedia.fandom.com/wiki/The_Demon_Within "The Demon Within"). Illidan is eventually freed of Sargeras's control, allowing him to kill [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)").<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-36">[36]</a></sup>
+
+#### Legionfall
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Sargeras_patch_7.2.0_cinematic.jpg/revision/latest/scale-to-width-down/180?cb=20190821015637)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Sargeras_patch_7.2.0_cinematic.jpg/revision/latest?cb=20190821015637)
+
+Kil'jaeden speaking with Sargeras in his Legion ship above Argus
+
+As Kil'jaeden observed Khadgar, Velen, and other [order](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") champions gathered together from his [Legion ship](https://wowpedia.fandom.com/wiki/Legion_ship "Legion ship") above [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), he spoke to Sargeras about how everything the Legion had done under Sargeras's design had only given them failure to show for it. Sargeras asked Kil'jaeden if he had lost sight of his destiny and wondered if he had overestimated Kil'jaeden's resolve. An irritated Kil'jaeden claimed that he paid for his destiny with his world and that the time had come to see it done.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-37">[37]</a></sup>
+
+Within the [Hall of Communion](https://wowpedia.fandom.com/wiki/Hall_of_Communion "Hall of Communion") deep beneath [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin"), [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)") warned her Speaker, [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard"), that Sargeras's coming was imminent.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-38">[38]</a></sup>
+
+#### Shadows of Argus
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Visions_of_Torment.jpg/revision/latest/scale-to-width-down/180?cb=20180115222220)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Visions_of_Torment.jpg/revision/latest?cb=20180115222220)
+
+Aggramar speaking to Sargeras in the core of Argus
+
+When Magni traveled to [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") with the forces of Azeroth, he received via [Argus's world-soul](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)") a vision of [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar"), revived and brainwashed by Sargeras. Sargeras told Aggramar that the circle neared completion and the mortals must not stop the rebirth of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), then ordered Aggramar to stop their incursion.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-39">[39]</a></sup>
+
+Later, Sargeras spoke to Aggramar as the latter watched the [Coven of Shivarra](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra "Coven of Shivarra") torture the souls of [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon"), [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth"), and [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth"). Though they refused to be broken, Aggramar assured Sargeras that they would be soon. Sargeras told Aggramar that the essence of [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar") was still needed to ensure victory, and Aggramar promised that she would not escape.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-40">[40]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Sargeras_cloud_raid_background.jpg/revision/latest/scale-to-width-down/180?cb=20190821020657)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Sargeras_cloud_raid_background.jpg/revision/latest?cb=20190821020657)
+
+Sargeras as a cloud above Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Sargeras_Legion_end.jpg/revision/latest/scale-to-width-down/180?cb=20171129170836)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Sargeras_Legion_end.jpg/revision/latest?cb=20171129170836)
+
+Sargeras impaling Azeroth
+
+Through the Antorus raid, one can see Azeroth being more and more covered in a fiery storm, which turns out to be the Dark Titan, seeking to claim his prize. Sargeras ordered [Argus the Unmaker](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)") to rise in the [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon"). After the defeat of Argus the Unmaker, Sargeras was ultimately imprisoned by his kin at the Seat of the Pantheon, bringing an end to the Burning Crusade. But before he could be taken by the remaining titans, Sargeras plunged his [sword](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras") into the depths of Azeroth. The [wound](https://wowpedia.fandom.com/wiki/Silithus:_The_Wound "Silithus: The Wound") thus formed in [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus") caused [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)") to bleed out. Her blood would crystallize as a mineral called  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Inv_smallazeriteshard.png/revision/latest/scale-to-width-down/16?cb=20180508232452)[\[Azerite\]](https://wowpedia.fandom.com/wiki/Azerite), pooling up across the planet.
+
+## Appearance
+
+Sargeras is a huge, planet-sized being—so large that his sword, when mostly-embedded in Silithus, is perhaps the tallest object on Azeroth. Upon shattering [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum"), he unleashed an enormous torrent of [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") energy that warped his very being. His eyes burst in gouts of emerald fire while fel volcanoes ignited across his body, splitting his skin apart and revealing a furnace of endless, blistering hate.<sup id="cite_ref-Chronicle48_12-5"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Chronicle48-12">[12]</a></sup> The Dark Titan is fully clad in a burning suit of molten, black armor, and his skin cracked with veins of magma. Wildly dancing flames surround his head and form a thick mass of hair and a sweeping beard. A pair of horns extends from his forehead and a pair of demonic wings lie on his back.<sup id="cite_ref-WoWM5_6-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-WoWM5-6">[6]</a></sup>
+
+Before his imprisonment by the Pantheon, Sargeras could be seen surrounding Azeroth as a swirling, fiery mass of clouds.
+
+### Powers
+
+The exact powers at Sargeras's command are unclear, though certainly formidable given his status as a titan and lord of the Legion. His power before his corruption was such that he was the champion of the Pantheon, and he demonstrated the ability to destroy entire worlds with barely an effort. After his fall and corruption, he was able to single-handedly destroy the entire Pantheon with his fel magic, the one thing titans are uniquely susceptible to.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-41">[41]</a></sup>
+
+He has been shown to display the following powers:
+
+-   Sargeras created a planet, [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum"), and bound the souls of all the demons he fought to it.
+-   Telepathy (able to commune with his servants, such as [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"), from the Nether)
+-   Illusion (can show visions and speak in a compelling angelic voice)<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-42">[42]</a></sup>
+-   Invulnerability against [mortal](https://wowpedia.fandom.com/wiki/Mortal "Mortal") weapons, and limited immunity to [immortal](https://wowpedia.fandom.com/wiki/Immortal "Immortal") weapons ([Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar")'s [Axe of Cenarius](https://wowpedia.fandom.com/wiki/Axe_of_Cenarius "Axe of Cenarius") was able to scratch him, but not to any great effect, while the powers of the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") had no effect).
+-   Ability to enter mortal bodies (remained within [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn")'s womb for nearly a millennium) and take control of them ([Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")).
+-   The strength of 100 [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon") is merely a fraction of Sargeras' strength;<sup id="cite_ref-TS_324_43-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-TS_324-43">[43]</a></sup> his [strength](https://wowpedia.fandom.com/wiki/Strength "Strength") nearly matches the power of a portal closing.
+-   In comparison to Sargeras, [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") were as fleas.<sup id="cite_ref-TS_324_43-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-TS_324-43">[43]</a></sup> This could be a reference to either power or height.
+-   He wields a horrific broken sword which, according to a non-[canon](https://wowpedia.fandom.com/wiki/Canon "Canon") source, is called [Gorribal](https://wowpedia.fandom.com/wiki/Gorribal "Gorribal").
+-   Sargeras can re-form his minions again and again.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-44">[44]</a></sup>
+-   Various magical abilities (lashed out with energy at Illidan through a portal, marked him with arcane tattoos and gave him demon sight, unleashed a monumental fel storm that obliterated the titan [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")).
+
+## Titles and epithets
+
+-   Dark Titan<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-45">[45]</a></sup>
+-   Fallen Titan<sup id="cite_ref-UVG_17-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-UVG-17">[17]</a></sup> (removed from the second book)
+-   God of Fel and Flame<sup id="cite_ref-UVG_17-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-UVG-17">[17]</a></sup><sup id="cite_ref-rin_46-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-rin-46">[46]</a></sup>
+-   The Daemon Lord
+-   The Destroyer<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-47">[47]</a></sup><sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-48">[48]</a></sup>
+-   The Destroyer of Worlds
+-   The Evil One<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-49">[49]</a></sup>
+-   The Fallen<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
+-   The Great Enemy<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-50">[50]</a></sup><sup id="cite_ref-Blood_Ledger_15-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Blood_Ledger-15">[15]</a></sup> of all life<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-51">[51]</a></sup>
+-   The Great One<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-52">[52]</a></sup><sup id="cite_ref-rin_46-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-rin-46">[46]</a></sup>
+-   The Mad Titan<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-53">[53]</a></sup><sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-54">[54]</a></sup>
+-   The Ravager of Worlds<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-55">[55]</a></sup>
+-   The Defender (pre-corruption)
+-   Master, Lord
+-   Dark One<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-56">[56]</a></sup><sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-57">[57]</a></sup><sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-58">[58]</a></sup>
+-   The great dark god of the Nameless Void<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-59">[59]</a></sup>
+
+## Character development
+
+Sargeras was originally a footnote in very early _Warcraft_ RTS lore, a fallen Daemonlord whose dark legacy was used by [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") to manipulate [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"). With _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, he became one of the primary lore villains.
+
+It was originally stated in the [_Warcraft III_ manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual") that Sargeras fell into despair due to the endless evil of the demonic [eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar") and [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim"), and that he abandoned the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") due to coming to believe that the titan's vision of an ordered universe was impossible and pointless — that chaos and depravity were the only absolutes.
+
+The origin of the eredar was heavily [retconned](https://wowpedia.fandom.com/wiki/Retcon "Retcon") with the introduction of the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") in _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, and the _[WoW Magazine](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Volume_II_Issue_I "World of Warcraft: The Magazine Volume II Issue I")_ instead showed Sargeras fighting nathrezim, [mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg"), and [infernals](https://wowpedia.fandom.com/wiki/Infernal "Infernal") prior to his corruption, but his reason for betraying his fellow titans remained relatively the same.
+
+_[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ changed Sargeras' backstory once more by providing a more specific reason for his betrayal: namely, the [void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and the risk of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") infecting a nascent [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").
+
+Sargeras had various weapons:
+
+-   [Jeweled Scepter of Sargeras](https://wowpedia.fandom.com/wiki/Jeweled_Scepter_of_Sargeras "Jeweled Scepter of Sargeras") — Created through an incredible effort by hundreds of Sargeras' servants, this scepter can rip open dimensional gateways between worlds.<sup id="cite_ref-Artifact_60-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Artifact-60">[60]</a></sup> It was taken from the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") by order of [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"), and was used to make the portals that destroyed [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"). It was in Ner'zhul's possession when he entered the rift to escape his dying world.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-61">[61]</a></sup> Somehow recovered by the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and held in a vault in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"),<sup id="cite_ref-Artifact_60-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Artifact-60">[60]</a></sup> the scepter eventually makes its way into the hands of [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") from the time-altered [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)"), who intends to use it on Azeroth in much the same way Ner'zhul did on the original Draenor. It is stolen by a [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") from the [Council of the Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest"), who wields it in the war against the Burning Legion.
+-   [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras") — It is unknown if it was his real eye or a [magical artifact](https://wowpedia.fandom.com/wiki/Trinket "Trinket") his avatar wielded when it was killed by [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"). Illidan used it to focus magics into a single destructive force which almost leveled [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), but it was destroyed in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") when his spellwork was interrupted by the night elves.
+-   [Atiesh, Greatstaff of the Guardian](https://wowpedia.fandom.com/wiki/Atiesh,_Greatstaff_of_the_Guardian "Atiesh, Greatstaff of the Guardian") — This weapon was used by [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"). Sargeras made a powerful demon, [Atiesh](https://wowpedia.fandom.com/wiki/Atiesh "Atiesh"), inhabit it when he possessed Medivh. The demon still inhabited the staff, even when it was shattered. He had to be killed to purify the staff.
+-   The unnamed [spear](https://wowpedia.fandom.com/wiki/Spear "Spear") of Sargeras, wielded when Aegwynn battled his avatar. The spear is inscribed with runes that continuously bleed.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-62">[62]</a></sup> His [Fallen Avatar](https://wowpedia.fandom.com/wiki/Fallen_Avatar "Fallen Avatar") can summon giant spearheads.
+-   The [sword that Sargeras wields](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras") in canonical artwork and which was shattered during his initial duel with Aggramar resembles [Gorribal](https://wowpedia.fandom.com/wiki/Gorribal "Gorribal"), but has not been given an official name.
+
+## Quotes
+
+### [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
+
+-   "I have decided to redeem you. I have decided that there is a place for you. I have looked into the darkness within you and found that which once pleased me. I make it the core of what you are to become and in doing so make you a far superior servant than you were. You must be reshaped, but so that others will mark in you the glory I give and the punishment I mete out, I return that by which they will know you best.
+-   "[You](https://wowpedia.fandom.com/wiki/Illidan "Illidan") are strong, but not strong enough."
+-   "[The black beast](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") has shielded himself well, even from me."
+
+### [The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")
+
+-   "The time of Tirisfal is about to end. This world will soon bow before the onslaught of the Legion."
+-   "Surrender now. I have use of [your](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") power."
+-   "You killed a body, [witch](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"). You only killed my physical form! Killed it and hid it away in a tomb beneath the sea. But I was willing to sacrifice it to gain a greater prize. Yes, Mother dear. I hid in your womb, and passed into the slumbering cells of your unformed child. A cancer, a blight, a birth defect that you would never surmise. Killing you was impossible, seducing you unlikely. So I made myself your heir.
+-   "[You](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") see, I am nothing but one more component in the great machine, one that has been running since the Well of Eternity was first shattered. The one thing that the original bits of Medivh and myself agree on is that this cycle needs to be shattered. Of course, I assure you, we are of one mind."
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+_Main article: [In My Father's House#Notes](https://wowpedia.fandom.com/wiki/In_My_Father%27s_House#Notes "In My Father's House")_
+
+_Main article: [The Tomb of Sargeras trailer#Transcript](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_trailer#Transcript "The Tomb of Sargeras trailer")_
+
+_Main article: [Visions of Torment#Notes](https://wowpedia.fandom.com/wiki/Visions_of_Torment#Notes "Visions of Torment")_
+
+_Main article: [What Might Have Been#Notes](https://wowpedia.fandom.com/wiki/What_Might_Have_Been#Notes "What Might Have Been")_
+
+_Main article: [Visions of Fear#Notes](https://wowpedia.fandom.com/wiki/Visions_of_Fear#Notes "Visions of Fear")_
+
+_Main article: [Argus the Unmaker#Quotes](https://wowpedia.fandom.com/wiki/Argus_the_Unmaker#Quotes "Argus the Unmaker")_
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Sargeras.JPG/revision/latest/scale-to-width-down/180?cb=20190714235135)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Sargeras.JPG/revision/latest?cb=20190714235135)
+
+Sargeras after his fall in the RPG
+
+### History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Aegwyn_vs_Sargeras.JPG/revision/latest/scale-to-width-down/180?cb=20070907072452)](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Aegwyn_vs_Sargeras.JPG/revision/latest?cb=20070907072452)
+
+Aegwynn battles the avatar of Sargeras from the RPG.
+
+Sargeras was once a [vanir](https://wowpedia.fandom.com/wiki/Vanir "Vanir") [titan](https://wowpedia.fandom.com/wiki/Titan "Titan"),<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-63">[63]</a></sup> called upon to defeat and imprison the hordes of [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") native to the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"), so that their evil would not contaminate the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan")' vision of order. Sargeras went about his task devoutly for several millennia.<sup id="cite_ref-S&amp;L_122_64-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_122-64">[64]</a></sup>
+
+Shaken by the boundless evil and hate of demons, Sargeras began to despair of his task and gradually slipped into a brooding depression. He was unable to comprehend the nature of such pure evil and came to blame the titans for what he considered to be their flawed pursuit of a false order. Sargeras concluded that chaos and depravity were the only true forces in the universe and angrily exiled himself from their ranks forever.<sup id="cite_ref-S&amp;L_122_64-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_122-64">[64]</a></sup>
+
+Sargeras roamed the Twisting Nether for thousands of years, freeing many demon races that he had previously hunted down and imprisoned. He bound the newly released demons to his will and used them to construct an army of massive proportions — one that eventually became known as the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-S&amp;L_122_64-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_122-64">[64]</a></sup>
+
+Convinced that the titans' ordering of the universe was unnatural and ultimately responsible for the corrupted nature of the demons, Sargeras decided to undo the work of the titans throughout the universe. The only way that he could correct their mistakes was to destroy all of the worlds that the titans had shaped and brought order to so long ago.<sup id="cite_ref-S&amp;L_122_64-3"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_122-64">[64]</a></sup>
+
+Sargeras and the Legion eventually became aware of the young world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") due to the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")' reckless use of arcane magic, and Sargeras began to hunger for the limitless energies of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity").<sup id="cite_ref-S&amp;L_122_64-4"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_122-64">[64]</a></sup> Sargeras' first invasion of Azeroth failed, and his armies were defeated by the demi-god [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") and the [dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") left by the titans.<sup id="cite_ref-S&amp;L_123_65-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_123-65">[65]</a></sup>
+
+The second time Sargeras assaulted Azeroth, he was confronted by [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"), the [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"). As Aegwynn surveyed the scene, she found the rift from which the Legion's agents had come through in the [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks"). Using this portal, Sargeras entered Azeroth in the form of an [avatar](https://wowpedia.fandom.com/wiki/Avatar_of_Sargeras "Avatar of Sargeras"). It is said that this avatar was infused with a portion of Sargeras' soul which he controlled.<sup id="cite_ref-S&amp;L_123_65-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_123-65">[65]</a></sup><sup id="cite_ref-APG_133_66-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-APG_133-66">[66]</a></sup> The Guardian of Tirisfal did not hesitate in attacking, but Sargeras held back, letting the mage destroy his physical body. However, as it died, Sargeras' spirit reached inside Aegwynn's body and hid, lying dormant for many years. Unaware of the tainted presence inside her body, Aegwynn buried Sargeras' physical body in a tomb and cast it deep into the ocean.<sup id="cite_ref-S&amp;L_123_65-2"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_123-65">[65]</a></sup>
+
+Eventually Sargeras' spirit awoke and possessed the mind of Aegwynn's unborn son, [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"). When Medivh grew old enough to inherit the mantle of Guardian of Tirisfal from Aegwynn, Sargeras' spirit manipulated him to use his powers to contact [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") and open a portal between [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") and Azeroth. Sargeras desired vengeance against the human kingdoms, and expected the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") to travel through the portal and destroy the humans. Although the orcs did enter the portal and eventually caused a great amount of damage to the human kingdoms, Sargeras ultimately failed in his plans because a band of Medivh's friends recognized signs of possession in the sorcerer and rushed to kill him. As Medivh died, the portion of Sargeras' spirit that had possessed him was released and swiftly dispersed. Many believe that Sargeras' spirit yet endures somewhere, hungering for revenge against the only world ever to withstand the Burning Legion’s might...<sup id="cite_ref-S&amp;L_123_65-3"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_123-65">[65]</a></sup>
+
+[Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") is fairly confident that the real Sargeras never actually set foot on Azeroth, implying the real Sargeras is still around in the Twisting Nether.<sup id="cite_ref-APG_133_66-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-APG_133-66">[66]</a></sup> Lending this theory further credibility is in [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the power of the Well of Eternity was needed to create a portal strong enough for Sargeras to attempt to enter Azeroth, the creation of which took a long time to be completed. The portal used to bring the Sargeras that Aegwynn fought was powered by a handful of demons and was created in only a few minutes.
+
+### Skills and abilities
+
+As a former Champion of the Pantheon, Sargeras is nearly impervious to physical damage. He is highly resistant to magical attacks. His natural attacks are more powerful than other titans. Demonic influences have given Sargeras' body flames and made him totally immune to fire damage and fel damage. Sargeras' flesh burns with demonic energy, scorching everything in his path. Sargeras' body flames slowly increase the ambient temperature by up to fifty degrees in every direction for one thousand miles. The effect on natural climates can be devastating.<sup id="cite_ref-S&amp;L_123_65-4"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_123-65">[65]</a></sup> Body Flames (Sargeras' flesh burns with demonic energy, scorching everything in his path. Sargeras’s body flames slowly increase the ambient temperature by up to 50 degrees in every direction for 1,000 miles. The effect on natural climates can be devastating.)<sup id="cite_ref-S&amp;L_123_65-5"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_123-65">[65]</a></sup><sup id="cite_ref-S&amp;L_124_67-0"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_124-67">[67]</a></sup> His molten armor can nearly burn your eyes.<sup id="cite_ref-S&amp;L_124_67-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-S&amp;L_124-67">[67]</a></sup>
+
+[Gorshalach](https://wowpedia.fandom.com/wiki/Gorshalach "Gorshalach") — Sargeras wielded this [sword](https://wowpedia.fandom.com/wiki/Sword "Sword") when he was still the Champion of the Pantheon. It sundered itself into two pieces upon Sargeras' fall into madness. Sargeras reforged one of the two fragments into his current weapon, [Gorribal](https://wowpedia.fandom.com/wiki/Gorribal "Gorribal"), while the other fragment was claimed by [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar") and reforged into [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach").
+
+## Notes and trivia
+
+-   [Vandel](https://wowpedia.fandom.com/wiki/Vandel "Vandel") saw Sargeras in a vision destroying countless possible worlds in the infinity of the universes.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-68">[68]</a></sup>
+-   It is rumored that he blessed [Prince Xavalis](https://wowpedia.fandom.com/wiki/Prince_Xavalis "Prince Xavalis") himself.<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-69">[69]</a></sup>
+-   The [demon Atiesh](https://wowpedia.fandom.com/wiki/Atiesh_(demon) "Atiesh (demon)") bears the title "Hand of Sargeras".
+-   It is said that when [felblood](https://wowpedia.fandom.com/wiki/Felblood "Felblood") covers one's body, the individual may hear Sargeras's whispers.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-70">[70]</a></sup>
+-   Before _Chronicle_, the titans were described as metallic-skinned giants and Sargeras as a noble giant of molten bronze.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-71">[71]</a></sup>
+-   Despite [The Demon Within](https://wowpedia.fandom.com/wiki/The_Demon_Within "The Demon Within") being a fusion of Illidan's body and Sargeras' soul,<sup id="cite_ref-Mythic_Gul'dan_35-1"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-Mythic_Gul'dan-35">[35]</a></sup> it still refers to Sargeras in the third-person.
+-   According to [Lothraxion](https://wowpedia.fandom.com/wiki/Lothraxion "Lothraxion"), Sargeras believed that he had already defeated the Light.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-72">[72]</a></sup>
+-   [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") states that Sargeras does not take kindly to failure.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-73">[73]</a></sup>
+-   Sargeras has usually been depicted with orange-red, fiery flames. In _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_ however, [one artwork](https://wowpedia.fandom.com/wiki/File:Chronicle_Burning_Legion.jpg "File:Chronicle Burning Legion.jpg") depicts him with a green color scheme, and the book described his eyes as burning with emerald fire and his body as littered with [fel](https://wowpedia.fandom.com/wiki/Fel "Fel"). In _Legion_, he once again has his orange-red flames.
+-   Sargeras is voiced by [Rick Wasserman](https://wowpedia.fandom.com/wiki/Rick_Wasserman "Rick Wasserman").
+-   According to [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen"), Sargeras and his Burning Legion were based on the demon [Surtur](http://en.wikipedia.org/wiki/Surtur_(Marvel_Comics) "wikipedia:Surtur (Marvel Comics)") and his fiery legions from [Muspelheim](http://en.wikipedia.org/wiki/Muspelheim "wikipedia:Muspelheim"), a villain from Marvel Comics' [Thor](http://en.wikipedia.org/wiki/Thor_(Marvel_Comics) "wikipedia:Thor (Marvel Comics)"), specifically [Walter Simonson](https://wowpedia.fandom.com/wiki/Walter_Simonson "Walter Simonson")'s run on _[The Mighty Thor](http://en.wikipedia.org/wiki/Thor_(Marvel_Comics) "wikipedia:Thor (Marvel Comics)")_.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-74">[74]</a></sup> Surtur and his counterpart [Surtr](http://en.wikipedia.org/wiki/Surtr "wikipedia:Surtr") from Norse mythology are both depicted as giants of flame wielding an enormous sword, who lead massive armies of demons with the ultimate goal of setting the world or the universe aflame.
+-   Sargeras' name is similar to [Sargonnas or Sargas](http://en.wikipedia.org/wiki/List_of_Dragonlance_deities#Sargonnas "wikipedia:List of Dragonlance deities"), a deity from the _[Dragonlance](http://en.wikipedia.org/wiki/Dragonlance "wikipedia:Dragonlance")_ setting. Perhaps coincidentally, they both also have horns, with Sargonnas being a god of minotaurs.
+-   Since Sargeras was nowhere to be seen following the death of [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), Kil'jaeden had assumed the role of acting leader of the Burning Legion.<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_note-75">[75]</a></sup> This is supported by the blasphemous opening lines of Kil'jaeden's [boss fight](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(tactics) "Kil'jaeden (tactics)") in Sunwell Plateau. However, _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_ and the various artifact backstories in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ have him actively running the Legion in the interim between Medivh's death and the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"). Even so, his role in  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[74\] [The Battle For The Undercity](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Horde)) was still semi-hidden.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Sargeras_and_the_Legion.jpg/revision/latest/scale-to-width-down/120?cb=20120309061753)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Sargeras_and_the_Legion.jpg/revision/latest?cb=20120309061753)
+    
+    Sargeras and the Burning Legion in _Warcraft Saga_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/SargerasNew.jpg/revision/latest/scale-to-width-down/120?cb=20120921055230)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/SargerasNew.jpg/revision/latest?cb=20120921055230)
+    
+    Close-up from _Warcraft Saga_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest/scale-to-width-down/90?cb=20180325103405)](https://static.wikia.nocookie.net/wowpedia/images/7/72/WoW_Chronicle_Magic.jpg/revision/latest?cb=20180325103405)
+    
+    _Chronicle_ cosmology chart showing Sargeras twice.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Patch_7.3_Artwork.jpg/revision/latest/scale-to-width-down/83?cb=20170824055433)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/Patch_7.3_Artwork.jpg/revision/latest?cb=20170824055433)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Sargeras_2_in_Magni%2C_the_Speaker.jpg/revision/latest/scale-to-width-down/120?cb=20180529174614)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Sargeras_2_in_Magni%2C_the_Speaker.jpg/revision/latest?cb=20180529174614)
+    
+    The sword strike in _Magni: The Speaker_
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Pantheon_stars.jpg/revision/latest/scale-to-width-down/120?cb=20220917154422)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Pantheon_stars.jpg/revision/latest?cb=20220917154422)
+    
+    Sargeras in the center of art of the titans shown at [gamescom](https://wowpedia.fandom.com/wiki/Gamescom "Gamescom") 2015.
+    
+
+### Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/The_Dark_Titan_by_Joel_Lagerwall.jpg/revision/latest/scale-to-width-down/120?cb=20160512190332)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/The_Dark_Titan_by_Joel_Lagerwall.jpg/revision/latest?cb=20160512190332)
+    
+    "The Dark Titan" by Joel Lagerwall.
+    
+
+## Videos
+
+-   [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Sargeras#)
+-   [Sargeras Imprisoned](https://wowpedia.fandom.com/wiki/Sargeras#)
+
+## Patch changes
+
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
+    
+
+## See also
+
+-   [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-1) _[World of Warcraft: Ultimate Visual Guide, Updated and Expanded](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide,_Updated_and_Expanded "World of Warcraft: Ultimate Visual Guide, Updated and Expanded")_, pg. 35
+2.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-2) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, prologue
+3.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-3) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 19
+4.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-4) [Knaak, Richard A.](https://wowpedia.fandom.com/wiki/Richard_A._Knaak "Richard A. Knaak"). "Three", _[The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")_, 81 (ebook). [ISBN 978-0-7434-7120-6](https://wowpedia.fandom.com/wiki/Special:BookSources/9780743471206). 
+5.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-5) [Loreology on Twitter](https://twitter.com/Loreology/status/472407861046550528) (30 May 2014)
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-WoWM5_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-WoWM5_6-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-WoWM5_6-2">c</a></sup> _[World of Warcraft: The Magazine Issue 5](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_5 "World of Warcraft: The Magazine Issue 5")_
+7.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-7) [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") at [MoP Launch Event](https://www.youtube.com/watch?v=QvJpncNZdls&feature=youtu.be&t=2h14m20s) (2:14:20)
+8.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-8) _[Warcraft III - manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")_, pg. 133
+9.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle22_9-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle22_9-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle22_9-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle22_9-3">d</a></sup> _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 22 - 25
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Research_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Research_10-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Research_10-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Research_10-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Research_10-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Research_10-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Research_10-6">g</a></sup> [Tome of Blighted Implements](https://wowpedia.fandom.com/wiki/Tome_of_Blighted_Implements "Tome of Blighted Implements")
+11.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-11)   ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) ![Warlock](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Ui-charactercreate-classes_warlock.png/revision/latest/scale-to-width-down/16?cb=20070124145101 "Warlock") \[35\] [Seeking the Soulstones](https://wowpedia.fandom.com/wiki/Seeking_the_Soulstones)
+12.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle48_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle48_12-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle48_12-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle48_12-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle48_12-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle48_12-5">f</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 48 - 52
+13.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-13) _[Warcraft III - manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")_, pg. 135
+14.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-14) [Legion: Demon Hunter Artifact Reveal](http://eu.battle.net/wow/en/blog/19940945/)
+15.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Blood_Ledger_15-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Blood_Ledger_15-1">b</a></sup> [Blood Ledger#Fangs of the Devourer](https://wowpedia.fandom.com/wiki/Blood_Ledger#Fangs_of_the_Devourer "Blood Ledger")
+16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-warancients_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-warancients_16-1">b</a></sup> [War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")
+17.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-UVG_17-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-UVG_17-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-UVG_17-2">c</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_
+18.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Chronicle105_18-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 105
+19.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-19)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Spell_warrior_dragoncharge.png/revision/latest/scale-to-width-down/16?cb=20160612131026)[\[Aegwynn and the Dragon Hunt\]](https://wowpedia.fandom.com/wiki/Aegwynn_and_the_Dragon_Hunt)
+20.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-20) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 152 - 162
+21.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-21) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 162
+22.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-22) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 117
+23.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-23) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, _[The History of Orcish Ascension](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#The_First_War_of_Orcish_Ascension "Warcraft II: Tides of Darkness manual")_, The First War of Orcish Ascension
+24.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-24) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, pg. 292
+25.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-25) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. ??
+26.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-26) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 169
+27.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-27) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, pg. 299 - 305
+28.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-28) _[Warcraft III: The Frozen Throne - manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne_Game_Manual "Warcraft III: The Frozen Throne Game Manual")_, Night Elves 3
+29.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-29) The sound file for the distant voice of the master being labeled "Sound\\\\Creature\\\\Sargeras\\\\WG\_Sargeras\_HOR01.wav". The voice is also the same as Sargeras's voice in _Legion_.
+30.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-30) [Wowhead - Gaze of Sargeras comments](http://www.wowhead.com/spell=181559/gaze-of-sargeras#comments)
+31.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-31)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Hiding in the Stacks](https://wowpedia.fandom.com/wiki/Hiding_in_the_Stacks)
+32.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-32)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [In My Father's House](https://wowpedia.fandom.com/wiki/In_My_Father%27s_House)
+33.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-33) [Official Legion site](http://eu.battle.net/wow/en/legion/#home)
+34.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-34)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [The Hunt for Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Hunt_for_Illidan_Stormrage)
+35.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Mythic_Gul'dan_35-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Mythic_Gul'dan_35-1">b</a></sup> [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(tactics) "Gul'dan (tactics)") dungeon journal, [Mythic phase](http://i.imgur.com/7FkSZvh.jpg)
+36.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-36) [Legion cinematics](https://wowpedia.fandom.com/wiki/Legion_in-game_cinematics "Legion in-game cinematics"): [Nighthold ending cinematic](https://www.youtube.com/watch?v=1oghbgBoZek)
+37.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-37) [The Tomb of Sargeras trailer](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_trailer "The Tomb of Sargeras trailer")
+38.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-38)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Whispers of a Frightened World](https://wowpedia.fandom.com/wiki/Whispers_of_a_Frightened_World)
+39.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-39)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Visions of Torment](https://wowpedia.fandom.com/wiki/Visions_of_Torment)
+40.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-40)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Visions of Fear](https://wowpedia.fandom.com/wiki/Visions_of_Fear)
+41.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-41) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 48 - 50
+42.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-42) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/494611267617710080)
+43.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-TS_324_43-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-TS_324_43-1">b</a></sup> _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 324
+44.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-44) [Jeremy Feasel on Twitter](https://twitter.com/Muffinus/status/598675406821044226)
+45.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-45) [The Broken Isles (Warcraft III)](https://wowpedia.fandom.com/wiki/The_Broken_Isles_(Warcraft_III) "The Broken Isles (Warcraft III)") , Drak'Thul tale
+46.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-rin_46-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-rin_46-1">b</a></sup>   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) [![Mining](https://static.wikia.nocookie.net/wowpedia/images/f/f9/ProfIcons_mining.png/revision/latest/scale-to-width-down/15?cb=20190327212049)](https://wowpedia.fandom.com/wiki/Mining "Mining") \[10-45G5\] [Rin'thissa](https://wowpedia.fandom.com/wiki/Rin%27thissa_(quest))
+47.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-47) [Burning Throne Felcaster#Quotes](https://wowpedia.fandom.com/wiki/Burning_Throne_Felcaster#Quotes "Burning Throne Felcaster")
+48.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-48) [Archmage Angela Dosantos#Quotes](https://wowpedia.fandom.com/wiki/Archmage_Angela_Dosantos#Quotes "Archmage Angela Dosantos")
+49.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-49) [Khadgar's story](https://wowpedia.fandom.com/wiki/Khadgar#Shattrath_City "Khadgar")
+50.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-50) [Official _Cataclysm_ website - Lore](http://web.archive.org/web/20120107153925/http://www.worldofwarcraft.com:80/cataclysm/features/lore.html)
+51.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-51) [Warcraft III: Reign of Chaos Game Manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")
+52.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-52) _[The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")_, pg. 92 (ebook)
+53.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-53)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50R\] [Ny'alotha, the Waking City: The Corruptor's End](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City:_The_Corruptor%27s_End) - **Magni Bronzebeard says:** Since bein' wounded by the Mad Titan, Azeroth has been cryin' out in pain. In her hour o' need, she lent you her power.
+54.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-54) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 33
+55.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-55) _[Warcraft III: Reign of Chaos Game Manual#The War of the Ancients](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual#The_War_of_the_Ancients "Warcraft III: Reign of Chaos Game Manual")_
+56.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-56) [Medivh#Caverns of Time](https://wowpedia.fandom.com/wiki/Medivh#Caverns_of_Time "Medivh"): **Medivh yells:** What is this? Champions, coming to my aid? I sense the hand of the Dark One in this. Truly this sacred event bears his blessing.
+57.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-57) [Helm of the Burning Protector](https://wowpedia.fandom.com/wiki/Helm_of_the_Burning_Protector "Helm of the Burning Protector")
+58.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-58) [Shrine of the Great Warrior](https://wowpedia.fandom.com/wiki/Shrine_of_the_Great_Warrior "Shrine of the Great Warrior")
+59.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-59) [The War of the Ancients](https://wowpedia.fandom.com/wiki/The_War_of_the_Ancients "The War of the Ancients")
+60.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Artifact_60-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-Artifact_60-1">b</a></sup> [Legion: Warlock Artifact Reveal](http://eu.battle.net/wow/en/blog/19941528/)
+61.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-61) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, pg. 338
+62.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-62) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, pg. 121
+63.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-63) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 121
+64.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_122_64-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_122_64-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_122_64-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_122_64-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_122_64-4">e</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 122
+65.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_123_65-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_123_65-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_123_65-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_123_65-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_123_65-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_123_65-5">f</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 123
+66.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-APG_133_66-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-APG_133_66-1">b</a></sup> _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 133
+67.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_124_67-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-S&amp;L_124_67-1">b</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 124
+68.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-68) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 9
+69.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-69)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [The Demon Prince](https://wowpedia.fandom.com/wiki/The_Demon_Prince)
+70.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-70) [Felblood on Wowhead](http://www.wowhead.com/spell=80174/felblood)
+71.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-71) [Sargeras and the Betrayal](https://wowpedia.fandom.com/wiki/Sargeras_and_the_Betrayal "Sargeras and the Betrayal")
+72.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-72) _[A Thousand Years of War](https://wowpedia.fandom.com/wiki/A_Thousand_Years_of_War "A Thousand Years of War")_
+73.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-73)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45REWQ\] [Talestra the Vile](https://wowpedia.fandom.com/wiki/Talestra_the_Vile_(quest))
+74.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-74) _[The Comic Volume 1](https://wowpedia.fandom.com/wiki/The_Comic_Volume_1 "The Comic Volume 1")_, pg. 3 - 4 — Chasing Thunder: A foreword by Chris Metzen
+75.  [^](https://wowpedia.fandom.com/wiki/Sargeras#cite_ref-75) [The Warcraft Encyclopedia/Burning Legion](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Burning_Legion "The Warcraft Encyclopedia/Burning Legion")
+
+## External links
+
+|  |  |  |
+| --- | --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/npc=113978)
+-   [WoWDB](https://www.wowdb.com/npcs/113978)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=126010)
+-   [WoWDB](https://www.wowdb.com/npcs/126010)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=32277)
+-   [WoWDB](https://www.wowdb.com/npcs/32277)
+
+ |
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Burning_Legion "Template:Burning Legion")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Burning_Legion?action=edit)
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   **Sargeras**
+-   [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")
+-   [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")
+-   [Antoran High Command](https://wowpedia.fandom.com/wiki/Antoran_High_Command "Antoran High Command")
+    -   [Erodus](https://wowpedia.fandom.com/wiki/General_Erodus "General Erodus")
+    -   [Ishkar](https://wowpedia.fandom.com/wiki/Chief_Engineer_Ishkar "Chief Engineer Ishkar")
+    -   [Svirax](https://wowpedia.fandom.com/wiki/Admiral_Svirax "Admiral Svirax")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron")
+-   [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor")
+-   [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar")
+-   [Brutallus](https://wowpedia.fandom.com/wiki/Brutallus "Brutallus")
+-   [Coven of Shivarra](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra "Coven of Shivarra")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")
+-   [Imonar](https://wowpedia.fandom.com/wiki/Imonar_the_Soulhunter "Imonar the Soulhunter")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Houndmaster "Hakkar the Houndmaster")
+-   [Hasabel](https://wowpedia.fandom.com/wiki/Portal_Keeper_Hasabel "Portal Keeper Hasabel")
+-   [Jaraxxus](https://wowpedia.fandom.com/wiki/Lord_Jaraxxus "Lord Jaraxxus")
+-   [Kruul](https://wowpedia.fandom.com/wiki/Highlord_Kruul "Highlord Kruul")
+-   [Demonic Inquisition](https://wowpedia.fandom.com/wiki/Demonic_Inquisition "Demonic Inquisition")
+    -   [Atrigan](https://wowpedia.fandom.com/wiki/Atrigan "Atrigan")
+    -   [Belac](https://wowpedia.fandom.com/wiki/Belac "Belac")
+-   [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")
+-   [Kazzak](https://wowpedia.fandom.com/wiki/Lord_Kazzak "Lord Kazzak")
+-   [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon")
+-   [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")
+-   [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")
+-   [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth")
+-   [Melris Malagan](https://wowpedia.fandom.com/wiki/Melris_Malagan "Melris Malagan")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Rakeesh](https://wowpedia.fandom.com/wiki/High_General_Rakeesh "High General Rakeesh")
+-   [Talgath](https://wowpedia.fandom.com/wiki/Talgath "Talgath")
+-   [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius")
+-   [Tyranna](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna "Brood Queen Tyranna")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| Major races | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
+-   [Doom lord](https://wowpedia.fandom.com/wiki/Doom_lord "Doom lord")
+-   [Daemon](https://wowpedia.fandom.com/wiki/Daemon "Daemon")
+-   [Ered'ruin](https://wowpedia.fandom.com/wiki/Ered%27ruin "Ered'ruin")
+    -   [Doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard")
+        -   [Doomlord](https://wowpedia.fandom.com/wiki/Doomlord "Doomlord")
+-   [Man'ari](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Eredar_brute "Eredar brute")
+    -   [Doommaiden](https://wowpedia.fandom.com/wiki/Doommaiden "Doommaiden")
+    -   [Wrathguard](https://wowpedia.fandom.com/wiki/Wrathguard "Wrathguard")
+-   [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg")
+    -   [Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard")
+        -   [Fel lord](https://wowpedia.fandom.com/wiki/Fel_lord "Fel lord")
+    -   [Gan'arg](https://wowpedia.fandom.com/wiki/Gan%27arg "Gan'arg")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Mo%27arg_brute "Mo'arg brute")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Overfiend](https://wowpedia.fandom.com/wiki/Overfiend "Overfiend")
+-   [Sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+-   [Wyrmtongue](https://wowpedia.fandom.com/wiki/Wyrmtongue "Wyrmtongue")
+
+
+
+ |
+|  |
+| Minor races | 
+
+-   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
+-   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+-   [Observer](https://wowpedia.fandom.com/wiki/Observer "Observer")
+-   [Imp](https://wowpedia.fandom.com/wiki/Imp "Imp")
+-   [Imp mother](https://wowpedia.fandom.com/wiki/Imp_mother "Imp mother")
+-   [Inquisitor](https://wowpedia.fandom.com/wiki/Inquisitor "Inquisitor")
+    -   [Guardian eye](https://wowpedia.fandom.com/wiki/Guardian_eye "Guardian eye")
+-   [Jailer](https://wowpedia.fandom.com/wiki/Jailer_(demon) "Jailer (demon)")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+    -   [Felblood elf](https://wowpedia.fandom.com/wiki/Felblood_elf "Felblood elf")
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+    -   [Felborne](https://wowpedia.fandom.com/wiki/Felborne "Felborne")
+
+
+
+ |
+|  |
+| Constructs | 
+
+-   [Abyssal](https://wowpedia.fandom.com/wiki/Abyssal "Abyssal")
+-   [Fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver")
+-   [Homunculus](https://wowpedia.fandom.com/wiki/Homunculus "Homunculus")
+-   [Infernal](https://wowpedia.fandom.com/wiki/Infernal "Infernal")
+-   [Fel cannon](https://wowpedia.fandom.com/wiki/Fel_cannon "Fel cannon")
+-   [Infernal machine](https://wowpedia.fandom.com/wiki/Infernal_machine "Infernal machine")
+-   [Devastator](https://wowpedia.fandom.com/wiki/Devastator "Devastator")
+-   [Legion ship](https://wowpedia.fandom.com/wiki/Legion_ship "Legion ship")
+-   [Soul engine](https://wowpedia.fandom.com/wiki/Soul_engine "Soul engine")
+-   [Spire of woe](https://wowpedia.fandom.com/wiki/Spire_of_woe "Spire of woe")
+-   [Fel spreader](https://wowpedia.fandom.com/wiki/Fel_spreader "Fel spreader")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")
+-   [Xoroth](https://wowpedia.fandom.com/wiki/Xoroth "Xoroth")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza")
+-   [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether")
+
+
+
+ |
+|  |
+| Groups &  
+[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Demon" title="Demon">Demons</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Demon_Elite_Guard" title="Demon Elite Guard">Demon Elite Guard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar" title="Dreadscar">Dreadscar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tomb_Guardians" title="Tomb Guardians">Tomb Guardians</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magtheridon%27s_Forces" title="Magtheridon's Forces">Magtheridon's Forces</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hederine" title="Hederine">Hederine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_(group)" title="Felsoul (group)">Felsoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rakeeshi" title="Rakeeshi">Rakeeshi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Talgathi" title="Talgathi">Talgathi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_Covenant" title="Fel Covenant">Fel Covenant</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sunfury" title="Sunfury">Sunfury</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodwarder" title="Bloodwarder">Bloodwarder</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Hand" title="Crimson Hand">Crimson Hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dawnblade_(blood_elves)" title="Dawnblade (blood elves)">Dawnblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firewing" title="Firewing">Firewing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsword" title="Shadowsword">Shadowsword</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunblade" title="Sunblade">Sunblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunhawk" title="Sunhawk">Sunhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunseekers" title="Sunseekers">Sunseekers</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a> <a href="https://wowpedia.fandom.com/wiki/Category:Satyr_sects" title="Category:Satyr sects">sects</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Axxarien" title="Axxarien">Axxarien</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bleakheart" title="Bleakheart">Bleakheart</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deth%27ryll" title="Deth'ryll">Deth'ryll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fallenroot" title="Fallenroot">Fallenroot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmusk" title="Felmusk">Felmusk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haldarr" title="Haldarr">Haldarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hatefury" title="Hatefury">Hatefury</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jadefire" title="Jadefire">Jadefire</a></li><li><a href="https://wowpedia.fandom.com/wiki/Legashi" title="Legashi">Legashi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lords_of_the_Emerald_Flame" title="Lords of the Emerald Flame">Lords of the Emerald Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nazzivus" title="Nazzivus">Nazzivus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nethervine" title="Nethervine">Nethervine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Putridus" title="Putridus">Putridus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargeron_(Outland)" title="Sargeron (Outland)">Sargeron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound" title="Unbound">Unbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildspawn" title="Wildspawn">Wildspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xavian" title="Xavian">Xavian</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shadow_Council" title="Shadow Council">Shadow Council</a> (<a href="https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe)" title="Shadow Council (alternate universe)">alternate</a>)</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus_Wake" title="Argus Wake">Argus Wake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Blade_clan" title="Burning Blade clan">Burning Blade clan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cabal" title="Cabal">Cabal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand" title="Cult of the Dark Strand">Cult of the Dark Strand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathshadow" title="Deathshadow">Deathshadow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gorebound" title="Gorebound">Gorebound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargerei" title="Sargerei">Sargerei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Searing_Blade" title="Searing Blade">Searing Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe)" title="Sethekk (alternate universe)">Sethekk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsworn" title="Shadowsworn">Shadowsworn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Undead" title="Undead">Undead</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Risen" title="Risen">Risen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Loyalists" title="Dreadlord Loyalists">Dreadlord Loyalists</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Third_invasion" title="Third invasion">Third invasion</a>'s allies</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deadwood" title="Deadwood">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Felbound tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Felfin tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrage" title="Felrage">Felrage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrock" title="Felrock">Felrock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cragtalon" title="Cragtalon">Feltalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bloodtotem_tribe" title="Bloodtotem tribe">Feltotem tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Tideskorn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Felskorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drekirjar" title="Drekirjar">Drekirjar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonespeakers" title="Bonespeakers">Bonespeakers</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Veiled_Hand" title="Veiled Hand">Veiled Hand</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Archival_Authority_of_Argus" title="Archival Authority of Argus">Archival Authority of Argus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Green_Flame" title="Cult of the Green Flame">Cult of the Green Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Nethersworn" title="Cult of the Nethersworn">Cult of the Nethersworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Iron_Horde" title="Iron Horde">Iron Horde</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hidden" title="Hidden">Hidden</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Defectors | 
+
+-   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
+-   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") blood elves
+-   Some [Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest") demons
+
+
+
+ |
+|  |
+| [Burning  
+Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") | 
+
+-   [Battle of Shar'gel](https://wowpedia.fandom.com/wiki/Battle_of_Shar%27gel "Battle of Shar'gel")
+-   [First invasion of Azeroth](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
+-   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei")
+-   [Second invasion of Azeroth](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion")
+    -   [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
+    -   [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War")
+-   Attempted Azeroth invasions
+    -   [Invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland")
+        -   [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas")
+    -   [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity")
+-   [Third invasion of Azeroth](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion")
+    -   [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign")
+
+
+
+ |
+|  |
+| 
+
+-   [Darkstorm](https://wowpedia.fandom.com/wiki/Darkstorm "Darkstorm")
+-   [Burning Legion category](https://wowpedia.fandom.com/wiki/Category:Burning_Legion "Category:Burning Legion")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Titans "Template:Titans")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Titans?action=edit)
+
+[Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |

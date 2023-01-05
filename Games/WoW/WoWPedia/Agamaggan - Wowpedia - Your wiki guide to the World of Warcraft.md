@@ -1,0 +1,351 @@
+_For his appearance in [Razorfen Kraul](https://wowpedia.fandom.com/wiki/Razorfen_Kraul "Razorfen Kraul"), see [Spirit of Agamaggan](https://wowpedia.fandom.com/wiki/Spirit_of_Agamaggan "Spirit of Agamaggan")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Agamaggan |
+| --- |
+| [![Image of Agamaggan](https://static.wikia.nocookie.net/wowpedia/images/3/34/Agamaggan_TCG.jpg/revision/latest/scale-to-width-down/200?cb=20151025093329)](https://static.wikia.nocookie.net/wowpedia/images/3/34/Agamaggan_TCG.jpg/revision/latest?cb=20151025093329 "Image of Agamaggan") |
+| Title | The Great Boar,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-2">[2]</a></sup>  
+the Razorboar<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-3">[3]</a></sup> |
+| Gender | Male |
+| Race(s) | [Boar](https://wowpedia.fandom.com/wiki/Boar "Boar") ([Ancient Guardian](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian")) (Beast) |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Location | [Razorfen Downs](https://wowpedia.fandom.com/wiki/Razorfen_Downs "Razorfen Downs") (remains)  
+[Various](https://wowpedia.fandom.com/wiki/Agamaggan#Locations) |
+| Status | Deceased, [spirit](https://wowpedia.fandom.com/wiki/Spirit_of_Agamaggan "Spirit of Agamaggan") in [Razorfen Kraul](https://wowpedia.fandom.com/wiki/Razorfen_Kraul "Razorfen Kraul") |
+| Relative(s) | [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar") (mortal offspring) |
+
+**Agamaggan**, the Great [Boar](https://wowpedia.fandom.com/wiki/Boar "Boar"), was one of the [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") and one of the first and most powerful beings to ever live.<sup id="cite_ref-Agamaggan_4-0"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Agamaggan-4">[4]</a></sup> He was killed during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), and his remains became what is today the [Razorfen](https://wowpedia.fandom.com/wiki/Razorfen_Kraul "Razorfen Kraul"). Agamaggan is the progenitor of the [quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar") race, who worship him fervently.<sup id="cite_ref-Agamaggan_4-1"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Agamaggan-4">[4]</a></sup>
+
+## Biography
+
+### War of the Ancients
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Agamaggan_WotA.jpg/revision/latest/scale-to-width-down/180?cb=20160905020235)](https://static.wikia.nocookie.net/wowpedia/images/9/97/Agamaggan_WotA.jpg/revision/latest?cb=20160905020235)
+
+Agamaggan in the War of the Ancients, as seen in [Malorne's Nightmare](https://wowpedia.fandom.com/wiki/Malorne%27s_Nightmare "Malorne's Nightmare").
+
+During the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), Agamaggan was one of the many [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God") that [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") rallied to join with the [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance") against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and assault [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari").<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-5">[5]</a></sup> He slew thousands of [doomguards](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard") and [felguards](https://wowpedia.fandom.com/wiki/Felguard "Felguard") with fury. He stomped the ground with his massive hooves, breathed corrosive acid upon his enemies and [cast rains of thorns](https://wowpedia.fandom.com/wiki/Quilbeast "Quilbeast") detaching from his back, causing considerable harm to the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon").
+
+The battle between Agamaggan and the demons was lengthy, and ranged across the continent, toward the west. Agamaggan even fought the [pit lord](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan") [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth"), [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")'s lieutenant. Eventually, the great boar fell before the endless numbers of the demons, sacrificing himself to allow [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and others to reach the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-6">[6]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/60/Spirit_of_Agamaggan.jpg/revision/latest/scale-to-width-down/180?cb=20220612150835)](https://static.wikia.nocookie.net/wowpedia/images/6/60/Spirit_of_Agamaggan.jpg/revision/latest?cb=20220612150835)
+
+The [Spirit of Agamaggan](https://wowpedia.fandom.com/wiki/Spirit_of_Agamaggan "Spirit of Agamaggan").
+
+Thousands of years after Agamaggan's death, [Charlga Razorflank](https://wowpedia.fandom.com/wiki/Charlga_Razorflank "Charlga Razorflank"), crone of the [Death's Head](https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe "Death's Head tribe") and [Razorfen tribes](https://wowpedia.fandom.com/wiki/Razorfen_tribe "Razorfen tribe"), sought to resurrect the demigod. However, the dark and violent rituals Charlga and her minions performed were quite at odds with the Ancient's noble and protective demeanor.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-7">[7]</a></sup> In response, the [Spirit of Agamaggan](https://wowpedia.fandom.com/wiki/Spirit_of_Agamaggan "Spirit of Agamaggan") appeared in the [Razorfen Kraul](https://wowpedia.fandom.com/wiki/Razorfen_Kraul "Razorfen Kraul"), causing the entire area to come alive.<sup id="cite_ref-Agamaggan_4-2"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Agamaggan-4">[4]</a></sup> The Spirit asked [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to help defeat Charlga in the hope of steering the demigod's children back to their noble roots.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-8">[8]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+When [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne") becomes trapped in the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") and forced to [relive](https://wowpedia.fandom.com/wiki/Malorne%27s_Nightmare "Malorne's Nightmare") his death at the hands of [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") during the War of the Ancients, a figment of Agamaggan is seen battling demons nearby.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-9">[9]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Spirit of Agamaggan](https://wowpedia.fandom.com/wiki/Spirit_of_Agamaggan "Spirit of Agamaggan") | 41 | 16,050 |
+| [Malorne's Nightmare](https://wowpedia.fandom.com/wiki/Malorne%27s_Nightmare "Malorne's Nightmare") | 110 | 1,039,267,008 |
+
+## Legacy
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Razorfen_Downs.jpg/revision/latest/scale-to-width-down/180?cb=20060915094946)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Razorfen_Downs.jpg/revision/latest?cb=20060915094946)
+
+The entrance to [Razorfen Downs](https://wowpedia.fandom.com/wiki/Razorfen_Downs "Razorfen Downs") is thought to be Agamaggan's skull.
+
+Legends state that where Agamaggan fell, his blood gave rise to great masses of thorny vines. Many of his [quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar") descendants have taken up residence in the largest cluster of giant thorns, the [Razorfen](https://wowpedia.fandom.com/wiki/Razorfen_Kraul "Razorfen Kraul"), which they revere as Agamaggan's resting place.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-10">[10]</a></sup> Agamaggan's body makes up the entirety of the Razorfen, the holiest of all thorn clusters, but the [Razorfen Downs](https://wowpedia.fandom.com/wiki/Razorfen_Downs "Razorfen Downs") are especially protected because the entrance is made from the demigod's great maw. The quilboar believe that it will swallow whole those not loyal to him, and spit out their bodies after Agamaggan has chewed them up. According to [Mangletooth](https://wowpedia.fandom.com/wiki/Mangletooth "Mangletooth"): "Agamaggan has left his body behind to protect us, and he gives of his spirit so we may protect him."<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-11">[11]</a></sup>
+
+The [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") and [geomancers](https://wowpedia.fandom.com/wiki/Geomancer "Geomancer") of the quilboar tribes call upon the strength of the Great Boar to help them in battle and in their rituals.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-12">[12]</a></sup> The [Blood Shards](https://wowpedia.fandom.com/wiki/Blood_Shard "Blood Shard"), said to be formed from the blood of Agamaggan, are especially prized by the quilboar.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-13">[13]</a></sup> Boars are revered within quilboar culture, and particularly large and tenacious ones are seen as a favor from Agamaggan.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-14">[14]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8e/Agamaggan2.JPG/revision/latest/scale-to-width-down/180?cb=20061217213030)](https://static.wikia.nocookie.net/wowpedia/images/8/8e/Agamaggan2.JPG/revision/latest?cb=20061217213030)
+
+Agamaggan in _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_.
+
+_Thick masses of thorny vines hang all over the body of the looming, immense boar, curling around a wrinkled snout ending in yellowed tusks that curve sharply upward. Dark, steely eyes peer out from underneath a furrowed brow. He paws the ground with a wagon-sized hoof, causing the earth to shake and rumble, and as he snorts a cloud of steaming vapor hisses from his nostrils._<sup id="cite_ref-Shadows_&amp;_Light_71_15-0"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Shadows_&amp;_Light_71-15">[15]</a></sup>
+
+### Spirit
+
+Agamaggan's spirit is believed to reside in the afterlife. Today he is the patron of the quilboar tribes, nearly all of whom revere the boar god and pray for his return.<sup id="cite_ref-Shadows_&amp;_Light_72_16-0"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Shadows_&amp;_Light_72-16">[16]</a></sup> Further, they welcome the chance to join Agamaggan again in the afterlife.<sup id="cite_ref-Dark_Factions_121_17-0"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Dark_Factions_121-17">[17]</a></sup> Since returning to their wilder roots, some orc clans have begun to worship Agamaggan, as have some among the night elves who respect his strength and courage and wish for a return to the wilder and less ravaged time in which he lived. This worship usually takes the form of sacrifices and the consumption of burnt offerings, though on occasion more zealous worshipers will engage in single combat.<sup id="cite_ref-Shadows_&amp;_Light_72,_73_18-0"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Shadows_&amp;_Light_72,_73-18">[18]</a></sup>
+
+### Combat
+
+Hesitation in combat is unknown to Agamaggan. He will fearlessly charge and throw his full strength against any opponent. His first assault usually concentrates on spellcasters, eliminating their unpredictability from the field of battle. In the middle of a group of opponents, he will use his special attacks to knock down a number of opponents. Believing that he can gain an enemy’s strength by consuming it, he will do his best to keep fallen opponents from being recovered or revived by their allies.<sup id="cite_ref-Shadows_&amp;_Light_72_16-1"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-Shadows_&amp;_Light_72-16">[16]</a></sup>
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/To_Tame_a_Land_-_Beast_Den_Agamaggan_altar.jpg/revision/latest/scale-to-width-down/180?cb=20181006150454)](https://static.wikia.nocookie.net/wowpedia/images/f/fc/To_Tame_a_Land_-_Beast_Den_Agamaggan_altar.jpg/revision/latest?cb=20181006150454)
+
+An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_Den "Beast Den").
+
+-   When [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar") entered the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_Den "Beast Den") in [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar"), he noticed that the quilboar worship "some kind of primitive boar god."<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-19">[19]</a></sup>
+-   Agamaggan is brown in artwork and as a spirit in Razorfen Downs, but white in _Legion_.
+    -   His artwork in [Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)") seems to split the difference, showing his skin as a brownish off-white.
+-   One of the [realms](https://wowpedia.fandom.com/wiki/Realm "Realm") in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ is named after Agamaggan.
+    -   See: [Realm Names and their place in Warcraft Lore](https://wowpedia.fandom.com/wiki/Realm_Name_Lore "Realm Name Lore")
+-   Agamaggan appears in _Hearthstone_ as a Battlegrounds-exclusive called [Agamaggan, the Great Boar](https://hearthstone.fandom.com/wiki/Agamaggan,_the_Great_Boar). His artwork seemingly shows him rushing through [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") killing demons. Initially, Agamaggan was erroneously colored blue, but the card was later changed to look more like his _Legion_ colors.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Agamaggan%2C_the_Great_Boar_HS.jpg/revision/latest/scale-to-width-down/90?cb=20210506084624)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Agamaggan%2C_the_Great_Boar_HS.jpg/revision/latest?cb=20210506084624)
+    
+
+## See also
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Inv_sword_36.png/revision/latest/scale-to-width-down/16?cb=20070121002944)[\[Agamaggan's Thorn\]](https://wowpedia.fandom.com/wiki/Agamaggan%27s_Thorn)
+
+## References
+
+## External links
+
+|  |  |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/npc=106907)
+-   [WoWDB](https://www.wowdb.com/npcs/106907)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=97927)
+-   [WoWDB](https://www.wowdb.com/npcs/97927)
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+
+-   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
+-   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
+-   [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne")
+-   [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos")<sup>3rd Arbiter</sup>
+-   [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus")
+-   [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")
+-   [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")<sup>1st Arbiter</sup>
+
+
+
+ |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+
+-   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
+-   **Agamaggan**
+-   [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane")
+-   [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana")
+-   [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+-   [Ela'lothen](https://wowpedia.fandom.com/wiki/Ela%27lothen "Ela'lothen")
+-   [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn")
+-   [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne")
+-   [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Nemesis](https://wowpedia.fandom.com/wiki/Nemesis "Nemesis")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Ohn'ahra](https://wowpedia.fandom.com/wiki/Ohn%27ahra "Ohn'ahra")
+-   [Omen](https://wowpedia.fandom.com/wiki/Omen "Omen")
+-   [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla")
+-   [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc")
+-   [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol")
+-   [Wolverine guardian](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+-   [Reptilian warrior](https://wowpedia.fandom.com/wiki/Reptilian_warrior "Reptilian warrior")
+-   [Squat warrior ancient](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   [Fox ancient](https://wowpedia.fandom.com/wiki/Fox#Notes "Fox")
+-   [Winged panther ancient](https://wowpedia.fandom.com/wiki/Panther "Panther")
+
+
+
+ |
+|  |
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+
+-   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
+-   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
+-   [Akil'zon](https://wowpedia.fandom.com/wiki/Akil%27zon "Akil'zon")
+-   [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda")
+-   [Bethekk](https://wowpedia.fandom.com/wiki/Bethekk "Bethekk")
+-   [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi")
+-   [Dambala](https://wowpedia.fandom.com/wiki/Dambala "Dambala")
+-   [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk")
+-   [Gral](https://wowpedia.fandom.com/wiki/Gral "Gral")
+-   [Grimath](https://wowpedia.fandom.com/wiki/Grimath "Grimath")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer")
+-   [Halazzi](https://wowpedia.fandom.com/wiki/Halazzi "Halazzi")
+-   [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa")
+-   [Hethiss](https://wowpedia.fandom.com/wiki/Hethiss "Hethiss")
+-   [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek")
+-   [Jan'alai](https://wowpedia.fandom.com/wiki/Jan%27alai "Jan'alai")
+-   [Jani](https://wowpedia.fandom.com/wiki/Jani "Jani")
+-   [Kimbul](https://wowpedia.fandom.com/wiki/Kimbul "Kimbul")
+-   [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa_the_Huge "Krag'wa the Huge")
+-   [Lakali](https://wowpedia.fandom.com/wiki/Lakali "Lakali")
+-   [Lukou](https://wowpedia.fandom.com/wiki/Lukou "Lukou")
+-   [Mam'toth](https://wowpedia.fandom.com/wiki/Mam%27toth "Mam'toth")
+-   [Mueh'zala](https://wowpedia.fandom.com/wiki/Mueh%27zala "Mueh'zala")
+-   [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk")
+-   [Pa'ku](https://wowpedia.fandom.com/wiki/Pa%27ku "Pa'ku")
+-   [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan")
+-   [Rhunok](https://wowpedia.fandom.com/wiki/Rhunok "Rhunok")
+-   [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun")
+-   [Samedi](https://wowpedia.fandom.com/wiki/Samedi "Samedi")
+-   [Sethraliss](https://wowpedia.fandom.com/wiki/Sethraliss "Sethraliss")
+-   [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra")
+-   [Shango](https://wowpedia.fandom.com/wiki/Shango "Shango")
+-   [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah")
+-   [Sseratus](https://wowpedia.fandom.com/wiki/Sseratus "Sseratus")
+-   [Torga](https://wowpedia.fandom.com/wiki/Torga "Torga")
+-   [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja")
+-   [Torcali](https://wowpedia.fandom.com/wiki/Torcali "Torcali")
+-   [Xibala](https://wowpedia.fandom.com/wiki/Xibala_(devilsaur) "Xibala (devilsaur)")
+-   [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless")
+
+
+
+ |
+|  |
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
+-   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
+-   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
+-   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
+-   [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan")<sup>2nd, air</sup>
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
+-   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
+    -   [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu")
+    -   [Ka'alu](https://wowpedia.fandom.com/wiki/Ka%27alu "Ka'alu")
+    -   [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar")<sup><a href="https://wowpedia.fandom.com/wiki/Rukhmar_(alternate_universe)" title="Rukhmar (alternate universe)">alternate</a></sup>
+    -   [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe")<sup><a href="https://wowpedia.fandom.com/wiki/Sethe_(alternate_universe)" title="Sethe (alternate universe)">alternate</a></sup>
+    -   [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk")
+-   [Arkkoroc](https://wowpedia.fandom.com/wiki/Lord_Arkkoroc "Lord Arkkoroc")
+-   [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")
+    -   [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji")
+    -   [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao")
+    -   [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")
+    -   [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon")
+-   [Drakkari gods](https://wowpedia.fandom.com/wiki/Drakkari_tribe#Faith "Drakkari tribe")
+    -   [Dubra'Jin](https://wowpedia.fandom.com/wiki/Dubra%27Jin_(god) "Dubra'Jin (god)")
+    -   [Zim'Abwa](https://wowpedia.fandom.com/wiki/Zim%27Abwa_(god) "Zim'Abwa (god)")
+    -   [Zim'Rhuk](https://wowpedia.fandom.com/wiki/Zim%27Rhuk_(god) "Zim'Rhuk (god)")
+    -   [Zim'Torga](https://wowpedia.fandom.com/wiki/Zim%27Torga_(goddess) "Zim'Torga (goddess)")
+-   [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")
+-   [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones")
+-   [Gahz'rilla](https://wowpedia.fandom.com/wiki/Gahz%27rilla "Gahz'rilla")
+-   [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros")
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Mazu](https://wowpedia.fandom.com/wiki/Mazu "Mazu")
+-   [Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak")
+-   [Nhal'athoth](https://wowpedia.fandom.com/wiki/Nhal%27athoth "Nhal'athoth")
+-   [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos")
+-   [Primordial Aspects](https://wowpedia.fandom.com/wiki/Primordial_Aspects "Primordial Aspects")
+    -   [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur")
+-   [Tauren gods](https://wowpedia.fandom.com/wiki/Tauren#Faith "Tauren")
+    -   [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")
+    -   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+    -   [Lo'sho](https://wowpedia.fandom.com/wiki/Lo%27sho "Lo'sho")
+    -   [Mu'sha](https://wowpedia.fandom.com/wiki/Elune "Elune")
+    -   [Sky Father](https://wowpedia.fandom.com/wiki/Sky_Father "Sky Father")
+-   [Tuskarr gods](https://wowpedia.fandom.com/wiki/Tuskarr#Faith "Tuskarr")
+    -   [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk")
+    -   [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut")
+    -   [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa")
+    -   [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka")
+-   [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")
+    -   [Dimensius](https://wowpedia.fandom.com/wiki/Dimensius "Dimensius")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+    -   [Aliothe](https://wowpedia.fandom.com/wiki/Aliothe "Aliothe")
+    -   Falir
+    -   Lia
+    -   [Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard")
+    -   Ohm
+-   [Volcanoth](https://wowpedia.fandom.com/wiki/Volcanoth "Volcanoth")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+-   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
+-   [One in the Deeps](https://wowpedia.fandom.com/wiki/One_in_the_Deeps "One in the Deeps")
+-   [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa#In_the_RPG "Loa") ([Legba](https://wowpedia.fandom.com/wiki/Legba "Legba")
+-   [Ogoun](https://wowpedia.fandom.com/wiki/Ogoun "Ogoun"))
+
+
+
+ |
+|  |
+| 
+
+-   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life"))
+-   [Religion](https://wowpedia.fandom.com/wiki/Religion "Religion")
+-   [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")
+-   [God](https://wowpedia.fandom.com/wiki/God "God")
+-   [Demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod")
+-   [Wild God](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+
+
+
+ |
+
+Others like you also viewed

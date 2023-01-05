@@ -1,0 +1,674 @@
+_For her [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") raid tactics, see [Queen Azshara (Eternal Palace tactics)](https://wowpedia.fandom.com/wiki/Queen_Azshara_(Eternal_Palace_tactics) "Queen Azshara (Eternal Palace tactics)"). For her [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") dungeon tactics, see [Queen Azshara (tactics)](https://wowpedia.fandom.com/wiki/Queen_Azshara_(tactics) "Queen Azshara (tactics)"). For the zone in northeastern Kalimdor, see [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Azshara |
+| --- |
+| [![Image of Azshara](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Queen_Azshara_HS.jpg/revision/latest/scale-to-width-down/200?cb=20220324175205)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Queen_Azshara_HS.jpg/revision/latest?cb=20220324175205 "Image of Azshara") |
+| Title | Queen,  
+Lady,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-1">[1]</a></sup>  
+[see more below](https://wowpedia.fandom.com/wiki/Queen_Azshara#Titles_and_epithets) |
+| Gender | Female |
+| Race(s) | [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga") (formerly [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")) (Humanoid) |
+| Class | [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire"), [Azshara's Royal Guard](https://wowpedia.fandom.com/wiki/Azshara%27s_Royal_Guard "Azshara's Royal Guard") |
+| Former affiliation(s) | [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"),<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-2">[2]</a></sup> [Queen's Royal Guard](https://wowpedia.fandom.com/wiki/Queen%27s_Royal_Guard "Queen's Royal Guard"), [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces") |
+| Occupation | Empress of the [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") and queen of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"), [Sorceress](https://wowpedia.fandom.com/wiki/Sorceress "Sorceress") |
+| Former occupation(s) | Ruler of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") and queen of the night elves |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Queen_Azshara#Locations) |
+| Status | Alive |
+| Companion(s) | [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") (former [handmaiden](https://wowpedia.fandom.com/wiki/Handmaiden "Handmaiden")) |
+
+“I know your dreams, your lust for power. The hunger with which you pursue your desires. Kneel before me, and I will bestow talents beyond your wildest imagination. Refuse, and you will be crushed beneath the tides!”
+
+— Queen Azshara, offering adventurers a chance to serve her.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-3">[3]</a></sup>
+
+**Azshara** is the [queen](https://wowpedia.fandom.com/wiki/Queen "Queen") of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"), ruling from the underwater city of [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"). Once the beloved ruler of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") over ten thousand years ago, she was entrancingly beautiful and beloved by her people. When her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") made contact with the Dark Titan [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") and his [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), she accepted his offer to cleanse her world of the impure, of the inferior races. The Highborne and the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") worked together to summon the full might of the Legion and their master on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") through the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), but the [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance") thwarted their efforts.
+
+The Well of Eternity was destabilized, and collapsed, swallowing immense swathes of land with it in an event known as the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"). Azshara and many of her Highborne followers fell into the depths of the newly created [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") and would have drowned if not for the intervention of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"). They forged a pact and saved the Highborne by transforming them into the serpentine [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"), a price they would pay by becoming their servants.
+
+In [Battle for Azeroth](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth "Battle for Azeroth"), Azshara split open the ocean as the Alliance and Horde fleet sailed above. As both factions' naval forces were smashed on the ocean floor, she welcomed them to [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"). The Alliance and Horde had to work together to confront Azshara in her [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-4">[4]</a></sup>
+
+Queen Azshara serves as one of the supporting antagonists in _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ and _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ and later serves as the secondary antagonist in [_Battle for Azeroth_](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth").
+
+## Biography
+
+### Queen Azshara
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Azshara_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20120915180251)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Azshara_TCG.jpg/revision/latest?cb=20120915180251)
+
+Queen Azshara
+
+Queen Azshara was born with golden eyes, which were quite rare in night elves before the Great Sundering. Thus, golden eyes were commonly regarded as a sign of future greatness. Indeed, she was widely considered the most beautiful of night elves and swiftly became the most beloved monarch in night elf history. Strong-willed, manipulative, and incomparably beautiful, Azshara possessed far more magical talent than almost any other night elf. As one of the Highborne and sole heir to the throne, she had long been fascinated with the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity").
+
+Azshara's coronation ceremony lasted days. Each night, the Highborne nobility lavished precious gifts on Azshara to curry her favor, but there was one she cherished more than all the others. A night elf named Lord [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius") presented the queen with a jeweled scepter, etched with delicate magical sigils. He promised Azshara that so long as she kept it close, it would bring her prosperity and great power. Azshara held the scepter aloft, and the jewels shimmered in the light of the moons like brilliant stars. The sight of the queen and her gift was so beautiful that it brought many of the attendant Highborne to tears. One of the first things Azshara did with the scepter was to use its power to enhance her legendary beauty. As the years wore on, the queen seemed to grow younger and more mesmerizing. A brilliant aura enveloped Azshara, enthralling those who looked upon her. The Highborne marveled at this strange phenomenon. A few even took it as a sign of divinity.<sup id="cite_ref-Research_5-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Research-5">[5]</a></sup>
+
+After her coronation, she indulged her interests to the fullest. Soon she ordered the construction of a lavishly bejeweled palace on one of the Well's shores. Seeking to please the queen, the nobles proposed that the night elf capital city be renamed in her honor. Azshara graciously accepted, and after a much-heated debate, the city's name was changed to [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"), or "glory of Azshara". Night elves everywhere celebrated the city's new name, for they loved their queen as much as they distrusted the decadent [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") or the quel'dorei. Such was her charm that her people did not truly consider her one of the Highborne. Azshara was adored by all kaldorei, but she reserved her love only for her Highborne, the corrupt noble elite, who were hated among the jealous masses, for amongst the Highborne were some of the most powerful practitioners of magic. Azshara and her court took up residence in the new palace as soon as it was complete.
+
+Azshara ordered her Highborne to join the night elf priests in trying to uncover the secrets of the Well. In their quest to learn its secrets, the night elves discovered that they could manipulate the cosmic energies flowing from the Well.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-6">[6]</a></sup> Perhaps no one was more suited to this task than Azshara. She was one of the greatest magic users who had ever lived. As she honed her command over the lake's energies, she infused a drop of its living waters into her bejeweled scepter. Queen Azshara's enchanted scepter afforded her great power. Imbued with the Well of Eternity's potent waters, it held sway over the rivers and the seas, aquatic creatures of all kinds, and the life energies that stirred within Azshara herself. She granted it a new name, one befitting its remarkable properties:  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Inv_mace_1h_artifactazshara_d_01.png/revision/latest/scale-to-width-down/16?cb=20180823203819)[\[Sharas'dal, Scepter of Tides\]](https://wowpedia.fandom.com/wiki/Sharas%27dal,_Scepter_of_Tides).<sup id="cite_ref-Research_5-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Research-5">[5]</a></sup> Many of the Highborne living in the palace devoted themselves to constant study of the Well. As their obsession grew, these Highborne drew magic from the Well's depths at reckless speed and channeled the chaotic energies into ever-greater spells. The Well was thrown into constant turmoil. Dark storms broke out over its surface, and its waters darkened until they became utterly black.<sup id="cite_ref-WCE_7-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup>
+
+At Azshara's behest, expeditionary forces were sent out to explore the world and expand the fledgling [kaldorei empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire")'s borders, founding the outposts of [Shandaral](https://wowpedia.fandom.com/wiki/Shandaral "Shandaral"), [Then'Ralore](https://wowpedia.fandom.com/wiki/Then%27Ralore "Then'Ralore") and [Eldre'Thalas](https://wowpedia.fandom.com/wiki/Eldre%27Thalas "Eldre'Thalas"). Azshara herself oversaw the construction of [Lathar'Lazal](https://wowpedia.fandom.com/wiki/Lathar%27Lazal "Lathar'Lazal"), a temple of [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") built on the western edges of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)").<sup id="cite_ref-Chronicle95_8-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Chronicle95-8">[8]</a></sup> As masons constructed the temple, Azshara shaped the waters around it with  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Inv_mace_1h_artifactazshara_d_01.png/revision/latest/scale-to-width-down/16?cb=20180823203819)[\[Sharas'dal, Scepter of Tides\]](https://wowpedia.fandom.com/wiki/Sharas%27dal,_Scepter_of_Tides). She spoke the names of the rivers and the seas, and they moved at her command. Salt water from the roaring ocean and fresh water from the mountain streams trickled to Azshara's side. With the flick of her wrist, the queen partitioned them into great lakes that hugged Lathar'Lazal's sturdy foundation. Creatures of all kinds populated these waters, and they were at Azshara's beck and call. Whenever she walked the bridges of Lathar'Lazal, nearby schools of exotic fish would array themselves in colorful patterns. She even kept a colossal [sea giant](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant") bound to one of the lakes. She used her scepter to make him perform tricks and feats of strength, much to the delight of the watching [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"). Curious night elves from the far corners of the empire journeyed to Lathar'Lazal to study the mythical creature and his habits.<sup id="cite_ref-Research_5-2"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Research-5">[5]</a></sup>
+
+There was, however, one location that the queen sought to avoid: [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), the sacred mountain refuge of the elusive [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God"). Unsettled by the Wild Gods and their wild, untamable homeland, the queen publicly prohibited any attempts to expand into Hyjal under the pretense that she wanted to respect the night elves' kinship with the forests, even though in truth Azshara actually despised the mountain and the harmony it represented.<sup id="cite_ref-Chronicle95_8-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Chronicle95-8">[8]</a></sup>
+
+Azshara also struck an accord with the [Zandalar tribe](https://wowpedia.fandom.com/wiki/Zandalar_tribe "Zandalar tribe") of [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"), who held considerable influence over the rest of their race. Uninterested in conquering the trolls, which the queen saw as a minor nuisance at best, she allowed the Zandalari to keep their sacred [Zandalar Mountains](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") in exchange for ending troll incursions into kaldorei territory.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-9">[9]</a></sup>
+
+### War of the Ancients
+
+One day, the queen was approached by her most trusted advisor, Counselor Xavius, with an idea of using the power of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") to cleanse the world, and make it perfect in her eyes. Their meddling with immense magic, however, drew the eye of an interested observer: [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"). Seeking to unleash his Burning Legion upon Azeroth, the Dark Titan entranced Xavius, pulling him under his power, following quickly with most of the Highborne and eventually Azshara herself. Xavius helped the queen communicate with Sargeras, whom she told of her desire to cleanse the world of the lesser races. Sargeras tricked the queen into making a portal from which was launched the first invasion of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") by the Burning Legion, an event which is now known as the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").
+
+The Burning Legion's first attack on the world of Azeroth was located at Zin-Azshari, the capital city of the ancient night elf civilization. The Burning Legion, spearheaded by Hakkar and Mannoroth, quickly decimated Zin-Azshari with no mercy, killing all that stood in their path. The second most powerful and populated city in the night elf empire, [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"), was next in line to taste the fires of the Burning Legion. Thousands of night elves were slaughtered as the dark Highborne stood safely atop their walls and Azshara laughed at the deaths of her kind. "Azshara help us!" "For Azshara!" "Run Azshara!" were among the few battle roars emanating from the chaos, but Azshara just looked away and knew that her peoples' deaths were necessary so she could be the matriarch of a new perfect world that would be shaped after her own vision.
+
+Eventually, a [resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance") was formed, but Azshara paid no attention to their efforts. Sargeras dispatched three of his most dangerous minions to do his bidding: [Hakkar the Houndmaster](https://wowpedia.fandom.com/wiki/Hakkar_the_Houndmaster "Hakkar the Houndmaster"), [Mannoroth the Destructor](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") and finally [Archimonde the Defiler](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde"). All three commanded and watched over the Legion and would have prevailed had it not been for the efforts of three night elves: [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") the druid, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") the sorcerer (twin to Malfurion), and [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") the priestess (beloved of both brothers), and three heroes from far into the future: A dragonmage in a high elf form known in humanoid shape as [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus") and as a dragon [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"), a skilled human wizard named [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), and a seasoned orc warrior named [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar").
+
+Some leagues away from Zin-Azshari, in the region of [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"), the Highborne [Prince Farondis](https://wowpedia.fandom.com/wiki/Prince_Farondis "Prince Farondis") was far enough that he did not fall under the demons' sway. Farondis decided that the only course of action for him to take was to destroy the Well of Eternity using the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Inv_misc_enchantedpearl.png/revision/latest/scale-to-width-down/16?cb=20100930220042)[\[Tidestone of Golganneth\]](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth), one of the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation"). [Vandros](https://wowpedia.fandom.com/wiki/Vandros "Vandros"), a noble in Farondis' court, caught wind of the plan and reported it to the queen. Azshara wasted no time in punishing Farondis and his people. In a frightening display of arcane energy, she destroyed the Tidestone of Golganneth and unleashed a wave of dark magic across Azsuna and its inhabitants. The land was sundered and the resident elves now wander Azsuna eternally as spirits.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-10">[10]</a></sup>
+
+When the portal to the other realm was almost open, the combined force of the night elves and their allies from the future (see [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")) charged in to destroy it. Irritated by the lack of order, Azshara approached [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") and demanded an explanation. Enraged by both his own failure and the questions asked by the Queen, he wanted to rip her head off, but quickly saw the error of his ways when he realized that Azshara was "a force against which only [his lord](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") would prove superior". Azshara forgave him that mistake and urged him on to allow [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") entrance to Kalimdor.
+
+At some point around this moment, Azshara herself was assaulted by a small band of night elves, in actuality adventurers from the future. She used her Keepers of Eternity essentially as living shields to fight for her while using a mystical shield to prevent any wounds to her. She escaped after this skirmish.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Queen_Azshara_%28Well_of_Eternity_tactics%29.jpg/revision/latest/scale-to-width-down/141?cb=20111017045102)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Queen_Azshara_%28Well_of_Eternity_tactics%29.jpg/revision/latest?cb=20111017045102)
+    
+    Queen Azshara in the Well of Eternity instance
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Azshara_Warbringers.jpg/revision/latest/scale-to-width-down/320?cb=20180826024117)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Azshara_Warbringers.jpg/revision/latest?cb=20180826024117)
+    
+    Azshara as naga in _Warbringers_.
+    
+
+### Birth of the naga
+
+Not much later, the portal was destroyed and the [Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") was upon Kalimdor. Realizing that [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") would not be coming, she decided not to tell her [handmaidens](https://wowpedia.fandom.com/wiki/Handmaiden "Handmaiden") and most loyal followers. As the ocean roared in to fill the void left by the destroyed Well of Eternity, Azshara raised Sharas'dal high. She wove a magical shield around herself and the Highborne, saving them from being crushed by the colossal waves. But it was only a momentary reprieve. The howling ocean soon swallowed the queen, Sharas'dal, and her followers. Their lungs burned for air, and so the queen willed Sharas'dal to let them breathe the water, but it did not. The scepter could not save them. As oblivion spread its arms and beckoned the desperate Highborne, a small fish with strange red eyes seemed to be whispering to Azshara to 'let go' and give up, even as the waves destroyed her palace. Eventually, Azshara's arcane shield failed, and she and her court were swept into the sea. However, something seemed to keep the queen from drowning. The fish began speaking directly to Azshara, revealing itself to be possessed by [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"). Offering Azshara visions of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") that it had ruled over in ages past, it offered to save her in exchange for becoming its servant. Azshara, ever guileful and charismatic, convinced the Old God that she would not be a servant, but become a queen to rule at its side. It could either accept the offer or potentially have no servants and be left with no way to free itself. N'Zoth reluctantly agreed, transforming her and the Highborne into [naga](https://wowpedia.fandom.com/wiki/Naga "Naga").<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-11">[11]</a></sup><sup id="cite_ref-Research_5-3"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Research-5">[5]</a></sup> Following the transformation of her and her followers, Azshara directed the naga into forging a new empire with its capital known as [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"). Azshara herself expanded with hate and rage and transformed into a massive monstrosity, reflecting the malice and wickedness that had always hidden within her core.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-12">[12]</a></sup> Queen Azshara offered [Uu'nat](https://wowpedia.fandom.com/wiki/Uu%27nat "Uu'nat"), of her most devoted followers, into N'Zoth's service.
+
+As the years wore on, Azshara relied on Sharas'dal less and less. She still treasured the scepter, but she found it was more useful in the hands of her fearsome sea witches. These loyal servants wielded Sharas'dal as a weapon to spread the naga's domain and crush all who opposed them. It was not long before the naga sea witches learned to harness Sharas'dal as Azshara had. With a swipe of the scepter, they drove thousands of aquatic predators into a frenzy and unleashed them against troublesome sea giants. With a whispered incantation, they boiled kvaldir raiders from the inside out and scattered their remains to the currents.
+
+When the sea witches were not wielding Sharas'dal, Azshara would often carry it at her side and reminisce about times long past. She still remembered Lord Xavius's promise: so long as she kept the scepter close, it would bring her prosperity and great power. The queen had lost much, but she was not dead. Far from it. In her heart, she knew that one day her empire under the sea would eclipse even that of the ancient night elves. One day, the world would be hers again, and she would not let it slip through her fingers a second time.<sup id="cite_ref-Research_5-4"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Research-5">[5]</a></sup>
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+While Azshara does not appear herself, statues depicting her appear frequently throughout Azeroth and Outland, usually in ruins inhabited by the naga.
+
+### Cataclysm
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/65/Queen-azshara.jpg/revision/latest/scale-to-width-down/140?cb=20160918141709)](https://static.wikia.nocookie.net/wowpedia/images/6/65/Queen-azshara.jpg/revision/latest?cb=20160918141709)
+
+Queen Azshara in Darkshore in _Cataclysm_.
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Azshara plays in a minor role at [Nazj'vel](https://wowpedia.fandom.com/wiki/Nazj%27vel "Nazj'vel") in southern [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") opposite [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"). It is revealed that Queen Azshara is primarily responsible for the troubles in Darkshore, as she attempts to divert Malfurion Stormrage's attention from [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"). Both Alliance and Horde players can trigger her appearance at will by killing the four [Darkscale Priestesses](https://wowpedia.fandom.com/wiki/Darkscale_Priestess "Darkscale Priestess") surrounding the  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Inv_misc_horn_04.png/revision/latest/scale-to-width-down/16?cb=20180222201822)[\[Horn of the Ancients\]](https://wowpedia.fandom.com/wiki/Horn_of_the_Ancients). Her appearance here serves more as a preview of things to come than a major part of the storyline, as evidenced by the fact that she uses the [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") model.
+
+It is later revealed that Queen Azshara would like nothing more than the total destruction of the Elemental Lord [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") because that would leave her free to rule over the oceans in his stead.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-13">[13]</a></sup> This was a command by Azshara's master [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), both for revenge against Neptulon for defying it and so that they could splinter the world's nations into isolated enclaves by halting sea travel.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-14">[14]</a></sup> To that end, Azshara personally charged the priestess [Valishj](https://wowpedia.fandom.com/wiki/Valishj "Valishj") and her [Slitherblade](https://wowpedia.fandom.com/wiki/Slitherblade "Slitherblade") naga with scouring the coast of [Desolace](https://wowpedia.fandom.com/wiki/Desolace "Desolace") for the  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Inv_misc_stonetablet_11.png/revision/latest/scale-to-width-down/16?cb=20060913183434)[\[Ancient Engravings of Neptulon\]](https://wowpedia.fandom.com/wiki/Ancient_Engravings_of_Neptulon), which would grant Azshara entrance into the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-15">[15]</a></sup> However, Valishj's efforts were thwarted by the combined efforts of the [water revenant](https://wowpedia.fandom.com/wiki/Water_revenant "Water revenant") [Lord Hydronis](https://wowpedia.fandom.com/wiki/Lord_Hydronis "Lord Hydronis") and an [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-16">[16]</a></sup>
+
+[Her past self](https://wowpedia.fandom.com/wiki/Queen_Azshara_(tactics) "Queen Azshara (tactics)") and [her royal guard](https://wowpedia.fandom.com/wiki/Queen%27s_Royal_Guard "Queen's Royal Guard") also appear as a boss when visiting the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") in the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time").
+
+### Legion
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Azshara_Azsuna.jpg/revision/latest/scale-to-width-down/140?cb=20160605193232)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Azshara_Azsuna.jpg/revision/latest?cb=20160605193232)
+
+Queen Azshara in Azsuna in _Legion_.
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Queen Azshara has sent a force led by [Tidemistress Athissa](https://wowpedia.fandom.com/wiki/Tidemistress_Athissa "Tidemistress Athissa") to [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") to retrieve the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Inv_misc_enchantedpearl.png/revision/latest/scale-to-width-down/16?cb=20100930220042)[\[Tidestone of Golganneth\]](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth). Azshara herself appears before [Prince Farondis](https://wowpedia.fandom.com/wiki/Prince_Farondis "Prince Farondis") when Farondis tries to save an [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") captured by the naga and attempts to convince him to kneel before her, but Farondis fights Azshara off. Before leaving, Azshara tells Farondis that her "wrath" is coming.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-17">[17]</a></sup> Azshara's naga form is marked as a 'vision' while her night elf form is labeled as the queen herself. What was and was not an illusion is unknown.
+
+The naga at the [Eye of Azshara](https://wowpedia.fandom.com/wiki/Eye_of_Azshara "Eye of Azshara") summon a creature known as the [Wrath of Azshara](https://wowpedia.fandom.com/wiki/Wrath_of_Azshara "Wrath of Azshara") after retrieving the Tidestone of Golganneth. When the Tidestone is taken back by adventurers, Azshara sends [Mistress Sassz'ine](https://wowpedia.fandom.com/wiki/Mistress_Sassz%27ine "Mistress Sassz'ine") to get it again.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-18">[18]</a></sup>
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Azshara_and_Stormsong.jpg/revision/latest/scale-to-width-down/180?cb=20190715233741)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Azshara_and_Stormsong.jpg/revision/latest?cb=20190715233741)
+
+Azshara speaking with Stormsong.
+
+Queen Azshara corrupted [Lord Stormsong](https://wowpedia.fandom.com/wiki/Lord_Stormsong "Lord Stormsong") and most of the [Tidesages](https://wowpedia.fandom.com/wiki/Tidesage "Tidesage") of [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)"). She sought to gain control of the kingdom's legendary fleet. In the [Shrine of the Storm](https://wowpedia.fandom.com/wiki/Shrine_of_the_Storm "Shrine of the Storm"), she tells Lord Stormsong to deal with the intruders. She also had naga attack the western coast and summoned the [Pride of Azshara](https://wowpedia.fandom.com/wiki/Pride_of_Azshara "Pride of Azshara") to attempt to destroy [Fort Daelin](https://wowpedia.fandom.com/wiki/Fort_Daelin "Fort Daelin").
+
+Azshara struck an accord with [Zul](https://wowpedia.fandom.com/wiki/Zul "Zul") of the [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari "Zandalari"), who is scheming to free [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun").<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-19">[19]</a></sup> She sent naga to [Darkwood Shoal](https://wowpedia.fandom.com/wiki/Darkwood_Shoal "Darkwood Shoal") in [Vol'dun](https://wowpedia.fandom.com/wiki/Vol%27dun "Vol'dun") to find the  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Inv_60pvp_ring2d.png/revision/latest/scale-to-width-down/16?cb=20141002094328)[\[Ring of Tides\]](https://wowpedia.fandom.com/wiki/Ring_of_Tides), vital to her plans.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-20">[20]</a></sup>
+
+#### Rise of Azshara
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/27/Queen_Azshara_statue_Nazjatar.jpg/revision/latest/scale-to-width-down/180?cb=20190502133826)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Queen_Azshara_statue_Nazjatar.jpg/revision/latest?cb=20190502133826)
+
+A statue of Queen Azshara in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar").
+
+Following the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor_(battle) "Battle of Dazar'alor (battle)"), the naga attacked both the Alliance and Horde on shores across the Great Sea. They dragged [prisoners](https://wowpedia.fandom.com/wiki/Prisoner "Prisoner") to [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") to turn into [slaves](https://wowpedia.fandom.com/wiki/Slave "Slave"). Meanwhile, N'Zoth maneuvered [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") into the hands of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") and let the Alliance know of this in the Crucible of Storms.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-21">[21]</a></sup><sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-22">[22]</a></sup> Some time later, Nathanos Blightcaller set off from Zuldazar with Xal'atath in hand, and the Alliance fleet in hot pursuit.
+
+As the two groups neared Nazjatar's position, Azshara ordered the Tidestone of Golganneth, now in her possession once again, to be put into position. She was approached by tendrils of N'Zoth's power as her order was carried out and assured the Old God that their plans were nearing completion. Shortly afterwards, she channeled a mighty spell through the Tidestone that caused the ocean to open up around all of Nazjatar, and right under the Alliance and Horde fleets, causing them to go crashing into the now exposed seabed. She then welcomes both parties to Nazjatar.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-23">[23]</a></sup> It was also soon revealed that she had entered an alliance with the [Ashvane Trading Company](https://wowpedia.fandom.com/wiki/Ashvane_Trading_Company "Ashvane Trading Company"), with [Priscilla](https://wowpedia.fandom.com/wiki/Priscilla_Ashvane "Priscilla Ashvane") herself being given a commanding position in the naga forces, as well as allowing her to oversee the production of [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") weaponry for the naga.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-24">[24]</a></sup> She later intervened when Priscilla pleaded for her help, by rescuing her from the adventurers while telling her she won't let Priscilla die before she has "fulfilled your destiny".<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-25">[25]</a></sup>
+
+Throughout the Nazjatar campaign, she frequently spoke to Alliance and Horde heroes to challenge them to fights against her most powerful subjects, and it became clear to both parties that she was planning something that required their presence.
+
+Seeking to break Azshara's hold on the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Inv_misc_enchantedpearl.png/revision/latest/scale-to-width-down/16?cb=20100930220042)[\[Tidestone of Golganneth\]](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth), the Horde and Alliance united together and used the [Javelins of Suramar](https://wowpedia.fandom.com/wiki/Javelins_of_Suramar "Javelins of Suramar") to break the protective barrier around the pillar and kill her champion, [Lady Zharessa](https://wowpedia.fandom.com/wiki/Lady_Zharessa "Lady Zharessa").<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-26">[26]</a></sup><sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-27">[27]</a></sup> When [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") began to argue on which side would deal the final blow to her, Azshara interrupted their bickering by formally inviting all of them to enter her palace.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-28">[28]</a></sup>
+
+#### The Eternal Palace
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Queen_Azshara_%28Eternal_Palace_tactics%29.jpg/revision/latest/scale-to-width-down/180?cb=20190619183655)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Queen_Azshara_%28Eternal_Palace_tactics%29.jpg/revision/latest?cb=20190619183655)
+
+Queen Azshara in the [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison").
+
+The [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") forces stormed through the Eternal Palace as Azshara taunted and toyed with them. As they made their way to her, she used her forces to test their worthiness (including Priscilla who she transformed into a hideous, inhuman monstrosity). The factions utilized the [Heart of Azeroth](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth "Heart of Azeroth"), a powerful artifact that has been slowly empowered over time, as a weapon against Azshara's forces. Once she felt the attackers have proved themselves, she invited them to the Circle of Stars to face her.
+
+The [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison") was filled with [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") technology that was only partially powered. The Alliance and Horde worked together to fight her until it eventually became clear that Azshara was holding back her considerable power and letting them live for a reason.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  It was revealed that everything up to this point was orchestrated by Azshara, including manipulating [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") into having both factions work towards empowering the Heart of Azeroth. Once this became apparent, it was too late, as they were trapped and she siphoned the power from the heart to shatter the prison of the Old God, N'Zoth. As Azshara's attention was set on completing the ritual, the Alliance and Horde worked together, desperately trying to stop her. They thought they had succeeded, and as Queen Azshara fell, with her last gasp the lock, the final seal that contained N'zoth was broken. She was successful in completing her ultimate goal. Seconds later the titan mechanisms clicked into place, and a flash of light radiated out from the chamber and the magical bindings in the distance shattered. In the black abyss below a giant red eye flashed open and a shadowy tentacle shot upwards. It pierced the dome of the titan facility and embraced Azshara before jolting her back into consciousness. She was last seen before the tentacles brought her down the abyss.
+
+#### Ny'alotha, the Waking City
+
+Following the events in the Eternal Palace, Azshara was taken to [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City"), where she was tortured by N'Zoth's servant [Dark Inquisitor Xanesh](https://wowpedia.fandom.com/wiki/Dark_Inquisitor_Xanesh "Dark Inquisitor Xanesh"). When [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") and a group of adventurers arrived to battle Xanesh, Azshara urged them to free her as she possessed the only means of defeating N'Zoth. Upon Xanesh's defeat, Azshara revealed that she held Xal'atath and claimed that she would have driven the dagger into N'Zoth's heart herself had the Alliance and Horde not disrupted her plans. The naga then gave Xal'atath to Wrathion while warning him and the champions that if they failed to kill N'Zoth with their first blow, they would not survive to attempt another. She then declared that she was tired of dealing with "intermediaries and heralds" and that she would claim the "true throne of power" for herself, before opening a Void portal and disappearing to parts unknown.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-29">[29]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Azshara_and_Xanesh.png/revision/latest/scale-to-width-down/120?cb=20200216183147)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Azshara_and_Xanesh.png/revision/latest?cb=20200216183147)
+    
+    Xanesh torturing Azshara.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Azshara_in_Ny%27alotha.jpg/revision/latest/scale-to-width-down/94?cb=20200627143254)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Azshara_in_Ny%27alotha.jpg/revision/latest?cb=20200627143254)
+    
+    In Ny'alotha.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Azshara_and_Wrathion.png/revision/latest/scale-to-width-down/120?cb=20200216183227)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Azshara_and_Wrathion.png/revision/latest?cb=20200216183227)
+    
+    Azshara giving Xal'atath to Wrathion.
+    
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+|  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[5-30\] [The Offering to Azshara](https://wowpedia.fandom.com/wiki/The_Offering_to_Azshara) | ?? | 20,481 |
+| [Queen Azshara (tactics)](https://wowpedia.fandom.com/wiki/Queen_Azshara_(tactics) "Queen Azshara (tactics)") | ?? | 4,294,600 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Save Yourself](https://wowpedia.fandom.com/wiki/Save_Yourself) | ?? | 19,018,000 |
+| [Shrine of the Storm](https://wowpedia.fandom.com/wiki/Shrine_of_the_Storm "Shrine of the Storm") | ?? | 
+<table><tbody><tr><td><b><abbr title="5-player mode">5</abbr></b></td><td>27,590,250</td></tr><tr><td><b><abbr title="5-player Heroic mode">5H</abbr></b></td><td>35,697,000</td></tr><tr><td><b><abbr title="5-player Mythic mode">5M</abbr></b></td><td>44,150,250</td></tr></tbody></table>
+
+ |
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/AzsharaSL.jpg/revision/latest/scale-to-width-down/180?cb=20150705013409)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/AzsharaSL.jpg/revision/latest?cb=20150705013409)
+
+Azshara naga appearance in the [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon") RPG.
+
+Azshara is often thought to be the greatest mortal [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") ever to live - although she may no longer be mortal.<sup id="cite_ref-DF34_30-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-DF34-30">[30]</a></sup> Azshara was considered to be one of the greatest [sorcerers](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer") as she was gifted with knowledge about magic without studying any treatises. As such, she was crowned the Sorceress-Queen of Kalimdor.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-31">[31]</a></sup>
+
+Azshara has become an Ancient and lurks beneath the waves, biding her time to reclaim her worldly power.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-32">[32]</a></sup> Queen Azshara was not drowned, but transformed into a hideous aquatic thing who will someday lead her accursed followers to retake the surface world.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-33">[33]</a></sup> Queen Azshara, her handmaidens, and many Highborne sunk into the sea. The Old Gods chose Azshara as another useful tool and transformed her, her Highborne, and her Handmaidens into Naga. The mighty Queen Azshara still lives and rules the naga. Once she awoke at the bottom of the sea, she ordered a palace built to rival her home in Azshara.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-34">[34]</a></sup>
+
+Queen Azshara lives still, in the vast city of [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") at the bottom of a deep ocean trench. She has embraced the power of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"), grown in size, and possesses many tentacles bedecked in jewels and items of power. She plots her revenge on the treacherous [Night Elves](https://wowpedia.fandom.com/wiki/Night_Elves "Night Elves"), biding her time until the growing might of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") can be brought to bear.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-35">[35]</a></sup> Living under the sea, she has become the queen of the naga.<sup id="cite_ref-S&amp;L76_36-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-S&amp;L76-36">[36]</a></sup> The naga serve Azshara without question. Most naga live in Nazjatar, their capital city. This city is built into a massive abyssal sea trench in the ocean floor, and houses Azshara's imperial palace.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-37">[37]</a></sup>
+
+The creature moves on five slithering, octopus-like tentacles, its massive round and bulbous body shifting constantly. A humanoid torso covered in thick scales rises from the body, the creature reaching at least 20 feet in height. Four arms extend from the torso, with two hands holding javelins of dark polished wood and gold-leafed tips. Despite the monstrosity of its body, the creature's face still possesses an otherworldly, feminine, almost elven beauty. Snakes writhe about her head, serving as her hair and as further eyes. A cruel smile plays across her lips, as though she is deciding whether to play with her enemies a moment longer or simply destroy them now.<sup id="cite_ref-S&amp;L75_38-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-S&amp;L75-38">[38]</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_ suggests that Azshara's altered body is with octopus-like tentacles quite different from those of ordinary naga.
+
+When Azshara finally decided to make the naga's existence known, she sent [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") to establish contact with the surface dwellers.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-39">[39]</a></sup> She yet seeks revenge against the night elves who defeated her, slowly readying her naga subjects in Nazjatar to show their might to all of Azeroth.<sup id="cite_ref-S&amp;L76_36-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-S&amp;L76-36">[36]</a></sup> The world grows wary of what the changed Queen Azshara may attempt in the coming future.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-40">[40]</a></sup>
+
+She imbued [Frostfathom](https://wowpedia.fandom.com/wiki/Frostfathom "Frostfathom") with its icy burst quality, making it even deadlier for her favored agent to wield.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-41">[41]</a></sup>
+
+### Javelins of Suramar
+
+[Javelins of Suramar](https://wowpedia.fandom.com/wiki/Javelins_of_Suramar "Javelins of Suramar") were wielded by Azshara in the [Eternal Palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace"), and she wields them still in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") as queen of the naga.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-42">[42]</a></sup>
+
+### Potential fate
+
+In a desperate gamble, the Alliance was planning to outfit hundreds of their best and brightest with the magic and technological items necessary to survive underwater. With the help of some allied [makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura"), they planned to stage an attack on [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"). However, the attack would simply be a distraction in order to allow a small group of adventurers to enter the city, steal into the palace, overcome Queen Azshara's defenses, capture her, and return her to the surface. The Alliance plans to either siphon the captured queen's [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") powers or use her to enlist the help of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-43">[43]</a></sup>
+
+## Personality and powers
+
+Charismatic and beautiful, Azshara outwardly portrayed herself as a kind, generous, loving monarch who adored her people and her empire with all her heart. In truth, however, she was a vain, cruel, power-hungry narcissist who cared for herself above all else. An intensely manipulative individual, she fostered her own benevolent image solely so she could take complete advantage of it. Although she did hold favor for her Highborne and handmaidens, it was not out of love, respect, or any form of benevolence. It was purely out of how useful they were to her. She never hesitated to throw their lives away if it suited her, and such was her power and charms that they would do so for her gladly, completely unaware of her indifference. She held very little loyalty either, as she freely gave her allegiance to the Old Gods so she could survive the Sundering when she had been one of the most devout servants of Sargeras mere moments before (and whom she considered to be the only worthy potential mate). Of particular note, however, is despite her cruel and dominating personality, she rarely ever raised her voice when angry or made direct insults of her minions.
+
+Perhaps Azshara's greatest ability was her immense charisma and stunning beauty, the latter of which she augmented further through mystical means. Such was her physical and mental appeal that none ever noticed her true personality, no matter how cruel or destructive her commands might be. The vast majority of her servitors were willing to go to any means to elevate themselves in her eyes, even at the cost of their own lives. Demons who were around her long enough fell prey to her wiles and would kill their own kin under her command.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-44">[44]</a></sup> [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius"), who considered himself above her charms, was, in fact, completely enamored.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  Incredibly vain, Azshara surrounds herself with opulence and wealth, her throne room a sealed, air-filled chamber (not underwater, as might be practical for a naga) simply so it can be decorated with elaborate fountains and waterfalls, one of them used like a mirror. She goes so far as to admit she could drown the heroes at any time by simply canceling the Tidestone's spell, but does not simply out of desire for them to amuse her.
+
+However, Azshara was much, much more than a pretty face. She was one of the most powerful mages to ever walk the face of Azeroth, wielding the arcane with such skill that she is known to have even been able to suppress her magical glow, as proved when Illidan noticed her intensifying it after receiving his new eyes.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-45">[45]</a></sup> With barely an effort she shielded her palace from the Sundering, and alter her own body to increase her beauty. So great was her power that when [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth"), once growing enraged at her questioning him, attempted to kill her he realized, to his chagrin, that Azshara was far more powerful than he, and that only [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") and [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") would prove superior.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-46">[46]</a></sup> This power which she achieved on her own was before she was empowered by N'Zoth and became the queen of the naga. [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") would later refer to her as perhaps the greatest sorceress the world of Azeroth had ever known.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-47">[47]</a></sup><sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-48">[48]</a></sup>
+
+## Appearance
+
+### As a night elf
+
+Queen Azshara was tall - even taller than many men, and she moved with a grace that even a cat would envy her, with great pride and grace. She spoke with a voice so enchanting it could send any man running into his certain death. Her skin was a deep violet, and her long, luscious hair cascaded as silver down her shoulders and back.<sup id="cite_ref-WoE89_49-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WoE89-49">[49]</a></sup> Her eyes were golden and, as with other night elves, without pupils in them.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-50">[50]</a></sup>
+
+This description did not, however, fit how she was modeled in the previews of her appearance in the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") instance in [patch 4.3.0](https://wowpedia.fandom.com/wiki/Patch_4.3.0 "Patch 4.3.0"), where she was displayed with dark blue hair, rather than moonlight silver, blue eyes, rather than golden, and a skin tone that's almost gray, rather than deep violet. Nor was her hair cascading, as Richard Knaak describes her several times in [The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity") book, but rather appeared tied up in an elaborate knot. It appeared to be based on a popular piece of fan art, seen below. This, however, was later changed and Azshara got a brand new texture fitting the description of the novel.
+
+### As a naga
+
+When [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") found the statue of Azshara in the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), she noticed that the queen resembled a night elf but with a snake-like tail.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-51">[51]</a></sup> Not mentioned, it also had an extra set of arms. During flashbacks in the mission, statues like this appear more night elven, and gold in color, and morph during scene transitions.
+
+In _World of Warcraft_, statues of the queen depict her as a normal female naga.
+
+When Tyrande attempted to rescue Malfurion during the [War Against the Nightmare](https://wowpedia.fandom.com/wiki/War_Against_the_Nightmare "War Against the Nightmare"), the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") produced a hallucination of Azshara (playing on Tyrande's fears of becoming like the evil queen):
+
+_A monstrous, blue-green face leered at her. It was elven, yet almost akin to some monstrous fish. Finlike projections extended not only from the head, but coursed down the scaled back. Indeed, scales covered the face and the curved chest as well. The hands were webbed and clawed, more like those of some ocean predator. They, though, were still more akin to a night elf's form than the lower part of the things body. Rather than legs, it moved upon what appeared some combination of a snake's and an eel's slippery torso. It was, in fact, the spiny_ tail _of that torso which sought to strangle Tyrande. ... It was and was not the queen. There was just enough of Azshara's features in the scaled face, though the eyes were fiery red orbs that sought to burn into the high priestess's mind._<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-52">[52]</a></sup>
+
+In Darkshore and Azsuna, Azshara is seen projecting a sort of avatar or image herself to oversee her plans in the regions. This image resembles her handmaidens, and in the latter zone she alters its appearance to resemble her original night elf form.
+
+She finally appears in her true form in official art surrounding _Battle for Azeroth_ and as a hologram speaking to Lord Stormsong in the Shrine of the Storm. Here she resembles the description given in the pen and paper RPG; a monstrous creature melding a naga torso with the tentacles of a squid (or possibly a kraken) from the waist down, multiple arms, one wielding a spear. She also possesses three eyes, and her "hair" resembles the tentacles of a sea anemone, rather than snakes.
+
+## Titles and epithets
+
+As a naga
+
+-   Queen of the Naga<sup id="cite_ref-UVG_53-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-UVG-53">[53]</a></sup>
+-   Empress of Nazjatar<sup id="cite_ref-UVG_53-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-UVG-53">[53]</a></sup>
+-   Her Radiance<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-54">[54]</a></sup>
+-   The Light Beneath the Tides<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-55">[55]</a></sup>
+-   Queen Beneath the Tides<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-56">[56]</a></sup>
+-   Queen of Tides<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-57">[57]</a></sup><sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-58">[58]</a></sup>
+-   The Vainglorious<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-59">[59]</a></sup><sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-60">[60]</a></sup>
+
+As a night elf
+
+-   Queen of the Kaldorei Empire<sup id="cite_ref-UVG_53-2"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-UVG-53">[53]</a></sup>
+-   Cherished Heart of the People<sup id="cite_ref-WCE_7-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup>
+-   Daughter of the Moon<sup id="cite_ref-WCE_7-2"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup><sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-61">[61]</a></sup>
+-   Flower of Life<sup id="cite_ref-WCE_7-3"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup><sup id="cite_ref-WoEquotes_62-0"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WoEquotes-62">[62]</a></sup>
+-   Flower of the Moon<sup id="cite_ref-WCE_7-4"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup>
+-   Glory of Our People<sup id="cite_ref-WCE_7-5"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup>
+-   Her Glory<sup id="cite_ref-WCE_7-6"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup>
+-   Light of Lights<sup id="cite_ref-WCE_7-7"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup><sup id="cite_ref-WoEquotes_62-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WoEquotes-62">[62]</a></sup><sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-63">[63]</a></sup>
+-   Light of the Moon<sup id="cite_ref-WCE_7-8"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup><sup id="cite_ref-WoE89_49-1"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WoE89-49">[49]</a></sup>
+-   Light of a Thousand Moons<sup id="cite_ref-WCE_7-9"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup><sup id="cite_ref-WoEquotes_62-2"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WoEquotes-62">[62]</a></sup><sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-64">[64]</a></sup>
+-   The Queen Born of Stars<sup id="cite_ref-Research_5-5"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Research-5">[5]</a></sup>
+-   Radiance of the Moon<sup id="cite_ref-WCE_7-10"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup>
+-   Vision of Perfection<sup id="cite_ref-WCE_7-11"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup>
+
+## Plaque
+
+[![Queen-Azshara-statue.jpg](https://static.wikia.nocookie.net/wowpedia/images/1/14/Queen-Azshara-statue.jpg/revision/latest/scale-to-width-down/180?cb=20110219012216)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Queen-Azshara-statue.jpg/revision/latest?cb=20110219012216)
+
+A statue of Queen Azshara is located in the [Quel'Dormir Gardens](https://wowpedia.fandom.com/wiki/Quel%27Dormir_Gardens "Quel'Dormir Gardens") of the [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse").
+
+Queen Azshara
+
+Let this statue stand in testament to our unending devotion to our venerable Queen Azshara.
+
+## Memorable quotes
+
+-   **Queen Ashara yells:** I am Azshara! I was destined to rule! No force can bind me!
+-   "There has only ever been, only ever will be... _one_ Azshara."
+-   "To fully prepare for a world of perfection, all the imperfect must be swept away."
+-   "Sacrifices are always required in the name of glorious pursuits."
+-   "What is [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") to the great [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")?"
+-   "Dear [Kur'talos](https://wowpedia.fandom.com/wiki/Kur%27talos_Ravencrest "Kur'talos Ravencrest")... I always thought him my most cherished servant, and this is how he rewards me. I've decided that Lord Ravencrest has displeased me, [Varo'then](https://wowpedia.fandom.com/wiki/Varo%27then "Varo'then"). Can you remedy that?"
+-   "I've been most impressed by you, Illidan Stormrage! So very clever, so very powerful! Even our Lord Sargeras sees that or else why would he grant you such a precious gift? Such a shame to lose the beautiful amber eyes, though...I know it hurts much..."
+-   "Please! For [you](https://wowpedia.fandom.com/wiki/Illidan "Illidan"), I'm merely Azshara...such a handsome face! So strong, too...and with the mark of the Great One there as well!"
+-   "Lord [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth"). I find myself disappointed with the lack of order taking place before the arrival of Sargeras."<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-65">[65]</a></sup>
+-   "For the sake of our Lord Sargeras I shall forgive [your](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") outburst...this time."<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-66">[66]</a></sup>
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Azshara_card_back.png/revision/latest/scale-to-width-down/180?cb=20220701135819)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Azshara_card_back.png/revision/latest?cb=20220701135819)
+
+A card back themed after Azshara in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_.
+
+-   Azshara appears as [a legendary minion](https://hearthstone.fandom.com/wiki/Queen_Azshara "hswiki:Queen Azshara") in the _[Voyage to the Sunken City](https://hearthstone.fandom.com/wiki/Voyage_to_the_Sunken_City "hswiki:Voyage to the Sunken City")_ expansion. Her Battlecry effect allows the player to choose one of four relic cards to add to their hand: the [Horn of Ancients](https://wowpedia.fandom.com/wiki/Horn_of_the_Ancients "Horn of the Ancients"), [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth"), [Ring of Tides](https://wowpedia.fandom.com/wiki/Ring_of_Tides "Ring of Tides"), or [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire "Xal'atath, Blade of the Black Empire"). Her flavor text reads: _Hobbies include: Ordering subjects around, making deals with old gods, and taking long walks under the beach._
+-   Pre-purchasing the _Voyage to the Sunken City_ Mega Bundle unlocked Azshara in her night elf form as an [alternate mage hero](https://hearthstone.fandom.com/wiki/Queen_Azshara_(hero) "hswiki:Queen Azshara (hero)"), along with the Azshara [card back](https://hearthstone.fandom.com/wiki/card_back "hswiki:card back"). The hero's flavor text reads: _Though she cut a deal with N'Zoth to survive the Sundering, she does not react kindly to hearing "Old gods<sup>[<a href="https://wowpedia.fandom.com/wiki/Template:Sic" title="Template:Sic"><span title="Indicates that an inaccuracy was present in the original quote.">sic</span></a>]</sup> save the queen!"_ The card back's flavor text reads: _Don't let appearances deceive you. She's quite particular about the company she keeps._
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Queen_Azshara_HS_Korea_advertising.jpg/revision/latest/scale-to-width-down/87?cb=20220418215232)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Queen_Azshara_HS_Korea_advertising.jpg/revision/latest?cb=20220418215232)
+    
+    Advertising illustration.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Queen%27s_Vengeance_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220627155147)](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Queen%27s_Vengeance_HS.jpg/revision/latest?cb=20220627155147)
+    
+
+## Notes and trivia
+
+-   [Lord Ravencrest](https://wowpedia.fandom.com/wiki/Lord_Ravencrest "Lord Ravencrest") appointed [Theryssia](https://wowpedia.fandom.com/wiki/Theryssia "Theryssia") as Queen Azshara's personal guard, but she kept her secrets well. By the time Theryssia saw the demons first-hand, it was already too late. The Queen's thirst for power doomed them all. Theryssia was eventually drawn back to [Black Rook Hold](https://wowpedia.fandom.com/wiki/Black_Rook_Hold "Black Rook Hold").
+-   500 years ago, Azshara imprisoned a being named [Leviroth](https://wowpedia.fandom.com/wiki/Leviroth "Leviroth") in the waters [Riplash Ruins](https://wowpedia.fandom.com/wiki/Riplash_Ruins "Riplash Ruins"). She also blessed the  ![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Inv_spear_04.png/revision/latest/scale-to-width-down/16?cb=20060923205933)[\[Trident of Naz'jan\]](https://wowpedia.fandom.com/wiki/Trident_of_Naz%27jan) belonging to the [Riplash](https://wowpedia.fandom.com/wiki/Riplash "Riplash")'s emperor [Raj Naz'jan](https://wowpedia.fandom.com/wiki/Raj_Naz%27jan "Raj Naz'jan").
+-   According to [The Old Wizard's Almanac](https://wowpedia.fandom.com/wiki/The_Old_Wizard%27s_Almanac "The Old Wizard's Almanac"), Azshara was reputedly one of the most powerful magic-users in Azeroth's history.
+-   At some point she wore  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/Trade_archaeology_queenazshara_dressinggown.png/revision/latest/scale-to-width-down/16?cb=20100910171424)[\[Queen Azshara's Dressing Gown\]](https://wowpedia.fandom.com/wiki/Queen_Azshara%27s_Dressing_Gown).
+-   She once accepted a cat figurine as a gift, even though she never really liked cats. This apparently set off some sort of assumption from others that crystalline cat figurines were the perfect gift for her (and what you should give if you wanted to curry her favor).<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-67">[67]</a></sup>
+-   Those who knew Azshara generally believed her to be dead.<sup id="cite_ref-WCE_7-12"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-WCE-7">[7]</a></sup><sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-68">[68]</a></sup>
+-   Lady Vashj uses battlecries that refer to Azshara: "For the empress!" and "In Azshara's name."<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-69">[69]</a></sup>
+-   She was described as a [demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod").<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-70">[70]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/0/01/Inv_misc_coin_17.png/revision/latest/scale-to-width-down/16?cb=20080911133117)[\[Queen Azshara's Royal Seal\]](https://wowpedia.fandom.com/wiki/Queen_Azshara%27s_Royal_Seal) can be [fished](https://wowpedia.fandom.com/wiki/Fished "Fished") up from the [fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain") in the [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") version of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran").
+-   She was described on the Cataclysm version of the website as: _Strong-willed, manipulative, and incomparably beautiful, Azshara possessed far more magical talent than almost any other night elf in her time. Ten thousand years ago, she and the other Highborne brought Azeroth dangerously close to complete destruction when their meddling with arcane magic caught the attention of the Great Enemy, Sargeras. Corrupted by the influence of the fallen titan, Azshara set in motion a plan to bring the Burning Legion to Azeroth, a plan that caused the War of the Ancients and the Great Sundering of Azeroth. Beautiful, cruel Azshara was swallowed by the seas, never to be seen again... or so it was believed. The naga revere Azshara as a demigod, one who is still very much alive. How she could have survived the Sundering, and at what cost, remain mysteries that not many would dare to probe._<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-71">[71]</a></sup>
+-   Her magic control is so strong that she can cast  ![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Spell_nature_starfall.png/revision/latest/scale-to-width-down/16?cb=20070106061631)[\[Arcane Missiles\]](https://wowpedia.fandom.com/wiki/Arcane_Missiles) at any target within sight while in the middle of doing something else.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-72">[72]</a></sup>
+-   During  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[5-30\] [The Offering to Azshara](https://wowpedia.fandom.com/wiki/The_Offering_to_Azshara), she uses a placeholder model.
+-   Azshara is voiced by [Laura Post](https://wowpedia.fandom.com/wiki/Laura_Post "Laura Post").<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-73">[73]</a></sup>
+-   Her snake hair, much like that of other female naga with similar features, is most likely inspired by the Gorgons from Greek mythology (the most famous of which was Medusa).
+-   Queen Azshara is most likely a reference to "[Asherah](http://en.wikipedia.org/wiki/Asherah)", a Semitic mother goddess who was worshipped in the ancient middle east. She is in the Ba'al Epic, and her name translates to "She who treads on the sea".
+-   She also has some of the features of [Nataraja](https://en.wikipedia.org/wiki/Nataraja), an avatar of the Hindu god Shiva, with the snake like hair and several arms. Similarly, her statues resemble those of other Hindu gods like Durga or Kali.
+-   It seems that the demonym for items and customs dating back from Queen Azshara's reign is "Azsharan", as indicated by the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Inv_1h_auchindoun_01.png/revision/latest/scale-to-width-down/16?cb=20070113142847)[\[Azsharan Councillor's Clasp\]](https://wowpedia.fandom.com/wiki/Azsharan_Councillor%27s_Clasp),  ![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Inv_offhand_ulduarraid_d_03.png/revision/latest/scale-to-width-down/16?cb=20090228101548)[\[Azsharan Court Scepter\]](https://wowpedia.fandom.com/wiki/Azsharan_Court_Scepter) or  ![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Inv_sword_10.png/revision/latest/scale-to-width-down/16?cb=20060925135205)[\[Azsharan Queensguard Blade\]](https://wowpedia.fandom.com/wiki/Azsharan_Queensguard_Blade).
+-   In _Battle for Azeroth_ beta, the [prophet Zul](https://wowpedia.fandom.com/wiki/Prophet_Zul "Prophet Zul") was corresponding with Azshara in a  ![](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Inv_letter_19.png/revision/latest/scale-to-width-down/16?cb=20080831174732)[\[Report from Zuldazar\]](https://wowpedia.fandom.com/wiki/Report_from_Zuldazar).
+-   Azshara ruled the Kaldorei Empire for at least 2,000 years since [Eldre'Thalas](https://wowpedia.fandom.com/wiki/Dire_Maul "Dire Maul"), which was constructed during her reign,<sup id="cite_ref-Chronicle95_8-2"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-Chronicle95-8">[8]</a></sup> was built 2,000 years before the Sundering.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-74">[74]</a></sup><sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_note-75">[75]</a></sup>
+-   Azshara is the first active antagonist to assign World Quests to the player directly, doing so in Nazjatar.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/99/Statue_of_Queen_Azshara.jpg/revision/latest/scale-to-width-down/120?cb=20080504031901)](https://static.wikia.nocookie.net/wowpedia/images/9/99/Statue_of_Queen_Azshara.jpg/revision/latest?cb=20080504031901)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Well_of_Eternity_-_Azshara.jpg/revision/latest/scale-to-width-down/120?cb=20110923181241)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Well_of_Eternity_-_Azshara.jpg/revision/latest?cb=20110923181241)
+    
+    An earlier version of Azshara's model in the Well of Eternity instance.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Warbringers_Azshara_holding_a_barrier.jpg/revision/latest/scale-to-width-down/120?cb=20180826155804)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Warbringers_Azshara_holding_a_barrier.jpg/revision/latest?cb=20180826155804)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/95/Azshara_concept_art.jpg/revision/latest/scale-to-width-down/79?cb=20180224050527)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Azshara_concept_art.jpg/revision/latest?cb=20180224050527)
+    
+    _Battle for Azeroth_ concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Azshara_GC2018.png/revision/latest/scale-to-width-down/120?cb=20180817113306)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Azshara_GC2018.png/revision/latest?cb=20180817113306)
+    
+    Azshara on the Gamescom 2018 key art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Rise_of_Azshara_art.jpg/revision/latest/scale-to-width-down/120?cb=20190625173540)](https://static.wikia.nocookie.net/wowpedia/images/9/97/Rise_of_Azshara_art.jpg/revision/latest?cb=20190625173540)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Queen_Azshara_N%27Zoth_shadow_tentacle.jpg/revision/latest/scale-to-width-down/120?cb=20190706174736)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Queen_Azshara_N%27Zoth_shadow_tentacle.jpg/revision/latest?cb=20190706174736)
+    
+    Queen Azshara and [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")'s shadow tentacle.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Queen_Azshara_statue_in_Zin-Azshari.jpg/revision/latest/scale-to-width-down/120?cb=20190706173745)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Queen_Azshara_statue_in_Zin-Azshari.jpg/revision/latest?cb=20190706173745)
+    
+    Queen Azshara statue in Zin-Azshari.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Memory_of_the_Pact.jpg/revision/latest/scale-to-width-down/88?cb=20190721213918)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Memory_of_the_Pact.jpg/revision/latest?cb=20190721213918)
+    
+
+TCG
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/The_Vainglorious_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160412163756)](https://static.wikia.nocookie.net/wowpedia/images/4/47/The_Vainglorious_TCG.jpg/revision/latest?cb=20160412163756)
+    
+    Azshara the Vainglorious.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/33/Queen_of_Madness_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160430234221)](https://static.wikia.nocookie.net/wowpedia/images/3/33/Queen_of_Madness_TCG.jpg/revision/latest?cb=20160430234221)
+    
+    Azshara, the Queen of Madness.
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Azshara_portal.jpg/revision/latest/scale-to-width-down/120?cb=20160427211516)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Azshara_portal.jpg/revision/latest?cb=20160427211516)
+    
+    Azshara looks on as the portal is prepared for the coming of Sargeras.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d1/The_Light_of_Lights_by_PepperWolf.jpg/revision/latest/scale-to-width-down/120?cb=20100508205346)](https://static.wikia.nocookie.net/wowpedia/images/d/d1/The_Light_of_Lights_by_PepperWolf.jpg/revision/latest?cb=20100508205346)
+    
+    Queen Azshara.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Queen_Azshara.jpg/revision/latest/scale-to-width-down/120?cb=20160427210654)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Queen_Azshara.jpg/revision/latest?cb=20160427210654)
+    
+    Queen Azshara in _Cataclysm_.
+    
+
+## Videos
+
+-   [Suramar Intro](https://wowpedia.fandom.com/wiki/Queen_Azshara#)
+-   [Warbringers: Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara#)
+-   [Rise of Azshara Cinematic (Alliance)](https://wowpedia.fandom.com/wiki/Queen_Azshara#)
+-   [Azshara's Eternal Palace - Raid Finale Cinematic (Spoilers)](https://wowpedia.fandom.com/wiki/Queen_Azshara#)
+
+## Patch changes
+
+## See also
+
+-   Image of Queen Azshara
+-   [Server:Azshara](https://wowpedia.fandom.com/wiki/Server:Azshara "Server:Azshara")
+    -   [Realm names and their place in Warcraft lore](https://wowpedia.fandom.com/wiki/Realm_name_lore "Realm name lore")
+-   [TCG card](https://wowpedia.fandom.com/wiki/Queen_Azshara_(TCG_Timewalkers) "Queen Azshara (TCG Timewalkers)")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-1) [Lady Ssathara#Quotes](https://wowpedia.fandom.com/wiki/Lady_Ssathara#Quotes "Lady Ssathara")
+2.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-2) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 40, 174, 197
+3.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-3) [Queen Azshara (Eternal Palace tactics)](https://wowpedia.fandom.com/wiki/Queen_Azshara_(Eternal_Palace_tactics) "Queen Azshara (Eternal Palace tactics)")
+4.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-4) [World of Warcraft: What's next panel](https://worldofwarcraft.com/en-us/news/22646758/world-of-warcraft-what-s-next-panel-recap)
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Research_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Research_5-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Research_5-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Research_5-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Research_5-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Research_5-5">f</a></sup> [Words of Wind and Earth](https://wowpedia.fandom.com/wiki/Words_of_Wind_and_Earth "Words of Wind and Earth")
+6.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-6) [Gadgetzan Times/A Magical History of Azeroth](https://wowpedia.fandom.com/wiki/Gadgetzan_Times/A_Magical_History_of_Azeroth "Gadgetzan Times/A Magical History of Azeroth")
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-6">g</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-7">h</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-8">i</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-9">j</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-10">k</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-11">l</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WCE_7-12">m</a></sup> [The Warcraft Encyclopedia/Azshara](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Azshara "The Warcraft Encyclopedia/Azshara")
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Chronicle95_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Chronicle95_8-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-Chronicle95_8-2">c</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 95
+9.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-9) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 98
+10.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-10)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Children of Nar'thalas](https://wowpedia.fandom.com/wiki/Children_of_Nar%27thalas)
+11.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-11) _[Warbringers: Azshara](https://wowpedia.fandom.com/wiki/Warbringers "Warbringers")_
+12.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-12) [The Sundering of the World](https://wowpedia.fandom.com/wiki/The_Sundering_of_the_World "The Sundering of the World")
+13.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-13) [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides")
+14.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-14) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 205
+15.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-15)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-30\] [Deep Impact](https://wowpedia.fandom.com/wiki/Deep_Impact)
+16.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-16)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-30\] [A Revenant's Vengeance](https://wowpedia.fandom.com/wiki/A_Revenant%27s_Vengeance)
+17.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-17)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Save Yourself](https://wowpedia.fandom.com/wiki/Save_Yourself)
+18.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-18) **Mistress Sassz'ine yells:** These fools bring the Tidestone to us! Just as our blessed queen foresaw it!
+19.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-19)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-60\] [Word from the Deep](https://wowpedia.fandom.com/wiki/Word_from_the_Deep)
+20.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-20)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-60\] [Hidden Motives](https://wowpedia.fandom.com/wiki/Hidden_Motives)
+21.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-21)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [The Black Blade](https://wowpedia.fandom.com/wiki/The_Black_Blade)
+22.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-22)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [The Missing Blade](https://wowpedia.fandom.com/wiki/The_Missing_Blade)
+23.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-23) [of Azshara Now Live – Cinematic (Alliance)](https://www.youtube.com/watch?v=SszpZF8KCN8%7CRise)
+24.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-24)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Stealing the Naga's Secrets](https://wowpedia.fandom.com/wiki/Stealing_the_Naga%27s_Secrets)
+25.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-25)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Clearing Out the Cache](https://wowpedia.fandom.com/wiki/Clearing_Out_the_Cache)
+26.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-26)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [The Tide Turns](https://wowpedia.fandom.com/wiki/The_Tide_Turns)
+27.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-27)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Changing Tides](https://wowpedia.fandom.com/wiki/Changing_Tides)
+28.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-28)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50R\] [The Eternal Palace: Queen's Gambit](https://wowpedia.fandom.com/wiki/The_Eternal_Palace:_Queen%27s_Gambit)
+29.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-29) [Dark Inquisitor Xanesh#Quotes](https://wowpedia.fandom.com/wiki/Dark_Inquisitor_Xanesh#Quotes "Dark Inquisitor Xanesh")
+30.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-DF34_30-0) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 34
+31.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-31) _[Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft:_The_Roleplaying_Game "Warcraft: The Roleplaying Game")_, pg. 20
+32.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-32) _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_, pg. 251
+33.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-33) _[Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft:_The_Roleplaying_Game "Warcraft: The Roleplaying Game")_, pg. 187
+34.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-34) _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 72 - 73
+35.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-35) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 66
+36.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-S&amp;L76_36-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-S&amp;L76_36-1">b</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 76
+37.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-37) _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 19
+38.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-S&L75_38-0) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 75
+39.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-39) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 189
+40.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-40) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 71
+41.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-41) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 173
+42.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-42) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 169
+43.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-43) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 74
+44.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-44) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 569
+45.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-45) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 146 - 147
+46.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-46) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 310
+47.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-47)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50R\] [The Eternal Palace: Queen's Gambit](https://wowpedia.fandom.com/wiki/The_Eternal_Palace:_Queen%27s_Gambit)
+48.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-48) [Lor'themar Theron's gossip in Newhome](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron#Battle_for_Azeroth_2 "Lor'themar Theron")
+49.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WoE89_49-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WoE89_49-1">b</a></sup> _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 89
+50.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-50) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 2
+51.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-51) [The Tomb of Sargeras (WC3 NightElf)](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_(WC3_NightElf) "The Tomb of Sargeras (WC3 NightElf)")
+52.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-52) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, pg. 189 - 190
+53.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-UVG_53-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-UVG_53-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-UVG_53-2">c</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 174
+54.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-54)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Nar'thalas Still Suffers](https://wowpedia.fandom.com/wiki/Nar%27thalas_Still_Suffers)
+55.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-55)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Nar'thalas Still Suffers](https://wowpedia.fandom.com/wiki/Nar%27thalas_Still_Suffers)
+56.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-56)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [The Tidestone: Shattered](https://wowpedia.fandom.com/wiki/The_Tidestone:_Shattered)
+57.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-57) [Rise of Azshara Features Trailer description](https://www.youtube.com/watch?v=gKsOfD52yvU)
+58.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-58) [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") 2019-06-20. [Preview: Nazjatar Visitor’s Guide](https://worldofwarcraft.com/en-us/news/23034748). Retrieved on 2019-06-21.
+59.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-59)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35D\] [The Vainglorious](https://wowpedia.fandom.com/wiki/The_Vainglorious)
+60.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-60) [Blademaster Okani#Gossip](https://wowpedia.fandom.com/wiki/Blademaster_Okani#Gossip "Blademaster Okani")
+61.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-61) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 90
+62.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WoEquotes_62-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WoEquotes_62-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-WoEquotes_62-2">c</a></sup> [Enchanted Magus](https://wowpedia.fandom.com/wiki/Queen_Azshara_(tactics) "Queen Azshara (tactics)")
+63.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-63)  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Trade_alchemy_dpotion_b20.png/revision/latest/scale-to-width-down/16?cb=20141002100547)[\[Vainglorious Draught\]](https://wowpedia.fandom.com/wiki/Vainglorious_Draught)
+64.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-64) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 108
+65.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-65) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 572
+66.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-66) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 573
+67.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-67)  ![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Trade_archaeology_catstatueemeraldeyes.png/revision/latest/scale-to-width-down/16?cb=20180216085018)[\[Feline Figurines Found\]](https://wowpedia.fandom.com/wiki/Feline_Figurines_Found)
+68.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-68)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[58\] [Pusillin and the Elder Azj'Tordin](https://wowpedia.fandom.com/wiki/Pusillin_and_the_Elder_Azj%27Tordin)
+69.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-69) [Quotes of Warcraft III/Neutral Heroes#Naga Sea Witch](https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III/Neutral_Heroes#Naga_Sea_Witch "Quotes of Warcraft III/Neutral Heroes")
+70.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-70) [The Warcraft Encyclopedia/Demigods](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Demigods "The Warcraft Encyclopedia/Demigods")
+71.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-71) [Faces of Cataclysm](https://web.archive.org/web/20090826193411/http://www.worldofwarcraft.com/cataclysm/features/lore.html). Archived from [the original](http://www.worldofwarcraft.com/cataclysm/features/lore.html) on 2009-08-26.
+72.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-72) [Queen Azshara (Eternal Palace tactics)](https://wowpedia.fandom.com/wiki/Queen_Azshara_(Eternal_Palace_tactics) "Queen Azshara (Eternal Palace tactics)"):  ![Ability mage missilebarrage.png](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Ability_mage_missilebarrage.png/revision/latest/scale-to-width-down/16?cb=20180218112709) [**Arcane Mastery**](https://www.wowhead.com/?spell=300502) — Azshara's control over magic is so strong that she can cast Arcane Missiles at any targets in line of sight without interrupting her current actions. Victims suffer 24216 Arcane damage.
+73.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-73) [Video Games: World of Warcraft: Cataclysm](https://laurapost.net/)
+74.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-74) [Game Guide: World Dungeons - Dire Maul](https://wowpedia.fandom.com/wiki/Game_Guide/World_Dungeons#Dire_Maul "Game Guide/World Dungeons")
+75.  [^](https://wowpedia.fandom.com/wiki/Queen_Azshara#cite_ref-75) _[Killing Ground](https://wowpedia.fandom.com/wiki/Killing_Ground "Killing Ground")_, pg. 7
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Queen+Azshara#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Queen+Azshara#t1:npcs)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   **Azshara**
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+
+ |
+|  |
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+
+-   [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+| 
+
+-   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
+
+
+
+ |

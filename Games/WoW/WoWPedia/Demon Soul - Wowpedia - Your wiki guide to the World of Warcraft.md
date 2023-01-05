@@ -1,0 +1,129 @@
+_For the former warlock ability, see  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Spell_warlock_demonsoul.png/revision/latest/scale-to-width-down/16?cb=20100928164932)[\[Demon Soul\]](https://wowpedia.fandom.com/wiki/Demon_Soul_(warlock_ability)). For the raid instance, see [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul"). For the book, see [The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Dragon_Soul_HS.jpg/revision/latest/scale-to-width-down/180?cb=20171219174602)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Dragon_Soul_HS.jpg/revision/latest?cb=20171219174602)
+
+The Dragon Soul in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_.
+
+The **Demon Soul**, also known as the **Demon Stone**<sup id="cite_ref-The_Demon_Chain_1-0"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-The_Demon_Chain-1">[1]</a></sup> and formerly as the **Dragon Soul**, was an artifact of great power created by [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") shortly before the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). Though it appeared to be a featureless golden disk, it was, in fact, a talisman of immense power that could be used to destroy or enslave other [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon"). The artifact was forged by Deathwing's [goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [slaves](https://wowpedia.fandom.com/wiki/Slave "Slave"), fused with the taint of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") and finally mixed with the blood of Deathwing himself.
+
+The Demon Soul was once fastened to the **[Demon Chain](https://wowpedia.fandom.com/wiki/The_Demon_Chain "The Demon Chain")**, a seemingly ordinary loop of ornamental [elementium](https://wowpedia.fandom.com/wiki/Elementium "Elementium") chain that fills one's mind with dread as it touches one's flesh.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-2">[2]</a></sup> The Soul has long since been destroyed, but the Chain, which may hold some residual power, was last seen in the possession of [Warlord Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela").<sup id="cite_ref-The_Demon_Chain_1-1"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-The_Demon_Chain-1">[1]</a></sup>
+
+## History
+
+### Creation
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Legacies_Demon_Soul.jpg/revision/latest/scale-to-width-down/180?cb=20221227025641)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Legacies_Demon_Soul.jpg/revision/latest?cb=20221227025641)
+
+The Demon Soul as seen in _[Legacies](https://wowpedia.fandom.com/wiki/Legacies "Legacies")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Legacies_Demon_Soul_2.jpg/revision/latest/scale-to-width-down/180?cb=20221227025643)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Legacies_Demon_Soul_2.jpg/revision/latest?cb=20221227025643)
+
+[Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") and the dragonflights empowering the Demon Soul.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4d/WoE_Dragon_Soul.jpg/revision/latest/scale-to-width-down/180?cb=20151217195011)](https://static.wikia.nocookie.net/wowpedia/images/4/4d/WoE_Dragon_Soul.jpg/revision/latest?cb=20151217195011)
+
+The Dragon Soul being used to stabilize the Well of Eternity's portal.
+
+At some point shortly before the War of the Ancients, Neltharion used the skills of his goblin artificer-servants to create an artifact of incredible power. It was fastened to the [a chain](https://wowpedia.fandom.com/wiki/The_Demon_Chain "The Demon Chain") forged of [elementium](https://wowpedia.fandom.com/wiki/Elementium "Elementium"). The golden, perfect disk was infused with the power of his [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") masters, and with both the essence of [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon") and [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"). Neltharion sought to use it to control the other [dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight"), and make himself a god to be worshiped by the mortal races.
+
+During an accidental cave-in that tore a scale from his body, Neltharion found that his matter - even as small as a scale - could and did damage the Soul. He thus had to take great care to avoid damaging it. When it was ready, Neltharion revealed his creation to his fellow Aspects and convinced them to give their own essences, which then made them and their flight unable to damage the disc.
+
+In the last combined fight of the dragons of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), Neltharion arrayed the dragons of all the other flights into a magical matrix that enhanced the device's power greatly. During this battle, Neltharion revealed his madness and used the Dragon Soul to wreak havoc on both the Burning Legion and the helpless night elves, killing thousands and demanding that all of Azeroth, including the other dragon flights and the Great Aspects, bow to his mastery. [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), the Aspect of Magic, and his [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") attempted to stop Neltharion, who summarily executed the entirety of the blue flight with the exception of Malygos himself. The other dragons were locked in Neltharion's control until the unexpected intervention of [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") broke his concentration and allowed the other dragons to counter-attack. This proved a failure, however, and Neltharion scattered the hundreds of assembled dragons before retreating from the field of battle, taking the Dragon Soul with him.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-3">[3]</a></sup>
+
+In time, it became clear that the powerful Soul was corrupting Neltharion's body, causing it to bloat and tear; his beloved creation was ripping him apart. With the aid of his goblin artificers, Neltharion had immense adamantium plates bolted into the scales in order to keep the destructive power at bay. Driven completely to madness, it is around this time (probably influenced by the future-Korialstrasz, known as [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus")) that the artifact became known as the Demon Soul, and that Neltharion received the name he is known by today. In order to prevent it from being used against them again, [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar"), Korialstrasz (Krasus), along with the night elf druid [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), attempted to steal the artifact. Malfurion succeeded in obtaining the artifact but was captured by [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")'s soldiers led by his own brother, [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), who had agreed to obtain the artifact to allow [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") entry into Azeroth.
+
+The Soul was used as part of a portal to be opened within the depths of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") itself. Before the portal could be opened, however, the Soul's spellwork was disrupted, reversing the portal to pull the Legion out of Azeroth, but also beginning the Sundering. As it fell towards the Well of Eternity's surface, it was seized by none other than Nozdormu who brought it far into the future. After the Sundering of the World finished, and the artifact's return from the future, Malfurion, and the four remaining Aspects placed a spell on the Demon Soul that would prevent Deathwing from ever using it again, and then hid the foul disk in a place where only the four dragons would find it, but not Deathwing.
+
+### Second War
+
+At some point, Deathwing still found out the location of the Demon Soul in the [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains") anyway. As the weapon had been enchanted after the war so that no dragon could wield it, the black leviathan couldn't touch it, but others like the new-coming [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") could. So ten thousand years later, after the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), Deathwing granted visions to [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked"), chieftain of the orcish [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan"). The visions manipulated him toward a hidden place deep beneath the mountains, protected by wards and the red dragon [Orastrasz](https://wowpedia.fandom.com/wiki/Orastrasz "Orastrasz"). Dozens of Dragonmaw orcs died against Orastrasz, unfamiliar as they were with dragons, but they succeeded. Zuluhed ordered his clan's greatest warlock, [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher"), to retrieve the Dragon Soul. Sensing the dark power within, Nekros renamed it the Demon Soul. Far from the Redridge Mountains, Alexstrasza sensed the wards breaking and grew concerned when she heard no word from Orastrasz. She and several of her red dragons hurried south, though she believed that some mortal had found the disc and Orastrasz was currently hunting for it and that it would be easy to help him retrieve. In truth, they were heading right into Deathwing's trap.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-4">[4]</a></sup>
+
+Deathwing taught Nekros how to use the Demon Soul through dreams and visions. With it, the Dragonmaw clan was able to enslave Alexstrasza shortly after the Horde assaulted [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan"). He could not use it on the other dragons as he had to focus on her, but by lashing out at Alexstrasza with the disc's power whenever her dragons tried to intervene, Nekros was able to get them to do as he ordered. Alexstrasza was brought to [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol"), where she was forced to lay eggs. The adult dragons were used as powerful war mounts, while the eggs would be raised as loyal [whelps](https://wowpedia.fandom.com/wiki/Dragon_whelp "Dragon whelp").<sup id="cite_ref-Chronicle155-156_5-0"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-Chronicle155-156-5">[5]</a></sup> Korialstrasz - in his guise as Krasus, a member of the senior council of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") - had discovered Deathwing's identity as Lord Prestor, and his revealing the location of the Soul to the orcs. Sending his student, [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), on a mission to free Alexstrasza, Krasus attempted to obtain the aid of the other three Aspects - Malygos, Nozdormu, and Ysera - to free Alexstrasza from the orcs, and subsequently from Deathwing himself.
+
+Rhonin, who had been "rescued" by Deathwing twice during the course of his mission, was manipulated by the black Aspect to locate Alexstrasza and free her (or so he led Rhonin to believe). Giving him one of his scales to act as a talisman, allowing him to communicate with Rhonin and see what the human mage saw, Deathwing sent Rhonin on his way to Grim Batol. He finally discovered Alexstrasza's location and the imminent moveout of the Dragonmaw clan (under the belief that the Alliance intended to invade). As Deathwing held the upper hand in a battle with the other, weakened Aspects, including the now-free Alexstrasza, Rhonin was able to use the scale Deathwing had given him to destroy the disk. Cutting the scale across the surface, Rhonin unleashed the power trapped within, and with a quick spell, returned to the Aspects their essence given at the creation of the Dragon Soul, who proceeded to defeat and hunt their treacherous brother.
+
+### Night of the Dragon
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9f/Dragon_Soul_Ulduar.jpg/revision/latest/scale-to-width-down/140?cb=20190313065415)](https://static.wikia.nocookie.net/wowpedia/images/9/9f/Dragon_Soul_Ulduar.jpg/revision/latest?cb=20190313065415)
+
+The Dragon Soul as seen in [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")'s mind chamber.
+
+Though the Demon Soul's power was lost with its destruction, it still had enough power within it to be of some use. [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia"), Prime Consort of the Destroyer, collected the fragments of the Demon Soul and found power within them still. Using their power combined with [Balacgos's Bane](https://wowpedia.fandom.com/wiki/Balacgos%27s_Bane "Balacgos's Bane"), a stolen staff of the naaru and the essence of the [nether dragon](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon") [Zzeraku](https://wowpedia.fandom.com/wiki/Zzeraku "Zzeraku"), Sintharia (or Sinestra, as she preferred to be called) experimented with the eggs of various dragonflights. The end result was the [twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight"), a sinister creation that could absorb magical energy from any living thing - particularly enemy dragons. One such monstrosity, [Dargonax](https://wowpedia.fandom.com/wiki/Dargonax "Dargonax"), was a cunning and ambitious creature who sought to overthrow his "mother" and take the world for himself.
+
+[Zendarin Windrunner](https://wowpedia.fandom.com/wiki/Zendarin_Windrunner "Zendarin Windrunner"), a cousin of the Windrunner sisters, had allied himself with Sintharia in order to gain access to a vast fount of energy and steal the partially restored Demon Soul. Ultimately this brought him into conflict with his cousin [Vereesa](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner"), who sought revenge for Zendarin's attempted kidnapping of her twin sons. The battle resulted in the death of Zendarin and the final destruction of the Demon Soul, when the naaru staff he carried touched the foul artifact as he released all of its energy. This was possible because Sintharia had shielded the artifact from all Azerothian magic, and the staff had been from [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). Sintharia attempted to reconstruct it - having fallen to the same protective madness over the artifact as Deathwing had - but it was once again destroyed, this time for good, when it impacted with the unstable Balacgos's Bane thrown by Korialstrasz, obliterating both artifacts.
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Dragon_Soul.jpg/revision/latest/scale-to-width-down/180?cb=20191228183724)](https://static.wikia.nocookie.net/wowpedia/images/9/97/Dragon_Soul.jpg/revision/latest?cb=20191228183724)
+
+The Dragon Aspects creating the Dragon Soul, as seen in Yogg-Saron's mind chamber.
+
+During the battle against [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics) "Yogg-Saron (tactics)"), the Old God showed a vision of the Dragon Aspects creating the Dragon Soul ten thousand years earlier, when the [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") entered his mind.
+
+### Cataclysm
+
+#### Charge of the Aspects
+
+After the defeat of [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros"), the aspects gathered to discuss how to end Deathwing once and for all, and after listening to the research gathered by [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") and his flight it had become clear to them that they needed a weapon like none that had ever come before it. A short while later [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") realized that the Demon Soul was, in fact, that weapon and proposed using to her fellow Aspects. While initially doubtful [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") was convinced by Ysera and Kalec of the need to use the artifact and was given the task to convince [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") of this need as well. Nozdormu hesitated to do believing that doing so would make no different than [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond"), but Alexstrasza made him see that the intention was noble and ultimately convinced him that they needed the demon soul.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-6">[6]</a></sup>
+
+#### Caverns of Time
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+_Main article: [Well of Eternity (instance)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Thrall_with_the_Dragon_Soul.jpg/revision/latest/scale-to-width-down/140?cb=20221214225039)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Thrall_with_the_Dragon_Soul.jpg/revision/latest?cb=20221214225039)
+
+Thrall with the Dragon Soul.
+
+With a gateway to the past open, Nozdormu transported adventurers to Azshara's palace, where they witnessed one of the most catastrophic events in the War of the Ancients. While assisting the much younger Tyrande and Illidan in a battle against the Highborne and Burning Legion, adventurers stole the Dragon Soul hovering above the Well. With so many of Azshara's most empowered wizards locked in ritual and pouring their magical energies into the turbulent depths of the Well, retrieving the Dragon Soul required victory over some lethal foes.
+
+After recovering a version of the artifact from the Caverns of Time, [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and the allied dragonflights rallied at Wyrmrest Temple in a desperate bid to use its might to defeat Deathwing. Created by the titans as a sanctuary for all dragonkin, the crumbling Wyrmrest Temple was now the final hope for the forces allied against the black dragon Neltharion, once the Earth-Warder and protector of Azeroth, now Deathwing the Destroyer.
+
+#### Hour of Twilight
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Legacies_Thrall_%26_Demon_Soul.jpg/revision/latest/scale-to-width-down/180?cb=20221227211331)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Legacies_Thrall_%26_Demon_Soul.jpg/revision/latest?cb=20221227211331)
+
+Thrall using the Demon Soul.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Legacies_Deathwing_death.jpg/revision/latest/scale-to-width-down/180?cb=20221227211921)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Legacies_Deathwing_death.jpg/revision/latest?cb=20221227211921)
+
+The Demon Soul's power destroying Deathwing.
+
+It is here that the remaining aspects -- Alexstrasza, Ysera, Nozdormu, Kalecgos, and Thrall -- have gathered to empower the Dragon Soul -- Azeroth's last chance to stop the great behemoth. As they begin to charge the Dragon Soul with energy, Deathwing and his entire army assault Wyrmrest Temple. Heroes had to thwart the attacking forces long enough for Thrall to charge the Dragon Soul. After the heroes of Azeroth defeated Ultraxion Thrall unleashed the Dragon Soul, injuring the corrupted aspect. Deathwing fled the battle to recover in Deepholm but he was pursued and badly injured by another shot from the artifact. Deathwing fell into the Maelstrom, and losing what little remained of his sanity he rose up without his armor and deformed. The heroes of Azeroth and the Aspects were able to successfully delay him long enough to finish charging the Dragon Soul, and with a single blast from the artifact, the Destroyer was no more. Ironically, the artifact that had been created to dominate and enslave the world had ended up saving it from destruction.
+
+The Dragon Soul was returned to its exact time in history.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Demon_Soul#cite_note-7">[7]</a></sup>
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+The Dragon Soul appears as [a legendary card](https://hearthstone.fandom.com/wiki/Dragon_Soul "hswiki:Dragon Soul") for the [priest](https://wowpedia.fandom.com/wiki/Priest "Priest") class in the _[Kobolds & Catacombs](https://wowpedia.fandom.com/wiki/Hearthstone:_Kobolds_%26_Catacombs "Hearthstone: Kobolds & Catacombs")_ expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. Its flavor text reads: _"Crafted by Deathwing's goblin horde, but the dragon added the rainbow sparkles himself."_
+
+## Notes and trivia
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Legacies_Dragon_death.jpg/revision/latest/scale-to-width-down/120?cb=20221227211339)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Legacies_Dragon_death.jpg/revision/latest?cb=20221227211339)
+    
+    A dragon killed by the Demon Soul, as seen in _[Legacies](https://wowpedia.fandom.com/wiki/Legacies "Legacies")_.
+    
+
+## Patch changes
+
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.3.0](https://wowpedia.fandom.com/wiki/Patch_4.3.0 "Patch 4.3.0") (2011-11-29):** Added as **The Dragon Soul**.  
+    
+
+## See also
+
+-   _[The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")_, a novel in the [War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")
+-   [The Dragon Soul](https://wowpedia.fandom.com/wiki/The_Dragon_Soul_(Battle_of_the_Aspects_Treasure)), TCG card
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=The+Dragon+Soul#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=The+Dragon+Soul#t1:npcs)

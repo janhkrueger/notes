@@ -1,3 +1,20 @@
 Pet 1: Netherfeendrache mit Mondfeuer, Arkanschlag und Lebensaustausch
 Pet 2: Chrominus mit Arkane Explosion, Heulen und Kraftsog
 Pet 3: Götze des Anubisath mit Zerquetschen, Sandsturm und Abwehr
+
+evtl ausweichen bei Pet 2: Nexuswelpling mit Schwanzfeger, Manawoge und Arkaner Sturm
+
+
+There are actually 5 different Kura NPCs. I'm guessing that each one has a specific team, so I'm going to try to catalog them as I see them.
+
+Kura Thunderhoof fights with Spores, Dusty, and Salad.
+Kura Thunderhoof fights with Moon, Mouthy, and Carl.
+Kura Thunderhoof fights with Enbi'see, Mal, and Bones.
+Kura Thunderhoof fights with Sprouts, Prince Charming, and Runts.
+Kura Thunderhoof fights with Nicodemus, Brisby, and Jenner.
+
+Set one (strat): Spores + Dusty + Salad = weak to Magic, Magic, Aquatic
+Set two (strat): Nicodemus + Brisby + Jenner = weak to Beast, Beast, Beast
+Set three (strat): Sprouts + Prince Charming + Runts = weak to Aquatic, Flying, Mechanical
+Set four (strat): Moon + Mouthy + Carl = weak to Flying, Flying, Mechanical
+Set five (strat): Enbi'see + Mal + Bones = weak to Magic, Magic, Critter

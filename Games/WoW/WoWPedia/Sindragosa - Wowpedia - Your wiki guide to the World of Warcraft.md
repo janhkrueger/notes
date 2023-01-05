@@ -1,0 +1,428 @@
+_For information on how to defeat Sindragosa in Icecrown Citadel, see [Sindragosa (tactics)](https://wowpedia.fandom.com/wiki/Sindragosa_(tactics) "Sindragosa (tactics)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Sindragosa |
+| --- |
+| 
+-   [Dragon](https://wowpedia.fandom.com/wiki/Sindragosa#)
+    
+-   [Simulacrum](https://wowpedia.fandom.com/wiki/Sindragosa#)
+    
+
+[![Sindragosa TCG.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Sindragosa_TCG.jpg/revision/latest/scale-to-width-down/200?cb=20220512193206)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Sindragosa_TCG.jpg/revision/latest?cb=20220512193206)
+
+[![Sindragosa Simulacrum Cinematic.png](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Sindragosa_Simulacrum_Cinematic.png/revision/latest/scale-to-width-down/123?cb=20221219035053)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Sindragosa_Simulacrum_Cinematic.png/revision/latest?cb=20221219035053)
+
+
+
+ |
+| Title | The Frost Queen,  
+Queen of the Frostbrood,  
+Azure Queen<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-1">[1]</a></sup>,  
+The Arcane Simulacrum |
+| Gender | Female |
+| Race | [Frost wyrm](https://wowpedia.fandom.com/wiki/Frost_wyrm "Frost wyrm") (Undead / Dragonkin) |
+| Affiliation(s) | [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") |
+| Former affiliation(s) | [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight"), [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood") |
+| Occupation | The Arcane Simulacrum |
+| Former occupation(s) | Prime consort of [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), Queen of the Frostbrood, mount of the Lich King<sup id="cite_ref-Frost_Infusion_2-0"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Frost_Infusion-2">[2]</a></sup> |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Sindragosa#Locations),  
+[Azure Span](https://wowpedia.fandom.com/wiki/Sindragosa#Locations) (Simulacrum) |
+| Status | Deceased (lore)<sup id="cite_ref-UVG_3-0"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-UVG-3">[3]</a></sup>  
+Killable ([![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King"))  
+Active ([![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") Simulacrum) |
+| Relative(s) | [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") (former consort), Umbrelskul (son) |
+| Student(s) | [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") ([![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight")) |
+
+“You are fools to have come to this place! The icy winds of Northrend will consume your souls!”
+
+— Sindragosa during her final battle
+
+**Sindragosa**, formerly the prime consort of [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") up until her death during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), was a mighty [frost wyrm](https://wowpedia.fandom.com/wiki/Frost_wyrm "Frost wyrm") raised by the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") himself to serve as the queen of the [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood").<sup id="cite_ref-Where_Dragons_Fell_4-0"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Where_Dragons_Fell-4">[4]</a></sup> She was ultimately defeated by a group of [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel_(instance) "Icecrown Citadel (instance)").
+
+## Biography
+
+### Death
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/20/Sindragosa_the_Blue_HS.jpg/revision/latest/scale-to-width-down/180?cb=20220207110805)](https://static.wikia.nocookie.net/wowpedia/images/2/20/Sindragosa_the_Blue_HS.jpg/revision/latest?cb=20220207110805)
+
+Sindragosa in life in _Hearthstone_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Living_Sindragosa.jpg/revision/latest/scale-to-width-down/180?cb=20120815060945)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Living_Sindragosa.jpg/revision/latest?cb=20120815060945)
+
+_Wrath_ cinematic concept art of Sindragosa in life
+
+Long before the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), Sindragosa was the beloved consort of [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), [Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") of the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") and guardian of all [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") magic. During the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), [Neltharion](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") the Earth Warder, Aspect of the [black flight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), convinced his dragon brethren to empower a powerful artifact called the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"), claiming that it would thwart the impeding invasion of the [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). However, Neltharion betrayed his dragon allies during the Legion's assault, provoking an apocalyptic battle in the skies over the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). Malygos and Sindragosa joined the blue dragons in surrounding the Earth Warder and charged the black dragon. However, Neltharion used the might of the the Dragon Soul to strike out, decimating nearly all of the blue dragonflight. The blast mortally wounded Sindragosa and hurled her far across the land, deep into the [frozen north](https://wowpedia.fandom.com/wiki/Northrend "Northrend").<sup id="cite_ref-UVG_3-1"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-UVG-3">[3]</a></sup><sup id="cite_ref-Cinematic_Art_5-0"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Cinematic_Art-5">[5]</a></sup>
+
+Blinded and near death, Sindragosa sought desperately to reach the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") — the place where dragons instinctively travel to die. Weakened and no longer able to fly, Sindragosa plummeted to the cold earth in the peaks of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"). The blue dragon gathered what remained of her energy and called out to Malygos for aid. Her only answer was the howling arctic wind as she struggled on, but the distance was far too great; agonizingly, she realized that her spirit would not find rest within the Dragonblight. Her life continued to fade away as her sanity deteriorated. In the midst of her delirium, Sindragosa's final thoughts turned to bitterness and hatred: hatred against the Legion, hatred against Neltharion, hatred even against Malygos. But most of all, hatred against the world of mortals. And in her dying moments, Sindragosa vowed revenge.<sup id="cite_ref-UVG_3-2"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-UVG-3">[3]</a></sup><sup id="cite_ref-Cinematic_Art_5-1"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Cinematic_Art-5">[5]</a></sup>
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Frostwyrmcinematic.jpg/revision/latest/scale-to-width-down/180?cb=20220505223611)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Frostwyrmcinematic.jpg/revision/latest?cb=20220505223611)
+
+Sindragosa in the _Wrath_ cinematic.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Sindragosa_%28tactics%29.jpg/revision/latest/scale-to-width-down/180?cb=20091115190311)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Sindragosa_%28tactics%29.jpg/revision/latest?cb=20091115190311)
+
+Sindragosa in Icecrown Citadel.
+
+“Rise, Sindragosa! Rise and lead the Frostbrood into war!”
+
+— The [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")<sup id="cite_ref-Where_Dragons_Fell_4-1"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Where_Dragons_Fell-4">[4]</a></sup>
+
+Thousands of years later, [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), awoke from his long dormancy and journeyed to [Sindragosa's Fall](https://wowpedia.fandom.com/wiki/Sindragosa%27s_Fall "Sindragosa's Fall"), where he raised Sindragosa into undeath as a mighty skeletal [frost wyrm](https://wowpedia.fandom.com/wiki/Frost_wyrm "Frost wyrm") and ordered her to lead the [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood") into war.<sup id="cite_ref-UVG_3-3"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-UVG-3">[3]</a></sup><sup id="cite_ref-Where_Dragons_Fell_4-2"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Where_Dragons_Fell-4">[4]</a></sup><sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-6">[6]</a></sup> The Lich King tore the spirits of Sindragosa's lost [whelps](https://wowpedia.fandom.com/wiki/Dragon_whelp "Dragon whelp") into undeath in front of her skeletal form as a final affront to the great dragon.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-7">[7]</a></sup> Arthas was known to use Sindragosa as a mount.<sup id="cite_ref-Frost_Infusion_2-1"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Frost_Infusion-2">[2]</a></sup>
+
+Sindragosa briefly appears in the [Pit of Saron](https://wowpedia.fandom.com/wiki/Pit_of_Saron "Pit of Saron") after the defeat of [Scourgelord Tyrannus](https://wowpedia.fandom.com/wiki/Scourgelord_Tyrannus "Scourgelord Tyrannus"). While the leader of the army of liberated slaves ([Martin Victus](https://wowpedia.fandom.com/wiki/Martin_Victus "Martin Victus") for the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Gorkun Ironskull](https://wowpedia.fandom.com/wiki/Gorkun_Ironskull "Gorkun Ironskull") for the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")) commends the [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") for their bravery, Sindragosa rises up from the pit behind them and unleashes her fury, killing the leader and their army. The adventurers are pulled back to the entrance tunnel by [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") or [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") at the last second, saving them from a grisly death.
+
+Sindragosa later retreated to her lair in the [Frostwing Halls](https://wowpedia.fandom.com/wiki/Frostwing_Halls "Frostwing Halls") of [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel_(instance) "Icecrown Citadel (instance)"), where she continued to strengthen her brood with the help of [Ymirheim](https://wowpedia.fandom.com/wiki/Ymirheim "Ymirheim")'s [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-8">[8]</a></sup> After [Valithria Dreamwalker](https://wowpedia.fandom.com/wiki/Valithria_Dreamwalker "Valithria Dreamwalker") was rescued by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), she gave the heroes verdant [life crystals](https://wowpedia.fandom.com/wiki/Pulsing_Life_Crystal "Pulsing Life Crystal") to use during their battle with Sindragosa. Valithria instructed the champions to battle the Frost Queen until she was weakened, and then use the crystals to coax out the essence that was dormant within her.<sup id="cite_ref-Respite_9-0"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Respite-9">[9]</a></sup> Similarly, [Darion Mograine](https://wowpedia.fandom.com/wiki/Darion_Mograine "Darion Mograine") instructed would-be wielders of [Shadowmourne](https://wowpedia.fandom.com/wiki/Shadowmourne "Shadowmourne") to grant [Shadow's Edge](https://wowpedia.fandom.com/wiki/Shadow%27s_Edge "Shadow's Edge") its final infusion of power by subjecting themselves to four of Sindragosa's frozen breath attacks before ultimately destroying her.<sup id="cite_ref-Frost_Infusion_2-2"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Frost_Infusion-2">[2]</a></sup> Sindragosa was finally defeated by adventurers in Icecrown Citadel,<sup id="cite_ref-UVG_3-4"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-UVG-3">[3]</a></sup> and her [crystalline essence](https://wowpedia.fandom.com/wiki/Crystalline_Essence_of_Sindragosa "Crystalline Essence of Sindragosa") was brought to [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") at [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"). Upon receiving the essence, Kalec stated _"So much suffering, so much needless destruction. These have not been kind times for my brothers and sisters. But thanks to your efforts, brave adventurers, this darkened yet still noble soul may find peace at last. Rest now, Sindragosa. You are home...."_<sup id="cite_ref-Respite_9-1"><a href="https://wowpedia.fandom.com/wiki/Sindragosa#cite_note-Respite-9">[9]</a></sup>
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Sindragosa_-_Simulacrum.png/revision/latest/scale-to-width-down/180?cb=20220823172345)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Sindragosa_-_Simulacrum.png/revision/latest?cb=20220823172345)
+
+Her arcane simulacrum on the Dragon Isles.
+
+[Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos"), Malygos's replacement as Dragon Aspect of the blue flight, seeks out Sindragosa's library in the [Azure Span](https://wowpedia.fandom.com/wiki/Azure_Span "Azure Span") on the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles"). Though Sindragosa is long since dead, an arcane construct of herself that she left behind on the isles long ago appears.
+
+## Location
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Pit of Saron](https://wowpedia.fandom.com/wiki/Pit_of_Saron "Pit of Saron") | ?? | 13,945,000 |
+| [Sindragosa (tactics)](https://wowpedia.fandom.com/wiki/Sindragosa_(tactics) "Sindragosa (tactics)") | ?? | 
+<table><tbody><tr><td><b><abbr title="10-player mode">10</abbr></b></td><td>11,156,000</td></tr><tr><td><b><abbr title="10-player Heroic mode">10H</abbr></b></td><td>13,945,000</td></tr><tr><td><b><abbr title="25-player mode">25</abbr></b></td><td>38,348,752</td></tr><tr><td><b><abbr title="25-player Heroic mode">25H</abbr></b></td><td>46,018,500</td></tr></tbody></table>
+
+ |
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   Sindragosa appears as [a legendary card](https://hearthstone.fandom.com/wiki/Sindragosa "hswiki:Sindragosa") for the Mage class in the _[Knights of the Frozen Throne](https://wowpedia.fandom.com/wiki/Hearthstone:_Knights_of_the_Frozen_Throne "Hearthstone: Knights of the Frozen Throne")_ expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_.
+-   She also appears as a boss in the expansion's single-player Missions.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/20/Sindragosa_the_Blue_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220207110805)](https://static.wikia.nocookie.net/wowpedia/images/2/20/Sindragosa_the_Blue_HS.jpg/revision/latest?cb=20220207110805)
+    
+    Sindragosa in life in hero skin in _Hearthstone Battlegrounds_.
+    
+
+## Trivia
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/02/Raising_Sindragosa_concept.jpg/revision/latest/scale-to-width-down/120?cb=20210501195229)](https://static.wikia.nocookie.net/wowpedia/images/0/02/Raising_Sindragosa_concept.jpg/revision/latest?cb=20210501195229)
+    
+    Concept art of Arthas raising Sindragosa into undeath
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WotLKWyrmPose.jpg/revision/latest/scale-to-width-down/96?cb=20210315012956)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WotLKWyrmPose.jpg/revision/latest?cb=20210315012956)
+    
+    Sindragosa cinematic wallpaper.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Sindragosa.jpg/revision/latest/scale-to-width-down/120?cb=20100424040500)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Sindragosa.jpg/revision/latest?cb=20100424040500)
+    
+    Sindragosa in Icecrown by Bernie Kang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/ArtOfBlizzard_Sindragosa.jpg/revision/latest/scale-to-width-down/120?cb=20180323142927)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/ArtOfBlizzard_Sindragosa.jpg/revision/latest?cb=20180323142927)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Sindragosa_and_Arthas_by_Bernie_Kang.jpg/revision/latest/scale-to-width-down/120?cb=20210403040631)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Sindragosa_and_Arthas_by_Bernie_Kang.jpg/revision/latest?cb=20210403040631)
+    
+    Sindragosa and Arthas by Bernie Kang.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/Sindragosa_side.jpg/revision/latest/scale-to-width-down/120?cb=20220516210749)](https://static.wikia.nocookie.net/wowpedia/images/3/34/Sindragosa_side.jpg/revision/latest?cb=20220516210749)
+    
+    Concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Sindragosa_PoS.jpg/revision/latest/scale-to-width-down/120?cb=20080928083613)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Sindragosa_PoS.jpg/revision/latest?cb=20080928083613)
+    
+    Vision of Sindragosa.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Sindragosa_Chinese.jpg/revision/latest/scale-to-width-down/96?cb=20170216224227)](https://static.wikia.nocookie.net/wowpedia/images/4/40/Sindragosa_Chinese.jpg/revision/latest?cb=20170216224227)
+    
+    Sindragosa's Chinese model.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Wotlk_Classic_key_art.jpg/revision/latest/scale-to-width-down/120?cb=20220419200825)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Wotlk_Classic_key_art.jpg/revision/latest?cb=20220419200825)
+    
+    _Wrath of the Lich King Classic_ key art
+    
+
+TCG
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Sindragosa_AoIC.jpg/revision/latest/scale-to-width-down/120?cb=20160207201503)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Sindragosa_AoIC.jpg/revision/latest?cb=20160207201503)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/27/Sindragosa_TCG_2.jpg/revision/latest/scale-to-width-down/95?cb=20131127230533)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Sindragosa_TCG_2.jpg/revision/latest?cb=20131127230533)
+    
+    Sindragosa in the TCG (Assault on Icecrown Citadel box art).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Sindragosa%2C_the_Frost_Queen_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210328200241)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Sindragosa%2C_the_Frost_Queen_TCG.jpg/revision/latest?cb=20210328200241)
+    
+    Sindragosa, the Frost Queen, in the TCG ([Icecrown](https://wowpedia.fandom.com/wiki/Icecrown_(TCG) "Icecrown (TCG)")).
+    
+
+Other
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/88/Sindragosa_HOTS.jpg/revision/latest/scale-to-width-down/120?cb=20180613235217)](https://static.wikia.nocookie.net/wowpedia/images/8/88/Sindragosa_HOTS.jpg/revision/latest?cb=20180613235217)
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Liang_Xing_Fan_Art.jpg/revision/latest/scale-to-width-down/120?cb=20140427180534)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Liang_Xing_Fan_Art.jpg/revision/latest?cb=20140427180534)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Empire_of_the_Blizzard.jpg/revision/latest/scale-to-width-down/120?cb=20150624081904)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Empire_of_the_Blizzard.jpg/revision/latest?cb=20150624081904)
+    
+    "Lich King - Empire of the Blizzard" by Jorcerca.
+    
+
+## Videos
+
+-   [World of Warcraft: Wrath of the Lich King Original trailer](https://wowpedia.fandom.com/wiki/Sindragosa#)
+-   [World of Warcraft: Wrath of the Lich King Remaster](https://wowpedia.fandom.com/wiki/Sindragosa#)
+-   [Kalecgos Meets Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa#)
+-   [Kalecgos and Sindragosa Finale](https://wowpedia.fandom.com/wiki/Sindragosa#)
+
+## Patch changes
+
+## See also
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Sindragosa#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Sindragosa#t1:npcs)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
+
+[Dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon")
+
+
+
+ |
+| --- |
+|  |
+| Primary dragon types | 
+
+-   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
+-   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
+-   [Bronze](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")
+-   [Green](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon")
+-   [Red](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon")
+
+
+
+ |
+|  |
+| Other dragon types | 
+
+-   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+-   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Nether](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon")
+-   [Plagued](https://wowpedia.fandom.com/wiki/Plagued_dragon "Plagued dragon")
+-   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Storm](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")
+-   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead_dragon "Undead dragon")
+
+
+
+ |
+|  |
+| Blue Dragonflight | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><div><p><a href="https://wowpedia.fandom.com/wiki/Kalecgos" title="Kalecgos">Kalecgos</a> - Guardian of Magic</p></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight#Notable_members" title="Blue dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Arygos" title="Arygos">Arygos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Azuregos" title="Azuregos">Azuregos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Balacgos" title="Balacgos">Balacgos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Emmigosa" title="Emmigosa">Emmigosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haleh" title="Haleh">Haleh</a></li><li><a href="https://wowpedia.fandom.com/wiki/Kirygosa" title="Kirygosa">Kirygosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Malygos" title="Malygos">Malygos the Spell-Weaver</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sapphiron" title="Sapphiron">Sapphiron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saragosa" title="Saragosa">Saragosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Senegos" title="Senegos">Senegos</a></li><li><strong>Sindragosa</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Stellagosa" title="Stellagosa">Stellagosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tarecgosa" title="Tarecgosa">Tarecgosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tyrygosa" title="Tyrygosa">Tyrygosa</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Nexus" title="Nexus">The Nexus</a> (Home)</li><li><a href="https://wowpedia.fandom.com/wiki/Azure_Dragonshrine" title="Azure Dragonshrine">Azure Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Coldarra" title="Coldarra">Coldarra</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest" title="Crystalsong Forest">Crystalsong Forest</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonblight" title="Dragonblight">Dragonblight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lake_Mennar" title="Lake Mennar">Lake Mennar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mazthoril" title="Mazthoril">Mazthoril</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blue_whelp" title="Blue whelp">Blue whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_drake" title="Blue drake">Blue drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragon" title="Blue dragon">Blue dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_wyrm" title="Blue wyrm">Blue wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_drakonid" title="Blue drakonid">Blue drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonspawn" title="Blue dragonspawn">Blue dragonspawn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Groups</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Mage_hunter" title="Mage hunter">Mage hunters</a></li><li><a href="https://wowpedia.fandom.com/wiki/Azurewing" title="Azurewing">Azurewing</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Dragonflights | 
+
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
+-   [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight")
+-   [Green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")
+-   [Netherwing dragonflight](https://wowpedia.fandom.com/wiki/Netherwing "Netherwing")
+
+
+
+ |
+|  |
+| Other draconic groups | 
+
+-   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
+-   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| 
+
+-   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
+-   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
+-   [Legacy of the Aspects](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects "Legacy of the Aspects")
+-   [Dragons category](https://wowpedia.fandom.com/wiki/Category:Dragons "Category:Dragons")
+-   [Dragonkin category](https://wowpedia.fandom.com/wiki/Category:Dragonkin "Category:Dragonkin")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Scourge "Template:Scourge")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Scourge?action=edit)
+
+[Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+    -   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+    -   [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")
+    -   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Amnennar the Coldbringer](https://wowpedia.fandom.com/wiki/Amnennar_the_Coldbringer "Amnennar the Coldbringer")
+-   [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak")
+-   [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare")
+-   [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel")
+-   [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric")
+-   [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")
+-   [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron")
+-   [Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper")
+-   [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn")
+-   [Professor Putricide](https://wowpedia.fandom.com/wiki/Professor_Putricide "Professor Putricide")
+-   [Shade of Arugal](https://wowpedia.fandom.com/wiki/Shade_of_Arugal "Shade of Arugal")
+-   **Sindragosa**
+
+
+
+ |
+|  |
+| Undead types | 
+
+<table><tbody><tr><th scope="row">Corporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Abomination" title="Abomination">Abomination</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mutated_abomination" title="Mutated abomination">Mutated abomination</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_giant" title="Flesh giant">Flesh giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_titan" title="Flesh titan">Flesh titan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague-dog" title="Plague-dog">Plague-dog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wight" title="Wight">Wight</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Crypt_fiend" title="Crypt fiend">Crypt fiend</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crypt_lord" title="Crypt lord">Crypt lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Gargoyle" title="Gargoyle">Gargoyle</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dire_gargoyle" title="Dire gargoyle">Dire</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Geist" title="Geist">Geist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghoul" title="Ghoul">Ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragon" title="Plagued dragon">Plagued dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague_eruptor" title="Plague eruptor">Plague eruptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Zombie" title="Zombie">Zombie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Undead_(playable)" title="Undead (playable)">Forsaken</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mummy" title="Mummy">Mummy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Darkfallen" title="Darkfallen">Darkfallen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scourge_troll" title="Scourge troll">Scourge troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vargul" title="Vargul">Vargul</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Incorporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Banshee" title="Banshee">Banshee</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghost" title="Ghost">Ghost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shade" title="Shade">Shade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val%27kyr" title="Val'kyr">Val'kyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wraith" title="Wraith">Wraith</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Skeletal_creature" title="Skeletal creature">Skeletal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_golem" title="Bone golem">Bone golem</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bone_wraith" title="Bone wraith">Bone wraith</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lich" title="Lich">Lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeleton" title="Skeleton">Skeleton</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_mage" title="Skeletal mage">Mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_warrior" title="Skeletal warrior">Warrior</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Skeletal dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Living followers | 
+
+-   [Ice troll](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll")
+-   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frost_vrykul "Frost vrykul")
+-   [Wendigo](https://wowpedia.fandom.com/wiki/Wendigo "Wendigo")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+-   [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel")
+-   [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas")
+-   [Shadowfang Tower](https://wowpedia.fandom.com/wiki/Shadowfang_Tower "Shadowfang Tower")
+-   [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")
+-   [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep "Utgarde Keep")
+-   [Voltarus](https://wowpedia.fandom.com/wiki/Voltarus "Voltarus")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+-   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+-   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")
+-   [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Black Guard](https://wowpedia.fandom.com/wiki/Black_Guard "Black Guard")
+-   [Boneguard](https://wowpedia.fandom.com/wiki/Boneguard_(Scourge) "Boneguard (Scourge)")
+-   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+    -   [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")
+    -   [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin")
+-   [Death's Head tribe](https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe "Death's Head tribe")
+-   [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") orders
+    -   [Four Horsemen](https://wowpedia.fandom.com/wiki/Four_Horsemen "Four Horsemen")
+    -   [Host of Suffering](https://wowpedia.fandom.com/wiki/Host_of_Suffering "Host of Suffering")
+-   [Drakuru trolls](https://wowpedia.fandom.com/wiki/Drakuru_trolls "Drakuru trolls")
+-   [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood")
+-   [Mad scientists](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist")
+-   [Nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian")
+    -   [Ahn'kahar](https://wowpedia.fandom.com/wiki/Ahn%27kahar "Ahn'kahar")
+    -   [Anub'ar](https://wowpedia.fandom.com/wiki/Anub%27ar "Anub'ar")
+    -   [Hath'ar](https://wowpedia.fandom.com/wiki/Hath%27ar "Hath'ar")
+    -   [Nerub'ar](https://wowpedia.fandom.com/wiki/Nerub%27ar "Nerub'ar")
+    -   [Nerubis](https://wowpedia.fandom.com/wiki/Nerubis "Nerubis")
+-   [Rot Hide tribe](https://wowpedia.fandom.com/wiki/Rot_Hide_tribe "Rot Hide tribe")
+-   [The San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn")
+    -   [Blood Prince Council](https://wowpedia.fandom.com/wiki/Blood_Prince_Council "Blood Prince Council")
+-   [Splinterbone](https://wowpedia.fandom.com/wiki/Splinterbone_skeletons "Splinterbone skeletons")
+-   [Vrykul clans](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Dragonflayer clan](https://wowpedia.fandom.com/wiki/Dragonflayer_clan "Dragonflayer clan")
+    -   [Mjordin](https://wowpedia.fandom.com/wiki/Mjordin "Mjordin")
+    -   [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim_vrykul "Jotunheim vrykul")
+    -   [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan")
+    -   [Valkyrion Hyldnir](https://wowpedia.fandom.com/wiki/Valkyrion "Valkyrion")
+    -   [Ymirjar](https://wowpedia.fandom.com/wiki/Ymirjar "Ymirjar")
+-   [Wolfcult](https://wowpedia.fandom.com/wiki/Wolfcult "Wolfcult")
+
+
+
+ |
+|  |
+| Defectors | 
+
+-   [Death Knights of Acherus](https://wowpedia.fandom.com/wiki/Death_Knights_of_Acherus "Death Knights of Acherus")
+    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade")
+    -   [Dark Riders of Acherus](https://wowpedia.fandom.com/wiki/Dark_Riders_of_Acherus "Dark Riders of Acherus")
+-   [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+
+
+
+ |
+|  |
+| Buildings & constructs | 
+
+-   [Ziggurat](https://wowpedia.fandom.com/wiki/Ziggurat "Ziggurat")
+-   [Necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis")
+-   [Plague spreader](https://wowpedia.fandom.com/wiki/Plague_spreader "Plague spreader")
+-   [Soul grinder](https://wowpedia.fandom.com/wiki/Soul_grinder "Soul grinder")
+
+
+
+ |
+|  |
+| 
+
+-   [Civil War in the Plaguelands](https://wowpedia.fandom.com/wiki/Civil_War_in_the_Plaguelands "Civil War in the Plaguelands")
+-   [Undead category](https://wowpedia.fandom.com/wiki/Category:Undead "Category:Undead")
+
+
+
+ |

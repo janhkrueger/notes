@@ -1,0 +1,512 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Illidari |
+| --- |
+| [![Illidari banner in Fel Hammer.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Illidari_banner_in_Fel_Hammer.jpg/revision/latest/scale-to-width-down/196?cb=20201223165826)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Illidari_banner_in_Fel_Hammer.jpg/revision/latest?cb=20201223165826) |
+| Main leader |  ![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Adventurer.gif/revision/latest/scale-to-width-down/16?cb=20200205142144)[The Slayer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") |
+|   Formerly |  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_Illidan.gif/revision/latest/scale-to-width-down/16?cb=20211211102517)[Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Vashj.gif/revision/latest/scale-to-width-down/16?cb=20200413162055)[Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/2/20/IconSmall_Kael%27thas.gif/revision/latest/scale-to-width-down/16?cb=20200520160455)[Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/6/6d/IconSmall_KargathFel.gif/revision/latest/scale-to-width-down/16?cb=20211212101149)[Kargath Bladefist](https://wowpedia.fandom.com/wiki/Kargath_Bladefist "Kargath Bladefist") <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/IconSmall_Gronn.gif/revision/latest/scale-to-width-down/16?cb=20211129171003)[Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller") <sup>&nbsp;†</sup> |
+| Secondary leaders |  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Altruis.gif/revision/latest/scale-to-width-down/16?cb=20220421095617)[Altruis the Sufferer](https://wowpedia.fandom.com/wiki/Altruis_the_Sufferer "Altruis the Sufferer") /  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4f/IconSmall_Kayn.gif/revision/latest/scale-to-width-down/16?cb=20220104115751)[Kayn Sunfury](https://wowpedia.fandom.com/wiki/Kayn_Sunfury "Kayn Sunfury")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Akama.gif/revision/latest/scale-to-width-down/16?cb=20211206105123)[Akama](https://wowpedia.fandom.com/wiki/Akama "Akama") /  ![](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Akama.gif/revision/latest/scale-to-width-down/16?cb=20211206105123)[Shade of Akama](https://wowpedia.fandom.com/wiki/Shade_of_Akama "Shade of Akama")<sup id="cite_ref-LegionAkama_1-0"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-LegionAkama-1">[1]</a></sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)[Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)[Battlelord Gaardoun](https://wowpedia.fandom.com/wiki/Battlelord_Gaardoun "Battlelord Gaardoun")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Shivarra2.gif/revision/latest/scale-to-width-down/16?cb=20211126113854)[Matron Mother Malevolence](https://wowpedia.fandom.com/wiki/Matron_Mother_Malevolence "Matron Mother Malevolence")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/IconSmall_NightElfDemonHunter_Male.gif/revision/latest/scale-to-width-down/16?cb=20200530212453)[Vandel](https://wowpedia.fandom.com/wiki/Vandel "Vandel") |
+|   Formerly | [![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Illidari Council](https://wowpedia.fandom.com/wiki/Illidari_Council "Illidari Council") <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_NagaLord.gif/revision/latest/scale-to-width-down/16?cb=20211118121933)[High Warlord Naj'entus](https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus "High Warlord Naj'entus") <sup>&nbsp;†</sup> |
+| Race(s) | [![IconSmall NightElfDemonHunter Male.gif](https://static.wikia.nocookie.net/wowpedia/images/0/0c/IconSmall_NightElfDemonHunter_Male.gif/revision/latest/scale-to-width-down/16?cb=20200530212453)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/IconSmall_NightElfDemonHunter_Male.gif/revision/latest?cb=20200530212453)[![IconSmall NightElfDemonHunter Female.gif](https://static.wikia.nocookie.net/wowpedia/images/3/32/IconSmall_NightElfDemonHunter_Female.gif/revision/latest/scale-to-width-down/16?cb=20200530211900)](https://static.wikia.nocookie.net/wowpedia/images/3/32/IconSmall_NightElfDemonHunter_Female.gif/revision/latest?cb=20200530211900)[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
+[![IconSmall BloodElfDemonHunter Male.gif](https://static.wikia.nocookie.net/wowpedia/images/e/e7/IconSmall_BloodElfDemonHunter_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516215809)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/IconSmall_BloodElfDemonHunter_Male.gif/revision/latest?cb=20200516215809)[![IconSmall BloodElfDemonHunter Female.gif](https://static.wikia.nocookie.net/wowpedia/images/5/54/IconSmall_BloodElfDemonHunter_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517000006)](https://static.wikia.nocookie.net/wowpedia/images/5/54/IconSmall_BloodElfDemonHunter_Female.gif/revision/latest?cb=20200517000006)[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
+[![IconSmall NagaSeaWitch.gif](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_NagaSeaWitch.gif/revision/latest/scale-to-width-down/16?cb=20211118122342)](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_NagaSeaWitch.gif/revision/latest?cb=20211118122342)[![IconSmall NagaLord.gif](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_NagaLord.gif/revision/latest/scale-to-width-down/16?cb=20211118121933)](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_NagaLord.gif/revision/latest?cb=20211118121933)[![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")  
+[![Broken](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)](https://wowpedia.fandom.com/wiki/Broken "Broken") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")  
+[![Man'ari eredar](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_Man%27ari_Male.gif/revision/latest/scale-to-width-down/16?cb=20200505171701)](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari eredar")[![Man'ari eredar](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Man%27ari_Female.gif/revision/latest/scale-to-width-down/16?cb=20200505183012)](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari eredar") [Man'ari eredar](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari")<sup id="cite_ref-To_Fel_and_Back_2-0"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-To_Fel_and_Back-2">[2]</a></sup>  
+[![Demon](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Doomguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110656)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_Felguard.gif/revision/latest/scale-to-width-down/16?cb=20211126111204)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/9/9e/IconSmall_Wrathguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110002)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Imp.gif/revision/latest/scale-to-width-down/16?cb=20211118210606)](https://wowpedia.fandom.com/wiki/Demon "Demon") [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon") |
+|   Formerly | [![Fel orc](https://static.wikia.nocookie.net/wowpedia/images/9/95/IconSmall_FelOrc_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118162732)](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")[![Fel orc](https://static.wikia.nocookie.net/wowpedia/images/1/1a/IconSmall_FelOrc_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118162718)](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc") [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")  
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
+[![Gronn](https://static.wikia.nocookie.net/wowpedia/images/e/ef/IconSmall_Gronn.gif/revision/latest/scale-to-width-down/16?cb=20211129171003)](https://wowpedia.fandom.com/wiki/Gronn "Gronn") [Gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn")  
+[![Lost one](https://static.wikia.nocookie.net/wowpedia/images/f/f8/IconSmall_LostOne.gif/revision/latest/scale-to-width-down/16?cb=20200520144743)](https://wowpedia.fandom.com/wiki/Lost_One "Lost one") [Lost one](https://wowpedia.fandom.com/wiki/Lost_One "Lost One")  
+[![IconSmall DrakeNether.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_DrakeNether.gif/revision/latest/scale-to-width-down/16?cb=20211129102625)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_DrakeNether.gif/revision/latest?cb=20211129102625)[![IconSmall DrakonidNether.gif](https://static.wikia.nocookie.net/wowpedia/images/4/4f/IconSmall_DrakonidNether.gif/revision/latest/scale-to-width-down/16?cb=20211129103316)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/IconSmall_DrakonidNether.gif/revision/latest?cb=20211129103316) [![Nether dragon](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_DragonNether.gif/revision/latest/scale-to-width-down/16?cb=20211129103640)](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon") [Nether dragon](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon") |
+| Capital | [![DemonHunter](https://static.wikia.nocookie.net/wowpedia/images/e/e8/ClassIcon_demon_hunter.png/revision/latest/scale-to-width-down/16?cb=20170130100758)](https://wowpedia.fandom.com/wiki/DemonHunter "DemonHunter") _[The Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")_ |
+|   Formerly | [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") |
+| Other major settlements | [Illidari Redoubt](https://wowpedia.fandom.com/wiki/Illidari_Redoubt "Illidari Redoubt") |
+|   Formerly | [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir"), [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel "Hellfire Citadel"), [Tempest Keep](https://wowpedia.fandom.com/wiki/Tempest_Keep "Tempest Keep") |
+| Theater of operations | [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum"), [Niskara](https://wowpedia.fandom.com/wiki/Niskara "Niskara"), [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") |
+| Language(s) | [Darnassian](https://wowpedia.fandom.com/wiki/Darnassian_(language) "Darnassian (language)"), [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), [Eredun](https://wowpedia.fandom.com/wiki/Eredun "Eredun"), [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"), [Draenei](https://wowpedia.fandom.com/wiki/Draenei_(language) "Draenei (language)"), [Nazja](https://wowpedia.fandom.com/wiki/Nazja "Nazja"), [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)") |
+| Sub-group(s) | [Servants of Illidan](https://wowpedia.fandom.com/wiki/Servants_of_Illidan "Servants of Illidan"), [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"), [Ashtongue tribe](https://wowpedia.fandom.com/wiki/Ashtongue_tribe "Ashtongue tribe")  
+Formerly:  
+[Fel Horde](https://wowpedia.fandom.com/wiki/Fel_Horde "Fel Horde"), [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") |
+| Affiliation | [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall"), [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
+| Status | Active |
+| Reputation |
+| Quartermaster |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Falara Nightsong](https://wowpedia.fandom.com/wiki/Falara_Nightsong "Falara Nightsong") |
+| Tabard | [![Purple Trophy Tabard of the Illidari.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Purple_Trophy_Tabard_of_the_Illidari.jpg/revision/latest/scale-to-width-down/90?cb=20090122231424)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Purple_Trophy_Tabard_of_the_Illidari.jpg/revision/latest?cb=20090122231424) |
+
+The **Illidari** is the faction of [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-4">[4]</a></sup> and represents his servants<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-5">[5]</a></sup><sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-6">[6]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-7">[7]</a></sup> and a specific, elite faction of his army made of [demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter"),<sup id="cite_ref-MN_Twitter_8-0"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-MN_Twitter-8">[8]</a></sup> but this has changed under the [Slayer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")'s leadership to also include [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken"), [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"), and [shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra") forces.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-9">[9]</a></sup> The Illidari are also known as **Illidan's Forces**<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-10">[10]</a></sup><sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-11">[11]</a></sup> (or **Illidan's forces**)<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-12">[12]</a></sup><sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-13">[13]</a></sup> or **Illidan's army**.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-15">[15]</a></sup><sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-16">[16]</a></sup> It consists of various factions that have banded together under [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan")'s rule. They were one of the prime enemies of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), the other being the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") commanded vast armies throughout Outland, and even a few select groups on Azeroth.
+
+After Illidan's death at the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"), many of the demon hunter survivors were imprisoned by [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") in the [Vault of the Wardens](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens "Vault of the Wardens"), along with the corpse of their master. Later, the freed Illidari regathered with the forces left behind on [Mardum](https://wowpedia.fandom.com/wiki/Mardum,_the_Shattered_Abyss "Mardum, the Shattered Abyss"), seized control of the [_Fel Hammer_](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer"), which became their [order hall](https://wowpedia.fandom.com/wiki/Order_Halls "Order Halls"), and they now fight the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") alongside the other [class orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") during the demons' [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-17">[17]</a></sup>
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Illibanner.jpg/revision/latest/scale-to-width-down/140?cb=20070824230627)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Illibanner.jpg/revision/latest?cb=20070824230627)
+
+The Illidari crest.
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+Over the course of [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan")'s career as one of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s most prominent heroes or villains, he had amassed various followers, servitors, and allies. Those that have flocked under Illidan's banner were enticed with either promises of power, vengeance, or were subjugated by Illidan himself.
+
+Illidan also used the [Shrine of Lost Souls](https://wowpedia.fandom.com/wiki/Shrine_of_Lost_Souls "Shrine of Lost Souls") to feed his army of unbound demons in exchange for their service, freeing them from the addiction of [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") magic.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-18">[18]</a></sup>
+
+### Rise of the Illidari demon hunters
+
+Most prominent of Illidan's followers were Illidan's [demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") apprentices. Originally, Illidan trained [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") outcasts who became demon hunters to fight the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). Later on, he bolstered his forces by recruiting Prince [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") during his conquest of [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). Following his [campaign against the Lich King](https://wowpedia.fandom.com/wiki/Ascension_of_the_Lich_King "Ascension of the Lich King"), he trained some of these [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") to become demon hunters. Illidan would later train these demon hunters to become his personal special ops army against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). After numerous campaigns against the Burning Legion in Legion-controlled worlds, their last successful mission was to retrieve the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone) during the [invasion of Mardum](https://wowpedia.fandom.com/wiki/Invasion_of_Mardum "Invasion of Mardum"). When they returned, however, they found Illidan had fallen during the [Sha'tar's assault on the Black Temple](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland"). The Illidari demon hunters were imprisoned by [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") and her [wardens](https://wowpedia.fandom.com/wiki/Warden "Warden") who were waiting for them when they returned to Outland. However, during the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), Maiev freed the demon hunters so that they would contribute to Azeroth's defense. The freed demon hunters had then reformed the Illidari as their demon hunter [class order](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") and have taken command of Illidan's remnant forces in order to continue their crusade against the Burning Legion.
+
+### Illidan's naga
+
+Following the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") confronted Illidan and made him an offer he could not refuse. Kil'jaeden was angered by [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")'s defeat at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), but he had bigger concerns than vengeance. Sensing that his creation, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), was growing too powerful to control, Kil'jaeden ordered Illidan to destroy [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") and put an end to the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") once and for all. In exchange, Illidan would receive untold power and a true place amongst the remaining lords of the Burning Legion. Illidan agreed and immediately set out to destroy the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), the icy crystal cask in which the Lich King's [spirit](https://wowpedia.fandom.com/wiki/Ghost "Ghost") resided. Illidan knew he needed allies to accomplish his tremendous task so he cast a powerful spell and called the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") to the surface, calling in some old [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") debts.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-19">[19]</a></sup> A group of naga led by [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") emerged from the depths and pledged themselves to him. They did not come because of their shared history, nor did they respect his demonic power. They came because the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") willed it. They noticed Illidan and his hunger for power. They sent the naga to aid Illidan in his campaign against the Lich King so that it could spark a new war. If the former night elf became troublesome, the Old Gods could simply command the naga to cut out his fel-corrupted heart.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-20">[20]</a></sup> Illidan's attempts to destroy the Scourge ended in failure however, and Illidan retreated to Outland in order to escape Kil'jaeden's wrath. Under the command of Vashj, the naga began to enslave the tribes of the [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") in an effort to bolster the naga's workforce and further their agenda in Outland. Nearly all of the [Wastewalker tribe](https://wowpedia.fandom.com/wiki/Wastewalker_tribe "Wastewalker tribe") has been captured and put to work to drain the waters of [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh"). The plan was to take control of all the waters of Outland, and through them, its people.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-21">[21]</a></sup> Despite the naga's original motivations, Vashj remained loyal to Illidan until she was slew by adventurers when they invaded her lair in [Serpentshrine Cavern](https://wowpedia.fandom.com/wiki/Serpentshrine_Cavern "Serpentshrine Cavern").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-22">[22]</a></sup> Even after Vashj's death, [Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno") — captain of the [Coilskar tribe](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe") — had taken command of [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") and have maintained their loyalty to Illidan and the Illidari.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-23">[23]</a></sup>
+
+### Ashtongue tribe
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Akama_joining_Illidan.png/revision/latest/scale-to-width-down/180?cb=20220119203307)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Akama_joining_Illidan.png/revision/latest?cb=20220119203307)
+
+[Akama](https://wowpedia.fandom.com/wiki/Akama "Akama") swearing allegiance to Illidan.
+
+During Illidan's campaign to oust [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon") from power in Outland and become the shattered planet's new lord, Illidan and his forces discovered a surviving [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") village who were also fighting against the Burning Legion. The village's inhabitants, ruled by [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama"), swore allegiance to Illidan in return for him liberating them from orcish and demonic oppression.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-24">[24]</a></sup> Ever since then, the elite Broken tribe that was Akama's [Ashtongue tribe](https://wowpedia.fandom.com/wiki/Ashtongue_tribe "Ashtongue tribe") were officially aligned with Illidan, and consisted of the most vicious and bloodthirsty individuals, handpicked by Akama himself.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-25">[25]</a></sup><sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-26">[26]</a></sup> Despite Akama's conspiracy to overthrow Illidan during the [invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland"), the Ashtongue tribe appear to have maintained their allegiance to the Illidari and have fought for them during the third invasion of the Burning Legion under the leadership of [Battlelord Gaardoun](https://wowpedia.fandom.com/wiki/Battlelord_Gaardoun "Battlelord Gaardoun").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-27">[27]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/78/Illidari_Leadership.jpg/revision/latest/scale-to-width-down/180?cb=20170518183022)](https://static.wikia.nocookie.net/wowpedia/images/7/78/Illidari_Leadership.jpg/revision/latest?cb=20170518183022)
+
+The modern leadership of the Illidari.
+
+After the disastrous [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore"), the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") mourned the deaths of [High King](https://wowpedia.fandom.com/wiki/High_King "High King") [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin"). During the funerals of the Alliance and Horde's deceased leaders, Illidari envoys discovered a plot by [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") masquerading as guards to ambush the gathered faction leaders during their time of mourning. The Illidari revealed these demon assassins and aided the Alliance and Horde in repelling the ambush. For their service, the Alliance and Horde welcomed the Illidari as allies in the war against the Burning Legion.
+
+During the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"), members of the Illidari traveled to Argus and to the invasion points.
+
+## Composition
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Illidan%27s_forces.jpg/revision/latest/scale-to-width-down/180?cb=20180923163705)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Illidan%27s_forces.jpg/revision/latest?cb=20180923163705)
+
+Illidan's forces before attacking [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon").
+
+### Illidari
+
+The main group of Illidari that are explicitly labeled as such seem to serve as an elite group within the overall faction. This group is composed mostly by demons of many species, particularly [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim"), [sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad"), [terrorguards](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard"), [felguards](https://wowpedia.fandom.com/wiki/Felguard "Felguard"), and [satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr"), former minions of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") who switched their allegiance after the defeat of [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon").
+
+They dwell primarily in [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley") and the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") though a few [Illidari Taskmasters](https://wowpedia.fandom.com/wiki/Illidari_Taskmaster "Illidari Taskmaster") can be found in [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula").
+
+The [Illidari Taskmasters](https://wowpedia.fandom.com/wiki/Illidari_Taskmaster "Illidari Taskmaster") who dwell in the [Ruins of Sha'naar](https://wowpedia.fandom.com/wiki/Ruins_of_Sha%27naar "Ruins of Sha'naar") in [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula") lord over the [Dreghood](https://wowpedia.fandom.com/wiki/Dreghood "Dreghood") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") as they search for one of the seven [Ata'mal crystals](https://wowpedia.fandom.com/wiki/Ata%27mal_crystal "Ata'mal crystal"). In [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley"), Illidari appear to serve as front-line foot soldiers against the [Sha'tar](https://wowpedia.fandom.com/wiki/Sha%27tar "Sha'tar") as they bring the war against Illidan to the steps of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple").
+
+Notable members
+
+### [Illidan's Servitors](https://wowpedia.fandom.com/wiki/Illidan%27s_Servitors "Illidan's Servitors")
+
+[![Satyr](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Satyr "Satyr") [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr") - A group of [satyrs](https://wowpedia.fandom.com/wiki/Satyr "Satyr") under Illidan, apparently brought by Illidan to Outland when he left [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). The bulk of them were killed by [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") on [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). Notable members are [Zandras](https://wowpedia.fandom.com/wiki/Zandras "Zandras") and [Ambassador Jerrikar](https://wowpedia.fandom.com/wiki/Ambassador_Jerrikar "Ambassador Jerrikar").
+
+### [Fel Horde](https://wowpedia.fandom.com/wiki/Fel_Horde "Fel Horde")
+
+[![Fel orc](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")[![Fel orc](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc") [Fel orcs](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc") - When [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan") invaded Outland, [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon")'s primary non-demonic forces were [fel orcs](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc"), corrupted by his own blood. Led by [Kargath Bladefist](https://wowpedia.fandom.com/wiki/Kargath_Bladefist "Kargath Bladefist"), the fel orcs are now in the Betrayer's service and primarily man the battlements of [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel "Hellfire Citadel"). In addition, members of the Shadowmoon clan can be found on the Ata'mal Terrace of Illidan's Black Temple, and the survivors of the Dragonmaw clan — under their aged chieftain, [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked") — capture and take control of [nether drakes](https://wowpedia.fandom.com/wiki/Nether_drake "Nether drake") for service in Illidan's armies.
+
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan "Shattered Hand clan") - Led by [Kargath Bladefist](https://wowpedia.fandom.com/wiki/Kargath_Bladefist "Kargath Bladefist")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan") - Led by [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+-   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan") - Led by [Tagar Spinebreaker](https://wowpedia.fandom.com/wiki/Tagar_Spinebreaker "Tagar Spinebreaker")
+-   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan") - Led by [Grillok "Darkeye"](https://wowpedia.fandom.com/wiki/Grillok_%22Darkeye%22 "Grillok "Darkeye"")
+-   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan") - Led by [Zuluhed](https://wowpedia.fandom.com/wiki/Zuluhed "Zuluhed")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan") - Chieftain unknown
+
+### Illidari [demons](https://wowpedia.fandom.com/wiki/Demon "Demon")
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Illidari_eredar.jpg/revision/latest/scale-to-width-down/180?cb=20220704151656)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Illidari_eredar.jpg/revision/latest?cb=20220704151656)
+
+Eredar.
+
+[![IconSmall Daemon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/IconSmall_Daemon.gif/revision/latest?cb=20211126110419)[![Demon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Demon "Demon") [Demons](https://wowpedia.fandom.com/wiki/Demons "Demons") - Magtheridon, as a servitor of the Burning Legion, took control of Outland and brought legions of demonic forces with him. When Illidan toppled [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon"), many of these demons swore allegiance to the new lord of Outland. Illidan's demons are free of their natural magic addiction, and the usual [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") taint seen alongside the Burning Legion is not present with them.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-28">[28]</a></sup> The types of demons that are seen in the Illidari are:
+
+### [Kael'thas' forces](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury")
+
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas "Kael'thas")'s [Blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") - Illidan was briefly captured by his long-time jailor and nemesis, [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong"), shortly after arriving in Outland. It was primarily due to the intervention of [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") and his blood elves that allowed the naga under [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") to free him. The blood elves under Kael's command, having been scorned by the Alliance, swore allegiance to Illidan and aided him in toppling Magtheridon. The Betrayer's most trusted legion of blood elf warriors is known as the [Crimson Sigil](https://wowpedia.fandom.com/wiki/Crimson_Sigil "Crimson Sigil"); they are the highest commanders of the Illidari outside of the Black Temple itself.
+
+-   [Crimson Hand](https://wowpedia.fandom.com/wiki/Crimson_Hand "Crimson Hand") - The closest cadre of blood elves to Kael'thas Sunstrider and among his elite guards in the Eye of Tempest Keep.
+-   [Bloodwarder](https://wowpedia.fandom.com/wiki/Bloodwarder "Bloodwarder") - Elite fighting force of blood elves loyal to Prince Kael'thas (with one major exception). Their greatest numbers are within Kael's seat of power within Tempest Keep.
+-   [Firewing](https://wowpedia.fandom.com/wiki/Firewing "Firewing") - Firewing blood elves work for Kael'thas and Illidan, they are using the Broken draenei of Tuurem, the Wrekt, as smuggling go-betweens for the creation of the mana bombs.
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") - High-ranking blood elves once loyal to Kael'thas Sunstrider. The bulk of their army had been established both in Netherstorm and Shadowmoon Valley, while several of their members left the main contingent to follow other pursuits; mainly, the Scryers and the blood elven forces loyal to Illidan Stormrage.
+-   [Sunhawk](https://wowpedia.fandom.com/wiki/Sunhawk "Sunhawk") - A group of Blood Elves loyal to Kael'thas Sunstrider. A small group of them are led by Sironas in Bloodmyst Isle.
+-   [Sunseekers](https://wowpedia.fandom.com/wiki/Sunseekers "Sunseekers") - A group of blood elves fiercely loyal to Kael'thas Sunstrider. They are established in Tempest Keep
+
+### Illidari [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+
+Though Kael betrayed Illidan and now serves [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), some blood elves are still loyal to the Betrayer, such as the [demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") initiates under [Varedis](https://wowpedia.fandom.com/wiki/Varedis "Varedis"), the elite demon hunters under [Kayn Sunfury](https://wowpedia.fandom.com/wiki/Kayn_Sunfury "Kayn Sunfury"), and the [Eclipsion](https://wowpedia.fandom.com/wiki/Eclipsion "Eclipsion") - Blood elves under [Grand Commander Ruusk](https://wowpedia.fandom.com/wiki/Grand_Commander_Ruusk "Grand Commander Ruusk").
+
+-   [![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437)[![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437)[![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437)[![IconSmall BloodElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest?cb=20200517222352) [Illidari Council](https://wowpedia.fandom.com/wiki/Illidari_Council "Illidari Council") - The Illidari Council were among the most talented and powerful blood elves [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") led to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). The prince left them in Shadowmoon Valley to advise and assist his master, Illidan Stormrage, while he left for Netherstorm. The council vied for Illidan's favor and frequently schemed against one another, naming themselves the Illidari Council in a mostly ostentatious display, but Illidan acknowledged that they were exceptionally gifted in their respective fields: [Gathios the Shatterer](https://wowpedia.fandom.com/wiki/Gathios_the_Shatterer "Gathios the Shatterer") in matters of war and logistics,[Veras Darkshadow](https://wowpedia.fandom.com/wiki/Veras_Darkshadow "Veras Darkshadow") in the realms of espionage and shadowing, [Lady Malande](https://wowpedia.fandom.com/wiki/Lady_Malande "Lady Malande")'s talent for upholding relations with Illidan's other servitors, and [High Nethermancer Zerevor](https://wowpedia.fandom.com/wiki/High_Nethermancer_Zerevor "High Nethermancer Zerevor")'s arcane mastery. The council remained some of Illidan's most steadfast followers even after their own prince's defection to the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+-   [Eclipsion](https://wowpedia.fandom.com/wiki/Eclipsion "Eclipsion") - A group of powerful Blood elves, loyal to Illidan, who are located in southern [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley"), led by [Grand Commander Ruusk](https://wowpedia.fandom.com/wiki/Grand_Commander_Ruusk "Grand Commander Ruusk"). Their champion is [Ruul the Darkener](https://wowpedia.fandom.com/wiki/Ruul_the_Darkener "Ruul the Darkener"). They also employ Eclipsion Dragonhawks and Eclipsion Hawkstriders.
+-   The [Crimson Sigil](https://wowpedia.fandom.com/wiki/Crimson_Sigil "Crimson Sigil") is the most trusted legion of blood elf troops loyal to [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), and the most elite blood elf forces outside of the Black Temple. Their headquarters is [Crimson Watch](https://wowpedia.fandom.com/wiki/Crimson_Watch "Crimson Watch"), along the [Path of Conquest](https://wowpedia.fandom.com/wiki/Path_of_Conquest "Path of Conquest") in Shadowmoon Valley. Their most powerful member is [Torloth the Magnificent](https://wowpedia.fandom.com/wiki/Torloth_the_Magnificent "Torloth the Magnificent").
+
+### [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga")
+
+[![IconSmall Naga Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest?cb=20211118120929)[![IconSmall Naga Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest?cb=20211118121117) [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga") - Calling in some old Highborne debts from ten millennia earlier, Illidan raised the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") from their undersea lairs in order to aid him in obtaining the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"), as well as preventing Maiev from following him. Under the direction of Lady Vashj - The naga followed Illidan into Outland where they were instrumental in both obtaining the aid of the blood elves and laying siege to Magtheridon's fortress. They now control the watery areas of Outland, including much of [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh").
+
+-   [Bloodscale](https://wowpedia.fandom.com/wiki/Bloodscale "Bloodscale") - The Bloodscale naga control the area around Serpent and Marshlight Lakes in northern Zangarmarsh. They are led by [Rajis Fyashe](https://wowpedia.fandom.com/wiki/Rajis_Fyashe "Rajis Fyashe").
+-   [Darkcrest](https://wowpedia.fandom.com/wiki/Darkcrest "Darkcrest") - The Darkcrests control the area around Umbrafen Lake and the Lagoon in southeastern Zangarmarsh. They are led by [Rajah Haghazed](https://wowpedia.fandom.com/wiki/Rajah_Haghazed "Rajah Haghazed").
+-   [Wrathfin](https://wowpedia.fandom.com/wiki/Wrathfin "Wrathfin") - These naga are located within the [Underbog](https://wowpedia.fandom.com/wiki/Underbog "Underbog").
+-   [Coilfang](https://wowpedia.fandom.com/wiki/Coilfang_Naga "Coilfang Naga") - These naga are located within Coilfang Reservoir, a gigantic drain in the middle of [Serpent Lake](https://wowpedia.fandom.com/wiki/Serpent_Lake "Serpent Lake") in Zangarmarsh. These naga fall under [Vashj](https://wowpedia.fandom.com/wiki/Vashj "Vashj")'s direct control and are spread throughout the four wings of [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir").
+-   [Coilskar](https://wowpedia.fandom.com/wiki/Coilskar "Coilskar") - The only confirmed naga tribe outside of Zangarmarsh, this tribe controls the only sources of pure water in [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley") and are based at [Coilskar Point](https://wowpedia.fandom.com/wiki/Coilskar_Point "Coilskar Point") — directly in the shadow of the fel-volcano known as [Hand of Gul'dan](https://wowpedia.fandom.com/wiki/Hand_of_Gul%27dan_(subzone) "Hand of Gul'dan (subzone)"). They are led by [High Warlord Naj'entus](https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus "High Warlord Naj'entus") who resides within the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"); following its fall, they are now commanded by [Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno").
+
+[![Murloc](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Murloc "Murloc")[![Murloc](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Murloc "Murloc") [Mur'gul](https://wowpedia.fandom.com/wiki/Mur%27gul "Mur'gul") - The naga enslaved many mur'gul to act as both warriors and slaves.
+
+### [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [tribes](https://wowpedia.fandom.com/wiki/Tribe "Tribe")
+
+#### [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")
+
+[![IconSmall Broken Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest?cb=20200516152507) [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") -The Betrayer obtained the aid of [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama") and his [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") draenei sometime before the siege of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"). The Broken proved to be proficient assassins and scouts, and were able to allow Illidan and his army to reach Magtheridon. Though only the Broken of Akama's tribe serve Illidan willingly (though the same cannot be said of Akama himself), Illidan's forces in Hellfire Peninsula and Zangarmarsh have enslaved Broken for menial labor. Tribes working for Illidan:
+
+-   [Ashtongue tribe](https://wowpedia.fandom.com/wiki/Ashtongue_tribe "Ashtongue tribe") - A tribe of Broken in the service of Illidan Stormrage, they joined him to defeat [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon") and retained the alliance. They are the most evil Broken tribe, and are used by Akama just to hide his true intentions. Following the fall of the Black Temple, [Battlelord Gaardoun](https://wowpedia.fandom.com/wiki/Battlelord_Gaardoun "Battlelord Gaardoun") now commands the remaining Ashtongue loyal to the Illidari.
+-   [Murkblood](https://wowpedia.fandom.com/wiki/Murkblood "Murkblood") - A group of this Broken tribe that resides in Nagrand serves the faction in Underbog,<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-29">[29]</a></sup> the faction in Underbog is allied or enslaved by [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"), and the last faction is enslaved by the [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan"). They are led by [Swamplord Musel'ek](https://wowpedia.fandom.com/wiki/Swamplord_Musel%27ek "Swamplord Musel'ek").
+-   [Dreghood](https://wowpedia.fandom.com/wiki/Dreghood "Dreghood") - Almost all of the tribe is enslaved by the Illidari.
+-   [Wrekt](https://wowpedia.fandom.com/wiki/Wrekt "Wrekt") - A part of this Broken tribe was enslaved by Illidan's Naga, the other part joined with the Lost Ones of [Tuurem](https://wowpedia.fandom.com/wiki/Tuurem "Tuurem") and have allied with Prince Kael'thas' blood elves.
+-   [Greyheart](https://wowpedia.fandom.com/wiki/Greyheart "Greyheart") - A [tribe](https://wowpedia.fandom.com/wiki/Tribe "Tribe") of [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") draenei loyal to [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"). They inhabit [Serpentshrine Cavern](https://wowpedia.fandom.com/wiki/Serpentshrine_Cavern "Serpentshrine Cavern") in [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir") and fight alongside the [Coilfang Naga](https://wowpedia.fandom.com/wiki/Coilfang_Naga "Coilfang Naga").
+-   [Wastewalker](https://wowpedia.fandom.com/wiki/Wastewalker_tribe "Wastewalker tribe") - A tribe of broken who are enslaved within the [Slave Pens](https://wowpedia.fandom.com/wiki/Slave_Pens "Slave Pens") of [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir") in [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh").
+
+#### [Lost One](https://wowpedia.fandom.com/wiki/Lost_One "Lost One")
+
+[![IconSmall LostOne.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/IconSmall_LostOne.gif/revision/latest?cb=20200520144743) [Lost Ones](https://wowpedia.fandom.com/wiki/Lost_One "Lost One") - A few corrupted tribes of Lost Ones can be found serving Illidan and his allies. Other tribes seem to have been enslaved.
+
+-   [Tuurem](https://wowpedia.fandom.com/wiki/Tuurem_(Lost_Ones) "Tuurem (Lost Ones)") - This Lost One tribe have allied with Kael'thas' blood elves.
+-   [Umbrafen](https://wowpedia.fandom.com/wiki/Umbrafen_tribe "Umbrafen tribe") - This Lost One tribe is allied with Illidan's naga. They are led by [Kataru](https://wowpedia.fandom.com/wiki/Kataru "Kataru").
+
+### [Gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn")
+
+-   [![IconSmall Gronn.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/IconSmall_Gronn.gif/revision/latest?cb=20211129171003) [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller") - Allied with the Illidari, though to what extent is unclear.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-30">[30]</a></sup>
+
+### [Demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter")
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/02/Illidan_and_demon_hunters.jpg/revision/latest/scale-to-width-down/140?cb=20180911121322)](https://static.wikia.nocookie.net/wowpedia/images/0/02/Illidan_and_demon_hunters.jpg/revision/latest?cb=20180911121322)
+
+Illidan Stormrage and his demon hunters.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Command_the_Illidari.jpg/revision/latest/scale-to-width-down/180?cb=20200322135606)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Command_the_Illidari.jpg/revision/latest?cb=20200322135606)
+
+Illidan commanding the Illidari.
+
+The most elite of Illidan's armies are his [demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") servitors, [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") trained to be the Betrayer's mightiest enforcers, the bane of demonkind. Zealously loyal to their master, the Illidari demon hunters have a strong identity and a close bond, although their heavy fel corruption and demonic techniques have inspired dread in their fellow elves. Prominent demon hunters took control of Illidan's depleted armies after their master's defeat at the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"), and lead the remaining Illidari as they seek out their leader and battle the Burning Legion. By player choice, their foremost lieutenant is either [Altruis the Sufferer](https://wowpedia.fandom.com/wiki/Altruis_the_Sufferer "Altruis the Sufferer") or [Kayn Sunfury](https://wowpedia.fandom.com/wiki/Kayn_Sunfury "Kayn Sunfury"). The Illidari's motive for seeking out their master will change depending on whom the player chooses as their right-hand-man: Altruis, no longer loyal to Illidan, desires new leadership for the Illidari; Kayn, loyal to Illidan's cause, wishes to rescue him from his predicament.
+
+#### Illidari Demon Hunters
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Demon_Hunter_Training.jpg/revision/latest/scale-to-width-down/180?cb=20151207175648)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Demon_Hunter_Training.jpg/revision/latest?cb=20151207175648)
+
+Demon hunters training in the [Ruins of Karabor](https://wowpedia.fandom.com/wiki/Ruins_of_Karabor "Ruins of Karabor")
+
+The Illidari Demon Hunters were the top [demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") serving Illidan as part of the forces under his command. The four (three [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and one [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")) trained [initiates](https://wowpedia.fandom.com/wiki/Demon_Hunter_Initiate "Demon Hunter Initiate") and [supplicants](https://wowpedia.fandom.com/wiki/Demon_Hunter_Supplicant "Demon Hunter Supplicant") at the [Ruins of Karabor](https://wowpedia.fandom.com/wiki/Ruins_of_Karabor "Ruins of Karabor").
+
+A fifth demon hunter at Illidan's service, [Leotheras the Blind](https://wowpedia.fandom.com/wiki/Leotheras_the_Blind "Leotheras the Blind"), does not hold the title of "**Illidari** Demon Hunter", apparently because he went insane during the training that killed three of his fellow trainees.
+
+## Membership
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/57/Illidari_Leaders.jpg/revision/latest/scale-to-width-down/220?cb=20200809193442)](https://static.wikia.nocookie.net/wowpedia/images/5/57/Illidari_Leaders.jpg/revision/latest?cb=20200809193442)
+
+The Illidari's former leadership
+
+### Leaders
+
+-   [![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/e/e8/ClassIcon_demon_hunter.png/revision/latest/scale-to-width-down/16?cb=20170130100758)](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") [The Slayer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") - Placed in command by Illidan in his absence.
+
+#### Formerly
+
+### Other notable members
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Black_Temple_Poster_No_Logo.jpg/revision/latest/scale-to-width-down/220?cb=20220610085806)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Black_Temple_Poster_No_Logo.jpg/revision/latest?cb=20220610085806)
+
+Illidan ruling from the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") with Akama besides.
+
+### Former notable members
+
+### Other former notable members
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+After the failed assault on the Frozen Throne, the blood elves remained in Illidan's army. They befriended the naga, whom they saw as brothers. Once the Scourge is taken out, they are planning to take over Kalimdor and driving out all the hated races.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-32">[32]</a></sup> The naga notably attacked [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad") to free the emprisoned blood elf evoker [Zae'Rathis the Mad](https://wowpedia.fandom.com/wiki/Zae%27Rathis_the_Mad "Zae'Rathis the Mad").<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-33">[33]</a></sup>
+
+Illidan wanted to create another [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") on [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") to fuel his blood elves' [magical addiction](https://wowpedia.fandom.com/wiki/Magical_addiction "Magical addiction").<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-34">[34]</a></sup>
+
+Illidan continues to plot with his generals, working out a new plan of attack. His list of enemies is long: the night elves, the Alliance, and the Lich King himself. He crosses into Azeroth rarely, and only when he is sure his enemies will not spot him. It is not time to attack yet, but the time is coming.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-35">[35]</a></sup>
+
+## Notes
+
+-   Under the guidance of uncooperative [mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg") engineers, [demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") were able to create several [portals](https://wowpedia.fandom.com/wiki/Teleportation "Teleportation") to [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum").<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-36">[36]</a></sup>
+-   [Loramus Thalipedes](https://wowpedia.fandom.com/wiki/Loramus_Thalipedes "Loramus Thalipedes") is an original member of the Illidari,<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-37">[37]</a></sup> but pre-dates the others by being a demon hunter on Azeroth since vanilla.
+-   Initially, the adventurer was referred to as the Master in early demon hunter campaign quests, even before Illidan named him the leader of the Illidari. In live version of the questline, the player is referred to as Master in the quest following Illidan's promotion.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   It was believed by some that the Illidari is not the overall name for Illidan's forces. Illidan Stormrage's biography lists his faction as "The Illidari." It is unlikely that he would be listed under an elite subdivision of his own forces, so it is likely the overall name. [Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide") lists him affiliated as an adversary (unlike Arthas, who is affiliated with his major army, the Scourge).
+    -   It has been recently confirmed that it is a specific faction of Illidan's army.<sup id="cite_ref-MN_Twitter_8-1"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-MN_Twitter-8">[8]</a></sup>
+-   Some believe _Illidari_ may be an adjective form for Illidan's forces. Others believe that it is perhaps a title given to specific members of Illidan's forces. As a title, this appears to be used mostly with his demonic minions. Illidari does include the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") under the command of [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"), [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") loyal to [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider"), the [Ashtongue](https://wowpedia.fandom.com/wiki/Ashtongue "Ashtongue") tribe of [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") under the leadership of [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama"), and possibly numerous [fel orcs](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc") and [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") presumably from the armies of the previous Lord of Outland, [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon"). However, [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") and the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") under Kael'thas use their own unique banners and tabards rather than those of the Illidari, which may suggest that they are not actually part of the Illidari itself. Most appear to be found in Shadowmoon Valley and the Black Temple. This suggests that the "Illidari" may be an inner circle of forces who are closest to Illidan and certain leaders, and perhaps form an elite guard.
+-   The Illidari Crusade<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-38">[38]</a></sup><sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-39">[39]</a></sup><sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-40">[40]</a></sup><sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_note-41">[41]</a></sup> is likely the name for their mission to end the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and their [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade").
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/The_Dusts_of_Outland_-_Illidari.jpg/revision/latest/scale-to-width-down/120?cb=20180923162915)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/The_Dusts_of_Outland_-_Illidari.jpg/revision/latest?cb=20180923162915)
+    
+    Blood elves and naga after crossing the portal to Outland.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Lord_of_Outland_-_Recruiting_Maghteridon%27s_Forces.jpg/revision/latest/scale-to-width-down/120?cb=20180923162856)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Lord_of_Outland_-_Recruiting_Maghteridon%27s_Forces.jpg/revision/latest?cb=20180923162856)
+    
+    Illidan recruiting Magtheridon's army after the demon's defeat.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Harbingers_Illidan_5.jpg/revision/latest/scale-to-width-down/120?cb=20160804181839)](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Harbingers_Illidan_5.jpg/revision/latest?cb=20160804181839)
+    
+    Illidan leading his demon hunters in battle.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Illidari_banner_in_Mardum.png/revision/latest/scale-to-width-down/69?cb=20201108205611)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Illidari_banner_in_Mardum.png/revision/latest?cb=20201108205611)
+    
+    An Illidari banner in Mardum.
+    
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_ref-LegionAkama_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_ref-LegionAkama_1-1">b</a></sup>   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[10-45\] [Confrontation at the Black Temple](https://wowpedia.fandom.com/wiki/Confrontation_at_the_Black_Temple)
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_ref-To_Fel_and_Back_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_ref-To_Fel_and_Back_2-1">b</a></sup>   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[45\] [To Fel and Back](https://wowpedia.fandom.com/wiki/To_Fel_and_Back_(quest))
+3.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-3) [The Characters of Warcraft/Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Characters_of_Warcraft/Illidan_Stormrage "The Characters of Warcraft/Illidan Stormrage")
+4.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-4) [Warcraft Lore/Illidan Stormrage](https://wowpedia.fandom.com/wiki/Warcraft_Lore/Illidan_Stormrage "Warcraft Lore/Illidan Stormrage")
+5.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-5)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [Against the Illidari](https://wowpedia.fandom.com/wiki/Against_the_Illidari)
+6.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-6) [March Badness](https://worldofwarcraft.com/en-us/news/20056283)
+7.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-7) [Illidan (novel)](https://wowpedia.fandom.com/wiki/Illidan_(novel) "Illidan (novel)"), chapter 8
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_ref-MN_Twitter_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidari#cite_ref-MN_Twitter_8-1">b</a></sup> [Micky Neilson on Twitter](https://twitter.com/MickyNeilson/status/629954891729928193)
+9.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-9)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[10-45\] [Into Our Ranks](https://wowpedia.fandom.com/wiki/Into_Our_Ranks)
+10.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-10) "[Legacy of the Damned](https://wowpedia.fandom.com/wiki/Legacy_of_the_Damned "Legacy of the Damned"): [The Return to Northrend](https://wowpedia.fandom.com/wiki/The_Return_to_Northrend "The Return to Northrend")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[The Frozen Throne](https://wowpedia.fandom.com/wiki/The_Frozen_Throne "The Frozen Throne")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+11.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-11) "[Legacy of the Damned](https://wowpedia.fandom.com/wiki/Legacy_of_the_Damned "Legacy of the Damned"): [A Symphony of Frost and Flame (WC3 Undead)](https://wowpedia.fandom.com/wiki/A_Symphony_of_Frost_and_Flame_(WC3_Undead) "A Symphony of Frost and Flame (WC3 Undead)")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[The Frozen Throne](https://wowpedia.fandom.com/wiki/The_Frozen_Throne "The Frozen Throne")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+12.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-12)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30\] [A Distraction for Akama](https://wowpedia.fandom.com/wiki/A_Distraction_for_Akama)
+13.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-13) [Civil War in the Plaguelands](https://wowpedia.fandom.com/wiki/Civil_War_in_the_Plaguelands "Civil War in the Plaguelands")
+14.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-14) [The Warcraft Encyclopedia/Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Illidan_Stormrage "The Warcraft Encyclopedia/Illidan Stormrage")
+15.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-15)  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[25-30\] [The Ashtongue Tribe](https://wowpedia.fandom.com/wiki/The_Ashtongue_Tribe)
+16.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-16)  ![N](https://static.wikia.nocookie.net/wowpedia/images/2/28/Scryers_15.png/revision/latest?cb=20151213203823) \[25-30\] [The Ashtongue Broken](https://wowpedia.fandom.com/wiki/The_Ashtongue_Broken)
+17.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-17) [Being Illidari: The Way Out Is the Way Through](https://web.archive.org/web/20171030141543/https://worldofwarcraft.com/en-us/news/20245589)
+18.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-18) [Pursuing the Black Harvest](https://wowpedia.fandom.com/wiki/Pursuing_the_Black_Harvest "Pursuing the Black Harvest")
+19.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-19) [World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")
+20.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-20) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 86
+21.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-21) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 12
+22.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-22) [Lady Vashj (tactics)](https://wowpedia.fandom.com/wiki/Lady_Vashj_(tactics) "Lady Vashj (tactics)")
+23.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-23)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[8-45\] [Enter the Illidari: Coilskar](https://wowpedia.fandom.com/wiki/Enter_the_Illidari:_Coilskar)
+24.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-24) "[Curse of the Blood Elves](https://wowpedia.fandom.com/wiki/Curse_of_the_Blood_Elves "Curse of the Blood Elves"): [Gates of the Abyss (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/Gates_of_the_Abyss_(WC3_BloodElf) "Gates of the Abyss (WC3 BloodElf)")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[The Frozen Throne](https://wowpedia.fandom.com/wiki/The_Frozen_Throne "The Frozen Throne")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+25.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-25)  ![N](https://static.wikia.nocookie.net/wowpedia/images/2/28/Scryers_15.png/revision/latest?cb=20151213203823) \[25-30\] [The Ashtongue Broken](https://wowpedia.fandom.com/wiki/The_Ashtongue_Broken)
+26.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-26)  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[25-30\] [The Ashtongue Tribe](https://wowpedia.fandom.com/wiki/The_Ashtongue_Tribe)
+27.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-27)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[8-45\] [Enter the Illidari: Ashtongue](https://wowpedia.fandom.com/wiki/Enter_the_Illidari:_Ashtongue)
+28.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-28)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Warlock](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Ui-charactercreate-classes_warlock.png/revision/latest/scale-to-width-down/16?cb=20070124145101 "Warlock") \[35\] [Infiltrating the Black Temple](https://wowpedia.fandom.com/wiki/Infiltrating_the_Black_Temple)
+29.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-29)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-30\] [Ortor My Old Friend...](https://wowpedia.fandom.com/wiki/Ortor_My_Old_Friend...)
+30.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-30) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 27
+31.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-31)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Inv_letter_02.png/revision/latest/scale-to-width-down/16?cb=20060831173422)[\[Letter from Lor'themar Theron\]](https://wowpedia.fandom.com/wiki/Letter_from_Lor%27themar_Theron)
+32.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-32) _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 68
+33.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-33) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 102
+34.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-34) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 151
+35.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-35) _[World of Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Roleplaying_Game "World of Warcraft: The Roleplaying Game")_, pg. 376
+36.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-36)  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Inv_archaeology_70_impgenerator.png/revision/latest/scale-to-width-down/16?cb=20160612114359)[\[Imp Generator\]](https://wowpedia.fandom.com/wiki/Imp_Generator)
+37.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-37)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[10-45\] [Loramus, Is That You?](https://wowpedia.fandom.com/wiki/Loramus,_Is_That_You%3F_(quest))
+38.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-38)  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Inv_boot_plate_legionendgame_c_01.png/revision/latest/scale-to-width-down/16?cb=20160710215843)[\[Sabatons of the Illidari Crusade\]](https://wowpedia.fandom.com/wiki/Sabatons_of_the_Illidari_Crusade)
+39.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-39)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/20/Inv_boot_leather_legionendgame_c_01.png/revision/latest/scale-to-width-down/16?cb=20160710195843)[\[Footpads of the Illidari Crusade\]](https://wowpedia.fandom.com/wiki/Footpads_of_the_Illidari_Crusade)
+40.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-40)  ![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Inv_boot_cloth_legionendgame_c_01.png/revision/latest/scale-to-width-down/16?cb=20160612121420)[\[Slippers of the Illidari Crusade\]](https://wowpedia.fandom.com/wiki/Slippers_of_the_Illidari_Crusade)
+41.  [^](https://wowpedia.fandom.com/wiki/Illidari#cite_ref-41)  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Inv_boots_mail_legionendgame_c_01.png/revision/latest/scale-to-width-down/16?cb=20160719114510)[\[Boots of the Illidari Crusade\]](https://wowpedia.fandom.com/wiki/Boots_of_the_Illidari_Crusade)
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/faction=1947)
+-   [WoWDB](https://www.wowdb.com/factions/1947)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Illidari "Template:Illidari")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Illidari?action=edit)
+
+The **Illidari**
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")
+-   [The Slayer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")
+-   [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama")
+-   [Altruis the Sufferer](https://wowpedia.fandom.com/wiki/Altruis_the_Sufferer "Altruis the Sufferer")
+-   [Battlelord Gaardoun](https://wowpedia.fandom.com/wiki/Battlelord_Gaardoun "Battlelord Gaardoun")
+-   [Kayn Sunfury](https://wowpedia.fandom.com/wiki/Kayn_Sunfury "Kayn Sunfury")
+-   [Matron Mother Malevolence](https://wowpedia.fandom.com/wiki/Matron_Mother_Malevolence "Matron Mother Malevolence")
+-   [Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno")
+
+
+
+ |
+|  |
+| Former leaders | 
+
+-   [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller")
+-   [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") (defected)
+-   [Kargath Bladefist](https://wowpedia.fandom.com/wiki/Kargath_Bladefist "Kargath Bladefist")
+-   [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj")
+
+
+
+ |
+|  |
+| Former secondary leaders | 
+
+-   [Grand Commander Ruusk](https://wowpedia.fandom.com/wiki/Grand_Commander_Ruusk "Grand Commander Ruusk")
+-   [Grillok "Darkeye"](https://wowpedia.fandom.com/wiki/Grillok_%22Darkeye%22 "Grillok "Darkeye"")
+-   [High Warlord Naj'entus](https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus "High Warlord Naj'entus")
+-   [Illidari Council](https://wowpedia.fandom.com/wiki/Illidari_Council "Illidari Council")
+-   [Kataru](https://wowpedia.fandom.com/wiki/Kataru "Kataru")
+-   [Rajah Haghazed](https://wowpedia.fandom.com/wiki/Rajah_Haghazed "Rajah Haghazed")
+-   [Rajis Fyashe](https://wowpedia.fandom.com/wiki/Rajis_Fyashe "Rajis Fyashe")
+-   [Overlord Mor'ghor](https://wowpedia.fandom.com/wiki/Overlord_Mor%27ghor "Overlord Mor'ghor") (defected)
+-   [Swamplord Musel'ek](https://wowpedia.fandom.com/wiki/Swamplord_Musel%27ek "Swamplord Musel'ek")
+-   [Tagar Spinebreaker](https://wowpedia.fandom.com/wiki/Tagar_Spinebreaker "Tagar Spinebreaker")
+-   [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Alandien](https://wowpedia.fandom.com/wiki/Alandien "Alandien")
+-   [Ambassador Jerrikar](https://wowpedia.fandom.com/wiki/Ambassador_Jerrikar "Ambassador Jerrikar")
+-   [Arzeth the Merciless](https://wowpedia.fandom.com/wiki/Arzeth_the_Merciless "Arzeth the Merciless")
+-   [Chancellor Bloodleaf](https://wowpedia.fandom.com/wiki/Chancellor_Bloodleaf "Chancellor Bloodleaf")
+-   [Envoy Icarius](https://wowpedia.fandom.com/wiki/Envoy_Icarius "Envoy Icarius")
+-   [Illidari Lord Balthas](https://wowpedia.fandom.com/wiki/Illidari_Lord_Balthas "Illidari Lord Balthas")
+-   [Keli'dan the Breaker](https://wowpedia.fandom.com/wiki/Keli%27dan_the_Breaker "Keli'dan the Breaker")
+-   [Lady Shav'rar](https://wowpedia.fandom.com/wiki/Lady_Shav%27rar "Lady Shav'rar")
+-   [Leotheras the Blind](https://wowpedia.fandom.com/wiki/Leotheras_the_Blind "Leotheras the Blind")
+-   [Lothros](https://wowpedia.fandom.com/wiki/Lothros "Lothros")
+-   [Netharel](https://wowpedia.fandom.com/wiki/Netharel "Netharel")
+-   [Oronu the Elder](https://wowpedia.fandom.com/wiki/Oronu_the_Elder "Oronu the Elder")
+-   [Painmistress Gabrissa](https://wowpedia.fandom.com/wiki/Painmistress_Gabrissa "Painmistress Gabrissa")
+-   [Ruul the Darkener](https://wowpedia.fandom.com/wiki/Ruul_the_Darkener "Ruul the Darkener")
+-   [Shadowlord Deathwail](https://wowpedia.fandom.com/wiki/Shadowlord_Deathwail "Shadowlord Deathwail")
+-   [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+-   [Theras](https://wowpedia.fandom.com/wiki/Theras "Theras")
+-   [Torloth the Magnificent](https://wowpedia.fandom.com/wiki/Torloth_the_Magnificent "Torloth the Magnificent")
+-   [Val'zareq the Conqueror](https://wowpedia.fandom.com/wiki/Val%27zareq_the_Conqueror "Val'zareq the Conqueror")
+-   [Vandel](https://wowpedia.fandom.com/wiki/Vandel "Vandel")
+-   [Warlord Morkh](https://wowpedia.fandom.com/wiki/Warlord_Morkh "Warlord Morkh")
+-   [Zandras](https://wowpedia.fandom.com/wiki/Zandras "Zandras")
+
+
+
+ |
+|  |
+| Former characters | 
+
+-   [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+-   [Vagath](https://wowpedia.fandom.com/wiki/Vagath "Vagath")
+-   [Varedis Felsoul](https://wowpedia.fandom.com/wiki/Varedis_Felsoul "Varedis Felsoul")
+-   [Voren'thal the Seer](https://wowpedia.fandom.com/wiki/Voren%27thal_the_Seer "Voren'thal the Seer")
+
+
+
+ |
+|  |
+| Races | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+-   [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")
+-   [Eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar")
+-   [Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard")
+-   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple")
+-   [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir")
+-   [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel "Hellfire Citadel")
+-   [Tempest Keep](https://wowpedia.fandom.com/wiki/Tempest_Keep "Tempest Keep")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula")
+-   [Netherstorm](https://wowpedia.fandom.com/wiki/Netherstorm "Netherstorm")
+-   [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley")
+-   [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Servants of Illidan](https://wowpedia.fandom.com/wiki/Servants_of_Illidan "Servants of Illidan")
+-   [Fel Horde](https://wowpedia.fandom.com/wiki/Fel_Horde "Fel Horde") ([Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
+-   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan")
+-   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan#Activity_on_Outland "Dragonmaw clan")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan")
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan#Fel_Orcs_of_the_Shattered_Hand "Shattered Hand clan"))
+-   Illidari blood elves ([Crimson Sigil](https://wowpedia.fandom.com/wiki/Crimson_Sigil "Crimson Sigil")
+-   [Eclipsion](https://wowpedia.fandom.com/wiki/Eclipsion "Eclipsion")
+-   [Illidari Council](https://wowpedia.fandom.com/wiki/Illidari_Council "Illidari Council"))
+-   Illidari demons ([Illidan's Servitors](https://wowpedia.fandom.com/wiki/Illidan%27s_Servitors "Illidan's Servitors"))
+-   Illidari draenei ([Ashtongue tribe](https://wowpedia.fandom.com/wiki/Ashtongue_tribe "Ashtongue tribe")
+    -   [Ashtongue Deathsworn](https://wowpedia.fandom.com/wiki/Ashtongue_Deathsworn "Ashtongue Deathsworn")
+-   [Dreghood tribe](https://wowpedia.fandom.com/wiki/Dreghood_tribe "Dreghood tribe")
+-   [Greyheart tribe](https://wowpedia.fandom.com/wiki/Greyheart_tribe "Greyheart tribe")
+-   [Murkblood tribe](https://wowpedia.fandom.com/wiki/Murkblood_tribe "Murkblood tribe")
+-   [Umbrafen tribe](https://wowpedia.fandom.com/wiki/Umbrafen_tribe "Umbrafen tribe")
+-   [Wastewalker tribe](https://wowpedia.fandom.com/wiki/Wastewalkers "Wastewalkers")
+-   [Wrekt tribe](https://wowpedia.fandom.com/wiki/Wrekt "Wrekt"))
+-   [Illidari Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") ([Bloodscale](https://wowpedia.fandom.com/wiki/Bloodscale "Bloodscale")
+-   [Coilfang](https://wowpedia.fandom.com/wiki/Coilfang_tribe "Coilfang tribe")
+-   [Coilskar](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe")
+-   [Darkcrest](https://wowpedia.fandom.com/wiki/Darkcrest "Darkcrest")
+-   [Wrathfin](https://wowpedia.fandom.com/wiki/Wrathfin "Wrathfin"))
+
+
+
+ |
+|  |
+| Technology | 
+
+-   [Demon ward](https://wowpedia.fandom.com/wiki/Demon_ward "Demon ward")
+-   [Nether Crucible](https://wowpedia.fandom.com/wiki/Nether_Crucible "Nether Crucible")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Class_Halls "Template:Class Halls")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Class_Halls?action=edit)
+
+[Class Orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order"), [Halls](https://wowpedia.fandom.com/wiki/Class_Hall "Class Hall") & [Campaigns](https://wowpedia.fandom.com/wiki/Campaign "Campaign")
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Burning_Legion "Template:Burning Legion")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Burning_Legion?action=edit)
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+| --- |

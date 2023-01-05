@@ -1,0 +1,578 @@
+| [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") **Third War** |
+| --- |
+| [![Archimonde assaults Nordrassil.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/00/Archimonde_assaults_Nordrassil.jpg/revision/latest/scale-to-width-down/300?cb=20190921183847)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Archimonde_assaults_Nordrassil.jpg/revision/latest?cb=20190921183847) |
+| Part of | [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") |
+| Date | 20 [ADP](https://wowpedia.fandom.com/wiki/ADP "ADP") - 21 ADP |
+| Location | [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") and [continents](https://wowpedia.fandom.com/wiki/Continent "Continent") of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and [central](https://wowpedia.fandom.com/wiki/Central_Kalimdor "Central Kalimdor") and [northern](https://wowpedia.fandom.com/wiki/Northern_Kalimdor "Northern Kalimdor") [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") (notably [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal")). |
+| Prelude | [Formation of the](https://wowpedia.fandom.com/wiki/Kel%27Thuzad_and_the_Forming_of_the_Scourge "Kel'Thuzad and the Forming of the Scourge") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") |
+| Begin | [Scourging of Lordaeron](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron") ([The Scourge of Lordaeron](https://wowpedia.fandom.com/wiki/The_Scourge_of_Lordaeron "The Scourge of Lordaeron")) |
+| End | [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal") |
+| Result | 
+Mortal victory
+
+-   Defeat of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+-   Destruction of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"), [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") and various [minor societies](https://wowpedia.fandom.com/wiki/Tribe "Tribe").
+-   Heavy damage to the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell") and [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"); partial corruption of the Sunwell, the remaining uncorrupted energies [disappeared](https://wowpedia.fandom.com/wiki/Anveena_Teague "Anveena Teague").
+-   Almost total eradication of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s primary command structure and of the [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") race.
+-   Lordaeron [humans](https://wowpedia.fandom.com/wiki/Human "Human") flee to [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") and [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"), while [others](https://wowpedia.fandom.com/wiki/Hillsbrad_Refugee "Hillsbrad Refugee") remain in the southern ([Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")) and northern<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-1">[1]</a></sup> part of [the continent](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron").
+-   Freedom of [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") and to the [Undead Scourge](https://wowpedia.fandom.com/wiki/Undead_Scourge "Undead Scourge") after the war.
+-   Birth of the [Blood elven](https://wowpedia.fandom.com/wiki/Blood_Elf "Blood Elf") [race](https://wowpedia.fandom.com/wiki/Race "Race").
+
+ |
+| 
+
+| Belligerents |
+| --- |
+| 
+Mortal races
+
+-   [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") <sup>&nbsp;†</sup>
+    -   [Kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") <sup>&nbsp;†</sup>
+        -   [Silver Hand](https://wowpedia.fandom.com/wiki/Silver_Hand "Silver Hand")
+        -   [1st Legion](https://wowpedia.fandom.com/wiki/1st_Legion "1st Legion") <sup>&nbsp;†</sup>
+    -   [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)")
+    -   [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") <sup>&nbsp;†</sup>
+        -   [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+    -   [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)")
+        -   [Kul'Tiras Marines](https://wowpedia.fandom.com/wiki/Kul%27Tiras_Marines "Kul'Tiras Marines")
+    -   [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)")
+        -   [Bronzebeard clan](https://wowpedia.fandom.com/wiki/Bronzebeard_clan "Bronzebeard clan")
+            -   [Explorers' Guild](https://wowpedia.fandom.com/wiki/Explorers%27_Guild "Explorers' Guild")
+                -   [Dwarven Expedition](https://wowpedia.fandom.com/wiki/Dwarven_Expedition "Dwarven Expedition")
+                    -   [Dwarven Scouts](https://wowpedia.fandom.com/wiki/Dwarven_Scouts "Dwarven Scouts")
+    -   [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")
+-   [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)")
+-   [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") <sup>&nbsp;†</sup>
+    -   [Convocation of Silvermoon](https://wowpedia.fandom.com/wiki/Convocation_of_Silvermoon "Convocation of Silvermoon") <sup>&nbsp;†</sup>
+    -   [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders")
+        -   [Elven Defenders](https://wowpedia.fandom.com/wiki/Elven_Defenders "Elven Defenders") <sup>&nbsp;†</sup>
+        -   [Elven Ranger Corps](https://wowpedia.fandom.com/wiki/Elven_Ranger_Corps "Elven Ranger Corps") <sup>&nbsp;†</sup>
+    -   [Royal Guard](https://wowpedia.fandom.com/wiki/Royal_Guard_(Quel%27Thalas) "Royal Guard (Quel'Thalas)") <sup>&nbsp;†</sup>
+-   [The Great Alliance](https://wowpedia.fandom.com/wiki/Great_Alliance "Great Alliance")
+    -   [Human Expedition](https://wowpedia.fandom.com/wiki/Human_Expedition "Human Expedition")
+        -   [Lordaeron Brigade](https://wowpedia.fandom.com/wiki/Lordaeron_Brigade "Lordaeron Brigade")
+        -   [Lordaeron Corps](https://wowpedia.fandom.com/wiki/Lordaeron_Corps "Lordaeron Corps")
+        -   [Kul Tiras Elite Corps](https://wowpedia.fandom.com/wiki/Kul_Tiras_Elite_Corps "Kul Tiras Elite Corps")
+        -   [Gilneas Brigade](https://wowpedia.fandom.com/wiki/Gilneas_Brigade_(Warcraft_III) "Gilneas Brigade (Warcraft III)")
+        -   [Stromgarde Brigade](https://wowpedia.fandom.com/wiki/Stromgarde_Brigade "Stromgarde Brigade")
+        -   [7th Legion](https://wowpedia.fandom.com/wiki/7th_Legion "7th Legion")<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-2">[2]</a></sup>
+    -   [New Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+        -   [United Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+            -   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan")
+            -   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan")
+        -   [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe")
+        -   [Bloodhoof tribe](https://wowpedia.fandom.com/wiki/Bloodhoof_tribe "Bloodhoof tribe")
+    -   [Night elves of Kalimdor](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+        -   [The Sentinels](https://wowpedia.fandom.com/wiki/The_Sentinels "The Sentinels")
+        -   [The Watchers](https://wowpedia.fandom.com/wiki/Watchers "Watchers")
+        -   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
+        -   [Night elven](https://wowpedia.fandom.com/wiki/Night_elven "Night elven") [druids](https://wowpedia.fandom.com/wiki/Druid "Druid")
+            -   [Druids of the Talon](https://wowpedia.fandom.com/wiki/Druids_of_the_Talon "Druids of the Talon")
+            -   [Druids of the Claw](https://wowpedia.fandom.com/wiki/Druids_of_the_Claw "Druids of the Claw")
+        -   [Ancients](https://wowpedia.fandom.com/wiki/Ancients "Ancients")
+        -   [Children of Cenarius](https://wowpedia.fandom.com/wiki/Children_of_Cenarius "Children of Cenarius")
+    -   [ShadowTooth Clan](https://wowpedia.fandom.com/wiki/ShadowTooth_Clan "ShadowTooth Clan")
+    -   [Barkskin tribe](https://wowpedia.fandom.com/wiki/Barkskin_tribe "Barkskin tribe")
+-   Other [mortal](https://wowpedia.fandom.com/wiki/Mortal "Mortal") minor societies
+
+ |
+| 
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+-   [Undead Scourge](https://wowpedia.fandom.com/wiki/Undead_Scourge "Undead Scourge")
+    -   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+-   [Warsong](https://wowpedia.fandom.com/wiki/Warsong "Warsong") [chaos orcs](https://wowpedia.fandom.com/wiki/Chaos_orc "Chaos orc") (briefly)
+-   [Blackrock clan of Lordaeron](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") <sup>&nbsp;†</sup>
+    -   [Blackrock Warlocks](https://wowpedia.fandom.com/wiki/Blackrock_Warlocks "Blackrock Warlocks") <sup>&nbsp;†</sup>
+    -   [Blackrock Raiders](https://wowpedia.fandom.com/wiki/Blackrock_Raiders "Blackrock Raiders") <sup>&nbsp;†</sup>
+    -   [Blackrock Slavers](https://wowpedia.fandom.com/wiki/Blackrock_Slavers "Blackrock Slavers") <sup>&nbsp;†</sup>
+    -   [Blackrock Scouts](https://wowpedia.fandom.com/wiki/Blackrock_Scouts "Blackrock Scouts") <sup>&nbsp;†</sup>
+    -   [Blackrock Warriors](https://wowpedia.fandom.com/wiki/Blackrock_Warriors "Blackrock Warriors") <sup>&nbsp;†</sup>
+
+ |
+
+ |
+| 
+
+| Commanders and leaders |
+| --- |
+| 
+Mortal races
+
+-   [![IconSmall Medivh.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/c9/IconSmall_Medivh.gif/revision/latest?cb=20211213121317) [Magus Medivh](https://wowpedia.fandom.com/wiki/Magus_Medivh "Magus Medivh")
+-   [![IconSmall Terenas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Terenas.gif/revision/latest?cb=20211214091753) [King](https://wowpedia.fandom.com/wiki/List_of_aristocracy#Human "List of aristocracy") [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") <sup>&nbsp;†</sup>
+    -   [![IconSmall Arthas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/50/IconSmall_Arthas.gif/revision/latest?cb=20200521105558) [Paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") ([turned](https://wowpedia.fandom.com/wiki/Undeath "Undeath"))
+        -   [![IconSmall Captain.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Captain.gif/revision/latest?cb=20200520185804) [Captain](https://wowpedia.fandom.com/wiki/Captain_(Warcraft_III) "Captain (Warcraft III)") [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric") ([turned](https://wowpedia.fandom.com/wiki/Undeath "Undeath"))
+        -   [![IconSmall Captain.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Captain.gif/revision/latest?cb=20200520185804) [Captain](https://wowpedia.fandom.com/wiki/Captain_(Warcraft_III) "Captain (Warcraft III)") [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn") ([turned](https://wowpedia.fandom.com/wiki/Undeath "Undeath"))
+        -   [![IconSmall Captain.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Captain.gif/revision/latest?cb=20200520185804) [Captain](https://wowpedia.fandom.com/wiki/Captain_(Warcraft_III) "Captain (Warcraft III)") [Luc Valonforth](https://wowpedia.fandom.com/wiki/Luc_Valonforth "Luc Valonforth")
+        -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") [Thassarian](https://wowpedia.fandom.com/wiki/Thassarian "Thassarian") ([turned](https://wowpedia.fandom.com/wiki/Undeath "Undeath"))
+    -   [![IconSmall Uther.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/IconSmall_Uther.gif/revision/latest?cb=20220620195102) [Sir](https://wowpedia.fandom.com/wiki/Sir "Sir") [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") <sup>&nbsp;†</sup>
+        -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Ballador the Bright](https://wowpedia.fandom.com/wiki/Ballador_the_Bright "Ballador the Bright") <sup>&nbsp;†</sup>
+        -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Sage Truthbearer](https://wowpedia.fandom.com/wiki/Sage_Truthbearer "Sage Truthbearer") <sup>&nbsp;†</sup>
+    -   [![IconSmall Saidan.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Saidan.gif/revision/latest?cb=20180313134140) [Saidan Dathrohan](https://wowpedia.fandom.com/wiki/Saidan_Dathrohan "Saidan Dathrohan")
+        -   [![IconSmall Mograine.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Mograine.gif/revision/latest?cb=20090308120739) [Alexandros Mograine](https://wowpedia.fandom.com/wiki/Alexandros_Mograine "Alexandros Mograine")
+        -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [High General Abbendis](https://wowpedia.fandom.com/wiki/High_General_Abbendis "High General Abbendis")
+-   [![IconSmall Antonidas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_Antonidas.gif/revision/latest?cb=20200521105522) [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage") [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas") <sup>&nbsp;†</sup>
+    -   [![IconSmall Modera.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/IconSmall_Modera.gif/revision/latest?cb=20180226101806) [Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera")
+    -   [![IconSmall Ansirem.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Ansirem.gif/revision/latest?cb=20180226102052) [Ansirem Runeweaver](https://wowpedia.fandom.com/wiki/Archmage_Ansirem_Runeweaver "Archmage Ansirem Runeweaver")
+    -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Fordred Aran](https://wowpedia.fandom.com/wiki/Fordred_Aran "Fordred Aran") <sup>&nbsp;†</sup>
+    -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Landazar](https://wowpedia.fandom.com/wiki/Landazar "Landazar") <sup>&nbsp;†</sup>
+    -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Conjurus Rex](https://wowpedia.fandom.com/wiki/Conjurus_Rex "Conjurus Rex") <sup>&nbsp;†</sup>
+    -   [![IconSmall Rhonin.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Rhonin.gif/revision/latest?cb=20180226102447) [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin")
+-   [![IconSmall Proudmoore.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/ca/IconSmall_Proudmoore.gif/revision/latest?cb=20200530094808) [Grand Admiral](https://wowpedia.fandom.com/wiki/Grand_Admiral "Grand Admiral") [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")
+-   [![IconSmall Jaina.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Jaina.gif/revision/latest?cb=20211211124611) [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore")
+    -   [![IconSmall Halford.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/76/IconSmall_Halford.gif/revision/latest?cb=20180129123055) [High Commander Halford Wyrmbane](https://wowpedia.fandom.com/wiki/High_Commander_Halford_Wyrmbane "High Commander Halford Wyrmbane")
+    -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Duke Lionheart](https://wowpedia.fandom.com/wiki/Duke_Lionheart "Duke Lionheart") <sup>&nbsp;†</sup>
+-   [![IconSmall Varian.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/08/IconSmall_Varian.gif/revision/latest?cb=20211213113506) [King](https://wowpedia.fandom.com/wiki/List_of_aristocracy#Human "List of aristocracy") [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")
+    -   [![IconSmall Gavinrad.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/IconSmall_Gavinrad.gif/revision/latest?cb=20180222101025) [Gavinrad the Dire](https://wowpedia.fandom.com/wiki/Gavinrad_the_Dire "Gavinrad the Dire") <sup>&nbsp;†</sup>
+-   [![IconSmall Magni.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/2b/IconSmall_Magni.gif/revision/latest?cb=20221020085113) [King](https://wowpedia.fandom.com/wiki/List_of_aristocracy#Dwarf "List of aristocracy") [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard")
+    -   [![IconSmall Muradin.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/IconSmall_Muradin.gif/revision/latest?cb=20221020090359) [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard")
+        -   [![IconSmall Dwarf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest?cb=20200517225556) [Baelgun Flamebeard](https://wowpedia.fandom.com/wiki/Baelgun_Flamebeard "Baelgun Flamebeard")
+-   [![IconSmall Genn.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/43/IconSmall_Genn.gif/revision/latest?cb=20211211090825) [King](https://wowpedia.fandom.com/wiki/List_of_aristocracy#Human "List of aristocracy") [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane")
+    -   [![IconSmall Darius.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/IconSmall_Darius.gif/revision/latest?cb=20180226115235) [Darius Crowley](https://wowpedia.fandom.com/wiki/Darius_Crowley "Darius Crowley")
+    -   [![IconSmall Arugal.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/IconSmall_Arugal.gif/revision/latest?cb=20180226102917) [Arugal](https://wowpedia.fandom.com/wiki/Arugal "Arugal")
+-   [![IconSmall Anasterian.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Anasterian.gif/revision/latest?cb=20220104112457) [High King](https://wowpedia.fandom.com/wiki/List_of_aristocracy#High_elf "List of aristocracy") [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider") <sup>&nbsp;†</sup>
+    -   [![IconSmall Kael'thas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/20/IconSmall_Kael%27thas.gif/revision/latest?cb=20200520160455) [Prince](https://wowpedia.fandom.com/wiki/Prince "Prince") [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")
+    -   [![IconSmall SylvanasHE.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/IconSmall_SylvanasHE.gif/revision/latest?cb=20180306201302) [Ranger-general](https://wowpedia.fandom.com/wiki/Ranger-general_of_Silvermoon "Ranger-general of Silvermoon") [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") <sup>&nbsp;†</sup>
+        -   [![IconSmall Lor'themar.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4a/IconSmall_Lor%27themar.gif/revision/latest?cb=20211213115827) [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron")
+        -   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Nathanos Marris](https://wowpedia.fandom.com/wiki/Nathanos_Marris "Nathanos Marris") <sup>&nbsp;†</sup>
+        -   [![IconSmall Halduron.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/IconSmall_Halduron.gif/revision/latest?cb=20220104114058) [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing")
+        -   [![IconSmall Vereesa.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/IconSmall_Vereesa.gif/revision/latest?cb=20220104111518) [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner")
+        -   [![IconSmall HighElf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest?cb=20200517002221) [Koltira](https://wowpedia.fandom.com/wiki/Koltira "Koltira") <sup>&nbsp;†</sup>
+    -   [![IconSmall HighElf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest?cb=20200517002221) [Grand Magister](https://wowpedia.fandom.com/wiki/Grand_Magister "Grand Magister") [Belo'vir Salonar](https://wowpedia.fandom.com/wiki/Belo%27vir_Salonar "Belo'vir Salonar") <sup>&nbsp;†</sup>
+        -   [![IconSmall Rommath.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/IconSmall_Rommath.gif/revision/latest?cb=20220104115333) [Rommath](https://wowpedia.fandom.com/wiki/Rommath "Rommath")
+    -   [![IconSmall HighElf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest?cb=20200517002221) [High Priest Vandellor](https://wowpedia.fandom.com/wiki/Vandellor "Vandellor") <sup>&nbsp;†</sup>
+        -   [![IconSmall Liadrin.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/31/IconSmall_Liadrin.gif/revision/latest?cb=20180625120052) [Liadrin](https://wowpedia.fandom.com/wiki/Liadrin "Liadrin")
+-   [![IconSmall Thrall.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Thrall.gif/revision/latest?cb=20221012223457) [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")
+    -   [![IconSmall Grom.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/IconSmall_Grom.gif/revision/latest?cb=20211211110424) [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream") <sup>&nbsp;†</sup>
+    -   [![IconSmall Varok.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/IconSmall_Varok.gif/revision/latest?cb=20211214081457) [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")
+    -   [![IconSmall Broxigar.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Broxigar.gif/revision/latest?cb=20200520162358) [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar")
+-   [![IconSmall Sen'jin.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/59/IconSmall_Sen%27jin.gif/revision/latest?cb=20220620201401) [Sen'jin](https://wowpedia.fandom.com/wiki/Sen%27jin "Sen'jin") <sup>&nbsp;†</sup>
+    -   [![IconSmall Vol'jin.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/01/IconSmall_Vol%27jin.gif/revision/latest?cb=20180129105942) [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin")
+-   [![IconSmall Cairne.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/IconSmall_Cairne.gif/revision/latest?cb=20200521111838) [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof")
+    -   [![IconSmall Hamuul.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/21/IconSmall_Hamuul.gif/revision/latest?cb=20180129111631) [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem")
+-   [![IconSmall Tyrande.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Tyrande.gif/revision/latest?cb=20181211101823) [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")
+    -   [![IconSmall Shandris.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/IconSmall_Shandris.gif/revision/latest?cb=20181211113210) [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon")
+-   [![IconSmall Malfurion.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Malfurion.gif/revision/latest?cb=20181211102211) [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")
+    -   [![IconSmall Broll.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/IconSmall_Broll.gif/revision/latest?cb=20200520162130) [Broll Bearmantle](https://wowpedia.fandom.com/wiki/Broll_Bearmantle "Broll Bearmantle")
+-   [![IconSmall Cenarius.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Cenarius.gif/revision/latest?cb=20200519141117) [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") <sup>&nbsp;†</sup>
+    -   [![IconSmall Cenarian Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Cenarian_Male.gif/revision/latest?cb=20200519150626) [Califax](https://wowpedia.fandom.com/wiki/Califax "Califax") <sup>&nbsp;†</sup>
+-   [![IconSmall Stormrage.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/IconSmall_Stormrage.gif/revision/latest?cb=20211211102521)[![IconSmall Demonhunter.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/39/IconSmall_Demonhunter.gif/revision/latest?cb=20211126104753) [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")
+-   [![IconSmall Garithos.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/IconSmall_Garithos.gif/revision/latest?cb=20200521100051) [Garithos](https://wowpedia.fandom.com/wiki/Garithos "Garithos")
+
+ |
+| 
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+-   [![IconSmall Archimonde.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/IconSmall_Archimonde.gif/revision/latest?cb=20200519181227) [Archimonde the Defiler](https://wowpedia.fandom.com/wiki/Archimonde_the_Defiler "Archimonde the Defiler") <sup>&nbsp;†</sup>
+    -   [![IconSmall PitLord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/IconSmall_PitLord.gif/revision/latest?cb=20211125153730) [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth") <sup>&nbsp;†</sup>
+        -   [![IconSmall PitLord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/IconSmall_PitLord.gif/revision/latest?cb=20211125153730) [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor") <sup>&nbsp;†</sup>
+        -   [![IconSmall GromRed.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/08/IconSmall_GromRed.gif/revision/latest?cb=20211211110405) [Chaos](https://wowpedia.fandom.com/wiki/Chaos_orc "Chaos orc") [Grom Hellscream](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream") (briefly)
+    -    ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Kazzak](https://wowpedia.fandom.com/wiki/Kazzak "Kazzak")
+        -    ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Razelikh the Defiler](https://wowpedia.fandom.com/wiki/Razelikh_the_Defiler "Razelikh the Defiler")
+        -   [![IconSmall Doomlord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/28/IconSmall_Doomlord.gif/revision/latest?cb=20211126110557) [Kaz'rogal](https://wowpedia.fandom.com/wiki/Kaz%27rogal "Kaz'rogal") <sup>&nbsp;†</sup>
+    -   [![IconSmall FelOrc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/95/IconSmall_FelOrc_Male.gif/revision/latest?cb=20211118162732) [Jubei'Thos](https://wowpedia.fandom.com/wiki/Jubei%27Thos "Jubei'Thos") <sup>&nbsp;†</sup>
+        -   [![IconSmall Orc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest?cb=20200518012003) [Haomarush](https://wowpedia.fandom.com/wiki/Haomarush "Haomarush") <sup>&nbsp;†</sup>
+        -   [![IconSmall CultistOrc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/IconSmall_CultistOrc_Male.gif/revision/latest?cb=20211118153728) [Throk'Feroth](https://wowpedia.fandom.com/wiki/Throk%27Feroth "Throk'Feroth") <sup>&nbsp;†</sup>
+        -   [![IconSmall CultistOrc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/IconSmall_CultistOrc_Male.gif/revision/latest?cb=20211118153728) [Mazrigos](https://wowpedia.fandom.com/wiki/Mazrigos "Mazrigos") <sup>&nbsp;†</sup>
+        -   [![IconSmall Orc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest?cb=20200518012003) [Khanzo](https://wowpedia.fandom.com/wiki/Khanzo "Khanzo") <sup>&nbsp;†</sup>
+        -   [![IconSmall Orc Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest?cb=20200518012003) [Genjuros](https://wowpedia.fandom.com/wiki/Genjuros "Genjuros") <sup>&nbsp;†</sup>
+-   [![IconSmall Kil'jaeden.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/26/IconSmall_Kil%27jaeden.gif/revision/latest?cb=20200519174410) [Kil'jaeden the Deceiver](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")
+    -   [![IconSmall Nathrezim2.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_Nathrezim2.gif/revision/latest?cb=20211125154839) [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") <sup>&nbsp;†</sup>
+        -   [![IconSmall Dreadlord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_Dreadlord.gif/revision/latest?cb=20211125154407) [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron") <sup>&nbsp;†</sup>
+        -   [![IconSmall Dreadlord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_Dreadlord.gif/revision/latest?cb=20211125154407) [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth")
+        -   [![IconSmall Lich Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest?cb=20211201224530) [Rage Winterchill](https://wowpedia.fandom.com/wiki/Rage_Winterchill "Rage Winterchill") <sup>&nbsp;†</sup>
+        -   [![IconSmall LichKing.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_LichKing.gif/revision/latest?cb=20090307151644) [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+            -   [![IconSmall Nathrezim.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest?cb=20211125155053) [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")
+                -   [![IconSmall Necromancer.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Necromancer.gif/revision/latest?cb=20200807105319) [Necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") <sup>&nbsp;†</sup>
+            -   [![IconSmall ArthasDK.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_ArthasDK.gif/revision/latest?cb=20200521105544) [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")
+                -   [![IconSmall Kel'Thuzad.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e9/IconSmall_Kel%27Thuzad.gif/revision/latest?cb=20211212102615) [Archlich](https://wowpedia.fandom.com/wiki/Lich "Lich") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")
+                -   [![IconSmall Falric.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Falric.gif/revision/latest?cb=20100816032626) [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric")
+                -   [![IconSmall Marwyn.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Marwyn.gif/revision/latest?cb=20100816033152) [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn")
+                -   [![IconSmall Thassarian.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/81/IconSmall_Thassarian.gif/revision/latest?cb=20180306105316) [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Thassarian](https://wowpedia.fandom.com/wiki/Thassarian "Thassarian")
+                -   [![IconSmall Dar'khan.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/49/IconSmall_Dar%27khan.gif/revision/latest?cb=20200520191436) [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir")
+                -   [![IconSmall Banshee.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Banshee.gif/revision/latest?cb=20211130195538) [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee") [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+                -   [![IconSmall Koltira.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/IconSmall_Koltira.gif/revision/latest?cb=20220104120357) [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver")
+
+ |
+
+ |
+| 
+
+| Casualties and losses |
+| --- |
+| 
+Mortal races
+
+-   Massive
+
+ |
+| 
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+-   Near annihilation
+
+ |
+
+ |
+| Major Battles | Various, notably: [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme"), [Scourging of Lordaeron](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron"), [Scourge invasion of Quel'Thalas](https://wowpedia.fandom.com/wiki/Scourge_invasion_of_Quel%27Thalas "Scourge invasion of Quel'Thalas"), [Siege of Dalaran](https://wowpedia.fandom.com/wiki/Siege_of_Dalaran "Siege of Dalaran") and [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal"). There was also [a minor battle](https://wowpedia.fandom.com/wiki/Battle_of_Darrowshire "Battle of Darrowshire") in [Darrowshire](https://wowpedia.fandom.com/wiki/Darrowshire "Darrowshire"). |
+| Previous | [War of the Spider](https://wowpedia.fandom.com/wiki/War_of_the_Spider "War of the Spider") |
+| Next | [Ascension of the Lich King](https://wowpedia.fandom.com/wiki/Ascension_of_the_Lich_King "Ascension of the Lich King"), [Plaguelands civil war](https://wowpedia.fandom.com/wiki/Plaguelands_civil_war "Plaguelands civil war"), [Northgate Rebellion](https://wowpedia.fandom.com/wiki/Northgate_Rebellion "Northgate Rebellion") |
+
+The **Third War** (also known as the **Third Great War**,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-4">[4]</a></sup> the **Chaos War**,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-5">[5]</a></sup> and the **Reign of Chaos**)<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-6">[6]</a></sup> was a massive conflict between the mortal races of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") which took place on the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). The Third War began in earnest when the [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") of the [human](https://wowpedia.fandom.com/wiki/Human "Human") [kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron") fell to the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") army led by the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"),<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-7">[7]</a></sup> and ended with the defeat of the demon commander [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") on [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"). It was the [second invasion](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-8">[8]</a></sup> During the war, the ancient [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") were reintroduced to the world.
+
+The events of the war were chronicled in _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
+
+## Prelude
+
+After their defeat in the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), the [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde")'s [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief"), [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") was captured by [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") for his failure. As punishment, the Deceiver destroyed Ner'zhuls body, and tortured his spirit until he agreed to serve the Legion once again. His soul encased in a suit of armor which was then bound to the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), Kil'jaeden hurled his creation towards [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") where it smashed into [Icecrown Glacier](https://wowpedia.fandom.com/wiki/Icecrown_Glacier "Icecrown Glacier"). Thus the first major player of the Third War, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") was born. Once on Azeroth, the Lich King took control of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and he had the [necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") take the [Plague of Undeath](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") to [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)").
+
+Before the start of the war, the prophet [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") came to the young orcish Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") in a dream. Medivh told him that he must rally the newly-reformed shamanistic Horde and move them across the sea to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") in order to escape the shadow that was coming to consume the land. Trusting the prophet's words, and wishing to find a new home for his people, Thrall listened to his call, fought his way through Lordaeron's troops and sailed west.
+
+## Scourge of Lordaeron
+
+The following events started during the month of October.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-9">[9]</a></sup>
+
+### Disturbance in the north
+
+A rumor had started to travel around Lordaeron telling how a mysterious plague had gripped the northern lands, as the majority of Lordaeron's attention was focused on the Horde's flight and rebelling orc clans. When Medivh appeared before King [Terenas](https://wowpedia.fandom.com/wiki/Terenas "Terenas") telling him just as he told Thrall: to save his people, he must travel west, Terenas told him that he would defend his kingdom. To do so, he sent his own son [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), who was dealing with the rebelling orcs with Sir [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") north to investigate. [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") from the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") was sent from Dalaran to aid in the investigation.
+
+### Cult of the Damned
+
+After joining [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), Prince Arthas discovered that [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")'s granaries were wrought with a plague that killed all who are infected (within a period of time) after they had encountered [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") in the town of [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill"). Since [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") was the main distribution point for grain in the area, this meant that many other towns were in danger. As they fought their way through the infected city of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") they bore witness to a unique devastation like [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") had never seen. They hunted down and attacked Kel'Thuzad for his crimes against the people. The necromancer told Arthas that he served a greater power, a dreadlord named [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"), and that he was responsible for the Scourge. Enraged, Arthas vowed he would kill Mal'Ganis and they traveled to [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") to confront him after slaying the corrupted wizard.
+
+### Rise of the Scourge
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Scourge_v_Alliance_in_the_Third_War.jpg/revision/latest/scale-to-width-down/180?cb=20180911125127)](https://static.wikia.nocookie.net/wowpedia/images/9/94/Scourge_v_Alliance_in_the_Third_War.jpg/revision/latest?cb=20180911125127)
+
+The Alliance battling the Scourge.
+
+While in [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen"), Arthas and Jaina's forces were attacked by legions of [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"). Arthas had Jaina search for Uther while he and his forces remained to protect the town from the Scourge. It was then he learned the truth behind the plague. The plague didn't just kill those infected, it turned them into the undead, and thus, the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Before his army was defeated, Uther and his knights arrived and saved the town. Not long after this battle, Arthas was met by Medivh, who warned the prince to travel west to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). Like his father, Arthas refused, saying his place was with his people. Jaina believed the prophet's words but Arthas would not be swayed to leave his kingdom. They continued to [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") to deal with the threat of the Scourge.
+
+### Culling of Stratholme
+
+_Main article: [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme")_
+
+Upon arriving at [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), they discovered that the grain had already been distributed amongst the townsfolk. Arthas, not wanting to deal with an entire army of undead, ordered Uther and his [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") to destroy the town. Uther was appalled by this, saying he wouldn't follow the order even if Arthas was the king. For his defiance, Arthas disbanded the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") and called all those still loyal to Lordaeron to come with him. Uther took his followers and left, and Jaina quickly followed. Abandoned by his teacher and friend, Arthas continued to Stratholme to slaughter the town.
+
+Upon arrival, Arthas met Mal'Ganis himself. The two had a race of sorts for the lives of the town. Arthas wished to destroy them, Mal'Ganis wished to corrupt them. When the town was in ruin, Arthas demanded a final showdown with Mal'Ganis. Mal'Ganis, however, slipped away, vowing to meet him in Northrend.
+
+After the Culling, Jaina and Uther returned to Stratholme to bury the dead. Jaina was met by Medivh, who told her Arthas would only die if he went to Northrend. The prophet then told Jaina, as he had told everyone else, that she must travel west to Kalimdor, a request she answered to.
+
+After Stratholme was purged, some former paladins, now called [Deathlords](https://wowpedia.fandom.com/wiki/Deathlord_(Warcraft_III) "Deathlord (Warcraft III)"), committed the same heinous act in many other cities across Lordaeron.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-10">[10]</a></sup>
+
+### Rise of the death knight
+
+After arriving in Northrend, Arthas discovered the brother of the dwarven king [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard"), [Muradin](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"). Upon arriving at Northrend, Muradin's expedition was attacked by the undead and was cut off from the rest of the world. He had come to Northrend to obtain the runeblade [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"). The two armies then established a new camp and fought together against the undead, famished and vicious packs of [wolves](https://wowpedia.fandom.com/wiki/Wolf "Wolf"), strange beings that seemed to be [part wolverine and part human](https://wowpedia.fandom.com/wiki/Wolvar "Wolvar"), as well as [ice trolls](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll").<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-11">[11]</a></sup>
+
+When word from Lordaeron called Arthas's men back home, the prince used mercenaries to burn their ships before turning his forces on the mercenaries. With no way to get home, he told his men that their only way home was to get the Frostmourne. When he finally found the blade, he and Muradin learned that the blade was cursed. Arthas accepted this curse and took the blade, though Muradin was believed to be killed in the process (he was knocked out with terrible amnesia). With the Frostmourne, Arthas lead an assault on the Scourge base where Mal'Ganis was stationed and killed the dreadlord. With the cause of his madness dead, Arthas fled to the wilderness of Northrend leaving his men to fend for themselves.
+
+Months later, Arthas returned to Lordaeron to get his just rewards. When he greeted Terenas, he took up the cursed sword and, without a moment of consideration, slew his father. Arthas then named himself King of Lordaeron and gave the land to the Scourge. Weeks later, Arthas, now a [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") under the orders of the Lich King, was given the task to bring the dead necromancer Kel'Thuzad back from the dead. To do so, Arthas had to take his remains to a place of magical power. Arthas fought and killed his former mentor Uther for the urn he was carrying. The urn carried the ashes of his father, which Arthas disposed of and placed Kel'Thuzad's remains inside. The only magical nexus with the necessary power was the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell") deep inside [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon"), the capital of the [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf"). To revive Kel'Thuzad, the Scourge would have to burn [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas").
+
+### Fall of Quel'Thalas
+
+_Main article: [Scourge invasion of Quel'Thalas](https://wowpedia.fandom.com/wiki/Scourge_invasion_of_Quel%27Thalas "Scourge invasion of Quel'Thalas")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Arthas_defeats_Sylvanas.jpg/revision/latest/scale-to-width-down/180?cb=20180328211828)](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Arthas_defeats_Sylvanas.jpg/revision/latest?cb=20180328211828)
+
+Arthas's victory over Sylvanas.
+
+Upon reaching the borders of Quel'Thalas, the Ranger-General [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") became a quick thorn in the death knight's plan. Despite the mighty elf gates, the destruction of an important bridge, and many well-trained rangers, the Scourge plowed their way through Quel'Thalas' defenses on their way to [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon"), and from there the [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas") and the Sunwell. Before Sylvanas could warn Silvermoon of the Scourge invasion, her camp was raided and she was taken prisoner. Arthas tortured her and, rather than give her the peace of death, he used his power to turn her into the first [banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee"), making her a slave to the Scourge. With its defenses destroyed, the Scourge entered Silvermoon and slaughtered all the high elves in the city. When Arthas reached the Sunwell, he placed Kel'Thuzad's remains in the enchanted waters, thus turning him into a [lich](https://wowpedia.fandom.com/wiki/Lich "Lich") and corrupting the Sunwell. With his business in the area done, Arthas had the Scourge kill the remaining high elves of Quel'Thalas.
+
+### The Defiler
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Warcraft_III_Reforged_-_Arthas_and_Archimonde.jpg/revision/latest/scale-to-width-down/180?cb=20200813231302)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Warcraft_III_Reforged_-_Arthas_and_Archimonde.jpg/revision/latest?cb=20200813231302)
+
+The Scourge battling the forces of Dalaran as Kel'Thuzad summons the Defiler.
+
+With Kel'Thuzad revived, they had to do their job for the dreadlords. Upon eradicating the remnants of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") in [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains"), the Scourge traveled south to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to obtain the [Book of Medivh](https://wowpedia.fandom.com/wiki/Book_of_Medivh "Book of Medivh") and use it to summon [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") himself to Azeroth. The Kirin Tor used their most powerful magics but failed to prevent the Scourge from stealing the spellbook. With the book, Kel'Thuzad summoned Archimonde and the Burning Legion to Azeroth. Archimonde's first order of business when entering the world was to destroy Dalaran with his great power. From this point and for the rest of the war, Archimonde, the field commander of the Legion, led the invasion of Azeroth himself and planned to take control of the second [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") under the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil").
+
+## Flight to Kalimdor
+
+Right after the fall of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), Jaina Proudmoore brought the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") [remnants](https://wowpedia.fandom.com/wiki/Human_Expedition "Human Expedition") with her to Kalimdor following Medivh's request.
+
+Having fled the Eastern Kingdoms, the Horde was scattered while sailing past the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"). Some of the ships landed in a chain of islands near the Maelstrom where they met the [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe"). Here the orcs aided the trolls, then led them on an escape to Kalimdor.
+
+In Kalimdor, [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream"), chieftain of the prominent Warsong clan, had landed with his clan. Before they could regroup with Thrall, they ran into Jaina's soldiers and battles soon began.
+
+When the rest of the Horde reached and regrouped on Kalimdor, Grom directly defied Thrall's orders by attacking Jaina Proudmoore's encampment after giving in to his instinctual bloodlust. As a punishment he was sent further into the massive [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale") Forest where he would collect lumber to build a base for the orcs.
+
+Meanwhile, Thrall began his search for the rest of the Horde, and eventually came across the [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren"), and their leader [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof"). After helping Cairne repel invading [centaurs](https://wowpedia.fandom.com/wiki/Centaur "Centaur"), Cairne told Thrall of an oracle up in the Stonetalon Mountains who could aid the Horde in their journey.
+
+Upon reaching the Stonetalon Mountains, Thrall and Jaina met the prophet who called doom long before the Scourge of Lordaeron, Medivh. Medivh asked that the Horde and the Alliance work together, forgetting their old hatreds to battle a new, more powerful enemy.
+
+### Mannoroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Cenarius_v_Grommash.jpg/revision/latest/scale-to-width-down/180?cb=20181001142948)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Cenarius_v_Grommash.jpg/revision/latest?cb=20181001142948)
+
+Cenarius battling Grom Hellscream.
+
+Grom Hellscream and his clan started collecting lumber as they had been ordered to. However, by doing so, they enraged the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"). After battling the night elves, their demigod [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") stepped in personally to deal with the Warsong clan.
+
+After fighting a lost battle, the orcs realized that they couldn't kill Cenarius by conventional means. Cenarius saw the orcs as demon spawn and therefore only their total eradication would satisfy him. To defeat them, Grom and the followers drank from a mysterious fountain that empowered them, not knowing that it had been defiled by the [blood](https://wowpedia.fandom.com/wiki/Blood_of_Mannoroth "Blood of Mannoroth") of the [pit lord](https://wowpedia.fandom.com/wiki/Pit_lord "Pit lord") [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth"). Energized and turned into [fel orcs](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc"), the Warsong successfully attacked and killed Cenarius. With the orcs once again doing the bidding of the Burning Legion, Mannoroth stormed up to Grom and revealed it was his blood that empowered the orcs. Despite their victory, they were once again under demon control, and thus the control of the Burning Legion.
+
+To help their new allies, Jaina created a magical [soul gem](https://wowpedia.fandom.com/wiki/Soul_Gem_(Warcraft_III) "Soul Gem (Warcraft III)"). Thrall would need to capture the mighty Grom within it, and take the gem to a prepared magical circle to free his spirit of corruption. Standing between the humans and free orcs, however, was the entire [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan"), fortified with scores of demons that waited in ambush and mighty [infernals](https://wowpedia.fandom.com/wiki/Infernal "Infernal") that rained from the sky. Despite his woes of killing many of the Warsong clan, Thrall captured Grom and brought him back for a ritual of cleansing. Along with Thrall's [shamans](https://wowpedia.fandom.com/wiki/Shaman "Shaman"), Jaina, and Jaina's best [priests](https://wowpedia.fandom.com/wiki/Priest "Priest") and [sorcerers](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), they managed to pull the demonic taint out of Grom. Thrall and Grom then challenged Mannoroth, and though Thrall was defeated, Grom managed to deliver a killing blow, destroying Mannoroth and freeing the orcs at the cost of his own life. Thus Grom redeemed himself for bringing them into the Legion.
+
+With the deaths of Cenarius and Mannoroth, Archimonde launched the invasion on Kalimdor, coming from the southeastern point of [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara") into Ashenvale.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-12">[12]</a></sup>
+
+## Return of the night elves
+
+When it became evident that the Burning Legion had returned, [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande "Tyrande") led her Sentinels into the trees, fleeing a wave of undead which had destroyed a human and orc camp. As they fled, they were cornered by dreadlords and Archimonde. Tyrande believed that with the Defilers' return the only way to defeat the Burning Legion was to use the forces of old, the sleeping [druids](https://wowpedia.fandom.com/wiki/Druids "Druids") and their leader, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), her old love. After waking Malfurion, the next order of business was to awaken the rest of the [Druids of the Talon](https://wowpedia.fandom.com/wiki/Druids_of_the_Talon "Druids of the Talon") and the [Druids of the Claw](https://wowpedia.fandom.com/wiki/Druids_of_the_Claw "Druids of the Claw").
+
+In their quest to free the druids, they discovered the prison that held the old [demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter"), [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"). Tyrande believed that the Betrayer, as the night elves grew to call him, could be a powerful ally against the Burning Legion and left Malfurion to awaken the druids while she freed Illidan. Malfurion continued on to awaken the druids, who had grown feral after almost ten millennia in the caves. However, the [Horn of Cenarius](https://wowpedia.fandom.com/wiki/Horn_of_Cenarius "Horn of Cenarius") freed them of their madness.
+
+### The Betrayer
+
+Tyrande continued her quest to free Illidan, fighting her way through [the warden](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")'s guards. Tyrande placed her trust in Illidan, believing his power would help them against the Burning Legion. Malfurion, however, still distrusted his reckless brother. Eager to prove himself, Illidan vowed he would show his brother the demons had no hold over him and he led a portion of the night elf army to Felwood. Shortly after, the death knight Arthas found and battled with Illidan. As the two were evenly matched, there was no reason for Arthas to engage Illidan. Illidan demanded that Arthas reveal the reason for his presence in Felwood. Arthas told him of a powerful artifact: the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan"). The skull was responsible for the corruption of the night elves' beloved forest. Arthas played to Illidan's thirst for power, mentioning that the skull held immense power, and Illidan took the bait willingly.
+
+After fighting his way through the demons, Illidan reached and consumed the power of the Skull. With its power added to his own, he slew the leader of the dreadlords, [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius"), and helped seal the Legion's defeat. When Malfurion and Tyrande found the new demon-night elf that was now Illidan, Malfurion banished Illidan for his demonic corruption, claiming that he was "no brother of his". A very resentful Illidan tore his way through the dead trees and was not heard of until the coming of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga").
+
+## Battle of Mount Hyjal
+
+_Main article: [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Legend_of_Mount_Hyjal_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20210308035440)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Legend_of_Mount_Hyjal_TCG.jpg/revision/latest?cb=20210308035440)
+
+Malfurion brings an end to the Third War.
+
+After Illidan's banishment, Medivh called Malfurion and Tyrande to a secret grove where he had Thrall and Jaina meet them. Medivh revealed that he was the one who helped [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") create the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") and allowed the Horde to invade Azeroth. After he was slain for his crimes, he had to return to right his wrongs and protect Azeroth from the Legion's return. Medivh asked that the mortal races unite to defeat the Legion, as their combined power was their only hope.
+
+To prepare for the demons' attack, three camps were built around Mount Hyjal. Malfurion devised a plan to use the power of the World Tree itself to destroy Archimonde. As he went back up the summit to make the necessary preparations for Archimonde, Jaina and Thrall used whatever night elves Tyrande could spare to fortify their bases. Archimonde tore his way through ranks of human knights, elven sentinels, and orcish warriors and smashed his way through the human castle and orc fortress. Jaina was able to teleport most of the surviving troops. Before Thrall escaped death, he managed to hurt Archimonde with a bolt of his shamanistic lightning, an incredible feat in itself. With the two bases destroyed, Archimonde stormed through the night elf gate protecting the summit.
+
+With Archimonde at the World Tree, Malfurion used the Horn to call on the ancient spirits in the area to attack the demon. In an instant, they detonated into a massive explosion that destroyed the Defiler, much of his demon army with him, and the World Tree. The price for this defeat was the night elves' immortality, but the Third War was over.
+
+## Aftermath
+
+_Main article: [Ascension of the Lich King](https://wowpedia.fandom.com/wiki/Ascension_of_the_Lich_King "Ascension of the Lich King")_
+
+The [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal") was a significant blow against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). As [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") put it in _[Cycle of Hatred](https://wowpedia.fandom.com/wiki/Cycle_of_Hatred "Cycle of Hatred")_ to Theramore Guard colonel [Lorena](https://wowpedia.fandom.com/wiki/Lorena "Lorena"), they "did more damage to the entirety of demonkind than has been done in thousands of years."
+
+### Terror of the tides
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Kil%27jaeden_and_Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20180923183630)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Kil%27jaeden_and_Illidan.jpg/revision/latest?cb=20180923183630)
+
+Kil'jaeden meets with Illidan, a few months after the [Legion's](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") defeat at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")'s death.
+
+Bristling with newfound power and free to roam the world once more, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") set out to find his own place in the scheme of things. However, [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") confronted Illidan and made him an offer he could not refuse. Kil'jaeden was angered by [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")'s defeat at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), but he had bigger concerns than vengeance. Sensing that his creation, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), was growing too powerful to control, Kil'jaeden ordered Illidan to destroy [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") and put an end to the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") once and for all. In exchange, Illidan would receive untold power and a true place amongst the remaining lords of the Burning Legion.
+
+Illidan agreed and immediately set out to destroy the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), the icy crystal cask in which the Lich King's [spirit](https://wowpedia.fandom.com/wiki/Ghost "Ghost") resided. Illidan knew that he would need a mighty artifact to destroy the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"). Using the knowledge he had gained from [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan")'s memories, Illidan decided to seek out the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") and claim the Dark Titan's remains. He called in some old [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") debts and called the serpentine [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") from their dark undersea lairs. Led by the cunning [sea-witch](https://wowpedia.fandom.com/wiki/Sea_witch "Sea witch"), [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"), the naga helped Illidan reach the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), where Sargeras' tomb was rumored to be located.
+
+As Illidan set out with the naga, [Warden](https://wowpedia.fandom.com/wiki/Warden "Warden") [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") began to hunt him. Maiev had been Illidan's jailor for ten thousand years and relished the prospect of recapturing him.
+
+### Curse of the blood elves
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Garithos_and_Kael_Reforged.jpg/revision/latest/scale-to-width-down/180?cb=20200206123204)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Garithos_and_Kael_Reforged.jpg/revision/latest?cb=20200206123204)
+
+Garithos and Kael'thas in Dalaran.
+
+After the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") irrevocably tainted the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"), Prince [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") gathered a group of Quel’Thalas’s defenders and destroyed the fount to avert it from obliterating his people. Although the high elves were spared from continued exposure to the Sunwell’s dark energies, in the fount’s absence they suffered terribly from withdrawal. As a result, Kael’thas desperately searched for a means to help his people—whom he had renamed the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf").<sup id="cite_ref-beonline_13-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-beonline-13">[13]</a></sup>
+
+The [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") formed under Grand Marshal [Garithos](https://wowpedia.fandom.com/wiki/Garithos "Garithos")' command, who had rallied the surviving humans of [Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron"). Along with reinforcements from [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"), [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge"), the Alliance resistance had managed to retake [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-14">[14]</a></sup> and the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains")<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> , pushing the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") back to the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands").
+
+### Civil war in the Plaguelands
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Arthasdreadlords.JPG/revision/latest/scale-to-width-down/180?cb=20071110045125)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Arthasdreadlords.JPG/revision/latest?cb=20071110045125)
+
+Arthas confronts the Dreadlord Insurgents.
+
+After the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s defeat at the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal"), [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") returned to his ruined kingdom of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") to rule over his undead subjects, annihilate the last pockets of human resistance, and oust the remaining [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") who were unaware of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s defeat. However, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s powers began to wane and demanded Arthas travel to [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") to defend it from [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")'s [Forces](https://wowpedia.fandom.com/wiki/Illidari "Illidari").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-15">[15]</a></sup> With the Lich King's control over the undead faltering, one group of undead broke away from the Scourge and freed themselves of the Lich King's domination. Among them was [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") who plotted with the [Dreadlord Insurgents](https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents "Dreadlord Insurgents") to destroy Arthas.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-16">[16]</a></sup>
+
+Surviving members of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") in Lordaeron retook portions of the [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands") from the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").<sup id="cite_ref-WoWcomicDiC_17-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWcomicDiC-17">[17]</a></sup> Yet after the death of Highlord [Alexandros Mograine](https://wowpedia.fandom.com/wiki/Alexandros_Mograine "Alexandros Mograine"), these holy crusaders underwent a schism: some following the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), comprising of zealous humans that cling to their scattered holdings, obsessed with eradicating the undead and retaking their once-beautiful homeland, and the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn"), which took a less extreme approach to combat the Scourge and accepted members from all of Azeroth's races into their ranks.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-18">[18]</a></sup>
+
+### The colonization of Kalimdor
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Founding_of_Durotar_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20210328001607)](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Founding_of_Durotar_TCG.jpg/revision/latest?cb=20210328001607)
+
+Thrall and Rexxar.
+
+Under [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"), [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren"), and [Darkspear trolls](https://wowpedia.fandom.com/wiki/Darkspear_troll "Darkspear troll") were brought together on [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") to become the [new Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), to which the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") would later join. A peace agreement was made between the Horde and Alliance after the war, and Thrall has made it his job to ensure that nothing happens to break this already stressed pact.
+
+### A new Alliance
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Mass_Dispel_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20130526141237)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Mass_Dispel_TCG.jpg/revision/latest?cb=20130526141237)
+
+Alliance races.
+
+Without Lordaeron, the rebuilt city of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") would become the new base of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), with the [Ironforge dwarves](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf") becoming their staunchest and closest geographical allies. The budding nation of [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") has also aligned itself with the Alliance, with Lady Jaina hoping the Alliance can reunite the distant human kingdoms. The [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") of [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan") had been unable to help in the Third war as they were dealing with their own issues closer to home — namely a [trogg](https://wowpedia.fandom.com/wiki/Trogg "Trogg") invasion of their city. Because an invasion of troggs paled in comparison to the might of the Scourge, the gnomes decided they would fight their war alone. In the end they were forced to flee [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan") and with their king, [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque"), settled in [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge") with the dwarves as refugees. The night elves, dealing with the loss of their immortality, adjusted to their mortal existence. Sometime during this adjustment period, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")'s spirit was lost in the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") and could not wake from his magically induced coma. Going against Malfurion's wishes, [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") led the druids in growing [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"), which became the new capital of the night elves. Having been exposed to the world outside their forests once more, the night elves decided they would have to make alliances with the wider world. Because of the animosity with the orcs for their continuing lumbering of [Warsong Gulch](https://wowpedia.fandom.com/wiki/Warsong_Gulch "Warsong Gulch"), the night elves in the end joined the Alliance.<sup id="cite_ref-WoWmanual_19-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWmanual-19">[19]</a></sup>
+
+### Brave new world
+
+As [battlegrounds](https://wowpedia.fandom.com/wiki/Battleground "Battleground") pushed the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") further to war,<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-20">[20]</a></sup> Lady Jaina Proudmoore invited King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") to a summit in Theramore to find solutions for the hostilities.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-21">[21]</a></sup> However, King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") went missing under suspicious circumstances while en route to the diplomatic summit. Stormwind was believed to be going through a state of disarray and young [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") was given the crown so that order could be preserved within the kingdom of Stormwind, at the behest of the royal councilor, [Lady Prestor](https://wowpedia.fandom.com/wiki/Katrana_Prestor "Katrana Prestor").<sup id="cite_ref-WoWmanual_19-1"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWmanual-19">[19]</a></sup> [Highlord Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Highlord_Bolvar_Fordragon "Highlord Bolvar Fordragon") acted as a kind of Regent of Stormwind or the Supreme Commander of Stormwind's forces on behalf of King Anduin, with Lady Prestor advising Bolvar on the proper use of Stormwind's resources.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-22">[22]</a></sup><sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-23">[23]</a></sup>
+
+After their loss on Kalimdor, some forces of the Burning Legion retreated to [Darkwhisper Gorge](https://wowpedia.fandom.com/wiki/Darkwhisper_Gorge "Darkwhisper Gorge") while remnants of the Scourge went to [Razorfen Downs](https://wowpedia.fandom.com/wiki/Razorfen_Downs "Razorfen Downs").
+
+In the age of [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft"), _"Four years have passed since the mortal races banded together and stood united against the might of the Burning Legion. Though [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") was saved, the tenuous pact between the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") has all but evaporated. The drums of war thunder once again..."_<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-24">[24]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+-   Both the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") lost numerous ships to the [Drowned Reaches](https://wowpedia.fandom.com/wiki/Drowned_Reaches "Drowned Reaches") during the exodus to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-25">[25]</a></sup>
+-   The [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invasion in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") went as far as the [Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands").<sup id="cite_ref-LoC80_26-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-LoC80-26">[26]</a></sup>
+
+## Participants
+
+Among the known people who participated in the Third War are:
+
+-   [Brigitte Abbendis](https://wowpedia.fandom.com/wiki/Brigitte_Abbendis "Brigitte Abbendis"), [Doan](https://wowpedia.fandom.com/wiki/Arcanist_Doan "Arcanist Doan"), [Fairbanks](https://wowpedia.fandom.com/wiki/High_Inquisitor_Fairbanks "High Inquisitor Fairbanks"), [Isillien](https://wowpedia.fandom.com/wiki/Grand_Inquisitor_Isillien "Grand Inquisitor Isillien"), [Taelan Fordring](https://wowpedia.fandom.com/wiki/Taelan_Fordring "Taelan Fordring"), [Maxwell Tyrosus](https://wowpedia.fandom.com/wiki/Maxwell_Tyrosus "Maxwell Tyrosus"), [Sir Thomas](https://wowpedia.fandom.com/wiki/Sir_Thomas "Sir Thomas"), [Morgan Ladimore](https://wowpedia.fandom.com/wiki/Morgan_Ladimore "Morgan Ladimore"), and [Davil Crokford](https://wowpedia.fandom.com/wiki/Davil_Crokford "Davil Crokford") of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"). The RPG characters [Syndrissin](https://wowpedia.fandom.com/wiki/Syndrissin_Naris "Syndrissin Naris") and [Aretain Naris](https://wowpedia.fandom.com/wiki/Aretain_Naris "Aretain Naris") are also mentioned to have fought.
+-   [Joseph Redpath](https://wowpedia.fandom.com/wiki/Joseph_Redpath "Joseph Redpath"), [Dargal](https://wowpedia.fandom.com/wiki/Dargal "Dargal"), [Davin](https://wowpedia.fandom.com/wiki/Davin "Davin") and [Strov](https://wowpedia.fandom.com/wiki/Strov "Strov") as soldiers of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron").
+-   [Ur](https://wowpedia.fandom.com/wiki/Ur "Ur") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran").
+-   The two anonymous [blademaster](https://wowpedia.fandom.com/wiki/Blademaster_of_the_Blackrock_Clan "Blademaster of the Blackrock Clan") and [slave master](https://wowpedia.fandom.com/wiki/Slave_Master "Slave Master") of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan").
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), [Hekazi](https://wowpedia.fandom.com/wiki/Hekazi "Hekazi"), [Koma](https://wowpedia.fandom.com/wiki/Grunt_Koma "Grunt Koma"), [Karus](https://wowpedia.fandom.com/wiki/Grunt_Karus "Grunt Karus"), [Soran](https://wowpedia.fandom.com/wiki/Grunt_Soran "Grunt Soran"), [Garno](https://wowpedia.fandom.com/wiki/Garno "Garno"), [Fezhar](https://wowpedia.fandom.com/wiki/Fezhar "Fezhar") and [Duun](https://wowpedia.fandom.com/wiki/Duun "Duun") of the new [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
+-   [Anessa](https://wowpedia.fandom.com/wiki/Anessa "Anessa") and [Pained](https://wowpedia.fandom.com/wiki/Pained "Pained") of the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf").
+-   [Thalorien Dawnseeker](https://wowpedia.fandom.com/wiki/Thalorien_Dawnseeker "Thalorien Dawnseeker") and [Galell](https://wowpedia.fandom.com/wiki/Galell "Galell") of the [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf").
+-   [Morlen Coldgrip](https://wowpedia.fandom.com/wiki/Morlen_Coldgrip "Morlen Coldgrip") and [Marduk Blackpool](https://wowpedia.fandom.com/wiki/Marduk_Blackpool "Marduk Blackpool"), [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Other undead include [Ramstein the Gorger](https://wowpedia.fandom.com/wiki/Ramstein_the_Gorger "Ramstein the Gorger") and [Horgus the Ravager](https://wowpedia.fandom.com/wiki/Horgus_the_Ravager "Horgus the Ravager").
+-   [Shaka](https://wowpedia.fandom.com/wiki/Shaka_(ancient) "Shaka (ancient)")
+-   [John J. Keeshan](https://wowpedia.fandom.com/wiki/John_J._Keeshan "John J. Keeshan")
+-   [Kilrok Gorehammer](https://wowpedia.fandom.com/wiki/Kilrok_Gorehammer "Kilrok Gorehammer")
+
+## Notes
+
+-   [Caer Darrow](https://wowpedia.fandom.com/wiki/Caer_Darrow "Caer Darrow") fell to the [Plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") early in the war, when the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") did not yet fully exist in Lordaeron and before a visit from [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") was scheduled.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-27">[27]</a></sup><sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-28">[28]</a></sup> It is possible that it fell before Uther's investigation against the plague in the north led to the falls of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") and [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme").
+-   A meeting happened between the future [founders of the Scarlet Crusade](https://wowpedia.fandom.com/wiki/Ashbringer/Old_Hillsbrad_Ashbringer_event "Ashbringer/Old Hillsbrad Ashbringer event") in [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore") at some point, but the exact date depends between the escape of Thrall (in-game) or after the Culling of Stratholme (comic). They discussed how whole cities had gone missing in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and believed the continent to be lost.
+-   [Chen Stormstout](https://wowpedia.fandom.com/wiki/Chen_Stormstout "Chen Stormstout") fought alongside King [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") for at least part of the war and was declared a friend of [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge"),<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-29">[29]</a></sup> before eventually leaving to the newly-discovered [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").
+-   The [_Ashbringer_ comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ashbringer "World of Warcraft: Ashbringer") hints at a span of several days between the events surrounding the [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme"), events in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), and the death of [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II").<sup id="cite_ref-WoWcomicDiC_17-1"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWcomicDiC-17">[17]</a></sup> It is also said that it took ten days to reach [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas") since the fall of [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City")<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-30">[30]</a></sup> and six since the death of [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther") in [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-31">[31]</a></sup>
+-   It is possible for playable [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") to be explicitly [veterans of the Third War](https://wowpedia.fandom.com/wiki/Veteran_of_the_Third_War "Veteran of the Third War").
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/13/Grom_Glowei.jpg/revision/latest/scale-to-width-down/118?cb=20170103093201)](https://static.wikia.nocookie.net/wowpedia/images/1/13/Grom_Glowei.jpg/revision/latest?cb=20170103093201)
+    
+    [Grom](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream") invading Ashenvale.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Legends_in_Battle_WC3_wallpaper.jpg/revision/latest/scale-to-width-down/120?cb=20180621044352)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Legends_in_Battle_WC3_wallpaper.jpg/revision/latest?cb=20180621044352)
+    
+    Wallpaper representing the Third War.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Night_Elf_vs_Undead_WC3_wallpaper.jpg/revision/latest/scale-to-width-down/120?cb=20180621044706)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Night_Elf_vs_Undead_WC3_wallpaper.jpg/revision/latest?cb=20180621044706)
+    
+    Ditto.
+    
+
+## Videos
+
+-   [Warcraft 3: Reforged - Cinematic Trailer - BlizzCon 2018](https://wowpedia.fandom.com/wiki/Third_War#)
+-   [Warcraft III: Reign of Chaos - All Cutscenes](https://wowpedia.fandom.com/wiki/Third_War#)
+-   [Warcraft III: The Frozen Throne Intro](https://wowpedia.fandom.com/wiki/Third_War#)
+-   [Warcraft III: The Frozen Throne - All Cutscenes](https://wowpedia.fandom.com/wiki/Third_War#)
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-1) _[World of Warcraft: Ashbringer](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ashbringer "World of Warcraft: Ashbringer")_
+2.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-2) [High Commander Halford Wyrmbane#Quotes](https://wowpedia.fandom.com/wiki/High_Commander_Halford_Wyrmbane#Quotes "High Commander Halford Wyrmbane")
+3.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-3)  ![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Inv_scroll_10.png/revision/latest/scale-to-width-down/16?cb=20061230211533)[\[Demoniac Scryer Reading\]](https://wowpedia.fandom.com/wiki/Demoniac_Scryer_Reading): "I imagine that Mannoroth -- the pit lord of the Third Great War's fame -- possessed the same strength, but very few do."
+4.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-4)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[28\] [Calling in the Reserves](https://wowpedia.fandom.com/wiki/Calling_in_the_Reserves)
+5.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-5) [World of Warcraft manual](https://us.battle.net/support/en/article/manual), pg. 14
+6.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-6) [The Prophecy (WC3 demo)](https://wowpedia.fandom.com/wiki/The_Prophecy_(WC3_demo) "The Prophecy (WC3 demo)")
+7.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-7) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 54
+8.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-8) [BlizzCon 2015 Opening Ceremony](https://www.youtube.com/watch?v=F2mYqL8Dh9g)
+9.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-9) [Journal of Archmage Antonidas](https://wowpedia.fandom.com/wiki/Journal_of_Archmage_Antonidas "Journal of Archmage Antonidas")
+10.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-10) [Shield of the Deathlord](https://wowpedia.fandom.com/wiki/Shield_of_the_Deathlord "Shield of the Deathlord")
+11.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-11) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 14
+12.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-12) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_
+13.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-beonline_13-0) [blood elf](http://us.battle.net/wow/en/game/race/blood-elf). _Races of World of Warcraft_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+14.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-14) "[Curse of the Blood Elves](https://wowpedia.fandom.com/wiki/Curse_of_the_Blood_Elves "Curse of the Blood Elves"): [Misconceptions](https://wowpedia.fandom.com/wiki/Misconceptions "Misconceptions")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[The Frozen Throne](https://wowpedia.fandom.com/wiki/The_Frozen_Throne "The Frozen Throne")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+15.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-15) [King Arthas (WC3 Undead)](https://wowpedia.fandom.com/wiki/King_Arthas_(WC3_Undead) "King Arthas (WC3 Undead)")
+16.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-16) [A Kingdom Divided (WC3 Undead)](https://wowpedia.fandom.com/wiki/A_Kingdom_Divided_(WC3_Undead) "A Kingdom Divided (WC3 Undead)")
+17.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_ref-WoWcomicDiC_17-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_ref-WoWcomicDiC_17-1">b</a></sup> [Death is Contagious](https://wowpedia.fandom.com/wiki/Death_is_Contagious "Death is Contagious")
+18.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-18) [Ashes to Ashes](https://wowpedia.fandom.com/wiki/Ashes_to_Ashes "Ashes to Ashes")
+19.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_ref-WoWmanual_19-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_ref-WoWmanual_19-1">b</a></sup> [World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")
+20.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-20) [Patch 1.12.0](https://wowpedia.fandom.com/wiki/Patch_1.12.0 "Patch 1.12.0") Drums of War trailer
+21.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-21) [World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic"), Issue 13: [Flashback](https://wowpedia.fandom.com/wiki/Flashback "Flashback")
+22.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-22)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[54\] [The True Masters](https://wowpedia.fandom.com/wiki/The_True_Masters_(4))
+23.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-23)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[37\] [Warn Bolvar!](https://wowpedia.fandom.com/wiki/Warn_Bolvar!)
+24.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-24) [WoW official trailer](http://eu.battle.net/wow/en/media/videos/?view=wow-cinematic)
+25.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-25) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 74
+26.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-LoC80_26-0) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 80
+27.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-27) [Caer Darrow Citizen#Quotes](https://wowpedia.fandom.com/wiki/Caer_Darrow_Citizen#Quotes "Caer Darrow Citizen")
+28.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-28) [Rory#Quotes](https://wowpedia.fandom.com/wiki/Rory#Quotes "Rory")
+29.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-29) _[Pearl of Pandaria](https://wowpedia.fandom.com/wiki/Pearl_of_Pandaria "Pearl of Pandaria")_
+30.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-30) _[Death Knight](https://wowpedia.fandom.com/wiki/Death_Knight_(manga) "Death Knight (manga)")_, chapter 3
+31.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-31) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 18
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_Warcraft_I,_II,_and_III "Template:Conflicts in Warcraft I, II, and III")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_Warcraft_I,_II,_and_III?action=edit)
+
+Conflicts in [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans"), [Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness"), and [Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")
+
+
+
+ |
+| --- |
+|  |
+| [![WCOnH logo.png](https://static.wikia.nocookie.net/wowpedia/images/4/48/WCOnH_logo.png/revision/latest/scale-to-width-down/44?cb=20170825041118)](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans") _[Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_ | 
+
+[First War](https://wowpedia.fandom.com/wiki/First_War "First War")
+
+
+
+ |
+|  |
+| [![WC2BnE-logo.png](https://static.wikia.nocookie.net/wowpedia/images/8/8b/WC2BnE-logo.png/revision/latest/scale-to-width-down/42?cb=20210822201046)](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness") _[Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ | 
+
+-   [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"): [Rescue of Zul'jin](https://wowpedia.fandom.com/wiki/Rescue_of_Zul%27jin "Rescue of Zul'jin")
+-   [Battle of Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Battle_of_Hillsbrad_Foothills "Battle of Hillsbrad Foothills")
+-   [Siege of Ironforge](https://wowpedia.fandom.com/wiki/Siege_of_Ironforge "Siege of Ironforge")
+-   [Defense of Gnomeregan](https://wowpedia.fandom.com/wiki/Defense_of_Gnomeregan "Defense of Gnomeregan")
+-   [Burning of Quel'Thalas](https://wowpedia.fandom.com/wiki/Burning_of_Quel%27Thalas "Burning of Quel'Thalas")
+-   [Razing of Blackwood](https://wowpedia.fandom.com/wiki/Razing_of_Blackwood "Razing of Blackwood")
+-   [Siege of Capital City](https://wowpedia.fandom.com/wiki/Siege_of_Capital_City "Siege of Capital City")
+-   [Battle of Crestfall](https://wowpedia.fandom.com/wiki/Battle_of_Crestfall "Battle of Crestfall")
+-   [Siege of Blackrock Spire](https://wowpedia.fandom.com/wiki/Siege_of_Blackrock_Spire "Siege of Blackrock Spire")
+-   [Destruction of the Dark Portal](https://wowpedia.fandom.com/wiki/Destruction_of_the_Dark_Portal "Destruction of the Dark Portal")
+
+
+
+ |
+|  |
+| Between the Second and Third War | 
+
+-   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Invasion_of_Draenor "Invasion of Draenor")
+-   [Battle of Grim Batol](https://wowpedia.fandom.com/wiki/Battle_of_Grim_Batol "Battle of Grim Batol")
+-   [War of the Spider](https://wowpedia.fandom.com/wiki/War_of_the_Spider "War of the Spider")
+-   [Liberation of the orcs from internment camps](https://wowpedia.fandom.com/wiki/Liberation_of_the_orcs_from_internment_camps "Liberation of the orcs from internment camps")
+
+
+
+ |
+|  |
+| [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ | 
+
+-   **Third War**: [Scourging of Lordaeron](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron")
+    -   [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme")
+    -   [Battle of Darrowshire](https://wowpedia.fandom.com/wiki/Battle_of_Darrowshire "Battle of Darrowshire")
+-   [Scourge invasion of Quel'Thalas](https://wowpedia.fandom.com/wiki/Scourge_invasion_of_Quel%27Thalas "Scourge invasion of Quel'Thalas")
+-   [Siege of Dalaran](https://wowpedia.fandom.com/wiki/Siege_of_Dalaran "Siege of Dalaran")
+-   [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal")
+
+
+
+ |
+|  |
+| After the Third War | 
+
+-   [Northgate Rebellion](https://wowpedia.fandom.com/wiki/Northgate_Rebellion "Northgate Rebellion")
+-   [Ascension of the Lich King](https://wowpedia.fandom.com/wiki/Ascension_of_the_Lich_King "Ascension of the Lich King")
+-   [Plaguelands civil war](https://wowpedia.fandom.com/wiki/Plaguelands_civil_war "Plaguelands civil war")
+-   [Summertide Assaults](https://wowpedia.fandom.com/wiki/Summertide_Assaults "Summertide Assaults")
+-   [Siege of the Sanguine](https://wowpedia.fandom.com/wiki/Siege_of_the_Sanguine "Siege of the Sanguine")
+-   [Invasion of Durotar](https://wowpedia.fandom.com/wiki/Invasion_of_Durotar "Invasion of Durotar")
+
+
+
+ |
+|  |
+| 
+
+-   [Previous](https://wowpedia.fandom.com/wiki/Template:Conflicts_before_the_First_War "Template:Conflicts before the First War")
+-   [Wars category](https://wowpedia.fandom.com/wiki/Category:Wars "Category:Wars")
+-   [Battles category](https://wowpedia.fandom.com/wiki/Category:Battles "Category:Battles")
+-   [Next](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_WoW_through_WotLK "Template:Conflicts in WoW through WotLK")
+
+
+
+ |

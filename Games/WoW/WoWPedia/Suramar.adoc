@@ -1,0 +1,402 @@
+_This article is about about the region in the Broken Isles. For the city, see [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City"). For the elven kingdom, see [Suramar (kingdom)](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Suramar |
+| --- |
+| Level: 45  
+Battle Pet Level: 25 |
+| [![Suramar concept by Jimmy Lo.jpg](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Suramar_concept_by_Jimmy_Lo.jpg/revision/latest/scale-to-width-down/260?cb=20180923140901)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Suramar_concept_by_Jimmy_Lo.jpg/revision/latest?cb=20180923140901) |
+| Capital(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") |
+| Races | [![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Nightborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20181218105426)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")  
+[![IconSmall Felborne Male.gif](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Felborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118082738)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Felborne_Male.gif/revision/latest?cb=20211118082738)[![IconSmall Felborne Female.gif](https://static.wikia.nocookie.net/wowpedia/images/d/d3/IconSmall_Felborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118082731)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/IconSmall_Felborne_Female.gif/revision/latest?cb=20211118082731) [Felborne](https://wowpedia.fandom.com/wiki/Felborne "Felborne")  
+[![IconSmall NightborneMutant Male.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2f/IconSmall_Fal%27dorei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614134022)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/IconSmall_Fal%27dorei_Male.gif/revision/latest?cb=20200614134022)[![IconSmall NightborneMutant Female.gif](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Fal%27dorei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200614133958)](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Fal%27dorei_Female.gif/revision/latest?cb=20200614133958) [Fal'dorei](https://wowpedia.fandom.com/wiki/Fal%27dorei "Fal'dorei")  
+[![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")  
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
+[![IconSmall Nightfallen Male.gif](https://static.wikia.nocookie.net/wowpedia/images/c/c7/IconSmall_Nightfallen_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118085331)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/IconSmall_Nightfallen_Male.gif/revision/latest?cb=20211118085331)[![IconSmall Nightfallen Female.gif](https://static.wikia.nocookie.net/wowpedia/images/2/22/IconSmall_Nightfallen_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118085338)](https://static.wikia.nocookie.net/wowpedia/images/2/22/IconSmall_Nightfallen_Female.gif/revision/latest?cb=20211118085338) [Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen "Nightfallen")  
+[![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Vrykul_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118110203)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")[![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")  
+[![IconSmall Withered.gif](https://static.wikia.nocookie.net/wowpedia/images/3/35/IconSmall_Withered.gif/revision/latest/scale-to-width-down/16?cb=20211118083851)](https://static.wikia.nocookie.net/wowpedia/images/3/35/IconSmall_Withered.gif/revision/latest?cb=20211118083851) [Withered](https://wowpedia.fandom.com/wiki/Withered "Withered")  
+[![IconSmall Ettin.gif](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Ettin.gif/revision/latest/scale-to-width-down/16?cb=20211129173940)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Ettin.gif/revision/latest?cb=20211129173940) [Ettin](https://wowpedia.fandom.com/wiki/Ettin "Ettin") |
+| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_Thalyssra.gif/revision/latest/scale-to-width-down/16?cb=20180129124130)[Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra") |
+| Former ruler(s) | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/d/dc/IconSmall_Elisande.gif/revision/latest/scale-to-width-down/16?cb=20211211092611)[Elisande](https://wowpedia.fandom.com/wiki/Elisande "Elisande") <sup>&nbsp;†</sup> |
+| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Shal'Aran](https://wowpedia.fandom.com/wiki/Shal%27Aran "Shal'Aran")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Falanaar](https://wowpedia.fandom.com/wiki/Falanaar "Falanaar")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Felsoul Hold](https://wowpedia.fandom.com/wiki/Felsoul_Hold "Felsoul Hold")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Moon Guard Stronghold](https://wowpedia.fandom.com/wiki/Moon_Guard_Stronghold "Moon Guard Stronghold") |
+| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Jandvik](https://wowpedia.fandom.com/wiki/Jandvik "Jandvik")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Sashj'tar Ruins](https://wowpedia.fandom.com/wiki/Sashj%27tar_Ruins "Sashj'tar Ruins") |
+| Affiliation | [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)"), [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [Moon Guard](https://wowpedia.fandom.com/wiki/Moon_Guard "Moon Guard"), [Jandvik vrykul](https://wowpedia.fandom.com/wiki/Jandvik_vrykul "Jandvik vrykul") |
+| Former affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") |
+| Location | Central [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") |
+| PvP status | [Contested territory](https://wowpedia.fandom.com/wiki/Contested_territory "Contested territory") |
+
+_Once a shining symbol of Highborne society, Suramar never recovered from the trauma of the War of the Ancients. To survive the devastation of the Sundering, the city's inhabitants sealed themselves away from the rest of the world. Isolated for millennia, they had no allies to call upon when the Legion invaded. Now their ancient city, and all of its power, is at the mercy of demons._<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-1">[1]</a></sup>
+
+**Suramar** is a max-level zone located in the central [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles").<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-2">[2]</a></sup> Once a great [night elven](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") settlement — though not as glorious as the capital of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") — it was famously the hometown of several important night elves: [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), his brother [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), their friend [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), and the siblings [Jarod](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong") and [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong"). Today it is the home of the [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne"). Suramar is built on [ley lines](https://wowpedia.fandom.com/wiki/Ley_line "Ley line"),<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-3">[3]</a></sup> and arcane coils in the tunnel system running beneath Suramar and the surrounding areas tap into those ley lines' power.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-4">[4]</a></sup> Since the creation of the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell"), the ley lines have become redundant and the arcane coils abandoned.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-5">[5]</a></sup>
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Suramar_Road_Gate.jpg/revision/latest/scale-to-width-down/350?cb=20170913234736)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Suramar_Road_Gate.jpg/revision/latest?cb=20170913234736)
+
+The [Ruins of Elune'eth](https://wowpedia.fandom.com/wiki/Ruins_of_Elune%27eth "Ruins of Elune'eth"), a massive gate found in Suramar.
+
+Suramar was the location of the [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune "Temple of Elune"), the central place of worship for the night elves. The high priestess of [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") lived in the temple. The [Boughs of Azshara](https://wowpedia.fandom.com/wiki/Boughs_of_Azshara "Boughs of Azshara"), [Izal-Shurah](https://wowpedia.fandom.com/wiki/Izal-Shurah "Izal-Shurah") and [Arauk-Nashal](https://wowpedia.fandom.com/wiki/Arauk-Nashal "Arauk-Nashal") were also located here.<sup id="cite_ref-BrokenIsles_6-0"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-BrokenIsles-6">[6]</a></sup>
+
+Just before the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar") was held captive in [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") until he was freed by [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"). During the war, the Legion's efforts in the city were led by the [pit lord](https://wowpedia.fandom.com/wiki/Pit_lord "Pit lord") [Ronokon](https://wowpedia.fandom.com/wiki/Ronokon "Ronokon").<sup id="cite_ref-Research_7-0"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-Research-7">[7]</a></sup> The city was attacked and ravaged by the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Suramar was subsequently used by the [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") in an experiment to create an army of the undead, an experiment which laid the groundwork for the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") ten thousand years later.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-8">[8]</a></sup> At some point during the war, the [demon lord](https://wowpedia.fandom.com/wiki/Demon_lord "Demon lord") [Sciallax](https://wowpedia.fandom.com/wiki/Sciallax "Sciallax") came to Suramar and offered the night elves at the time a [powerful artifact](https://wowpedia.fandom.com/wiki/Orb_of_Sciallax "Orb of Sciallax") in return for their servitude to the Legion.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-9">[9]</a></sup>
+
+The Burning Legion attempted to open a second portal besides the one at the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") in the Temple of Elune in order to attack the night elves on two fronts. The resident [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") used the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation") to close the portal and put several seals on the temple.<sup id="cite_ref-Chronicle_10-0"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-Chronicle-10">[10]</a></sup> The [Wild God](https://wowpedia.fandom.com/wiki/Wild_God "Wild God") [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane") battled Ronokon in [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") just outside Suramar and sacrificed her life to kill him. In doing so, she was able to buy the elves the time they needed to craft a shield around their city.<sup id="cite_ref-Research_7-1"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-Research-7">[7]</a></sup>
+
+Most of Suramar was blasted to the bottom of the [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") during the [Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"). However, some of it remained above shore in the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") due to the efforts of the resident [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), who crafted a magical shield that kept a section of their city together. This shield would stay up for 10,000 years, as the Highborne believed the world outside of [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") had been destroyed. Under their shield they would evolve into the [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne"), reliant on their source of power, the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell").<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-11">[11]</a></sup> While the city was shielded, it was "probably next to impossible for normal Nightborne to leave."<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-12">[12]</a></sup> Much later, dwarves recovered a [Highborne Astrolabe](https://wowpedia.fandom.com/wiki/Highborne_Astrolabe "Highborne Astrolabe") from the undersea ruins of Suramar.
+
+The sunken [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune "Temple of Elune") in [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") was later used by the [Guardian](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal") [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") to hold the [physical remains](https://wowpedia.fandom.com/wiki/Avatar_of_Sargeras "Avatar of Sargeras"), [Jeweled Scepter](https://wowpedia.fandom.com/wiki/Jeweled_Scepter_of_Sargeras "Jeweled Scepter of Sargeras"), and [Eye](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras") of [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), which led to the building's more familiar designation, the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras").
+
+During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), the portion of Suramar containing the Tomb of Sargeras, now known as the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), was raised up from the seafloor by [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan").<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-13">[13]</a></sup><sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-14">[14]</a></sup> A [battle](https://wowpedia.fandom.com/wiki/The_Broken_Isles_(WC3_NightElf) "The Broken Isles (WC3 NightElf)") was fought there between [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")'s [Watchers](https://wowpedia.fandom.com/wiki/Watchers "Watchers") and [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"). Several years later, the [alternate Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") was sent by the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to act as their ambassador to the Nightborne and their [Grand Magistrix](https://wowpedia.fandom.com/wiki/Grand_Magistrix_Elisande "Grand Magistrix Elisande"), who has pledged herself and her people to the same demons she stood against in defiance of [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") 10,000 years ago. Not all Nightborne agree with Elisande's decision, though they keep their disagreement a secret. With loyalists and demons marching together in the streets of Suramar, fear and distrust grips other elves' hearts and family turns against family.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-15">[15]</a></sup> The flame of the Shal'dorei flickers and heroes must arise to re-ignite it and stir the noble hearts of this once brave night elven group.
+
+At some point during the [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), the [Order of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") sent their troops in the region to intercept during the night a [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") convoy containing a large shipment of  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Inv_ore_mithril_02.png/revision/latest/scale-to-width-down/16?cb=20060920224537)[\[Lumenstone\]](https://wowpedia.fandom.com/wiki/Lumenstone), guarded by [Warden Jor'al](https://wowpedia.fandom.com/wiki/Warden_Jor%27al "Warden Jor'al") and some [Duskwatch Enforcers](https://wowpedia.fandom.com/wiki/Duskwatch_Enforcer "Duskwatch Enforcer") behind the walls of [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City").<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-16">[16]</a></sup>
+
+## Getting there
+
+Suramar is the most central region in the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), making it naturally accessible from almost every other zone.
+
+Roads lead directly into the Suramar from the neighboring regions of [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"), [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah"), and [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim") from the west, northwest, and east respectively. A small mountain path even connects from the remote area of [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") far to the north near the [Moon Guard Stronghold](https://wowpedia.fandom.com/wiki/Moon_Guard_Stronghold "Moon Guard Stronghold").
+
+There are three separate neutral [flight points](https://wowpedia.fandom.com/wiki/Flight_point "Flight point") located throughout the zone:
+
+## Geography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Anora_Hollow.jpg/revision/latest/scale-to-width-down/275?cb=20170914034041)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Anora_Hollow.jpg/revision/latest?cb=20170914034041)
+
+The winding canyons of Anora Hollow.
+
+Suramar is an ancient land, much like the other regions of the Broken Isles. It is strewn with lush and colorful flora, covering almost every cliff and crevice. Ancient Highborne towns cover much of the landscape, now inhabited by fouler creatures. The zone is incredibly diverse, featuring many distinguishable regions.
+
+The southern portion of Suramar holds its most recognizable feature, Suramar City. Almost all of the roads in Suramar lead here, as it was once the center of Highborne civilization. Another notable feature to the south is to the west of Suramar City, [Felsoul Hold](https://wowpedia.fandom.com/wiki/Felsoul_Hold "Felsoul Hold"); a rather recent addition to the zone.
+
+The western portion of Suramar is a flat and grassy area, orange and red in color. It holds two large and now abandoned towns - [Falanaar](https://wowpedia.fandom.com/wiki/Falanaar "Falanaar") and [Ambervale](https://wowpedia.fandom.com/wiki/Ambervale "Ambervale"). The great Sundering had especially affected this place, collapsing much of Falanaar. A lot of the snowmelt from [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") flows through here and into the [Sundered Shoals](https://wowpedia.fandom.com/wiki/Sundered_Shoals "Sundered Shoals"). Another feature is tucked away to the northwest, [Moon Guard Stronghold](https://wowpedia.fandom.com/wiki/Moon_Guard_Stronghold "Moon Guard Stronghold") - built against Highmountain in a strategic manner.
+
+In the northern center of Suramar one finds perhaps the most treacherous and difficult to traverse place in the zone. [Anora Hollow](https://wowpedia.fandom.com/wiki/Anora_Hollow "Anora Hollow") is a maze-like canyon with many precarious pathways carved throughout. On top of it is the Highborne gravesite, [Tel'anor](https://wowpedia.fandom.com/wiki/Tel%27anor "Tel'anor"). Tel'anor's city-like fabrication on the cliffs of Anora Hollow is perhaps strategic, to prevent desecration of its heroes' tombs. That hasn't stopped the harpies, though, who have invaded over half of the ruins.
+
+The last major area of Suramar is the [Crimson Thicket](https://wowpedia.fandom.com/wiki/Crimson_Thicket "Crimson Thicket"), found in its easterly portion, near [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim"). Like its name, the Crimson Thicket is a forest of deep red color, and massive trees. A small path from the forest leads to [Azuregale Bay](https://wowpedia.fandom.com/wiki/Azuregale_Bay "Azuregale Bay").
+
+### Maps and subregions
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WorldMap-Suramar.jpg/revision/latest/scale-to-width-down/180?cb=20160719125035)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WorldMap-Suramar.jpg/revision/latest?cb=20160719125035)
+
+Map of Suramar.
+
+<table><tbody><tr><td><ul><li><a href="https://wowpedia.fandom.com/wiki/Absolon%27s_Vigil" title="Absolon's Vigil">Absolon's Vigil</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ambervale" title="Ambervale">Ambervale</a></li><li><a href="https://wowpedia.fandom.com/wiki/Anora_Hollow" title="Anora Hollow">Anora Hollow</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ley_Station_Anora" title="Ley Station Anora">Ley Station Anora</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Azuregale_Bay" title="Azuregale Bay">Azuregale Bay</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Azuregale_Hollow" title="Azuregale Hollow">Azuregale Hollow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forgalash%27s_Den" title="Forgalash's Den">Forgalash's Den</a></li><li><a href="https://wowpedia.fandom.com/wiki/Muddledeep_Cavern" title="Muddledeep Cavern">Muddledeep Cavern</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sashj%27tar_Grotto" title="Sashj'tar Grotto">Sashj'tar Grotto</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sashj%27tar_Ruins" title="Sashj'tar Ruins">Sashj'tar Ruins</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Azuregale_Cove" title="Azuregale Cove">Azuregale Cove</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cliffclutch_Roost" title="Cliffclutch Roost">Cliffclutch Roost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cliffroost" title="Cliffroost">The Cliffroost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Thicket" title="Crimson Thicket">Crimson Thicket</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Elor%27shan" title="Elor'shan">Elor'shan</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Dappled_Hollow" title="Dappled Hollow">Dappled Hollow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drift" title="Drift">The Drift</a></li><li><a href="https://wowpedia.fandom.com/wiki/Falanaar" title="Falanaar">Falanaar</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Falanaar_Tunnels" title="Falanaar Tunnels">Falanaar Tunnels</a></li><li><a href="https://wowpedia.fandom.com/wiki/Temple_of_Fal%27adora" title="Temple of Fal'adora">Temple of Fal'adora</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Shattered_Locus" title="Shattered Locus">Shattered Locus</a></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Feathermane_Hunting_Grounds" title="Feathermane Hunting Grounds">Feathermane Hunting Grounds</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felborne_Outpost" title="Felborne Outpost">Felborne Outpost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_Hold" title="Felsoul Hold">Felsoul Hold</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Arcway_(Suramar)" title="Arcway (Suramar)">The Arcway</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Fel_Breach" title="Fel Breach">The Fel Breach</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Arcway_Vaults" title="Arcway Vaults">The Arcway Vaults</a></li><li><a href="https://wowpedia.fandom.com/wiki/Den_of_the_Demented" title="Den of the Demented">Den of the Demented</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmaw_Cavern" title="Felmaw Cavern">Felmaw Cavern</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_Advance" title="Felsoul Advance">Felsoul Advance</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_Command" title="Felsoul Command">Felsoul Command</a></li><li><a href="https://wowpedia.fandom.com/wiki/Halls_of_the_Eclipse" title="Halls of the Eclipse">Halls of the Eclipse</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lightbreaker" title="Lightbreaker"><i>The Lightbreaker</i></a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Irongrove_Retreat" title="Irongrove Retreat">Irongrove Retreat</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jandvik" title="Jandvik">Jandvik</a></li><li><a href="https://wowpedia.fandom.com/wiki/Kel%27balor" title="Kel'balor">Kel'balor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Koralune_Manor" title="Koralune Manor">Koralune Manor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ley_Station_Aethenar" title="Ley Station Aethenar">Ley Station Aethenar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Meredil" title="Meredil">Meredil</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Shal%27Aran" title="Shal'Aran">Shal'Aran</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Moon_Guard_Stronghold" title="Moon Guard Stronghold">Moon Guard Stronghold</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Athenaeum_(Suramar)" title="Athenaeum (Suramar)">The Athenaeum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Highmist_Terrace" title="Highmist Terrace">Highmist Terrace</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lower_Gardens" title="Lower Gardens">Lower Gardens</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lunar_Crucible" title="Lunar Crucible">The Lunar Crucible</a></li><li><a href="https://wowpedia.fandom.com/wiki/Moonfall_Approach" title="Moonfall Approach">Moonfall Approach</a></li><li><a href="https://wowpedia.fandom.com/wiki/Moonfall_Overlook" title="Moonfall Overlook">Moonfall Overlook</a></li><li><a href="https://wowpedia.fandom.com/wiki/Moonfall_Roost" title="Moonfall Roost">Moonfall Roost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Starweaver%27s_Sanctum" title="Starweaver's Sanctum">Starweaver's Sanctum</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Moonfall_Retreat" title="Moonfall Retreat">Moonfall Retreat</a></li><li><a href="https://wowpedia.fandom.com/wiki/Moonshade_Sanctum" title="Moonshade Sanctum">Moonshade Sanctum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Moonwhisper_Gulch" title="Moonwhisper Gulch">Moonwhisper Gulch</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ley_Station_Moonfall" title="Ley Station Moonfall">Ley Station Moonfall</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nal%27ryssa%27s_Encampment" title="Nal'ryssa's Encampment">Nal'ryssa's Encampment</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nyell%27s_Workshop" title="Nyell's Workshop">Nyell's Workshop</a></li><li><a href="https://wowpedia.fandom.com/wiki/Oculeth%27s_Workshop" title="Oculeth's Workshop">Oculeth's Workshop</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Oculeth%27s_Test_Chamber" title="Oculeth's Test Chamber">Oculeth's Test Chamber</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/River%27s_Rest" title="River's Rest">River's Rest</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Elune%27eth" title="Ruins of Elune'eth">Ruins of Elune'eth</a></li><li><a href="https://wowpedia.fandom.com/wiki/Seaspray_Cliffs" title="Seaspray Cliffs">Seaspray Cliffs</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sundered_Shoals" title="Sundered Shoals">Sundered Shoals</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tel%27anor" title="Tel'anor">Tel'anor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Teloth%27aran" title="Teloth'aran">Teloth'aran</a></li><li><a href="https://wowpedia.fandom.com/wiki/Warpwind_Cliffs" title="Warpwind Cliffs">Warpwind Cliffs</a></li></ul></td></tr><tr><td><hr><dl><dt><a href="https://wowpedia.fandom.com/wiki/Suramar_City" title="Suramar City">Suramar City</a></dt></dl><ul><li><a href="https://wowpedia.fandom.com/wiki/Arcway" title="Arcway">The Arcway</a></li><li><a href="https://wowpedia.fandom.com/wiki/Artisan%27s_Gallery" title="Artisan's Gallery">Artisan's Gallery</a></li><li><a href="https://wowpedia.fandom.com/wiki/Astravar_Harbor" title="Astravar Harbor">Astravar Harbor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Concourse_of_Destiny" title="Concourse of Destiny">Concourse of Destiny</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aetherium" title="Aetherium">Aetherium</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Court_of_Stars" title="Court of Stars">Court of Stars</a></li><li><a href="https://wowpedia.fandom.com/wiki/Estate_of_the_First_Arcanist" title="Estate of the First Arcanist">Estate of the First Arcanist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Evermoon_Commons" title="Evermoon Commons">Evermoon Commons</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Evermoon_Bazaar" title="Evermoon Bazaar">Evermoon Bazaar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Evermoon_Terrace" title="Evermoon Terrace">Evermoon Terrace</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Gilded_Market" title="Gilded Market">The Gilded Market</a></li><li><a href="https://wowpedia.fandom.com/wiki/Grand_Promenade_(Suramar)" title="Grand Promenade (Suramar)">The Grand Promenade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jeweled_Estate" title="Jeweled Estate">Jeweled Estate</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lunastre_Estate" title="Lunastre Estate">Lunastre Estate</a></li><li><a href="https://wowpedia.fandom.com/wiki/Menagerie_(Suramar)" title="Menagerie (Suramar)">The Menagerie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Su%27esh%27s_Lair" title="Su'esh's Lair">Su'esh's Lair</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Moonbeam_Causeway" title="Moonbeam Causeway">Moonbeam Causeway</a></li><li><a href="https://wowpedia.fandom.com/wiki/Moonlit_Landing" title="Moonlit Landing">Moonlit Landing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Midnight_Court" title="Midnight Court">Midnight Court</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nighthold" title="Nighthold">The Nighthold</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shimmershade_Garden" title="Shimmershade Garden">Shimmershade Garden</a></li><li><a href="https://wowpedia.fandom.com/wiki/Siren%27s_Vigil" title="Siren's Vigil">Siren's Vigil</a></li><li><a href="https://wowpedia.fandom.com/wiki/Starcaller_Retreat" title="Starcaller Retreat">Starcaller Retreat</a><ul><li><a href="https://wowpedia.fandom.com/wiki/The_Waning_Crescent" title="The Waning Crescent">The Waning Crescent</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Sunset_Park" title="Sunset Park">Sunset Park</a></li><li><a href="https://wowpedia.fandom.com/wiki/Suramar_Bay" title="Suramar Bay">Suramar Bay</a></li><li><a href="https://wowpedia.fandom.com/wiki/Terrace_of_Enlightenment" title="Terrace of Enlightenment">Terrace of Enlightenment</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Sanctum_of_Enlightenment" title="Sanctum of Enlightenment">Sanctum of Enlightenment</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Terrace_of_Order" title="Terrace of Order">Terrace of Order</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Sanctum_of_Order" title="Sanctum of Order">Sanctum of Order</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Sanctum_Depths" title="Sanctum Depths">Sanctum Depths</a></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_Vineyards" title="Twilight Vineyards">Twilight Vineyards</a></li></ul></td></tr><tr><td><hr><dl><dt><a href="https://wowpedia.fandom.com/wiki/Lore_location" title="Lore location">Lore locations</a></dt></dl><ul><li><a href="https://wowpedia.fandom.com/wiki/Ga%27han" title="Ga'han">Ga'han</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vault_of_Antiquities" title="Vault of Antiquities">Vault of Antiquities</a></li></ul></td></tr><tr><td><hr><dl><dt><a href="https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne" title="Warcraft III: The Frozen Throne"><img alt="WC3tFT-logo.png" decoding="async" loading="lazy" width="32" height="18" data-image-name="WC3tFT-logo.png" data-image-key="WC3tFT-logo.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2e/WC3tFT-logo.png/revision/latest/scale-to-width-down/32?cb=20210822205556" src="https://static.wikia.nocookie.net/wowpedia/images/2/2e/WC3tFT-logo.png/revision/latest/scale-to-width-down/32?cb=20210822205556"></a> <a href="https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne" title="Warcraft III: The Frozen Throne">Warcraft III</a></dt></dl><ul><li><a href="https://wowpedia.fandom.com/wiki/Boughs_of_Azshara" title="Boughs of Azshara">Boughs of Azshara</a></li><li><a href="https://wowpedia.fandom.com/wiki/Brewmaster_drinking_area" title="Brewmaster drinking area">Brewmaster drinking area</a> (presumed)</li><li><a href="https://wowpedia.fandom.com/wiki/Izal-Shurah" title="Izal-Shurah">Izal-Shurah</a> (presumed)</li></ul></td></tr></tbody></table>
+
+### Instances
+
+| Instance name | Level range | Group size |
+| --- | --- | --- |
+| [![Instance portal](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Instance_portal_purple.png/revision/latest?cb=20080612054055)](https://wowpedia.fandom.com/wiki/Instance_portal "Instance portal") [Court of Stars](https://wowpedia.fandom.com/wiki/Court_of_Stars "Court of Stars") | 110 | 110 |
+| [![Instance portal](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Instance_portal_purple.png/revision/latest?cb=20080612054055)](https://wowpedia.fandom.com/wiki/Instance_portal "Instance portal") [The Arcway](https://wowpedia.fandom.com/wiki/The_Arcway "The Arcway") | 110 | 110 |
+| [![Instance portal](https://static.wikia.nocookie.net/wowpedia/images/4/45/Instance_portal_green.png/revision/latest?cb=20080612053957)](https://wowpedia.fandom.com/wiki/Instance_portal "Instance portal") [The Nighthold](https://wowpedia.fandom.com/wiki/Nighthold_(instance) "Nighthold (instance)") | 110 | 10-30/20 |
+
+## Travel Hubs
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") Flight Paths from [Meredil](https://wowpedia.fandom.com/wiki/Meredil "Meredil")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") Flight Paths from [Irongrove Retreat](https://wowpedia.fandom.com/wiki/Irongrove_Retreat "Irongrove Retreat")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") Flight Paths from [Crimson Thicket](https://wowpedia.fandom.com/wiki/Crimson_Thicket "Crimson Thicket")
+
+### Adjacent regions
+
+| Zone Name | Faction | Level Range | Direction | Access |
+| --- | --- | --- | --- | --- |
+| [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 98-110 (scaled) | Southwest | By foot or by flight path |
+| [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 98-110 (scaled) | North | By flight path |
+| [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 98-110 (scaled) | Northeast | By foot or by flight path |
+| [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 98-110 (scaled) | Northwest | By foot or by flight path |
+
+## Notable characters
+
+_Main article: [Suramar NPCs](https://wowpedia.fandom.com/wiki/Suramar_NPCs "Suramar NPCs")_
+
+## Quests
+
+_Main article: [Suramar storyline](https://wowpedia.fandom.com/wiki/Suramar_storyline "Suramar storyline")_
+
+## Vignettes
+
+_Main article: Suramar vignettes_
+
+## Resources
+
+-   Cloth
+-   Herbalism
+-   Skinning
+-   Mining
+-   Fishing
+
+## Wild pets
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+
+## Wild creatures
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+### In Lands of Conflict
+
+**Suramar** was a great [Kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") city ten thousand years ago. Some important night elves once called this place home: [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") and the [brothers](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") [Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"). The ruins are now a sad reminder of ancient Kaldorei folly. In the center of the ruins, the [stumps of two great aspen trees](https://wowpedia.fandom.com/wiki/Boughs_of_Azshara "Boughs of Azshara") stand side by side. It is strange, since the climate is not right for aspens; and even if a seedling did manage to grow, it would not have had time to reach the girth of these enormous stumps. As some night elves later clarified, in ancient times, a great garden stood at Suramar's center, and at the center of this garden stood the fabled [Boughs of Azshara](https://wowpedia.fandom.com/wiki/Boughs_of_Azshara "Boughs of Azshara"). Now, these petriﬁed stumps are all that remain.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-17">[17]</a></sup>
+
+### As capital of the Kaldorei
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/33/Suramar.JPG/revision/latest/scale-to-width-down/180?cb=20071023073512)](https://static.wikia.nocookie.net/wowpedia/images/3/33/Suramar.JPG/revision/latest?cb=20071023073512)
+
+Suramar during the War of the Ancients.
+
+_In some RPG books, [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") was seemingly replaced by Suramar._
+
+Suramar was the ancient [Kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") capital.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-18">[18]</a></sup> In the time of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), the religious community of Suramar was a complicated structure intimately intertwined with the [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") community and involving nearly everyone in the city.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-19">[19]</a></sup> The great arcane academies of Suramar trained entire generations of [mages](https://wowpedia.fandom.com/wiki/Mage "Mage").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-20">[20]</a></sup>
+
+Once a gleaming city of polished wood and marble, of silken banners and graceful spires, Suramar was torn asunder by the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") and was being battled over during the final stages of the war. Queen Azshara and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") followers climbed to the heights of power when their heedless studies of magic brought the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). The Kaldorei and the [ancients](https://wowpedia.fandom.com/wiki/Ancient "Ancient") were making one last attempt to prevent the Highborne from leaping over the brink of destruction. A portion of Suramar, the temple district, was located near the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). The city was also the location of the [Eternal Palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace") where Queen Azshara lived.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-21">[21]</a></sup>
+
+## Notes and trivia
+
+-   [Ga'han](https://wowpedia.fandom.com/wiki/Ga%27han "Ga'han") used to be near Suramar.
+-   The demonyms used for something originating from Suramar are Suramari<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-22">[22]</a></sup> or Suramarian.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Suramar#cite_note-23">[23]</a></sup>
+-   The [Highborne Astrolabe](https://wowpedia.fandom.com/wiki/Highborne_Astrolabe "Highborne Astrolabe") in the [Ironforge museum](https://wowpedia.fandom.com/wiki/Library_(Ironforge)#Museum "Library (Ironforge)") is said to have come from the "undersea ruins" of Suramar.
+-   PTR strings of [patch 8.3.0](https://wowpedia.fandom.com/wiki/Patch_8.3.0 "Patch 8.3.0") suggested that Suramar would be attacked by [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")'s forces.
+    -    ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[111\] [Remnants of the Sashj'tar](https://wowpedia.fandom.com/wiki/Remnants_of_the_Sashj%27tar) would possibly be part of the content.
+-   Two [realms](https://wowpedia.fandom.com/wiki/Realm "Realm") are named after Suramar: [Suramar US](https://wowpedia.fandom.com/wiki/Server:Suramar_US "Server:Suramar US") and [Suramar Europe](https://wowpedia.fandom.com/wiki/Server:Suramar_Europe "Server:Suramar Europe"). See [Realm name lore](https://wowpedia.fandom.com/wiki/Realm_name_lore "Realm name lore").
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+The ruins of Suramar in _The Frozen Throne_ used the "sunken ruins" tileset. It is never explained why the kaldorei city of Suramar has the statuary and motifs of a seaside civilization when the city was several thousand miles inland. Moreover, the distance between Suramar and Zin-Azshari (in the War of the Ancients novels) was implied at being between a third to a half the distance from the Well of Eternity to Mount Hyjal, while the maps in _The Frozen Throne_ show the Broken Isles to be close to the Maelstrom, and on the opposite side. It is implied in _Lands of Mystery_ that the Broken Isles are being pulled towards the Maelstrom. One could say there might have been a big lake and Suramar was located on its shore.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Ruinsofsuramar.jpg/revision/latest/scale-to-width-down/120?cb=20090323153325)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Ruinsofsuramar.jpg/revision/latest?cb=20090323153325)
+    
+    The ruins of Suramar in Warcraft III.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/62/Suramar_Gate.jpg/revision/latest/scale-to-width-down/120?cb=20090608220616)](https://static.wikia.nocookie.net/wowpedia/images/6/62/Suramar_Gate.jpg/revision/latest?cb=20090608220616)
+    
+    The gates of Suramar that Maiev entered through.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Suramar_%28Legion_in_game_map%29.jpg/revision/latest/scale-to-width-down/120?cb=20151110061620)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Suramar_%28Legion_in_game_map%29.jpg/revision/latest?cb=20151110061620)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Suramar_city_CoS_section.jpg/revision/latest/scale-to-width-down/120?cb=20181001174519)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Suramar_city_CoS_section.jpg/revision/latest?cb=20181001174519)
+    
+    Undamaged Suramar City (protected by an impenetrable barrier for 10,000 years).
+    
+
+## Videos
+
+-   [The Story of Suramar](https://wowpedia.fandom.com/wiki/Suramar#)
+
+## Patch changes
+
+## References
+
+## External links
+
+<table><tbody><tr><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=7637">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/7637">WoWDB</a></li></ul></td><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=7767">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/7767">WoWDB</a></li></ul></td><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=8390">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/8390">WoWDB</a></li></ul></td><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=10727">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/10727">WoWDB</a></li></ul></td></tr></tbody></table>
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Suramar "Template:Suramar")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Suramar?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of **Suramar**
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Suramar is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Suramar is a contested territory")
+
+ | 
+
+-   [Absolon's Vigil](https://wowpedia.fandom.com/wiki/Absolon%27s_Vigil "Absolon's Vigil")
+-   [Ambervale](https://wowpedia.fandom.com/wiki/Ambervale "Ambervale")
+-   [Anora Hollow](https://wowpedia.fandom.com/wiki/Anora_Hollow "Anora Hollow")
+    -   [Ley Station Anora](https://wowpedia.fandom.com/wiki/Ley_Station_Anora "Ley Station Anora")
+-   [Azuregale Bay](https://wowpedia.fandom.com/wiki/Azuregale_Bay "Azuregale Bay")
+    -   [Azuregale Hollow](https://wowpedia.fandom.com/wiki/Azuregale_Hollow "Azuregale Hollow")
+    -   [Forgalash's Den](https://wowpedia.fandom.com/wiki/Forgalash%27s_Den "Forgalash's Den")
+    -   [Muddledeep Cavern](https://wowpedia.fandom.com/wiki/Muddledeep_Cavern "Muddledeep Cavern")
+    -   [Sashj'tar Grotto](https://wowpedia.fandom.com/wiki/Sashj%27tar_Grotto "Sashj'tar Grotto")
+    -   [Sashj'tar Ruins](https://wowpedia.fandom.com/wiki/Sashj%27tar_Ruins "Sashj'tar Ruins")
+-   [Azuregale Cove](https://wowpedia.fandom.com/wiki/Azuregale_Cove "Azuregale Cove")
+-   [Cliffclutch Roost](https://wowpedia.fandom.com/wiki/Cliffclutch_Roost "Cliffclutch Roost")
+-   [The Cliffroost](https://wowpedia.fandom.com/wiki/Cliffroost "Cliffroost")
+-   [Crimson Thicket](https://wowpedia.fandom.com/wiki/Crimson_Thicket "Crimson Thicket")
+    -   [Elor'shan](https://wowpedia.fandom.com/wiki/Elor%27shan "Elor'shan")
+-   [Dappled Hollow](https://wowpedia.fandom.com/wiki/Dappled_Hollow "Dappled Hollow")
+-   [The Drift](https://wowpedia.fandom.com/wiki/Drift "Drift")
+-   [Falanaar](https://wowpedia.fandom.com/wiki/Falanaar "Falanaar")
+    -   [Falanaar Tunnels](https://wowpedia.fandom.com/wiki/Falanaar_Tunnels "Falanaar Tunnels")
+    -   [Temple of Fal'adora](https://wowpedia.fandom.com/wiki/Temple_of_Fal%27adora "Temple of Fal'adora")
+        -   [Shattered Locus](https://wowpedia.fandom.com/wiki/Shattered_Locus "Shattered Locus")
+-   [Feathermane Hunting Grounds](https://wowpedia.fandom.com/wiki/Feathermane_Hunting_Grounds "Feathermane Hunting Grounds")
+-   [Felborne Outpost](https://wowpedia.fandom.com/wiki/Felborne_Outpost "Felborne Outpost")
+-   [Felsoul Hold](https://wowpedia.fandom.com/wiki/Felsoul_Hold "Felsoul Hold")
+    -   [The Arcway](https://wowpedia.fandom.com/wiki/Arcway_(Suramar) "Arcway (Suramar)")
+        -   [The Fel Breach](https://wowpedia.fandom.com/wiki/Fel_Breach "Fel Breach")
+    -   [The Arcway Vaults](https://wowpedia.fandom.com/wiki/Arcway_Vaults "Arcway Vaults")
+    -   [Den of the Demented](https://wowpedia.fandom.com/wiki/Den_of_the_Demented "Den of the Demented")
+    -   [Felmaw Cavern](https://wowpedia.fandom.com/wiki/Felmaw_Cavern "Felmaw Cavern")
+    -   [Felsoul Advance](https://wowpedia.fandom.com/wiki/Felsoul_Advance "Felsoul Advance")
+    -   [Felsoul Command](https://wowpedia.fandom.com/wiki/Felsoul_Command "Felsoul Command")
+    -   [Halls of the Eclipse](https://wowpedia.fandom.com/wiki/Halls_of_the_Eclipse "Halls of the Eclipse")
+    -   [_The Lightbreaker_](https://wowpedia.fandom.com/wiki/Lightbreaker "Lightbreaker")
+-   [Irongrove Retreat](https://wowpedia.fandom.com/wiki/Irongrove_Retreat "Irongrove Retreat")
+-   [Jandvik](https://wowpedia.fandom.com/wiki/Jandvik "Jandvik")
+-   [Kel'balor](https://wowpedia.fandom.com/wiki/Kel%27balor "Kel'balor")
+-   [Koralune Manor](https://wowpedia.fandom.com/wiki/Koralune_Manor "Koralune Manor")
+-   [Ley Station Aethenar](https://wowpedia.fandom.com/wiki/Ley_Station_Aethenar "Ley Station Aethenar")
+-   [Meredil](https://wowpedia.fandom.com/wiki/Meredil "Meredil")
+    -   [Shal'Aran](https://wowpedia.fandom.com/wiki/Shal%27Aran "Shal'Aran")
+-   [Moon Guard Stronghold](https://wowpedia.fandom.com/wiki/Moon_Guard_Stronghold "Moon Guard Stronghold")
+    -   [The Athenaeum](https://wowpedia.fandom.com/wiki/Athenaeum_(Suramar) "Athenaeum (Suramar)")
+    -   [Highmist Terrace](https://wowpedia.fandom.com/wiki/Highmist_Terrace "Highmist Terrace")
+    -   [Lower Gardens](https://wowpedia.fandom.com/wiki/Lower_Gardens "Lower Gardens")
+    -   [The Lunar Crucible](https://wowpedia.fandom.com/wiki/Lunar_Crucible "Lunar Crucible")
+    -   [Moonfall Approach](https://wowpedia.fandom.com/wiki/Moonfall_Approach "Moonfall Approach")
+    -   [Moonfall Overlook](https://wowpedia.fandom.com/wiki/Moonfall_Overlook "Moonfall Overlook")
+    -   [Moonfall Roost](https://wowpedia.fandom.com/wiki/Moonfall_Roost "Moonfall Roost")
+    -   [Starweaver's Sanctum](https://wowpedia.fandom.com/wiki/Starweaver%27s_Sanctum "Starweaver's Sanctum")
+-   [Moonfall Retreat](https://wowpedia.fandom.com/wiki/Moonfall_Retreat "Moonfall Retreat")
+-   [Moonshade Sanctum](https://wowpedia.fandom.com/wiki/Moonshade_Sanctum "Moonshade Sanctum")
+-   [Moonwhisper Gulch](https://wowpedia.fandom.com/wiki/Moonwhisper_Gulch "Moonwhisper Gulch")
+    -   [Ley Station Moonfall](https://wowpedia.fandom.com/wiki/Ley_Station_Moonfall "Ley Station Moonfall")
+-   [Nal'ryssa's Encampment](https://wowpedia.fandom.com/wiki/Nal%27ryssa%27s_Encampment "Nal'ryssa's Encampment")
+-   [Nyell's Workshop](https://wowpedia.fandom.com/wiki/Nyell%27s_Workshop "Nyell's Workshop")
+-   [Oculeth's Workshop](https://wowpedia.fandom.com/wiki/Oculeth%27s_Workshop "Oculeth's Workshop")
+    -   [Oculeth's Test Chamber](https://wowpedia.fandom.com/wiki/Oculeth%27s_Test_Chamber "Oculeth's Test Chamber")
+-   [River's Rest](https://wowpedia.fandom.com/wiki/River%27s_Rest "River's Rest")
+-   [Ruins of Elune'eth](https://wowpedia.fandom.com/wiki/Ruins_of_Elune%27eth "Ruins of Elune'eth")
+-   [Seaspray Cliffs](https://wowpedia.fandom.com/wiki/Seaspray_Cliffs "Seaspray Cliffs")
+-   [Sundered Shoals](https://wowpedia.fandom.com/wiki/Sundered_Shoals "Sundered Shoals")
+-   [Tel'anor](https://wowpedia.fandom.com/wiki/Tel%27anor "Tel'anor")
+-   [Teloth'aran](https://wowpedia.fandom.com/wiki/Teloth%27aran "Teloth'aran")
+-   [Warpwind Cliffs](https://wowpedia.fandom.com/wiki/Warpwind_Cliffs "Warpwind Cliffs")
+
+
+
+ | 
+
+[![Map of Suramar](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WorldMap-Suramar.jpg/revision/latest/scale-to-width-down/120?cb=20160719125035)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WorldMap-Suramar.jpg/revision/latest?cb=20160719125035 "Map of Suramar")
+
+ |
+|  |
+| 
+
+-   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Falanaar Arcway](https://wowpedia.fandom.com/wiki/Falanaar_Arcway "Falanaar Arcway")
+-   [Falanaar Depths](https://wowpedia.fandom.com/wiki/Falanaar_Depths "Falanaar Depths")
+-   Leyweavers' Hall
+
+
+
+ |
+|  |
+| 
+
+-   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") — [The Arcway](https://wowpedia.fandom.com/wiki/Arcway "Arcway")
+-   [Artisan's Gallery](https://wowpedia.fandom.com/wiki/Artisan%27s_Gallery "Artisan's Gallery")
+-   [Astravar Harbor](https://wowpedia.fandom.com/wiki/Astravar_Harbor "Astravar Harbor")
+-   [Concourse of Destiny](https://wowpedia.fandom.com/wiki/Concourse_of_Destiny "Concourse of Destiny")
+    -   [Aetherium](https://wowpedia.fandom.com/wiki/Aetherium "Aetherium")
+-   [Court of Stars](https://wowpedia.fandom.com/wiki/Court_of_Stars "Court of Stars")
+-   [Estate of the First Arcanist](https://wowpedia.fandom.com/wiki/Estate_of_the_First_Arcanist "Estate of the First Arcanist")
+-   [Evermoon Commons](https://wowpedia.fandom.com/wiki/Evermoon_Commons "Evermoon Commons")
+    -   [Evermoon Bazaar](https://wowpedia.fandom.com/wiki/Evermoon_Bazaar "Evermoon Bazaar")
+    -   [Evermoon Terrace](https://wowpedia.fandom.com/wiki/Evermoon_Terrace "Evermoon Terrace")
+-   [The Gilded Market](https://wowpedia.fandom.com/wiki/Gilded_Market "Gilded Market")
+-   [The Grand Promenade](https://wowpedia.fandom.com/wiki/Grand_Promenade_(Suramar) "Grand Promenade (Suramar)")
+-   [Jeweled Estate](https://wowpedia.fandom.com/wiki/Jeweled_Estate "Jeweled Estate")
+-   [Lunastre Estate](https://wowpedia.fandom.com/wiki/Lunastre_Estate "Lunastre Estate")
+-   [The Menagerie](https://wowpedia.fandom.com/wiki/Menagerie_(Suramar) "Menagerie (Suramar)")
+    -   [Su'esh's Lair](https://wowpedia.fandom.com/wiki/Su%27esh%27s_Lair "Su'esh's Lair")
+-   [Moonbeam Causeway](https://wowpedia.fandom.com/wiki/Moonbeam_Causeway "Moonbeam Causeway")
+-   [Moonlit Landing](https://wowpedia.fandom.com/wiki/Moonlit_Landing "Moonlit Landing")
+-   [Midnight Court](https://wowpedia.fandom.com/wiki/Midnight_Court "Midnight Court")
+-   [The Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+-   [Shimmershade Garden](https://wowpedia.fandom.com/wiki/Shimmershade_Garden "Shimmershade Garden")
+-   [Siren's Vigil](https://wowpedia.fandom.com/wiki/Siren%27s_Vigil "Siren's Vigil")
+-   [Starcaller Retreat](https://wowpedia.fandom.com/wiki/Starcaller_Retreat "Starcaller Retreat")
+    -   [The Waning Crescent](https://wowpedia.fandom.com/wiki/The_Waning_Crescent "The Waning Crescent")
+-   [Sunset Park](https://wowpedia.fandom.com/wiki/Sunset_Park "Sunset Park")
+-   [Suramar Bay](https://wowpedia.fandom.com/wiki/Suramar_Bay "Suramar Bay")
+-   [Terrace of Enlightenment](https://wowpedia.fandom.com/wiki/Terrace_of_Enlightenment "Terrace of Enlightenment")
+    -   [Sanctum of Enlightenment](https://wowpedia.fandom.com/wiki/Sanctum_of_Enlightenment "Sanctum of Enlightenment")
+-   [Terrace of Order](https://wowpedia.fandom.com/wiki/Terrace_of_Order "Terrace of Order")
+    -   [Sanctum of Order](https://wowpedia.fandom.com/wiki/Sanctum_of_Order "Sanctum of Order")
+        -   [Sanctum Depths](https://wowpedia.fandom.com/wiki/Sanctum_Depths "Sanctum Depths")
+-   [Twilight Vineyards](https://wowpedia.fandom.com/wiki/Twilight_Vineyards "Twilight Vineyards")
+
+
+
+ |
+|  |
+| 
+
+[Suramar category](https://wowpedia.fandom.com/wiki/Category:Suramar "Category:Suramar")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Broken_Isles "Template:Broken Isles")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Broken_Isles?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Broken Isles is an in-game continent](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Broken Isles is an in-game continent")
+
+ | 
+
+-   [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna")
+-   [The Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore")
+    -   [![DeathKnight](https://static.wikia.nocookie.net/wowpedia/images/8/86/ClassIcon_deathknight.png/revision/latest/scale-to-width-down/16?cb=20170130100737)](https://wowpedia.fandom.com/wiki/Death_knight "DeathKnight") [Acherus: The Ebon Hold](https://wowpedia.fandom.com/wiki/Acherus:_The_Ebon_Hold "Acherus: The Ebon Hold")
+-   [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
+    -   [![Mage](https://static.wikia.nocookie.net/wowpedia/images/0/02/ClassIcon_mage.png/revision/latest/scale-to-width-down/16?cb=20170130100854)](https://wowpedia.fandom.com/wiki/Mage "Mage") [Hall of the Guardian](https://wowpedia.fandom.com/wiki/Hall_of_the_Guardian "Hall of the Guardian")
+    -   [![Rogue](https://static.wikia.nocookie.net/wowpedia/images/2/20/ClassIcon_rogue.png/revision/latest/scale-to-width-down/16?cb=20170130100921)](https://wowpedia.fandom.com/wiki/Rogue "Rogue") [Hall of Shadows](https://wowpedia.fandom.com/wiki/Hall_of_Shadows "Hall of Shadows")
+-   [Eye of Azshara](https://wowpedia.fandom.com/wiki/Eye_of_Azshara "Eye of Azshara")
+-   [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain")
+    -   [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+    -   [![Hunter](https://static.wikia.nocookie.net/wowpedia/images/a/a6/ClassIcon_hunter.png/revision/latest/scale-to-width-down/16?cb=20170130100848)](https://wowpedia.fandom.com/wiki/Hunter "Hunter") [Trueshot Lodge](https://wowpedia.fandom.com/wiki/Trueshot_Lodge "Trueshot Lodge")
+-   [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim")
+    -   [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor")
+        -   [![Warrior](https://static.wikia.nocookie.net/wowpedia/images/6/62/ClassIcon_warrior.png/revision/latest/scale-to-width-down/16?cb=20170130100941)](https://wowpedia.fandom.com/wiki/Warrior "Warrior") [Skyhold](https://wowpedia.fandom.com/wiki/Skyhold "Skyhold")
+    -   [Helheim](https://wowpedia.fandom.com/wiki/Helheim "Helheim")
+-   **Suramar**
+    -   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+        -   [The Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+-   [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah")
+    -   [![Druid](https://static.wikia.nocookie.net/wowpedia/images/6/67/ClassIcon_druid.png/revision/latest/scale-to-width-down/16?cb=20170130100842)](https://wowpedia.fandom.com/wiki/Druid "Druid") [The Dreamgrove](https://wowpedia.fandom.com/wiki/Dreamgrove "Dreamgrove")
+
+
+
+ | 
+
+[![Map of the Broken Isles](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/120?cb=20180908202003)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest?cb=20180908202003 "Map of the Broken Isles")
+
+ |
+|  |
+| 
+
+[Broken Isles category](https://wowpedia.fandom.com/wiki/Category:Broken_Isles "Category:Broken Isles")
+
+
+
+ |

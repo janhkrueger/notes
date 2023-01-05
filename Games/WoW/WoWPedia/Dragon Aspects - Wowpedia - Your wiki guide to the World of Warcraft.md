@@ -1,0 +1,504 @@
+_"Unto each of you is given a gift; unto all of you is given the duty."_<sup id="cite_ref-ch20_1-0"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-ch20-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-2">[2]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Legacies_Aspects.png/revision/latest/scale-to-width-down/230?cb=20221025224945)](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Legacies_Aspects.png/revision/latest?cb=20221025224945)
+
+The five original Aspects: [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera"), and [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Legacies_Dragon_Aspects_Visage_forms.jpg/revision/latest/scale-to-width-down/230?cb=20221121030936)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Legacies_Dragon_Aspects_Visage_forms.jpg/revision/latest?cb=20221121030936)
+
+Neltharion, Nozdormu, Alexstrasza, Ysera, and Malygos in their visage forms.
+
+The **Dragon Aspects** (also called **Great Aspects**,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-3">[3]</a></sup> **Aspects of Azeroth**<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-4">[4]</a></sup> or simply **Aspects**) are the leaders of the five [dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight"), empowered by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") to protect [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Since the defeat of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), they have lost their titan-given power, which they sacrificed in order to empower the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"). They, however, remain extremely powerful, ancient, and wise beings.
+
+| Name | Empowered by | Title | Description | Status |
+| --- | --- | --- | --- | --- |
+| [![IconSmall Alexstrasza2.gif](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Alexstrasza2.gif/revision/latest/scale-to-width-down/16?cb=20220814182721)](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Alexstrasza2.gif/revision/latest?cb=20220814182721)[![IconSmall Alex.gif](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Alex.gif/revision/latest/scale-to-width-down/16?cb=20220814183722)](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Alex.gif/revision/latest?cb=20220814183722) [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") | [![IconSmall Eonar.gif](https://static.wikia.nocookie.net/wowpedia/images/f/fe/IconSmall_Eonar.gif/revision/latest/scale-to-width-down/16?cb=20211210182053)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/IconSmall_Eonar.gif/revision/latest?cb=20211210182053) [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar") | **The Life-Binder** | First Aspect of the [Red Dragonflight](https://wowpedia.fandom.com/wiki/Red_Dragonflight "Red Dragonflight"). A red leviathan chosen to safeguard all living creatures in the world. She is Ysera's, the Green Dragon Aspect, sister. | Alive |
+| [![IconSmall NozdormuDragon2.gif](https://static.wikia.nocookie.net/wowpedia/images/a/ac/IconSmall_NozdormuDragon2.gif/revision/latest/scale-to-width-down/16?cb=20220814183829)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/IconSmall_NozdormuDragon2.gif/revision/latest?cb=20220814183829)[![IconSmall Nozdormu.gif](https://static.wikia.nocookie.net/wowpedia/images/c/c2/IconSmall_Nozdormu.gif/revision/latest/scale-to-width-down/16?cb=20220814183153)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/IconSmall_Nozdormu.gif/revision/latest?cb=20220814183153) [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu")  
+[![IconSmall Murozond.gif](https://static.wikia.nocookie.net/wowpedia/images/5/54/IconSmall_Murozond.gif/revision/latest/scale-to-width-down/16?cb=20211213124956)](https://static.wikia.nocookie.net/wowpedia/images/5/54/IconSmall_Murozond.gif/revision/latest?cb=20211213124956) [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond") | [![IconSmall Aman'Thul.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest/scale-to-width-down/16?cb=20211206110642)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest?cb=20211206110642) [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul") | **The Timeless One**  
+**Lord of the Infinite** | First Aspect of the [Bronze Dragonflight](https://wowpedia.fandom.com/wiki/Bronze_Dragonflight "Bronze Dragonflight") and future leader of the [Infinite Dragonflight](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight"). A massive bronze dragon chosen to guard time itself and police the ever-spinning pathways of fate and destiny. His future self, Murozond, is fated to fall to madness by the trickery of the Old Gods. He attempts to subvert his own mortality by shattering the timeways and creating the Infinite Dragonflight. He was slain by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") at the [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time"). | Alive (Nozdormu)  
+Deceased (Murozond) |
+| [![IconSmall YseraDragon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_YseraDragon.gif/revision/latest?cb=20211214170852)[![IconSmall Ysera.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/28/IconSmall_Ysera.gif/revision/latest?cb=20211214170653) [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") | [![IconSmall Eonar.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/IconSmall_Eonar.gif/revision/latest?cb=20211210182053) [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar") | **The Awakened**  
+**The Dreamer** (former) | First Aspect of the [Green Dragonflight](https://wowpedia.fandom.com/wiki/Green_Dragonflight "Green Dragonflight"). She was chosen to watch over the growing wilds of the world from her verdant realm, the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). Ysera fell to the [Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") and was put to rest by [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"). Her spirit was reborn in [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald"). She is Alexstrasza's, the Red Dragon Aspect, sister. | Active |
+| [![IconSmall Malygos.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Malygos.gif/revision/latest?cb=20211213120715)[![IconSmall Malygos2.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f7/IconSmall_Malygos2.gif/revision/latest?cb=20220104114747) [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") | [![IconSmall Norgannon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/58/IconSmall_Norgannon.gif/revision/latest?cb=20211213131223) [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon") | **The Spell-Weaver** | First Aspect of the [Blue Dragonflight](https://wowpedia.fandom.com/wiki/Blue_Dragonflight "Blue Dragonflight"). This blue dragon was chosen as the guardian of magic and hidden arcanum. After declaring [war](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War") against all mortal spellcasters, he was killed by agents of Alexstrasza. | Deceased |
+| [![IconSmall Neltharion.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/IconSmall_Neltharion.gif/revision/latest?cb=20200530094441)[![IconSmall Prestor.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/01/IconSmall_Prestor.gif/revision/latest?cb=20221013115253) [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion")  
+[![IconSmall Deathwing.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/IconSmall_Deathwing.gif/revision/latest?cb=20211210104433)[![IconSmall DeathwingHuman.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_DeathwingHuman.gif/revision/latest?cb=20211210104430) [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") | [![IconSmall Khaz'goroth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/25/IconSmall_Khaz%27goroth.gif/revision/latest?cb=20211212102953) [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth") | **The Earth-Warder**  
+**The Destroyer** | First Aspect of the [Black Dragonflight](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight"). This mighty black wyrm was given dominion over the earth and the deep places of the world. He was driven mad by the whispers of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") and managed to drive the blue dragonflight to near extinction, naming himself as Deathwing. He was slain by forces of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), with the help of [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and the other Aspects. | Deceased |
+| [![IconSmall Kalecgos2.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/7e/IconSmall_Kalecgos2.gif/revision/latest?cb=20220814181956)[![IconSmall Kalec.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f1/IconSmall_Kalec.gif/revision/latest?cb=20220814183715) [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") | [![IconSmall Norgannon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/58/IconSmall_Norgannon.gif/revision/latest?cb=20211213131223) [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon") | **The Steward of Magic** | Second Aspect of the [Blue Dragonflight](https://wowpedia.fandom.com/wiki/Blue_Dragonflight "Blue Dragonflight"). He was a former investigator for Malygos and guardian of [Anveena](https://wowpedia.fandom.com/wiki/Anveena_Teague "Anveena Teague"), he succeeded Malygos as the new Blue Aspect after his death.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-5">[5]</a></sup> | Alive |
+
+## Background
+
+### Creation of the original Aspects
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest/scale-to-width-down/180?cb=20220228210748)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest?cb=20220228210748)
+
+The Dragon Aspects, before they received their powers, facing [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond") as [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon").
+
+Before they were dragons, the Aspects were [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon"). They stood united against a bloodthirsty monster who threatened their race, the Father of Dragons known as [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-6">[6]</a></sup>
+
+After the ordering of Azeroth, [Keeper Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr"), the greatest [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") warrior, stood against Galakrond and with the help of five powerful and intelligent proto-dragons - Alexstrasza, Malygos, Neltharion, Nozdormu, and Ysera - that held dominion over their brethren, they defeated the massive proto-dragon known as Galakrond.
+
+Because of this and their courage, Tyr suggested to the other [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") to empower them and make them defenders of Azeroth as they proved they were able to stand for the planet. [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn") disagreed, and forbid the other Keepers to proceed with that idea, but they decided to go against him. They reached out to the Pantheon and each of the titans blessed the proto-dragons with a portion of their vast power, channeled through the Keepers. The dragonflights were thus charged with the task of watching over Azeroth, lest any force should threaten its perfect tranquility. They became majestic beings called [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon") and were known as the Aspects.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-7">[7]</a></sup> However, mortals are told that the Aspects were created from Galakrond. This is a rumor spread by the Aspects themselves in order to prevent proto-dragons and dragons from doing the same thing as Galakrond and becoming immeasurably powerful and mad.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-8">[8]</a></sup>
+
+### Selection
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Chronicle_Nordrassil_blessing.jpg/revision/latest/scale-to-width-down/180?cb=20160219184440)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Chronicle_Nordrassil_blessing.jpg/revision/latest?cb=20160219184440)
+
+Alexstrasza, Ysera and Nozdormu blessing [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil").
+
+The titans empowered the five dragons, each with specific powers, to lead the dragonflights and watch over [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and its evolution.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-9">[9]</a></sup>
+
+[Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), the Highfather of the Pantheon, charged the bronze dragon [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") with guarding over time itself and police the ever-spinning pathways of fate and destiny. [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar"), the Titan patron of all life, blessed both the red dragon [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") and her younger sister, the green dragon [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera"), so they would safeguard all living creatures and watch over the growing wilds of the world, respectively. [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon"), the Titan lore keeper and master magician, made the blue dragon [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") the guardian of magic and hidden arcanum. [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth"), the Titan shaper and forger of the world, gave the black dragon [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") dominion over the earth and the deep places of the world.
+
+Aman'Thul's vision of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") one day causing the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"), capable of potentially wiping out all [life](https://wowpedia.fandom.com/wiki/Life "Life") on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), was one of the reasons the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") empowered [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") and the other Aspects with their powers, to ultimately avert this single catastrophe, although Aman'Thul for all his vast powers was not omniscient and was unaware [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion") would eventually be corrupted into [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing").<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-10">[10]</a></sup>
+
+According to legends, when the Aspects were first created, the moons had been in a rare conjunction known as the [Embrace](https://wowpedia.fandom.com/wiki/Embrace "Embrace"). A repeat of this same alignment was crucial to the proper working of the magic necessary to turn a normal dragon into an Aspect.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-11">[11]</a></sup> It is impossible to select a new Aspect or even try to call a new one, as long as the current one lives.<sup id="cite_ref-ch20_1-1"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-ch20-1">[1]</a></sup>
+
+### Powers and duties
+
+Aspects are more than just dragons with different skills and extra powers. When the titans blessed all of them, they gave them insights and other ways of understanding things. Until the creation of [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus") barring other Aspects, no single dragon was able to defeat one.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-12">[12]</a></sup> Although they are parts of a whole and were never meant to be separate, they are also complete unto themselves as well.<sup id="cite_ref-ch20_1-2"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-ch20-1">[1]</a></sup> When the titans departed, they said to the Aspects: "Unto each of you was given a gift; unto all of you is given the duty."<sup id="cite_ref-ch20_1-3"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-ch20-1">[1]</a></sup> Their one true duty was to preserve the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and prevent the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight") at all costs.
+
+However, the titans' gift was also a burden. Neltharion felt every rock in Azeroth pressed down on him. His body splintered and cracked. It was beyond physical agony; his spirit was unraveling, suffocated by the unfathomable load. He saw it as a life of eternal torment. However with it came an incredible strength, as the weight of Azeroth was his to command.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-13">[13]</a></sup>
+
+According to [Lorekeeper Lydros](https://wowpedia.fandom.com/wiki/Lorekeeper_Lydros "Lorekeeper Lydros"), the ancient and legendary blade [Quel'Serrar](https://wowpedia.fandom.com/wiki/Quel%27Serrar "Quel'Serrar") was "crafted for an unknown entity by the combined might of the five Aspects" long before even the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").
+
+### The Dragon Soul
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Legacies_Dragon_Aspects_WotA.jpg/revision/latest/scale-to-width-down/180?cb=20221227013741)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Legacies_Dragon_Aspects_WotA.jpg/revision/latest?cb=20221227013741)
+
+The Aspects ready to defend [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") from the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+
+During the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), Alexstrasza, Ysera, Malygos, and Nozdormu fought the demons of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). It was also in that war that the black dragon Neltharion deceived his fellow Aspects, using the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") to steal a portion of their power. At the end of the War of the Ancients, the blue, green, bronze, and red Aspects had found and enchanted the weapon so that neither Deathwing nor any other dragon could wield it again. Millennia after that, it had fallen into the hands of the Dragonmaw orcs, who had then used it to enslave the Life-Binder and her brood. Many red dragons had been forced to act as mounts of war during that harrowing time. So Deathwing held the upper hand in every battle with the other, weakened Aspects, until the human mage [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") was able to use the scale Deathwing had given him to destroy the Dragon Soul. Cutting the scale across the surface, Rhonin unleashed the power trapped within and returned to the Aspects their essence given at the creation of the Dragon Soul.
+
+### The Hour of Twilight
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/AspectsNordrassil.jpg/revision/latest/scale-to-width-down/180?cb=20110629113629)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/AspectsNordrassil.jpg/revision/latest?cb=20110629113629)
+
+The Aspects meet in Nordrassil.
+
+Neltharion's duty to protect Azeroth's earthly expanses meant that he was susceptible to the influences of [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") who were imprisoned beneath the planet's surface.
+
+The trials and tribulations that had afflicted the Dragonflights throughout history, from Deathwing's betrayal to the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"), from the [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") to the [Madness of Malygos](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War"), were to culminate as the Hour of Twilight, the Old Gods' grand scheme to eliminate the Aspects and usher the end of life on Azeroth.
+
+Shortly after the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), the [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") agreed to undergo a journey at the request of the Green Aspect, Ysera; a journey that eventually led him to Dragonblight and Wyrmrest Temple; there, Thrall was able to tap into Azeroth’s essence and use it to help bind Kalecgos, Ysera, Nozdormu, and Alexstrasza together, allowing them to combine their power and stave off an attack by the Twilight’s Hammer and the chromatic dragon [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus"). Although successful in defending Wyrmrest Temple, the Aspects still needed to stop Deathwing. However, the fallen Aspect was so twisted by the dark energies of the Old Gods that not even the combined might of every living being on Azeroth could stop him. No physical assault, however immense, could destroy him; the only hope of stopping him was by unraveling his very essence, a power that only the Dragon Soul possessed.
+
+There were various points in time when the Dragon Soul could be retrieved, but it had been altered throughout history. In order to be used as a weapon against Deathwing, it had to be taken while in its purest form. Nozdormu agreed to send the adventurers back to the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") to retrieve it, but found that all timeways were being directed to the same event, [the end of time itself](https://wowpedia.fandom.com/wiki/End_Time "End Time"). In order to retrieve the Dragon Soul, the Infinite Dragonflight and its leader [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond") had to be slain, so the adventurers were sent to the future where they defeated Murozond. With the timeways reopened, the adventurers were sent to the Well of Eternity during the War of the Ancients. Once secured, the Dragon Soul was brought to present-day Dragonblight. There, [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), aided by the adventurers, transported it to [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"), a place of great power housing the [Chamber of the Aspects](https://wowpedia.fandom.com/wiki/Chamber_of_the_Aspects "Chamber of the Aspects"), the very chamber in which the artifact was first imbued with the power of the Dragonflights.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest/scale-to-width-down/180?cb=20120916185224)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest?cb=20120916185224)
+
+[Battle of the Aspects](https://wowpedia.fandom.com/wiki/Battle_of_the_Aspects "Battle of the Aspects") in the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game").
+
+When Deathwing learned of their intent, he and his minions converged on [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") and the temple to waylay them at any cost. Atop Wyrmrest Temple, the Aspects began to infuse the Dragon Soul with their essences once again, making it even more powerful than before. Kalecgos then began work to alter its properties so that it could affect Deathwing because he had never imbued his own essence into the disk. In order for the Dragon Soul to be used as a weapon against him, it had to be empowered with the essence of the Earth-Warder. Thrall possessed a portion of that very essence, and although it was incredibly small, he was able to impart it to the Dragon Soul. After the death of the twilight dragon [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion"), Thrall unleashed the freshly infused Dragon Soul upon its creator. Wounded, Deathwing fled toward the Maelstrom, attempting to return to the relative safety of [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"). Thrall, the Aspects, and the adventurers boarded the gunship [the Skyfire](https://wowpedia.fandom.com/wiki/The_Skyfire "The Skyfire") and gave chase, fighting an army of Twilight Drake riders, led by [Warmaster Blackhorn](https://wowpedia.fandom.com/wiki/Warmaster_Blackhorn "Warmaster Blackhorn"), along the way.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest/scale-to-width-down/180?cb=20111206095821)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Aspects.jpg/revision/latest?cb=20111206095821)
+
+Nozdormu, Alexstrasza, Ysera, and Kalecgos in visage form (old models).
+
+Upon catching the Black Aspect, the adventurers leapt from the decks of the Skyfire, parachuted onto [Deathwing's back](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing "Spine of Deathwing"), and began prying away the elementium armor that protected the Aspect, eventually exposing enough of his warped body for Thrall to blast Deathwing with the Dragon Soul. Deathwing, critically wounded, fell from the sky and crashed into the Maelstrom. Proclaiming victory, the defenders of Azeroth briefly rejoiced at having finally defeated the Destroyer, but the celebration was short-lived. Deathwing rose from the Maelstrom, his body mutated into a mass of molten lava and tentacles. The [final battle for Azeroth began](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") in earnest, until one final blast from the Dragon Soul infused with the complete essence of each Aspect completely obliterated the fallen Aspect. With Deathwing truly defeated, the Aspects had fulfilled their duty of protecting Azeroth from the Hour of Twilight and the ancient powers granted to them by the Titans were expended; ushering in the [Age of Mortals](https://wowpedia.fandom.com/wiki/Age_of_Mortals "Age of Mortals").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-15">[15]</a></sup> As such, they sacrificed their roles as Aspects.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-16">[16]</a></sup>
+
+Fortunately, the Aspects are still true to the gifts given to them by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), as life, magic, nature, and time last forever.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-17">[17]</a></sup>
+
+Upon remembering the battle against [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond") and urging of Kalec, Alexstrasza concluded that even though they are no longer Aspects, they are still dragon beings and that they will remain and help the world eventually.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-18">[18]</a></sup>
+
+### Battle for Azeroth
+
+The powers of the Aspects coalesced in five scales that could be found in places important to the flights: the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus") for the blue, [Neltharion's Lair](https://wowpedia.fandom.com/wiki/Neltharion%27s_Lair "Neltharion's Lair") for the black, the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") for the green, [Vermillion Redoubt](https://wowpedia.fandom.com/wiki/Vermillion_Redoubt "Vermillion Redoubt") for the red, and an unknown location for the bronze. The scales were gathered by Alexstrasza, Kalecgos, [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian") in place of Deathwing, [Merithra](https://wowpedia.fandom.com/wiki/Merithra "Merithra") in place of Ysera who had died in the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), and [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") in place of Nozdormu whose absence was not commented on. The essences of the five flights were used to empower the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth), a relic created to heal the world after she was stabbed by [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras").
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+The [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates"), ancient [proto-dragon](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") enemies of the Dragon Aspects who oppose the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") and embrace the [elements](https://wowpedia.fandom.com/wiki/Element "Element"), return from their imprisonment. Knowing that the Aspects cannot currently defeat the Incarnates as they have been weakened since Deathwing's defeat, Alexstrasza declares that they must find a way to regain their powers.
+
+## Fate
+
+During an interview lead quest designer [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") explained that the Dragon Aspects stood in the spotlight because one of their own had gone bad. Now the Dragon Aspects will continue to be important and still be around, but they may not be central characters anymore. For example, Kalecgos has been elected shortly before the Hour of Twilight and, obviously, he is still a dragon and he is still a very powerful mage, even if he is not immortal anymore. And he will still play a role in the world and will advise the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), he is just no longer the Aspect of Magic.<sup id="cite_ref-Gamona_19-0"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-Gamona-19">[19]</a></sup> The bronze dragons still can travel between time, but they no longer have control over timelines.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-20">[20]</a></sup> In the Age of Mortals, mortal organizations need to take over what was once the charge of the Aspects. So all the characters are still important and their story will continue, even if they are not in the spotlight for the next expansion.<sup id="cite_ref-Gamona_19-1"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-Gamona-19">[19]</a></sup>
+
+## Notes and trivia
+
+-   The mortals of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") [are told](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore") that the Aspects were created from Galakrond.
+-   As of _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_, Alexstrasza is the only Dragon Aspect that has never been fought by players. [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos_(tactics) "Kalecgos (tactics)"), [Malygos](https://wowpedia.fandom.com/wiki/Malygos_(tactics) "Malygos (tactics)"), and [Deathwing](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") are all raid bosses (although Kalecgos was not yet an Aspect at the time he was fought); Nozdormu (as [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")) is a dungeon boss; and Ysera, corrupted by the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"), is fought in [a quest](https://wowpedia.fandom.com/wiki/The_Fate_of_Val%27sharah "The Fate of Val'sharah").
+-   During the events of [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul"), Thrall is called "Earth-Warder" in his [Dungeon Journal](https://wowpedia.fandom.com/wiki/Dungeon_Journal "Dungeon Journal") entry of the [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion") encounter.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-21">[21]</a></sup> During Thrall's [journey to Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Hour_of_Twilight_(instance) "Hour of Twilight (instance)"), [a minion of Deathwing](https://wowpedia.fandom.com/wiki/Arcurion "Arcurion") says, "You are a fool if you think to take your place as the Aspect of Earth, Shaman!" In _[Tides of War](https://wowpedia.fandom.com/wiki/Tides_of_War "Tides of War")_, Thrall states that he "merely held the space for the Earth-Warder."<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_note-22">[22]</a></sup> However, it has been made clear that [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") cannot become an Aspect, and the Earth-Warder title was just that, a title, a replacement needed to complete the ritual.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
+-   With Malygos' death, [Haleh](https://wowpedia.fandom.com/wiki/Haleh "Haleh") is the first of the Aspects' consorts to outlive their respective Aspect.
+-   Most of the Dragon Aspects and their dragonflights appear to be at least vaguely associated with the regions of the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), as well as the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation"), with [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") being slain in [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah"), where the [Dreamweavers](https://wowpedia.fandom.com/wiki/Dreamweavers "Dreamweavers") were located; [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") helping [Senegos](https://wowpedia.fandom.com/wiki/Senegos "Senegos"), oldest of the blue dragons living in [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"); the [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") mentioned rivaling [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu")'s bronze dragonflight in terms of temporal magic prowess and likewise deriving much of their powers from [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"); and [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") having made his home at [Neltharion's Lair](https://wowpedia.fandom.com/wiki/Neltharion%27s_Lair "Neltharion's Lair") at [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") being before being banished by the  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Inv_mace_1h_titanpillar_b_01.png/revision/latest/scale-to-width-down/16?cb=20160901194934)[\[Hammer of Khaz'goroth\]](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth). While not directly associated with the red dragonflight, [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn") and his [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar") in [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim") also seem to defend [Life](https://wowpedia.fandom.com/wiki/Life "Life") in their own way, being counterparts of [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya") and her followers, and even rewarding noble warriors with a chance to fight beyond [Death](https://wowpedia.fandom.com/wiki/Death "Death").
+-   [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") used [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") as their mortal forms before high elves even existed.
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), whose mortal form is a human, is the only Dragon Aspect who does not use some type of elf as his visage form, with [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") using a night elf and [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") using a half-elf.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Dragon_Aspects_humanoid_forms.jpg/revision/latest/scale-to-width-down/120?cb=20221101180543)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Dragon_Aspects_humanoid_forms.jpg/revision/latest?cb=20221101180543)
+    
+    Nozdormu, Ysera, Alexstrasza, Malygos, and Deathwing in their visage forms (old models).
+    
+
+## Videos
+
+-   [Dragon Soul ending cinematic](https://wowpedia.fandom.com/wiki/Dragon_Aspects#)
+-   [Dragonflight Announce Cinematic Trailer](https://wowpedia.fandom.com/wiki/Dragon_Aspects#)
+-   [Legacies Chapter One](https://wowpedia.fandom.com/wiki/Dragon_Aspects#)
+-   [Legacies Chapter Two](https://wowpedia.fandom.com/wiki/Dragon_Aspects#)
+
+## See also
+
+-   [Legacy of the Aspects](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects "Legacy of the Aspects")
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-ch20_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-ch20_1-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-ch20_1-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-ch20_1-3">d</a></sup> _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_, chapter 20
+2.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-2) _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_
+3.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-3) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_, chapter 2
+4.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-4) [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") in the [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul")
+5.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-5)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35\] [Alignment](https://wowpedia.fandom.com/wiki/Alignment_(quest))
+6.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-6) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_ description
+7.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-7) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_
+8.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-8) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_
+9.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-9) [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+10.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-10) [Ask CDev](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev")
+11.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-11) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_, chapter 8
+12.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-12) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_, chapter 17
+13.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-13) _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_, pg. 3
+14.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-14) _Cataclysm_ epilogue cinematic
+15.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-15) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 59
+16.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-16) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_, part 1 chapter 1
+17.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-17) _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_
+18.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-18) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_, part 5 chapter 5
+19.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-Gamona_19-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-Gamona_19-1">b</a></sup> [Gamona Interview](http://www.gamona.de/games/world-of-warcraft-cataclysm,interview-pc:article,2027163.html)
+20.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-20) [http://www.battlenet.com.cn/wow/zh/forum/topic/4871928333](http://www.battlenet.com.cn/wow/zh/forum/topic/4871928333)
+21.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-21) _"Thrall: Thrall, now the Earth-Warder of Azeroth, blesses all tanks with the immovable strength of the ancient stones of the world."_
+22.  [^](https://wowpedia.fandom.com/wiki/Dragon_Aspects#cite_ref-22) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, chapter 3
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Creaturefooter "Template:Creaturefooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Creaturefooter?action=edit)
+
+[Creatures](https://wowpedia.fandom.com/wiki/Creature "Creature")
+
+
+
+ |
+| --- |
+|  |
+| Creature group | 
+
+-   [Aberration](https://wowpedia.fandom.com/wiki/Aberration "Aberration")
+-   [Beast](https://wowpedia.fandom.com/wiki/Beast "Beast")
+-   [Critter](https://wowpedia.fandom.com/wiki/Critter "Critter")
+-   [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon")
+-   [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Giant](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   [Humanoid](https://wowpedia.fandom.com/wiki/Humanoid "Humanoid")
+-   [Mechanical](https://wowpedia.fandom.com/wiki/Mechanical "Mechanical")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+-   [Uncategorized creature](https://wowpedia.fandom.com/wiki/Uncategorized_creature "Uncategorized creature")
+
+
+
+ |
+|  |
+| Dragonkin creatures | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragonflight" title="Dragonflight">Dragonflights</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight" title="Black dragonflight">Black</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight" title="Blue dragonflight">Blue</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight" title="Bronze dragonflight">Bronze</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chromatic_dragonflight" title="Chromatic dragonflight">Chromatic</a></li><li><a href="https://wowpedia.fandom.com/wiki/Green_dragonflight" title="Green dragonflight">Green</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infinite_dragonflight" title="Infinite dragonflight">Infinite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherwing_dragonflight" title="Netherwing dragonflight">Nether</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nightmare_dragonflight" title="Nightmare dragonflight">Nightmare</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragonflight" title="Plagued dragonflight">Plagued</a></li><li><a href="https://wowpedia.fandom.com/wiki/Red_dragonflight" title="Red dragonflight">Red</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_drake" title="Storm drake">Storm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_dragonflight" title="Twilight dragonflight">Twilight</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a><ul><li><strong>Aspect</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Drake" title="Drake">Drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragon_whelp" title="Dragon whelp">Whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrm" title="Wyrm">Wyrm</a></li></ul></li><li>Elemental drake<ul><li><a href="https://wowpedia.fandom.com/wiki/Stone_dragon" title="Stone dragon">Stone dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_dragon" title="Storm dragon">Storm dragon</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Undead dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_Drake" title="Bone Drake">Bone Drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li><li><span title="Bloodbrood (page does not exist)" data-uncrawlable-url="L3dpa2kvQmxvb2Ricm9vZD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Bloodbrood</span></li><li><a href="https://wowpedia.fandom.com/wiki/Frostbrood" title="Frostbrood">Frostbrood</a></li><li><span title="Vilebrood (page does not exist)" data-uncrawlable-url="L3dpa2kvVmlsZWJyb29kP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Vilebrood</span></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Humanoid Dragonkin</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aberration_(mob)" title="Aberration (mob)">Aberration</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Scalebane" title="Scalebane">Scalebane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmkin" title="Wyrmkin">Wyrmkin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tarasek" title="Tarasek">Tarasek</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Lesser_Dragonkin" title="Lesser Dragonkin">Lesser Dragonkin</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Cloud_serpent" title="Cloud serpent">Cloud serpent</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hornswog" title="Hornswog">Hornswog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Faerie_dragon" title="Faerie dragon">Faerie dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Veilwing" title="Veilwing">Veilwing</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonhawk" title="Dragonhawk">Dragonhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drakeadon" title="Drakeadon">Drakeadon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Proto-dragon" title="Proto-dragon">Proto-dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Primal_Incarnates" title="Primal Incarnates">Primal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Not-living" title="Not-living">Not-living</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Velocidrake" title="Velocidrake">Velocidrake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wylderdrake" title="Wylderdrake">Wylderdrake</a></li></ul></div></td></tr></tbody></table>
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs "Template:Religions and beliefs")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs?action=edit)
+
+[Religions](https://wowpedia.fandom.com/wiki/Religion "Religion") and beliefs
+
+
+
+ |
+| --- |
+|  |
+| [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") | 
+
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [alternate](https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe) "Shadow Council (alternate universe)")
+    -   [Argus Wake](https://wowpedia.fandom.com/wiki/Argus_Wake "Argus Wake")
+    -   [Burning Blade](https://wowpedia.fandom.com/wiki/Burning_Blade "Burning Blade")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Cult of the Dark Strand](https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand "Cult of the Dark Strand")
+    -   [Searing Blade](https://wowpedia.fandom.com/wiki/Searing_Blade "Searing Blade")
+
+
+
+ |
+|  |
+| [Holy](https://wowpedia.fandom.com/wiki/Light "Light") | 
+
+-   [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")
+-   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
+-   [Adherents of Rukhmar](https://wowpedia.fandom.com/wiki/Adherents_of_Rukhmar "Adherents of Rukhmar")
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+
+
+
+ |
+|  |
+| [Shadow](https://wowpedia.fandom.com/wiki/Void "Void") | 
+
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Talonpriests](https://wowpedia.fandom.com/wiki/Talonpriest "Talonpriest")
+-   [Sethekk](https://wowpedia.fandom.com/wiki/Sethekk "Sethekk")
+    -   [alternate](https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe) "Sethekk (alternate universe)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+
+
+
+ |
+|  |
+| [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature") | 
+
+-   [Druidism](https://wowpedia.fandom.com/wiki/Druid "Druid")
+-   [Geomancy](https://wowpedia.fandom.com/wiki/Geomancer "Geomancer")
+-   [Shamanism](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship")
+
+
+
+ |
+|  |
+| [Necromantic](https://wowpedia.fandom.com/wiki/Necromantic "Necromantic") | 
+
+-   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Arkkoran](https://wowpedia.fandom.com/wiki/Arkkoran "Arkkoran")
+-   [Cult of Ragnaros](https://wowpedia.fandom.com/wiki/Cult_of_Ragnaros "Cult of Ragnaros")
+-   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+-   [Huojin](https://wowpedia.fandom.com/wiki/Huojin "Huojin")
+-   [Ravenspeakers](https://wowpedia.fandom.com/wiki/Ravenspeakers "Ravenspeakers")
+-   [Tidemother](https://wowpedia.fandom.com/wiki/Tidemother "Tidemother") ([Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages"))
+-   [Tushui](https://wowpedia.fandom.com/wiki/Tushui "Tushui")
+-   [Voodoo](https://wowpedia.fandom.com/wiki/Voodoo "Voodoo")
+-   [Waterspeaking](https://wowpedia.fandom.com/wiki/Waterspeaker "Waterspeaker")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") | 
+
+-   [Arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") ([Echo of Life](https://wowpedia.fandom.com/wiki/Echo_of_Life "Echo of Life"))
+-   [Cult of the Burning Legion](https://wowpedia.fandom.com/wiki/Cult_of_the_Burning_Legion "Cult of the Burning Legion")
+-   [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") ([Demonology](https://wowpedia.fandom.com/wiki/Demonology_(lore) "Demonology (lore)"))
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light") ([Faith of the Holy Light](https://wowpedia.fandom.com/wiki/Faith_of_the_Holy_Light "Faith of the Holy Light")
+-   [Heretics of the Holy Light](https://wowpedia.fandom.com/wiki/Heretics_of_the_Holy_Light "Heretics of the Holy Light"))
+-   [Mystery of the Makers](https://wowpedia.fandom.com/wiki/Mystery_of_the_Makers "Mystery of the Makers")
+-   [Sect of the Dragons](https://wowpedia.fandom.com/wiki/Sect_of_the_Dragons "Sect of the Dragons")
+-   [Shamanism](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship") ([Ancestral worship](https://wowpedia.fandom.com/wiki/Ancestral_worship "Ancestral worship")
+-   [Animism](https://wowpedia.fandom.com/wiki/Animism "Animism")
+-   [Spirit guidance](https://wowpedia.fandom.com/wiki/Spirit_guidance "Spirit guidance"))
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Titans "Template:Titans")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Titans?action=edit)
+
+[Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") | 
+
+-   [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas")
+-   [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya")
+-   [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron")
+-   [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")
+-   [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra")
+-   [Thorim](https://wowpedia.fandom.com/wiki/Thorim "Thorim")
+-   [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr")
+
+
+
+ |
+|  |
+| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") | 
+
+-   [Eyir](https://wowpedia.fandom.com/wiki/Eyir "Eyir")
+-   [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya")
+-   [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya")
+-   [Norushen](https://wowpedia.fandom.com/wiki/Norushen "Norushen")
+-   [Rajh](https://wowpedia.fandom.com/wiki/Rajh "Rajh")
+-   [Ammunae](https://wowpedia.fandom.com/wiki/Ammunae "Ammunae")
+-   [Isiset](https://wowpedia.fandom.com/wiki/Isiset "Isiset")
+-   [Setesh](https://wowpedia.fandom.com/wiki/Setesh "Setesh")
+-   [Jotun](https://wowpedia.fandom.com/wiki/Jotun "Jotun")
+-   [Creteus](https://wowpedia.fandom.com/wiki/Creteus "Creteus")
+-   [Nablya](https://wowpedia.fandom.com/wiki/Nablya "Nablya")
+-   [Stone guardians](https://wowpedia.fandom.com/wiki/Stone_guardian "Stone guardian")
+-   [Stone keepers](https://wowpedia.fandom.com/wiki/Stone_keeper "Stone keeper")
+-   [Stone watchers](https://wowpedia.fandom.com/wiki/Stone_watcher "Stone watcher")
+-   [Uldum watchers](https://wowpedia.fandom.com/wiki/Uldum_watcher "Uldum watcher")
+-   [Yotnar](https://wowpedia.fandom.com/wiki/Yotnar "Yotnar")
+
+
+
+ |
+|  |
+| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") | 
+
+-   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
+-   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome")
+-   [Mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu")
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+
+
+
+ |
+|  |
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+
+-   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
+-   [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
+-   [Magnaron](https://wowpedia.fandom.com/wiki/Magnaron "Magnaron")
+-   [Gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn")
+    -   [Gronnling](https://wowpedia.fandom.com/wiki/Gronnling "Gronnling")
+-   [Goren](https://wowpedia.fandom.com/wiki/Goren "Goren")
+-   [Ogron](https://wowpedia.fandom.com/wiki/Ogron "Ogron")
+-   [Ogre lords](https://wowpedia.fandom.com/wiki/Ogre_lord "Ogre lord")
+-   [Ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Orcs](https://wowpedia.fandom.com/wiki/Orc "Orc")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
+    -   [Algalon](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer")
+-   [Dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight")
+    -   **Dragon Aspects**
+-   [Gold Beetles](https://wowpedia.fandom.com/wiki/Gold_Beetle "Gold Beetle")
+-   [Winged Guardians](https://wowpedia.fandom.com/wiki/Winged_Guardian "Winged Guardian")
+-   [Seekers](https://wowpedia.fandom.com/wiki/Seeker "Seeker")
+-   [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar")
+
+
+
+ |
+|  |
+| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") | 
+
+-   [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination")
+-   [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills")
+-   [Bael Modan](https://wowpedia.fandom.com/wiki/Bael_Modan "Bael Modan")
+-   [Chamber of Heart](https://wowpedia.fandom.com/wiki/Chamber_of_Heart "Chamber of Heart")
+-   [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha")
+-   [Engine of the Makers](https://wowpedia.fandom.com/wiki/Engine_of_the_Makers "Engine of the Makers")
+-   [Hall of Communion](https://wowpedia.fandom.com/wiki/Hall_of_Communion "Hall of Communion")
+-   [Inventor's Library](https://wowpedia.fandom.com/wiki/Inventor%27s_Library "Inventor's Library")
+-   [Jewelhammer's Vault](https://wowpedia.fandom.com/wiki/Jewelhammer%27s_Vault "Jewelhammer's Vault")
+-   [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison")
+-   [Life Vault](https://wowpedia.fandom.com/wiki/Life_Vault_Ruins "Life Vault Ruins")
+-   [Loken's Bargain](https://wowpedia.fandom.com/wiki/Loken%27s_Bargain "Loken's Bargain")
+-   [Mimir's Workshop](https://wowpedia.fandom.com/wiki/Mimir%27s_Workshop "Mimir's Workshop")
+-   [Primordial Observatory](https://wowpedia.fandom.com/wiki/Primordial_Observatory "Primordial Observatory")
+-   [Temple of Life](https://wowpedia.fandom.com/wiki/Temple_of_Life "Temple of Life")
+-   [Temple of Storms](https://wowpedia.fandom.com/wiki/Temple_of_Storms "Temple of Storms")
+-   [Temple of Wisdom](https://wowpedia.fandom.com/wiki/Temple_of_Wisdom "Temple of Wisdom")
+-   [Terrace of the Makers](https://wowpedia.fandom.com/wiki/Terrace_of_the_Makers "Terrace of the Makers")
+    -   [Temple of Invention](https://wowpedia.fandom.com/wiki/Temple_of_Invention "Temple of Invention")
+    -   [Temple of Order](https://wowpedia.fandom.com/wiki/Temple_of_Order "Temple of Order")
+    -   [Temple of Winter](https://wowpedia.fandom.com/wiki/Temple_of_Winter "Temple of Winter")
+-   [Terramok](https://wowpedia.fandom.com/wiki/Terramok "Terramok")
+-   [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras")
+    -   [The Guardian's Sanctum](https://wowpedia.fandom.com/wiki/The_Guardian%27s_Sanctum "The Guardian's Sanctum")
+    -   [Chamber of the Avatar](https://wowpedia.fandom.com/wiki/Chamber_of_the_Avatar "Chamber of the Avatar")
+-   [Tyrhold/Uldorus](https://wowpedia.fandom.com/wiki/Tyrhold "Tyrhold")
+    -   [Beacon of Tyrhold](https://wowpedia.fandom.com/wiki/Beacon_of_Tyrhold "Beacon of Tyrhold")
+-   [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum")
+-   [Uldis](https://wowpedia.fandom.com/wiki/Uldis "Uldis")
+-   [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir")
+-   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+-   [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Vault of Y'Shaarj](https://wowpedia.fandom.com/wiki/Vault_of_Y%27Shaarj "Vault of Y'Shaarj")
+-   [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple")
+    -   [Chamber of Aspects](https://wowpedia.fandom.com/wiki/Chamber_of_Aspects "Chamber of Aspects")
+-   [Wintergrasp Fortress](https://wowpedia.fandom.com/wiki/Wintergrasp_Fortress "Wintergrasp Fortress")
+    -   [Vault of Archavon](https://wowpedia.fandom.com/wiki/Vault_of_Archavon "Vault of Archavon")
+
+
+
+ |
+|  |
+| Relics | 
+
+-   [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
+-   [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon")
+-   [Lore Keeper of Norgannon](https://wowpedia.fandom.com/wiki/Lore_Keeper_of_Norgannon "Lore Keeper of Norgannon")
+-   [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation")
+    -   [Aegis of Aggramar](https://wowpedia.fandom.com/wiki/Aegis_of_Aggramar "Aegis of Aggramar")
+    -   [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul")
+    -   [Hammer of Khaz'goroth](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth "Hammer of Khaz'goroth")
+    -   [Tears of Elune](https://wowpedia.fandom.com/wiki/Tears_of_Elune "Tears of Elune")
+    -   [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth")
+-   [Orbs](https://wowpedia.fandom.com/wiki/Titan_orb "Titan orb")
+-   [Plates of Uldum](https://wowpedia.fandom.com/wiki/Plates_of_Uldum "Plates of Uldum")
+-   [Seals of Uldir](https://wowpedia.fandom.com/wiki/Seals_of_Uldir "Seals of Uldir")
+-   [Stone Watcher of Norgannon](https://wowpedia.fandom.com/wiki/Stone_Watcher_of_Norgannon "Stone Watcher of Norgannon")
+-   [Spark of Tyr](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Titan Relic](https://wowpedia.fandom.com/wiki/Titan_Relic "Titan Relic")
+-   [Val'anyr, Hammer of Ancient Kings](https://wowpedia.fandom.com/wiki/Val%27anyr,_Hammer_of_Ancient_Kings "Val'anyr, Hammer of Ancient Kings")
+-   [World Pillar](https://wowpedia.fandom.com/wiki/World_Pillar "World Pillar")
+-   [Mystery of the Makers](https://wowpedia.fandom.com/wiki/Mystery_of_the_Makers "Mystery of the Makers") [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |
+|  |
+| Weapons | 
+
+-   [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras")
+-   [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach")
+-   ([Gorshalach](https://wowpedia.fandom.com/wiki/Gorshalach "Gorshalach")
+-   [Gorribal](https://wowpedia.fandom.com/wiki/Gorribal "Gorribal")
+-   [Orodur](https://wowpedia.fandom.com/wiki/Orodur "Orodur")
+-   [Seschenal](https://wowpedia.fandom.com/wiki/Seschenal "Seschenal")
+-   [Shargahn](https://wowpedia.fandom.com/wiki/Shargahn "Shargahn")
+-   [Vulraiis](https://wowpedia.fandom.com/wiki/Vulraiis "Vulraiis")) [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |

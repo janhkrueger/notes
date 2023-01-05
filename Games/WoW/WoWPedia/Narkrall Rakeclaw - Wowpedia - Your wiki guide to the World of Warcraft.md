@@ -1,0 +1,109 @@
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Narkrall Rakeclaw |
+| --- |
+| [![Image of Narkrall Rakeclaw](https://static.wikia.nocookie.net/wowpedia/images/5/56/Narkrall_Rakeclaw.jpg/revision/latest/scale-to-width-down/200?cb=20160214191108)](https://static.wikia.nocookie.net/wowpedia/images/5/56/Narkrall_Rakeclaw.jpg/revision/latest?cb=20160214191108 "Image of Narkrall Rakeclaw") |
+| Title | The Drake-Tamer |
+| Gender | Male |
+| Race | [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc") (Humanoid) |
+| Level | 30-35 |
+| Class | [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Dragonmaw Clan](https://wowpedia.fandom.com/wiki/Dragonmaw_Clan "Dragonmaw Clan") |
+| Location | [Bloodgulch](https://wowpedia.fandom.com/wiki/Bloodgulch "Bloodgulch"), [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") |
+| Status | Deceased |
+| Companion(s) | [Torth](https://wowpedia.fandom.com/wiki/Torth "Torth") (enslaved mount) |
+
+**Narkrall Rakeclaw** is a [Dragonmaw](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan") [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") located at [Bloodgulch](https://wowpedia.fandom.com/wiki/Bloodgulch "Bloodgulch") in the [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands"). He is the carrier of the [Demon Chain](https://wowpedia.fandom.com/wiki/Demon_Chain "Demon Chain"), an artifact that once carried the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") and which still holds some of its power, most notable the power to control the minds of dragons, which is seen when it was used by Narkrall to enslave members of the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight").
+
+## Contents
+
+-   [1 Abilities](https://wowpedia.fandom.com/wiki/Narkrall_Rakeclaw#Abilities)
+-   [2 Quests](https://wowpedia.fandom.com/wiki/Narkrall_Rakeclaw#Quests)
+-   [3 Objective of](https://wowpedia.fandom.com/wiki/Narkrall_Rakeclaw#Objective_of)
+-   [4 Quotes](https://wowpedia.fandom.com/wiki/Narkrall_Rakeclaw#Quotes)
+-   [5 Patch changes](https://wowpedia.fandom.com/wiki/Narkrall_Rakeclaw#Patch_changes)
+-   [6 External links](https://wowpedia.fandom.com/wiki/Narkrall_Rakeclaw#External_links)
+
+## Abilities
+
+-    ![Ability warrior warcry.png](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Ability_warrior_warcry.png/revision/latest/scale-to-width-down/16?cb=20060829232409) [**Demoralizing Shout**](https://www.wowhead.com/?spell=13730) — Reduces the melee attack power of nearby enemies for 20 sec.
+-    ![Ability shockwave.png](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Ability_shockwave.png/revision/latest/scale-to-width-down/16?cb=20180824003655) [**Hamstring**](https://www.wowhead.com/?spell=9080) — Inflicts 20% weapon damage to an enemy, reducing its movement speed for 5 sec.
+-    ![Ability rogue ambush.png](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Ability_rogue_ambush.png/revision/latest/scale-to-width-down/16?cb=20180824003334) [**Heroic Strike**](https://www.wowhead.com/?spell=57846) — A strong attack that increases melee damage by 10%.
+-    ![Ability warrior savageblow.png](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Ability_warrior_savageblow.png/revision/latest/scale-to-width-down/16?cb=20060829232240) [**Mortal Strike**](https://www.wowhead.com/?spell=32736) — Inflicts 100% weapon damage and leaves the target wounded, reducing the effectiveness of any healing by 25% for 5 sec.
+-    ![Ability criticalstrike.png](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Ability_criticalstrike.png/revision/latest/scale-to-width-down/16?cb=20180824000501) [**Recklessness**](https://www.wowhead.com/?spell=79871) — Immune to fear effects. All attacks are critical hits. Armor reduced by 35%.
+
+1
+
+/
+
+15
+
+Honest Game Trailers | Marvel Snap
+
+[
+
+Read More
+
+](https://www.youtube.com/watch?v=qfj5ARLQj-I)
+
+![](https://cdn5.anyclip.com/-hflzYQBwhHrdrEslKEA/1669901737324_640x360_thumbnail.jpg?wid=001w000001Y8ud2_19593)
+
+Video Player is loading.
+
+Duration 0:00
+
+Current Time 0:00
+
+Loaded: 0%
+
+Remaining Time 0:00
+
+Settings
+
+Playback Speed
+
+Normal
+
+Closed Captions
+
+Off
+
+[![](https://assets.anyclip.com/pub-assets/fandomcom/fandom.png)](https://www.fandom.com/?source=logo&wid=001w000001Y8ud2_19593)
+
+-   [Powered by AnyClip](https://anyclip.com/?source=powered&wid=001w000001Y8ud2_19593)
+-   [Privacy Policy](https://anyclip.com/privacy-policy/?source=policy&wid=001w000001Y8ud2_19593)
+
+TOP ARTICLES
+
+Honest Game Trailers | Marvel Snap
+
+## Quests
+
+-    ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [Bait and Throttle](https://wowpedia.fandom.com/wiki/Bait_and_Throttle) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")[![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+-    ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [Crushing the Wildhammer](https://wowpedia.fandom.com/wiki/Crushing_the_Wildhammer) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")[![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+-    ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [Drag 'em Down](https://wowpedia.fandom.com/wiki/Drag_%27em_Down) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")[![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+-    ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [How to Maim Your Dragon](https://wowpedia.fandom.com/wiki/How_to_Maim_Your_Dragon) [![Availablequest](https://static.wikia.nocookie.net/wowpedia/images/5/51/Availablequesticon.png/revision/latest?cb=20070607020020)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+-    ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [Narkrall, the Drake-Tamer](https://wowpedia.fandom.com/wiki/Narkrall,_the_Drake-Tamer) [![Activequest](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Activequesticon.png/revision/latest?cb=20070607020008)](https://wowpedia.fandom.com/wiki/Quest#Identifying_quest_givers "Quest#Identifying quest givers")
+
+## Objective of
+
+-    ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[30-35\] [Narkrall, The Drake-Tamer](https://wowpedia.fandom.com/wiki/Narkrall,_The_Drake-Tamer)
+
+## Quotes
+
+Gossip
+
+Dragons are no mere beasts, like hogs or cattle. They are a force of nature. Powerful... Primal.
+
+To bend them to your will is to harness the world.
+
+To take up their reigns is to take destiny into your hands.
+
+## Patch changes
+
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Added.  
+    
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Narkrall+Rakeclaw#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Narkrall+Rakeclaw#t1:npcs)

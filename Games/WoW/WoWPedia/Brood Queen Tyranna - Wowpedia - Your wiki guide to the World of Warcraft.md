@@ -1,0 +1,311 @@
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Combat_32.png/revision/latest?cb=20151213203709)](https://wowpedia.fandom.com/wiki/Mob "Mob")Brood Queen Tyranna |
+| --- |
+| [![Image of Brood Queen Tyranna](https://static.wikia.nocookie.net/wowpedia/images/9/93/Brood_Queen_Tyranna.jpg/revision/latest/scale-to-width-down/200?cb=20151207030633)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Brood_Queen_Tyranna.jpg/revision/latest?cb=20151207030633 "Image of Brood Queen Tyranna") |
+| Title | Leader of Mardum, the Shattered Abyss,  
+Former Leader of Mardum, the Shattered Abyss |
+| Gender | Female |
+| Race | [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi") (Demon) |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#Locations) |
+| Status | Deceased (lore)  
+Killable [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") |
+| Relative(s) | [King Voras](https://wowpedia.fandom.com/wiki/King_Voras "King Voras") (consort) |
+
+**Brood Queen Tyranna** is an [aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi") who rules the demonic world of [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum"). [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") entrusted her with the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone).
+
+After her death, the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") suspended her corpse from the ceiling of the [Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")'s central chamber.
+
+## Contents
+
+-   [1 Locations](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#Locations)
+-   [2 Abilities](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#Abilities)
+-   [3 Drops](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#Drops)
+-   [4 Quotes](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#Quotes)
+-   [5 Patch changes](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#Patch_changes)
+-   [6 External links](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#External_links)
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Seat of Command](https://wowpedia.fandom.com/wiki/Seat_of_Command "Seat of Command") | ?? | 954,012 |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[8-45\] [The Keystone](https://wowpedia.fandom.com/wiki/The_Keystone_(quest)) | ?? | 1,192,515 |
+| [Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer") (Order Hall) | 99 | 1,192,515 |
+
+1
+
+/
+
+15
+
+Honest Game Trailers | Sonic Frontiers
+
+[
+
+Read More
+
+](https://www.youtube.com/watch?v=Uk8aZuyJzl0)
+
+![](https://cdn5.anyclip.com/WMLz8YQBOjAUedPIcQ26/1670506628016_640x360_thumbnail.jpg?wid=001w000001Y8ud2_19593)
+
+Video Player is loading.
+
+Duration 0:00
+
+Current Time 0:00
+
+Loaded: 0%
+
+Remaining Time 0:00
+
+Settings
+
+Playback Speed
+
+Normal
+
+Closed Captions
+
+Off
+
+[![](https://assets.anyclip.com/pub-assets/fandomcom/fandom.png)](https://www.fandom.com/?source=logo&wid=001w000001Y8ud2_19593)
+
+-   [Powered by AnyClip](https://anyclip.com/?source=powered&wid=001w000001Y8ud2_19593)
+-   [Privacy Policy](https://anyclip.com/privacy-policy/?source=policy&wid=001w000001Y8ud2_19593)
+
+TOP ARTICLES
+
+Honest Game Trailers | Sonic Frontiers
+
+## Abilities
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/73/Tyranna_Corpse.jpg/revision/latest/scale-to-width-down/180?cb=20161212075449)](https://static.wikia.nocookie.net/wowpedia/images/7/73/Tyranna_Corpse.jpg/revision/latest?cb=20161212075449)
+
+Tyranna's corpse hangs in the Fel Hammer.
+
+-   **Basic Melee**
+-    ![Ability hunter pet spider.png](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Ability_hunter_pet_spider.png/revision/latest/scale-to-width-down/16?cb=20180824001747) [**Brood Swarm**](https://www.wowhead.com/?spell=197627) — A Swarm of Spiders attacks nearby players, inflicting Shadow damage to all nearby enemies. _1.5 sec cast._
+-    ![Spell shadow vampiricaura.png](https://static.wikia.nocookie.net/wowpedia/images/3/39/Spell_shadow_vampiricaura.png/revision/latest/scale-to-width-down/16?cb=20060923203735) [**Queen's Bite**](https://www.wowhead.com/?spell=197486) 20 yd range — Bitten by Brood Queen Tyranna! _4 sec cast (channeled)._
+-    ![Inv misc monsterspidercarapace 01.png](https://static.wikia.nocookie.net/wowpedia/images/0/00/Inv_misc_monsterspidercarapace_01.png/revision/latest/scale-to-width-down/16?cb=20180222202549) [**Into the Shadows**](https://www.wowhead.com/?spell=197414) — Brood Queen Tyranna disapears into the shadows and calls upon her Spider Swarm to attack her enemies! _1.5 sec cast. Lasts 20 sec._
+
+## Drops
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone) (quest item)
+
+## Quotes
+
+_Main article: [Assault on Mardum#Notes](https://wowpedia.fandom.com/wiki/Assault_on_Mardum#Notes "Assault on Mardum")_
+
+_Main article: [Meeting With the Queen#Notes](https://wowpedia.fandom.com/wiki/Meeting_With_the_Queen#Notes "Meeting With the Queen")_
+
+_Main article: [Enter the Illidari: Shivarra#Notes](https://wowpedia.fandom.com/wiki/Enter_the_Illidari:_Shivarra#Notes "Enter the Illidari: Shivarra")_
+
+_Main article: [Before We're Overrun#Notes](https://wowpedia.fandom.com/wiki/Before_We%27re_Overrun#Notes "Before We're Overrun")_
+
+_Main article: [Their Numbers Are Legion#Notes](https://wowpedia.fandom.com/wiki/Their_Numbers_Are_Legion#Notes "Their Numbers Are Legion")_
+
+_Main article: [Count Nefarious#Quotes](https://wowpedia.fandom.com/wiki/Count_Nefarious#Quotes "Count Nefarious")_
+
+_Main article: [King Voras#Quotes](https://wowpedia.fandom.com/wiki/King_Voras#Quotes "King Voras")_
+
+_Main article: [Prolifica#Quotes](https://wowpedia.fandom.com/wiki/Prolifica#Quotes "Prolifica")_
+
+_Main article: [The Keystone (quest)#Notes](https://wowpedia.fandom.com/wiki/The_Keystone_(quest)#Notes "The Keystone (quest)")_
+
+## Patch changes
+
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
+    
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Brood+Queen+Tyranna#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Brood+Queen+Tyranna#t1:npcs)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Burning_Legion "Template:Burning Legion")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Burning_Legion?action=edit)
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+-   [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")
+-   [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")
+-   [Antoran High Command](https://wowpedia.fandom.com/wiki/Antoran_High_Command "Antoran High Command")
+    -   [Erodus](https://wowpedia.fandom.com/wiki/General_Erodus "General Erodus")
+    -   [Ishkar](https://wowpedia.fandom.com/wiki/Chief_Engineer_Ishkar "Chief Engineer Ishkar")
+    -   [Svirax](https://wowpedia.fandom.com/wiki/Admiral_Svirax "Admiral Svirax")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron")
+-   [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor")
+-   [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar")
+-   [Brutallus](https://wowpedia.fandom.com/wiki/Brutallus "Brutallus")
+-   [Coven of Shivarra](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra "Coven of Shivarra")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")
+-   [Imonar](https://wowpedia.fandom.com/wiki/Imonar_the_Soulhunter "Imonar the Soulhunter")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Houndmaster "Hakkar the Houndmaster")
+-   [Hasabel](https://wowpedia.fandom.com/wiki/Portal_Keeper_Hasabel "Portal Keeper Hasabel")
+-   [Jaraxxus](https://wowpedia.fandom.com/wiki/Lord_Jaraxxus "Lord Jaraxxus")
+-   [Kruul](https://wowpedia.fandom.com/wiki/Highlord_Kruul "Highlord Kruul")
+-   [Demonic Inquisition](https://wowpedia.fandom.com/wiki/Demonic_Inquisition "Demonic Inquisition")
+    -   [Atrigan](https://wowpedia.fandom.com/wiki/Atrigan "Atrigan")
+    -   [Belac](https://wowpedia.fandom.com/wiki/Belac "Belac")
+-   [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")
+-   [Kazzak](https://wowpedia.fandom.com/wiki/Lord_Kazzak "Lord Kazzak")
+-   [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon")
+-   [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")
+-   [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")
+-   [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth")
+-   [Melris Malagan](https://wowpedia.fandom.com/wiki/Melris_Malagan "Melris Malagan")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Rakeesh](https://wowpedia.fandom.com/wiki/High_General_Rakeesh "High General Rakeesh")
+-   [Talgath](https://wowpedia.fandom.com/wiki/Talgath "Talgath")
+-   [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius")
+-   **Tyranna**
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| Major races | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
+-   [Doom lord](https://wowpedia.fandom.com/wiki/Doom_lord "Doom lord")
+-   [Daemon](https://wowpedia.fandom.com/wiki/Daemon "Daemon")
+-   [Ered'ruin](https://wowpedia.fandom.com/wiki/Ered%27ruin "Ered'ruin")
+    -   [Doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard")
+        -   [Doomlord](https://wowpedia.fandom.com/wiki/Doomlord "Doomlord")
+-   [Man'ari](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Eredar_brute "Eredar brute")
+    -   [Doommaiden](https://wowpedia.fandom.com/wiki/Doommaiden "Doommaiden")
+    -   [Wrathguard](https://wowpedia.fandom.com/wiki/Wrathguard "Wrathguard")
+-   [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg")
+    -   [Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard")
+        -   [Fel lord](https://wowpedia.fandom.com/wiki/Fel_lord "Fel lord")
+    -   [Gan'arg](https://wowpedia.fandom.com/wiki/Gan%27arg "Gan'arg")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Mo%27arg_brute "Mo'arg brute")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Overfiend](https://wowpedia.fandom.com/wiki/Overfiend "Overfiend")
+-   [Sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+-   [Wyrmtongue](https://wowpedia.fandom.com/wiki/Wyrmtongue "Wyrmtongue")
+
+
+
+ |
+|  |
+| Minor races | 
+
+-   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
+-   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+-   [Observer](https://wowpedia.fandom.com/wiki/Observer "Observer")
+-   [Imp](https://wowpedia.fandom.com/wiki/Imp "Imp")
+-   [Imp mother](https://wowpedia.fandom.com/wiki/Imp_mother "Imp mother")
+-   [Inquisitor](https://wowpedia.fandom.com/wiki/Inquisitor "Inquisitor")
+    -   [Guardian eye](https://wowpedia.fandom.com/wiki/Guardian_eye "Guardian eye")
+-   [Jailer](https://wowpedia.fandom.com/wiki/Jailer_(demon) "Jailer (demon)")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+    -   [Felblood elf](https://wowpedia.fandom.com/wiki/Felblood_elf "Felblood elf")
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+    -   [Felborne](https://wowpedia.fandom.com/wiki/Felborne "Felborne")
+
+
+
+ |
+|  |
+| Constructs | 
+
+-   [Abyssal](https://wowpedia.fandom.com/wiki/Abyssal "Abyssal")
+-   [Fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver")
+-   [Homunculus](https://wowpedia.fandom.com/wiki/Homunculus "Homunculus")
+-   [Infernal](https://wowpedia.fandom.com/wiki/Infernal "Infernal")
+-   [Fel cannon](https://wowpedia.fandom.com/wiki/Fel_cannon "Fel cannon")
+-   [Infernal machine](https://wowpedia.fandom.com/wiki/Infernal_machine "Infernal machine")
+-   [Devastator](https://wowpedia.fandom.com/wiki/Devastator "Devastator")
+-   [Legion ship](https://wowpedia.fandom.com/wiki/Legion_ship "Legion ship")
+-   [Soul engine](https://wowpedia.fandom.com/wiki/Soul_engine "Soul engine")
+-   [Spire of woe](https://wowpedia.fandom.com/wiki/Spire_of_woe "Spire of woe")
+-   [Fel spreader](https://wowpedia.fandom.com/wiki/Fel_spreader "Fel spreader")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")
+-   [Xoroth](https://wowpedia.fandom.com/wiki/Xoroth "Xoroth")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza")
+-   [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether")
+
+
+
+ |
+|  |
+| Groups &  
+[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Demon" title="Demon">Demons</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Demon_Elite_Guard" title="Demon Elite Guard">Demon Elite Guard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar" title="Dreadscar">Dreadscar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tomb_Guardians" title="Tomb Guardians">Tomb Guardians</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magtheridon%27s_Forces" title="Magtheridon's Forces">Magtheridon's Forces</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hederine" title="Hederine">Hederine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_(group)" title="Felsoul (group)">Felsoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rakeeshi" title="Rakeeshi">Rakeeshi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Talgathi" title="Talgathi">Talgathi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_Covenant" title="Fel Covenant">Fel Covenant</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sunfury" title="Sunfury">Sunfury</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodwarder" title="Bloodwarder">Bloodwarder</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Hand" title="Crimson Hand">Crimson Hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dawnblade_(blood_elves)" title="Dawnblade (blood elves)">Dawnblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firewing" title="Firewing">Firewing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsword" title="Shadowsword">Shadowsword</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunblade" title="Sunblade">Sunblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunhawk" title="Sunhawk">Sunhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunseekers" title="Sunseekers">Sunseekers</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a> <a href="https://wowpedia.fandom.com/wiki/Category:Satyr_sects" title="Category:Satyr sects">sects</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Axxarien" title="Axxarien">Axxarien</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bleakheart" title="Bleakheart">Bleakheart</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deth%27ryll" title="Deth'ryll">Deth'ryll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fallenroot" title="Fallenroot">Fallenroot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmusk" title="Felmusk">Felmusk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haldarr" title="Haldarr">Haldarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hatefury" title="Hatefury">Hatefury</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jadefire" title="Jadefire">Jadefire</a></li><li><a href="https://wowpedia.fandom.com/wiki/Legashi" title="Legashi">Legashi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lords_of_the_Emerald_Flame" title="Lords of the Emerald Flame">Lords of the Emerald Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nazzivus" title="Nazzivus">Nazzivus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nethervine" title="Nethervine">Nethervine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Putridus" title="Putridus">Putridus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargeron_(Outland)" title="Sargeron (Outland)">Sargeron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound" title="Unbound">Unbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildspawn" title="Wildspawn">Wildspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xavian" title="Xavian">Xavian</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shadow_Council" title="Shadow Council">Shadow Council</a> (<a href="https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe)" title="Shadow Council (alternate universe)">alternate</a>)</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus_Wake" title="Argus Wake">Argus Wake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Blade_clan" title="Burning Blade clan">Burning Blade clan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cabal" title="Cabal">Cabal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand" title="Cult of the Dark Strand">Cult of the Dark Strand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathshadow" title="Deathshadow">Deathshadow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gorebound" title="Gorebound">Gorebound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargerei" title="Sargerei">Sargerei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Searing_Blade" title="Searing Blade">Searing Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe)" title="Sethekk (alternate universe)">Sethekk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsworn" title="Shadowsworn">Shadowsworn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Undead" title="Undead">Undead</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Risen" title="Risen">Risen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Loyalists" title="Dreadlord Loyalists">Dreadlord Loyalists</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Third_invasion" title="Third invasion">Third invasion</a>'s allies</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deadwood" title="Deadwood">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Felbound tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Felfin tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrage" title="Felrage">Felrage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrock" title="Felrock">Felrock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cragtalon" title="Cragtalon">Feltalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bloodtotem_tribe" title="Bloodtotem tribe">Feltotem tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Tideskorn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Felskorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drekirjar" title="Drekirjar">Drekirjar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonespeakers" title="Bonespeakers">Bonespeakers</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Veiled_Hand" title="Veiled Hand">Veiled Hand</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Archival_Authority_of_Argus" title="Archival Authority of Argus">Archival Authority of Argus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Green_Flame" title="Cult of the Green Flame">Cult of the Green Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Nethersworn" title="Cult of the Nethersworn">Cult of the Nethersworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Iron_Horde" title="Iron Horde">Iron Horde</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hidden" title="Hidden">Hidden</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Defectors | 
+
+-   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
+-   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") blood elves
+-   Some [Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest") demons
+
+
+
+ |
+|  |
+| [Burning  
+Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") | 
+
+-   [Battle of Shar'gel](https://wowpedia.fandom.com/wiki/Battle_of_Shar%27gel "Battle of Shar'gel")
+-   [First invasion of Azeroth](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
+-   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei")
+-   [Second invasion of Azeroth](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion")
+    -   [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
+    -   [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War")
+-   Attempted Azeroth invasions
+    -   [Invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland")
+        -   [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas")
+    -   [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity")
+-   [Third invasion of Azeroth](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion")
+    -   [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign")
+
+
+
+ |
+|  |
+| 
+
+-   [Darkstorm](https://wowpedia.fandom.com/wiki/Darkstorm "Darkstorm")
+-   [Burning Legion category](https://wowpedia.fandom.com/wiki/Category:Burning_Legion "Category:Burning Legion")
+
+
+
+ |

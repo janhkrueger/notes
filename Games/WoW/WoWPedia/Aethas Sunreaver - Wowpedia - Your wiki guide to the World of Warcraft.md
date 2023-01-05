@@ -1,0 +1,1196 @@
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Aethas Sunreaver |
+| --- |
+| [![Image of Aethas Sunreaver](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Aethas_Sunreaver_HS.jpg/revision/latest/scale-to-width-down/200?cb=20220509124939)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Aethas_Sunreaver_HS.jpg/revision/latest?cb=20220509124939 "Image of Aethas Sunreaver") |
+| Title | Archmage,  
+Kirin Tor |
+| Gender | Male |
+| Race | [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") (Humanoid) |
+| Class | Fire [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")  
+[Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers"), [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde"), [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters") (in collaboration), [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught"), [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Former affiliation(s) | [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") |
+| Occupation | [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage") of Quel'Thalas and the Kirin Tor, leader of the Sunreavers, Champion of the Tirisgarde |
+| Former occupation(s) | Member of the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#Locations) |
+| Status | Alive |
+| Student(s) | [Ryanna](https://wowpedia.fandom.com/wiki/Arcanist_Ryanna "Arcanist Ryanna") (apprentice) |
+
+_"We must overcome the mistakes of the past."_<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-1">[1]</a></sup>
+
+**Archmage Aethas Sunreaver** is the leader of the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers"), a group of [sin'dorei](https://wowpedia.fandom.com/wiki/Sin%27dorei "Sin'dorei") [magi](https://wowpedia.fandom.com/wiki/Magi "Magi") who sought the readmission of their people into the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). Aethas, despite his youthful age, quickly carved out a high rank in the Kirin Tor, eventually serving on its [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six"). A heavy proponent of neutrality, Aethas worked hard to repair and uphold the millennia-old alliance between [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City") and Dalaran, though his eternal optimism and enthusiasm were tested when the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), now under [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")'s rule, began attacking the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") after the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm "Cataclysm").<sup id="cite_ref-UVG147_2-0"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-UVG147-2">[2]</a></sup>
+
+Some time after [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") came into power, Aethas and his people were [expelled](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran") from the Kirin Tor, though Aethas' refusal to abandon Dalaran led to his faction's incarceration within the city instead. [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath") saved many of them from this fate, Aethas included, and Aethas pledged the service of both himself and the Sunreavers to [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") once more.<sup id="cite_ref-UVG147_2-1"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-UVG147-2">[2]</a></sup> Aethas eventually sought out  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Inv_sword_1h_artifactfelomelorn_d_01.png/revision/latest/scale-to-width-down/16?cb=20160801223428)[\[Felo'melorn\]](https://wowpedia.fandom.com/wiki/Felo%27melorn), high blade of the [Sunstrider dynasty](https://wowpedia.fandom.com/wiki/Sunstrider_dynasty "Sunstrider dynasty"), and with the help of his friend [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera") was able to rejoin the Kirin Tor.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-3">[3]</a></sup>
+
+## History
+
+### Flight to Northrend
+
+[![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/69/Aethas_manga.jpg/revision/latest/scale-to-width-down/240?cb=20131012130556)](https://static.wikia.nocookie.net/wowpedia/images/6/69/Aethas_manga.jpg/revision/latest?cb=20131012130556)
+
+Aethas Sunreaver.
+
+Archmage Aethas, a member of the enigmatic [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), was present during the magi's flight from [Alterac](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains"). Along with his compatriots, Aethas assisted the magi of Dalaran in elevating their city into the skies of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), where they planned to do battle with the dreaded [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") and his minions. However, what they were met with was quite another beast: the crazed aspect of magic himself, [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"). No sooner than the Kirin Tor had begun to stabilize their place looming skyward had the [Blue Dragonflight](https://wowpedia.fandom.com/wiki/Blue_Dragonflight "Blue Dragonflight") come upon them, eager to put an end to the mortals' reckless use of magic. Aethas spearheaded the defense of northern Dalaran along with [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera") by creating a massive shield over the city, the great powers of the two archmages proving enough to supplement the lesser magi.
+
+Archmage Rhonin established a line of telepathic communication with Aethas, to which Archmage Sunreaver urged the human to remain in control of the situation while he and Modera held off the attackers—for regardless of whether the magi of the world hailed from the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") or [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), the aspect of magic would not discriminate in robbing them all of their power.<sup id="cite_ref-Mage_manga_4-0"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-Mage_manga-4">[4]</a></sup>
+
+As the battle for aerial supremacy raged on, Aethas and Modera held up a grand dome over the city, shielding it from even Malygos himself. Aethas, Rhonin and Modera planned to burn the blue dragons out, and then break their hold on the shield to obliterate them directly. However, treachery at the hands of [Crevan](https://wowpedia.fandom.com/wiki/Crevan "Crevan") — a Kirin Tor mage who had sold his loyalty to Malygos — led to the denizens of the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold") being released, taking the city unawares from within. As the tide began to turn unfavorably, however, Aethas accompanied his fellow archmages to swiftly confront the duplicitous Crevan, and is present during the traitor's downfall. Aethas maintained that the shielding dome needed to be kept afloat for a while longer still, and sure enough it proves an adequate deterrent. The blue dragons flee the scene, though not before resolving to crush the Kirin Tor once and for all.<sup id="cite_ref-Mage_manga_4-1"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-Mage_manga-4">[4]</a></sup>
+
+### In the Shadow of the Sun
+
+Shortly before the [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") war, Aethas sent several letters to the Regent Lord of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"), to arrange an audience. Lor'themar deliberately ignored them at first, though Aethas gave up formalities and simply announced his intention to visit [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City").
+
+He was greeted by Lor'themar, [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing"), and less enthusiastically, [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath"). Lor'themar was both impressed and concerned with the rank Aethas had managed to carve out for himself at such a young age: while Aethas' ambition and inclination to peace were a good thing, he was also inexperienced as a leader and politician.
+
+Aethas informed the three of [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") the Spellweaver's intent to wipe out all mortal magic users, and that as such, the Kirin Tor had become the crazed Aspect's enemies. He asked for his people's aid in the matter, noting that the Kirin Tor are eager to mend their bridges with Quel'Thalas, though Rommath immediately challenged him, accusing his plight of being the work of other members of the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") such as [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera"), and ensuring him that the Kirin Tor would turn to the elves for help when desperate for their mastery over the arcane, but discard them soon after. Referencing the sin'dorei's slated execution in the dungeons of Dalaran years before, while the Kirin Tor did nothing to intervene, Rommath denied Aethas the aid of any of his [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters"). Lor'themar stopped their bickering, and had Aethas shown to his quarters. Turning to Lor'themar instead, Aethas offered to speak on behalf of the regency of Silvermoon, and ensured him that Quel'Thalas' interests will be protected. However, Lor'themar did not answer him immediately.
+
+Following Lor'themar's return from failed negotiations at [Quel'Lithien Lodge](https://wowpedia.fandom.com/wiki/Quel%27Lithien_Lodge "Quel'Lithien Lodge"), Aethas revealed that several high elven members of the Kirin Tor under [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner") share a similar attitude. Aethas had hoped that as a [ranger](https://wowpedia.fandom.com/wiki/Elven_ranger "Elven ranger"), Lor'themar could have helped bridge the gap between them, though concluded that it would be to no avail.
+
+[Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") later traveled to [Sunfury Spire](https://wowpedia.fandom.com/wiki/Sunfury_Spire "Sunfury Spire") to enlist the sin'dorei's aid against the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), reasoning that as members of the Horde they are obligated to commit support. Despite Lor'themar's apprehension to commit troops so soon after the battle on [Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas"), Sylvanas was able to twist his arm enough to warrant co-operation, citing that their refusal to battle the Lich King would likely lead to further death in Quel'Thalas, and the loss of Horde—specifically Forsaken—support in their lands. With the sin'dorei's presence in Northrend confirmed either way, Lor'themar agreed to support Aethas' endeavor, though made a point that it would not be for the Kirin Tor's agenda. Lor'themar instructed Aethas to confer with Rommath, certain that the grand magister would have "much use" for him.
+
+Aethas was pleased enough with the support of his country, though noted that he would rather have seen Lor'themar agree to send aid of his own volition rather than Sylvanas'. Frustrated, the regent lord merely informed him that his own free will is what rules Quel'Thalas, and Aethas concurred with what Lor'themar viewed as insincerity, irritating the regent lord further. Lor'themar later admitted that his talk of "free will" in this matter was truly a lie, and that Aethas knew it just as well as he.<sup id="cite_ref-ShadowOfTheSun_5-0"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-ShadowOfTheSun-5">[5]</a></sup>
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Archmage_Aethas_Sunreaver.jpg/revision/latest/scale-to-width-down/200?cb=20150625091957)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Archmage_Aethas_Sunreaver.jpg/revision/latest?cb=20150625091957)
+
+Aethas on the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Image_of_Archmage_Aethas_Sunreaver.jpg/revision/latest/scale-to-width-down/180?cb=20160218152933)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Image_of_Archmage_Aethas_Sunreaver.jpg/revision/latest?cb=20160218152933)
+
+Aethas's projection in [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer").
+
+As a member of the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six"), Aethas was able to secure his people a place in the magical (and traditionally [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")) city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Through his efforts, the blood elves' allies in the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") were also welcomed, and Dalaran proclaimed itself an independent city. Aethas' followers took up his name, and the Horde was granted a sanctuary within the city that also bears the name of [Sunreaver](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary"). Aethas sent blood elven members of the Kirin Tor to the various Horde cities and bases in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), and Aethas himself appeared via projection to advise [Overlord Agmar](https://wowpedia.fandom.com/wiki/Overlord_Agmar "Overlord Agmar") from the Horde fortress of [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer").
+
+Aethas assisted members of the Horde in their battles against the [Blue Dragonflight](https://wowpedia.fandom.com/wiki/Blue_Dragonflight "Blue Dragonflight"); learning of the [ley lines](https://wowpedia.fandom.com/wiki/Ley_line "Ley line") connected to the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus") and [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos")' plans to destroy them - sending their power back to the Nexus in turn. Aethas [presents himself](https://wowpedia.fandom.com/wiki/Letter_of_Introduction_to_Wyrmrest_Temple_(Horde) "Letter of Introduction to Wyrmrest Temple (Horde)") to [Alexstrasza the Lifebinder](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), revealing his position on the Council of Six in the process.
+
+After the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade") procured a foothold in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), the legendary elven blade [Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar") was unearthed in the frozen ice in its northern region. Though shattered by its twisted former wielder, [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel"), the blade is ultimately restored. In the outcome of the Horde version of events, Horde heroes are tasked by [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath") to hand the blade to his uneasy ally in Dalaran, Aethas. For a non-blood elf, Aethas expresses curiosity that the blade would bind itself to someone not of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), though praises the player nonetheless and informs them that Quel'Delar is adapting itself to their own unique abilities.
+
+For a blood elf, Aethas is elated, giving the sin'dorei hero similar words of support as Rommath did before him.
+
+Ultimately, Aethas's plight to see his people readmitted into the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") was a resounding success.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-6">[6]</a></sup>
+
+### Tides of War
+
+Aethas was present when [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") traveled to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to beseech the Kirin Tor's aid in the looming battle against [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"). Though ostensibly neutral, the Six agreed to discuss the possibility of lending aid as a "deterrence" to conflict of this scale, though Aethas made it clear to Jaina that once the Horde had seen its prize, this would likely not be enough to deter them from their attack.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-7">[7]</a></sup> Still, Aethas cast the deciding vote, in favor of sending a token force to Theramore, reasoning that not doing so would be tacitly aiding the Horde. Both Aethas and [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") recommended a mage named [Thalen Songweaver](https://wowpedia.fandom.com/wiki/Thalen_Songweaver "Thalen Songweaver") for the task.
+
+During the battle, however, Thalen turned on his Kirin Tor comrades, revealing himself as a spy for [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), abandoning his post and assisting the Horde army in breaking through. Theramore was promptly annihilated via [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb"), in a particularly brutal and lingering fashion.
+
+Enraged, Jaina went on the warpath, and traveled to Dalaran once more to demand their aid. However, this time they were unwilling to give it, having lost their leader as a direct result of getting involved in the war. Aethas maintained that he had no part in Thalen's treachery, stating that he will make any amends he can for the treachery of Songweaver, and pointed out the presence of traitors in any given race. He furthermore told Jaina that the Kirin Tor breaking their neutrality for vengeance is not the answer, a sentiment the Council of Six agree with. Though agitated by this turn of events, Aethas and the Six still agreed to consider all options. When denied their aid, Jaina instead stole certain tomes regarding the [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris"), and left to bring about her own retaliation.
+
+Later, after [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") succeeded in stopping Jaina from giving the people of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") a similar treatment to those of [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"), a humbled Jaina returned to Dalaran. Having lost everything she had worked for, she apologized for having stolen Kirin Tor tomes, and requested to join the organization as a novice. However, her actions in the face of despair had endeared her to the Kirin Tor's leaders, who offered to make her the new head of the Kirin Tor instead. Aethas is in support of this, and gave the closing speech to cement Jaina's leadership.
+
+Aethas later attended Rhonin's funeral along with most of the other members of the Kirin Tor, joining in with the magical gesture of mourning and respect for their fallen leader.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-8">[8]</a></sup>
+
+### Mists of Pandaria
+
+#### Landfall
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Aethas_Violet_Citadel.jpg/revision/latest/scale-to-width-down/180?cb=20121216134153)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Aethas_Violet_Citadel.jpg/revision/latest?cb=20121216134153)
+
+Aethas held captive in the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Aethas_Rommath_Dalaran.jpg/revision/latest/scale-to-width-down/180?cb=20121216133902)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Aethas_Rommath_Dalaran.jpg/revision/latest?cb=20121216133902)
+
+Aethas and Rommath prepare to escape [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran").
+
+Aethas was called upon by [Regent Lord Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") to help uncover the secrets of a [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") device found on [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"). Though he and [Rommath](https://wowpedia.fandom.com/wiki/Rommath "Rommath") made considerable progress with deducting its modus operandi, Aethas was increasing wary of Lor'themar taking orders from the regent lord's "master," [Warchief Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"). Likening Garrosh's penchant for such dubious methods as a reflection of [Prince Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s own, he believed the sin'dorei would be forced to walk down the same path under Garrosh's leadership as they had under Kael's. As such, Aethas believed that the sin'dorei would do well to break their ties with Hellscream's Horde, and gave voice to such beliefs after a released [sha](https://wowpedia.fandom.com/wiki/Sha "Sha") briefly heightened his emotions.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-9">[9]</a></sup>
+
+Like Jaina, Aethas continued to take pride in the Kirin Tor's status as a place of learning and cooperation for Horde and Alliance magi alike. Rommath, however, did not share his enthusiasm; indeed, the grand magister suspected that under Jaina's leadership, the Kirin Tor was now firmly in the hands of the Alliance, whether Aethas realized it or not.
+
+Later, [Fanlyr Silverthorn](https://wowpedia.fandom.com/wiki/Fanlyr_Silverthorn "Fanlyr Silverthorn") conjured a Sunreaver portal at [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point"), allowing members of the Horde to circumvent Jaina's wards around [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus") and steal an artifact named the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Inv_misc_bell_01.png/revision/latest/scale-to-width-down/16?cb=20180222193728)[\[Divine Bell\]](https://wowpedia.fandom.com/wiki/Divine_Bell). While not shown in-game it was [revealed](https://wowpedia.fandom.com/wiki/Sarah_Pine "Sarah Pine") that Aethas, after stumbling upon the portal, admonished Horde adventurers for using Kirin Tor resources for the war effort and would end up being threatened into backing down. Knowing that Garrosh would know exactly who spilled the beans (which would cost blood elven lives) and struggling with conflicting loyalties, Aethas made the decision to "to look the other way," gambling on Jaina's wrath being less than Garrosh's should she find out.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-10">[10]</a></sup><sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-11">[11]</a></sup> Soon time the after heist Jaina learned of it, and incensed at yet another betrayal on behalf of the Horde, expelled the entirety of the Sunreavers from Dalaran. Aethas attempted to deter her from this, professing his innocence and Dalaran's status as the Sunreavers' city too, though Jaina imprisoned him in the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") and [begins a purge of those unwilling to surrender](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran").
+
+In the midst of the chaos, Rommath, who had feared this would happen,<sup id="cite_ref-UVG147_2-2"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-UVG147-2">[2]</a></sup> led a strike team into Dalaran to rescue Aethas and the Sunreavers. After fighting his way through the city (now mostly under the Alliance's control), Rommath succeeded in freeing Aethas from the citadel. Aethas and Rommath escaped from the city, aided by [dragonhawks](https://wowpedia.fandom.com/wiki/Dragonhawk "Dragonhawk") Horde heroes had freed from [Krasus' Landing](https://wowpedia.fandom.com/wiki/Krasus%27_Landing "Krasus' Landing"). Aethas returned to [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), where he informed Lor'themar and [Halduron](https://wowpedia.fandom.com/wiki/Halduron "Halduron") of the situation, and is present to witness Lor'themar's vow to take matters into his own hands. The regent lord ordered Rommath to add the Sunreavers' strength to his own, as the rescued elves are funneled back to [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon") via portal.
+
+In the wake of the purge, Aethas and the Sunreavers came to hold Garrosh (whose agents in their organization, actively assisting the Horde war effort, had led to the purge in the first place) just as responsible for their banishment from Dalaran as Jaina herself. Though many Sunreavers made it out of the city, Aethas also made it clear that more still are held captive in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold").
+
+#### The Thunder King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1b/Hordeside_Bloodied_Crossing.jpg/revision/latest/scale-to-width-down/180?cb=20130313005435)](https://static.wikia.nocookie.net/wowpedia/images/1/1b/Hordeside_Bloodied_Crossing.jpg/revision/latest?cb=20130313005435)
+
+Aethas and [Lor'themar](https://wowpedia.fandom.com/wiki/Lor%27themar "Lor'themar") battling the [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari "Zandalari") at [Bloodied Crossing](https://wowpedia.fandom.com/wiki/Bloodied_Crossing "Bloodied Crossing").
+
+Aethas accompanied [Rommath](https://wowpedia.fandom.com/wiki/Rommath "Rommath"), [Halduron](https://wowpedia.fandom.com/wiki/Halduron "Halduron") and [Lor'themar](https://wowpedia.fandom.com/wiki/Lor%27themar "Lor'themar") to the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder"), bringing with him a formidable amount of [Sunreaver](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") faces both new and old. Aethas is part of the [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught") as a commander, advisor, and secondary leader, though he defers to Lor'themar's overall leadership. Prior to the Horde's landing on the isle, Aethas was stationed alongside Lor'themar aboard one of the regent lord's [destroyers](https://wowpedia.fandom.com/wiki/Destroyer#Elven_destroyer "Destroyer"), _[The Crimson Treader](https://wowpedia.fandom.com/wiki/The_Crimson_Treader "The Crimson Treader")_. He was dispensed to the isle itself after the regent lord took [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") heroes aside for a private audience.
+
+Aethas focused on dealing with the [saurok](https://wowpedia.fandom.com/wiki/Saurok "Saurok") and the [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu"). Like Halduron and Rommath, Aethas will routinely returning to the [Dawnseeker Promontory](https://wowpedia.fandom.com/wiki/Dawnseeker_Promontory "Dawnseeker Promontory") as construction of the camp progresses. Aethas also devised theories regarding Lei Shen's magic, which has engulfed the isle in an anti-flying stasis. Aethas believed the unnatural storms protecting the isle originate from within the emperor's palace.
+
+During the final stages of the assault on Lei Shen's stronghold, Aethas accompanied Lor'themar and [Scout Captain Elsia](https://wowpedia.fandom.com/wiki/Scout_Captain_Elsia "Scout Captain Elsia") to the [Bloodied Crossing](https://wowpedia.fandom.com/wiki/Bloodied_Crossing "Bloodied Crossing"). He fought against [Shan Bu](https://wowpedia.fandom.com/wiki/Shan_Bu "Shan Bu")'s forces in the courtyard, and faced off against [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore")'s group when the battle was over. Jaina demanded that Lor'themar hand Aethas over to her, though the regent lord rebuked this and ordered the release of the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") from the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold"). Aethas was uncomfortable throughout the meeting and witnessed Lor'themar and Jaina's truce after [Taran Zhu](https://wowpedia.fandom.com/wiki/Taran_Zhu "Taran Zhu") intervenes.
+
+After Lor'themar acquired a powerful cadre of [blood golems](https://wowpedia.fandom.com/wiki/Blood_golem "Blood golem"), he set Aethas and his top archmagi to the task of getting them operational.
+
+#### Siege of Orgrimmar
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Horde_Bladefist_Bay.jpg/revision/latest/scale-to-width-down/180?cb=20180701044704)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Horde_Bladefist_Bay.jpg/revision/latest?cb=20180701044704)
+
+Aethas, [Lor'themar](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"), and [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") at [Bladefist Bay](https://wowpedia.fandom.com/wiki/Bladefist_Bay "Bladefist Bay").
+
+Aethas accompanied Lor'themar's force to seize [Bladefist Bay](https://wowpedia.fandom.com/wiki/Bladefist_Bay "Bladefist Bay") from Hellscream's forces, and took part in the [Galakras](https://wowpedia.fandom.com/wiki/Galakras "Galakras") encounter. He has changed his outfit for the encounter, revealing his face for the first time in-game.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Aethas_in_Icecrown.jpg/revision/latest/scale-to-width-down/180?cb=20190412203519)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Aethas_in_Icecrown.jpg/revision/latest?cb=20190412203519)
+
+Aethas in [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Aethas_in_Dalaran.jpg/revision/latest/scale-to-width-down/180?cb=20190412203518)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Aethas_in_Dalaran.jpg/revision/latest?cb=20190412203518)
+
+Aethas re-pledging himself to [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/44/Aethas_on_the_Broken_Shore.jpg/revision/latest/scale-to-width-down/180?cb=20190412203523)](https://static.wikia.nocookie.net/wowpedia/images/4/44/Aethas_on_the_Broken_Shore.jpg/revision/latest?cb=20190412203523)
+
+Aethas on the Broken Shore.
+
+Aethas was seen in [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") observing the dying [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin").
+
+Since their expulsion from the Kirin Tor, Aethas has sought to regain the Sunreavers' place in the conclave. However, some of the Council of Six were still unwilling to overlook Aethas' own betrayal during the Divine Bell incident. Working secretly with his old friend [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera"), Aethas revealed his friendship with [Lyandra Sunstrider](https://wowpedia.fandom.com/wiki/Lyandra_Sunstrider "Lyandra Sunstrider"), a distant relative of [King Anasterian](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider") who became obsessed with recovering the runeblade  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Inv_sword_1h_artifactfelomelorn_d_01.png/revision/latest/scale-to-width-down/16?cb=20160801223428)[\[Felo'melorn\]](https://wowpedia.fandom.com/wiki/Felo%27melorn) following Prince [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas "Kael'thas")' death. Lyandra had disappeared some years prior, her fate unknown, and Aethas himself began an unrelated search for the blade when news of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s return came. Although he was unsuccessful, he claims to have seen visions of Lyandra in an icy land resembling [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), and decided to use this opportunity to reclaim the lost blade for use against the Legion, and with it, the Sunreavers' place in the Kirin Tor.
+
+In return for this information, Aethas hoped the council would allow him back into Dalaran. Modera agreed to speak on his behalf, and Aethas left for Icecrown to support a [fire-favoring hero](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in a quest for the blade. During the battle against Lyandra, now an [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") servant of the Lich King wielding Felo'melorn, Aethas disrupted her casting and held her at bay while her minions were dealt with. Lyandra was incredulous that Aethas would fight her, but the archmage did not acknowledge the creature she'd become as the friend he once knew. After the battle, Aethas returned to the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") to present the hero as the new bearer of Felo'melorn and put his request before the new Council of Six.
+
+[Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar") led the council in a vote to decide Aethas' readmission. [Ansirem Runeweaver](https://wowpedia.fandom.com/wiki/Ansirem_Runeweaver "Ansirem Runeweaver") questioned whether he would betray the Kirin Tor again, but [Karlain](https://wowpedia.fandom.com/wiki/Karlain "Karlain") and Modera vouched for his trustworthiness in light of his role in Felo'melorn's recovery–particularly him bequeathing it to the champion rather than one of his own Sunreavers. Ansirem conceded; Vargoth also gave his approval; and finally [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") gave his support. With a unanimous vote, Aethas was welcomed back into the Kirin Tor, urged not to misuse this chance to make things right.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-12">[12]</a></sup>
+
+#### Legionfall
+
+Aethas now has an apprentice, the [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Arcanist Ryanna](https://wowpedia.fandom.com/wiki/Arcanist_Ryanna "Arcanist Ryanna"). They met at [Tel'anor](https://wowpedia.fandom.com/wiki/Tel%27anor "Tel'anor"), where Aethas was stark naked, trapped in a [harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")'s bonds, with the harpy and a [banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee") arguing over who got to play with him first. Ryanna saved him.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-13">[13]</a></sup>
+
+After one of his Sunreavers turned to the Legion, Aethas traveled to the [Hall of the Guardian](https://wowpedia.fandom.com/wiki/Hall_of_the_Guardian "Hall of the Guardian") to seek the aid of the [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde") in setting the matter right.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-14">[14]</a></sup> Aethas aids in re-powering Dalaran's defensive weapon atop the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") by siphoning the power of [Kathra'natir](https://wowpedia.fandom.com/wiki/Kathra%27natir "Kathra'natir"), the dreadlord imprisoned inside the  ![](https://static.wikia.nocookie.net/wowpedia/images/d/de/Inv_icon_shadowcouncilorb_purple.png/revision/latest/scale-to-width-down/16?cb=20180818180918)[\[Nightborne Soulstone\]](https://wowpedia.fandom.com/wiki/Nightborne_Soulstone).<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-15">[15]</a></sup> He then becomes a champion of the [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde"). Aethas states that while he does not regret his past actions, he deeply regrets what they [led to](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran"). In time, Aethas hopes that the Kirin Tor and all of Azeroth will better understand his loyalties.<sup id="cite_ref-Champion_16-0"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-Champion-16">[16]</a></sup>
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+He was later present on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore").
+
+#### Shadows of Argus
+
+Aethas journeys to the _[Exodar](https://wowpedia.fandom.com/wiki/Exodar "Exodar")_ and boards the _[Vindicaar](https://wowpedia.fandom.com/wiki/Vindicaar "Vindicaar")_ in order to take the fight to the Legion on [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"). He can be found within the _Vindicaar'_s Matrix Core room alongside [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), where the two discussed how each feels overwhelmed by the powers at play.
+
+Aethas can also be found at [Darkfall Ridge](https://wowpedia.fandom.com/wiki/Darkfall_Ridge "Darkfall Ridge") in [Krokuun](https://wowpedia.fandom.com/wiki/Krokuun "Krokuun") where he fights demons seeking to reach the _Vindicaar_.
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+Following the resurgence of [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") in [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), Aethas met with [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"), [Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin"), and [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath"), where they learned that [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien") was in danger of falling to the Scourge, with Aethas noting that the Scourge was too focused for it be a random attack, and voiced calling upon the Horde for aid. However, Rommath countered that they couldn't wait and had to deal with the Scourge immediately. Liadrin agreed with Rommath's assessment and was able to convince Lor'themar that it would be best to call upon those still in training to hold the line and keep Quel'Thalas safe. Aethas and Rommath then immediately ported to Tranquillien.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-17">[17]</a></sup> Within the town they established themselves within the main building, with Aethas placing a protective barrier to keep the Scourge at bay.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-18">[18]</a></sup> While Liadrin ordered for the Scourge numbers to be thinned, Aethas requested that [blood elf champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") aid him and Rommath as they set up defenses in Tranquillien. As the trio went about this task, Aethas was stunned to be confronted with the [san'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") [Vorath](https://wowpedia.fandom.com/wiki/Vorath "Vorath") and quickly realized that Vorath was leading the Scourge against them. The trio also discovered that Vorath had found a way to cheat death and informed Liadrin of the situation.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-19">[19]</a></sup>
+
+The group then determined that the best way forward would be to imbue a weapon with the proper power in order to send Vorath to the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") for good.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-20">[20]</a></sup><sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-21">[21]</a></sup> After the champion was able to empower the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Inv_polearm_2h_bloodelf_b_01.png/revision/latest/scale-to-width-down/16?cb=20190117221613)[\[Forged Ranseur\]](https://wowpedia.fandom.com/wiki/Forged_Ranseur) with the magics of the [kyrian](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian") of [Bastion](https://wowpedia.fandom.com/wiki/Bastion "Bastion") and the [Maldraxxi](https://wowpedia.fandom.com/wiki/Maldraxxi "Maldraxxi") of [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus"), they returned to the group.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-22">[22]</a></sup> Aethas then joined the rest of his companions in striking back at the Scourge, where the champion with the ranseur cut a swath of destruction through the Scourge, which successfully trapped Vorath within Deatholme.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-23">[23]</a></sup> Determined to put an end to the invasion once and for all, the blood elves stormed Deatholme, and killed Vorath. With Vorath's death, Liadrin noticed how the Scourge began to scatter and declared that the remnants could be taken care of in time.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-24">[24]</a></sup> Aethas then joined his companions in returning to Silvermoon to celebrate their victory.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-25">[25]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") | 80 | 5,040,000 |
+| [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City") | ?? | 174,454,496 |
+| [Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran") | ?? | 87,227,400 |
+| [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder") | 90 | 157,576,496 |
+|  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[35\] [The Fall of Shan Bu](https://wowpedia.fandom.com/wiki/The_Fall_of_Shan_Bu) | 90 | 1,575,765 |
+| [Siege of Orgrimmar (instance)](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)") | 93 | 69,781,800 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-45\] [Fate of the Horde](https://wowpedia.fandom.com/wiki/Fate_of_the_Horde) | 110 | 20,728,400 |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Mage](https://static.wikia.nocookie.net/wowpedia/images/5/56/Ui-charactercreate-classes_mage.png/revision/latest/scale-to-width-down/16?cb=20070124144715 "Mage") \[10-45\] [The Path of Atonement](https://wowpedia.fandom.com/wiki/The_Path_of_Atonement) | 100 - 107 | 5,141,860 |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Mage](https://static.wikia.nocookie.net/wowpedia/images/5/56/Ui-charactercreate-classes_mage.png/revision/latest/scale-to-width-down/16?cb=20070124144715 "Mage") \[10-45\] [The Frozen Flame](https://wowpedia.fandom.com/wiki/The_Frozen_Flame) | 100 | 2,692,180 |
+| [Vindicaar](https://wowpedia.fandom.com/wiki/Vindicaar "Vindicaar") | 110 | 16,392,160 |
+
+## Abilities
+
+-    ![Spell arcane blast.png](https://static.wikia.nocookie.net/wowpedia/images/8/80/Spell_arcane_blast.png/revision/latest/scale-to-width-down/16?cb=20070114131414) [**Arcane Blast**](https://www.wowhead.com/?spell=79868) — Blasts the target with energy, dealing Arcane damage. Each time you cast Arcane Blast, the damage of all Arcane spells is increased by 60% and mana cost of Arcane Blast is increased by 30%. Effect stacks up to 4 times and lasts until cancelled or until any Arcane damage spell except Arcane Blast is cast.
+-    ![Spell nature wispsplode.png](https://static.wikia.nocookie.net/wowpedia/images/4/48/Spell_nature_wispsplode.png/revision/latest/scale-to-width-down/16?cb=20070106062738) [**Arcane Explosion**](https://www.wowhead.com/?spell=22938) — Sends out a blast wave of magic, inflicting Arcane damage to nearby enemies.
+-    ![Spell fire firebolt02.png](https://static.wikia.nocookie.net/wowpedia/images/4/45/Spell_fire_firebolt02.png/revision/latest/scale-to-width-down/16?cb=20180824094905) [**Fireball**](https://www.wowhead.com/?spell=236165) — Inflicts Fire damage to an enemy.
+-    ![Spell nature starfall.png](https://static.wikia.nocookie.net/wowpedia/images/1/14/Spell_nature_starfall.png/revision/latest/scale-to-width-down/16?cb=20070106061631) [**Arcane Missiles**](https://www.wowhead.com/?spell=34447) — Launches magical missiles at an enemy, inflicting Arcane damage.
+-    ![Spell fire firebolt02.png](https://static.wikia.nocookie.net/wowpedia/images/4/45/Spell_fire_firebolt02.png/revision/latest/scale-to-width-down/16?cb=20180824094905) [**Fireball**](https://www.wowhead.com/?spell=236165) — Inflicts Fire damage to an enemy.
+-    ![Spell fire volcano.png](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Spell_fire_volcano.png/revision/latest/scale-to-width-down/16?cb=20060928020606) [**Flamestrike**](https://www.wowhead.com/?spell=148849) — Calls down a flamestrike that lasts 20 sec., inflicting 455 Fire damage every 5 sec. to all enemies in a selected area.
+-    ![Spell nature slow.png](https://static.wikia.nocookie.net/wowpedia/images/4/43/Spell_nature_slow.png/revision/latest/scale-to-width-down/16?cb=20060923184514) [**Slow**](https://www.wowhead.com/?spell=79880) — Increases the time between an enemy's attacks by 25%, casting time increased by 25% and slows its movement by 25% for 6 sec.
+-    ![Spell arcane blast.png](https://static.wikia.nocookie.net/wowpedia/images/8/80/Spell_arcane_blast.png/revision/latest/scale-to-width-down/16?cb=20070114131414) [**Spellbind**](https://www.wowhead.com/?spell=196347) — Focus arcane magic on an enemy, imprisoning the target.
+-    ![Ability mage firestarter.png](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Ability_mage_firestarter.png/revision/latest/scale-to-width-down/16?cb=20180218113201) [**Searing Beam**](https://www.wowhead.com/?spell=242918) — Overloads the target with fiery energy, causing them explode every 1 sec, inflicting Fire damage to all enemies near the target.
+-    ![Spell arcane portaldalaran.png](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_arcane_portaldalaran.png/revision/latest/scale-to-width-down/16?cb=20080805005627) [**Portal: Crimson Thicket**](https://www.wowhead.com/?spell=234744) — Creates a portal, teleporting group members that use it to the Crimson Thicket.
+-    ![Spell arcane portaldalaran.png](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_arcane_portaldalaran.png/revision/latest/scale-to-width-down/16?cb=20080805005627) [**Portal: The Broken Shore**](https://www.wowhead.com/?spell=231757) — Creates a portal, teleporting group members that use it to the Broken Shore.
+-    ![Spell arcane portaldalaran.png](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_arcane_portaldalaran.png/revision/latest/scale-to-width-down/16?cb=20080805005627) [**Portal: Dalaran Spire**](https://www.wowhead.com/?spell=235124) — Creates a portal, teleporting group members that use it to the tallest spire in Dalaran City.
+-   Teleport: Hall of the Guardian
+
+Follower
+
+-   Blink
+-   Blizzard
+-   Counterspell
+-   Polymorph
+-   Time Warp
+
+## Quests
+
+_Main article: [Image of Archmage Aethas Sunreaver#Quests](https://wowpedia.fandom.com/wiki/Image_of_Archmage_Aethas_Sunreaver#Quests "Image of Archmage Aethas Sunreaver")_
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+### Objective of
+
+-    ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-35\] [What's in the Box?](https://wowpedia.fandom.com/wiki/What%27s_in_the_Box%3F)
+
+## Quotes
+
+-   As the leader of the Sunreavers, it is with great pride that I present <name> as the new bearer of Quel'Delar!
+-   "We will hold, [human](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"). Do your part."<sup id="cite_ref-Mage_manga_4-2"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-Mage_manga-4">[4]</a></sup>
+-   "[Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar") rises again, as we [sin'dorei](https://wowpedia.fandom.com/wiki/Sin%27dorei "Sin'dorei") have risen from the ashes of defeat and betrayal."
+-   "What took you so long? Time waits only for Aspects, <race>. We have much work to do, you and I."
+
+### Presentation
+
+My [queen](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza").
+
+It has been discovered that the ley line intersection at [Moonrest Gardens](https://wowpedia.fandom.com/wiki/Moonrest_Gardens "Moonrest Gardens") was unfettered by the blue dragonflight. Their forces used a [surge needle](https://wowpedia.fandom.com/wiki/Surge_Needle "Surge Needle") to destroy the capstone, but instead of flowing the power back to the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus"), they utilized a series of foci to clumsily run and augment the power under the land to the [Azure Dragonshrine](https://wowpedia.fandom.com/wiki/Azure_Dragonshrine "Azure Dragonshrine").
+
+Needless to say, this has had dire consequences wherever the magic shot up through the ground. The [Ancients](https://wowpedia.fandom.com/wiki/Lothalor_Ancient "Lothalor Ancient") of the [woodlands](https://wowpedia.fandom.com/wiki/Lothalor_Woodlands "Lothalor Woodlands"), [the Kalu'ak](https://wowpedia.fandom.com/wiki/The_Kalu%27ak "The Kalu'ak"), and other creatures have been adversely affected. <name>, the <race> who stands before you, was very helpful in tracking down and dealing with these issues.
+
+In my opinion, <name> could be useful for Wyrmrest in dealing with the problems that the temple currently faces. I humbly ask that you consider <him/her> an asset, one which I found to be quite acceptable.
+
+Yours ever respectfully,
+
+Aethas Sunreaver  
+Archmage and Member of [the Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six")
+
+-   **Archmage Aethas Sunreaver:** "For someone who claims to care so little, you seem to be rather well informed, Grand Magister."
+-   **Grand Magister Rommath:** "Which would be one of the reasons I am the [grand magister](https://wowpedia.fandom.com/wiki/Grand_Magister "Grand Magister") of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), and you are not, I would think."
+-   "There have been [human](https://wowpedia.fandom.com/wiki/Human "Human") traitors, and [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf"), and [gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome"), and [orc](https://wowpedia.fandom.com/wiki/Orc "Orc"). I will do what I can to atone for the treachery of Songweaver. The irony that I sent him as a gesture of goodwill does not escape me. But we must not abandon our stance of neutrality for vengeance!"
+-   "You have always been strong, [my lady](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"). In your power, and in your character. Even when tested and tried. And when you faced both an [unimaginable horror](https://wowpedia.fandom.com/wiki/Theramore "Theramore") and an [inconceivable temptation](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")—and were perhaps yourself tainted by the effects of the [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb")—you still chose a path that was fair and just, rather than vengeful and dark. It is, you must admit, unlikely that anything else will ever tempt you so again. And I do not think there stands [among us](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") anyone who, were he or she in your place, could have done better. Indeed... we might not have done even half so well."
+-   "[Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon") has been allies with [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") for over 2000 years. It is not a friendship we should toss idly aside at the whim of our "esteemed" [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh "Garrosh")."
+-   "This is the same road [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") once walked, and it nearly destroyed [our people](https://wowpedia.fandom.com/wiki/Sin%27dorei "Sin'dorei"). Why are we taking orders from someone who would have us walk down this road again?"
+
+### Mists of Pandaria
+
+### Dialogue
+
+_Main article: [Jaina's Resolution#Notes](https://wowpedia.fandom.com/wiki/Jaina%27s_Resolution#Notes "Jaina's Resolution")_
+
+_Main article: [One Last Grasp#Notes](https://wowpedia.fandom.com/wiki/One_Last_Grasp#Notes "One Last Grasp")_
+
+### Gossip
+
+Isle of Thunder
+
+-   While our goals call for the eradication of the mogu, we can't ignore our flanks.
+
+While both the Alliance and the saurok attack the mogu alongside us, either could turn on us at any moment.
+
+-   The saurok are despicable, but they may end up useful.
+
+If we can incite them against the mogu, they can draw attention away from our men.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+-   Archmage, the events of the past have long weighed heavily upon me. While I do not regret my actions, I do regret what happened. If I could go back and change things...
+
+I hope in time the Kirin Tor - indeed, all of Azeroth - will better understand my loyalties. Thanks to you, crisis has been averted. Please accept my enduring gratitude.<sup id="cite_ref-Champion_16-1"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-Champion-16">[16]</a></sup>
+
+Greetings
+
+-   "Bal'a dash, malanore."
+-   "You have my attention."
+-   "Any news?"
+
+Pissed (Patch 7.2)
+
+-   What is it?
+-   Do you find my discomfort amusing?
+-   Enough of your childish entics!
+
+Farewell
+
+-   "Safe travels."
+-   "We must overcome the mistakes of the past."
+
+Dialogue
+
+_Main article: [The Path of Atonement#Notes](https://wowpedia.fandom.com/wiki/The_Path_of_Atonement#Notes "The Path of Atonement")_
+
+_Main article: [The Frozen Flame#Notes](https://wowpedia.fandom.com/wiki/The_Frozen_Flame#Notes "The Frozen Flame")_
+
+_Main article: [An Urgent Situation#Notes](https://wowpedia.fandom.com/wiki/An_Urgent_Situation#Notes "An Urgent Situation")_
+
+_Main article: [The Nightborne Apprentice#Notes](https://wowpedia.fandom.com/wiki/The_Nightborne_Apprentice#Notes "The Nightborne Apprentice")_
+
+_Main article: [Redundancy#Notes](https://wowpedia.fandom.com/wiki/Redundancy#Notes "Redundancy")_
+
+_Main article: [Lady Remor'za (quest)#Notes](https://wowpedia.fandom.com/wiki/Lady_Remor%27za_(quest)#Notes "Lady Remor'za (quest)")_
+
+_Main article: [Shield Amplification#Notes](https://wowpedia.fandom.com/wiki/Shield_Amplification#Notes "Shield Amplification")_
+
+_Main article: [Arming Dalaran#Notes](https://wowpedia.fandom.com/wiki/Arming_Dalaran#Notes "Arming Dalaran")_
+
+_Main article: [Return of the Archmage#Notes](https://wowpedia.fandom.com/wiki/Return_of_the_Archmage#Notes "Return of the Archmage")_
+
+_Main article: [Two If By Sea (Horde)#Notes](https://wowpedia.fandom.com/wiki/Two_If_By_Sea_(Horde)#Notes "Two If By Sea (Horde)")_
+
+#### Combat ally
+
+Spawn
+
+-   Bal'a dash, Archmage. We fight as one.
+-   We will aid the Tirisgarde!
+-   Together we will save Azeroth!
+
+Aggro
+
+-   Diel fin'al!
+-   We will incinerate this darkness!
+-   Another target to destroy!
+-   Time to light a fire!
+-   Burn!
+-   Anar'alah belore! You will burn!
+
+Killed a mob
+
+-   To the sunless realm with you!
+-   You have failed.
+-   Diel ma'ahn orindel'o.
+-   You are nothing.
+-   You are not worthy of the sun!
+-   Tal anu'men no Tirisgarde!
+
+Defeated
+
+-   My best... was not enough...
+-   I require... a respite.
+-   Must... regain... strength...
+
+#### Vindicaar
+
+<Aethas seems to be bothered by something.>
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) <Stay awhile and listen.>
+
+**Aethas Sunreaver says:** I have never seen anything like this place, [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"). The powers at play here...
+
+**Archmage Khadgar says:** I know, archmage. It can be... overwhelming at times. Difficult to focus.
+
+**Aethas Sunreaver says:** I confess I am relieved to hear you say that. I feared I was the only one experiencing such sensations.
+
+**Archmage Khadgar says:** Nonsense. We are in the presence of primal powers that shaped the very cosmos. The fact that you feel the tug of their influence is not a sign of weakness. It shows that you are highly attuned to them.
+
+**Aethas Sunreaver says:** Then I shall relish the experience while I have it. Thank you for your counsel, Khadgar.
+
+Gossip
+
+-   We are here to provide what support we can. Good luck out there, champion.
+-   A new world, if it can be called that.  
+    So this is what the Legion wishes to do to Azeroth...
+-   Fel magic has permeated this entire world. It is difficult to say if there is any part of it that isn't corrupted.
+-   What a remarkable vessel. It seems to use the crystals the draenei are so fond of to stay afloat. Perhaps we can use these crystals to store arcane powers as well?
+
+## Notes and trivia
+
+-   Exactly when Aethas was elevated to his place on the council of six is unclear, given Aethas himself wasn't introduced until the _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/Wrath_of_the_Lich_King "Wrath of the Lich King")_ era, though it was likely after the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").
+-   At some point, Aethas' seemingly "out-of-no-where" appearance in the position [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") once held was speculated to be more than coincidence—some players suggested that Archmage Sunreaver could, in fact, have been a redeemed Kael'thas, his lack of a head being obscured by his helmet. Though clearly unlikely, and outright disproved in _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/Mists_of_Pandaria "Mists of Pandaria")_, a number of lore fans have taken amusement in the thought.
+-   His generic names in _Legion_ are **Sin'dorei Archmage** and **Tirisgarde Apprentice**.
+-   His model in the Siege of Orgrimmar instance is identical to [Raethas Dawnseer](https://wowpedia.fandom.com/wiki/Raethas_Dawnseer "Raethas Dawnseer").
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/9/90/Inv_misc_cape_18.png/revision/latest/scale-to-width-down/16?cb=20061019234138)[\[Aethas' Intensity\]](https://wowpedia.fandom.com/wiki/Aethas%27_Intensity) is named after him.
+-   It is hinted that his power is at the level of Jaina and Khadgar.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-26">[26]</a></sup>
+-   Though Aethas and [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath") hold a highly antagonistic relationship, the two appear to have found some common ground during the quest to restore [Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar"). The two also share a similar mindset in regards to Sylvanas' treatment of [Regent Lord Lor'themar](https://wowpedia.fandom.com/wiki/Lor%27themar "Lor'themar"); ironically, Aethas was the one to approach this point with more pragmatism, while Rommath abandoned all semblance of grace to try and make the regent lord see sense.
+-   By his own admission, Aethas's interests are primarily for the benefit of his people,<sup id="cite_ref-ShadowOfTheSun_5-1"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-ShadowOfTheSun-5">[5]</a></sup> though his desire to mediate between the Kirin Tor and Quel'Thalas has been scrutinized by individuals such as [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"), who holds that Aethas—already garbing himself in the Kirin Tor's colours—may be a dubious liaison to faithfully represent the regency's interests. This somewhat mirrors a quandary experienced by [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider") in regards to [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas "Kael'thas") years before; the king had pondered whether Kael would put his people or his affiliation with the Kirin Tor first during the prince's time on the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-27">[27]</a></sup>
+-   Aethas apparently entrusted the task of washing his clothes to [Shandy Glossgleam](https://wowpedia.fandom.com/wiki/Shandy_Glossgleam "Shandy Glossgleam") and his pet water elemental [Aquanos](https://wowpedia.fandom.com/wiki/Aquanos "Aquanos"), though on at least one occasion was mortified to see his pants flung in Dalaran's fountain.
+-   Unlike his Alliance equivalent, [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner"), in _Wrath of the Lich King_ Aethas bore the title of the <Kirin Tor> as a blanket statement rather than his sub-faction of Dalaran, the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers"). This was likely due to his presence on the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six"), and his in-game title was altered to "The Sunreavers" after the events of the _[Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran")_.
+-   Aethas's outfit is essentially the inversion of Grand Magister Rommath's. Instead of a longrobe, he wears pants and a tabard; in place of a mask, he wears a helmet; while Rommath eschews shoulderpads and sports runic tattoos on his arms, Aethas has one of the bulkier [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") shoulder models (a [Tier 8](https://wowpedia.fandom.com/wiki/Tier_8 "Tier 8") [set look alike](https://wowpedia.fandom.com/wiki/Set_look_alikes "Set look alikes") from [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")) and an outfit that covers almost the entirety of his body; from a more lore-inclined standpoint, Aethas's outfit in general (though tinted with crimson) is one of the Kirin Tor sets, while Rommath's, though unique, is more reminiscent of the Thalassian gear found in the [Sunwell Plateau](https://wowpedia.fandom.com/wiki/Sunwell_Plateau "Sunwell Plateau"). He also seems to be using the  ![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Inv_staff_74.png/revision/latest/scale-to-width-down/16?cb=20080215153707)[\[Grand Magister's Staff of Torrents\]](https://wowpedia.fandom.com/wiki/Grand_Magister%27s_Staff_of_Torrents).
+    -   Amusingly, Aethas's helmet gives him the same model bug that Rommath once had years before: his hair is treated as the default cropped blood elven helmet hair, yet on player characters wearing Aethas's particular headpiece and identical models, their chosen hairstyles will still persist through the helm. In the game files, Aethas's models all use the relatively slicked forward "falcon" hairstyle for blood elf males, in contrast to Rommath's slicked back high tail.
+-   Aethas appears to have a preference for [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") magic, in contrast to Rommath's penchant for [fire](https://wowpedia.fandom.com/wiki/Fire "Fire") and Jaina's preference for [frost](https://wowpedia.fandom.com/wiki/Frost "Frost"). The spells he can be seen using in-game (such as at the [Bloodied Crossing](https://wowpedia.fandom.com/wiki/Bloodied_Crossing "Bloodied Crossing")) are mostly derived from the arcane tree, though he does utilize fire spells in the [Galakras](https://wowpedia.fandom.com/wiki/Galakras "Galakras") encounter. As a Tirisgarde champion he is a fire mage.
+-   Aethas was voiced by [Jim Pirri](https://wowpedia.fandom.com/wiki/Jim_Pirri "Jim Pirri") during _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-28">[28]</a></sup> He was voiced by [John Behlmann](https://wowpedia.fandom.com/wiki/John_Behlmann "John Behlmann") at _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ launch but returned to Jim Pirri in [patch 7.2](https://wowpedia.fandom.com/wiki/Patch_7.2 "Patch 7.2").
+-   The scene in which Aethas finds out about the Darnassus heist bugged out which prevented players from witnessing it in game. As such Aethas's exact role in the heist, especially his dubious mannerisms on the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder") (he uncomfortably shifts after Lor'themar champions his innocence) led to some speculation on his exact involvement in the events that led to the [purge](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran").
+    -   It was eventually revealed that his uncomfortable shifting during the [Isle of Thunder event](https://wowpedia.fandom.com/wiki/The_Fall_of_Shan_Bu#Finale "The Fall of Shan Bu") was supposed to be a reference to the bugged out scene demonstrating that Aethas, while a Kirin Tor loyalist, did find out about the heist and didn't know "nothing", but he wasn't an active participant in the deception like in Jaina's accusations.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#cite_note-29">[29]</a></sup>
+        -   However it remains unclear as to whether he admitted this to Silvermoon's leadership.
+-   One of Aethas' combat ally quotes in [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian") - "Diel fin'al!" - was first uttered by [High Nethermancer Zerevor](https://wowpedia.fandom.com/wiki/High_Nethermancer_Zerevor "High Nethermancer Zerevor") during the [Illidari Council](https://wowpedia.fandom.com/wiki/Illidari_Council "Illidari Council") encounter.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Rommath_Aethas_Silvermoon.jpg/revision/latest/scale-to-width-down/120?cb=20121212140534)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Rommath_Aethas_Silvermoon.jpg/revision/latest?cb=20121212140534)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aethas_Silvermoon.jpg/revision/latest/scale-to-width-down/65?cb=20121216134413)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aethas_Silvermoon.jpg/revision/latest?cb=20121216134413)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Aethas_Sunreaver.jpg/revision/latest/scale-to-width-down/70?cb=20130322160449)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Aethas_Sunreaver.jpg/revision/latest?cb=20130322160449)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Aethas_Siege_of_Orgrimmar.jpg/revision/latest/scale-to-width-down/92?cb=20200514185401)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Aethas_Siege_of_Orgrimmar.jpg/revision/latest?cb=20200514185401)
+    
+
+## Videos
+
+-   [The Story of Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver#)
+
+## Patch changes
+
+## See also
+
+-   [Aethas's Portal](https://wowpedia.fandom.com/wiki/Aethas%27s_Portal "Aethas's Portal")
+
+## References
+
+## External links
+
+Aethas Sunreaver
+
+-   [Wowhead](https://www.wowhead.com/search?q=Aethas+Sunreaver#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Aethas+Sunreaver#t1:npcs)
+
+Generic names
+
+| Sin'dorei Archmage | Tirisgarde Apprentice | Tirisgarde Apprentice |
+| --- | --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/npc=119001)
+-   [WoWDB](https://www.wowdb.com/npcs/119001)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=119059)
+-   [WoWDB](https://www.wowdb.com/npcs/119059)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=119060)
+-   [WoWDB](https://www.wowdb.com/npcs/119060)
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Champions/Mage "Template:Champions/Mage")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Champions/Mage?action=edit)
+
+[![Mage](https://static.wikia.nocookie.net/wowpedia/images/0/02/ClassIcon_mage.png/revision/latest/scale-to-width-down/16?cb=20170130100854)](https://wowpedia.fandom.com/wiki/Mage "Mage") [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage") [champions](https://wowpedia.fandom.com/wiki/Class_Hall_followers "Class Hall followers")
+
+
+
+ |
+| --- |
+|  |
+| [![Arcane](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Spell_holy_magicalsentry.png/revision/latest/scale-to-width-down/16?cb=20070106001102)](https://wowpedia.fandom.com/wiki/Mage#Arcane "Arcane") [Arcane](https://wowpedia.fandom.com/wiki/Mage_abilities#Arcane "Mage abilities") | 
+
+-   [Arcane Destroyer](https://wowpedia.fandom.com/wiki/Arcane_Destroyer "Arcane Destroyer")
+-   [Archmage Vargoth](https://wowpedia.fandom.com/wiki/Archmage_Vargoth "Archmage Vargoth")
+-   [Millhouse Manastorm](https://wowpedia.fandom.com/wiki/Millhouse_Manastorm "Millhouse Manastorm")
+
+
+
+ |
+|  |
+| [![Fire](https://static.wikia.nocookie.net/wowpedia/images/4/45/Spell_fire_firebolt02.png/revision/latest/scale-to-width-down/16?cb=20180824094905)](https://wowpedia.fandom.com/wiki/Mage#Fire "Fire") [Fire](https://wowpedia.fandom.com/wiki/Mage_abilities#Fire "Mage abilities") | 
+
+-   **Aethas Sunreaver**
+-   [Esara Verrinde](https://wowpedia.fandom.com/wiki/Esara_Verrinde "Esara Verrinde")
+-   [Ravandwyr](https://wowpedia.fandom.com/wiki/Ravandwyr "Ravandwyr")
+
+
+
+ |
+|  |
+| [![Frost](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Spell_frost_frostbolt02.png/revision/latest/scale-to-width-down/16?cb=20180824095006)](https://wowpedia.fandom.com/wiki/Mage#Frost "Frost") [Frost](https://wowpedia.fandom.com/wiki/Mage_abilities#Frost "Mage abilities") | 
+
+-   [Archmage Kalec](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos")
+-   [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera")
+-   [Meryl Felstorm](https://wowpedia.fandom.com/wiki/Meryl_Felstorm "Meryl Felstorm")
+-   [The Great Akazamzarak](https://wowpedia.fandom.com/wiki/The_Great_Akazamzarak "The Great Akazamzarak")
+
+
+
+ |
+|  |
+| 
+
+[Champions category](https://wowpedia.fandom.com/wiki/Category:Champions "Category:Champions")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
+-   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") | 
+
+-   [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")
+-   [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan")
+-   [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof")
+-   [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss")
+-   [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron")
+-   [Gazlowe](https://wowpedia.fandom.com/wiki/Gazlowe "Gazlowe")
+-   [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw")
+-   [Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra")
+-   [Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")
+-   [Geya'rah](https://wowpedia.fandom.com/wiki/Overlord_Geya%27rah "Overlord Geya'rah")
+-   [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji")
+-   [Kiro](https://wowpedia.fandom.com/wiki/Kiro "Kiro")
+
+
+
+ |
+|  |
+| Other leaders | 
+
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") ([Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), [Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont"), [Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara"), [Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"))
+-   [Cindrethresh](https://wowpedia.fandom.com/wiki/Scalecommander_Cindrethresh "Scalecommander Cindrethresh")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Aggralan](https://wowpedia.fandom.com/wiki/Aggralan "Aggralan")
+-   [Drek'Thar](https://wowpedia.fandom.com/wiki/Drek%27Thar "Drek'Thar")
+-   [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg")
+-   [Nazgrel](https://wowpedia.fandom.com/wiki/Nazgrel "Nazgrel")
+-   [Jorin Deadeye](https://wowpedia.fandom.com/wiki/Jorin_Deadeye "Jorin Deadeye")
+-   [Rehgar Earthfury](https://wowpedia.fandom.com/wiki/Rehgar_Earthfury "Rehgar Earthfury")
+-   [Cromush](https://wowpedia.fandom.com/wiki/High_Warlord_Cromush "High Warlord Cromush")
+-   [Volrath](https://wowpedia.fandom.com/wiki/High_Warlord_Volrath "High Warlord Volrath")
+-   [Gorgonna](https://wowpedia.fandom.com/wiki/Gorgonna "Gorgonna")
+-   [Gordul](https://wowpedia.fandom.com/wiki/Gordul "Gordul")
+-   [Gorfax Angerfang](https://wowpedia.fandom.com/wiki/Gorfax_Angerfang "Gorfax Angerfang")
+-   [Geyah](https://wowpedia.fandom.com/wiki/Greatmother_Geyah "Greatmother Geyah")
+-   [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen")
+-   [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar")
+-   [Master Gadrin](https://wowpedia.fandom.com/wiki/Master_Gadrin "Master Gadrin")
+-   [Zen'tabra](https://wowpedia.fandom.com/wiki/Zen%27tabra "Zen'tabra")
+-   [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan")
+-   [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem")
+-   [Dezco](https://wowpedia.fandom.com/wiki/Sunwalker_Dezco "Sunwalker Dezco")
+-   [Roanauk Icemist](https://wowpedia.fandom.com/wiki/Roanauk_Icemist "Roanauk Icemist")
+-   [Jevan Grimtotem](https://wowpedia.fandom.com/wiki/Jevan_Grimtotem "Jevan Grimtotem")
+-   [Aponi Brightmane](https://wowpedia.fandom.com/wiki/Aponi_Brightmane "Aponi Brightmane")
+-   [Tahu Sagewind](https://wowpedia.fandom.com/wiki/Tahu_Sagewind "Tahu Sagewind")
+-   [Torntusk](https://wowpedia.fandom.com/wiki/Elder_Torntusk "Elder Torntusk")
+-   [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore")
+-   [Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon")
+-   [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver")
+-   [Alexi Barov](https://wowpedia.fandom.com/wiki/Alexi_Barov "Alexi Barov")
+-   [Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin")
+-   [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing")
+-   [Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+-   **Aethas Sunreaver**
+-   [Tae'thelan Bloodwatcher](https://wowpedia.fandom.com/wiki/Tae%27thelan_Bloodwatcher "Tae'thelan Bloodwatcher")
+-   [Mida](https://wowpedia.fandom.com/wiki/Boss_Mida "Boss Mida")
+-   [Pozzik](https://wowpedia.fandom.com/wiki/Pozzik "Pozzik")
+-   [Patch](https://wowpedia.fandom.com/wiki/Patch_(goblin) "Patch (goblin)")
+-   [Oculeth](https://wowpedia.fandom.com/wiki/Chief_Telemancer_Oculeth "Chief Telemancer Oculeth")
+-   [Valtrois](https://wowpedia.fandom.com/wiki/Arcanist_Valtrois "Arcanist Valtrois")
+-   [Lashk](https://wowpedia.fandom.com/wiki/Lashk "Lashk")
+-   [Ly'leth](https://wowpedia.fandom.com/wiki/Ly%27leth_Lunastre "Ly'leth Lunastre")
+-   [Silgryn](https://wowpedia.fandom.com/wiki/Silgryn "Silgryn")
+-   [Victoire](https://wowpedia.fandom.com/wiki/Victoire "Victoire")
+-   [Jale Rivermane](https://wowpedia.fandom.com/wiki/Jale_Rivermane "Jale Rivermane")
+-   [Lasan Skyhorn](https://wowpedia.fandom.com/wiki/Lasan_Skyhorn "Lasan Skyhorn")
+-   [Loti](https://wowpedia.fandom.com/wiki/Wardruid_Loti "Wardruid Loti")
+-   [Raal](https://wowpedia.fandom.com/wiki/Hexlord_Raal "Hexlord Raal")
+-   [Jo'nok](https://wowpedia.fandom.com/wiki/Jo%27nok,_Bulwark_of_Torcali "Jo'nok, Bulwark of Torcali")
+-   [Rata](https://wowpedia.fandom.com/wiki/High_Prelate_Rata "High Prelate Rata")
+-   [Rakera](https://wowpedia.fandom.com/wiki/Rakera "Rakera")
+-   [Nisha](https://wowpedia.fandom.com/wiki/Nisha "Nisha")
+-   [Kah Kah](https://wowpedia.fandom.com/wiki/Chief_Kah_Kah "Chief Kah Kah")
+-   [Usha Eyegouge](https://wowpedia.fandom.com/wiki/Usha_Eyegouge "Usha Eyegouge")
+-   [The Black Bride](https://wowpedia.fandom.com/wiki/The_Black_Bride "The Black Bride")
+-   [Gargok](https://wowpedia.fandom.com/wiki/Gargok "Gargok")
+-   [Neri Sharpfin](https://wowpedia.fandom.com/wiki/Neri_Sharpfin "Neri Sharpfin")
+-   [Ohseso](https://wowpedia.fandom.com/wiki/Ohseso "Ohseso")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+-   [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller")
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")
+-   [Jastor Gallywix](https://wowpedia.fandom.com/wiki/Jastor_Gallywix "Jastor Gallywix")
+-   [Warlord Bloodhilt](https://wowpedia.fandom.com/wiki/Warlord_Bloodhilt "Warlord Bloodhilt")
+-   [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar")
+-   [Overlord Krom'gar](https://wowpedia.fandom.com/wiki/Overlord_Krom%27gar "Overlord Krom'gar")
+-   [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream")
+-   [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer")
+-   [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin")
+-   [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof")
+-   [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")
+-   [Malkorok](https://wowpedia.fandom.com/wiki/Malkorok "Malkorok")
+-   [Nazgrim](https://wowpedia.fandom.com/wiki/Nazgrim "Nazgrim")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela")
+-   [Jor'kil](https://wowpedia.fandom.com/wiki/Jor%27kil_the_Soulripper "Jor'kil the Soulripper")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") | 
+
+-   [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan")
+-   [Rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Maim Blackhand](https://wowpedia.fandom.com/wiki/Maim_Blackhand "Maim Blackhand")
+-   [Kilrogg Deadeye](https://wowpedia.fandom.com/wiki/Kilrogg_Deadeye "Kilrogg Deadeye")
+-   [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked")
+-   [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")
+-   [Zul'jin](https://wowpedia.fandom.com/wiki/Zul%27jin "Zul'jin")
+-   [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+-   [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")
+-   [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+-   [Undead Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+-   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+-   [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
+-   [Mag'har orc](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")
+-   [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")
+-   [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")
+-   [Hobgoblin](https://wowpedia.fandom.com/wiki/Hobgoblin "Hobgoblin")
+-   [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+-   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Half-orc](https://wowpedia.fandom.com/wiki/Half-orc "Half-orc") / [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+    -   [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination")
+    -   [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")
+    -   [Geist](https://wowpedia.fandom.com/wiki/Geist "Geist")
+    -   [Ghoul](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul")
+    -   [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr")
+    -   [Undead elf](https://wowpedia.fandom.com/wiki/Elf "Elf")
+    -   [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith")
+    -   [Zombie](https://wowpedia.fandom.com/wiki/Zombie "Zombie")
+-   [Hozen](https://wowpedia.fandom.com/wiki/Hozen "Hozen")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Kodo](https://wowpedia.fandom.com/wiki/Kodo "Kodo")
+-   [Raptor](https://wowpedia.fandom.com/wiki/Raptor "Raptor")
+-   [Wyvern](https://wowpedia.fandom.com/wiki/Wyvern "Wyvern")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")
+-   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
+-   [Darkspear Isle](https://wowpedia.fandom.com/wiki/Darkspear_Isle "Darkspear Isle")
+-   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+-   [Bilgewater Harbor](https://wowpedia.fandom.com/wiki/Bilgewater_Harbor "Bilgewater Harbor")
+-   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+-   [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+-   [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor")
+-   [Vulpera Hideaway](https://wowpedia.fandom.com/wiki/Vulpera_Hideaway "Vulpera Hideaway")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Bloodhoof Village](https://wowpedia.fandom.com/wiki/Bloodhoof_Village "Bloodhoof Village")
+-   [Brackenwall Village](https://wowpedia.fandom.com/wiki/Brackenwall_Village "Brackenwall Village")
+-   [Camp Mojache](https://wowpedia.fandom.com/wiki/Camp_Mojache "Camp Mojache")
+-   [Crossroads](https://wowpedia.fandom.com/wiki/Crossroads "Crossroads")
+-   [Desolation Hold](https://wowpedia.fandom.com/wiki/Desolation_Hold "Desolation Hold")
+-   [Krom'gar Fortress](https://wowpedia.fandom.com/wiki/Krom%27gar_Fortress "Krom'gar Fortress")
+-   [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill")
+-   [Sen'jin Village](https://wowpedia.fandom.com/wiki/Sen%27jin_Village "Sen'jin Village")
+-   [Shadowprey Village](https://wowpedia.fandom.com/wiki/Shadowprey_Village "Shadowprey Village")
+-   [Southwind Village](https://wowpedia.fandom.com/wiki/Southwind_Village "Southwind Village")
+-   [Splintertree Post](https://wowpedia.fandom.com/wiki/Splintertree_Post "Splintertree Post")
+-   [Stonemaul Hold](https://wowpedia.fandom.com/wiki/Stonemaul_Hold "Stonemaul Hold")
+-   [Sun Rock Retreat](https://wowpedia.fandom.com/wiki/Sun_Rock_Retreat "Sun Rock Retreat")
+-   [Westreach Summit](https://wowpedia.fandom.com/wiki/Westreach_Summit "Westreach Summit")
+-   [Zoram'gar Outpost](https://wowpedia.fandom.com/wiki/Zoram%27gar_Outpost "Zoram'gar Outpost")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")
+-   [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill")
+-   [Ar'gorok](https://wowpedia.fandom.com/wiki/Ar%27gorok "Ar'gorok")
+-   [Dragonmaw Port](https://wowpedia.fandom.com/wiki/Dragonmaw_Port "Dragonmaw Port")
+-   [Falconwing Square](https://wowpedia.fandom.com/wiki/Falconwing_Square "Falconwing Square")
+-   [Frostwolf Keep](https://wowpedia.fandom.com/wiki/Frostwolf_Keep "Frostwolf Keep")
+-   [Grom'Gol](https://wowpedia.fandom.com/wiki/Grom%27Gol "Grom'Gol")
+-   [The Krazzworks](https://wowpedia.fandom.com/wiki/Krazzworks "Krazzworks")
+-   [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall")
+-   [Hardwrench Hideaway](https://wowpedia.fandom.com/wiki/Hardwrench_Hideaway "Hardwrench Hideaway")
+-   [New Kargath](https://wowpedia.fandom.com/wiki/New_Kargath "New Kargath")
+-   [Revantusk Village](https://wowpedia.fandom.com/wiki/Revantusk_Village "Revantusk Village")
+-   [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+-   [Sepulcher](https://wowpedia.fandom.com/wiki/Sepulcher "Sepulcher")
+-   [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell")
+-   [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Falcon Watch](https://wowpedia.fandom.com/wiki/Falcon_Watch "Falcon Watch")
+-   [Garadar](https://wowpedia.fandom.com/wiki/Garadar "Garadar")
+-   [Mok'Nathal Village](https://wowpedia.fandom.com/wiki/Mok%27Nathal_Village "Mok'Nathal Village")
+-   [Stonebreaker Hold](https://wowpedia.fandom.com/wiki/Stonebreaker_Hold "Stonebreaker Hold")
+-   [Shadowmoon Village](https://wowpedia.fandom.com/wiki/Shadowmoon_Village "Shadowmoon Village")
+-   [Thrallmar](https://wowpedia.fandom.com/wiki/Thrallmar "Thrallmar")
+-   [Thunderlord Stronghold](https://wowpedia.fandom.com/wiki/Thunderlord_Stronghold "Thunderlord Stronghold")
+-   [Zabra'jin](https://wowpedia.fandom.com/wiki/Zabra%27jin "Zabra'jin")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer")
+-   [Camp Tunka'lo](https://wowpedia.fandom.com/wiki/Camp_Tunka%27lo "Camp Tunka'lo")
+-   [Conquest Hold](https://wowpedia.fandom.com/wiki/Conquest_Hold "Conquest Hold")
+-   [New Agamand](https://wowpedia.fandom.com/wiki/New_Agamand "New Agamand")
+-   [Taunka'le Village](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Vengeance Landing](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing")
+-   [Venomspite](https://wowpedia.fandom.com/wiki/Venomspite "Venomspite")
+-   [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point")
+-   [Eastwind Rest](https://wowpedia.fandom.com/wiki/Eastwind_Rest "Eastwind Rest")
+-   [Grookin Hill](https://wowpedia.fandom.com/wiki/Grookin_Hill "Grookin Hill")
+-   [Shrine of Two Moons](https://wowpedia.fandom.com/wiki/Shrine_of_Two_Moons "Shrine of Two Moons")
+-   [Thunder Cleft](https://wowpedia.fandom.com/wiki/Thunder_Cleft "Thunder Cleft")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Axefall](https://wowpedia.fandom.com/wiki/Axefall "Axefall")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Riverside Post](https://wowpedia.fandom.com/wiki/Riverside_Post "Riverside Post")
+-   [Sunsworn Camp](https://wowpedia.fandom.com/wiki/Sunsworn_Camp "Sunsworn Camp")
+-   [Vol'jin's Pride](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Pride "Vol'jin's Pride")
+-   [Vol'mar](https://wowpedia.fandom.com/wiki/Vol%27mar "Vol'mar")
+-   [Warspear](https://wowpedia.fandom.com/wiki/Warspear "Warspear")
+-   [Wor'var](https://wowpedia.fandom.com/wiki/Wor%27var "Wor'var")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Dreadwake's Landing](https://wowpedia.fandom.com/wiki/Dreadwake%27s_Landing "Dreadwake's Landing")
+-   [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Warbeast Kraal](https://wowpedia.fandom.com/wiki/Warbeast_Kraal "Warbeast Kraal")
+-   [Zeb'ahari](https://wowpedia.fandom.com/wiki/Zeb%27ahari "Zeb'ahari")
+-   [Zul'jan Ruins](https://wowpedia.fandom.com/wiki/Zul%27jan_Ruins "Zul'jan Ruins")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Diretusk Hollow](https://wowpedia.fandom.com/wiki/Diretusk_Hollow "Diretusk Hollow")
+-   [Hillcrest Pasture](https://wowpedia.fandom.com/wiki/Hillcrest_Pasture "Hillcrest Pasture")
+-   [Ironmaul Overlook](https://wowpedia.fandom.com/wiki/Ironmaul_Overlook "Ironmaul Overlook")
+-   [Krazzlefrazz Outpost](https://wowpedia.fandom.com/wiki/Krazzlefrazz_Outpost "Krazzlefrazz Outpost")
+-   [Mudfisher Cove](https://wowpedia.fandom.com/wiki/Mudfisher_Cove "Mudfisher Cove")
+-   [Stonetusk Watch](https://wowpedia.fandom.com/wiki/Stonetusk_Watch "Stonetusk Watch")
+-   [Swiftwind Post](https://wowpedia.fandom.com/wiki/Swiftwind_Post "Swiftwind Post")
+-   [Timberfell Outpost](https://wowpedia.fandom.com/wiki/Timberfell_Outpost "Timberfell Outpost")
+-   [Warfang Hold](https://wowpedia.fandom.com/wiki/Warfang_Hold "Warfang Hold")
+-   [Windfall Cavern](https://wowpedia.fandom.com/wiki/Windfall_Cavern "Windfall Cavern")
+-   [Wolf's Den](https://wowpedia.fandom.com/wiki/Wolf%27s_Den "Wolf's Den")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Beastwatch](https://wowpedia.fandom.com/wiki/Beastwatch "Beastwatch")
+-   [Camp Taurajo](https://wowpedia.fandom.com/wiki/Camp_Taurajo "Camp Taurajo")
+-   [Bloodvenom Post](https://wowpedia.fandom.com/wiki/Bloodvenom_Post "Bloodvenom Post")
+-   [Freewind Post](https://wowpedia.fandom.com/wiki/Freewind_Post "Freewind Post")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary")
+-   [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")
+-   [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+-   [Echo Isles](https://wowpedia.fandom.com/wiki/Echo_Isles "Echo Isles")
+-   [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore "Mulgore")
+-   [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens")
+-   [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+-   [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+    -   [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Nation of Durotar](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)") | 
+
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Rageroar clan](https://wowpedia.fandom.com/wiki/Rageroar_clan "Rageroar clan")
+    -   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan")
+    -   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan "Shattered Hand clan")
+    -   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
+    -   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan "Burning Blade clan")
+    -   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan")
+    -   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan")
+    -   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan")
+-   [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron")
+-   [Orgrimmar Legion](https://wowpedia.fandom.com/wiki/Orgrimmar_Legion "Orgrimmar Legion")
+-   [Hellscream's Vanguard](https://wowpedia.fandom.com/wiki/Hellscream%27s_Vanguard "Hellscream's Vanguard")
+-   [Hellscream's Hellions](https://wowpedia.fandom.com/wiki/Hellscream%27s_Hellions "Hellscream's Hellions")
+-   [Warsong Outriders](https://wowpedia.fandom.com/wiki/Warsong_Outriders "Warsong Outriders")
+
+
+
+ |
+|  |
+| [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") | 
+
+-   [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers")
+-   [Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers")
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society")
+-   [Queensguard](https://wowpedia.fandom.com/wiki/Queensguard "Queensguard")
+-   [Deathguard](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard")
+    -   [Dreadguard](https://wowpedia.fandom.com/wiki/Dreadguard "Dreadguard")
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council")
+-   [Blightguard](https://wowpedia.fandom.com/wiki/Blightguard "Blightguard")
+
+
+
+ |
+|  |
+| [Thunder Bluff tauren](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)") | 
+
+-   [Tauren tribes](https://wowpedia.fandom.com/wiki/Tribe#Tauren_tribes "Tribe")
+    -   [Bloodhoof tribe](https://wowpedia.fandom.com/wiki/Bloodhoof_tribe "Bloodhoof tribe")
+    -   [Ragetotem tribe](https://wowpedia.fandom.com/wiki/Ragetotem_tribe "Ragetotem tribe")
+    -   [Dawnstrider tribe](https://wowpedia.fandom.com/wiki/Dawnstrider_tribe "Dawnstrider tribe")
+    -   [Runetotem tribe](https://wowpedia.fandom.com/wiki/Runetotem_tribe "Runetotem tribe")
+    -   [Highmountain tribe](https://wowpedia.fandom.com/wiki/Highmountain_tribe_(Legends) "Highmountain tribe (Legends)")
+    -   [Skychaser tribe](https://wowpedia.fandom.com/wiki/Skychaser_tribe "Skychaser tribe")
+    -   [Thunderhorn clan](https://wowpedia.fandom.com/wiki/Thunderhorn_clan "Thunderhorn clan")
+    -   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+    -   [Stonespire tribe](https://wowpedia.fandom.com/wiki/Stonespire_tribe "Stonespire tribe")
+-   [Sunwalkers](https://wowpedia.fandom.com/wiki/Sunwalkers "Sunwalkers")
+-   [Seers](https://wowpedia.fandom.com/wiki/Seers "Seers")
+-   [Longwalkers](https://wowpedia.fandom.com/wiki/Longwalkers "Longwalkers")
+
+
+
+ |
+|  |
+| [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") | 
+
+-   [Vol'jin's Spear](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Spear "Vol'jin's Spear")
+-   [Vol'jin's Headhunters](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Headhunters "Vol'jin's Headhunters")
+-   [Siame-Quashi](https://wowpedia.fandom.com/wiki/Siame-Quashi "Siame-Quashi")
+-   [Ravasaur Trainers](https://wowpedia.fandom.com/wiki/Ravasaur_Trainers "Ravasaur Trainers")
+-   [The Headhunters](https://wowpedia.fandom.com/wiki/Headhunters_(island_expedition) "Headhunters (island expedition)")
+
+
+
+ |
+|  |
+| [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") | 
+
+-   [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights")
+-   [Sunsworn](https://wowpedia.fandom.com/wiki/Sunsworn "Sunsworn")
+-   [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters")
+-   [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders")
+-   [Blood Hawks](https://wowpedia.fandom.com/wiki/Blood_Hawks "Blood Hawks")
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury")
+-   [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary")
+-   [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+    -   [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+-   [Blazing Sunhawks](https://wowpedia.fandom.com/wiki/Blazing_Sunhawks "Blazing Sunhawks")
+
+
+
+ |
+|  |
+| [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") | 
+
+-   [Gob Squad](https://wowpedia.fandom.com/wiki/Gob_Squad "Gob Squad")
+-   [Bilgewater Battalion](https://wowpedia.fandom.com/wiki/Bilgewater_Battalion "Bilgewater Battalion")
+-   [S.H.A.R.K.](https://wowpedia.fandom.com/wiki/S.H.A.R.K. "S.H.A.R.K.")
+-   [Mergers and Acquisitions](https://wowpedia.fandom.com/wiki/Mergers_and_Acquisitions "Mergers and Acquisitions")
+-   [Dredge Fleet](https://wowpedia.fandom.com/wiki/Dredge_Fleet "Dredge Fleet")
+
+
+
+ |
+|  |
+| [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") | 
+
+-   [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)")
+-   [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch")
+-   [The Highborne](https://wowpedia.fandom.com/wiki/Highborne_(island_expedition) "Highborne (island expedition)")
+
+
+
+ |
+|  |
+| [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe") | 
+
+-   [Rivermane tribe](https://wowpedia.fandom.com/wiki/Rivermane_tribe "Rivermane tribe")
+-   [Skyhorn tribe](https://wowpedia.fandom.com/wiki/Skyhorn_tribe "Skyhorn tribe")
+
+
+
+ |
+|  |
+| [Mag'har Clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)") | 
+
+-   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan_(alternate_universe) "Blackrock clan (alternate universe)")
+-   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan_(alternate_universe) "Bleeding Hollow clan (alternate universe)")
+-   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan_(alternate_universe) "Burning Blade clan (alternate universe)")
+-   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_Orcs "Frostwolf Orcs")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_Orcs "Laughing Skull Orcs")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan_(alternate_universe) "Shadowmoon clan (alternate universe)")
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan_(alternate_universe) "Shattered Hand clan (alternate universe)")
+-   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan_(alternate_universe) "Thunderlord clan (alternate universe)")
+-   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan_(alternate_universe) "Warsong clan (alternate universe)")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan_(alternate_universe) "Stonemaul clan (alternate universe)")
+
+
+
+ |
+|  |
+| [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") | 
+
+-   [Zanchuli Council](https://wowpedia.fandom.com/wiki/Zanchuli_Council "Zanchuli Council")
+-   [Golden Fleet](https://wowpedia.fandom.com/wiki/Golden_Fleet "Golden Fleet")
+-   [Zandalari army](https://wowpedia.fandom.com/wiki/Zandalari_army "Zandalari army")
+-   [Talanji's Expedition](https://wowpedia.fandom.com/wiki/Talanji%27s_Expedition "Talanji's Expedition")
+-   [Raptari](https://wowpedia.fandom.com/wiki/Raptari "Raptari")
+-   [Rastari](https://wowpedia.fandom.com/wiki/Rastari "Rastari")
+-   [Pa'kura](https://wowpedia.fandom.com/wiki/Pa%27kura "Pa'kura")
+-   [Torcalin](https://wowpedia.fandom.com/wiki/Torcalin "Torcalin")
+-   [Lun'alai](https://wowpedia.fandom.com/wiki/Lun%27alai "Lun'alai")
+-   [Warpack](https://wowpedia.fandom.com/wiki/Warpack "Warpack")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Huojin Pandaren](https://wowpedia.fandom.com/wiki/Huojin_Pandaren "Huojin Pandaren")
+-   [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai")
+-   [Dark Talons](https://wowpedia.fandom.com/wiki/Dark_Talons "Dark Talons")
+-   [Horde navy](https://wowpedia.fandom.com/wiki/Horde_navy "Horde navy")
+-   [Garad'kra](https://wowpedia.fandom.com/wiki/Garad%27kra "Garad'kra")
+-   [Kargath Expeditionary Force](https://wowpedia.fandom.com/wiki/Kargath_Expeditionary_Force "Kargath Expeditionary Force")
+-   [Hellscream's Reach](https://wowpedia.fandom.com/wiki/Hellscream%27s_Reach "Hellscream's Reach")
+-   [Krom'gar](https://wowpedia.fandom.com/wiki/Krom%27gar "Krom'gar")
+    -   [Boulderslide kobolds](https://wowpedia.fandom.com/wiki/Boulderslide "Boulderslide")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan "Stonemaul clan")
+-   [Dunemaul clan](https://wowpedia.fandom.com/wiki/Dunemaul_clan "Dunemaul clan")
+-   [Okril'lon](https://wowpedia.fandom.com/wiki/Okril%27lon "Okril'lon")
+-   [The Mag'har](https://wowpedia.fandom.com/wiki/Mag%27har_(faction) "Mag'har (faction)")
+-   [Shatterspear tribe](https://wowpedia.fandom.com/wiki/Shatterspear_tribe "Shatterspear tribe")
+-   [Revantusk tribe](https://wowpedia.fandom.com/wiki/Revantusk_tribe "Revantusk tribe")
+-   [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition")
+    -   [Warsong Offensive](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive")
+    -   [Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance")
+        -   [Shadowstalkers](https://wowpedia.fandom.com/wiki/Shadowstalkers "Shadowstalkers")
+-   [Dominance Offensive](https://wowpedia.fandom.com/wiki/Dominance_Offensive "Dominance Offensive")
+-   [Forest Hozen](https://wowpedia.fandom.com/wiki/Forest_Hozen "Forest Hozen")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+    -   [Icemist tribe](https://wowpedia.fandom.com/wiki/Icemist_tribe "Icemist tribe")
+    -   [Winterhoof](https://wowpedia.fandom.com/wiki/Camp_Winterhoof "Camp Winterhoof")
+    -   [Oneqwah](https://wowpedia.fandom.com/wiki/Camp_Oneqwah "Camp Oneqwah")
+    -   [Taunka'le](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Horde Trauma](https://wowpedia.fandom.com/wiki/Horde_Trauma "Horde Trauma")
+-   [Honorbound](https://wowpedia.fandom.com/wiki/Honorbound "Honorbound")
+-   [Rok'nah](https://wowpedia.fandom.com/wiki/Rok%27nah "Rok'nah")
+-   [Warbraves](https://wowpedia.fandom.com/wiki/Warbraves_(island_expedition) "Warbraves (island expedition)")
+-   [Greenbelly's Raiders](https://wowpedia.fandom.com/wiki/Greenbelly%27s_Raiders "Greenbelly's Raiders")
+-   [Gazlowe's Greasemonkeys](https://wowpedia.fandom.com/wiki/Gazlowe%27s_Greasemonkeys "Gazlowe's Greasemonkeys")
+-   [Draenor's Blood](https://wowpedia.fandom.com/wiki/Draenor%27s_Blood "Draenor's Blood")
+-   [The Unshackled](https://wowpedia.fandom.com/wiki/Unshackled "Unshackled")
+-   [Usha's Eyegougers](https://wowpedia.fandom.com/wiki/Usha%27s_Eyegougers "Usha's Eyegougers")
+-   [Gorok's Sea Dogs](https://wowpedia.fandom.com/wiki/Gorok%27s_Sea_Dogs "Gorok's Sea Dogs")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire")
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Black Tooth Grin clan](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan")
+    -   [Bladewind clan](https://wowpedia.fandom.com/wiki/Bladewind_clan "Bladewind clan")
+    -   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan")
+    -   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan")
+    -   [Lightning's Blade clan](https://wowpedia.fandom.com/wiki/Lightning%27s_Blade_clan "Lightning's Blade clan")
+    -   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan")
+    -   [Stormreaver clan](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan")
+    -   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan "Thunderlord clan")
+    -   [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") (enslaved)
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Death knight orders](https://wowpedia.fandom.com/wiki/Death_knight_(Old_Horde) "Death knight (Old Horde)")
+
+
+
+ |
+|  |
+| Horde-aligned and allies | 
+
+-   [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Fogsail Freebooters](https://wowpedia.fandom.com/wiki/Fogsail_Freebooters "Fogsail Freebooters")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Dreadmaul tribe](https://wowpedia.fandom.com/wiki/Dreadmaul_tribe "Dreadmaul tribe")
+-   [Dustbelcher](https://wowpedia.fandom.com/wiki/Dustbelcher "Dustbelcher")
+-   [Magram clan](https://wowpedia.fandom.com/wiki/Magram_clan "Magram clan")
+-   [Witherbark tribe](https://wowpedia.fandom.com/wiki/Witherbark_tribe "Witherbark tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Steamwheedle Cartel](https://wowpedia.fandom.com/wiki/Steamwheedle_Cartel "Steamwheedle Cartel")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
+-   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")
+-   [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)")
+-   [Horde organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+-   [Horde technology](https://wowpedia.fandom.com/wiki/Horde_technology "Horde technology")
+-   [Horde territories](https://wowpedia.fandom.com/wiki/Category:Horde_territories "Category:Horde territories")
+
+
+
+ |

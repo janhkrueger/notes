@@ -1,0 +1,613 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")The Primus |
+| --- |
+| [![Image of The Primus](https://static.wikia.nocookie.net/wowpedia/images/2/26/Primus_in_Korthia.png/revision/latest/scale-to-width-down/200?cb=20210812191619)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Primus_in_Korthia.png/revision/latest?cb=20210812191619 "Image of The Primus") |
+| Gender | Male |
+| Race | [Eternal One](https://wowpedia.fandom.com/wiki/Eternal_One "Eternal One") (Humanoid) |
+| Level | ?? Boss |
+| Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Undying Army](https://wowpedia.fandom.com/wiki/Undying_Army "Undying Army"), [Necrolord Covenant](https://wowpedia.fandom.com/wiki/Necrolord_Covenant "Necrolord Covenant"), [Pantheon of Death](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") |
+| Occupation | Leader of the Necrolords and the Undying Army, ruler of Maldraxxus |
+| Location | [Keeper's Respite](https://wowpedia.fandom.com/wiki/Keeper%27s_Respite "Keeper's Respite"), [Korthia](https://wowpedia.fandom.com/wiki/Korthia "Korthia")[<sup>[63.0,&nbsp;25.4]</sup>](https://wowpedia.fandom.com/wiki/Korthia)  
+[Seat of the Primus](https://wowpedia.fandom.com/wiki/Seat_of_the_Primus "Seat of the Primus"), [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus")[<sup>[49.73,&nbsp;52.23]</sup>](https://wowpedia.fandom.com/wiki/Seat_of_the_Primus)  
+Geometric Cavern, [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis") (projection)[<sup>[33.29,&nbsp;68.71]</sup>](https://wowpedia.fandom.com/wiki/Zereth_Mortis) |
+| Status | Active |
+| Student(s) | [Bonesmith Heirmir](https://wowpedia.fandom.com/wiki/Bonesmith_Heirmir "Bonesmith Heirmir") |
+
+“Focus. Strategy. Relentlessness. These are the weapons of the Necrolords. Victory will be claimed not by a single house, but through the strength of our covenant. For Maldraxxus!”
+
+— Vision of the Primus<sup id="cite_ref-Staff_1-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Staff-1">[1]</a></sup>
+
+**The Primus** is the founder and ruler of [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus") and the five houses of the [Necrolord Covenant](https://wowpedia.fandom.com/wiki/Necrolord_Covenant "Necrolord Covenant"), whose charge is to defend the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") and the force of [Death](https://wowpedia.fandom.com/wiki/Death "Death") from external influences. The most tactical and long-thinking of the [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones"),<sup id="cite_ref-Polygon_2-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Polygon-2">[2]</a></sup><sup id="cite_ref-Grimoire_116_3-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Grimoire_116-3">[3]</a></sup> he is a master strategist who is nearly unbeatable on the field of battle<sup id="cite_ref-Maldraxxus_preview_4-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Maldraxxus_preview-4">[4]</a></sup> and is notorious for always thinking far ahead of everyone else.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-5">[5]</a></sup> The Primus embodies the five traits of the ideal [Maldraxxi](https://wowpedia.fandom.com/wiki/Maldraxxi "Maldraxxi") soldier, virtues he also instilled into the five houses: ambition, might, insight, guile, and relentlessness.<sup id="cite_ref-Meet_the_Margrave_6-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Meet_the_Margrave-6">[6]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-7">[7]</a></sup> In addition to his military might, he is also known as a legendary weaponsmith<sup id="cite_ref-The_Seat_of_the_Primus_8-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-The_Seat_of_the_Primus-8">[8]</a></sup> and the best armor crafter in the Shadowlands.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-9">[9]</a></sup> He is the creator of Maldraxxi [rune magic](https://wowpedia.fandom.com/wiki/Rune_magic "Rune magic"), which serves to manipulate necromantic energy,<sup id="cite_ref-Grimoire_118_10-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Grimoire_118-10">[10]</a></sup> and its more powerful counterpart, [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination"), which he made for the purpose of imprisoning his traitorous brother, [Zovaal the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal").<sup id="cite_ref-Grimoire_120_11-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Grimoire_120-11">[11]</a></sup> All necrolords receive a portion of the Primus' power in order to carry out their duty of defending the Shadowlands.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-12">[12]</a></sup>
+
+At some point, the Primus left his sanctum to investigate the schemes of the captive Zovaal. The Jailer defeated the Primus, took his memories from him, and confined him to the tower of [Torghast](https://wowpedia.fandom.com/wiki/Torghast,_Tower_of_the_Damned "Torghast, Tower of the Damned") as a prisoner called the **[Runecarver](https://wowpedia.fandom.com/wiki/Runecarver "Runecarver")**.<sup id="cite_ref-Untangling_13-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Untangling-13">[13]</a></sup> In this form, the Primus was forced to create countless armaments for the Jailer—including [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne") and the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination"), which were later used by the succession of [Lich Kings](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). The necrolords were unaware of their leader's fate, and in his absence, Maldraxxus fell into chaos: two of the houses were nearly destroyed, and the leaders of the remaining three ruthlessly fought to claim the [Seat of the Primus](https://wowpedia.fandom.com/wiki/Seat_of_the_Primus "Seat of the Primus") and the position of commanding the realm's armies.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-14">[14]</a></sup>
+
+Before his disappearance, the Primus left behind cryptic messages and prophecies concerning the coming of one who would embody the might of Maldraxxus and save the realm from itself,<sup id="cite_ref-Maldraxxus_preview_4-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Maldraxxus_preview-4">[4]</a></sup> prophecies that were fulfilled by mortal [Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker"). During the four [covenants](https://wowpedia.fandom.com/wiki/Covenant "Covenant")' [campaign](https://wowpedia.fandom.com/wiki/Chains_of_Domination_campaign "Chains of Domination campaign") to waylay the Jailer's efforts in the city of [Korthia](https://wowpedia.fandom.com/wiki/Korthia "Korthia"), these same heroes recovered the Primus' [sigil](https://wowpedia.fandom.com/wiki/Sigil "Sigil"), which he had concealed before his journey to the Maw. When brought to Torghast, the sigil restored the Primus' memories and freed him from his existence as the Runecarver, allowing him to lend his tactical genius to the covenants as they fought to prevent the Jailer from achieving his goals.<sup id="cite_ref-Untangling_13-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Untangling-13">[13]</a></sup> The Primus ultimately ensured his brother's defeat by reforging the shards of the Helm of Domination into the [Crown of Wills](https://wowpedia.fandom.com/wiki/Crown_of_Wills "Crown of Wills"), which granted the Maw Walkers the resistance they needed to counter the Jailer's Domination magic and save the Shadowlands.
+
+## Biography
+
+### Ruler of Maldraxxus
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/24/Seat_of_the_Primus.jpg/revision/latest/scale-to-width-down/180?cb=20201127173629)](https://static.wikia.nocookie.net/wowpedia/images/2/24/Seat_of_the_Primus.jpg/revision/latest?cb=20201127173629)
+
+The Seat of the Primus.
+
+Like his fellow [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones"), the Primus was forged by the [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones") in their realm of [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-15">[15]</a></sup> The Prototype of War is an incomplete prototype of him.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-16">[16]</a></sup> The First Ones entrusted the Primus with the duty of defending the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") from outside influences. They granted him the power of shaping the very flesh and bone of [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus") into the ideal training ground for the [necrolords](https://wowpedia.fandom.com/wiki/Necrolord "Necrolord"), the army that would be responsible for protecting the realms of [Death](https://wowpedia.fandom.com/wiki/Death "Death"). The Primus understood that victory would not be achieved through physical might alone and divided his necrolords into five houses embodying what he saw as the five traits of the ideal champion of Death. He devised a system of eternal war games and conflict between the houses that would weed out weakness and allow the army of the necrolords to continually improve—all while impressing on them the vital rule that their internal rivalry must never overshadow their duty to defend the Shadowlands.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-17">[17]</a></sup><sup id="cite_ref-SA_Gamer_18-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-SA_Gamer-18">[18]</a></sup> One such war game was the Contest of Conquest, which he founded as a way of showcasing the might of Maldraxxus.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-19">[19]</a></sup>
+
+The Primus himself used his time to hone his tactical and strategic skills beyond mortal constraints. It is said that he once sought out an unknown ally who could show him the infinite [timeways](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") and allow him to observe the same battle over and over again to see how slight differences in strategy and troop deployment could change the outcome of a conflict. After eons of such study, the Primus can instantly assess any situation and devise the likeliest path to victory.<sup id="cite_ref-SA_Gamer_18-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-SA_Gamer-18">[18]</a></sup> To further bolster the Maldraxxi, the Primus created a unique language of runes which individually represent a specific word tied to the foundations of Maldraxxus and the power of the five houses. Eons later, this same language would come to be used in the world of the living by [Azerothian](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") to empower their [runeblades](https://wowpedia.fandom.com/wiki/Runeblade "Runeblade") with [runeforging](https://wowpedia.fandom.com/wiki/Runeforging "Runeforging").<sup id="cite_ref-Grimoire_118_10-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Grimoire_118-10">[10]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Power_of_the_Primus.jpg/revision/latest/scale-to-width-down/180?cb=20201230222053)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Power_of_the_Primus.jpg/revision/latest?cb=20201230222053)
+
+The statue of the Primus within the Seat during the empowerment of a new necrolord.
+
+The Primus was the victor of countless hard-won battles. In one battle in the [Iron Trench](https://wowpedia.fandom.com/wiki/Iron_Trench "Iron Trench"), he destroyed a group of ambitious necrolords who thought to usurp him.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-20">[20]</a></sup> In another battle, he destroyed a group of invaders so utterly that it left fires that still burn to this day in the [Burning Thicket](https://wowpedia.fandom.com/wiki/Burning_Thicket "Burning Thicket").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-21">[21]</a></sup> His tactics and weapons were infallible against his every foe; in fact, according to one account, the only losses the Primus suffered were intentional, as he felt that there was more to be learned from defeat than from endless victories.<sup id="cite_ref-Grimoire_116_3-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Grimoire_116-3">[3]</a></sup> He repeatedly allowed a [venthyr](https://wowpedia.fandom.com/wiki/Venthyr "Venthyr") historian to accompany him to battles, and she wrote down her own (unfavorable) perspective on the Maldraxxi.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-22">[22]</a></sup> The Primus had several apprentices, but the only one now remaining is [Bonesmith Heirmir](https://wowpedia.fandom.com/wiki/Bonesmith_Heirmir "Bonesmith Heirmir").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-23">[23]</a></sup> At his stronghold, the [Seat of the Primus](https://wowpedia.fandom.com/wiki/Seat_of_the_Primus "Seat of the Primus"), he maintained a network of portals that linked the [necropoli](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis") of each of the five houses.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-24">[24]</a></sup> He was personally involved in the design of at least one necropolis, [Zerekriss](https://wowpedia.fandom.com/wiki/Zerekriss "Zerekriss"), which he shaped with his bare hands.<sup id="cite_ref-Search_the_Place_25-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Search_the_Place-25">[25]</a></sup> In order to protect the [Sepulcher of Knowledge](https://wowpedia.fandom.com/wiki/Sepulcher_of_Knowledge "Sepulcher of Knowledge"), a tower storing the writings of the greatest military minds among the necrolords, the Primus placed several guardians in the area around the structure and filled the Sepulcher itself with various traps.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-26">[26]</a></sup><sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-27">[27]</a></sup>
+
+In the ancient past, the Primus detected treachery from his brother [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal"),<sup id="cite_ref-SA_Gamer_18-2"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-SA_Gamer-18">[18]</a></sup> the [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter_(title) "Arbiter (title)"), who defied the will of the [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones") and tried to forcibly lay claim to the [sigils](https://wowpedia.fandom.com/wiki/Sigil "Sigil") possessed by the other Eternal Ones in the belief that they were keys to forbidden knowledge locked within the [Sepulcher of the First Ones](https://wowpedia.fandom.com/wiki/Sepulcher_of_the_First_Ones "Sepulcher of the First Ones").<sup id="cite_ref-Voices_of_the_Eternal_28-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Voices_of_the_Eternal-28">[28]</a></sup><sup id="cite_ref-Covenants_Renewed_29-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Covenants_Renewed-29">[29]</a></sup> The Primus led his siblings to victory,<sup id="cite_ref-Voices_of_the_Eternal_28-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Voices_of_the_Eternal-28">[28]</a></sup> and they proceeded to punish Zovaal by stripping him of his sigil and his [anima](https://wowpedia.fandom.com/wiki/Anima "Anima") to create a [new Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter") to judge souls in his place.<sup id="cite_ref-Covenants_Renewed_29-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Covenants_Renewed-29">[29]</a></sup> They then bound him within the inescapable [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw") to make him its Jailer.<sup id="cite_ref-Door_30-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Door-30">[30]</a></sup> In order to lock Zovaal away within his prison, the Primus created [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination")—an entirely new system of magic and the most powerful runic language he'd ever made—and used its runes to brand the sentence of the Eternal Ones onto his brother's flesh.<sup id="cite_ref-Grimoire_120_11-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Grimoire_120-11">[11]</a></sup><sup id="cite_ref-Covenants_Renewed_29-2"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Covenants_Renewed-29">[29]</a></sup> The Primus hoped that the ages spent in the Maw would cause Zovaal to change his ways and repent for his sins, but they instead only caused him to grow more malevolent.<sup id="cite_ref-Untangling_13-2"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Untangling-13">[13]</a></sup> Ages later, the Primus would come to regret the invention of Domination, reflecting that his anger at Zovaal had informed the creation of the magic and that, in his hubris, he had not foreseen how much damage it would cause to both the Shadowlands and the mortal realm.<sup id="cite_ref-Hello,_Darkness_31-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Hello,_Darkness-31">[31]</a></sup><sup id="cite_ref-The_Crown_of_Wills_32-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-The_Crown_of_Wills-32">[32]</a></sup>
+
+### Disappearance and imprisonment
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Runecarver_initial.jpg/revision/latest/scale-to-width-down/180?cb=20220213175603)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Runecarver_initial.jpg/revision/latest?cb=20220213175603)
+
+The Runecarver in Torghast.
+
+“I was used by him. The Jailer, they call him. Used to make... to make... Hmm. My memories. Did you take them? No. He took them. Used me for his purpose. Then left me here. Bereft of memory for... how long?”
+
+— The Runecarver<sup id="cite_ref-Deep_Within_33-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Deep_Within-33">[33]</a></sup>
+
+Ages later, the Primus noticed that the Jailer's influence was seeping outside of the Maw. Suspecting that Zovaal had worked with ancient allies during his original betrayal, the Primus left Maldraxxus to investigate the matter, leaving the margraves and barons of the realm to their own devices. However, due to his tactical genius, he had foreseen a time when the Shadowlands would face grave peril and could only be saved by someone from outside the realm. For this reason, he left behind a trail of messages and boons in Maldraxxus to help mortal outsiders set things right.<sup id="cite_ref-SA_Gamer_18-3"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-SA_Gamer-18">[18]</a></sup><sup id="cite_ref-Door_30-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Door-30">[30]</a></sup> He placed a [standing stone](https://wowpedia.fandom.com/wiki/Standing_Rock "Standing Rock") at the center of a lava pool in the [House of the Chosen](https://wowpedia.fandom.com/wiki/House_of_the_Chosen_(subzone) "House of the Chosen (subzone)") as a challenge of endurance and fortitude. In truth, this stone concealed an [unfinished blade](https://wowpedia.fandom.com/wiki/Unfinished_Blade "Unfinished Blade") with no hilt, forged by the Primus himself<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-34">[34]</a></sup> and enchanted with five runes representing the five ideal Maldraxxi traits.<sup id="cite_ref-Meet_the_Margrave_6-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Meet_the_Margrave-6">[6]</a></sup> Once fully empowered, this [Blade of the Primus](https://wowpedia.fandom.com/wiki/Blade_of_the_Primus "Blade of the Primus") would act as a key allowing a worthy champion to access the Seat of the Primus<sup id="cite_ref-The_Seat_of_the_Primus_8-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-The_Seat_of_the_Primus-8">[8]</a></sup> and discover its master's final message: a warning stating that the only hope for the Shadowlands was for all of the Eternal Ones to stand united once more, protect the Arbiter, and prevent Zovaal from reaching the [Sepulcher of the First Ones](https://wowpedia.fandom.com/wiki/Sepulcher_of_the_First_Ones "Sepulcher of the First Ones").<sup id="cite_ref-Door_30-2"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Door-30">[30]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Runecarver_concept_art.jpg/revision/latest/scale-to-width-down/180?cb=20201214201348)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Runecarver_concept_art.jpg/revision/latest?cb=20201214201348)
+
+Concept art of the Runecarver.
+
+The Primus knew that if his suspicions about Zovaal were correct, his own [sigil](https://wowpedia.fandom.com/wiki/Sigil "Sigil") would be at risk. He therefore traveled to the city of [Korthia](https://wowpedia.fandom.com/wiki/Korthia "Korthia") and entrusted the sigil to the [attendants](https://wowpedia.fandom.com/wiki/Attendant "Attendant") there.<sup id="cite_ref-Secrets_of_the_Vault_35-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Secrets_of_the_Vault-35">[35]</a></sup> He believed that even locking it away in the [Vault of Secrets](https://wowpedia.fandom.com/wiki/Vault_of_Secrets "Vault of Secrets") might not be enough to keep it safe, however,<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-36">[36]</a></sup> so he created an additional safeguard by binding it with the magic of memory, which he believed that not even Zovaal could untangle.<sup id="cite_ref-Into_the_Vault_37-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Into_the_Vault-37">[37]</a></sup>
+
+The Eternal One then traveled to the Maw, where his suspicions indeed proved true and the Jailer brought about his defeat.<sup id="cite_ref-Door_30-3"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Door-30">[30]</a></sup> In a reversal of how his brother had once imprisoned him, the Jailer stripped the Primus of his memories<sup id="cite_ref-Deep_Within_33-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Deep_Within-33">[33]</a></sup> and turned him into a broken prisoner called the [Runecarver](https://wowpedia.fandom.com/wiki/Runecarver "Runecarver"),<sup id="cite_ref-Untangling_13-3"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Untangling-13">[13]</a></sup> who was subsequently trapped in chains and Domination runes in [an oubliette](https://wowpedia.fandom.com/wiki/Runecarver%27s_Oubliette "Runecarver's Oubliette") deep within [Torghast, Tower of the Damned](https://wowpedia.fandom.com/wiki/Torghast,_Tower_of_the_Damned "Torghast, Tower of the Damned"). Zovaal extracted countless designs from the Runecarver's mind to forge into weapons for his [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") armies, the grandest of which were the "vessels of [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination")": the [mourneblade](https://wowpedia.fandom.com/wiki/Mourneblade "Mourneblade") [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne") and the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination"), which he intended to use to claim "the secret that the [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones") sought to hide".<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-38">[38]</a></sup> The Shards of Domination used to augment the Jailer's armaments are remnants of the Runecarver's work.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-39">[39]</a></sup>
+
+### Chains of Domination
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/Primus_rescued_in_Torghast.png/revision/latest/scale-to-width-down/180?cb=20210424063442)](https://static.wikia.nocookie.net/wowpedia/images/a/a5/Primus_rescued_in_Torghast.png/revision/latest?cb=20210424063442)
+
+The Primus restored to his true form.
+
+“\[The Jailer\] is a fool for allowing us to live. His desire to see us bend to his will shall be his undoing. All is not lost, if you are willing to put in the work. There is still something that can be done.”
+
+— The Primus after the loss of his sigil<sup id="cite_ref-The_Primus_Returns_40-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-The_Primus_Returns-40">[40]</a></sup>
+
+Mortal [Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker") eventually arrived in the Shadowlands, finished the Blade of the Primus, and uncovered the Eternal One's warning.<sup id="cite_ref-Door_30-4"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Door-30">[30]</a></sup> In Torghast, Maw Walkers uncovered a key leading to the oubliette of the Runecarver, who by then had become largely forgotten.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-41">[41]</a></sup> With some help from the [broker](https://wowpedia.fandom.com/wiki/Broker "Broker") [Ve'nari](https://wowpedia.fandom.com/wiki/Ve%27nari "Ve'nari"), the heroes allied with the Runecarver, helping recover some of his memories and allowing him to forge them into weapons and armor.<sup id="cite_ref-Untangling_13-4"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Untangling-13">[13]</a></sup>
+
+After obtaining three of the five sigils required for his plan, the Jailer pulled Korthia into the Maw and sent his Mawsworn to attack the [Vault of Secrets](https://wowpedia.fandom.com/wiki/Vault_of_Secrets "Vault of Secrets") in order to lay claim to the Primus' sigil as well.<sup id="cite_ref-Secrets_of_the_Vault_35-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Secrets_of_the_Vault-35">[35]</a></sup> However, a group consisting of the attendant leader [Tal-Galan](https://wowpedia.fandom.com/wiki/Tal-Galan "Tal-Galan"), the Primus' old apprentice [Bonesmith Heirmir](https://wowpedia.fandom.com/wiki/Bonesmith_Heirmir "Bonesmith Heirmir"), and a Maw Walker retrieved the sigil before the Mawsworn had a chance to do so and brought it to [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") at [Keeper's Respite](https://wowpedia.fandom.com/wiki/Keeper%27s_Respite "Keeper's Respite"). Since Bolvar had watched through the Maw Walkers' eyes during their ventures into Torghast,<sup id="cite_ref-Into_the_Vault_37-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Into_the_Vault-37">[37]</a></sup> the magic on the sigil reminded him of the Runecarver and he suggested that the prisoner was their best chance of untangling it.<sup id="cite_ref-Untangling_13-5"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Untangling-13">[13]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Untangling_the_Sigil_-_Primus_and_Jailer.jpg/revision/latest/scale-to-width-down/180?cb=20210425005344)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Untangling_the_Sigil_-_Primus_and_Jailer.jpg/revision/latest?cb=20210425005344)
+
+The Primus battling the Jailer in Torghast.
+
+Heirmir and the Maw Walker traveled to Torghast and gave the sigil to the Runecarver. This caused its magic binds to disappear and the sigil itself to enter the Runecarver's body, instantly restoring all of his memories and causing a burst of energy that allowed him to destroy his shackles and regain his true form as the Primus. Heirmir was astonished that her master had been trapped in Torghast the whole time, while the Primus was furious that she and the hero had brought his sigil right to Zovaal's lair. Before they could argue further, the Jailer arrived with an army of Mawsworn. The Primus empowered the Maw Walker with the anima surging through the tower, and while they and Heirmir battled the lesser Mawsworn, the Primus and Zovaal fought by launching beams of energy at each other. As the battle progressed, the Jailer stunned Heirmir and the Maw Walker and summoned his vessel, [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"). The Primus reminded his brother that his sigil would be lost forever if he was struck down, but he wasn't expecting Anduin to be carrying a [mourneblade](https://wowpedia.fandom.com/wiki/Mourneblade "Mourneblade"), [Kingsmourne](https://wowpedia.fandom.com/wiki/Kingsmourne "Kingsmourne"). The Jailer and his champion launched a simultaneous attack to stun the Primus, allowing Anduin to use Kingsmourne to sever the sigil from the Primus' body and launch it into the Jailer's hand. Zovaal then teleported himself and his minions away,<sup id="cite_ref-Untangling_13-6"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Untangling-13">[13]</a></sup> allowing the Primus and his allies to leave the tower alive.
+
+Since there were still heroes who needed the skills of the Runecarver, the Primus left an echo of his former state in the oubliette before traveling to Korthia with Heirmir and the hero to inform the covenants of his return. In a conference with Bolvar and Tal-Galan at Keeper's Respite, he declared that the mortals had to face the Jailer in his seat of power, the [Sanctum of Domination](https://wowpedia.fandom.com/wiki/Sanctum_of_Domination "Sanctum of Domination"). As a contingency, each of the covenants also had to "remember its purpose" and "find its future" in order to forge new sigils, so that they could pursue Zovaal in case the assault failed. The Eternal One told the Maw Walker that they could dwell on past mistakes when the current events were over, and gave them a [token of gratitude](https://wowpedia.fandom.com/wiki/Memories_of_Sunless_Skies "Memories of Sunless Skies") for the help they'd given him while he was imprisoned.<sup id="cite_ref-The_Primus_Returns_40-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-The_Primus_Returns-40">[40]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/A_Traitor%27s_Due_-_Primus_and_Helya.jpg/revision/latest/scale-to-width-down/180?cb=20210714154332)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/A_Traitor%27s_Due_-_Primus_and_Helya.jpg/revision/latest?cb=20210714154332)
+
+The Primus and Helya in Helgarde Keep.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/62/Filling_an_Empty_Throne_-_Primus.jpg/revision/latest/scale-to-width-down/180?cb=20210714161653)](https://static.wikia.nocookie.net/wowpedia/images/6/62/Filling_an_Empty_Throne_-_Primus.jpg/revision/latest?cb=20210714161653)
+
+The Eternal One's return to the Seat of the Primus.
+
+In order to continue holding their position in Korthia, the covenants had to deal with the threat posed by two of the Jailer's minions in nearby [Desmotaeron](https://wowpedia.fandom.com/wiki/Desmotaeron "Desmotaeron"): [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya") and the Maldraxxi traitor [Vyraz](https://wowpedia.fandom.com/wiki/Vyraz "Vyraz"). The Primus sent the [Chosen](https://wowpedia.fandom.com/wiki/House_of_the_Chosen "House of the Chosen") baroness [Draka](https://wowpedia.fandom.com/wiki/Draka "Draka") (who had led the necrolords in his absence) with a Maw Walker and the [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") hero [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") to carry out a surprise attack and "cut the heads off these snakes".<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-42">[42]</a></sup> The trio summoned the [Zerekriss](https://wowpedia.fandom.com/wiki/Zerekriss "Zerekriss") and began a united covenant attack on Desmotaeron, with the Primus seemingly leading the assault from the necropolis<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-43">[43]</a></sup> while Draka, Thrall, and the Maw Walker confronted Helya and Vyraz in [Helgarde Keep](https://wowpedia.fandom.com/wiki/Helgarde_Keep "Helgarde Keep"). Helya empowered Vyraz with her magic, but the Primus teleported in and gave Draka his own blessing to match. While their champions fought, the Eternal One and the sea witch threw magic and insults at each other. Vyraz was killed, and the Primus proceeded to banish Helya<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-44">[44]</a></sup> back to [Helheim](https://wowpedia.fandom.com/wiki/Helheim "Helheim").<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-45">[45]</a></sup> After the battle, the Primus stated that he would reforge his sigil and entrust it to Draka until he had need of it.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-46">[46]</a></sup> He subsequently returned to his old Seat in Maldraxxus to reward Draka for her loyalty to the necrolords. He invited necrolord Maw Walkers to witness the ceremony in recognition of all that they, too, had done for the covenant.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-47">[47]</a></sup> In the Seat, he named Draka the new margrave of the House of the Chosen, signifying a first step toward rebuilding Maldraxxus' armies after the betrayals they'd suffered.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-48">[48]</a></sup>
+
+Back in Korthia, the covenant forces started facing problems with [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") infiltrators—servants of [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius") who had long been exiled from the Shadowlands. [Baroness Vashj](https://wowpedia.fandom.com/wiki/Baroness_Vashj "Baroness Vashj") of the [House of Eyes](https://wowpedia.fandom.com/wiki/House_of_Eyes "House of Eyes") reported this threat to the Primus, who commented that he should've suspected that the nathrezim would return but also that he was pleased that the House of Eyes had not "lost their sight" in his absence.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-49">[49]</a></sup> The Primus asked a Maw Walker to travel to [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth") and deliver a missive to [Prince Renathal](https://wowpedia.fandom.com/wiki/Prince_Renathal "Prince Renathal") informing him of the nathrezim's return and telling him that it was time to recruit [the Stonewright](https://wowpedia.fandom.com/wiki/The_Stonewright "The Stonewright")—the last of the still-neutral [venthyr](https://wowpedia.fandom.com/wiki/Venthyr "Venthyr") [Harvesters](https://wowpedia.fandom.com/wiki/Court_of_Harvesters "Court of Harvesters") and a major enemy of the nathrezim—so that [her medallion](https://wowpedia.fandom.com/wiki/Medallion_of_Wrath "Medallion of Wrath") could be used in the creation of a new venthyr sigil. He sent along a similar missive addressed directly to the Stonewright, curtly telling her that they needed her medallion and that the time for neutrality was over. The Primus sent Vashj to accompany the Maw Walker due to her experience with the nathrezim.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-50">[50]</a></sup><sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-51">[51]</a></sup> After a few twists and turns, the mission resulted in the creation of a new sigil and the Stonewright pledging her forces to the cause against the Jailer.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-52">[52]</a></sup>
+
+Maw Walkers later helped both the [night fae](https://wowpedia.fandom.com/wiki/Night_Fae_Covenant "Night Fae Covenant") and the [kyrian](https://wowpedia.fandom.com/wiki/Kyrian_Covenant "Kyrian Covenant") create new sigils by mending the relationship between the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen") and her sister [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-53">[53]</a></sup> and creating a new path for the kyrian where the virtue of Loyalty was replaced with Devotion, respectively.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-54">[54]</a></sup> They informed the Primus of both of these successes, and he in turn called on the covenants to deliver their sigils to Korthia.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-55">[55]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Covenants_Renewed.jpg/revision/latest/scale-to-width-down/180?cb=20210812200658)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Covenants_Renewed.jpg/revision/latest?cb=20210812200658)
+
+The covenants present their sigils to the Primus.
+
+The Maw Walkers and their allies attacked the Sanctum of Domination but failed to stop Zovaal: he enveloped [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos") in the Maw, claimed the final sigil from the Arbiter, and escaped through a portal to [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis"). Thrall and [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") returned to Keeper's Respite to tell the Primus what happened.<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-56">[56]</a></sup> He stated that while the Jailer had won the battle, he would not win the war. Covenant representatives arrived to Korthia and handed over their reforged sigils, which the Primus could use to create a key to follow Zovaal to his destination. First, though, he had to find something to replace the Arbiter's sigil. He commended Maw Walkers for their efforts but said that it was now time for his own work to begin and left through a death gate, telling the heroes that he'd call on them when the key was ready.<sup id="cite_ref-Covenants_Renewed_29-3"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Covenants_Renewed-29">[29]</a></sup>
+
+### Eternity's End
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Call_of_the_Primus.jpg/revision/latest/scale-to-width-down/180?cb=20220215182647)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Call_of_the_Primus.jpg/revision/latest?cb=20220215182647)
+
+The Primus' gathering in the Crucible.
+
+When the time came to pursue Zovaal, the Primus summoned a Maw Walker and several covenant representatives to the [Crucible](https://wowpedia.fandom.com/wiki/Crucible_(Oribos) "Crucible (Oribos)") atop Oribos. He worked with [Tal-Inara](https://wowpedia.fandom.com/wiki/Tal-Inara "Tal-Inara") and some of the other [attendants](https://wowpedia.fandom.com/wiki/Attendant "Attendant") to recreate the Arbiter's sigil and used it along with the covenant sigils to open a new gateway to Zereth Mortis.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-57">[57]</a></sup> Since the Primus and the other Eternal Ones were forbidden from returning to Zereth Mortis, the place of their creation, the Maw Walker would have to go alone and find a foothold so the covenants could follow them. [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos") of the kyrian asked to accompany the Maw Walker, which the Primus allowed. As the two prepared to take off, a [nathrezim infiltrator](https://wowpedia.fandom.com/wiki/Dreadlord_Infiltrator "Dreadlord Infiltrator") revealed herself and summoned [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") forces to attack the Crucible. The Primus lent his necrotic power to the Maw Walker so they could fight off the invaders, but in the end they and Pelagos only just managed to fly through the gate moments before the Mawsworn disabled it.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-58">[58]</a></sup> After defeating the nathrezim and cleansing the Maw magic from the gateway, the Primus moved it to the [Ring of Transference](https://wowpedia.fandom.com/wiki/Ring_of_Transference "Ring of Transference"). He trusted that the Maw Walker would find an anchor on the other side to reactivate it, which is also what later happened.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-59">[59]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/The_Crown_of_Wills_-_cutscene_4.jpg/revision/latest/scale-to-width-down/180?cb=20220311184111)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/The_Crown_of_Wills_-_cutscene_4.jpg/revision/latest?cb=20220311184111)
+
+The Primus with the newly-created Crown of Wills.
+
+In the Sepulcher of the First Ones, Maw Walkers and their allies helped free [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") from the Jailer's control, but before confronting Zovaal himself they needed to find a way to resist his [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination") magic. The Primus kept his earlier statement about not going to Zereth Mortis in person but sent a projection to the Geometric Cavern. He pointed out that Zereth Mortis' [automa](https://wowpedia.fandom.com/wiki/Automa "Automa") seemed to be resistant to Domination and that using the remnants of the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination") could help them uncover the reason.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-60">[60]</a></sup> He had a Maw Walker test the Helm's power first on a volunteering [Darion Mograine](https://wowpedia.fandom.com/wiki/Darion_Mograine "Darion Mograine")<sup id="cite_ref-Hello,_Darkness_31-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Hello,_Darkness-31">[31]</a></sup> and then on Zereth Mortis' wildlife<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-61">[61]</a></sup> before they sought out the [Enlightened](https://wowpedia.fandom.com/wiki/Enlightened "Enlightened") [Elder Eru](https://wowpedia.fandom.com/wiki/Elder_Eru "Elder Eru"), who explained that the automa were granted resistance to Domination by the language of the First Ones, indecipherable phrases of which lay buried in the Endless Sands. The Primus knew this language wouldn't be enough, however, and prepared to gather something more<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-62">[62]</a></sup> while the Maw Walker, Darion, Bolvar Fordragon, and [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon") headed to the Endless Sands<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-63">[63]</a></sup> to infuse the phrases into the intact half of the Helm. Shortly after, the Primus sent word telling the heroes to go to [Bastion](https://wowpedia.fandom.com/wiki/Bastion "Bastion") for a ritual<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-64">[64]</a></sup> to extract the memories of what had helped them resist Domination in the past and infuse those memories into the Helm shards.<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-65">[65]</a></sup><sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-66">[66]</a></sup> After this was done, the group brought the Helm pieces to the Primus back in the [Runecarver's Oubliette](https://wowpedia.fandom.com/wiki/Runecarver%27s_Oubliette "Runecarver's Oubliette"),<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-67">[67]</a></sup> where he used the First One phrases and the memories to reforge the Helm into something greater, an instrument of free will that would bring about Zovaal's defeat: the [Crown of Wills](https://wowpedia.fandom.com/wiki/Crown_of_Wills "Crown of Wills"). The Maw Walker used the Crown to make themselves and their allies resistant to Domination, after which the Primus took the Crown away for safekeeping until it was needed.<sup id="cite_ref-The_Crown_of_Wills_32-1"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-The_Crown_of_Wills-32">[32]</a></sup>
+
+As hoped, the resistance granted by the Crown allowed the Maw Walkers to defeat Zovaal at last. Afterward, the Crown ended up with Bolvar, who in turn delivered it to [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos"), the new [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter_(title) "Arbiter (title)"), in Oribos.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-68">[68]</a></sup> Through projections, the Primus and the other covenant leaders attended the trial of the Jailer's former ally [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") in the Crucible.<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-69">[69]</a></sup>
+
+## Regalia
+
+The Primus owns a set of powerful armor. It is said that when he disappeared, the armor pieces were scattered.<sup id="cite_ref-Bindings_70-0"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-Bindings-70">[70]</a></sup> Over the course of the [Necrolords Campaign](https://wowpedia.fandom.com/wiki/Necrolords_Campaign "Necrolords Campaign"), necrolord adventurers gradually obtain the different pieces and place them on the statue of the Primus within his Seat.
+
+The statue disappears during the Primus' return to the Seat in  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Filling an Empty Throne](https://wowpedia.fandom.com/wiki/Filling_an_Empty_Throne) and  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [The Roads We Walk](https://wowpedia.fandom.com/wiki/The_Roads_We_Walk), but it reappears after the quests.
+
+-   The Primus statue's different phases
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Primus_statue_-_stage_1.jpg/revision/latest/scale-to-width-down/260?cb=20201210161026)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Primus_statue_-_stage_1.jpg/revision/latest?cb=20201210161026)
+    
+    Initial appearance.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/24/Primus_statue_-_stage_2.jpg/revision/latest/scale-to-width-down/266?cb=20201227225031)](https://static.wikia.nocookie.net/wowpedia/images/2/24/Primus_statue_-_stage_2.jpg/revision/latest?cb=20201227225031)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Primus_statue_-_stage_3.jpg/revision/latest/scale-to-width-down/263?cb=20201227225136)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Primus_statue_-_stage_3.jpg/revision/latest?cb=20201227225136)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/13/Primus_statue_-_stage_4.png/revision/latest/scale-to-width-down/292?cb=20210425160125)](https://static.wikia.nocookie.net/wowpedia/images/1/13/Primus_statue_-_stage_4.png/revision/latest?cb=20210425160125)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Primus_statue_-_stage_5.png/revision/latest/scale-to-width-down/411?cb=20210430181702)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Primus_statue_-_stage_5.png/revision/latest?cb=20210430181702)
+    
+
+## Quests
+
+_For quests involving the Runecarver, see [Runecarver#Quests](https://wowpedia.fandom.com/wiki/Runecarver#Quests "Runecarver")._
+
+## Quotes
+
+_For quotes spoken as the Runecarver, see [Runecarver#Quotes](https://wowpedia.fandom.com/wiki/Runecarver#Quotes "Runecarver")._
+
+### Dialogue
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Voice_of_the_Primus.jpg/revision/latest/scale-to-width-down/180?cb=20210424154923)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Voice_of_the_Primus.jpg/revision/latest?cb=20210424154923)
+
+The Voice of the Primus during [Through the Fire and Flames](https://wowpedia.fandom.com/wiki/Through_the_Fire_and_Flames "Through the Fire and Flames").
+
+Maldraxxus storyline
+
+_Main article: [Through the Fire and Flames#Notes](https://wowpedia.fandom.com/wiki/Through_the_Fire_and_Flames#Notes "Through the Fire and Flames")_
+
+_Main article: [The Blade of the Primus#Notes](https://wowpedia.fandom.com/wiki/The_Blade_of_the_Primus#Notes "The Blade of the Primus")_
+
+_Main article: [Straight to the Heart#Notes](https://wowpedia.fandom.com/wiki/Straight_to_the_Heart#Notes "Straight to the Heart")_
+
+_Main article: [In The Flesh#Notes](https://wowpedia.fandom.com/wiki/In_The_Flesh#Notes "In The Flesh")_
+
+_Main article: [Fit For a Margrave#Notes](https://wowpedia.fandom.com/wiki/Fit_For_a_Margrave#Notes "Fit For a Margrave")_
+
+_Main article: [In Death We Are Truly Tested#Notes](https://wowpedia.fandom.com/wiki/In_Death_We_Are_Truly_Tested#Notes "In Death We Are Truly Tested")_
+
+_Main article: [The Door to the Unknown#Notes](https://wowpedia.fandom.com/wiki/The_Door_to_the_Unknown#Notes "The Door to the Unknown")_
+
+Necrolords Campaign
+
+_Main article: [Power of the Primus#Notes](https://wowpedia.fandom.com/wiki/Power_of_the_Primus#Notes "Power of the Primus")_
+
+_Main article: [Bindings of Fleshcrafting (quest)#Notes](https://wowpedia.fandom.com/wiki/Bindings_of_Fleshcrafting_(quest)#Notes "Bindings of Fleshcrafting (quest)")_
+
+_Main article: [Pride of Place#Notes](https://wowpedia.fandom.com/wiki/Pride_of_Place#Notes "Pride of Place")_
+
+_Main article: [Pauldrons of Imperium (quest)#Notes](https://wowpedia.fandom.com/wiki/Pauldrons_of_Imperium_(quest)#Notes "Pauldrons of Imperium (quest)")_
+
+_Main article: [Staff of the Primus (quest)#Notes](https://wowpedia.fandom.com/wiki/Staff_of_the_Primus_(quest)#Notes "Staff of the Primus (quest)")_
+
+Chains of Domination campaign
+
+_Main article: [Secrets of the Vault#Notes](https://wowpedia.fandom.com/wiki/Secrets_of_the_Vault#Notes "Secrets of the Vault")_
+
+_Main article: [Lost Records#Notes](https://wowpedia.fandom.com/wiki/Lost_Records#Notes "Lost Records")_
+
+_Main article: [Into the Vault#Notes](https://wowpedia.fandom.com/wiki/Into_the_Vault#Notes "Into the Vault")_
+
+_Main article: [Untangling the Sigil#Notes](https://wowpedia.fandom.com/wiki/Untangling_the_Sigil#Notes "Untangling the Sigil")_
+
+_Main article: [The Primus Returns#Notes](https://wowpedia.fandom.com/wiki/The_Primus_Returns#Notes "The Primus Returns")_
+
+_Main article: [A Job Done Right#Notes](https://wowpedia.fandom.com/wiki/A_Job_Done_Right#Notes "A Job Done Right")_
+
+_Main article: [A Traitor's Due#Notes](https://wowpedia.fandom.com/wiki/A_Traitor%27s_Due#Notes "A Traitor's Due")_
+
+_Main article: [Victory in Our Name#Notes](https://wowpedia.fandom.com/wiki/Victory_in_Our_Name#Notes "Victory in Our Name")_
+
+_Main article: [The Roads We Walk#Notes](https://wowpedia.fandom.com/wiki/The_Roads_We_Walk#Notes "The Roads We Walk")_
+
+_Main article: [Inform the Primus#Notes](https://wowpedia.fandom.com/wiki/Inform_the_Primus#Notes "Inform the Primus")_
+
+_Main article: [The Meaning of Wrath#Notes](https://wowpedia.fandom.com/wiki/The_Meaning_of_Wrath#Notes "The Meaning of Wrath")_
+
+_Main article: [Inform the Primus#Notes](https://wowpedia.fandom.com/wiki/Inform_the_Primus#Notes "Inform the Primus")_
+
+_Main article: [New Sigil of the Kyrian#Notes](https://wowpedia.fandom.com/wiki/New_Sigil_of_the_Kyrian#Notes "New Sigil of the Kyrian")_
+
+_Main article: [Doorway in the Dark#Notes](https://wowpedia.fandom.com/wiki/Doorway_in_the_Dark#Notes "Doorway in the Dark")_
+
+_Main article: [Covenants Renewed#Notes](https://wowpedia.fandom.com/wiki/Covenants_Renewed#Notes "Covenants Renewed")_
+
+Zereth Mortis campaign
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Primus_in_Zereth_Mortis.jpg/revision/latest/scale-to-width-down/180?cb=20220306125516)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Primus_in_Zereth_Mortis.jpg/revision/latest?cb=20220306125516)
+
+The Primus' projection in the Geometric Cavern.
+
+_Main article: [Call of the Primus#Notes](https://wowpedia.fandom.com/wiki/Call_of_the_Primus#Notes "Call of the Primus")_
+
+_Main article: [A Hasty Voyage#Notes](https://wowpedia.fandom.com/wiki/A_Hasty_Voyage#Notes "A Hasty Voyage")_
+
+_Main article: [Our Last Option#Notes](https://wowpedia.fandom.com/wiki/Our_Last_Option#Notes "Our Last Option")_
+
+_Main article: [One Half of the Equation#Notes](https://wowpedia.fandom.com/wiki/One_Half_of_the_Equation#Notes "One Half of the Equation")_
+
+### On-click
+
+Greeting
+
+-   The hour of battle is upon us.
+-   War is at hand.
+-   Our enemy is relentless.
+-   Ah, the [Maw Walker](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker").
+-   Fate has drawn you here.
+-   Speak, mortal.
+
+Farewell
+
+-   You must not falter.
+-   The covenants must stand as one.
+-   If we fail, all will be undone.
+-   Do not forsake your duty.
+-   Together we will claim victory.
+-   We fight to save the Shadowlands.
+
+### Gossip
+
+Keeper's Respite
+
+Only united can the covenants stand against Zovaal.
+
+Seat of the Primus after  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [The Roads We Walk](https://wowpedia.fandom.com/wiki/The_Roads_We_Walk)
+
+It has been long since I've seen the living expanse of Maldraxxus. While the denizens are prone to chaos, the land has stayed the same.
+
+The Crucible during  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Hasty Voyage](https://wowpedia.fandom.com/wiki/A_Hasty_Voyage)
+
+We must stop Zovaal's madness. Everything depends upon it.
+
+Geometric Cavern during [The Crown of Wills](https://wowpedia.fandom.com/wiki/Zereth_Mortis_campaign#The_Crown_of_Wills "Zereth Mortis campaign")
+
+Domination was never meant to cause the devastation that Zovaal has wrought. We suffer the price of my hubris.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Tell me about Domination.
+
+Domination is akin to communication, a language, if you will.
+
+One so powerful that it interferes with a creature's very understanding of itself. This is why it is almost impossible to resist.
+
+If we can disrupt that interference long enough, we may find a way to thwart it.
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Primus_concept.jpg/revision/latest/scale-to-width-down/180?cb=20220520115215)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Primus_concept.jpg/revision/latest?cb=20220520115215)
+
+Concept art of the Primus.
+
+-   The Primus is voiced by [Abraham Benrubi](https://wowpedia.fandom.com/wiki/Abraham_Benrubi "Abraham Benrubi").
+-   [The Stonewright](https://wowpedia.fandom.com/wiki/The_Stonewright "The Stonewright") calls the Primus an "old tyrant".<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-74">[74]</a></sup>
+-   The Primus' statue and the Runecarver's concept art only show four fingers on each hand, but both the Runecarver and the Primus' in-game models have five fingers on each hand.
+-   The Primus' appearance resembles the [necromancer](https://wowpedia.fandom.com/wiki/Necromancer_(Warcraft_III) "Necromancer (Warcraft III)") unit in _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, only instead of wearing a horned skull on his head, the horns are sprouting from his own skull. His plating was designed to look like a predecessor to the aesthetic of [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination") magic.<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Primus#cite_note-75">[75]</a></sup>
+-   Some aspects of the Primus' character has similarities to imperial Roman, Catholic, and Norse myth themes:
+    -   The Primus' visage is depicted on the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Inv_misc_coin_19.png/revision/latest/scale-to-width-down/16?cb=20080911133214)[\[Antiquated Verdigris Coin\]](https://wowpedia.fandom.com/wiki/Antiquated_Verdigris_Coin), a practice used since antiquity in [coins](http://en.wikipedia.org/wiki/coin "wikipedia:coin") to depict the rulers of the moment they were minted.
+    -   Primus translates through latin to 'First'. As a designation, [Primus inter pares](http://en.wikipedia.org/wiki/Primus_inter_pares "wikipedia:Primus inter pares") (first amongst equals), was an honorary title that was acknowledged to those whose positions hold no increased power over their peers, though were given acknowledgement of notoriety or leadership typically based on their actions or seniority. This can be partially observed by the Primus effectively leading the charge of the Eternal Ones, whose powers would be equal to him, though he is given foremost leadership due to his strategic mind.
+    -   In Spanish, he is referred to as _El Prelado_ ("The Prelate"), and the Seat of the Primus is translated as _Trono del Prelado_ ("Throne of the Prelate").
+    -   The armor worn on his right arm resembles a [manica](http://en.wikipedia.org/wiki/manica_(armguard) "wikipedia:manica (armguard)"), an armguard used by Roman gladiators, and his mantle resembles a [stole](http://en.wikipedia.org/wiki/Stole_(vestment) "wikipedia:Stole (vestment)").
+    -   As the inventor of both Maldraxxi necromantic runes and Domination runes, this may be borrowing from how [Odin](http://en.wikipedia.org/wiki/Odin "wikipedia:Odin") invented [runes](http://en.wikipedia.org/wiki/runes "wikipedia:runes") and [runic magic](http://en.wikipedia.org/wiki/runic_magic "wikipedia:runic magic"). One of [Odin's titles](http://en.wikipedia.org/wiki/List_of_names_of_Odin "wikipedia:List of names of Odin") is "Lord of the undead", and Maldraxxus is the birthplace of necromancy.
+    -   While more elements of _Warhammer_ Tomb Kings can be seen in the Maldraxxi forces and Maldraxxus at large, some superficial similarities exist between [Nagash](https://warhammerfantasy.fandom.com/wiki/Nagash) and the Primus.
+
+## Patch changes
+
+-   [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **[Patch 9.1.0](https://wowpedia.fandom.com/wiki/Patch_9.1.0 "Patch 9.1.0") (2021-06-29):** Added.  
+    
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-Staff_1-0)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Staff of the Primus](https://wowpedia.fandom.com/wiki/Staff_of_the_Primus_(quest))
+2.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-Polygon_2-0) Cass Marshall 2020-09-24. [World of Warcraft’s Maldraxxus is the grittiest zone in the Shadowlands](https://web.archive.org/web/20200924153239/https://www.polygon.com/2020/9/24/21452645/world-of-warcraft-maldraxxus-zone-preview-shadowlands-lore). Polygon. Archived from [the original](https://www.polygon.com/2020/9/24/21452645/world-of-warcraft-maldraxxus-zone-preview-shadowlands-lore) on 2020-09-24.
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Grimoire_116_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Grimoire_116_3-1">b</a></sup> _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 116
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Maldraxxus_preview_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Maldraxxus_preview_4-1">b</a></sup> [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") 2020-06-11. [Shadowlands Preview: Maldraxxus and the Necrolord Covenant](https://web.archive.org/web/20200611171735/https://worldofwarcraft.com/en-us/news/23451089/shadowlands-preview-maldraxxus-and-the-necrolord-covenant). Archived from [the original](https://worldofwarcraft.com/en-us/news/23451089/) on 2020-06-11.
+5.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-5)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [The Path to Glory](https://wowpedia.fandom.com/wiki/The_Path_to_Glory)
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Meet_the_Margrave_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Meet_the_Margrave_6-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [Meet the Margrave](https://wowpedia.fandom.com/wiki/Meet_the_Margrave)
+7.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-7)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Welcome To Our House](https://wowpedia.fandom.com/wiki/Welcome_To_Our_House): **Baroness Draka yells:** Though the Primus has long been absent from these halls, the Maw Walker embodies the virtues he instilled in the five houses.
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-The_Seat_of_the_Primus_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-The_Seat_of_the_Primus_8-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [The Seat of the Primus](https://wowpedia.fandom.com/wiki/The_Seat_of_the_Primus)
+9.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-9) _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 127
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Grimoire_118_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Grimoire_118_10-1">b</a></sup> _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 118
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Grimoire_120_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Grimoire_120_11-1">b</a></sup> _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 120 - 121
+12.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-12)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Power of the Primus](https://wowpedia.fandom.com/wiki/Power_of_the_Primus)
+13.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Untangling_13-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Untangling_13-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Untangling_13-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Untangling_13-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Untangling_13-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Untangling_13-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Untangling_13-6">g</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Untangling the Sigil](https://wowpedia.fandom.com/wiki/Untangling_the_Sigil)
+14.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-14) [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). [Necrolord - Covenants - Shadowlands](https://worldofwarcraft.com/en-us/shadowlands/covenant/necrolords). Retrieved on 2020-06-11.
+15.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-15)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Oracle, Heal Thyself](https://wowpedia.fandom.com/wiki/Oracle,_Heal_Thyself)
+16.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-16) [Prototype Pantheon#Adventure Guide](https://wowpedia.fandom.com/wiki/Prototype_Pantheon#Adventure_Guide "Prototype Pantheon")
+17.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-17) _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 112 - 115
+18.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-SA_Gamer_18-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-SA_Gamer_18-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-SA_Gamer_18-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-SA_Gamer_18-3">d</a></sup> Garth Holden 2020-09-24. [A deep dive into Maldraxxus, the defenders of Death](https://web.archive.org/web/20200924191925/https://sagamer.co.za/2020/09/24/a-deep-dive-into-maldraxxus-the-defenders-of-death/). SA Gamer. Archived from [the original](https://sagamer.co.za/2020/09/24/a-deep-dive-into-maldraxxus-the-defenders-of-death/) on 2020-09-24.
+19.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-19)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [Land of Opportunity](https://wowpedia.fandom.com/wiki/Land_of_Opportunity)
+20.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-20)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50-60WQ\] [Battles Won Long Ago](https://wowpedia.fandom.com/wiki/Battles_Won_Long_Ago_(Iron_Trench))
+21.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-21)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50-60WQ\] [Battles Won Long Ago](https://wowpedia.fandom.com/wiki/Battles_Won_Long_Ago_(Burning_Thicket))
+22.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-22)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60W\] [The Two Sides of History](https://wowpedia.fandom.com/wiki/The_Two_Sides_of_History)
+23.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [Forging a Champion](https://wowpedia.fandom.com/wiki/Forging_a_Champion)
+24.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Powering the Portals](https://wowpedia.fandom.com/wiki/Powering_the_Portals)
+25.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Search_the_Place_25-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Search_the_Place_25-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Search the Place](https://wowpedia.fandom.com/wiki/Search_the_Place)
+26.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-26)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [Read Between the Lines](https://wowpedia.fandom.com/wiki/Read_Between_the_Lines)
+27.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-27)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [Secrets Among the Shelves](https://wowpedia.fandom.com/wiki/Secrets_Among_the_Shelves)
+28.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Voices_of_the_Eternal_28-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Voices_of_the_Eternal_28-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Voices of the Eternal](https://wowpedia.fandom.com/wiki/Voices_of_the_Eternal)
+29.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Covenants_Renewed_29-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Covenants_Renewed_29-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Covenants_Renewed_29-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Covenants_Renewed_29-3">d</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Covenants Renewed](https://wowpedia.fandom.com/wiki/Covenants_Renewed)
+30.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Door_30-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Door_30-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Door_30-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Door_30-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Door_30-4">e</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [The Door to the Unknown](https://wowpedia.fandom.com/wiki/The_Door_to_the_Unknown)
+31.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Hello,_Darkness_31-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Hello,_Darkness_31-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Hello, Darkness](https://wowpedia.fandom.com/wiki/Hello,_Darkness)
+32.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-The_Crown_of_Wills_32-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-The_Crown_of_Wills_32-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Crown of Wills](https://wowpedia.fandom.com/wiki/The_Crown_of_Wills)
+33.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Deep_Within_33-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Deep_Within_33-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Deep Within](https://wowpedia.fandom.com/wiki/Deep_Within)
+34.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-34)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [Through the Fire and Flames](https://wowpedia.fandom.com/wiki/Through_the_Fire_and_Flames)
+35.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Secrets_of_the_Vault_35-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Secrets_of_the_Vault_35-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Secrets of the Vault](https://wowpedia.fandom.com/wiki/Secrets_of_the_Vault)
+36.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-36)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Lost Records](https://wowpedia.fandom.com/wiki/Lost_Records)
+37.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Into_the_Vault_37-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Into_the_Vault_37-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Into the Vault](https://wowpedia.fandom.com/wiki/Into_the_Vault)
+38.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-38)  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Ability_kaztik_dominatemind.png/revision/latest/scale-to-width-down/16?cb=20130811234210)[\[Clearing the Fog\]](https://wowpedia.fandom.com/wiki/Clearing_the_Fog_(achievement))
+39.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-39) [Sanctum of Domination preview: Spoils of the Sanctum](https://wowpedia.fandom.com/wiki/WoW_Blog/Sanctum_of_Domination#Spoils_of_the_Sanctum "WoW Blog/Sanctum of Domination")
+40.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-The_Primus_Returns_40-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-The_Primus_Returns_40-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Primus Returns](https://wowpedia.fandom.com/wiki/The_Primus_Returns)
+41.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-41)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Prison of the Forgotten](https://wowpedia.fandom.com/wiki/Prison_of_the_Forgotten)
+42.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-42)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Chains of Command](https://wowpedia.fandom.com/wiki/The_Chains_of_Command)
+43.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-43)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Job Done Right](https://wowpedia.fandom.com/wiki/A_Job_Done_Right)
+44.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-44)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Traitor's Due](https://wowpedia.fandom.com/wiki/A_Traitor%27s_Due)
+45.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-45) [Lore Book: An Army of Bone and Steel](https://wowpedia.fandom.com/wiki/Lore_Book_(Shadowlands)#An_Army_of_Bone_and_Steel "Lore Book (Shadowlands)")
+46.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-46)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Victory in Our Name](https://wowpedia.fandom.com/wiki/Victory_in_Our_Name)
+47.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-47)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Filling an Empty Throne](https://wowpedia.fandom.com/wiki/Filling_an_Empty_Throne)
+48.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-48)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [The Roads We Walk](https://wowpedia.fandom.com/wiki/The_Roads_We_Walk)
+49.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-49)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Dreadlords!](https://wowpedia.fandom.com/wiki/Dreadlords!)
+50.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-50)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Dread Tidings](https://wowpedia.fandom.com/wiki/Dread_Tidings)
+51.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-51)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/24/Inv_letter_16.png/revision/latest/scale-to-width-down/16?cb=20060831173859)[\[The Unseen Guests Among Us\]](https://wowpedia.fandom.com/wiki/The_Unseen_Guests_Among_Us)
+52.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-52)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Meaning of Wrath](https://wowpedia.fandom.com/wiki/The_Meaning_of_Wrath)
+53.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-53)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Winter's Sigil](https://wowpedia.fandom.com/wiki/Winter%27s_Sigil)
+54.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-54)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The New Path](https://wowpedia.fandom.com/wiki/The_New_Path)
+55.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-55)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [New Sigil of the Kyrian](https://wowpedia.fandom.com/wiki/New_Sigil_of_the_Kyrian)
+56.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-56)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Doorway in the Dark](https://wowpedia.fandom.com/wiki/Doorway_in_the_Dark)
+57.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-57)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Call of the Primus](https://wowpedia.fandom.com/wiki/Call_of_the_Primus)
+58.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-58)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Hasty Voyage](https://wowpedia.fandom.com/wiki/A_Hasty_Voyage)
+59.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-59)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [This Old Waystone](https://wowpedia.fandom.com/wiki/This_Old_Waystone)
+60.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-60)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Our Last Option](https://wowpedia.fandom.com/wiki/Our_Last_Option)
+61.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-61)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Testing One Two](https://wowpedia.fandom.com/wiki/Testing_One_Two)
+62.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-62)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Two Paths to Tread](https://wowpedia.fandom.com/wiki/Two_Paths_to_Tread)
+63.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-63)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [One Half of the Equation](https://wowpedia.fandom.com/wiki/One_Half_of_the_Equation)
+64.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-64)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Aggressive Excavation](https://wowpedia.fandom.com/wiki/Aggressive_Excavation),  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Oppress and Destroy](https://wowpedia.fandom.com/wiki/Oppress_and_Destroy)
+65.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-65)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Where the Memory Resides](https://wowpedia.fandom.com/wiki/Where_the_Memory_Resides)
+66.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-66)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [What We Wish to Forget](https://wowpedia.fandom.com/wiki/What_We_Wish_to_Forget)
+67.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-67)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Forge of Domination](https://wowpedia.fandom.com/wiki/Forge_of_Domination_(quest))
+68.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-68)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Prisoner of Interest](https://wowpedia.fandom.com/wiki/Prisoner_of_Interest)
+69.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-69)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Long Walk](https://wowpedia.fandom.com/wiki/A_Long_Walk)
+70.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Bindings_70-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Primus#cite_ref-Bindings_70-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Bindings of Fleshcrafting](https://wowpedia.fandom.com/wiki/Bindings_of_Fleshcrafting_(quest))
+71.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-71)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [The Mantle Returned](https://wowpedia.fandom.com/wiki/The_Mantle_Returned)
+72.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-72)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [Pauldrons of Imperium](https://wowpedia.fandom.com/wiki/Pauldrons_of_Imperium_(quest))
+73.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-73)  ![N](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Necrolord_15.png/revision/latest?cb=20210312060933) \[60\] [The Third Fall of Kel'Thuzad](https://wowpedia.fandom.com/wiki/The_Third_Fall_of_Kel%27Thuzad)
+74.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-74)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Convoy of the Covenants](https://wowpedia.fandom.com/wiki/Convoy_of_the_Covenants)
+75.  [^](https://wowpedia.fandom.com/wiki/Primus#cite_ref-75) [Matthew McKeown](https://wowpedia.fandom.com/wiki/Matthew_McKeown "Matthew McKeown") 2022-05-20. [World of Warcraft - The Primus](https://www.artstation.com/artwork/DABJDo). ArtStation. Retrieved on 2022-05-20. “_Concept art of The Primus, Ruler of Maldraxxus, in World of Warcraft: Shadowlands. The idea was that his plating was a predecessor to the Domination aesthetic, with a finger that etches runes of power. He later becomes The Runecarver where he has forgotten his memories and is enslaved into etching Domination runes into armor in The Maw._”
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Primus#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Primus#t1:npcs)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+
+-   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
+-   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
+-   [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne")
+-   [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos")<sup>3rd Arbiter</sup>
+-   **Primus**
+-   [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")
+-   [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")<sup>1st Arbiter</sup>
+
+
+
+ |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+
+-   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
+-   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
+-   [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane")
+-   [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana")
+-   [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+-   [Ela'lothen](https://wowpedia.fandom.com/wiki/Ela%27lothen "Ela'lothen")
+-   [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn")
+-   [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne")
+-   [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Nemesis](https://wowpedia.fandom.com/wiki/Nemesis "Nemesis")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Ohn'ahra](https://wowpedia.fandom.com/wiki/Ohn%27ahra "Ohn'ahra")
+-   [Omen](https://wowpedia.fandom.com/wiki/Omen "Omen")
+-   [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla")
+-   [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc")
+-   [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol")
+-   [Wolverine guardian](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+-   [Reptilian warrior](https://wowpedia.fandom.com/wiki/Reptilian_warrior "Reptilian warrior")
+-   [Squat warrior ancient](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   [Fox ancient](https://wowpedia.fandom.com/wiki/Fox#Notes "Fox")
+-   [Winged panther ancient](https://wowpedia.fandom.com/wiki/Panther "Panther")
+
+
+
+ |
+|  |
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+
+-   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
+-   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
+-   [Akil'zon](https://wowpedia.fandom.com/wiki/Akil%27zon "Akil'zon")
+-   [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda")
+-   [Bethekk](https://wowpedia.fandom.com/wiki/Bethekk "Bethekk")
+-   [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi")
+-   [Dambala](https://wowpedia.fandom.com/wiki/Dambala "Dambala")
+-   [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk")
+-   [Gral](https://wowpedia.fandom.com/wiki/Gral "Gral")
+-   [Grimath](https://wowpedia.fandom.com/wiki/Grimath "Grimath")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer")
+-   [Halazzi](https://wowpedia.fandom.com/wiki/Halazzi "Halazzi")
+-   [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa")
+-   [Hethiss](https://wowpedia.fandom.com/wiki/Hethiss "Hethiss")
+-   [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek")
+-   [Jan'alai](https://wowpedia.fandom.com/wiki/Jan%27alai "Jan'alai")
+-   [Jani](https://wowpedia.fandom.com/wiki/Jani "Jani")
+-   [Kimbul](https://wowpedia.fandom.com/wiki/Kimbul "Kimbul")
+-   [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa_the_Huge "Krag'wa the Huge")
+-   [Lakali](https://wowpedia.fandom.com/wiki/Lakali "Lakali")
+-   [Lukou](https://wowpedia.fandom.com/wiki/Lukou "Lukou")
+-   [Mam'toth](https://wowpedia.fandom.com/wiki/Mam%27toth "Mam'toth")
+-   [Mueh'zala](https://wowpedia.fandom.com/wiki/Mueh%27zala "Mueh'zala")
+-   [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk")
+-   [Pa'ku](https://wowpedia.fandom.com/wiki/Pa%27ku "Pa'ku")
+-   [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan")
+-   [Rhunok](https://wowpedia.fandom.com/wiki/Rhunok "Rhunok")
+-   [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun")
+-   [Samedi](https://wowpedia.fandom.com/wiki/Samedi "Samedi")
+-   [Sethraliss](https://wowpedia.fandom.com/wiki/Sethraliss "Sethraliss")
+-   [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra")
+-   [Shango](https://wowpedia.fandom.com/wiki/Shango "Shango")
+-   [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah")
+-   [Sseratus](https://wowpedia.fandom.com/wiki/Sseratus "Sseratus")
+-   [Torga](https://wowpedia.fandom.com/wiki/Torga "Torga")
+-   [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja")
+-   [Torcali](https://wowpedia.fandom.com/wiki/Torcali "Torcali")
+-   [Xibala](https://wowpedia.fandom.com/wiki/Xibala_(devilsaur) "Xibala (devilsaur)")
+-   [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless")
+
+
+
+ |
+|  |
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
+-   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
+-   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
+-   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
+-   [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan")<sup>2nd, air</sup>
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
+-   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
+    -   [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu")
+    -   [Ka'alu](https://wowpedia.fandom.com/wiki/Ka%27alu "Ka'alu")
+    -   [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar")<sup><a href="https://wowpedia.fandom.com/wiki/Rukhmar_(alternate_universe)" title="Rukhmar (alternate universe)">alternate</a></sup>
+    -   [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe")<sup><a href="https://wowpedia.fandom.com/wiki/Sethe_(alternate_universe)" title="Sethe (alternate universe)">alternate</a></sup>
+    -   [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk")
+-   [Arkkoroc](https://wowpedia.fandom.com/wiki/Lord_Arkkoroc "Lord Arkkoroc")
+-   [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")
+    -   [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji")
+    -   [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao")
+    -   [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")
+    -   [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon")
+-   [Drakkari gods](https://wowpedia.fandom.com/wiki/Drakkari_tribe#Faith "Drakkari tribe")
+    -   [Dubra'Jin](https://wowpedia.fandom.com/wiki/Dubra%27Jin_(god) "Dubra'Jin (god)")
+    -   [Zim'Abwa](https://wowpedia.fandom.com/wiki/Zim%27Abwa_(god) "Zim'Abwa (god)")
+    -   [Zim'Rhuk](https://wowpedia.fandom.com/wiki/Zim%27Rhuk_(god) "Zim'Rhuk (god)")
+    -   [Zim'Torga](https://wowpedia.fandom.com/wiki/Zim%27Torga_(goddess) "Zim'Torga (goddess)")
+-   [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")
+-   [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones")
+-   [Gahz'rilla](https://wowpedia.fandom.com/wiki/Gahz%27rilla "Gahz'rilla")
+-   [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros")
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Mazu](https://wowpedia.fandom.com/wiki/Mazu "Mazu")
+-   [Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak")
+-   [Nhal'athoth](https://wowpedia.fandom.com/wiki/Nhal%27athoth "Nhal'athoth")
+-   [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos")
+-   [Primordial Aspects](https://wowpedia.fandom.com/wiki/Primordial_Aspects "Primordial Aspects")
+    -   [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur")
+-   [Tauren gods](https://wowpedia.fandom.com/wiki/Tauren#Faith "Tauren")
+    -   [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")
+    -   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+    -   [Lo'sho](https://wowpedia.fandom.com/wiki/Lo%27sho "Lo'sho")
+    -   [Mu'sha](https://wowpedia.fandom.com/wiki/Elune "Elune")
+    -   [Sky Father](https://wowpedia.fandom.com/wiki/Sky_Father "Sky Father")
+-   [Tuskarr gods](https://wowpedia.fandom.com/wiki/Tuskarr#Faith "Tuskarr")
+    -   [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk")
+    -   [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut")
+    -   [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa")
+    -   [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka")
+-   [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")
+    -   [Dimensius](https://wowpedia.fandom.com/wiki/Dimensius "Dimensius")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+    -   [Aliothe](https://wowpedia.fandom.com/wiki/Aliothe "Aliothe")
+    -   Falir
+    -   Lia
+    -   [Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard")
+    -   Ohm
+-   [Volcanoth](https://wowpedia.fandom.com/wiki/Volcanoth "Volcanoth")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+-   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
+-   [One in the Deeps](https://wowpedia.fandom.com/wiki/One_in_the_Deeps "One in the Deeps")
+-   [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa#In_the_RPG "Loa") ([Legba](https://wowpedia.fandom.com/wiki/Legba "Legba")
+-   [Ogoun](https://wowpedia.fandom.com/wiki/Ogoun "Ogoun"))
+
+
+
+ |
+|  |
+| 
+
+-   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life"))
+-   [Religion](https://wowpedia.fandom.com/wiki/Religion "Religion")
+-   [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")
+-   [God](https://wowpedia.fandom.com/wiki/God "God")
+-   [Demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod")
+-   [Wild God](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+
+
+
+ |

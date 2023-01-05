@@ -1,0 +1,457 @@
+_For the_ [The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne") _faction, see [Faceless Ones (Warcraft III)](https://wowpedia.fandom.com/wiki/Faceless_Ones_(Warcraft_III) "Faceless Ones (Warcraft III)")._
+
+| N'raqi  
+The faceless ones |
+| --- |
+| [![Faceless concept.jpg](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Faceless_concept.jpg/revision/latest/scale-to-width-down/300?cb=20180911210418)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Faceless_concept.jpg/revision/latest?cb=20180911210418) |
+| Faction/Affiliation | [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces") ([Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")) |
+| Racial leader(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/IconSmall_Y%27Shaarj.gif/revision/latest/scale-to-width-down/16?cb=20210410191207)[Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")<sup id="cite_ref-Chronicle29_1-0"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-Chronicle29-1">[1]</a></sup> <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Yogg-Saron.gif/revision/latest/scale-to-width-down/16?cb=20210410185326)[Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/9/95/IconSmall_N%27Zoth.gif/revision/latest/scale-to-width-down/16?cb=20210410181855)[N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") <sup>&nbsp;†</sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_OldGod.gif/revision/latest/scale-to-width-down/16?cb=20221014224415)[C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-2">[2]</a></sup>  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/0/00/IconSmall_G%27huun.gif/revision/latest/scale-to-width-down/16?cb=20211209172412)[G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun") <sup>&nbsp;†</sup> |
+| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"); [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha") |
+| Language(s) | [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar") (presumed) |
+
+The **n'raqi**, commonly known as the **faceless ones** or **the faceless**,<sup id="cite_ref-ProofOfDemise_3-0"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-ProofOfDemise-3">[3]</a></sup> are a monstrous [race](https://wowpedia.fandom.com/wiki/Race "Race") that arose from the organic matter that seeped from the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")' blighted forms during the primordial era of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").<sup id="cite_ref-Chronicle29_1-1"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-Chronicle29-1">[1]</a></sup> Cunning and intelligent, they serve their eldritch masters with fanatical loyalty and are known to be virtually unstoppable juggernauts.<sup id="cite_ref-Whispers_4-0"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-Whispers-4">[4]</a></sup> During times of war, the n'raqi serve as the commanders and taskmasters of [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces"), turning the insane worshipers and chaotic forces into a capable military force.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-5">[5]</a></sup>
+
+The faceless ones were first seen serving a [forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one") in the depths of [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub") during the events of _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_. They made their first appearance in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ with the second expansion, _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_, and have since become one of the most common sightings in areas influenced by the Old Gods.
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/31/CThunPreHistory.jpg/revision/latest/scale-to-width-down/250?cb=20210405012216)](https://static.wikia.nocookie.net/wowpedia/images/3/31/CThunPreHistory.jpg/revision/latest?cb=20210405012216)
+
+The faceless ones commanding the [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir") under the rule of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire").
+
+When the Old Gods first embedded themselves into [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), they spread their corruptive influence across the landscape. Two distinct races arose from the organic matter seeping from the Old Gods' blighted forms: the n'raqi and the [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir"). As the physical manifestations of the Old Gods' will, both served their masters with fanatical loyalty. The n'raqi acted as ruthless taskmasters, employing the aqir as laborers to erect towering citadels and temple cities around their masters' colossal bulks. The greatest of these bastions were built around the Old God [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj"). This burgeoning civilization was located near the center of Azeroth's largest continent. As the holdings of Y'Shaarj and the other Old Gods spread across the world, it became known as the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire").<sup id="cite_ref-Chronicle29_1-2"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-Chronicle29-1">[1]</a></sup> Countless eons ago, the n'raqi waged endless wars against each other as part of the forces of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-6">[6]</a></sup>
+
+When the Old Gods were sealed below the earth by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged"), many of the n'raqi were imprisoned alongside them.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-7">[7]</a></sup>
+
+### Reawakening in Northrend
+
+Amid the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")'s [invasion](https://wowpedia.fandom.com/wiki/War_of_the_Spider "War of the Spider") of [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"), many of the kingdom's denizens tunneled underground to escape the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s minions. Yet some of them dug too deep, exposing the tendrils of [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-8">[8]</a></sup> Rousing its awareness, the Old God sent his n'raqi under the leadership of [Herald Volazj](https://wowpedia.fandom.com/wiki/Herald_Volazj "Herald Volazj") against them, and the nerubians were caught between the proverbial rock and a hard place.<sup id="cite_ref-ProofOfDemise_3-1"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-ProofOfDemise-3">[3]</a></sup> The nerubians' misfortune costed them the [war against the undead](https://wowpedia.fandom.com/wiki/War_of_the_Spider "War of the Spider"), and ultimately, their home.
+
+### The Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Facelessone.jpg/revision/latest/scale-to-width-down/180?cb=20051226120119)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Facelessone.jpg/revision/latest?cb=20051226120119)
+
+A faceless one from _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Facelessone2.JPG/revision/latest?cb=20080919053607)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Facelessone2.JPG/revision/latest?cb=20080919053607)
+
+A faceless one from _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
+
+During the desperate flight of [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and the [crypt lord](https://wowpedia.fandom.com/wiki/Crypt_lord "Crypt lord") [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak") to defend the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") from [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") and his armies, the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") were forced to make their way through the ancient, underground [nerubian](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian") kingdom of [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"). At first, the invading [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") army preyed only on the pockets of still living Nerubian resistance fighters and [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") that were left over from Arthas' last journey to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-9">[9]</a></sup> Yet, as Anub'arak and Arthas journeyed ever deeper into these ruins, they found that the lower regions of the kingdom had become infested by "ancient, horrid things", as the dwarf leader [Baelgun](https://wowpedia.fandom.com/wiki/Baelgun_Flamebeard "Baelgun Flamebeard") had described them, released from the dark below by the earthquakes that were being caused by Illidan's sorcery. These beings appeared as strange, vaguely humanoid creatures, and were accompanied by massive tentacles that seemed to be a part of a single, monstrous entity which Anub'arak referred to as a "[forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_One_(Warcraft_III) "Forgotten One (Warcraft III)")". The crypt lord seemed to know of these creatures, but was startled to discover they truly existed and warned Arthas to "_Look to your defenses, [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight")! Fight as you've **never** fought before!_". The two champions of the Lich King and their Scourge forces managed to barely defeat the forgotten one, but as ever more n'raqi emerged from the deeps to stalk the undead army and the caverns began collapsing under the flailing of the massive tentacles, Arthas and Anub'arak were forced to flee from Azjol-Nerub.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-10">[10]</a></sup> Eventually, Arthas made it out of fallen kingdom and was able to [confront Illidan](https://wowpedia.fandom.com/wiki/A_Symphony_of_Frost_and_Flame "A Symphony of Frost and Flame"), but not until making it through the greatest peril he had yet faced.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-11">[11]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/FacelessOneComic.jpg/revision/latest/scale-to-width-down/180?cb=20090820102141)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/FacelessOneComic.jpg/revision/latest?cb=20090820102141)
+
+A giant faceless one in [the comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic").
+
+### War against the Lich King
+
+[![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
+
+[Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") came under attack from a n'raqi that had been awakened by [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") to take [Med'an](https://wowpedia.fandom.com/wiki/Med%27an "Med'an") with him. During the battle, Med'an intuitively wove together arcane and shamanic magic to defeat the ancient creature.<sup id="cite_ref-Whispers_4-1"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-Whispers-4">[4]</a></sup>
+
+In [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), multiple faceless ones appear, including [Herald Volazj](https://wowpedia.fandom.com/wiki/Herald_Volazj "Herald Volazj"), the leader of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods")' forces,<sup id="cite_ref-ProofOfDemise_3-2"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-ProofOfDemise-3">[3]</a></sup> and [Darkspeaker R'khem](https://wowpedia.fandom.com/wiki/Darkspeaker_R%27khem "Darkspeaker R'khem"), a captive of the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") in the [Saronite Mines](https://wowpedia.fandom.com/wiki/Saronite_Mines "Saronite Mines"). N'raqi are also encountered underneath [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") in a place called [Naz'anak: The Forgotten Depths](https://wowpedia.fandom.com/wiki/Naz%27anak:_The_Forgotten_Depths "Naz'anak: The Forgotten Depths"). Killing the [Faceless Lurkers](https://wowpedia.fandom.com/wiki/Faceless_Lurker "Faceless Lurker") there is required for the quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [Time to Hide](https://wowpedia.fandom.com/wiki/Time_to_Hide). In [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar"), the n'raqi are led by [General Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax"), a massive [faceless general](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") guarding the twisted passages leading to the [Prison of Yogg-Saron](https://wowpedia.fandom.com/wiki/Prison_of_Yogg-Saron "Prison of Yogg-Saron").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-12">[12]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Faceless_Sapper_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20151127220623)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Faceless_Sapper_TCG.jpg/revision/latest?cb=20151127220623)
+
+A [Faceless Sapper](https://wowpedia.fandom.com/wiki/Faceless_Sapper "Faceless Sapper").
+
+New faceless can be found throughout the [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths") region of [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir"), as well as inside the [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides"), where they were sent by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") in order to aid the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") in capturing [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon"). N'raqi can also be found in others region of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") and [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), such as [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore"), [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"), the [Stonetalon Mountains](https://wowpedia.fandom.com/wiki/Stonetalon_Mountains "Stonetalon Mountains"), [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows") and [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands"). [Erudax](https://wowpedia.fandom.com/wiki/Erudax "Erudax") serves as boss in [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol_(instance) "Grim Batol (instance)") and is involved in producing Twilight Hatchlings.
+
+The [Faceless of the Deep](https://wowpedia.fandom.com/wiki/Faceless_of_the_Deep "Faceless of the Deep") appears in the [Lost Isles](https://wowpedia.fandom.com/wiki/Lost_Isles "Lost Isles") commanding the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") there against the shipwrecked [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin") from [Kezan](https://wowpedia.fandom.com/wiki/Kezan "Kezan"). The goblins, however, believe him to be a deformed naga.
+
+Since the fall of the [Bastion of Twilight](https://wowpedia.fandom.com/wiki/Bastion_of_Twilight "Bastion of Twilight"), [Yor'sahj the Unsleeping](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping") has eagerly assisted [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), providing the Destroyer with the means to release more faceless ones from their prisons deep beneath the earth. Their numbers were endless and their power was beyond reckoning.
+
+During the [assault](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul") on [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"), [Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz") and Yor'sahj appeared in the maws of [Go'rath](https://wowpedia.fandom.com/wiki/Maw_of_Go%27rath "Maw of Go'rath") and [Shu'ma](https://wowpedia.fandom.com/wiki/Maw_of_Shu%27ma "Maw of Shu'ma"), respectively. They were ultimately killed by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+The [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and the [Wardens](https://wowpedia.fandom.com/wiki/Wardens "Wardens") have kept faceless ones imprisoned in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold") and the [Vault of the Wardens](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens "Vault of the Wardens"), respectively. During the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion") of Azeroth, these n'raqi were set free as a result of the Legion's attacks on these areas.
+
+More notably, however, the faceless appear within the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") under the command of the Nightmare Lord [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius"), providing one of the many indications as to whom the Emerald Nightmare truly belongs. These n'raqi assist Xavius in his battle against the invading [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), both assaulting them ahead of his emergence, and keeping his enemies on their toes with their massive, Nightmare-enhanced size. However, even with the aid of these horrors, Xavius is unable to best the adventurers who assault him and is killed. Upon his death, the Nightmare dissipates, seemingly forever ending the Old Gods' grip on the realm.
+
+### Battle for Azeroth
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+
+Faceless ones are present in both [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") and [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), especially in [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley"). When [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") assaulted the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms") and [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum"), faceless ones could be found overseeing the operations or acting as enforcers. In the [Visions of N'Zoth](https://wowpedia.fandom.com/wiki/Vision_of_N%27Zoth "Vision of N'Zoth") there were many faceless ones in both [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar").
+
+## Appearance
+
+### Standard faceless
+
+N'raqi are vaguely humanoid creatures who, as the name implies, have no discernible faces insofar as other races recognize them. One arm is much larger than the other, grotesque and misshapen, while the other is little more than a prehensile tentacle.
+
+### Aquatic faceless
+
+A type of underwater n'raqi that, unlike their brethren, have much bigger eyes and nautilus-like heads.
+
+### Faceless spellcaster
+
+A type of n'raqi caster that wears masks and has thinner tentacle arms than other types of n'raqi.
+
+### C'Thraxxi
+
+_Main article: [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")_
+
+[C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax"), or "faceless generals", are massive n'raqi warbringers, larger and more resilient than their lesser brethren.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-13">[13]</a></sup>
+
+### K'thir
+
+_Main article: [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")_
+
+[K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir") are smaller faceless ones able to infiltrate mortal societies. They have hands with opposable thumbs instead of tentacles.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/08/Shadow_Strike.jpg/revision/latest/scale-to-width-down/120?cb=20160502125712)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Shadow_Strike.jpg/revision/latest?cb=20160502125712)
+    
+    An aquatic n'raqi assassin.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Eldritch_Horror.jpg/revision/latest/scale-to-width-down/96?cb=20160425163450)](https://static.wikia.nocookie.net/wowpedia/images/2/21/Eldritch_Horror.jpg/revision/latest?cb=20160425163450)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0e/K%27thir_Ritualist_HS.jpg/revision/latest/scale-to-width-down/90?cb=20201112163123)](https://static.wikia.nocookie.net/wowpedia/images/0/0e/K%27thir_Ritualist_HS.jpg/revision/latest?cb=20201112163123)
+    
+
+## Communication
+
+The n'raqi likely speak the language of the Old Gods, [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar"), which no race on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") is capable of understanding or pronouncing.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  Their communications are somehow translated directly into the minds of nearby players through telepathic whispers, as evidenced by several powerful n'raqi that were faced by adventurers. [Darkspeaker R'khem](https://wowpedia.fandom.com/wiki/Darkspeaker_R%27khem "Darkspeaker R'khem") also communicates with other beings by projecting telepathic thoughts into their mind, together with a wave of soothing, euphoric feelings that are mixed with a sense of pain. After completing  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30G3\] [Mind Tricks](https://wowpedia.fandom.com/wiki/Mind_Tricks), he disappears with a noise that is translated as laughter in the player's mind. [Faceless Lurkers](https://wowpedia.fandom.com/wiki/Faceless_Lurker "Faceless Lurker") sometimes utter "Shur'nab... shur'nab... [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")!" when assaulting their victims, which never appears to be accompanied by telepathic whispers, so it seems only powerful n'raqi can express themselves in this manner.
+
+## Notable
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Za%27qul%2C_Harbinger_of_Ny%27alotha.jpg/revision/latest/scale-to-width-down/180?cb=20190619183659)](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Za%27qul%2C_Harbinger_of_Ny%27alotha.jpg/revision/latest?cb=20190619183659)
+
+[Za'qul](https://wowpedia.fandom.com/wiki/Za%27qul "Za'qul")
+
+| Name | Role | Status | Location |
+| --- | --- | --- | --- |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Avatar of Soggoth](https://wowpedia.fandom.com/wiki/Avatar_of_Soggoth "Avatar of Soggoth") | Avatar of [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer") | Killable | [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive"), [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Azshj'thul the Drowned](https://wowpedia.fandom.com/wiki/Azshj%27thul_the_Drowned "Azshj'thul the Drowned") | Corrupted version of [Samuel Williams](https://wowpedia.fandom.com/wiki/Samuel_Williams "Samuel Williams") | Killable | [Shrine of the Storm](https://wowpedia.fandom.com/wiki/Shrine_of_the_Storm "Shrine of the Storm"), [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Commander Ulthok](https://wowpedia.fandom.com/wiki/Commander_Ulthok "Commander Ulthok") | Sent by his [Old God](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") masters to aid [Lady Naz'jar](https://wowpedia.fandom.com/wiki/Lady_Naz%27jar "Lady Naz'jar") in capturing the [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides") | Killable | [Neptulon's Rise](https://wowpedia.fandom.com/wiki/Neptulon%27s_Rise "Neptulon's Rise"), [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Darkspeaker R'khem](https://wowpedia.fandom.com/wiki/Darkspeaker_R%27khem "Darkspeaker R'khem") | Prisoner of the [Ymirjar](https://wowpedia.fandom.com/wiki/Ymirjar "Ymirjar") [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") in the [Saronite Mines](https://wowpedia.fandom.com/wiki/Saronite_Mines "Saronite Mines") | Alive | [Saronite Mines](https://wowpedia.fandom.com/wiki/Saronite_Mines "Saronite Mines"), [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Fa'thuul the Feared](https://wowpedia.fandom.com/wiki/Fa%27thuul_the_Feared "Fa'thuul the Feared") | Sent by [N'zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") to the [Crucible of Storms](https://wowpedia.fandom.com/wiki/Crucible_of_Storms "Crucible of Storms") to retrieve three relics of power | Killable | [Crucible of Storms](https://wowpedia.fandom.com/wiki/Crucible_of_Storms "Crucible of Storms") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Faceless of the Deep](https://wowpedia.fandom.com/wiki/Faceless_of_the_Deep "Faceless of the Deep") | Leader of the [Vashj'elan](https://wowpedia.fandom.com/wiki/Vashj%27elan "Vashj'elan") [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") at the [Ruins of Vashj'elan](https://wowpedia.fandom.com/wiki/Ruins_of_Vashj%27elan "Ruins of Vashj'elan") | Killable | [Ruins of Vashj'elan](https://wowpedia.fandom.com/wiki/Ruins_of_Vashj%27elan "Ruins of Vashj'elan"), [Lost Isles](https://wowpedia.fandom.com/wiki/Lost_Isles "Lost Isles") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Harbinger Aph'lass](https://wowpedia.fandom.com/wiki/Harbinger_Aph%27lass "Harbinger Aph'lass") | Leader of the invasion at [Stonetalon Peak](https://wowpedia.fandom.com/wiki/Stonetalon_Peak "Stonetalon Peak") | Killable | [Stonetalon Peak](https://wowpedia.fandom.com/wiki/Stonetalon_Peak "Stonetalon Peak"), [Stonetalon Mountains](https://wowpedia.fandom.com/wiki/Stonetalon_Mountains "Stonetalon Mountains") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Harbinger Aphotic](https://wowpedia.fandom.com/wiki/Harbinger_Aphotic "Harbinger Aphotic") | Leader of the invasion at [Lake Falathim](https://wowpedia.fandom.com/wiki/Lake_Falathim "Lake Falathim") | Killable | [Lake Falathim](https://wowpedia.fandom.com/wiki/Lake_Falathim "Lake Falathim"), [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Herald Volazj](https://wowpedia.fandom.com/wiki/Herald_Volazj "Herald Volazj") | Herald of [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") | Killable | [Fallen Temple of Ahn'kahet](https://wowpedia.fandom.com/wiki/Fallen_Temple_of_Ahn%27kahet "Fallen Temple of Ahn'kahet"), [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Hr'nglth the Lost](https://wowpedia.fandom.com/wiki/Hr%27nglth_the_Lost "Hr'nglth the Lost") | Luring sea creatures into [Stagalbog Cave](https://wowpedia.fandom.com/wiki/Stagalbog_Cave "Stagalbog Cave") | Killable | [Stagalbog Cave](https://wowpedia.fandom.com/wiki/Stagalbog_Cave "Stagalbog Cave"), [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ick'thys the Unfathomable](https://wowpedia.fandom.com/wiki/Ick%27thys_the_Unfathomable "Ick'thys the Unfathomable") | Leader of the [Corrupting Faceless](https://wowpedia.fandom.com/wiki/Corrupting_Faceless "Corrupting Faceless") in the [Scalding Chasm](https://wowpedia.fandom.com/wiki/Scalding_Chasm "Scalding Chasm") | Killable | [Scalding Chasm](https://wowpedia.fandom.com/wiki/Scalding_Chasm "Scalding Chasm"), [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Mindflayer Kaahrj](https://wowpedia.fandom.com/wiki/Mindflayer_Kaahrj "Mindflayer Kaahrj") | Prisoner of the [Violet Hold](https://wowpedia.fandom.com/wiki/Assault_on_Violet_Hold "Assault on Violet Hold") | Killable | [Violet Hold](https://wowpedia.fandom.com/wiki/Assault_on_Violet_Hold "Assault on Violet Hold") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Qy'telek](https://wowpedia.fandom.com/wiki/Qy%27telek "Qy'telek") | Herald of [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth") | Killable | [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Samuelson Unmasked](https://wowpedia.fandom.com/wiki/Samuelson_Unmasked "Samuelson Unmasked") | Disguised as [Major Samuelson](https://wowpedia.fandom.com/wiki/Major_Samuelson "Major Samuelson") | Deceased | [Throne room](https://wowpedia.fandom.com/wiki/Throne_room "Throne room"), [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Shok'sharak](https://wowpedia.fandom.com/wiki/Shok%27sharak "Shok'sharak") | Unknown | Killable | [Scalding Chasm](https://wowpedia.fandom.com/wiki/Scalding_Chasm "Scalding Chasm"), [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer") | Herald of the Old Gods, wiped out nineteen [stone giants](https://wowpedia.fandom.com/wiki/Stone_giant "Stone giant") before being slain by [Kronn](https://wowpedia.fandom.com/wiki/Kronn "Kronn"). Later resurrected by the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") in a weakened state. | Killable | [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive"), [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[The Beast Unleashed](https://wowpedia.fandom.com/wiki/The_Beast_Unleashed "The Beast Unleashed") | Corrupted version of [Grundy MacGraff](https://wowpedia.fandom.com/wiki/Grundy_MacGraff "Grundy MacGraff") | Killable | [Kirthaven](https://wowpedia.fandom.com/wiki/Kirthaven "Kirthaven"), [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Yor'sahj the Unsleeping](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping") | Lieutenant of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") | Killable | [Maw of Shu'ma](https://wowpedia.fandom.com/wiki/Maw_of_Shu%27ma "Maw of Shu'ma"), [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Yoth'al the Devourer](https://wowpedia.fandom.com/wiki/Yoth%27al_the_Devourer "Yoth'al the Devourer") | Devourer of [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore"), keeper of the Devouring Artifact | Killable | [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Za'qul](https://wowpedia.fandom.com/wiki/Za%27qul "Za'qul") |  | Killable | [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[X'korr the Compelling](https://wowpedia.fandom.com/wiki/X%27korr_the_Compelling "X'korr the Compelling") | Mouth of N'Zoth | Killable | [Karazhan Catacombs](https://wowpedia.fandom.com/wiki/Karazhan_Catacombs "Karazhan Catacombs") |
+
+## Types
+
+## As a companion pet
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Tales say they lived in Azjol-Nerub long before the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") came, dwelling too deep for the [nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian") to hunt them. The strange faceless ones are ancient monsters long imprisoned beneath the ice and recently loosed again.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-14">[14]</a></sup> Faceless ones have a long magical heritage. They draw upon their race's legacy of arcane spellcasting traditions to increase their power. Although faceless ones have a racially low intellect, they have a strong heritage of necromantic magic.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-15">[15]</a></sup> A second passage into the [Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom") has been discovered by the Scourge, and [Baelgun](https://wowpedia.fandom.com/wiki/Baelgun "Baelgun") knows the faceless ones will overpower even the undead and then be free to escape into Northrend proper, and so he vows to stop them.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-16">[16]</a></sup>
+
+## Notes and trivia
+
+-   Even after the death of a n'raqi, its brain keeps pulsing.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-17">[17]</a></sup><sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-18">[18]</a></sup>
+-   During the quest   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall Goblin Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest?cb=20200517232328)[![IconSmall Goblin Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest?cb=20200517233321) \[1-20\] [Surrender or Else!](https://wowpedia.fandom.com/wiki/Surrender_or_Else!), the [Faceless of the Deep](https://wowpedia.fandom.com/wiki/Faceless_of_the_Deep "Faceless of the Deep") claims to [remember when the goblin race was created](https://wowpedia.fandom.com/wiki/Surrender_or_Else!#Notes "Surrender or Else!"), indicating that they have very long a life span.
+-   While some sources state that the faceless originate from organic matter that seeps from the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") themselves,  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[20-60\] [Not Fit for This Plane](https://wowpedia.fandom.com/wiki/Not_Fit_for_This_Plane) says that they are from the [Void](https://wowpedia.fandom.com/wiki/Void "Void") and are drawn to Old God corruption.
+-   Much like [gnolls](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") or [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre"), faceless ones have a "battlecry": _"Shur'nab... shur'nab... [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")!"_.
+-   Faceless ones are inconsistently classified, with some being considered [humanoids](https://wowpedia.fandom.com/wiki/Humanoid "Humanoid") and others being [aberrations](https://wowpedia.fandom.com/wiki/Aberration "Aberration") or [uncategorized](https://wowpedia.fandom.com/wiki/Uncategorized "Uncategorized").
+-   N'raqi seem to use a jellyfish-like creature as a mount. A [concept art image](https://wowpedia.fandom.com/wiki/File:Faceless_One_Caster_concept.jpg "File:Faceless One Caster concept.jpg") of a faceless one riding a jellyfish can be seen in _[The Art of World of Warcraft: Cataclysm](https://wowpedia.fandom.com/wiki/The_Art_of_World_of_Warcraft:_Cataclysm "The Art of World of Warcraft: Cataclysm")_,<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-19">[19]</a></sup> as well as on one of the maps of the [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides") [dungeon](https://wowpedia.fandom.com/wiki/Dungeon "Dungeon").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-20">[20]</a></sup> Models of these creatures were added during the early _[Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm "Cataclysm")_ beta,<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-21">[21]</a></sup> but were not actually used until _[Legion](https://wowpedia.fandom.com/wiki/Legion "Legion")_, when they were used for both the [helsquids](https://wowpedia.fandom.com/wiki/Helsquid "Helsquid") and the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Inv_fishing_lure_starfish.png/revision/latest/scale-to-width-down/16?cb=20141002100050)[\[Fathom Dweller\]](https://wowpedia.fandom.com/wiki/Fathom_Dweller) mount.
+-   In _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_ two subgroups of faceless ones were used: the [Faceless Ones](https://wowpedia.fandom.com/wiki/Faceless_Ones_(Warcraft_III) "Faceless Ones (Warcraft III)") and the [Unbroken](https://wowpedia.fandom.com/wiki/Unbroken_(Warcraft_III) "Unbroken (Warcraft III)").
+-   The name "n'raqi" was first introduced in _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ in 2016, thirteen years after the faceless ones were first introduced in _The Frozen Throne_. However, "n'raqi" was not used in-game until _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_ introduced mobs such as the [N'raqi Eradicators](https://wowpedia.fandom.com/wiki/N%27raqi_Eradicator "N'raqi Eradicator").
+-   The updated n'raqi model added in _Battle for Azeroth_ more closely resembles their appearance in _Warcraft III_ than the _Wrath of the Lich King_ model did.
+-   It is implied that [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") at some point fought several, giant faceless creatures that may have been n'raqi.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/N%27raqi#cite_note-22">[22]</a></sup>
+
+## Inspiration
+
+The faceless ones may be loosely based on the [illithids](http://en.wikipedia.org/wiki/illithid "wikipedia:illithid"), or "mind flayers", from _[Dungeons & Dragons](http://en.wikipedia.org/wiki/Dungeons_%26_Dragons "wikipedia:Dungeons & Dragons")_. Both illithids and n'raqi are evil races with an affinity for magic and telepathy, and they have both been described as slimy humanoids with "almost octopus-like heads". Both races also traditionally live underground and are mostly feared by land-dwellers. It is likely that both creatures are based on [H. P. Lovecraft](http://en.wikipedia.org/wiki/H._P._Lovecraft "wikipedia:H. P. Lovecraft")'s shared [Cthulhu Mythos](http://en.wikipedia.org/wiki/Cthulhu_Mythos "wikipedia:Cthulhu Mythos") (which the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") and their minions draw heavy inspiration from), or perhaps more accurately, the Cthulhi, the "Star-Spawn" of Cthulhu.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+The faceless one mobs in the [Old Kingdom](https://wowpedia.fandom.com/wiki/Old_Kingdom "Old Kingdom") are actually called [Forgotten Ones](https://wowpedia.fandom.com/wiki/Forgotten_One_(Ahn%27kahet) "Forgotten One (Ahn'kahet)"), which may suggest a relation to the term [forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one").
+
+## Gallery
+
+### World of Warcraft
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/35/Azshj%27thul_the_Drowned.jpg/revision/latest/scale-to-width-down/120?cb=20180401130722)](https://static.wikia.nocookie.net/wowpedia/images/3/35/Azshj%27thul_the_Drowned.jpg/revision/latest?cb=20180401130722)
+    
+    The updated n'raqi model introduced in _Battle for Azeroth_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Avatar_of_Soggoth.jpg/revision/latest/scale-to-width-down/88?cb=20110618205928)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Avatar_of_Soggoth.jpg/revision/latest?cb=20110618205928)
+    
+    The n'raqi spellcaster model from _Cataclysm_
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Faceless_Watcher.jpg/revision/latest/scale-to-width-down/113?cb=20110602110758)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Faceless_Watcher.jpg/revision/latest?cb=20110602110758)
+    
+    An aquatic n'raqi.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/de/General_Vezax.jpg/revision/latest/scale-to-width-down/116?cb=20100623122321)](https://static.wikia.nocookie.net/wowpedia/images/d/de/General_Vezax.jpg/revision/latest?cb=20100623122321)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Creature_in_the_Shadows.jpg/revision/latest/scale-to-width-down/120?cb=20210830065144)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Creature_in_the_Shadows.jpg/revision/latest?cb=20210830065144)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Abyssal_Corruptor.jpg/revision/latest/scale-to-width-down/99?cb=20180818004011)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Abyssal_Corruptor.jpg/revision/latest?cb=20180818004011)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Warbringer_Yenajz.jpg/revision/latest/scale-to-width-down/120?cb=20191213144731)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Warbringer_Yenajz.jpg/revision/latest?cb=20191213144731)
+    
+    A C'Thrax.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Fury_of_N%27Zoth.jpg/revision/latest/scale-to-width-down/120?cb=20191107223956)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Fury_of_N%27Zoth.jpg/revision/latest?cb=20191107223956)
+    
+
+### Art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Faceless_Behemoth.jpg/revision/latest/scale-to-width-down/91?cb=20160427175131)](https://static.wikia.nocookie.net/wowpedia/images/4/40/Faceless_Behemoth.jpg/revision/latest?cb=20160427175131)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Soggoth_the_Slitherer_HS.jpg/revision/latest/scale-to-width-down/90?cb=20160418211110)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Soggoth_the_Slitherer_HS.jpg/revision/latest?cb=20160418211110)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/69/Flamewreathed_Faceless.jpg/revision/latest/scale-to-width-down/95?cb=20160919185945)](https://static.wikia.nocookie.net/wowpedia/images/6/69/Flamewreathed_Faceless.jpg/revision/latest?cb=20160919185945)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Abyssal_Jailor_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220605235956)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Abyssal_Jailor_HS.jpg/revision/latest?cb=20220605235956)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/09/Abyssal_Envoy_HS.jpg/revision/latest/scale-to-width-down/94?cb=20220612224834)](https://static.wikia.nocookie.net/wowpedia/images/0/09/Abyssal_Envoy_HS.jpg/revision/latest?cb=20220612224834)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Faceless_One_Caster_concept.jpg/revision/latest/scale-to-width-down/118?cb=20160509175326)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Faceless_One_Caster_concept.jpg/revision/latest?cb=20160509175326)
+    
+    _Cataclysm_ concept art of a faceless caster riding a jellyfish mount.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Faceless_concept_2.jpg/revision/latest/scale-to-width-down/120?cb=20181111033842)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Faceless_concept_2.jpg/revision/latest?cb=20181111033842)
+    
+    _Battle for Azeroth_ concept art.
+    
+-   [![N'raqi artbook 2.jpg](https://static.wikia.nocookie.net/wowpedia/images/1/1c/N%27raqi_artbook_2.jpg/revision/latest/scale-to-width-down/120?cb=20211001115603)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/N%27raqi_artbook_2.jpg/revision/latest?cb=20211001115603)
+    
+-   [![N'raqi artbook 1.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/05/N%27raqi_artbook_1.jpg/revision/latest/scale-to-width-down/67?cb=20211001115510)](https://static.wikia.nocookie.net/wowpedia/images/0/05/N%27raqi_artbook_1.jpg/revision/latest?cb=20211001115510)
+    
+
+## Patch changes
+
+## References
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   **N'raqi**
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+
+ |
+|  |
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+
+-   [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+| 
+
+-   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens "Template:Azeroth aliens")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens?action=edit)
+
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Creaturefooter "Template:Creaturefooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Creaturefooter?action=edit)
+
+[Creatures](https://wowpedia.fandom.com/wiki/Creature "Creature")
+
+
+
+ |
+| --- |

@@ -1,0 +1,447 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Neptulon |
+| --- |
+| [![Image of Neptulon](https://static.wikia.nocookie.net/wowpedia/images/9/95/Neptulon.jpg/revision/latest/scale-to-width-down/200?cb=20210518161213)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Neptulon.jpg/revision/latest?cb=20210518161213 "Image of Neptulon") |
+| Title | The Tidehunter,  
+Lord over all waters,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-1">[1]</a></sup>  
+Lord of all water elementals,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-2">[2]</a></sup>  
+Lord of Tides<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-3">[3]</a></sup> |
+| Gender | Male |
+| Race | [Water elemental](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental") (Elemental) |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw"), [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") |
+| Former affiliation(s) | [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces") ([Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")) |
+| Occupation | Elemental Lord of Water |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Neptulon#Locations) |
+| Status | Alive |
+
+**Neptulon the Tidehunter** is the [Elemental Lord](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") of water. Much like the other three, in past ages, he battled against the [Titans](https://wowpedia.fandom.com/wiki/Titans "Titans") as a servant of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"). However, he did not ally himself with [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") after the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), and as a result, the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") and [faceless ones](https://wowpedia.fandom.com/wiki/Faceless_one "Faceless one"), servants of the Old Gods, sought to capture him and the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw"). Neptulon would later break free of his captor, [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat"), and return to the Abyssal Maw. Since the Cataclysm, Neptulon has rallied his water elementals to defend [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") on several occasions. The Farseer of the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring") convinced the Elemental Lord to pledge his forces to battle the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during their [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"). He also battled [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")'s forces during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War").
+
+## Biography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest/scale-to-width-down/180?cb=20160219182734)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest?cb=20160219182734)
+
+Neptulon with the other three Elemental Lords.
+
+### Ancient history
+
+In the beginning, the world that would become known as [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") was ruled by the [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental"). A nascent [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") maturing within the world's core had consumed much of the fifth element, [Spirit](https://wowpedia.fandom.com/wiki/Spirit_of_Life "Spirit of Life"), and without this primordial force to create balance, the elements were thrown into chaos. The four [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord"), who each ruled over innumerable lesser spirits, constantly clashed with one another on the surface of the primordial world. Neptulon the Tidehunter was the wisest of the lords, careful not to fall to [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")'s schemes or waste his minions on fruitless attacks against [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane"). As the other lords sent their armies to clash against one other across the world, the Tidehunter's forces would divide and conquer the enemy forces in brilliant routs before crushing them beneath colossal tidal waves.<sup id="cite_ref-Chronicle28_4-0"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-Chronicle28-4">[4]</a></sup>
+
+When the entities known as the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") arrived from the [Great Dark](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") and established their [empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire"), the Elemental Lords saw the invaders as a threat to their dominion. For the first time in Azeroth's history, the native spirits of the world worked together against a common enemy. Neptulon joined forces with Therazane; while the Stonemother raised enormous rock walls to corral the forces of the Old Gods and shatter their citadels, the Tidehunter and his minions would sweep in and crush the [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") and [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir") with tidal waves. Eventually, however, the elementals of the world could not stand against the endless swarms of [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") and [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir"), and were all enslaved.<sup id="cite_ref-Chronicle28_4-1"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-Chronicle28-4">[4]</a></sup>
+
+When the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") arrived on Azeroth to battle the Black Empire, the Old Gods sent their enslaved Elemental Lord lieutenants to face them. Neptulon and his servants rushed to the aid of the other lords, but were waylaid by [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") and [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron"), who managed to outmaneuver the Tidehunter's forces at every turn. Ultimately, Loken used his [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") magic to freeze and shatter the water elementals while Mimiron created enchanted bonds to imprison the Tidehunter. Neptulon and his water elementals were thereafter sucked into the depths of the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw"), a region of the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane").<sup id="cite_ref-Chronicle28_4-2"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-Chronicle28-4">[4]</a></sup>
+
+### Stone of the Tides and the Fall of Gurubashi
+
+According to a book, "[The Stone of the Tides](https://wowpedia.fandom.com/wiki/The_Stone_of_the_Tides "The Stone of the Tides")", the [Gurubashi](https://wowpedia.fandom.com/wiki/Gurubashi_tribe "Gurubashi tribe") [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") had access to a powerful artifact, which allowed them to gain control over the water-based magic. As later told in the book "[The Fall of Gurubashi](https://wowpedia.fandom.com/wiki/The_Fall_of_Gurubashi "The Fall of Gurubashi")", Neptulon sent his mighty [krakken](https://wowpedia.fandom.com/wiki/Krakken "Krakken") to destroy the troll nation. It is unknown whether there is a connection between the two stories.
+
+It is also unknown how exactly Neptulon came to appear on Azeroth, thousands of years after the battle with the Titans. Perhaps a backstory of this event is similar to that of summoning [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") to aid with war (seeing as the event occurred when Gurubashi were preparing for some kind of invasion). This would mean that Neptulon is still present somewhere under the waters of the Great Sea.
+
+Decades later, Neptulon took a personal interest in seeing the [fire elementals](https://wowpedia.fandom.com/wiki/Fire_elemental "Fire elemental") of [Stonetalon Mountains](https://wowpedia.fandom.com/wiki/Stonetalon_Mountains "Stonetalon Mountains") extinguished so the [Tribunal of the Tides](https://wowpedia.fandom.com/wiki/Tribunal_of_the_Tides "Tribunal of the Tides") sent [Tsunaman](https://wowpedia.fandom.com/wiki/Tsunaman "Tsunaman") to do that.
+
+Neptulon had a base of operations on an island in western Stranglethorn. There, and in other places on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), the [Twilight Cult](https://wowpedia.fandom.com/wiki/Twilight_Cult "Twilight Cult") set up ice stones to communicate with the Tidehunter's realm during the [Midsummer Fire Festival](https://wowpedia.fandom.com/wiki/Midsummer_Fire_Festival "Midsummer Fire Festival").<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-5">[5]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Neptulon makes his first appearance during the  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[30-35\] [Defending the Rift](https://wowpedia.fandom.com/wiki/Defending_the_Rift) quest for both factions where he and his minions battle the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") who are attempting to invade his domain through the [Abyssal Breach](https://wowpedia.fandom.com/wiki/Abyssal_Breach "Abyssal Breach"). He clashes with [Lady Naz'jar](https://wowpedia.fandom.com/wiki/Lady_Naz%27jar "Lady Naz'jar") and appears to gain the upper hand over the sea witch until [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat") is called and attacks the Tide Hunter. Neptulon retreats into his realm, pursued by the vast naga forces where the fight continues on the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane").
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Neptulon-vs-Lady-Naz%27jar-and-Ozumat.jpg/revision/latest/scale-to-width-down/120?cb=20100726054405)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Neptulon-vs-Lady-Naz%27jar-and-Ozumat.jpg/revision/latest?cb=20100726054405)
+    
+    Neptulon fighting Lady Naz'jar and [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat").
+    
+
+#### Throne of the Tides
+
+Neptulon appears in the [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides"), where he must be defended from waves of faceless enemies. Ozumat returns and, upon defeat, steals Neptulon away and quickly flees. Although heroes never continue this storyline, Neptulon eventually returns to the Abyssal Maw.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-6">[6]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-7">[7]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+During the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s third invasion of Azeroth, the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring"), deciding to summon the Elemental Lords in order to combat the Legion, starts with Neptulon. While Neptulon listens to the Earthen Ring's plea, he insists that the Elemental Lords do not work together. When the Earthen Ring says they will stand with him, Neptulon recalls one time long ago where he and the other Lords did work together (likely referring to their war against the Old Gods). Musing that perhaps there is still hope, the Tidehunter sends his servant, [Lord Hydraxis](https://wowpedia.fandom.com/wiki/Lord_Hydraxis "Lord Hydraxis"), to join the Earthen Ring at the [Heart of Azeroth](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth_(Class_Hall) "Heart of Azeroth (Class Hall)").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-8">[8]</a></sup>
+
+Neptulon sent [Champion Aquaclease](https://wowpedia.fandom.com/wiki/Champion_Aquaclease "Champion Aquaclease") to help on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-9">[9]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Neptulon_-_Nazjatar.jpg/revision/latest/scale-to-width-down/180?cb=20190524173316)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Neptulon_-_Nazjatar.jpg/revision/latest?cb=20190524173316)
+
+Neptulon peering in through the waterwall in Nazjatar.
+
+### Battle for Azeroth
+
+Neptulon tasked [Farseer Ori](https://wowpedia.fandom.com/wiki/Farseer_Ori "Farseer Ori") of the [ankoan](https://wowpedia.fandom.com/wiki/Ankoan "Ankoan") to serve him there against the naga.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-10">[10]</a></sup> The Elemental Lord can be found in the waterfalls surrounding Nazjatar, and tasks [Duke Hydraxis](https://wowpedia.fandom.com/wiki/Duke_Hydraxis "Duke Hydraxis") and [Champion Aquaclease](https://wowpedia.fandom.com/wiki/Champion_Aquaclease "Champion Aquaclease") to fight the forces of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"). Neptulon himself is unable to enter Azshara's domain because the [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth"), created by titanic magic, holds him back just as it does the seas.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-11">[11]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+|  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[30-35\] [Defending the Rift](https://wowpedia.fandom.com/wiki/Defending_the_Rift_(Alliance)) | 80 | 9,285,300 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [Defending the Rift](https://wowpedia.fandom.com/wiki/Defending_the_Rift_(Horde)) | 81 | 11,156,100 |
+| [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides") | 81 - 86 | 
+<table><tbody><tr><td><b><abbr title="5-player mode">5</abbr></b></td><td>185,935</td></tr><tr><td><b><abbr title="5-player Heroic mode">5H</abbr></b></td><td>407,413</td></tr></tbody></table>
+
+ |
+| [Heart of Azeroth (Class Hall)](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth_(Class_Hall) "Heart of Azeroth (Class Hall)") | 110 | 5,196,335 |
+|   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Shaman](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Ui-charactercreate-classes_shaman.png/revision/latest/scale-to-width-down/16?cb=20070124145005 "Shaman") \[45\] [Allegiance of Flame](https://wowpedia.fandom.com/wiki/Allegiance_of_Flame) | ?? | 102,405 |
+
+## Quests
+
+## Worship
+
+Neptulon is known to be worshiped by the [Rockpool tribe](https://wowpedia.fandom.com/wiki/Rockpool_tribe "Rockpool tribe") of [murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc"), who call him "father" and believe that he is the only one who truly rules the seas. He was also formerly worshiped by the [Bloodwash naga](https://wowpedia.fandom.com/wiki/Bloodwash_naga "Bloodwash naga") before they turned their back on him and chose to worship only [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-12">[12]</a></sup> However, a few naga led by [Skar'this the Heretic](https://wowpedia.fandom.com/wiki/Skar%27this_the_Heretic "Skar'this the Heretic") are known to still follow the Tidehunter, for which Skar'this was imprisoned, being considered as [heretics](https://wowpedia.fandom.com/wiki/Heretic "Heretic") with his followers by the other naga. It seems that he is also worshiped by the [kvaldir](https://wowpedia.fandom.com/wiki/Kvaldir "Kvaldir"), as [Hagrim Hopebreaker](https://wowpedia.fandom.com/wiki/Hagrim_Hopebreaker "Hagrim Hopebreaker") says Neptulon will rise and wash your kind from Azeroth! to the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") in [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir").<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-13">[13]</a></sup>
+
+Neptulon is also worshiped by the [Waveblade](https://wowpedia.fandom.com/wiki/Waveblade_Ankoan "Waveblade Ankoan") [ankoan](https://wowpedia.fandom.com/wiki/Ankoan "Ankoan") and sends his most powerful lieutenants to assist them against the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-14">[14]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+### Introduction
+
+_Rising out of the water above you is a massive humanoid figure shaped from the very liquid itself. The form shifts and changes, but the underlying shape remains the same — a colossal figure that vaguely resembles a humanoid, with swirling blue-green colors whirling within. Only the eyes, a pair of glowing yellow spots in the amorphous head, remain islands of stability._<sup id="cite_ref-S&amp;L_102_15-0"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_102-15">[15]</a></sup>
+
+**Neptulon the Tidehunter** reigns supreme in his domain, the deep ocean. Users of boats and other such water-crossing utilities risk his wrath; entering his domain without express permission is paramount to doom. He revels in taking those who feel invulnerable, especially [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")'s rocky beaches and the flames of [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") when given the chance. He rules over all water, whether it be the sea, the ocean, river or lake. All [water elementals](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental") worship him, as do all creatures that use water or the cold for their abilities. It is said that when an intelligent creature drowns, his or her soul will pass through his realm on the way to its end. It is supposed that he keeps those souls which amuse and interest him, but Neptulon only laughs at such suppositions.<sup id="cite_ref-S&amp;L_102_15-1"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_102-15">[15]</a></sup>
+
+### Skills and abilities
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/91-Neptulon.png/revision/latest/scale-to-width-down/180?cb=20180921161716)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/91-Neptulon.png/revision/latest?cb=20180921161716)
+
+Neptulon in _Shadows & Light_
+
+> Neptulon prefers to toy with his prey, dragging it under the water only to let it briefly escape. Sometimes he will maroon a hapless victim on some lonely island and torture it with tidal waves and swirling whirlpools. He always attempts to identify those who cannot survive long underwater, dragging them away to deal with other opponents later. He loves to douse flame whenever he can and harbors a particular hatred of fire elementals.<sup id="cite_ref-S&amp;L_102_15-2"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_102-15">[15]</a></sup>
+
+Neptulon is most dangerous in the water, and even more so when his foe also touches the water. If he or his opponent are land-bound, then he is weakened in his attacks. This spells destruction for most ships that cross his path. He can easily overturn even large craft of up to 600 feet in length, and stop massive vessels of up to 1,100 feet. Even those ocean-going behemoths that stretch to 2,400 feet can be slowed to half speed.<sup id="cite_ref-S&amp;L_102_15-3"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_102-15">[15]</a></sup>
+
+#### Drench
+
+Neptulon's touch can extinguish most flames of non-magical origin, save those of large wildfires. He has the ability to dispel even magical fires, but those are many times more difficult to drench.<sup id="cite_ref-S&amp;L_102_15-4"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_102-15">[15]</a></sup>
+
+#### Frost storm
+
+Neptulon has the ability to form into a massive swirling storm of freezing water, drawn from the very deepest part of the oceans and chilled by his elemental power. The storm is a 300-foot churning sphere of water that moves as he wills, at his swim speed, even extending out of the water into the air or onto the nearby ground (although at least half the sphere must always be in the water). Within the storm, he threatens all adjacent squares out to a distance of 25 feet from the affected zone and can make an infinite number of attacks of opportunity per round. This ability lasts for up to ten minutes, although he can end it at will. In addition to his normal attacks from that range, Neptulon may also perform any of the following abilities at will:<sup id="cite_ref-S&amp;L_102_15-5"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_102-15">[15]</a></sup>
+
+Block of Ice
+
+Neptulon has the ability to immobilize a 30-foot spherical area of solid water, and anything in it, which then deals frost damage to any victims within. Targets can attempt to escape the area, but only if they have the mental ability to do so. The block of ice rises toward the surface of the water very quickly. Once the occupants of the ice fortress have left the area of the frost storm, the ice will melt, eventually freeing them.<sup id="cite_ref-S&amp;L_102_15-6"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_102-15">[15]</a></sup>
+
+Chilling Touch
+
+Within a frost storm, Neptulon can move much more quickly than normal. Furthermore, all creatures within the storm that have no immunity to the biting cold will very likely be slowed. Certain fire spells can cancel the slowness, but they must be maintained until the victim leaves the storm.<sup id="cite_ref-S&amp;L_103_16-0"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+Crushing Pressure
+
+Within the storm area, Neptulon can increase the water pressure to such levels that all within will be injured, whether friend or foe. Whatever they do, they will still take damage, save for Neptulon. Creatures trapped within a block of ice, ironically, are immune.<sup id="cite_ref-S&amp;L_103_16-1"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+Ice Crystals
+
+Neptulon can use razor-sharp crystals of ice that can strike individuals at the impressive range of 500 feet from the edge of the storm, even outside the sphere. Ice crystals affect a 30 foot radius when striking.<sup id="cite_ref-S&amp;L_103_16-2"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+Slam Attack
+
+Any creature within the storm, or within 100 feet of it, can be subject to a water-based slam attack from Neptulon himself.<sup id="cite_ref-S&amp;L_103_16-3"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+#### Vortex
+
+When underwater, Neptulon can transform himself into a vortex once every 10 minutes; he can maintain this form for a very long time. He is 5 feet wide at the base, 50 feet wide at the top, and up to 80 feet tall. He controls his exact height, however, which at a minimum must be 10 feet tall.<sup id="cite_ref-S&amp;L_103_16-4"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+Even the largest of creatures may be caught in the vortex, and they can even take damage. Those who come into contact with the vortex will have difficulty in stopping themselves from being picked up bodily and held suspended in the powerful currents and even more difficulty in surviving. A creature that can swim is usually allowed to go free from the vortex, but they too, will have difficulty in living through this ordeal.<sup id="cite_ref-S&amp;L_103_16-5"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+Neptulon enjoys leaving any creatures within the vortex where he wants, depositing them wherever the vortex happens to be. Typically he does this in fairly harmful surroundings, such as natural vents, in deep water, or near other dangerous creatures.<sup id="cite_ref-S&amp;L_103_16-6"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+If the vortex's base touches the ocean floor, it creates a swirling cloud of debris. This cloud is centered on Neptulon and has a diameter equal to half the vortex's height. The cloud obscures all vision beyond five feet. Creatures five feet away have some concealment, while those farther away are completely concealed from those within or on the other side of the cloud. Those spellcasters caught in the cloud will have to concentrate hard to cast a spell.<sup id="cite_ref-S&amp;L_103_16-7"><a href="https://wowpedia.fandom.com/wiki/Neptulon#cite_note-S&amp;L_103-16">[16]</a></sup>
+
+## Quotes
+
+Heart of Azeroth gossip
+
+Out of the rolling ocean I rise. The Lord of Tides has answered your call, Farseer of the Earthen Ring.
+
+Dialogue
+
+_Main article: [Defending the Rift#Notes](https://wowpedia.fandom.com/wiki/Defending_the_Rift#Notes "Defending the Rift")_
+
+_Main article: [Ozumat#Quotes](https://wowpedia.fandom.com/wiki/Ozumat#Quotes "Ozumat")_
+
+_Main article: [The Ritual of Tides#Notes](https://wowpedia.fandom.com/wiki/The_Ritual_of_Tides#Notes "The Ritual of Tides")_
+
+_Main article: [Allegiance of Flame#Notes](https://wowpedia.fandom.com/wiki/Allegiance_of_Flame#Notes "Allegiance of Flame")_
+
+## In _Hearthstone_
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   Neptulon appears as [a legendary card](https://hearthstone.fandom.com/wiki/Neptulon "hswiki:Neptulon") for the Shaman class in the [Goblins vs. Gnomes](https://wowpedia.fandom.com/wiki/Hearthstone:_Goblins_vs_Gnomes "Hearthstone: Goblins vs Gnomes") expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. His flavor text reads: _"Neptulon is "The Tidehunter". He’s one of the four elemental lords. And he and [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") get together and make really amazing saunas."_
+-   He reappears as Neptulon the Tidehunter, a [neutral Legendary minion](https://hearthstone.fandom.com/wiki/Neptulon_the_Tidehunter "hswiki:Neptulon the Tidehunter") in the [Throne of the Tides](https://hearthstone.fandom.com/wiki/Throne_of_the_Tides "hswiki:Throne of the Tides") mini-set. His flavor text reads: "_Neptulon, tired of filling hands, is now throwing hands._"
+
+## Notes and trivia
+
+## Gallery
+
+TCG art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Neptulon_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210323063948)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Neptulon_TCG.jpg/revision/latest?cb=20210323063948)
+    
+    Neptulon the Tidehunter
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Neptulon_the_Tidehunter.jpg/revision/latest/scale-to-width-down/120?cb=20210323064327)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Neptulon_the_Tidehunter.jpg/revision/latest?cb=20210323064327)
+    
+    Neptulon fighting Lady Naz'jar.
+    
+
+Hearthstone art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/71/Neptulon_the_Tidehunter_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220627160402)](https://static.wikia.nocookie.net/wowpedia/images/7/71/Neptulon_the_Tidehunter_HS.jpg/revision/latest?cb=20220627160402)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Clash_of_the_Colossals_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220612231322)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Clash_of_the_Colossals_HS.jpg/revision/latest?cb=20220612231322)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Command_of_Neptulon_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220612231520)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Command_of_Neptulon_HS.jpg/revision/latest?cb=20220612231520)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Topple_the_Idol_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220504014228)](https://static.wikia.nocookie.net/wowpedia/images/4/48/Topple_the_Idol_HS.jpg/revision/latest?cb=20220504014228)
+    
+
+## Videos
+
+[Lore For Noobs The Elemental Lords](https://wowpedia.fandom.com/wiki/Neptulon#)
+
+## Patch changes
+
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Added.  
+    
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Neptulon#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Neptulon#t1:npcs)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+
+-   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
+-   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
+-   [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne")
+-   [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos")<sup>3rd Arbiter</sup>
+-   [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus")
+-   [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")
+-   [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")<sup>1st Arbiter</sup>
+
+
+
+ |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+
+-   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
+-   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
+-   [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane")
+-   [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana")
+-   [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+-   [Ela'lothen](https://wowpedia.fandom.com/wiki/Ela%27lothen "Ela'lothen")
+-   [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn")
+-   [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne")
+-   [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Nemesis](https://wowpedia.fandom.com/wiki/Nemesis "Nemesis")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Ohn'ahra](https://wowpedia.fandom.com/wiki/Ohn%27ahra "Ohn'ahra")
+-   [Omen](https://wowpedia.fandom.com/wiki/Omen "Omen")
+-   [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla")
+-   [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc")
+-   [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol")
+-   [Wolverine guardian](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+-   [Reptilian warrior](https://wowpedia.fandom.com/wiki/Reptilian_warrior "Reptilian warrior")
+-   [Squat warrior ancient](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   [Fox ancient](https://wowpedia.fandom.com/wiki/Fox#Notes "Fox")
+-   [Winged panther ancient](https://wowpedia.fandom.com/wiki/Panther "Panther")
+
+
+
+ |
+|  |
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+
+-   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
+-   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
+-   [Akil'zon](https://wowpedia.fandom.com/wiki/Akil%27zon "Akil'zon")
+-   [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda")
+-   [Bethekk](https://wowpedia.fandom.com/wiki/Bethekk "Bethekk")
+-   [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi")
+-   [Dambala](https://wowpedia.fandom.com/wiki/Dambala "Dambala")
+-   [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk")
+-   [Gral](https://wowpedia.fandom.com/wiki/Gral "Gral")
+-   [Grimath](https://wowpedia.fandom.com/wiki/Grimath "Grimath")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer")
+-   [Halazzi](https://wowpedia.fandom.com/wiki/Halazzi "Halazzi")
+-   [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa")
+-   [Hethiss](https://wowpedia.fandom.com/wiki/Hethiss "Hethiss")
+-   [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek")
+-   [Jan'alai](https://wowpedia.fandom.com/wiki/Jan%27alai "Jan'alai")
+-   [Jani](https://wowpedia.fandom.com/wiki/Jani "Jani")
+-   [Kimbul](https://wowpedia.fandom.com/wiki/Kimbul "Kimbul")
+-   [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa_the_Huge "Krag'wa the Huge")
+-   [Lakali](https://wowpedia.fandom.com/wiki/Lakali "Lakali")
+-   [Lukou](https://wowpedia.fandom.com/wiki/Lukou "Lukou")
+-   [Mam'toth](https://wowpedia.fandom.com/wiki/Mam%27toth "Mam'toth")
+-   [Mueh'zala](https://wowpedia.fandom.com/wiki/Mueh%27zala "Mueh'zala")
+-   [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk")
+-   [Pa'ku](https://wowpedia.fandom.com/wiki/Pa%27ku "Pa'ku")
+-   [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan")
+-   [Rhunok](https://wowpedia.fandom.com/wiki/Rhunok "Rhunok")
+-   [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun")
+-   [Samedi](https://wowpedia.fandom.com/wiki/Samedi "Samedi")
+-   [Sethraliss](https://wowpedia.fandom.com/wiki/Sethraliss "Sethraliss")
+-   [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra")
+-   [Shango](https://wowpedia.fandom.com/wiki/Shango "Shango")
+-   [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah")
+-   [Sseratus](https://wowpedia.fandom.com/wiki/Sseratus "Sseratus")
+-   [Torga](https://wowpedia.fandom.com/wiki/Torga "Torga")
+-   [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja")
+-   [Torcali](https://wowpedia.fandom.com/wiki/Torcali "Torcali")
+-   [Xibala](https://wowpedia.fandom.com/wiki/Xibala_(devilsaur) "Xibala (devilsaur)")
+-   [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless")
+
+
+
+ |
+|  |
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
+-   **Neptulon**<sup>1st, water</sup>
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
+-   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
+-   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
+-   [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan")<sup>2nd, air</sup>
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
+-   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
+    -   [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu")
+    -   [Ka'alu](https://wowpedia.fandom.com/wiki/Ka%27alu "Ka'alu")
+    -   [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar")<sup><a href="https://wowpedia.fandom.com/wiki/Rukhmar_(alternate_universe)" title="Rukhmar (alternate universe)">alternate</a></sup>
+    -   [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe")<sup><a href="https://wowpedia.fandom.com/wiki/Sethe_(alternate_universe)" title="Sethe (alternate universe)">alternate</a></sup>
+    -   [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk")
+-   [Arkkoroc](https://wowpedia.fandom.com/wiki/Lord_Arkkoroc "Lord Arkkoroc")
+-   [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")
+    -   [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji")
+    -   [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao")
+    -   [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")
+    -   [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon")
+-   [Drakkari gods](https://wowpedia.fandom.com/wiki/Drakkari_tribe#Faith "Drakkari tribe")
+    -   [Dubra'Jin](https://wowpedia.fandom.com/wiki/Dubra%27Jin_(god) "Dubra'Jin (god)")
+    -   [Zim'Abwa](https://wowpedia.fandom.com/wiki/Zim%27Abwa_(god) "Zim'Abwa (god)")
+    -   [Zim'Rhuk](https://wowpedia.fandom.com/wiki/Zim%27Rhuk_(god) "Zim'Rhuk (god)")
+    -   [Zim'Torga](https://wowpedia.fandom.com/wiki/Zim%27Torga_(goddess) "Zim'Torga (goddess)")
+-   [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")
+-   [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones")
+-   [Gahz'rilla](https://wowpedia.fandom.com/wiki/Gahz%27rilla "Gahz'rilla")
+-   [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros")
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Mazu](https://wowpedia.fandom.com/wiki/Mazu "Mazu")
+-   [Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak")
+-   [Nhal'athoth](https://wowpedia.fandom.com/wiki/Nhal%27athoth "Nhal'athoth")
+-   [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos")
+-   [Primordial Aspects](https://wowpedia.fandom.com/wiki/Primordial_Aspects "Primordial Aspects")
+    -   [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur")
+-   [Tauren gods](https://wowpedia.fandom.com/wiki/Tauren#Faith "Tauren")
+    -   [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")
+    -   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+    -   [Lo'sho](https://wowpedia.fandom.com/wiki/Lo%27sho "Lo'sho")
+    -   [Mu'sha](https://wowpedia.fandom.com/wiki/Elune "Elune")
+    -   [Sky Father](https://wowpedia.fandom.com/wiki/Sky_Father "Sky Father")
+-   [Tuskarr gods](https://wowpedia.fandom.com/wiki/Tuskarr#Faith "Tuskarr")
+    -   [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk")
+    -   [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut")
+    -   [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa")
+    -   [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka")
+-   [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")
+    -   [Dimensius](https://wowpedia.fandom.com/wiki/Dimensius "Dimensius")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+    -   [Aliothe](https://wowpedia.fandom.com/wiki/Aliothe "Aliothe")
+    -   Falir
+    -   Lia
+    -   [Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard")
+    -   Ohm
+-   [Volcanoth](https://wowpedia.fandom.com/wiki/Volcanoth "Volcanoth")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+-   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
+-   [One in the Deeps](https://wowpedia.fandom.com/wiki/One_in_the_Deeps "One in the Deeps")
+-   [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa#In_the_RPG "Loa") ([Legba](https://wowpedia.fandom.com/wiki/Legba "Legba")
+-   [Ogoun](https://wowpedia.fandom.com/wiki/Ogoun "Ogoun"))
+
+
+
+ |
+|  |
+| 
+
+-   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life"))
+-   [Religion](https://wowpedia.fandom.com/wiki/Religion "Religion")
+-   [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")
+-   [God](https://wowpedia.fandom.com/wiki/God "God")
+-   [Demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod")
+-   [Wild God](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+
+
+
+ |

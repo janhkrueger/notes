@@ -1,0 +1,523 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Cult of the Damned |
+| --- |
+| [![Icon of the Damned.jpg](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Icon_of_the_Damned.jpg/revision/latest/scale-to-width-down/260?cb=20070902071554)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Icon_of_the_Damned.jpg/revision/latest?cb=20070902071554) |
+| Main leader | Unknown |
+|   Formerly | [![IconSmall Necromancer.gif](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Necromancer.gif/revision/latest/scale-to-width-down/16?cb=20200807105319)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Necromancer.gif/revision/latest?cb=20200807105319)[![IconSmall Kel'ThuzadSL.gif](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Kel%27ThuzadSL.gif/revision/latest/scale-to-width-down/16?cb=20211212102620)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Kel%27ThuzadSL.gif/revision/latest?cb=20211212102620) [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-1">[1]</a></sup>  
+[![IconSmall Nathrezim.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest/scale-to-width-down/16?cb=20211125155053)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest?cb=20211125155053) [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-2">[2]</a></sup> |
+| Secondary leaders | [![IconSmall Arugal.gif](https://static.wikia.nocookie.net/wowpedia/images/7/7d/IconSmall_Arugal.gif/revision/latest/scale-to-width-down/16?cb=20180226102917)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/IconSmall_Arugal.gif/revision/latest?cb=20180226102917) [Darkmaster Gandling](https://wowpedia.fandom.com/wiki/Darkmaster_Gandling "Darkmaster Gandling")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_DeathKnight.gif/revision/latest/scale-to-width-down/16?cb=20211130173914)[Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare") |
+|   Formerly | [![IconSmall Lich Male.gif](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest/scale-to-width-down/16?cb=20211201224530)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest?cb=20211201224530) [Ras Frostwhisper](https://wowpedia.fandom.com/wiki/Ras_Frostwhisper "Ras Frostwhisper") <sup>&nbsp;†</sup>  
+[![IconSmall Lich Female.gif](https://static.wikia.nocookie.net/wowpedia/images/a/af/IconSmall_Lich_Female.gif/revision/latest/scale-to-width-down/16?cb=20211201225214)](https://static.wikia.nocookie.net/wowpedia/images/a/af/IconSmall_Lich_Female.gif/revision/latest?cb=20211201225214) [Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper") <sup>&nbsp;†</sup>  
+[![IconSmall Dar'khan.gif](https://static.wikia.nocookie.net/wowpedia/images/4/49/IconSmall_Dar%27khan.gif/revision/latest/scale-to-width-down/16?cb=20200520191436)](https://static.wikia.nocookie.net/wowpedia/images/4/49/IconSmall_Dar%27khan.gif/revision/latest?cb=20200520191436)[![IconSmall UndeadElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516215246)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IconSmall_UndeadElf_Male.gif/revision/latest?cb=20200516215246) [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir") <sup>&nbsp;†</sup> |
+| Race(s) | [![IconSmall Cultist Male.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2e/IconSmall_Cultist_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118091323)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/IconSmall_Cultist_Male.gif/revision/latest?cb=20211118091323)[![IconSmall Cultist Female.gif](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Cultist_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118091318)](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Cultist_Female.gif/revision/latest?cb=20211118091318) [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![IconSmall Undead Male.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857)[![IconSmall Undead Female.gif](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest?cb=20200520011546) [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")  
+[![IconSmall CultistOrc Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/d7/IconSmall_CultistOrc_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118153728)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/IconSmall_CultistOrc_Male.gif/revision/latest?cb=20211118153728)[![IconSmall CultistOrc Female.gif](https://static.wikia.nocookie.net/wowpedia/images/e/e2/IconSmall_CultistOrc_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118154500)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/IconSmall_CultistOrc_Female.gif/revision/latest?cb=20211118154500) [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
+[![IconSmall CultistGnome Male.gif](https://static.wikia.nocookie.net/wowpedia/images/a/a4/IconSmall_CultistGnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118105104)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/IconSmall_CultistGnome_Male.gif/revision/latest?cb=20211118105104)[![IconSmall CultistGnome Female.gif](https://static.wikia.nocookie.net/wowpedia/images/8/84/IconSmall_CultistGnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118105058)](https://static.wikia.nocookie.net/wowpedia/images/8/84/IconSmall_CultistGnome_Female.gif/revision/latest?cb=20211118105058) [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")  
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
+[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")  
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") |
+| Character classes | [Necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer"), [Acolyte](https://wowpedia.fandom.com/wiki/Acolyte "Acolyte"), [Alchemist](https://wowpedia.fandom.com/wiki/Alchemist "Alchemist"), [Apothecary](https://wowpedia.fandom.com/wiki/Apothecary "Apothecary"), [Assassin](https://wowpedia.fandom.com/wiki/Assassin "Assassin"), [Bombardier](https://wowpedia.fandom.com/wiki/Bombardier "Bombardier"), [Engineer](https://wowpedia.fandom.com/wiki/Engineer "Engineer"), [Infiltrator](https://wowpedia.fandom.com/wiki/Infiltrator "Infiltrator"), [Mad scientist](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Necrolord](https://wowpedia.fandom.com/wiki/Necrolord_(occupation) "Necrolord (occupation)"), [Necrolyte](https://wowpedia.fandom.com/wiki/Necrolyte "Necrolyte"), [Plaguebringer](https://wowpedia.fandom.com/wiki/Plaguebringer "Plaguebringer"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Shadowmage](https://wowpedia.fandom.com/wiki/Shadowmage "Shadowmage"), [Summoner](https://wowpedia.fandom.com/wiki/Summoner "Summoner") |
+| Capital | [Mord'rethar](https://wowpedia.fandom.com/wiki/Mord%27rethar:_The_Death_Gate "Mord'rethar: The Death Gate") |
+|   Formerly | [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel"), [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")<sup id="cite_ref-Marduke_3-0"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Marduke-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-4">[4]</a></sup> |
+| Other major settlements | [Aldur'thar](https://wowpedia.fandom.com/wiki/Aldur%27thar:_The_Desolation_Gate "Aldur'thar: The Desolation Gate"), [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")<sup id="cite_ref-Exploring_Azeroth_5-0"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Exploring_Azeroth-5">[5]</a></sup> |
+|   Formerly | [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal"), [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), [Deatholme](https://wowpedia.fandom.com/wiki/Deatholme "Deatholme"), [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas") |
+| Theater of operations | [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") |
+| Language(s) | [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"), [Language of death](https://wowpedia.fandom.com/wiki/Language_of_death "Language of death"),<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-6">[6]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-7">[7]</a></sup><sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-8">[8]</a></sup> Various languages |
+| Sub-group(s) | [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin") |
+| Affiliation | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
+|   Formerly | [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn"),<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-9">[9]</a></sup> [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") |
+| Status | Active |
+
+The **Cult of the Damned** is an [organization](https://wowpedia.fandom.com/wiki/Organization "Organization") of the living beings who served the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"). The Cult was formed years before the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), as the predecessor and creator of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") officially being loyal to the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), and establishing its foothold on [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). The [Lich King Ner'zhul](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), trapped in his [prison-throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), reached out telepathically any dark soul lusted for power that would hear his call - most notably the then-Archmage [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") who would become an Archlich and the creator and leader of the Cult of the Damned.
+
+While Cultists aspire to become [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"), they remain alive because undeath is considered an honor one must earn, and because living beings are useful to the Lich King for their ability to spy in living [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") or [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") settlements, and recruit powerful individuals from among the living, either into the Cult or the Scourge.<sup id="cite_ref-Marduke_3-1"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Marduke-3">[3]</a></sup> The Cult ranks consists mostly of [humans](https://wowpedia.fandom.com/wiki/Human "Human"), but [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"), [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf"), [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"), and other races are also present.
+
+Following the rise of [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") as the new Lich King, and his proclamation as "Jailor of the Damned", the Cult of the Damned have been seen leading the various remaining Scourge posts in [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). As Fordragon's ability to contain the Scourge was limited to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), the heroes of Azeroth had the responsibility to defeat the rest of the Scourge still beyond that continent.
+
+After the destruction of the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination") and the fall of Bolvar as the Lich King, the Cult of the Damned re-emerged through Azeroth, answering the call of [the Jailer](https://wowpedia.fandom.com/wiki/The_Jailer "The Jailer")'s [herald](https://wowpedia.fandom.com/wiki/Herald_Dalora "Herald Dalora") who preached that soon the "Banished One" will claim the soul of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)") and that all will serve him.
+
+The cult is notorious for concocting grandiose plans that in the end, rarely succeed.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-10">[10]</a></sup>
+
+## History
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+### Formation of the cult
+
+_Main article: [Kel'Thuzad and the Forming of the Scourge](https://wowpedia.fandom.com/wiki/Kel%27Thuzad_and_the_Forming_of_the_Scourge "Kel'Thuzad and the Forming of the Scourge")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Lich_King.jpg/revision/latest/scale-to-width-down/180?cb=20220516215225)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Lich_King.jpg/revision/latest?cb=20220516215225)
+
+The Lich King
+
+After the [Lich King Ner'zhul](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") defeated [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub") in the [War of the Spider](https://wowpedia.fandom.com/wiki/War_of_the_Spider "War of the Spider"), and gained control of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), he turned his attention south, to [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")'s chosen targets: [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") and [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"). Though he was trapped bodiless and confined to the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), he could reach out telepathically across great distances to those seeking power and knowledge of [necromancy](https://wowpedia.fandom.com/wiki/Necromancy "Necromancy") - his first minions, and the beginnings of the Cult of the Damned.
+
+Chief among the men and women who heard the Lich King's call was [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), archmage of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Forsaking his position as a senior member of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), Dalaran's ruling council, Kel'Thuzad traveled alone to Northrend. The vast [Nerubian](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian") ruins left decimated by the [War of the Spider](https://wowpedia.fandom.com/wiki/War_of_the_Spider "War of the Spider") confirmed his desire to ally with the Lich King. His arrival was expected, and he offered his soul to Ner'zhul. In exchange for loyalty and obedience, Kel'Thuzad was promised immortality and power, but he remained a mortal human for his appointed task: the organization of the Cult of the Damned, which would set the stage for the Scourge's conquest of Lordaeron. The Archmagus was old, but still very charismatic, a useful trait for amassing more and more of Lordaeron's easily-swayed citizens under the shadow of the Lich King.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Cult_Master_Kel%27Thuzad.jpg/revision/latest/scale-to-width-down/180?cb=20210326112224)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Cult_Master_Kel%27Thuzad.jpg/revision/latest?cb=20210326112224)
+
+The necromancer Kel'Thuzad
+
+For three years Kel'Thuzad worked, preaching his new religion to the masses, promising them immortality and an ideal society free of all the burdens the existing one forced upon its citizenry. Many of Lordaeron's overworked laborers and disenfranchised masses were taken in by this charismatic individual, and willingly sold themselves into service to the Lich King. Kel'Thuzad also used his fortunes and offers of great powers and immortality to attract and convince nobles and landowners to join his cause, bringing them into the Cult through the promise of using the lower classes to defeat their rivals and obtain even more wealth.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-11">[11]</a></sup> Some of the earliest known members of the Cult of the Damned include [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare"),<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-12">[12]</a></sup> [Bronjahm](https://wowpedia.fandom.com/wiki/Bronjahm "Bronjahm"),<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-13">[13]</a></sup> [Maleki the Pallid](https://wowpedia.fandom.com/wiki/Maleki_the_Pallid "Maleki the Pallid"),<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-14">[14]</a></sup> and [Ras Frostwhisper](https://wowpedia.fandom.com/wiki/Ras_Frostwhisper "Ras Frostwhisper").<sup id="cite_ref-Marduke_3-2"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Marduke-3">[3]</a></sup> Eventually, many of Lordaeron's northern towns were completely under the control of the Cult of the Damned, and it became time for the Lich King to act.
+
+### Third War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/70/Cult_of_the_Damnied_rallied.jpg/revision/latest/scale-to-width-down/180?cb=20180908152553)](https://static.wikia.nocookie.net/wowpedia/images/7/70/Cult_of_the_Damnied_rallied.jpg/revision/latest?cb=20180908152553)
+
+The Cult rallied by Arthas and Tichondrius.
+
+As the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") started, the cultists began openly operating alongside [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") forces, led by their master Kel'Thuzad, distributing plagued grain throughout northern Lordaeron.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-15">[15]</a></sup> They were eventually scattered by the vengeful [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and went back into hiding.
+
+In the days since Prince Arthas took the fleet to Northrend, the Scourge continued to grow, taking villages and its turned inhabitants, with a small help from [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare") and his corrupted food supplies.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-16">[16]</a></sup>
+
+When the prince of Lordaeron became corrupted by [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne") and changed his allegiances, [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") ordered him to rally the Cult once more. The [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") began his work in [Vandermar Village](https://wowpedia.fandom.com/wiki/Vandermar_Village "Vandermar Village"), where many hidden acolytes lived, though they eventually fell under suspicion of the local town guard. Arthas gathered the cultists and saved those in danger, destroying the village in the process. The acolytes began serving Arthas and openly acting once more.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-17">[17]</a></sup>
+
+[Plague cauldrons](https://wowpedia.fandom.com/wiki/Plague_cauldron "Plague cauldron"), artifacts which would spread the blight plague over wide areas, were created and placed by the Cult of the Damned in the cities they controlled, beginning in the northernmost reaches of the kingdom of Lordaeron. The plague spread quickly, wiping out the towns' populations and raising them as Scourge. Though this was a horror for an unsuspecting citizen, for a Cultist, undeath was a welcome reward.
+
+When Arthas shattered the Lich King's prison and took on the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination") and the spirit of Ner'zhul, the cult continued to serve him in the years to come.
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Cultist_Engineer.jpg/revision/latest/scale-to-width-down/180?cb=20091025144434)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Cultist_Engineer.jpg/revision/latest?cb=20091025144434)
+
+Cultist
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+The Cult was still active, secretly present in nearly every city of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"),<sup id="cite_ref-Marduke_3-3"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Marduke-3">[3]</a></sup> but its true objective was hidden; the Lich King's next move had yet to be revealed.
+
+As the only living humanoid boss in [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas"), [Grand Widow Faerlina](https://wowpedia.fandom.com/wiki/Grand_Widow_Faerlina "Grand Widow Faerlina") is likely a high-ranked member of the cult. Other members include [Maleki the Pallid](https://wowpedia.fandom.com/wiki/Maleki_the_Pallid "Maleki the Pallid"), leader of the mortal [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin") in Stratholme.
+
+The Cult of the Damned makes a strong comeback in _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_, and have managed to infect many villages with the Undead Plague, including the Magmothran magnataur in [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra"), the Alliance town of [Farshire](https://wowpedia.fandom.com/wiki/Farshire "Farshire"), and the Horde farms north of [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold"), and have infiltrated both factions' main strongholds within Borean Tundra.
+
+The Cult of the Damned trains, practices, and kills within [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), mostly upon the gigantic series of gates the Lich King built to fortify his [citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel").
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+After the events of the [War against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"), the Cult of the Damned is now independent of the Bolvar-controlled Scourge.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-18">[18]</a></sup>
+
+The Cult is still active in the Plaguelands, attempting to spread the plague and creating new undead horrors.
+
+However, their task is mostly to re-blight or prevent the healing of the Plaguelands (which has mostly failed outside of the Eastern Plaguelands).
+
+In the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight_(instance) "Hour of Twilight (instance)"), [Wastes Taskmasters](https://wowpedia.fandom.com/wiki/Wastes_Taskmaster "Wastes Taskmaster") are still commanding ghouls around [Galakrond's Rest](https://wowpedia.fandom.com/wiki/Galakrond%27s_Rest "Galakrond's Rest").
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Despite attacks on [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance"), the Cult of the Damned appears active on the island of [Caer Darrow](https://wowpedia.fandom.com/wiki/Caer_Darrow "Caer Darrow") still and in possession of the [Book of Medivh](https://wowpedia.fandom.com/wiki/Book_of_Medivh "Book of Medivh"), until Gul'dan and the Shadow Council took it.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-19">[19]</a></sup>
+
+### Exploring Azeroth
+
+Following the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") stated that according to [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade") reports, the Cult of the Damned is still in Scholomance with [Darkmaster Gandling](https://wowpedia.fandom.com/wiki/Darkmaster_Gandling "Darkmaster Gandling") at their head.<sup id="cite_ref-Exploring_Azeroth_5-1"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Exploring_Azeroth-5">[5]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+After the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination") was destroyed and so the Lich King no longer existed, the Cult of the Damned re-emerged all across Azeroth, emboldened by the message of [the Jailer](https://wowpedia.fandom.com/wiki/The_Jailer "The Jailer") brought by the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") [kyrian](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian") [Herald Dalora](https://wowpedia.fandom.com/wiki/Herald_Dalora "Herald Dalora").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-20">[20]</a></sup>
+
+## Members
+
+### Named
+
+| Name | Location | Status |
+| --- | --- | --- |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Alumeth the Ascended](https://wowpedia.fandom.com/wiki/Alumeth_the_Ascended "Alumeth the Ascended") | [Aldur'thar: The Desolation Gate](https://wowpedia.fandom.com/wiki/Aldur%27thar:_The_Desolation_Gate "Aldur'thar: The Desolation Gate") | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Killable (Undead) |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare") | [Various Locations](https://wowpedia.fandom.com/wiki/Baron_Rivendare#Locations "Baron Rivendare") |  | Active (Undead) |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Bronjahm](https://wowpedia.fandom.com/wiki/Bronjahm "Bronjahm") | [Forge of Souls](https://wowpedia.fandom.com/wiki/Forge_of_Souls "Forge of Souls") | [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") | Deceased (Undead) |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")   ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D) ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir") | [Tower of the Damned](https://wowpedia.fandom.com/wiki/Tower_of_the_Damned "Tower of the Damned") | [Deatholme](https://wowpedia.fandom.com/wiki/Deatholme "Deatholme") | Deceased (Undead) |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Darnavan](https://wowpedia.fandom.com/wiki/Darnavan "Darnavan") (temporarily) | [Lower Spire](https://wowpedia.fandom.com/wiki/Lower_Spire "Lower Spire") | [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") | Unknown |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Deathspeaker Kharos](https://wowpedia.fandom.com/wiki/Deathspeaker_Kharos "Deathspeaker Kharos") | [Deathspeaker's Watch](https://wowpedia.fandom.com/wiki/Deathspeaker%27s_Watch "Deathspeaker's Watch") | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Deceased |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Deathspeaker Selendre](https://wowpedia.fandom.com/wiki/Deathspeaker_Selendre "Deathspeaker Selendre") |  | [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands") | Killable |
+|  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Diodor the Damned](https://wowpedia.fandom.com/wiki/Diodor_the_Damned "Diodor the Damned") | Unknown | Unknown | Deceased |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Doctor Kohler](https://wowpedia.fandom.com/wiki/Doctor_Kohler "Doctor Kohler") | [Deathspeaker's Watch](https://wowpedia.fandom.com/wiki/Deathspeaker%27s_Watch "Deathspeaker's Watch") | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Killable (Undead) |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Darkmaster Gandling](https://wowpedia.fandom.com/wiki/Darkmaster_Gandling "Darkmaster Gandling") | [Headmaster's Study](https://wowpedia.fandom.com/wiki/Headmaster%27s_Study "Headmaster's Study") | [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance") | Active |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Grand Widow Faerlina](https://wowpedia.fandom.com/wiki/Grand_Widow_Faerlina "Grand Widow Faerlina") | [Arachnid Quarter](https://wowpedia.fandom.com/wiki/Naxxramas#Arachnid_Quarter "Naxxramas") | [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Grimkor the Wicked](https://wowpedia.fandom.com/wiki/Grimkor_the_Wicked "Grimkor the Wicked") | [Ironwall Rampart](https://wowpedia.fandom.com/wiki/Ironwall_Rampart "Ironwall Rampart") | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Killable |
+| [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Guard Mitchells](https://wowpedia.fandom.com/wiki/Guard_Mitchells "Guard Mitchells") | [Valiance Keep](https://wowpedia.fandom.com/wiki/Valiance_Keep "Valiance Keep") | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[High Cultist Herenn](https://wowpedia.fandom.com/wiki/High_Cultist_Herenn "High Cultist Herenn") | [Shaper's Terrace](https://wowpedia.fandom.com/wiki/Shaper%27s_Terrace "Shaper's Terrace") | [Un'Goro Crater](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater "Un'Goro Crater") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[High Cultist Zangus](https://wowpedia.fandom.com/wiki/High_Cultist_Zangus "High Cultist Zangus") | [The Pit of Narjun](https://wowpedia.fandom.com/wiki/The_Pit_of_Narjun "The Pit of Narjun") | [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") | Killable |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[High Deathpriest Isidorus](https://wowpedia.fandom.com/wiki/High_Deathpriest_Isidorus "High Deathpriest Isidorus") | [Death's Stand](https://wowpedia.fandom.com/wiki/Death%27s_Stand "Death's Stand") | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") | Unknown |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[High Invoker Basaleph](https://wowpedia.fandom.com/wiki/High_Invoker_Basaleph "High Invoker Basaleph") | [Cathedral of Darkness](https://wowpedia.fandom.com/wiki/Cathedral_of_Darkness "Cathedral of Darkness") | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Deceased (Undead) |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Jandice Barov](https://wowpedia.fandom.com/wiki/Jandice_Barov "Jandice Barov") | [Hall of Illusions](https://wowpedia.fandom.com/wiki/Hall_of_Illusions "Hall of Illusions") | [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance") | Active (Undead) |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")   ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D) ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") | [Throne of the Damned](https://wowpedia.fandom.com/wiki/Throne_of_the_Damned "Throne of the Damned") | [Sanctum of Domination](https://wowpedia.fandom.com/wiki/Sanctum_of_Domination "Sanctum of Domination") | Deceased (Undead) |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper") | [Lower Spire](https://wowpedia.fandom.com/wiki/Lower_Spire "Lower Spire") | [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") | Deceased (Undead) |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Maleki the Pallid](https://wowpedia.fandom.com/wiki/Maleki_the_Pallid "Maleki the Pallid") | [Gauntlet](https://wowpedia.fandom.com/wiki/Gauntlet "Gauntlet") | [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Malicia](https://wowpedia.fandom.com/wiki/Instructor_Malicia "Instructor Malicia") | [Malicia's Outpost](https://wowpedia.fandom.com/wiki/Malicia%27s_Outpost "Malicia's Outpost") | [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Deathgaze](https://wowpedia.fandom.com/wiki/Overseer_Deathgaze "Overseer Deathgaze") | [Jintha'kalar](https://wowpedia.fandom.com/wiki/Jintha%27kalar "Jintha'kalar") | [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") | Killable (Undead) |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Faedris](https://wowpedia.fandom.com/wiki/Overseer_Faedris "Overseer Faedris") | [Aldur'thar: The Desolation Gate](https://wowpedia.fandom.com/wiki/Aldur%27thar:_The_Desolation_Gate "Aldur'thar: The Desolation Gate") (South Rampart) | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Jhaeqon](https://wowpedia.fandom.com/wiki/Overseer_Jhaeqon "Overseer Jhaeqon") | [Aldur'thar: The Desolation Gate](https://wowpedia.fandom.com/wiki/Aldur%27thar:_The_Desolation_Gate "Aldur'thar: The Desolation Gate") (Mid-Rampart) | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Savryn](https://wowpedia.fandom.com/wiki/Overseer_Savryn "Overseer Savryn") | [Aldur'thar: The Desolation Gate](https://wowpedia.fandom.com/wiki/Aldur%27thar:_The_Desolation_Gate "Aldur'thar: The Desolation Gate") (North Rampart) | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Veraj](https://wowpedia.fandom.com/wiki/Overseer_Veraj "Overseer Veraj") | [Aldur'thar: The Desolation Gate](https://wowpedia.fandom.com/wiki/Aldur%27thar:_The_Desolation_Gate "Aldur'thar: The Desolation Gate") (East Rampart) | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Killable |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ras Frostwhisper](https://wowpedia.fandom.com/wiki/Ras_Frostwhisper "Ras Frostwhisper") | [Laboratory](https://wowpedia.fandom.com/wiki/Laboratory "Laboratory") | [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance") | Deceased (Undead) |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Rothin the Decaying](https://wowpedia.fandom.com/wiki/Rothin_the_Decaying "Rothin the Decaying") | [Maw of Neltharion](https://wowpedia.fandom.com/wiki/Maw_of_Neltharion "Maw of Neltharion") | [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") | Killable |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [![IconSmall Darion.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/9c/IconSmall_Darion.gif/revision/latest?cb=20090513091722) [The Black Knight](https://wowpedia.fandom.com/wiki/The_Black_Knight "The Black Knight") | [Argent Tournament Grounds](https://wowpedia.fandom.com/wiki/Argent_Tournament_Grounds "Argent Tournament Grounds") | [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | Deceased (Undead) |
+| [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Tom Hegger](https://wowpedia.fandom.com/wiki/Tom_Hegger "Tom Hegger") | [Valiance Keep](https://wowpedia.fandom.com/wiki/Valiance_Keep "Valiance Keep") | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") | Killable |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Varidus the Flenser](https://wowpedia.fandom.com/wiki/Varidus_the_Flenser "Varidus the Flenser") | [Warsong Slaughterhouse](https://wowpedia.fandom.com/wiki/Warsong_Slaughterhouse "Warsong Slaughterhouse") | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") | Killable |
+| [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)["Salty" John Thorpe](https://wowpedia.fandom.com/wiki/%22Salty%22_John_Thorpe ""Salty" John Thorpe") | [Valiance Keep](https://wowpedia.fandom.com/wiki/Valiance_Keep "Valiance Keep") | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") | Killable |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Jack](https://wowpedia.fandom.com/wiki/Jack_(human) "Jack (human)") | Unknown | [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | Alive |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Pai Stormbringer](https://wowpedia.fandom.com/wiki/Pai_Stormbringer "Pai Stormbringer") | Unknown | Unknown | Alive |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ul'haik Hadanot](https://wowpedia.fandom.com/wiki/Ul%27haik_Hadanot "Ul'haik Hadanot") | Unknown | Unknown | Unknown |
+
+### Unnamed
+
+[![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up"). Reason: **Trim; leave some interesting / distinct examples.**
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+The Cult of the Damned considered the demons' defeat a victory for the Scourge as well. The Lich King was finally freed from the Legion's control, and could begin furthering his own plans using his powerful death knight, [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). He already had the greater part of Lordaeron under his control, and he wished to expand his influence. The Cult of the Damned rejoiced in the release of its leader and continues to work for him after the war. They didn't blink an eye when Arthas shattered the Lich King's prison and took on the spirit of Ner'zhul, making the new Lich King the strongest being in the world. The Cult simply vowed to serve this new entity as it did the old, as long as he furthered the efforts of the Scourge. Considering the new Lich King is now a mobile individual, the Cult works itself into a frenzy with the thought he may leave his new home in Northrend and grace Lordaeron with his presence some day. Working beside the undead, delving into the dark magic of necromancy, and striving one day to become undead themselves, the Cult of the Damned is truly a frightening organization.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-21">[21]</a></sup>
+
+### Organization
+
+The base of operations of the Cult of the Damned is [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), and its leader is [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"). Kel'Thuzad takes orders from the Lich King himself, and orchestrates the spread of the Scourge. His two closest living lieutenants are referred to as simply "Next In Line", and are raised as [shades](https://wowpedia.fandom.com/wiki/Shades "Shades") and replaced periodically. These leaders serve the Lich King without question, seeing [undeath](https://wowpedia.fandom.com/wiki/Undeath "Undeath") as the ultimate reward. Under the Next In Line, the Cult of the Damned appears to run with little rhyme or reason, but the (apparent) chaos serves the group's purpose - individual leaders cannot be picked out and targeted. Underneath the chaos is a tightly run operation with mortals dedicated to the study of dark magic, the conscription of new mortal members and undercover scouting for the Scourge's forces.
+
+The Cult is situated mostly in the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands") and, to a lesser extent, in the rest of Lordaeron, always extending the Scourge's sphere of control. The Cult will often be found wherever the Scourge is.<sup id="cite_ref-Lands_of_Conflict_154-155_22-0"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Lands_of_Conflict_154-155-22">[22]</a></sup>
+
+### Military tactics
+
+The Cult of the Damned is not a military organization. It is an arm of the Scourge, and the Scourge has other methods of waging war. However, the cult contributes a pair of special weapons: necromancers and [blightweavers](https://wowpedia.fandom.com/wiki/Blightweaver "Blightweaver"). Their dark rites support the cult, bringing curses on their enemies and raising new legions of undead.
+
+On the battlefield, they are scavengers, using spells to bring their dead enemies under their control before the carrion birds can get to them, gathering large undead forces and directing them at key targets chosen by their Scourge commanders.
+
+Death comes in many forms — and it's the job of the blightweaver to make sure that death comes in as terrible a form as possible. These tinkers of the vile concoct new poisons and breed new diseases, hoping to discover new plagues that will extend the Scourge's terror to every corner of Azeroth.
+
+On the battlefield, the Scourge occasionally employs blightweavers as [sappers](https://wowpedia.fandom.com/wiki/Sapper "Sapper") of life; instead of sending teams of goblins to destroy a wall with a burst of explosives, they send these vile priests out to destroy a populace with an explosion of disease and poison. They sneak into a town while the battle rages elsewhere, plant plague animals in stables, and poison wells.<sup id="cite_ref-Dark_Factions_171_23-0"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Dark_Factions_171-23">[23]</a></sup>
+
+### Membership
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Cultistelves.JPG/revision/latest/scale-to-width-down/180?cb=20061129082538)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Cultistelves.JPG/revision/latest?cb=20061129082538)
+
+High elf cultists welcoming a new member.
+
+While the current members of the Cult of the Damned are zealous individuals wholly dedicated to their cause, most new recruits are shy and weak-willed people unsure of themselves. Unpopular, abused people, often considered failures in their careers or their lives in general, are ripe for the manipulation of the Scourge as they don't have much to hold onto in the first place. With the promise of wealth, power, knowledge — whatever will motivate them — the Cult draws them in. When the mortals commit to the Cult, they are forced to drink a concoction that steals their will and enslaves them forever to the Lich King, to help them with the final act of submission. Afterward, they are given an Orb of Illusion, used to disguise a cult member, allowing them to gain safe passage, infiltrate, or simply blend in with an enemy, and are confident and in the full sway of the Lich King's powers, ready to work tirelessly to spread the will of the Scourge. Members view the Scourge with envious fascination, and many felt this way before any dark influences helped convert them. The undead seemingly defy the natural order of things and show limitless potential, for if one can beat death, one can do anything. To be undead is the greatest goal one can have in life. It is considered a reward for a life well lived (according to the Scourge, of course) to be given undeath. There is sometimes a murmur of dissent in the ranks when some feel that their fallen enemies are gifted with undeath undeservedly while cultists must work to receive that divine payment. Such grumblings are often put down quickly, usually with the threat of death with no final reward. The officers in the Cult explain that their enemies die and become allies because their numbers are much greater than the Cult of the Damned. If the Scourge only raised deserving mortals, it would not be the great force it is today. The Scourge needs the Cult because they need mortals to serve them.
+
+Kel'Thuzad personally appoints officials and leaders for the Cult, looking for people both talented in espionage and in pursuing the dark art of necromancy. Good leadership abilities, a talent for recruitment and the ability to blend in with normal mortals are also valued skills. It is impossible to reach any officer ranks without magic, however. There are no ranking members of the Cult who do not know at least a handful of dark spells.<sup id="cite_ref-Lands_of_Conflict_155-156_24-0"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-Lands_of_Conflict_155-156-24">[24]</a></sup>
+
+## Notes
+
+-   Pledges to the cult are forced to drink a concoction that steals their will and enslaves them forever to the Lich King. Some say the potion contains the twisted soul of a being who was tormented before being mercilessly slaughtered.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-25">[25]</a></sup>
+-   All cult initiates are given a special item called an [Orb of Illusion](https://wowpedia.fandom.com/wiki/Orb_of_Illusion "Orb of Illusion"). These artifacts are used to disguise a cult member, allowing them to gain safe passage, infiltrate, or simply blend in with an enemy.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-26">[26]</a></sup>
+-   The members of the cult located in Scholomance celebrated the [Midsummer Fire Festival](https://wowpedia.fandom.com/wiki/Midsummer_Fire_Festival "Midsummer Fire Festival").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Damned#cite_note-27">[27]</a></sup>
+-   [Mobs](https://wowpedia.fandom.com/wiki/Mob "Mob") and [NPCs](https://wowpedia.fandom.com/wiki/NPC "NPC") that are members of the Cult of the Damned will usually have the [title](https://wowpedia.fandom.com/wiki/Title#Mobs_and_NPCs "Title") <Cult of the Damned>. They also often use specific "cultist" facial textures that are not available to players.
+-   According to  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[81\] [The Defector](https://wowpedia.fandom.com/wiki/The_Defector), an unreleased _Cataclysm_ quest, a [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") instructor in [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") was to be involved with the remnants of the Cult of the Damned.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   Before being a part of the [Anub'ar](https://wowpedia.fandom.com/wiki/Anub%27ar "Anub'ar"), the humanoid cultists were likely a part of the Cult of the Damned.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Scholomance_Student.jpg/revision/latest/scale-to-width-down/52?cb=20090103230039)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Scholomance_Student.jpg/revision/latest?cb=20090103230039)
+    
+    Male human cult member.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/11/Scholomance_Neophyte_Old.jpg/revision/latest/scale-to-width-down/66?cb=20120404233342)](https://static.wikia.nocookie.net/wowpedia/images/1/11/Scholomance_Neophyte_Old.jpg/revision/latest?cb=20120404233342)
+    
+    Female human cult member.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Scholomance_Necrolyte.jpg/revision/latest/scale-to-width-down/88?cb=20090103221434)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Scholomance_Necrolyte.jpg/revision/latest?cb=20090103221434)
+    
+    Male gnome cult member.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Scholomance_Occultist.jpg/revision/latest/scale-to-width-down/54?cb=20180112133138)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Scholomance_Occultist.jpg/revision/latest?cb=20180112133138)
+    
+    Female high elf cult member.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/53/BTNAcolyte.png/revision/latest?cb=20210516213617)](https://static.wikia.nocookie.net/wowpedia/images/5/53/BTNAcolyte.png/revision/latest?cb=20210516213617)
+    
+    Symbol found on the [Acolyte](https://wowpedia.fandom.com/wiki/Acolyte_(Warcraft_III) "Acolyte (Warcraft III)") unit's cloak in _Warcraft III_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Cult_of_the_Damned_symbol.png/revision/latest/scale-to-width-down/120?cb=20201112153958)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Cult_of_the_Damned_symbol.png/revision/latest?cb=20201112153958)
+    
+    Symbol
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Scholomance_banner_1.png/revision/latest/scale-to-width-down/92?cb=20201112181410)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Scholomance_banner_1.png/revision/latest?cb=20201112181410)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/36/Scholomance_banner_2.png/revision/latest/scale-to-width-down/68?cb=20201112181440)](https://static.wikia.nocookie.net/wowpedia/images/3/36/Scholomance_banner_2.png/revision/latest?cb=20201112181440)
+    
+    A banner in Scholomance
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Icecrown_banner.png/revision/latest/scale-to-width-down/66?cb=20201115214751)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Icecrown_banner.png/revision/latest?cb=20201115214751)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Cult_of_the_Damned_Spray_HotS.png/revision/latest/scale-to-width-down/120?cb=20210403022939)](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Cult_of_the_Damned_Spray_HotS.png/revision/latest?cb=20210403022939)
+    
+    [Spray](https://heroesofthestorm.fandom.com/wiki/Spray "hots:Spray") of the Cult of the Damned icon in _Heroes of the Storm_ in colored differently.
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Fanart_-_Scourge_show_no_mercy_by_Alexey_Kruglov.jpg/revision/latest/scale-to-width-down/120?cb=20181222204717)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Fanart_-_Scourge_show_no_mercy_by_Alexey_Kruglov.jpg/revision/latest?cb=20181222204717)
+    
+    Scourge show no mercy by Alexey Kruglov.
+    
+
+## References
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Scourge "Template:Scourge")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Scourge?action=edit)
+
+[Undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+    -   [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul")
+    -   [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")
+    -   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Amnennar the Coldbringer](https://wowpedia.fandom.com/wiki/Amnennar_the_Coldbringer "Amnennar the Coldbringer")
+-   [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak")
+-   [Baron Rivendare](https://wowpedia.fandom.com/wiki/Baron_Rivendare "Baron Rivendare")
+-   [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel")
+-   [Dar'Khan Drathir](https://wowpedia.fandom.com/wiki/Dar%27Khan_Drathir "Dar'Khan Drathir")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric")
+-   [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")
+-   [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron")
+-   [Lady Deathwhisper](https://wowpedia.fandom.com/wiki/Lady_Deathwhisper "Lady Deathwhisper")
+-   [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn")
+-   [Professor Putricide](https://wowpedia.fandom.com/wiki/Professor_Putricide "Professor Putricide")
+-   [Shade of Arugal](https://wowpedia.fandom.com/wiki/Shade_of_Arugal "Shade of Arugal")
+-   [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa")
+
+
+
+ |
+|  |
+| Undead types | 
+
+<table><tbody><tr><th scope="row">Corporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Abomination" title="Abomination">Abomination</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mutated_abomination" title="Mutated abomination">Mutated abomination</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_giant" title="Flesh giant">Flesh giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Flesh_titan" title="Flesh titan">Flesh titan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague-dog" title="Plague-dog">Plague-dog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wight" title="Wight">Wight</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Crypt_fiend" title="Crypt fiend">Crypt fiend</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crypt_lord" title="Crypt lord">Crypt lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Gargoyle" title="Gargoyle">Gargoyle</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dire_gargoyle" title="Dire gargoyle">Dire</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Geist" title="Geist">Geist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghoul" title="Ghoul">Ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragon" title="Plagued dragon">Plagued dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plague_eruptor" title="Plague eruptor">Plague eruptor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Zombie" title="Zombie">Zombie</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Undead_(playable)" title="Undead (playable)">Forsaken</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mummy" title="Mummy">Mummy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Darkfallen" title="Darkfallen">Darkfallen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scourge_troll" title="Scourge troll">Scourge troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vargul" title="Vargul">Vargul</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Incorporeal</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Banshee" title="Banshee">Banshee</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ghost" title="Ghost">Ghost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shade" title="Shade">Shade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val%27kyr" title="Val'kyr">Val'kyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wraith" title="Wraith">Wraith</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Skeletal_creature" title="Skeletal creature">Skeletal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_golem" title="Bone golem">Bone golem</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bone_wraith" title="Bone wraith">Bone wraith</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lich" title="Lich">Lich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeleton" title="Skeleton">Skeleton</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_mage" title="Skeletal mage">Mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Skeletal_warrior" title="Skeletal warrior">Warrior</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Skeletal dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Living followers | 
+
+-   [Ice troll](https://wowpedia.fandom.com/wiki/Ice_troll "Ice troll")
+-   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
+-   [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frost_vrykul "Frost vrykul")
+-   [Wendigo](https://wowpedia.fandom.com/wiki/Wendigo "Wendigo")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+-   [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel")
+-   [Naxxramas](https://wowpedia.fandom.com/wiki/Naxxramas "Naxxramas")
+-   [Shadowfang Tower](https://wowpedia.fandom.com/wiki/Shadowfang_Tower "Shadowfang Tower")
+-   [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")
+-   [Utgarde Keep](https://wowpedia.fandom.com/wiki/Utgarde_Keep "Utgarde Keep")
+-   [Voltarus](https://wowpedia.fandom.com/wiki/Voltarus "Voltarus")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+-   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+-   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")
+-   [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Black Guard](https://wowpedia.fandom.com/wiki/Black_Guard "Black Guard")
+-   [Boneguard](https://wowpedia.fandom.com/wiki/Boneguard_(Scourge) "Boneguard (Scourge)")
+-   **Cult of the Damned**
+    -   [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance")
+    -   [Thuzadin](https://wowpedia.fandom.com/wiki/Thuzadin "Thuzadin")
+-   [Death's Head tribe](https://wowpedia.fandom.com/wiki/Death%27s_Head_tribe "Death's Head tribe")
+-   [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") orders
+    -   [Four Horsemen](https://wowpedia.fandom.com/wiki/Four_Horsemen "Four Horsemen")
+    -   [Host of Suffering](https://wowpedia.fandom.com/wiki/Host_of_Suffering "Host of Suffering")
+-   [Drakuru trolls](https://wowpedia.fandom.com/wiki/Drakuru_trolls "Drakuru trolls")
+-   [Frostbrood](https://wowpedia.fandom.com/wiki/Frostbrood "Frostbrood")
+-   [Mad scientists](https://wowpedia.fandom.com/wiki/Mad_scientist "Mad scientist")
+-   [Nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian")
+    -   [Ahn'kahar](https://wowpedia.fandom.com/wiki/Ahn%27kahar "Ahn'kahar")
+    -   [Anub'ar](https://wowpedia.fandom.com/wiki/Anub%27ar "Anub'ar")
+    -   [Hath'ar](https://wowpedia.fandom.com/wiki/Hath%27ar "Hath'ar")
+    -   [Nerub'ar](https://wowpedia.fandom.com/wiki/Nerub%27ar "Nerub'ar")
+    -   [Nerubis](https://wowpedia.fandom.com/wiki/Nerubis "Nerubis")
+-   [Rot Hide tribe](https://wowpedia.fandom.com/wiki/Rot_Hide_tribe "Rot Hide tribe")
+-   [The San'layn](https://wowpedia.fandom.com/wiki/San%27layn "San'layn")
+    -   [Blood Prince Council](https://wowpedia.fandom.com/wiki/Blood_Prince_Council "Blood Prince Council")
+-   [Splinterbone](https://wowpedia.fandom.com/wiki/Splinterbone_skeletons "Splinterbone skeletons")
+-   [Vrykul clans](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")
+    -   [Dragonflayer clan](https://wowpedia.fandom.com/wiki/Dragonflayer_clan "Dragonflayer clan")
+    -   [Mjordin](https://wowpedia.fandom.com/wiki/Mjordin "Mjordin")
+    -   [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim_vrykul "Jotunheim vrykul")
+    -   [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan")
+    -   [Valkyrion Hyldnir](https://wowpedia.fandom.com/wiki/Valkyrion "Valkyrion")
+    -   [Ymirjar](https://wowpedia.fandom.com/wiki/Ymirjar "Ymirjar")
+-   [Wolfcult](https://wowpedia.fandom.com/wiki/Wolfcult "Wolfcult")
+
+
+
+ |
+|  |
+| Defectors | 
+
+-   [Death Knights of Acherus](https://wowpedia.fandom.com/wiki/Death_Knights_of_Acherus "Death Knights of Acherus")
+    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade")
+    -   [Dark Riders of Acherus](https://wowpedia.fandom.com/wiki/Dark_Riders_of_Acherus "Dark Riders of Acherus")
+-   [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+
+
+
+ |
+|  |
+| Buildings & constructs | 
+
+-   [Ziggurat](https://wowpedia.fandom.com/wiki/Ziggurat "Ziggurat")
+-   [Necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis")
+-   [Plague spreader](https://wowpedia.fandom.com/wiki/Plague_spreader "Plague spreader")
+-   [Soul grinder](https://wowpedia.fandom.com/wiki/Soul_grinder "Soul grinder")
+
+
+
+ |
+|  |
+| 
+
+-   [Civil War in the Plaguelands](https://wowpedia.fandom.com/wiki/Civil_War_in_the_Plaguelands "Civil War in the Plaguelands")
+-   [Undead category](https://wowpedia.fandom.com/wiki/Category:Undead "Category:Undead")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs "Template:Religions and beliefs")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs?action=edit)
+
+[Religions](https://wowpedia.fandom.com/wiki/Religion "Religion") and beliefs
+
+
+
+ |
+| --- |
+|  |
+| [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") | 
+
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [alternate](https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe) "Shadow Council (alternate universe)")
+    -   [Argus Wake](https://wowpedia.fandom.com/wiki/Argus_Wake "Argus Wake")
+    -   [Burning Blade](https://wowpedia.fandom.com/wiki/Burning_Blade "Burning Blade")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Cult of the Dark Strand](https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand "Cult of the Dark Strand")
+    -   [Searing Blade](https://wowpedia.fandom.com/wiki/Searing_Blade "Searing Blade")
+
+
+
+ |
+|  |
+| [Holy](https://wowpedia.fandom.com/wiki/Light "Light") | 
+
+-   [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")
+-   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
+-   [Adherents of Rukhmar](https://wowpedia.fandom.com/wiki/Adherents_of_Rukhmar "Adherents of Rukhmar")
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+
+
+
+ |
+|  |
+| [Shadow](https://wowpedia.fandom.com/wiki/Void "Void") | 
+
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Talonpriests](https://wowpedia.fandom.com/wiki/Talonpriest "Talonpriest")
+-   [Sethekk](https://wowpedia.fandom.com/wiki/Sethekk "Sethekk")
+    -   [alternate](https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe) "Sethekk (alternate universe)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+
+
+
+ |
+|  |
+| [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature") | 
+
+-   [Druidism](https://wowpedia.fandom.com/wiki/Druid "Druid")
+-   [Geomancy](https://wowpedia.fandom.com/wiki/Geomancer "Geomancer")
+-   [Shamanism](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship")
+
+
+
+ |
+|  |
+| [Necromantic](https://wowpedia.fandom.com/wiki/Necromantic "Necromantic") | 
+
+-   **Cult of the Damned**
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Arkkoran](https://wowpedia.fandom.com/wiki/Arkkoran "Arkkoran")
+-   [Cult of Ragnaros](https://wowpedia.fandom.com/wiki/Cult_of_Ragnaros "Cult of Ragnaros")
+-   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+-   [Huojin](https://wowpedia.fandom.com/wiki/Huojin "Huojin")
+-   [Ravenspeakers](https://wowpedia.fandom.com/wiki/Ravenspeakers "Ravenspeakers")
+-   [Tidemother](https://wowpedia.fandom.com/wiki/Tidemother "Tidemother") ([Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages"))
+-   [Tushui](https://wowpedia.fandom.com/wiki/Tushui "Tushui")
+-   [Voodoo](https://wowpedia.fandom.com/wiki/Voodoo "Voodoo")
+-   [Waterspeaking](https://wowpedia.fandom.com/wiki/Waterspeaker "Waterspeaker")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") | 
+
+-   [Arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") ([Echo of Life](https://wowpedia.fandom.com/wiki/Echo_of_Life "Echo of Life"))
+-   [Cult of the Burning Legion](https://wowpedia.fandom.com/wiki/Cult_of_the_Burning_Legion "Cult of the Burning Legion")
+-   [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") ([Demonology](https://wowpedia.fandom.com/wiki/Demonology_(lore) "Demonology (lore)"))
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light") ([Faith of the Holy Light](https://wowpedia.fandom.com/wiki/Faith_of_the_Holy_Light "Faith of the Holy Light")
+-   [Heretics of the Holy Light](https://wowpedia.fandom.com/wiki/Heretics_of_the_Holy_Light "Heretics of the Holy Light"))
+-   [Mystery of the Makers](https://wowpedia.fandom.com/wiki/Mystery_of_the_Makers "Mystery of the Makers")
+-   [Sect of the Dragons](https://wowpedia.fandom.com/wiki/Sect_of_the_Dragons "Sect of the Dragons")
+-   [Shamanism](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship") ([Ancestral worship](https://wowpedia.fandom.com/wiki/Ancestral_worship "Ancestral worship")
+-   [Animism](https://wowpedia.fandom.com/wiki/Animism "Animism")
+-   [Spirit guidance](https://wowpedia.fandom.com/wiki/Spirit_guidance "Spirit guidance"))
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+
+
+
+ |

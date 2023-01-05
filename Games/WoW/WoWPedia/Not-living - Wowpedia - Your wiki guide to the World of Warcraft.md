@@ -1,0 +1,33 @@
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")The not-living |
+| --- |
+| [![Reanimation HS.jpg](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Reanimation_HS.jpg/revision/latest/scale-to-width-down/260?cb=20220301002112)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Reanimation_HS.jpg/revision/latest?cb=20220301002112) |
+| Main leader | [![IconSmall Galakrond.gif](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Galakrond.gif/revision/latest/scale-to-width-down/16?cb=20200521100339)](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Galakrond.gif/revision/latest?cb=20200521100339) [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond") <sup>&nbsp;†</sup> |
+| Race(s) | [Proto-dragon](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon")  
+ |
+| Theater of operations | [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
+| Affiliation | [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond") |
+| Status | Defeated |
+
+The **not-living** were undead proto-dragons created by Galakrond after he cannibalized them and absorbed their life essence, then vomited them back up. Seemingly a by-product of the mutated Galakrond, the not-living quickly attacked any living proto-dragon who adventured too close. It was noticed that proto-dragons that were bitten by them would develop a hunger that would cause them to act like Galakrond and try to devour their living companions.
+
+After [Talonixa](https://wowpedia.fandom.com/wiki/Talonixa "Talonixa") led a proto-dragon army to kill Galakrond, it was discovered that the not-living were in fact commanded by the monstrous fiend. While the proto-dragon was able to kill a great deal of not-living present, the not-living served their purpose in battle by bringing the army to Galakrond who emerged from beneath the earth and shattered the army as they scattered; many, including Talonixa, were killed.
+
+Following an attack by [Watcher Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") and the future [Aspects](https://wowpedia.fandom.com/wiki/Aspects "Aspects"), Galakrond sent his minions to hunt them down. At the same time, though, his ever-growing hunger caused Galakrond to devour the not-living as they were the only ones that didn't hide from the great behemoth. Galakrond's hunt came to an end when the future aspects engaged him again, and he unleashed his remaining not-living minions against them. Over the course of the battle, Malygos and Neltharion were noticed by the not-living while delivering a huge jagged stone into Galakrond's mouth. Determined to ensure that the plan's success, Neltharion broke off and engaged the not-living in battle.
+
+As Galakrond struggled to dislodge the rock from his throat, his control over the not-living was broken and they began to attack one another. In the end, Galakrond perished when Neltharion blasted one of the not-living down his mouth in order to push the boulder further into his body.<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Not-living#cite_note-1">[1]</a></sup> The remaining not-living were presumably also destroyed one way or another during the battle.
+
+## Notes
+
+-   The not-living are the first known [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") threat that [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") has faced.
+-   The [Not-Friend](https://wowpedia.fandom.com/wiki/Not-Friend "Not-Friend") manifestations are part of [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera")'s nightmares when her soul initially resided in [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald").
+-   [Reanimated Dragon](https://hearthstone.fandom.com/wiki/Reanimated_Dragon "hswiki:Reanimated Dragon") is summoned in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ from the [Reanimation](https://hearthstone.fandom.com/wiki/Reanimation "hswiki:Reanimation") choice card produced by [Kronx Dragonhoof](https://hearthstone.fandom.com/wiki/Kronx_Dragonhoof "hswiki:Kronx Dragonhoof") if the player's hero is Galakrond.
+-   The not-living are not known to modern inhabitants of Azeroth. There are no records existing of ancient proto-dragons battling the undead.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Not-living#cite_note-2">[2]</a></sup> Presumably this was part of the Aspects covering up the truth of Galakrond's powers to prevent other dragons from following in his footsteps.
+
+## Gallery
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Not-living#cite_ref-1) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_
+2.  [^](https://wowpedia.fandom.com/wiki/Not-living#cite_ref-2) Hall of the Aspects
+
+Others like you also viewed

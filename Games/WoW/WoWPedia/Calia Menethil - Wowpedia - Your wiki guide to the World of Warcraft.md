@@ -1,0 +1,1148 @@
+_"Calia" redirects here. For the human rogue with the same name, see [Calia Hastings](https://wowpedia.fandom.com/wiki/Calia_Hastings "Calia Hastings"). For the demon hunter, see [Illidari Calia](https://wowpedia.fandom.com/wiki/Illidari_Calia "Illidari Calia")._
+
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Calia Menethil |
+| --- |
+| [![Image of Calia Menethil](https://static.wikia.nocookie.net/wowpedia/images/1/17/Calia_Menethil_undead.jpg/revision/latest/scale-to-width-down/118?cb=20200628124009)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Calia_Menethil_undead.jpg/revision/latest?cb=20200628124009 "Image of Calia Menethil") |
+| Title | Princess,  
+The Pallid Lady |
+| Gender | Female |
+| Race(s) | [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead"), formerly [human](https://wowpedia.fandom.com/wiki/Human "Human") (Humanoid) |
+| Class | [Discipline](https://wowpedia.fandom.com/wiki/Discipline "Discipline") [priestess](https://wowpedia.fandom.com/wiki/Priest "Priest") |
+| Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave") |
+| Former affiliation(s) | [Kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") |
+| Occupation | Councilor of the Forsaken, member of the Desolate Council, Champion of the Conclave |
+| Former occupation(s) | Princess of Lordaeron<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-2">[2]</a></sup> |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Calia_Menethil#Locations) |
+| Status | Active (Undead) |
+| Relative(s) | [Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") (father),  
+[Lianne](https://wowpedia.fandom.com/wiki/Lianne_Menethil "Lianne Menethil") (mother),  
+[Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") (younger brother),  
+Unnamed husband,<sup id="cite_ref-CaliaFamily_3-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-CaliaFamily-3">[3]</a></sup>  
+Unnamed daughter<sup id="cite_ref-CaliaFamily_3-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-CaliaFamily-3">[3]</a></sup> |
+| Mentor(s) | [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") |
+
+“I am not yet ready to rule. But I wish to serve the people of Lordaeron. They are my people, and now I am like them. It feels... right. I'll learn. And from [the archbishop](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol"), I'll learn what it's like to be... this. To be undead yet walk in the Light.”
+
+— Calia to Anduin Wrynn after her resurrection<sup id="cite_ref-BTS_chapter_35_4-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_35-4">[4]</a></sup>
+
+**Calia Menethil** of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") is the daughter of King [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") and Queen [Lianne](https://wowpedia.fandom.com/wiki/Lianne_Menethil "Lianne Menethil"), and the older sister of Prince [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). After surviving the destruction of her homeland during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), Calia reappeared as a [priest](https://wowpedia.fandom.com/wiki/Priest "Priest") alongside the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") during the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion of Azeroth](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"). Hoping to reunite with her lost husband and daughter—whom she had become separated from during the Third War—Calia later worked with [King Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") to organize the [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering") where undead [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") could get the opportunity to reunite with their living [human](https://wowpedia.fandom.com/wiki/Human "Human") relatives. During the event, Calia was slain by the Forsaken's ruler [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), but—under the guidance of the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [Saa'ra](https://wowpedia.fandom.com/wiki/Saa%27ra "Saa'ra")—she was subsequently resurrected as an undead infused with the [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light").
+
+In the aftermath of the end of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") and the fall of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), Calia left Kul Tiras to help the Forsaken and assist the Forsaken leader [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), along with [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore").<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-5">[5]</a></sup>
+
+Following the Forsaken reclaiming the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") she, alongside other prominent Forsaken, created a new [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") to serve as the governing body of their people.
+
+## Biography
+
+### Early background
+
+Calia is two years older than her brother (thus born six years before the [First War](https://wowpedia.fandom.com/wiki/First_War "First War")) and was a friend of [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") when they were younger. Her father, King [Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II"), was a kind and understanding man, but he had made clear that he would choose his son-in-law, and that Calia would agree to it.<sup id="cite_ref-RiseoftheLichKing_6-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-RiseoftheLichKing-6">[6]</a></sup>
+
+During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), she was present in [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") when it was [besieged](https://wowpedia.fandom.com/wiki/Siege_of_Capital_City "Siege of Capital City") by the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-7">[7]</a></sup>
+
+Calia was very saddened by the fact that her father forced her into an arranged marriage with [Daval Prestor](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") and wished that [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") would choose his wife and princess by heart. However, the mysterious noble who was to replace the treacherous Lord [Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde") as the ruler of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)") eventually disappeared before any final arrangements were made, and [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")'s [mages](https://wowpedia.fandom.com/wiki/Mage "Mage") commented that the betrothal dwindled away. Calia later participated in Arthas' ceremony to become a member of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").<sup id="cite_ref-RiseoftheLichKing_6-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-RiseoftheLichKing-6">[6]</a></sup>
+
+As King Terenas turned his attention to Arthas, Calia fell in love with someone her father would never have approved of: a Lordaeron [footman](https://wowpedia.fandom.com/wiki/Footman "Footman"). It was her way of bucking Terenas' plan for her; had she been heir to the throne, she would have gone along with it.
+
+Once in the dark of night, they snuck away and begged a priestess to marry them; when the woman refused, the couple returned many times until she finally agreed. Eventually, Calia became pregnant and confided in her mother [Lianne Menethil](https://wowpedia.fandom.com/wiki/Lianne_Menethil "Lianne Menethil"). While at first furious, she could tell from Calia's face that it was true love and aided her in keeping her relationship and pregnancy a secret after she was assured that her grandchild would be legitimate. A few weeks after giving birth, it was decided the father would raise their daughter away from Lordaeron, ignorant of her birthright. Lianne promised that once Arthas was properly wed and produced an heir, they would acknowledge Calia's daughter and possibly elevate her husband to a nobleman's status.<sup id="cite_ref-BTS_chapter_15_8-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_15-8">[8]</a></sup><sup id="cite_ref-BTS_chapter_25_9-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_25-9">[9]</a></sup>
+
+Calia had listened to [Benedictus Voss](https://wowpedia.fandom.com/wiki/Benedictus_Voss "Benedictus Voss")'s sermons.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-10">[10]</a></sup> She had met and knew Archbishop [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol") well enough to easily recognize his face.<sup id="cite_ref-BTS_chapter_15_8-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_15-8">[8]</a></sup> She and the great Lordaeronian historian [Parqual Fintallas](https://wowpedia.fandom.com/wiki/Parqual_Fintallas "Parqual Fintallas") also knew each other.<sup id="cite_ref-BtS_33_11-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BtS_33-11">[11]</a></sup>
+
+### Third War
+
+She was officially thought to have perished on the day Arthas murdered their father,<sup id="cite_ref-BTS_chapter_9_12-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_9-12">[12]</a></sup> however, she survived. She hid in a muddy trench for two days to avoid slavering [ghouls](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul") as they prowled for her, and presumably, her mind being driven towards survival is why she doesn't remember much of that harrowing time.
+
+Eventually, Calia made her way to [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore"), where her husband and child had been hidden away and were safe from the Scourge, and tearfully reunited with her beloved family. With everyone assuming she was dead she lived there in secret with her family for some time until the town was attacked by [blight](https://wowpedia.fandom.com/wiki/Blight "Blight"). The three fled along with the rest of the town, but Calia was once again separated from her family in the crowd. Screaming their names in the middle of the street, a man pulled her onto his horse and galloped past the town limits barely in time, and she joined a cluster of refugees in the forest. She prayed she'd be one of those that would be reunited with their loved ones, but this time she never saw them again, not knowing their fate.
+
+At some point, while escaping from mindless undead, Calia stumbled upon one who was still sane and who she recognized. [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol"), who was a [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), showed her that not all undead had lost their minds and there were some who still were themselves even after death. This made her understand that the Forsaken and the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") were two separate entities, with the former still deserving of dignity and compassion. That gave her the chance to move through her shock and pain to a place of healing. Seeing the Forsaken as her old friends still living, she hoped that if her family had been killed by the undead and raised, they would live on as Forsaken instead of mindless Scourge.<sup id="cite_ref-BTS_chapter_15_8-2"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_15-8">[8]</a></sup><sup id="cite_ref-BTS_chapter_25_9-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_25-9">[9]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Calia_Menethil.jpg/revision/latest/scale-to-width-down/140?cb=20201112174018)](https://static.wikia.nocookie.net/wowpedia/images/8/83/Calia_Menethil.jpg/revision/latest?cb=20201112174018)
+
+Calia in [Faol's Rest](https://wowpedia.fandom.com/wiki/Faol%27s_Rest "Faol's Rest").
+
+Having become a [priest](https://wowpedia.fandom.com/wiki/Priest "Priest") at some point, Calia reappeared during the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [invasion of Azeroth](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") alongside Alonsus and was initially encountered by priests at [Faol's Rest](https://wowpedia.fandom.com/wiki/Faol%27s_Rest "Faol's Rest"). As a member of the [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave"), Calia traveled to the [Netherlight Temple](https://wowpedia.fandom.com/wiki/Netherlight_Temple "Netherlight Temple") to return the [void god](https://wowpedia.fandom.com/wiki/Void_god "Void god") [Saraka](https://wowpedia.fandom.com/wiki/Saraka "Saraka") back to its holy form, the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [Saa'ra](https://wowpedia.fandom.com/wiki/Saa%27ra "Saa'ra").<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-13">[13]</a></sup> She later became a champion to the [High Priest](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
+
+Calia participated in the [Battle for the Exodar](https://wowpedia.fandom.com/wiki/Battle_for_the_Exodar "Battle for the Exodar") battling against [High General Rakeesh](https://wowpedia.fandom.com/wiki/High_General_Rakeesh "High General Rakeesh"), along with [High Priestess Ishanah](https://wowpedia.fandom.com/wiki/High_Priestess_Ishanah "High Priestess Ishanah").
+
+### Before the Storm
+
+“There are things you must do before that peace will be granted to you. Things that you must understand, that you must integrate into yourself. People who need your help. What one needs in order to heal will always come one's way, but sometimes it is hard to recognize it. Sometimes the most beautiful and important gifts come wrapped in pain and blood.”
+
+— [Saa'ra](https://wowpedia.fandom.com/wiki/Saa%27ra "Saa'ra")'s advice to Calia<sup id="cite_ref-BTS_chapter_20_14-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_20-14">[14]</a></sup>
+
+Following the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"), [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") met Calia at the Netherlight Temple. After Faol introduced her as Terenas Menethil's daughter, Anduin considered her the rightful queen of Lordaeron, and was shocked and relieved to know she had survived.<sup id="cite_ref-BTS_chapter_9_12-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_9-12">[12]</a></sup> As Anduin worked with the Conclave to heal [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") from [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")' destruction and reconcile the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") and their human counterparts, Anduin began to see Calia as a kindred spirit and developed a bond with her similar to the one he had with [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"). Calia was also fond of Anduin and saw in him similarities to her beloved little brother Arthas before he became evil.
+
+Sometimes Calia would dream of happier times, like when she sang lullabies to her infant daughter and spent time with her family. During one such dream, Calia sadly considered how her daughter would never inherit her birthright. However, her dreams frequently turned into night terrors involving the undead before she awoke from them. Usually, Calia would speak of her dreams with the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [Saa'ra](https://wowpedia.fandom.com/wiki/Saa%27ra "Saa'ra"). Saa'ra would tell Calia that the nightmares will stop once she was ready for them to stop and that there are things she must do and become before that peace would be granted unto her. However, Saa'ra also warned that some of her trials may involve pain and blood. Though Calia admitted it didn't make her feel any better, Saa'ra told her it might once she understood that even painful developments may become hidden gifts and to trust in the purpose of her destiny. Saa'ra's insights would ease her apprehension, and she would try to repress the horrors she had endured or the memories of her daughter. Instead, she would retreat into a darkness that granted safety for wild creatures, momentary privacy for those who wanted to create, and sanctuary from her troubles. Saa'ra's warmth would then comfort her and told her to sleep in peace. As Calia left to return to her room for rest, her friend [Elinor](https://wowpedia.fandom.com/wiki/Elinor "Elinor") privately spoke with her to inform her of King Anduin's plans for a [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering") between Forsaken and their living relatives. The conversation filled Calia with hope and purpose, making her feel as if healing had finally come her way.<sup id="cite_ref-BTS_chapter_20_14-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_20-14">[14]</a></sup>
+
+Anduin, [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane"), and Calia later worked to recruit suitable human participants for the Gathering from the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")'s side. As they worked together, Anduin asked Calia if she sought to reclaim the throne of [Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron"). When Calia asked if Anduin would aid her in reclaiming her throne even if it meant war, Anduin became conflicted. Before Anduin could respond, Calia reassured him she had no intention of reclaiming Lordaeron and the best she could do for her people in the Forsaken is to work to ensure the Gathering's success. However, she did request to participate in the Gathering. Since his body did not respond to any nefarious intentions, Anduin agreed to permit it should Faol also consent. Anduin also asked Calia if she had a child that could one day become her heir, to which Calia did acknowledge a daughter and told Anduin the tragic tale of her family. Anduin surmised the reason she identified with the Forsaken is she hoped to be reunited with her family at the Gathering should they have been raised as undead. She later disguised herself and secretly observed the reunion between her friend Alonsus Faol, [High Exarch Turalyon](https://wowpedia.fandom.com/wiki/High_Exarch_Turalyon "High Exarch Turalyon"), and King [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane").
+
+Calia attended the [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering") as one of the priests that were offering the participants their blessings. Disguised in a cloak and hood, she healed [Ol' Emma](https://wowpedia.fandom.com/wiki/Ol%27_Emma "Ol' Emma") when she fainted from heatstroke. This brought the attention of [Elsie Benton](https://wowpedia.fandom.com/wiki/Vellcinda_Benton "Vellcinda Benton") who she had a pleasant conversation with. As the day went, [Parqual Fintallas](https://wowpedia.fandom.com/wiki/Parqual_Fintallas "Parqual Fintallas") recognized Calia beneath her hooded cloak and saw it as a reason and opportunity to defect into the Alliance. He asked Calia for a blessing and whispered to her, saying, "We need you now. It's time. You'll see. Be ready." Shortly after, Parqual, his daughter [Philia](https://wowpedia.fandom.com/wiki/Philia_Fintallas "Philia Fintallas"), and the [Felstone](https://wowpedia.fandom.com/wiki/Felstone "Felstone") family began to walk towards [Stromgarde Keep](https://wowpedia.fandom.com/wiki/Stromgarde_Keep "Stromgarde Keep") — where the Alliance were stationed. As Calia Menethil saw this unfold, she revealed her true identity and took it upon herself to try to convince the other Forsaken on the field to join the Alliance, first speaking with Elsie. After being made aware of her existence, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") personally flew through the field and murdered Calia, who she saw as a threat to her authority. Calia's corpse was later sent back to Netherlight Temple but miraculously did not decompose. Saa'ra informed Anduin and Alonsus that they would together bring Calia back as the [Light](https://wowpedia.fandom.com/wiki/Light "Light") and she herself would have her be, and the two priests proceeded to raise the fallen Menethil back as an [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") touched by the Light. Calia explained to Anduin that although she was untrained in the ways of politics, as Arthas was supposed to inherit the throne, and did not intend for the Gathering to become a bloodbath nor reassert her claim to Lordaeron, she could not stand by and let a usurper like Sylvanas butcher her people out of jealousy. Seeing the Forsaken as her people, Calia had followed her heart on the field to accept them as her responsibility but now acknowledged that she was not yet ready to lead as she hadn't been the heir to the throne. For now, she would learn under Faol how to be an undead walking in the Light to better serve her people.
+
+### Battle for Azeroth
+
+A set of Scarlet Brotherhood propaganda pamphlets can be found near the [Calston Estate](https://wowpedia.fandom.com/wiki/Calston_Estate "Calston Estate") in Tirisfal. In the pamphlets, the [Scarlet Brotherhood](https://wowpedia.fandom.com/wiki/Scarlet_Brotherhood "Scarlet Brotherhood") proclaims that [King Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") is an [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")\-loving traitor who worked with his "lover" [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") to stage a fake massacre at the [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering") in the [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands"). According to the Brotherhood, this was done in order to drum up sympathy for the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") and to lure out Calia so that she could be murdered and raised into undeath, allowing Anduin to marry her and usurp Lordaeron.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-15">[15]</a></sup><sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-16">[16]</a></sup> The pamphlets advise members of the order to rally behind the [worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen") king [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane") and help him wipe out the Forsaken, after which they will turn on Greymane and destroy the worgen as well in order to ensure that Lordaeron belongs only to "pure-blooded humans".<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-17">[17]</a></sup> Finally, the pamphlets state that the Brotherhood has secretly raised someone that they claim to be the son of Princess Calia and an [Arathi](https://wowpedia.fandom.com/wiki/Arathi_tribe "Arathi tribe") nobleman and therefore the rightful king of Lordaeron, whom they will reveal and place on the throne after the undead and worgen have been wiped from the land, thereby restoring the [Menethil](https://wowpedia.fandom.com/wiki/House_Menethil "House Menethil") dynasty.<sup id="cite_ref-The_Last_Menethil_18-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-The_Last_Menethil-18">[18]</a></sup>
+
+Most of these pamphlets, if not all, are not true. Of note, Calia's child is actually a daughter, not a son, and her husband was a Lordaeron footman, not an Arathi nobleman.<sup id="cite_ref-CaliaFamily_3-2"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-CaliaFamily-3">[3]</a></sup> Whoever the Scarlet Crusade has, if they have anyone, is likely not actually the Menethil heir as they claim.
+
+Following the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor_(battle) "Battle of Dazar'alor (battle)"), Jaina Proudmoore told Anduin that she had heard rumors about Calia and asked the king to tell her what happened in Arathi.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-19">[19]</a></sup> After [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") reunited the recently resurrected [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") with his sister, Jaina brought Derek to Calia in the hopes that she could help him.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-20">[20]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Calia_and_the_Proudmoore_Siblings.jpg/revision/latest/scale-to-width-down/180?cb=20191016005533)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Calia_and_the_Proudmoore_Siblings.jpg/revision/latest?cb=20191016005533)
+
+The meeting between Calia, Derek, and Jaina.
+
+In time, [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")'s revolutionaries clashed with Sylvanas' loyalists, which saw the conflict ending in Saurfang's death and Sylvanas's abandonment of the Horde. In the aftermath, Jaina met with Calia and Derek at [Seabreeze Village](https://wowpedia.fandom.com/wiki/Seabreeze_Village "Seabreeze Village") in [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley"). During this meeting, Calia and Derek learned that the war was over and it was implied that Calia and Derek had grown close. As the three conversed, the Proudmoore siblings remarked that [others](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") would benefit from Calia's guidance, much like Derek had.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-21">[21]</a></sup> Unbeknownst to the three, the [Speaker of the Horde](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") was spying on their meeting at the behest of [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), who after being informed of the details remarked that she must act quickly.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-22">[22]</a></sup>
+
+Around the time of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")'s assault on Azeroth, Calia received a letter from Lilian asking her to help the Forsaken in the wake of their abandonment by Sylvanas. Calia agreed as she wanted to help her people and honor her father and the name Menethil. In another meeting in Stormsong Valley, she informed Jaina and Derek of her decision to leave [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras"). To her surprise, Derek decided to accompany her. Jaina accepted Calia and Derek's decisions but insisted on first bringing them to [Katherine](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore") and [Tandred](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore") so they could get a proper farewell.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-23">[23]</a></sup> Calia and Derek traveled to the [Calston Estate](https://wowpedia.fandom.com/wiki/Calston_Estate "Calston Estate") in the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), where Lilian apologized for her role in Derek's rebirth and introduced the two to [Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon") and the other Forsaken [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), who had likewise been abandoned by Sylvanas. Calia and Derek quickly offered to help the undead elves and subsequently left the estate with them,<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-24">[24]</a></sup> vowing to help them find a future rooted in something beyond hatred and malice.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-25">[25]</a></sup>
+
+### Shadows Rising
+
+At some point after the fall of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), Calia joined the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and became a councilor of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken").
+
+Knowing that the Forsaken couldn't remain in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") forever, Voss and Calia sought a new home for their people, while believing that the ruins of Lordaeron could one day be reclaimed and their homes there restored. Despite the truce between the Horde and Alliance, they knew that the Alliance ships wouldn't be happy to see Horde flags at sea, though Calia was confident that Derek could intervene on their behalf if they were intercepted. Calia then attended a [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") meeting where [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") noticed that she appeared to be watching Voss's every move, as if she might be tested on it later. When Calia and Voss explained why they had been late to said meeting, she brought up her belief about Derek causing [Queen Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji") of the [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") to declare that [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore") could do nothing for them as she blamed them for the death of her father, [King Rastakhan](https://wowpedia.fandom.com/wiki/King_Rastakhan "King Rastakhan") and objected to peace with Jaina. However, Voss was quick to remind her that Derek was one of the Forsaken and that the Forsaken were the Horde. The meeting was soon adjourned.
+
+After the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring") shaman [Yukha](https://wowpedia.fandom.com/wiki/Yukha "Yukha") warned Thrall that something was terribly wrong in the spirit world, Thrall made the decision to go to [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil") and decided to bring [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") and Calia, due to her desire to bridge the divide between the Forsaken and the [kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") who were raised into undeath, with him. She was struck by the beauty of Nordrassil and considered it a place of mourning after sensing the darkness over the place. Upon meeting with [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon"), and [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong"), Calia found herself shifting nervously in the face of their frosty, rigid silence. Thrall subsequently formally apologized to the night elves and cited Calia as an example of how the Horde hoped to change. Nodding silently by Thrall's side, she listened as he revealed to them how Voss now spoke for the Forsaken and how both women sought to reforge themselves anew, free of Sylvanas, free of her poisonous influence.
+
+When the meeting started to dissolve into an argument about [responsibility](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns") for [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"), Calia voiced that these disagreements were a distraction and that the divided sides only kept them from apprehending the one who gave the order. In the aftermath of Tyrande's revelation that she saw their words as empty pledges of justice, Calia, along with Baine, allowed herself to be corralled out of the area by Yukha. However, Thrall refused to be corralled out and promised Tyrande that he would deliver what is owed: Sylvanas' head. The group subsequently departed Nordrassil and arrived in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") soon after.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-26">[26]</a></sup>
+
+### Death Rising
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+Calia joined the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") in convening atop of [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") following [return of the](https://wowpedia.fandom.com/wiki/Death_Rising "Death Rising") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and the abduction of [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof"). She soon learned from [Valeera Sanguinar](https://wowpedia.fandom.com/wiki/Valeera_Sanguinar "Valeera Sanguinar") that [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") had also been abducted, and that an attempt was made on [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), who neutralized her attackers.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-27">[27]</a></sup> She reflected on how she thought she understood the Forsaken when she was among the living, only to truly see the depths of what they have endured after her resurrection. She further revealed that with the help of [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), she found ways to help those who felt abandoned and alone. She then declared that all of Azeroth trembled beneath the specter of death. And fear, that if left unchecked will consume every soul it touches. She thus vowed to not allow that to happen, not to the people of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), nor to any who fight for the good of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").
+
+After [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") expresses satisfaction at the death of [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") and hope that [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")'s rage remains fixed upon [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), Calia reminds him that she had given counsel to the kaldorei who were raised into undeath after the battle for Darkshore. She further explained how she hoped giving them a path forward and sharing this knowledge with Tyrande, would help ease her spirits, if only a little. In response, Lor'themar revealed that [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss") had informed him of her efforts and hoped that fate would offer her the chance to see her kin offer bear fruit.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-28">[28]</a></sup>
+
+During this time she spoke with [Valeera Sanguinar](https://wowpedia.fandom.com/wiki/Valeera_Sanguinar "Valeera Sanguinar") and affirmed a friendship with her.
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Horde_Council_Frozen_Throne.jpg/revision/latest/scale-to-width-down/180?cb=20201128185945)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Horde_Council_Frozen_Throne.jpg/revision/latest?cb=20201128185945)
+
+Calia and the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") at the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne").
+
+Calia joined the council in a meeting with the leaders of the Alliance and [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") at the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") within [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel"). When Lor'themar voiced how they couldn't afford to go on what might well be a suicide mission to rescue their allies for the stability of the Azeroth, [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") grew hostile. Though prepared to battle alongside the Horde, Calia reminded Tyrande that the [kaldorei](https://wowpedia.fandom.com/wiki/Kaldorei "Kaldorei") needed her in order to have any hope of finding peace. However, Tyrande was unmoved and was outraged that Calia spoke of peace, in light of the [atrocities](https://wowpedia.fandom.com/wiki/Burning_of_Teldrassil "Burning of Teldrassil") committed by the Forsaken during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"). Ultimately, the Horde and Alliance stood down when Bolvar reminded them that they could not afford another conflict in Azeroth.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-29">[29]</a></sup> Calia then witnessed the ritual to open the doorway to the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw") and watched as [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of Azeroth, the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade"), and even Tyrande Whisperwind enter to rescue their comrades and seek out Sylvanas.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-30">[30]</a></sup>
+
+Calia later traveled with [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon") to [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos") in the center of the Shadowlands to meet up with Bolvar there. The pair pleaded for Bolvar to use the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination") to seek out their allies who had been captured by [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") within the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw"). Despite his initial reluctance, as such attempts seemed to be costly and dangerous, Bolvar was eventually moved by his daughter's repeated pleas, and he agreed to honor the request of his "Shining Star".<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-31">[31]</a></sup> While Talia was chilled by the cries of [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), Calia focused on how they hadn't heard [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") or [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof"), and thus asked if Bolvar could try again to find them. However, Bolvar revealed that there was a price to be paid for such visions, and he dare not attempt another so soon.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-32">[32]</a></sup>
+
+Following Baine's and Thrall's recovery from [Torghast, Tower of the Damned](https://wowpedia.fandom.com/wiki/Torghast,_Tower_of_the_Damned "Torghast, Tower of the Damned"), Calia sent word to [Aggra](https://wowpedia.fandom.com/wiki/Aggra "Aggra") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron").<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-33">[33]</a></sup> After discovering that Sylvanas and [the Jailer](https://wowpedia.fandom.com/wiki/The_Jailer "The Jailer") intend to turn Anduin into a weapon, Calia stated that the Light is strong with Anduin, and believed the Light would help him see things through.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-34">[34]</a></sup>
+
+Following the defeat of [Sire Denathrius](https://wowpedia.fandom.com/wiki/Sire_Denathrius "Sire Denathrius"), an ally of the Jailer, Bolvar felt a darkness calling to him within Torghast.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-35">[35]</a></sup> Though Calia was worried over the effects of peering within Torghast would have on him, Bolvar declared that they must know the truth. She subsequently learned that a new mourneblade was being forged within the tower and that the Jailer decided that the time had come for Anduin to become his agent, regardless of his choice.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-36">[36]</a></sup> When the Jailer attempted to gain control of Bolvar, Calia learned that the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") was meant to herald his coming.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-37">[37]</a></sup> As a result of this, while Calia still acknowledged that her brother had made his choices, she felt that the Jailer had a hand in them too.
+
+#### Eternity's End
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/A_Long_Walk_-_Calia_and_Lilian.jpg/revision/latest/scale-to-width-down/140?cb=20220402101510)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/A_Long_Walk_-_Calia_and_Lilian.jpg/revision/latest?cb=20220402101510)
+
+Calia and Lilian at Sylvanas' trial.
+
+After the Jailer's defeat, Calia attended Sylvanas' trial in the [Crucible](https://wowpedia.fandom.com/wiki/Crucible_(Oribos) "Crucible (Oribos)") alongside a visiting Lilian Voss.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-38">[38]</a></sup>
+
+Sometime later she joined [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") in mustering in the ruins of the [kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron"), as they sought to reclaim as much as they could of the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). Thus she called Horde champions to aid and meet her at [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill"), while also accepting the aid of Alliance champions who had taken a disguise to blend in with the Forsaken.<sup id="cite_ref-:0_39-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-:0-39">[39]</a></sup><sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-40">[40]</a></sup> However she received a mixed response, as while the likes of [Dark Ranger Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara") were willing to give her a chance, [Deathstalker Commander Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont") was both distrustful and skeptical about her. For her own part, Calia accepted that she wouldn't be universally accepted because of Arthas' deeds or perceptions about her seeking leadership or advocating the Alliance's interests. She merely vowed to help the Forsaken in any way she could, thus she called upon a number of influential figures that had risen to prominence among the Forsaken, in order to meet and discuss the path forward.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-41">[41]</a></sup>
+
+While Voss wanted to directly focus on dealing with the plague in the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), Belmont questioned what they should do about Calia, only for [Dark Ranger Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara") to declare that they should focus on the blight. She then turned to [Master Apothecary Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell") and questioned if he had more plague eaters, only for him to reveal to Calia and the others that he only had one left, and that while he could make more for them to be effective, they must be formulated to survive the plague. This in turn inspired Calia to point out that they might be able to turn to the plague-lords of [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus") for insight. When Faranell revealed that he required an undiluted sample of the plague from deep within its reaches, Calia vowed to acquire it for him, but both Faranell and Belmont were skeptical of her being able to acquire it and survive.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-42">[42]</a></sup>
+
+Calia then called upon the light and with the champion by her side, she ventured into the plague and successfully acquired the plague sample, which greatly surprised Belmont.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-43">[43]</a></sup> With the sample in their possession, Calia, Voss, the champion, and the plague eater went to Maldraxxus, where they met with [Margrave Sin'dane](https://wowpedia.fandom.com/wiki/Margrave_Sin%27dane "Margrave Sin'dane").<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-44">[44]</a></sup>
+
+After Sin'dane directed the group to meet with [Plague Deviser Marileth](https://wowpedia.fandom.com/wiki/Plague_Deviser_Marileth "Plague Deviser Marileth") at the [House of Plagues](https://wowpedia.fandom.com/wiki/House_of_Plagues "House of Plagues"), Calia questioned Sin'dane about the nature of undeath, and revealed how while the Forsaken were raised through necromancy, which provided them a shared origin, and sense of unity, she had been raised by the light. She further remarked that this difference made her question if she could ever truly find a place among them. In response, Sin'dane revealed that regardless of any magic, necromancy is necromancy , that Calia perceived a difference when there was none. Calia subsequently the Margrave for her aid before leaving to seek out Marileth.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-45">[45]</a></sup> As they worked together to empower the plague eater, Calia called upon the light to shield them from the caustic fog.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-46">[46]</a></sup> She also directed them with slaying creatures within the House of Plagues to help the plague eater to help it gain fortitude.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-47">[47]</a></sup> Near the end, the blight turned into a living manifestation known as the [Lordaeron Blight](https://wowpedia.fandom.com/wiki/Lordaeron_Blight "Lordaeron Blight"), which was quickly slain, and proved the plague eater could aid them in reclaiming the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron").<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-48">[48]</a></sup> With this accomplished, Calia and the others returned to Tirisfal Glades to deliver the plague eater to the apothecaries, where Calia informed Faranell of how the blight sample became a living manifestation, to which Faranell was quick to declare it ingenious, as it would be easier to kill.<sup id="cite_ref-:0_39-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-:0-39">[39]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Desolate_Council.jpg/revision/latest/scale-to-width-down/180?cb=20220604161059)](https://static.wikia.nocookie.net/wowpedia/images/6/68/Desolate_Council.jpg/revision/latest?cb=20220604161059)
+
+Calia with her fellow members of the [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council").
+
+This plan was ultimately successful as the plague manifested as an [Amalgam](https://wowpedia.fandom.com/wiki/Amalgam "Amalgam") and was slain, liberating the Ruins of Lordaeron from the plague.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-49">[49]</a></sup> Following this, Voss declared that the Forsaken have many points of view and should be led by a council, not a single ruler, a motion accepted by the other Forsaken leaders. While Belmont had his reservations about having a Menethil on the council, Calia was quick to declare that she had no desire for a throne, that her place was amongst them, with a vow to serve all their people. Thus a new [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") composed of Voss, Calia, Belmont, Faranell, and Velonara was created to lead the Forsaken.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-50">[50]</a></sup> With the council's formation, Calia journeyed into the [Lordaeron Throne Room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") room where she reflected on the past and the tragedy of her family, of how she was all that remained of the Menethil line, before being comforted by Voss, who talked about how the Forsaken were their home. However, Calia questioned if the other Forsaken would truly ever accept her, to which Voss admitted that while it was a long road, they could use her help, which gave Calia the encouragement she needed to step forward.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-51">[51]</a></sup>
+
+Following this, Calia styled herself as The Pallid Lady, officially recognized [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") as her champion, and promised the Alliance heroes who had aided the Forsaken that one of the first topics that she planned on proposing to her fellow council members was the withdrawal of Forsaken troops from the [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)").<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-52">[52]</a></sup>
+
+### The Vow Eternal
+
+A few years later, Calia, accompanied by Derek and Voss, were among those who attended the wedding of [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra"). The Forsaken spoke with [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon") and [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") during the reception. After they realized that [Mia Greymane](https://wowpedia.fandom.com/wiki/Mia_Greymane "Mia Greymane") had gone to the wedding in [her husband's](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane") stead, the three Forsaken exchanged uncomfortable glances, with Calia remarking that it was a pleasure to see the queen again.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-53">[53]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades") | 98 - 110 | 4,157,070 |
+| [Netherlight Temple](https://wowpedia.fandom.com/wiki/Netherlight_Temple "Netherlight Temple") | 100 - 110 | 396,188 |
+| [The Exodar](https://wowpedia.fandom.com/wiki/The_Exodar "The Exodar") | 100 - 110 | 874,300 |
+
+## Quests
+
+## Quotes
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Greetings
+
+-   It's just Calia now.
+-   How can I assist you?
+-   I stand ready to help.
+
+Irritated
+
+-   Sometimes I miss the beautiful court of Lordaeron and my father.
+-   I once hid in a muddy ditch for two days while slavering ghouls patrolled the area. Your prattle does not faze me.
+-   Terenas would have had you thrown out of here faster than he did [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")!
+
+Farewell
+
+-   Walk in the Light.
+-   Goodbye.
+-   Let's talk again soon.
+
+Dialogue
+
+_Main article: [Champion: Calia Menethil#Notes](https://wowpedia.fandom.com/wiki/Champion:_Calia_Menethil#Notes "Champion: Calia Menethil")_
+
+Gossip
+
+_Main article: [Priestly Matters#Notes](https://wowpedia.fandom.com/wiki/Priestly_Matters#Notes "Priestly Matters")_
+
+### Before the Storm
+
+-   **[Anduin](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"):** "You had to have had a terrifying experience with the undead. How is it that you are so close with [the archbishop](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol")?"
+
+**Calia:** "He helped save me. I remembered him, you see. And in the midst of all that horror, when I was constantly fleeing so many I loved whose minds and wills had been stolen from them... to see the face of someone who was still who he had been— It was as if hope itself was a sword that stabbed clean through me. Except instead of wounding, it offered me the chance to move through my shock and pain to a place of healing. So you see, for me, the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") weren't monsters. They were friends. It was the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), the shambling, stumbling things that wore my friends' faces—_they_ had become monsters."<sup id="cite_ref-BTS_chapter_15_8-3"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_15-8">[8]</a></sup>
+
+-   "I was lost, Alonsus. Emotionally and physically and mentally. You brought me back from a very dark place. What other wonders could that again work? For both Forsaken and humanity?"<sup id="cite_ref-BTS_chapter_15_8-4"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_15-8">[8]</a></sup>
+-   "As [priests](https://wowpedia.fandom.com/wiki/Priest "Priest"), we cannot harden our hearts and still do what the Light would have us do. Vulnerability is our strength and our weakness both. But I would have it no other way."<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-54">[54]</a></sup>
+-   **Calia:** "You are my people, and I want to help you. I only came to observe, to begin to get to know the Forsaken of Lordaeron."
+
+**[Elsie](https://wowpedia.fandom.com/wiki/Vellcinda_Benton "Vellcinda Benton"):** "[Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"). We live in the Undercity."
+
+**Calia:** "You didn't once. You won't have to live in the shadows anymore. Just—please. Come walk with me. [Parqual](https://wowpedia.fandom.com/wiki/Parqual_Fintallas "Parqual Fintallas"), the [Felstones](https://wowpedia.fandom.com/wiki/Felstone "Felstone"), all the others—see them? They're defecting. Anduin will shelter and protect you all; I know he will!"<sup id="cite_ref-BtS_33_11-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BtS_33-11">[11]</a></sup>
+
+### Battle for Azeroth
+
+Greetings
+
+-   I stand ready to help.
+-   We all have our duty.
+-   Light's blessing upon you.
+
+Farewell
+
+-   Honor the past, but embrace the future.
+-   For Lordaeron.
+-   May you find peace within.
+
+Dialogue
+
+_Main articles: [...And Following Seas#Notes](https://wowpedia.fandom.com/wiki/...And_Following_Seas#Notes "...And Following Seas"), [Sense of Obligation#Notes](https://wowpedia.fandom.com/wiki/Sense_of_Obligation#Notes "Sense of Obligation")_
+
+_Main article: [Sail With the Tide#Notes](https://wowpedia.fandom.com/wiki/Sail_With_the_Tide#Notes "Sail With the Tide")_
+
+_Main article: [The Hidden Need#Notes](https://wowpedia.fandom.com/wiki/The_Hidden_Need#Notes "The Hidden Need")_
+
+### Shadows Rising
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+_Main article: [Death Rising#Horde](https://wowpedia.fandom.com/wiki/Death_Rising#Horde "Death Rising")_
+
+_Main article: [Return to Lordaeron#Questline](https://wowpedia.fandom.com/wiki/Return_to_Lordaeron#Questline "Return to Lordaeron")_
+
+Oribos gossip
+
+This Eternal City is shining and beautiful. And yet the touch of Death is everywhere upon it.
+
+I am touched by that power, too. Perhaps there are secrets here in Oribos that can help me understand what that means.
+
+The attendants speak with such certainty of their "Purpose". Perhaps they can help me find mine as well.
+
+Brill gossip
+
+The people of Lordaeron have suffered greatly. I hope that I am able to find my home here among them, with the Forsaken.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Why wouldn't the Forsaken welcome you?
+
+It begins with my name. I am Arthas Menethil's sister, and I was once a member of the royal house of Lordaeron.
+
+Though I was never intended to rule, and nor would I seek to.
+
+Some might see me as seeking authority where I have none, or representing the Alliance when I do not. Or some hear the name 'Menethil' and are rightly horrified by my brother's actions.
+
+But I am my own soul, and I have lost as much to the Scourge as any survivor of Lordaeron. All I wish now is to help.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Let's talk about something else.
+
+## Notes and trivia
+
+-   _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_ originally described Calia as having blue eyes.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-55">[55]</a></sup> Her in-game model and _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-56">[56]</a></sup> instead depict them as blue-green. Since her resurrection, her eyes now glow white.<sup id="cite_ref-BTS_chapter_35_4-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_35-4">[4]</a></sup>
+-   Calia is two years older than Arthas<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-57">[57]</a></sup> who was born in year -4.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-58">[58]</a></sup> She was thus born in year -6 and was 38 or 39 years old slightly before the [Burning of Teldrassil](https://wowpedia.fandom.com/wiki/Burning_of_Teldrassil "Burning of Teldrassil") ("nearly forty"),<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-59">[59]</a></sup> and is 46 in _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.
+-   Considering how things turned out, she is glad that Arthas and Jaina ended up not getting married.<sup id="cite_ref-BTS_chapter_25_9-2"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BTS_chapter_25-9">[9]</a></sup>
+-   Between the character's original introduction in _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_ (2001) and her eventual return in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ (2016), Calia's fate after the [Scourging of Lordaeron](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron") was unknown and a source of speculation among fans. The 2006 [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") sourcebook _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_ hinted at a continuation of her story (see below), but the RPG was decanonized in an [Ask Creative Development](https://wowpedia.fandom.com/wiki/Ask_CDev "Ask CDev") post in June 2011. The same post specifically mentioned Calia and stated that Blizzard had not forgotten about her and other "missing" characters and that Blizzard would talk about them when they were ready.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-60">[60]</a></sup> At the [BlizzCon 2011](https://wowpedia.fandom.com/wiki/BlizzCon_2011 "BlizzCon 2011") Lore Q&A, [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") stated that Blizzard had been talking about Calia "forever" but that they did not currently have any plans for her.<sup id="cite_ref-BlizzCon_2011_61-0"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BlizzCon_2011-61">[61]</a></sup>
+-   Prior to _Legion_, she was for many years theorized by some fans to be [Calia Hastings](https://wowpedia.fandom.com/wiki/Calia_Hastings "Calia Hastings") of [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7"). The main theories were that she had married someone named Hastings, assumed a new surname in exile, or taken her mother's unknown surname.
+-   In the _Legion_ beta, Calia stated in   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Priest](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Ui-charactercreate-classes_priest.png/revision/latest/scale-to-width-down/16?cb=20100721005923 "Priest") \[100\] [Agent of Aid](https://wowpedia.fandom.com/wiki/Agent_of_Aid) that she had renounced her claim to the throne of Lordaeron, declaring it a lost kingdom, and that she was "just Calia now". This quest, along with any other mention of Lordaeron from her, did not make it out of beta (though one of her on-click quotes is still "It's just Calia now"). As such, it was unknown throughout most of _Legion_ what her stance on the kingdom was. The plot thread was picked up again in _Before the Storm_.
+    -   Calia claims to [Valeera Sanguinar](https://wowpedia.fandom.com/wiki/Valeera_Sanguinar "Valeera Sanguinar") during [Death Rising](https://wowpedia.fandom.com/wiki/Death_Rising "Death Rising") that she gave up any claim to the throne years ago.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-62">[62]</a></sup> Despite this, she is still referred to as the Princess of Lordaeron in _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_. She also bears the crest of Lordaeron on her in-game model.
+-   It was popularly speculated for a time that [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon")'s mother could be Calia Menethil, even though there were discrepancies in Calia's description of her husband and daughter (namely, that her husband was a basic footman; whereas Bolvar was a paladin and later Highlord of Stormwind). This was proven to not be the case in _[World of Warcraft: Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_, where Calia, Taelia, and Bolvar all interact without any semblance of familial ties beyond Taelia and Bolvar.
+-   The exact extent of Calia's affiliations with the Alliance and Horde seem to be somewhat ambiguous. Despite remarking to Anduin (slightly ruefully) that she was not a member of the Alliance, she nevertheless considered Sylvanas a "pretender queen" and was willing to welcome some of the Forsaken into the Alliance as refugees. She later seemingly joins the Horde, but appears to retain cordial ties with Jaina, remarking that the Proudmoores could intervene were her vessel to be intercepted by the Alliance. In an interview in late 2019, [Ion Hazzikostas](https://wowpedia.fandom.com/wiki/Ion_Hazzikostas "Ion Hazzikostas") stated that: "This is a complicated issue. Calia is very sympathetic towards the situation and condition of the Forsaken, but she will not join the Horde because of this. Additionally, the number of Forsaken who may welcome their presence is not fixed."<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-63">[63]</a></sup> Later on during the _[World of Warcraft: Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_ introductory quest line, Calia is seen in Icecrown standing among the Horde leaders, appearing [friendly](https://wowpedia.fandom.com/wiki/Friendly "Friendly") to Horde and Alliance players, and [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") is openly hostile towards her. [Steve Danuser](https://wowpedia.fandom.com/wiki/Steve_Danuser "Steve Danuser") also notes that Calia is not the Forsaken leader, and was mostly there for "personal" rather than political reasons.<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-64">[64]</a></sup>
+-   Christie Golden admits that the use of Calia Menethil in _Before the Storm_ was a suggestion on her part that the story developers went along with.<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-65">[65]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+The _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_ subtly implies a differently plotline for Calia. In one of the many short stories, a [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") by the name of [Andarin](https://wowpedia.fandom.com/wiki/Andarin "Andarin") tries to infiltrate the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") to free prisoners. To his shame, he is quickly discovered by a fallen [priest](https://wowpedia.fandom.com/wiki/Priest "Priest") named [Trevor](https://wowpedia.fandom.com/wiki/Trevor "Trevor"). The [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") makes him "an offer he can't refuse": in turn for helping him, Andarin must help Trevor free some of the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn")'s prisoners. The paladin ponders the situation but finally agrees, together they descend into the city. After having fought some guards and abominations, the strange duo decides that fighting the prison guards will not work and comes up with a plan: Andarin will distract the guards while Trevor will free the prisoners. Knowing that he has no other choice, the paladin agrees. Trevor quickly manages to get a hold of a keyring and opens the door of a cell in which a girl was locked up. The girl recognizes the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") and is shocked, but Trevor simply bows, saying _"Good evening, my princess."_
+
+[Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") alluded to this at [BlizzCon 2011](https://wowpedia.fandom.com/wiki/BlizzCon_2011 "BlizzCon 2011"), mentioning that "There were some hooks in the RPG line that kind of suggested \[Calia\] was going one way or another".<sup id="cite_ref-BlizzCon_2011_61-1"><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_note-BlizzCon_2011-61">[61]</a></sup> The background of Trevor shows some similarities with the one Alonsus Faol himself was later given in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+### Feelings for Daval Prestor
+
+In the novel _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_ Calia was greatly disturbed to the point of hysterical over her arranged marriage to Prestor, and even had a heated argument with her father, Terenas Menethil II over it. Her [coin](https://wowpedia.fandom.com/wiki/Princess_Calia_Menethil%27s_Copper_Coin "Princess Calia Menethil's Copper Coin") in the Dalaran Fountain expresses her desire to be noticed by him, however.
+
+It is possible that it was merely an error on the developers' part. Another possibility was that Daval Prestor (Deathwing) placed an enchantment on her when he realized her objection to be married to him. He had already done this to the kings of the Alliance in _Day of the Dragon_ to make them fond of him, so there is precedent. When Deathwing was weakened and went into hiding after the battle with his former fellow Aspects, the enchantment was lifted. Furthermore, the novel also mentioned that Terenas at one point started to suspect him.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Calia_in_Stormsong.png/revision/latest/scale-to-width-down/66?cb=20200624232531)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Calia_in_Stormsong.png/revision/latest?cb=20200624232531)
+    
+    Calia in Stormsong.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Calia_Menethil_model.jpg/revision/latest/scale-to-width-down/120?cb=20191028110555)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Calia_Menethil_model.jpg/revision/latest?cb=20191028110555)
+    
+    Calia's unique model.
+    
+
+## Videos
+
+-   [Judgment Part 1](https://wowpedia.fandom.com/wiki/Calia_Menethil#)
+-   [Lilian Calia Finale In Game Cutscene](https://wowpedia.fandom.com/wiki/Calia_Menethil#)
+
+## Patch changes
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-1) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, pg. 137
+2.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-2) Dialogue with [Valeera Sanguinar](https://wowpedia.fandom.com/wiki/Valeera_Sanguinar "Valeera Sanguinar") during [Death Rising](https://wowpedia.fandom.com/wiki/Death_Rising "Death Rising") - **Calia Menethil says:** Lady Menethil is fine. Calia is even better. I gave up my claim to the throne long ago.
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-CaliaFamily_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-CaliaFamily_3-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-CaliaFamily_3-2">c</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, pg. 253
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_35_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_35_4-1">b</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 35
+5.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-5)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Sail With the Tide](https://wowpedia.fandom.com/wiki/Sail_With_the_Tide)
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-RiseoftheLichKing_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-RiseoftheLichKing_6-1">b</a></sup> _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_
+7.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-7) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, pg. 256
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_15_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_15_8-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_15_8-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_15_8-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_15_8-4">e</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 15
+9.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_25_9-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_25_9-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_25_9-2">c</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 25
+10.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-10)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [The Hidden Need](https://wowpedia.fandom.com/wiki/The_Hidden_Need)
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BtS_33_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BtS_33_11-1">b</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 33
+12.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_9_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_9_12-1">b</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 9
+13.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-13)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Priest](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Ui-charactercreate-classes_priest.png/revision/latest/scale-to-width-down/16?cb=20100721005923 "Priest") \[10-45\] [The Light and the Void](https://wowpedia.fandom.com/wiki/The_Light_and_the_Void)
+14.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_20_14-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BTS_chapter_20_14-1">b</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 20
+15.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-15)  ![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Inv_misc_book_03.png/revision/latest/scale-to-width-down/16?cb=20070329111108)[\[The Traitor King\]](https://wowpedia.fandom.com/wiki/The_Traitor_King_(item))
+16.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-16)  ![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Inv_misc_book_03.png/revision/latest/scale-to-width-down/16?cb=20070329111108)[\[The Would-Be Queen\]](https://wowpedia.fandom.com/wiki/The_Would-Be_Queen)
+17.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-17)  ![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Inv_misc_book_03.png/revision/latest/scale-to-width-down/16?cb=20070329111108)[\[The Cursed Old Wolf\]](https://wowpedia.fandom.com/wiki/The_Cursed_Old_Wolf)
+18.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-The_Last_Menethil_18-0)  ![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Inv_misc_book_03.png/revision/latest/scale-to-width-down/16?cb=20070329111108)[\[The Last Menethil\]](https://wowpedia.fandom.com/wiki/The_Last_Menethil)
+19.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-19)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Dead Reckoning](https://wowpedia.fandom.com/wiki/Dead_Reckoning)
+20.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-20)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [My Brother's Keeper](https://wowpedia.fandom.com/wiki/My_Brother%27s_Keeper)
+21.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-21)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [...And Following Seas](https://wowpedia.fandom.com/wiki/...And_Following_Seas)
+22.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-22)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [Sense of Obligation](https://wowpedia.fandom.com/wiki/Sense_of_Obligation)
+23.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-23)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Sail With the Tide](https://wowpedia.fandom.com/wiki/Sail_With_the_Tide)
+24.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-24)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [The Hidden Need](https://wowpedia.fandom.com/wiki/The_Hidden_Need)
+25.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-25) Jez Corden 2020-03-12. [World of Warcraft interview: Looking back at Battle for Azeroth, and looking ahead to Shadowlands](https://www.windowscentral.com/world-warcraft-interview-building-story-shadowlands). Windows Central. Retrieved on 2020-03-14.
+26.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-26) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_
+27.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-27)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Cause for Distraction](https://wowpedia.fandom.com/wiki/Cause_for_Distraction)
+28.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-28)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [The Banshee's Champion](https://wowpedia.fandom.com/wiki/The_Banshee%27s_Champion)
+29.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-29) [A Chilling Summons](https://wowpedia.fandom.com/wiki/A_Chilling_Summons "A Chilling Summons")
+30.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-30)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Through the Shattered Sky](https://wowpedia.fandom.com/wiki/Through_the_Shattered_Sky)
+31.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-31)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [Request of the Highlord](https://wowpedia.fandom.com/wiki/Request_of_the_Highlord)
+32.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-32)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [A Glimpse into Darkness](https://wowpedia.fandom.com/wiki/A_Glimpse_into_Darkness)
+33.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-33)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Torment Chamber: Thrall](https://wowpedia.fandom.com/wiki/Torment_Chamber:_Thrall)
+34.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-34)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Captive King](https://wowpedia.fandom.com/wiki/The_Captive_King)
+35.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-35)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [An Echo in the Darkness](https://wowpedia.fandom.com/wiki/An_Echo_in_the_Darkness)
+36.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-36)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Highlord's Vision](https://wowpedia.fandom.com/wiki/The_Highlord%27s_Vision)
+37.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-37)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Jailer's Grasp](https://wowpedia.fandom.com/wiki/The_Jailer%27s_Grasp)
+38.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-38)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Long Walk](https://wowpedia.fandom.com/wiki/A_Long_Walk)
+39.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-:0_39-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-:0_39-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Return to Brill](https://wowpedia.fandom.com/wiki/Return_to_Brill)
+40.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-40)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Eyes of the Wolf](https://wowpedia.fandom.com/wiki/Eyes_of_the_Wolf)
+41.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-41)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Assemble the Forsaken](https://wowpedia.fandom.com/wiki/Assemble_the_Forsaken)
+42.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-42)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Blight Congress](https://wowpedia.fandom.com/wiki/The_Blight_Congress)
+43.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-43)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Walk of Faith](https://wowpedia.fandom.com/wiki/Walk_of_Faith)
+44.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-44)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Consulting Our Allies](https://wowpedia.fandom.com/wiki/Consulting_Our_Allies)
+45.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-45)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [House of Plagues](https://wowpedia.fandom.com/wiki/House_of_Plagues_(quest))
+46.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-46)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Essence of Plague](https://wowpedia.fandom.com/wiki/Essence_of_Plague)
+47.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-47)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Feed the Eater](https://wowpedia.fandom.com/wiki/Feed_the_Eater)
+48.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-48)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Embodiment](https://wowpedia.fandom.com/wiki/Embodiment)
+49.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-49)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Remedy of Lordaeron](https://wowpedia.fandom.com/wiki/The_Remedy_of_Lordaeron)
+50.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-50)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Desolate Council](https://wowpedia.fandom.com/wiki/The_Desolate_Council)
+51.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-51)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [A Walk with Ghosts](https://wowpedia.fandom.com/wiki/A_Walk_with_Ghosts)
+52.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-52)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Report to Greymane](https://wowpedia.fandom.com/wiki/Report_to_Greymane)
+53.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-53) _[The Vow Eternal](https://wowpedia.fandom.com/wiki/The_Vow_Eternal "The Vow Eternal")_
+54.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-54) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 24
+55.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-55) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 3
+56.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-56) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 8
+57.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-57) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 36 (ebook)
+58.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-58) [Sean Copeland on Twitter](https://twitter.com/Loreology/status/464465825681133568) (2014-05-08) (dead link)
+59.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-59) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 28
+60.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-60) [Ask CDev Answers - Round 2](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_2 "Ask CDev")
+61.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BlizzCon_2011_61-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-BlizzCon_2011_61-1">b</a></sup> [BlizzCon 2011 - World Of Warcraft: Mists of Pandaria - Lore and Story Panel (Full) (10:00)](https://www.youtube.com/watch?v=qhzMHJE3UGY&t=600s). YouTube (2011-10-23). Retrieved on 2022-12-21.
+62.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-62) [Death Rising#Horde](https://wowpedia.fandom.com/wiki/Death_Rising#Horde "Death Rising")
+63.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-63) [Interview Question Regarding Calia Menethil](http://www.mmo-champion.com/threads/2519550-Ion-Calia-won-t-join-the-Horde)
+64.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-64) [| Shadowlands Lore Interview with Lead Narrative Designer Steve Danuser - Elune, Sylvanas, Calia](https://www.wowhead.com/news=316807/shadowlands-lore-interview-with-lead-narrative-designer-steve-danuser-elune-sylv)
+65.  [^](https://wowpedia.fandom.com/wiki/Calia_Menethil#cite_ref-65) [@ChristieGolden via WayBackMachine](https://web.archive.org/web/20210205183457/https://twitter.com/ChristieGolden/status/1158113979698257920), "“Pushed” is probably too strong a word. I definitely lit up when I learned that Calia Menethil was out there. (Big puppy eyes may have been involved.) But Blizzard was certainly on board and excited once it came up for discussion. Then it was co-creation all the way!"
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Calia+Menethil#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Calia+Menethil#t1:npcs)
+
+<table><tbody><tr><td>Preceded by:<br><i><b><a href="https://wowpedia.fandom.com/wiki/Lilian_Voss" title="Lilian Voss">Lilian Voss</a> (Interim Leader)</b></i></td><td><b>Position:</b><br><b>Ruler of the Forsaken (as a member of the <a href="https://wowpedia.fandom.com/wiki/Desolate_Council" title="Desolate Council">Desolate Council</a>)</b></td><td>Succeeded by:<br><i><b>Incumbent</b></i></td></tr></tbody></table>
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Champions/Priest "Template:Champions/Priest")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Champions/Priest?action=edit)
+
+[![Priest](https://static.wikia.nocookie.net/wowpedia/images/3/37/ClassIcon_priest.png/revision/latest/scale-to-width-down/16?cb=20170130100912)](https://wowpedia.fandom.com/wiki/Priest "Priest") [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest") [champions](https://wowpedia.fandom.com/wiki/Class_Hall_followers "Class Hall followers")
+
+
+
+ |
+| --- |
+|  |
+| [![Discipline](https://static.wikia.nocookie.net/wowpedia/images/3/35/Spell_holy_powerwordshield.png/revision/latest/scale-to-width-down/16?cb=20100927124748)](https://wowpedia.fandom.com/wiki/Priest#Discipline "Discipline") [Discipline](https://wowpedia.fandom.com/wiki/Priest_abilities#Discipline "Priest abilities") | 
+
+-   [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol")
+-   **Calia Menethil**
+-   [Mariella Ward](https://wowpedia.fandom.com/wiki/Mariella_Ward "Mariella Ward")
+
+
+
+ |
+|  |
+| [![Holy](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Spell_holy_guardianspirit.png/revision/latest/scale-to-width-down/16?cb=20080805053954)](https://wowpedia.fandom.com/wiki/Priest#Holy "Holy") [Holy](https://wowpedia.fandom.com/wiki/Priest_abilities#Holy "Priest abilities") | 
+
+-   [High Priestess Ishanah](https://wowpedia.fandom.com/wiki/Ishanah "Ishanah")
+-   [Sol](https://wowpedia.fandom.com/wiki/Sol "Sol")
+-   [Yalia Sagewhisper](https://wowpedia.fandom.com/wiki/Yalia_Sagewhisper "Yalia Sagewhisper")
+
+
+
+ |
+|  |
+| [![Shadow](https://static.wikia.nocookie.net/wowpedia/images/3/30/Spell_shadow_shadowwordpain.png/revision/latest/scale-to-width-down/16?cb=20060923203245)](https://wowpedia.fandom.com/wiki/Priest#Shadow "Shadow") [Shadow](https://wowpedia.fandom.com/wiki/Priest_abilities#Shadow "Priest abilities") | 
+
+-   [Aelthalyste](https://wowpedia.fandom.com/wiki/Aelthalyste "Aelthalyste")
+-   [Natalie Seline](https://wowpedia.fandom.com/wiki/Natalie_Seline "Natalie Seline")
+-   [Zabra Hexx](https://wowpedia.fandom.com/wiki/Zabra_Hexx "Zabra Hexx")
+
+
+
+ |
+|  |
+| 
+
+[Champions category](https://wowpedia.fandom.com/wiki/Category:Champions "Category:Champions")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
+-   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") | 
+
+-   [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")
+-   [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan")
+-   [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof")
+-   [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss")
+-   [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron")
+-   [Gazlowe](https://wowpedia.fandom.com/wiki/Gazlowe "Gazlowe")
+-   [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw")
+-   [Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra")
+-   [Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")
+-   [Geya'rah](https://wowpedia.fandom.com/wiki/Overlord_Geya%27rah "Overlord Geya'rah")
+-   [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji")
+-   [Kiro](https://wowpedia.fandom.com/wiki/Kiro "Kiro")
+
+
+
+ |
+|  |
+| Other leaders | 
+
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") ([Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), **Calia Menethil**, [Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont"), [Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara"), [Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"))
+-   [Cindrethresh](https://wowpedia.fandom.com/wiki/Scalecommander_Cindrethresh "Scalecommander Cindrethresh")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Aggralan](https://wowpedia.fandom.com/wiki/Aggralan "Aggralan")
+-   [Drek'Thar](https://wowpedia.fandom.com/wiki/Drek%27Thar "Drek'Thar")
+-   [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg")
+-   [Nazgrel](https://wowpedia.fandom.com/wiki/Nazgrel "Nazgrel")
+-   [Jorin Deadeye](https://wowpedia.fandom.com/wiki/Jorin_Deadeye "Jorin Deadeye")
+-   [Rehgar Earthfury](https://wowpedia.fandom.com/wiki/Rehgar_Earthfury "Rehgar Earthfury")
+-   [Cromush](https://wowpedia.fandom.com/wiki/High_Warlord_Cromush "High Warlord Cromush")
+-   [Volrath](https://wowpedia.fandom.com/wiki/High_Warlord_Volrath "High Warlord Volrath")
+-   [Gorgonna](https://wowpedia.fandom.com/wiki/Gorgonna "Gorgonna")
+-   [Gordul](https://wowpedia.fandom.com/wiki/Gordul "Gordul")
+-   [Gorfax Angerfang](https://wowpedia.fandom.com/wiki/Gorfax_Angerfang "Gorfax Angerfang")
+-   [Geyah](https://wowpedia.fandom.com/wiki/Greatmother_Geyah "Greatmother Geyah")
+-   [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen")
+-   [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar")
+-   [Master Gadrin](https://wowpedia.fandom.com/wiki/Master_Gadrin "Master Gadrin")
+-   [Zen'tabra](https://wowpedia.fandom.com/wiki/Zen%27tabra "Zen'tabra")
+-   [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan")
+-   [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem")
+-   [Dezco](https://wowpedia.fandom.com/wiki/Sunwalker_Dezco "Sunwalker Dezco")
+-   [Roanauk Icemist](https://wowpedia.fandom.com/wiki/Roanauk_Icemist "Roanauk Icemist")
+-   [Jevan Grimtotem](https://wowpedia.fandom.com/wiki/Jevan_Grimtotem "Jevan Grimtotem")
+-   [Aponi Brightmane](https://wowpedia.fandom.com/wiki/Aponi_Brightmane "Aponi Brightmane")
+-   [Tahu Sagewind](https://wowpedia.fandom.com/wiki/Tahu_Sagewind "Tahu Sagewind")
+-   [Torntusk](https://wowpedia.fandom.com/wiki/Elder_Torntusk "Elder Torntusk")
+-   [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore")
+-   [Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon")
+-   [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver")
+-   [Alexi Barov](https://wowpedia.fandom.com/wiki/Alexi_Barov "Alexi Barov")
+-   [Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin")
+-   [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing")
+-   [Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+-   [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver")
+-   [Tae'thelan Bloodwatcher](https://wowpedia.fandom.com/wiki/Tae%27thelan_Bloodwatcher "Tae'thelan Bloodwatcher")
+-   [Mida](https://wowpedia.fandom.com/wiki/Boss_Mida "Boss Mida")
+-   [Pozzik](https://wowpedia.fandom.com/wiki/Pozzik "Pozzik")
+-   [Patch](https://wowpedia.fandom.com/wiki/Patch_(goblin) "Patch (goblin)")
+-   [Oculeth](https://wowpedia.fandom.com/wiki/Chief_Telemancer_Oculeth "Chief Telemancer Oculeth")
+-   [Valtrois](https://wowpedia.fandom.com/wiki/Arcanist_Valtrois "Arcanist Valtrois")
+-   [Lashk](https://wowpedia.fandom.com/wiki/Lashk "Lashk")
+-   [Ly'leth](https://wowpedia.fandom.com/wiki/Ly%27leth_Lunastre "Ly'leth Lunastre")
+-   [Silgryn](https://wowpedia.fandom.com/wiki/Silgryn "Silgryn")
+-   [Victoire](https://wowpedia.fandom.com/wiki/Victoire "Victoire")
+-   [Jale Rivermane](https://wowpedia.fandom.com/wiki/Jale_Rivermane "Jale Rivermane")
+-   [Lasan Skyhorn](https://wowpedia.fandom.com/wiki/Lasan_Skyhorn "Lasan Skyhorn")
+-   [Loti](https://wowpedia.fandom.com/wiki/Wardruid_Loti "Wardruid Loti")
+-   [Raal](https://wowpedia.fandom.com/wiki/Hexlord_Raal "Hexlord Raal")
+-   [Jo'nok](https://wowpedia.fandom.com/wiki/Jo%27nok,_Bulwark_of_Torcali "Jo'nok, Bulwark of Torcali")
+-   [Rata](https://wowpedia.fandom.com/wiki/High_Prelate_Rata "High Prelate Rata")
+-   [Rakera](https://wowpedia.fandom.com/wiki/Rakera "Rakera")
+-   [Nisha](https://wowpedia.fandom.com/wiki/Nisha "Nisha")
+-   [Kah Kah](https://wowpedia.fandom.com/wiki/Chief_Kah_Kah "Chief Kah Kah")
+-   [Usha Eyegouge](https://wowpedia.fandom.com/wiki/Usha_Eyegouge "Usha Eyegouge")
+-   [The Black Bride](https://wowpedia.fandom.com/wiki/The_Black_Bride "The Black Bride")
+-   [Gargok](https://wowpedia.fandom.com/wiki/Gargok "Gargok")
+-   [Neri Sharpfin](https://wowpedia.fandom.com/wiki/Neri_Sharpfin "Neri Sharpfin")
+-   [Ohseso](https://wowpedia.fandom.com/wiki/Ohseso "Ohseso")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+-   [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller")
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")
+-   [Jastor Gallywix](https://wowpedia.fandom.com/wiki/Jastor_Gallywix "Jastor Gallywix")
+-   [Warlord Bloodhilt](https://wowpedia.fandom.com/wiki/Warlord_Bloodhilt "Warlord Bloodhilt")
+-   [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar")
+-   [Overlord Krom'gar](https://wowpedia.fandom.com/wiki/Overlord_Krom%27gar "Overlord Krom'gar")
+-   [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream")
+-   [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer")
+-   [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin")
+-   [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof")
+-   [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")
+-   [Malkorok](https://wowpedia.fandom.com/wiki/Malkorok "Malkorok")
+-   [Nazgrim](https://wowpedia.fandom.com/wiki/Nazgrim "Nazgrim")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela")
+-   [Jor'kil](https://wowpedia.fandom.com/wiki/Jor%27kil_the_Soulripper "Jor'kil the Soulripper")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") | 
+
+-   [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan")
+-   [Rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Maim Blackhand](https://wowpedia.fandom.com/wiki/Maim_Blackhand "Maim Blackhand")
+-   [Kilrogg Deadeye](https://wowpedia.fandom.com/wiki/Kilrogg_Deadeye "Kilrogg Deadeye")
+-   [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked")
+-   [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")
+-   [Zul'jin](https://wowpedia.fandom.com/wiki/Zul%27jin "Zul'jin")
+-   [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+-   [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")
+-   [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+-   [Undead Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+-   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+-   [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
+-   [Mag'har orc](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")
+-   [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")
+-   [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")
+-   [Hobgoblin](https://wowpedia.fandom.com/wiki/Hobgoblin "Hobgoblin")
+-   [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+-   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Half-orc](https://wowpedia.fandom.com/wiki/Half-orc "Half-orc") / [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+    -   [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination")
+    -   [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")
+    -   [Geist](https://wowpedia.fandom.com/wiki/Geist "Geist")
+    -   [Ghoul](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul")
+    -   [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr")
+    -   [Undead elf](https://wowpedia.fandom.com/wiki/Elf "Elf")
+    -   [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith")
+    -   [Zombie](https://wowpedia.fandom.com/wiki/Zombie "Zombie")
+-   [Hozen](https://wowpedia.fandom.com/wiki/Hozen "Hozen")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Kodo](https://wowpedia.fandom.com/wiki/Kodo "Kodo")
+-   [Raptor](https://wowpedia.fandom.com/wiki/Raptor "Raptor")
+-   [Wyvern](https://wowpedia.fandom.com/wiki/Wyvern "Wyvern")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")
+-   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
+-   [Darkspear Isle](https://wowpedia.fandom.com/wiki/Darkspear_Isle "Darkspear Isle")
+-   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+-   [Bilgewater Harbor](https://wowpedia.fandom.com/wiki/Bilgewater_Harbor "Bilgewater Harbor")
+-   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+-   [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+-   [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor")
+-   [Vulpera Hideaway](https://wowpedia.fandom.com/wiki/Vulpera_Hideaway "Vulpera Hideaway")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Bloodhoof Village](https://wowpedia.fandom.com/wiki/Bloodhoof_Village "Bloodhoof Village")
+-   [Brackenwall Village](https://wowpedia.fandom.com/wiki/Brackenwall_Village "Brackenwall Village")
+-   [Camp Mojache](https://wowpedia.fandom.com/wiki/Camp_Mojache "Camp Mojache")
+-   [Crossroads](https://wowpedia.fandom.com/wiki/Crossroads "Crossroads")
+-   [Desolation Hold](https://wowpedia.fandom.com/wiki/Desolation_Hold "Desolation Hold")
+-   [Krom'gar Fortress](https://wowpedia.fandom.com/wiki/Krom%27gar_Fortress "Krom'gar Fortress")
+-   [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill")
+-   [Sen'jin Village](https://wowpedia.fandom.com/wiki/Sen%27jin_Village "Sen'jin Village")
+-   [Shadowprey Village](https://wowpedia.fandom.com/wiki/Shadowprey_Village "Shadowprey Village")
+-   [Southwind Village](https://wowpedia.fandom.com/wiki/Southwind_Village "Southwind Village")
+-   [Splintertree Post](https://wowpedia.fandom.com/wiki/Splintertree_Post "Splintertree Post")
+-   [Stonemaul Hold](https://wowpedia.fandom.com/wiki/Stonemaul_Hold "Stonemaul Hold")
+-   [Sun Rock Retreat](https://wowpedia.fandom.com/wiki/Sun_Rock_Retreat "Sun Rock Retreat")
+-   [Westreach Summit](https://wowpedia.fandom.com/wiki/Westreach_Summit "Westreach Summit")
+-   [Zoram'gar Outpost](https://wowpedia.fandom.com/wiki/Zoram%27gar_Outpost "Zoram'gar Outpost")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")
+-   [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill")
+-   [Ar'gorok](https://wowpedia.fandom.com/wiki/Ar%27gorok "Ar'gorok")
+-   [Dragonmaw Port](https://wowpedia.fandom.com/wiki/Dragonmaw_Port "Dragonmaw Port")
+-   [Falconwing Square](https://wowpedia.fandom.com/wiki/Falconwing_Square "Falconwing Square")
+-   [Frostwolf Keep](https://wowpedia.fandom.com/wiki/Frostwolf_Keep "Frostwolf Keep")
+-   [Grom'Gol](https://wowpedia.fandom.com/wiki/Grom%27Gol "Grom'Gol")
+-   [The Krazzworks](https://wowpedia.fandom.com/wiki/Krazzworks "Krazzworks")
+-   [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall")
+-   [Hardwrench Hideaway](https://wowpedia.fandom.com/wiki/Hardwrench_Hideaway "Hardwrench Hideaway")
+-   [New Kargath](https://wowpedia.fandom.com/wiki/New_Kargath "New Kargath")
+-   [Revantusk Village](https://wowpedia.fandom.com/wiki/Revantusk_Village "Revantusk Village")
+-   [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+-   [Sepulcher](https://wowpedia.fandom.com/wiki/Sepulcher "Sepulcher")
+-   [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell")
+-   [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Falcon Watch](https://wowpedia.fandom.com/wiki/Falcon_Watch "Falcon Watch")
+-   [Garadar](https://wowpedia.fandom.com/wiki/Garadar "Garadar")
+-   [Mok'Nathal Village](https://wowpedia.fandom.com/wiki/Mok%27Nathal_Village "Mok'Nathal Village")
+-   [Stonebreaker Hold](https://wowpedia.fandom.com/wiki/Stonebreaker_Hold "Stonebreaker Hold")
+-   [Shadowmoon Village](https://wowpedia.fandom.com/wiki/Shadowmoon_Village "Shadowmoon Village")
+-   [Thrallmar](https://wowpedia.fandom.com/wiki/Thrallmar "Thrallmar")
+-   [Thunderlord Stronghold](https://wowpedia.fandom.com/wiki/Thunderlord_Stronghold "Thunderlord Stronghold")
+-   [Zabra'jin](https://wowpedia.fandom.com/wiki/Zabra%27jin "Zabra'jin")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer")
+-   [Camp Tunka'lo](https://wowpedia.fandom.com/wiki/Camp_Tunka%27lo "Camp Tunka'lo")
+-   [Conquest Hold](https://wowpedia.fandom.com/wiki/Conquest_Hold "Conquest Hold")
+-   [New Agamand](https://wowpedia.fandom.com/wiki/New_Agamand "New Agamand")
+-   [Taunka'le Village](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Vengeance Landing](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing")
+-   [Venomspite](https://wowpedia.fandom.com/wiki/Venomspite "Venomspite")
+-   [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point")
+-   [Eastwind Rest](https://wowpedia.fandom.com/wiki/Eastwind_Rest "Eastwind Rest")
+-   [Grookin Hill](https://wowpedia.fandom.com/wiki/Grookin_Hill "Grookin Hill")
+-   [Shrine of Two Moons](https://wowpedia.fandom.com/wiki/Shrine_of_Two_Moons "Shrine of Two Moons")
+-   [Thunder Cleft](https://wowpedia.fandom.com/wiki/Thunder_Cleft "Thunder Cleft")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Axefall](https://wowpedia.fandom.com/wiki/Axefall "Axefall")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Riverside Post](https://wowpedia.fandom.com/wiki/Riverside_Post "Riverside Post")
+-   [Sunsworn Camp](https://wowpedia.fandom.com/wiki/Sunsworn_Camp "Sunsworn Camp")
+-   [Vol'jin's Pride](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Pride "Vol'jin's Pride")
+-   [Vol'mar](https://wowpedia.fandom.com/wiki/Vol%27mar "Vol'mar")
+-   [Warspear](https://wowpedia.fandom.com/wiki/Warspear "Warspear")
+-   [Wor'var](https://wowpedia.fandom.com/wiki/Wor%27var "Wor'var")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Dreadwake's Landing](https://wowpedia.fandom.com/wiki/Dreadwake%27s_Landing "Dreadwake's Landing")
+-   [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Warbeast Kraal](https://wowpedia.fandom.com/wiki/Warbeast_Kraal "Warbeast Kraal")
+-   [Zeb'ahari](https://wowpedia.fandom.com/wiki/Zeb%27ahari "Zeb'ahari")
+-   [Zul'jan Ruins](https://wowpedia.fandom.com/wiki/Zul%27jan_Ruins "Zul'jan Ruins")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Diretusk Hollow](https://wowpedia.fandom.com/wiki/Diretusk_Hollow "Diretusk Hollow")
+-   [Hillcrest Pasture](https://wowpedia.fandom.com/wiki/Hillcrest_Pasture "Hillcrest Pasture")
+-   [Ironmaul Overlook](https://wowpedia.fandom.com/wiki/Ironmaul_Overlook "Ironmaul Overlook")
+-   [Krazzlefrazz Outpost](https://wowpedia.fandom.com/wiki/Krazzlefrazz_Outpost "Krazzlefrazz Outpost")
+-   [Mudfisher Cove](https://wowpedia.fandom.com/wiki/Mudfisher_Cove "Mudfisher Cove")
+-   [Stonetusk Watch](https://wowpedia.fandom.com/wiki/Stonetusk_Watch "Stonetusk Watch")
+-   [Swiftwind Post](https://wowpedia.fandom.com/wiki/Swiftwind_Post "Swiftwind Post")
+-   [Timberfell Outpost](https://wowpedia.fandom.com/wiki/Timberfell_Outpost "Timberfell Outpost")
+-   [Warfang Hold](https://wowpedia.fandom.com/wiki/Warfang_Hold "Warfang Hold")
+-   [Windfall Cavern](https://wowpedia.fandom.com/wiki/Windfall_Cavern "Windfall Cavern")
+-   [Wolf's Den](https://wowpedia.fandom.com/wiki/Wolf%27s_Den "Wolf's Den")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Beastwatch](https://wowpedia.fandom.com/wiki/Beastwatch "Beastwatch")
+-   [Camp Taurajo](https://wowpedia.fandom.com/wiki/Camp_Taurajo "Camp Taurajo")
+-   [Bloodvenom Post](https://wowpedia.fandom.com/wiki/Bloodvenom_Post "Bloodvenom Post")
+-   [Freewind Post](https://wowpedia.fandom.com/wiki/Freewind_Post "Freewind Post")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary")
+-   [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")
+-   [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+-   [Echo Isles](https://wowpedia.fandom.com/wiki/Echo_Isles "Echo Isles")
+-   [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore "Mulgore")
+-   [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens")
+-   [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+-   [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+    -   [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Nation of Durotar](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)") | 
+
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Rageroar clan](https://wowpedia.fandom.com/wiki/Rageroar_clan "Rageroar clan")
+    -   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan")
+    -   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan "Shattered Hand clan")
+    -   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
+    -   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan "Burning Blade clan")
+    -   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan")
+    -   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan")
+    -   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan")
+-   [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron")
+-   [Orgrimmar Legion](https://wowpedia.fandom.com/wiki/Orgrimmar_Legion "Orgrimmar Legion")
+-   [Hellscream's Vanguard](https://wowpedia.fandom.com/wiki/Hellscream%27s_Vanguard "Hellscream's Vanguard")
+-   [Hellscream's Hellions](https://wowpedia.fandom.com/wiki/Hellscream%27s_Hellions "Hellscream's Hellions")
+-   [Warsong Outriders](https://wowpedia.fandom.com/wiki/Warsong_Outriders "Warsong Outriders")
+
+
+
+ |
+|  |
+| [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") | 
+
+-   [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers")
+-   [Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers")
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society")
+-   [Queensguard](https://wowpedia.fandom.com/wiki/Queensguard "Queensguard")
+-   [Deathguard](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard")
+    -   [Dreadguard](https://wowpedia.fandom.com/wiki/Dreadguard "Dreadguard")
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council")
+-   [Blightguard](https://wowpedia.fandom.com/wiki/Blightguard "Blightguard")
+
+
+
+ |
+|  |
+| [Thunder Bluff tauren](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)") | 
+
+-   [Tauren tribes](https://wowpedia.fandom.com/wiki/Tribe#Tauren_tribes "Tribe")
+    -   [Bloodhoof tribe](https://wowpedia.fandom.com/wiki/Bloodhoof_tribe "Bloodhoof tribe")
+    -   [Ragetotem tribe](https://wowpedia.fandom.com/wiki/Ragetotem_tribe "Ragetotem tribe")
+    -   [Dawnstrider tribe](https://wowpedia.fandom.com/wiki/Dawnstrider_tribe "Dawnstrider tribe")
+    -   [Runetotem tribe](https://wowpedia.fandom.com/wiki/Runetotem_tribe "Runetotem tribe")
+    -   [Highmountain tribe](https://wowpedia.fandom.com/wiki/Highmountain_tribe_(Legends) "Highmountain tribe (Legends)")
+    -   [Skychaser tribe](https://wowpedia.fandom.com/wiki/Skychaser_tribe "Skychaser tribe")
+    -   [Thunderhorn clan](https://wowpedia.fandom.com/wiki/Thunderhorn_clan "Thunderhorn clan")
+    -   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+    -   [Stonespire tribe](https://wowpedia.fandom.com/wiki/Stonespire_tribe "Stonespire tribe")
+-   [Sunwalkers](https://wowpedia.fandom.com/wiki/Sunwalkers "Sunwalkers")
+-   [Seers](https://wowpedia.fandom.com/wiki/Seers "Seers")
+-   [Longwalkers](https://wowpedia.fandom.com/wiki/Longwalkers "Longwalkers")
+
+
+
+ |
+|  |
+| [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") | 
+
+-   [Vol'jin's Spear](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Spear "Vol'jin's Spear")
+-   [Vol'jin's Headhunters](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Headhunters "Vol'jin's Headhunters")
+-   [Siame-Quashi](https://wowpedia.fandom.com/wiki/Siame-Quashi "Siame-Quashi")
+-   [Ravasaur Trainers](https://wowpedia.fandom.com/wiki/Ravasaur_Trainers "Ravasaur Trainers")
+-   [The Headhunters](https://wowpedia.fandom.com/wiki/Headhunters_(island_expedition) "Headhunters (island expedition)")
+
+
+
+ |
+|  |
+| [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") | 
+
+-   [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights")
+-   [Sunsworn](https://wowpedia.fandom.com/wiki/Sunsworn "Sunsworn")
+-   [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters")
+-   [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders")
+-   [Blood Hawks](https://wowpedia.fandom.com/wiki/Blood_Hawks "Blood Hawks")
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury")
+-   [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary")
+-   [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+    -   [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+-   [Blazing Sunhawks](https://wowpedia.fandom.com/wiki/Blazing_Sunhawks "Blazing Sunhawks")
+
+
+
+ |
+|  |
+| [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") | 
+
+-   [Gob Squad](https://wowpedia.fandom.com/wiki/Gob_Squad "Gob Squad")
+-   [Bilgewater Battalion](https://wowpedia.fandom.com/wiki/Bilgewater_Battalion "Bilgewater Battalion")
+-   [S.H.A.R.K.](https://wowpedia.fandom.com/wiki/S.H.A.R.K. "S.H.A.R.K.")
+-   [Mergers and Acquisitions](https://wowpedia.fandom.com/wiki/Mergers_and_Acquisitions "Mergers and Acquisitions")
+-   [Dredge Fleet](https://wowpedia.fandom.com/wiki/Dredge_Fleet "Dredge Fleet")
+
+
+
+ |
+|  |
+| [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") | 
+
+-   [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)")
+-   [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch")
+-   [The Highborne](https://wowpedia.fandom.com/wiki/Highborne_(island_expedition) "Highborne (island expedition)")
+
+
+
+ |
+|  |
+| [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe") | 
+
+-   [Rivermane tribe](https://wowpedia.fandom.com/wiki/Rivermane_tribe "Rivermane tribe")
+-   [Skyhorn tribe](https://wowpedia.fandom.com/wiki/Skyhorn_tribe "Skyhorn tribe")
+
+
+
+ |
+|  |
+| [Mag'har Clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)") | 
+
+-   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan_(alternate_universe) "Blackrock clan (alternate universe)")
+-   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan_(alternate_universe) "Bleeding Hollow clan (alternate universe)")
+-   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan_(alternate_universe) "Burning Blade clan (alternate universe)")
+-   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_Orcs "Frostwolf Orcs")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_Orcs "Laughing Skull Orcs")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan_(alternate_universe) "Shadowmoon clan (alternate universe)")
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan_(alternate_universe) "Shattered Hand clan (alternate universe)")
+-   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan_(alternate_universe) "Thunderlord clan (alternate universe)")
+-   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan_(alternate_universe) "Warsong clan (alternate universe)")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan_(alternate_universe) "Stonemaul clan (alternate universe)")
+
+
+
+ |
+|  |
+| [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") | 
+
+-   [Zanchuli Council](https://wowpedia.fandom.com/wiki/Zanchuli_Council "Zanchuli Council")
+-   [Golden Fleet](https://wowpedia.fandom.com/wiki/Golden_Fleet "Golden Fleet")
+-   [Zandalari army](https://wowpedia.fandom.com/wiki/Zandalari_army "Zandalari army")
+-   [Talanji's Expedition](https://wowpedia.fandom.com/wiki/Talanji%27s_Expedition "Talanji's Expedition")
+-   [Raptari](https://wowpedia.fandom.com/wiki/Raptari "Raptari")
+-   [Rastari](https://wowpedia.fandom.com/wiki/Rastari "Rastari")
+-   [Pa'kura](https://wowpedia.fandom.com/wiki/Pa%27kura "Pa'kura")
+-   [Torcalin](https://wowpedia.fandom.com/wiki/Torcalin "Torcalin")
+-   [Lun'alai](https://wowpedia.fandom.com/wiki/Lun%27alai "Lun'alai")
+-   [Warpack](https://wowpedia.fandom.com/wiki/Warpack "Warpack")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Huojin Pandaren](https://wowpedia.fandom.com/wiki/Huojin_Pandaren "Huojin Pandaren")
+-   [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai")
+-   [Dark Talons](https://wowpedia.fandom.com/wiki/Dark_Talons "Dark Talons")
+-   [Horde navy](https://wowpedia.fandom.com/wiki/Horde_navy "Horde navy")
+-   [Garad'kra](https://wowpedia.fandom.com/wiki/Garad%27kra "Garad'kra")
+-   [Kargath Expeditionary Force](https://wowpedia.fandom.com/wiki/Kargath_Expeditionary_Force "Kargath Expeditionary Force")
+-   [Hellscream's Reach](https://wowpedia.fandom.com/wiki/Hellscream%27s_Reach "Hellscream's Reach")
+-   [Krom'gar](https://wowpedia.fandom.com/wiki/Krom%27gar "Krom'gar")
+    -   [Boulderslide kobolds](https://wowpedia.fandom.com/wiki/Boulderslide "Boulderslide")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan "Stonemaul clan")
+-   [Dunemaul clan](https://wowpedia.fandom.com/wiki/Dunemaul_clan "Dunemaul clan")
+-   [Okril'lon](https://wowpedia.fandom.com/wiki/Okril%27lon "Okril'lon")
+-   [The Mag'har](https://wowpedia.fandom.com/wiki/Mag%27har_(faction) "Mag'har (faction)")
+-   [Shatterspear tribe](https://wowpedia.fandom.com/wiki/Shatterspear_tribe "Shatterspear tribe")
+-   [Revantusk tribe](https://wowpedia.fandom.com/wiki/Revantusk_tribe "Revantusk tribe")
+-   [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition")
+    -   [Warsong Offensive](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive")
+    -   [Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance")
+        -   [Shadowstalkers](https://wowpedia.fandom.com/wiki/Shadowstalkers "Shadowstalkers")
+-   [Dominance Offensive](https://wowpedia.fandom.com/wiki/Dominance_Offensive "Dominance Offensive")
+-   [Forest Hozen](https://wowpedia.fandom.com/wiki/Forest_Hozen "Forest Hozen")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+    -   [Icemist tribe](https://wowpedia.fandom.com/wiki/Icemist_tribe "Icemist tribe")
+    -   [Winterhoof](https://wowpedia.fandom.com/wiki/Camp_Winterhoof "Camp Winterhoof")
+    -   [Oneqwah](https://wowpedia.fandom.com/wiki/Camp_Oneqwah "Camp Oneqwah")
+    -   [Taunka'le](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Horde Trauma](https://wowpedia.fandom.com/wiki/Horde_Trauma "Horde Trauma")
+-   [Honorbound](https://wowpedia.fandom.com/wiki/Honorbound "Honorbound")
+-   [Rok'nah](https://wowpedia.fandom.com/wiki/Rok%27nah "Rok'nah")
+-   [Warbraves](https://wowpedia.fandom.com/wiki/Warbraves_(island_expedition) "Warbraves (island expedition)")
+-   [Greenbelly's Raiders](https://wowpedia.fandom.com/wiki/Greenbelly%27s_Raiders "Greenbelly's Raiders")
+-   [Gazlowe's Greasemonkeys](https://wowpedia.fandom.com/wiki/Gazlowe%27s_Greasemonkeys "Gazlowe's Greasemonkeys")
+-   [Draenor's Blood](https://wowpedia.fandom.com/wiki/Draenor%27s_Blood "Draenor's Blood")
+-   [The Unshackled](https://wowpedia.fandom.com/wiki/Unshackled "Unshackled")
+-   [Usha's Eyegougers](https://wowpedia.fandom.com/wiki/Usha%27s_Eyegougers "Usha's Eyegougers")
+-   [Gorok's Sea Dogs](https://wowpedia.fandom.com/wiki/Gorok%27s_Sea_Dogs "Gorok's Sea Dogs")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire")
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Black Tooth Grin clan](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan")
+    -   [Bladewind clan](https://wowpedia.fandom.com/wiki/Bladewind_clan "Bladewind clan")
+    -   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan")
+    -   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan")
+    -   [Lightning's Blade clan](https://wowpedia.fandom.com/wiki/Lightning%27s_Blade_clan "Lightning's Blade clan")
+    -   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan")
+    -   [Stormreaver clan](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan")
+    -   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan "Thunderlord clan")
+    -   [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") (enslaved)
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Death knight orders](https://wowpedia.fandom.com/wiki/Death_knight_(Old_Horde) "Death knight (Old Horde)")
+
+
+
+ |
+|  |
+| Horde-aligned and allies | 
+
+-   [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Fogsail Freebooters](https://wowpedia.fandom.com/wiki/Fogsail_Freebooters "Fogsail Freebooters")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Dreadmaul tribe](https://wowpedia.fandom.com/wiki/Dreadmaul_tribe "Dreadmaul tribe")
+-   [Dustbelcher](https://wowpedia.fandom.com/wiki/Dustbelcher "Dustbelcher")
+-   [Magram clan](https://wowpedia.fandom.com/wiki/Magram_clan "Magram clan")
+-   [Witherbark tribe](https://wowpedia.fandom.com/wiki/Witherbark_tribe "Witherbark tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Steamwheedle Cartel](https://wowpedia.fandom.com/wiki/Steamwheedle_Cartel "Steamwheedle Cartel")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
+-   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")
+-   [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)")
+-   [Horde organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+-   [Horde technology](https://wowpedia.fandom.com/wiki/Horde_technology "Horde technology")
+-   [Horde territories](https://wowpedia.fandom.com/wiki/Category:Horde_territories "Category:Horde territories")
+
+
+
+ |

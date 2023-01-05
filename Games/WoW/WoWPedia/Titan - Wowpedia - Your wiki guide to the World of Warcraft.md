@@ -1,0 +1,704 @@
+_This article is about the race of beings called titans. For the titan organization led by [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), see [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"). For the titanic language, see [Titan (language)](https://wowpedia.fandom.com/wiki/Titan_(language) "Titan (language)"). For the UI addon/mod that creates a bar at the top of the screen, see [Titan Panel](https://wowpedia.fandom.com/wiki/Titan_Panel "Titan Panel")._
+
+| Titans |
+| --- |
+| [![Pantheon.jpg](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Pantheon.jpg/revision/latest/scale-to-width-down/300?cb=20120220162054)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Pantheon.jpg/revision/latest?cb=20120220162054) |
+| Faction/Affiliation | [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")  
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
+| Racial capital | [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon")  
+[Antorus](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne") |
+| Racial leader(s) | [![IconSmall Aman'Thul.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest/scale-to-width-down/16?cb=20211206110642)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest?cb=20211206110642) [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")  
+[![IconSmall Sargeras.gif](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Sargeras.gif/revision/latest/scale-to-width-down/16?cb=20221014225054)](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Sargeras.gif/revision/latest?cb=20221014225054) [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") |
+| Homeworld | [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") |
+| Language(s) | [Titan](https://wowpedia.fandom.com/wiki/Titan_(language) "Titan (language)") |
+
+The **titans** (sometimes capitalized) are a [race](https://wowpedia.fandom.com/wiki/Race "Race") of colossal, [planet](https://wowpedia.fandom.com/wiki/Planet "Planet")\-sized cosmic beings, composed of [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") [magic](https://wowpedia.fandom.com/wiki/Magic "Magic") and the primordial matter from which the universe was born. They roamed across the cosmos like walking worlds, imbued with the raw power of creation itself. The titans used this incredible force to find and awaken [others](https://wowpedia.fandom.com/wiki/World-soul "World-soul") of their kind.<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-1">[1]</a></sup> Hailing from the far reaches of the cosmos, they shaped and brought life and order to countless worlds across the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond").<sup id="cite_ref-Mag_2-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Mag-2">[2]</a></sup> They were described as perfect and majestic beings who are akin to [gods](https://wowpedia.fandom.com/wiki/God "God").<sup id="cite_ref-Logy_3-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Logy-3">[3]</a></sup>
+
+## Description
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Pantheon_Chronicle.jpg/revision/latest/scale-to-width-down/180?cb=20170318191805)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Pantheon_Chronicle.jpg/revision/latest?cb=20170318191805)
+
+The [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") as depicted in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Pantheon_stars.jpg/revision/latest/scale-to-width-down/180?cb=20220917154422)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Pantheon_stars.jpg/revision/latest?cb=20220917154422)
+
+The Pantheon as depicted at gamescom 2015.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Argus_world-soul.jpg/revision/latest/scale-to-width-down/180?cb=20170811035315)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Argus_world-soul.jpg/revision/latest?cb=20170811035315)
+
+The world-soul of [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)") in [Antorus, the Burning Throne](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne").
+
+“In many ways, the titans will be the easiest to manipulate. Their singular goal is to impose structure upon everything they see. Show them a force that opposes their drive for [Order](https://wowpedia.fandom.com/wiki/Order "Order"), and they will be consumed by their urge to eradicate it. Their [pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), so seemingly united in purpose, is vulnerable to fracturing.”
+
+— A nathrezim describing the titans in [a book of enemy infiltration](https://wowpedia.fandom.com/wiki/Enemy_Infiltration_-_Preface "Enemy Infiltration - Preface")
+
+The titans are colossal godlike beings made up of the primordial matter from which the very universe was born. Imbued with the raw power of creation itself, they roam the cosmos like walking worlds.<sup id="cite_ref-Chron13_4-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chron13-4">[4]</a></sup> Titans are born from [world-souls](https://wowpedia.fandom.com/wiki/World-soul "World-soul"), spirits who are formed within the fiery cores of a small number of worlds and who slumber for ages, suffusing the planets they inhabit with [Spirit](https://wowpedia.fandom.com/wiki/Spirit "Spirit") energy before finally awakening. Described as living worlds, their bodies are covered in mountain peaks and rivers, their forms wrapped in cloaks of stardust and their eyes shining like brilliant stars.<sup id="cite_ref-Chronicle19_5-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle19-5">[5]</a></sup> Bastions of purity and good, the titans are unable to conceive of evil or wickedness in any form.<sup id="cite_ref-UVG_6-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-UVG-6">[6]</a></sup>
+
+Titans are heavily tied to the cosmic force known as [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-7">[7]</a></sup> In fact, arcane is their very lifeblood. The original [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), an enormous lake of volatile arcane energies, was literally the very lifeblood of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-8">[8]</a></sup> They are also uniquely susceptible to [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") magic, their polar opposite. Mature titans are immune to the corruptive influences of the [void lords](https://wowpedia.fandom.com/wiki/Void_lords "Void lords").<sup id="cite_ref-Chronicle48_9-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle48-9">[9]</a></sup>
+
+According to the cosmology chart, the titans, as the embodiments of Order, are most closely associated with the element of [Earth](https://wowpedia.fandom.com/wiki/Earth "Earth"), as well as sharing an association with the element of [Water](https://wowpedia.fandom.com/wiki/Water "Water") with the [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_Gods "Wild Gods").
+
+Despite what is commonly known on Azeroth as history, the Titans were in some way connected to the First Ones, the same entities that organized and designed the Pantheon of Death of the Shadowlands, along with the Shadowlands themselves. The titans connection to the Progenitors, and the otherwise unknown facility known as Zereth Ordus, was concealed and forbidden by the command of Odyn, placing Titans as the absolute pinnacle of existence in their records so as not to 'confuse' mortals, in his words.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-10">[10]</a></sup>
+
+## Known
+
+| Name | Title | Description | Status |
+| --- | --- | --- | --- |
+| [![IconSmall Aman'Thul.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest?cb=20211206110642) [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul") | Highfather of the Pantheon<sup id="cite_ref-Chronicle_pg._20_11-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg._20-11">[11]</a></sup> | Leader of the Pantheon. He empowered the [keepers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra") and [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn"), and he blessed the Bronze dragon [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") with the power of [Time](https://wowpedia.fandom.com/wiki/Time "Time"), to watch over and protect the interweaving pathways of fate and destiny. | Active<sup id="cite_ref-Antorus_12-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Antorus-12">[12]</a></sup> |
+| [![IconSmall Eonar.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/IconSmall_Eonar.gif/revision/latest?cb=20211210182053) [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar") | The Life-Binder<sup id="cite_ref-Chronicle_pg._20_11-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg._20-11">[11]</a></sup> | Protector of [life](https://wowpedia.fandom.com/wiki/Life "Life"), nature, and health. She imbued [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya") with a portion of her powers, so that Freya could create the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). Blessed the Red dragon [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") with the power to safeguard all living creatures and Life and the Green dragon [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") to safeguard nature and the Emerald Dream. | Active<sup id="cite_ref-Antorus_12-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Antorus-12">[12]</a></sup> |
+| [![IconSmall Norgannon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/58/IconSmall_Norgannon.gif/revision/latest?cb=20211213131223) [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon") | Keeper of Celestial Magics and Lore<sup id="cite_ref-Chronicle_pg._20_11-2"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg._20-11">[11]</a></sup> | The master of all [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") [magic](https://wowpedia.fandom.com/wiki/Magic "Magic"), knowledge, secrets, and mysteries. He gave power to the keepers [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") and [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron"), and bestowed great power upon the Blue dragon [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") to be the guardian of magic and arcanum. | Active<sup id="cite_ref-Antorus_12-2"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Antorus-12">[12]</a></sup> |
+| [![IconSmall Golganneth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Golganneth.gif/revision/latest?cb=20211211091939) [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth") | Lord of the Skies and Roaring Oceans<sup id="cite_ref-Chronicle_pg._20_11-3"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg._20-11">[11]</a></sup> | Father of the [Sea Giants](https://wowpedia.fandom.com/wiki/Sea_Giants "Sea Giants"). He imbued the keepers [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir") and [Thorim](https://wowpedia.fandom.com/wiki/Thorim "Thorim") with power. | Active<sup id="cite_ref-Antorus_12-3"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Antorus-12">[12]</a></sup> |
+| [![IconSmall Khaz'goroth.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/25/IconSmall_Khaz%27goroth.gif/revision/latest?cb=20211212102953) [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth") | Shaper and Forger of Worlds<sup id="cite_ref-Chronicle_pg._20_11-4"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg._20-11">[11]</a></sup> | The ultimate craftsman and builder. Imbued keeper [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas") with his powers. Empowered the Black dragon [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion"), who later became [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), with dominance over the earth and the deep places of the world. | Active<sup id="cite_ref-Antorus_12-4"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Antorus-12">[12]</a></sup> |
+| [![IconSmall Aggramar.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_Aggramar.gif/revision/latest?cb=20211203111605)[![IconSmall DarkAggramar.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/43/IconSmall_DarkAggramar.gif/revision/latest?cb=20211203111636) [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar") | Lieutenant of the Great Sargeras<sup id="cite_ref-Chronicle_pg._20_11-5"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg._20-11">[11]</a></sup> | Successor to [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") as the champion of the Pantheon. Charged with combating the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and purging its demonic taint from the universe. He imbued [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") with strength and courage. On [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), Aggramar created the elemental giant [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond") and empowered his descendants, the [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal"), to balance out the power of the [Spirit](https://wowpedia.fandom.com/wiki/Spirit_(lore) "Spirit (lore)") element. Killed, and then eventually resurrected in an [avatar](https://wowpedia.fandom.com/wiki/Avatar "Avatar"), by Sargeras as his enforcer. | Active<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-13">[13]</a></sup><sup id="cite_ref-Antorus_12-5"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Antorus-12">[12]</a></sup> |
+| [![IconSmall SargerasPantheon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_SargerasPantheon.gif/revision/latest?cb=20211214081137)[![IconSmall Sargeras.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Sargeras.gif/revision/latest?cb=20221014225054) [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") | The Defender (formerly),
+The Destroyer
+
+ | The former champion of the Pantheon, creator and lord of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Master of all that is evil and demonic. | Imprisoned<sup id="cite_ref-Antorus_12-6"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Antorus-12">[12]</a></sup> |
+| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)") | The Final Titan | Could potentially become the most powerful titan in existence according to the Pantheon.<sup id="cite_ref-Chronicle30_14-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle30-14">[14]</a></sup> | Dormant |
+| [Unnamed world-soul](https://wowpedia.fandom.com/wiki/World-soul#Sargeras_and_the_unnamed_world-soul "World-soul") |  | Corrupted by [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"), the world-soul was destroyed by Sargeras.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-15">[15]</a></sup> | Deceased<sup id="cite_ref-Chronicle_pg._50-65_16-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg._50-65-16">[16]</a></sup> |
+| [![IconSmall Argus.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/IconSmall_Argus.gif/revision/latest?cb=20211214171604) [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)") | The Unmaker | The tormented world-soul of [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)"), present at [Antorus, the Burning Throne](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne"). | Deceased (Killable) |
+
+## Mentions of titans
+
+## In the RPG
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Titans.JPG/revision/latest/scale-to-width-down/180?cb=20071219054427)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Titans.JPG/revision/latest?cb=20071219054427)
+
+A titan depicted in _Shadows & Light_.
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Many believe them to simply be a progenitor race,<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-21">[21]</a></sup> akin to [gods](https://wowpedia.fandom.com/wiki/God "God").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-22">[22]</a></sup> Their figure is humanoid but gigantic, with gleaming metallic skin and a perfection of form that makes the heart ache.<sup id="cite_ref-S&amp;L107_23-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-S&amp;L107-23">[23]</a></sup> Each titan cultivates specific interests that relate to particular elements or energy types — essentially, to some small aspect of creation over which the titan holds a measure of dominance. Some titans refer to the piece of creation upon which they focus as their "sphere of power". [Furbolgs](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg") have legends of seeing the coming of the titans to the world from their homeland in Northrend, implying they predate the titans.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-24">[24]</a></sup>
+
+There are two types of titan:
+
+-   [Aesir](https://wowpedia.fandom.com/wiki/Aesir "Aesir") "storm giant", platinum-skinned, stronger, smarter and more agile
+-   [Vanir](https://wowpedia.fandom.com/wiki/Vanir "Vanir") "earth giant", bronze-skinned, tougher but less powerful
+
+Scholars have postulated that there are other subspecies of titans. No titans have ever been spotted, and it is believed that they live among the stars where they continue to this day shaping new worlds.<sup id="cite_ref-S&amp;L107_23-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-S&amp;L107-23">[23]</a></sup> Sargeras is believed to be a [vanir](https://wowpedia.fandom.com/wiki/Vanir "Vanir") titan<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-25">[25]</a></sup> as well as a [dark titan](https://wowpedia.fandom.com/wiki/Dark_titan "Dark titan").<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-26">[26]</a></sup> It is believed that there may be other subspecies than the aesir and vanir.<sup id="cite_ref-S&amp;L107_23-2"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-S&amp;L107-23">[23]</a></sup>
+
+Titans generally believe they are invincible. They wade into the thickest of battles using their most powerful abilities, or even just swinging with massive, alloyed fists. Titans with well-defined spheres of power have wildly varying combat tactics, focusing primarily upon the strengths of their spheres.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-27">[27]</a></sup>
+
+Titans can be [fighter](https://wowpedia.fandom.com/wiki/Fighter "Fighter"), [barbarian](https://wowpedia.fandom.com/wiki/Barbarian "Barbarian"), [gladiator](https://wowpedia.fandom.com/wiki/Gladiator "Gladiator"), [healer](https://wowpedia.fandom.com/wiki/Healer "Healer"), [druid of the wild](https://wowpedia.fandom.com/wiki/Druid_of_the_wild "Druid of the wild"), [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman"), [expert](https://wowpedia.fandom.com/wiki/Expert "Expert"), [wizard](https://wowpedia.fandom.com/wiki/Wizard "Wizard"), [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior"), [mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer") or [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock").
+
+Some accounts of the titans give them titles such as "Patron of All Life".<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-28">[28]</a></sup>
+
+The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge") is perhaps the greatest titan artifact ever unearthed.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-29">[29]</a></sup>
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Titans.jpg/revision/latest/scale-to-width-down/180?cb=20080831041224)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Titans.jpg/revision/latest?cb=20080831041224)
+
+"Titan"-labeled models, used for the [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher").
+
+-   It has been hinted that when titans die, their souls would return to their own Order plane.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-30">[30]</a></sup>
+-   Two in-game models are called "titans" in the files, but are used for [titanic watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") rather than actual titans.
+-   The non-canon RPG described two races of titans: [aesir](https://wowpedia.fandom.com/wiki/Aesir "Aesir") and [vanir](https://wowpedia.fandom.com/wiki/Vanir "Vanir"). This categorization was used in-game to describe [storm](https://wowpedia.fandom.com/wiki/Storm_giant "Storm giant") and [earth giants](https://wowpedia.fandom.com/wiki/Mountain_giant "Mountain giant"),<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-31">[31]</a></sup> but was later re-defined in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_ to describe instead the two original types of [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged").<sup id="cite_ref-Chronicle_pg-_31_32-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle_pg-_31-32">[32]</a></sup>
+-   Prior to the publication of _Chronicle Volume 1_, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") were the leaders of all titans, implying there were more of them, and were described as metallic-skinned.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-33">[33]</a></sup>
+-   Though [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") said the titans were godlike<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-34">[34]</a></sup> and the [Warcraft Encyclopedia](https://wowpedia.fandom.com/wiki/Warcraft_Encyclopedia "Warcraft Encyclopedia") states titans are not [gods](https://wowpedia.fandom.com/wiki/God "God"),<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-35">[35]</a></sup><sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-36">[36]</a></sup> the _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_,<sup id="cite_ref-UVG_6-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-UVG-6">[6]</a></sup> the _[Sunwell Trilogy](https://wowpedia.fandom.com/wiki/Sunwell_Trilogy "Sunwell Trilogy")_,<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-37">[37]</a></sup> the _[Magazine](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine "World of Warcraft: The Magazine")_,<sup id="cite_ref-Mag_2-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Mag-2">[2]</a></sup> and [Loreology](https://wowpedia.fandom.com/wiki/Loreology "Loreology")<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-38">[38]</a></sup> have stated that they are "metallic-skinned gods" as described in  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Inv_misc_book_10.png/revision/latest/scale-to-width-down/16?cb=20070329111615)[\[Mythology of the Titans\]](https://wowpedia.fandom.com/wiki/Mythology_of_the_Titans). The Senior Historian later clarified that by "gods" he meant "perfect specimen rather than an actual divine being".<sup id="cite_ref-Logy_3-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Logy-3">[3]</a></sup>
+    -   Reconciling the various sources, _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/Chronicle_Volume_1 "Chronicle Volume 1")_ described them as godlike beings.<sup id="cite_ref-Chron13_4-1"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chron13-4">[4]</a></sup>
+-   The titans do not transcend all realities like demons do.<sup id="cite_ref-Muffinus_39-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Muffinus-39">[39]</a></sup>
+-   The name "titan" is inspired from the eponymous giants or proto-gods from [Greek mythology](http://en.wikipedia.org/wiki/Greek_mythology "wikipedia:Greek mythology") who inhabited the world during the First Era, and later ruled it during the Second Era. Their leader was Kronos. Notable titans include Rhea, Atlas, and Prometheus. Unlike their Warcraft counterparts, most of them were inherently malevolent. They were defeated by Zeus and the Olympians at the start of the Third Era.
+-   The Æsir and Vanir come from [Viking (Norse) mythology](http://en.wikipedia.org/wiki/Norse_mythology "wikipedia:Norse mythology"). The Aesir are the rulers of Asgard and the more altruistic force in the universe, the greatest of them being Odin and Thor. The Vanir come from Vanaheim and are allied with the Æsir. They mostly live apart from each other, but a few Vanir have been taken into Asgard and are considered as "one of the Æsir." Both have a common enemy in the Jotnar (giants). In an interesting contrast from Blizzard's direction, which places the dwarves close to the titans, the Vanir of Norse myth had stronger ties to the elves.
+-   When the titans ultimately appeared in _World of Warcraft_, they largely seemed to ignore the descriptions presented in _Chronicle Volume 1_, being the metallic giants seen in the RPG books and _[Warcraft Saga](https://wowpedia.fandom.com/wiki/Warcraft_Saga "Warcraft Saga")_ or orbs of energy in their soul form.
+    -   In the artwork of the titans from _Chronicle Volume 1_, the titans resemble constellar.
+-   There was to be an in-game feature called [Path of the Titans](https://wowpedia.fandom.com/wiki/Path_of_the_Titans_(feature) "Path of the Titans (feature)") in _Cataclysm_ but it was cut before release.
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-1) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 16
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Mag_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Mag_2-1">b</a></sup> _[World of Warcraft: The Magazine Volume I Issue IV](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Volume_I_Issue_IV "World of Warcraft: The Magazine Volume I Issue IV")_, 71.
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Logy_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Logy_3-1">b</a></sup> [Sean Copeland on Twitter](https://twitter.com/Loreology/status/496320309432041472) (2014-08-04)
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chron13_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chron13_4-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 13
+5.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle19_5-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 19, 20
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-UVG_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-UVG_6-1">b</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 32
+7.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-7) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 8 ([cosmology chart](https://wowpedia.fandom.com/wiki/File:WoW_Chronicle_Magic.jpg "File:WoW Chronicle Magic.jpg"))
+8.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-8) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 36
+9.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle48_9-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 48 - 50
+10.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-10)  ![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Inv_misc_questionmark.png/revision/latest/scale-to-width-down/16?cb=20180222205140)[\[Edicts of the Prime Designate, Volume 742\]](https://wowpedia.fandom.com/wiki/Edicts_of_the_Prime_Designate,_Volume_742)
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg._20_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg._20_11-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg._20_11-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg._20_11-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg._20_11-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg._20_11-5">f</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 20
+12.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Antorus_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Antorus_12-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Antorus_12-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Antorus_12-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Antorus_12-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Antorus_12-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-Antorus_12-6">g</a></sup> [Antorus, the Burning Throne](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne")
+13.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-13)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Visions of Torment](https://wowpedia.fandom.com/wiki/Visions_of_Torment)
+14.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle30_14-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 30 - 31
+15.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-15) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 23 - 24
+16.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg._50-65_16-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 50, 65
+17.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-17) [BlizzCast - Episode 12](http://us.blizzard.com/en-us/community/blizzcast/archive/episode12.html)
+18.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-18)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60G\] [The Calling](https://wowpedia.fandom.com/wiki/The_Calling)
+19.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-19)  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Inv_misc_book_07.png/revision/latest/scale-to-width-down/16?cb=20070329111400)[\[The Feast of Winter Veil\]](https://wowpedia.fandom.com/wiki/The_Feast_of_Winter_Veil)
+20.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-20)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Whispers of a Frightened World](https://wowpedia.fandom.com/wiki/Whispers_of_a_Frightened_World)
+21.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-21) _[Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft:_The_Roleplaying_Game "Warcraft: The Roleplaying Game")_, pg. 32, 127
+22.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-22) _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 75
+23.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-S&amp;L107_23-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-S&amp;L107_23-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Titan#cite_ref-S&amp;L107_23-2">c</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 107
+24.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-24) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 85
+25.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-25) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 123
+26.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-26) _[Magic and Mayhem](https://wowpedia.fandom.com/wiki/Magic_and_Mayhem "Magic and Mayhem")_, pg. 16
+27.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-27) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 109
+28.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-28) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_
+29.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-29) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 76
+30.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-30) [Steve Danuser with Taliesin & Evitel](https://www.twitch.tv/videos/619631234/) - 00:40:01
+31.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-31) [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+32.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-Chronicle_pg-_31_32-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 31
+33.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-33)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Inv_misc_book_10.png/revision/latest/scale-to-width-down/16?cb=20070329111615)[\[Mythology of the Titans\]](https://wowpedia.fandom.com/wiki/Mythology_of_the_Titans)
+34.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-34) [BlizzCon 2005 - Lore Panel](https://www.youtube.com/watch?v=O3uzFQ_n88k&t=8s)
+35.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-35) [The Warcraft Encyclopedia: Gods](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Gods "The Warcraft Encyclopedia/Gods") "...the benevolent titans, though not gods themselves..."
+36.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-36) [The Warcraft Encyclopedia: Immortals](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Immortals "The Warcraft Encyclopedia/Immortals") "The titans are not gods..."
+37.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-37) _[Dragon Hunt](https://wowpedia.fandom.com/wiki/Dragon_Hunt "Dragon Hunt")_
+38.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-38) [Loreology on Twitter](https://twitter.com/Loreology/status/480753336732643328) (2014-06-22): "They are classified as "metallic skinned gods" in my bible.... :)"
+39.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-Muffinus_39-0) [Jeremy Feasel on Twitter](https://web.archive.org/web/20170625213609/https://twitter.com/Muffinus/status/607424554936365056)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Titans "Template:Titans")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Titans?action=edit)
+
+[Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")
+
+
+
+ |
+| --- |
+|  |
+| **Titans** | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") | 
+
+-   [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas")
+-   [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya")
+-   [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron")
+-   [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")
+-   [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra")
+-   [Thorim](https://wowpedia.fandom.com/wiki/Thorim "Thorim")
+-   [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr")
+
+
+
+ |
+|  |
+| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") | 
+
+-   [Eyir](https://wowpedia.fandom.com/wiki/Eyir "Eyir")
+-   [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya")
+-   [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya")
+-   [Norushen](https://wowpedia.fandom.com/wiki/Norushen "Norushen")
+-   [Rajh](https://wowpedia.fandom.com/wiki/Rajh "Rajh")
+-   [Ammunae](https://wowpedia.fandom.com/wiki/Ammunae "Ammunae")
+-   [Isiset](https://wowpedia.fandom.com/wiki/Isiset "Isiset")
+-   [Setesh](https://wowpedia.fandom.com/wiki/Setesh "Setesh")
+-   [Jotun](https://wowpedia.fandom.com/wiki/Jotun "Jotun")
+-   [Creteus](https://wowpedia.fandom.com/wiki/Creteus "Creteus")
+-   [Nablya](https://wowpedia.fandom.com/wiki/Nablya "Nablya")
+-   [Stone guardians](https://wowpedia.fandom.com/wiki/Stone_guardian "Stone guardian")
+-   [Stone keepers](https://wowpedia.fandom.com/wiki/Stone_keeper "Stone keeper")
+-   [Stone watchers](https://wowpedia.fandom.com/wiki/Stone_watcher "Stone watcher")
+-   [Uldum watchers](https://wowpedia.fandom.com/wiki/Uldum_watcher "Uldum watcher")
+-   [Yotnar](https://wowpedia.fandom.com/wiki/Yotnar "Yotnar")
+
+
+
+ |
+|  |
+| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") | 
+
+-   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
+-   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome")
+-   [Mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu")
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+
+
+
+ |
+|  |
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+
+-   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
+-   [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
+-   [Magnaron](https://wowpedia.fandom.com/wiki/Magnaron "Magnaron")
+-   [Gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn")
+    -   [Gronnling](https://wowpedia.fandom.com/wiki/Gronnling "Gronnling")
+-   [Goren](https://wowpedia.fandom.com/wiki/Goren "Goren")
+-   [Ogron](https://wowpedia.fandom.com/wiki/Ogron "Ogron")
+-   [Ogre lords](https://wowpedia.fandom.com/wiki/Ogre_lord "Ogre lord")
+-   [Ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Orcs](https://wowpedia.fandom.com/wiki/Orc "Orc")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
+    -   [Algalon](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer")
+-   [Dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight")
+    -   [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects")
+-   [Gold Beetles](https://wowpedia.fandom.com/wiki/Gold_Beetle "Gold Beetle")
+-   [Winged Guardians](https://wowpedia.fandom.com/wiki/Winged_Guardian "Winged Guardian")
+-   [Seekers](https://wowpedia.fandom.com/wiki/Seeker "Seeker")
+-   [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar")
+
+
+
+ |
+|  |
+| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") | 
+
+-   [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination")
+-   [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills")
+-   [Bael Modan](https://wowpedia.fandom.com/wiki/Bael_Modan "Bael Modan")
+-   [Chamber of Heart](https://wowpedia.fandom.com/wiki/Chamber_of_Heart "Chamber of Heart")
+-   [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha")
+-   [Engine of the Makers](https://wowpedia.fandom.com/wiki/Engine_of_the_Makers "Engine of the Makers")
+-   [Hall of Communion](https://wowpedia.fandom.com/wiki/Hall_of_Communion "Hall of Communion")
+-   [Inventor's Library](https://wowpedia.fandom.com/wiki/Inventor%27s_Library "Inventor's Library")
+-   [Jewelhammer's Vault](https://wowpedia.fandom.com/wiki/Jewelhammer%27s_Vault "Jewelhammer's Vault")
+-   [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison")
+-   [Life Vault](https://wowpedia.fandom.com/wiki/Life_Vault_Ruins "Life Vault Ruins")
+-   [Loken's Bargain](https://wowpedia.fandom.com/wiki/Loken%27s_Bargain "Loken's Bargain")
+-   [Mimir's Workshop](https://wowpedia.fandom.com/wiki/Mimir%27s_Workshop "Mimir's Workshop")
+-   [Primordial Observatory](https://wowpedia.fandom.com/wiki/Primordial_Observatory "Primordial Observatory")
+-   [Temple of Life](https://wowpedia.fandom.com/wiki/Temple_of_Life "Temple of Life")
+-   [Temple of Storms](https://wowpedia.fandom.com/wiki/Temple_of_Storms "Temple of Storms")
+-   [Temple of Wisdom](https://wowpedia.fandom.com/wiki/Temple_of_Wisdom "Temple of Wisdom")
+-   [Terrace of the Makers](https://wowpedia.fandom.com/wiki/Terrace_of_the_Makers "Terrace of the Makers")
+    -   [Temple of Invention](https://wowpedia.fandom.com/wiki/Temple_of_Invention "Temple of Invention")
+    -   [Temple of Order](https://wowpedia.fandom.com/wiki/Temple_of_Order "Temple of Order")
+    -   [Temple of Winter](https://wowpedia.fandom.com/wiki/Temple_of_Winter "Temple of Winter")
+-   [Terramok](https://wowpedia.fandom.com/wiki/Terramok "Terramok")
+-   [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras")
+    -   [The Guardian's Sanctum](https://wowpedia.fandom.com/wiki/The_Guardian%27s_Sanctum "The Guardian's Sanctum")
+    -   [Chamber of the Avatar](https://wowpedia.fandom.com/wiki/Chamber_of_the_Avatar "Chamber of the Avatar")
+-   [Tyrhold/Uldorus](https://wowpedia.fandom.com/wiki/Tyrhold "Tyrhold")
+    -   [Beacon of Tyrhold](https://wowpedia.fandom.com/wiki/Beacon_of_Tyrhold "Beacon of Tyrhold")
+-   [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum")
+-   [Uldis](https://wowpedia.fandom.com/wiki/Uldis "Uldis")
+-   [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir")
+-   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+-   [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Vault of Y'Shaarj](https://wowpedia.fandom.com/wiki/Vault_of_Y%27Shaarj "Vault of Y'Shaarj")
+-   [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple")
+    -   [Chamber of Aspects](https://wowpedia.fandom.com/wiki/Chamber_of_Aspects "Chamber of Aspects")
+-   [Wintergrasp Fortress](https://wowpedia.fandom.com/wiki/Wintergrasp_Fortress "Wintergrasp Fortress")
+    -   [Vault of Archavon](https://wowpedia.fandom.com/wiki/Vault_of_Archavon "Vault of Archavon")
+
+
+
+ |
+|  |
+| Relics | 
+
+-   [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
+-   [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon")
+-   [Lore Keeper of Norgannon](https://wowpedia.fandom.com/wiki/Lore_Keeper_of_Norgannon "Lore Keeper of Norgannon")
+-   [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation")
+    -   [Aegis of Aggramar](https://wowpedia.fandom.com/wiki/Aegis_of_Aggramar "Aegis of Aggramar")
+    -   [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul")
+    -   [Hammer of Khaz'goroth](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth "Hammer of Khaz'goroth")
+    -   [Tears of Elune](https://wowpedia.fandom.com/wiki/Tears_of_Elune "Tears of Elune")
+    -   [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth")
+-   [Orbs](https://wowpedia.fandom.com/wiki/Titan_orb "Titan orb")
+-   [Plates of Uldum](https://wowpedia.fandom.com/wiki/Plates_of_Uldum "Plates of Uldum")
+-   [Seals of Uldir](https://wowpedia.fandom.com/wiki/Seals_of_Uldir "Seals of Uldir")
+-   [Stone Watcher of Norgannon](https://wowpedia.fandom.com/wiki/Stone_Watcher_of_Norgannon "Stone Watcher of Norgannon")
+-   [Spark of Tyr](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Titan Relic](https://wowpedia.fandom.com/wiki/Titan_Relic "Titan Relic")
+-   [Val'anyr, Hammer of Ancient Kings](https://wowpedia.fandom.com/wiki/Val%27anyr,_Hammer_of_Ancient_Kings "Val'anyr, Hammer of Ancient Kings")
+-   [World Pillar](https://wowpedia.fandom.com/wiki/World_Pillar "World Pillar")
+-   [Mystery of the Makers](https://wowpedia.fandom.com/wiki/Mystery_of_the_Makers "Mystery of the Makers") [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |
+|  |
+| Weapons | 
+
+-   [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras")
+-   [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach")
+-   ([Gorshalach](https://wowpedia.fandom.com/wiki/Gorshalach "Gorshalach")
+-   [Gorribal](https://wowpedia.fandom.com/wiki/Gorribal "Gorribal")
+-   [Orodur](https://wowpedia.fandom.com/wiki/Orodur "Orodur")
+-   [Seschenal](https://wowpedia.fandom.com/wiki/Seschenal "Seschenal")
+-   [Shargahn](https://wowpedia.fandom.com/wiki/Shargahn "Shargahn")
+-   [Vulraiis](https://wowpedia.fandom.com/wiki/Vulraiis "Vulraiis")) [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |
+|  |
+| **Titans** | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+
+-   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
+-   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
+-   [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne")
+-   [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos")<sup>3rd Arbiter</sup>
+-   [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus")
+-   [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")
+-   [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")<sup>1st Arbiter</sup>
+
+
+
+ |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+
+-   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
+-   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
+-   [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane")
+-   [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana")
+-   [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+-   [Ela'lothen](https://wowpedia.fandom.com/wiki/Ela%27lothen "Ela'lothen")
+-   [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn")
+-   [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne")
+-   [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Nemesis](https://wowpedia.fandom.com/wiki/Nemesis "Nemesis")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Ohn'ahra](https://wowpedia.fandom.com/wiki/Ohn%27ahra "Ohn'ahra")
+-   [Omen](https://wowpedia.fandom.com/wiki/Omen "Omen")
+-   [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla")
+-   [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc")
+-   [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol")
+-   [Wolverine guardian](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+-   [Reptilian warrior](https://wowpedia.fandom.com/wiki/Reptilian_warrior "Reptilian warrior")
+-   [Squat warrior ancient](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   [Fox ancient](https://wowpedia.fandom.com/wiki/Fox#Notes "Fox")
+-   [Winged panther ancient](https://wowpedia.fandom.com/wiki/Panther "Panther")
+
+
+
+ |
+|  |
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+
+-   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
+-   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
+-   [Akil'zon](https://wowpedia.fandom.com/wiki/Akil%27zon "Akil'zon")
+-   [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda")
+-   [Bethekk](https://wowpedia.fandom.com/wiki/Bethekk "Bethekk")
+-   [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi")
+-   [Dambala](https://wowpedia.fandom.com/wiki/Dambala "Dambala")
+-   [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk")
+-   [Gral](https://wowpedia.fandom.com/wiki/Gral "Gral")
+-   [Grimath](https://wowpedia.fandom.com/wiki/Grimath "Grimath")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer")
+-   [Halazzi](https://wowpedia.fandom.com/wiki/Halazzi "Halazzi")
+-   [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa")
+-   [Hethiss](https://wowpedia.fandom.com/wiki/Hethiss "Hethiss")
+-   [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek")
+-   [Jan'alai](https://wowpedia.fandom.com/wiki/Jan%27alai "Jan'alai")
+-   [Jani](https://wowpedia.fandom.com/wiki/Jani "Jani")
+-   [Kimbul](https://wowpedia.fandom.com/wiki/Kimbul "Kimbul")
+-   [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa_the_Huge "Krag'wa the Huge")
+-   [Lakali](https://wowpedia.fandom.com/wiki/Lakali "Lakali")
+-   [Lukou](https://wowpedia.fandom.com/wiki/Lukou "Lukou")
+-   [Mam'toth](https://wowpedia.fandom.com/wiki/Mam%27toth "Mam'toth")
+-   [Mueh'zala](https://wowpedia.fandom.com/wiki/Mueh%27zala "Mueh'zala")
+-   [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk")
+-   [Pa'ku](https://wowpedia.fandom.com/wiki/Pa%27ku "Pa'ku")
+-   [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan")
+-   [Rhunok](https://wowpedia.fandom.com/wiki/Rhunok "Rhunok")
+-   [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun")
+-   [Samedi](https://wowpedia.fandom.com/wiki/Samedi "Samedi")
+-   [Sethraliss](https://wowpedia.fandom.com/wiki/Sethraliss "Sethraliss")
+-   [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra")
+-   [Shango](https://wowpedia.fandom.com/wiki/Shango "Shango")
+-   [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah")
+-   [Sseratus](https://wowpedia.fandom.com/wiki/Sseratus "Sseratus")
+-   [Torga](https://wowpedia.fandom.com/wiki/Torga "Torga")
+-   [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja")
+-   [Torcali](https://wowpedia.fandom.com/wiki/Torcali "Torcali")
+-   [Xibala](https://wowpedia.fandom.com/wiki/Xibala_(devilsaur) "Xibala (devilsaur)")
+-   [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless")
+
+
+
+ |
+|  |
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
+-   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
+-   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
+-   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
+-   [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan")<sup>2nd, air</sup>
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
+-   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
+    -   [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu")
+    -   [Ka'alu](https://wowpedia.fandom.com/wiki/Ka%27alu "Ka'alu")
+    -   [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar")<sup><a href="https://wowpedia.fandom.com/wiki/Rukhmar_(alternate_universe)" title="Rukhmar (alternate universe)">alternate</a></sup>
+    -   [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe")<sup><a href="https://wowpedia.fandom.com/wiki/Sethe_(alternate_universe)" title="Sethe (alternate universe)">alternate</a></sup>
+    -   [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk")
+-   [Arkkoroc](https://wowpedia.fandom.com/wiki/Lord_Arkkoroc "Lord Arkkoroc")
+-   [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")
+    -   [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji")
+    -   [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao")
+    -   [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")
+    -   [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon")
+-   [Drakkari gods](https://wowpedia.fandom.com/wiki/Drakkari_tribe#Faith "Drakkari tribe")
+    -   [Dubra'Jin](https://wowpedia.fandom.com/wiki/Dubra%27Jin_(god) "Dubra'Jin (god)")
+    -   [Zim'Abwa](https://wowpedia.fandom.com/wiki/Zim%27Abwa_(god) "Zim'Abwa (god)")
+    -   [Zim'Rhuk](https://wowpedia.fandom.com/wiki/Zim%27Rhuk_(god) "Zim'Rhuk (god)")
+    -   [Zim'Torga](https://wowpedia.fandom.com/wiki/Zim%27Torga_(goddess) "Zim'Torga (goddess)")
+-   [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")
+-   [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones")
+-   [Gahz'rilla](https://wowpedia.fandom.com/wiki/Gahz%27rilla "Gahz'rilla")
+-   [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros")
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Mazu](https://wowpedia.fandom.com/wiki/Mazu "Mazu")
+-   [Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak")
+-   [Nhal'athoth](https://wowpedia.fandom.com/wiki/Nhal%27athoth "Nhal'athoth")
+-   [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos")
+-   [Primordial Aspects](https://wowpedia.fandom.com/wiki/Primordial_Aspects "Primordial Aspects")
+    -   [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur")
+-   [Tauren gods](https://wowpedia.fandom.com/wiki/Tauren#Faith "Tauren")
+    -   [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")
+    -   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+    -   [Lo'sho](https://wowpedia.fandom.com/wiki/Lo%27sho "Lo'sho")
+    -   [Mu'sha](https://wowpedia.fandom.com/wiki/Elune "Elune")
+    -   [Sky Father](https://wowpedia.fandom.com/wiki/Sky_Father "Sky Father")
+-   [Tuskarr gods](https://wowpedia.fandom.com/wiki/Tuskarr#Faith "Tuskarr")
+    -   [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk")
+    -   [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut")
+    -   [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa")
+    -   [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka")
+-   [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")
+    -   [Dimensius](https://wowpedia.fandom.com/wiki/Dimensius "Dimensius")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+    -   [Aliothe](https://wowpedia.fandom.com/wiki/Aliothe "Aliothe")
+    -   Falir
+    -   Lia
+    -   [Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard")
+    -   Ohm
+-   [Volcanoth](https://wowpedia.fandom.com/wiki/Volcanoth "Volcanoth")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+-   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
+-   [One in the Deeps](https://wowpedia.fandom.com/wiki/One_in_the_Deeps "One in the Deeps")
+-   [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa#In_the_RPG "Loa") ([Legba](https://wowpedia.fandom.com/wiki/Legba "Legba")
+-   [Ogoun](https://wowpedia.fandom.com/wiki/Ogoun "Ogoun"))
+
+
+
+ |
+|  |
+| 
+
+-   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life"))
+-   [Religion](https://wowpedia.fandom.com/wiki/Religion "Religion")
+-   [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")
+-   [God](https://wowpedia.fandom.com/wiki/God "God")
+-   [Demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod")
+-   [Wild God](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens "Template:Azeroth aliens")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens?action=edit)
+
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |
+|  |
+| [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") natives | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Eredar" title="Eredar">Eredar</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar#Demonic_eredar" title="Eredar">Man'ari</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar_brute" title="Eredar brute">Brute</a></li><li><a href="https://wowpedia.fandom.com/wiki/Doommaiden" title="Doommaiden">Doommaiden</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wrathguard" title="Wrathguard">Wrathguard</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Draenei" title="Draenei">Draenei</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lightforged_draenei" title="Lightforged draenei">Lightforged draenei</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Broken" title="Broken">Broken</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lost_One" title="Lost One">Lost One</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidscarred" title="Voidscarred">Voidscarred</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-draenei" title="Half-draenei">Half-draenei</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") natives | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Breakers" title="Breakers">Breakers</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Colossal" title="Colossal">Colossal</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Magnaron" title="Magnaron">Magnaron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Gronn" title="Gronn">Gronn</a>/<a href="https://wowpedia.fandom.com/wiki/Gronnling" title="Gronnling">Gronnling</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogron" title="Ogron">Ogron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre" title="Ogre">Ogre</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre_lord" title="Ogre lord">Ogre lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ogre_mage" title="Ogre mage">Ogre mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Orc" title="Orc">Orc</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mag%27har_orc" title="Mag'har orc">Mag'har</a></li><li>Green-skinned</li><li><a href="https://wowpedia.fandom.com/wiki/Fel_orc" title="Fel orc">Fel orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dire_orc" title="Dire orc">Dire orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pale_orc" title="Pale orc">Pale orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infested" title="Infested">The Infested</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-ogre" title="Half-ogre">Half-ogre</a></li></ul></li></ul></li></ul></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Goren" title="Goren">Goren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Half-orc" title="Half-orc">Half-orc</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Zangar_encroachment" title="Zangar encroachment">Fungi</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Fungal_giant" title="Fungal giant">Fungal giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sporeling" title="Sporeling">Sporeling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Primals" title="Primals">Primals</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Genesaur" title="Genesaur">Genesaur</a></li><li><a href="https://wowpedia.fandom.com/wiki/Draenor_ancient" title="Draenor ancient">Draenor ancient</a></li><li><a href="https://wowpedia.fandom.com/wiki/Botani" title="Botani">Botani</a></li><li><a href="https://wowpedia.fandom.com/wiki/Podling" title="Podling">Podling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Arakkoa" title="Arakkoa">Arakkoa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saberon" title="Saberon">Saberon</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh") natives | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Ethereal" title="Ethereal">Ethereal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Ethereal" title="Ethereal">Ethereal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ethereal#Nexus-stalkers" title="Ethereal">Nexus-stalker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Void_ethereal" title="Void ethereal">Void ethereal</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")  
+natives | 
+
+-   [Attendant](https://wowpedia.fandom.com/wiki/Attendant "Attendant")
+-   [Automa](https://wowpedia.fandom.com/wiki/Automa "Automa")
+-   [Bloodlouse](https://wowpedia.fandom.com/wiki/Bloodlouse "Bloodlouse")
+-   [Broker](https://wowpedia.fandom.com/wiki/Broker "Broker")
+-   [Dredger](https://wowpedia.fandom.com/wiki/Dredger "Dredger")
+    -   [Biggun](https://wowpedia.fandom.com/wiki/Biggun "Biggun")
+-   [Fungret](https://wowpedia.fandom.com/wiki/Fungret "Fungret")
+-   [Kyrian](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian")
+-   [Maldraxxi](https://wowpedia.fandom.com/wiki/Maldraxxi "Maldraxxi")
+    -   [Aranakk](https://wowpedia.fandom.com/wiki/Aranakk "Aranakk")
+    -   [Boneguard](https://wowpedia.fandom.com/wiki/Boneguard "Boneguard")
+    -   [Soul-rotted flesh](https://wowpedia.fandom.com/wiki/Soul-rotted_flesh "Soul-rotted flesh")
+-   [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn")
+    -   [Charred behemoth](https://wowpedia.fandom.com/wiki/Charred_behemoth "Charred behemoth")
+    -   [Guard](https://wowpedia.fandom.com/wiki/Maw_guard "Maw guard")
+        -   [Caster](https://wowpedia.fandom.com/wiki/Maw_caster "Maw caster")
+            -   [Tormenter](https://wowpedia.fandom.com/wiki/Tormenter "Tormenter")
+    -   [Husk](https://wowpedia.fandom.com/wiki/Husk "Husk")
+    -   [Necromancer](https://wowpedia.fandom.com/wiki/Maw_necromancer "Maw necromancer")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Night fae](https://wowpedia.fandom.com/wiki/Night_fae "Night fae")
+    -   [Faerie](https://wowpedia.fandom.com/wiki/Faerie "Faerie")
+    -   [Sylvar](https://wowpedia.fandom.com/wiki/Sylvar "Sylvar")
+    -   [Tirnenn](https://wowpedia.fandom.com/wiki/Tirnenn "Tirnenn")
+    -   [Vorkai](https://wowpedia.fandom.com/wiki/Vorkai "Vorkai")
+-   [Revendreth jailer](https://wowpedia.fandom.com/wiki/Revendreth_jailer "Revendreth jailer")
+-   [Spriggan](https://wowpedia.fandom.com/wiki/Spriggan "Spriggan")
+-   [Steward](https://wowpedia.fandom.com/wiki/Steward "Steward")
+-   [Stoneborn](https://wowpedia.fandom.com/wiki/Stoneborn "Stoneborn")
+    -   [Stone fiend](https://wowpedia.fandom.com/wiki/Stone_fiend "Stone fiend")
+-   [Venthyr](https://wowpedia.fandom.com/wiki/Venthyr "Venthyr")
+    -   [Ash ghoul](https://wowpedia.fandom.com/wiki/Ash_ghoul "Ash ghoul")
+
+
+
+ |
+|  |
+| Inhabitants of the  
+[Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
+-   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
+-   [Darkglare](https://wowpedia.fandom.com/wiki/Darkglare "Darkglare")
+-   [Ered'ruin](https://wowpedia.fandom.com/wiki/Ered%27ruin "Ered'ruin") ([Daemon](https://wowpedia.fandom.com/wiki/Daemon "Daemon")
+-   [Doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard")
+-   [Doomlord](https://wowpedia.fandom.com/wiki/Doomlord "Doomlord"))
+-   [Imp](https://wowpedia.fandom.com/wiki/Imp "Imp") ([Fel](https://wowpedia.fandom.com/wiki/Imp#Fel_imps "Imp"))
+-   [Imp mother](https://wowpedia.fandom.com/wiki/Imp_mother "Imp mother")
+-   [Inquisitor](https://wowpedia.fandom.com/wiki/Inquisitor "Inquisitor")
+-   [Jailer](https://wowpedia.fandom.com/wiki/Jailer_(demon) "Jailer (demon)")
+-   [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg") ([Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard") ([Fel lord](https://wowpedia.fandom.com/wiki/Fel_lord "Fel lord"))
+-   [Gan'arg](https://wowpedia.fandom.com/wiki/Gan%27arg "Gan'arg")
+-   [Brute](https://wowpedia.fandom.com/wiki/Mo%27arg_brute "Mo'arg brute"))
+-   [Sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+-   [Wyrmtongue](https://wowpedia.fandom.com/wiki/Wyrmtongue "Wyrmtongue")
+
+
+
+ |
+|  |
+| [Void](https://wowpedia.fandom.com/wiki/Void "Void") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lords</a> and <a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old Gods</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lord</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old God</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aqir" title="Aqir">Aqir</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mantid" title="Mantid">Mantid</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Kunchong" title="Kunchong">Kunchong</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian" title="Nerubian">Nerubian</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spiderlord" title="Nerubian spiderlord">Spiderlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji" title="Qiraji">Qiraji</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_battleguard" title="Qiraji battleguard">Battleguard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_emperor" title="Qiraji emperor">Emperor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_gladiator" title="Qiraji gladiator">Gladiator</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_prophet" title="Qiraji prophet">Prophet</a></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/N%27raqi" title="N'raqi">N'raqi</a><ul><li><a href="https://wowpedia.fandom.com/wiki/C%27Thrax" title="C'Thrax">C'Thrax</a></li><li><a href="https://wowpedia.fandom.com/wiki/K%27thir" title="K'thir">K'thir</a></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_revenant" title="Void revenant">Void revenant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwalker" title="Voidwalker">Voidwalker</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Voidcaller" title="Voidcaller">Voidcaller</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidlord" title="Voidlord">Voidlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwraith" title="Voidwraith">Voidwraith</a></li></ul></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Interstellar travelers | 
+
+-   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") ([Void god](https://wowpedia.fandom.com/wiki/Void_god "Void god"))
+-   [Observer](https://wowpedia.fandom.com/wiki/Observer "Observer")
+-   **Titan**
+    -   [World-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul")
+
+
+
+ |
+|  |
+| Extinct | 
+
+[Aldrachi](https://wowpedia.fandom.com/wiki/Aldrachi "Aldrachi")
+
+
+
+ |
+|  |
+| 
+
+-   This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
+
+
+
+ |

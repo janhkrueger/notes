@@ -1,0 +1,256 @@
+_"Risen" can refer to many undead forces, notably those around [Black Rook Hold](https://wowpedia.fandom.com/wiki/Black_Rook_Hold "Black Rook Hold"). "Risen" can refer to skeletal guardians in the RPG, [Risen (skeleton)](https://wowpedia.fandom.com/wiki/Risen_(skeleton) "Risen (skeleton)")_
+
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Combat_32.png/revision/latest?cb=20151213203709)](https://wowpedia.fandom.com/wiki/Mob "Mob")The Risen |
+| --- |
+| [![Balnazzar (Cataclysm).jpg](https://static.wikia.nocookie.net/wowpedia/images/6/60/Balnazzar_%28Cataclysm%29.jpg/revision/latest/scale-to-width-down/260?cb=20100806235238)](https://static.wikia.nocookie.net/wowpedia/images/6/60/Balnazzar_%28Cataclysm%29.jpg/revision/latest?cb=20100806235238) |
+| Main leader | [![IconSmall Nathrezim.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest/scale-to-width-down/16?cb=20211125155053)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest?cb=20211125155053) [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar") <sup>&nbsp;†</sup> |
+| Race(s) | [![Undead](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Undead "Undead")[![Undead](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Undead "Undead") [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")  
+[![IconSmall Dreadlord.gif](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_Dreadlord.gif/revision/latest/scale-to-width-down/16?cb=20211125154407)](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_Dreadlord.gif/revision/latest?cb=20211125154407) [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") |
+| Capital | [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") |
+| Theater of operations | [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands") |
+| Language(s) | [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)") |
+| Affiliation | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
+| Status | Defeated |
+
+The **Risen** are a faction of [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scarlet Crusaders](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade") killed and raised into undeath by the [demon](https://wowpedia.fandom.com/wiki/Demon "Demon") [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar").<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Risen#cite_note-1">[1]</a></sup> They are said to be extremely powerful and that unlike the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), Balnazzar will not hold them back.<sup id="cite_ref-The_Dreadlord_Balnazzar_2-0"><a href="https://wowpedia.fandom.com/wiki/Risen#cite_note-The_Dreadlord_Balnazzar-2">[2]</a></sup>
+
+## Background
+
+### Origin
+
+Former [Scarlet Crusaders](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), they were brought back to life after the defeat of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") by the dreadlord [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"), who had been manipulating them in life as [Saidan Dathrohan](https://wowpedia.fandom.com/wiki/Saidan_Dathrohan "Saidan Dathrohan"), Grand Crusader of the Scarlet Crusade.
+
+Following the assault on [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), the most important chief of the Crusade had been defeated and Balnazzar had been unmasked but not killed. No longer needing to hide, he took great pleasure in killing the rest of the crusaders and raising all of them into undeath, [corrupting their senses](https://wowpedia.fandom.com/wiki/Commander_Malor "Commander Malor") or [torturing their mind](https://wowpedia.fandom.com/wiki/Instructor_Galford "Instructor Galford").
+
+In a true twist of irony, the Scarlet Crusade, formerly fierce haters of all undead and demonic entities, had themselves become undead slaves of the Legion.
+
+### Downfall
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Under the orders of [Crusade Commander Eligor Dawnbringer](https://wowpedia.fandom.com/wiki/Crusade_Commander_Eligor_Dawnbringer "Crusade Commander Eligor Dawnbringer"), [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") were sent to [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") to deal with the Risen's leadership and eventually the dreadlord himself.<sup id="cite_ref-The_Dreadlord_Balnazzar_2-1"><a href="https://wowpedia.fandom.com/wiki/Risen#cite_note-The_Dreadlord_Balnazzar-2">[2]</a></sup>
+
+## Notable members
+
+| Name | Role | Condition | Former indentity | Location |
+| --- | --- | --- | --- | --- |
+| [![IconSmall Nathrezim.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/IconSmall_Nathrezim.gif/revision/latest?cb=20211125155053) [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar") | Leader of Risen | Killable | [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Saidan Dathrohan](https://wowpedia.fandom.com/wiki/Saidan_Dathrohan "Saidan Dathrohan") (disguised) | [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") |
+| [![IconSmall Undead Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857) [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Instructor Galford](https://wowpedia.fandom.com/wiki/Instructor_Galford "Instructor Galford") | Risen haunted by the combustion of this book | Undead | [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645)[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Archivist Galford](https://wowpedia.fandom.com/wiki/Archivist_Galford "Archivist Galford") | [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") |
+| [![IconSmall Undead Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857) [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Risen Hammersmith](https://wowpedia.fandom.com/wiki/Risen_Hammersmith "Risen Hammersmith") | [Blacksmith](https://wowpedia.fandom.com/wiki/Blacksmith "Blacksmith") of Risen | Undead | [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645)[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Crimson Hammersmith](https://wowpedia.fandom.com/wiki/Crimson_Hammersmith "Crimson Hammersmith") | [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") |
+| [![IconSmall Undead Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857) [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Willey Hopebreaker](https://wowpedia.fandom.com/wiki/Willey_Hopebreaker "Willey Hopebreaker") | Cannon Master | Undead | [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645)[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Cannon Master Willey](https://wowpedia.fandom.com/wiki/Cannon_Master_Willey "Cannon Master Willey") | [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") |
+| [![IconSmall Undead Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857) [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Commander Malor](https://wowpedia.fandom.com/wiki/Commander_Malor "Commander Malor") | Commander of Risen | Undead | [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645)[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Malor the Zealous](https://wowpedia.fandom.com/wiki/Malor_the_Zealous "Malor the Zealous") | [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") |
+
+### Units
+
+-   [Risen Sorcerer](https://wowpedia.fandom.com/wiki/Risen_Sorcerer "Risen Sorcerer")
+-   [Risen Priest](https://wowpedia.fandom.com/wiki/Risen_Priest "Risen Priest")
+-   [Risen Inquisitor](https://wowpedia.fandom.com/wiki/Risen_Inquisitor "Risen Inquisitor")
+-   [Risen Initiate](https://wowpedia.fandom.com/wiki/Risen_Initiate "Risen Initiate")
+-   [Risen Guardsman](https://wowpedia.fandom.com/wiki/Risen_Guardsman "Risen Guardsman")
+-   [Risen Gallant](https://wowpedia.fandom.com/wiki/Risen_Gallant "Risen Gallant")
+-   [Risen Defender](https://wowpedia.fandom.com/wiki/Risen_Defender "Risen Defender")
+-   [Risen Conjuror](https://wowpedia.fandom.com/wiki/Risen_Conjuror "Risen Conjuror")
+-   [Risen Battle Mage](https://wowpedia.fandom.com/wiki/Risen_Battle_Mage "Risen Battle Mage")
+-   [Risen Monk](https://wowpedia.fandom.com/wiki/Risen_Monk "Risen Monk")
+-   [Risen Rifleman](https://wowpedia.fandom.com/wiki/Risen_Rifleman "Risen Rifleman")
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+The crusaders at [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand") are not explicitly stated to be among the Risen, as [Eligor Dawnbringer](https://wowpedia.fandom.com/wiki/Eligor_Dawnbringer "Eligor Dawnbringer") says that it is unknown what caused them to become undead.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Risen#cite_note-3">[3]</a></sup> Though it is likely they were slain and raised by Balnazzar like their [Crimson Legion](https://wowpedia.fandom.com/wiki/Crimson_Legion "Crimson Legion") fellows in Stratholme and Dawnbringer had not yet learned of this, it is possible (though uncertain) that they are a separate group that became undead through unrelated means.
+
+## Patch changes
+
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Added.  
+    
+
+## References
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Burning_Legion "Template:Burning Legion")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Burning_Legion?action=edit)
+
+[Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+-   [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")
+-   [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")
+-   [Antoran High Command](https://wowpedia.fandom.com/wiki/Antoran_High_Command "Antoran High Command")
+    -   [Erodus](https://wowpedia.fandom.com/wiki/General_Erodus "General Erodus")
+    -   [Ishkar](https://wowpedia.fandom.com/wiki/Chief_Engineer_Ishkar "Chief Engineer Ishkar")
+    -   [Svirax](https://wowpedia.fandom.com/wiki/Admiral_Svirax "Admiral Svirax")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron")
+-   [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor "Azgalor")
+-   [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar")
+-   [Brutallus](https://wowpedia.fandom.com/wiki/Brutallus "Brutallus")
+-   [Coven of Shivarra](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra "Coven of Shivarra")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")
+-   [Imonar](https://wowpedia.fandom.com/wiki/Imonar_the_Soulhunter "Imonar the Soulhunter")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Houndmaster "Hakkar the Houndmaster")
+-   [Hasabel](https://wowpedia.fandom.com/wiki/Portal_Keeper_Hasabel "Portal Keeper Hasabel")
+-   [Jaraxxus](https://wowpedia.fandom.com/wiki/Lord_Jaraxxus "Lord Jaraxxus")
+-   [Kruul](https://wowpedia.fandom.com/wiki/Highlord_Kruul "Highlord Kruul")
+-   [Demonic Inquisition](https://wowpedia.fandom.com/wiki/Demonic_Inquisition "Demonic Inquisition")
+    -   [Atrigan](https://wowpedia.fandom.com/wiki/Atrigan "Atrigan")
+    -   [Belac](https://wowpedia.fandom.com/wiki/Belac "Belac")
+-   [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")
+-   [Kazzak](https://wowpedia.fandom.com/wiki/Lord_Kazzak "Lord Kazzak")
+-   [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon")
+-   [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")
+-   [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")
+-   [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth")
+-   [Melris Malagan](https://wowpedia.fandom.com/wiki/Melris_Malagan "Melris Malagan")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Rakeesh](https://wowpedia.fandom.com/wiki/High_General_Rakeesh "High General Rakeesh")
+-   [Talgath](https://wowpedia.fandom.com/wiki/Talgath "Talgath")
+-   [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius")
+-   [Tyranna](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna "Brood Queen Tyranna")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| Major races | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi")
+-   [Doom lord](https://wowpedia.fandom.com/wiki/Doom_lord "Doom lord")
+-   [Daemon](https://wowpedia.fandom.com/wiki/Daemon "Daemon")
+-   [Ered'ruin](https://wowpedia.fandom.com/wiki/Ered%27ruin "Ered'ruin")
+    -   [Doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard")
+        -   [Doomlord](https://wowpedia.fandom.com/wiki/Doomlord "Doomlord")
+-   [Man'ari](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Eredar_brute "Eredar brute")
+    -   [Doommaiden](https://wowpedia.fandom.com/wiki/Doommaiden "Doommaiden")
+    -   [Wrathguard](https://wowpedia.fandom.com/wiki/Wrathguard "Wrathguard")
+-   [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg")
+    -   [Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard")
+        -   [Fel lord](https://wowpedia.fandom.com/wiki/Fel_lord "Fel lord")
+    -   [Gan'arg](https://wowpedia.fandom.com/wiki/Gan%27arg "Gan'arg")
+    -   [Brute](https://wowpedia.fandom.com/wiki/Mo%27arg_brute "Mo'arg brute")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Overfiend](https://wowpedia.fandom.com/wiki/Overfiend "Overfiend")
+-   [Sayaad](https://wowpedia.fandom.com/wiki/Sayaad "Sayaad")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+-   [Wyrmtongue](https://wowpedia.fandom.com/wiki/Wyrmtongue "Wyrmtongue")
+
+
+
+ |
+|  |
+| Minor races | 
+
+-   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
+-   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+-   [Observer](https://wowpedia.fandom.com/wiki/Observer "Observer")
+-   [Imp](https://wowpedia.fandom.com/wiki/Imp "Imp")
+-   [Imp mother](https://wowpedia.fandom.com/wiki/Imp_mother "Imp mother")
+-   [Inquisitor](https://wowpedia.fandom.com/wiki/Inquisitor "Inquisitor")
+    -   [Guardian eye](https://wowpedia.fandom.com/wiki/Guardian_eye "Guardian eye")
+-   [Jailer](https://wowpedia.fandom.com/wiki/Jailer_(demon) "Jailer (demon)")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+    -   [Felblood elf](https://wowpedia.fandom.com/wiki/Felblood_elf "Felblood elf")
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+    -   [Felborne](https://wowpedia.fandom.com/wiki/Felborne "Felborne")
+
+
+
+ |
+|  |
+| Constructs | 
+
+-   [Abyssal](https://wowpedia.fandom.com/wiki/Abyssal "Abyssal")
+-   [Fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver")
+-   [Homunculus](https://wowpedia.fandom.com/wiki/Homunculus "Homunculus")
+-   [Infernal](https://wowpedia.fandom.com/wiki/Infernal "Infernal")
+-   [Fel cannon](https://wowpedia.fandom.com/wiki/Fel_cannon "Fel cannon")
+-   [Infernal machine](https://wowpedia.fandom.com/wiki/Infernal_machine "Infernal machine")
+-   [Devastator](https://wowpedia.fandom.com/wiki/Devastator "Devastator")
+-   [Legion ship](https://wowpedia.fandom.com/wiki/Legion_ship "Legion ship")
+-   [Soul engine](https://wowpedia.fandom.com/wiki/Soul_engine "Soul engine")
+-   [Spire of woe](https://wowpedia.fandom.com/wiki/Spire_of_woe "Spire of woe")
+-   [Fel spreader](https://wowpedia.fandom.com/wiki/Fel_spreader "Fel spreader")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus")
+-   [Xoroth](https://wowpedia.fandom.com/wiki/Xoroth "Xoroth")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza")
+-   [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether")
+
+
+
+ |
+|  |
+| Groups &  
+[felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Demon" title="Demon">Demons</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Demon_Elite_Guard" title="Demon Elite Guard">Demon Elite Guard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar" title="Dreadscar">Dreadscar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tomb_Guardians" title="Tomb Guardians">Tomb Guardians</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magtheridon%27s_Forces" title="Magtheridon's Forces">Magtheridon's Forces</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hederine" title="Hederine">Hederine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felsoul_(group)" title="Felsoul (group)">Felsoul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rakeeshi" title="Rakeeshi">Rakeeshi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Talgathi" title="Talgathi">Talgathi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_Covenant" title="Fel Covenant">Fel Covenant</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Sunfury" title="Sunfury">Sunfury</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodwarder" title="Bloodwarder">Bloodwarder</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crimson_Hand" title="Crimson Hand">Crimson Hand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dawnblade_(blood_elves)" title="Dawnblade (blood elves)">Dawnblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firewing" title="Firewing">Firewing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsword" title="Shadowsword">Shadowsword</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunblade" title="Sunblade">Sunblade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunhawk" title="Sunhawk">Sunhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunseekers" title="Sunseekers">Sunseekers</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a> <a href="https://wowpedia.fandom.com/wiki/Category:Satyr_sects" title="Category:Satyr sects">sects</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Axxarien" title="Axxarien">Axxarien</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bleakheart" title="Bleakheart">Bleakheart</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deth%27ryll" title="Deth'ryll">Deth'ryll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fallenroot" title="Fallenroot">Fallenroot</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felmusk" title="Felmusk">Felmusk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haldarr" title="Haldarr">Haldarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hatefury" title="Hatefury">Hatefury</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jadefire" title="Jadefire">Jadefire</a></li><li><a href="https://wowpedia.fandom.com/wiki/Legashi" title="Legashi">Legashi</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lords_of_the_Emerald_Flame" title="Lords of the Emerald Flame">Lords of the Emerald Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nazzivus" title="Nazzivus">Nazzivus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nethervine" title="Nethervine">Nethervine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Putridus" title="Putridus">Putridus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargeron_(Outland)" title="Sargeron (Outland)">Sargeron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound" title="Unbound">Unbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildspawn" title="Wildspawn">Wildspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xavian" title="Xavian">Xavian</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shadow_Council" title="Shadow Council">Shadow Council</a> (<a href="https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe)" title="Shadow Council (alternate universe)">alternate</a>)</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus_Wake" title="Argus Wake">Argus Wake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Blade_clan" title="Burning Blade clan">Burning Blade clan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cabal" title="Cabal">Cabal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand" title="Cult of the Dark Strand">Cult of the Dark Strand</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathshadow" title="Deathshadow">Deathshadow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gorebound" title="Gorebound">Gorebound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sargerei" title="Sargerei">Sargerei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Searing_Blade" title="Searing Blade">Searing Blade</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe)" title="Sethekk (alternate universe)">Sethekk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowsworn" title="Shadowsworn">Shadowsworn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Undead" title="Undead">Undead</a></th><td><div><ul><li><strong>Risen</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Loyalists" title="Dreadlord Loyalists">Dreadlord Loyalists</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents" title="Dreadlord Insurgents">Dreadlord Insurgents</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Third_invasion" title="Third invasion">Third invasion</a>'s allies</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deadwood" title="Deadwood">Deadwood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Felbound tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Felfin tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrage" title="Felrage">Felrage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felrock" title="Felrock">Felrock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cragtalon" title="Cragtalon">Feltalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bloodtotem_tribe" title="Bloodtotem tribe">Feltotem tribe</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Tideskorn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Tideskorn" title="Tideskorn">Felskorn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drekirjar" title="Drekirjar">Drekirjar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonespeakers" title="Bonespeakers">Bonespeakers</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Veiled_Hand" title="Veiled Hand">Veiled Hand</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Archival_Authority_of_Argus" title="Archival Authority of Argus">Archival Authority of Argus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Green_Flame" title="Cult of the Green Flame">Cult of the Green Flame</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cult_of_the_Nethersworn" title="Cult of the Nethersworn">Cult of the Nethersworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Iron_Horde" title="Iron Horde">Iron Horde</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hidden" title="Hidden">Hidden</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Defectors | 
+
+-   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
+-   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") blood elves
+-   Some [Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest") demons
+
+
+
+ |
+|  |
+| [Burning  
+Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") | 
+
+-   [Battle of Shar'gel](https://wowpedia.fandom.com/wiki/Battle_of_Shar%27gel "Battle of Shar'gel")
+-   [First invasion of Azeroth](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients")
+-   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Genocide_of_the_draenei "Genocide of the draenei")
+-   [Second invasion of Azeroth](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion")
+    -   [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
+    -   [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War")
+-   Attempted Azeroth invasions
+    -   [Invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland")
+        -   [Battle for Quel'Danas](https://wowpedia.fandom.com/wiki/Battle_for_Quel%27Danas "Battle for Quel'Danas")
+    -   [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity")
+-   [Third invasion of Azeroth](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion")
+    -   [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign")
+
+
+
+ |
+|  |
+| 
+
+-   [Darkstorm](https://wowpedia.fandom.com/wiki/Darkstorm "Darkstorm")
+-   [Burning Legion category](https://wowpedia.fandom.com/wiki/Category:Burning_Legion "Category:Burning Legion")
+
+
+
+ |
+
+Others like you also viewed

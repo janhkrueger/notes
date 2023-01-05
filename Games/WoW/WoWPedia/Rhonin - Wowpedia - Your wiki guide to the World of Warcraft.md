@@ -1,0 +1,284 @@
+_For the Boralus wolf, see [Ronin](https://wowpedia.fandom.com/wiki/Ronin "Ronin")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Rhonin |
+| --- |
+| [![Image of Rhonin](https://static.wikia.nocookie.net/wowpedia/images/d/d8/RhoninTCG.jpg/revision/latest/scale-to-width-down/200?cb=20221123202541)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/RhoninTCG.jpg/revision/latest?cb=20221123202541 "Image of Rhonin") |
+| Title | Draig'cyfaill (Dragonheart),  
+Redhair,  
+Leader of the Kirin Tor,  
+Kirin Tor |
+| Gender | Male |
+| Race | [Human](https://wowpedia.fandom.com/wiki/Human "Human") (Humanoid) |
+| Class | [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") ([Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six")), [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") |
+| Former affiliation(s) | [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance"), [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"), [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
+| Occupation | [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage") and Leader of the Kirin Tor, [War wizard](https://wowpedia.fandom.com/wiki/Warmage "Warmage") |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Rhonin#Locations) |
+| Status | Deceased (lore) |
+| Relative(s) | [Vereesa](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner") (wife), [Giramar](https://wowpedia.fandom.com/wiki/Giramar "Giramar") & [Galadin](https://wowpedia.fandom.com/wiki/Galadin "Galadin") (twin sons), [Alleria](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") & [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") (sisters-in-law), [Arator](https://wowpedia.fandom.com/wiki/Arator_the_Redeemer "Arator the Redeemer") (nephew), [Lirath](https://wowpedia.fandom.com/wiki/Lirath_Windrunner "Lirath Windrunner") (brother-in-law), [Zendarin](https://wowpedia.fandom.com/wiki/Zendarin_Windrunner "Zendarin Windrunner") (cousin-in-law); mother, father, brother and two cousins deceased<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-1">[1]</a></sup> |
+| Mentor(s) | [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") |
+| Student(s) | [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") |
+
+“Not all that long ago, the Kirin Tor took a bold step in selecting Rhonin to be its leader. He was unorthodox and outspoken—impetuous and stubborn. He had a tremendous sense of humor and great love of friends and family. He took Dalaran in a new direction and led the Kirin Tor through a war with the very Aspect who had been chosen to guide and monitor magic. He died as he had lived—protecting and helping others....There are not even ashes to scatter, my friend. But your spirit lives on. In the heart of your courageous wife, in the eyes of your beautiful sons, and in the wisdom of the Kirin Tor.”
+
+— [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), in a eulogy at Rhonin's funeral
+
+**Rhonin** was a [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") and former leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). A powerful [human](https://wowpedia.fandom.com/wiki/Human "Human") mage, he was also known to be skilled with the sword.<sup id="cite_ref-The_Well_of_Eternity_49_2-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-The_Well_of_Eternity_49-2">[2]</a></sup><sup id="cite_ref-Sund_33_3-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-Sund_33-3">[3]</a></sup> Rhonin was instrumental in breaking the power of the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") at the end of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War") by freeing the Dragonqueen [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") from her imprisonment by [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher"), an [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") and leader of the [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan") who used the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") to keep her prisoner. He later traveled back to the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") in order to heal a rift in time.
+
+As the war in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") intensified, Rhonin came to the forefront, leading the Kirin Tor from the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") in the rebuilt city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). He announced the defeat of [Algalon the Observer](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer") and was involved in the final quests after defeating him.
+
+During the [Attack on Theramore Isle](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle"), Rhonin sacrificed himself in order to localize the explosion of a [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb") created by the Horde that destroyed [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle"). He also saved [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") who succeeded him as leader of the Kirin Tor, as another had foreseen beforehand.<sup id="cite_ref-Tides_of_War_4-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-Tides_of_War-4">[4]</a></sup>
+
+## Biography
+
+Rhonin didn't grow up in a [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") family. A rift appeared between him and his kin when he decided to enter the ranks of [wizardry](https://wowpedia.fandom.com/wiki/Wizard "Wizard"), not ever seeing any of them again after acting on his chosen calling.<sup id="cite_ref-WoE1_5-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-WoE1-5">[5]</a></sup>
+
+As a student of magic, Rhonin's nose was once broken by a fellow apprentice.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-6">[6]</a></sup> Rhonin decided by his own choice to not get it properly fixed by magic.<sup id="cite_ref-WoE1_5-1"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-WoE1-5">[5]</a></sup>
+
+### Second War
+
+Rhonin was once a promising mage of the Kirin Tor until a disastrous mission involving the reckless use of magic during the Second War — whilst Rhonin was casting a spell, others in his group got in the path of his attack. Rhonin's action succeeded in preventing a band of orc warlocks from raising a demon from the dead, but it also cost the lives of all his comrades. Rhonin was cast into probation until the opportunity for penance arose with a dangerous mission into [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan"). He was assisted in this mission by the [high elven](https://wowpedia.fandom.com/wiki/High_elf "High elf") ranger [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner"), the warrior [dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Falstad Dragonreaver](https://wowpedia.fandom.com/wiki/Falstad_Dragonreaver "Falstad Dragonreaver"), and the dragon-mage [Krasus](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") (who was the instigator of this mission).
+
+He was also assisted (at first) by the evil [black dragon](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), but Deathwing's true purpose was to steal some of Alexstrasza's eggs to replenish his own decimated dragonflight. With a gemstone created from Deathwing's scale, Rhonin was able to destroy the Demon Soul and release Alexstrasza. During this mission, Rhonin and Vereesa fell in love, and were later married.
+
+### Third War
+
+When Vereesa's sister [Alleria](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") and her husband [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") vanished on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), Vereesa and Rhonin took in their son [Arator](https://wowpedia.fandom.com/wiki/Arator "Arator").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-7">[7]</a></sup>
+
+Rhonin fought against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") as they invaded [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(continent) "Lordaeron (continent)") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). He and his wife were among the few survivors of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"). Most of Rhonin's family however, including his father, were killed during the fall of the town of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").
+
+### War of the Ancients
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Rhonin_Pic.jpg/revision/latest/scale-to-width-down/180?cb=20210320082016)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Rhonin_Pic.jpg/revision/latest?cb=20210320082016)
+
+Rhonin from _The Sundering_.
+
+While he and Vereesa were preparing for the birth of their twin offspring, Rhonin was once again summoned by Krasus for help. Apparently, the dragon-mage had discovered a rift in time, which swallowed both of them, along with the orc veteran [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar"). The three were sent 10,000 years back in time to the [first invasion](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+
+While in the past, Rhonin encountered legendary beings such as [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius"), [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne"), and [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana"). He became friends with the heroes [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"), [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong"), and [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon"). Rhonin actually became Illidan's mentor, not in the least to try and harness his reckless power, but despite Illidan's admiration much of Rhonin's work involved cleaning up Illidan's mistakes. When Illidan defected, Rhonin assumed command of the [Moon Guard](https://wowpedia.fandom.com/wiki/Moon_Guard "Moon Guard"). As a reward for Rhonin's courage, [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") allowed Rhonin to return to Vereesa at the moment she went into labor to ensure he would not miss a moment of the twins' lives. Nozdormu also offered the children the friendship of the bronze dragonflight.
+
+### Night of the Dragon
+
+In more recent years, Rhonin has found himself in the position as the leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), having been approached by the Kirin Tor in desperation.<sup id="cite_ref-NotD_132_8-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-NotD_132-8">[8]</a></sup> In Rhonin's own explanation to [Iridi](https://wowpedia.fandom.com/wiki/Iridi "Iridi"), "the Alliance is still looking to Dalaran for a lot and the wizards are looking for me to think different than they've been doing for the past several hundred years." However, even though all he really wants is to be with his family, his sense of responsibility impels him from ever abandoning such important roles, or his people.<sup id="cite_ref-NotD_216_9-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-NotD_216-9">[9]</a></sup> Much like [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring"), he is still loyal to the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") despite its recent hostility against the Horde.
+
+Following the attempted kidnapping of his children by [Zendarin Windrunner](https://wowpedia.fandom.com/wiki/Zendarin_Windrunner "Zendarin Windrunner"), Rhonin remained behind in Dalaran to protect his sons and direct the Kirin Tor as his mate left to bring her cousin to justice. Growing increasingly concerned by her absence Rhonin tried to portal to her location only to be surprised at ending up near [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol"). He would encounter the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") Iridi and end up forming an alliance with the local raptors (who had formed [an army](https://wowpedia.fandom.com/wiki/Raptor_army "Raptor army"), as it were, due to the ominous on goings at Grim Batol). Working together the unlikely allies would launch an assault on the fortress where upon the nether dragon [Zzeraku](https://wowpedia.fandom.com/wiki/Zzeraku "Zzeraku") was freed and in gratitude engaged in battle against [Dargonax](https://wowpedia.fandom.com/wiki/Dargonax "Dargonax"). During this time Rhonin would briefly engage in battle against the new master of Grim Batol - the Black Dragon [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia"), the prime consort of Deathwing before she departed to fight Krasus.
+
+After Zzeraku's draining battle with Dargonax, it appeared that the nether dragon would not be able to defeat the twilight dragon. In turn, Iridi gave all of her staff's power, and in the end almost all of her own, to empower Zzeraku. Even with the combination of the staff's and Iridi's power, Zzeraku was unsuccessful in fighting Dargonax and was devoured by the latter. In one last desperate hope to slay the twilight dragon, Iridi - with help from Rhonin, Vereesa, Krasus, and Kalec — used the last of her energy to destroy Dargonax. With Dargonax, Zendarin, and Sintharia (being seemingly destroyed by the staff as well) slain the unlikely group would depart from one another with Iridi being taken to be buried in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") per her last request by Kalec, Krasus to return to his queen, and Rhonin and Vereesa returning to their children at Dalaran.
+
+### Mage (manga)
+
+[![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
+
+It fell on the once reviled mage, Rhonin, to lead his kind from the brink, and to begin quickly the restoration of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Under his leadership, the Kirin Tor were able to recreate and enhance Dalaran's defenses.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-10">[10]</a></sup>
+
+After lifting the city, and moving it towards [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") to fight the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), Dalaran was attacked by the [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") mid-flight. This assault was a diversion, however, as a [Blue dragonflight agent](https://wowpedia.fandom.com/wiki/Crevan "Crevan") with in the Kirin Tor sought to crash Dalaran into the ground. Fortunately, this plan was foiled thanks to the intervention of [Aodhan](https://wowpedia.fandom.com/wiki/Aodhan "Aodhan"), Rhonin, and Master [Simeon](https://wowpedia.fandom.com/wiki/Simeon "Simeon"). With [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") declaring war on all mortal magic-users, especially the Kirin Tor, Rhonin had no other choice but to rally the Kirin Tor and lead it in a war to kill the Lord of Magic. To help with this endeavor, he called on his old allies, [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") and the [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight").
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Rhonin_WoD.jpg/revision/latest/scale-to-width-down/180?cb=20151210144606)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Rhonin_WoD.jpg/revision/latest?cb=20151210144606)
+
+Rhonin in Dalaran.
+
+Rhonin appears in the _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_ expansion as the leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). He is located in the rebuilt and relocated city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), with [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner"), [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera"), and [Archmage Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Archmage_Aethas_Sunreaver "Archmage Aethas Sunreaver") at his side. He is fighting the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") and their leader [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), who is determined to destroy mortal magic-users.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-11">[11]</a></sup>
+
+When your character hits level 80, Rhonin will mail him or her a [Magically Wrapped Gift](https://wowpedia.fandom.com/wiki/Magically_Wrapped_Gift "Magically Wrapped Gift"), containing 5 each of the following items: [Runic Healing Potion](https://wowpedia.fandom.com/wiki/Runic_Healing_Potion "Runic Healing Potion"), [Runic Mana Potion](https://wowpedia.fandom.com/wiki/Runic_Mana_Potion "Runic Mana Potion"), [Potion of Speed](https://wowpedia.fandom.com/wiki/Potion_of_Speed "Potion of Speed"), and [Dalaran Firework](https://wowpedia.fandom.com/wiki/Dalaran_Firework "Dalaran Firework").
+
+He also sends a mail with  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Inv_misc_book_11.png/revision/latest/scale-to-width-down/16?cb=20070329111635)[\[The Schools of Arcane Magic - Mastery\]](https://wowpedia.fandom.com/wiki/The_Schools_of_Arcane_Magic_-_Mastery) for completing the  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f7/Inv_misc_book_11.png/revision/latest/scale-to-width-down/16?cb=20070329111635)[\[Higher Learning\]](https://wowpedia.fandom.com/wiki/Higher_Learning) achievement.
+
+### Secrets of Ulduar
+
+After [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") and the [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League") discovered the presence of the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") within [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar"), Rhonin summoned [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), and [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") to the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") to discuss how to deal with this threat. When Varian and Garrosh began fighting, Rhonin stopped them, claiming that the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") stood to lose everything if they didn't work together. His proposition was turned down, leaving a distressed Rhonin to wonder out loud who was left to challenge Yogg-Saron.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-12">[12]</a></sup>
+
+After [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") defeated [Algalon the Observer](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer") within Ulduar, he informed them that they had to transmit [Reply-Code Alpha](https://wowpedia.fandom.com/wiki/Reply-Code_Alpha "Reply-Code Alpha") to the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") in order to prevent [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s re-origination. Brann and the adventurers hurried back to Dalaran and met up with Rhonin. As they transmitted the signal into the skies from the [Eventide](https://wowpedia.fandom.com/wiki/Eventide "Eventide"), Rhonin held a speech for the citizens of Dalaran to celebrate their victory.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-13">[13]</a></sup>
+
+### Stormrage
+
+During the [War Against the Nightmare](https://wowpedia.fandom.com/wiki/War_Against_the_Nightmare "War Against the Nightmare"), Rhonin was among those caught by the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"). Later, Rhonin attended the wedding of Malfurion and Tyrande along with his family. At his offering, he and his accompanying magi from Dalaran created a series of magnificent rainbows in the night sky, which marked the ten millennia of his friends' relationship.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-14">[14]</a></sup> As with Korialstrasz, who later appeared with Alexstrasza, it was quite clear that Rhonin would not have missed this pivotal moment for anything.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-15">[15]</a></sup>
+
+### Tides of War
+
+Soon after the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") began, Rhonin encouraged [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") to take on the gnome [Kinndy Sparkshine](https://wowpedia.fandom.com/wiki/Kinndy_Sparkshine "Kinndy Sparkshine") as her apprentice. When Kalecgos visited Rhonin for help in locating the missing [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris"), Rhonin directed him to seek out Jaina when they discovered the Iris was in Kalimdor.
+
+When Jaina appealed to the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") to help defend [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle") against an attack by the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), they decided that doing nothing could be seen as a tacit approval of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")'s path of conquest, and sent Rhonin and a number of other magi to defend the city. In particular, both Rhonin and his [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") comrade [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver") recommended [Thalen Songweaver](https://wowpedia.fandom.com/wiki/Thalen_Songweaver "Thalen Songweaver") for the task. However, Thalen (actually a spy for [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")) turned on the Kirin Tor during the battle and assisted the Horde in breaking through Theramore's defenses. Rhonin was disheartened to learn of Thalen's betrayal when the latter was captured by [Pained](https://wowpedia.fandom.com/wiki/Pained "Pained"), though maintained that Aethas was likely unaware of the spy's true nature.
+
+When it seemed as though the battle had been won, Rhonin saw a goblin sky galleon approaching with an enormous [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb") powered by the [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris"). Thinking quickly, he realized that Jaina's tower was heavily warded in magic and as such drawing the mana bomb to it would localize the mana bomb explosion. Believing that Jaina was the future of the Kirin Tor, he brought her into her tower and redirected Jaina's portal that she opened. When Jaina realized exactly what Rhonin was doing, she tried to stop him by pointing out that he had a family and was the leader of the Kirin Tor. Knowing that localizing the mana bomb explosion would ensure his beloved would be safe from the blast, Rhonin bluntly told Jaina that she was the future of the Kirin Tor and then pushed her through the portal when the bomb was dropped. Just before the portal closed, Jaina caught a glimpse of Rhonin, his arms raised with a determined expression on his face, exploding in a cloud of lavender ash as the mana bomb detonated in front of him. His last thoughts were to save his wife and everyone around him.
+
+A memorial service was later held for him in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), attended by his family and nearly every member of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). His eulogy was given by Jaina, who had accepted the position as leader of the Kirin Tor.<sup id="cite_ref-Tides_of_War_4-1"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-Tides_of_War-4">[4]</a></sup> His wife was eager to avenge him.
+
+### War Crimes
+
+Vereesa was left devastated and heartbroken after her husband's death, leaving her twin sons in Dalaran most of the time. She all but broke down and cried when she was forced to witness Rhonin's death and his selfless sacrifice to protect her. Overwhelmed with anger and grief, avenging her husband became her main motivation to plot for Garrosh's death until she was reminded of her children and how they had already lost one parent. She was convinced that they would not lose another.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+In remembrance to Rhonin, Dalaran has erected a statue of him at the [Eventide](https://wowpedia.fandom.com/wiki/Eventide "Eventide").
+
+Rhonin makes a cameo appearance in a flashback to the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), riding [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") above [Black Rook Hold](https://wowpedia.fandom.com/wiki/Black_Rook_Hold "Black Rook Hold").<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-16">[16]</a></sup>
+
+### Battle for Azeroth
+
+A vision of Rhonin briefly appears in Jaina's memories during her ordeal in [Thros, the Blighted Lands](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands "Thros, the Blighted Lands"), berating her for allowing her "personal biases" taint the Kirin Tor, and calling himself a fool to think she could be their leader.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-17">[17]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") | ?? | 7,096,000 |
+| [Theramore's Fall](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall "Theramore's Fall") | ?? | 436,136,992 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Ravencrest's Legacy](https://wowpedia.fandom.com/wiki/Ravencrest%27s_Legacy_(quest)) | 110 | 10,392,670 |
+
+## Quests
+
+## In the RPG
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/RhoninS%26L.JPG/revision/latest/scale-to-width-down/180?cb=20070831161410)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/RhoninS%26L.JPG/revision/latest?cb=20070831161410)
+
+Rhonin from _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_.
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+### Personality
+
+Rhonin is a studious type who knows a little bit about a great many things but generally keeps his knowledge to himself. He is very young, but his youth disguises a spellcaster of great power and flexibility. He is reckless and hot-headed and is known frequently not to look before he leaps, a character flaw he recognizes in himself and yet is hard-pressed to keep under control. He also has a great sense of humour and is used to seeing huge dragons (such as Alexstrasza and Dargonax).<sup id="cite_ref-S&amp;L_50_18-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-S&amp;L_50-18">[18]</a></sup>
+
+### Combat
+
+As a quick study of his spell selection will indicate, Rhonin prefers to use his sorcerer abilities for versatility in combat while his wizard spells are usually left to more mundane tasks. He generally starts off a fight with the most powerful spells at his disposal, working his way down to employing searing arrows in concert with his crossbow once all his other combat spells are exhausted.<sup id="cite_ref-S&amp;L_50_18-1"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-S&amp;L_50-18">[18]</a></sup>
+
+## Memorable quotes
+
+### War of Ancient Trilogy
+
+-   **Rhonin:** "The plan sounds too simple to work..."  
+    **[Huln Highmountain](https://wowpedia.fandom.com/wiki/Huln_Highmountain "Huln Highmountain"):** "Simple can be good, if it's drawn from reason."  
+    **Rhonin:** "Somehow, I doubt [Stareye](https://wowpedia.fandom.com/wiki/Desdel_Stareye "Desdel Stareye") has reason. I don't understand why [Ravencrest](https://wowpedia.fandom.com/wiki/Kur%27talos_Ravencrest "Kur'talos Ravencrest") and he got along so well."  
+    **[Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"):** "They are of the same caste."  
+    **Rhonin:** "Oh! It all makes so much sense then...Never mind, we'll just have to watch out and hope for the best."
+-   "The other races may see no reason to ally themselves with ones who'd almost as much as the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") prefer to see them all wiped out. We're talking centuries of enmity, [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus")."
+-   **Night Elf Noble:** [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") in [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari")? How barbaric!  
+    **Rhonin:** They'd rather have demons?  
+    **[Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"):** You wouldn't understand.  
+    **Rhonin:** No, I wouldn't.
+-   "Three against [one](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), and they still can't do anything." _(realizing Deathwing is about to gain the upper hand)_
+
+### Night of the Dragon
+
+-   **[Sinestra](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia"):** Very good, Rhonin Redhair. And do you know _what_ dragon?  
+    **Rhonin:** You have that admirable disposition and manner of dark dress that means you must belong to [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s [flight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"). And since you're not the rabid dog or his two [worst](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") [pups](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia"), I'd hazard by your grand posturing that you must be one of his prime bitches...
+-   **[Dargonax](https://wowpedia.fandom.com/wiki/Dargonax "Dargonax"):** Gaze well upon this wretched place surrounding you and savor that view, little morsels... for it is the last sight you will live to see...  
+    **Rhonin:** Why do they always say something like that?
+
+### World of Warcraft
+
+#### Wrath of the Lich King
+
+Dalaran
+
+-   Welcome to the home of the Kirin Tor.
+
+Dialogues
+
+_Main article: [Secrets of Ulduar trailer#Transcript](https://wowpedia.fandom.com/wiki/Secrets_of_Ulduar_trailer#Transcript "Secrets of Ulduar trailer")_
+
+_Main article: [All Is Well That Ends Well#Notes](https://wowpedia.fandom.com/wiki/All_Is_Well_That_Ends_Well#Notes "All Is Well That Ends Well")_
+
+### Tides of War
+
+**Jaina:** "Rhonin, what is it? What's wrong?"  
+**Rhonin:** "Well, let's see. Deathwing is loose; [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") has fallen into the sea-"  
+**Jaina:** "I meant with _you_."
+
+-   "[Old friend](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"), it is at times like this I miss you far more than I can say. But I must admit, it's comforting to hear you speak to me [beyond death](https://wowpedia.fandom.com/wiki/Korialstrasz#Tides_of_War "Korialstrasz")\-even if you have to do it in riddles."
+-   "Shut. Up. Just go through! I have to pull it [here](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle"), _right here_, to save Vereesa and [Shandris](https://wowpedia.fandom.com/wiki/Shandris "Shandris") and... as many as I can! The walls of this tower are steeped in magic! I should be able to localize the detonation. Don't be a foolish little girl, Jaina! GO!"
+
+#### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+_Main article: [Ravencrest's Legacy#Notes](https://wowpedia.fandom.com/wiki/Ravencrest%27s_Legacy#Notes "Ravencrest's Legacy")_
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+Rhonin appears as [a legendary card](https://hearthstone.fandom.com/wiki/Rhonin "hswiki:Rhonin") for the mage class in the _[Grand Tournament](https://wowpedia.fandom.com/wiki/Hearthstone:_The_Grand_Tournament "Hearthstone: The Grand Tournament")_ expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. His flavor text reads: _"A masterless shamurai."_, referencing the fact that the name "Rhonin" sounds similar to [rōnin](http://en.wikipedia.org/wiki/r%C5%8Dnin "wikipedia:rōnin"), a term used to describe a samurai with no lord or master in feudal Japan.
+
+The [Arcane Watcher](https://hearthstone.fandom.com/wiki/Arcane_Watcher "hswiki:Arcane Watcher"), a rare card in the _[Rise of Shadows](https://wowpedia.fandom.com/wiki/Hearthstone:_Rise_of_Shadows "Hearthstone: Rise of Shadows")_ expansion, appears to be a depiction of Rhonin's statue in the [Eventide](https://wowpedia.fandom.com/wiki/Eventide "Eventide").
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/61/RhoninClassicWowhead.png/revision/latest/scale-to-width-down/180?cb=20220902165214)](https://static.wikia.nocookie.net/wowpedia/images/6/61/RhoninClassicWowhead.png/revision/latest?cb=20220902165214)
+
+Unused Rhonin NPC as seen in [Wowhead](https://classic.wowhead.com/npc=16128/rhonin).
+
+-   He wrote a treatise on the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul").<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-19">[19]</a></sup>
+-   Curiously, prior to his debut in _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/Wrath_of_the_Lich_King "Wrath of the Lich King")_, there was an unused [NPC](https://wowpedia.fandom.com/wiki/NPC "NPC") representing Rhonin since the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.
+-   His eye color was green.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-20">[20]</a></sup>
+-   Initially, Rhonin had a much lighter, almost blonde hair color (resulting in some players referring to him as Rhonin _Gold_hair); this appears to have been changed to a redder hue (befitting the lore) as of patch 3.1.
+-   No surname has been confirmed, though he is sometimes referred to as "Rhonin Redhair", based on his hair color. It is unclear if this is his surname or just a title.<sup id="cite_ref-DotD_72_21-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-DotD_72-21">[21]</a></sup><sup id="cite_ref-Sund_185_22-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-Sund_185-22">[22]</a></sup><sup id="cite_ref-NotD_254_23-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-NotD_254-23">[23]</a></sup> _[Night of the Dragon](https://wowpedia.fandom.com/wiki/Night_of_the_Dragon "Night of the Dragon")_ also mentions that many in the current timeframe refer to him as "Rhonin Draig'cyfaill" or by the simpler, translated "Rhonin Dragonheart".<sup id="cite_ref-NotD_109,_239_24-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-NotD_109,_239-24">[24]</a></sup>
+-   He is apparently able to speak or translate [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg_(language) "Furbolg (language)").<sup id="cite_ref-Sund_15_25-0"><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_note-Sund_15-25">[25]</a></sup> He has also become a skilled swordsman from his experience during the Legion invasion.
+-   With Rhonin's death in _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_ and [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz")'s dying in _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_, none of the time-travelers from the _[War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")_ are alive.
+-   An epic cloth chest piece known as the  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Inv_chest_cloth_49.png/revision/latest/scale-to-width-down/16?cb=20061004082914)[\[Robes of Rhonin\]](https://wowpedia.fandom.com/wiki/Robes_of_Rhonin) drops off [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde_(tactics) "Archimonde (tactics)") in the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time") raid [Battle for Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)"). Presumably, these may have been robes worn by Rhonin himself. This raises the question of how Archimonde came to possess his robes (possibly during the War of the Ancients when Archimonde incapacitates Rhonin).
+-   _[Rhonin's Beard](https://wowpedia.fandom.com/wiki/Rhonin%27s_Beard "Rhonin's Beard")_, a [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive") vessel, is named in his memory.
+-   Rhonin is voiced by [Keith Silverstein](https://wowpedia.fandom.com/wiki/Keith_Silverstein "Keith Silverstein").
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Rhonin_WotA_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210327235146)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Rhonin_WotA_TCG.jpg/revision/latest?cb=20210327235146)
+    
+    Rhonin during the War of the Ancients, as seen in the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game").
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Arcane_Watcher_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220213164415)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Arcane_Watcher_HS.jpg/revision/latest?cb=20220213164415)
+    
+
+### Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Fanart_Ulduar_Patch.jpeg/revision/latest/scale-to-width-down/86?cb=20111128135055)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Fanart_Ulduar_Patch.jpeg/revision/latest?cb=20111128135055)
+    
+    Fanart of Rhonin at an imagined [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") council.
+    
+
+## Patch changes
+
+## See also
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Inv_bracer_cloth_pvpmage_c_02.png/revision/latest/scale-to-width-down/16?cb=20110225225641)[\[Rhonin's Assaulting Armwraps\]](https://wowpedia.fandom.com/wiki/Rhonin%27s_Assaulting_Armwraps)
+-   [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin_(Icecrown)), TCG card
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-1) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_
+2.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-The_Well_of_Eternity_49_2-0) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 49
+3.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-Sund_33_3-0) _The Sundering_, pg. 33
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-Tides_of_War_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-Tides_of_War_4-1">b</a></sup> _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-WoE1_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-WoE1_5-1">b</a></sup> _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, chapter 1
+6.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-6) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, chapter 1
+7.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-7) _[Three Sisters](https://wowpedia.fandom.com/wiki/Three_Sisters "Three Sisters")_
+8.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-NotD_132_8-0) _[Night of the Dragon](https://wowpedia.fandom.com/wiki/Night_of_the_Dragon "Night of the Dragon")_, pg. 132
+9.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-NotD_216_9-0) _Night of the Dragon_, pg. 216
+10.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-10) _[World of Warcraft: Mage](https://wowpedia.fandom.com/wiki/Mage_(manga) "Mage (manga)")_
+11.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-11) [BlizzCon Day 2 WoW Lore and Quests panel](http://www.wowinsider.com/2007/08/04/blizzcon-day-2-wow-lore-and-quests-panel-liveblog)
+12.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-12) [Secrets of Ulduar trailer](https://wowpedia.fandom.com/wiki/Secrets_of_Ulduar_trailer "Secrets of Ulduar trailer")
+13.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-13)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30R\] [All Is Well That Ends Well](https://wowpedia.fandom.com/wiki/All_Is_Well_That_Ends_Well)
+14.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-14) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, pg. 396
+15.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-15) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, pg. 398
+16.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-16)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Ravencrest's Legacy](https://wowpedia.fandom.com/wiki/Ravencrest%27s_Legacy_(quest))
+17.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-17)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Thros, the Blighted Lands](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands_(quest))
+18.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-S&amp;L_50_18-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-S&amp;L_50_18-1">b</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 50
+19.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-19) _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_
+20.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-20) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, chapter 3
+21.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-DotD_72_21-0) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 72
+22.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-Sund_185_22-0) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 185
+23.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-NotD_254_23-0) _Night of the Dragon_, pg. 254
+24.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-NotD_109,_239_24-0) _Night of the Dragon_, pg. 109, 239
+25.  [^](https://wowpedia.fandom.com/wiki/Rhonin#cite_ref-Sund_15_25-0) _The Sundering_, pg. 15
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Rhonin#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Rhonin#t1:npcs)

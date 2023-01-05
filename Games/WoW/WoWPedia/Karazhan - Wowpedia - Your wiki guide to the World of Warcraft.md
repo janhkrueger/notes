@@ -1,0 +1,295 @@
+_This article is about the history and lore of Karazhan. For the 10-player raid instance, see [Karazhan (raid)](https://wowpedia.fandom.com/wiki/Karazhan_(raid) "Karazhan (raid)"). For the 5-player dungeon, see [Return to Karazhan](https://wowpedia.fandom.com/wiki/Return_to_Karazhan "Return to Karazhan"). For other appearances, see [Karazhan (disambiguation)](https://wowpedia.fandom.com/wiki/Karazhan_(disambiguation) "Karazhan (disambiguation)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Karazhan |
+| --- |
+| [![Chronicle Karazhan.jpg](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Chronicle_Karazhan.jpg/revision/latest/scale-to-width-down/260?cb=20210504173832)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Chronicle_Karazhan.jpg/revision/latest?cb=20210504173832) |
+| Type | Mage tower |
+| Races | [![Undead](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Undead "Undead")[![Undead](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Undead "Undead") [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")  
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![Man'ari eredar](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_Man%27ari_Male.gif/revision/latest/scale-to-width-down/16?cb=20200505171701)](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari eredar")[![Man'ari eredar](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Man%27ari_Female.gif/revision/latest/scale-to-width-down/16?cb=20200505183012)](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari eredar") [Man'ari eredar](https://wowpedia.fandom.com/wiki/Man%27ari "Man'ari")  
+[![Satyr](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Satyr.gif/revision/latest/scale-to-width-down/16?cb=20211118202207)](https://wowpedia.fandom.com/wiki/Satyr "Satyr") [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")  
+[![Ethereal](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest/scale-to-width-down/16?cb=20211118202836)](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") [Ethereal](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") |
+| Ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Khadgar.gif/revision/latest/scale-to-width-down/16?cb=20211212102856)[Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") |
+| Former ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_Man%27ari_Male.gif/revision/latest/scale-to-width-down/16?cb=20200505171701)[Prince Malchezaar](https://wowpedia.fandom.com/wiki/Prince_Malchezaar "Prince Malchezaar")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/c/c9/IconSmall_Medivh.gif/revision/latest/scale-to-width-down/16?cb=20211213121317)[Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/3/34/IconSmall_Aegwynn.gif/revision/latest/scale-to-width-down/16?cb=20181211115038)[Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") |
+| Affiliation | [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") |
+| Former affiliation(s) | [Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
+| Location | Southern [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass")[<sup>[54,&nbsp;78]</sup>](https://wowpedia.fandom.com/wiki/Deadwind_Pass) |
+| Status | Haunted |
+
+**Karazhan** (a.k.a. **Medivh's Tower**)<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-1">[1]</a></sup> is an abandoned citadel (or castle)<sup id="cite_ref-LG_195,_250_2-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-LG_195,_250-2">[2]</a></sup> located on a nexus of [ley lines](https://wowpedia.fandom.com/wiki/Ley_line "Ley line")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-3">[3]</a></sup> in southern [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass"). The tower is best known for its last known occupant — [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), the last [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"). After Medivh was killed by [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar"), and [Garona](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen"), the tower sealed itself off from the rest of the world. But recently, Karazhan has reawakened — an evil presence has taken the tower as its own, its halls crawling with spirits and demons, and with Medivh's presence still alive and well, even decades after his death.
+
+The tower is vast, dangerous, with [ghosts](https://wowpedia.fandom.com/wiki/Ghost "Ghost") everywhere, and where some of the world's most powerful and dangerous artifacts are stored, brought for years by the [Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders").
+
+Following the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), Khadgar moved into the tower, seeking knowledge to save [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-4">[4]</a></sup><sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-5">[5]</a></sup>
+
+Karazhan, as a level 70 ten-man raid instance, was opened in _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_. The instance is huge, scripted, and non-winged, containing twelve boss encounters, with 22 different NPCs.
+
+## History
+
+### The Last Guardian
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Chronicle2_Young_Khadgar.jpg/revision/latest/scale-to-width-down/180?cb=20180911122926)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Chronicle2_Young_Khadgar.jpg/revision/latest?cb=20180911122926)
+
+[Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") seeing a vision while in Karazhan.
+
+The land which the tower sits on "was similar in shape to a human skull. Many had noted it over the years, though only a few had been sufficiently brave, or powerful, or tactless to mention it to the property's owner".<sup id="cite_ref-LG_2_6-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-LG_2-6">[6]</a></sup>
+
+Karazhan's history begins with an explosion that carved out [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass") and weakened the fabric of reality in the region,<sup id="cite_ref-LG_89_7-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-LG_89-7">[7]</a></sup> which was caused by [Sataiel](https://wowpedia.fandom.com/wiki/Sataiel "Sataiel") draining the land of life with [Ulthalesh, the Deadwind Harvester](https://wowpedia.fandom.com/wiki/Ulthalesh,_the_Deadwind_Harvester "Ulthalesh, the Deadwind Harvester").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-8">[8]</a></sup> The tower was built in secret by the [Guardian](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal") [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") using [Aluneth](https://wowpedia.fandom.com/wiki/Aluneth "Aluneth")<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-9">[9]</a></sup> around 600 years before the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), after she grew increasingly paranoid and hostile to her fellow members in the [Council of Tirisfal](https://wowpedia.fandom.com/wiki/Council_of_Tirisfal "Council of Tirisfal") — a result of the dark influence that the spirit of [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") was exerting over her. The tower acted both as a refuge from the council and as a conduit for the potent [ley lines](https://wowpedia.fandom.com/wiki/Ley_line "Ley line") in the region, through which Aegwynn could siphon power as needed.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-10">[10]</a></sup> Aegwynn's son [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") eventually took up residence in Karazhan, but mused that the explosion and the construction only happened because he would eventually arrive.<sup id="cite_ref-LG_91-2_11-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-LG_91-2-11">[11]</a></sup>
+
+As the structure was built atop a nexus of potent ley lines, the energies that coursed through Karazhan sometimes warped reality in the region. Because of that, the mage [Arrexis](https://wowpedia.fandom.com/wiki/Arrexis "Arrexis") came to Deadwind Pass to study the tower and its powers, experimenting with their warding magics outside Karazhan, attempting to neutralize the tower's strange powers.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-12">[12]</a></sup>
+
+Prior to the First War, the tower was inhabited by Medivh, his steward [Moroes](https://wowpedia.fandom.com/wiki/Moroes "Moroes"), and his cook named [Cook](https://wowpedia.fandom.com/wiki/Cook_(character) "Cook (character)"). Though Medivh was the greatest wizard of his day (and humanity's intended custodian), Medivh was secretly possessed by the dark spirit of [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), the Destroyer of Worlds. This led him to sometimes being sick and indisposed, and as such a group of would-be [clerics](https://wowpedia.fandom.com/wiki/Cleric "Cleric") once came to the tower to minister to his needs, but also to steal some of his valuables.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-13">[13]</a></sup> But another time, Medivh also revealed himself to be very influenced by the demon when he cursed a group of charlatan merchants who tried to sell him fraudulent magical artifacts by transforming them into the [Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders").<sup id="cite_ref-Dark_Riders_14-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-Dark_Riders-14">[14]</a></sup>
+
+Corrupting Medivh more and more, Sargeras eventually opened the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") to allow the orcs to wage war upon the kingdoms of Azeroth, while also himself murdering the suspecting members of the [Order of Tirisfal](https://wowpedia.fandom.com/wiki/Council_of_Tirisfal "Council of Tirisfal"). Medivh hid this corruption behind a lavish lifestyle, inviting many nobles to party down in Karazhan. This didn't stop the dragon [Arcanagos](https://wowpedia.fandom.com/wiki/Arcanagos "Arcanagos") to travel to the tower with Aegwynn to confront Medivh about his acts. The night the tower was crowded with nobles who were expecting a gala, and so Aegwynn entered alone at first, hoping to convince Medivh to give up his power peacefully. After Medivh revealed that said power was that of Sargeras, he and Aegwynn began to fight, shaking the tower to its foundations and causing the would-be revelers to flee. Arcanagos was struck down by the spirit of Sargeras. As the duel between mother and son continued Aegwynn slowly gained the upper hand,<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-15">[15]</a></sup> until Medivh resorted to draining the life of nearby all occupants of the tower in order to fuel his strength.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-16">[16]</a></sup> Now stronger but still unable to kill Aegwynn, Medivh instead banished her from his sight, leaving Karazhan a haunted tower of madness populated by ghosts and afterimages.
+
+[Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") later joined the tower as Medivh's apprentice. [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen") also resided here as an emissary at the same time as Khadgar's apprenticeship. As a result of the recent events and the region's already weakened reality, many strange and disturbing visions lurked within the tower, and Moroes was now wearing blinders to avoid seeing them. The visions were ultimately ended when most of Karazhan's ambient magical power was absorbed by the resurrected Medivh, reducing it to "a pile of stone in the remote reaches", its power taken to serve the Prophet.<sup id="cite_ref-LG_306-8_17-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-LG_306-8-17">[17]</a></sup>
+
+As the war progressed, Medivh fought against Sargeras' control. The raging conflict within him finally drove the wizard irrevocably insane, until his childhood friend, [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar"), aided Medivh's young apprentice, Khadgar, in storming Karazhan and slaying their former comrade. Since that day, a terrible curse has pervaded both the tower and the lands around it - casting a dark pall over Deadwind Pass and the region that is now known as Duskwood.
+
+After the fall of Karazhan, the Kirin Tor dispatched an assembly of mages to search the tower and seize all items of import for the purposes of "research." It was then that [Atiesh](https://wowpedia.fandom.com/wiki/Atiesh "Atiesh") was discovered and brought back to Dalaran.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-18">[18]</a></sup>
+
+### Paladin's daughters
+
+After the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War") an area, which would later be known as [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood") and the town of [Grand Hamlet](https://wowpedia.fandom.com/wiki/Grand_Hamlet "Grand Hamlet") (later known as Darkshire), became darkened and surrounded by dark creatures. The people of Grand Hamlet thought the evil was caused by the tower of Karazhan. Several townsfolk ventured there to investigate the tower but they did not return. A [paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin") named [Dougan](https://wowpedia.fandom.com/wiki/Dougan "Dougan") along with his friends [Kardan](https://wowpedia.fandom.com/wiki/Kardan "Kardan") and [Voldana](https://wowpedia.fandom.com/wiki/Voldana "Voldana") entered the tower but the raid failed and resulted in the death of Dougan. While there, time seemed to unfold in strange ways for the trio.
+
+Kardan and Voldana managed to escape, but Dougan did not and was killed inside. He would later discover that anyone who dies inside Karazhan will have their spirit trapped there, unable to escape.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-19">[19]</a></sup>
+
+Years later, Dougan's daughters, [Lieren](https://wowpedia.fandom.com/wiki/Lieren "Lieren") and [Loania](https://wowpedia.fandom.com/wiki/Loania "Loania") teleported into the tower only to find the horrors of its curse. Having escaped from Moroes, they found the killer of their father, satyr [Terestian Illhoof](https://wowpedia.fandom.com/wiki/Terestian_Illhoof "Terestian Illhoof"). They killed him but Loania was hurt. As they were trying to leave they found the ghost of Nielas Aran who tried to kill them. Loania summoned Dougan who protected them while the horrors went after them. The twins teleported out of the Karazhan, leaving Dougan still trapped there.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-20">[20]</a></sup>
+
+### World of Warcraft
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Karazhan-banquethall.jpg/revision/latest/scale-to-width-down/220?cb=20071129102031)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Karazhan-banquethall.jpg/revision/latest?cb=20071129102031)
+
+The Banquet Hall.
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+In recent years, nobles of Darkshire ventured into Deadwind Pass to investigate the blight that had settled over the region. None who entered the dark tower ever emerged.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-21">[21]</a></sup>
+
+Recently, despite Medivh's absence and the draining of magic, a new power seems to have made its home in Karazhan. The [Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders") of [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass"), though rarely seen, have a connection to Karazhan. However, no one knows who their master is. [One recent sighting](https://wowpedia.fandom.com/wiki/Jitters%27_Completed_Journal "Jitters' Completed Journal") is cause for concern — the Dark Riders seek the [Scythe of Elune](https://wowpedia.fandom.com/wiki/Scythe_of_Elune "Scythe of Elune"), a powerful artifact with the ability to summon the vile [worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen") into this world.
+
+If you traced the [ley lines](https://wowpedia.fandom.com/wiki/Ley_line "Ley line") traversing Azeroth, you would find they all converge under Karazhan.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-22">[22]</a></sup> However, this is no longer true after [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") redirected Azeroth's ley lines to the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus").
+
+Worldofwarcraft.com says the following about Karazhan:
+
+_The decrepit tower of Karazhan once housed one of the greatest powers Azeroth has ever known: the sorcerer Medivh. Since his death, a terrible curse has pervaded the tower and the surrounding lands. The spirits of nobles from nearby Darkshire reportedly walk its halls, suffering a fate worse than death for their curiosity. More dangerous spirits wait within Medivh's study, for it was there that he summoned demonic entities to do his bidding. However, the brave and foolish are still relentlessly drawn to Karazhan, tempted by rumors of unspeakable secrets and powerful treasures. Forge a group of ten stalwart heroes, and journey to the tower in [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass") — but be warned that only those who have achieved level 70 should dare enter._
+
+### The Burning Crusade
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Karazhan_loading_screen.jpg/revision/latest/scale-to-width-down/180?cb=20180320124226)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Karazhan_loading_screen.jpg/revision/latest?cb=20180320124226)
+
+Karazhan's in-game loading screen.
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+At some point, the tower of Karazhan had sealed itself and several agents of the Eye were trapped there.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-23">[23]</a></sup> Mages of [The Violet Eye](https://wowpedia.fandom.com/wiki/The_Violet_Eye "The Violet Eye") has been guarding and examining the tower and its secrets.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-24">[24]</a></sup> Before the closing, demonic agents of the Burning Legion arrived to Karazhan as it is a portal to the Nether.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-25">[25]</a></sup>
+
+With Khadgar's help, the mages unlocked Karazhan and the [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the Horde and Alliance raided the tower, defeating its ghostly inhabitants.
+
+### Scourge Invasion
+
+During the second [Scourge Invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion "Scourge Invasion"), [Med'an](https://wowpedia.fandom.com/wiki/Med%27an "Med'an"), Medivh's son, entered the tower and met with the avatar of his father who told him about his history.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-26">[26]</a></sup>
+
+Later, Karazhan was infiltrated by [Tenris Mirkblood](https://wowpedia.fandom.com/wiki/Prince_Tenris_Mirkblood "Prince Tenris Mirkblood"), an [elven prince](https://wowpedia.fandom.com/wiki/San%27layn "San'layn") of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). The [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn") sent [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") heroes to kill him and learn [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s [orders](https://wowpedia.fandom.com/wiki/Orders_from_the_Lich_King "Orders from the Lich King").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-27">[27]</a></sup>
+
+### Dark Riders
+
+[![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
+
+Around the time of [Shattering](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), a group of soldiers from the [Night Watch](https://wowpedia.fandom.com/wiki/Night_Watch "Night Watch") militia led by [Althea Ebonlocke](https://wowpedia.fandom.com/wiki/Althea_Ebonlocke "Althea Ebonlocke") along with [Karlain](https://wowpedia.fandom.com/wiki/Karlain "Karlain"), [Mardigan](https://wowpedia.fandom.com/wiki/Mardigan "Mardigan"), [Revil Kost](https://wowpedia.fandom.com/wiki/Revil_Kost "Revil Kost") and [Brink](https://wowpedia.fandom.com/wiki/Brink "Brink") attacked the [Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders "Dark Riders") in [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood") only to be teleported to Karazhan by one of the Dark Riders. While Karlain and Mardigan were watching a cursed vision in the Opera House, the rest battled against [the Curator](https://wowpedia.fandom.com/wiki/The_Curator "The Curator"). Brink then found an amulet which he used to return their enemies and the Night Watch back in time preventing the events leading them to engage in battle. Brink and Revil then regrouped with Karlain and Mardigan in the Opera House, witnessing the true vision of [Aredhel](https://wowpedia.fandom.com/wiki/Aredhel "Aredhel")'s death. After this, they teleported out of the cursed tower.<sup id="cite_ref-Dark_Riders_14-1"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-Dark_Riders-14">[14]</a></sup>
+
+### Legion
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/85/Return_to_Karazhan_loading_screen.jpg/revision/latest/scale-to-width-down/180?cb=20180320021848)](https://static.wikia.nocookie.net/wowpedia/images/8/85/Return_to_Karazhan_loading_screen.jpg/revision/latest?cb=20180320021848)
+
+[Return to Karazhan](https://wowpedia.fandom.com/wiki/Return_to_Karazhan "Return to Karazhan") loading screen.
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+After witnessing the return of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), Khadgar entered Karazhan in order to find knowledge against the demons. He was approached by the spirit of Medivh who said that it is time to fulfill his destiny by becoming Azeroth's next Guardian. Khadgar refused and the spirit revealed himself to be, in fact, a [dreadlord](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") in disguise. The archmage defeated him stating that Karazhan will not become a stand for the demons.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-28">[28]</a></sup>
+
+Later, after learning of the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation") from [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") in [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar"), Khadgar returns to Karazhan with an [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to find their location, as knowledge of the pillars had been entrusted to the [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"). But Khadgar's reminiscing about his apprenticeship years ago is interrupted when an echo of Medivh himself interferes and brings down Khadgar's wards around the tower, allowing the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to invade and try to stop them from finding the Pillars' location. Khadgar is able to alter the tower's defenders to fight off the Burning Legion while he and the adventurer retrieve a [book](https://wowpedia.fandom.com/wiki/Notable_Antiquities_of_Ancient_Azeroth "Notable Antiquities of Ancient Azeroth") authored by [Alodi](https://wowpedia.fandom.com/wiki/Alodi "Alodi"), the first Guardian, which contains information on the Pillars of Creation.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-29">[29]</a></sup>
+
+By this time, Khadgar considers the [Guardian's Library](https://wowpedia.fandom.com/wiki/Guardian%27s_Library "Guardian's Library") at the least to be his.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-30">[30]</a></sup>
+
+Some time later, [Moroes](https://wowpedia.fandom.com/wiki/Moroes "Moroes") has been overlooking the neighborhood of Karazhan, and noticed the forces of Burning Legion marching towards Karazhan, which he saw as an omen heralding the return of [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"). He invited them into the tower. The Legion intended to use the tower as a conduit to each and every one of the countless worlds that they had consumed during their Burning Crusade, but Medivh severed the connection between Karazhan and those worlds.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-31">[31]</a></sup>
+
+After the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"), Khadgar returned here.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-32">[32]</a></sup> Magni later visited him and, studying the tomes here, they came up with a plan to destabilize the [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras") in [Silithus: The Wound](https://wowpedia.fandom.com/wiki/Silithus:_The_Wound "Silithus: The Wound").<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-33">[33]</a></sup>
+
+### Exploring Azeroth
+
+Following the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), Khadgar still occupied the tower, and [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") check up on the tower and him. The archmage wrote a letter to [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") about the status of artifacts stored in Karazhan, its presence greatly facilitating the task, and revealed that he was also trying to repair the erratic [Curator](https://wowpedia.fandom.com/wiki/Curator "Curator"). Revil Kost came back to return the [Cloak of Purity](https://wowpedia.fandom.com/wiki/Cloak_of_Purity "Cloak of Purity") after availing himself of its protection as he hunted the Dark Riders.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-34">[34]</a></sup>
+
+## Layout
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Karazhan is also known as the **Ivory Tower of Karazhan** or **Ivory Spire of Karazhan**.<sup id="cite_ref-LoC_44_35-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-LoC_44-35">[35]</a></sup>
+
+## Notes and trivia
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/aa/Aa-karazhan-roost-425.jpg/revision/latest/scale-to-width-down/180?cb=20080217200249)](https://static.wikia.nocookie.net/wowpedia/images/a/aa/Aa-karazhan-roost-425.jpg/revision/latest?cb=20080217200249)
+
+The Karazhan gryphon roost.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-36">[36]</a></sup>
+
+-   [Revil Kost](https://wowpedia.fandom.com/wiki/Revil_Kost "Revil Kost") described Karazhan as a [blasphemous](https://wowpedia.fandom.com/wiki/Blasphemy "Blasphemy") place infested by the [fel](https://wowpedia.fandom.com/wiki/Fel "Fel"), forcing him to wear the [Cloak of Purity](https://wowpedia.fandom.com/wiki/Cloak_of_Purity "Cloak of Purity") to be protected from its corruption.<sup id="cite_ref-Dark_Riders_14-2"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-Dark_Riders-14">[14]</a></sup>
+-   [Christopher Lesson](https://wowpedia.fandom.com/wiki/Christopher_Lesson "Christopher Lesson") once performed in the [opera](https://wowpedia.fandom.com/wiki/Opera_event "Opera event") at Karazhan.
+-   When heading to confront [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"), [Reginald Windsor](https://wowpedia.fandom.com/wiki/Reginald_Windsor "Reginald Windsor") declared that "As was fated a lifetime ago in Karazhan, monster - I come - and with me I bring justice." and "You will not escape your fate, Onyxia. It has been prophesied - a vision resonating from the great halls of Karazhan. It ends now..."<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-37">[37]</a></sup> Karazhan has no other known connection to Windsor or Onyxia, and no explanation has been provided for these statements.
+-   During Medivh's life, a [dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [gryphon rider](https://wowpedia.fandom.com/wiki/Gryphon_rider "Gryphon rider") visited Karazhan twice a week to act as a courier between the mage and the outside world.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-38">[38]</a></sup> But horseback messengers and supply wagons also regularly came for less urgent matters and to restock the tower's larders.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-39">[39]</a></sup>
+-   The Karazhan gryphon roost is a leftover from the planning phase of Karazhan. Before the teleport to Aran's room was implemented, the original plan was to have a [flight path](https://wowpedia.fandom.com/wiki/Flight_path "Flight path") that connected to the top of Karazhan for the convenience of groups who had already cleared most of the instance.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  With the ability to fly in Azeroth it is now possible to reach the ledge, but the portal is still blocked. It is notable that a [skeletal gryphon](https://wowpedia.fandom.com/wiki/Skeletal_Gryphon_(Karazhan) "Skeletal Gryphon (Karazhan)") can be seen flying around the tower too.
+    -   In _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, Medivh and Khadgar used the gryphons to reach Stormwind and the Black Morass.
+-   In the tower was a fully equipped pantry of [spell components](https://wowpedia.fandom.com/wiki/Magic#Commonalities "Magic"), including a larder of aromatic and thaumaturgic herbs, and a lapidarium of crushed semi-precious stones.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-40">[40]</a></sup>
+-   The tower of Karazhan contains horse head animal motifs in various ornamentation as a reference to [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar") and the [Brotherhood of the Horse](https://wowpedia.fandom.com/wiki/Brotherhood_of_the_Horse "Brotherhood of the Horse").<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-41">[41]</a></sup>
+-   The head maid of the tower was an [animated broom](https://wowpedia.fandom.com/wiki/Animated_object "Animated object") called [Babblet](https://wowpedia.fandom.com/wiki/Babblet "Babblet").
+-   Karazhan was originally described as an isolated tower with Medivh living as a hermit. This has since been retconned with various guests visiting the tower.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-42">[42]</a></sup>
+-   When Karazhan was first announced, there were rumors that an upside-down version of the tower existed, extending down from the bottom floor, deep underground. This rumor referred to _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_ by [Jeff Grubb](https://wowpedia.fandom.com/wiki/Jeff_Grubb "Jeff Grubb"), a novel that details the last weeks of (living) activity within the tower. [Lower Karazhan](https://wowpedia.fandom.com/wiki/Lower_Karazhan "Lower Karazhan")'s layout is the same as the above-ground areas, but reversed, with the layout of the top floor of the normal tower being the same as the layout of the bottom floor in this tower and so on. Medivh's secret chambers are at the very bottom.
+    -   This area makes its first in-game appearance in [Return to Karazhan](https://wowpedia.fandom.com/wiki/Return_to_Karazhan "Return to Karazhan") after [the Curator](https://wowpedia.fandom.com/wiki/The_Curator_(Return_to_Karazhan_tactics) "The Curator (Return to Karazhan tactics)") is defeated, with an upside-down Guardian's Library as the centerpiece. It is shown to be the same place due to the presence of the [Guardian's Study](https://wowpedia.fandom.com/wiki/Guardian%27s_Study "Guardian's Study"), where a scene of Anduin Lothar and Khadgar standing over Medivh's dead body plays - it was at the bottom of Lower Karazhan where Medivh was slain and that conversation played out in _The Last Guardian_.
+-   A curious easter egg is hidden below the tower outside the instance. If you can get under it, you can find a Smiley face on the ground.
+-   An abandoned village in [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass") can be seen from inside the instance, but the village doesn't exist in the outer game world. It can be explored by using spells such as  ![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Spell_nature_farsight.png/revision/latest/scale-to-width-down/16?cb=20070106055653)[\[Far Sight\]](https://wowpedia.fandom.com/wiki/Far_Sight) from [Nightbane](https://wowpedia.fandom.com/wiki/Nightbane_(tactics) "Nightbane (tactics)")'s terrace.
+-   Karazhan was originally planned to play a role in the event preceding the release of _[Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_, with a phased [scenario](https://wowpedia.fandom.com/wiki/Scenario "Scenario") taking place inside Karazhan. Players would have been sent to Karazhan to investigate its links to the destruction of the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"). However, this plan was scrapped before the expansion's beta.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-43">[43]</a></sup>
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   In _The Last Guardian_, Medivh theorized that the arcane explosion that formed the crater and the building of Karazhan itself only happened because some day he would come to live there.<sup id="cite_ref-LG_91-2_11-1"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-LG_91-2-11">[11]</a></sup> With the revelation in _Chronicle_ that Aegwynn built the tower and was at least partially manipulated by Sargeras within her,<sup id="cite_ref-Chronicle_44-0"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-Chronicle-44">[44]</a></sup> it's possible the construction was all a plan of Sargeras' to eventually use as his base while possessing Medivh. In addition, Sargeras also sent the necrolyte [Sataiel](https://wowpedia.fandom.com/wiki/Sataiel "Sataiel") to turn Deadwind Pass into a magical nexus in the first place,<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_note-45">[45]</a></sup> which was the reason it was chosen as Karazhan's location.
+-   It is likely that the inhabitants of the tower are not permanently killed after their defeat. It is supported by the returns of the Curator and Terestian Illhoof.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/WarCraft-Orcs%26Humans-Humans-Scenario8-Medivh%27sTower.png/revision/latest/scale-to-width-down/120?cb=20160417125158)](https://static.wikia.nocookie.net/wowpedia/images/3/39/WarCraft-Orcs%26Humans-Humans-Scenario8-Medivh%27sTower.png/revision/latest?cb=20160417125158)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Underkarasmiley.jpg/revision/latest/scale-to-width-down/120?cb=20100909025428)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Underkarasmiley.jpg/revision/latest?cb=20100909025428)
+    
+    The Smiley under Karazhan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Khar2.jpg/revision/latest/scale-to-width-down/120?cb=20060813163229)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Khar2.jpg/revision/latest?cb=20060813163229)
+    
+    Looking towards the sky.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Karazhan_-_Ghost_village.jpg/revision/latest/scale-to-width-down/120?cb=20170730213130)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Karazhan_-_Ghost_village.jpg/revision/latest?cb=20170730213130)
+    
+    The village outside the tower that only exists inside the instance.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Karazhan_%28film%29.jpg/revision/latest/scale-to-width-down/120?cb=20190408122429)](https://static.wikia.nocookie.net/wowpedia/images/2/21/Karazhan_%28film%29.jpg/revision/latest?cb=20190408122429)
+    
+-   [![Romulo and Julianne2.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Romulo_and_Julianne2.jpg/revision/latest/scale-to-width-down/102?cb=20141106122530)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Romulo_and_Julianne2.jpg/revision/latest?cb=20141106122530)
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/Return_to_Karazhan.jpg/revision/latest/scale-to-width-down/120?cb=20211204124853)](https://static.wikia.nocookie.net/wowpedia/images/3/34/Return_to_Karazhan.jpg/revision/latest?cb=20211204124853)
+    
+    "Return to Karazhan" by Z Smith
+    
+
+## Videos
+
+-   [The Story of Return to Karazhan](https://wowpedia.fandom.com/wiki/Karazhan#)
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-1) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, prologue
+2.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-LG_195,_250_2-0) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, pg. 195, 250
+3.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-3)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Holding the Lines](https://wowpedia.fandom.com/wiki/Holding_the_Lines)
+4.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-4) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 24
+5.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-5) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 31
+6.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-LG_2_6-0) _The Last Guardian, 2_
+7.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-LG_89_7-0) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, pg. 89
+8.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-8) [Tome of Blighted Implements](https://wowpedia.fandom.com/wiki/Tome_of_Blighted_Implements "Tome of Blighted Implements")
+9.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-9) [Archive of the Tirisgarde#Aluneth, Greatstaff of Magna](https://wowpedia.fandom.com/wiki/Archive_of_the_Tirisgarde#Aluneth,_Greatstaff_of_Magna "Archive of the Tirisgarde")
+10.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-10) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 152
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-LG_91-2_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-LG_91-2_11-1">b</a></sup> _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, pg. 91 - 92
+12.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-12) [Archive of the Tirisgarde#Ebonchill, Greatstaff of Alodi](https://wowpedia.fandom.com/wiki/Archive_of_the_Tirisgarde#Ebonchill,_Greatstaff_of_Alodi "Archive of the Tirisgarde")
+13.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-13) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, chapter 9
+14.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-Dark_Riders_14-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-Dark_Riders_14-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-Dark_Riders_14-2">c</a></sup> _[Dark Riders](https://wowpedia.fandom.com/wiki/Dark_Riders_(comic) "Dark Riders (comic)")_
+15.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-15) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 117
+16.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-16) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 118
+17.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-LG_306-8_17-0) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, pg. 306 - 308
+18.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-18) [Archmage Angela Dosantos#Quotes](https://wowpedia.fandom.com/wiki/Archmage_Angela_Dosantos#Quotes "Archmage Angela Dosantos")
+19.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-19) _[Warrior: Divided](https://wowpedia.fandom.com/wiki/Warrior:_Divided "Warrior: Divided")_
+20.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-20) _[Warrior: United](https://wowpedia.fandom.com/wiki/Warrior:_United "Warrior: United")_
+21.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-21) [Zones - Karazhan](http://us.battle.net/wow/en/zone/karazhan/)
+22.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-22) [Archmage Alturus#Quotes](https://wowpedia.fandom.com/wiki/Archmage_Alturus#Quotes "Archmage Alturus")
+23.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70\] [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar_(quest))
+24.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70\] [The Contact from Dalaran](https://wowpedia.fandom.com/wiki/Contact_from_Dalaran)
+25.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-25)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70R\] [A Demonic Presence](https://wowpedia.fandom.com/wiki/A_Demonic_Presence)
+26.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-26) _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_: _[Hard Choices](https://wowpedia.fandom.com/wiki/Hard_Choices "Hard Choices")_
+27.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-27)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70R\] [Chamber of Secrets](https://wowpedia.fandom.com/wiki/Chamber_of_Secrets)
+28.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-28) _[Harbingers](https://wowpedia.fandom.com/wiki/Harbingers "Harbingers")_
+29.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-29)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Hiding in the Stacks](https://wowpedia.fandom.com/wiki/Hiding_in_the_Stacks)
+30.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-30)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [The Diamond King](https://wowpedia.fandom.com/wiki/The_Diamond_King), **Archmage Khadgar says:** It is not every day a planet points me to my own library.
+31.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-31) [Viz'aduum the Watcher](https://wowpedia.fandom.com/wiki/Viz%27aduum_the_Watcher "Viz'aduum the Watcher") fight
+32.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-32)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[45\] [The Speaker's Perspective](https://wowpedia.fandom.com/wiki/The_Speaker%27s_Perspective)
+33.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-33)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[110\] [The Speaker's Call](https://wowpedia.fandom.com/wiki/The_Speaker%27s_Call)
+34.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-34) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 33
+35.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-LoC_44_35-0) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 44
+36.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-36) _[WoW Insider](https://wowpedia.fandom.com/wiki/WoW_Insider "WoW Insider")_, 2008-02-17.
+37.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-37)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60R\] [The Great Masquerade](https://wowpedia.fandom.com/wiki/The_Great_Masquerade)
+38.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-38) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, chapter 5
+39.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-39) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, chapter 9
+40.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-40) _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, chapter 6
+41.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-41) [New York Times article](http://www.nytimes.com/2005/02/10/technology/circuits/10warr.html?pagewanted=3)
+42.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-42) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_
+43.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-43) [Warlords of Draenor Dev Interviews, Proving Grounds Requirement in WoD, Blue Tweets](http://www.mmo-champion.com/content/3796-Warlords-of-Draenor-Dev-Interviews-Proving-Grounds-Requirement-in-WoD-Blue-Tweets) (2014-02-23).
+44.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-Chronicle_44-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 152
+45.  [^](https://wowpedia.fandom.com/wiki/Karazhan#cite_ref-45) [Legion: Warlock Artifact Reveal](http://us.battle.net/wow/en/blog/19941528/)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Deadwind_Pass "Template:Deadwind Pass")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Deadwind_Pass?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Deadwind Pass is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Deadwind Pass is a contested territory")
+
+ | 
+
+-   [Abandoned Kirin Tor Camp](https://wowpedia.fandom.com/wiki/Abandoned_Kirin_Tor_Camp "Abandoned Kirin Tor Camp")
+-   [Alturus' Sanctum](https://wowpedia.fandom.com/wiki/Alturus%27_Sanctum "Alturus' Sanctum")
+-   [Ariden's Camp](https://wowpedia.fandom.com/wiki/Ariden%27s_Camp "Ariden's Camp")
+-   [Forgotten Crypt](https://wowpedia.fandom.com/wiki/Forgotten_Crypt "Forgotten Crypt")
+    -   [Pauper's Walk](https://wowpedia.fandom.com/wiki/Pauper%27s_Walk "Pauper's Walk")
+    -   [The Slough of Dispair](https://wowpedia.fandom.com/wiki/Slough_of_Dispair "Slough of Dispair")
+    -   [The Upside-down Sinners](https://wowpedia.fandom.com/wiki/Upside-down_Sinners "Upside-down Sinners")
+    -   [The Pit of Criminals](https://wowpedia.fandom.com/wiki/Pit_of_Criminals "Pit of Criminals")
+    -   [Tome of the Unrepentant](https://wowpedia.fandom.com/wiki/Tome_of_the_Unrepentant "Tome of the Unrepentant")
+    -   [Well of the Forgotten](https://wowpedia.fandom.com/wiki/Well_of_the_Forgotten "Well of the Forgotten")
+-   [Deadman's Crossing](https://wowpedia.fandom.com/wiki/Deadman%27s_Crossing "Deadman's Crossing")
+-   [Deadwind Ravine](https://wowpedia.fandom.com/wiki/Deadwind_Ravine "Deadwind Ravine")
+-   **Karazhan**
+-   [Karazhan Catacombs](https://wowpedia.fandom.com/wiki/Karazhan_Catacombs "Karazhan Catacombs")
+-   [The Master's Cellar](https://wowpedia.fandom.com/wiki/Master%27s_Cellar "Master's Cellar")
+-   [Morgan's Plot](https://wowpedia.fandom.com/wiki/Morgan%27s_Plot "Morgan's Plot")
+-   [Sleeping Gorge](https://wowpedia.fandom.com/wiki/Sleeping_Gorge "Sleeping Gorge")
+-   [The Vice](https://wowpedia.fandom.com/wiki/Vice "Vice")
+    -   [Grosh'gok Compound](https://wowpedia.fandom.com/wiki/Grosh%27gok_Compound "Grosh'gok Compound")
+
+
+
+ | 
+
+[![Map of Deadwind Pass - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/a/af/WorldMap-DeadwindPass.jpg/revision/latest/scale-to-width-down/120?cb=20100919013649)](https://static.wikia.nocookie.net/wowpedia/images/a/af/WorldMap-DeadwindPass.jpg/revision/latest?cb=20100919013649 "Map of Deadwind Pass - Cataclysm")  
+[![Map of Deadwind Pass - Classic](https://static.wikia.nocookie.net/wowpedia/images/8/85/WorldMap-DeadwindPass-old.jpg/revision/latest/scale-to-width-down/120?cb=20071104181022)](https://static.wikia.nocookie.net/wowpedia/images/8/85/WorldMap-DeadwindPass-old.jpg/revision/latest?cb=20071104181022 "Map of Deadwind Pass - Classic")
+
+ |
+|  |
+| 
+
+[Deadwind Pass category](https://wowpedia.fandom.com/wiki/Category:Deadwind_Pass "Category:Deadwind Pass")
+
+
+
+ |

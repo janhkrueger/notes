@@ -1,0 +1,181 @@
+_This article is about the lore. For the raid, see [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City"). For the raid subzone, see [Ny'alotha (subzone)](https://wowpedia.fandom.com/wiki/Ny%27alotha_(subzone) "Ny'alotha (subzone)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Ny'alotha |
+| --- |
+| [![Visions of N'Zoth key art.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/db/Visions_of_N%27Zoth_key_art.jpg/revision/latest/scale-to-width-down/260?cb=20200114213909)](https://static.wikia.nocookie.net/wowpedia/images/d/db/Visions_of_N%27Zoth_key_art.jpg/revision/latest?cb=20200114213909) |
+| Races | [![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/8/8a/IconSmall_FacelessGeneral.gif/revision/latest/scale-to-width-down/16?cb=20181111161022)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/8/8e/IconSmall_FacelessoftheDeep.gif/revision/latest/scale-to-width-down/16?cb=20181111155323)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/d/d2/IconSmall_FacelessShadoweaver.gif/revision/latest/scale-to-width-down/16?cb=20181111155337)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/a/aa/IconSmall_FacelessOne.gif/revision/latest/scale-to-width-down/16?cb=20181111155312)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")  
+[![IconSmall Aqir.gif](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_Aqir.gif/revision/latest/scale-to-width-down/16?cb=20200518160912)](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_Aqir.gif/revision/latest?cb=20200518160912) [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir") |
+| Ruler(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/95/IconSmall_N%27Zoth.gif/revision/latest/scale-to-width-down/16?cb=20210410181855)[N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") <sup>&nbsp;†</sup> |
+| Affiliation | [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") |
+| Status | Destroyed |
+
+“In my research, I came across references to a place called Ny'alotha. A sleeping city of numberless crimes, where only dark things walk. But the [Void](https://wowpedia.fandom.com/wiki/Void "Void") deals in potentials... possibilities. Perhaps this Ny'alotha is not so much a physical location on Azeroth as it is a vision waiting to be made real.”
+
+— [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-1">[1]</a></sup>
+
+**Ny'alotha** (pronounced [/ˌnaɪəˈləʊθə/](http://en.wikipedia.org/wiki/WP:IPA_for_English "wikipedia:WP:IPA for English")), also known as the **Sleeping City**<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-2">[2]</a></sup><sup id="cite_ref-Whispers_in_the_Dark_3-0"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Whispers_in_the_Dark-3">[3]</a></sup><sup id="cite_ref-Content_Preview_4-0"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Content_Preview-4">[4]</a></sup> the **Dreaming City**,<sup id="cite_ref-Content_Preview_4-1"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Content_Preview-4">[4]</a></sup> the **Waking City**,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-5">[5]</a></sup> and the **Sunken City**,<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-6">[6]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-7">[7]</a></sup> is an alternate reality<sup id="cite_ref-Content_Preview_4-2"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Content_Preview-4">[4]</a></sup><sup id="cite_ref-Millenium_8-0"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Millenium-8">[8]</a></sup> inhabited by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") and their minions. It depicts a future in which the Old Gods' ancient [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") has been restored and completely conquered [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), and thus reflects the manifestation of all of the Old God [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")'s goals and his vision for the future of Azeroth made real.<sup id="cite_ref-Whispers_in_the_Dark_3-1"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Whispers_in_the_Dark-3">[3]</a></sup><sup id="cite_ref-Content_Preview_4-3"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Content_Preview-4">[4]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-9">[9]</a></sup><sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-10">[10]</a></sup> After being freed from his [titan prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison") during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), N'Zoth began trying to tear down the veil separating Ny'alotha from the physical world<sup id="cite_ref-Content_Preview_4-4"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Content_Preview-4">[4]</a></sup> in order to merge the two realities into one and thereby transform Azeroth into the Black Empire.<sup id="cite_ref-Millenium_8-1"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Millenium-8">[8]</a></sup><sup id="cite_ref-Opening_the_Gateway_11-0"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Opening_the_Gateway-11">[11]</a></sup><sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-12">[12]</a></sup> This would also erase all that previously was.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-13">[13]</a></sup>
+
+[Black Empire Obelisks](https://wowpedia.fandom.com/wiki/Black_Empire_Obelisk "Black Empire Obelisk") are what anchor Ny'alotha to reality, allowing its denizens and structures to manifest in the real world.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-14">[14]</a></sup> Creations of the Old Gods that die in reality seem to return to Ny'alotha,<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-15">[15]</a></sup><sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-16">[16]</a></sup> or at least they did before it was destroyed.
+
+Ny'alotha is the setting of the [raid instance of the same name](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City"). Players can also enter Ny'alotha through [Lesser](https://wowpedia.fandom.com/wiki/Vision_of_N%27Zoth#Lesser_Visions "Vision of N'Zoth") and [Horrific Visions of N'Zoth](https://wowpedia.fandom.com/wiki/Vision_of_N%27Zoth#Horrific_Visions "Vision of N'Zoth"), depicting versions of [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum"), the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms"), [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"), and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") that have fallen to N'Zoth's influence. The  ![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Trade_archaeology_nerubian_obelisk.png/revision/latest/scale-to-width-down/16?cb=20180216084106)[\[Awakened\]](https://wowpedia.fandom.com/wiki/Awakened_(affix)) affix in [Mythic+](https://wowpedia.fandom.com/wiki/Mythic%2B "Mythic+") dungeons causes the appearance of obelisks that allow players to temporarily cross over into Ny'alotha and confront powerful servants of N'Zoth.
+
+## History
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Ny%27alotha_destruction.jpg/revision/latest/scale-to-width-down/180?cb=20200216235704)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Ny%27alotha_destruction.jpg/revision/latest?cb=20200216235704)
+
+Ny'alotha's destruction upon N'Zoth's death.
+
+The [events](https://wowpedia.fandom.com/wiki/Nazjatar_Campaign "Nazjatar Campaign") within the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") have set the stage for the Old God N'Zoth's release from his titanwrought prison, and the Sleeping City of Ny'alotha has awakened. Under N'Zoth's command, the nightmarish armies of the Black Empire threaten to engulf the world and reshape it according to their master's vision.<sup id="cite_ref-Visions_of_N'Zoth_Goes_Live_17-0"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Visions_of_N'Zoth_Goes_Live-17">[17]</a></sup> As part of the Old God's efforts to bring Ny'alotha into being, N'Zoth's minions tried to corrupt the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination") in order to reshape Azeroth into the Black Empire.<sup id="cite_ref-Opening_the_Gateway_11-1"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Opening_the_Gateway-11">[11]</a></sup><sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-18">[18]</a></sup> The [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of Azeroth venture deep into the horrific realm to confront mad heralds and inscrutable horrors, and ultimately go eye-to-eyes with N'Zoth himself for one final confrontation against the Old God in a fateful battle for Azeroth's survival.<sup id="cite_ref-Visions_of_N'Zoth_Goes_Live_17-1"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-Visions_of_N'Zoth_Goes_Live-17">[17]</a></sup> N'Zoth and Ny'alotha were ultimately destroyed together when Azeroth's [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") used the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth) to fire the powers of the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"), empowered by the [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha"), upon the corruptor.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-19">[19]</a></sup>
+
+After the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan") reported that soldiers who described the place gave two different descriptions. It was Wrathion who gave the clearest recounting and said that it was like a nightmare that the Old God's minions were trying to make real. Zekhan added that he was glad for the heroes with a sound mind that rose up and drove Ny'alotha back into slumber.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-20">[20]</a></sup>
+
+## Previous mentions
+
+Before Ny'alotha's true nature was revealed in [patch 8.3](https://wowpedia.fandom.com/wiki/Patch_8.3.0 "Patch 8.3.0"), it had been mentioned by various objects and servants of the Old Gods since as far back as _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.
+
+## Notes and trivia
+
+-   The name Ny'alotha may be derived from [Nyarlathotep](http://en.wikipedia.org/wiki/Nyarlathotep "wikipedia:Nyarlathotep"), a deity from [H.P. Lovecraft](http://en.wikipedia.org/wiki/H.P._Lovecraft "wikipedia:H.P. Lovecraft")'s [Cthulhu Mythos](http://en.wikipedia.org/wiki/Cthulhu_Mythos "wikipedia:Cthulhu Mythos"). Notably, Ny'alotha's description as a "city of old, terrible, unnumbered crimes" is similar to a line from Lovecraft's 1920 short story _[Nyarlathotep](http://en.wikipedia.org/wiki/Nyarlathotep_(short_story) "wikipedia:Nyarlathotep (short story)")_, in which the narrator describes their home town as "the great, the old, the terrible city of unnumbered crimes". Ny'alotha's actual appearance may be inspired by [R'lyeh](http://en.wikipedia.org/wiki/R%27lyeh "wikipedia:R'lyeh"), the underwater city where Cthulhu slept, or Y'ha-nthlei, an ancient sunken city of the [Deep Ones](http://en.wikipedia.org/wiki/Deep_One "wikipedia:Deep One").
+-   Ny'alotha's architecture resembles [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj "Ahn'Qiraj"). In lore, it is probably the other way around: that the qiraji modeled Ahn'Qiraj after the Black Empire.
+-   Ny'alotha is similar to the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"), both being alternate planes that are born from the dreams of powerful entities. For Ny'alotha, it is the Old Gods, and for the Emerald Dream it is [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)").
+-   Ny'alotha does not obey the rules of space and time.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Ny%27alotha#cite_note-21">[21]</a></sup>
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   Ny'alotha could be the city that [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") formerly ruled over before being defeated by the titans.
+-   Various Old God-related realms like the [Twilight Realm](https://wowpedia.fandom.com/wiki/Twilight_Realm "Twilight Realm"), the [Realm of Y'Shaarj](https://wowpedia.fandom.com/wiki/Realm_of_Y%27Shaarj "Realm of Y'Shaarj"), the [Dread Expanse](https://wowpedia.fandom.com/wiki/Dread_Expanse "Dread Expanse"), and [Za'qul](https://wowpedia.fandom.com/wiki/Za%27qul "Za'qul")'s Fear and Delirium realms may be related to Ny'alotha.
+-   The alternate dimension inhabited by the [consumers of souls](https://wowpedia.fandom.com/wiki/Consumer_of_souls "Consumer of souls") in the [Brawler's Guild](https://wowpedia.fandom.com/wiki/Brawler%27s_Guild "Brawler's Guild") may be Ny'alotha.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/31/CThunPreHistory.jpg/revision/latest/scale-to-width-down/120?cb=20210405012216)](https://static.wikia.nocookie.net/wowpedia/images/3/31/CThunPreHistory.jpg/revision/latest?cb=20210405012216)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Ny%27alotha.png/revision/latest/scale-to-width-down/120?cb=20200216180301)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Ny%27alotha.png/revision/latest?cb=20200216180301)
+    
+
+## References
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth "Template:Azeroth")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth?action=edit)
+
+Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https://wowpedia.fandom.com/wiki/Sea "Sea"), [continents](https://wowpedia.fandom.com/wiki/Continent "Continent") and other [locations](https://wowpedia.fandom.com/wiki/Location "Location") of the [world](https://wowpedia.fandom.com/wiki/Planet "Planet") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |
+|  |
+| [Continents](https://wowpedia.fandom.com/wiki/Continent "Continent") | 
+
+-   [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
+    -   [Balor](https://wowpedia.fandom.com/wiki/Balor "Balor")
+    -   [Channel Islands](https://wowpedia.fandom.com/wiki/Channel_Islands "Channel Islands")
+        -   [Zul'Dare](https://wowpedia.fandom.com/wiki/Zul%27Dare "Zul'Dare")
+-   [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor")
+    -   [Seething Shore](https://wowpedia.fandom.com/wiki/Seething_Shore "Seething Shore")
+-   [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+    -   [Isle of Conquest](https://wowpedia.fandom.com/wiki/Isle_of_Conquest "Isle of Conquest")
+    -   [Strand of the Ancients](https://wowpedia.fandom.com/wiki/Strand_of_the_Ancients "Strand of the Ancients")
+-   [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria")
+    -   [Snowblossom](https://wowpedia.fandom.com/wiki/Snowblossom_Village "Snowblossom Village")
+
+
+
+ | 
+
+[![Map of Azeroth](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/120?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450 "Map of Azeroth")
+
+ |
+|  |
+| [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") | 
+
+-   [Barren Atol](https://wowpedia.fandom.com/wiki/Barren_Atol "Barren Atol")
+-   [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles")
+-   [Coral Sea](https://wowpedia.fandom.com/wiki/Coral_Sea "Coral Sea")
+-   [Darkmoon Island](https://wowpedia.fandom.com/wiki/Darkmoon_Island "Darkmoon Island")
+-   [Darkspear Islands](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands")
+-   [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles")
+-   [The Frozen Sea](https://wowpedia.fandom.com/wiki/Frozen_Sea "Frozen Sea")
+-   [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras")
+    -   [Crestfall](https://wowpedia.fandom.com/wiki/Crestfall "Crestfall")
+-   [The Lost Isles](https://wowpedia.fandom.com/wiki/Lost_Isles "Lost Isles")
+-   [The Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ominous island](https://wowpedia.fandom.com/wiki/Ominous_island "Ominous island")
+-   [South Seas](https://wowpedia.fandom.com/wiki/South_Seas "South Seas")
+    -   [Kezan](https://wowpedia.fandom.com/wiki/Kezan "Kezan")
+    -   [Plunder Isle](https://wowpedia.fandom.com/wiki/Plunder_Isle "Plunder Isle")
+    -   [Tel'Abim](https://wowpedia.fandom.com/wiki/Tel%27Abim "Tel'Abim")
+    -   [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar")
+-   [Third Fleet shipwrecks](https://wowpedia.fandom.com/wiki/Third_Fleet_shipwrecks "Third Fleet shipwrecks")
+-   [Uncharted Island](https://wowpedia.fandom.com/wiki/Uncharted_Island "Uncharted Island")
+
+
+
+ |
+|  |
+| Other [seas](https://wowpedia.fandom.com/wiki/Sea "Sea")  
+and [islands](https://wowpedia.fandom.com/wiki/Island "Island") | 
+
+-   [The Forbidding Sea](https://wowpedia.fandom.com/wiki/Forbidding_Sea "Forbidding Sea")
+-   [Island Expeditions](https://wowpedia.fandom.com/wiki/Island_Expedition#Islands "Island Expedition")
+-   [The North Sea](https://wowpedia.fandom.com/wiki/North_Sea "North Sea")
+    -   [Exile's Reach](https://wowpedia.fandom.com/wiki/Exile%27s_Reach "Exile's Reach")
+    -   [The Lost Glacier](https://wowpedia.fandom.com/wiki/Lost_Glacier "Lost Glacier")
+-   [Ogrezonia](https://wowpedia.fandom.com/wiki/Ogrezonia "Ogrezonia")
+-   [Skelton Isle](https://wowpedia.fandom.com/wiki/Skelton_Isle "Skelton Isle")
+-   [The Veiled Sea](https://wowpedia.fandom.com/wiki/Veiled_Sea "Veiled Sea")
+-   [The Wandering Isle](https://wowpedia.fandom.com/wiki/Wandering_Isle "Wandering Isle")
+-   [Uncharted Isle](https://wowpedia.fandom.com/wiki/Uncharted_Isle "Uncharted Isle")
+
+
+
+ |
+|  |
+| Miscellaneous | 
+
+-   [Avaloren](https://wowpedia.fandom.com/wiki/Avaloren "Avaloren")
+-   [Khaz Algar](https://wowpedia.fandom.com/wiki/Khaz_Algar "Khaz Algar")
+-   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+
+
+
+ |
+|  |
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+
+-   [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane")
+-   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
+-   **Ny'alotha**
+-   [Pocket dimensions](https://wowpedia.fandom.com/wiki/Plane#Pocket_dimensions "Plane")
+
+
+
+ |
+|  |
+| 
+
+[Azeroth category](https://wowpedia.fandom.com/wiki/Category:Azeroth "Category:Azeroth")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+
+Others like you also viewed

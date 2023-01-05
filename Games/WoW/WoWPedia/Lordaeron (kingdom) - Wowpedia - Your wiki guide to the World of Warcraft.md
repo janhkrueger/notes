@@ -1,0 +1,1031 @@
+_This article is about the fallen human kingdom. For the continent, see [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). For other uses, see [Lordaeron (disambiguation)](https://wowpedia.fandom.com/wiki/Lordaeron_(disambiguation) "Lordaeron (disambiguation)")._
+
+| [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/25/Alliance_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")Kingdom of Lordaeron |
+| --- |
+| [![Warcraft III Reforged - Humans Icon.png](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Warcraft_III_Reforged_-_Humans_Icon.png/revision/latest/scale-to-width-down/260?cb=20210227010752)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Warcraft_III_Reforged_-_Humans_Icon.png/revision/latest?cb=20210227010752) |
+| Main leader |  ![](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Terenas.gif/revision/latest/scale-to-width-down/16?cb=20211214091753)[King Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") <sup>&nbsp;†</sup> |
+| Secondary leaders |  ![](https://static.wikia.nocookie.net/wowpedia/images/3/33/IconSmall_Calia.gif/revision/latest/scale-to-width-down/16?cb=20191021113651)[Princess Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/IconSmall_Uther.gif/revision/latest/scale-to-width-down/16?cb=20220620195102)[Lord Uther Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") <sup>&nbsp;†</sup>  
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Nobles of Lordaeron](https://wowpedia.fandom.com/wiki/Nobles_of_Lordaeron "Nobles of Lordaeron") |
+|   Formerly |  ![](https://static.wikia.nocookie.net/wowpedia/images/5/50/IconSmall_Arthas.gif/revision/latest/scale-to-width-down/16?cb=20200521105558)[Prince Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)[Queen Lianne Menethil](https://wowpedia.fandom.com/wiki/Lianne_Menethil "Lianne Menethil") <sup>&nbsp;†</sup> |
+| Race(s) | [![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
+[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")<sup id="cite_ref-RotLK_1-0"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-RotLK-1">[1]</a></sup> |
+| Capital | [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City")<sup id="cite_ref-capital_2-0"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-capital-2">[2]</a></sup> |
+| Theater of operations | [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"); [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
+| Government | Hereditary monarchy  
+([House of Menethil](https://wowpedia.fandom.com/wiki/House_of_Menethil "House of Menethil")) |
+| Language(s) | [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"), [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), [Dwarven](https://wowpedia.fandom.com/wiki/Dwarven_(language) "Dwarven (language)"), [Gnomish](https://wowpedia.fandom.com/wiki/Gnomish_(language) "Gnomish (language)") |
+| Affiliation | [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-3">[3]</a></sup> |
+| Status | Defunct  
+[Heavily crippled](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron") and [subsequently destroyed](https://wowpedia.fandom.com/wiki/The_Wreckage_of_Lordaeron_(WC3_Orc) "The Wreckage of Lordaeron (WC3 Orc)"). Some remnants and survivors allied with or became members of the current [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn"), and/or other [independent](https://wowpedia.fandom.com/wiki/Independent "Independent") [organizations](https://wowpedia.fandom.com/wiki/Organization "Organization") |
+| Reputation |
+| Tabard | [![Lordaeron tapestry.jpg](https://static.wikia.nocookie.net/wowpedia/images/2/21/Lordaeron_tapestry.jpg/revision/latest/scale-to-width-down/90?cb=20190301004514)](https://static.wikia.nocookie.net/wowpedia/images/2/21/Lordaeron_tapestry.jpg/revision/latest?cb=20190301004514) |
+
+The **Kingdom of Lordaeron**<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-4">[4]</a></sup> (or the **Lordaeron Empire**)<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-5">[5]</a></sup> was a [human](https://wowpedia.fandom.com/wiki/Human "Human") [kingdom](https://wowpedia.fandom.com/wiki/Kingdom "Kingdom") primarily located along the [northern territories](https://wowpedia.fandom.com/wiki/Northlands "Northlands") of the [homonymous continent](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). Originally an [Arathorian](https://wowpedia.fandom.com/wiki/Arathor "Arathor") city-state, it was an empire by the time of its fall during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").
+
+Ruled by the [Menethil](https://wowpedia.fandom.com/wiki/Menethil "Menethil") family, the kingdom took part in the birth of the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") shortly before the start of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"). The kingdom of Lordaeron spearheaded the Alliance forces during the campaign against the [Orcish Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") during the war. Unfortunately, the nation would be almost entirely consumed by the [undead Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), which occurred fourteen years later.
+
+Lordaeron's territories are presently contested between the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade"), the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), and the remnants of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").
+
+The [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") used to completely control the core regions of the ruined human kingdom which include, in some degree, [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest"), and [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"), and also had a significant presence in the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands") to the east.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-6">[6]</a></sup> The destruction of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") and the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") drastically reshaped the balance of power in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), with the Alliance rebuilding [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore")<sup id="cite_ref-Exploring_Azeroth:_The_Eastern_Kingdoms_7-0"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-Exploring_Azeroth:_The_Eastern_Kingdoms-7">[7]</a></sup> and having contested [Durnholde Keep](https://wowpedia.fandom.com/wiki/Durnholde_Keep "Durnholde Keep").
+
+## History
+
+[![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up"). Reason: **The Vrykul and Arathor sections could use a bit of trimming; pre-kingdom of Lordaeron info should be more concise.**
+
+### The Vrykul
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Hand_of_Tyr.jpg/revision/latest/scale-to-width-down/180?cb=20160317181706)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Hand_of_Tyr.jpg/revision/latest?cb=20160317181706)
+
+Hand of Tyr.
+
+When [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken"), the Titanic Watcher left in charge of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") fell to corruption, the titan watcher, [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr"), and his allies stole the [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon") to investigate the extent of Loken's betrayal; fleeing south. Discovering the theft, Loken sent horrific monsters after Tyr's group, but Tyr sacrificed his life to fight the creatures while his comrades escaped with the discs. The [C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") [generals](https://wowpedia.fandom.com/wiki/General_(rank) "General (rank)") [Zakazj](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor") and [Kith'ix](https://wowpedia.fandom.com/wiki/Kith%27ix "Kith'ix") engaged in combat with Tyr, the conflict ending with Tyr and Zakazj dead while the wounded Kith'ix fled to the west. The area was dubbed as "[Tyr's Fall](https://wowpedia.fandom.com/wiki/Tyr%27s_Fall "Tyr's Fall")" which in the [vrykul tongue](https://wowpedia.fandom.com/wiki/Vrykul_(language) "Vrykul (language)") translated to "Tirisfal". They buried Tyr and his foe where they lay and placed Tyr's massive silver hand atop his final resting place as a memorial to his valiant sacrifice. The peaceful [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") that were accompanying the [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") wanted to further honor Tyr and decided to settle near the battlefield and protect the [Tomb of Tyr](https://wowpedia.fandom.com/wiki/Tomb_of_Tyr "Tomb of Tyr"); their allies respecting their wishes, though the other watchers and their creations continued further south.
+
+Over time, the area became a place of legend for the vrykul people in [northern Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)"). Fleeing to this place following dictations from [King Ymiron](https://wowpedia.fandom.com/wiki/King_Ymiron "King Ymiron") to slaughter all malformed infants born as a result of the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh"); the vrykul and their children settled within Tirisfal Glades, transforming into beings called [humans](https://wowpedia.fandom.com/wiki/Human "Human").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-8">[8]</a></sup> The remaining Vrykul of Tyr's group had formed the [Tyr's Guard](https://wowpedia.fandom.com/wiki/Tyr%27s_Guard "Tyr's Guard"). Knowing they would not live forever; they allowed the humans to join the order.<sup id="cite_ref-Libram_9-0"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-Libram-9">[9]</a></sup> The humans that lived here were the [Tirisfal tribe](https://wowpedia.fandom.com/wiki/Lordain%27s_tribe "Lordain's tribe") of humans; laying the seeds of what would become the kingdom of Lordaeron.
+
+### Arathor
+
+The humans that lived in Tirisfal were led by the great warrior named [Lordain](https://wowpedia.fandom.com/wiki/Lordain "Lordain"), and were considered more refined than the uncouth and savage humans from the [mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains"). The human tribes of Tirisfal were religious people and had the custom to perform rituals in their shrines across the region. [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr")'s [Silver Hand](https://wowpedia.fandom.com/wiki/The_Silver_Hand_(artifact) "The Silver Hand (artifact)") was considered sacred by them, and they even had pendants with its image.<sup id="cite_ref-Saga_of_the_Valarjar_10-0"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-Saga_of_the_Valarjar-10">[10]</a></sup><sup id="cite_ref-Chronicle_11-0"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-Chronicle-11">[11]</a></sup> This was the only tribe powerful enough to end [Thoradin](https://wowpedia.fandom.com/wiki/Thoradin "Thoradin")'s dream of uniting humanity.<sup id="cite_ref-Saga_of_the_Valarjar_10-1"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-Saga_of_the_Valarjar-10">[10]</a></sup> Unlike the [Alteraci](https://wowpedia.fandom.com/wiki/Alteraci_tribe "Alteraci tribe"), the humans of Tirisfal did not submit to shows of force, and to win their loyalty, Thoradin had to appeal to their religious beliefs. The proclaimed human king and his personal guards made a pilgrimage to Tirisfal's shrines and sacred groves, where Thoradin performed their usual rituals; including wearing a silver hand pendant.
+
+At the end of the pilgrimage, Thoradin finally met with the tribe's leader, Lordain. The king pledged that if they joined him, he would adopt their religious ways and spread them among the [Arathi](https://wowpedia.fandom.com/wiki/Arathi_tribe "Arathi tribe"). To seal this promise, Thoradin ran his palm along the blade of his own sword, [Strom'kar](https://wowpedia.fandom.com/wiki/Strom%27kar,_the_Warbreaker "Strom'kar, the Warbreaker"), and mixed his blood with the earth of the Tirisfal Glades while saying: "Between our people, let this be the only blood we spill." And with that, the humans of Tirisfal bent the knee to their new king, with Lordain becoming one of his generals.<sup id="cite_ref-Saga_of_the_Valarjar_10-2"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-Saga_of_the_Valarjar-10">[10]</a></sup> Lordain's sister, [Mereldar](https://wowpedia.fandom.com/wiki/Mereldar "Mereldar"), was one of the first human followers of the [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light"), which was adopted by the Arathi as per Thoradin's promise. This would eventually give rise to the [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-12">[12]</a></sup>
+
+During the final days of the [Troll Wars](https://wowpedia.fandom.com/wiki/Troll_Wars "Troll Wars"), while King Thoradin and his forces were retreating to [Alterac Fortress](https://wowpedia.fandom.com/wiki/Alterac_Fortress "Alterac Fortress"), the Amani began to gain terrain on the humans fast, threatening to flank and overwhelm Arathor's armies. To avert disaster, General Lordain volunteered to hold back the [forest trolls](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll"), knowing he would not survive. Lordain and his warriors died fighting valiantly, but their sacrifice secured the victory for Arathor and [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"). After the Troll Wars, many of Arathor's soldiers migrated to the fertile lands of Tirisfal where the Arathi established a central stronghold in a region which the veterans renamed as "[Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron")" in Lordain's honor.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-13">[13]</a></sup> Years later, when Arathor was fracturing, the nobles of [Strom](https://wowpedia.fandom.com/wiki/Strom "Strom") departed for the fertile valleys of the north in which they would found a city-state and named it after the surrounding region, [Lordaeron](https://wowpedia.fandom.com/wiki/Capital_City "Capital City").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-14">[14]</a></sup>
+
+### First War
+
+During the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), [King Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn_I "Llane Wrynn I") of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") dispatched messengers to the other human kingdoms, warning of [mysterious, fearsome green-skinned invaders](https://wowpedia.fandom.com/wiki/Orc "Orc"). However, no help was received as the reports were not believed. Lordaeron was considered the most likely nation to help. However, [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") disguised as a visiting Stormwind noble openly mocked King Llane and claimed the threat was actually a rebellion of disgruntled citizens, causing Lordaeron to only politely wish Llane luck with his troubles.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-15">[15]</a></sup>
+
+### The Alliance of Lordaeron and the Second War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Chronicle2_Death_knights_versus_paladins.jpg/revision/latest/scale-to-width-down/180?cb=20180310192859)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Chronicle2_Death_knights_versus_paladins.jpg/revision/latest?cb=20180310192859)
+
+The [Battle of Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Battle_of_Hillsbrad_Foothills "Battle of Hillsbrad Foothills") was one of the earliest of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War").
+
+Following the opening of the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") and the ending of the First War, the nation of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") fell to the [Orcish Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde"), and no long after the [dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") region of [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") shared the same fate. [Refugees](https://wowpedia.fandom.com/wiki/Refugee#Exodus_of_Stormwind "Refugee") from Stormwind, led by Lord [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar"), fled across the sea to the southern shores of the continent of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). There, Lothar and the young [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") convinced the leaders of the [human nations](https://wowpedia.fandom.com/wiki/Seven_Kingdoms "Seven Kingdoms"), as well as the dwarven refugees of [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)"), the [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") of [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan"), and the proud [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), to join forces in the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron").
+
+Under the leadership of [King Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") and Lord Lothar, the Alliance was victorious in the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), pushing the Horde back to the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"), and destroying the gateway to the orcs' homeworld. Lothar fell in the assault on [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire"), and with the loss of his political skill, rifts developed between the Alliance nations. The main issue of dispute was a tax levied by King Terenas to finance the internment of the orcs. Though Lordaeron attempted to retain its central role, several nations pulled their support from the Alliance. Only [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") stood fast in its commitment to the Alliance, although the distance between the kingdoms of Stormwind and Lordaeron made their union a hollow one.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-16">[16]</a></sup> Following the war, many [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") refugees decided to stay in Lordaeron.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-17">[17]</a></sup>
+
+After the end of the Second War, Lordaeron built a military outpost along the borders of the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains"). The outpost was raided by the [Horde of Draenor](https://wowpedia.fandom.com/wiki/Horde_of_Draenor "Horde of Draenor") in order to get the [Book of Medivh](https://wowpedia.fandom.com/wiki/Book_of_Medivh "Book of Medivh") back from the [Alteraci](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)").<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-18">[18]</a></sup>
+
+### The Third War and the Scourging of Lordaeron
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Scourge_v_Alliance_in_the_Third_War.jpg/revision/latest/scale-to-width-down/180?cb=20180911125127)](https://static.wikia.nocookie.net/wowpedia/images/9/94/Scourge_v_Alliance_in_the_Third_War.jpg/revision/latest?cb=20180911125127)
+
+The [Scourging of Lordaeron](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron").
+
+Following years of debate over the internment of the orcs, the [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned") led by [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") emerged and a [plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") appeared in the north of Lordaeron. As it spread throughout the towns and cities of Lordaeron, one after another fell to the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), most notably [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") and [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"). After Stratholme was purged, some former paladins, now called [Deathlords](https://wowpedia.fandom.com/wiki/Deathlord_(Warcraft_III) "Deathlord (Warcraft III)"), committed the same heinous act in many other cities across Lordaeron, but after years of constant war and suffering, some [members](https://wowpedia.fandom.com/wiki/Heretics "Heretics") of the [clergy](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light") also lost their sense of the [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light").
+
+Finally, with the corruption of the heir to the throne of Lordaeron, Prince [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), the capital city itself succumbed. Arthas's captains, [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric") and [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn"), were responsible for the slaughter of the aristocracy. Thus, in an ironic twist of fate, it was Lordaeron that lay in ruins, with refugees streaming to [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") and [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)").<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-19">[19]</a></sup> Many others later fled with [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") while remnants of the Lordaeron armies remained. After King Terenas was murdered and Capital City fell, the Scourge army swept across Lordaeron. Neighboring human and dwarven nations converged on Lordaeron to vanquish the Scourge. Even the elven [kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), no longer an Alliance member, sent their priests to help defeat the undead. The Scourge was numerous and defeated any resistance. Ultimately, the Scourge took Lordaeron.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-20">[20]</a></sup>
+
+Arthas briefly assumed the title of King, and ruled as an agent of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), before the eruption of a [civil war](https://wowpedia.fandom.com/wiki/Plaguelands_civil_war "Plaguelands civil war") between his forces, the remaining [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents "Dreadlord Insurgents"), and the [free undead](https://wowpedia.fandom.com/wiki/Sylvanas%27_Forces "Sylvanas' Forces") (later known as the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")) led by [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"). While Arthas was summoned to Northrend to defend the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), Windrunner's forces, with the help of a traitor [Dreadlord](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras"), and the remaining [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") forces under Grand Marshal [Othmar Garithos](https://wowpedia.fandom.com/wiki/Othmar_Garithos "Othmar Garithos")— whom Sylvanas tricked into helping her— achieved a victory over the other dreadlords and the Undead they controlled. After the final battle, Sylvanas betrayed the Alliance remnants she allied with by ordering Varimathras and her Forsaken to kill Garithos and to slaughter the remaining Alliance resistance forces. Afterwards, they claimed the ruined former capital of Lordaeron (the "[Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")"), under which they inhabited the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity").
+
+Some Lordaeron refugees managed to get to [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"). [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") and [Flynn Fairwind](https://wowpedia.fandom.com/wiki/Flynn_Fairwind "Flynn Fairwind") believe that refugees of Lordaeron must have wanted a way to honor their fallen king, so they buried [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II")'s [crown](https://wowpedia.fandom.com/wiki/Bloodied_crown "Bloodied crown") in an unmarked grave at the lighthouse in [Stormwind Harbor](https://wowpedia.fandom.com/wiki/Stormwind_Harbor "Stormwind Harbor").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-21">[21]</a></sup>
+
+### Post-war period
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Chron3_map_of_EK_after_the_Third_War.jpg/revision/latest/scale-to-width-down/180?cb=20180328212835)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Chron3_map_of_EK_after_the_Third_War.jpg/revision/latest?cb=20180328212835)
+
+Lordaeron after the Third War.
+
+After the collapse of Lordaeron, the kingdom's territories were broken down into four major groups, those who simply claimed to be remnants of Lordaeron, the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), and the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn").
+
+The first were the folk of southern Lordaeron which remained loyal to the Alliance. These humans once controlled two towns, Southshore and Hillsbrad Fields. Southshore was the most important of these townships, and the only port north of the [Thandol Span](https://wowpedia.fandom.com/wiki/Thandol_Span "Thandol Span") under Alliance control. To the north, nestled in the rolling foothills of Alterac laid the rich [Hillsbrad Fields](https://wowpedia.fandom.com/wiki/Hillsbrad_Fields "Hillsbrad Fields"). The town controlled an important mine on the coast, [Azurelode Mine](https://wowpedia.fandom.com/wiki/Azurelode_Mine "Azurelode Mine"). These towns found some support from neighboring forces; such as the [Stormpike Guard](https://wowpedia.fandom.com/wiki/Stormpike_Guard "Stormpike Guard") and the shielded Dalaran. West of Hillsbrad, the Gilnean towns of [Pyrewood Village](https://wowpedia.fandom.com/wiki/Pyrewood_Village "Pyrewood Village") and [Ambermill](https://wowpedia.fandom.com/wiki/Ambermill "Ambermill") were also friendly; the latter of which receiving aid from [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). It is unknown if the two towns directly aided those in Hillsbrad, but the dire curse laid upon Pyrewood by the mage [Arugal](https://wowpedia.fandom.com/wiki/Arugal "Arugal") left the village turning into feral monsters known as [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen") during the nights. To the south of the town laid a series of refugee camps outside of the [Greymane Wall](https://wowpedia.fandom.com/wiki/Greymane_Wall "Greymane Wall") that were made up of Lordaeron's former citizenry. The [Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands")' local dwarves, the [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan") remained in firm control of their holdings, contending more with the local trolls than undead (a matter they were aided with by the High elves of [Quel'Danil Lodge](https://wowpedia.fandom.com/wiki/Quel%27Danil_Lodge "Quel'Danil Lodge")). Lastly, the Alliance held some presence in the Plaguelands by way of [Chillwind Camp](https://wowpedia.fandom.com/wiki/Chillwind_Camp "Chillwind Camp").
+
+The [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade") held lands scattered throughout northern Lordaeron, and at one stage were by far the most numerically well-endowed of the human factions of the former kingdom. Unfortunately, the faction was so fearful of the undead that they attacked virtually any individual on sight. They held several key positions in the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), including farmlands in the west, and their great stronghold in the region, the [Scarlet Monastery](https://wowpedia.fandom.com/wiki/Scarlet_Monastery "Scarlet Monastery") along the north coast. In the [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands") they once controlled the entire northern part of the zone from [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen"). They also formerly maintained a presence in [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal"). In the Eastern Plaguelands, they controlled [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand"), and controlled the [Scarlet Enclave](https://wowpedia.fandom.com/wiki/Scarlet_Enclave "Scarlet Enclave") as a massive, although it has become depopulated due to invasion by the Scourge, and migration to Northrend. They also controlled the [Scarlet Bastion](https://wowpedia.fandom.com/wiki/Scarlet_Bastion "Scarlet Bastion"), a region of the once mighty city of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme").
+
+The Argent Dawn, controlled the least amount of territory. Though they had camps spread around the Plaguelands, the Argent Dawn was primarily found at [Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Light%27s_Hope_Chapel "Light's Hope Chapel"). Having splintered off from the Scarlet Crusade, the Argent Dawn took a more level-headed approach to the war with the Scourge. They opened their ranks to all willing to aid them, accepting Horde and even Forsaken into their ranks.
+
+The Forsaken managed to take control of the heart of the old kingdom, claiming the [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") (and the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") beneath) as their base of operations. They used it to keep hold over much of the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), and control the towns [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill") and [Deathknell](https://wowpedia.fandom.com/wiki/Deathknell "Deathknell") along the main east-west road of the region. They also control [The Sepulcher](https://wowpedia.fandom.com/wiki/The_Sepulcher "The Sepulcher") in the center of [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest"), and the town of [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill") in the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills").
+
+Beyond these four factions, a few other factions had managed to claim territory that once belonged to Lordaeron. The Syndicate, in an attempt to punish Lordaeron for its role in the fall of their kingdom of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)") took the fortress of [Durnholde Keep](https://wowpedia.fandom.com/wiki/Durnholde_Keep "Durnholde Keep") and the surrounding countryside, although the [Ravenholdt](https://wowpedia.fandom.com/wiki/Ravenholdt "Ravenholdt") (a league of assassins) have attempted to curb their strength from their base at [Ravenholdt Manor](https://wowpedia.fandom.com/wiki/Ravenholdt_Manor "Ravenholdt Manor") (which also lies in former Lordaeron).
+
+Finally, the undead [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") held core areas of Lordaeron such as [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") and [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal"), as well as [Scholomance](https://wowpedia.fandom.com/wiki/Scholomance "Scholomance") in the southern [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands"). The necromancer traitor, [Thule Ravenclaw](https://wowpedia.fandom.com/wiki/Thule_Ravenclaw "Thule Ravenclaw"), ruled over swaths of Silverpine Forest in the name of the Scourge. Scourge undead mindlessly wandered countless areas of [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), with [Devlin Agamand](https://wowpedia.fandom.com/wiki/Devlin_Agamand "Devlin Agamand") commanding some of their forces in [Agamand Mills](https://wowpedia.fandom.com/wiki/Agamand_Mills "Agamand Mills"). The Scourge were overwhelmingly the dominant force in much of Lordaeron, with a presence in all its zones except the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills").
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+After the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), Lordaeron's landscape changed dramatically.
+
+The Forsaken strengthened their grip on [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest") and [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") by conquering [Pyrewood](https://wowpedia.fandom.com/wiki/Pyrewood "Pyrewood"), [Ambermill](https://wowpedia.fandom.com/wiki/Ambermill "Ambermill"), [Hillsbrad Fields](https://wowpedia.fandom.com/wiki/Hillsbrad_Fields "Hillsbrad Fields"), [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore") and attacking the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") on the hills overlooking Hillsbrad, as well as [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") in the Western Plaguelands. Tarren Mill was reinforced, with many farmsteads in Silverpine being converted into bases such as [Forsaken High Command](https://wowpedia.fandom.com/wiki/Forsaken_High_Command "Forsaken High Command") and the [Forsaken Rear Guard](https://wowpedia.fandom.com/wiki/Forsaken_Rear_Guard "Forsaken Rear Guard"). Tirisfal Glades was dominated by Forsaken power, with areas such as [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill") being rebuilt in the new architecture of the Forsaken. They scored major victories against every Alliance force in the north with the exception of the Wildhammer clan and Quel'danil Lodge.
+
+These accomplishments effectively collapsed the Alliance's hold over any part of Lordaeron. Southshore's destruction as well as that of Hillsbrad Fields led to many of its surviving remnants to head to [Fenris Isle](https://wowpedia.fandom.com/wiki/Fenris_Isle "Fenris Isle"). There, the survivors took over [Fenris Keep](https://wowpedia.fandom.com/wiki/Fenris_Keep "Fenris Keep") as a last stand for their people. They eventually joined with the Gilnean forces that came into the area past the now collapsed Greymane Wall, turning into Worgen in order to prevent themselves from being turned into undead by the Forsaken's new [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr"). This joint force was eventually defeated and a bulk of their leadership slain. The people of Hillsbrad Fields became monstrous undead in horrific experiments being conducted in what was once their home, the [Sludge Fields](https://wowpedia.fandom.com/wiki/Sludge_Fields "Sludge Fields"). The survivors of [Azurelode Mine](https://wowpedia.fandom.com/wiki/Azurelode_Mine "Azurelode Mine") were held as captives by the Forsaken and sent to the Sludge Fields. The last of Alliance presence in Lordaeron was in Andorhal, where the Forsaken warred to claim the area against them. The Horde was ultimately victorious, laying claim over the entirety of the city. With this destruction, the Alliance was reduced down to Chillwind Camp, Aerie Peak, Quel'danil Lodge, and the Stormpikes.
+
+The Argent Dawn was reformed during the war with the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") into the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade"). This crusade commanded wide swaths of land in [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands"); taking control of [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen") and a number of farmsteads across the region as well as [Northridge Lumber Camp](https://wowpedia.fandom.com/wiki/Northridge_Lumber_Camp "Northridge Lumber Camp"). The Crusade also took command of the various towers that dotted the [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands"), with Light's Hope being reinforced and the city of [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand") eventually getting conquered by the [Brotherhood of the Light](https://wowpedia.fandom.com/wiki/Brotherhood_of_the_Light "Brotherhood of the Light") in the name of the Argents. Due to their neutral nature, the Argents ended up becoming the closest representation of the living in Lordaeron in the wake of the Forsaken's victories.
+
+The Scarlet Crusade presence was reduced heavily. Most of their citadels of power were conquered either by the Forsaken or the Argent Crusade; leaving them only with a few holdings in Tirisfal Glades.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-22">[22]</a></sup> Those outside of Tirisfal were either obliterated or turned into the undead [Risen](https://wowpedia.fandom.com/wiki/Risen "Risen"). These forces too were eventually defeated by the Argents.
+
+The Syndicate was removed from Durnholde Keep, but remained active in Strahnbrad. The Scourge suffered dramatically following the Cataclysm. They lost the majority of their holdings outside of the Eastern Plaguelands, where they maintained their strongest grip. In Western Plaguelands, the Cult of the Damned attempted to fight both the Alliance and Horde for Andorhal but were ultimately routed back to Scholomance. Some Scourge remained in Tirisfal Glades; though their threat was effectively diminished to a nuisance in the area. The Scourge was effectively completely removed from Silverpine Forest after Thule lost control of Fenris Keep.
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Sylvanas_vs_Anduin_Capital_City_BfA.jpg/revision/latest/scale-to-width-down/180?cb=20180905183124)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Sylvanas_vs_Anduin_Capital_City_BfA.jpg/revision/latest?cb=20180905183124)
+
+[Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") fighting [Anduin](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") outside of the [Ruins of Capital City](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron").
+
+The modern-day [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), with forces led by [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") and [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane"), attempted to regain control of Lordaeron's capital during the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron") in response to the [Burning of Teldrassil](https://wowpedia.fandom.com/wiki/Burning_of_Teldrassil "Burning of Teldrassil"). Ultimately, the ruined capital was left [blighted](https://wowpedia.fandom.com/wiki/New_Plague "New Plague") and unclaimed.
+
+The Alliance and Horde forces waged an active campaign against each other throughout the formerly Forsaken-controlled lands, in an attempt to gain hold over the remaining regions of Lordaeron.
+
+The [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") eventually ended in an uneasy armistice between the two sides, but the Alliance managed to capture and reclaim [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore"). The neighboring Gilneans also re-established control over their once hold of [Shadowfang Keep](https://wowpedia.fandom.com/wiki/Shadowfang_Keep "Shadowfang Keep") and [Fenris Keep](https://wowpedia.fandom.com/wiki/Fenris_Keep "Fenris Keep") under the [Bloodfang Pack](https://wowpedia.fandom.com/wiki/Bloodfang_Pack "Bloodfang Pack"). [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades") remained under Forsaken control. <sup id="cite_ref-Exploring_Azeroth:_The_Eastern_Kingdoms_7-1"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-Exploring_Azeroth:_The_Eastern_Kingdoms-7">[7]</a></sup>
+
+## People and culture
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Human_Crest.jpg/revision/latest/scale-to-width-down/260?cb=20170416140745)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Human_Crest.jpg/revision/latest?cb=20170416140745)
+
+The crest of Lordaeron.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Hillsbrad_Tabard.jpg/revision/latest?cb=20070328144023)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Hillsbrad_Tabard.jpg/revision/latest?cb=20070328144023)
+
+A tabard from Lordaeron.
+
+Lordaeron's [national colors](https://wowpedia.fandom.com/wiki/Team_color "Team color") are both white and blue.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-23">[23]</a></sup><sup id="cite_ref-WowTabard_24-0"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-WowTabard-24">[24]</a></sup> In _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ Lordaeron forces are represented in blue (white is notably not a playable color as it was in _[Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_) while in _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_ Lordaeron is instead most commonly represented as a light blue. Along with the Lordaeron sigil, both twin<sup id="cite_ref-WowTabard_24-1"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-WowTabard-24">[24]</a></sup> and single-headed<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-25">[25]</a></sup> [eagles](https://wowpedia.fandom.com/wiki/Eagle "Eagle") often adorn Lordaeron banners and tabards. [Lions](https://wowpedia.fandom.com/wiki/Lion "Lion") are also a common symbol.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-26">[26]</a></sup>
+
+Something originating from Lordaeron is called "Lordaeronian".<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-27">[27]</a></sup>
+
+Like the other realms, the Kingdom of Lordaeron applied the death penalty for its criminals, the task being accomplished by an [executioner](https://wowpedia.fandom.com/wiki/Executioner "Executioner"), including hanging as gallows were present in their cities, such as [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"). After his [excommunication](https://wowpedia.fandom.com/wiki/Excommunication "Excommunication"), [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring") mentioned that he would in turn be hanged for his treason by saving [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg") from his execution.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-28">[28]</a></sup> The court of King Terenas employed [Wroth](https://wowpedia.fandom.com/wiki/High_Executor_Wroth "High Executor Wroth") as a royal torturer.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-29">[29]</a></sup>
+
+Lordaeronian revere the [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light"), and the [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light") played a significant role in Lordaeron society. Centuries ago, Lordaeron's leaders codified the different Light-based traditions and belief systems. From these efforts, the Church of the Holy Light came to be. Lordaeron served as the home of this church and became a popular destination for travelers seeking healing, wisdom, and inner peace. The church constructed [temples](https://wowpedia.fandom.com/wiki/Temple "Temple") and shrines throughout the far-flung human lands, and it created a hierarchy of religious leaders to oversee its followers. The most important places of worship were located in the verdant [Eastweald](https://wowpedia.fandom.com/wiki/Eastweald "Eastweald"). Among the oldest and most revered of these holy sites were [Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Light%27s_Hope_Chapel "Light's Hope Chapel"), [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal"), and [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand").<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-30">[30]</a></sup> Thus, the armies of Lordaeron were said to be deeply religious,<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-31">[31]</a></sup> while Capital City had its own cathedral, where [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") met for the first time.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-32">[32]</a></sup>
+
+### A Lordaeronian lullaby
+
+Lu, la lu, my dearest child,
+
+Lu, la lu, lu la lay,
+
+Lordaeron says, "Go to sleep."
+
+Azeroth says, "Dream you deep."
+
+Lu, la lu, la lu, la lay,
+
+Safe in my arms you'll stay.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-33">[33]</a></sup>
+
+### Notable people
+
+### Notable leaders
+
+<table><tbody><tr><th>History</th><td colspan="2">Kingdom of Lordaeron</td></tr><tr><th rowspan="2">Ruler</th><td rowspan="2">Terenas Menethil II</td><td rowspan="2" colspan="1">Arthas Menethil</td></tr></tbody></table>
+
+## Military
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+### Soldiers and citizens from Lordaeron
+
+-   [Alliance Emissary](https://wowpedia.fandom.com/wiki/Alliance_Emissary "Alliance Emissary")
+-   [Royal Guard](https://wowpedia.fandom.com/wiki/Royal_Guard_(Warcraft_III) "Royal Guard (Warcraft III)") [![WC3tFT-logo.png](https://static.wikia.nocookie.net/wowpedia/images/2/2e/WC3tFT-logo.png/revision/latest/scale-to-width-down/32?cb=20210822205556)](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+## Territories
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/28/Chronicle2_Lordaeron_Kingdom_Before_the_First_War.jpg/revision/latest/scale-to-width-down/180?cb=20181106114127)](https://static.wikia.nocookie.net/wowpedia/images/2/28/Chronicle2_Lordaeron_Kingdom_Before_the_First_War.jpg/revision/latest?cb=20181106114127)
+
+The lands of Lordaeron before the First War.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/19/LordaeronWC3.JPG/revision/latest/scale-to-width-down/180?cb=20170630154704)](https://static.wikia.nocookie.net/wowpedia/images/1/19/LordaeronWC3.JPG/revision/latest?cb=20170630154704)
+
+The lands of Lordaeron in _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
+
+By the time of the Third War, the kingdom of Lordaeron controlled the [Eastweald](https://wowpedia.fandom.com/wiki/Eastweald "Eastweald"), the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"), the northern part of [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest"), the majority of the [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") and parts of the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains") ([Chillwind Point](https://wowpedia.fandom.com/wiki/Chillwind_Point "Chillwind Point"), and the town of [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad")). Also the region of [northern Lordaeron](https://wowpedia.fandom.com/wiki/Northern_Lordaeron "Northern Lordaeron"), which is currently a [closed zone](https://wowpedia.fandom.com/wiki/Closed_zone "Closed zone").
+
+### Present-day regions once under Lordaeronian control
+
+-   Majority of [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")
+    -   Northeastern [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains")
+-   [Northern Lordaeron](https://wowpedia.fandom.com/wiki/Northern_Lordaeron "Northern Lordaeron")
+-   Northern [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+-   [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands") / [Eastweald](https://wowpedia.fandom.com/wiki/Eastweald "Eastweald")
+    -   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+    -   [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands")
+-   [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+
+## Items from Lordaeron
+
+## In Warcraft II
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Lordaeron-flag.jpg/revision/latest/scale-to-width-down/230?cb=20080426215721)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Lordaeron-flag.jpg/revision/latest?cb=20080426215721)
+
+The banner of Lordaeron.
+
+**Leader**: _[King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas")_
+
+**Nation Color**: _White_
+
+**Background**: _Ruled by the benevolent King Terenas, the nation of Lordaeron stands as the last bastion of hope for humanity. The armies of Lordaeron were the first to heed the call to arms issued by [Sir Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar") and the people of [Azeroth](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)"). As patron of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), King Terenas has assumed the heavy mantle of leadership to protect all who abide in his domain. The armies of Lordaeron are [deeply religious](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light") and are driven by the belief that humanity must stand steadfast against the [blasphemous](https://wowpedia.fandom.com/wiki/Blasphemy "Blasphemy") onslaught of the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde")._<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-34">[34]</a></sup>
+
+## Film universe
+
+Lordaeron participated in the council that would eventually lead to the creation of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_(film_universe) "Alliance (film universe)").
+
+## Notes and trivia
+
+-   Before the Third War, the [kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") spied on the kingdom of Lordaeron to gain vital information and later to investigate the rumors of the [plague of undeath](https://wowpedia.fandom.com/wiki/Plague_of_undeath "Plague of undeath").<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-35">[35]</a></sup>
+-   During the _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ [beta](https://wowpedia.fandom.com/wiki/Beta "Beta"), [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") said the kingdom of Lordaeron no longer existed. This never made it into the live version of the game.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_note-36">[36]</a></sup>
+    -   In _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, she is still deeply worried about the Lordaeronians that became Forsaken.
+-   While people from Lordaeron usually speak with American accents, the Scarlet Crusade in the _Mists of Pandaria_ revamp of [Scarlet Monastery](https://wowpedia.fandom.com/wiki/Scarlet_Monastery "Scarlet Monastery") and [Scarlet Halls](https://wowpedia.fandom.com/wiki/Scarlet_Halls "Scarlet Halls") have German accents. No other Lordaeronians share this accent, and the Scarlet Crusade has not used it in appearances after this either.
+-   The Lordaeron symbol is present on  ![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Inv_shield_19.png/revision/latest/scale-to-width-down/16?cb=20061231155830)[\[High Warlord's Shield Wall\]](https://wowpedia.fandom.com/wiki/High_Warlord%27s_Shield_Wall), representing the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") and their Lordaeronian heritage.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/WoWLordaeron.jpg/revision/latest/scale-to-width-down/83?cb=20080823081841)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/WoWLordaeron.jpg/revision/latest?cb=20080823081841)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Chronicle2_Eastern_Kingdoms_Before_the_First_War.jpg/revision/latest/scale-to-width-down/90?cb=20180703174727)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Chronicle2_Eastern_Kingdoms_Before_the_First_War.jpg/revision/latest?cb=20180703174727)
+    
+    The lands of Lordaeron (in cyan) and the rest of the Eastern Kingdoms before the First War.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Chron3_map_of_EK_in_the_Third_War.jpg/revision/latest/scale-to-width-down/90?cb=20180328211708)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Chron3_map_of_EK_in_the_Third_War.jpg/revision/latest?cb=20180328211708)
+    
+    Lordaeron and Khaz Modan during the Third War.
+    
+
+### Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/New_lordaeron_by_brunstan.jpg/revision/latest/scale-to-width-down/120?cb=20200511024820)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/New_lordaeron_by_brunstan.jpg/revision/latest?cb=20200511024820)
+    
+    Lordaeron by Brustan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/The_King_and_Lordaeron_by_hipnosworld.jpg/revision/latest/scale-to-width-down/120?cb=20170716173603)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/The_King_and_Lordaeron_by_hipnosworld.jpg/revision/latest?cb=20170716173603)
+    
+    Royal Court of Lordaeron by Hipnosworld
+    
+
+## See also
+
+-   [The Seven Kingdoms](https://wowpedia.fandom.com/wiki/The_Seven_Kingdoms "The Seven Kingdoms")
+-   [The Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/The_Alliance_of_Lordaeron "The Alliance of Lordaeron")
+-   [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+-   [Nobles of Lordaeron](https://wowpedia.fandom.com/wiki/Nobles_of_Lordaeron "Nobles of Lordaeron")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-RotLK_1-0) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_
+2.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-capital_2-0) _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_
+3.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-3) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_
+4.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-4) [Hearthstone - Uther Lightbringer, The Paladin](http://us.battle.net/hearthstone/en/blog/13942454)
+5.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-5) "[Legacy of the Damned](https://wowpedia.fandom.com/wiki/Legacy_of_the_Damned "Legacy of the Damned"): [King Arthas](https://wowpedia.fandom.com/wiki/King_Arthas_(Warcraft_III) "King Arthas (Warcraft III)")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[The Frozen Throne](https://wowpedia.fandom.com/wiki/The_Frozen_Throne "The Frozen Throne")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). Quest "Slay the Paladins": "The Paladin order has emerged again from the rubble of the Lordaeron Empire"
+6.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-6) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 17
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-Exploring_Azeroth:_The_Eastern_Kingdoms_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-Exploring_Azeroth:_The_Eastern_Kingdoms_7-1">b</a></sup> _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_
+8.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-8) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 65 - 66
+9.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-Libram_9-0) [Libram of Ancient Kings#The Silver Hand](https://wowpedia.fandom.com/wiki/Libram_of_Ancient_Kings#The_Silver_Hand "Libram of Ancient Kings")
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-Saga_of_the_Valarjar_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-Saga_of_the_Valarjar_10-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-Saga_of_the_Valarjar_10-2">c</a></sup> [Saga of the Valarjar: Strom'kar, the Warbreaker](https://wowpedia.fandom.com/wiki/Saga_of_the_Valarjar#Strom'kar,_the_Warbreaker "Saga of the Valarjar")
+11.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-Chronicle_11-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 127
+12.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-12) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 126
+13.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-13) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 133
+14.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-14) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 141
+15.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-15) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 124
+16.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-16) _[Warcraft II: Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal "Warcraft II: Beyond the Dark Portal")_ manual, _[The Aftermath of the Second War](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal_manual#The_Aftermath_of_the_Second_War "Warcraft II: Beyond the Dark Portal manual")_
+17.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-17) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 177
+18.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-18) [Alterac (WC2 Orc)](https://wowpedia.fandom.com/wiki/Alterac_(WC2_Orc) "Alterac (WC2 Orc)")
+19.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-19) [World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual"), pg. 168
+20.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-20) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 54 - 55
+21.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-21) _[World of Warcraft: Exploring Azeroth: The Eastern Kingdoms](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_The_Eastern_Kingdoms "World of Warcraft: Exploring Azeroth: The Eastern Kingdoms")_, pg. 121
+22.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-22)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall Undead Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest?cb=20200520010857)[![IconSmall Undead Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest?cb=20200520011546) \[1-10\] [Recruitment](https://wowpedia.fandom.com/wiki/Recruitment)
+23.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-23) Lordaeron bicolor banners in _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_
+24.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-WowTabard_24-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-WowTabard_24-1">b</a></sup> [Old Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Old_Hillsbrad_Foothills "Old Hillsbrad Foothills") and [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme_(instance) "Culling of Stratholme (instance)") NPCs' tabards and banners
+25.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-25) Atop Lordaeron banners in _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_
+26.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-26) Adorning [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")'s armor in-game as well as found on flags and embossed in gold in the human campaign screen of _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_
+27.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-27) [Loreology on Twitter](https://twitter.com/Loreology/status/443056949995659264) (dead link)
+28.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-28) _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_
+29.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-29)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-30\] [The Rod of Compulsion](https://wowpedia.fandom.com/wiki/The_Rod_of_Compulsion)
+30.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-30) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 126
+31.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-31) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, _[Nations of the Alliance](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#Lordaeron "Warcraft II: Tides of Darkness manual")_, Lordaeron
+32.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-32) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_
+33.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-33) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 20
+34.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-34) _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ manual, _[Nations of the Alliance](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#Lordaeron "Warcraft II: Tides of Darkness manual")_, Lordaeron
+35.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-35) _[Traveler: The Spiral Path](https://wowpedia.fandom.com/wiki/Traveler:_The_Spiral_Path "Traveler: The Spiral Path")_, chapter 17
+36.  [^](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom)#cite_ref-36)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Priest](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Ui-charactercreate-classes_priest.png/revision/latest/scale-to-width-down/16?cb=20100721005923 "Priest") \[100\] [Agent of Aid](https://wowpedia.fandom.com/wiki/Agent_of_Aid). "And I'm just Calia now, Lordaeron is no more."
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Humans "Template:Humans")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Humans?action=edit)
+
+[Human](https://wowpedia.fandom.com/wiki/Human "Human") cultures
+
+
+
+ |
+| --- |
+|  |
+| [Nations](https://wowpedia.fandom.com/wiki/Seven_Kingdoms "Seven Kingdoms") | 
+
+<table><tbody><tr><th scope="row">Active</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dalaran_(kingdom)" title="Dalaran (kingdom)">Dalaran</a> (<a href="https://wowpedia.fandom.com/wiki/Dalaran" title="Dalaran">Dalaran City</a>)</li><li><a href="https://wowpedia.fandom.com/wiki/Gilneas_(kingdom)" title="Gilneas (kingdom)">Gilneas</a> (<a href="https://wowpedia.fandom.com/wiki/Gilneas_City" title="Gilneas City">Gilneas City</a>)</li><li><a href="https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom)" title="Kul Tiras (kingdom)">Kul Tiras</a> (<a href="https://wowpedia.fandom.com/wiki/Boralus" title="Boralus">Boralus</a>)</li><li><a href="https://wowpedia.fandom.com/wiki/Stormwind_(kingdom)" title="Stormwind (kingdom)">Stormwind</a> (<a href="https://wowpedia.fandom.com/wiki/Stormwind_City" title="Stormwind City">Stormwind City</a>)</li><li><a href="https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom)" title="Stromgarde (kingdom)">Stromgarde</a> (<a href="https://wowpedia.fandom.com/wiki/Stromgarde_Keep" title="Stromgarde Keep">Stromgarde Keep</a>)</li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Defunct</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Alterac_(kingdom)" title="Alterac (kingdom)">Alterac</a> (<a href="https://wowpedia.fandom.com/wiki/Alterac_City" title="Alterac City">Alterac City</a>)</li><li><strong>Lordaeron</strong> (<a href="https://wowpedia.fandom.com/wiki/Capital_City" title="Capital City">Capital City</a>)</li><li><a href="https://wowpedia.fandom.com/wiki/Theramore_(nation)" title="Theramore (nation)">Theramore</a> (<a href="https://wowpedia.fandom.com/wiki/Theramore_Isle" title="Theramore Isle">Theramore Isle</a>)</li><li><a href="https://wowpedia.fandom.com/wiki/Arathor" title="Arathor">Arathor</a> (<a href="https://wowpedia.fandom.com/wiki/Stromgarde_Keep" title="Stromgarde Keep">Strom</a>)</li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| [Tribes](https://wowpedia.fandom.com/wiki/Tribe "Tribe") and  
+major groups | 
+
+-   [Alteraci](https://wowpedia.fandom.com/wiki/Alteraci_tribe "Alteraci tribe")
+-   [Arathi](https://wowpedia.fandom.com/wiki/Arathi_tribe "Arathi tribe")
+-   [Tirisfal](https://wowpedia.fandom.com/wiki/Lordain%27s_tribe "Lordain's tribe")
+-   [Trappers](https://wowpedia.fandom.com/wiki/Grizzly_Hills_trappers "Grizzly Hills trappers")
+-   [Wastewander](https://wowpedia.fandom.com/wiki/Wastewander "Wastewander")
+
+
+
+ |
+|  |
+| [Film universe](https://wowpedia.fandom.com/wiki/Warcraft_film_universe "Warcraft film universe") | 
+
+-   [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(film_universe) "Alterac (film universe)")
+-   [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(film_universe) "Dalaran (film universe)")
+-   [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(film_universe) "Gilneas (film universe)")
+-   [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(film_universe) "Kul Tiras (film universe)")
+-   [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(film_universe) "Lordaeron (film universe)")
+-   [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(film_universe) "Stormwind (film universe)")
+-   [Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(film_universe) "Stromgarde (film universe)")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance "Template:Grand Alliance")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance?action=edit)
+
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") | 
+
+-   [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn")
+
+
+
+ |
+|  |
+| Lord Commander | 
+
+-   [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon")
+
+
+
+ |
+|  |
+| Leaders | 
+
+-   [Council of Three Hammers](https://wowpedia.fandom.com/wiki/Council_of_Three_Hammers "Council of Three Hammers")
+    -   [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") ([Yorg Stormheart](https://wowpedia.fandom.com/wiki/Yorg_Stormheart "Yorg Stormheart"))
+    -   [Falstad Wildhammer](https://wowpedia.fandom.com/wiki/Falstad_Wildhammer "Falstad Wildhammer")
+    -   [Moira Thaurissan](https://wowpedia.fandom.com/wiki/Moira_Thaurissan "Moira Thaurissan")
+-   [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque")
+-   [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")
+-   [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")
+-   [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen")
+-   [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane")
+-   [Aysa Cloudsinger](https://wowpedia.fandom.com/wiki/Aysa_Cloudsinger "Aysa Cloudsinger")
+-   [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner")
+-   [Umbric](https://wowpedia.fandom.com/wiki/Magister_Umbric "Magister Umbric")
+-   [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore")
+-   [Azurathel](https://wowpedia.fandom.com/wiki/Scalecommander_Azurathel "Scalecommander Azurathel")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Dagran Thaurissan II](https://wowpedia.fandom.com/wiki/Dagran_Thaurissan_II "Dagran Thaurissan II")
+-   [Danath Trollbane](https://wowpedia.fandom.com/wiki/Danath_Trollbane "Danath Trollbane")
+-   [Darius Crowley](https://wowpedia.fandom.com/wiki/Darius_Crowley "Darius Crowley")
+-   [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar")
+-   [Kurdran Wildhammer](https://wowpedia.fandom.com/wiki/Kurdran_Wildhammer "Kurdran Wildhammer")
+-   [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard")
+-   [Halford Wyrmbane](https://wowpedia.fandom.com/wiki/High_Commander_Halford_Wyrmbane "High Commander Halford Wyrmbane")
+-   [Mathias Shaw](https://wowpedia.fandom.com/wiki/Master_Mathias_Shaw "Master Mathias Shaw")
+-   [Grayson Shadowbreaker](https://wowpedia.fandom.com/wiki/Lord_Grayson_Shadowbreaker "Lord Grayson Shadowbreaker")
+-   [Vindicator Boros](https://wowpedia.fandom.com/wiki/Vindicator_Boros "Vindicator Boros")
+-   [Gryan Stoutmantle](https://wowpedia.fandom.com/wiki/Gryan_Stoutmantle "Gryan Stoutmantle")
+-   [Sarah Ladimore](https://wowpedia.fandom.com/wiki/Sarah_Ladimore "Sarah Ladimore")
+-   [John J. Keeshan](https://wowpedia.fandom.com/wiki/John_J._Keeshan "John J. Keeshan")
+-   [Morgan](https://wowpedia.fandom.com/wiki/Morgan "Morgan")
+-   [Vanndar Stormpike](https://wowpedia.fandom.com/wiki/Vanndar_Stormpike "Vanndar Stormpike")
+-   [Jes-Tereth](https://wowpedia.fandom.com/wiki/Grand_Admiral_Jes-Tereth "Grand Admiral Jes-Tereth")
+-   [Lusshan](https://wowpedia.fandom.com/wiki/Elder_Lusshan "Elder Lusshan")
+-   [Nobundo](https://wowpedia.fandom.com/wiki/Farseer_Nobundo "Farseer Nobundo")
+-   [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon")
+-   [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner")
+-   [Velog Icebellow](https://wowpedia.fandom.com/wiki/Velog_Icebellow "Velog Icebellow")
+-   [Ivar Bloodfang](https://wowpedia.fandom.com/wiki/Packleader_Ivar_Bloodfang "Packleader Ivar Bloodfang")
+-   [Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera")
+-   [Vargoth](https://wowpedia.fandom.com/wiki/Archmage_Vargoth "Archmage Vargoth")
+-   [Karlain](https://wowpedia.fandom.com/wiki/Archmage_Karlain "Archmage Karlain")
+-   [Ansirem Runeweaver](https://wowpedia.fandom.com/wiki/Archmage_Ansirem_Runeweaver "Archmage Ansirem Runeweaver")
+-   [Harrison Jones](https://wowpedia.fandom.com/wiki/Harrison_Jones "Harrison Jones")
+-   [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos")
+-   [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")
+-   [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard")
+-   [Thassarian](https://wowpedia.fandom.com/wiki/Thassarian "Thassarian")
+-   [Muninn Magellas](https://wowpedia.fandom.com/wiki/High_Explorer_Muninn_Magellas "High Explorer Muninn Magellas")
+-   [Thargas Anvilmar](https://wowpedia.fandom.com/wiki/Thargas_Anvilmar "Thargas Anvilmar")
+-   [Highlord Leoric Von Zeldig](https://wowpedia.fandom.com/wiki/Highlord_Leoric_Von_Zeldig "Highlord Leoric Von Zeldig")
+-   [Nevin Twistwrench](https://wowpedia.fandom.com/wiki/Nevin_Twistwrench "Nevin Twistwrench")
+-   [Razak Ironsides](https://wowpedia.fandom.com/wiki/Razak_Ironsides "Razak Ironsides")
+-   [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong")
+-   [Ishanah](https://wowpedia.fandom.com/wiki/Ishanah "Ishanah")
+-   [Amaan the Wise](https://wowpedia.fandom.com/wiki/Amaan_the_Wise "Amaan the Wise")
+-   [Broll Bearmantle](https://wowpedia.fandom.com/wiki/Broll_Bearmantle "Broll Bearmantle")
+-   [Lorna Crowley](https://wowpedia.fandom.com/wiki/Lorna_Crowley "Lorna Crowley")
+-   [Tess Greymane](https://wowpedia.fandom.com/wiki/Tess_Greymane "Tess Greymane")
+-   [Mordent Evenshade](https://wowpedia.fandom.com/wiki/Mordent_Evenshade "Mordent Evenshade")
+-   [Arechron](https://wowpedia.fandom.com/wiki/Arechron "Arechron")
+-   [Rivern Frostwind](https://wowpedia.fandom.com/wiki/Rivern_Frostwind "Rivern Frostwind")
+-   [Bizmo](https://wowpedia.fandom.com/wiki/Bizmo "Bizmo")
+-   [Radulf Leder](https://wowpedia.fandom.com/wiki/Radulf_Leder "Radulf Leder")
+-   [Su'ura Swiftarrow](https://wowpedia.fandom.com/wiki/Su%27ura_Swiftarrow "Su'ura Swiftarrow")
+-   [Sentinel Cordressa Briarbow](https://wowpedia.fandom.com/wiki/Sentinel_Cordressa_Briarbow "Sentinel Cordressa Briarbow")
+-   [Marcus Johnson](https://wowpedia.fandom.com/wiki/Commander_Marcus_Johnson "Commander Marcus Johnson")
+-   [Catherine Rogers](https://wowpedia.fandom.com/wiki/Sky_Admiral_Rogers "Sky Admiral Rogers")
+-   [Henry Maleb](https://wowpedia.fandom.com/wiki/Magistrate_Henry_Maleb "Magistrate Henry Maleb")
+-   [Weldon Barov](https://wowpedia.fandom.com/wiki/Weldon_Barov "Weldon Barov")
+-   [Celestine of the Harvest](https://wowpedia.fandom.com/wiki/Celestine_of_the_Harvest "Celestine of the Harvest")
+-   [Julianne Tremblade](https://wowpedia.fandom.com/wiki/Grand_Marshal_Tremblade "Grand Marshal Tremblade")
+-   [Tyrathan Khort](https://wowpedia.fandom.com/wiki/Tyrathan_Khort "Tyrathan Khort")
+-   [Marin Bladewing](https://wowpedia.fandom.com/wiki/Marin_Bladewing "Marin Bladewing")
+-   [Arator Windrunner](https://wowpedia.fandom.com/wiki/Arator_the_Redeemer "Arator the Redeemer")
+-   [Fareeya](https://wowpedia.fandom.com/wiki/Captain_Fareeya "Captain Fareeya")
+-   [T'paartos](https://wowpedia.fandom.com/wiki/T%27paartos "T'paartos")
+-   [Thisalee Crow](https://wowpedia.fandom.com/wiki/Thisalee_Crow "Thisalee Crow")
+-   [Lucille Waycrest](https://wowpedia.fandom.com/wiki/Lucille_Waycrest "Lucille Waycrest")
+-   [Pike](https://wowpedia.fandom.com/wiki/Brother_Pike "Brother Pike")
+-   [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia "Taelia")
+-   [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore")
+-   [Brannon Stormsong](https://wowpedia.fandom.com/wiki/Brannon_Stormsong "Brannon Stormsong")
+-   [Tandred Proudmoore](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore")
+-   [Erazmin](https://wowpedia.fandom.com/wiki/Prince_Erazmin "Prince Erazmin")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")
+-   [Taylor](https://wowpedia.fandom.com/wiki/Taylor "Taylor")
+-   [Marcus Jonathan](https://wowpedia.fandom.com/wiki/General_Marcus_Jonathan "General Marcus Jonathan")
+-   [Twinbraid](https://wowpedia.fandom.com/wiki/Twinbraid "Twinbraid")
+-   [Maraad](https://wowpedia.fandom.com/wiki/Vindicator_Maraad "Vindicator Maraad")
+-   [Iridi](https://wowpedia.fandom.com/wiki/Iridi "Iridi")
+-   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+-   [Benedictus](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Althea Ebonlocke](https://wowpedia.fandom.com/wiki/Althea_Ebonlocke "Althea Ebonlocke")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Gustaf VanHowzen](https://wowpedia.fandom.com/wiki/Doctor_Gustaf_VanHowzen "Doctor Gustaf VanHowzen")
+-   [Blademaster Telaamon](https://wowpedia.fandom.com/wiki/Blademaster_Telaamon "Blademaster Telaamon")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") | 
+
+-   [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")
+-   [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar")
+-   [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas")
+-   [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II")
+-   [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer")
+-   [Thoras Trollbane](https://wowpedia.fandom.com/wiki/Thoras_Trollbane "Thoras Trollbane")
+-   [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol")
+-   [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider")
+-   [Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+-   [Dwarf](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
+-   [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+-   [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+-   [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Void elf](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
+-   [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")
+-   [Dark Iron dwarf](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")
+-   [Kul Tiran human](https://wowpedia.fandom.com/wiki/Kul_Tiran_human "Kul Tiran human")
+-   [Mechagnome](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")
+-   [Broken draenei](https://wowpedia.fandom.com/wiki/Broken "Broken")
+-   [Cenarion](https://wowpedia.fandom.com/wiki/Cenarius%27s_children "Cenarius's children")
+-   [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+    -   [Wildhammer](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
+-   [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg")
+-   [Half-elf](https://wowpedia.fandom.com/wiki/Half-elf "Half-elf")
+-   [Half-human](https://wowpedia.fandom.com/wiki/Half-human "Half-human")
+-   [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")
+-   [Jinyu](https://wowpedia.fandom.com/wiki/Jinyu "Jinyu")
+    -   [Ankoan](https://wowpedia.fandom.com/wiki/Ankoan "Ankoan")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Gryphon](https://wowpedia.fandom.com/wiki/Gryphon "Gryphon")
+-   [Hippogryph](https://wowpedia.fandom.com/wiki/Hippogryph "Hippogryph")
+-   [Horse](https://wowpedia.fandom.com/wiki/Horse "Horse")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
+-   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
+-   [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan")
+-   _[The Exodar](https://wowpedia.fandom.com/wiki/Exodar "Exodar")_
+-   [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City")
+-   [Telogrus Rift](https://wowpedia.fandom.com/wiki/Telogrus_Rift "Telogrus Rift")
+-   _[The Vindicaar](https://wowpedia.fandom.com/wiki/Vindicaar "Vindicaar")_
+-   [Shadowforge City](https://wowpedia.fandom.com/wiki/Shadowforge_City "Shadowforge City")
+-   [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus")
+-   [Mechagon City](https://wowpedia.fandom.com/wiki/Mechagon_City "Mechagon City")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Aerie Peak](https://wowpedia.fandom.com/wiki/Aerie_Peak "Aerie Peak")
+-   [Chillwind Camp](https://wowpedia.fandom.com/wiki/Chillwind_Camp "Chillwind Camp")
+-   [Darkshire](https://wowpedia.fandom.com/wiki/Darkshire "Darkshire")
+-   [Dragon's Mouth](https://wowpedia.fandom.com/wiki/Dragon%27s_Mouth "Dragon's Mouth")
+-   [Dun Modr](https://wowpedia.fandom.com/wiki/Dun_Modr "Dun Modr")
+-   [Eastvale Logging Camp](https://wowpedia.fandom.com/wiki/Eastvale_Logging_Camp "Eastvale Logging Camp")
+-   [Farstrider Lodge](https://wowpedia.fandom.com/wiki/Farstrider_Lodge "Farstrider Lodge")
+-   [Fort Livingston](https://wowpedia.fandom.com/wiki/Fort_Livingston "Fort Livingston")
+-   [Goldshire](https://wowpedia.fandom.com/wiki/Goldshire "Goldshire")
+-   [Greenwarden's Grove](https://wowpedia.fandom.com/wiki/Greenwarden%27s_Grove "Greenwarden's Grove")
+-   [Harborage](https://wowpedia.fandom.com/wiki/Harborage "Harborage")
+-   [Highbank](https://wowpedia.fandom.com/wiki/Highbank "Highbank")
+-   [Kharanos](https://wowpedia.fandom.com/wiki/Kharanos "Kharanos")
+-   [Kirthaven](https://wowpedia.fandom.com/wiki/Kirthaven "Kirthaven")
+-   [Lakeshire](https://wowpedia.fandom.com/wiki/Lakeshire "Lakeshire")
+-   [Marshtide Watch](https://wowpedia.fandom.com/wiki/Marshtide_Watch "Marshtide Watch")
+-   [Menethil Harbor](https://wowpedia.fandom.com/wiki/Menethil_Harbor "Menethil Harbor")
+-   [Moonbrook](https://wowpedia.fandom.com/wiki/Moonbrook "Moonbrook")
+-   [Refuge Pointe](https://wowpedia.fandom.com/wiki/Refuge_Pointe "Refuge Pointe")
+-   [Sentinel Hill](https://wowpedia.fandom.com/wiki/Sentinel_Hill "Sentinel Hill")
+-   [Stromgarde Keep](https://wowpedia.fandom.com/wiki/Stromgarde_Keep "Stromgarde Keep")
+-   [Thelsamar](https://wowpedia.fandom.com/wiki/Thelsamar "Thelsamar")
+-   [Victor's Point](https://wowpedia.fandom.com/wiki/Victor%27s_Point "Victor's Point")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar")
+-   [Azure Watch](https://wowpedia.fandom.com/wiki/Azure_Watch "Azure Watch")
+-   [Blood Watch](https://wowpedia.fandom.com/wiki/Blood_Watch "Blood Watch")
+-   [Farwatcher's Glen](https://wowpedia.fandom.com/wiki/Farwatcher%27s_Glen "Farwatcher's Glen")
+-   [Feathermoon Stronghold](https://wowpedia.fandom.com/wiki/Feathermoon_Stronghold "Feathermoon Stronghold")
+-   [Forest Song](https://wowpedia.fandom.com/wiki/Forest_Song "Forest Song")
+-   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
+-   [Honor's Stand](https://wowpedia.fandom.com/wiki/Honor%27s_Stand "Honor's Stand")
+-   [Northwatch Hold](https://wowpedia.fandom.com/wiki/Northwatch_Hold "Northwatch Hold")
+-   [Talonbranch Glade](https://wowpedia.fandom.com/wiki/Talonbranch_Glade "Talonbranch Glade")
+-   [Thal'darah Overlook](https://wowpedia.fandom.com/wiki/Thal%27darah_Overlook "Thal'darah Overlook")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Allerian Stronghold](https://wowpedia.fandom.com/wiki/Allerian_Stronghold "Allerian Stronghold")
+-   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
+-   [Orebor Harborage](https://wowpedia.fandom.com/wiki/Orebor_Harborage "Orebor Harborage")
+-   [Sylvanaar](https://wowpedia.fandom.com/wiki/Sylvanaar "Sylvanaar")
+-   [Telaar](https://wowpedia.fandom.com/wiki/Telaar "Telaar")
+-   [Toshley's Station](https://wowpedia.fandom.com/wiki/Toshley%27s_Station "Toshley's Station")
+-   [Temple of Telhamat](https://wowpedia.fandom.com/wiki/Temple_of_Telhamat "Temple of Telhamat")
+-   [Wildhammer Stronghold](https://wowpedia.fandom.com/wiki/Wildhammer_Stronghold "Wildhammer Stronghold")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Amberpine Lodge](https://wowpedia.fandom.com/wiki/Amberpine_Lodge "Amberpine Lodge")
+-   [Fizzcrank Airstrip](https://wowpedia.fandom.com/wiki/Fizzcrank_Airstrip "Fizzcrank Airstrip")
+-   [Fordragon Hold](https://wowpedia.fandom.com/wiki/Fordragon_Hold "Fordragon Hold")
+-   [Fort Wildervar](https://wowpedia.fandom.com/wiki/Fort_Wildervar "Fort Wildervar")
+-   [Frosthold](https://wowpedia.fandom.com/wiki/Frosthold "Frosthold")
+-   [Valgarde](https://wowpedia.fandom.com/wiki/Valgarde "Valgarde")
+-   [Valiance Keep](https://wowpedia.fandom.com/wiki/Valiance_Keep "Valiance Keep")
+-   [Westfall Brigade Encampment](https://wowpedia.fandom.com/wiki/Westfall_Brigade_Encampment "Westfall Brigade Encampment")
+-   [Westguard Keep](https://wowpedia.fandom.com/wiki/Westguard_Keep "Westguard Keep")
+-   [Wintergarde Keep](https://wowpedia.fandom.com/wiki/Wintergarde_Keep "Wintergarde Keep")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Incursion](https://wowpedia.fandom.com/wiki/Incursion "Incursion")
+-   [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing "Lion's Landing")
+-   [Paw'don Village](https://wowpedia.fandom.com/wiki/Paw%27don_Village "Paw'don Village")
+-   [Pearlfin Village](https://wowpedia.fandom.com/wiki/Pearlfin_Village "Pearlfin Village")
+-   [Shrine of Seven Stars](https://wowpedia.fandom.com/wiki/Shrine_of_Seven_Stars "Shrine of Seven Stars")
+-   [Westwind Rest](https://wowpedia.fandom.com/wiki/Westwind_Rest "Westwind Rest")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Fort Wrynn](https://wowpedia.fandom.com/wiki/Fort_Wrynn "Fort Wrynn")
+-   [Highpass](https://wowpedia.fandom.com/wiki/Highpass "Highpass")
+-   [Lion's Watch](https://wowpedia.fandom.com/wiki/Lion%27s_Watch "Lion's Watch")
+-   [Lunarfall](https://wowpedia.fandom.com/wiki/Lunarfall "Lunarfall")
+-   [Southport](https://wowpedia.fandom.com/wiki/Southport "Southport")
+-   [Stormshield](https://wowpedia.fandom.com/wiki/Stormshield "Stormshield")
+-   [Telaari Station](https://wowpedia.fandom.com/wiki/Telaari_Station "Telaari Station")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Greywatch](https://wowpedia.fandom.com/wiki/Greywatch "Greywatch")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Arom's Stand](https://wowpedia.fandom.com/wiki/Arom%27s_Stand "Arom's Stand")
+-   [Brennadam](https://wowpedia.fandom.com/wiki/Brennadam "Brennadam")
+-   [Bridgeport](https://wowpedia.fandom.com/wiki/Bridgeport "Bridgeport")
+-   [Deadwash](https://wowpedia.fandom.com/wiki/Deadwash "Deadwash")
+-   [Falconhurst](https://wowpedia.fandom.com/wiki/Falconhurst "Falconhurst")
+-   [Fallhaven](https://wowpedia.fandom.com/wiki/Fallhaven "Fallhaven")
+-   [Fletcher's Hollow](https://wowpedia.fandom.com/wiki/Fletcher%27s_Hollow "Fletcher's Hollow")
+-   [Fort Daelin](https://wowpedia.fandom.com/wiki/Fort_Daelin "Fort Daelin")
+-   [Hatherford](https://wowpedia.fandom.com/wiki/Hatherford "Hatherford")
+-   [Norwington Estate](https://wowpedia.fandom.com/wiki/Norwington_Estate "Norwington Estate")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Fort Victory](https://wowpedia.fandom.com/wiki/Fort_Victory "Fort Victory")
+-   [Shatterstone Harbor](https://wowpedia.fandom.com/wiki/Shatterstone_Harbor "Shatterstone Harbor")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
+-   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
+-   [Nethergarde Keep](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep")
+-   [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore")
+-   [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles")
+    -   [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle")
+    -   [Bloodmyst Isle](https://wowpedia.fandom.com/wiki/Bloodmyst_Isle "Bloodmyst Isle")
+-   [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh")
+-   [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")
+-   [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest")
+-   [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_peninsula "Gilneas peninsula")
+-   [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan")
+-   [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains")
+-   [Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands")
+-   [Westfall](https://wowpedia.fandom.com/wiki/Westfall "Westfall")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") | 
+
+-   [House of Nobles](https://wowpedia.fandom.com/wiki/House_of_Nobles "House of Nobles")
+-   [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7")
+-   [Stormwind Fleet](https://wowpedia.fandom.com/wiki/Stormwind_Fleet "Stormwind Fleet")
+-   [Stormwind Army](https://wowpedia.fandom.com/wiki/Stormwind_Army "Stormwind Army")
+    -   [Stormwind Guard](https://wowpedia.fandom.com/wiki/Stormwind_Guard "Stormwind Guard")
+    -   [Stormwind City Guard](https://wowpedia.fandom.com/wiki/Stormwind_City_Guard "Stormwind City Guard")
+    -   [Stormwind Royal Guard](https://wowpedia.fandom.com/wiki/Stormwind_Royal_Guard "Stormwind Royal Guard")
+    -   [Stormwind Harbor Guards](https://wowpedia.fandom.com/wiki/Stormwind_Harbor_Guards "Stormwind Harbor Guards")
+    -   [Stormwind Elite Aquatic and Land Forces](https://wowpedia.fandom.com/wiki/Stormwind_Elite_Aquatic_and_Land_Forces "Stormwind Elite Aquatic and Land Forces")
+    -   [Westfall Brigade](https://wowpedia.fandom.com/wiki/Westfall_Brigade "Westfall Brigade")
+    -   [Bravo Company](https://wowpedia.fandom.com/wiki/Bravo_Company "Bravo Company")
+-   [Night Watch](https://wowpedia.fandom.com/wiki/Night_Watch "Night Watch")
+-   [Nijel's Point Guard](https://wowpedia.fandom.com/wiki/Nijel%27s_Point_Guard "Nijel's Point Guard")
+
+
+
+ |
+|  |
+| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") | 
+
+-   [Senate of Ironforge](https://wowpedia.fandom.com/wiki/Senate_of_Ironforge "Senate of Ironforge")
+-   [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")
+-   [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Forgeguard](https://wowpedia.fandom.com/wiki/Forgeguard "Forgeguard")
+    -   [Dark Iron Demolishers](https://wowpedia.fandom.com/wiki/Dark_Iron_Demolishers "Dark Iron Demolishers")
+    -   [Shadowforge clan](https://wowpedia.fandom.com/wiki/Shadowforge_clan "Shadowforge clan")
+-   [Bronzebeard clan](https://wowpedia.fandom.com/wiki/Bronzebeard_clan "Bronzebeard clan")
+-   [Stormpike clan](https://wowpedia.fandom.com/wiki/Stormpike_clan "Stormpike clan")
+    -   [Stormpike Guard](https://wowpedia.fandom.com/wiki/Stormpike_Guard "Stormpike Guard")
+-   [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League")
+    -   [Bael'dun](https://wowpedia.fandom.com/wiki/Bael%27dun "Bael'dun")
+-   [Ironforge Guard](https://wowpedia.fandom.com/wiki/Ironforge_Guard "Ironforge Guard")
+-   [Ironforge 127th Paratroopers](https://wowpedia.fandom.com/wiki/Ironforge_127th_Paratroopers "Ironforge 127th Paratroopers")
+-   [Ironforge Siege Brigade](https://wowpedia.fandom.com/wiki/Ironforge_Siege_Brigade "Ironforge Siege Brigade")
+-   [Ironforge Brigade](https://wowpedia.fandom.com/wiki/Ironforge_Brigade "Ironforge Brigade")
+-   [Miners' League](https://wowpedia.fandom.com/wiki/Miners%27_League "Miners' League")
+-   [Royal Stonecutters Union](https://wowpedia.fandom.com/wiki/Royal_Stonecutters_Union "Royal Stonecutters Union")
+-   [Hidden Circle](https://wowpedia.fandom.com/wiki/Hidden_Circle "Hidden Circle")
+
+
+
+ |
+|  |
+| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") | 
+
+-   [Darnassian Army](https://wowpedia.fandom.com/wiki/Darnassian_Army "Darnassian Army")
+    -   [Sentinels](https://wowpedia.fandom.com/wiki/Sentinels "Sentinels")
+        -   [Silverwing Sentinels](https://wowpedia.fandom.com/wiki/Silverwing_Sentinels "Silverwing Sentinels")
+        -   [Sentinel spies](https://wowpedia.fandom.com/wiki/Sentinel_spies "Sentinel spies")
+    -   [Army of the Black Moon](https://wowpedia.fandom.com/wiki/Army_of_the_Black_Moon "Army of the Black Moon")
+    -   [Darnassian City Guard](https://wowpedia.fandom.com/wiki/Darnassian_City_Guard "Darnassian City Guard")
+-   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
+-   [Wintersaber Trainers](https://wowpedia.fandom.com/wiki/Wintersaber_Trainers "Wintersaber Trainers")
+-   [Watchers](https://wowpedia.fandom.com/wiki/Watchers "Watchers")
+-   [Auberdine Village Council](https://wowpedia.fandom.com/wiki/Auberdine_Village_Council "Auberdine Village Council")
+-   [Council of the Forest](https://wowpedia.fandom.com/wiki/Council_of_the_Forest "Council of the Forest")
+-   [Circle of the Ancients](https://wowpedia.fandom.com/wiki/Circle_of_the_Ancients "Circle of the Ancients")
+
+
+
+ |
+|  |
+| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") | 
+
+-   [A.C.E.](https://wowpedia.fandom.com/wiki/A.C.E. "A.C.E.")
+-   [Gnomeregan Airmen](https://wowpedia.fandom.com/wiki/Gnomeregan_Airmen "Gnomeregan Airmen")
+-   [Gnomeregan Covert Ops](https://wowpedia.fandom.com/wiki/Gnomeregan_Covert_Ops "Gnomeregan Covert Ops")
+-   [G.E.A.R.](https://wowpedia.fandom.com/wiki/Gnomish_Elite_Aerial_Rangers "Gnomish Elite Aerial Rangers")
+-   [Razak's Roughriders](https://wowpedia.fandom.com/wiki/Razak%27s_Roughriders "Razak's Roughriders")
+-   [S.A.F.E.](https://wowpedia.fandom.com/wiki/Survivor_Assistance_Facilitation_Expedition "Survivor Assistance Facilitation Expedition")
+
+
+
+ |
+|  |
+| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") | 
+
+-   [Hand of Argus](https://wowpedia.fandom.com/wiki/Hand_of_Argus "Hand of Argus")
+    -   [Triumvirate of the Hand](https://wowpedia.fandom.com/wiki/Triumvirate_of_the_Hand "Triumvirate of the Hand")
+    -   [Defenders of Blood Watch](https://wowpedia.fandom.com/wiki/Defenders_of_Blood_Watch "Defenders of Blood Watch")
+-   [Omenai](https://wowpedia.fandom.com/wiki/Omenai "Omenai")
+-   [Light's Chosen](https://wowpedia.fandom.com/wiki/Light%27s_Chosen "Light's Chosen")
+
+
+
+ |
+|  |
+| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") | 
+
+-   [Gilnean military](https://wowpedia.fandom.com/wiki/Gilnean_military "Gilnean military")
+    -   [Gilnean Royal Guard](https://wowpedia.fandom.com/wiki/Gilnean_Royal_Guard "Gilnean Royal Guard")
+    -   [Gilneas Liberation Front](https://wowpedia.fandom.com/wiki/Gilneas_Liberation_Front "Gilneas Liberation Front")
+        -   [Refugee Leadership](https://wowpedia.fandom.com/wiki/Refugee_Leadership "Refugee Leadership")
+    -   [Gilneas Brigade](https://wowpedia.fandom.com/wiki/Gilneas_Brigade "Gilneas Brigade")
+-   [Bloodfang Pack](https://wowpedia.fandom.com/wiki/Bloodfang_pack "Bloodfang pack")
+-   [Wolfpack](https://wowpedia.fandom.com/wiki/Wolfpack "Wolfpack")
+
+
+
+ |
+|  |
+| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") | 
+
+-   [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet")
+-   [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore")
+    -   [Proudmoore Admiralty](https://wowpedia.fandom.com/wiki/Proudmoore_Admiralty "Proudmoore Admiralty")
+    -   [Proudmoore Battalion](https://wowpedia.fandom.com/wiki/Proudmoore_Battalion "Proudmoore Battalion")
+    -   [Proudmoore Guard](https://wowpedia.fandom.com/wiki/Proudmoore_Guard "Proudmoore Guard")
+-   [House Waycrest](https://wowpedia.fandom.com/wiki/House_Waycrest "House Waycrest")
+    -   [Waycrest Guard](https://wowpedia.fandom.com/wiki/Waycrest_Guard "Waycrest Guard")
+    -   [Order of Embers](https://wowpedia.fandom.com/wiki/Order_of_Embers "Order of Embers")
+-   [Norwington](https://wowpedia.fandom.com/wiki/Norwington "Norwington")
+-   [Roughnecks](https://wowpedia.fandom.com/wiki/Roughnecks "Roughnecks")
+-   [House Stormsong](https://wowpedia.fandom.com/wiki/House_Stormsong "House Stormsong")
+    -   [Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages")
+-   [Boralus Guard](https://wowpedia.fandom.com/wiki/Boralus_Guard "Boralus Guard")
+-   [Outriggers](https://wowpedia.fandom.com/wiki/Outriggers "Outriggers")
+-   [Storm's Wake](https://wowpedia.fandom.com/wiki/Storm%27s_Wake "Storm's Wake")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Tushui Pandaren](https://wowpedia.fandom.com/wiki/Tushui_Pandaren "Tushui Pandaren")
+-   [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light")
+-   [Void elves](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
+-   [Obsidian Warders](https://wowpedia.fandom.com/wiki/Obsidian_Warders "Obsidian Warders")
+-   [Kingdom of Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)")
+    -   [League of Arathor](https://wowpedia.fandom.com/wiki/League_of_Arathor "League of Arathor")
+    -   [Stromgarde Militia](https://wowpedia.fandom.com/wiki/Stromgarde_Militia "Stromgarde Militia")
+    -   [Dabyrie militia](https://wowpedia.fandom.com/wiki/Dabyrie_militia "Dabyrie militia")
+-   [Alliance High Command](https://wowpedia.fandom.com/wiki/High_Command "High Command")
+-   [7th Legion](https://wowpedia.fandom.com/wiki/7th_Legion "7th Legion")
+    -   [7th Fleet](https://wowpedia.fandom.com/wiki/7th_Fleet "7th Fleet")
+-   [Alliance navy](https://wowpedia.fandom.com/wiki/Alliance_navy "Alliance navy")
+    -   [Alliance Naval Command](https://wowpedia.fandom.com/wiki/Alliance_Naval_Command "Alliance Naval Command")
+    -   [Third Fleet](https://wowpedia.fandom.com/wiki/Third_Fleet "Third Fleet")
+    -   [North Fleet](https://wowpedia.fandom.com/wiki/North_Fleet "North Fleet")
+-   [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")
+-   [Morgan's Militia](https://wowpedia.fandom.com/wiki/Morgan%27s_Militia "Morgan's Militia")
+-   [Highvale](https://wowpedia.fandom.com/wiki/Highvale "Highvale")
+-   [Alliance Trauma](https://wowpedia.fandom.com/wiki/Alliance_Trauma "Alliance Trauma")
+-   [Sons of Lothar](https://wowpedia.fandom.com/wiki/Sons_of_Lothar "Sons of Lothar")
+    -   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
+-   [Kurenai](https://wowpedia.fandom.com/wiki/Kurenai "Kurenai")
+-   [Alliance Vanguard](https://wowpedia.fandom.com/wiki/Alliance_Vanguard "Alliance Vanguard")
+    -   [Frostborn](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
+    -   [Valiance Expedition](https://wowpedia.fandom.com/wiki/Valiance_Expedition "Valiance Expedition")
+        -   [Unit S](https://wowpedia.fandom.com/wiki/Unit_S "Unit S")
+        -   [Unit Darkshire](https://wowpedia.fandom.com/wiki/Unit_Darkshire "Unit Darkshire")
+        -   [Unit Goldshire](https://wowpedia.fandom.com/wiki/Unit_Goldshire "Unit Goldshire")
+-   [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")
+-   [Shen'dralar](https://wowpedia.fandom.com/wiki/Shen%27dralar "Shen'dralar") [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne")
+-   [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad")
+    -   [Baradin's Wardens](https://wowpedia.fandom.com/wiki/Baradin%27s_Wardens "Baradin's Wardens")
+-   [Pearlfin Jinyu](https://wowpedia.fandom.com/wiki/Pearlfin_Jinyu "Pearlfin Jinyu")
+-   [Operation: Shieldwall](https://wowpedia.fandom.com/wiki/Operation:_Shieldwall "Operation: Shieldwall")
+-   [Bizmo's Brawlpub](https://wowpedia.fandom.com/wiki/Bizmo%27s_Brawlpub "Bizmo's Brawlpub")
+-   [Wrynn's Vanguard](https://wowpedia.fandom.com/wiki/Wrynn%27s_Vanguard "Wrynn's Vanguard")
+-   [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)")
+    -   [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+        -   [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive")
+    -   [Nethergarde](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep")
+-   [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand")
+-   [Riftrunners](https://wowpedia.fandom.com/wiki/Riftrunners "Riftrunners")
+-   [Light's Vengeance](https://wowpedia.fandom.com/wiki/Light%27s_Vengeance_(island_expedition) "Light's Vengeance (island expedition)")
+-   [Auric's Angels](https://wowpedia.fandom.com/wiki/Auric%27s_Angels "Auric's Angels")
+-   [Briona's Buccaneers](https://wowpedia.fandom.com/wiki/Briona%27s_Buccaneers "Briona's Buccaneers")
+-   [Purified](https://wowpedia.fandom.com/wiki/Purified "Purified")
+-   [Waveblade Ankoan](https://wowpedia.fandom.com/wiki/Waveblade_Ankoan "Waveblade Ankoan")
+-   [Grumbol's Hammers](https://wowpedia.fandom.com/wiki/Grumbol%27s_Hammers "Grumbol's Hammers")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Theramore](https://wowpedia.fandom.com/wiki/Theramore_(nation) "Theramore (nation)")
+    -   [Theramore Guard](https://wowpedia.fandom.com/wiki/Theramore_Guard "Theramore Guard")
+        -   [Elite Guard](https://wowpedia.fandom.com/wiki/Elite_Guard "Elite Guard")
+    -   [Northwatch Expeditionary Unit](https://wowpedia.fandom.com/wiki/Northwatch_Expeditionary_Unit "Northwatch Expeditionary Unit")
+-   **Kingdom of Lordaeron**
+-   [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+|  |
+| Alliance-aligned and allies | 
+
+-   [Council of Exarchs](https://wowpedia.fandom.com/wiki/Council_of_Exarchs "Council of Exarchs")
+    -   [Hand of the Prophet](https://wowpedia.fandom.com/wiki/Hand_of_the_Prophet "Hand of the Prophet")
+    -   [Auchenai](https://wowpedia.fandom.com/wiki/Auchenai_(alternate_universe) "Auchenai (alternate universe)")
+    -   [Sha'tari Defense](https://wowpedia.fandom.com/wiki/Sha%27tari_Defense "Sha'tari Defense")
+    -   [Rangari](https://wowpedia.fandom.com/wiki/Rangari "Rangari")
+-   [Scarlet renegades](https://wowpedia.fandom.com/wiki/Scarlet_renegades "Scarlet renegades")
+-   [Stillpine tribe](https://wowpedia.fandom.com/wiki/Stillpine_tribe "Stillpine tribe")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Blackmaw tribe](https://wowpedia.fandom.com/wiki/Blackmaw_tribe "Blackmaw tribe")
+-   [Blackwood tribe](https://wowpedia.fandom.com/wiki/Blackwood_tribe "Blackwood tribe")
+-   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)")
+-   [Alliance organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
+-   [Alliance technology](https://wowpedia.fandom.com/wiki/Alliance_technology "Alliance technology")
+-   [Alliance territories](https://wowpedia.fandom.com/wiki/Category:Alliance_territories "Category:Alliance territories")
+
+
+
+ |

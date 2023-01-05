@@ -1,0 +1,53 @@
+_"Sundering" redirects here. For other sunderings, see [Sundering (disambiguation)](https://wowpedia.fandom.com/wiki/Sundering_(disambiguation) "Sundering (disambiguation)"). For the recent event sometimes called the Sundering, see [Cataclysm (event)](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Great_Sundering_Suramar_cinematic.jpg/revision/latest/scale-to-width-down/350?cb=20160925160913)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Great_Sundering_Suramar_cinematic.jpg/revision/latest?cb=20160925160913)
+
+[Ancient Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") splitting into the continents of today.
+
+The **Great Sundering**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-3">[3]</a></sup> (also simply known as the **Sundering**, or the **Breaking**)<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-4">[4]</a></sup><sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-5">[5]</a></sup> was a cataclysmic event that shattered the continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") approximately 10,000 years ago, at the end of the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). This was caused by the implosion of the destabilized [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), which destroyed eighty percent of Kalimdor's landmass, sending it down to the bottom of the oceans.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-6">[6]</a></sup>
+
+A seething, massive whirlpool known as the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") now remains where the Well of Eternity once stood.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-7">[7]</a></sup> Left behind were the major continents known today as [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"), the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), and the remnant still referred to as [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). Other islands such as [Kezan](https://wowpedia.fandom.com/wiki/Kezan "Kezan"), [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras"), [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), and the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") survived too.
+
+## Consequences
+
+During [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")'s last assault against the forces of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), the druid drew upon the power of the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") to disrupt the Highborne's carefully crafted spellwork and shatter the connection between the Legion and Azeroth. The unstable vortex within the Well's depths exploded and ignited a catastrophic chain of events that would sunder the world forever. The massive explosion rocked the temple to its foundations and sent massive quakes ripping through the tortured earth. As the horrific battle between the Legion and the night elves' allies raged around and above the ruined capital city, the surging Well of Eternity buckled in upon itself and collapsed.
+
+As the aftershocks from the Well's implosion rattled the bones of the world, the seas rushed in to fill the gaping wound left in the earth. Nearly eighty percent of [Kalimdor's landmass](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") had been blasted apart, leaving only a handful of separate continents surrounding the new, raging sea. At the center of the new sea, where the Well of Eternity once stood, was a tumultuous storm of tidal fury and chaotic energies. This terrible scar, known as the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"), would never cease its furious spinning. It would remain a constant reminder of the terrible catastrophe.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Warbringers_Azshara_holding_a_barrier.jpg/revision/latest/scale-to-width-down/180?cb=20180826155804)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Warbringers_Azshara_holding_a_barrier.jpg/revision/latest?cb=20180826155804)
+
+[Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") held back the waves in [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") for a small time during the Sundering as shown in _[Warbringers](https://wowpedia.fandom.com/wiki/Warbringers "Warbringers")_.
+
+Somehow, against all odds, [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") elite managed to survive the ordeal. Tortured and twisted by the powers they had released, Azshara and her followers were dragged down beneath the raging sea by the Well's implosion. Cursed — transformed — they took on new shapes and became the hateful serpentine [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"). Azshara herself expanded with hate and rage, becoming a massive monstrosity, reflecting the wickedness and malice that had always hidden within her core.
+
+There, at the bottom of the Maelstrom, the naga built for themselves a new city, [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"), from which they would rebuild their power. It would take over ten thousand years before the naga would reveal their existence to the surface world.
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+A non-canonical name for the event is the **Cataclysm**.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Great_Sundering#cite_note-8">[8]</a></sup>
+
+## Inspiration
+
+The concept of a sundering, or a world being reshaped, is a common theme found in fantasy. Tolkien described a reshaping of Arda, and lands lost to the seas in his writings, and the Dragonlance Dungeons and Dragons gameworld underwent the Cataclysm, where seas receded to the point that a coastal port town became landlocked. In Warhammer, the Gates of Old Ones once shattered and Chaos swept the world, damaging the land, primary on north and south poles. In David Eddings' Belgariad, the dark God Kal Torak attempted to use a magic orb that had been used to shape the world in anger and split the world in two and mutilated himself, an event similar to the Sundering.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/db/The_Sundering_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220605234958)](https://static.wikia.nocookie.net/wowpedia/images/d/db/The_Sundering_HS.jpg/revision/latest?cb=20220605234958)
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Great_Sundering.jpg/revision/latest/scale-to-width-down/120?cb=20080216184311)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Great_Sundering.jpg/revision/latest?cb=20080216184311)
+    
+    Fan art of the Sundering.
+    
+
+## See also
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Inv_shoulder_plate_raidwarrior_j_01.png/revision/latest/scale-to-width-down/16?cb=20110505120126)[\[Echoes of the Great Sundering\]](https://wowpedia.fandom.com/wiki/Echoes_of_the_Great_Sundering)
+
+## References
+
+Others like you also viewed

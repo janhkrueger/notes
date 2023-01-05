@@ -1,0 +1,551 @@
+_For the_ [The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne") _mission, see [The Broken Isles (WC3 NightElf)](https://wowpedia.fandom.com/wiki/The_Broken_Isles_(WC3_NightElf) "The Broken Isles (WC3 NightElf)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Broken Isles |
+| --- |
+| Level: 10 - 45 |
+| [![Legion Broken Isles loading screen.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Legion_Broken_Isles_loading_screen.jpg/revision/latest/scale-to-width-down/260?cb=20180320013304)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Legion_Broken_Isles_loading_screen.jpg/revision/latest?cb=20180320013304)  
+[Loading screen](https://wowpedia.fandom.com/wiki/Loading_screen "Loading screen") as of [patch 7.1.0](https://wowpedia.fandom.com/wiki/Patch_7.1.0 "Patch 7.1.0")
+
+
+
+ |
+| Capital(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")  
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") |
+| Races | [![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Vrykul_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118110203)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")[![Vrykul](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul")  
+[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Nightborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20181218105426)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")  
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
+[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Highmountain_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520042932)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/d/d6/IconSmall_Highmountain_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520043557)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren") [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")  
+[![IconSmall Drogbar.gif](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Drogbar.gif/revision/latest/scale-to-width-down/16?cb=20211118202447)](https://static.wikia.nocookie.net/wowpedia/images/4/42/IconSmall_Drogbar.gif/revision/latest?cb=20211118202447) [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")  
+[![Satyr](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_Satyr.gif/revision/latest/scale-to-width-down/16?cb=20211118202207)](https://wowpedia.fandom.com/wiki/Satyr "Satyr") [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")  
+[![IconSmall NightmareCenarian Male.gif](https://static.wikia.nocookie.net/wowpedia/images/f/f9/IconSmall_NightmareCenarian_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519163144)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/IconSmall_NightmareCenarian_Male.gif/revision/latest?cb=20200519163144)[![Keeper of the grove](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Cenarian_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519150626)](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove") [Keeper of the grove](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove")  
+[![IconSmall NightmareCenarian Female.gif](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_NightmareCenarian_Female.gif/revision/latest/scale-to-width-down/16?cb=20200519165341)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_NightmareCenarian_Female.gif/revision/latest?cb=20200519165341)[![Dryad](https://static.wikia.nocookie.net/wowpedia/images/1/1c/IconSmall_Cenarian_Female.gif/revision/latest/scale-to-width-down/16?cb=20200519163859)](https://wowpedia.fandom.com/wiki/Dryad "Dryad") [Dryad](https://wowpedia.fandom.com/wiki/Dryad "Dryad")  
+[![Demon](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Doomguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110656)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_Felguard.gif/revision/latest/scale-to-width-down/16?cb=20211126111204)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/9/9e/IconSmall_Wrathguard.gif/revision/latest/scale-to-width-down/16?cb=20211126110002)](https://wowpedia.fandom.com/wiki/Demon "Demon")[![Demon](https://static.wikia.nocookie.net/wowpedia/images/b/bd/IconSmall_Imp.gif/revision/latest/scale-to-width-down/16?cb=20211118210606)](https://wowpedia.fandom.com/wiki/Demon "Demon") [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon")  
+[![Naga](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118120929)](https://wowpedia.fandom.com/wiki/Naga "Naga")[![Naga](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)](https://wowpedia.fandom.com/wiki/Naga "Naga") [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")  
+[![Makrura](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Makrura.gif/revision/latest/scale-to-width-down/16?cb=20211118214808)](https://wowpedia.fandom.com/wiki/Makrura "Makrura") [Makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura")  
+[![IconSmall Harpy2.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Harpy2.gif/revision/latest/scale-to-width-down/16?cb=20211118213226)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Harpy2.gif/revision/latest?cb=20211118213226) [Harpy](https://wowpedia.fandom.com/wiki/Harpy "Harpy")  
+[![Kobold](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Kobold.gif/revision/latest/scale-to-width-down/16?cb=20200520131313)](https://wowpedia.fandom.com/wiki/Kobold "Kobold") [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")  
+[![IconSmall DireFurbolg.gif](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_DireFurbolg.gif/revision/latest/scale-to-width-down/16?cb=20211118211017)](https://static.wikia.nocookie.net/wowpedia/images/0/02/IconSmall_DireFurbolg.gif/revision/latest?cb=20211118211017) [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg")  
+[![IconSmall Murloc.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Murloc.gif/revision/latest/scale-to-width-down/16?cb=20211119105825)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Murloc.gif/revision/latest?cb=20211119105825) [Murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc")  
+[![Storm drake](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Thorignir.gif/revision/latest/scale-to-width-down/16?cb=20211129081026)](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake") [Storm drake](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")  
+[![Blue dragon](https://static.wikia.nocookie.net/wowpedia/images/a/af/IconSmall_DragonBlue2.gif/revision/latest/scale-to-width-down/16?cb=20221208133249)](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") [Blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")  
+[![IconSmall Skrog.gif](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest/scale-to-width-down/16?cb=20211129173801)](https://static.wikia.nocookie.net/wowpedia/images/1/17/IconSmall_Skrog.gif/revision/latest?cb=20211129173801) [Sea giant](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant")  
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
+[![IconSmall Skeleton.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest?cb=20211201223423) [Skeleton](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton")  
+[![IconSmall Ghost.gif](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Ghost.gif/revision/latest/scale-to-width-down/16?cb=20090306123755)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Ghost.gif/revision/latest?cb=20090306123755) [Ghost](https://wowpedia.fandom.com/wiki/Ghost "Ghost") |
+| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_Thalyssra.gif/revision/latest/scale-to-width-down/16?cb=20180129124130)[Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra")  
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/IconSmall_Mayla.gif/revision/latest/scale-to-width-down/16?cb=20180129123704)[Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/9/91/IconSmall_Odyn.gif/revision/latest/scale-to-width-down/16?cb=20211213160043)[Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)[Sigryn](https://wowpedia.fandom.com/wiki/Sigryn "Sigryn")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Navarrogg.gif/revision/latest/scale-to-width-down/16?cb=20211213120955)[Navarrogg](https://wowpedia.fandom.com/wiki/Navarrogg "Navarrogg")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Cenarius.gif/revision/latest/scale-to-width-down/16?cb=20200519141117)[Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/IconSmall_Farondis.gif/revision/latest/scale-to-width-down/16?cb=20180206221536)[Prince Farondis](https://wowpedia.fandom.com/wiki/Prince_Farondis "Prince Farondis")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") |
+| Affiliation | [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe"), [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar"), [Helarjar](https://wowpedia.fandom.com/wiki/Helarjar "Helarjar"), [Tideskorn](https://wowpedia.fandom.com/wiki/Tideskorn "Tideskorn"), [Drogbar tribes](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar"), [Court of Farondis](https://wowpedia.fandom.com/wiki/Court_of_Farondis "Court of Farondis"), [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
+| Location | [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-1">[1]</a></sup> (northeast of the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")) |
+
+“The Broken Isles are shrouded in mystery and intrigue. Their jagged coasts, lush forests, and colossal mountains are home to ancient ruins and cultures not seen by outsiders for thousands of years. Every stone has a story to tell; every cavern holds the promise of a new discovery.”
+
+— _[The Art of World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/The_Art_of_World_of_Warcraft:_Legion "The Art of World of Warcraft: Legion")_, pg. 44
+
+The **Broken Isles** are a chain of [islands](https://wowpedia.fandom.com/wiki/Island "Island") located northeast of the raging [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"). Littered with ancient [elven ruins](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), they contain notably the mighty [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") city of [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") as well as the long-lost [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"). The [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") commenced when the sealed portal inside the Tomb was opened again by [Gul'dan from the alternate universe](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)").
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Third_invasion_Fault_Lines.jpg/revision/latest/scale-to-width-down/180?cb=20160701110223)](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Third_invasion_Fault_Lines.jpg/revision/latest?cb=20160701110223)
+
+The [Felstorm](https://wowpedia.fandom.com/wiki/Felstorm "Felstorm") erupts from the Tomb, and the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") commences.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Felstorm_-_Legion_cinematic_matte_painting.jpg/revision/latest/scale-to-width-down/180?cb=20180621154515)](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Felstorm_-_Legion_cinematic_matte_painting.jpg/revision/latest?cb=20180621154515)
+
+The [Felstorm](https://wowpedia.fandom.com/wiki/Felstorm "Felstorm") and the Broken Isles.
+
+Before the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), the region that would become the Broken Isles was a part of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") on [Ancient Kalimdor](https://wowpedia.fandom.com/wiki/Ancient_Kalimdor "Ancient Kalimdor").
+
+It was here that the ancient forest of [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah"), home of [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius"), and birthplace of [druidism](https://wowpedia.fandom.com/wiki/Druidism "Druidism") and its first mortal druid [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), was located, as well as the [city of Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City"), where [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") was born. Tyrande, Malfurion and his brother [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") also grew up there, along with [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"), Captain of Suramar's Guard, and [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong"), a high-ranking priestess of the [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune"), also centered in Suramar.
+
+During the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") night elves of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"), led by [Elisande](https://wowpedia.fandom.com/wiki/Elisande "Elisande"), used the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation") to seal a gateway the Legion prepared to open in an attempt to overwhelm the [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance") on two fronts, but with the exception of the [Eye of Aman'Thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27Thul "Eye of Aman'Thul") (which they used to create the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell") within [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")) apparently scattered most of them throughout the other regions of the Broken Isles, just before the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
+
+The Sundering blasted a part of Suramar underwater, though the majority of the city was saved by the future [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") thanks to a magical shield that shielded the city.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-2">[2]</a></sup>
+
+[Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"), the [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"), came to the island of [Thal'dranath](https://wowpedia.fandom.com/wiki/Thal%27dranath "Thal'dranath") seeking a safe place to entomb the corpse of the [avatar of Sargeras](https://wowpedia.fandom.com/wiki/Avatar_of_Sargeras "Avatar of Sargeras"), knowing it still held power. She thus placed his body in a [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") facility underneath the sunken [Temple of Elune](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), which would eventually become known as the Tomb of Sargeras.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-4">[4]</a></sup>
+
+### Second War
+
+During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") abandoned the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") and led his [Stormreaver](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan") and [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") followers to the Broken Isles, seeking the power of the Tomb for himself. The [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") and his men raised Thal'dranath,<sup id="cite_ref-Kosak_5-0"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-Kosak-5">[5]</a></sup><sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-6">[6]</a></sup> from the bottom of the sea. As he opened the Tomb, he was torn to shreds by the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") inside. [Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer") loyalists of the [Blackrock](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") and [Black Tooth Grin clans](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan") then finished Gul'dan's troops,<sup id="cite_ref-WC2Orc_7-0"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-WC2Orc-7">[7]</a></sup> though the Hammer and [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") managed to survive and escape.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-8">[8]</a></sup>
+
+### Third War
+
+During the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") chased escaped prisoner [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") to the Isles, who searched for the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). She discovered the remains of the ancient [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") city of Suramar, as well as a never-ending battle between the undead remnants of the Twilight's Hammer, Blackrock, and Stormreaver clans.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-9">[9]</a></sup> Maiev pursued Illidan into the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), but Illidan found the Eye first and used it to collapse [a section of the tomb](https://wowpedia.fandom.com/wiki/Collapse "Collapse") onto Maiev's forces.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-10">[10]</a></sup> Maiev sent a runner to return to Kalimdor and get help from Malfurion Stormrage,<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-11">[11]</a></sup> who rescued her forces and pursued Illidan.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-12">[12]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+The Broken Isles are a new continent introduced in _[World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ and are the main setting of the expansion. The Tomb of Sargeras has been reopened and demons have began to pour into the isles.
+
+## Geography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/340?cb=20180908202003)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest?cb=20180908202003)
+
+Map of the Broken Isles.
+
+### Zones
+
+### Lore locations
+
+<table><tbody><tr><td><ul><li><a href="https://wowpedia.fandom.com/wiki/Arauk-Nashal" title="Arauk-Nashal">Arauk-Nashal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Boughs_of_Azshara" title="Boughs of Azshara">Boughs of Azshara</a></li><li><a href="https://wowpedia.fandom.com/wiki/Brewmaster_drinking_area" title="Brewmaster drinking area">Brewmaster drinking area</a></li></ul></td><td><ul><li><a href="https://wowpedia.fandom.com/wiki/Chamber_of_the_Eye" title="Chamber of the Eye">Chamber of the Eye</a></li><li><a href="https://wowpedia.fandom.com/wiki/Izal-Shurah" title="Izal-Shurah">Izal-Shurah</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keeper_of_storms_shrine" title="Keeper of storms shrine">Keeper of storms shrine</a></li></ul></td><td><ul><li><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Aszune" title="Pillars of Aszune">Pillars of Aszune</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stormreaver_Bay" title="Stormreaver Bay">Stormreaver Bay</a></li></ul></td></tr></tbody></table>
+
+## Dungeons
+
+_Main article: [Instances by continent](https://wowpedia.fandom.com/wiki/Instances_by_continent "Instances by continent")_
+
+## Arenas
+
+_Main article: [Arena](https://wowpedia.fandom.com/wiki/Arena "Arena")_
+
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") [Ashamane's Fall](https://wowpedia.fandom.com/wiki/Ashamane%27s_Fall "Ashamane's Fall") - [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah")
+
+## Playable allied races
+
+-   [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+**The Broken Isles** include about four large (relatively speaking) islands and about three small islands. They were underwater until a scant few decades ago, when the orc warlock Gul'dan raised them from the ocean floor. Gul'dan was searching for the tomb of the fallen Titan Sargeras, and indeed he found it: The ancient Kaldorei structure stands on the largest isle. Other Kaldorei ruins, remnants of their culture from 10,000 years ago, stand on the other islands. For having been underwater for the better part of ten millennia, they look pretty good.
+
+The Broken Isles are an unpleasant and dangerous place. The [Death Hiss tribe](https://wowpedia.fandom.com/wiki/Death_Hiss_tribe "Death Hiss tribe") of naga dominates the region, led by [Tide Priest Harash](https://wowpedia.fandom.com/wiki/Harash "Harash"). Other threats are abundant as well: giant turtles, hydras, wendigo and a host of other dangers occupy the areas the naga are not. Also, a few goblin merchants have managed to carve out some spaces for themselves with the help of hired mercenaries.
+
+The Maelstrom is just northwest of the Broken Isles. It's close. It's too close. The Maelstrom's magical storms lash the Broken Isles, making for near constant winds and rainfall and, occasionally, something stranger. The Maelstrom's proximity makes the Broken Isles unstable. Soon, the storm will prove too much and the islands will sink back into the sea.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-13">[13]</a></sup>
+
+### History
+
+Five hundred years ago, Magna Aegwynn, Guardian of Tirisfal, slew the demon Sargeras, though just his physical form as his spirit inhabited her body and later possessed her child, Medivh. Knowing that the demon-Titan's corpse still had power, she sought a safe place to entomb it. She discovered a Kaldorei ruin deep beneath the sea, near the Maelstrom, and placed the body within, believing it to be secure. Time proved her incorrect.
+
+Centuries later, Medivh, possessed by Sargeras, convinced the orc shaman Gul'dan to lead his people through the Dark Portal to wage war on Azeroth. Medivh–Sargeras offered Gul'dan a powerful artifact called the Eye of Sargeras as incentive. Gul'dan grew impatient, though, and through magic and research divined the location of the Tomb of Sargeras. He raised the Broken Isles and entered the tomb. Gul'dan encountered many trials within the tomb. He kept a record of his experiences — a sort of diary — by painting Orcish runes onto the tomb's walls. Orc forces loyal to Doomhammer attacked Gul'dan's Stormreavers, and the shaman desperately sought the Eye. In the end, he failed, and the tomb's demonic guardians tore him asunder.
+
+Many years later, some time after the Third War, Illidan Stormrage, the Betrayer, traveled to the Tomb of Sargeras. Like Gul'dan, he too sought the Eye of Sargeras, supposedly intending to use it in a ritual to destabilize and destroy the Frozen Throne. The night elf warden Maiev Shadowsong tracked Illidan to the tomb. While there, she crossed paths with Drak'thul, and the warlock convinced her to help put some of the undead orcs to rest. She did so, though after she discovered that Drak'thul was part of Gul'dan's original coven and partly responsible for raising the Broken Isles and thus bringing dangerous artifacts like the Eye of Sargeras back into the world. She regretted her decision. Also within the tomb, Maiev discovered pieces of an artifact called the Orb of Shadow, and when she collected the entirety of the object it gave her great power. Maiev and her forces confronted Illidan deep within the tomb and interrupted his ritual. Illidan used the Eye to flood the tomb and escaped. Out of all the night elves, only Maiev had the power to escape death, and the loss of her forces embittered her. Since that time, naga and murlocs have emerged to claim the Broken Isles, and undead orcs continue to fight the Second War.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-14">[14]</a></sup>
+
+The [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")'s proximity ﬁnally proved too much for the Broken Isles, and they began to sink back into the sea. Before they did, however, several factions — including [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore")'s [mages](https://wowpedia.fandom.com/wiki/Mage "Mage") and [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)")'s [Explorers' Guild](https://wowpedia.fandom.com/wiki/Explorers%27_Guild "Explorers' Guild") — wanted to save the library of [Izal-Shurah](https://wowpedia.fandom.com/wiki/Izal-Shurah "Izal-Shurah"). They sent expeditions to treat with (or destroy) the library's [makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura") defenders. Complicating things were the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"), who were out in force, believing that the sinking of the isles was a time for celebration and a good omen for their culture. Moreover, the few [orc](https://wowpedia.fandom.com/wiki/Orc "Orc") survivors from the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War") and several roving bands of mercenaries attempted to storm the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")'s ships in a desperate attempt to save themselves.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-15">[15]</a></sup>
+
+### People and culture
+
+People aren't particularly prevalent in the Broken Isles, but cultures certainly are. The dominant force is the Death Hiss naga tribe. They have several bases throughout the region, and their forces are strong. Naga myrmidons, sirens and royal guard are out in force, posing a threat to all sensible races. The terrain favors the naga as well; if you're forced to flee the creatures, you can run only to the shore, and then they've got you. The naga live in Kaldorei ruins and have constructed some of their own buildings as well. The architecture is frighteningly similar. The Death Hiss naga have a distinctive warcry: the hiss, from which they take their name, which sounds like rain striking the ocean.
+
+The Lostfin tribe of murlocs is also strong in the Broken Isles. They, a few other murloc tribes, and some [mur'gul](https://wowpedia.fandom.com/wiki/Mur%27gul "Mur'gul") tribes live in stilted huts on the shores. You can also ran across sea giants and makrura. These two races aren't quite as bad as the others. Constant fighting against the naga, murlocs and other threats can do poor things to anyone's disposition, and makrura tend to attack intruders on sight.
+
+A few enterprising goblins manage to set themselves up on the islands as well, hiring out boats to make travel among the islands easier. They cater solely to adventurers. They brought mercenaries with them, to carve out locations for their shops and to protect them, and now the mercenaries hire themselves out to adventurers as well. The mercenaries myself seem to focus their efforts against the naga and murlocs and other native creatures.
+
+One other culture exists on these islands: orcs. These aren't orcs from Thrall's Horde, either, and many of them aren't even alive. During Gul'dan's betrayal, forces from the Blackrock, Twilight's Hammer, and Stormreaver clans clashed on the newly-summoned Broken Isles. The demons that guarded Sargeras's Tomb slaughtered the survivors, and now these skeletal and ghostly orc warriors battle each other for eternity. A few orcs, however, are not dead. These are mostly leftover warlocks from Gul'dan's clan, the Stormreavers, who were canny or lucky enough to escape destruction. They are scattered across the islands and have been living as hermits, probably eating crabs ever since the Second War. It is possible that a few more warlocks used to abide here, but they were voted off the islands. The oldest and sanest of these Stormreavers is a warlock named Drak'thul.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-16">[16]</a></sup>
+
+### Geography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Brokeisles2.PNG/revision/latest/scale-to-width-down/180?cb=20070305203607)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Brokeisles2.PNG/revision/latest?cb=20070305203607)
+
+The Broken Isles in _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_.
+
+Rain-lashed islands with ancient ruins and palm trees. That pretty much sums up the Broken Isles. The four large islands are arranged in a bit of a circle, with one large island at each point on the compass. All sorts of nasty beasts live here.
+
+Since the islands haven't been islands for very long, natural life hasn't had much a chance to get a foothold here, but palm trees, tropical fronds, and a few flowering plants push through the ruins. Coral is prevalent, and there are at least a dozen albatrosses. The coasts boast hermit crabs and colorful fish. Purple, black and orange urchins inhabit tide pools and the shores around the coral reefs.
+
+Stormreaver Bay is natural bay between the southwestern islands which boasts a bit of history. Gul'dan anchored his ships here when he was exploring the isles. The ships are long smashed, but their remains still drift in the aptly-named Stormreaver Bay.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-17">[17]</a></sup> The Broken Isles are being pulled toward the Maelstrom, and they will likely be destroyed at some point by the magical forces of the storm.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-18">[18]</a></sup>
+
+### RPG notes
+
+-   _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_ states that the [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") before the Third War lived in the Broken Isles, on an island near the Maelstrom.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-19">[19]</a></sup>
+
+## Notes and trivia
+
+-   In _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness"),_ the islands were shown to be halfway between [Balor](https://wowpedia.fandom.com/wiki/Balor "Balor") and [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-20">[20]</a></sup> Still in _Warcraft II_, only Aegwynn and Medivh knew the true location of the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), and they did not share that information with anybody.
+-   It was originally established that Gul'dan had raised the Broken Isles entirely, which where described as volcanic, from the bottom of the ocean.<sup id="cite_ref-WC2Orc_7-1"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-WC2Orc-7">[7]</a></sup> However, it has since been retconned so that he raised only the island of [Thal'dranath](https://wowpedia.fandom.com/wiki/Thal%27dranath "Thal'dranath"), also known as the Broken Shore,<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-21">[21]</a></sup> the rest having survived the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-22">[22]</a></sup>
+    -   [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") also knew about their existence,<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-23">[23]</a></sup> confirming the retcon.
+    -   After the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), Maiev's [runner](https://wowpedia.fandom.com/wiki/Night_Elf_Runner "Night Elf Runner") announced Illidan's presence on the Broken Isles, and they were not surprised by the location.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-24">[24]</a></sup> However, she was not aware that the Tomb of Sargeras or Suramar had remained.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-25">[25]</a></sup>
+-   The Broken Isles were represented by the Sunken Ruins melee [tileset](https://wowpedia.fandom.com/wiki/Tileset "Tileset") in _The Frozen Throne_, but none of the _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ areas perfectly match with the tileset.
+-   Before being added in _Legion_, the Broken Isles were lorewise far smaller, with the ruins of Suramar seemingly occupying all of the isles as seen in the maps.
+-   Under the water around the Broken Isles you can find several ruins, shipwrecks, bones and other interesting hidden things, such as a [jinyu](https://wowpedia.fandom.com/wiki/Jinyu "Jinyu") building near the [Veiled Isles](https://wowpedia.fandom.com/wiki/Veiled_Isles "Veiled Isles"),**<sup>[70,&nbsp;76]</sup>** a semi-sunken [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") [statue](https://wowpedia.fandom.com/wiki/Sotnar%27s_Rest "Sotnar's Rest") north of [Shield's Rest](https://wowpedia.fandom.com/wiki/Shield%27s_Rest "Shield's Rest"),**<sup>[68.5,&nbsp;18]</sup>** a [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") ship northeast of the [Cove of Nashal](https://wowpedia.fandom.com/wiki/Cove_of_Nashal "Cove of Nashal"),**<sup>[59,&nbsp;18]</sup>** a gigantic sea-creature skeleton found west from [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah")'s northwestern coast,**<sup>[21,&nbsp;21]</sup>** or multiple night elven ruins and skeletons (including a big horned one)**<sup>[64,&nbsp;56]</sup>** east of [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") and [Azuregale Bay](https://wowpedia.fandom.com/wiki/Azuregale_Bay "Azuregale Bay").**<sup>[64,&nbsp;50]</sup>**
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+### Location discrepancy
+
+The [northern islands](https://wowpedia.fandom.com/wiki/Northern_islands "Northern islands") may have been meant to represent the Broken Isles, but were seemingly too far north at the time. In _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_, the Broken Isles are located close to where the northern islands were on the Vanilla map, indicating that they may be in fact the same. However, the northern islands and the island that the RPG called the Broken Isles have been seemingly on the map at the same time since _Warcraft III_.
+
+### Contact with Kalimdor
+
+[![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up"). Reason: **Lots of facts, move concrete ones into History / Notes section, trim rest to describe the point of the speculation.**
+
+Exactly how much contact the night elves of Kalimdor retained with the people of the Broken Isles since the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") remains unclear, although some of the kaldorei would have limited contact with the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") and [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), including [Emmarel Shadewarden](https://wowpedia.fandom.com/wiki/Emmarel_Shadewarden "Emmarel Shadewarden"), and possibly [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon"), who cooperated with [Ranger Captain Areiel](https://wowpedia.fandom.com/wiki/Ranger_Captain_Areiel "Ranger Captain Areiel") two or three thousand years ago. [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") also planted three [World Trees](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") in Northrend and the Eastern Kingdoms in ancient times, indicating that some night elves did go to the other continents. _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_ is also vague regarding the kaldorei's involvement in affairs beyond Kalimdor, only mentioning that Tyrande and her night elves were "partially" aware of events happening in the Eastern Kingdoms, but only rarely and very subtly intervening; it is possible that the Kalimdor night elves were indeed vaguely aware of the Broken Isles and its surviving groups, but nevertheless focused most of their efforts on protecting [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil") and the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)"), their greatest and most sacred responsibility. Some night elf hunters left [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") after the Sundering and returned to [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain"), where they would form the [Unseen Path](https://wowpedia.fandom.com/wiki/Unseen_Path "Unseen Path") with the [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren"), although their numbers would gradually dwindle over the millennia,<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-26">[26]</a></sup> and some of these hunters, including the Path's founder [Namuria Gladesong](https://wowpedia.fandom.com/wiki/Namuria_Gladesong "Namuria Gladesong"), would return to Kalimdor to fight in conflicts such as the [War of the Shifting Sands](https://wowpedia.fandom.com/wiki/War_of_the_Shifting_Sands "War of the Shifting Sands").
+
+[Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") mentioned it was ten millennia since she last stepped foot in the land of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") since the War of the Ancients,<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-27">[27]</a></sup> and [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") notes that he has not stepped foot in [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") in "an age", mentioning that though the forest has aged, its spirits still remember him.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-28">[28]</a></sup> Elders from [Moonglade](https://wowpedia.fandom.com/wiki/Moonglade "Moonglade") "regularly" sent their most promising disciples to [Archdruid Glaidalis](https://wowpedia.fandom.com/wiki/Archdruid_Glaidalis "Archdruid Glaidalis"), implied to be a native to [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah"),<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-29">[29]</a></sup> for instruction, implying some older link between the [Dreamweavers](https://wowpedia.fandom.com/wiki/Dreamweavers "Dreamweavers") and the [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"), especially as there were very few kaldorei druids by the time of the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). In addition, Hamuul mentions [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") training druids in Val'sharah after the Sundering,<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-30">[30]</a></sup> and [Nyandra Springbloom](https://wowpedia.fandom.com/wiki/Nyandra_Springbloom "Nyandra Springbloom") confirms that the Archdruids have studied under Cenarius for thousands of years. The ethereal nature of the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"), combined with the fact that the druids would spend centuries or millennia wandering its vast and ever-shifting expanses, could also mean that Malfurion, Cenarius and the Cenarion Circle did not need to physically travel to Val'sharah, but rather simply met the other druids in the Dream to tutor them. Nevertheless, Malfurion has not returned to Val'sharah, the region of his birth, for a considerable period, as [Koda Steelclaw](https://wowpedia.fandom.com/wiki/Koda_Steelclaw "Koda Steelclaw") has not heard his name for "centuries".<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-31">[31]</a></sup>
+
+The [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune_(Val%27sharah) "Temple of Elune (Val'sharah)") in [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") has existed since before the Sundering, and remains in relatively well-kept condition, implying that some night elves either traveled to the Broken Isles, or never left to begin with. [Lyanis Moonfall](https://wowpedia.fandom.com/wiki/Lyanis_Moonfall "Lyanis Moonfall") apparently kept the [Tears of Elune](https://wowpedia.fandom.com/wiki/Tears_of_Elune "Tears of Elune") in a vault at the eastern edge of the temple grounds, stating that her "order" has protected them for thousands of years.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-32">[32]</a></sup> Tyrande apparently recognizes the priestesses of the Temple as belonging to her "order", the [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune"), and [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") as one of Elune's ancient territories, going as far as leaving her husband Malfurion to defend the Temple, although it remains unclear whether Tyrande herself personally visited the Temple in the millennia after the War of the Ancients.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-33">[33]</a></sup> Tyrande recognizes [Elothir](https://wowpedia.fandom.com/wiki/Elothir "Elothir"), although this might have been before the [Sundering](https://wowpedia.fandom.com/wiki/Sundering "Sundering"),<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-34">[34]</a></sup> and a [Temple Priestess](https://wowpedia.fandom.com/wiki/Temple_Priestess "Temple Priestess") has heard of the [Scythe of Elune](https://wowpedia.fandom.com/wiki/Scythe_of_Elune "Scythe of Elune"), presumably acknowledging its ancient history in Kalimdor.
+
+[Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") and her [Wardens](https://wowpedia.fandom.com/wiki/Wardens "Wardens") maintained a [Vault of the Wardens](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens "Vault of the Wardens") off the coast of [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"), built after the War of the Ancients<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-35">[35]</a></sup> and stated to have kept Kalimdor's greatest threats such as [Ash'Golm](https://wowpedia.fandom.com/wiki/Ash%27Golm "Ash'Golm") imprisoned within its chambers over the millennia; as Maiev became a Warden only after Illidan's imprisonment, this implies she and her Wardens returned to the Broken Isles not long after imprisoning Illidan in the [Barrow Deeps](https://wowpedia.fandom.com/wiki/Barrow_Deeps "Barrow Deeps"). The  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Ability_upgrademoonglaive.png/revision/latest/scale-to-width-down/16?cb=20180824003846)[\[Ceremonial Warden Glaive\]](https://wowpedia.fandom.com/wiki/Ceremonial_Warden_Glaive) is a weapon of formality from "an age when a posting to the Vault of the Wardens was considered prestigious", and [Warden Towers](https://wowpedia.fandom.com/wiki/Warden_Towers "Warden Towers") exist throughout the Isles, indicating their familiarity with the other regions. Maiev seemed genuinely surprised by the Broken Isles during her hunt for Illidan, and required calling for reinforcements from Malfurion in Kalimdor, despite the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") geographically being only a short distance away from the [Isle of the Watchers](https://wowpedia.fandom.com/wiki/Isle_of_the_Watchers "Isle of the Watchers").
+
+Some of the Kalimdor night elves, such as [Kallistia Starlance](https://wowpedia.fandom.com/wiki/Kallistia_Starlance "Kallistia Starlance") and [Olothil Starlance](https://wowpedia.fandom.com/wiki/Olothil_Starlance "Olothil Starlance"), presumably from the [Shen'dralar](https://wowpedia.fandom.com/wiki/Shen%27dralar "Shen'dralar") or trained as their students, have reunited with some of their long-lost kin in Azsuna,<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-36">[36]</a></sup> and [Namha Moonwater](https://wowpedia.fandom.com/wiki/Namha_Moonwater "Namha Moonwater") appears to be astonished by the tales of the night elves in [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"), implying that the [Court of Farondis](https://wowpedia.fandom.com/wiki/Court_of_Farondis "Court of Farondis") at least has had almost no contact with their brethren until very recently.
+
+Why the Kalimdor night elves did not re-establish, make contact with, or at least acknowledge the [Court of Farondis](https://wowpedia.fandom.com/wiki/Court_of_Farondis "Court of Farondis"), the [Dreamweavers](https://wowpedia.fandom.com/wiki/Dreamweavers "Dreamweavers"), the [Moon Guard](https://wowpedia.fandom.com/wiki/Moon_Guard "Moon Guard"), [Valewalker Farodin](https://wowpedia.fandom.com/wiki/Valewalker_Farodin "Valewalker Farodin"), or even their former kin in [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") (despite their shielding of the city), where many of their people lived for ages, remains unclear. For example, Tyrande and Malfurion, with their wariness of the arcane, might have been concerned or at least been curious as to the presence of a large arcane shield covering the city where they grew up in, something not easily ignored by anyone passing through the region over the past ten millennia, let alone any of the night elves. Why [Elisande](https://wowpedia.fandom.com/wiki/Elisande "Elisande") and the rest of the elves in Suramar, with their tremendous arcane powers over time and space, seemed unwilling to lift their shield and reconnect with their surviving kin in Kalimdor, or at least their kin in the rest of the Broken Isles, such as the neighboring Moon Guard, even while continuing to exile [Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen "Nightfallen") from the city, is also confusing; the Moon Guard apparently still thought the nightborne their friends despite their "long separation".<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-37">[37]</a></sup> Maiev and her Wardens apparently moved there after their estrangement from Tyrande and Malfurion in _[Wolfheart](https://wowpedia.fandom.com/wiki/Wolfheart "Wolfheart")_, and were aware of the Nightfallen who were banished from Suramar.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-38">[38]</a></sup> The [Moon Guard](https://wowpedia.fandom.com/wiki/Moon_Guard "Moon Guard") in turn is aware of the Wardens' presence in Azsuna and their secret prison facility underneath its mountains, as well as their usage of powerful containment crystals to hold their myriad prisoners, although it is unclear whether or not the two groups have ever directly interacted.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-39">[39]</a></sup>
+
+Following Suramar's liberation, Malfurion and Tyrande apparently remained in [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") until after the end of the [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade"), the Archdruid at his native village in [Lorlathil](https://wowpedia.fandom.com/wiki/Lorlathil "Lorlathil") and the High Priestess at the Temple, apparently emphasizing their renewed affinity for the region and its ties with their ancient orders.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_note-40">[40]</a></sup> Some [Nar'thalas magi](https://wowpedia.fandom.com/wiki/Nar%27thalas_Mage "Nar'thalas Mage") travel to Stormwind's Portal Room during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), affiliating themselves with [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), opening a portal to the [Crumbled Palace](https://wowpedia.fandom.com/wiki/Crumbled_Palace "Crumbled Palace"), and there is a continued presence of Kalimdor night elves in [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") such as [Mevris Ghostdancer](https://wowpedia.fandom.com/wiki/Mevris_Ghostdancer "Mevris Ghostdancer"), who helps his wife [Daniss Ghostdancer](https://wowpedia.fandom.com/wiki/Daniss_Ghostdancer "Daniss Ghostdancer") create [Drums of Primal Might](https://wowpedia.fandom.com/wiki/Drum_of_Primal_Might "Drum of Primal Might") against the Horde, in addition to the presence of Gilnean villagers at [Bradensbrook](https://wowpedia.fandom.com/wiki/Bradensbrook "Bradensbrook") (who were openly aided by [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong")). In addition, Maiev Shadowsong, her brother Jarod, and her Wardens have all left the Broken Isles and rejoined their kaldorei kin in the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") (presumably making the [Isle of the Watchers](https://wowpedia.fandom.com/wiki/Isle_of_the_Watchers "Isle of the Watchers") an Alliance or Alliance-leaning territory), actively assisting their efforts in the [Battle for Darkshore](https://wowpedia.fandom.com/wiki/Battle_for_Darkshore "Battle for Darkshore"). All of this makes it possible that at least some inhabitants of [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") and [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") have aligned themselves with Tyrande and Malfurion's night elves, possibly after the [Burning of Teldrassil](https://wowpedia.fandom.com/wiki/Burning_of_Teldrassil "Burning of Teldrassil"), helping to counterbalance the Horde-aligned [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren") and [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") of Highmountain and Suramar.
+
+## Gallery
+
+In-game maps
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/99/WorldMap-BrokenIsles-beta.jpg/revision/latest/scale-to-width-down/270?cb=20180827142031)](https://static.wikia.nocookie.net/wowpedia/images/9/99/WorldMap-BrokenIsles-beta.jpg/revision/latest?cb=20180827142031)
+    
+    _Legion_ beta.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/02/WorldMap-BrokenIsles-old.jpg/revision/latest/scale-to-width-down/270?cb=20190225054351)](https://static.wikia.nocookie.net/wowpedia/images/0/02/WorldMap-BrokenIsles-old.jpg/revision/latest?cb=20190225054351)
+    
+    _Legion_ release.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/WorldMap-BrokenIsles-old1.jpg/revision/latest/scale-to-width-down/270?cb=20190225045906)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/WorldMap-BrokenIsles-old1.jpg/revision/latest?cb=20190225045906)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/270?cb=20180908202003)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest?cb=20180908202003)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/AdventureMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/270?cb=20210414004128)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/AdventureMap-BrokenIsles.jpg/revision/latest?cb=20210414004128)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/AdventureMap-BrokenIslesDetailed.jpg/revision/latest/scale-to-width-down/270?cb=20210414203830)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/AdventureMap-BrokenIslesDetailed.jpg/revision/latest?cb=20210414203830)
+    
+    Flight Map and Scouting Map when zoomed in, shows additional points of interest.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Broken_Isles_-_World_Map.png/revision/latest/scale-to-width-down/233?cb=20180414230444)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Broken_Isles_-_World_Map.png/revision/latest?cb=20180414230444)
+    
+    _Legion_ world map.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/08/Broken_Isles_-_World_Map_BFA.jpg/revision/latest/scale-to-width-down/192?cb=20190114004052)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Broken_Isles_-_World_Map_BFA.jpg/revision/latest?cb=20190114004052)
+    
+    _Battle for Azeroth_ world map.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/WorldMap-World-old8.jpg/revision/latest/scale-to-width-down/270?cb=20180413203728)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/WorldMap-World-old8.jpg/revision/latest?cb=20180413203728)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/27/WorldMap-World-BFA-Alpha.jpg/revision/latest/scale-to-width-down/270?cb=20180609000227)](https://static.wikia.nocookie.net/wowpedia/images/2/27/WorldMap-World-BFA-Alpha.jpg/revision/latest?cb=20180609000227)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/270?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450)
+    
+
+Other maps
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Warcraft_3_Loading_screen_Broken_Isles.jpg/revision/latest/scale-to-width-down/240?cb=20170416223638)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Warcraft_3_Loading_screen_Broken_Isles.jpg/revision/latest?cb=20170416223638)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Goblin_area_situated_on_the_map.jpg/revision/latest/scale-to-width-down/259?cb=20061009152504)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Goblin_area_situated_on_the_map.jpg/revision/latest?cb=20061009152504)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Azeroth_map_concept_Metzen_1999_wall_painting.jpg/revision/latest/scale-to-width-down/220?cb=20181120194524)](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Azeroth_map_concept_Metzen_1999_wall_painting.jpg/revision/latest?cb=20181120194524)
+    
+    Early concept art with the Broken Isles and the Tomb of Sargeras west of Westfall.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/AzerothWRPG.jpg/revision/latest/scale-to-width-down/287?cb=20070729072421)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/AzerothWRPG.jpg/revision/latest?cb=20070729072421)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Kingdoms_concept_sketch.jpg/revision/latest/scale-to-width-down/139?cb=20210220164303)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Kingdoms_concept_sketch.jpg/revision/latest?cb=20210220164303)
+    
+    Very early concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/89/Broken_Isles_-_Chronicle_Volume_1.png/revision/latest/scale-to-width-down/180?cb=20180907161046)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Broken_Isles_-_Chronicle_Volume_1.png/revision/latest?cb=20180907161046)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/56/Broken_Isles_-_Chronicle_Volume_3.png/revision/latest/scale-to-width-down/171?cb=20190528145219)](https://static.wikia.nocookie.net/wowpedia/images/5/56/Broken_Isles_-_Chronicle_Volume_3.png/revision/latest?cb=20190528145219)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Legion_cinematic_Broken_Isles_map.jpg/revision/latest/scale-to-width-down/435?cb=20180826104524)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Legion_cinematic_Broken_Isles_map.jpg/revision/latest?cb=20180826104524)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Broken_Isles_original_layout.jpg/revision/latest/scale-to-width-down/320?cb=20180630150150)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Broken_Isles_original_layout.jpg/revision/latest?cb=20180630150150)
+    
+    Gamescon 2015 original continent layout.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Azeroth_art_by_Dan_Wallace.jpg/revision/latest/scale-to-width-down/288?cb=20190108120809)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Azeroth_art_by_Dan_Wallace.jpg/revision/latest?cb=20190108120809)
+    
+    Azeroth (with the Broken Isles) art by Dan Wallace.
+    
+
+BlizzCon 2015 zone images
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/WoW_7.0Zones_Azsuna_EM_002.png/revision/latest/scale-to-width-down/288?cb=20150806201321)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/WoW_7.0Zones_Azsuna_EM_002.png/revision/latest?cb=20150806201321)
+    
+    Azsuna.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/WoW_7.0Zones_Azsuna_EM_006.png/revision/latest/scale-to-width-down/288?cb=20150806201907)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/WoW_7.0Zones_Azsuna_EM_006.png/revision/latest?cb=20150806201907)
+    
+    Azsuna.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/WoW_7.0Zones_Azsuna_EM_008.png/revision/latest/scale-to-width-down/288?cb=20150806201918)](https://static.wikia.nocookie.net/wowpedia/images/7/74/WoW_7.0Zones_Azsuna_EM_008.png/revision/latest?cb=20150806201918)
+    
+    Azsuna.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/WoW_7.0Zones_Azsuna_EM_012.png/revision/latest/scale-to-width-down/288?cb=20150806201928)](https://static.wikia.nocookie.net/wowpedia/images/4/47/WoW_7.0Zones_Azsuna_EM_012.png/revision/latest?cb=20150806201928)
+    
+    Azsuna.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/41/WoW_7.0Zones_Highmountain_EM_006.png/revision/latest/scale-to-width-down/303?cb=20150806202510)](https://static.wikia.nocookie.net/wowpedia/images/4/41/WoW_7.0Zones_Highmountain_EM_006.png/revision/latest?cb=20150806202510)
+    
+    Highmountain.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WoW_7.0Zones_Highmountain_EM_009.png/revision/latest/scale-to-width-down/308?cb=20170918181800)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/WoW_7.0Zones_Highmountain_EM_009.png/revision/latest?cb=20170918181800)
+    
+    Highmountain.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WoW_7.0Zones_Highmountain_EM_012.png/revision/latest/scale-to-width-down/288?cb=20150806202532)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WoW_7.0Zones_Highmountain_EM_012.png/revision/latest?cb=20150806202532)
+    
+    Highmountain.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/de/WoW_7.0Zones_Highmountain_EM_013.png/revision/latest/scale-to-width-down/288?cb=20150806202542)](https://static.wikia.nocookie.net/wowpedia/images/d/de/WoW_7.0Zones_Highmountain_EM_013.png/revision/latest?cb=20150806202542)
+    
+    Highmountain.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/33/WoW_7.0Zones_Stormheim_EM_002.png/revision/latest/scale-to-width-down/303?cb=20150806202555)](https://static.wikia.nocookie.net/wowpedia/images/3/33/WoW_7.0Zones_Stormheim_EM_002.png/revision/latest?cb=20150806202555)
+    
+    Stormheim.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/WoW_7.0Zones_Stormheim_EM_003.png/revision/latest/scale-to-width-down/303?cb=20150806202607)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/WoW_7.0Zones_Stormheim_EM_003.png/revision/latest?cb=20150806202607)
+    
+    Stormheim.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/WoW_7.0Zones_Stormheim_EM_007.png/revision/latest/scale-to-width-down/303?cb=20150806202946)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/WoW_7.0Zones_Stormheim_EM_007.png/revision/latest?cb=20150806202946)
+    
+    Stormheim.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/WoW_7.0Zones_Stormheim_EM_011.png/revision/latest/scale-to-width-down/288?cb=20150806202955)](https://static.wikia.nocookie.net/wowpedia/images/a/a5/WoW_7.0Zones_Stormheim_EM_011.png/revision/latest?cb=20150806202955)
+    
+    Stormheim.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/WoW_7.0Zones_ValSharah_EM_000.png/revision/latest/scale-to-width-down/303?cb=20150806203006)](https://static.wikia.nocookie.net/wowpedia/images/2/2a/WoW_7.0Zones_ValSharah_EM_000.png/revision/latest?cb=20150806203006)
+    
+    Val'sharah.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/WoW_7.0Zones_ValSharah_EM_004.png/revision/latest/scale-to-width-down/303?cb=20150806203017)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/WoW_7.0Zones_ValSharah_EM_004.png/revision/latest?cb=20150806203017)
+    
+    Val'sharah.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/WoW_7.0Zones_ValSharah_EM_011.png/revision/latest/scale-to-width-down/303?cb=20150806203029)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/WoW_7.0Zones_ValSharah_EM_011.png/revision/latest?cb=20150806203029)
+    
+    Val'sharah.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/WoW_7.0Zones_ValSharah_EM_017.png/revision/latest/scale-to-width-down/288?cb=20150806203040)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/WoW_7.0Zones_ValSharah_EM_017.png/revision/latest?cb=20150806203040)
+    
+    Val'sharah.
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/BrokenIslesCompositeMap.jpg/revision/latest/scale-to-width-down/141?cb=20180929223223)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/BrokenIslesCompositeMap.jpg/revision/latest?cb=20180929223223)
+    
+    Fan-made composite map by Subthermal.
+    
+
+## Patch changes
+
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
+    
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-1) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_: _Aegwynn slew Sargeras' avatar with disconcerting ease, and hid the body in a Tomb beneath the Great Sea._
+2.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-2) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. ??
+3.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-3) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. ??
+4.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-4)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Spell_warrior_dragoncharge.png/revision/latest/scale-to-width-down/16?cb=20160612131026)[\[Aegwynn and the Dragon Hunt\]](https://wowpedia.fandom.com/wiki/Aegwynn_and_the_Dragon_Hunt)
+5.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-Kosak_5-0) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/694615640427003904)
+6.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-6) [Blizzcon 2015 | Alex Afrasiabi Legion behind the scenes!!](https://www.youtube.com/watch?v=qrIdxNSreb0)
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-WC2Orc_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-WC2Orc_7-1">b</a></sup> [The Tomb of Sargeras (WC2 Orc)](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_(WC2_Orc) "The Tomb of Sargeras (WC2 Orc)")
+8.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-8) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, pg. 291 - 294
+9.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-9) [The Broken Isles](https://wowpedia.fandom.com/wiki/The_Broken_Isles_(WC3_NightElf) "The Broken Isles (WC3 NightElf)")
+10.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-10) [The Tomb of Sargeras (WC3 NightElf)](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_(WC3_NightElf) "The Tomb of Sargeras (WC3 NightElf)")
+11.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-11) [Wrath of the Betrayer (WC3 NightElf)](https://wowpedia.fandom.com/wiki/Wrath_of_the_Betrayer_(WC3_NightElf) "Wrath of the Betrayer (WC3 NightElf)")
+12.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-12) [Balancing the Scales (WC3 NightElf)](https://wowpedia.fandom.com/wiki/Balancing_the_Scales_(WC3_NightElf) "Balancing the Scales (WC3 NightElf)")
+13.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-13) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 67 - 68
+14.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-14) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 69 - 70
+15.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-15) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 70
+16.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-16) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 68
+17.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-17) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 68 - 69
+18.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-18) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 67 - 68
+19.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-19) _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_, pg. 166
+20.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-20) [File:Warcraft II - Map of Eastern Kingdoms.jpg](https://wowpedia.fandom.com/wiki/File:Warcraft_II_-_Map_of_Eastern_Kingdoms.jpg "File:Warcraft II - Map of Eastern Kingdoms.jpg")
+21.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-21) [The Tomb of Sargeras](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras "The Tomb of Sargeras")
+22.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-22) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_
+23.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[100\] [Dark Waters](https://wowpedia.fandom.com/wiki/Dark_Waters)
+24.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-24) [Unfinished Business](https://wowpedia.fandom.com/wiki/Unfinished_Business_(WC3_NightElf) "Unfinished Business (WC3 NightElf)") - "Even now, my mistress battles him on the broken isles!"
+25.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-25) [The Broken Isles](https://wowpedia.fandom.com/wiki/The_Broken_Isles_(WC3_NightElf) "The Broken Isles (WC3 NightElf)"), "The ruins all around us, Naisha... I recognize them. This was once the great city of Suramar, built before our civilization was blasted beneath the sea ten thousand years ago."
+26.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-26)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Hunter](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Ui-charactercreate-classes_hunter.png/revision/latest/scale-to-width-down/16?cb=20070124144707 "Hunter") \[10-45\] [The Unseen Path](https://wowpedia.fandom.com/wiki/The_Unseen_Path)
+27.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-27)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[45\] [Take Me To Your Leader](https://wowpedia.fandom.com/wiki/Take_Me_To_Your_Leader_(Alliance))
+28.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-28)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Cenarius, Keeper of the Grove](https://wowpedia.fandom.com/wiki/Cenarius,_Keeper_of_the_Grove)
+29.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-29)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) [![Enchanting](https://static.wikia.nocookie.net/wowpedia/images/3/36/ProfIcons_enchanting.png/revision/latest/scale-to-width-down/15?cb=20190327212058)](https://wowpedia.fandom.com/wiki/Enchanting "Enchanting") \[10-45D\] [Darkheart Thicket: The Glamour Has Faded](https://wowpedia.fandom.com/wiki/Darkheart_Thicket:_The_Glamour_Has_Faded)
+30.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-30)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Druid](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Ui-charactercreate-classes_druid.png/revision/latest/scale-to-width-down/16?cb=20070124144657 "Druid") \[10-45\] [The Dreamway](https://wowpedia.fandom.com/wiki/The_Dreamway)
+31.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-31)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Out of the Dream](https://wowpedia.fandom.com/wiki/Out_of_the_Dream)
+32.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-32)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Tears for Fears](https://wowpedia.fandom.com/wiki/Tears_for_Fears)
+33.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-33)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [The Fate of Val'sharah](https://wowpedia.fandom.com/wiki/The_Fate_of_Val%27sharah)
+34.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-34)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-45\] [Heart of the Nightmare](https://wowpedia.fandom.com/wiki/Heart_of_the_Nightmare)
+35.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-35) [Illysanna Ravencrest (tactics)](https://wowpedia.fandom.com/wiki/Illysanna_Ravencrest_(tactics) "Illysanna Ravencrest (tactics)")
+36.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-36)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Children of Nar'thalas](https://wowpedia.fandom.com/wiki/Children_of_Nar%27thalas)
+37.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-37)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Fate of the Guard](https://wowpedia.fandom.com/wiki/Fate_of_the_Guard)
+38.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-38) _[The Tomb of Sargeras](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras "The Tomb of Sargeras")_
+39.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-39)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45D\] [Vault of the Wardens: Borrowing Without Asking](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens:_Borrowing_Without_Asking)
+40.  [^](https://wowpedia.fandom.com/wiki/Broken_Isles#cite_ref-40)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Moments of Reflection](https://wowpedia.fandom.com/wiki/Moments_of_Reflection)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Broken_Isles "Template:Broken Isles")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Broken_Isles?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of the **Broken Isles**
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Broken Isles is an in-game continent](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Broken Isles is an in-game continent")
+
+ | 
+
+-   [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna")
+-   [The Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore")
+    -   [![DeathKnight](https://static.wikia.nocookie.net/wowpedia/images/8/86/ClassIcon_deathknight.png/revision/latest/scale-to-width-down/16?cb=20170130100737)](https://wowpedia.fandom.com/wiki/Death_knight "DeathKnight") [Acherus: The Ebon Hold](https://wowpedia.fandom.com/wiki/Acherus:_The_Ebon_Hold "Acherus: The Ebon Hold")
+-   [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
+    -   [![Mage](https://static.wikia.nocookie.net/wowpedia/images/0/02/ClassIcon_mage.png/revision/latest/scale-to-width-down/16?cb=20170130100854)](https://wowpedia.fandom.com/wiki/Mage "Mage") [Hall of the Guardian](https://wowpedia.fandom.com/wiki/Hall_of_the_Guardian "Hall of the Guardian")
+    -   [![Rogue](https://static.wikia.nocookie.net/wowpedia/images/2/20/ClassIcon_rogue.png/revision/latest/scale-to-width-down/16?cb=20170130100921)](https://wowpedia.fandom.com/wiki/Rogue "Rogue") [Hall of Shadows](https://wowpedia.fandom.com/wiki/Hall_of_Shadows "Hall of Shadows")
+-   [Eye of Azshara](https://wowpedia.fandom.com/wiki/Eye_of_Azshara "Eye of Azshara")
+-   [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain")
+    -   [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+    -   [![Hunter](https://static.wikia.nocookie.net/wowpedia/images/a/a6/ClassIcon_hunter.png/revision/latest/scale-to-width-down/16?cb=20170130100848)](https://wowpedia.fandom.com/wiki/Hunter "Hunter") [Trueshot Lodge](https://wowpedia.fandom.com/wiki/Trueshot_Lodge "Trueshot Lodge")
+-   [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim")
+    -   [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor")
+        -   [![Warrior](https://static.wikia.nocookie.net/wowpedia/images/6/62/ClassIcon_warrior.png/revision/latest/scale-to-width-down/16?cb=20170130100941)](https://wowpedia.fandom.com/wiki/Warrior "Warrior") [Skyhold](https://wowpedia.fandom.com/wiki/Skyhold "Skyhold")
+    -   [Helheim](https://wowpedia.fandom.com/wiki/Helheim "Helheim")
+-   [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar")
+    -   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+        -   [The Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+-   [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah")
+    -   [![Druid](https://static.wikia.nocookie.net/wowpedia/images/6/67/ClassIcon_druid.png/revision/latest/scale-to-width-down/16?cb=20170130100842)](https://wowpedia.fandom.com/wiki/Druid "Druid") [The Dreamgrove](https://wowpedia.fandom.com/wiki/Dreamgrove "Dreamgrove")
+
+
+
+ | 
+
+[![Map of the Broken Isles](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest/scale-to-width-down/120?cb=20180908202003)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/WorldMap-BrokenIsles.jpg/revision/latest?cb=20180908202003 "Map of the Broken Isles")
+
+ |
+|  |
+| 
+
+[Broken Isles category](https://wowpedia.fandom.com/wiki/Category:Broken_Isles "Category:Broken Isles")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth "Template:Azeroth")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth?action=edit)
+
+Major [islands](https://wowpedia.fandom.com/wiki/Island "Island"), [seas](https://wowpedia.fandom.com/wiki/Sea "Sea"), [continents](https://wowpedia.fandom.com/wiki/Continent "Continent") and other [locations](https://wowpedia.fandom.com/wiki/Location "Location") of the [world](https://wowpedia.fandom.com/wiki/Planet "Planet") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |
+|  |
+| [Continents](https://wowpedia.fandom.com/wiki/Continent "Continent") | 
+
+-   [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
+    -   [Balor](https://wowpedia.fandom.com/wiki/Balor "Balor")
+    -   [Channel Islands](https://wowpedia.fandom.com/wiki/Channel_Islands "Channel Islands")
+        -   [Zul'Dare](https://wowpedia.fandom.com/wiki/Zul%27Dare "Zul'Dare")
+-   [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor")
+    -   [Seething Shore](https://wowpedia.fandom.com/wiki/Seething_Shore "Seething Shore")
+-   [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+    -   [Isle of Conquest](https://wowpedia.fandom.com/wiki/Isle_of_Conquest "Isle of Conquest")
+    -   [Strand of the Ancients](https://wowpedia.fandom.com/wiki/Strand_of_the_Ancients "Strand of the Ancients")
+-   [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria")
+    -   [Snowblossom](https://wowpedia.fandom.com/wiki/Snowblossom_Village "Snowblossom Village")
+
+
+
+ | 
+
+[![Map of Azeroth](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest/scale-to-width-down/120?cb=20221227135450)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/WorldMap-World.jpg/revision/latest?cb=20221227135450 "Map of Azeroth")
+
+ |
+|  |
+| [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") | 
+
+-   [Barren Atol](https://wowpedia.fandom.com/wiki/Barren_Atol "Barren Atol")
+-   **Broken Isles**
+-   [Coral Sea](https://wowpedia.fandom.com/wiki/Coral_Sea "Coral Sea")
+-   [Darkmoon Island](https://wowpedia.fandom.com/wiki/Darkmoon_Island "Darkmoon Island")
+-   [Darkspear Islands](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands")
+-   [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles")
+-   [The Frozen Sea](https://wowpedia.fandom.com/wiki/Frozen_Sea "Frozen Sea")
+-   [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras")
+    -   [Crestfall](https://wowpedia.fandom.com/wiki/Crestfall "Crestfall")
+-   [The Lost Isles](https://wowpedia.fandom.com/wiki/Lost_Isles "Lost Isles")
+-   [The Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ominous island](https://wowpedia.fandom.com/wiki/Ominous_island "Ominous island")
+-   [South Seas](https://wowpedia.fandom.com/wiki/South_Seas "South Seas")
+    -   [Kezan](https://wowpedia.fandom.com/wiki/Kezan "Kezan")
+    -   [Plunder Isle](https://wowpedia.fandom.com/wiki/Plunder_Isle "Plunder Isle")
+    -   [Tel'Abim](https://wowpedia.fandom.com/wiki/Tel%27Abim "Tel'Abim")
+    -   [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar")
+-   [Third Fleet shipwrecks](https://wowpedia.fandom.com/wiki/Third_Fleet_shipwrecks "Third Fleet shipwrecks")
+-   [Uncharted Island](https://wowpedia.fandom.com/wiki/Uncharted_Island "Uncharted Island")
+
+
+
+ |
+|  |
+| Other [seas](https://wowpedia.fandom.com/wiki/Sea "Sea")  
+and [islands](https://wowpedia.fandom.com/wiki/Island "Island") | 
+
+-   [The Forbidding Sea](https://wowpedia.fandom.com/wiki/Forbidding_Sea "Forbidding Sea")
+-   [Island Expeditions](https://wowpedia.fandom.com/wiki/Island_Expedition#Islands "Island Expedition")
+-   [The North Sea](https://wowpedia.fandom.com/wiki/North_Sea "North Sea")
+    -   [Exile's Reach](https://wowpedia.fandom.com/wiki/Exile%27s_Reach "Exile's Reach")
+    -   [The Lost Glacier](https://wowpedia.fandom.com/wiki/Lost_Glacier "Lost Glacier")
+-   [Ogrezonia](https://wowpedia.fandom.com/wiki/Ogrezonia "Ogrezonia")
+-   [Skelton Isle](https://wowpedia.fandom.com/wiki/Skelton_Isle "Skelton Isle")
+-   [The Veiled Sea](https://wowpedia.fandom.com/wiki/Veiled_Sea "Veiled Sea")
+-   [The Wandering Isle](https://wowpedia.fandom.com/wiki/Wandering_Isle "Wandering Isle")
+-   [Uncharted Isle](https://wowpedia.fandom.com/wiki/Uncharted_Isle "Uncharted Isle")
+
+
+
+ |
+|  |
+| Miscellaneous | 
+
+-   [Avaloren](https://wowpedia.fandom.com/wiki/Avaloren "Avaloren")
+-   [Khaz Algar](https://wowpedia.fandom.com/wiki/Khaz_Algar "Khaz Algar")
+-   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+
+
+
+ |
+|  |
+| [Planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+
+-   [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane")
+-   [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Pocket dimensions](https://wowpedia.fandom.com/wiki/Plane#Pocket_dimensions "Plane")
+
+
+
+ |
+|  |
+| 
+
+[Azeroth category](https://wowpedia.fandom.com/wiki/Category:Azeroth "Category:Azeroth")
+
+
+
+ |

@@ -1,0 +1,2610 @@
+_This article is about Jaina's biography. For other uses and appearances, see [Jaina (disambiguation)](https://wowpedia.fandom.com/wiki/Jaina_(disambiguation) "Jaina (disambiguation)")._
+
+| [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/25/Alliance_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")Jaina Proudmoore |
+| --- |
+| [![Image of Jaina Proudmoore](https://static.wikia.nocookie.net/wowpedia/images/8/88/HSKT_Jaina.jpg/revision/latest/scale-to-width-down/200?cb=20211012192353)](https://static.wikia.nocookie.net/wowpedia/images/8/88/HSKT_Jaina.jpg/revision/latest?cb=20211012192353 "Image of Jaina Proudmoore") |
+| Title | Lady, Miss,  
+Archmage,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-1">[1]</a></sup>  
+Lord Admiral,  
+Daughter of the Sea<sup id="cite_ref-DotS_2-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-DotS-2">[2]</a></sup>  
+**Formerly:**  
+Leader of the Kirin Tor,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-3">[3]</a></sup>  
+Ruler of Theramore |
+| Gender | Female |
+| Race | [Human](https://wowpedia.fandom.com/wiki/Human "Human") (Humanoid) |
+| Class | [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage") |
+| Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore"), [Proudmoore Admiralty](https://wowpedia.fandom.com/wiki/Proudmoore_Admiralty "Proudmoore Admiralty"), [Kingdom of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)"), [Alliance navy](https://wowpedia.fandom.com/wiki/Alliance_navy "Alliance navy"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-4">[4]</a></sup> |
+| Former affiliation(s) | [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") ([Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six")), [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive"), [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"), [New Council of Tirisfal](https://wowpedia.fandom.com/wiki/New_Council_of_Tirisfal "New Council of Tirisfal"), [Human Expedition](https://wowpedia.fandom.com/wiki/Human_Expedition "Human Expedition"), [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
+| Occupation | [Lord Admiral](https://wowpedia.fandom.com/wiki/Lord_Admiral "Lord Admiral") of Kul Tiras, Advisor to King Anduin,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-5">[5]</a></sup> [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage"), [Transmuter](https://wowpedia.fandom.com/wiki/Transmuter "Transmuter"),<sup id="cite_ref-The_Schools_of_Arcane_Magic_-_Transmutation_6-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Schools_of_Arcane_Magic_-_Transmutation-6">[6]</a></sup> [Sorceress](https://wowpedia.fandom.com/wiki/Sorceress "Sorceress") |
+| Former occupation(s) | Leader of Dalaran, the Kirin Tor, and the Council of Six, Ruler of Theramore, Mage representative on the New Council of Tirisfal, Leader of the survivors of Lordaeron,<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-7">[7]</a></sup><sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-8">[8]</a></sup> Special [Agent](https://wowpedia.fandom.com/wiki/Agent "Agent") to the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"),<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-9">[9]</a></sup> Apprentice to Antonidas |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#Locations) |
+| Status | Alive |
+| Relative(s) | [Daelin](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore") (father),  
+[Katherine](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore") (mother),  
+[Derek](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") (older brother),  
+[Tandred](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore") (younger brother),  
+[Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"),  
+[Kalec](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") (former lovers) |
+| Mentor(s) | [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas") |
+| Student(s) | [Kinndy Sparkshine](https://wowpedia.fandom.com/wiki/Kinndy_Sparkshine "Kinndy Sparkshine") |
+| Companion(s) | [Summoned Water Elemental](https://wowpedia.fandom.com/wiki/Summoned_Water_Elemental_(NPC) "Summoned Water Elemental (NPC)"), [Bound Water Elemental](https://wowpedia.fandom.com/wiki/Bound_Water_Elemental_(NPC) "Bound Water Elemental (NPC)"), [Tide Elemental](https://wowpedia.fandom.com/wiki/Jaina%27s_Tide_Elemental "Jaina's Tide Elemental"), [Water Elemental](https://wowpedia.fandom.com/wiki/Water_Elemental_(Nazmir) "Water Elemental (Nazmir)") |
+
+Lady **Jaina Proudmoore** is the daughter of [Daelin](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore") and [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore"), and sister of [Derek](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") and [Tandred](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore"). She is considered one of the finest [mages](https://wowpedia.fandom.com/wiki/Mage "Mage") in all Azeroth<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-10">[10]</a></sup> and the most powerful [human](https://wowpedia.fandom.com/wiki/Human "Human") [sorceress](https://wowpedia.fandom.com/wiki/Sorceress "Sorceress") alive.<sup id="cite_ref-WoWmanual_11-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-WoWmanual-11">[11]</a></sup><sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-12">[12]</a></sup> She is the [Lord Admiral](https://wowpedia.fandom.com/wiki/Lord_Admiral "Lord Admiral") of [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)"), the former leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), and of the port-city of [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore").
+
+Trained as the personal agent of [Archmage Antonidas](https://wowpedia.fandom.com/wiki/Archmage_Antonidas "Archmage Antonidas"), the late leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), she was sent to investigate the [plague of undeath](https://wowpedia.fandom.com/wiki/Plague_of_undeath "Plague of undeath") with Prince [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), her childhood friend and one-time romantic interest. She witnessed the first stages of the fall of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") firsthand and, guided by a mysterious prophet later revealed as [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), Jaina rallied what survivors she could find and fled across the sea to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").
+
+There, her [expedition forces](https://wowpedia.fandom.com/wiki/Human_Expedition "Human Expedition") joined together with the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and the [New Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and defeated the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal"). The human survivors then founded the port city of [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"), joining the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") led by [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), while maintaining peace with the Horde for several years.
+
+Shortly after the fall of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), the Horde led by [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") [destroyed](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle") Theramore. Jaina managed to escape with her life, but the experience transformed her, making her more bellicose and even altering her appearance. Following the death of [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") during the attack, and fulfilling [a prophecy](https://wowpedia.fandom.com/wiki/Korialstrasz#Tides_of_War "Korialstrasz") made by the dragon-mage [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"), Jaina took the fallen mage's place as leader of the Kirin Tor and head of the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six").<sup id="cite_ref-ToW_13-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-ToW-13">[13]</a></sup> In spite of personal tragedies, she attempted to maintain the Kirin Tor's neutrality during the [Alliance-Horde war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war"). After the Horde-aligned [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") aided Garrosh to steal the [Divine Bell](https://wowpedia.fandom.com/wiki/Divine_Bell "Divine Bell"), Jaina exiled the Sunreavers from her city during the [Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran") and aligned the Kirin Tor with the Alliance. Following the [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore"), the Council decided unanimously to re-admit the Horde into Dalaran for the greater good. Furious, Jaina left the Kirin Tor.
+
+Following the [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns"), Jaina returned to her homeland of Kul Tiras in the name of the Alliance but was imprisoned for treason by her mother at the suggestion of Lady [Priscilla Ashvane](https://wowpedia.fandom.com/wiki/Priscilla_Ashvane "Priscilla Ashvane"). After Ashvane's own betrayal was discovered, Jaina reconciled with her mother and brought the lost Kul Tiran fleet back home. Katherine stepped down as [Lord Admiral of Kul Tiras](https://wowpedia.fandom.com/wiki/Lord_Admiral "Lord Admiral") and named Jaina in her stead, re-pledging their nation to the Alliance cause and to the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War").
+
+After the end of the war, Jaina was captured along other leaders of both factions by the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn"), and was sent into the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") where she was tormented within [Torghast](https://wowpedia.fandom.com/wiki/Torghast,_Tower_of_the_Damned "Torghast, Tower of the Damned"). She was eventually rescued by [Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker") and joined them in their campaign against [the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal") and his forces, with her main focus being the rescue of Anduin.
+
+Jaina serves as one of the main protagonists in the _[Warcraft](https://wowpedia.fandom.com/wiki/Warcraft_universe "Warcraft universe")_ franchise.
+
+## Biography
+
+### Early exploits
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/35/Reunion_JainaDaelin.jpg/revision/latest/scale-to-width-down/140?cb=20180522213925)](https://static.wikia.nocookie.net/wowpedia/images/3/35/Reunion_JainaDaelin.jpg/revision/latest?cb=20180522213925)
+
+Jaina imagining herself by Daelin's side after Derek's death.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Arthas_Jaina_Chronicle.jpg/revision/latest/scale-to-width-down/140?cb=20180404035918)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Arthas_Jaina_Chronicle.jpg/revision/latest?cb=20180404035918)
+
+Arthas and Jaina in Lordaeron.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Kael%27thasRtD.jpg/revision/latest/scale-to-width-down/180?cb=20060701110824)](https://static.wikia.nocookie.net/wowpedia/images/2/21/Kael%27thasRtD.jpg/revision/latest?cb=20060701110824)
+
+Jaina and Kael'thas in Dalaran.
+
+Born three years prior to the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"),<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-14">[14]</a></sup> Jaina Proudmoore was the middle child of Lord Admiral [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore"), ruler of [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)"), and his wife [Katherine](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore"). Jaina was loved by her family and, from an early age, was filled with the joy of learning and the duties of a young lady, despite [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore")'s military background. As a child, she had a governess and several tutors<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-15">[15]</a></sup> and propriety demanded that she be followed by an escort of her lady-in-waiting and a guard or two.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-16">[16]</a></sup> She had a habit of hiding whenever she was frightened or upset, but her mother Katherine would always find her.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-17">[17]</a></sup> Jaina had always been fond of reading; the library of [Proudmoore Keep](https://wowpedia.fandom.com/wiki/Proudmoore_Keep "Proudmoore Keep") was her favorite spot growing up as her mother bemusedly noted, "surrounding \[herself\] with musty old tomes."<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-18">[18]</a></sup> At a young age, she was enamored with tales of the [Guardian](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal") [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn").<sup id="cite_ref-Cycle_of_Hatred_123_19-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Cycle_of_Hatred_123-19">[19]</a></sup> As a child, Jaina witnessed a [tidesage](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages") bless a Kul Tiran ship at least once, something she would not see again until many years later.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-20">[20]</a></sup> Growing up, she also heard tales of the power of the  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Inv_wand_1h_kultirasquest_b_01.png/revision/latest/scale-to-width-down/16?cb=20180818181537)[\[Abyssal Scepter\]](https://wowpedia.fandom.com/wiki/Abyssal_Scepter).<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-21">[21]</a></sup>
+
+When her magical talent was discovered after the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"),<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-22">[22]</a></sup> Katherine had to fight Daelin to allow Jaina to be taught at [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), though their daughter didn't know of this.<sup id="cite_ref-Reunion_23-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Reunion-23">[23]</a></sup> On her way to Dalaran, Jaina—who was then 11 years old<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-24">[24]</a></sup>—briefly stayed as a guest in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)")'s [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), where she became close friends with [Princess Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"). One day during a prayer session in the [Menethil](https://wowpedia.fandom.com/wiki/House_Menethil "House Menethil") family [chapel](https://wowpedia.fandom.com/wiki/Church "Church"), Jaina for the first time met the 12-year-old [Prince Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), heir to the throne of Lordaeron, who thought Jaina looked like someone who was well accustomed to riding and hiking, spent a great deal of time outdoors, and would not mind having a snowball pelted in her face or going for a swim on a hot day. Arthas volunteered to escort Jaina to Dalaran along with her guards and servants. One night during the journey, the prince convinced her to sneak off with him and look at one of the [internment camps](https://wowpedia.fandom.com/wiki/Internment_camp "Internment camp") where the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") kept [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") imprisoned—the first real adventure they had together. Unlike Arthas, Jaina found herself feeling compassion for the captive orcs, even though the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") had killed her older brother [Derek](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") during the Second War.<sup id="cite_ref-RotLK_25-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup>
+
+Jaina spent the following years studying as a member of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") in Dalaran. 6 years after her arrival to the city,<sup id="cite_ref-RotLK_25-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup> she badgered the Kirin Tor's leader [Archmage Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas") into accepting her as an apprentice, eventually becoming one of the few female wizards in direct service to Dalaran.<sup id="cite_ref-Cycle_of_Hatred_123_19-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Cycle_of_Hatred_123-19">[19]</a></sup> She came to be known as a star pupil who excelled at magical research and investigation,<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-26">[26]</a></sup> and Antonidas believed she had the potential to become the greatest sorceress in human history.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-27">[27]</a></sup> The [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") prince [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") was enamored with Jaina, but she did not return his feelings and remained focused on her studies<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-28">[28]</a></sup> as she wanted to advance on her own merits and not simply because an elven prince enjoyed her company.<sup id="cite_ref-RotLK_25-2"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup>
+
+When Jaina was 18, she and her father Daelin attended Prince Arthas' induction into the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"). Shortly after, Arthas visited Dalaran for a few months under the pretense of studying history so that he could get an opportunity to court Jaina. During a ride outside the city, the two kissed for the first time and began a romantic relationship, much to Kael'thas' chagrin. They initially kept their affair secret from the public in order to avoid feeding the rumor mill, but over the following year, Jaina began visiting Capital City during holidays. At [Hallow's End](https://wowpedia.fandom.com/wiki/Hallow%27s_End "Hallow's End"), after Jaina used a fire spell to ignite the [wickerman](https://wowpedia.fandom.com/wiki/Wickerman "Wickerman") to the crowd's delight, she and Arthas retreated to the prince's rooms and had slept together for the first time. Afterward, Jaina promised Arthas that she would never deny him. Jaina was subsequently invited to spend the winter in Capital City and began being treated as a member of the royal family, as everyone assumed that she and Arthas would marry and have children soon. However, during a [Winter Veil](https://wowpedia.fandom.com/wiki/Feast_of_Winter_Veil "Feast of Winter Veil") ball a few weeks after Hallow's End, Arthas began questioning whether the two of them were ready to be together and abruptly ended the relationship so that Jaina could focus on her magical studies in Dalaran and Arthas could focus on his commitments to Lordaeron. Jaina was very hurt by the decision but did not fight him on it, eventually realizing and agreeing that it was the right thing to do at the time. Both of them agreed to remain friends.<sup id="cite_ref-RotLK_25-3"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup> Jaina returned to Dalaran, where at one point she helped Antonidas dispose of the renegade wizard [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad")'s [necromantic](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") experiments.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-29">[29]</a></sup>
+
+### The Third War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/BTNJaina-Reforged.png/revision/latest/scale-to-width-down/180?cb=20210508201950)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/BTNJaina-Reforged.png/revision/latest?cb=20210508201950)
+
+Jaina in _[Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reforged "Warcraft III: Reforged")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Jainaunit.JPG/revision/latest/scale-to-width-down/180?cb=20080826081813)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Jainaunit.JPG/revision/latest?cb=20080826081813)
+
+Jaina in _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
+
+A few years later, Antonidas, eager to learn more about the [mysterious plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") sweeping northern Lordaeron, was met by the [Prophet](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), who pleaded with the wizard to take his people west to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). Antonidas dismissed the Prophet as nothing more than a madman, but Jaina, who had been watching from hiding, sensed great power in the Prophet and thought that perhaps they should heed his warnings. Antonidas continued to disagree and instead sent Jaina to meet with Arthas and investigate the plague at the northern village of [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill"). After some initial awkwardness, Arthas and Jaina began rekindling their relationship, with the prince hoping that the two of them could finally get married once they had solved the mystery of the plague. Neither of them knew that the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invasion would change their lives forever.<sup id="cite_ref-RotLK_25-4"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Lore_in_Short_-_Confronting_Kel%27Thuzad.png/revision/latest/scale-to-width-down/180?cb=20220922144906)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Lore_in_Short_-_Confronting_Kel%27Thuzad.png/revision/latest?cb=20220922144906)
+
+[Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and Jaina Proudmoore confronts [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") in [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").
+
+As they investigated Brill, Jaina saw some very strange things, including a [necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") and a [zombie made of various parts of several corpses](https://wowpedia.fandom.com/wiki/Abomination "Abomination"). They faced off against several [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") enemies and came upon a granary which contained grain infested with the Plague. The crates bore the seal of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal"), the primary distributor of grain throughout [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). Chasing the necromancer, who was actually [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), formerly a member of the Kirin Tor, to Andorhal, they found a mass of undead warriors waiting for them, but fought their way through to Kel'Thuzad, where Arthas killed him.
+
+Jaina and Arthas made their way back to central Lordaeron, and they stopped for rest at the small town of [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen"). When they arrived they discovered that the plague-infected grain from Andorhal had arrived and had been distributed amongst the townsfolk. They were transforming into the undead. Jaina reluctantly, but hastily left to find [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther") for reinforcements. She teleported back to Dalaran where Antonidas sent for Uther. When she returned with the [Silver Hand](https://wowpedia.fandom.com/wiki/Silver_Hand "Silver Hand") at her back, Hearthglen was all but destroyed, and Arthas was fighting a losing battle. With Uther's help, though, they managed to push back the undead attackers. Arthas, demoralized and horrified by overwhelming forces of undead, vowed to go to [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), where he hoped to fight [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Lore_in_Short_-_Stratholme.png/revision/latest/scale-to-width-down/180?cb=20220922145044)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Lore_in_Short_-_Stratholme.png/revision/latest?cb=20220922145044)
+
+Jaina, Uther, and Arthas discover too late that [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") has already been infected by the [plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath").
+
+Worried about what the hatred for Mal'Ganis was doing to Arthas, Jaina used an [invisibility](https://wowpedia.fandom.com/wiki/Invisibility "Invisibility") spell and caught up with him on the road after he had an encounter with the same Prophet who had accosted Antonidas. The two continued toward Stratholme until dusk, at which point the two made camp and slept with each other, pushing away thoughts of death and plagues and finding comfort in each other.<sup id="cite_ref-RotLK_25-5"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup>
+
+The following day, Arthas, Jaina, and Uther reached Stratholme but didn't arrive in time to stop the townspeople from eating the tainted grain. All three knew that the people of Stratholme would soon become undead and attack them. Arthas was in favor of [slaughtering the people](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme") before their transformation to purge the town, but Uther could not condone murdering helpless people whose only crime was being infected, even if leaving them alive meant they would soon become a threat. When Uther refused to kill the civilians as Arthas ordered, Arthas renounced him, accusing him of treason. He demanded that any true to the king stay with him and see to the town's destruction. Unable to watch Arthas massacre the city, a tearful Jaina departed with Uther. Arthas was shocked and wounded by Jaina's decision, seeing it as a betrayal of the promise she had made the night they became lovers.<sup id="cite_ref-RotLK_25-6"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup>
+
+After purging Stratholme, Arthas met with Jaina and pleaded with her to accompany him to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") to hunt Mal'Ganis, but she refused and warned him that it sounded like a trap. The following day,<sup id="cite_ref-RotLK_25-7"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup> Jaina and Uther returned to Stratholme's burning ruins. Both were appalled at what Arthas and his men had wrought. After revealing to Uther where Arthas had gone with Lordaeron's fleet, Jaina was visited by the mysterious prophet who had previously visited Terenas, Antonidas, and Arthas. The prophet sensed her leadership abilities and urged her to take the people she could with her to the west, fleeing Lordaeron and her home country of Kul Tiras. Many months later, [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") and the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") began their invasion of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). It was at this moment, Jaina and Antonidas realized that the prophet had been right. Antonidas encouraged Jaina to take as many survivors of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") she could find and sail west for Kalimdor. Jaina decided to follow his words and made preparations.
+
+At some point before leaving (but after the fall of Quel'Thalas), she tried to console Kael, who was saddened by his father's death. Yet Kael angrily rejected her consolation and rebuked her for favoring such a "monster" (Arthas) over him. After this, she witnessed Arthas' army approaching Dalaran, at first wanting to confront him personally but faltering after recalling her previous failed attempts to sway him. Though she offered to help her mentor and the magi of Dalaran defend the city against the Scourge, Antonidas insisted that she tend to her other duties and lead [what remained of her people](https://wowpedia.fandom.com/wiki/Human_Expedition "Human Expedition") across the Great Sea.<sup id="cite_ref-RotLK_25-8"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup>
+
+### Arrival at Kalimdor
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Jaina%2C_Apprentice_of_Antonidas.jpg/revision/latest/scale-to-width-down/180?cb=20190615115906)](https://static.wikia.nocookie.net/wowpedia/images/4/40/Jaina%2C_Apprentice_of_Antonidas.jpg/revision/latest?cb=20190615115906)
+
+Jaina, sailing to Kalimdor.
+
+Upon arriving on Kalimdor, Jaina found that there were orcs there. Believing the Horde to having followed them from Lordaeron, Jaina clashed with the troops of [Grom Hellscream](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream"). Afterwards, Jaina set out to find the Prophet. Not only was [Stonetalon Peak](https://wowpedia.fandom.com/wiki/Stonetalon_Peak "Stonetalon Peak") a good defense, but also, she sensed a great power within. Jaina led a small expedition into the mountain, with the hopes of finding some power that could help her defeat the orcs. But she sensed that they were being followed.
+
+Upon breaching the core of the mountain, Jaina stumbled upon [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof"). They were about to battle when they were all suddenly confronted by the Oracle, who was actually the Prophet [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") they had met in Lordaeron. The Prophet Medivh implored them all to ally with each other, saying that they would not survive alone against the might of the Burning Legion.
+
+Reluctantly, Jaina agreed to ally her forces with Thrall's against Hellscream and an army of [chaos orcs](https://wowpedia.fandom.com/wiki/Chaos_orc "Chaos orc") and demons. Jaina gave him a [soul gem](https://wowpedia.fandom.com/wiki/Soul_Gem_(Warcraft_III) "Soul Gem (Warcraft III)"), which he used to capture Grom's essence as the invasion of Kalimdor began. Then, she helped him purge Grom of the demonic curse that had gripped him.
+
+Jaina and Thrall continued as allies, although their forces were not very eager about it, even after Hellscream's death. They were terrorized by the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"), but also by the night elves' deadly hit-and-run attacks. Though their alliance with one another kept them alive, they were only holding on by a thread.
+
+Finally, Thrall received a vision. Jaina followed him to where he was instructed to go, where they found the leaders of the night elves, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"). The Prophet appeared, and revealed himself to be none other than [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), returned to correct his mistakes of old. He implored the humans, orcs, and night elves to all join forces against the Legion, or they would all fall alone. They all agreed to defend Mount Hyjal together.
+
+Jaina used her teleportation spells to scout out the surrounding area and found that [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") and his doom guard were quickly making their way up the mountain. The defenders instituted three bases going up the mountain in an effort to halt his ascent.
+
+Jaina's base was the first in Archimonde's path, and so it was the first to go, but before he could kill her, Jaina spirited herself out of Archimonde's clutches. The next base to go was Thrall's, and Jaina used her remaining energy to teleport Thrall from his base before Archimonde destroyed him, so that they could live to fight another day.
+
+### Founding Theramore
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e4/A_Blaze_of_Glory_-_The_end.jpg/revision/latest/scale-to-width-down/180?cb=20181014194059)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/A_Blaze_of_Glory_-_The_end.jpg/revision/latest?cb=20181014194059)
+
+Jaina holding her dead father.
+
+Following the Legion's defeat on Mount Hyjal, Jaina took her refugees to an island outpost off the eastern coast of Kalimdor, newly named [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") in [Dustwallow Marsh](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh "Dustwallow Marsh").
+
+When [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar") demanded an explanation of the humans encroaching on Durotar and the assassination attempt, Jaina stated she had no such knowledge. When Jaina agreed to help the [Mok'Nathal](https://wowpedia.fandom.com/wiki/Mok%27Nathal "Mok'Nathal") investigate, they discovered the accusatory outpost was under attack from naga. After an encounter with a dying [marine](https://wowpedia.fandom.com/wiki/Marine "Marine"), Jaina realized with horror that her father had decided to pay her a visit. Jaina pleaded with the Admiral to spare Rexxar, but Daelin would have none of it. Rexxar and his companions escaped, and Thrall rallied an army to push back Proudmoore's assault.
+
+Jaina was in despair. While she felt loyalty to her father and her nation, her experience with the Scourge and the Legion convinced her that vendettas such as her father's were immaterial in the grand scheme. Jaina helped the Horde gain ships from the goblins and ordered her own troops to stand down when they [assaulted Theramore](https://wowpedia.fandom.com/wiki/A_Blaze_of_Glory#Theramore_City "A Blaze of Glory"). Jaina's last words to her father were to ask why he didn't listen.
+
+When the people of Kul Tiras learned of their Lord Admiral's death, they cried out for vengeance, but the other nations of the Alliance were not interested. Ordeals caused by the plague in Lordaeron were more immediate concerns, and the other allied leaders also had little pity for Daelin's own aggressive actions. The people of Kul Tiras furiously isolated themselves from the rest of the Alliance but were not angry with all of the Alliance leaders. They instead nursed a bitter hatred only towards Jaina for betraying her family.<sup id="cite_ref-Chronicles_112_30-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Chronicles_112-30">[30]</a></sup>
+
+Jaina continued to rule over the tattered remnants of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") and hoped to reunite the distant human kingdoms once more.<sup id="cite_ref-WoWmanual_11-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-WoWmanual-11">[11]</a></sup>
+
+### Cycle of Hatred
+
+[![WoW-novel-logo-16x62.png](https://static.wikia.nocookie.net/wowpedia/images/d/d0/WoW-novel-logo-16x62.png/revision/latest?cb=20080902025649)](https://wowpedia.fandom.com/wiki/Novels "Novels") **This section concerns content related to the [Cycle of Hatred](https://wowpedia.fandom.com/wiki/Cycle_of_Hatred "Cycle of Hatred") novel.**
+
+Theramore and Durotar remained at relative peace for three years, though the two former archenemies were still wary of each other. Eventually, a series of minor shipping incidents led to extreme tension between the two powers, enough so that the [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin"), who controlled the region's only neutral port, complained.
+
+Despite the tension, Thrall requested Jaina's aid in relocating a herd of thunder lizards displaced by a mysterious logging operation at Thunder Ridge. Jaina intended to relocate the lizards to a largely unpopulated region on the far side of Mulgore but was astonished to discover that the area was magically warded to protect its single inhabitant: [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn").
+
+The former Guardian brushed off Jaina's admiration, but filled in the gaps of what had been happening amidst the tensions between Theramore and Durotar: a minor demon, [Zmodlor](https://wowpedia.fandom.com/wiki/Zmodlor "Zmodlor") had revived the [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan "Burning Blade clan") and was playing the two powers against each other.
+
+Jaina and Aegwynn hastily returned to Theramore, where they discovered that Jaina's own chamberlain had been corrupted by the Burning Blade. After dealing with the turncoat, they took on Zmodlor himself. Unfortunately, the demon was backed by a small cabal of warlocks. Jaina was nearly slain by the added strain, but Aegwynn was able to use her own life-force to support her, and Jaina was able to defeat the warlocks and banish Zmodlor back to the Twisting Nether. After the crisis had passed, Jaina and Thrall set about writing a permanent non-aggression pact to ensure that the mutual distrust of their peoples' never escalated into war again.
+
+Against all odds, Aegwynn survived and assumed the duties left by Jaina's chamberlain.
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+As the Ruler of Theramore, Jaina led the town and was found in her tower. Having partnered with the [Stormwind kingdom](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)"), she insisted on making a summit between Thrall and King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"). Varian was convinced by his son [Anduin](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") but during a journey by the sea, Varian mysteriously vanished. When an investigation about the missing King Wrynn and the Defias Brotherhood was going on, she and [Tervosh](https://wowpedia.fandom.com/wiki/Tervosh "Tervosh") helped to capture [Hendel](https://wowpedia.fandom.com/wiki/Hendel "Hendel") who was allied with the [Defias Brotherhood](https://wowpedia.fandom.com/wiki/Defias_Brotherhood "Defias Brotherhood").<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-31">[31]</a></sup> Around the time of Zul'jin's fall, Jaina was able to discover that the [Defias Brotherhood](https://wowpedia.fandom.com/wiki/Defias_Brotherhood "Defias Brotherhood") who kidnapped Varian was allied with [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia").<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-32">[32]</a></sup> She immediately sent this information to [Bolvar](https://wowpedia.fandom.com/wiki/Bolvar "Bolvar").<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-33">[33]</a></sup> (As of 4.0.3, she informs Varian, who no doubt would want to make an example out of the rest of them, of the connection between Defias and Onyxia.)<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-34">[34]</a></sup>
+
+### World of Warcraft: The Comic
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/86/WoW6CoverSample.jpg/revision/latest/scale-to-width-down/140?cb=20180328021341)](https://static.wikia.nocookie.net/wowpedia/images/8/86/WoW6CoverSample.jpg/revision/latest?cb=20180328021341)
+
+Lo'Gosh with Jaina and Aegwynn.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Jainacomic.jpg/revision/latest/scale-to-width-down/180?cb=20080913100848)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Jainacomic.jpg/revision/latest?cb=20080913100848)
+
+Jaina in the comic.
+
+[Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") told Jaina that two gladiators will be arriving soon in [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"). Jaina was happy to see [Broll](https://wowpedia.fandom.com/wiki/Broll "Broll") much calmer now and immediately sensed a dark magic around [Lo'Gosh](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"). Jaina assisted the amnesic gladiator in remembering his true identity with the help of her chamberlain, [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"). It was revealed that the gladiator is long-lost [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn").<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-35">[35]</a></sup> She granted him a ship to the Eastern Kingdoms to reunite with his son and reveal traitors. She then informed King [Magni](https://wowpedia.fandom.com/wiki/Magni "Magni") about Lo'Gosh.<sup id="cite_ref-Revelations_36-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Revelations-36">[36]</a></sup>
+
+Days later, [Lo'Gosh](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), a doppelganger of Varian and their group returned to Theramore to hunt down [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") who kidnapped Prince [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"). Before leaving, Jaina casted a magical ritual in which Lo'Gosh and Varian remembered what truly happened when Onyxia abducted Varian on his way to a meeting with Thrall. Under the guise of [Katrana Prestor](https://wowpedia.fandom.com/wiki/Katrana_Prestor "Katrana Prestor"), Onyxia botched a spell that divided Varian into two different Varians when her ritual was interrupted by naga led by [Morgala Darksquall](https://wowpedia.fandom.com/wiki/Morgala_Darksquall "Morgala Darksquall"), who attacked her. Moments later, the naga kidnapped both Varians, though the one that would be later known as Lo'Gosh jumped into the sea and escaped, the second being ransomed. After this revelation, Jaina gave them the blades [Shalla'tor](https://wowpedia.fandom.com/wiki/Shalla%27tor "Shalla'tor") and [Ellemayne](https://wowpedia.fandom.com/wiki/Ellemayne "Ellemayne").<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-37">[37]</a></sup> She then aided the Varians and his comrades in the battle against Onyxia.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-38">[38]</a></sup>
+
+After Onyxia was killed, Jaina was also the primary instigator in proposing an alliance between the humans of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") and the orcs of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") on the way back to Theramore. Varian was convinced and she traveled to [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill") where she met with [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and told him the story of Varian. The orc leader also agreed to the meeting, despite having reservations since Orgrimmar sentiment was becoming increasingly restless with the arrival of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream").<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-39">[39]</a></sup> Jaina then returned to Theramore, where she prepared for the peace summit, and ultimately welcomed Thrall and his advisers: [Rehgar](https://wowpedia.fandom.com/wiki/Rehgar_Earthfury "Rehgar Earthfury") and Garrosh. Although the conference had a promising start,<sup id="cite_ref-Threat_40-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Threat-40">[40]</a></sup> it was ambushed by [Twilight Hammer](https://wowpedia.fandom.com/wiki/Twilight_Hammer "Twilight Hammer") cultists comprising of races from both the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). The attack sowed distrust between the human and orc delegates who had suspicions that the opposite faction may have lured them into a trap. Ultimately, the attempted assassinations on the human and orc leaders effectively ruined any chance of a human-orc alliance. One of the Twilight Hammer assassins was [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen"), who was left for dead or to be captured by her fellow assassins.<sup id="cite_ref-Showdown_41-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Showdown-41">[41]</a></sup> Before King Varian could kill her, Lady Jaina claimed Garona as her prisoner with the intention of interrogating her. King Varian allowed it, so long as she shared the information with his adviser, [Valeera Sanguinar](https://wowpedia.fandom.com/wiki/Valeera_Sanguinar "Valeera Sanguinar"), who will be conducting the investigation on identifying the perpetrators. However, King Varian also claimed he will return to claim Garona for execution. Jaina and Aegwynn discovered that there was a spell placed on Garona's mind but could not remove it without causing her great pain and possible death. In a deal Garona made with Valeera Sanguinar, Garona agreed she would endure the pain and give them some of the information they required if Valeera used the information to go save her son [Med'an](https://wowpedia.fandom.com/wiki/Med%27an "Med'an") from the Twilight Hammer cult.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-42">[42]</a></sup>
+
+When Arthas killed the dream form of Ner'zhul and woke from his six-year slumber as the new Lich King, Jaina sensed that something terrible was happening.<sup id="cite_ref-RotLK_25-9"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-RotLK-25">[25]</a></sup>
+
+After defending Theramore from a Scourge attack sent by the Lich King, she would later become a founding member of the [New Council of Tirisfal](https://wowpedia.fandom.com/wiki/New_Council_of_Tirisfal "New Council of Tirisfal"). The previously defunct organization was re-established in order to aid Med'an in combating [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") and the Twilight's Hammer. After a series of attacks in Theramore, which were successfully repelled, Jaina alongside the other members empowered Med'an who faced off the ogre-mage. She was saddened by the death of Aegwynn and was last seen during the funeral in [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass").<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-43">[43]</a></sup>
+
+### The Burning Crusade
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+When the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") crash-landed on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), Jaina was one of the first to aid them.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-44">[44]</a></sup>
+
+Adventurers went to the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time") to experience the [Battle for Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)") to assist Jaina against countless waves including [Rage Winterchill](https://wowpedia.fandom.com/wiki/Rage_Winterchill "Rage Winterchill") and [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron "Anetheron"). Afterward, she teleports away until [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") has been assisted.
+
+### Wrath of the Lich King
+
+After the death of [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon"), King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") prepared the forces of the Alliance for all-out war against the Horde. Desperate to avoid a fourth war, Jaina teleported to Orgrimmar to uncover the truth of the recent events in Northrend. There she learned from [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") that an uprising broke out and that [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras") had taken control of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"). The renegade Horde traitor, [Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress"), was in league with Varimathras. Thrall assured Jaina that the Horde had no official interest in a war against the Alliance unless provoked and that he would take care of the traitor. Jaina told them that she shall deliver their explanation to Varian, but warned them that he may still pursue war as the late Highlord was like a brother to the king.
+
+Jaina's assessment proved correct as the forces of Thrall ([attempting to regain control of Undercity](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Horde) "The Battle For The Undercity (Horde)")) and King Wrynn (hoping to reclaim it as Lordaeron for the Alliance and [bring Putress to justice](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Alliance) "The Battle For The Undercity (Alliance)")) clashed at Undercity. Refusing to allow the Horde and the Alliance to descend into open war, Jaina stopped the Alliance army cold (literally) and teleported them back to Stormwind.
+
+#### Secrets of Ulduar
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Jaina_Ulduar_Trailer.jpg/revision/latest/scale-to-width-down/180?cb=20221116135539)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Jaina_Ulduar_Trailer.jpg/revision/latest?cb=20221116135539)
+
+Jaina in the Violet Citadel.
+
+When [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") learned that [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") had escaped his ancient prison in [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar"), [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") and Jaina called a conference of Alliance and Horde leaders at the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"). As Rhonin debriefed [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") on the situation, Jaina noticed that Thrall and [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") had arrived early, and attempted to halt them before another confrontation was started. She was unable to stop Varian and Garrosh from coming to blows and King Wrynn left, refusing to work with the Horde at all after the events at the [Wrathgate](https://wowpedia.fandom.com/wiki/Angrathar_the_Wrathgate "Angrathar the Wrathgate"). Jaina wondered aloud who was left to challenge Yogg-Saron.<sup id="cite_ref-Secrets_of_Ulduar_trailer_45-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Secrets_of_Ulduar_trailer-45">[45]</a></sup>
+
+#### Crusaders' Coliseum
+
+Lady Jaina Proudmoore, accompanied by King Varian, [attended](https://wowpedia.fandom.com/wiki/Argent_Tournament#Alliance_and_Horde_leadership "Argent Tournament") the tournaments at the [Crusaders' Coliseum](https://wowpedia.fandom.com/wiki/Crusaders%27_Coliseum "Crusaders' Coliseum") in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), surrounded by various champions and representatives of the Alliance.
+
+#### The Frozen Halls
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Jaina_Proudmoore_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20110128235557)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Jaina_Proudmoore_TCG.jpg/revision/latest?cb=20110128235557)
+
+Jaina in the Frozen Halls.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Jaina_in_Frozen_Halls.jpg/revision/latest/scale-to-width-down/180?cb=20130829153943)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Jaina_in_Frozen_Halls.jpg/revision/latest?cb=20130829153943)
+
+Jaina in the Frozen Halls as seen in game.
+
+After uncovering a hole in the defenses of Icecrown Citadel through the [Forge of Souls](https://wowpedia.fandom.com/wiki/Forge_of_Souls "Forge of Souls") and the [Pit of Saron](https://wowpedia.fandom.com/wiki/Pit_of_Saron "Pit of Saron"), Jaina personally leads a team of Alliance champions to the [Halls of Reflection](https://wowpedia.fandom.com/wiki/Halls_of_Reflection "Halls of Reflection") in an effort to find the Lich King's weakness and possible redemption.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-46">[46]</a></sup>
+
+After Jaina and her allies manage to free some of the Lich King's prisoners and kill [Scourgelord Tyrannus](https://wowpedia.fandom.com/wiki/Scourgelord_Tyrannus "Scourgelord Tyrannus"), the [frost wyrm](https://wowpedia.fandom.com/wiki/Frost_wyrm "Frost wyrm") [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa") attacks, nearly killing the entire party.
+
+Within the private chambers of the Lich King, Jaina and her troupe discovered an unguarded [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"), the blade that stole Arthas' soul and led to the fall of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"). Jaina communed with the souls stolen from Frostmourne and much to her surprise, [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") appeared and told her a terrible truth. Not only did he inform her that Arthas was nothing but a small glimmer of light that stayed the Lich King's wrath, but in order to protect [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), the Lich King would have to be killed and a replacement would have to make the ultimate sacrifice.
+
+Suddenly, the Lich King entered the chambers and Uther was sucked back into Frostmourne. The Lich King coldly acknowledged Jaina while removing Frostmourne from its pedestal. The Lich King summoned [Falric](https://wowpedia.fandom.com/wiki/Falric "Falric") and [Marwyn](https://wowpedia.fandom.com/wiki/Marwyn "Marwyn"), two captains Jaina fought alongside during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). As The Lich King retreated to his private chambers and sicked the captains on her allies, Jaina remained determined to save Arthas and pursued him as the doors behind her closed. Following the defeat of the two captains, Jaina's allies rushed to her aid only to find her on the verge of defeat, with her former love viciously attacking her. Heartbroken and realizing that there was truly nothing left of Arthas, Jaina and her allies fled down the [Hidden Passage](https://wowpedia.fandom.com/wiki/Hidden_Passage "Hidden Passage") with the Lich King in steady pursuit. As they came to a cliff, the _[Skybreaker](https://wowpedia.fandom.com/wiki/Skybreaker "Skybreaker")_ flew in and rescued them at the last moment.
+
+##### Fall of the Lich King
+
+After the [Deathbringer](https://wowpedia.fandom.com/wiki/Deathbringer_Saurfang "Deathbringer Saurfang") was slain by a team of Alliance adventurers, [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard"), fresh from the [Gunship Battle](https://wowpedia.fandom.com/wiki/Gunship_Battle "Gunship Battle"), was unwilling to allow [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") to retrieve his son's corpse. But when King Varian and Lady Jaina teleported to the scene, Varian ordered Muradin to step aside and let a grieving father pass, to which Jaina burst into tears out of respect for her King.
+
+Having apparently returned to [Light's Hammer](https://wowpedia.fandom.com/wiki/Light%27s_Hammer "Light's Hammer") afterward, she somehow was able to tell that Arthas had died.
+
+Should an adventurer bring  ![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Inv_jewelry_necklace_21.png/revision/latest/scale-to-width-down/16?cb=20091128221239)[\[Jaina's Locket\]](https://wowpedia.fandom.com/wiki/Jaina%27s_Locket) to her following the Lich King's defeat, she weeps, stating that she knew there was still some part of Arthas trapped within the Lich King.
+
+When the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") invaded the mortal realm in the form of a magical mist and trapped Azeroth's sleeping denizens in their nightmares, Jaina became one of its victims. In Jaina's nightmare, she assisted Arthas in the purging of Stratholme and followed her lover Arthas and Muradin to Northrend to fight Mal'Ganis. They attacked the dreadlord and his undead army but during the battle, Muradin slipped and fell into a pit. Jaina chose to help Arthas attack the undead, while Muradin fell to his presumed death. When they defeated Mal'Ganis, they found a cave containing [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"). Jaina read the warning about the blade's curse. When Arthas was about to touch the blade, Mal'Ganis attacked him. Jaina had no other option but to pick up the blade and kill the dreadlord. She saved Arthas but also became the Lich Queen.<sup id="cite_ref-Nightmares_47-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Nightmares-47">[47]</a></sup>
+
+### Elemental Unrest
+
+She was present at the [Elemental Unrest meeting](https://wowpedia.fandom.com/wiki/Elemental_Unrest_meetings "Elemental Unrest meetings"). During the [Elemental Invasion](https://wowpedia.fandom.com/wiki/Elemental_Unrest "Elemental Unrest"), Jaina protected the [Mage Quarter](https://wowpedia.fandom.com/wiki/Mage_Quarter "Mage Quarter") from the Elements.
+
+### The Shattering: Prelude to Cataclysm
+
+Jaina attended a memorial ceremony in Stormwind that honored those that died in the [War against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"). During which a report arrived of a brutal attack on a [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") caravan by supposed [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") members. King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") was considering violent action in response to the mounting tensions between the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the Horde. Jaina was able to persuade Varian to stay his hand and pursue diplomatic measures first by reminding him that even he could not control his own people as evidenced by the [Defias](https://wowpedia.fandom.com/wiki/Defias "Defias"); though Varian subsequently reminded her that she has a penchant of putting her trust in the wrong people as evidenced by [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). It seems that Jaina knows, or at least heard some rumors, about the fate of Bolvar Fordragon atop the Icecrown. After this, Jaina went to [Anduin](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), whom Varian gave her permission to look after in his absence, and gave him a [hearthstone](https://wowpedia.fandom.com/wiki/Anduin%27s_hearthstone "Anduin's hearthstone") which was connected to Theramore.
+
+After this, Jaina secretly met with Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") to garner an explanation for this blatant violation of their peace treaty agreement. Thrall explained that he did not authorize this attack and he has been given demands by King Varian to condemn the attack publicly, turn in all violators over to the Alliance for justice, and to show good faith that the Horde was willing to continue peaceful relations with the Alliance. Thrall was only willing to declare his intention to continue honoring the peace treaty but refused to publicly condemn the attack as rebuking the pragmatism of staying alive, even with violent measures which he disliked, when the Alliance purposely cut off all trade with them and are causing them much suffering would be too cruel an attack on his people's identity. Nor was he willing to send violators over to the Alliance for judgment. Though Jaina understood the position Thrall was in, she none the less urged Thrall to find a way to meet the Alliance's demands as his noncooperation was only pushing the Alliance and Horde to all-out war.
+
+Anduin indeed used the hearthstone when he wanted to visit his "auntie" Jaina in time when she got back from meeting Thrall and later when [Moira Thaurissan](https://wowpedia.fandom.com/wiki/Moira_Thaurissan "Moira Thaurissan") took over [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge"). Also, before Moira's rise to power, Jaina attended the funeral of the late King [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard").
+
+Later on, she provided sanctuary to the exiled [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof"), who was seeking aid against the [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe"). [Magatha Grimtotem](https://wowpedia.fandom.com/wiki/Magatha_Grimtotem "Magatha Grimtotem") orchestrated the death of his father, [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof"), and has seized control of [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff"). Sympathizing with Baine and impressed by his budding friendship with her ward, Prince [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), Jaina agreed to fund Baine's rebellion with untraceable Theramore gold. Anduin learned from Jaina that Varian is taking [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") agents to assassinate Moira and liberate Ironforge. After a long conversation, Anduin convinced her to create a portal to Ironforge so that he could dissuade Varian from that course of action.
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Since Warchief [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") wants to defeat the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and conquer the whole of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") under the banner of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), offensives into the [Southern Barrens](https://wowpedia.fandom.com/wiki/Southern_Barrens "Southern Barrens") have been sent in response and secured territory once belonging to the Horde for [Varian](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and his [allies](https://wowpedia.fandom.com/wiki/Alliance "Alliance"). The humans of [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") have sent their army and tried to establish a military line between night elf territory and Theramore.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-48">[48]</a></sup> Theramore had a highway constructed that connects Theramore to Dustwallow Marsh; allowing the Alliance to move more quickly and send supplies and troops from Theramore to Alliance military bases in the [Southern Barrens](https://wowpedia.fandom.com/wiki/Southern_Barrens "Southern Barrens"). After the Horde's surprise invasion of [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"), Alliance forces streamed out of Theramore to attack the [Barrens](https://wowpedia.fandom.com/wiki/Barrens "Barrens").<sup id="cite_ref-ToW_13-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-ToW-13">[13]</a></sup>
+
+At an unknown but relative small amount of time after Deathwing's reemergence into Azeroth Jaina was requested to come to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") by [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") and at his request took [Kinndy Sparkshine](https://wowpedia.fandom.com/wiki/Kinndy_Sparkshine "Kinndy Sparkshine") as an apprentice.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-49">[49]</a></sup>
+
+During the assault into the [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands"), Jaina traveled to [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") to witness [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Aggra](https://wowpedia.fandom.com/wiki/Aggra "Aggra") become life-mates.
+
+#### Wolfheart
+
+Though Jaina would rather come to [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")' meeting, she chose to stay in Theramore in order to continue organizing Alliance forces. In her stead came [Archmage Tervosh](https://wowpedia.fandom.com/wiki/Archmage_Tervosh "Archmage Tervosh").
+
+#### Blood of Our Fathers
+
+As the leader of Theramore Isle, Jaina was part of the Honor Delegation coming to Stormwind for a meeting. She greeted Baron Lescovar who was drunk and called her an orc lover. Jaina continues trying to dissuade King Varian Wrynn from his unbending stance against the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). Despite differences in opinions, Jaina had always been King Wrynn's ally, if not his staunchest supporter. She continues to counsel the king on not only matters of state but also matters of the heart; most notably his turbulent relationship with his son, Anduin. When Varian was about to give a speech at the Remembrance Ceremony, he was missing and Jaina with [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") and [Marcus Jonathan](https://wowpedia.fandom.com/wiki/Marcus_Jonathan "Marcus Jonathan") went to look for him. She found him dying at Stormwind cemetery but Anduin healed him. Jaina then accompanied Anduin and all the guests to hear Varian's speech.
+
+### Jaina Proudmoore: Tides of War
+
+After the red comes the silver,  
+She who was golden and bright;  
+The Proud Lady humbled and bitter,  
+Shall now turn her thoughts to the fight.
+
+Saphire to diamond she gleams now,  
+The Kirin Tor leader who comes,  
+"Queen" of a kingdom now fallen,  
+Marching to war's martial drums.
+
+Be ye warned - the tides of war  
+At last shall break upon the shore.
+
+Following Deathwing's demise, Jaina became increasingly concerned with rising tensions between the Horde and the Alliance. Jaina later went to [Tidefury Cove](https://wowpedia.fandom.com/wiki/Tidefury_Cove "Tidefury Cove") where she met with Thrall in secret, where she tried to convince him to do something about Garrosh, whose warmongering was pushing the Alliance and Horde to all-out war. Thrall, now going by the name Go'el, was set on his new path and could not abandon the work he and the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring") were doing to heal the damage the Cataclysm had wrought unto Azeroth. Even so, Jaina was convinced that if they hesitated any longer, war would ensue and many innocents would suffer the price.
+
+Disheartened by Thrall's decision Jaina later returned to Theramore, but some time afterwards would be visited by the former aspect of magic [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") who would request Jaina's aid in looking for the missing [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris"); to which Jaina agreed to help him with this important endeavor. Jaina's advisers: [Archmage Tervosh](https://wowpedia.fandom.com/wiki/Archmage_Tervosh "Archmage Tervosh"), night elf bodyguard [Pained](https://wowpedia.fandom.com/wiki/Pained "Pained") and [Kinndy](https://wowpedia.fandom.com/wiki/Kinndy_Sparkshine "Kinndy Sparkshine"), were all tasked to gain any information about the artifact. As the days passed, Jaina and Kalec grew closer as they began talking about their past, loves, and hurts. In time, Pained learned that the Horde is regrouping near [Northwatch](https://wowpedia.fandom.com/wiki/Northwatch_Hold "Northwatch Hold") and sent a word to Jaina. Now, Jaina had two problems: the search for the Focusing Iris and the Horde's bid for expansionism. Though she feared that Northwatch would fall to the Horde's expansionism, she believed that finding the Focusing Iris took precedence. Eventually, she and Kalec were successful in understanding why Kalec could not sense the Iris: the perpetrators were using transformation spells to masquerade it and hide its presence from Kalec's senses.
+
+Sometime after [Baine](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") sent [Perith Stormhoof](https://wowpedia.fandom.com/wiki/Perith_Stormhoof "Perith Stormhoof"), one of his [Longwalkers](https://wowpedia.fandom.com/wiki/Longwalker "Longwalker") to deliver the news of [Northwatch Hold](https://wowpedia.fandom.com/wiki/Northwatch_Hold "Northwatch Hold")'s fall, [Garrosh's](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") desire to conquer all of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), and that the Horde was intent on marching upon [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"). After handing over [Fearbreaker](https://wowpedia.fandom.com/wiki/Fearbreaker "Fearbreaker") (given to Perith to substantiate the claims of his warnings), Jaina promised it would be returned to Anduin and gave him a note to ensure he could leave Alliance territory unharmed for his. As departed from the city, Jaina and her advisers started preparing for war. During this time Kalecgos returned to Theramore and decided to stay and help Jaina defend her city. Jaina began contacting all the allies she can to help defend Theramore, including King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and other leaders of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance").
+
+After witnessing Horde warships near the borders of Alliance waters, Jaina was convinced to ask help from [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") and the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). After being informed that Rhonin alone could not make such a decision, Jaina was left with the task of convincing the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") to help her. After much discussion, the Council of Six agreed to lend the Kirin Tor's aid to Theramore in the hopes that their presence will act as a deterrent; reasoning that doing nothing would be tacit support of Garrosh's war. [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), one of the members of the Six, also sent word to [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal") who sent a contingent of [Sha'tari](https://wowpedia.fandom.com/wiki/Sha%27tar "Sha'tar") forces.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-50">[50]</a></sup>
+
+The defense of Theramore is ill-fated: though the Horde's initial attack on Theramore was repelled, it was revealed that the entire ordeal had been a feint attack, in order to gather the best and brightest of the Alliance in one place, and then annihilate them with a Focusing Iris-empowered [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb"). The Alliance discover this too late, and the nation of Theramore was utterly obliterated. Jaina and a few Alliance comrades barely survived, thanks to Rhonin who ordered them into a portal just before the mana bomb hit, sheltering them from the blast at the cost of his own life.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Jaina_Tides_of_War.jpg/revision/latest/scale-to-width-down/180?cb=20210408202802)](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Jaina_Tides_of_War.jpg/revision/latest?cb=20210408202802)
+
+Jaina on the cover of _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_.
+
+When Jaina awoke, she found herself radiating with arcane energy and nearly all of her once fair hair turned white. Despite Kalec pleading with her to not go back right away, as he knew no one could have survived the blast, the shell-shocked Jaina did so anyway. Jaina was horrified by the loss of all she had worked for, and the deaths of her friends and people. She then came across the corpse of Kinndy; when she touched her shoulder to turn the body over, the young gnome's body, infused with arcane energy, crumbled into violet dust. It was at this moment, losing someone so bright and full of promise, that Jaina snapped.
+
+Filled with cold fury and rage, Jaina exacted revenge on the Horde that stayed behind to loot the ruins and dared to attack her. Not caring to think about the moral consequences, she climbed down into the crater where the [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris") lay and hid it so that she could use it against the Horde. She later traveled to [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") to gain their support for an immediate and brutal counterattack. King Varian was wary of simply attacking Orgrimmar head-on with their recent losses, and instead advised caution. King Varian and Prince Anduin were also against using dishonorable tactics to fight the war and informed her that the Horde, in the aftermath of Theramore's fall, had set up an effective naval blockade of Kalimdor. Not to be deterred from vengeance Jaina left Stormwind and for [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and demanded that the Kirin Tor strike against the Horde, even going so far as recommending that Dalaran be transported above Orgrimmar and rain destruction down on the city. Though committed to making sure Garrosh Hellscream would answer for Rhonin's death, the Kirin Tor were unwilling to give Jaina their support to destroy Orgrimmar, having just lost their leader as a result of getting involved in the war and their belief that Jaina's plans could lead to the deaths of many innocents who had nothing to do with the bombing of Theramore.
+
+Seeking vengeance and unaware that the Alliance was rebuilding their fleet to counterattack the Horde, Jaina traveled to the Dalaran library and located _The Sixth Element: Additional Methods of Arcane Augmentation and Manipulation_, which she realized had been found and warded shut by her mentor [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas"). Seeing it as a sign that Antonidas would agree with her plans, Jaina carefully broke the seal, so that it would not set off the magical alarms, and discovered that the author theorized that the arcane was like an element, and that the Focusing Iris had been used once to enslave and control elementals. Using this knowledge, Jaina would head towards [Ratchet](https://wowpedia.fandom.com/wiki/Ratchet "Ratchet") and then secure [Fray Island](https://wowpedia.fandom.com/wiki/Fray_Island "Fray Island") and begin her plan to destroy [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), by using the Focusing Iris to summon a massive tidal wave's worth of [water elementals](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental") to drown the whole city.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Jaina_FX.jpg/revision/latest/scale-to-width-down/180?cb=20151210100327)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Jaina_FX.jpg/revision/latest?cb=20151210100327)
+
+Jaina after surviving the explosion.
+
+Having been begged for help by the elements beforehand, Thrall barely arrived in time and tried to dissuade her from committing the horrific act, but Jaina ignored his pleas. She sent the elemental wave on its way and it was all he could do just to stalemate her water with the help of the wind; he quickly realized that it was a wonder that he is able to keep the water back at all. Enraged, Jaina attempted to kill Thrall with an arcane blast; the two trade spells, but doing all this, while holding back the wave and trying to talk Jaina down, took its toll. Thrall was forced to pour all his power into the wind, with nothing left to protect himself. It was only with the arrival of [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") that Jaina was prevented from killing Thrall. Kalecgos, in reasoning with Jaina, told her that he knew what loss felt like (due to losing [Anveena Teague](https://wowpedia.fandom.com/wiki/Anveena_Teague "Anveena Teague")), but that revenge will not bring them back, and one can heal as long as they don't do something so horrible that they can't take back. Thrall adds that using the Iris in a way that Garrosh, a thief, coward, and butcher would have would cast her in the same light as well.
+
+When Jaina said she did what she knew to be right, Kalec bluntly reminded her that Arthas had believed the same thing when he carried out the culling of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") and pleaded with her not to stoop to the same level, saying that even Arthas had not reacted with such hatred. Jaina considered Kalec's words and was horrified to realize that not only was her behavior similar to Arthas but that her intended actions were nearly identical to what Garrosh and the Twilight Hammer had done with the Iris. Realizing what she almost became, Jaina dispelled the tsunami, remarking that while she would fight Garrosh's Horde, she would not murder civilians. She told Thrall that peace might be possible when Garrosh was removed, but not a moment before, and both friends realized that their friendship was yet another causality of Garrosh's brutality, with Jaina admitting it would be a long, long time, if ever, before she could call Thrall "friend" again.
+
+Asking Kalecgos to fly her and the Iris over the Horde capital, they saw the Horde's enthralled [krakens](https://wowpedia.fandom.com/wiki/Kraken "Kraken") nearly annihilating the Alliance fleet, which was sent to besiege [Bladefist Bay](https://wowpedia.fandom.com/wiki/Bladefist_Bay "Bladefist Bay") and eventually Orgrimmar. Jaina was horrified to realize that if Thrall and Kalec hadn't stopped her, she would have destroyed the entire Alliance fleet as well. She used the Iris to summon an army of water elementals to save the fleet. With the fleet rescued, Jaina and the Alliance fleet remnants sailed to [Northwatch Hold](https://wowpedia.fandom.com/wiki/Northwatch_Hold "Northwatch Hold"), routing any Horde presence in that area and reclaiming the ruined Alliance outpost, thus ending the Horde's blockade of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). With Northwatch secured, Varian sends an Alliance ship to Theramore to give those who died a proper burial.
+
+Kalecgos took Jaina back to the ruins of Theramore for closure, and to her amazement, they came across Fearbreaker, perfectly intact despite of the bomb. Coming to grips with her grief, she sobbed as Kalec comforted her. As they talked, he helped her to realize that she wished to return to Dalaran and the Kirin Tor, remembering that Rhonin had told her that she was its future. Acknowledging their feelings for each other, Kalec kissed Jaina, formally beginning a relationship.
+
+Meeting with the remaining members of the Six, Jaina handed over the tome she stole, explaining what she did with the Focusing Iris. Kalec, as leader of the blue flight, unexpectedly donated the Iris to the Kirin Tor for safe-keeping. Jaina made her formal request to return to the Kirin Tor as a novice member, which they turn down . . . because they wish her to take Rhonin's place as leader instead. Khadgar explained that Vereesa found a box that contained secret scrolls of prophecy written by [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"), one of which perfectly described Jaina as she was now and the events that had just affected her. In the aftermath of all that had occurred, Jaina's restraint in the face of despair had shown them much of her character. Jaina points out that she needed help and part of the thanks was owed to Kalec, and so Khadgar extended an invitation to the former Aspect to join the Kirin Tor himself.
+
+After seeing to the new mass grave outside Theramore as the Kirin Tor's new leader, Jaina, with Kalec by her side, presided over her predecessor's memorial service at the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel").
+
+### Theramore's Fall
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/TheramoreFall.jpg/revision/latest/scale-to-width-down/180?cb=20150126223248)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/TheramoreFall.jpg/revision/latest?cb=20150126223248)
+
+Post-Theramore Jaina from _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")._
+
+Jaina is a key part of the Alliance side of the [scenario](https://wowpedia.fandom.com/wiki/Scenario "Scenario") [Theramore's Fall](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall "Theramore's Fall"), which takes place in-game concurrent to [the events of _Tides of War_](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle") and following the destruction of Theramore by [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh "Garrosh").
+
+At the center crater of her ruined city, Jaina attunes to the [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris") before transport while [Alliance agents](https://wowpedia.fandom.com/wiki/Player "Player"), aided by three [water elementals](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental") she summons, eliminate the remainder of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")'s forces, including [Warlord Rok'nah](https://wowpedia.fandom.com/wiki/Warlord_Rok%27nah "Warlord Rok'nah"), but does not seem to actually take part in the battle herself, as described in the novel.
+
+### Mists of Pandaria
+
+#### Landfall
+
+Jaina, as the leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), was present during the Alliance meeting in the [Shrine of Seven Stars](https://wowpedia.fandom.com/wiki/Shrine_of_Seven_Stars "Shrine of Seven Stars"), where the Alliance dignitaries and allies discussed the pros and cons of using [Sha](https://wowpedia.fandom.com/wiki/Sha "Sha") power. She remained silent in her opinion but did restrain the Sha when it physically manifested into an [Echo of Hatred](https://wowpedia.fandom.com/wiki/Echo_of_Hatred "Echo of Hatred").<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-51">[51]</a></sup>
+
+[King Varian Wrynn](https://wowpedia.fandom.com/wiki/King_Varian_Wrynn "King Varian Wrynn") sent [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") and an Alliance adventurer to negotiate with Jaina Proudmoore the withdrawal of [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") from [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") as the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") claim fealty to the Horde and represent a major threat to the war effort.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-52">[52]</a></sup> Jaina Proudmoore refused, citing a desire to maintain Dalaran's neutrality. Her reason being that despite her disdain for Garrosh, Dalaran could serve as a beacon of hope for peace. By showing the world that both Alliance and Horde can trust each other and work together in their city, the world would be able to believe that they could eventually be above the war. She and Anduin talked, and Jaina admitted that she was not proud of how she had planned to wipe out Orgrimmar. She stated that the Kirin Tor has a legacy of abuse and though members of the Kirin Tor have loyalties to both the Alliance and Horde, she hopes that they can trust each other to remain united in their mission to use power responsibly, despite if it conflicts with their faction's agenda.<sup id="cite_ref-The_Fate_of_Dalaran_53-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Fate_of_Dalaran-53">[53]</a></sup> She later assists the night elves by increasing [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")' magical defenses in order to prevent Garrosh from obtaining the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Inv_misc_bell_01.png/revision/latest/scale-to-width-down/16?cb=20180222193728)[\[Divine Bell\]](https://wowpedia.fandom.com/wiki/Divine_Bell).<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-54">[54]</a></sup>
+
+Despite their best efforts, the Horde successfully snuck into Darnassus and stole the Divine Bell.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-55">[55]</a></sup> Jaina returned to Darnassus and while trying to discover how her traps failed,<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-56">[56]</a></sup> found evidence that implicated someone familiar with the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and the [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") portal network to aid in the theft.<sup id="cite_ref-Tracking_the_Thieves_57-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Tracking_the_Thieves-57">[57]</a></sup> Furious at this betrayal, Jaina mobilized the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") forces, and the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") to purge the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") from Dalaran. After a brief confrontation with [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver"), Jaina chose to incarcerate him and killed his mage guards.<sup id="cite_ref-Jaina's_Resolution_58-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Jaina's_Resolution-58">[58]</a></sup> Some of those that surrendered were imprisoned in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold"), while others along with those that resisted were put to the sword.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-59">[59]</a></sup> After the purge, Jaina reported to King Varian that Dalaran was free of Horde interference and pledged the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") to the Alliance. Varian was disappointed that Jaina had not conferred with him before she acted as he had been in secret talks with the blood elves to bring them back into the Alliance. Her attack on the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") would consequently drive the sin'dorei back to the Horde. Jaina is unapologetic as she believes the Sunreavers brought the expulsion on themselves. Jaina also calls Varian's diplomatic endeavors with the blood elves foolish as she now believes that "once Horde, always Horde". Varian stressed to her that the Alliance must act as one. Jaina told Varian to not "go soft" before leaving to prepare the Kirin Tor for war.<sup id="cite_ref-What_Had_To_Be_Done_60-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-What_Had_To_Be_Done-60">[60]</a></sup>
+
+Later on, Varian discovered that Prince [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") and an Alliance champion went out on their own to stop Garrosh from using the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Inv_misc_bell_01.png/revision/latest/scale-to-width-down/16?cb=20180222193728)[\[Divine Bell\]](https://wowpedia.fandom.com/wiki/Divine_Bell). Though Anduin succeeded in stopping Garrosh and destroying the Divine Bell, it came at a great cost: Garrosh had assaulted Anduin and left him badly injured. Varian regretted not having sent Anduin to Stormwind immediately and ordered for [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") to be sent to him at once. Varian then mournfully tended to his son while Jaina, furious at the assault on her nephew, swore to Varian that the Kirin Tor would make Garrosh pay and promptly teleported out.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-61">[61]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/88/Jaina_meets_with_Anduin.jpg/revision/latest/scale-to-width-down/120?cb=20130829223236)](https://static.wikia.nocookie.net/wowpedia/images/8/88/Jaina_meets_with_Anduin.jpg/revision/latest?cb=20130829223236)
+    
+    Jaina refusing to abandon the neutrality of the Kirin Tor.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Jaina_meets_with_Kalecgos.jpg/revision/latest/scale-to-width-down/120?cb=20130829154859)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Jaina_meets_with_Kalecgos.jpg/revision/latest?cb=20130829154859)
+    
+    Jaina talking with Kalecgos about power in Dalaran.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Jaina_and_Aethas.jpg/revision/latest/scale-to-width-down/120?cb=20121216201746)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Jaina_and_Aethas.jpg/revision/latest?cb=20121216201746)
+    
+    Jaina and Aethas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Jaina_Purge.jpg/revision/latest/scale-to-width-down/120?cb=20121228235404)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Jaina_Purge.jpg/revision/latest?cb=20121228235404)
+    
+    Jaina and her elementals patrol the streets of Dalaran.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Varian_and_Jaina.jpg/revision/latest/scale-to-width-down/120?cb=20130811133616)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Varian_and_Jaina.jpg/revision/latest?cb=20130811133616)
+    
+    Jaina explains what happened in Dalaran.
+    
+
+#### Dawn of the Aspects
+
+Some time later, Kalec returned to the Nexus though still kept up his relationship with Jaina. Unbeknownst to Jaina, Kalec had found a [strange artifact](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr") that was torturing him with visions of a prehistoric [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). He often subconsciously contacted her during his mental battles with the visions, causing Jaina to respond and Kalec to think she was the one contacting him in the first place. Jaina expressed concern over Kalec's health and also stated she had to do [some things](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran") that she wasn't proud of, but were necessary.
+
+Jaina teleported to the Nexus and discovered an ancient artifact and realized that its magic has something to do with titans. Kalec sensed someone so she teleported to the entrance to have Kalec think that she just arrived. After assuring that everything is all right she teleported to Dalaran for more study. She went through several books, learning about the mage [Rulfo](https://wowpedia.fandom.com/wiki/Rulfo "Rulfo"). Suddenly, Jaina thought Kalec called her, so she teleported to his location, only to materialize near [Galakrond's Rest](https://wowpedia.fandom.com/wiki/Galakrond%27s_Rest "Galakrond's Rest"). At the proto-dragon's bones, she didn't find Kalec, but traces of the artifact's aura and the place where Kalec had dug the artifact. Soon, she also found [Buniq](https://wowpedia.fandom.com/wiki/Buniq "Buniq") who told her about how Kalec was here and that someone else later came to this location. Buniq showed her a symbol that the mysterious person casted, which Jaina recalled knowing. With this knowledge, Jaina returned to Dalaran.
+
+Later, Modera was looking for her and Jaina hid herself. After she was gone, she continued to study more tomes in order to learn anything about the titan artifact and thus rescue Kalec. She returned to the Nexus and began focusing her knowledge on the relic Kalec had found. She was able to see the world of proto-dragons through Alexstrasza's eyes and after Galakrond was defeated, she was successful in bringing Kalecgos to the present. She accompanied him to the Aspects's meeting and the blue dragon reminded them of their duty. During the convocation, Jaina was hidden behind a pillar but Alexstrasza sensed her and as she was about to leave, she told Kalec to thank her. After this, Kalec took Jaina to Dalaran.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-62">[62]</a></sup>
+
+#### Rise of the Thunder King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Jaina_in_Isle_of_Thunder.jpg/revision/latest/scale-to-width-down/180?cb=20131127233748)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Jaina_in_Isle_of_Thunder.jpg/revision/latest?cb=20131127233748)
+
+Jaina in Isle of Thunder alongside Vereesa Windrunner.
+
+Jaina founded the [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive") not only to defeat the emerging threat of a resurrected [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen") but also to prevent the Horde from scavenging any remains of his power should he be defeated.<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-63">[63]</a></sup> Jaina entered into an alliance with the [Shado-Pan](https://wowpedia.fandom.com/wiki/Shado-Pan "Shado-Pan") who had already established themselves in the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder") and had already begun undermining the [Thunder King](https://wowpedia.fandom.com/wiki/Thunder_King "Thunder King")'s forces. Jaina sent her champions to [Taran Zhu](https://wowpedia.fandom.com/wiki/Taran_Zhu "Taran Zhu") as a gesture of goodwill and to aid in their efforts.<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-64">[64]</a></sup>
+
+Eventually, the Kirin Tor Offensive assaulted [Shaol'mara](https://wowpedia.fandom.com/wiki/Shaol%27mara "Shaol'mara") and established [Violet Rise](https://wowpedia.fandom.com/wiki/Violet_Rise "Violet Rise") as their base of operations.
+
+They pressed their advantage on the Thunder King by assaulting the [Emperor's Gate](https://wowpedia.fandom.com/wiki/Emperor%27s_Gate "Emperor's Gate"). With the gate destroyed, the Shado-Pan and the Kirin Tor Offensive worked together to secure the [Thunder Forges](https://wowpedia.fandom.com/wiki/Thunder_Forges "Thunder Forges") and [Stormsea Landing](https://wowpedia.fandom.com/wiki/Stormsea_Landing "Stormsea Landing"). With the weapons liberated from the Thunder Forges and the Shado-Pan keeping vigil over Stormsea Landing, Kirin Tor resources were free to press the siege elsewhere.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Jaina_-_Lor%27themar_confront.jpg/revision/latest/scale-to-width-down/180?cb=20130829155129)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Jaina_-_Lor%27themar_confront.jpg/revision/latest?cb=20130829155129)
+
+Jaina confronting Lor'themar and Aethas.
+
+Jaina led the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") forces against [Shan Bu](https://wowpedia.fandom.com/wiki/Shan_Bu "Shan Bu") in the final assault on the Thunder King's stronghold. She learned that a [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") force led by [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"), regent lord of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), was also about to launch an assault on the Thunder King, though opted to deal with one problem at a time. She was particularly eager to recapture [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver"), though put aside this goal to fight the [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") in the courtyard.
+
+Jaina and Lor'themar came face to face after Shan Bu was defeated. Jaina ordered Aethas to be handed over to her in return for Lor'themar's life, while Lor'themar demanded the release of the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") from the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold") in return for Jaina's. As tensions rose, [Taran Zhu](https://wowpedia.fandom.com/wiki/Taran_Zhu "Taran Zhu"), though gravely wounded, intervened to defuse the situation, urging Lor'themar and Jaina to break the cycle of retribution and walk away. The two eventually agreed, though Jaina made it clear that no true peace would ever be enjoyed while [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") rules the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). To her surprise, Lor'themar responded that that was precisely why they should conserve their strength that day. Softened by Lor'themar's answer, Jaina ordered [Vereesa](https://wowpedia.fandom.com/wiki/Vereesa "Vereesa") and her forces to back down. Theron and Jaina ended their parley with courteous bows, and, thanks to Zhu's mediation, left the courtyard bloodlessly.<sup id="cite_ref-The_Fall_of_Shan_Bu_65-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Fall_of_Shan_Bu-65">[65]</a></sup>
+
+Jaina later tasked those Alliance adventurers who had sufficiently earned her trust to assault the Thunder King's [palace](https://wowpedia.fandom.com/wiki/Throne_of_Thunder "Throne of Thunder") and use the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Inv_staff_14.png/revision/latest/scale-to-width-down/16?cb=20070115231124)[\[Staff of Antonidas\]](https://wowpedia.fandom.com/wiki/Staff_of_Antonidas) to absorb his power from his dais in the  ![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Archaeology_5_0_thunderkinginsignia.png/revision/latest/scale-to-width-down/16?cb=20160317202758)[\[Pinnacle of Storms\]](https://wowpedia.fandom.com/wiki/Pinnacle_of_Storms). With the Thunder King's power fused with her staff, Jaina planned to use the Thunder King's terrible power on Garrosh when the time comes.<sup id="cite_ref-Securing_A_Future_66-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Securing_A_Future-66">[66]</a></sup>
+
+#### Siege of Orgrimmar
+
+Jaina arrived alongside [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") at the [Vault of Y'Shaarj](https://wowpedia.fandom.com/wiki/Vault_of_Y%27Shaarj "Vault of Y'Shaarj") after the [Sha of Pride](https://wowpedia.fandom.com/wiki/Sha_of_Pride "Sha of Pride") was defeated. She told the Regent Lord that she was not surprised that Garrosh's arrogance had unleashed the Sha upon the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms"). They also noticed that Garrosh left [Gorehowl](https://wowpedia.fandom.com/wiki/Gorehowl "Gorehowl") behind, and after advising Theron to stay out of the Alliance's way, Jaina sent the Alliance heroes through a portal to aid their forces besieging [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar").
+
+Jaina and [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner") both accompany King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")'s strike team to seize [Bladefist Bay](https://wowpedia.fandom.com/wiki/Bladefist_Bay "Bladefist Bay") from Hellscream's forces and takes part in the [Galakras](https://wowpedia.fandom.com/wiki/Galakras "Galakras") encounter. When the war moves to the Underhold, Jaina assists Alliance agents in the battle against Kor'kron orcs.
+
+In the aftermath of [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")'s defeat, Jaina glared at the Horde and accused them of plotting against the Alliance. She urged [King Varian Wrynn](https://wowpedia.fandom.com/wiki/King_Varian_Wrynn "King Varian Wrynn") to seize this opportunity to conquer Orgrimmar and dismantle the Horde, though it was an opportunity he did not take.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Jaina_Siege_1.jpg/revision/latest/scale-to-width-down/51?cb=20180701032200)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Jaina_Siege_1.jpg/revision/latest?cb=20180701032200)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Jaina_Siege_2.jpg/revision/latest/scale-to-width-down/101?cb=20180729180658)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Jaina_Siege_2.jpg/revision/latest?cb=20180729180658)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Alliance_Kor%27kron_Barrack.jpg/revision/latest/scale-to-width-down/120?cb=20180701031955)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Alliance_Kor%27kron_Barrack.jpg/revision/latest?cb=20180701031955)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Varianjaina.jpg/revision/latest/scale-to-width-down/120?cb=20130915154145)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Varianjaina.jpg/revision/latest?cb=20130915154145)
+    
+    [Jaina](https://wowpedia.fandom.com/wiki/Jaina "Jaina") urging Varian to dismantle the Horde.
+    
+
+#### War Crimes
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/War_Crimes_Cover_art.jpg/revision/latest/scale-to-width-down/180?cb=20190310124644)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/War_Crimes_Cover_art.jpg/revision/latest?cb=20190310124644)
+
+War Crimes.
+
+Jaina attended the trial of Garrosh Hellscream in the [Temple of the White Tiger](https://wowpedia.fandom.com/wiki/Temple_of_the_White_Tiger "Temple of the White Tiger") and was extremely happy when she first heard that they had been summoned for Garrosh's trial. King Varian, Prince Anduin, Kalecgos and Vereesa Windrunner were residing at Violet Rise with Jaina for the duration of the trial and there was a feeling of lightheartedness, peace, and celebration at Violet Rise that night.
+
+On the evening of the fourth day of the trial, Kalec came to Jaina in her tent in Violet Rise and asked if she'd go for a walk with him, although he looked very concerned. On their way down to the beach, Jaina recalled when she had gone out to meet Kalec as he landed on the beach outside Theramore and first said he'd help in the city's defense. She recalled criticizing the generals that were planning Theramore's defense for taking too much personal enjoyment in the planning their defeat of the Horde and noted bitterly that she was now one of those that she had mentally chided. She recalls the developing of the relationship between her and Kalec but how recent events had put distance between them, Kalec having only recently come to Pandaria.
+
+Eventually, they began to talk and Kalec expressed how he felt that Jaina had grown very hard and bitter and that she doesn't seem to stop hurting over what's happened. At this, Jaina became frustrated and listed out all the things that had happened to her. Kalec agreed that she had a right to feel the way she did but said he was worried that her hatred would not end with the trial, referencing how she had advised Varian to dismantle the Horde during the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar"). Kalec said that now that more important matters were dealt with, such as stopping Garrosh, the differences between them mattered again, that they were both very different now and that they would have to wait and see what would happen between them until the end of the trial. They embraced and kissed, neither one wanting these differences to lead them to break up.
+
+On the sixth day of the trial, Tyrande called forth her next witness - the longwalker [Perith Stormhoof](https://wowpedia.fandom.com/wiki/Perith_Stormhoof "Perith Stormhoof"). Although he initially refused to speak due to the oath he had sworn to Baine, after Baine explicitly ordered him to speak, he reluctantly did. After asking him some questions with regard to [Magatha Grimtotem](https://wowpedia.fandom.com/wiki/Magatha_Grimtotem "Magatha Grimtotem")'s taking over of [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") just before the shattering, Tyrande had a vision brought up of Baine speaking to [Jorn Skyseer](https://wowpedia.fandom.com/wiki/Jorn_Skyseer "Jorn Skyseer"), [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem") and Perith just after Magatha's coup. In the vision, they discussed what their next course of action should be and finally Baine stated that he would go to Jaina Proudmoore for help because Garrosh wouldn't send aid and Jaina was known to be more moderate than most. This led to complete chaos in the courtroom.
+
+Jaina simply stared at Tyrande, stunned and feeling terribly betrayed, having expected Baine to use this but not Tyrande. Eventually, Kalec brought her back to reality and everyone in the courtroom was shouting. Varian, who was outraged, was demanding why Jaina hadn't told him about this. Taran Zhu then called a ten-minute respite. Varian told Jaina that she had to tell him what was going to happen next, comparing this with Jaina's removing the Sunreavers from Dalaran without telling him. When the court resumed Tyrande again questioned Perith, asking about what took place at the meeting between Jaina and Baine. Perith reluctantly told of how Jaina had given Baine monetary aid to help take back Thunder Bluff.
+
+Tyrande then asked whether this was their only secret correspondence, to which Perith said it wasn't. Tyrande then brought up her second vision. The second vision was in Jaina's parlor in Theramore. Jaina became deeply enthralled with the sight and began reminiscing sadly of her destroyed home. In the vision, Perith was brought in to Jaina in her parlor. He said he was sent by Baine and warned Jaina that Garrosh was planning an imminent attack on Theramore Isle. He also brought with him [Fearbreaker](https://wowpedia.fandom.com/wiki/Fearbreaker "Fearbreaker") which had been given to Baine by Anduin when he first came to Jaina looking for help to retake Thunder Bluff. Perith said that Baine wanted to return Fearbreaker to its rightful owner. After the vision ended Jaina mockingly asked Varian whether he would arrest her for treason. To that Varian said he had only one question - whether she believed that Baine actually knew about the mana bomb. When Jaina immediately said no, Varian said that was good but demanded that after the session was over she was to tell him everything that had happened. When the session ended soon after and everyone got up to leave Varian told Jaina to stay, saying that they were going to have a talk.
+
+Varian became very angry at both Jaina and Anduin, outraged that Jaina would aid Baine but mainly frustrated that she hadn't told him before making the decision, to which Jaina stated that he wouldn't have listened, even if she had. When Varian said that he should put them both in prison Jaina responded that she wasn't his lieutenant or his child. She subsequently threatened to take the Kirin Tor out of the Alliance before leaving.
+
+On the seventh day of the trial, Jaina herself was called as a witness by Tyrande. Tyrande questioned Jaina on the events after Baine's warning and Jaina told how she sent for and received aid, as well as how they won the battle when the Horde initially attacked and drove them back. Tyrande then questioned her on what happened after the attack, about the [The Focusing Iris](https://wowpedia.fandom.com/wiki/The_Focusing_Iris "The Focusing Iris") and about the moments just before the Mana bomb dropped. Tyrande then, somewhat reluctantly, brought up the next vision, this one of Jaina and Rhonin in her tower just as the goblin zeppelin carrying the Focusing Iris started to reach Theramore. In the vision Rhonin told Jaina that he could divert the bomb so it would hit Jaina's magically fortified tower, thus minimizing the damage. He then started to do this but first opened a portal for Jaina and a few others to go through which was very difficult as the mana bomb was so close.
+
+Jaina repeatedly refused to go through saying that she would stay and help defend her city. Eventually, Rhonin told her that she was the future of the Kirin Tor before pushing her through the portal seconds before the bomb landed. Everyone in the courtroom was horrified and many in the present cried out when the bomb landed. After a respite, court resumed and Tyrande continued her questioning of Jaina and asked her what happened after she went through the portal. Jaina, pale and red-eyed, replied that she regained consciousness on an island outside Thermaore and said how she told Kalec, who found her, that she wanted to go back to the city alone. Tyrande then proceeded to show another vision. In this one Jaina was walking through what was left of Theramore, with bodies distorted and floating in mid-air due to the magic energy still present. The past Jaina eventually found the body of her old apprentice, Kinndy, but when she reached out to touch it crumbled to violet sand and the past Jaina screamed in agony and began to weep. Tyrande then nodded to Chromie to stop the vision and ended her examination.
+
+After Tyrande finished, Baine stood up and began his questioning. He asked Jaina how she felt in the aftermath of Theramore and also asked her what she did after. She replied by telling him how she went to Stormwind looking for support from Varian, who disagreed with the idea and led Jaina to storm out of Stormwind Keep. She then said how she went to the Kirin Tor for aid, but who also refused, and how she then recovered the Focusing Iris and used it to create an army of water elementals with which she was going to use to destroy Orgrimmar. Go'el attempted to stop her but would have been killed if Kalec had not arrived and convinced her that if she went through with this she would be just like Arthas, to which she realized Kalec was right.
+
+Tyrande then stated she had one more question before they ended court for the day. She asked Jaina if the reason she was glad she refrained was because, if she had released the tidal wave, she would have inadvertently wiped out the Alliance fleet. Jaina replied by saying that, while she was glad she didn't accidentally destroy the Alliance fleet, that wasn't the only reason. She then looked at Garrosh and said the main reason she was glad was because she would never want to be like Garrosh. Tyrande, however, did not stop and pressed the point, asking whether she didn't want to be like Garrosh or whether she didn't want to be like the Horde. Jaina paused and, after a while, replied by saying that the Horde wasn't Garrosh. This immediately caused Tyrande's eyes to widen as her questioning backfired. She said she had no more questions and the court session ended.
+
+On the ninth and final day of the trial, the accuser and defender presented their final arguments to the jury. After the arguments Jaina declined to have a meal with Kalec, preferring to have some time alone to think. She was eating when [Jia Ji](https://wowpedia.fandom.com/wiki/Jia_Ji "Jia Ji") brought here a message with the red wax the mark of the Horde. She opened and read it. The message read:
+
+> _It took some time for me to learn what happened in Dalaran. You used to be  
+> __a woman of peace; you be that no more. Garrosh scorches earth, and the  
+> __dead ain't the only victims. You got no blame or hate from me, no matter  
+> __what you feel toward Garrosh—or the Horde.  
+> __We all got our ghosts._—V
+
+After reading it several times she sent a message back telling the warchief that she was thankful for his understanding. She then saw Kalec shaking hands with Varian and Anduin and realized he was leaving. She ran to him, through the crowds, shouting his name and he turned to see her. She jumped into his arms and they kissed.
+
+When Garrosh escaped with Kairoz through a time portal, alternate versions of many of the people present emerged from it, including one of Jaina. This version of Jaina was, in fact, a past version of her - not a possible one. It was her possessed with hatred for the Horde and began throwing fireballs at the members of the Horde in the courtroom as well as deflecting a fireball thrown at her by the true-timeline Jaina, leading the true-timeline Jaina to wonder how she can defeat herself.
+
+Later Jaina, having somehow overcome her doppelganger, hit [Warlord Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela") in the back with a fireball while she was fighting Varian. Varian looked up to see Jaina get shot through the chest, possibly by either a [Northsea pirate](https://wowpedia.fandom.com/wiki/Northsea_Freebooters "Northsea Freebooters") or [Shokia](https://wowpedia.fandom.com/wiki/Shokia "Shokia") from the zeppelin, and collapse. Varian immediately abandoned Zaela, picked up Jaina and brought her inside the temple. When Varian and Jaina entered the temple the fighting was over and everyone else had managed to accept and defeat their alternate selves. When Go'el saw Varian enter with Jaina, who was limp and pale, he and Aggra ran over to her and attempted to heal her wound. Anduin, Tyrande, and Velen also arrived and did their best to try and heal Jaina. The wound, however, was too serious and they were too exhausted from fighting.
+
+Kalec ran up and held Jaina and went very still. Everyone was despairing, save for Anduin, who refused to stop trying to heal Jaina. [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji"), now hovering above them, promptly stated that "The student remembers the lessons of my temple" and proceeded to heal Jaina and the other injured, giving them all the second chance that was intended for Garrosh. Jaina opened her eyes and looked happy. She also took Go'el's hand and squeezed it, effectively forgiving him. After the celestials explained that they would have allowed Garrosh to live so he could continue to learn and how he was not the only one that was on trial, they told them that they must now go back out into the world and do what they must. All heads then eventually turned to Go'el and he humbly spoke for them all, stating that they would find Garrosh.
+
+### Warlords of Draenor
+
+Jaina arrives at [Khadgar's Tower](https://wowpedia.fandom.com/wiki/Khadgar%27s_Tower "Khadgar's Tower") in [Zangarra](https://wowpedia.fandom.com/wiki/Zangarra "Zangarra") after [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") is attacked by [Garona](https://wowpedia.fandom.com/wiki/Garona_Halforcen_(alternate_universe) "Garona Halforcen (alternate universe)"). While she approves of the Alliance [commander](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") and thanks to them, the Horde commander is reminded that the Horde are not allowed to be part of the Council of Six's business. Khadgar says that it's not the first time that he disagreed with the council and it won't be the last. After Khadgar gets stitched up by [Cordana](https://wowpedia.fandom.com/wiki/Cordana_Felsong "Cordana Felsong"), he and Jaina go inside his tower to further empower the commander's [ring](https://wowpedia.fandom.com/wiki/Legendary#Warlords_of_Draenor "Legendary"). Together, they make it into an even more powerful ring, and Jaina comments that Khadgar is working with dangerous artifacts that he shouldn't dabble with. She leaves on a good note for the Alliance commander and tells them to be careful in [Blackrock Foundry](https://wowpedia.fandom.com/wiki/Blackrock_Foundry "Blackrock Foundry"), but to the Horde commander, she simply says that she'll keep her eyes on them.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Jaina is present at the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), fighting alongside King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane") and leading a squad of [Kirin Tor Battle-Mages](https://wowpedia.fandom.com/wiki/Kirin_Tor_Battle-Mage "Kirin Tor Battle-Mage"). During the [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore"), the Alliance forces are left vulnerable by the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")'s unexpected retreat. The Alliance try to retreat on a [gunship](https://wowpedia.fandom.com/wiki/Gunship "Gunship") but is impeded by a summoned [fel reaver](https://wowpedia.fandom.com/wiki/Fel_reaver "Fel reaver"). The Alliance forces watched helplessly as King Varian Wrynn sacrificed himself by distracting the Burning Legion forces so that the Alliance forces can fly to safety. In the aftermath of the battle, she attends Varian's funeral and is outraged at her belief that the Horde left the Alliance to die against the demons. Jaina pushes for a front against both the Legion and the Horde, arguing with [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") and Anduin over it, and says that her mages will never work with the Horde again, nor would they be allowed in Dalaran despite Velen and Anduin advocating for it. Even so, she has arranged for [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to move to [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass") in order to aid in the protection of the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms").<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-67">[67]</a></sup>
+
+When [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") asks the Council of Six to let [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") mages back into the Kirin Tor, Jaina refuses, citing alleged atrocities and betrayals the Horde committed in the past. The council holds it to a vote though she warns them that she would leave the Kirin Tor should they choose to let the Horde back into Dalaran. Ultimately, she is defeated 4-2. Feeling betrayed, she lambastes the Six for blindly trusting the Horde and tells them to remember her warnings the next time the Horde betrays them again.
+
+Jaina ended the relationship with Kalec<sup id="cite_ref-Reunion_23-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Reunion-23">[23]</a></sup> and teleported out of the city, leaving the Kirin Tor in Khadgar's hands.<sup id="cite_ref-Calling_of_the_Council_68-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Calling_of_the_Council-68">[68]</a></sup>
+
+Jaina would go on to fight the demons on her own throughout the war.<sup id="cite_ref-Reunion_23-2"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Reunion-23">[23]</a></sup>
+
+### Before the Storm
+
+To [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos")' surprise, Jaina met with him one more time during his visit to the [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial"). It was the first time they've seen each other since Jaina departed the Kirin Tor and left him without so much as an explanation. Kalec was glad to see her and Jaina congratulated Kalec on becoming a member of the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six"). Kalec thanked her for her commendation but said he would gladly abdicate his office if she returned to Dalaran. However, Jaina refused. Though Jaina admitted she didn't know where else to go, she knew that she didn't belong in the Kirin Tor anymore. Jaina stated she didn't agree with the Kirin Tor's decision to readmit the Horde and that was the type of person the Horde has made her. As Kalec moved to comfort Jaina, Jaina confessed that she didn't like how hate has changed her but she doesn't know if she can be anything else anymore. Though her experiences have taught her what to hate and not want, she also has no idea what calms her anymore or have any positive aspirations. Jaina thinks that all she's done since [Theramore's Fall](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall "Theramore's Fall") was reacting and she feels frustrated that she can't seem to get herself out of that rut. Kalec apologized for being unable to help her in her struggles but Jaina admitted that only she can help herself. Jaina told Kalec she wasn't leaving because of the vote, but rather to figure out how to be true to her own nature. Kalec told her she'll work out her issues and that she'll find that when she rediscovers herself again, he's certain she won't find anything ugly or cruel. Kalec told Jaina that peace is a noble goal for the world but it is also a noble goal for one's self. Kalec promised her that should she ever need him, he'll be there. Kalec and Jaina kissed each other goodbye before Jaina portalled herself away.
+
+### Reunion
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Reunion_Preview.jpg/revision/latest/scale-to-width-down/140?cb=20180522195041)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Reunion_Preview.jpg/revision/latest?cb=20180522195041)
+
+Jaina in _Reunion_.
+
+[![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
+
+After the Legion's defeat, Jaina traveled to the ruins of Theramore where she thought back on the events that had led her here: leaving Dalaran, leaving Kalec, the bombing of Theramore, the [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity"), and of course her father's death at the [Invasion of Durotar](https://wowpedia.fandom.com/wiki/Invasion_of_Durotar "Invasion of Durotar"). She wondered what her life would have been like if she had fought with her father against the Horde then, or if her being at his side when [Derek](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") died would have quelled his rage, or if she had returned home after the Third War if he'd have listened to her counsel.
+
+Deciding that she had run from those questions for too long, Jaina opened a portal to [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus"), capital of her homeland [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)"). Under magical disguise, there she found her mother [Katherine](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore") giving a speech about Daelin, how he had always protected his people, and how Jaina had betrayed him. As the Kul Tirans insisted that they would stand alone, not asking Jaina or the Alliance for help, Jaina returned to Theramore and declared to herself that the Kul Tirans would not stand alone.<sup id="cite_ref-Reunion_23-3"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Reunion-23">[23]</a></sup>
+
+That was the first time Jaina had contacted Kul Tiras since the aftermath of the Third War.<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-69">[69]</a></sup>
+
+### Warbringers
+
+Jaina sang "[Daughter of the Sea](https://wowpedia.fandom.com/wiki/Daughter_of_the_Sea "Daughter of the Sea")" while paying her respects to a graveyard of swords in [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"). She took a silver Kul Tiran pendant hanged around one of the sword handles and handed it to a hooded ferryman at the Theramore docks as fare.
+
+While Jaina recalled the events that led to her [father](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")'s demise, the ferryman sailed Jaina through a canal filled with floating corpses and wrecked ships. The wisps of dead sailors eventually guided their ferry through a stormy ocean until they reached a specific spot where Jaina saw the faces of the dead. With her magic, Jaina raised a [sunken Kul Tiran ship](https://wowpedia.fandom.com/wiki/Jaina%27s_ship "Jaina's ship") from the depths of the ocean, and then she spoke to her father, who was disguised as the ferryman, telling him she was listening to his wisdom now. The apparition of Daelin turned his face to her before fading away. Jaina boarded the Kul Tiran ship and finished singing the song with her own ominous verse. With fierce determination, Jaina sailed to war.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-70">[70]</a></sup>
+
+-   [![Jaina Warbringers.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/06/Jaina_Warbringers.jpg/revision/latest/scale-to-width-down/120?cb=20180829190220)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Jaina_Warbringers.jpg/revision/latest?cb=20180829190220)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/da/JainaWarbringers1.jpg/revision/latest/scale-to-width-down/120?cb=20180724092525)](https://static.wikia.nocookie.net/wowpedia/images/d/da/JainaWarbringers1.jpg/revision/latest?cb=20180724092525)
+    
+    Jaina and the [ferryman](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore") sailing through the seas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/JainaWarbringers2.jpg/revision/latest/scale-to-width-down/120?cb=20180724092528)](https://static.wikia.nocookie.net/wowpedia/images/3/39/JainaWarbringers2.jpg/revision/latest?cb=20180724092528)
+    
+    She raising the ship from the ocean.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0b/JainaWarbringers3.jpg/revision/latest/scale-to-width-down/120?cb=20180724092530)](https://static.wikia.nocookie.net/wowpedia/images/0/0b/JainaWarbringers3.jpg/revision/latest?cb=20180724092530)
+    
+    Jaina prepared for war.
+    
+
+### Battle for Azeroth
+
+[![Jaina Proudmoore of Kul Tiras.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Jaina_Proudmoore_of_Kul_Tiras.jpg/revision/latest/scale-to-width-down/180?cb=20180522201430)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Jaina_Proudmoore_of_Kul_Tiras.jpg/revision/latest?cb=20180522201430)
+
+After the defeat of the Burning Legion, Jaina returned to active involvement in the rekindled Alliance-Horde war. Jaina participated in the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"), arriving with her newly risen ship held in the air by her magic. She was able to clear away the Forsaken blight covering the area in front of the gates of the city and then used her ship's cannons to destroy the walls of Lordaeron and allow the Alliance in. She further participated in the battle, and when Sylvanas chose to destroy Undercity with the blight instead of allowing the Alliance to take it, Jaina teleported everyone out and onto her ship.<sup id="cite_ref-The_Battle_for_Lordaeron_(Alliance)_71-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Battle_for_Lordaeron_(Alliance)-71">[71]</a></sup>
+
+Following the battle at Lordaeron, the Horde infiltrated Stormwind and freed two [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari "Zandalari") prisoners: [Princess Talanji](https://wowpedia.fandom.com/wiki/Princess_Talanji "Princess Talanji") and [Zul](https://wowpedia.fandom.com/wiki/Zul "Zul"). Jaina confronted the Horde forces at [Stormwind Harbor](https://wowpedia.fandom.com/wiki/Stormwind_Harbor "Stormwind Harbor"), but a fire started by Zul forced her to put it out and save the city instead of capturing them. When only one of the eight warships that pursued them returned, Jaina used her magic to view a survivor's memories and learn that the Horde had allied with the Zandalari. In response, Jaina suggested to Anduin that she should travel to her homeland of [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") and recruit its legendary fleet. While [Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane") reminded Jaina that she was the reason Kul Tiras left the Alliance in the first place, Jaina insisted that dealing with that was the only hope they had of bringing them back. She promised to return with the fleet or not at all.<sup id="cite_ref-Tides_of_War_(quest)_73-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Tides_of_War_(quest)-73">[73]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Jaina%27s_ship_cinematic.jpg/revision/latest/scale-to-width-down/120?cb=20181225005437)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Jaina%27s_ship_cinematic.jpg/revision/latest?cb=20181225005437)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Battle_for_Azeroth_-Alliance_heroes.jpg/revision/latest/scale-to-width-down/120?cb=20180407121144)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Battle_for_Azeroth_-Alliance_heroes.jpg/revision/latest?cb=20180407121144)
+    
+    Anduin, Genn, and Jaina witnessing Sylvanas' blight on Lordaeron.
+    
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/23/Lady_Jaina_Proudmoore_in_Boralus.jpg/revision/latest/scale-to-width-down/140?cb=20190130065520)](https://static.wikia.nocookie.net/wowpedia/images/2/23/Lady_Jaina_Proudmoore_in_Boralus.jpg/revision/latest?cb=20190130065520)
+
+Jaina in Boralus.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/62/Jaina_Thros.jpg/revision/latest/scale-to-width-down/140?cb=20190320223203)](https://static.wikia.nocookie.net/wowpedia/images/6/62/Jaina_Thros.jpg/revision/latest?cb=20190320223203)
+
+Jaina in Thros, the Blighted Lands
+
+En route to her homeland, Jaina had a nightmare where herself as a child happily sang with her father, only for him to turn around and accuse the adult Jaina of being a murderer.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-74">[74]</a></sup> Returning to Kul Tiras stirred feelings and memories that Jaina thought she had left behind. Upon arrival in the capital of [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus"), Jaina found that the citizens feared and hated her for her role in [her father's](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore") death. In fact, the guards arrested her on sight to take her to the Lord Admiral, her mother [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore"), where Jaina would answer for her crimes. Jaina went along willingly, and Katherine, urged by [Priscilla Ashvane](https://wowpedia.fandom.com/wiki/Priscilla_Ashvane "Priscilla Ashvane"), treated Jaina as a traitor and had her be taken away to face justice.<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-75">[75]</a></sup>
+
+Jaina was exiled to [Fate's End](https://wowpedia.fandom.com/wiki/Fate%27s_End "Fate's End"), an island off the coast of [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley") from which none return. Once there, she was captured by [Gorak Tul](https://wowpedia.fandom.com/wiki/Gorak_Tul "Gorak Tul"), king of the ancient [drust](https://wowpedia.fandom.com/wiki/Drust "Drust"), who pulled her into [Thros](https://wowpedia.fandom.com/wiki/Thros "Thros").<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-76">[76]</a></sup> Within Thros Jaina was haunted by memories of her past, including Arthas at Stratholme, Varian at the Battle for the Undercity, and Daelin at Theramore. But Katherine, realizing that Daelin had lost himself, convinced Jaina to forgive herself for her actions. After finding her way, Jaina slew Gorak Tul.<sup id="cite_ref-Thros,_the_Blighted_Lands_77-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Thros,_the_Blighted_Lands-77">[77]</a></sup> The two returned to Boralus in time to defend it from an attack by Ashvane and the [Irontide Raiders](https://wowpedia.fandom.com/wiki/Irontide_Raiders "Irontide Raiders"). After clearing the city of enemies, Katherine, knowing the city's defenses would not be enough, gave Jaina her father's pendant, which she used to recall the legendary Kul Tiran fleet, which until then had been captured in a magical storm by the [Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages"). The fleet, led by Jaina's brother [Tandred](https://wowpedia.fandom.com/wiki/Tandred "Tandred"), proceeded to surround the Irontide ships. Outnumbered, Priscilla surrendered.<sup id="cite_ref-Siege_of_Boralus:_Lady_Ashvane's_Return_78-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Siege_of_Boralus:_Lady_Ashvane's_Return-78">[78]</a></sup> Afterward, Katherine stepped down and named Jaina the new [Lord Admiral](https://wowpedia.fandom.com/wiki/Lord_Admiral "Lord Admiral") of Kul Tiras.<sup id="cite_ref-A_Nation_United_(quest)_79-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-A_Nation_United_(quest)-79">[79]</a></sup>
+
+#### Tides of Vengeance
+
+At the memorials to Daelin and [Derek](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore"), Jaina, Tandred, and Katherine spoke about how Jaina had always expected Derek to be Lord Admiral, how Derek's corpse had been retrieved from the ocean floor by the Horde and used to taunt the Proudmoores, and what Derek and Daelin would think of all that their family and Kul Tiras had endured. Suddenly [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon") arrived with a report that the Horde was attacking [Anglepoint Wharf](https://wowpedia.fandom.com/wiki/Anglepoint_Wharf "Anglepoint Wharf"), and Jaina left to confront the Horde personally while Katherine and Tandred rallied defenses.<sup id="cite_ref-80"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-80">[80]</a></sup> On the boat ride to Anglepoint, Jaina reassured Taelia that though she had not wanted to leave her team to report the attack, it was the right thing to do. Jaina assured her that even in times when they cannot save everyone, they should do the best they can and never give up hope.<sup id="cite_ref-81"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-81">[81]</a></sup> At Anglepoint Jaina teleported civilians out,<sup id="cite_ref-82"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-82">[82]</a></sup> then had Taelia and the Alliance champion work with the [Outriggers](https://wowpedia.fandom.com/wiki/Outriggers "Outriggers") but left behind one of her water elementals to help.<sup id="cite_ref-83"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-83">[83]</a></sup> Jaina later froze the seagate's water to prevent the Horde from entering Tiragarde Sound,<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  and teleported the team atop the walls.<sup id="cite_ref-84"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-84">[84]</a></sup> Using Azerite bombs stolen from the Horde, Jaina destroyed the invading ships.<sup id="cite_ref-85"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-85">[85]</a></sup>
+
+Jaina would later travel to [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar") on [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") to retrieve the [Abyssal Scepter](https://wowpedia.fandom.com/wiki/Abyssal_Scepter "Abyssal Scepter"), a [tidesage](https://wowpedia.fandom.com/wiki/Tidesage "Tidesage") artifact that the Horde had stolen from Boralus.<sup id="cite_ref-86"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-86">[86]</a></sup> With [Magister Umbric](https://wowpedia.fandom.com/wiki/Magister_Umbric "Magister Umbric") shrouding Jaina's magic with the [Void](https://wowpedia.fandom.com/wiki/Void "Void") to avoid detection, Jaina opened a portal for [Flynn Fairwind](https://wowpedia.fandom.com/wiki/Flynn_Fairwind "Flynn Fairwind"), [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw"), and the adventurer to access the Zandalari treasury.<sup id="cite_ref-87"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-87">[87]</a></sup>
+
+In [Nazmir](https://wowpedia.fandom.com/wiki/Nazmir "Nazmir"), the Alliance began a feint attack led by [Blademaster Telaamon](https://wowpedia.fandom.com/wiki/Blademaster_Telaamon "Blademaster Telaamon") to bait the Horde out of Zuldazar while the Alliance prepared to attack [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor"). They would cover the area in a mist with the Abyssal Scepter, and until it was set up Jaina and Shaw provided support for Telaamon's forces.<sup id="cite_ref-88"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-88">[88]</a></sup> Afterward the two of them led the Alliance forces to get as much of Nazmir as they could, to make the Horde think it was where their main fleet was.<sup id="cite_ref-89"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-89">[89]</a></sup> Alongside the adventurer, Jaina marched into Zuldazar aboard controlled Zandalari [direhorns](https://wowpedia.fandom.com/wiki/Direhorn "Direhorn") from the northern border to take the [Blood Gate](https://wowpedia.fandom.com/wiki/Blood_Gate "Blood Gate"), clearing the way for Alliance forces.<sup id="cite_ref-90"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-90">[90]</a></sup> Before returning to Boralus, she bid farewell to Telaamon and promised his sacrifice would be remembered.<sup id="cite_ref-91"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-91">[91]</a></sup> Jaina and her [ship](https://wowpedia.fandom.com/wiki/Jaina%27s_ship "Jaina's ship") spearheaded the [Alliance navy](https://wowpedia.fandom.com/wiki/Alliance_navy "Alliance navy")'s [assault on Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor_(battle) "Battle of Dazar'alor (battle)"). Once they were within range, the Alliance planned to detonate the hidden explosives they planted on the [Golden Fleet](https://wowpedia.fandom.com/wiki/Golden_Fleet "Golden Fleet")'s ships. The Golden Fleet, however, began harrying the Alliance navy with their [ballistaes](https://wowpedia.fandom.com/wiki/Ballistae "Ballistae") and one of them collapsed the deck by [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque")'s position just as he was about to detonate the explosives. Jaina began using her magic to shield her ship from missiles; just long enough for Mekkatorque to re-position his remote detonator machine and blow up the entire Golden Fleet defending the [Port of Zandalar](https://wowpedia.fandom.com/wiki/Port_of_Zandalar "Port of Zandalar"). With the Golden Fleet in ruins, the Alliance navy invaded [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor") with little resistance.
+
+Jaina serves as a boss during the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor_(battle) "Battle of Dazar'alor (battle)") raid. Following the death of [King Rastakhan](https://wowpedia.fandom.com/wiki/King_Rastakhan "King Rastakhan"), the Alliance fleet withdrew from Daza'alor. Lady Jaina Proudmoore stayed behind with a handful of Kul Tiran vessels to slow the Horde's pursuit.<sup id="cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Lady_Jaina_Proudmoore_(tactics)-92">[92]</a></sup> After the Alliance returned to [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus"), Jaina spoke with Shaw, Genn, Wyrmbane, and Anduin. Although there was victory, Anduin mourned the loss of life and worried about [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque"), who barely survived after his encounter with [Jastor Gallywix](https://wowpedia.fandom.com/wiki/Jastor_Gallywix "Jastor Gallywix"). Anduin also worried that rather than drive a wedge between the Horde and Zandalari, killing Rastakhan had only ignited the Zandalari's fury. While Wyrmbane, Genn, and Shaw wanted to push the advantage and win the war in a matter of weeks, Jaina argued that attacking while the Zandalari mourned their king would make them no better than Sylvanas. Anduin resolved to keep fighting, but said that the Alliance must never lose sight of who they are and what they stand for.<sup id="cite_ref-deadreckoning_93-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-deadreckoning-93">[93]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Battle_of_Dazar%27alor_-_Alliance_perspective.jpg/revision/latest/scale-to-width-down/120?cb=20190110202531)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Battle_of_Dazar%27alor_-_Alliance_perspective.jpg/revision/latest?cb=20190110202531)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8a/8.1_-_Battle_of_Dazar%27alor.jpg/revision/latest/scale-to-width-down/120?cb=20181216200024)](https://static.wikia.nocookie.net/wowpedia/images/8/8a/8.1_-_Battle_of_Dazar%27alor.jpg/revision/latest?cb=20181216200024)
+    
+    Jaina during a battle with the Horde on the Great Sea
+    
+
+After Genn, Shaw, and Wyrmbane left, Jaina and Anduin spoke in private about the losses in Dazar'alor and Mekkatorque's state of health, which neither Jaina nor Stormwind's priests could help. Anduin was glad to have his honorary aunt back with them, and Jaina commented on how much had happened while she was away; specifically, she wanted to know about the rumors she had heard of her old friend [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") and [what happened](https://wowpedia.fandom.com/wiki/Gathering "Gathering") in [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands"). The two left to go somewhere private to talk.<sup id="cite_ref-deadreckoning_93-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-deadreckoning-93">[93]</a></sup>
+
+Sometime later, [Valeera Sanguinar](https://wowpedia.fandom.com/wiki/Valeera_Sanguinar "Valeera Sanguinar") approached Jaina on behalf of [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") to meet off the coast of [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle"). Though initially hostile to the idea, Jaina agreed to the meeting under the condition that she wouldn't be going alone.<sup id="cite_ref-94"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-94">[94]</a></sup> To her absolute shock, Baine delivered to her, her recently resurrected brother, [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore"). This shock quickly turned to an outrage due to believing that Derek was Sylvanas's puppet, but Derek was able to reassure his sister that his mind was his own and that Baine had saved him from such a fate. A shocked Jaina could only ask Baine why and the High Chieftain responded that there was a sickness in the Horde, that they waged war even as the Earth Mother was dying, that the Horde has forgotten what truly matters, and his heart could no longer bear it. In response to Jaina's warning that Sylvanas could kill him for this Baine merely replied that "No life was worth living, if we cannot be true to our nature." As he returned home to seek solace in his family, he encouraged Jaina to do the same.<sup id="cite_ref-95"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-95">[95]</a></sup> As the two siblings reunited, Derek revealed that Baine had informed him of the exact circumstances of [their father](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")'s death. In response to Derek's uncertainty of where his path forward was, Jaina declared that they would find the answers together. Seeking to help her brother, Jaina brought him to [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil").<sup id="cite_ref-96"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-96">[96]</a></sup>
+
+Though Kul'Tiras and the Alliance sealed their pact, Jaina wanted to cement their bond with a grand gesture. To be precise, she wanted to build [Anduin](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") a ship worthy of the [Kul Tiran navy](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet").<sup id="cite_ref-97"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-97">[97]</a></sup> To that end, she sought the services of [Dorian Atwater](https://wowpedia.fandom.com/wiki/Dorian_Atwater "Dorian Atwater"), a legendary shipwright, having built such works as the [Proudmoore flagship](https://wowpedia.fandom.com/wiki/Proudmoore_flagship "Proudmoore flagship").<sup id="cite_ref-98"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-98">[98]</a></sup> While Dorian built the ship, Jaina decided that her brother [Tandred](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore") would serve as its captain and trusted him to fill the ranks.<sup id="cite_ref-99"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-99">[99]</a></sup> After the vessel was completed and its crew assembled, Jaina let the Alliance [champion](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") name [Anduin's vessel](https://wowpedia.fandom.com/wiki/Anduin%27s_vessel "Anduin's vessel") and had [Brother Pike](https://wowpedia.fandom.com/wiki/Brother_Pike "Brother Pike") bless the ship in order to fortify it against storms and encourage fair weather and smooth seas.<sup id="cite_ref-100"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-100">[100]</a></sup> Vowing that Kul'Tiras will stand with the Alliance as long as she was [Lord Admiral](https://wowpedia.fandom.com/wiki/Lord_Admiral "Lord Admiral"), Jaina subsequently delivered the vessel to Anduin, who warmly welcomed the gift as he accepted Kul'Tiras into the Alliance.<sup id="cite_ref-101"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-101">[101]</a></sup>
+
+#### Rise of Azshara
+
+After catching wind of the remains of the Horde fleet moving out to the sea, the Alliance assembled their fleets to finish the Horde's naval power, with Jaina among their forces.<sup id="cite_ref-102"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-102">[102]</a></sup><sup id="cite_ref-103"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-103">[103]</a></sup> Unbeknownst to the Alliance, [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") was using the [black blade](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") to guide the Horde fleet and pursuing Alliance fleet towards [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") where both fleets would be attacked by the naga under [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")'s command after the seas were opened.<sup id="cite_ref-104"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-104">[104]</a></sup> Though surprised by their arrival in Nazjatar, Jaina and [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane") rallied the Alliance together.<sup id="cite_ref-105"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-105">[105]</a></sup>
+
+Realizing that their shelter was barely defensible, and much of the Alliance army was in an even more precarious position, Jaina elected to search deeper into Nazjatar for a more defensive position. However, en route, the Alliance encountered [Blademaster Okani](https://wowpedia.fandom.com/wiki/Blademaster_Okani "Blademaster Okani"), leader of the [Waveblade Ankoan](https://wowpedia.fandom.com/wiki/Waveblade_Ankoan "Waveblade Ankoan").<sup id="cite_ref-106"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-106">[106]</a></sup> As they ventured together, they were confronted with an astral projection of Queen Azshara, who boasted that Nazjatar would be the last thing they would see and promised that she would hold the waters around Nazjatar at bay as long as she remained entertained.
+
+Deciding to work together, the Waveblade Ankoan allowed the Alliance to regroup and reinforce their base of [Mezzamere](https://wowpedia.fandom.com/wiki/Mezzamere "Mezzamere").<sup id="cite_ref-107"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-107">[107]</a></sup> Jaina recognized that the Alliance were only alive due to the aid of the [ankoan](https://wowpedia.fandom.com/wiki/Ankoan "Ankoan") and Azshara's desire to toy with them. She further believed it would be best to learn more about the ankoan and helped establish a portal between Mezzamere and [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus").<sup id="cite_ref-108"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-108">[108]</a></sup> As the Alliance established within Mezzamere, Jaina sent [scouts](https://wowpedia.fandom.com/wiki/Scout "Scout") to check out [Azshara's Palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace"), however, the scouts never returned. Determined to discover their fate, Jaina and the Alliance adventurer performed a ritual and discovered that the scouts had been killed and that Azshara was in possession of the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Inv_misc_enchantedpearl.png/revision/latest/scale-to-width-down/16?cb=20100930220042)[\[Tidestone of Golganneth\]](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth).<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-109">[109]</a></sup> Realizing that the best way to survive against Azshara's forces was to support the Alliance's new allies, Jaina entrusted [Alliance champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") with joining with [aiding their hunting parties](https://wowpedia.fandom.com/wiki/Combat_allies "Combat allies") and aid them in their tasks, as she plotted the Alliance's next move.<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-110">[110]</a></sup>
+
+Jaina later turned to Blademaster Okani to discover what insight he could provide against the naga,<sup id="cite_ref-111"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-111">[111]</a></sup> and the blademaster and champion subsequently set out to rescue enslaved members of the Waveblade.<sup id="cite_ref-112"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-112">[112]</a></sup> Jaina would later regroup with her allies and recognize the [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") weapons used by the naga as being created by [Lady Ashvane](https://wowpedia.fandom.com/wiki/Priscilla_Ashvane "Priscilla Ashvane").<sup id="cite_ref-113"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-113">[113]</a></sup> Informed of Ashvane's rescue by Azshara caused Jaina to realize that she had underestimated Azshara's influence and was content in securing the Azerite weapons for her allies.<sup id="cite_ref-114"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-114">[114]</a></sup> Fearing that the biggest battle was still to come, Jaina encouraged further establishing relations between the Alliance and the Waveblade. She believed that by doing so the Alliance would show them that together they could take on Azshara's forces and succeed.<sup id="cite_ref-115"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-115">[115]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/92/Jaina_in_the_Underhold.png/revision/latest/scale-to-width-down/180?cb=20200621203536)](https://static.wikia.nocookie.net/wowpedia/images/9/92/Jaina_in_the_Underhold.png/revision/latest?cb=20200621203536)
+
+In the Underhold.
+
+After Alliance spies caught wind of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") planning to assassinate [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") Jaina, recognizing that she owed Baine for returning Derek to her, agreed to Anduin's request to rescue Baine. Thus, she, along with [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") and the champion headed off to [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar").<sup id="cite_ref-116"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-116">[116]</a></sup> As Jaina and her allies ventured into the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold"), they unexpectedly encountered [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), who had also come to rescue Baine, and after a brief moment, agreed to work together to save Baine. When things started getting heated between Saurfang and Shaw, Jaina and Thrall were quick to get them focused on the task at hand. Upon nearly reaching Baine, the group was attacked by [Rowa Bloodstrike](https://wowpedia.fandom.com/wiki/Rowa_Bloodstrike "Rowa Bloodstrike"), who expressed disappointment but not surprise by Saurfang's and Thrall's decision to rescue Baine. Unwilling to stand down, the group was forced to kill Rowa and moved forward to Baine, who was surprised by their presence. While Shaw moved to release Baine from his chains, Saurfang remarked that it felt too easy and the group was then attacked by [Magister Hathorel](https://wowpedia.fandom.com/wiki/Magister_Hathorel "Magister Hathorel"), who sought to kill them and Jaina in particular for vengeance for the [purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran"). Ultimately, the group was successful in liberating Baine from his chains, and Jaina teleported the group safely out of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") into [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore "Mulgore").<sup id="cite_ref-Stay_of_Execution_117-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Stay_of_Execution-117">[117]</a></sup>
+
+As the group looked over [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff"), Thrall thanked Jaina for saving Baine. Revealing that he wished he could change it all ([Cairne](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof"), [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), and [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle")) and that sometimes he feels as if he did everything wrong. Following Jaina's comment about everyone having blood on their hands, Thrall revealed his belief that Sylvanas would now come for Thunder Bluff to burn it like she did [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"). In response, Jaina reminiscent about how the Horde and Alliance united for the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal"). However, Thrall was unmoved due to remembering all the times that the Horde and Alliance had come together and how they let it fall apart and asked Jaina what was different this time. In response, Jaina told him that they were different and then departed to let Anduin know of the mission's success.<sup id="cite_ref-118"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-118">[118]</a></sup>
+
+Upon returning to Nazjatar, she informed Genn of what had occurred and argued that they had a common enemy in response to Greymane's outraged at saving a leader of the Horde. Remarking that Sylvanas and Azshara wanted the Alliance and the Horde at each other's throats, Jaina suggested that they direct their efforts Azshara instead of the Horde. She further encouraged that it would buy time for Saurfang's rebellion to take root. Though wary Genn agreed but warned she that if the Horde turned against them, they will answer for it.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Eternal_Palace_heroes.jpg/revision/latest/scale-to-width-down/180?cb=20190718202947)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Eternal_Palace_heroes.jpg/revision/latest?cb=20190718202947)
+
+Shandris, Jaina, Lor'themar, and Thalyssra in the Eternal Palace.
+
+Seeking to gain control of the Tidestone away from Azshara, Jaina directed [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon") and the champion to investigate the ruins of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") for anything potent enough to counter Azshara's sorcery.<sup id="cite_ref-119"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-119">[119]</a></sup> After Jaina learned that the [Javelins of Suramar](https://wowpedia.fandom.com/wiki/Javelins_of_Suramar "Javelins of Suramar") were obtained, she declared it an amazing find and that with them they could assault the guardian of the Tidestone and secure it.<sup id="cite_ref-120"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-120">[120]</a></sup> Declaring that now was the time to act, Jaina directed the Alliance to take the fight to the naga. En route, however, the Alliance encountered Horde forces led by [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra") and after a brief argument, both sides agreed to fight together against Azshara's forces, where during the fighting Jaina worked side by side with Thalyssra. After the Javelins of Suramar were used to shatter the Tidestone's protective barrier around [Lady Zharessa](https://wowpedia.fandom.com/wiki/Lady_Zharessa "Lady Zharessa"), Jaina joined the fight against Azshara's champion.<sup id="cite_ref-121"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-121">[121]</a></sup> After Jaina and Thalyssra combined their magics in order to use the Tidestone to open the way to [Azshara's Palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace"), Jaina warned that they couldn't underestimate Azshara as she was one of the most powerful sorceresses alive but declared, nevertheless, that she must be defeated. However, Lor'themar and Jaina argued about which side would deal the final blow to the Queen only to be interrupted by Azshara herself, who formally invited all of them to enter her palace.<sup id="cite_ref-122"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-122">[122]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Calia_and_the_Proudmoore_Siblings.jpg/revision/latest/scale-to-width-down/180?cb=20191016005533)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Calia_and_the_Proudmoore_Siblings.jpg/revision/latest?cb=20191016005533)
+
+The meeting between Calia, Derek, and Jaina.
+
+Accepting Azshara's invitation, Jaina was among the forces to strike at the heart of Azshara's power. After Azshara was defeated, Lor'themar and Jaina approached about to finish her off when the chains binding [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") shattered and the Old God subsequently rescued Azshara. Though triumphant over Azshara, Lor'themar declared it a hollow victory as not only did Azshara survive but N'Zoth was freed. In response, Jaina declared that the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") had kept them distracted and that divided they had no hope against N'Zoth. Agreeing with Jaina's assessment Lor'themar revealed to her his vow to tell his people of what transpired in Nazjatar, of how Azshara fell because the Horde and Alliance stood together, of the rising threat of N'Zoth, and his promise to take his place besides Saurfang and Thrall.
+
+Jaina was among the Alliance forces to join with [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")'s revolutionaries against [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner").<sup id="cite_ref-123"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-123">[123]</a></sup> As part of the plan to attack [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), Jaina and [Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra") were ordered with shielding the army from a magical assault.<sup id="cite_ref-124"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-124">[124]</a></sup> During the conflict, Saurfang challenged Sylvanas to a [Mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora"), which ended in his death and Sylvanas's abandonment of the Horde.<sup id="cite_ref-125"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-125">[125]</a></sup> Jaina was stunned over Saurfang's death and called a recall of Alliance forces.<sup id="cite_ref-126"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-126">[126]</a></sup> Jaina was then among the Alliance heroes to attend Saurfang's funeral in front of [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold").<sup id="cite_ref-Old_Soldier_(Alliance)_127-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Old_Soldier_(Alliance)-127">[127]</a></sup>
+
+Following Saurfang's funeral, Jaina met with Calia and Derek at [Seabreeze Village](https://wowpedia.fandom.com/wiki/Seabreeze_Village "Seabreeze Village") in [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley"). During this meeting, Calia and Derek learned that the war was over and it was implied that Calia and Derek had grown close. As the three conversed the Proudmoore siblings remarked that [others](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") would benefit from Calia's guidance, much like Derek had.<sup id="cite_ref-And_Following_Seas_128-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-And_Following_Seas-128">[128]</a></sup> Unbeknownst to the three, the [Speaker of the Horde](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") was spying on their meeting at the behest of [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), who after being informed of the details remarked that she must act quickly.<sup id="cite_ref-129"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-129">[129]</a></sup>
+
+#### Visions of N'Zoth
+
+Following the fall of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), Jaina answered Anduin's call for the Alliance leaders to gather in Stormwind.<sup id="cite_ref-130"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-130">[130]</a></sup> She thus witnessed Anduin's declaration that with the armistice signed, the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") was over and [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")'s rejection of any idea of peace unless it was signed in Sylvanas's blood. She also learned that the Horde had abolished the [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") position for a [council style leadership](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council"). Following the meeting, she noticed that Anduin remained tense and was told that while she found peace in her heart, he couldn't say the same about himself and his belief that neither Tyrande nor Genn would consider the war to be over until Sylvanas was brought to justice. In response, Jaina expressed her belief that Sylvanas couldn't hide for long with [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet") scouring the seas and the [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") searching every dark corner of Azeroth. However, Anduin revealed that he wasn't concerned that Sylvanas would remain hiding but that she wouldn't, he then changed the subject by asking Jaina about a messenger from Kul Tiras. He subsequently learned that [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon") sought to see Stormwind and learn more about [her father](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon"). The pair then got into a brief argument about telling Taelia that he had become the new [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), with Jaina believing that she should be informed about her father's fate. In the end, Jaina decided that the decision remained in Anduin's hands but warned him that if she learned the truth was kept from her, it would hurt her all the more.<sup id="cite_ref-131"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-131">[131]</a></sup>
+
+### Shadows Rising
+
+Knowing that [Anduin](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") was concerned by the lack of progress by [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") and [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") in finding [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), Jaina sought to counsel him towards patience but none of her arguments were able to ease his troubled heart. Thus, when Anduin requested that she personally check on the pair for an update, she agreed. Jaina was then disturbed to see that the pair had been interrogating a man by having Turalyon use the [Light](https://wowpedia.fandom.com/wiki/Light "Light") to shackle him in place, while Alleria's [Void](https://wowpedia.fandom.com/wiki/Void "Void") powers invaded his mind. When Turalyon justified their actions by saying that the man had sheltered [an agent](https://wowpedia.fandom.com/wiki/Visrynn "Visrynn") of Sylvanas, Jaina demanded to know how he had known to which the paladin revealed that the man had a dagger that was more fitting in a [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") scabbard, and Alleria revealed her interrogation revealed that the [dark ranger](https://wowpedia.fandom.com/wiki/Dark_ranger "Dark ranger") was heading towards [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar").
+
+Though Jaina found that she could not argue with the results of their use of both school magics, she certainly argued with the method and asked if Anduin was aware of their tactics. In response, Alleria revealed that Anduin had told them to use whatever means necessary in the hunt for Sylvanas. This caused Jaina to declare that Anduin wouldn't be pleased with these tactics and revealed that she certainly wasn't. However, Turalyon was steadfast in his belief that their methods would make sense in time. Jaina then departed to personally inform Anduin of the information they received and exactly how they obtained it. She further revealed her belief that their tactics represented him poorly and by sanctioning them she questioned what it said about them.
+
+After a moment of thought, Anduin said that they would do whatever they must to bring murders to justice. That it said that they shall not forget those lost in war, never forgot [Teldrassil](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns"), [Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"), and the [mak'gora](https://wowpedia.fandom.com/wiki/Reckoning "Reckoning"). He then reminded Jaina how [not so long ago](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War") she was not above the swinging the harsh hammer of retribution and asked if she had forgotten. Jaina retorted that she had not forgotten but reminded him how [his father](https://wowpedia.fandom.com/wiki/Varian "Varian") had once warned [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") to uphold honor or be ended. She further remarked that one her brightest wishes was for Anduin's reign to endure and be remembered fondly, for more than anything that he was remembered in the same breath as his father.
+
+Anduin responded by remarking that difficult decisions have to be made and that he trusted Turalyon and Alleria. He then asked her if their statues would preside over [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") if they were without honor. This caused Jaina to remark that people change. The young king agreed but once more declared that he trusted Turalyon and Alleria, despite the misfortunes that have befallen them. He then pointed out that Stormwind would not exist without them, that they were woven into the very fabric of Stormwind's history. Recognizing that there would no swaying him, Jaina told Anduin that clarity and time are the final editors of all stories, as she would know.
+
+Sometime later, she hosted Turalyon and Alleria in [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus"), as they had come at Anduin's request should [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") discover nothing on the Zandalari coast. They were soon interrupted by [Flynn Fairwind](https://wowpedia.fandom.com/wiki/Flynn_Fairwind "Flynn Fairwind"), who reported that Shaw had been taken prisoner by the [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire"). Whereas Alleria immediately jumped to the conclusion that Sylvanas was working with the Zandalari, Jaina called on her to not add fuel on an already kindly fire and risk the treaty. Jaina then stated she would use the treaty itself before turning to the blade.
+
+Thus, the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") received a missive from Jaina where she revealed that they were aware of the [unrest](https://wowpedia.fandom.com/wiki/Widow%27s_Bite "Widow's Bite") in [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), their belief that Talanji was working with Sylvanas, and that they had requested to speak with the council. In the end, the council voted unanimously in favor of Thrall and [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw") to meet with Jaina and Anduin in hopes that it would aid in the hunt and capture of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"). Thus, they subsequently met on a boat at seas off the coast Zandalar. In a show of open trust, Thrall revealed that he had met with [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), stunning both Jaina and Anduin. While Thrall was quick to smooth over Anduin's worries over the idea of the Horde betraying the Alliance by allowing Sylvanas to have a refuge on [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), the information they received allowed the orc and pandaren to realize that the [Banshee loyalists](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") were aiding the Widow's Bite. When Anduin mentioned how Shaw was taken prisoner by the [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire"), Ji reassured the young king that the Horde Council did not execute prisoners without trial. However, Anduin retorted that he wished to have Shaw returned soon, which made Thrall told them to give him two days. When the waves threatened to upend the boat, Jaina ported everyone to safety.
+
+Jaina later secretly traveled to [Goldshire](https://wowpedia.fandom.com/wiki/Goldshire "Goldshire"), where she caught Anduin in the town under the alias of Jerek. When Anduin noticed her, he admitted that sometimes he needed to be a boy again, and Jaina told him that she understood. She then reminded him that he had caught her red-handed.
+
+After the Horde destroyed the Widow's Bite and saved [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi"), they released Shaw and sent him back to Stormwind with [Sira Moonwarden](https://wowpedia.fandom.com/wiki/Sira_Moonwarden "Sira Moonwarden"), who was captured at the end of the conflict. Jaina was visibly surprised at this revelation and soon learned that Thrall wished for Sira to be delivered to Tyrande. When Anduin tried some magic to make Sira tell him where Sylvanas was, the fear on Jaina's face shook Shaw to the core.<sup id="cite_ref-132"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-132">[132]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+When the Scourge began to [rampage](https://wowpedia.fandom.com/wiki/Death_Rising "Death Rising") across Azeroth with the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") gone, Jaina was targeted by the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn"), who struck hard and captured Jaina before she could even cast a spell. She was subsequently taken to the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw").<sup id="cite_ref-133"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-133">[133]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/33/On_Blackened_Wings.jpg/revision/latest/scale-to-width-down/180?cb=20200719211842)](https://static.wikia.nocookie.net/wowpedia/images/3/33/On_Blackened_Wings.jpg/revision/latest?cb=20200719211842)
+
+Jaina and Thrall allied against the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn").
+
+She later worked with [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") in an attempt to hide from the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") and escape the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw"); however, Thrall became injured. Jaina had almost given up when the pair were unexpectedly joined by [Darion Mograine](https://wowpedia.fandom.com/wiki/Darion_Mograine "Darion Mograine"), the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade"), and [champions from](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").<sup id="cite_ref-134"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-134">[134]</a></sup> After catching their breath, the group made their way towards [Forlorn Respite](https://wowpedia.fandom.com/wiki/Forlorn_Respite "Forlorn Respite") in order to use the cave as a refuge. However en route they were confronted by [Tariesh](https://wowpedia.fandom.com/wiki/Tariesh "Tariesh"), who sought to stop them. Upon Tariesh's death, Jaina and her allies successfully made their way into the cave.<sup id="cite_ref-135"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-135">[135]</a></sup>
+
+Jaina, Thrall, and the champion soon after ventured forth to rescue [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), which involved killing [Phael the Afflictor](https://wowpedia.fandom.com/wiki/Phael_the_Afflictor "Phael the Afflictor") for [his key](https://wowpedia.fandom.com/wiki/Afflictor%27s_Key "Afflictor's Key"), and rescue other souls from the Mawsworn.<sup id="cite_ref-136"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-136">[136]</a></sup><sup id="cite_ref-137"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-137">[137]</a></sup><sup id="cite_ref-138"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-138">[138]</a></sup> Following Anduin's liberation, the group returned to Forlorn Respite, where they discovered that a [Eroded Waystone](https://wowpedia.fandom.com/wiki/Eroded_Waystone "Eroded Waystone"), which could be the way out, and [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") could be found at [Zovaal's Cauldron](https://wowpedia.fandom.com/wiki/Zovaal%27s_Cauldron "Zovaal's Cauldron").<sup id="cite_ref-139"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-139">[139]</a></sup> When Thrall voiced his concern at leaving the missing [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") behind, with Jaina reassuring him that if there was a way out, then there was a way back in that could be entered to rescue her. As the group crossed a bridge over [Gorgoa: River of Souls](https://wowpedia.fandom.com/wiki/Gorgoa:_River_of_Souls "Gorgoa: River of Souls"), they were attacked by [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya"), who taunted that their wretched souls will feed the coming darkness. However, Jaina was unmoved and countered that she was beaten by a force of "wretched" champions and Thrall threw [his axe](https://wowpedia.fandom.com/wiki/Dra%27gora "Dra'gora") at her. In outrage over all this, Heyla knocked them all off the bridge and into the river of souls.<sup id="cite_ref-140"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-140">[140]</a></sup>
+
+Not deterred, the group rallied continued onward and witnessed [the Jailer](https://wowpedia.fandom.com/wiki/The_Jailer "The Jailer") toss [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") off as platform.<sup id="cite_ref-141"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-141">[141]</a></sup> After securing Baine, Jaina and Anduin stayed behind to tend to him, as Thrall and the champion headed off to acquire the [means](https://wowpedia.fandom.com/wiki/Wither_Blade "Wither Blade") to help mend his spirit and retrieve a new weapon for Thrall.<sup id="cite_ref-142"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-142">[142]</a></sup><sup id="cite_ref-143"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-143">[143]</a></sup> With Baine restored, the group headed off towards the waystone, discovering the sheer size of the Jailer's army along the way. Jaina used her magic to keep the group shielded from the seemingly endless Mawsworn army.<sup id="cite_ref-144"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-144">[144]</a></sup> Upon arriving at the waystone, they were confronted by the Jailer's forces, and though the champion was able to escape, Jaina and the others were captured.<sup id="cite_ref-145"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-145">[145]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Torment_Chamber_Thrall_-_reunion.jpg/revision/latest/scale-to-width-down/180?cb=20210322102808)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Torment_Chamber_Thrall_-_reunion.jpg/revision/latest?cb=20210322102808)
+
+Jaina and her allies reunited with Thrall
+
+After being captured, Jaina was sent to [Torghast, Tower of the Damned](https://wowpedia.fandom.com/wiki/Torghast,_Tower_of_the_Damned "Torghast, Tower of the Damned"), where she was tormented with white-hot fires, before being liberated by the Maw Walker. After arriving to [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos"), Jaina was overjoyed to be reunited with Baine and wished to head back into Torghast to rescue the still captured Thrall and Anduin. However [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") was able to convince that she needed to recover her strength.<sup id="cite_ref-146"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-146">[146]</a></sup> After Thrall was liberated from Torghast, Jaina was relieved as she had feared the worst.<sup id="cite_ref-147"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-147">[147]</a></sup> She later questioned Thrall if he knew where the Mawsworn had taken Anduin, to which Thrall revealed that they had spoken of Anduin as a valuable prisoner held in a chamber deep within the Jailer's tower.<sup id="cite_ref-148"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-148">[148]</a></sup> After discovering that Sylvanas and the Jailer intend to turn Anduin into a weapon, Jaina while concerned for Anduin, took comfort in the fact he was alive, and was confident that he wouldn't give in to Sylvanas.<sup id="cite_ref-149"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-149">[149]</a></sup>
+
+Following the defeat of [Sire Denathrius](https://wowpedia.fandom.com/wiki/Sire_Denathrius "Sire Denathrius"), an ally of the Jailer, Bolvar felt a darkness calling to him within Torghast.<sup id="cite_ref-150"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-150">[150]</a></sup> Jaina learned from Bolvar that a new mourneblade was being forged within the tower and that the Jailer decided that the time had come for Anduin to become his agent, regardless of his choice.<sup id="cite_ref-151"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-151">[151]</a></sup> However, Bolvar repeated gazes into Torghast had allowed [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal") to peer back at him and he attempted to gain control of Bolvar through the Helm of Domination.<sup id="cite_ref-152"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-152">[152]</a></sup> After Jaina and the Maw Walker were able to sever the connection, Baine called for them to immediately attack Torghast and rescue Anduin. However, Thrall and Jaina countered that they had to hold back and rally the covenants. Bolvar agreed with their assessment and thus implored the Maw Walker to continue their efforts and declared that when the time came, they would claim victory.<sup id="cite_ref-153"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-153">[153]</a></sup>
+
+#### Chains of Domination
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/11/The_Heart_of_Ardenweald.jpg/revision/latest/scale-to-width-down/180?cb=20210609040624)](https://static.wikia.nocookie.net/wowpedia/images/1/11/The_Heart_of_Ardenweald.jpg/revision/latest?cb=20210609040624)
+
+Jaina and Bolvar investigating the [Heart of the Forest](https://wowpedia.fandom.com/wiki/Heart_of_the_Forest "Heart of the Forest")
+
+When the covenants rallied together to defend [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald") from the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn"), Jaina and Bolvar joined them hoping to have the chance to save Anduin. During the battle, Jaina blasted an untold number of [Mawsworn Realmbreakers](https://wowpedia.fandom.com/wiki/Mawsworn_Realmbreaker "Mawsworn Realmbreaker") out of the skies near the [Glitterfall Basin](https://wowpedia.fandom.com/wiki/Glitterfall_Basin "Glitterfall Basin"). However, as the battle continued, Jaina grew concerned at Anduin's absence.<sup id="cite_ref-154"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-154">[154]</a></sup> This concern was warranted as it was revealed that while the Mawsworn did battle with the defenders, the [dominated](https://wowpedia.fandom.com/wiki/Domination "Domination") Anduin was sent to acquire the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")'s [sigil](https://wowpedia.fandom.com/wiki/Sigil "Sigil") from the [Heart of the Forest](https://wowpedia.fandom.com/wiki/Heart_of_the_Forest "Heart of the Forest"), with Jaina and Bolvar arriving to late to stop them and unable to break Zovaal's hold as he carried out the task. Despite this set back, Jaina was undeterred and vowed to save Anduin, no matter what it took.<sup id="cite_ref-155"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-155">[155]</a></sup>
+
+Sometime later, Jaina and her allies stormed into the [Sanctum of Domination](https://wowpedia.fandom.com/wiki/Sanctum_of_Domination "Sanctum of Domination") in order to stop the Jailer, once and for all. However, despite defeating the likes of [The Nine](https://wowpedia.fandom.com/wiki/The_Nine "The Nine") and [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), Sylvanas was able to stall them long enough for the Jailer to absorb the essence of the [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter") into his being. Jaina was then briefly controlled by Zovaal through the use of [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination") magic before she was released after Sylvanas, who realized that the Jailer never intended to not break the system of Death and give everyone free will as she had believed, but to forge a new reality where all would be forced to serve him, attacked him. In response, Zovaal reunited Sylvanas with the missing fragment of her soul before leaving with the mind-controlled Anduin, and thus allowing Jaina and her allies to imprison Sylvanas.<sup id="cite_ref-156"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-156">[156]</a></sup>
+
+In the aftermath, Jaina and Thrall came to [Korthia](https://wowpedia.fandom.com/wiki/Korthia "Korthia") to inform the [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus") over what had transpired.<sup id="cite_ref-157"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-157">[157]</a></sup> The pair further revealed that prior to departing with the Jailer, Anduin had intentionally dropped a compass, which Anduin had given to [his father](https://wowpedia.fandom.com/wiki/Varian "Varian"), which gave them both hope that Anduin was fighting against the Jailer. After Jaina sensed an enchantment upon the compass, the pair turned to Bolvar to examine it and discovered that a memory was contained within the compass. Upon reviewing the memory, the group learned that Anduin felt increasingly hollow and empty as a result of being dominated by the Jailer, and his belief that both he and Sylvanas would be lost by the time Zovaal succeeds, and his hope that his friends remember him as he was and not what Sylvanas had made him into. After the memory ended, a horrified Jaina swore that they wouldn't lose Anduin.<sup id="cite_ref-158"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-158">[158]</a></sup>
+
+In the aftermath, the covenants gave their reforged sigils to the Primus, who promised to open the way to stop Zovaal. To Jaina's unexpected delight, the kyrian who delivered their sigil to the Primus was none other than her old friend [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"). Their subsequent reunion was rather bittersweet as each reflected on [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and how the last time they had seen one another in the flesh was at [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") after [the culling](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme"). Jaina admitted that with what had been done to Anduin, that all those painful memories had flooded back again. Uther gave Jaina the courage to continue forward.<sup id="cite_ref-159"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-159">[159]</a></sup>
+
+#### Eternity's End
+
+Jaina was amongst the crowd that welcomed the Maw Walker back to Oribos after the connection to [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis") was established and subsequently journeyed to the realm to aid the fight against Zovaal.<sup id="cite_ref-160"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-160">[160]</a></sup><sup id="cite_ref-161"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-161">[161]</a></sup> She and Baine later arrived to aid the Maw Walker against [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"), who after declaring that he had bought Zovaal's champion enough time, departed before they could personally join the fight.<sup id="cite_ref-162"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-162">[162]</a></sup> Jaina then used her magic to bring the group to the [Forge of Afterlives](https://wowpedia.fandom.com/wiki/Forge_of_Afterlives "Forge of Afterlives"), with Baine hoping that if they got there in time they could liberate Anduin from the Jailer's control. However, the trio arrived only to witness the oracle [Dausegne](https://wowpedia.fandom.com/wiki/Dausegne "Dausegne") fall under Zovaal's sway and open the way to the [Sepulcher of the First Ones](https://wowpedia.fandom.com/wiki/Sepulcher_of_the_First_Ones "Sepulcher of the First Ones") for him.<sup id="cite_ref-163"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-163">[163]</a></sup> After Zovaal teleported his forces towards the Sepulcher, Jaina sensed something [familiar](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") about [Anduin's blade](https://wowpedia.fandom.com/wiki/Kingsmourne "Kingsmourne"), and departed from the area with the others report what they witnessed to Bolvar.<sup id="cite_ref-164"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-164">[164]</a></sup>
+
+Having returned to Oribos, Jaina participated in a meeting with [Uther](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer"), Bolvar, Thrall, and Baine about the comatose Sylvanas Windrunner. In this meeting, Uther revealed that Sylvanas's soul had been fractured from the moment of her death, that the Jailer had severed their bond, and with their reunion Sylvanas had been condemned to endlessly relive her atrocities as long as her soul remain divided. In response to this, Baine remarked that perhaps Sylvanas shouldn't be awoken. However, Bolvar countered that Sylvanas was the only one who likely knew the Jailer's plan and could be the key to saving Anduin. Though Jaina and Thrall echoed Baine's distrust of Sylvanas, the group ultimately let Uther mend the soul wound, which allowed for Sylvanas to rise and join the fight against Zovaal.<sup id="cite_ref-165"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-165">[165]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Arthas_Last_Remnant.jpg/revision/latest/scale-to-width-down/180?cb=20220304235743)](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Arthas_Last_Remnant.jpg/revision/latest?cb=20220304235743)
+
+Jaina and Anduin watching the last, dwindling piece of Arthas.
+
+Uther later came to Haven to deliver the news that Sylvanas had awoken. The highlord argued that it was too risky to trust the banshee, but Uther claimed that he'd make sure Sylvanas didn't betray them again.<sup id="cite_ref-News_from_Oribos_166-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-News_from_Oribos-166">[166]</a></sup> Either way, Bolvar's more immediate priority was to enter the Sepulcher. The Enlightened [Elder Ara](https://wowpedia.fandom.com/wiki/Elder_Ara "Elder Ara") agreed to help by taking the Maw Walker on a pilgrimage.<sup id="cite_ref-167"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-167">[167]</a></sup> Once she'd done so and the way into the structure was opened, Bolvar met up with Jaina, Uther, and Sylvanas at its entrance to discuss their course of action. Sylvanas stated that they needed to find a way to resist the Jailer's [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination") in order to defeat him, and that Anduin might be the key. After Uther convinced Jaina to cooperate, the four headed into the Sepulcher together.<sup id="cite_ref-168"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-168">[168]</a></sup> After the group was able to have Anduin to liberate himself by shattering Kingsmourne Jaina was stunned into silence to witness the last dwindling piece of Arthas Menethil fade away.
+
+Following Anduin's liberation from Zovaal's control, Jaina attended the meeting with her fellow Azerothians and the Primus as they sought a way to protect themselves from Zovaal's Domination magic. While overjoyed to have Anduin back with them, Jaina was worried that he would be haunted by the memory of the things the Jailer made him do.<sup id="cite_ref-169"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-169">[169]</a></sup> Jaina also admitted to having conflicting feelings about Arthas, as even when he committed atrocities he thought he did so in the name of justice and remarked that she was one of the few to remember the prince, and not just the monster.<sup id="cite_ref-170"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-170">[170]</a></sup>
+
+The Primus pointed out that Zereth Mortis' [automa](https://wowpedia.fandom.com/wiki/Automa "Automa") seemed to be resistant to Domination and that using the helm might allow the heroes to find the source of their resistance.<sup id="cite_ref-171"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-171">[171]</a></sup> Thus Bolvar, [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon"), and the Maw Walker worked together to retrieve [Inscrutable Phrases](https://wowpedia.fandom.com/wiki/Inscrutable_Phrase "Inscrutable Phrase") from the language of the First Ones, and imbue them within the intact half of the [Helm of Domination](https://wowpedia.fandom.com/wiki/Helm_of_Domination "Helm of Domination").<sup id="cite_ref-172"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-172">[172]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/53/The_Crown_of_Wills_-_Resist_Domination_2.jpg/revision/latest/scale-to-width-down/180?cb=20220220172208)](https://static.wikia.nocookie.net/wowpedia/images/5/53/The_Crown_of_Wills_-_Resist_Domination_2.jpg/revision/latest?cb=20220220172208)
+
+The [Crown of Wills](https://wowpedia.fandom.com/wiki/Crown_of_Wills "Crown of Wills") providing Jaina and her allies resistance to [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination")..
+
+Once this task was completed, the trio joined Jaina, Thrall, Baine, Anduin, Sylvanas, [Darion Mograine](https://wowpedia.fandom.com/wiki/Darion_Mograine "Darion Mograine"), [Kleia](https://wowpedia.fandom.com/wiki/Kleia "Kleia"), and [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos") within the [Chamber of First Reflection](https://wowpedia.fandom.com/wiki/Chamber_of_First_Reflection "Chamber of First Reflection") in [Bastion](https://wowpedia.fandom.com/wiki/Bastion "Bastion").<sup id="cite_ref-173"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-173">[173]</a></sup> Jaina subsequently witnessed those who had overcome Domination in the past draw out the memories of their resistance and willpower and infuse it into the shards.<sup id="cite_ref-174"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-174">[174]</a></sup><sup id="cite_ref-175"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-175">[175]</a></sup><sup id="cite_ref-176"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-176">[176]</a></sup> After Bolvar declared that they had all the pieces they needed and that it was time for Primus to reforge the helm, Jaina directly opened a portal to [Torghast](https://wowpedia.fandom.com/wiki/Torghast "Torghast") and the group used it to reach the [Runecarver's Oubliette](https://wowpedia.fandom.com/wiki/Runecarver%27s_Oubliette "Runecarver's Oubliette").<sup id="cite_ref-177"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-177">[177]</a></sup> Jaina then witnessed the Primus reforge the helm into the [Crown of Wills](https://wowpedia.fandom.com/wiki/Crown_of_Wills "Crown of Wills"), which was quickly used to ensure that the group was resistant to Domination, as the light from the crown touched him, Jaina declared "For Azeroth."<sup id="cite_ref-178"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-178">[178]</a></sup>
+
+Following [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")'s defeat, Jaina was amongst those who attended the judgment of Sylvanas Windrunner. After the Banshee Queen submitted to the judgment of Tyrande Whisperwind, the night elf matriarch ordered that her penance was to scour the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw") for every soul lost in its depths, betrayed or condemned and to send them forth to the [Arbiter](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos"). After the sentencing, Jaina would remark to Alliance adventurers how hatred was a cycle, that it was all too easy to perpetuate, and how forgiveness does not come easily to those who have been wronged. After declaring her belief that the cycle of hatred can be broken with relentless effort and a great deal of time, Jaina personally witnessed Sylvanas entering the Maw to begin her penance.<sup id="cite_ref-179"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-179">[179]</a></sup><sup id="cite_ref-180"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-180">[180]</a></sup>
+
+Sometime later, Jaina was approached by [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), who had journeyed to [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos") after feeling the weight of the world upon him from the burdens he carried and the choices he made. As they talked, Jaina was able to cheer Khadgar up, and Jaina watched as Khadgar flew off to explore the Shadowlands.
+
+### The Vow Eteneral
+
+A few years after returning to Azeroth, she was invited to attend the wedding of [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra"). According to [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia_Fordragon "Taelia Fordragon"), she wanted to attend but was unable to due to [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") having issues with [pirates](https://wowpedia.fandom.com/wiki/Pirate "Pirate").<sup id="cite_ref-181"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-181">[181]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Talador](https://wowpedia.fandom.com/wiki/Talador "Talador") (During [Legendary](https://wowpedia.fandom.com/wiki/Template:Warlords_Legendary_ring "Template:Warlords Legendary ring")) | ?? | 15,656,600 |
+|  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-45\] [The Battle for Broken Shore](https://wowpedia.fandom.com/wiki/The_Battle_for_Broken_Shore_(quest)) | ?? | 2,614,394 |
+|  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-45\] [The Fallen Lion](https://wowpedia.fandom.com/wiki/The_Fallen_Lion) | ?? | 19,018,000 |
+|  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-45\] [Calling of the Council](https://wowpedia.fandom.com/wiki/Calling_of_the_Council) | 103 | 437,235,008 |
+|  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron) | ?? | 6,543,200 |
+|  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-60\] [The Stormwind Extraction](https://wowpedia.fandom.com/wiki/The_Stormwind_Extraction) | ?? | 14,608,398 |
+|  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [Tides of War](https://wowpedia.fandom.com/wiki/Tides_of_War_(quest)) | ?? | 27,667,200 |
+|  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Thros, the Blighted Lands](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands_(quest)) | 120 | 345,840 |
+| [Siege of Boralus](https://wowpedia.fandom.com/wiki/Siege_of_Boralus "Siege of Boralus") | ?? | 43,230 |
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Echo of Jaina](https://wowpedia.fandom.com/wiki/Echo_of_Jaina "Echo of Jaina") | 87 | 1,437,750 |
+| [Theramore's Fall](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall_(Horde) "Theramore's Fall (Horde)") [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | ?? | 348,909,600 |
+| [Theramore's Fall](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall_(Alliance) "Theramore's Fall (Alliance)") [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") | 93 | 6,978,180 |
+| [Seabolt](https://wowpedia.fandom.com/wiki/Seabolt "Seabolt") | 113 - 123 | 27,667,200 |
+| [Violet Rise](https://wowpedia.fandom.com/wiki/Violet_Rise "Violet Rise") | ?? | 15,214,400 |
+|  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[35\] [To the Skies!](https://wowpedia.fandom.com/wiki/To_the_Skies!_(Alliance)) | ?? | 279,127,200 |
+|  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[35\] [The Fall of Shan Bu](https://wowpedia.fandom.com/wiki/The_Fall_of_Shan_Bu) | ?? | 3,520,847 |
+| [Vault of Y'Shaarj](https://wowpedia.fandom.com/wiki/Vault_of_Y%27Shaarj "Vault of Y'Shaarj") | 92 | 3,768,800 |
+| [Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Gates_of_Orgrimmar "Gates of Orgrimmar") | ?? | 974,600 |
+| [Kor'kron Barracks](https://wowpedia.fandom.com/wiki/Kor%27kron_Barracks "Kor'kron Barracks") | ?? | 3,803,600 |
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle") | ?? | 15,214,400 |
+| [Battle for Mount Hyjal (instance)](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)") | ?? | 455,250 |
+| [Culling of Stratholme (instance)](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme_(instance) "Culling of Stratholme (instance)") | 68 - 80 | 31,700 |
+| [Battle for the Undercity](https://wowpedia.fandom.com/wiki/Battle_for_the_Undercity "Battle for the Undercity") | ?? | 5,907,158 |
+| [Argent Tournament Grounds](https://wowpedia.fandom.com/wiki/Argent_Tournament_Grounds "Argent Tournament Grounds") | 80 | 44,270 |
+| [Crusader's Coliseum](https://wowpedia.fandom.com/wiki/Crusader%27s_Coliseum "Crusader's Coliseum") | ?? | 2,167,793 |
+| [The Frozen Halls](https://wowpedia.fandom.com/wiki/The_Frozen_Halls "The Frozen Halls") | 80 | 1,585,000 |
+| [Rampart of Skulls](https://wowpedia.fandom.com/wiki/Rampart_of_Skulls "Rampart of Skulls") | 80 | 8,924,800 |
+| [The Lower Spire](https://wowpedia.fandom.com/wiki/The_Lower_Spire "The Lower Spire") ([Lich King](https://wowpedia.fandom.com/wiki/Lich_King_(tactics) "Lich King (tactics)") defeated) | 80 | 1,585,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[35\] [Elemental Bonds: The Vow](https://wowpedia.fandom.com/wiki/Elemental_Bonds:_The_Vow) | ?? | 2,034,800 |
+
+## Powers and abilities
+
+Jaina is one of the most powerful mortals in the World of Warcraft universe, and four years after the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), was described as "the most powerful human sorceress alive".<sup id="cite_ref-WoWmanual_11-2"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-WoWmanual-11">[11]</a></sup><sup id="cite_ref-182"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-182">[182]</a></sup> She was also the former leader of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") as well as the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six"), implying her powers are at least roughly equal to that of their greatest mages, and was further counseled and advised by Magna [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"), the greatest and longest-serving [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"), for several years.
+
+Jaina is a skilled practitioner of transmutation magic and developed a powerful variation of the mass-teleport spell capable of moving a significant portion of an entire army with "minimal effort", making her extremely unpredictable on the battlefield.<sup id="cite_ref-The_Schools_of_Arcane_Magic_-_Transmutation_6-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Schools_of_Arcane_Magic_-_Transmutation-6">[6]</a></sup> She can teleport herself short distances,<sup id="cite_ref-Secrets_of_Ulduar_trailer_45-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Secrets_of_Ulduar_trailer-45">[45]</a></sup> as well as into Horde cities such as [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"),<sup id="cite_ref-183"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-183">[183]</a></sup> and was able to easily teleport away Horde players who attacked her in the past. She is depicted as knowing the [Brilliance Aura](https://wowpedia.fandom.com/wiki/Archmage_(Warcraft_III)#Brilliance_Aura_(Passive) "Archmage (Warcraft III)") spell, able to bolster her allies' mana regeneration, such as at the [Alliance Base](https://wowpedia.fandom.com/wiki/Alliance_Base "Alliance Base") during the [Battle for Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)"). She uses an improved version to enhance mana and other energy regeneration, as well as increase running [speed](https://wowpedia.fandom.com/wiki/Speed "Speed") in battle for the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") and briefly encased all the Alliance and Horde units (including Thrall and Sylvanas) in ice before teleporting Varian and his army back to Stormwind.<sup id="cite_ref-184"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-184">[184]</a></sup>
+
+Likely owing to her [Kul Tiran](https://wowpedia.fandom.com/wiki/Kul_Tiran "Kul Tiran") heritage as "Daughter of the Sea", Jaina seems to specialize as a Frost Mage, but is also capable of using arcane and fire spells as well in concert, and has been described as having "always been most proficient at summoning powerful elementals of water and ice".<sup id="cite_ref-185"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-185">[185]</a></sup> She was already able to summon three [water elementals](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental") to assist her in combat by the time of the [Attack on Theramore Isle](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle"),<sup id="cite_ref-186"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-186">[186]</a></sup> and at [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), her Summoned Water Elemental was able to kill five [High Sunreaver Mages](https://wowpedia.fandom.com/wiki/High_Sunreaver_Mage "High Sunreaver Mage") in quick succession with a single attack each and was able to defeat [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver") himself without apparent effort.<sup id="cite_ref-Jaina's_Resolution_58-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Jaina's_Resolution-58">[58]</a></sup> She formed an ice bridge to clear a gap across a chasm during the [Battle for Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_Broken_Shore "Battle for Broken Shore"),<sup id="cite_ref-187"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-187">[187]</a></sup> immobilized a [necropolis](https://wowpedia.fandom.com/wiki/Necropolis "Necropolis") in midair before shattering its armaments and ramparts with a  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Spell_fire_selfdestruct.png/revision/latest/scale-to-width-down/16?cb=20061223083951)[\[Flamestrike\]](https://wowpedia.fandom.com/wiki/Flamestrike),<sup id="cite_ref-188"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-188">[188]</a></sup> conjured a  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Spell_frost_icestorm.png/revision/latest/scale-to-width-down/16?cb=20070106040635)[\[Blizzard\]](https://wowpedia.fandom.com/wiki/Blizzard) during the encounter with [Galakras](https://wowpedia.fandom.com/wiki/Galakras "Galakras"), and instantly turned part of the [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") into a frozen tundra during the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor "Battle of Dazar'alor").<sup id="cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Lady_Jaina_Proudmoore_(tactics)-92">[92]</a></sup>
+
+She is also able to use formidable [abjuration](https://wowpedia.fandom.com/wiki/Abjuration "Abjuration") magic, warding [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus") against magi and rogues alike,<sup id="cite_ref-Tracking_the_Thieves_57-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Tracking_the_Thieves-57">[57]</a></sup> using an  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Spell_ice_lament.png/revision/latest/scale-to-width-down/16?cb=20080510210036)[\[Ice Barrier\]](https://wowpedia.fandom.com/wiki/Ice_Barrier) to survive an intense battle with [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") before imprisoning him within an "Ice Prison" preventing all action,<sup id="cite_ref-189"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-189">[189]</a></sup> and conjuring an arcane barrier to shield herself and the other Alliance leaders from the [Blight](https://wowpedia.fandom.com/wiki/New_Plague "New Plague") unleashed by Sylvanas Windrunner at Lordaeron while simultaneously teleporting them away to safety.<sup id="cite_ref-The_Battle_for_Lordaeron_(Alliance)_71-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Battle_for_Lordaeron_(Alliance)-71">[71]</a></sup> She has some [enchanting](https://wowpedia.fandom.com/wiki/Enchanting "Enchanting") skills, able to permanently imbue [her locket](https://wowpedia.fandom.com/wiki/Jaina%27s_Locket "Jaina's Locket"), with a spell capable of opening a portal directly to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") every hour,<sup id="cite_ref-190"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-190">[190]</a></sup> enchant a mirror allowing her to instantaneously communicate with others, such as Varian and Anduin in Stormwind and Rhonin in Dalaran,<sup id="cite_ref-ToW_13-3"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-ToW-13">[13]</a></sup> and summon an orb of fire to upgrade a [legendary](https://wowpedia.fandom.com/wiki/Legendary "Legendary") ring.<sup id="cite_ref-Touch_of_the_Kirin-Tor_191-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Touch_of_the_Kirin-Tor-191">[191]</a></sup> She has some experience with  ![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Inv_mask_01.png/revision/latest/scale-to-width-down/16?cb=20060831180442)[\[Illusion\]](https://wowpedia.fandom.com/wiki/Illusion) magic as well, making herself [invisible](https://wowpedia.fandom.com/wiki/Invisible "Invisible") on several occasions during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), and disguising herself as an older woman during her return to [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus").<sup id="cite_ref-Reunion_23-4"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Reunion-23">[23]</a></sup> She is able to use mental magics as well, such as sharing a survivor's recent memories with herself and other people,<sup id="cite_ref-Tides_of_War_(quest)_73-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Tides_of_War_(quest)-73">[73]</a></sup> helping determine [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")'s true identity and what caused him to be split into separate personas when he was Lo'Gosh,<sup id="cite_ref-192"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-192">[192]</a></sup> and partially unlocking [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen")'s buried memories.<sup id="cite_ref-193"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-193">[193]</a></sup>
+
+Augmented by the lingering effects of the [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb"), Jaina easily slew roughly thirty armored orcs within several minutes using a combination of arcane, fire, and frost spells. With the [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris"), Jaina was able to single-handedly create a tidal wave made up of thousands of [water elementals](https://wowpedia.fandom.com/wiki/Water_elemental "Water elemental") bound together, capable of destroying [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), and was able to nearly kill [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") during their battle, using the water elementals within his  ![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Ability_shaman_watershield.png/revision/latest/scale-to-width-down/16?cb=20070114122119)[\[Water Shield\]](https://wowpedia.fandom.com/wiki/Water_Shield) against him.<sup id="cite_ref-ToW_13-4"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-ToW-13">[13]</a></sup> Her most impressive feats during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") included raising the [Proudmoore flagship](https://wowpedia.fandom.com/wiki/Proudmoore_flagship "Proudmoore flagship") from the depths of the ocean, and then flying it to [Lordaeron Keep](https://wowpedia.fandom.com/wiki/Lordaeron_Keep "Lordaeron Keep"), where she used [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane")\-charged cannons to destroy part of the stronghold's outer walls within seconds. During the battle, she also quickly dispelled or rendered inert the [Blight](https://wowpedia.fandom.com/wiki/New_Plague "New Plague") using a massive  ![](https://static.wikia.nocookie.net/wowpedia/images/2/24/Spell_frost_ring_of_frost.png/revision/latest/scale-to-width-down/16?cb=20101202191853)[\[Ring of Frost\]](https://wowpedia.fandom.com/wiki/Ring_of_Frost) combined with a  ![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Spell_frost_frostnova.png/revision/latest/scale-to-width-down/16?cb=20070106005340)[\[Frost Nova\]](https://wowpedia.fandom.com/wiki/Frost_Nova), and raised several ice walls to block off reinforcements.<sup id="cite_ref-194"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-194">[194]</a></sup> Shortly afterwards, she was able to successfully but temporarily capture the Horde infiltration team sent to [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"), [Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra") herself calling for them to flee at the sight of Jaina and declaring that they could not "fight her". After being rescued by her mother, Jaina slew [Gorak Tul](https://wowpedia.fandom.com/wiki/Gorak_Tul "Gorak Tul"), the last king of the [Drust](https://wowpedia.fandom.com/wiki/Drust "Drust"), in his own realm of [Thros, the Blighted Lands](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands "Thros, the Blighted Lands") with the help of a single Alliance adventurer.<sup id="cite_ref-Thros,_the_Blighted_Lands_77-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Thros,_the_Blighted_Lands-77">[77]</a></sup> Jaina used her flying flagship to circle overhead and rain devastation once again against the Horde, periodically firing arcane salvos against them as she fought them during the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor "Battle of Dazar'alor"), even while using her Frost spells against them in tandem, managing to hold several dozen of the Horde's most skilled fighters at bay long enough for the Alliance fleet to retreat, although she was ultimately wounded and forced to flee.<sup id="cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-2"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Lady_Jaina_Proudmoore_(tactics)-92">[92]</a></sup> Her greatest achievement is perhaps locating and calling home the [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet") using the Proudmoore pendant when all others, even the [Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages"), were apparently unable to do so, ending the Siege of Boralus and finally reuniting her nation.<sup id="cite_ref-Siege_of_Boralus:_Lady_Ashvane's_Return_78-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Siege_of_Boralus:_Lady_Ashvane's_Return-78">[78]</a></sup>
+
+Jaina is not without her weaknesses and limitations, however. She was nearly killed by a single bullet after the trial of Garrosh Hellscream in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"), demonstrating that without proper magical protection, she is physically just as vulnerable as most other [humans](https://wowpedia.fandom.com/wiki/Human "Human").<sup id="cite_ref-War_Crimes_195-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-War_Crimes-195">[195]</a></sup> Jaina was also unable to revive [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque") after he used his gnomish [technology](https://wowpedia.fandom.com/wiki/Technology "Technology") to place himself into stasis,<sup id="cite_ref-deadreckoning_93-2"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-deadreckoning-93">[93]</a></sup> and was unfamiliar with the powers [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") used to slay [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang").<sup id="cite_ref-196"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-196">[196]</a></sup>
+
+Jaina wields the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Inv_staff_14.png/revision/latest/scale-to-width-down/16?cb=20070115231124)[\[Staff of Antonidas\]](https://wowpedia.fandom.com/wiki/Staff_of_Antonidas), gifted to her by her former master as his most promising apprentice,<sup id="cite_ref-Cycle_of_Hatred_ch.3_197-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Cycle_of_Hatred_ch.3-197">[197]</a></sup> and charged with with the remnants of the [Thunder King](https://wowpedia.fandom.com/wiki/Thunder_King "Thunder King")'s power, turning it into the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Inv_staff_14.png/revision/latest/scale-to-width-down/16?cb=20070115231124)[\[Storm-Stave of Antonidas\]](https://wowpedia.fandom.com/wiki/Storm-Stave_of_Antonidas).<sup id="cite_ref-Securing_A_Future_66-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Securing_A_Future-66">[66]</a></sup>
+
+### Abilities
+
+Nazjatar
+
+Escape from the Maw
+
+-   Cone of Cold
+-   Cryogenic Freeze
+-   Frostbolt
+-   Chilled to the Bone
+-   Ice Lance
+
+## Quests
+
+Theramore
+
+[![Removed from game](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251 "Removed from game") The subject of this section did not make it out of the [beta](https://wowpedia.fandom.com/wiki/Beta "Beta") stages.
+
+Frozen Halls
+
+Landfall
+
+Isle of Thunder
+
+Alliance War Campaign
+
+Kul Tiran recruitment
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+
+-    ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50-70\] [Allegiance of Kul Tiras](https://wowpedia.fandom.com/wiki/Allegiance_of_Kul_Tiras)
+
+## Personality
+
+“Never forget Theramore.”
+
+— Jaina after the destruction of Theramore.
+
+Jaina Proudmoore was one of the most inquisitive and talented sorceresses in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). With her power and intellect, many survivors of Lordaeron looked to her leadership to thrive in the foreign lands of their nation in [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle") while other leaders of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") appreciated her wisdom in their faction's affairs. Although she was originally wary of the orcs,<sup id="cite_ref-198"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-198">[198]</a></sup> she later fought and advocated for peace and moderation between the Alliance and Horde. Even so, old hatreds or manipulation from nefarious agents have constantly undermined her efforts to promote diplomacy between the rival factions. Jaina has gone to great lengths to appease the costs of peace, even going so far as to sabotage her father, Admiral [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore"), in his campaign to annihilate the Horde and let the Horde forces kill him.<sup id="cite_ref-199"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-199">[199]</a></sup> She even attempted to sway King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") to establish more formal diplomatic ties with the Horde,<sup id="cite_ref-Threat_40-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Threat-40">[40]</a></sup> though Varian felt that the Horde cannot be trusted.<sup id="cite_ref-Showdown_41-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Showdown-41">[41]</a></sup> Though political tensions continued to escalate between her faction and the Horde, Jaina continued to coordinate with Thrall and even aid certain Horde leaders such as [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") through back channels.<sup id="cite_ref-The_Shattering_200-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Shattering-200">[200]</a></sup>
+
+After the [fall of Theramore](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall "Theramore's Fall") to [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")'s [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb"), Jaina became deeply affected by the trauma of the event. For a time she believed that her father had been right, snapping out of it only after [Kalec](https://wowpedia.fandom.com/wiki/Kalec "Kalec") forced her to acknowledge that her anger was making her act exactly like [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") had been. Though still strong and independent, she is no longer as friendly or as trusting as she once was, especially to the Horde. Jaina has become committed to removing Garrosh from power. Though the initial rage she showed was a side-effect of the bomb, she is much less tolerant of orcs now (though she no longer possesses the desire to kill them all, and realizes that not all of them are like Garrosh) and for a time ceased her friendship with Thrall, citing him as the root cause of Theramore's destruction as he placed Garrosh in power in the first place. During the events of Garrosh's trial, however, the two made up. Even the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")' role in betraying the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") neutrality by circumventing her wards to aid the Horde in obtaining a magical weapon of destruction further reinforced her justified distrust of Horde aligned races. In spite of this, she admitted that peace may be possible if Garrosh is removed, and admitted that she wished she had parted with Thrall on better terms, implying that it may be possible to mend fences later on. She also felt guilt for planning to wipe out Orgrimmar but still firmly believes that Horde power, aggression, and influence should be checked. Jaina is more bellicose now and will not hesitate to act militantly to those who threaten the security of her people or undermine peace, although she still draws the line at killing non-combatants.<sup id="cite_ref-201"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-201">[201]</a></sup> She is filled with regret over her past actions (or lack of them), such as whether she could have saved Arthas, and the issue of Theramore. As a result of her experiences, she is emotionally damaged, but is essentially a "complicated" and "conflicted" character rather than an evil one.<sup id="cite_ref-202"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-202">[202]</a></sup> She isn't afraid to show who she is, nor is she afraid of her power.<sup id="cite_ref-203"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-203">[203]</a></sup>
+
+In an interview regarding [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")'s wavering personality, [Christie Golden](https://wowpedia.fandom.com/wiki/Christie_Golden "Christie Golden") replied:
+
+_"I think Garrosh has, at his core, a weak personality. He was very hostile about his father and ashamed of his father, and it took Thrall to say, "Hey, look, you know your dad did some pretty amazing things despite everything." He had to get that validation externally. He also had to prove himself in battle externally. And now he is surrounding himself with some very bad and dangerous advisors, externally. Because I think that at the core, he doesn't really know. He wants to do well. He wants to preserve the orcs and their pride and their history. But I think he is actually a rather malleable person whose opinions can change. He doesn't have a strong core._
+
+_I think the main difference -- Jaina has a very strong core. And when adversity and disaster and personal torment rip her down to nothing but that core, that core is still intact. It's hurt, but it's intact. And Garrosh doesn't really have a strong core. So what he believes kind of changes depending on what the situation is and who's talking. And I think that does not a good strong leader make._"<sup id="cite_ref-204"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-204">[204]</a></sup>
+
+### Views towards the Horde
+
+“Your people are despicable cowards, [orc](https://wowpedia.fandom.com/wiki/Warlord_Rok%27nah "Warlord Rok'nah"). You are nothing more than rabid dogs, and you will be put down! You spit on mercy? Then you will have NONE. You want carnage? [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh "Garrosh") will get more blood than EVER he bargained for.”
+
+— Jaina at her angriest point after the [Attack on Theramore Isle](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle")
+
+Jaina's current attitude towards the Horde seems to be considerably friendlier than before, but for a long while, her views towards them seem to be very complicated; Anduin watched her try repeatedly to ease her pain, only to have "some fresh torment reinjure her wounded heart".<sup id="cite_ref-Before_the_Storm_205-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Before_the_Storm-205">[205]</a></sup> Following the destruction of Theramore, Jaina, while still loathing Garrosh for his crimes, was more balanced and restrained after she became the leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), even initially refusing to openly support the Alliance's military efforts during the campaign in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") despite the requests of [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), vowing to stay above the war in order to make Dalaran a "beacon of light", showing the way for the rest of the world.<sup id="cite_ref-The_Fate_of_Dalaran_53-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Fate_of_Dalaran-53">[53]</a></sup> Shortly afterwards, Jaina subsequently purged the Horde from Dalaran after finding out that the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") had used its portals to infiltrate [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus") and steal the Divine Bell, being unaware that Varian had attempted to negotiate with [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") regarding a possible re-admittance of the blood elves into the Alliance, which she skeptically criticized, arguing that they were not trustworthy and once being Horde, would always be so.<sup id="cite_ref-What_Had_To_Be_Done_60-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-What_Had_To_Be_Done-60">[60]</a></sup> While briefly softening after she and Lor'themar refused to fight each other,<sup id="cite_ref-The_Fall_of_Shan_Bu_65-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Fall_of_Shan_Bu-65">[65]</a></sup> she nevertheless warned him to stay out of the Alliance's way during the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar") and at its end urged Varian to "dismantle the Horde", believing that already they sought to plot against them.<sup id="cite_ref-206"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-206">[206]</a></sup> At the trial of Garrosh Hellscream, after Kalecgos noted that she seemed unable or unwilling to let go of her hatred, Jaina was able to overcome her negative feelings in part after [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") informed her that he neither hated nor blamed her, regardless of how she felt towards his faction. After [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji") healed her as she lay mortally wounded in Thrall's arms, she squeezed her old friend's hand, and the shaman wondered whether she had been healed in more than body.<sup id="cite_ref-War_Crimes_195-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-War_Crimes-195">[195]</a></sup>
+
+Jaina briefly appeared on [alternate Draenor](https://wowpedia.fandom.com/wiki/Alternate_Draenor "Alternate Draenor"), helping [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") empower the Horde adventurer's legendary ring, but expressed hostility towards the Horde, reminding Khadgar that she and the Council did not want them near their bases, but Khadgar dismissed her concerns.<sup id="cite_ref-Touch_of_the_Kirin-Tor_191-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Touch_of_the_Kirin-Tor-191">[191]</a></sup> After helping the Alliance fight at the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") and witnessing [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")'s death, apparently because Sylvanas and the Horde retreated, she and Khadgar clashed again after he called a Council meeting in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") when she repositioned it over [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan") to defend the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"). This time, Jaina left the Kirin Tor and their city after she was outvoted by most of her peers into allowing the Horde back into the order, calling the Horde monsters and cowards and warning the others that they would eventually betray them again, and subsequently left to fight the Legion by herself.<sup id="cite_ref-Calling_of_the_Council_68-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Calling_of_the_Council-68">[68]</a></sup> During their last meeting, Jaina told Kalecgos that she still refused to agree with the Council's reasoning and no longer belonged in Dalaran, but that everything she did since Theramore's destruction was a reaction _against_ something, and that she wanted to find out what she truly stood for, in order to find peace. After Kalecgos told Jaina that her true nature would not be anything ugly or cruel, and that he had faith that she would eventually find her way, Jaina replied wryly that he might be the only person in the world who did.<sup id="cite_ref-Before_the_Storm_205-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Before_the_Storm-205">[205]</a></sup>
+
+After returning to [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") and raising the [Proudmoore flagship](https://wowpedia.fandom.com/wiki/Proudmoore_flagship "Proudmoore flagship") from the depths of the ocean, she told [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")'s lingering shade that she was listening, and subsequently aided the Alliance against the Horde at the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"), further clashing with them in [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") when they attempted to secure prisoners at the [Stockades](https://wowpedia.fandom.com/wiki/Stockades "Stockades"). After they escaped, and Jaina witnessed their reaching [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), she returned to [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras"), and despite an initially unfriendly welcome, eventually reconnected with her long-estranged mother and brother, and became the new Lord Admiral, apparently finding healing in her reunited family and homeland.<sup id="cite_ref-A_Nation_United_(quest)_79-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-A_Nation_United_(quest)-79">[79]</a></sup> With the Kul Tirans re-pledged to the Alliance, Jaina helped lead the naval and land attack in the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor "Battle of Dazar'alor"), personally holding off the Horde pursuers to enable the Alliance fleet escape,<sup id="cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-3"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Lady_Jaina_Proudmoore_(tactics)-92">[92]</a></sup> but refused to press the attack while the Zandalari were in mourning over their king's death, believing such an action would make them to better than Sylvanas herself.<sup id="cite_ref-deadreckoning_93-3"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-deadreckoning-93">[93]</a></sup> After Baine returned [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") to Jaina and was imprisoned for his actions, she was moved and later aided in the successful rescue mission for him in the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold"), after which she fully reconciled with Thrall, telling him that they had changed, and that their peoples needed to work together just like at the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal").<sup id="cite_ref-Stay_of_Execution_117-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Stay_of_Execution-117">[117]</a></sup> Shortly afterwards, she cooperated with [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra") in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"), even personally helping defeat [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), after which Lor'themar declared that he would tell the blood elves of what transpired, and finally take his place alongside Saurfang and Thrall against Sylvanas.<sup id="cite_ref-207"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-207">[207]</a></sup> After Anduin declared that Azeroth was both the Alliance and the Horde's home, signifying the beginning of the true "battle for Azeroth", Jaina cooperated once again with Thalyssra to protect their army from magical assault, witnessing Sylvanas killing Saurfang and fleeing Orgrimmar.<sup id="cite_ref-208"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-208">[208]</a></sup> With the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") at long last over, Jaina declared that the cycle of hatred ended when old enemies chose to walk away, and that both the Alliance and the Horde needed to learn such a lesson.<sup id="cite_ref-Old_Soldier_(Alliance)_127-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Old_Soldier_(Alliance)-127">[127]</a></sup>
+
+Jaina was also notably able to easily accept and embrace her older brother [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore") and her old friend [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil") despite their being raised to [undeath](https://wowpedia.fandom.com/wiki/Undeath "Undeath"), with most humans apparently greatly fearing the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") and regarding them as abominations, even allowing them to stay at [Seabreeze Village](https://wowpedia.fandom.com/wiki/Seabreeze_Village "Seabreeze Village"),<sup id="cite_ref-And_Following_Seas_128-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-And_Following_Seas-128">[128]</a></sup> and later honoring and understanding their decision to leave her and Kul Tiras, although stating that she would miss them both dearly.<sup id="cite_ref-209"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-209">[209]</a></sup>
+
+## Relationships
+
+### Kalecgos
+
+Jaina first met with [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") when he was searching for the stolen Focusing Iris. During that time, they quickly became friends while they talked about their pasts, finding out that they share the same pain of losing someone they loved. As soon as Kalecgos left, Jaina began to realize that she missed him. When Jaina was about to flood Origrimmar in retaliation for the destruction of Theramore, Kalecgos was the only one able to calm her down, reminding her that she wouldn't stoop as low as Arthas during his culling of Stratholme. After Jaina became leader of the Kirin Tor and Dalaran, she and Kalec began a romance.<sup id="cite_ref-ToW_13-5"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-ToW-13">[13]</a></sup> During the events of the trial of Garrosh Hellscream Jaina and Kalecgos, now having time to consider their relationship began to drift apart, with Kalecgos expressing concern that Jaina wasn't letting go of her hatred for Garrosh and the Horde and that it was beginning to consume her. Towards the end of the trial Jaina, having spent a lot of time in self-reflection throughout the trial and having just read a letter from Vol'jin as well as seeing Kalec about to leave, rushed to him and they embraced and kissed, making up. Eventually, the relationship ended as Jaina needed time to focus on herself.<sup id="cite_ref-210"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-210">[210]</a></sup><sup id="cite_ref-211"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-211">[211]</a></sup><sup id="cite_ref-212"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-212">[212]</a></sup>
+
+### Arthas
+
+She and [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") came to share a strong friendship that lead to very serious romance. But initially, their duties to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") forced them to put things on hold for a time. When they attempted to rekindle, the Scourge invasion got in the way. Their relationship is shown in the novel _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_. It is also shown that Jaina was still haunted by Arthas' descending to darkness, thinking it was her fault. In addition, nightmare caused by the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"), Jaina dreams what would happen if she followed Arthas to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and ends up becoming the [Lich Queen](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") in order to prevent Arthas from taking up the [accursed blade](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne").<sup id="cite_ref-Nightmares_47-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Nightmares-47">[47]</a></sup> In the quest [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne_(Alliance) "Frostmourne (Alliance)"), it was hinted that she had not give up her love for him. In _[Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Twilight_of_the_Aspects "Twilight of the Aspects")_, an alternate timeline was shown that Arthas, along with Jaina, were forced from Lordaeron to [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"). It was then said that they had a son named [Uther Menethil](https://wowpedia.fandom.com/wiki/Uther_Menethil "Uther Menethil"), which seems to prove that if Arthas had never fallen into madness, Jaina would have remained by his side.
+
+### Thrall
+
+After Jaina and [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")'s armies were forced to work together after the meeting with [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), the two leaders soon became good friends. Thrall once stated that Jaina reminded him strongly of [Taretha Foxton](https://wowpedia.fandom.com/wiki/Taretha_Foxton "Taretha Foxton"), but Jaina herself made no specific reason for her to trust Thrall. Their friendship was nonetheless strong, even having endured the battle of Durotar, which cost Jaina her father and Thrall many of his warriors. However, ever since Garrosh's assault on Theramore that ended in the city's obliteration, Jaina's friendship with Thrall has been severely tested as she blames him for putting Garrosh in power, which subsequently lead to the Fall of Theramore and the open war between the Alliance and Horde. During Garrosh's trial, though, the two restored their friendship when it seemed Jaina would die.
+
+Initially, a number of fans had speculated that Thrall and Jaina would be romantically involved at some point, but that proved to be false as Thrall developed a romantic relationship with a [Mag'har orc](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc") named [Aggra](https://wowpedia.fandom.com/wiki/Aggra "Aggra") in _Cataclysm_. When Thrall and Aggra became life-mates, Jaina started crying with joy. Despite this, the decoded message from a  ![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Inv_misc_punchcards_white.png/revision/latest/scale-to-width-down/16?cb=20060920051946)[\[White Punch Card\]](https://wowpedia.fandom.com/wiki/White_Punch_Card) drop that reads "Thrall and Jaina sitting in a tree, K-I-S-S-I-N-G" became an in-game joke to fans.
+
+### Kael'thas
+
+It would appear that [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas "Kael'thas") fell in love with her during Jaina's training with [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas"), but their differences in their age (she was a teenager and he was several centuries old) filled him with guilt and self-doubt, and resulted in only an awkward friendship between the two. When he eventually did approach her, she had already fallen in love with [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), and was at such a juncture that her studies came first. When contemplating Thrall's words of having a life companion, Jaina acknowledged Kael'thas' love for her, silently contemplating that while she had respected and admired Kael'thas, both he and Arthas had fallen to the weaker parts of their nature.<sup id="cite_ref-ToW_13-6"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-ToW-13">[13]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Following the merge of [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") into a singular entity, Jaina and Thrall held conferences to discuss the threat of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") on [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), as well as [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") and his [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") and [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") army on [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").<sup id="cite_ref-213"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-213">[213]</a></sup>
+
+Some people in Theramore speculate that Jaina's relation with Thrall has taken salacious turn. Some outspoken political opponents are on the verge of accusing Jaina of miscegenation.<sup id="cite_ref-214"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-214">[214]</a></sup>
+
+Not everybody in Theramore agreed with Jaina's decision to side with the orcs against Daelin and were gossiping or openly questioning her.<sup id="cite_ref-215"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-215">[215]</a></sup>
+
+Jaina survived an assassination attempt in Theramore.<sup id="cite_ref-216"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-216">[216]</a></sup>
+
+Life on Theramore Isle is fairly insular, but Jaina welcomes visitors with warm lodging and hearty meals in exchange for stories about the outside world. Her people are simple, with most spending their days as kelp farmers or fishermen. In exchange for information or artifacts that might improve the lives of her people, Jaina has been known to provide arcane assistance to visitors, including occasionally teleporting travelers great distances, summoning elementals to guide them on their journeys or warding them with enchantments. In the event that her people are faced with a dire threat, Jaina will voluntarily accompany or aid adventurers who share her goal of protecting Theramore Isle.<sup id="cite_ref-S&amp;L48_217-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-S&amp;L48-217">[217]</a></sup><sup id="cite_ref-S&amp;L49_218-0"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-S&amp;L49-218">[218]</a></sup>
+
+Against mortal foes, Jaina is merciful and tries to capture or force a surrender. Against demons and undead, Jaina is ruthless and uses her spells to their maximum potential for damage. She prefers to remain at great range.<sup id="cite_ref-S&amp;L49_218-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-S&amp;L49-218">[218]</a></sup>
+
+## Quotes
+
+### Warcraft III: Reign of Chaos
+
+_For unit quotes, see [Quotes of Warcraft III/Human Alliance#Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III/Human_Alliance#Jaina_Proudmoore "Quotes of Warcraft III/Human Alliance")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Jaina.jpg/revision/latest/scale-to-width-down/180?cb=20080826081843)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Jaina.jpg/revision/latest?cb=20080826081843)
+
+Jaina in _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
+
+-   I've heard the rumors of the [plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") spreading throughout the [northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands"). Do [you](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas") truly believe that the plague is magical in nature?
+-   I believe that the [robed man](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") was a [necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer"). Obviously, [he and his lackeys](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned") are behind this plague.
+-   I sensed tremendous power about [him](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). Maybe he's right. Maybe he does [know what will happen](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+-   I'm sorry, [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). I can't watch you do [this](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme").
+-   [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). [He's](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") gone to Northrend to hunt [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis").
+-   Unite with [them](https://wowpedia.fandom.com/wiki/Orc "Orc")? Are [you](https://wowpedia.fandom.com/wiki/Medivh "Medivh") mad?
+-   Just remember, [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), with this [soul gem](https://wowpedia.fandom.com/wiki/Soul_Gem_(Warcraft_III) "Soul Gem (Warcraft III)") you can capture your friend Hellscream's spirit without hurting him. But you need to bring it back to my base immediately, so we can free [Grom](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream") from the demons' control.
+-   Is talking all [you](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") [demons](https://wowpedia.fandom.com/wiki/Demons "Demons") do?
+
+### Warcraft III: The Frozen Throne
+
+**Jaina Proudmoore:** Thrall, [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar")... I come in peace. You must believe me--I had no part in my [father](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")'s plans. I wish none of this had ever happened. I... I don't know what to do.
+
+**[Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"):** We've bled together on many battlefields, Jaina. We've faced untold perils as allies. But your father threatens the security of our [nation](https://wowpedia.fandom.com/wiki/Durotar "Durotar") and the very future of my [people](https://wowpedia.fandom.com/wiki/Horde "Horde"). You know how this has to end.
+
+**Jaina Proudmoore:** I know, Thrall. Do what you must. There is a [goblin shipyard](https://wowpedia.fandom.com/wiki/Goblin_Shipyard "Goblin Shipyard") on a nearby island that could provide you with warships of your own. With those, you could scatter the blockade surrounding [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore").
+
+**Jaina Proudmoore:** But please, spare my men if you can. My father will try to use them against you, but they're the only real family I'll have left when this is over. Please do this... for me.
+
+**Thrall:** We'll do all we can, Jaina. You have my word. Now you'd better make yourself scarce. The battle's about to begin.
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+#### Theramore
+
+Gossip
+
+I welcome you to Theramore, <name>.
+
+I apologize for being abrupt and not having a lot of time to exchange pleasantries, but my city must come first. Too many things threaten our way of life and the sanctity of the Alliance. I must stay ever vigilant against forces outside of our control if I'm to ensure my people remain safe and happy.
+
+Perhaps we'll have more time to speak later.
+
+#### On-click
+
+Aggro
+
+-   You asked for it.
+-   I hate resorting to violence!
+
+Greeting
+
+-   Welcome to Theramore. Have you come to help the Alliance?
+-   All I ever wanted was to study.
+-   Shh, I'm trying to think here.
+
+All but the "Welcome to Theramore" line came from _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_.
+
+#### [The Missing Diplomat](https://wowpedia.fandom.com/wiki/The_Missing_Diplomat_quest_chain "The Missing Diplomat quest chain") completed
+
+Hendel is in our custody now, <name>, thanks to you.
+
+Although the questioning goes slowly, I assure you, he will tell us everything he knows.
+
+For now, please be patient. I will contact you immediately if we have need of your assistance.
+
+Until then, please, enjoy Theramore and I invite you to stay for as long as you like within our city's walls as a friend of the Alliance.
+
+#### [Battle for Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)")
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Jaina_Battle_of_Mount_Hyjal.jpg/revision/latest/scale-to-width-down/180?cb=20131127232832)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Jaina_Battle_of_Mount_Hyjal.jpg/revision/latest?cb=20131127232832)
+
+Jaina in the [Battle for Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)").
+
+Incoming
+
+Stay alert! Another wave approaches.
+
+Attacked
+
+-   I'm in jeopardy, help me if you can!
+-   They've broken through!
+
+Rally
+
+-   Don't give up! We must prevail!
+-   Hold them back as long as possible!
+-   We must hold strong!
+
+Out of time
+
+We are lost. Fall back!
+
+Death
+
+I did... My best.
+
+Departure
+
+We have won valuable time. Now we must pull back!
+
+Initial gossip
+
+I have no idea who you are, but your presence is most welcome. Archimonde and his Scourge army could attack at any time, <class>. Will you stand with us against this evil?
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) My companions and I are with you, Lady Proudmoore.
+
+Gossip during waves
+
+We must continue to hold on for as long as we can! Fight on!
+
+Gossip after first boss
+
+Well done, adventurer. Rage Winterchill's death has earned us all a small pause in the enemy's advance. Use this short time wisely. Tend to your wounded and prepare your defenses, as soon Archimonde will send even deadlier forces at us. My meager force of reserve units will reinforce you when battle is joined again.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) We are ready for whatever Archimonde might send our way, Lady Proudmoore.
+
+Then let Archimonde do his worst.
+
+Gossip after second boss
+
+Amazing! Anatheron's defeat at your hands has delayed Archimonde from his objective, and brought us that much closer to victory. My forces cannot stay here, however. My troops and I are exhausted, and now is the time for retreat. If your strength has not waned, head east to Thrall's encampment. That is where we make another stand. Be well.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Until we meet again, Lady Proudmoore.
+
+#### [Rise of the Lich King](https://wowpedia.fandom.com/wiki/Rise_of_the_Lich_King "Rise of the Lich King")
+
+-   "The dead sometimes do linger on, if their deaths were traumatic. It's what gave rise to ghost stories."
+-   "The...the animation of corpses by powerful individual [necromancers](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") is not unheard of. We saw examples of this in both the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), when the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") were able to animate skeletal remains, and in the [Second](https://wowpedia.fandom.com/wiki/Second_War "Second War"), with the appearance of what would come to be known as [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight")."
+
+#### Wrath of the Lich King
+
+Stormwind City gossip
+
+We must avoid another war with the Horde at all costs!
+
+Pit of Saron entrance
+
+I will delay here until more reinforcements arrive, but you have to keep moving.
+
+We won't have much time until Arthas realizes we're here.
+
+Dialogue
+
+_Main article: [Fate, Up Against Your Will#Dialogue](https://wowpedia.fandom.com/wiki/Fate,_Up_Against_Your_Will#Dialogue "Fate, Up Against Your Will")_
+
+_Main article: [The Battle For The Undercity (Alliance)#Notes](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Alliance)#Notes "The Battle For The Undercity (Alliance)")_
+
+_Main article: [The Battle For The Undercity (Horde)#Notes](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity_(Horde)#Notes "The Battle For The Undercity (Horde)")_
+
+_Main article: [Secrets of Ulduar trailer#Transcript](https://wowpedia.fandom.com/wiki/Secrets_of_Ulduar_trailer#Transcript "Secrets of Ulduar trailer")_
+
+_Main article: [Argent Tournament#Quotes](https://wowpedia.fandom.com/wiki/Argent_Tournament#Quotes "Argent Tournament")_
+
+_Main article: [Echoes of Tortured Souls (Alliance)#Notes](https://wowpedia.fandom.com/wiki/Echoes_of_Tortured_Souls_(Alliance)#Notes "Echoes of Tortured Souls (Alliance)")_
+
+_Main article: [Devourer of Souls#Quotes](https://wowpedia.fandom.com/wiki/Devourer_of_Souls#Quotes "Devourer of Souls")_
+
+_Main article: [The Pit of Saron (Alliance)#Notes](https://wowpedia.fandom.com/wiki/The_Pit_of_Saron_(Alliance)#Notes "The Pit of Saron (Alliance)")_
+
+_Main article: [Krick and Ick#Quotes](https://wowpedia.fandom.com/wiki/Krick_and_Ick#Quotes "Krick and Ick")_
+
+_Main article: [Scourgelord Tyrannus#Quotes](https://wowpedia.fandom.com/wiki/Scourgelord_Tyrannus#Quotes "Scourgelord Tyrannus")_
+
+_Main article: [Frostmourne (Alliance)#Notes](https://wowpedia.fandom.com/wiki/Frostmourne_(Alliance)#Notes "Frostmourne (Alliance)")_
+
+_Main article: [Escape from Arthas#Quotes](https://wowpedia.fandom.com/wiki/Escape_from_Arthas#Quotes "Escape from Arthas")_
+
+_Main article: [Deathbringer Saurfang#Quotes](https://wowpedia.fandom.com/wiki/Deathbringer_Saurfang#Quotes "Deathbringer Saurfang")_
+
+_Main article: [Jaina's Locket (quest)#Notes](https://wowpedia.fandom.com/wiki/Jaina%27s_Locket_(quest)#Notes "Jaina's Locket (quest)")_
+
+##### After killing the Lich King
+
+-   He's truly gone, isn't he?
+
+I... I can feel it.
+
+-   Was there truly no way to save him?
+
+I fear I shall always wonder.
+
+#### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+_Main article: [Echo of Jaina#Quotes](https://wowpedia.fandom.com/wiki/Echo_of_Jaina#Quotes "Echo of Jaina")_
+
+#### Mists of Pandaria
+
+##### On-click
+
+Greeting
+
+-   The Alliance needs heroes like you more than ever.
+-   What knowledge do you seek?
+-   Peace is not always the answer.
+-   Question everything.
+-   The Kirin Tor is at a crossroads. (patch 5.1)
+-   Magic must be control, or it will control you. (patch 5.1)
+-   Seek knowledge, not power. (patch 5.1)
+-   Keep your mind open. (patch 5.1)
+-   Shh...I'm trying to think here... (patch 5.1)
+-   Have you come to help the Alliance? (patch 5.1)
+-   Be careful who you trust. (patch 5.1)
+-   Knowledge _is_ power! (patch 5.1)
+-   We must _never_ forget Theramore! (patch 5.1)
+-   For the _Alliance!_ (patch 5.1)
+
+Pissed
+
+-   Stop wasting my time!
+-   Would you prefer life as a sheep?
+-   It's about to get very cold.
+
+Farewell
+
+-   Goodbye.
+-   Remember Theramore.
+-   Never temper your passion.
+-   May magic protect you.
+
+##### Gossip
+
+Dalaran
+
+And did the good King Varian send you as well to bid for our aid?
+
+Violet Rise, Isle of Thunder
+
+A new land overrun by evil horrors of this world. A new place for us to save.
+
+Siege of Orgrimmar
+
+I swear, none of these Kor'kron animals will pass as long as I draw breath. Just promise you will put down Garrosh down like the rabid dog he is.
+
+##### Dialogue
+
+_Main article: [Theramore's Fall (Alliance)#Stage guide](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall_(Alliance)#Stage_guide "Theramore's Fall (Alliance)")_
+
+_Main article: [The Kirin Tor (quest)#Notes](https://wowpedia.fandom.com/wiki/The_Kirin_Tor_(quest)#Notes "The Kirin Tor (quest)")_
+
+_Main article: [The Fate of Dalaran#Notes](https://wowpedia.fandom.com/wiki/The_Fate_of_Dalaran#Notes "The Fate of Dalaran")_
+
+_Main article: [Darnassus Attacked?#Notes](https://wowpedia.fandom.com/wiki/Darnassus_Attacked%3F#Notes "Darnassus Attacked?")_
+
+_Main article: [Tracking the Thieves#Notes](https://wowpedia.fandom.com/wiki/Tracking_the_Thieves#Notes "Tracking the Thieves")_
+
+_Main article: [Jaina's Resolution#Notes](https://wowpedia.fandom.com/wiki/Jaina%27s_Resolution#Notes "Jaina's Resolution")_
+
+_Main article: [The Silence#Notes](https://wowpedia.fandom.com/wiki/The_Silence#Notes "The Silence")_
+
+_Main article: [The Storm Gathers (Alliance)#Notes](https://wowpedia.fandom.com/wiki/The_Storm_Gathers_(Alliance)#Notes "The Storm Gathers (Alliance)")_
+
+_Main article: [The Assault on Shaol'mara#Notes](https://wowpedia.fandom.com/wiki/The_Assault_on_Shaol%27mara#Notes "The Assault on Shaol'mara")_
+
+_Main article: [Tear Down This Wall! (Alliance)#Notes](https://wowpedia.fandom.com/wiki/Tear_Down_This_Wall!_(Alliance)#Notes "Tear Down This Wall! (Alliance)")_
+
+_Main article: [To the Skies! (Alliance)#Notes](https://wowpedia.fandom.com/wiki/To_the_Skies!_(Alliance)#Notes "To the Skies! (Alliance)")_
+
+_Main article: [A Bold Idea#Notes](https://wowpedia.fandom.com/wiki/A_Bold_Idea#Notes "A Bold Idea")_
+
+_Main article: [The Fall of Shan Bu (Alliance)#Notes](https://wowpedia.fandom.com/wiki/The_Fall_of_Shan_Bu_(Alliance)#Notes "The Fall of Shan Bu (Alliance)")_
+
+_Main article: [Securing A Future#Notes](https://wowpedia.fandom.com/wiki/Securing_A_Future#Notes "Securing A Future")_
+
+_Main article: [Sha of Pride#Quotes](https://wowpedia.fandom.com/wiki/Sha_of_Pride#Quotes "Sha of Pride")_
+
+_Main article: [Galakras#Quotes](https://wowpedia.fandom.com/wiki/Galakras#Quotes "Galakras")_
+
+_Main article: [Kor'kron Barracks](https://wowpedia.fandom.com/wiki/Kor%27kron_Barracks "Kor'kron Barracks")_
+
+_Main article: [Garrosh Hellscream (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream_(tactics)#Quotes "Garrosh Hellscream (tactics)")_
+
+Purge of Dalaran
+
+-   Be silenced, Sunreaver!
+-   The Kirin Tor will not tolerate insurrection.
+-   You brought this on yourselves, Sunreavers.
+-   You had your chance to run.
+-   Dalaran is a better place without your kind.
+-   Did you think your actions would have no consequence?
+-   You chose your warchief over the Kirin Tor.
+
+#### Warlords of Draenor
+
+_Main article: [Hunter: Hunted#Notes](https://wowpedia.fandom.com/wiki/Hunter:_Hunted#Notes "Hunter: Hunted")_
+
+_Main article: [Touch of the Kirin-Tor#Notes](https://wowpedia.fandom.com/wiki/Touch_of_the_Kirin-Tor#Notes "Touch of the Kirin-Tor")_
+
+#### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+_Main article: [The Battle for Broken Shore (Alliance)#Notes](https://wowpedia.fandom.com/wiki/The_Battle_for_Broken_Shore_(Alliance)#Notes "The Battle for Broken Shore (Alliance)")_
+
+_Main article: [The Fallen Lion#Notes](https://wowpedia.fandom.com/wiki/The_Fallen_Lion#Notes "The Fallen Lion")_
+
+_Main article: [Calling of the Council#Notes](https://wowpedia.fandom.com/wiki/Calling_of_the_Council#Notes "Calling of the Council")_
+
+#### Battle for Azeroth
+
+##### Dialogue
+
+_Main article: [World of Warcraft: Battle for Azeroth Features Overview#Transcript](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth_Features_Overview#Transcript "World of Warcraft: Battle for Azeroth Features Overview")_
+
+_Main article: [The Battle for Lordaeron#Notes](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron#Notes "The Battle for Lordaeron")_
+
+##### On-click
+
+Greeting
+
+-   A long road lies before us.
+-   What would you ask of the Daughter of the Sea?
+-   The time for dreaming is over.
+-   We cannot let the world fall to darkness.
+-   The way forward will not be easy.
+-   I will do what I can.
+-   The true battle lies ahead.
+
+Pissed
+
+-   After all these years, you're still trying to get under my skin? Some things never change.
+-   Of course I got my sheep staff. Who do you think coined the term woolomancer?
+-   Funny, I never even realized I had lost my Kul Tiran accent.
+-   So you think you know what it's like to date a bad boy? Girlfriend, you have no idea.
+
+Farewell
+
+-   Be careful who you trust.
+-   We all have our ghosts.
+-   I will never forget.
+-   Control your power, or it will control you.
+-   A single spark can set the world aflame.
+-   I know what must be done.
+-   The Alliance will endure.
+
+Greeting ( ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Thros, the Blighted Lands](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands_(quest)))
+
+-   Shadows of the past surround us.
+-   I am grateful for your aid, champion.
+-   It is easy to lose ones way.
+
+Farewell ( ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Thros, the Blighted Lands](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands_(quest)))
+
+-   I must find my way through this.
+-   What is my path forward?
+-   So much sorrow, so much loss.
+
+##### Gossip
+
+Nazmir, Alliance War Campaign
+
+We must move quickly for our diostraction against the Horde and Zandalari to work.
+
+Wind's Redemption, Alliance War Campaign
+
+It is good to be home once more.
+
+Nazjatar
+
+There are so few of us left... but we must remain steadfast. If we fail, all that we've worked for is doomed.
+
+Razor Hill
+
+It is time to end this cycle of hatred.
+
+At the Stormwind Embassy
+
+The Kul Tirans and the Alliance have already endured much together. I seek to cement our bond.
+
+Stormwind Embassy post 8.3.0
+
+This moment of peace was hard fought and so much was sacrificed to bring it to fruition. It must not go to waste.
+
+##### Boralus patch 8.1 dialogue
+
+[![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up"). Reason: **Remove the emphasis comments or revive [the discussion.](https://wowpedia.fandom.com/wiki/Wowpedia_talk:Manual_of_Style#Italicizing_NPC_chat "Wowpedia talk:Manual of Style")**
+
+Post- ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [A Nation United](https://wowpedia.fandom.com/wiki/A_Nation_United_(quest))
+
+_On the way to the [flight master](https://wowpedia.fandom.com/wiki/Flight_master "Flight master") in the [Tradewinds Market](https://wowpedia.fandom.com/wiki/Tradewinds_Market "Tradewinds Market"), Jaina Proudmoore is seen speaking with [Tiran Blackwood](https://wowpedia.fandom.com/wiki/Tiran_Blackwood "Tiran Blackwood")._
+
+**Jaina Proudmoore says:** [Lorena](https://wowpedia.fandom.com/wiki/Lorena "Lorena") would have wanted you to have this. She shared so many happy stories of you and her brothers while she served in [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore"). I am so sorry for your loss.
+
+_Tiran Blackwood walks away. [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore") appears, walking up to Jaina._
+
+**Katherine Proudmoore says:** Such conversations never get easier. Jaina... may I ask you something?
+
+**Jaina Proudmoore says:** About Theramore? Oh mother, forgive me. I didn't mean to remind you of--
+
+**Katherine Proudmoore says:** No, not about your father. _(Sympathetically)_ I know what happened to the city. The Horde attack. The explosion.
+
+**Jaina Proudmoore says:** So many lost. Brave heroes... innocent families... victims of a madman's hatred.
+
+**Katherine Proudmoore says:** I saw visions when we searched for you in Thros. Moments of doubt and pain. _(Gently)_ I don't mean to open up old wounds, but... I need to know. Are you... better?
+
+**Jaina Proudmoore says:** That realm of torment... it forced me to confront memories I had pushed away for so long. But when I saw you there, I... I realized I didn't need to face the darkness alone.
+
+**Katherine Proudmoore says:** You are never alone, my daughter. _(Lightening)_ Say, let's go somewhere quiet and talk. The library in the keep was always your favorite spot. _(Teasing)_ Still like surrounding yourself with musty old tomes?
+
+**Jaina Proudmoore says:** That sounds wonderful, Mother. You know... it is so very good to be home.
+
+_They walk off together across the wall._
+
+##### Boralus patch 8.1.5 dialogue
+
+Post- ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [A Gathering of Foes](https://wowpedia.fandom.com/wiki/A_Gathering_of_Foes)
+
+_On the way past [Proudmoore Keep](https://wowpedia.fandom.com/wiki/Proudmoore_Keep "Proudmoore Keep"), [Tandred Proudmoore](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore") waits north of the steps by the canal for his sister. He greets Jaina as she walks up._
+
+**Tandred Proudmoore says:** _(Ahhh)_ There's my sister, the Lord Admiral! Your Alliance friends say you're a master of diplomacy. I think this new title could work out quite well indeed.
+
+**Jaina Proudmoore says:** _(Giggles)_ Thanks for the vote of confidence, baby brother. But are you sure you weren't hoping for the job?
+
+**Tandred Proudmoore says:** Oh, I'd have done my duty if asked, but my calling is the sea. Speaking of which, considering all that's happened, a nice long sail would do mother a world of good.
+
+_Jaina is amused._
+
+**Jaina Proudmoore says:** Now that's the brother I remember! Barely back on land for five minutes and already plotting your next excursion.
+
+**Tandred Proudmoore says:** Five minutes? How frightfully unfair, big sister. It's been at least ten!
+
+_He sobers a bit and sighs._
+
+**Tandred Proudmoore says:** I missed you, Jaina. Kul Tiras suffered in your absence. When father died, no one wanted to understand why it happened. They were just angry it did.
+
+**Jaina Proudmoore says:** I feared our people would never accept me back. That there was nothing I could do to prove myself to them. To mother. To you.
+
+**Tandred Proudmoore says:** Jaina, our fleet was lost. If you hadn't called us home, we'd never have survived out there. Just like Boralus wasn't going to survive Ashvane.
+
+**Tandred Proudmoore says:** I always knew where you stood. Now everyone else does, too.
+
+_With the serious and heartfelt topics out of the way, Tandred teases Jaina again to lighten the mood._
+
+**Tandred Proudmoore says:** The only question I have is... when did you start sounding like a mainlander?
+
+**Jaina Proudmoore says:** _(Chuckles)_ Let's just say [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") was a long way from Kul Tiras, and I needed to fit in. I missed you too, Tandred. _(Giggles)_ Even the teasing.
+
+_They walk up the steps to the keep together._
+
+#### Shadowlands
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+
+Oribos gossip
+
+It will take me... some time to recover from what happened in Torghast. I do not wish to speak of it further.
+
+Oribos meeting with Khadgar
+
+I long for the familiar shores of home, <name>.
+
+Perhaps after enduring so much strife here in the Shadowlands, we all deserve a respite.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) <Stay awhile and listen.>
+
+**Archmage Khadgar says:** Hello, Jaina.
+
+**Lady Jaina Proudmoore says:** Khadgar! It's good to see you again. When we last parted, I regret that--
+
+**Archmage Khadgar says:** Those were perilous times. The Legion's attack, then the war... I think we both needed to find our own way through.
+
+**Archmage Khadgar says:** I have no hard feelings. Only friendship.
+
+**Lady Jaina Proudmoore says:** I feel the same. But surely you didn't come all the way to the Shadowlands just to find me.
+
+**Archmage Khadgar says:** No. For years I've read about this place in Medivh's books. I stood atop Karazhan and caught glimpses through the veil.
+
+**Archmage Khadgar says:** I suppose I wanted to gaze upon the realms of Death with mine own eyes before...
+
+**Lady Jaina Proudmoore says:** Is everything alright, Khadgar?
+
+**Archmage Khadgar says:** I feel the weight of years upon me, Jaina. The burdens carried. The choices made.
+
+**Archmage Khadgar says:** Hmph! Forgive the musings of an old man. I think I'll look around and see these Shadowlands a bit. See what wonders I can find.
+
+**Archmage Khadgar says:** I've heard tales of conniving brokers, a city of secrets, and a land of ancient knowledge. How intriguing!
+
+**Lady Jaina Proudmoore says:** Sounds like you'll be keeping busy! Just don't leave without saying goodbye. I've missed you, old friend.
+
+**Archmage Khadgar says:** Count on it, Jaina. Be seeing you.
+
+_Khadgar transforms back into a raven and flies off._
+
+### [Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")
+
+-   "Others believe victory requires strategy, and a mastery of power." - Hearthstone cinematic
+-   "Always remember that power is a double-edged blade. One side light, the other dark. It calls to you, where you are most desperate; when victory seems worth any sacrifice. There is a price to be paid for such a gift, and many eagerly accept the bargain. The righteous and the meek may recoil at its cost, but they have no vision. Power alone is not to be feared. Fear, instead, those who wield it!" - _[Knights of the Frozen Throne](https://wowpedia.fandom.com/wiki/Hearthstone:_Knights_of_the_Frozen_Throne "Hearthstone: Knights of the Frozen Throne")_
+
+### [Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm") trailer
+
+_Jaina walks through a marketplace, but is constantly interrupted by other Heroes attacking her._
+
+"Peace. It has been my life's work. Through honesty and diplomacy, there is no obstacle... Eh-hm. There is no obstacle we can't overcome. Within each of our hearts lies... lies a yearning for peace. Even in this odd place, I truly believe that each of us can find a way to _live in harmony_! As I was saying, I am Jaina Proudmoore. We don't _need_ to fight, but if you insist... so be it."
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   Jaina is the [default hero](https://hearthstone.fandom.com/wiki/Jaina_Proudmoore "hswiki:Jaina Proudmoore") (player character) for the mage class in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. Her flavor text reads: _"The [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")'s leader is a powerful sorceress. She used to be a lot nicer before the [Theramore thing](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle")."_
+-   Winning 1,000 [Ranked](https://hearthstone.fandom.com/wiki/Ranked "hswiki:Ranked") or [Arena](https://hearthstone.fandom.com/wiki/Arena "hswiki:Arena") games as a mage unlocks the alternate [Fire Mage Jaina](https://hearthstone.fandom.com/wiki/Fire_Mage_Jaina "hswiki:Fire Mage Jaina") hero, whose flavor text reads: _"After many years of careful study, Jaina realized that switching to fire spec would save on her heating bill."_
+-   In the _[Knights of the Frozen Throne](https://wowpedia.fandom.com/wiki/Hearthstone:_Knights_of_the_Frozen_Throne "Hearthstone: Knights of the Frozen Throne")_ expansion, the nine heroes of Warcraft have been raised as powerful [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), with Jaina being resurrected as [Frost Lich Jaina](https://hearthstone.fandom.com/wiki/Frost_Lich_Jaina "hswiki:Frost Lich Jaina"). Her flavor text reads: _""Arthas was a spoiled child, playing with toys he could neither control nor understand. Come into the cold. I will show you the true power of the Frozen Throne."_ Jaina is also the narrator for the expansion's [cinematic trailer](https://www.youtube.com/watch?v=CCJq7lE3JQs).
+
+## Notes and trivia
+
+-   The [Kul Tiran](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") song _[Daughter of the Sea](https://wowpedia.fandom.com/wiki/Daughter_of_the_Sea "Daughter of the Sea")_ tells the story of Jaina's involvement in Daelin's demise. According to the folk song, it was Daelin himself who, with his dying breath, first called her "Daughter of the Sea".
+    -   While the moniker did come from her father, it appears to be a childhood name given to her in endearment, rather than one given on his death.<sup id="cite_ref-219"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-219">[219]</a></sup>
+-   Jaina summoned some [Playful Water Elementals](https://wowpedia.fandom.com/wiki/Playful_Water_Elemental "Playful Water Elemental") to play with with the [Boralus Youth](https://wowpedia.fandom.com/wiki/Boralus_Youth "Boralus Youth").
+-   Jaina is the narrator of the [_Battle for Azeroth_ reveal cinematic](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth_Features_Overview "Battle for Azeroth Features Overview").
+-   Her private vessel was originally the _[Wavecutter](https://wowpedia.fandom.com/wiki/Wavecutter "Wavecutter")_.<sup id="cite_ref-Revelations_36-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Revelations-36">[36]</a></sup> She later raised an [unnamed Kul Tiran battleship](https://wowpedia.fandom.com/wiki/Jaina%27s_ship "Jaina's ship") from the sea.
+-   Jaina does not share the same accent as the rest of the Kul Tiran, including her family. This is mentioned in one of her [on-click voice lines](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#Quotes) in _Battle for Azeroth_, saying "Funny, I never even realized I had lost my Kul Tiran accent".
+-   Jaina is one of the four possibilities for a Time Anomaly summoned by the Tier 18 Raid Set.<sup id="cite_ref-220"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-220">[220]</a></sup>
+-   Jaina is able to differentiate between pictographs from an old version of the [orc language](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)").<sup id="cite_ref-Cycle_of_Hatred_ch.3_197-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Cycle_of_Hatred_ch.3-197">[197]</a></sup>
+-   Jaina Proudmoore's impaled body can be seen in the [Stormwind Harbor](https://wowpedia.fandom.com/wiki/Stormwind_Harbor "Stormwind Harbor") of the [Realm of Y'Shaarj](https://wowpedia.fandom.com/wiki/Realm_of_Y%27Shaarj "Realm of Y'Shaarj").
+-   Jaina was born 3 years [BDP](https://wowpedia.fandom.com/wiki/BDP "BDP"), making her 43 years old in _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.
+-   Jaina referred to her father [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore") as "Papa".<sup id="cite_ref-221"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-221">[221]</a></sup> He taught her that it was as much of a mistake to underestimate yourself as to overestimate yourself, and that false modesty is as bad as false pride.<sup id="cite_ref-222"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-222">[222]</a></sup>
+    -   On the other hand, Jaina's mother [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore") feels that she forgot to teach Jaina humility or loyalty to her people.<sup id="cite_ref-Reunion_23-5"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-Reunion-23">[23]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/0/01/Inv_misc_coin_17.png/revision/latest/scale-to-width-down/16?cb=20080911133117)[\[Lady Jaina Proudmoore's Gold Coin\]](https://wowpedia.fandom.com/wiki/Lady_Jaina_Proudmoore%27s_Gold_Coin) can be fished from the [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") [Dalaran fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain").
+-   Jaina is completely absent from the Varian's death cinematic despite her being present during the fight.
+-   Jaina probably previously owned  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Inv_staff_109.png/revision/latest/scale-to-width-down/16?cb=20090714085503)[\[Halion, Staff of Forgotten Love\]](https://wowpedia.fandom.com/wiki/Halion,_Staff_of_Forgotten_Love), but it was taken by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") at some point.
+-   Jaina was voiced by [Carrie Gordon Lowrey](https://wowpedia.fandom.com/wiki/Carrie_Gordon_Lowrey "Carrie Gordon Lowrey") in _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_, _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_, and _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, and is now voiced by [Laura Bailey](https://wowpedia.fandom.com/wiki/Laura_Bailey "Laura Bailey")<sup id="cite_ref-223"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-223">[223]</a></sup> for all appearances starting with _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_.
+-   Jaina was planned to die as part of a main story element in an early draft for _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, but that idea was scrapped as [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") didn't need any more motivation to chase after [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis") than he already had. The love story between Jaina and Arthas was also planned to appear in the game, and Jaina may have also been planned to become a [banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee"), but it was scrapped as it was too similar to the story of Jim Raynor and Sarah Kerrigan from _[StarCraft](https://wowpedia.fandom.com/wiki/StarCraft_franchise "StarCraft franchise")_. The banshee plot point was instead moved to [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner").<sup id="cite_ref-224"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-224">[224]</a></sup>
+-   Both Arthas and [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") compared Jaina to [Taretha Foxton](https://wowpedia.fandom.com/wiki/Taretha_Foxton "Taretha Foxton"). [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") has compared her to [Anveena Teague](https://wowpedia.fandom.com/wiki/Anveena_Teague "Anveena Teague"), at least in physical appearance.
+-   Jaina's favorite snacks include sourdough,  ![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Inv_misc_food_101_sourcheese.png/revision/latest/scale-to-width-down/16?cb=20080710214432)[\[Sour Goat Cheese\]](https://wowpedia.fandom.com/wiki/Sour_Goat_Cheese)<sup id="cite_ref-225"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-225">[225]</a></sup> and, according to [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"),  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Inv_misc_food_39.png/revision/latest/scale-to-width-down/16?cb=20060919174448)[\[Dalaran Sharp\]](https://wowpedia.fandom.com/wiki/Dalaran_Sharp) and sliced apples.<sup id="cite_ref-The_Shattering_200-1"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-The_Shattering-200">[200]</a></sup>
+-   In the novel _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, Jaina acted in Varian's nightmare. Varian saw her alongside many shapes of Tiffins and Anduins atop the wall of Stormwind. Her expression was dire, a thing caught between horror and death.
+-   Jaina is presented as an [Echo](https://wowpedia.fandom.com/wiki/Echo_of_Jaina "Echo of Jaina") in a [possible future](https://wowpedia.fandom.com/wiki/End_Time "End Time").
+-   In the [Frozen Halls](https://wowpedia.fandom.com/wiki/Frozen_Halls "Frozen Halls"), Jaina refers to [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne") as "the blade that destroyed our kingdom". This could suggest that she thought of Lordaeron as her kingdom, possibly due to her relationship with Arthas and her involvement in many of Lordaeron's matters.
+-   Jaina is a playable character in _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_.
+-   Jaina considers Anduin to be her nephew.<sup id="cite_ref-War_Crimes_195-2"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-War_Crimes-195">[195]</a></sup>
+-   An image of Lady Jaina Proudmoore can spawn to the mages with [Raiment of the Arcanic Conclave](https://wowpedia.fandom.com/wiki/Raiment_of_the_Arcanic_Conclave "Raiment of the Arcanic Conclave").
+-   Jaina's drastic personality change gave rise to the largely tongue-in-cheek theory that she is, or was at one point replaced with, one of the [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim"). Jesse Cox popularized this theory at various BlizzCons and his YouTube series, sparking a lot of ironic (and some earnest) support for it within the community. Evidence ranging from her frequent changes in attitude to plot-convenient inconsistencies with her magical power - some cases as far back as _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/Wrath_of_the_Lich_King "Wrath of the Lich King")_ - has been cited as "proof" that she is a subversive force in the Alliance. The "Jaina is a dreadlord" theory has even received nods from Blizzard; _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_ redirects readers to "Jaina Proudmoore" if they look up "dreadlord" in the index. When outright asked if Jaina is a dreadlord, however, [Alex Afrasiabi](https://wowpedia.fandom.com/wiki/Alex_Afrasiabi "Alex Afrasiabi") confirmed that she is not.<sup id="cite_ref-226"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-226">[226]</a></sup><sup id="cite_ref-227"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-227">[227]</a></sup> In August of 2017, a "Dreadlord Jaina" skin was added to _Heroes of the Storm_ as part of the [Call of Kel'Thuzad](https://heroesofthestorm.fandom.com/wiki/Call_of_Kel%27Thuzad "hots:Call of Kel'Thuzad") event. This prompted [Ion Hazzikostas](https://wowpedia.fandom.com/wiki/Ion_Hazzikostas "Ion Hazzikostas") to again confirm in an interview that Jaina is not a dreadlord, stating that _Heroes of the Storm_ is not considered canonical and that the skin is simply paying homage to a community meme.<sup id="cite_ref-228"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-228">[228]</a></sup>
+-   Jaina's [generic name](https://wowpedia.fandom.com/wiki/Generic_name "Generic name") in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") is [7th Legion Magus](https://wowpedia.fandom.com/wiki/7th_Legion_Magus "7th Legion Magus"), and her mounts are a horse and a gryphon. Her generic name in the [Escape from the Maw](https://wowpedia.fandom.com/wiki/Escape_from_the_Maw "Escape from the Maw") is Kirin Tor Mage.
+-   A cosplay of Jaina is featured on the cover of _[Blizzard Cosplay: Tips, Tricks, and Hints](https://wowpedia.fandom.com/wiki/Blizzard_Cosplay:_Tips,_Tricks,_and_Hints "Blizzard Cosplay: Tips, Tricks, and Hints")_.
+
+## Alternate timelines
+
+A version of [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore_(alternate_universe) "Jaina Proudmoore (alternate universe)") exists in a [timeway](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") where history turned out completely different and which was entered by [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") during the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") era.<sup id="cite_ref-229"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-229">[229]</a></sup>
+
+In a timeline where the Old Gods and Deathwing succeed in bringing about the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight_(instance) "Hour of Twilight (instance)"), a crazed [echo of Jaina](https://wowpedia.fandom.com/wiki/Echo_of_Jaina "Echo of Jaina") lingers in the shattered remains of the Azure Dragonshrine.
+
+During the trial of Garrosh Hellscream, Jaina from another timeway materialized in the Temple of the White Tiger and immediately began attacking Horde members. She was described as a woman with a single golden streak in her white hair, clad in flowing white, purple, and blue, and bearing an ornate staff. Her mouth was set in a hard, angry line, and her eyes glowed pale blue. She was noticed and attacked by Jaina from the main universe. According to Baine, Kairoz selected the most broken and darkest versions. To send them back to their own realities, one was to accept the other self.<sup id="cite_ref-War_Crimes_195-3"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-War_Crimes-195">[195]</a></sup>
+
+In yet another timeline, after the fall of Theramore, Kalecgos and Go'el were unable to stop her as she destroyed Orgrimmar, leading Azeroth to open war. Amongst the known casualties were Jaina herself and almost entirety of the blue dragonflight, leaving only Kalecgos alive but mad.<sup id="cite_ref-War_Crimes_195-4"><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_note-War_Crimes-195">[195]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Echo_of_Jaina_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20131231232531)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Echo_of_Jaina_TCG.jpg/revision/latest?cb=20131231232531)
+    
+
+## Gallery
+
+World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Townhall_Races_of_Azeroth_Human_art_6.jpg/revision/latest/scale-to-width-down/116?cb=20190220011010)](https://static.wikia.nocookie.net/wowpedia/images/9/94/Townhall_Races_of_Azeroth_Human_art_6.jpg/revision/latest?cb=20190220011010)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Jaina_Proudmoore_old_model.jpg/revision/latest/scale-to-width-down/64?cb=20130829230130)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Jaina_Proudmoore_old_model.jpg/revision/latest?cb=20130829230130)
+    
+    Jaina's original model
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Jaina_Proudmoore.jpg/revision/latest/scale-to-width-down/67?cb=20100405201323)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Jaina_Proudmoore.jpg/revision/latest?cb=20100405201323)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Jaina_MoP.jpg/revision/latest/scale-to-width-down/67?cb=20121228235407)](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Jaina_MoP.jpg/revision/latest?cb=20121228235407)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Young_Jaina_Thros.jpg/revision/latest/scale-to-width-down/47?cb=20190320223312)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Young_Jaina_Thros.jpg/revision/latest?cb=20190320223312)
+    
+    Young Jaina in Thros
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Jaina_Proudmoore_loading_screen_cropped.jpg/revision/latest/scale-to-width-down/77?cb=20180907225446)](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Jaina_Proudmoore_loading_screen_cropped.jpg/revision/latest?cb=20180907225446)
+    
+    Jaina on the Kul Tiras loading screen
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Talanji_vs_Jaina_wallpaper.jpg/revision/latest/scale-to-width-down/120?cb=20180829190201)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Talanji_vs_Jaina_wallpaper.jpg/revision/latest?cb=20180829190201)
+    
+    Jaina and Talanji
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Jaina_Gear_Print.jpg/revision/latest/scale-to-width-down/83?cb=20190112221940)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Jaina_Gear_Print.jpg/revision/latest?cb=20190112221940)
+    
+    Jaina, Daughter of the Sea
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/19/Lore_in_Short_-_The_Culling.png/revision/latest/scale-to-width-down/120?cb=20220922145152)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Lore_in_Short_-_The_Culling.png/revision/latest?cb=20220922145152)
+    
+
+Warcraft III
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Warcraft_III_Reforged_-_Jaina_concept_art.jpeg/revision/latest/scale-to-width-down/120?cb=20181109002944)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Warcraft_III_Reforged_-_Jaina_concept_art.jpeg/revision/latest?cb=20181109002944)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Warcraft_III_Reforged_-_The_Culling_intro_screen.jpg/revision/latest/scale-to-width-down/120?cb=20190510150959)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Warcraft_III_Reforged_-_The_Culling_intro_screen.jpg/revision/latest?cb=20190510150959)
+    
+    _Reforged_ art of Jaina, Arthas and Uther at the gates of Stratholme.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Warcraft_III_Reforged_Jaina_and_Rexxar_art_by_Stanton_Feng.jpg/revision/latest/scale-to-width-down/120?cb=20200814101758)](https://static.wikia.nocookie.net/wowpedia/images/4/42/Warcraft_III_Reforged_Jaina_and_Rexxar_art_by_Stanton_Feng.jpg/revision/latest?cb=20200814101758)
+    
+    Theramore key art.
+    
+
+TCG
+
+-   [](https://static.wikia.nocookie.net/wowpedia/images/7/79/Lady_Jaina_Proudmoore.JPG/revision/latest?cb=20150514160048)
+    
+    Jaina in the [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG")
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Jaina_Raneman.jpg/revision/latest/scale-to-width-down/233?cb=20210416003202)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Jaina_Raneman.jpg/revision/latest?cb=20210416003202)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Jaina_P.jpg/revision/latest/scale-to-width-down/126?cb=20161114214252)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Jaina_P.jpg/revision/latest?cb=20161114214252)
+    
+    Jaina Proudmoore
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Jaina_P2.jpg/revision/latest/scale-to-width-down/123?cb=20210326224434)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Jaina_P2.jpg/revision/latest?cb=20210326224434)
+    
+    Jaina Proudmoore in Icecrown
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Counterspell_TCG.jpg/revision/latest/scale-to-width-down/232?cb=20210513220403)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Counterspell_TCG.jpg/revision/latest?cb=20210513220403)
+    
+    Counterspell
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Fire_Blast_Assault_on_Icecrown_Citadel.jpg/revision/latest/scale-to-width-down/288?cb=20210330165751)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Fire_Blast_Assault_on_Icecrown_Citadel.jpg/revision/latest?cb=20210330165751)
+    
+    Fire Blast
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Jaina03.jpg/revision/latest/scale-to-width-down/288?cb=20150126223712)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Jaina03.jpg/revision/latest?cb=20150126223712)
+    
+    Fireball
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Jaina01.jpg/revision/latest/scale-to-width-down/288?cb=20150126223657)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Jaina01.jpg/revision/latest?cb=20150126223657)
+    
+    Frost Nova
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Jaina04.jpg/revision/latest/scale-to-width-down/288?cb=20150126223720)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Jaina04.jpg/revision/latest?cb=20150126223720)
+    
+    Frostbolt
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Jaina02.jpg/revision/latest/scale-to-width-down/288?cb=20150126223705)](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Jaina02.jpg/revision/latest?cb=20150126223705)
+    
+    Scorch
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Jaina05.jpg/revision/latest/scale-to-width-down/232?cb=20150514174934)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Jaina05.jpg/revision/latest?cb=20150514174934)
+    
+    Whiteout
+    
+
+Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5e/Frost_Lich_Jaina.jpg/revision/latest/scale-to-width-down/254?cb=20170810204048)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/Frost_Lich_Jaina.jpg/revision/latest?cb=20170810204048)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Knights_of_the_Frozen_Throne_key_art.jpg/revision/latest/scale-to-width-down/233?cb=20170707114849)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Knights_of_the_Frozen_Throne_key_art.jpg/revision/latest?cb=20170707114849)
+    
+    Frost Lich Jaina and other undead heroes in _Knights of the Frozen Throne_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/55/Knights_of_the_Frozen_Throne_death_knights.jpg/revision/latest/scale-to-width-down/322?cb=20170707101811)](https://static.wikia.nocookie.net/wowpedia/images/5/55/Knights_of_the_Frozen_Throne_death_knights.jpg/revision/latest?cb=20170707101811)
+    
+    Frost Lich Jaina and other undead heroes in _Knights of the Frozen Throne_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Frost_Lich_Jaina_concept_art.png/revision/latest/scale-to-width-down/279?cb=20170915164319)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Frost_Lich_Jaina_concept_art.png/revision/latest?cb=20170915164319)
+    
+    Frost Lich Jaina concept art.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Fire_Mage_Jaina_unused.jpg/revision/latest/scale-to-width-down/134?cb=20201006162239)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Fire_Mage_Jaina_unused.jpg/revision/latest?cb=20201006162239)
+    
+    Unused Fire Mage Jaina artwork.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Red_Riding_Hood_Jaina.jpg/revision/latest/scale-to-width-down/300?cb=20220215133940)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Red_Riding_Hood_Jaina.jpg/revision/latest?cb=20220215133940)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Frost_Fairy_Jaina.jpg/revision/latest/scale-to-width-down/300?cb=20220215133948)](https://static.wikia.nocookie.net/wowpedia/images/8/84/Frost_Fairy_Jaina.jpg/revision/latest?cb=20220215133948)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Jaina_Proudmurgle_HS.jpg/revision/latest/scale-to-width-down/180?cb=20220517230530)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Jaina_Proudmurgle_HS.jpg/revision/latest?cb=20220517230530)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Meeting_of_the_Minds_HS.jpg/revision/latest/scale-to-width-down/220?cb=20220525113828)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Meeting_of_the_Minds_HS.jpg/revision/latest?cb=20220525113828)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Hearthstone_Children_wallpaper.jpg/revision/latest/scale-to-width-down/317?cb=20160221213409)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Hearthstone_Children_wallpaper.jpg/revision/latest?cb=20160221213409)
+    
+    In promotional artwork.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/HS_Mercenaries_Anime_Opening_Illidan_Jaina_Arthas.jpg/revision/latest/scale-to-width-down/321?cb=20220601224428)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/HS_Mercenaries_Anime_Opening_Illidan_Jaina_Arthas.jpg/revision/latest?cb=20220601224428)
+    
+    From a promotional video for _Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4a/LightBox_Expo_-_Jaina.jpg/revision/latest/scale-to-width-down/122?cb=20221011211046)](https://static.wikia.nocookie.net/wowpedia/images/4/4a/LightBox_Expo_-_Jaina.jpg/revision/latest?cb=20221011211046)
+    
+    On key art for LightBox Expo 2022.
+    
+
+Heroes of the Storm
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Jaina_HotS_Art_2.jpg/revision/latest/scale-to-width-down/168?cb=20170110141935)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Jaina_HotS_Art_2.jpg/revision/latest?cb=20170110141935)
+    
+    Modified artwork from _Heroes of the Storm_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Jaina_HotS.jpg/revision/latest/scale-to-width-down/100?cb=20160112225729)](https://static.wikia.nocookie.net/wowpedia/images/3/30/Jaina_HotS.jpg/revision/latest?cb=20160112225729)
+    
+    Archmage Jaina.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Jaina_HotS_Arcanist.jpg/revision/latest/scale-to-width-down/108?cb=20171219101029)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Jaina_HotS_Arcanist.jpg/revision/latest?cb=20171219101029)
+    
+    Arcanist Jaina (formerly Master Jaina).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/52/Jaina_HotS_Dreadlord.jpg/revision/latest/scale-to-width-down/131?cb=20171219101108)](https://static.wikia.nocookie.net/wowpedia/images/5/52/Jaina_HotS_Dreadlord.jpg/revision/latest?cb=20171219101108)
+    
+    Dreadlord Jaina.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Jaina_HotS_Lunar.jpg/revision/latest/scale-to-width-down/129?cb=20171219101035)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Jaina_HotS_Lunar.jpg/revision/latest?cb=20171219101035)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Jaina_HotS_Tempest_Regalia.jpg/revision/latest/scale-to-width-down/108?cb=20171219101046)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Jaina_HotS_Tempest_Regalia.jpg/revision/latest?cb=20171219101046)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/11/Jaina_HotS_Theramore.jpg/revision/latest/scale-to-width-down/96?cb=20171219101003)](https://static.wikia.nocookie.net/wowpedia/images/1/11/Jaina_HotS_Theramore.jpg/revision/latest?cb=20171219101003)
+    
+    Theramore Jaina.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Jaina_HotS_Winter_Veil.jpg/revision/latest/scale-to-width-down/97?cb=20160112225745)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Jaina_HotS_Winter_Veil.jpg/revision/latest?cb=20160112225745)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Grand_Admiral_Jaina_Portrait_HotS.png/revision/latest?cb=20210331212605)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Grand_Admiral_Jaina_Portrait_HotS.png/revision/latest?cb=20210331212605)
+    
+    Grand Admiral Jaina portrait.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Good_Witch_Jaina_Portrait_HotS.png/revision/latest?cb=20210331212630)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Good_Witch_Jaina_Portrait_HotS.png/revision/latest?cb=20210331212630)
+    
+    Good Witch Jaina portrait.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Jaina_HotS_promo.jpg/revision/latest/scale-to-width-down/327?cb=20210528172447)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Jaina_HotS_promo.jpg/revision/latest?cb=20210528172447)
+    
+    On a piece of promotional art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a1/HotS_Dreadlord_Jaina_in_promo_art.jpg/revision/latest/scale-to-width-down/149?cb=20210528195157)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/HotS_Dreadlord_Jaina_in_promo_art.jpg/revision/latest?cb=20210528195157)
+    
+    On a piece of promotional art.
+    
+
+Other
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/08/Jaina_Proudmoore_BlizzCon_2017.jpg/revision/latest/scale-to-width-down/81?cb=20180502193255)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Jaina_Proudmoore_BlizzCon_2017.jpg/revision/latest?cb=20180502193255)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Jaina_Statue.png/revision/latest/scale-to-width-down/77?cb=20190328215749)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Jaina_Statue.png/revision/latest?cb=20190328215749)
+    
+    Jaina Premium Statue.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Clash_of_Champions_art.jpg/revision/latest/scale-to-width-down/120?cb=20210403003721)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Clash_of_Champions_art.jpg/revision/latest?cb=20210403003721)
+    
+    Art of a canceled product called _Clash of Champions_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Wrath_of_the_Lich_King_-_A_Pandemic_System_Board_Game_Key_art.jpg/revision/latest/scale-to-width-down/120?cb=20210801174116)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Wrath_of_the_Lich_King_-_A_Pandemic_System_Board_Game_Key_art.jpg/revision/latest?cb=20210801174116)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Statue_Jaina_Pose.png/revision/latest/scale-to-width-down/120?cb=20220604054237)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Statue_Jaina_Pose.png/revision/latest?cb=20220604054237)
+    
+
+### Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Fanart_Ulduar_Patch.jpeg/revision/latest/scale-to-width-down/86?cb=20111128135055)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Fanart_Ulduar_Patch.jpeg/revision/latest?cb=20111128135055)
+    
+    Fanart of Jaina at an imagined [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") council.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/End_of_Sorrow_by_Xuezhi_Wang.jpg/revision/latest/scale-to-width-down/93?cb=20160531123050)](https://static.wikia.nocookie.net/wowpedia/images/4/47/End_of_Sorrow_by_Xuezhi_Wang.jpg/revision/latest?cb=20160531123050)
+    
+    End of Sorrow by Xuezhi Wang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Jaina_fan_art.jpg/revision/latest/scale-to-width-down/120?cb=20160627110113)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Jaina_fan_art.jpg/revision/latest?cb=20160627110113)
+    
+    Fan art of Jaina as she prepares to destroy [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Fanart_-_Jaina_Proudmoore_by_Jessica_Oyhenart.jpg/revision/latest/scale-to-width-down/93?cb=20180526132223)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Fanart_-_Jaina_Proudmoore_by_Jessica_Oyhenart.jpg/revision/latest?cb=20180526132223)
+    
+    Jaina by Jessica Oyhenart.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Jaina_fan_art_by_Zheng_Qu.jpg/revision/latest/scale-to-width-down/67?cb=20180724005558)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Jaina_fan_art_by_Zheng_Qu.jpg/revision/latest?cb=20180724005558)
+    
+    Thoughts of the Past by Zheng Qu.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Jaina_Proudmoore_by_Nataliya_Barteneva.jpg/revision/latest/scale-to-width-down/89?cb=20181111021856)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Jaina_Proudmoore_by_Nataliya_Barteneva.jpg/revision/latest?cb=20181111021856)
+    
+    Jaina Proudmoore by Nataliya Barteneva.
+    
+
+## Videos
+
+-   [Jaina's Meeting](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [The Prince and the Prophet](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Divergent Courses](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [The Last Guardian](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Jaina hears of an Old God awaking and tells Thrall](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Jaina tells Anduin about the past](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Seeking Fate](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Hidden Threads](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Hellscream's Downfall (Alliance)](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Warbringers: Jaina](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Battle for Lordaeron: Turn the Tide](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Lordaeron Throne Room Confrontation - Alliance](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Vision of Sailor's Memory](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Jaina's Nightmare](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Arrival to Kul Tiras](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Realm of Torment / Jaina's vision](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [The Return of Hope: Kul Tiras](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Intro to Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Rastakhan's Death Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [An Unexpected Reunion](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Crossroads](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Azshara's Eternal Palace - Raid Finale Cinematic](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [The Negotiation](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Dark Abduction](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Sanctuary of Domination Raid Finale](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Shattered Legacies](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Anduin Raid Finale](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Judgment Part 1](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+-   [Judgment Part 2](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#)
+
+## Patch changes
+
+## See also
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-1) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide,_Updated_and_Expanded "World of Warcraft: Ultimate Visual Guide, Updated and Expanded")_
+2.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-DotS_2-0) [Daughter of the Sea](https://wowpedia.fandom.com/wiki/Daughter_of_the_Sea "Daughter of the Sea")
+3.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-3) [The Characters of Warcraft/Jaina Proudmoore](https://wowpedia.fandom.com/wiki/The_Characters_of_Warcraft/Jaina_Proudmoore "The Characters of Warcraft/Jaina Proudmoore")
+4.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-4) [Wowhead](http://www.wowhead.com/npc=70370/lady-jaina-proudmoore)
+5.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-5) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Schools_of_Arcane_Magic_-_Transmutation_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Schools_of_Arcane_Magic_-_Transmutation_6-1">b</a></sup> [The Schools of Arcane Magic - Transmutation](https://wowpedia.fandom.com/wiki/The_Schools_of_Arcane_Magic_-_Transmutation "The Schools of Arcane Magic - Transmutation")
+7.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-7) "[The Invasion of Kalimdor](https://wowpedia.fandom.com/wiki/The_Invasion_of_Kalimdor "The Invasion of Kalimdor"): [The Oracle](https://wowpedia.fandom.com/wiki/The_Oracle_(WC3_Orc) "The Oracle (WC3 Orc)")", _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+8.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-8) "[Eternity's End](https://wowpedia.fandom.com/wiki/Eternity%27s_End_(WC3_campaign) "Eternity's End (WC3 campaign)"): [The Last Guardian (interlude)](https://wowpedia.fandom.com/wiki/The_Last_Guardian_(interlude) "The Last Guardian (interlude)")", _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+9.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-9) "[The Scourge of Lordaeron](https://wowpedia.fandom.com/wiki/The_Scourge_of_Lordaeron "The Scourge of Lordaeron"): [Ravages of the Plague](https://wowpedia.fandom.com/wiki/Ravages_of_the_Plague "Ravages of the Plague")", _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+10.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-10) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, pg. 49
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-WoWmanual_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-WoWmanual_11-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-WoWmanual_11-2">c</a></sup> [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_, 170. 
+12.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-12) [Lissah Spellwick](https://wowpedia.fandom.com/wiki/Lissah_Spellwick "Lissah Spellwick") gossip text - "I consider it a great honor to assist the Lady Proudmoore in her research. She's the most powerful human mage upon Azeroth, you know!"
+13.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-ToW_13-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-ToW_13-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-ToW_13-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-ToW_13-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-ToW_13-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-ToW_13-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-ToW_13-6">g</a></sup> [Christie Golden](https://wowpedia.fandom.com/wiki/Christie_Golden "Christie Golden"). _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_. 
+14.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-14) [Loreology on Twitter](https://twitter.com/Loreology/status/464466334265671680) (2014-05-08)
+15.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-15) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, chapter 3, pg. 35 (paperback edition)
+16.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-16) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 40
+17.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-17) [Thros, the Blighted Lands (quest)#Stage 2: Chasing Shadows](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands_(quest)#Stage_2:_Chasing_Shadows "Thros, the Blighted Lands (quest)")
+18.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-18) [Jaina Proudmoore#Boralus patch 8.1 dialogue](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#Boralus_patch_8.1_dialogue "Jaina Proudmoore")
+19.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Cycle_of_Hatred_123_19-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Cycle_of_Hatred_123_19-1">b</a></sup> _[Cycle of Hatred](https://wowpedia.fandom.com/wiki/Cycle_of_Hatred "Cycle of Hatred")_, pg. 123
+20.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-20)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50-70\] [Blessing of the Tides](https://wowpedia.fandom.com/wiki/Blessing_of_the_Tides)
+21.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-21)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Mischief Managed](https://wowpedia.fandom.com/wiki/Mischief_Managed)
+22.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-22) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter ??
+23.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Reunion_23-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Reunion_23-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Reunion_23-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Reunion_23-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Reunion_23-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Reunion_23-5">f</a></sup> _[Jaina: Reunion](https://wowpedia.fandom.com/wiki/Jaina:_Reunion "Jaina: Reunion")_
+24.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-24) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 3, pg. 45 (paperback edition)
+25.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-6">g</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-7">h</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-8">i</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-RotLK_25-9">j</a></sup> _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_
+26.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-26) _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ manual, _[Human History](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual#A_New_Generation "Warcraft III: Reign of Chaos Game Manual")_, A New Generation
+27.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-27) _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ manual, _[Heroes and Villains](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual#Jaina_Proudmoore "Warcraft III: Reign of Chaos Game Manual")_, Jaina Proudmoore
+28.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-28) [The Warcraft Encyclopedia: Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Kael%27thas_Sunstrider "The Warcraft Encyclopedia/Kael'thas Sunstrider")
+29.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-29) _[Road to Damnation](https://wowpedia.fandom.com/wiki/Road_to_Damnation "Road to Damnation")_
+30.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Chronicles_112_30-0) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 112
+31.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-31)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[38\] [The Missing Diplomat](https://wowpedia.fandom.com/wiki/The_Missing_Diplomat_(17))
+32.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-32)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-30\] [Survey Alcaz Island](https://wowpedia.fandom.com/wiki/Survey_Alcaz_Island)
+33.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-33)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[37\] [Warn Bolvar!](https://wowpedia.fandom.com/wiki/Warn_Bolvar!)
+34.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-34)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-30\] [Proof of Treachery](https://wowpedia.fandom.com/wiki/Proof_of_Treachery)
+35.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-35) _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 6: _[Blood](https://wowpedia.fandom.com/wiki/Blood_(comic) "Blood (comic)")_
+36.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Revelations_36-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Revelations_36-1">b</a></sup> _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 7: _[Revelations](https://wowpedia.fandom.com/wiki/Revelations_(comic) "Revelations (comic)")_
+37.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-37) _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 13: _[Flashback](https://wowpedia.fandom.com/wiki/Flashback "Flashback")_
+38.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-38) _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 14: _[Into the Jaws of Death!](https://wowpedia.fandom.com/wiki/Into_the_Jaws_of_Death! "Into the Jaws of Death!")_
+39.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-39) _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 15: _[Conflicting Loyalties](https://wowpedia.fandom.com/wiki/Conflicting_Loyalties "Conflicting Loyalties")_
+40.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Threat_40-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Threat_40-1">b</a></sup> _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 16: _[Threat!](https://wowpedia.fandom.com/wiki/Threat! "Threat!")_
+41.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Showdown_41-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Showdown_41-1">b</a></sup> _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 18: _[Showdown!](https://wowpedia.fandom.com/wiki/Showdown! "Showdown!")_
+42.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-42) _[World of Warcraft: The Comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Comic "World of Warcraft: The Comic")_, Issue 17: _[Gathering Thunder!](https://wowpedia.fandom.com/wiki/Gathering_Thunder! "Gathering Thunder!")_
+43.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-43) _[The Comic Volume 4](https://wowpedia.fandom.com/wiki/The_Comic_Volume_4 "The Comic Volume 4")_
+44.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-44) _[Rise of the Horde](https://wowpedia.fandom.com/wiki/Rise_of_the_Horde "Rise of the Horde")_
+45.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Secrets_of_Ulduar_trailer_45-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Secrets_of_Ulduar_trailer_45-1">b</a></sup> [Secrets of Ulduar trailer](https://wowpedia.fandom.com/wiki/Secrets_of_Ulduar_trailer "Secrets of Ulduar trailer")
+46.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-46)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[25-30D\] [Echoes of Tortured Souls](https://wowpedia.fandom.com/wiki/Echoes_of_Tortured_Souls_(Alliance))
+47.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Nightmares_47-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Nightmares_47-1">b</a></sup> _[Warcraft: Legends Volume 5](https://wowpedia.fandom.com/wiki/Warcraft:_Legends_Volume_5 "Warcraft: Legends Volume 5")_, _[Nightmares](https://wowpedia.fandom.com/wiki/Nightmares "Nightmares")_
+48.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-48) [http://www.scrollsoflore.com/forums/showthread.php?t=21125](http://www.scrollsoflore.com/forums/showthread.php?t=21125)
+49.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-49) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, pg. 38
+50.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-50) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, pg 171. "Jaina took a moment to be grateful to the Light—and to \[...\][A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal")\[...\]—for the collective wisdom of these battle-hardened men and women."
+51.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-51)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Heart Of The Alliance](https://wowpedia.fandom.com/wiki/Heart_Of_The_Alliance)
+52.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-52)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [The Kirin Tor](https://wowpedia.fandom.com/wiki/The_Kirin_Tor_(quest))
+53.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Fate_of_Dalaran_53-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Fate_of_Dalaran_53-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [The Fate of Dalaran](https://wowpedia.fandom.com/wiki/The_Fate_of_Dalaran)
+54.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-54)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-35\] [Insertion](https://wowpedia.fandom.com/wiki/Insertion)
+55.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-55)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-35\] [The Darnassus Mission](https://wowpedia.fandom.com/wiki/The_Darnassus_Mission)
+56.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-56)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Darnassus Attacked?](https://wowpedia.fandom.com/wiki/Darnassus_Attacked%3F)
+57.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Tracking_the_Thieves_57-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Tracking_the_Thieves_57-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Tracking the Thieves](https://wowpedia.fandom.com/wiki/Tracking_the_Thieves)
+58.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Jaina's_Resolution_58-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Jaina's_Resolution_58-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Jaina's Resolution](https://wowpedia.fandom.com/wiki/Jaina%27s_Resolution)
+59.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-59)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Nowhere to Run](https://wowpedia.fandom.com/wiki/Nowhere_to_Run_(Dalaran))
+60.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-What_Had_To_Be_Done_60-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-What_Had_To_Be_Done_60-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [What Had To Be Done](https://wowpedia.fandom.com/wiki/What_Had_To_Be_Done)
+61.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-61)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [The Silence](https://wowpedia.fandom.com/wiki/The_Silence)
+62.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-62) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_
+63.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-63)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[35\] [The Storm Gathers](https://wowpedia.fandom.com/wiki/The_Storm_Gathers_(Alliance))
+64.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-64)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[35\] [Allies in the Shadows](https://wowpedia.fandom.com/wiki/Allies_in_the_Shadows_(Alliance))
+65.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Fall_of_Shan_Bu_65-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Fall_of_Shan_Bu_65-1">b</a></sup>  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[35\] [The Fall of Shan Bu](https://wowpedia.fandom.com/wiki/The_Fall_of_Shan_Bu)
+66.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Securing_A_Future_66-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Securing_A_Future_66-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[35R\] [Securing A Future](https://wowpedia.fandom.com/wiki/Securing_A_Future)
+67.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-67)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-45\] [The Fallen Lion](https://wowpedia.fandom.com/wiki/The_Fallen_Lion)
+68.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Calling_of_the_Council_68-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Calling_of_the_Council_68-1">b</a></sup>  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-45\] [Calling of the Council](https://wowpedia.fandom.com/wiki/Calling_of_the_Council)
+69.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-69) [Loreology on Twitter](https://twitter.com/Loreology/status/443799898131935232) (2014-03-14)
+70.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-70) [Warbringers: Jaina](https://wowpedia.fandom.com/wiki/Warbringers:_Jaina "Warbringers: Jaina")
+71.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Battle_for_Lordaeron_(Alliance)_71-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Battle_for_Lordaeron_(Alliance)_71-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron_(Alliance))
+72.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Tides_of_War_(quest)_73-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Tides_of_War_(quest)_73-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [Tides of War](https://wowpedia.fandom.com/wiki/Tides_of_War_(quest))
+73.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-74)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [The Nation of Kul Tiras](https://wowpedia.fandom.com/wiki/The_Nation_of_Kul_Tiras)
+74.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-75)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [Daughter of the Sea](https://wowpedia.fandom.com/wiki/Daughter_of_the_Sea_(quest))
+75.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-76)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Fate's End](https://wowpedia.fandom.com/wiki/Fate%27s_End_(quest))
+76.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Thros,_the_Blighted_Lands_77-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Thros,_the_Blighted_Lands_77-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Thros, the Blighted Lands](https://wowpedia.fandom.com/wiki/Thros,_the_Blighted_Lands_(quest))
+77.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Siege_of_Boralus:_Lady_Ashvane's_Return_78-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Siege_of_Boralus:_Lady_Ashvane's_Return_78-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50D\] [Siege of Boralus: Lady Ashvane's Return](https://wowpedia.fandom.com/wiki/Siege_of_Boralus:_Lady_Ashvane%27s_Return)
+78.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-A_Nation_United_(quest)_79-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-A_Nation_United_(quest)_79-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [A Nation United](https://wowpedia.fandom.com/wiki/A_Nation_United_(quest))
+79.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-80)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [The Calm Before](https://wowpedia.fandom.com/wiki/The_Calm_Before)
+80.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-81)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [To Anglepoint](https://wowpedia.fandom.com/wiki/To_Anglepoint)
+81.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-82)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Repel the Horde!](https://wowpedia.fandom.com/wiki/Repel_the_Horde!)
+82.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-83)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Besieged Allies](https://wowpedia.fandom.com/wiki/Besieged_Allies)
+83.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-84)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Stopping the Sappers](https://wowpedia.fandom.com/wiki/Stopping_the_Sappers)
+84.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-85)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Express Delivery](https://wowpedia.fandom.com/wiki/Express_Delivery)
+85.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-86)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [The Abyssal Scepter](https://wowpedia.fandom.com/wiki/The_Abyssal_Scepter)
+86.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-87)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [The Treasury Heist](https://wowpedia.fandom.com/wiki/The_Treasury_Heist)
+87.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-88)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Repurposing Their Village](https://wowpedia.fandom.com/wiki/Repurposing_Their_Village)
+88.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-89)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Lurking in the Swamp](https://wowpedia.fandom.com/wiki/Lurking_in_the_Swamp)
+89.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-90)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Taking the Blood Gate](https://wowpedia.fandom.com/wiki/Taking_the_Blood_Gate)
+90.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-91)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [He Who Walks in the Light](https://wowpedia.fandom.com/wiki/He_Who_Walks_in_the_Light)
+91.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Lady_Jaina_Proudmoore_(tactics)_92-3">d</a></sup> [Lady Jaina Proudmoore (tactics)](https://wowpedia.fandom.com/wiki/Lady_Jaina_Proudmoore_(tactics) "Lady Jaina Proudmoore (tactics)")
+92.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-deadreckoning_93-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-deadreckoning_93-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-deadreckoning_93-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-deadreckoning_93-3">d</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Dead Reckoning](https://wowpedia.fandom.com/wiki/Dead_Reckoning)
+93.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-94) [Don't Shoot the Messenger#Notes](https://wowpedia.fandom.com/wiki/Don%27t_Shoot_the_Messenger#Notes "Don't Shoot the Messenger")
+94.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-95) [Battle for Azeroth in-game cinematics](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth_in-game_cinematics "Battle for Azeroth in-game cinematics"): [An Unexpected Reunion](https://www.youtube.com/watch?v=2wREeahXw1Q)
+95.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-96) [My Brother's Keeper#Notes](https://wowpedia.fandom.com/wiki/My_Brother%27s_Keeper#Notes "My Brother's Keeper")
+96.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-97)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50-70\] [Made in Kul Tiras](https://wowpedia.fandom.com/wiki/Made_in_Kul_Tiras)
+97.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-98)  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Inv_misc_scrollrolled03b.png/revision/latest/scale-to-width-down/16?cb=20170320204527)[\[Letter from the Lord Admiral\]](https://wowpedia.fandom.com/wiki/Letter_from_the_Lord_Admiral)
+98.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-99)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50-70\] [A Worthy Crew](https://wowpedia.fandom.com/wiki/A_Worthy_Crew)
+99.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-100)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50-70\] [Blessing of the Tides](https://wowpedia.fandom.com/wiki/Blessing_of_the_Tides)
+100.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-101)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50-70\] [Allegiance of Kul Tiras](https://wowpedia.fandom.com/wiki/Allegiance_of_Kul_Tiras)
+101.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-102)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [The Wolf's Offensive](https://wowpedia.fandom.com/wiki/The_Wolf%27s_Offensive)
+102.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-103)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Send the Fleet](https://wowpedia.fandom.com/wiki/Send_the_Fleet_(Alliance))
+103.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-104) [Battle for Azeroth in-game cinematics](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth_in-game_cinematics "Battle for Azeroth in-game cinematics"): [Rise of Azshara Now Live – Cinematic (Alliance)](https://www.youtube.com/watch?v=SszpZF8KCN8)
+104.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-105)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Upheaval](https://wowpedia.fandom.com/wiki/Upheaval_(Alliance))
+105.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-106)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Up Against It](https://wowpedia.fandom.com/wiki/Up_Against_It_(Alliance))
+106.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-107)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Where the Road Leads](https://wowpedia.fandom.com/wiki/Where_the_Road_Leads)
+107.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-108)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [A Way Home](https://wowpedia.fandom.com/wiki/A_Way_Home_(Alliance))
+108.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-109)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Scouting the Palace](https://wowpedia.fandom.com/wiki/Scouting_the_Palace_(Alliance))
+109.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-110)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [A Brief Respite](https://wowpedia.fandom.com/wiki/A_Brief_Respite)
+110.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-111)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Insight into Our Enemies](https://wowpedia.fandom.com/wiki/Insight_into_Our_Enemies_(Alliance))
+111.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-112)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Deteriorating Knowledge](https://wowpedia.fandom.com/wiki/Deteriorating_Knowledge_(Alliance))
+112.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-113)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Stealing the Naga's Secrets](https://wowpedia.fandom.com/wiki/Stealing_the_Naga%27s_Secrets_(Alliance))
+113.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-114)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Clearing Out the Cache](https://wowpedia.fandom.com/wiki/Clearing_Out_the_Cache_(Alliance))
+114.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-115)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Friends In Need](https://wowpedia.fandom.com/wiki/Friends_In_Need)
+115.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-116)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Payment in Kind](https://wowpedia.fandom.com/wiki/Payment_in_Kind)
+116.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Stay_of_Execution_117-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Stay_of_Execution_117-1">b</a></sup>  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Stay of Execution](https://wowpedia.fandom.com/wiki/Stay_of_Execution)
+117.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-118) [Battle for Azeroth in-game cinematics](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth_in-game_cinematics "Battle for Azeroth in-game cinematics"): [Crossroads](https://www.youtube.com/watch?v=LEV0jmGFRPk)
+118.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-119)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [A Bolt Hole](https://wowpedia.fandom.com/wiki/A_Bolt_Hole)
+119.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-120)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [The Spear of Destiny](https://wowpedia.fandom.com/wiki/The_Spear_of_Destiny)
+120.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-121)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Changing Tides](https://wowpedia.fandom.com/wiki/Changing_Tides)
+121.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-122)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50R\] [The Eternal Palace: Queen's Gambit](https://wowpedia.fandom.com/wiki/The_Eternal_Palace:_Queen%27s_Gambit_(Alliance))
+122.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-123) [Battle for Azeroth in-game cinematics](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth_in-game_cinematics "Battle for Azeroth in-game cinematics"): [The Negotiation](https://www.youtube.com/watch?v=2DjwOglqONg)
+123.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-124)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Strategic Deployment](https://wowpedia.fandom.com/wiki/Strategic_Deployment)
+124.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-125) [Reckoning](https://wowpedia.fandom.com/wiki/Reckoning "Reckoning")
+125.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-126)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [The Price of Victory](https://wowpedia.fandom.com/wiki/The_Price_of_Victory)
+126.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Old_Soldier_(Alliance)_127-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Old_Soldier_(Alliance)_127-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [Old Soldier](https://wowpedia.fandom.com/wiki/Old_Soldier_(Alliance))
+127.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-And_Following_Seas_128-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-And_Following_Seas_128-1">b</a></sup>  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [...And Following Seas](https://wowpedia.fandom.com/wiki/...And_Following_Seas)
+128.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-129)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [Sense of Obligation](https://wowpedia.fandom.com/wiki/Sense_of_Obligation)
+129.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-130)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [A Gathering of Champions](https://wowpedia.fandom.com/wiki/A_Gathering_of_Champions_(Alliance))
+130.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-131)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [The Price of Peace](https://wowpedia.fandom.com/wiki/The_Price_of_Peace)
+131.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-132) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_
+132.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-133)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Cause for Distraction](https://wowpedia.fandom.com/wiki/Cause_for_Distraction)
+133.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-134)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [On Blackened Wings](https://wowpedia.fandom.com/wiki/On_Blackened_Wings)
+134.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-135)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [A Flight from Darkness](https://wowpedia.fandom.com/wiki/A_Flight_from_Darkness)
+135.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-136)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [The Lion's Cage](https://wowpedia.fandom.com/wiki/The_Lion%27s_Cage)
+136.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-137)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [The Afflictor's Key](https://wowpedia.fandom.com/wiki/The_Afflictor%27s_Key)
+137.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-138)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [An Undeserved Fate](https://wowpedia.fandom.com/wiki/An_Undeserved_Fate)
+138.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-139)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [From the Mouths of Madness](https://wowpedia.fandom.com/wiki/From_the_Mouths_of_Madness)
+139.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-140)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [By and Down the River](https://wowpedia.fandom.com/wiki/By_and_Down_the_River)
+140.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-141)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [By and Down the River](https://wowpedia.fandom.com/wiki/By_and_Down_the_River)
+141.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-142)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Wounds Beyond Flesh](https://wowpedia.fandom.com/wiki/Wounds_Beyond_Flesh)
+142.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-143)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [A Good Axe](https://wowpedia.fandom.com/wiki/A_Good_Axe)
+143.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-144)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [The Path to Salvation](https://wowpedia.fandom.com/wiki/The_Path_to_Salvation)
+144.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-145)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Stand as One](https://wowpedia.fandom.com/wiki/Stand_as_One)
+145.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-146)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Torment Chamber: Jaina](https://wowpedia.fandom.com/wiki/Torment_Chamber:_Jaina)
+146.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-147)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Torment Chamber: Thrall](https://wowpedia.fandom.com/wiki/Torment_Chamber:_Thrall)
+147.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-148)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Signs of the Lion](https://wowpedia.fandom.com/wiki/Signs_of_the_Lion)
+148.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-149)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Captive King](https://wowpedia.fandom.com/wiki/The_Captive_King)
+149.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-150)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [An Echo in the Darkness](https://wowpedia.fandom.com/wiki/An_Echo_in_the_Darkness)
+150.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-151)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Highlord's Vision](https://wowpedia.fandom.com/wiki/The_Highlord%27s_Vision)
+151.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-152)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Mourneblade Born](https://wowpedia.fandom.com/wiki/A_Mourneblade_Born)
+152.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-153)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Jailer's Grasp](https://wowpedia.fandom.com/wiki/The_Jailer%27s_Grasp)
+153.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-154)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Battle of Ardenweald](https://wowpedia.fandom.com/wiki/The_Battle_of_Ardenweald)
+154.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-155)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Heart of Ardenweald](https://wowpedia.fandom.com/wiki/The_Heart_of_Ardenweald)
+155.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-156) [Sylvanas Windrunner (tactics)#Cinematic](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner_(tactics)#Cinematic "Sylvanas Windrunner (tactics)")
+156.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-157)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Doorway in the Dark](https://wowpedia.fandom.com/wiki/Doorway_in_the_Dark)
+157.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-158)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [A Symbol of Hope](https://wowpedia.fandom.com/wiki/A_Symbol_of_Hope)
+158.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-159)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Covenants Renewed](https://wowpedia.fandom.com/wiki/Covenants_Renewed)
+159.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-160)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [This Old Waystone](https://wowpedia.fandom.com/wiki/This_Old_Waystone)
+160.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-161)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Forces Gather](https://wowpedia.fandom.com/wiki/The_Forces_Gather)
+161.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-162)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Doppelganger Duel](https://wowpedia.fandom.com/wiki/Doppelganger_Duel)
+162.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-163)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Fighting for the Forge](https://wowpedia.fandom.com/wiki/Fighting_for_the_Forge)
+163.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-164)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Seeking Haven](https://wowpedia.fandom.com/wiki/Seeking_Haven)
+164.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-165)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [News from Oribos](https://wowpedia.fandom.com/wiki/News_from_Oribos)
+165.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-News_from_Oribos_166-0)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [News from Oribos](https://wowpedia.fandom.com/wiki/News_from_Oribos)
+166.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-167)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Enlisting the Enlightened](https://wowpedia.fandom.com/wiki/Enlisting_the_Enlightened)
+167.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-168)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Pilgrimage Ends](https://wowpedia.fandom.com/wiki/The_Pilgrimage_Ends)
+168.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-169)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Broken Crown](https://wowpedia.fandom.com/wiki/The_Broken_Crown)
+169.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-170)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Hello, Darkness](https://wowpedia.fandom.com/wiki/Hello,_Darkness)
+170.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-171)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Our Last Option](https://wowpedia.fandom.com/wiki/Our_Last_Option)
+171.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-172)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Aggressive Excavation](https://wowpedia.fandom.com/wiki/Aggressive_Excavation)
+172.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-173)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Where the Memory Resides](https://wowpedia.fandom.com/wiki/Where_the_Memory_Resides)
+173.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-174)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [What We Wish to Forget](https://wowpedia.fandom.com/wiki/What_We_Wish_to_Forget)
+174.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-175)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [What Makes Us Strong](https://wowpedia.fandom.com/wiki/What_Makes_Us_Strong_(quest))
+175.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-176)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [What We Overcome](https://wowpedia.fandom.com/wiki/What_We_Overcome)
+176.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-177)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Forge of Domination](https://wowpedia.fandom.com/wiki/Forge_of_Domination_(quest))
+177.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-178)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Crown of Wills](https://wowpedia.fandom.com/wiki/The_Crown_of_Wills)
+178.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-179)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Fate of Sylvanas](https://wowpedia.fandom.com/wiki/The_Fate_of_Sylvanas)
+179.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-180)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Penance and Renewal](https://wowpedia.fandom.com/wiki/Penance_and_Renewal)
+180.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-181) _[The Vow Eternal](https://wowpedia.fandom.com/wiki/The_Vow_Eternal "The Vow Eternal")_
+181.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-182) [Lissah Spellwick](https://wowpedia.fandom.com/wiki/Lissah_Spellwick "Lissah Spellwick") gossip text - "I consider it a great honor to assist the Lady Proudmoore in her research. She's the most powerful human mage upon Azeroth, you know!"
+182.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-183)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[74\] [Herald of War](https://wowpedia.fandom.com/wiki/Herald_of_War)
+183.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-184)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[74\] [The Battle For The Undercity](https://wowpedia.fandom.com/wiki/The_Battle_For_The_Undercity)
+184.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-185)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Spell_frost_summonwaterelemental_2.png/revision/latest/scale-to-width-down/16?cb=20070113165247)[\[Glacial Tidestorm\]](https://wowpedia.fandom.com/wiki/Glacial_Tidestorm)
+185.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-186) [Theramore's Fall](https://wowpedia.fandom.com/wiki/Theramore%27s_Fall "Theramore's Fall")
+186.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-187)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-45\] [The Battle for Broken Shore](https://wowpedia.fandom.com/wiki/The_Battle_for_Broken_Shore_(quest))
+187.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-188) _[Repercussions](https://wowpedia.fandom.com/wiki/Repercussions "Repercussions")_
+188.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-189)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30D\] [Wrath of the Lich King](https://wowpedia.fandom.com/wiki/Wrath_of_the_Lich_King_(quest))
+189.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-190)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30\] [Jaina's Locket](https://wowpedia.fandom.com/wiki/Jaina%27s_Locket_(quest))
+190.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Touch_of_the_Kirin-Tor_191-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Touch_of_the_Kirin-Tor_191-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[100\] [Touch of the Kirin-Tor](https://wowpedia.fandom.com/wiki/Touch_of_the_Kirin-Tor)
+191.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-192) _[Flashback](https://wowpedia.fandom.com/wiki/Flashback "Flashback")_
+192.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-193) _[The Winds of War](https://wowpedia.fandom.com/wiki/The_Winds_of_War "The Winds of War")_
+193.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-194)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron)
+194.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-War_Crimes_195-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-War_Crimes_195-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-War_Crimes_195-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-War_Crimes_195-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-War_Crimes_195-4">e</a></sup> _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_
+195.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-196)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[60\] [The Price of Victory](https://wowpedia.fandom.com/wiki/The_Price_of_Victory_(Alliance))
+196.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Cycle_of_Hatred_ch.3_197-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Cycle_of_Hatred_ch.3_197-1">b</a></sup> _[Cycle of Hatred](https://wowpedia.fandom.com/wiki/Cycle_of_Hatred "Cycle of Hatred")_, chapter 3
+197.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-198) [The Oracle](https://wowpedia.fandom.com/wiki/The_Oracle_(WC3_Orc) "The Oracle (WC3 Orc)")
+198.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-199) [The Founding of Durotar](https://wowpedia.fandom.com/wiki/The_Founding_of_Durotar "The Founding of Durotar")
+199.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Shattering_200-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-The_Shattering_200-1">b</a></sup> _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_
+200.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-201) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_ ebook, pg. 312 - "I will use them to aid the Alliance. To protect my people. I will not obliterate an entire city, for I am not Garrosh. I will not slaughter unarmed civilians, for I am not Arthas. I am my own master."
+201.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-202) 2017-11-16, [BlizzCon 2017 World of Warcraft Q&A Panel Transcript](http://warcraft.blizzplanet.com/blog/comments/blizzcon-2017-world-warcraft-qa-panel-transcript/2). _Blizzplanet_, retrieved on 2017-11-19
+202.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-203) 2017-11-05, [THE POWERFUL WOMEN OF WARCRAFT VOICE ACTOR PANEL](http://warcraft.blizzpro.com/2017/11/04/the-powerful-women-of-warcraft-voice-actor-panel/). _Blizzpro_, retrieved on 2017-11-19
+203.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-204) [WoW Insider interviews author Christie Golden](http://wow.joystiq.com/2012/08/21/wow-insider-interviews-author-christie-golden/)
+204.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Before_the_Storm_205-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-Before_the_Storm_205-1">b</a></sup> _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_
+205.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-206) [Garrosh Hellscream (tactics)](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream_(tactics) "Garrosh Hellscream (tactics)")
+206.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-207)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50R\] [The Eternal Palace: Queen's Gambit](https://wowpedia.fandom.com/wiki/The_Eternal_Palace:_Queen%27s_Gambit)
+207.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-208)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Before the Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Before_the_Gates_of_Orgrimmar)
+208.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-209)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[50\] [Sail With the Tide](https://wowpedia.fandom.com/wiki/Sail_With_the_Tide)
+209.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-210) [Alex Afrasiabi on Twitter](https://twitter.com/Alex_Afrasiabi/status/927355150817116160)
+210.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-211) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_, chapter 1
+211.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-212) _[Jaina: Reunion](https://wowpedia.fandom.com/wiki/Jaina:_Reunion "Jaina: Reunion")_, pg. 3
+212.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-213) _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 63
+213.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-214) _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 55
+214.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-215) _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 55
+215.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-216) _[Warcraft: The Roleplaying Game](https://wowpedia.fandom.com/wiki/Warcraft:_The_Roleplaying_Game "Warcraft: The Roleplaying Game")_
+216.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-S&L48_217-0) Arthaus. _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, 48. [ISBN 9781588469731](https://wowpedia.fandom.com/wiki/Special:BookSources/9781588469731). 
+217.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-S&amp;L49_218-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-S&amp;L49_218-1">b</a></sup> Arthaus. _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, 49. [ISBN 9781588469731](https://wowpedia.fandom.com/wiki/Special:BookSources/9781588469731). 
+218.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-219)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-50\] [The Nation of Kul Tiras](https://wowpedia.fandom.com/wiki/The_Nation_of_Kul_Tiras)
+219.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-220) [Spell](http://www.wowhead.com/spell=186166/item-mage-t18-arcane-2p-bonus)
+220.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-221) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, pg. 232
+221.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-222) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 92
+222.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-223) [Video Games: Jaina Proudmoore](https://www.laurabaileyvo.com/video-games)
+223.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-224) [Pretzel Lectern: Behind WarCraft III: An Interview with Campaign Designer David Fried](http://pretzel-lectern.blogspot.se/2016/05/behind-warcraft-iii-interview-with.html) (2016-05-25). Retrieved on 2016-06-24.
+224.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-225) _[World of Warcraft: The Official Cookbook](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Official_Cookbook "World of Warcraft: The Official Cookbook")_, pg. ??
+225.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-226) [BlizzCon 2015 Q&A](http://www.mmo-champion.com/content/5259-World-of-Warcraft-Q-A) (2015-11-07): "Jaina is not a Dreadlord."
+226.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-227) [https://www.youtube.com/watch?v=hhTTY4-5E1s&t=3543](https://www.youtube.com/watch?v=hhTTY4-5E1s&t=3543)
+227.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-228) Medievaldragon 2017-08-22. [Gamescom 2017 World of Warcraft: Legion Patch 7.3 Interview - Page 2 - BlizzPlanet](http://warcraft.blizzplanet.com/blog/comments/gamescom-2017-world-warcraft-legion-patch-7-3-interview/2). Retrieved on 2017-09-01. “_Jaina is not a dreadlord. Heroes of the Storm, much like Hearthstone in many ways, is not canon when it comes to the lore of World of Warcraft. I know. Our good friend, Jessie Cox, is a source of great and enduring meme\*\*, and paying a homage to memes is a wonderful thing to do with skins, especially in other games, but maybe we will hear more from Jaina in the future, but she is not a dreadlord._”
+228.  [^](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore#cite_ref-229) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_
+
+## External links
+
+| Jaina Proudmoore | Generic names |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/search?q=Jaina#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Jaina#t1:npcs)
+
+ | 
+
+|  |
+| --- |
+| 
+-   [Wowhead](https://www.wowhead.com/npc=155491)
+-   [WoWDB](https://www.wowdb.com/npcs/155491)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=167826)
+-   [WoWDB](https://www.wowdb.com/npcs/167826)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=172115)
+-   [WoWDB](https://www.wowdb.com/npcs/172115)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=172114)
+-   [WoWDB](https://www.wowdb.com/npcs/172114)
+
+ |
+
+ |
+
+<table><tbody><tr><td>Preceded by:<br><i><b>None,<br>Theramore founded</b></i></td><td><b>Position:</b><br><b><a href="https://wowpedia.fandom.com/wiki/Theramore" title="Theramore">Ruler of Theramore</a></b></td><td>Succeeded by:<br><i><b>None,<br>Theramore destroyed</b></i></td></tr></tbody></table>
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance "Template:Grand Alliance")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance?action=edit)
+
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") | 
+
+-   [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn")
+
+
+
+ |
+|  |
+| Lord Commander | 
+
+-   [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon")
+
+
+
+ |
+|  |
+| Leaders | 
+
+-   [Council of Three Hammers](https://wowpedia.fandom.com/wiki/Council_of_Three_Hammers "Council of Three Hammers")
+    -   [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") ([Yorg Stormheart](https://wowpedia.fandom.com/wiki/Yorg_Stormheart "Yorg Stormheart"))
+    -   [Falstad Wildhammer](https://wowpedia.fandom.com/wiki/Falstad_Wildhammer "Falstad Wildhammer")
+    -   [Moira Thaurissan](https://wowpedia.fandom.com/wiki/Moira_Thaurissan "Moira Thaurissan")
+-   [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque")
+-   [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")
+-   [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")
+-   [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen")
+-   [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane")
+-   [Aysa Cloudsinger](https://wowpedia.fandom.com/wiki/Aysa_Cloudsinger "Aysa Cloudsinger")
+-   [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner")
+-   [Umbric](https://wowpedia.fandom.com/wiki/Magister_Umbric "Magister Umbric")
+-   **Jaina Proudmoore**
+-   [Azurathel](https://wowpedia.fandom.com/wiki/Scalecommander_Azurathel "Scalecommander Azurathel")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Dagran Thaurissan II](https://wowpedia.fandom.com/wiki/Dagran_Thaurissan_II "Dagran Thaurissan II")
+-   [Danath Trollbane](https://wowpedia.fandom.com/wiki/Danath_Trollbane "Danath Trollbane")
+-   [Darius Crowley](https://wowpedia.fandom.com/wiki/Darius_Crowley "Darius Crowley")
+-   [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar")
+-   [Kurdran Wildhammer](https://wowpedia.fandom.com/wiki/Kurdran_Wildhammer "Kurdran Wildhammer")
+-   [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard")
+-   [Halford Wyrmbane](https://wowpedia.fandom.com/wiki/High_Commander_Halford_Wyrmbane "High Commander Halford Wyrmbane")
+-   [Mathias Shaw](https://wowpedia.fandom.com/wiki/Master_Mathias_Shaw "Master Mathias Shaw")
+-   [Grayson Shadowbreaker](https://wowpedia.fandom.com/wiki/Lord_Grayson_Shadowbreaker "Lord Grayson Shadowbreaker")
+-   [Vindicator Boros](https://wowpedia.fandom.com/wiki/Vindicator_Boros "Vindicator Boros")
+-   [Gryan Stoutmantle](https://wowpedia.fandom.com/wiki/Gryan_Stoutmantle "Gryan Stoutmantle")
+-   [Sarah Ladimore](https://wowpedia.fandom.com/wiki/Sarah_Ladimore "Sarah Ladimore")
+-   [John J. Keeshan](https://wowpedia.fandom.com/wiki/John_J._Keeshan "John J. Keeshan")
+-   [Morgan](https://wowpedia.fandom.com/wiki/Morgan "Morgan")
+-   [Vanndar Stormpike](https://wowpedia.fandom.com/wiki/Vanndar_Stormpike "Vanndar Stormpike")
+-   [Jes-Tereth](https://wowpedia.fandom.com/wiki/Grand_Admiral_Jes-Tereth "Grand Admiral Jes-Tereth")
+-   [Lusshan](https://wowpedia.fandom.com/wiki/Elder_Lusshan "Elder Lusshan")
+-   [Nobundo](https://wowpedia.fandom.com/wiki/Farseer_Nobundo "Farseer Nobundo")
+-   [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon")
+-   [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner")
+-   [Velog Icebellow](https://wowpedia.fandom.com/wiki/Velog_Icebellow "Velog Icebellow")
+-   [Ivar Bloodfang](https://wowpedia.fandom.com/wiki/Packleader_Ivar_Bloodfang "Packleader Ivar Bloodfang")
+-   [Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera")
+-   [Vargoth](https://wowpedia.fandom.com/wiki/Archmage_Vargoth "Archmage Vargoth")
+-   [Karlain](https://wowpedia.fandom.com/wiki/Archmage_Karlain "Archmage Karlain")
+-   [Ansirem Runeweaver](https://wowpedia.fandom.com/wiki/Archmage_Ansirem_Runeweaver "Archmage Ansirem Runeweaver")
+-   [Harrison Jones](https://wowpedia.fandom.com/wiki/Harrison_Jones "Harrison Jones")
+-   [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos")
+-   [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")
+-   [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard")
+-   [Thassarian](https://wowpedia.fandom.com/wiki/Thassarian "Thassarian")
+-   [Muninn Magellas](https://wowpedia.fandom.com/wiki/High_Explorer_Muninn_Magellas "High Explorer Muninn Magellas")
+-   [Thargas Anvilmar](https://wowpedia.fandom.com/wiki/Thargas_Anvilmar "Thargas Anvilmar")
+-   [Highlord Leoric Von Zeldig](https://wowpedia.fandom.com/wiki/Highlord_Leoric_Von_Zeldig "Highlord Leoric Von Zeldig")
+-   [Nevin Twistwrench](https://wowpedia.fandom.com/wiki/Nevin_Twistwrench "Nevin Twistwrench")
+-   [Razak Ironsides](https://wowpedia.fandom.com/wiki/Razak_Ironsides "Razak Ironsides")
+-   [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong")
+-   [Ishanah](https://wowpedia.fandom.com/wiki/Ishanah "Ishanah")
+-   [Amaan the Wise](https://wowpedia.fandom.com/wiki/Amaan_the_Wise "Amaan the Wise")
+-   [Broll Bearmantle](https://wowpedia.fandom.com/wiki/Broll_Bearmantle "Broll Bearmantle")
+-   [Lorna Crowley](https://wowpedia.fandom.com/wiki/Lorna_Crowley "Lorna Crowley")
+-   [Tess Greymane](https://wowpedia.fandom.com/wiki/Tess_Greymane "Tess Greymane")
+-   [Mordent Evenshade](https://wowpedia.fandom.com/wiki/Mordent_Evenshade "Mordent Evenshade")
+-   [Arechron](https://wowpedia.fandom.com/wiki/Arechron "Arechron")
+-   [Rivern Frostwind](https://wowpedia.fandom.com/wiki/Rivern_Frostwind "Rivern Frostwind")
+-   [Bizmo](https://wowpedia.fandom.com/wiki/Bizmo "Bizmo")
+-   [Radulf Leder](https://wowpedia.fandom.com/wiki/Radulf_Leder "Radulf Leder")
+-   [Su'ura Swiftarrow](https://wowpedia.fandom.com/wiki/Su%27ura_Swiftarrow "Su'ura Swiftarrow")
+-   [Sentinel Cordressa Briarbow](https://wowpedia.fandom.com/wiki/Sentinel_Cordressa_Briarbow "Sentinel Cordressa Briarbow")
+-   [Marcus Johnson](https://wowpedia.fandom.com/wiki/Commander_Marcus_Johnson "Commander Marcus Johnson")
+-   [Catherine Rogers](https://wowpedia.fandom.com/wiki/Sky_Admiral_Rogers "Sky Admiral Rogers")
+-   [Henry Maleb](https://wowpedia.fandom.com/wiki/Magistrate_Henry_Maleb "Magistrate Henry Maleb")
+-   [Weldon Barov](https://wowpedia.fandom.com/wiki/Weldon_Barov "Weldon Barov")
+-   [Celestine of the Harvest](https://wowpedia.fandom.com/wiki/Celestine_of_the_Harvest "Celestine of the Harvest")
+-   [Julianne Tremblade](https://wowpedia.fandom.com/wiki/Grand_Marshal_Tremblade "Grand Marshal Tremblade")
+-   [Tyrathan Khort](https://wowpedia.fandom.com/wiki/Tyrathan_Khort "Tyrathan Khort")
+-   [Marin Bladewing](https://wowpedia.fandom.com/wiki/Marin_Bladewing "Marin Bladewing")
+-   [Arator Windrunner](https://wowpedia.fandom.com/wiki/Arator_the_Redeemer "Arator the Redeemer")
+-   [Fareeya](https://wowpedia.fandom.com/wiki/Captain_Fareeya "Captain Fareeya")
+-   [T'paartos](https://wowpedia.fandom.com/wiki/T%27paartos "T'paartos")
+-   [Thisalee Crow](https://wowpedia.fandom.com/wiki/Thisalee_Crow "Thisalee Crow")
+-   [Lucille Waycrest](https://wowpedia.fandom.com/wiki/Lucille_Waycrest "Lucille Waycrest")
+-   [Pike](https://wowpedia.fandom.com/wiki/Brother_Pike "Brother Pike")
+-   [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia "Taelia")
+-   [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore")
+-   [Brannon Stormsong](https://wowpedia.fandom.com/wiki/Brannon_Stormsong "Brannon Stormsong")
+-   [Tandred Proudmoore](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore")
+-   [Erazmin](https://wowpedia.fandom.com/wiki/Prince_Erazmin "Prince Erazmin")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")
+-   [Taylor](https://wowpedia.fandom.com/wiki/Taylor "Taylor")
+-   [Marcus Jonathan](https://wowpedia.fandom.com/wiki/General_Marcus_Jonathan "General Marcus Jonathan")
+-   [Twinbraid](https://wowpedia.fandom.com/wiki/Twinbraid "Twinbraid")
+-   [Maraad](https://wowpedia.fandom.com/wiki/Vindicator_Maraad "Vindicator Maraad")
+-   [Iridi](https://wowpedia.fandom.com/wiki/Iridi "Iridi")
+-   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+-   [Benedictus](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Althea Ebonlocke](https://wowpedia.fandom.com/wiki/Althea_Ebonlocke "Althea Ebonlocke")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Gustaf VanHowzen](https://wowpedia.fandom.com/wiki/Doctor_Gustaf_VanHowzen "Doctor Gustaf VanHowzen")
+-   [Blademaster Telaamon](https://wowpedia.fandom.com/wiki/Blademaster_Telaamon "Blademaster Telaamon")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") | 
+
+-   [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")
+-   [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar")
+-   [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas "Antonidas")
+-   [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II")
+-   [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer")
+-   [Thoras Trollbane](https://wowpedia.fandom.com/wiki/Thoras_Trollbane "Thoras Trollbane")
+-   [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol")
+-   [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider")
+-   [Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+-   [Dwarf](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
+-   [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+-   [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+-   [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Void elf](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
+-   [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")
+-   [Dark Iron dwarf](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")
+-   [Kul Tiran human](https://wowpedia.fandom.com/wiki/Kul_Tiran_human "Kul Tiran human")
+-   [Mechagnome](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")
+-   [Broken draenei](https://wowpedia.fandom.com/wiki/Broken "Broken")
+-   [Cenarion](https://wowpedia.fandom.com/wiki/Cenarius%27s_children "Cenarius's children")
+-   [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+    -   [Wildhammer](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
+-   [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg")
+-   [Half-elf](https://wowpedia.fandom.com/wiki/Half-elf "Half-elf")
+-   [Half-human](https://wowpedia.fandom.com/wiki/Half-human "Half-human")
+-   [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")
+-   [Jinyu](https://wowpedia.fandom.com/wiki/Jinyu "Jinyu")
+    -   [Ankoan](https://wowpedia.fandom.com/wiki/Ankoan "Ankoan")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Gryphon](https://wowpedia.fandom.com/wiki/Gryphon "Gryphon")
+-   [Hippogryph](https://wowpedia.fandom.com/wiki/Hippogryph "Hippogryph")
+-   [Horse](https://wowpedia.fandom.com/wiki/Horse "Horse")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
+-   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
+-   [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan")
+-   _[The Exodar](https://wowpedia.fandom.com/wiki/Exodar "Exodar")_
+-   [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City")
+-   [Telogrus Rift](https://wowpedia.fandom.com/wiki/Telogrus_Rift "Telogrus Rift")
+-   _[The Vindicaar](https://wowpedia.fandom.com/wiki/Vindicaar "Vindicaar")_
+-   [Shadowforge City](https://wowpedia.fandom.com/wiki/Shadowforge_City "Shadowforge City")
+-   [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus")
+-   [Mechagon City](https://wowpedia.fandom.com/wiki/Mechagon_City "Mechagon City")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Aerie Peak](https://wowpedia.fandom.com/wiki/Aerie_Peak "Aerie Peak")
+-   [Chillwind Camp](https://wowpedia.fandom.com/wiki/Chillwind_Camp "Chillwind Camp")
+-   [Darkshire](https://wowpedia.fandom.com/wiki/Darkshire "Darkshire")
+-   [Dragon's Mouth](https://wowpedia.fandom.com/wiki/Dragon%27s_Mouth "Dragon's Mouth")
+-   [Dun Modr](https://wowpedia.fandom.com/wiki/Dun_Modr "Dun Modr")
+-   [Eastvale Logging Camp](https://wowpedia.fandom.com/wiki/Eastvale_Logging_Camp "Eastvale Logging Camp")
+-   [Farstrider Lodge](https://wowpedia.fandom.com/wiki/Farstrider_Lodge "Farstrider Lodge")
+-   [Fort Livingston](https://wowpedia.fandom.com/wiki/Fort_Livingston "Fort Livingston")
+-   [Goldshire](https://wowpedia.fandom.com/wiki/Goldshire "Goldshire")
+-   [Greenwarden's Grove](https://wowpedia.fandom.com/wiki/Greenwarden%27s_Grove "Greenwarden's Grove")
+-   [Harborage](https://wowpedia.fandom.com/wiki/Harborage "Harborage")
+-   [Highbank](https://wowpedia.fandom.com/wiki/Highbank "Highbank")
+-   [Kharanos](https://wowpedia.fandom.com/wiki/Kharanos "Kharanos")
+-   [Kirthaven](https://wowpedia.fandom.com/wiki/Kirthaven "Kirthaven")
+-   [Lakeshire](https://wowpedia.fandom.com/wiki/Lakeshire "Lakeshire")
+-   [Marshtide Watch](https://wowpedia.fandom.com/wiki/Marshtide_Watch "Marshtide Watch")
+-   [Menethil Harbor](https://wowpedia.fandom.com/wiki/Menethil_Harbor "Menethil Harbor")
+-   [Moonbrook](https://wowpedia.fandom.com/wiki/Moonbrook "Moonbrook")
+-   [Refuge Pointe](https://wowpedia.fandom.com/wiki/Refuge_Pointe "Refuge Pointe")
+-   [Sentinel Hill](https://wowpedia.fandom.com/wiki/Sentinel_Hill "Sentinel Hill")
+-   [Stromgarde Keep](https://wowpedia.fandom.com/wiki/Stromgarde_Keep "Stromgarde Keep")
+-   [Thelsamar](https://wowpedia.fandom.com/wiki/Thelsamar "Thelsamar")
+-   [Victor's Point](https://wowpedia.fandom.com/wiki/Victor%27s_Point "Victor's Point")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar")
+-   [Azure Watch](https://wowpedia.fandom.com/wiki/Azure_Watch "Azure Watch")
+-   [Blood Watch](https://wowpedia.fandom.com/wiki/Blood_Watch "Blood Watch")
+-   [Farwatcher's Glen](https://wowpedia.fandom.com/wiki/Farwatcher%27s_Glen "Farwatcher's Glen")
+-   [Feathermoon Stronghold](https://wowpedia.fandom.com/wiki/Feathermoon_Stronghold "Feathermoon Stronghold")
+-   [Forest Song](https://wowpedia.fandom.com/wiki/Forest_Song "Forest Song")
+-   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
+-   [Honor's Stand](https://wowpedia.fandom.com/wiki/Honor%27s_Stand "Honor's Stand")
+-   [Northwatch Hold](https://wowpedia.fandom.com/wiki/Northwatch_Hold "Northwatch Hold")
+-   [Talonbranch Glade](https://wowpedia.fandom.com/wiki/Talonbranch_Glade "Talonbranch Glade")
+-   [Thal'darah Overlook](https://wowpedia.fandom.com/wiki/Thal%27darah_Overlook "Thal'darah Overlook")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Allerian Stronghold](https://wowpedia.fandom.com/wiki/Allerian_Stronghold "Allerian Stronghold")
+-   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
+-   [Orebor Harborage](https://wowpedia.fandom.com/wiki/Orebor_Harborage "Orebor Harborage")
+-   [Sylvanaar](https://wowpedia.fandom.com/wiki/Sylvanaar "Sylvanaar")
+-   [Telaar](https://wowpedia.fandom.com/wiki/Telaar "Telaar")
+-   [Toshley's Station](https://wowpedia.fandom.com/wiki/Toshley%27s_Station "Toshley's Station")
+-   [Temple of Telhamat](https://wowpedia.fandom.com/wiki/Temple_of_Telhamat "Temple of Telhamat")
+-   [Wildhammer Stronghold](https://wowpedia.fandom.com/wiki/Wildhammer_Stronghold "Wildhammer Stronghold")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Amberpine Lodge](https://wowpedia.fandom.com/wiki/Amberpine_Lodge "Amberpine Lodge")
+-   [Fizzcrank Airstrip](https://wowpedia.fandom.com/wiki/Fizzcrank_Airstrip "Fizzcrank Airstrip")
+-   [Fordragon Hold](https://wowpedia.fandom.com/wiki/Fordragon_Hold "Fordragon Hold")
+-   [Fort Wildervar](https://wowpedia.fandom.com/wiki/Fort_Wildervar "Fort Wildervar")
+-   [Frosthold](https://wowpedia.fandom.com/wiki/Frosthold "Frosthold")
+-   [Valgarde](https://wowpedia.fandom.com/wiki/Valgarde "Valgarde")
+-   [Valiance Keep](https://wowpedia.fandom.com/wiki/Valiance_Keep "Valiance Keep")
+-   [Westfall Brigade Encampment](https://wowpedia.fandom.com/wiki/Westfall_Brigade_Encampment "Westfall Brigade Encampment")
+-   [Westguard Keep](https://wowpedia.fandom.com/wiki/Westguard_Keep "Westguard Keep")
+-   [Wintergarde Keep](https://wowpedia.fandom.com/wiki/Wintergarde_Keep "Wintergarde Keep")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Incursion](https://wowpedia.fandom.com/wiki/Incursion "Incursion")
+-   [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing "Lion's Landing")
+-   [Paw'don Village](https://wowpedia.fandom.com/wiki/Paw%27don_Village "Paw'don Village")
+-   [Pearlfin Village](https://wowpedia.fandom.com/wiki/Pearlfin_Village "Pearlfin Village")
+-   [Shrine of Seven Stars](https://wowpedia.fandom.com/wiki/Shrine_of_Seven_Stars "Shrine of Seven Stars")
+-   [Westwind Rest](https://wowpedia.fandom.com/wiki/Westwind_Rest "Westwind Rest")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Fort Wrynn](https://wowpedia.fandom.com/wiki/Fort_Wrynn "Fort Wrynn")
+-   [Highpass](https://wowpedia.fandom.com/wiki/Highpass "Highpass")
+-   [Lion's Watch](https://wowpedia.fandom.com/wiki/Lion%27s_Watch "Lion's Watch")
+-   [Lunarfall](https://wowpedia.fandom.com/wiki/Lunarfall "Lunarfall")
+-   [Southport](https://wowpedia.fandom.com/wiki/Southport "Southport")
+-   [Stormshield](https://wowpedia.fandom.com/wiki/Stormshield "Stormshield")
+-   [Telaari Station](https://wowpedia.fandom.com/wiki/Telaari_Station "Telaari Station")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Greywatch](https://wowpedia.fandom.com/wiki/Greywatch "Greywatch")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Arom's Stand](https://wowpedia.fandom.com/wiki/Arom%27s_Stand "Arom's Stand")
+-   [Brennadam](https://wowpedia.fandom.com/wiki/Brennadam "Brennadam")
+-   [Bridgeport](https://wowpedia.fandom.com/wiki/Bridgeport "Bridgeport")
+-   [Deadwash](https://wowpedia.fandom.com/wiki/Deadwash "Deadwash")
+-   [Falconhurst](https://wowpedia.fandom.com/wiki/Falconhurst "Falconhurst")
+-   [Fallhaven](https://wowpedia.fandom.com/wiki/Fallhaven "Fallhaven")
+-   [Fletcher's Hollow](https://wowpedia.fandom.com/wiki/Fletcher%27s_Hollow "Fletcher's Hollow")
+-   [Fort Daelin](https://wowpedia.fandom.com/wiki/Fort_Daelin "Fort Daelin")
+-   [Hatherford](https://wowpedia.fandom.com/wiki/Hatherford "Hatherford")
+-   [Norwington Estate](https://wowpedia.fandom.com/wiki/Norwington_Estate "Norwington Estate")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Fort Victory](https://wowpedia.fandom.com/wiki/Fort_Victory "Fort Victory")
+-   [Shatterstone Harbor](https://wowpedia.fandom.com/wiki/Shatterstone_Harbor "Shatterstone Harbor")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
+-   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
+-   [Nethergarde Keep](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep")
+-   [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore")
+-   [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles")
+    -   [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle")
+    -   [Bloodmyst Isle](https://wowpedia.fandom.com/wiki/Bloodmyst_Isle "Bloodmyst Isle")
+-   [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh")
+-   [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")
+-   [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest")
+-   [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_peninsula "Gilneas peninsula")
+-   [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan")
+-   [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains")
+-   [Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands")
+-   [Westfall](https://wowpedia.fandom.com/wiki/Westfall "Westfall")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") | 
+
+-   [House of Nobles](https://wowpedia.fandom.com/wiki/House_of_Nobles "House of Nobles")
+-   [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7")
+-   [Stormwind Fleet](https://wowpedia.fandom.com/wiki/Stormwind_Fleet "Stormwind Fleet")
+-   [Stormwind Army](https://wowpedia.fandom.com/wiki/Stormwind_Army "Stormwind Army")
+    -   [Stormwind Guard](https://wowpedia.fandom.com/wiki/Stormwind_Guard "Stormwind Guard")
+    -   [Stormwind City Guard](https://wowpedia.fandom.com/wiki/Stormwind_City_Guard "Stormwind City Guard")
+    -   [Stormwind Royal Guard](https://wowpedia.fandom.com/wiki/Stormwind_Royal_Guard "Stormwind Royal Guard")
+    -   [Stormwind Harbor Guards](https://wowpedia.fandom.com/wiki/Stormwind_Harbor_Guards "Stormwind Harbor Guards")
+    -   [Stormwind Elite Aquatic and Land Forces](https://wowpedia.fandom.com/wiki/Stormwind_Elite_Aquatic_and_Land_Forces "Stormwind Elite Aquatic and Land Forces")
+    -   [Westfall Brigade](https://wowpedia.fandom.com/wiki/Westfall_Brigade "Westfall Brigade")
+    -   [Bravo Company](https://wowpedia.fandom.com/wiki/Bravo_Company "Bravo Company")
+-   [Night Watch](https://wowpedia.fandom.com/wiki/Night_Watch "Night Watch")
+-   [Nijel's Point Guard](https://wowpedia.fandom.com/wiki/Nijel%27s_Point_Guard "Nijel's Point Guard")
+
+
+
+ |
+|  |
+| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") | 
+
+-   [Senate of Ironforge](https://wowpedia.fandom.com/wiki/Senate_of_Ironforge "Senate of Ironforge")
+-   [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")
+-   [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Forgeguard](https://wowpedia.fandom.com/wiki/Forgeguard "Forgeguard")
+    -   [Dark Iron Demolishers](https://wowpedia.fandom.com/wiki/Dark_Iron_Demolishers "Dark Iron Demolishers")
+    -   [Shadowforge clan](https://wowpedia.fandom.com/wiki/Shadowforge_clan "Shadowforge clan")
+-   [Bronzebeard clan](https://wowpedia.fandom.com/wiki/Bronzebeard_clan "Bronzebeard clan")
+-   [Stormpike clan](https://wowpedia.fandom.com/wiki/Stormpike_clan "Stormpike clan")
+    -   [Stormpike Guard](https://wowpedia.fandom.com/wiki/Stormpike_Guard "Stormpike Guard")
+-   [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League")
+    -   [Bael'dun](https://wowpedia.fandom.com/wiki/Bael%27dun "Bael'dun")
+-   [Ironforge Guard](https://wowpedia.fandom.com/wiki/Ironforge_Guard "Ironforge Guard")
+-   [Ironforge 127th Paratroopers](https://wowpedia.fandom.com/wiki/Ironforge_127th_Paratroopers "Ironforge 127th Paratroopers")
+-   [Ironforge Siege Brigade](https://wowpedia.fandom.com/wiki/Ironforge_Siege_Brigade "Ironforge Siege Brigade")
+-   [Ironforge Brigade](https://wowpedia.fandom.com/wiki/Ironforge_Brigade "Ironforge Brigade")
+-   [Miners' League](https://wowpedia.fandom.com/wiki/Miners%27_League "Miners' League")
+-   [Royal Stonecutters Union](https://wowpedia.fandom.com/wiki/Royal_Stonecutters_Union "Royal Stonecutters Union")
+-   [Hidden Circle](https://wowpedia.fandom.com/wiki/Hidden_Circle "Hidden Circle")
+
+
+
+ |
+|  |
+| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") | 
+
+-   [Darnassian Army](https://wowpedia.fandom.com/wiki/Darnassian_Army "Darnassian Army")
+    -   [Sentinels](https://wowpedia.fandom.com/wiki/Sentinels "Sentinels")
+        -   [Silverwing Sentinels](https://wowpedia.fandom.com/wiki/Silverwing_Sentinels "Silverwing Sentinels")
+        -   [Sentinel spies](https://wowpedia.fandom.com/wiki/Sentinel_spies "Sentinel spies")
+    -   [Army of the Black Moon](https://wowpedia.fandom.com/wiki/Army_of_the_Black_Moon "Army of the Black Moon")
+    -   [Darnassian City Guard](https://wowpedia.fandom.com/wiki/Darnassian_City_Guard "Darnassian City Guard")
+-   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
+-   [Wintersaber Trainers](https://wowpedia.fandom.com/wiki/Wintersaber_Trainers "Wintersaber Trainers")
+-   [Watchers](https://wowpedia.fandom.com/wiki/Watchers "Watchers")
+-   [Auberdine Village Council](https://wowpedia.fandom.com/wiki/Auberdine_Village_Council "Auberdine Village Council")
+-   [Council of the Forest](https://wowpedia.fandom.com/wiki/Council_of_the_Forest "Council of the Forest")
+-   [Circle of the Ancients](https://wowpedia.fandom.com/wiki/Circle_of_the_Ancients "Circle of the Ancients")
+
+
+
+ |
+|  |
+| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") | 
+
+-   [A.C.E.](https://wowpedia.fandom.com/wiki/A.C.E. "A.C.E.")
+-   [Gnomeregan Airmen](https://wowpedia.fandom.com/wiki/Gnomeregan_Airmen "Gnomeregan Airmen")
+-   [Gnomeregan Covert Ops](https://wowpedia.fandom.com/wiki/Gnomeregan_Covert_Ops "Gnomeregan Covert Ops")
+-   [G.E.A.R.](https://wowpedia.fandom.com/wiki/Gnomish_Elite_Aerial_Rangers "Gnomish Elite Aerial Rangers")
+-   [Razak's Roughriders](https://wowpedia.fandom.com/wiki/Razak%27s_Roughriders "Razak's Roughriders")
+-   [S.A.F.E.](https://wowpedia.fandom.com/wiki/Survivor_Assistance_Facilitation_Expedition "Survivor Assistance Facilitation Expedition")
+
+
+
+ |
+|  |
+| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") | 
+
+-   [Hand of Argus](https://wowpedia.fandom.com/wiki/Hand_of_Argus "Hand of Argus")
+    -   [Triumvirate of the Hand](https://wowpedia.fandom.com/wiki/Triumvirate_of_the_Hand "Triumvirate of the Hand")
+    -   [Defenders of Blood Watch](https://wowpedia.fandom.com/wiki/Defenders_of_Blood_Watch "Defenders of Blood Watch")
+-   [Omenai](https://wowpedia.fandom.com/wiki/Omenai "Omenai")
+-   [Light's Chosen](https://wowpedia.fandom.com/wiki/Light%27s_Chosen "Light's Chosen")
+
+
+
+ |
+|  |
+| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") | 
+
+-   [Gilnean military](https://wowpedia.fandom.com/wiki/Gilnean_military "Gilnean military")
+    -   [Gilnean Royal Guard](https://wowpedia.fandom.com/wiki/Gilnean_Royal_Guard "Gilnean Royal Guard")
+    -   [Gilneas Liberation Front](https://wowpedia.fandom.com/wiki/Gilneas_Liberation_Front "Gilneas Liberation Front")
+        -   [Refugee Leadership](https://wowpedia.fandom.com/wiki/Refugee_Leadership "Refugee Leadership")
+    -   [Gilneas Brigade](https://wowpedia.fandom.com/wiki/Gilneas_Brigade "Gilneas Brigade")
+-   [Bloodfang Pack](https://wowpedia.fandom.com/wiki/Bloodfang_pack "Bloodfang pack")
+-   [Wolfpack](https://wowpedia.fandom.com/wiki/Wolfpack "Wolfpack")
+
+
+
+ |
+|  |
+| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") | 
+
+-   [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet")
+-   [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore")
+    -   [Proudmoore Admiralty](https://wowpedia.fandom.com/wiki/Proudmoore_Admiralty "Proudmoore Admiralty")
+    -   [Proudmoore Battalion](https://wowpedia.fandom.com/wiki/Proudmoore_Battalion "Proudmoore Battalion")
+    -   [Proudmoore Guard](https://wowpedia.fandom.com/wiki/Proudmoore_Guard "Proudmoore Guard")
+-   [House Waycrest](https://wowpedia.fandom.com/wiki/House_Waycrest "House Waycrest")
+    -   [Waycrest Guard](https://wowpedia.fandom.com/wiki/Waycrest_Guard "Waycrest Guard")
+    -   [Order of Embers](https://wowpedia.fandom.com/wiki/Order_of_Embers "Order of Embers")
+-   [Norwington](https://wowpedia.fandom.com/wiki/Norwington "Norwington")
+-   [Roughnecks](https://wowpedia.fandom.com/wiki/Roughnecks "Roughnecks")
+-   [House Stormsong](https://wowpedia.fandom.com/wiki/House_Stormsong "House Stormsong")
+    -   [Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages")
+-   [Boralus Guard](https://wowpedia.fandom.com/wiki/Boralus_Guard "Boralus Guard")
+-   [Outriggers](https://wowpedia.fandom.com/wiki/Outriggers "Outriggers")
+-   [Storm's Wake](https://wowpedia.fandom.com/wiki/Storm%27s_Wake "Storm's Wake")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Tushui Pandaren](https://wowpedia.fandom.com/wiki/Tushui_Pandaren "Tushui Pandaren")
+-   [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light")
+-   [Void elves](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
+-   [Obsidian Warders](https://wowpedia.fandom.com/wiki/Obsidian_Warders "Obsidian Warders")
+-   [Kingdom of Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)")
+    -   [League of Arathor](https://wowpedia.fandom.com/wiki/League_of_Arathor "League of Arathor")
+    -   [Stromgarde Militia](https://wowpedia.fandom.com/wiki/Stromgarde_Militia "Stromgarde Militia")
+    -   [Dabyrie militia](https://wowpedia.fandom.com/wiki/Dabyrie_militia "Dabyrie militia")
+-   [Alliance High Command](https://wowpedia.fandom.com/wiki/High_Command "High Command")
+-   [7th Legion](https://wowpedia.fandom.com/wiki/7th_Legion "7th Legion")
+    -   [7th Fleet](https://wowpedia.fandom.com/wiki/7th_Fleet "7th Fleet")
+-   [Alliance navy](https://wowpedia.fandom.com/wiki/Alliance_navy "Alliance navy")
+    -   [Alliance Naval Command](https://wowpedia.fandom.com/wiki/Alliance_Naval_Command "Alliance Naval Command")
+    -   [Third Fleet](https://wowpedia.fandom.com/wiki/Third_Fleet "Third Fleet")
+    -   [North Fleet](https://wowpedia.fandom.com/wiki/North_Fleet "North Fleet")
+-   [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")
+-   [Morgan's Militia](https://wowpedia.fandom.com/wiki/Morgan%27s_Militia "Morgan's Militia")
+-   [Highvale](https://wowpedia.fandom.com/wiki/Highvale "Highvale")
+-   [Alliance Trauma](https://wowpedia.fandom.com/wiki/Alliance_Trauma "Alliance Trauma")
+-   [Sons of Lothar](https://wowpedia.fandom.com/wiki/Sons_of_Lothar "Sons of Lothar")
+    -   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
+-   [Kurenai](https://wowpedia.fandom.com/wiki/Kurenai "Kurenai")
+-   [Alliance Vanguard](https://wowpedia.fandom.com/wiki/Alliance_Vanguard "Alliance Vanguard")
+    -   [Frostborn](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
+    -   [Valiance Expedition](https://wowpedia.fandom.com/wiki/Valiance_Expedition "Valiance Expedition")
+        -   [Unit S](https://wowpedia.fandom.com/wiki/Unit_S "Unit S")
+        -   [Unit Darkshire](https://wowpedia.fandom.com/wiki/Unit_Darkshire "Unit Darkshire")
+        -   [Unit Goldshire](https://wowpedia.fandom.com/wiki/Unit_Goldshire "Unit Goldshire")
+-   [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")
+-   [Shen'dralar](https://wowpedia.fandom.com/wiki/Shen%27dralar "Shen'dralar") [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne")
+-   [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad")
+    -   [Baradin's Wardens](https://wowpedia.fandom.com/wiki/Baradin%27s_Wardens "Baradin's Wardens")
+-   [Pearlfin Jinyu](https://wowpedia.fandom.com/wiki/Pearlfin_Jinyu "Pearlfin Jinyu")
+-   [Operation: Shieldwall](https://wowpedia.fandom.com/wiki/Operation:_Shieldwall "Operation: Shieldwall")
+-   [Bizmo's Brawlpub](https://wowpedia.fandom.com/wiki/Bizmo%27s_Brawlpub "Bizmo's Brawlpub")
+-   [Wrynn's Vanguard](https://wowpedia.fandom.com/wiki/Wrynn%27s_Vanguard "Wrynn's Vanguard")
+-   [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)")
+    -   [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+        -   [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive")
+    -   [Nethergarde](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep")
+-   [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand")
+-   [Riftrunners](https://wowpedia.fandom.com/wiki/Riftrunners "Riftrunners")
+-   [Light's Vengeance](https://wowpedia.fandom.com/wiki/Light%27s_Vengeance_(island_expedition) "Light's Vengeance (island expedition)")
+-   [Auric's Angels](https://wowpedia.fandom.com/wiki/Auric%27s_Angels "Auric's Angels")
+-   [Briona's Buccaneers](https://wowpedia.fandom.com/wiki/Briona%27s_Buccaneers "Briona's Buccaneers")
+-   [Purified](https://wowpedia.fandom.com/wiki/Purified "Purified")
+-   [Waveblade Ankoan](https://wowpedia.fandom.com/wiki/Waveblade_Ankoan "Waveblade Ankoan")
+-   [Grumbol's Hammers](https://wowpedia.fandom.com/wiki/Grumbol%27s_Hammers "Grumbol's Hammers")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Theramore](https://wowpedia.fandom.com/wiki/Theramore_(nation) "Theramore (nation)")
+    -   [Theramore Guard](https://wowpedia.fandom.com/wiki/Theramore_Guard "Theramore Guard")
+        -   [Elite Guard](https://wowpedia.fandom.com/wiki/Elite_Guard "Elite Guard")
+    -   [Northwatch Expeditionary Unit](https://wowpedia.fandom.com/wiki/Northwatch_Expeditionary_Unit "Northwatch Expeditionary Unit")
+-   [Kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)")
+-   [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+|  |
+| Alliance-aligned and allies | 
+
+-   [Council of Exarchs](https://wowpedia.fandom.com/wiki/Council_of_Exarchs "Council of Exarchs")
+    -   [Hand of the Prophet](https://wowpedia.fandom.com/wiki/Hand_of_the_Prophet "Hand of the Prophet")
+    -   [Auchenai](https://wowpedia.fandom.com/wiki/Auchenai_(alternate_universe) "Auchenai (alternate universe)")
+    -   [Sha'tari Defense](https://wowpedia.fandom.com/wiki/Sha%27tari_Defense "Sha'tari Defense")
+    -   [Rangari](https://wowpedia.fandom.com/wiki/Rangari "Rangari")
+-   [Scarlet renegades](https://wowpedia.fandom.com/wiki/Scarlet_renegades "Scarlet renegades")
+-   [Stillpine tribe](https://wowpedia.fandom.com/wiki/Stillpine_tribe "Stillpine tribe")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Blackmaw tribe](https://wowpedia.fandom.com/wiki/Blackmaw_tribe "Blackmaw tribe")
+-   [Blackwood tribe](https://wowpedia.fandom.com/wiki/Blackwood_tribe "Blackwood tribe")
+-   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)")
+-   [Alliance organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
+-   [Alliance technology](https://wowpedia.fandom.com/wiki/Alliance_technology "Alliance technology")
+-   [Alliance territories](https://wowpedia.fandom.com/wiki/Category:Alliance_territories "Category:Alliance territories")
+
+
+
+ |

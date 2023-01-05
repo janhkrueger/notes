@@ -1,0 +1,448 @@
+| [![Mists of Pandaria](https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "Mists of Pandaria") Purge of Dalaran |
+| --- |
+| [![Sunreavers Dalaran.jpg](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Sunreavers_Dalaran.jpg/revision/latest/scale-to-width-down/300?cb=20121216140018)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Sunreavers_Dalaran.jpg/revision/latest?cb=20121216140018) |
+| Location | [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") |
+| Begin | [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), at the head of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), moves to expel the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") from [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") in response to the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Inv_misc_bell_01.png/revision/latest/scale-to-width-down/16?cb=20180222193728)[\[Divine Bell\]](https://wowpedia.fandom.com/wiki/Divine_Bell) incident |
+| Result | 
+Decisive [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")\-aligned [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") victory
+
+-   The [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") gains the allegiance of the city of Dalaran
+-   The Kirin Tor rejoins the Alliance
+-   [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage") [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver") and the escaped [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") retreat to [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+-   The Sunreavers are officially expelled from Dalaran, with many incarcerated in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold")
+
+ |
+| 
+
+| Belligerents |
+| --- |
+| 
+[Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+
+-   [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")
+-   [Stormwind Army](https://wowpedia.fandom.com/wiki/Stormwind_Army "Stormwind Army")
+
+ |
+| [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") |
+
+ |
+| 
+
+| Commanders and leaders |
+| --- |
+| 
+[Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+
+-   [![IconSmall Jaina2.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/IconSmall_Jaina2.gif/revision/latest?cb=20211211124616) [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore")
+-   [![IconSmall Vereesa.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/IconSmall_Vereesa.gif/revision/latest?cb=20220104111518) [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner")
+-   [![IconSmall Human Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest?cb=20200518004645) [Lieutenant Corwin](https://wowpedia.fandom.com/wiki/Lieutenant_Corwin "Lieutenant Corwin") <sup>&nbsp;†</sup>
+
+ |
+| 
+
+[Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+
+-   [![IconSmall Aethas.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/50/IconSmall_Aethas.gif/revision/latest?cb=20181211115539) [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage") [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver")
+-   [![IconSmall Rommath.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/IconSmall_Rommath.gif/revision/latest?cb=20220104115333) [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+
+ |
+
+ |
+| 
+
+| Casualties and losses |
+| --- |
+| 
+[Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+
+-   Moderate
+
+ |
+| 
+
+[Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+
+-   Heavy; many imprisoned
+
+ |
+
+ |
+| Previous | [Battle for the Temple of the Red Crane](https://wowpedia.fandom.com/wiki/A_Little_Patience "A Little Patience") |
+| Next | [Battlefield: Barrens](https://wowpedia.fandom.com/wiki/Battlefield:_Barrens "Battlefield: Barrens") |
+
+The **Purge of Dalaran**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-2">[2]</a></sup> (spelled with lowercase in the _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_s) was a civil war within the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") that took place as part of the [Alliance-Horde war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war") on [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"). It saw elements of the Kirin Tor order, along with the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") and forces of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(faction) "Stormwind (faction)"), attempt to purge the [blood elven](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") faction from the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). The conflict began when it was discovered that Kirin Tor resources had been used to aid the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")'s theft of the [Divine Bell](https://wowpedia.fandom.com/wiki/Divine_Bell "Divine Bell"), an ancient [pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") artifact. [Lady Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Lady_Jaina_Proudmoore "Lady Jaina Proudmoore"), leader of the Kirin Tor, accused [Archmage Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Archmage_Aethas_Sunreaver "Archmage Aethas Sunreaver") and his faction of having orchestrated the treason, and promptly declared the expulsion of all Sunreaver forces from Dalaran. It transpired that, while not having been directly involved in the theft himself, Aethas had been aware of it and chose to remain silent.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-3">[3]</a></sup>
+
+In a confrontation in the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"), Aethas refused to leave Dalaran, citing that the city belonged to the Sunreavers' as much as it did any other. In response, Jaina imprisoned him within the Citadel and began mobilizing the Silver Covenant, under the command of Vereesa Windrunner, to begin forcibly dealing with any Sunreavers who refused to surrender.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-4">[4]</a></sup>
+
+The purge proved to be a bloody affair. Though compliant Sunreavers were imprisoned, many proved defiant in the face of exile from Dalaran and took up arms against Jaina, the Alliance forces, and the Silver Covenant,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-5">[5]</a></sup> while some Silver Covenant opportunists took the chance to rob, attack, and otherwise harass the civilians of their political rivals.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-6">[6]</a></sup> In the midst of the chaos, [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath") led a strike team into the city in order to rescue the Sunreavers, with moderate success: some of the Sunreavers and Aethas himself were able to escape the city and reach [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon"), though many more remain imprisoned in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-7">[7]</a></sup>
+
+In the wake of the successful purge, Jaina pledged the Kirin Tor to the Alliance once more, while the [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") added the remaining Sunreavers to their own ranks. The purge notably put an end to negotiations between [King Varian Wrynn](https://wowpedia.fandom.com/wiki/King_Varian_Wrynn "King Varian Wrynn") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") to bring the blood elves, who were dissatisfied with the callous leadership of Warchief [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), back into the Alliance. The mobilized [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive") would eventually meet the [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught"), supplemented by the [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian") military, on the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder"), as both factions attempt to claim [Emperor Lei Shen](https://wowpedia.fandom.com/wiki/Emperor_Lei_Shen "Emperor Lei Shen")'s island stronghold and the artifacts contained within.
+
+## Prelude
+
+As the new leader of the Kirin Tor, [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") had resolved to keep Dalaran a beacon of cross-faction cooperation and out of the [war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war"), a goal which she struggled to maintain daily. Similarly, [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver"), the Horde's voice in the Kirin Tor, was tested as the Horde began attacking the Alliance and the war increased in ferocity, a conflict in which his brethren in Silvermoon were a part of.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-8">[8]</a></sup> Aethas began to push for Silvermoon and the blood elves' withdrawal from the Horde, viewing the path [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") was leading it on to be similar to that of [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s descent into madness years before. He believed that Silvermoon's two-thousand-year friendship with Dalaran should be preserved and prioritized above that with the Horde.<sup id="cite_ref-What's_in_the_Box?_9-0"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-What's_in_the_Box?-9">[9]</a></sup>
+
+Aethas also continued to clash with [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath") about the Kirin Tor itself. Rommath held little faith in the Kirin Tor's current neutrality, and believed that under Jaina's rule the citadel was squarely in the hands of the Alliance, posing a threat to the blood elves similar to what had almost occurred in Dalaran during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").<sup id="cite_ref-What's_in_the_Box?_9-1"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-What's_in_the_Box?-9">[9]</a></sup> Likewise, [King Varian Wrynn](https://wowpedia.fandom.com/wiki/King_Varian_Wrynn "King Varian Wrynn") considered the presence of Horde in the Kirin Tor a threat to the Alliance's war effort, and sent his son [Prince Anduin](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") to negotiate the withdrawal of the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") from [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Jaina refused to evict the Sunreavers, holding faith in the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") being above the war, and Dalaran being a place where Horde and Alliance magi alike can live in peace, reminding those present that some of these very Sunreavers were among those who had taught humanity magic to begin with.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-10">[10]</a></sup><sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-11">[11]</a></sup> Anduin came to agree with Jaina's assessment, and left to inform his father of her decision.
+
+With this in mind, Varian approached the regent lord of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") (who, coincidentally, was reconsidering "old Alliances" himself after multiple occasions of the Horde disregarding the welfare of his people),<sup id="cite_ref-What's_in_the_Box?_9-2"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-What's_in_the_Box?-9">[9]</a></sup> and began talks to bring the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") back into the Alliance.
+
+## Theft of the Divine Bell
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Divine_Bell_Darnassus.jpg/revision/latest/scale-to-width-down/180?cb=20121126070351)](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Divine_Bell_Darnassus.jpg/revision/latest?cb=20121126070351)
+
+[](https://wowpedia.fandom.com/wiki/File:Divine_Bell_Darnassus.jpg)
+
+The [Divine Bell](https://wowpedia.fandom.com/wiki/Divine_Bell "Divine Bell") in [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
+
+Under orders from Warchief Garrosh, a Sunreaver agent<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-12">[12]</a></sup> conjured a Sunreaver portal at [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point"),<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-13">[13]</a></sup> and [Fanlyr Silverthorn](https://wowpedia.fandom.com/wiki/Fanlyr_Silverthorn "Fanlyr Silverthorn"), along with Horde [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), entered the night elven city of [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus") in order to steal the [Divine Bell](https://wowpedia.fandom.com/wiki/Divine_Bell "Divine Bell"), a powerful [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") artifact that had evaded them on [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"). Jaina herself had set wards around the city, and had slain any Horde intruders who had attempted to claim it. Using Dalaran's own portals, however, the Horde was able to circumvent Jaina's defenses, and succeeded in infiltrating the city, claiming the bell, and escaping again.
+
+Aghast, Jaina discovered that her wards had been breached, and followed a trail of arcane residue that led her to the Sunreaver portal at the outskirts of [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus"). Enraged at what she believed was yet another betrayal, Jaina returned to the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") to confront the leader of the Sunreavers, [Archmage Aethas](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver").
+
+## The Purge
+
+Arriving in the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"), Jaina slew Aethas's [High Sunreaver Magi](https://wowpedia.fandom.com/wiki/High_Sunreaver_Mage "High Sunreaver Mage") and called him out directly. Accusing him of treachery (an accusation Aethas claimed was false), Jaina ordered him to take his people and leave the city. Unwilling to accept her ultimatum, Aethas proclaimed that Dalaran was the home of his people, too; as Jaina herself had said, many of the Sunreavers had called Dalaran home for over two thousand years. Resolved, Jaina simply stated that she would have to remove them by force. She took Aethas captive and teleported out of the fray.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Jaina_and_Aethas.jpg/revision/latest/scale-to-width-down/180?cb=20121216201746)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Jaina_and_Aethas.jpg/revision/latest?cb=20121216201746)
+
+[](https://wowpedia.fandom.com/wiki/File:Jaina_and_Aethas.jpg)
+
+[Jaina](https://wowpedia.fandom.com/wiki/Jaina "Jaina") takes [Aethas](https://wowpedia.fandom.com/wiki/Aethas "Aethas") into her custody
+
+The early stages of the purge were left in the hands of [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner"), who instructed [Alliance agents](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to pacify the Sunreavers in the [sewers](https://wowpedia.fandom.com/wiki/Dalaran_Sewers "Dalaran Sewers") and eliminate the uprising inside the [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary"), to stop and kill a [Magister](https://wowpedia.fandom.com/wiki/Magister_Brasael "Magister Brasael") attempting to withdraw assets from the bank and flee the city, to kill the shopkeepers who had refused to side with the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), and to either subdue or kill the [dragonhawks](https://wowpedia.fandom.com/wiki/Dragonhawk "Dragonhawk") in [Krasus' Landing](https://wowpedia.fandom.com/wiki/Krasus%27_Landing "Krasus' Landing"), thus disallowing the Sunreavers a method of escape from the city. When the deeds are done, the Silver Covenant is mobilized to join in the purge, and Jaina calls in Alliance forces waiting at the [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial") to battle the Sunreavers as well.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-14">[14]</a></sup>
+
+After imprisoning Aethas within the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"), Jaina and her water elementals took to patrolling the city streets, teleporting some [Sunreaver citizens](https://wowpedia.fandom.com/wiki/Sunreaver_Citizen "Sunreaver Citizen") to the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold") and attacking others - both [with](https://wowpedia.fandom.com/wiki/Sunreaver_Mage "Sunreaver Mage") [those](https://wowpedia.fandom.com/wiki/Sunreaver_Aegis "Sunreaver Aegis") that attempted to fight her and some civilians attempting to flee.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Aethas_Rommath_Dalaran.jpg/revision/latest/scale-to-width-down/180?cb=20121216133902)](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Aethas_Rommath_Dalaran.jpg/revision/latest?cb=20121216133902)
+
+[](https://wowpedia.fandom.com/wiki/File:Aethas_Rommath_Dalaran.jpg)
+
+[Rommath](https://wowpedia.fandom.com/wiki/Rommath "Rommath") and [Aethas](https://wowpedia.fandom.com/wiki/Aethas "Aethas") prepare to escape [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
+
+[Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath") soon led a strike team into Dalaran to evacuate the remaining Sunreavers. Beginning with the sewers — the farthest tunnels of which had, as of then, been unaffected by the purge — Rommath and Horde agents warn the Sunreaver civilians of their impending arrest and order them to flee the city. Here, Silver Covenant agents had taken to holding several Sunreaver civilians captive,<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-15">[15]</a></sup> while others were attacking unarmed Sunreavers without explaining anything to them. After thinning the Silver Covenant's ranks, Rommath left the sewers and entered Dalaran proper, temporarily taking over the center of the city as a makeshift base to strike against Jaina's forces, as the Sunreaver resistance group holding it continued their search for Aethas.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-16">[16]</a></sup>
+
+Rommath, incensed at the events unfolding in the city, sent Horde agents to break out the Sunreaver VIPs remaining in the sanctuary, to free the captured dragonhawks at Krasus' Landing (thus giving them a method of escape), to stage a raid on the [Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave") in an effort to locate Aethas, and to neutralize the Alliance forces Jaina had called upon for support.
+
+Ultimately, Rommath located Aethas in the Citadel, and, after rescuing him, the two escaped back to the sewers following the demise of [Aethas's jailer](https://wowpedia.fandom.com/wiki/Mage-Commander_Zuros "Mage-Commander Zuros"). There, they leaped out of the city to land atop the dragonhawks rescued earlier. Rommath, content with having evacuated as many as he could, returned with Aethas to [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"). While, thanks to Rommath and the Horde champions, many Sunreavers were rescued, many others were still imprisoned in Dalaran's [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold") or killed.
+
+## Consequences
+
+### In Silvermoon City
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/After_the_Purge.png/revision/latest/scale-to-width-down/275?cb=20160725115507)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/After_the_Purge.png/revision/latest?cb=20160725115507)
+
+[](https://wowpedia.fandom.com/wiki/File:After_the_Purge.png)
+
+Aethas and Rommath meet with [Lor'themar](https://wowpedia.fandom.com/wiki/Lor%27themar "Lor'themar") in [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon"), just after their escape
+
+Back in [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"), [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing") moved to oversee the return of the escaped Sunreavers being funneled back to Silvermoon via portals. Aethas and Rommath arrived and informed an incredulous Lor'themar of the situation within Dalaran.
+
+Lor'themar was infuriated with how far Jaina had gone and was just as vexed at Garrosh, hoping dearly that the Warchief's new "treasure"—the Divine Bell—destroys him. Lor'themar concluded that the time had come for the blood elves to take matters into their own hands, and ordered Halduron to summon the [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders") and Rommath to assemble the [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters"), subsequently adding the Sunreavers' strength to his own.
+
+As the blood elves were blamed for the theft, the negotiations between the blood elves and the Alliance were thus sabotaged by Garrosh's actions.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-17">[17]</a></sup>
+
+Most of the surviving Sunreavers are now held in the Violet Hold. The ones that successfully escaped have come to hold Garrosh (whose agents, actively supporting the Horde war effort, had sparked the purge in the first place) just as responsible for their removal from Dalaran as Jaina herself. The purge put an end to ongoing talks between Lor'themar and King Varian Wrynn, who had approached the regent under the impression that the Sunreavers' right to live in the city was defended by Jaina herself and so would not be leaving Dalaran.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-18">[18]</a></sup> Many Sunreavers felt seriously betrayed by the purge, having called Dalaran home "before Jaina's grandparents were born".<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-19">[19]</a></sup><sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-20">[20]</a></sup>
+
+### In Lion's Landing
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Varian_and_Jaina.jpg/revision/latest/scale-to-width-down/180?cb=20130811133616)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Varian_and_Jaina.jpg/revision/latest?cb=20130811133616)
+
+[](https://wowpedia.fandom.com/wiki/File:Varian_and_Jaina.jpg)
+
+Jaina meets with [Varian](https://wowpedia.fandom.com/wiki/Varian "Varian") after the Purge
+
+Back in [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing "Lion's Landing"), Jaina met with Varian to declare the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")'s allegiance to the Alliance. Varian was confused at this turn of events, having been told of Jaina's high opinion of the Sunreavers by Anduin [prior to the purge](https://wowpedia.fandom.com/wiki/The_Fate_of_Dalaran "The Fate of Dalaran"), and more so for acting without consulting him. Varian chided Jaina for acting so rashly, revealing that he had been entering discussions to bring the blood elves back into the Alliance, and that by attacking their people Jaina had forced their hand. Jaina was unapologetic, however, stating her newfound belief that "once Horde, always Horde". Varian stated that the Alliance must act as one if they are to win this war; unfazed, Jaina departed to mobilize the Kirin Tor.
+
+### For Garrosh
+
+Though Garrosh had essentially solved two problems with one clever manoeuvre—forcing the blood elves away from the Alliance and plucking the bell from Darnassus with few losses of his own—this victory was not without its costs in the long-term. Jaina had resolved to see Garrosh removed from power as far back as the [Battle of Theramore](https://wowpedia.fandom.com/wiki/Battle_of_Theramore "Battle of Theramore"), but now the Kirin Tor was firmly and actively working against him. Rather than beaten into obedience, Lor'themar simply took a different approach to the problem Garrosh presented, and began preparing his people for the likelihood of rebellion.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-21">[21]</a></sup>
+
+The Divine Bell proved to be a short-lived conquest. Garrosh used it to infuse some of his own [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron") with [sha](https://wowpedia.fandom.com/wiki/Sha "Sha") power, which cost them their lives, and the bell was soon after destroyed by [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), though it nearly cost him his life.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-22">[22]</a></sup>
+
+## Aftermath
+
+The Kirin Tor spent the remainder of the [Pandaria campaign](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria") as members of the Alliance. They organized the [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive") to lay claim to the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder"), coming into conflict with the [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught"), the escaped Sunreavers backed by forces from Silvermoon. The Kirin Tor was planned to assist in the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)"), with Dalaran itself raining fire down upon Orgrimmar, but technical constraints interfered; Jaina, Vereesa, and Aethas still appear. Lor'themar and Jaina interact several times following the purge, their meetings ranging from [mutually belligerent](https://wowpedia.fandom.com/wiki/The_Fall_of_Shan_Bu_(Alliance) "The Fall of Shan Bu (Alliance)") to [fairly civil](https://wowpedia.fandom.com/wiki/Sha_of_Pride "Sha of Pride"). The Sunreavers held in the Violet Hold were kept as prisoners of war; if or when they were released remains unknown.
+
+Although purging the Sunreavers was not a change Jaina wanted to make, she maintained the belief that it was necessary.<sup id="cite_ref-DotA_23-0"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-DotA-23">[23]</a></sup> Jaina struggled with another political intrigue around this time as well, with [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") worrying that Jaina's attitude, including shirking her duties and disregarding the opinions of her council, could jeopardize her position.<sup id="cite_ref-DotA_23-1"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-DotA-23">[23]</a></sup> The purge itself was not a topic covered during [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")'s trial, but the theft that sparked it was relevant to the court. During an argument with [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), Jaina reflected that the Kirin Tor's previous rulers might have had the right idea regarding neutrality, and threatened to leave the Alliance should her autonomy not be respected; however, she did not go through with this.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-24">[24]</a></sup>
+
+Under [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar"), agents of the Kirin Tor, including [at least one blood elf](https://wowpedia.fandom.com/wiki/Magister_Krelas "Magister Krelas"), appear in the [War in Draenor](https://wowpedia.fandom.com/wiki/War_in_Draenor "War in Draenor"). The mages are friendly to the Alliance and neutral to the Horde, although Jaina makes it clear that she does not want non-Kirin Tor personnel, especially Horde, in Kirin Tor territory. Khadgar's decision to enlist Horde support is a contentious issue back in Dalaran, as Jaina and some of the council do not approve of working with the Horde again, while Khadgar and [Modera](https://wowpedia.fandom.com/wiki/Modera "Modera") accept aid from both factions on Draenor.
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+At the outset of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion"), in a historic occasion, Dalaran and the Kirin Tor have decided to readmit the Sunreavers (and by extension the Horde). Khadgar subsequently beseeches the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") to reconsider the Horde's exile from the Kirin Tor. Jaina is incredulous and flatly refuses to support any such decision.
+
+When the Council vote on the matter, Jaina's desires are defeated 4-2. Feeling betrayed by her own, Jaina promptly teleported out of the city, leaving the Order in Khadgar's hands. The fallout from the purge and the figures involved in the Horde's return, however, remains unclear.
+
+Later, Aethas Sunreaver would assist [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera") and the [Conjuror of the Tirisgarde](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in locating the legendary  ![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Inv_sword_1h_artifactfelomelorn_d_01.png/revision/latest/scale-to-width-down/16?cb=20160801223428)[\[Felo'melorn\]](https://wowpedia.fandom.com/wiki/Felo%27melorn). Following this, the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") voted to allow him and the Sunreavers back into the city, albeit no longer part of the Council.
+
+When [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), and [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") came to rescue [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") from execution at [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")'s command the group is halted by [Magister Hathorel](https://wowpedia.fandom.com/wiki/Magister_Hathorel "Magister Hathorel"). He had done so to get revenge upon [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") for the purge of Dalaran, and was unwilling to leave his vendetta with her alone - he would have Jaina watch her friends die, as he had done. Hathorel empowered Baine's chains but was fought and defeated. He immersed himself in an  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Spell_frost_frost.png/revision/latest/scale-to-width-down/16?cb=20070106003443)[\[Ice Block\]](https://wowpedia.fandom.com/wiki/Ice_Block) before falling, surviving the encounter while freed Baine and the others were teleported to safety by Jaina.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-25">[25]</a></sup>
+
+## Forces
+
+[Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+
+-   Two [archmages](https://wowpedia.fandom.com/wiki/Archmage "Archmage")
+-   One [Mage-Commander](https://wowpedia.fandom.com/wiki/Mage-Commander_Zuros "Mage-Commander Zuros")
+-   [Enforcers](https://wowpedia.fandom.com/wiki/Silver_Covenant_Enforcer "Silver Covenant Enforcer")
+-   [Spellbows](https://wowpedia.fandom.com/wiki/Silver_Covenant_Spellbow "Silver Covenant Spellbow")
+-   [Clerics](https://wowpedia.fandom.com/wiki/Stormwind_Cleric "Stormwind Cleric")
+-   [Footmen](https://wowpedia.fandom.com/wiki/Stormwind_Footman "Stormwind Footman")
+
+[Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+
+-   [Mages](https://wowpedia.fandom.com/wiki/Sunreaver_Mage "Sunreaver Mage")
+-   [Pyromancers](https://wowpedia.fandom.com/wiki/Sunreaver_Pyromancer "Sunreaver Pyromancer")
+-   [Summoners](https://wowpedia.fandom.com/wiki/Sunreaver_Summoner "Sunreaver Summoner")
+-   [Duelists](https://wowpedia.fandom.com/wiki/Sunreaver_Duelist "Sunreaver Duelist")
+-   [Frosthands](https://wowpedia.fandom.com/wiki/Sunreaver_Frosthand "Sunreaver Frosthand")
+-   [Aegises](https://wowpedia.fandom.com/wiki/Sunreaver_Aegis "Sunreaver Aegis")
+-   [Assassins](https://wowpedia.fandom.com/wiki/Sunreaver_Assassin "Sunreaver Assassin")
+-   [Captains](https://wowpedia.fandom.com/wiki/Sunreaver_Captain "Sunreaver Captain")
+-   Five [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters")
+-   One [Grand Magister](https://wowpedia.fandom.com/wiki/Grand_Magister "Grand Magister")
+-   One [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage")
+-   One [High Arcanist](https://wowpedia.fandom.com/wiki/High_Arcanist_Savor "High Arcanist Savor")
+-   One [Gearmage](https://wowpedia.fandom.com/wiki/Gearmage_Astalon "Gearmage Astalon")
+-   One [Inkmaster](https://wowpedia.fandom.com/wiki/Inkmaster_Aelon "Inkmaster Aelon")
+-   [Dragonhawks](https://wowpedia.fandom.com/wiki/Sunreaver_Dragonhawk "Sunreaver Dragonhawk")
+
+## Quests
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/34/WorldMap-DalaranCity.jpg/revision/latest/scale-to-width-down/180?cb=20121231055223)](https://static.wikia.nocookie.net/wowpedia/images/3/34/WorldMap-DalaranCity.jpg/revision/latest?cb=20121231055223)
+
+[](https://wowpedia.fandom.com/wiki/File:WorldMap-DalaranCity.jpg)
+
+Dalaran map
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/WorldMap-DalaranCity1.jpg/revision/latest/scale-to-width-down/180?cb=20121231055239)](https://static.wikia.nocookie.net/wowpedia/images/a/a5/WorldMap-DalaranCity1.jpg/revision/latest?cb=20121231055239)
+
+[](https://wowpedia.fandom.com/wiki/File:WorldMap-DalaranCity1.jpg)
+
+Underbelly map
+
+Alliance
+
+Horde
+
+## Casualties
+
+The casualties of the purge appear to have been almost entirely elven. Kirin Tor members of other races are seen cowering at their posts or shops, or else not present, but are not involved in the purge itself.
+
+The named characters confirmed to have been slain are as follows:
+
+| Sunreavers | Silver Covenant |
+| --- | --- |
+| 
+-   [![IconSmall BloodElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest?cb=20200517222352) [Sintharia Cinderweave](https://wowpedia.fandom.com/wiki/Sintharia_Cinderweave "Sintharia Cinderweave")
+-   [![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437) [Gearmage Astalon](https://wowpedia.fandom.com/wiki/Gearmage_Astalon "Gearmage Astalon")
+-   [![IconSmall BloodElf Female.gif](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest?cb=20200517222352) [Tolyria](https://wowpedia.fandom.com/wiki/Tolyria "Tolyria")
+-   [![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437) [Inkmaster Aelon](https://wowpedia.fandom.com/wiki/Inkmaster_Aelon "Inkmaster Aelon")
+-   [![IconSmall BloodElf Male.gif](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest?cb=20200517221437) [Magister Brasael](https://wowpedia.fandom.com/wiki/Magister_Brasael "Magister Brasael")
+
+ | 
+
+-   [![IconSmall HighElf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest?cb=20200517002221) [Sorin Magehand](https://wowpedia.fandom.com/wiki/Sorin_Magehand "Sorin Magehand")
+-   [![IconSmall HighElf Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest?cb=20200517002342) [Arcanist Rathaella](https://wowpedia.fandom.com/wiki/Arcanist_Rathaella "Arcanist Rathaella")
+-   [![IconSmall HighElf Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest?cb=20200517002221) [Mage-Commander Zuros](https://wowpedia.fandom.com/wiki/Mage-Commander_Zuros "Mage-Commander Zuros")
+
+ |
+
+In addition, [Archmage Lan'dalock](https://wowpedia.fandom.com/wiki/Archmage_Lan%27dalock "Archmage Lan'dalock") (who was guarding the entrance to the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold")) can be fought by Horde players, though this is entirely optional if they avoid being teleported there. As he is present as a Kirin Tor questgiver on the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder"), he apparently survived this encounter.
+
+[Lieutenant Corwin](https://wowpedia.fandom.com/wiki/Lieutenant_Corwin "Lieutenant Corwin") (the only named human casualty) was also killed during the purge.
+
+## Jaina's quotes
+
+-   Be silenced, Sunreaver!
+-   The Kirin Tor will not tolerate insurrection.
+-   You brought this on yourselves, Sunreavers.
+-   You had your chance to run.
+-   Dalaran is a better place without your kind.
+-   Did you think your actions would have no consequence?
+-   You chose your warchief over the Kirin Tor.
+
+## Revised content
+
+-   It was initially believed that the purge would be sparked by the Divine Bell being sounded in [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus") after its theft, unleashing the sha to cause damage to the city; early sound files suggested this would be what compelled Jaina to purge the Sunreavers. Instead, the Darnassus mission is low-key and covert, the bell is transported immediately, and the player is specifically told not to harm any night elves or let themselves be seen at all. Perplexingly, later interactions between Jaina and Lor'themar actually seem to proceed with the first scenario in mind (Jaina mentions the Sunreavers "orchestrating an attack" on Darnassus and Lor'themar counters that they knew nothing of Garrosh's "raid on Darnassus", neither of which occurred), though it could be reconciled as an exaggeration.
+-   Aethas Sunreaver was intended to have a larger role in the bell's heist, stumbling across the player after the deed was done, admonishing the Horde for using Kirin Tor resources in the war effort, then being threatened by an orc into saying nothing about it. With Garrosh's wrath on one side and Jaina's on another, Aethas would have to gamble on one of them, ultimately choosing to risk Jaina's. After a conversation with [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") on the subject, Blizzard writer [Sarah Pine](https://wowpedia.fandom.com/wiki/Sarah_Pine "Sarah Pine") stated that this scene actually _was_ supposed to play out in the game, but was bugged.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-26">[26]</a></sup> This, too, is referenced in later content: Aethas shifts uncomfortably when Lor'themar champions his innocence on the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder"); this casts doubt about his loyalties, when it should have been affirmation to the player of what they would already know (that Aethas discovered the theft, but was not an active participant in it).
+
+## Notes and trivia
+
+-   Lead Narrative Designer [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") has pointed to the purge as a good example of grey morality in Warcraft. Each faction's quests depict the other in a questionable light, while the quest givers involved (Jaina, Vereesa, Rommath, and Lor'themar) inject their own opinions and inferences into the events unfolding around them. For example, the Alliance quests deal mostly with militant Sunreavers who resist arrest and choose to strike out against them, while the Horde quests draw attention to the Sunreaver civilians swept up in the chaos and portray the Silver Covenant as the aggressive party out for blood. While both events run concurrently in the purge, only one side witnesses each. Aethas Sunreaver's depiction is another: his role in the heist and loyalty to Dalaran are muddied and appear suspicious in the Alliance quests, justifying his imprisonment. The Horde quests depict him as a more sympathetic character with good intentions, loyalty to the Kirin Tor, and an honest hatred of Garrosh, justifying his rescue.
+-   This was not the first time [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath") dealt with a situation of this nature. He was one of [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s closest advisors and was present in the [Dungeons of Dalaran](https://wowpedia.fandom.com/wiki/Dungeons_of_Dalaran "Dungeons of Dalaran") when the blood elves had to fight to escape in the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-27">[27]</a></sup>
+-   Aethas's conflicting loyalties were commented upon as far back as _[In the Shadow of the Sun](https://wowpedia.fandom.com/wiki/In_the_Shadow_of_the_Sun "In the Shadow of the Sun")_ - Lor'themar worried that Aethas was too young and inexperienced for the responsibilities laid out before him. Aethas's conflicting loyalties were the reason he made the decision he did.
+-   It is possible to visit this instanced version of Dalaran even after its quests by speaking with Kromthar. There Rommath can be found at his usual spot in Runeweaver Square and gives  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-35\] [A Return to Krasarang](https://wowpedia.fandom.com/wiki/A_Return_to_Krasarang).
+    -   This is presumably an oversight as the quest is officially given by Lor'themar Theron. Blizzard may have forgotten to remove the line of flight to Dalaran from Kromthar once the quest-line is complete.
+-   It's unknown why Stormwind troops were present when Varian Wrynn was unaware of the purge taking place and disapproved of it when he found out.
+-   During  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-35\] [The Situation In Dalaran](https://wowpedia.fandom.com/wiki/The_Situation_In_Dalaran), Horde players enter [The Situation in Dalaran](http://www.wowhead.com/the-situation-in-dalaran) scenario to participate in these events.
+-   The [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold") loading screen is used for Dalaran in the purge phase.
+-   Jaina stated the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") helping the Horde steal the [Divine Bell](https://wowpedia.fandom.com/wiki/Divine_Bell "Divine Bell") was a betrayal and violation of the Kirin Tor's neutrality. However this statement seems rather hypocritical in light of her, as the leader of the Kirin Tor, actively helping keep the Divine Bell in Alliance possession.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#cite_note-28">[28]</a></sup>
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   The exact number of Sunreavers aware of the plot to steal the Divine Bell is unclear, sources varying from a single Sunreaver (mentioned in _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_) to a small handful of "certain" agents chosen by Garrosh. The game depicts it as somewhere in-between; players take a single Sunreaver's portal in and out of Darnassus, and four or five mages in Sunreaver tabards can be seen upholding the small cloaking barrier on the city's outskirts. Though obviously implausible for any considerable number to be aware of a secret plot devised by the leader of a world superpower when only one of them was needed, the fact that Aethas Sunreaver himself became aware of it and chose inaction in spite of his duty as a member of the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") is arguably more damning than a few Horde sympathizers acting against his wishes.
+-   Where [Fanlyr Silverthorn](https://wowpedia.fandom.com/wiki/Fanlyr_Silverthorn "Fanlyr Silverthorn") fits into the purge has led to some speculation. He is first met on [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") as a [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary") commander, and after a brief conflict with Garrosh, has his life threatened by the warchief should he ever question him again. He then travels through a Sunreaver mage's portal to Darnassus and assists the Horde player in stealing the Divine Bell, telling them to return to [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point") through his portal while he covers their tracks. However, Jaina discovers the portal's residue with relative ease, following it to an open portal to _Dalaran_ on Darnassus's outskirts. This is bizarre, as the portal players take is straight to Domination Point, while Fanlyr was instructed to take the bell straight to Silvermoon. Considering Garrosh's ploy hinged on focusing blame on the Sunreavers, there is a chance that Fanlyr's failure to conceal that Kirin Tor resources had been used–and moreover, directing Jaina straight to Dalaran–was more deliberate than it seemed.
+-   At the start of the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), when Dalaran was relocated above [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"), [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary") was held by [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") units (the [Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave") was guarded by [Silver Covenant Guardian Mages](https://wowpedia.fandom.com/wiki/Silver_Covenant_Guardian_Mage "Silver Covenant Guardian Mage")). When the demons later attacked the city, the district was defended by [Sunreaver Guardian Mages](https://wowpedia.fandom.com/wiki/Sunreaver_Guardian_Mage "Sunreaver Guardian Mage"). These mages could probably be the released blood elves that were imprisoned into the Violet Hold during the Purge.
+
+## Videos
+
+-   [Alliance storyline](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#)
+-   [Horde storyline](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran#)
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/zone=6611)
+-   [WoWDB](https://www.wowdb.com/zones/6611)
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_WoW_since_Cataclysm "Template:Conflicts in WoW since Cataclysm")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_WoW_since_Cataclysm?action=edit)
+
+Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)")
+
+ |
+| --- |
+|  |
+| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ | 
+
+-   [War against Deathwing](https://wowpedia.fandom.com/wiki/War_against_Deathwing "War against Deathwing")
+    -   [Elemental Unrest](https://wowpedia.fandom.com/wiki/Elemental_Unrest "Elemental Unrest")
+    -   [Firelands Invasion](https://wowpedia.fandom.com/wiki/Firelands_Invasion "Firelands Invasion")
+-   [Battle for Thunder Bluff](https://wowpedia.fandom.com/wiki/Battle_for_Thunder_Bluff "Battle for Thunder Bluff")
+
+
+
+ |
+|  |
+| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ and  
+[![Mists of Pandaria](https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "Mists of Pandaria") _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_ | 
+
+-   [Alliance-Horde war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war")
+    -   [Invasion of Gilneas](https://wowpedia.fandom.com/wiki/Invasion_of_Gilneas "Invasion of Gilneas")
+    -   [Battle of the Lost Isles](https://wowpedia.fandom.com/wiki/Battle_of_the_Lost_Isles "Battle of the Lost Isles")
+    -   [Second Battle for Hillsbrad](https://wowpedia.fandom.com/wiki/Battle_for_Hillsbrad#Cataclysm "Battle for Hillsbrad")
+    -   [Battle for Andorhal](https://wowpedia.fandom.com/wiki/Battle_for_Andorhal "Battle for Andorhal")
+    -   [Ashenvale war](https://wowpedia.fandom.com/wiki/Ashenvale_war "Ashenvale war")
+    -   [Battle for Tol Barad](https://wowpedia.fandom.com/wiki/Battle_for_Tol_Barad "Battle for Tol Barad")
+    -   [Attack on Theramore Isle](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle")
+    -   [Landfall](https://wowpedia.fandom.com/wiki/Landfall "Landfall")
+    -   **Purge of Dalaran**
+    -   [Darkspear Rebellion](https://wowpedia.fandom.com/wiki/Darkspear_Rebellion "Darkspear Rebellion")
+    -   [Battlefield: Barrens](https://wowpedia.fandom.com/wiki/Battlefield:_Barrens "Battlefield: Barrens")
+    -   [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar")
+-   [War against the Zandalari](https://wowpedia.fandom.com/wiki/War_against_the_Zandalari "War against the Zandalari")
+
+
+
+ |
+|  |
+| [![Warlords of Draenor](https://static.wikia.nocookie.net/wowpedia/images/7/71/WoD-Logo-Small.png/revision/latest?cb=20131108221912)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "Warlords of Draenor") _[Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_ | 
+
+-   [War between the Breakers and the Primals](https://wowpedia.fandom.com/wiki/War_between_the_Breakers_and_the_Primals "War between the Breakers and the Primals")
+-   [War in Draenor](https://wowpedia.fandom.com/wiki/War_in_Draenor "War in Draenor")
+    -   [Iron Horde Incursion](https://wowpedia.fandom.com/wiki/Iron_Horde_Incursion "Iron Horde Incursion")
+    -   [Assault on the Dark Portal](https://wowpedia.fandom.com/wiki/Assault_on_the_Dark_Portal "Assault on the Dark Portal")
+    -   [Siege of Bladespire Citadel](https://wowpedia.fandom.com/wiki/Siege_of_Bladespire_Citadel "Siege of Bladespire Citadel")
+    -   [Defense of Karabor](https://wowpedia.fandom.com/wiki/Defense_of_Karabor "Defense of Karabor")
+    -   [Battle of Thunder Pass](https://wowpedia.fandom.com/wiki/Battle_of_Thunder_Pass "Battle of Thunder Pass")
+    -   [Battle for Shattrath](https://wowpedia.fandom.com/wiki/Battle_for_Shattrath "Battle for Shattrath")
+    -   [Auchindoun crisis](https://wowpedia.fandom.com/wiki/Auchindoun_crisis "Auchindoun crisis")
+    -   [Siege of Grommashar](https://wowpedia.fandom.com/wiki/Siege_of_Grommashar "Siege of Grommashar")
+    -   [Fall of Shattrath](https://wowpedia.fandom.com/wiki/Fall_of_Shattrath "Fall of Shattrath")
+-   [The War](https://wowpedia.fandom.com/wiki/The_War "The War")
+
+
+
+ |
+|  |
+| [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ | 
+
+-   [Legion's third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"): [Battle for Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_Broken_Shore "Battle for Broken Shore")
+-   [Legion Invasions](https://wowpedia.fandom.com/wiki/Legion_Invasions "Legion Invasions")
+-   [Battle for the Exodar](https://wowpedia.fandom.com/wiki/Battle_for_the_Exodar "Battle for the Exodar")
+-   [Assault on Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Assault_on_Light%27s_Hope_Chapel "Assault on Light's Hope Chapel")
+-   [Nightfallen rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion")
+-   [Assault on Broken Shore](https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore "Assault on Broken Shore")
+-   [Legion Assaults](https://wowpedia.fandom.com/wiki/Legion_Assaults "Legion Assaults")
+    -   [Stormheim](https://wowpedia.fandom.com/wiki/Assault_on_Stormheim "Assault on Stormheim")
+    -   [Val'sharah](https://wowpedia.fandom.com/wiki/Assault_on_Val%27sharah "Assault on Val'sharah")
+    -   [Highmountain](https://wowpedia.fandom.com/wiki/Assault_on_Highmountain "Assault on Highmountain")
+    -   [Azsuna](https://wowpedia.fandom.com/wiki/Assault_on_Azsuna "Assault on Azsuna")
+-   [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign")
+
+
+
+ |
+|  |
+| [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_ | 
+
+-   [The Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"): [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns")
+-   [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron")
+-   [Warfronts](https://wowpedia.fandom.com/wiki/Warfront "Warfront")
+    -   [Battle for Stromgarde](https://wowpedia.fandom.com/wiki/Battle_for_Stromgarde "Battle for Stromgarde")
+    -   [Battle for Darkshore](https://wowpedia.fandom.com/wiki/Battle_for_Darkshore "Battle for Darkshore")
+-   [War in Kul Tiras](https://wowpedia.fandom.com/wiki/War_in_Kul_Tiras "War in Kul Tiras")
+    -   [Kul Tiran civil war](https://wowpedia.fandom.com/wiki/Kul_Tiran_civil_war "Kul Tiran civil war")
+    -   [Drust incursion](https://wowpedia.fandom.com/wiki/Drust_incursion "Drust incursion")
+-   [War in Zandalar](https://wowpedia.fandom.com/wiki/War_in_Zandalar "War in Zandalar")
+    -   [Zandalari civil war](https://wowpedia.fandom.com/wiki/Zandalari_civil_war "Zandalari civil war")
+    -   [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor_(battle) "Battle of Dazar'alor (battle)")
+-   [Faction Assaults](https://wowpedia.fandom.com/wiki/Faction_Assaults "Faction Assaults")
+    -   [Tiragarde Sound](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Tiragarde_Sound "Faction Assault on Tiragarde Sound")
+    -   [Stormsong Valley](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Stormsong_Valley "Faction Assault on Stormsong Valley")
+    -   [Drustvar](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Drustvar "Faction Assault on Drustvar")
+    -   [Zuldazar](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Zuldazar "Faction Assault on Zuldazar")
+    -   [Nazmir](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Nazmir "Faction Assault on Nazmir")
+    -   [Vol'dun](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Vol%27dun "Faction Assault on Vol'dun")
+-   [Nazjatar Campaign](https://wowpedia.fandom.com/wiki/Nazjatar_Campaign "Nazjatar Campaign")
+    -   [Battle for Nazjatar](https://wowpedia.fandom.com/wiki/Battle_for_Nazjatar "Battle for Nazjatar")
+-   [Battle at the Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Battle_at_the_Gates_of_Orgrimmar "Battle at the Gates of Orgrimmar")
+
+-   Alternate universe: [War between the Lightbound and the Mag'har](https://wowpedia.fandom.com/wiki/War_between_the_Lightbound_and_the_Mag%27har "War between the Lightbound and the Mag'har")
+
+-   [Black Empire Campaign](https://wowpedia.fandom.com/wiki/Black_Empire_Campaign "Black Empire Campaign")
+-   [Assaults](https://wowpedia.fandom.com/wiki/Assaults "Assaults")
+    -   [Uldum](https://wowpedia.fandom.com/wiki/Assault_in_Uldum "Assault in Uldum")
+    -   [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Assault_in_the_Vale_of_Eternal_Blossoms "Assault in the Vale of Eternal Blossoms")
+
+
+
+ |
+|  |
+| [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_ | 
+
+-   [War against the Jailer](https://wowpedia.fandom.com/wiki/War_against_the_Jailer "War against the Jailer")
+    -   [Death Rising](https://wowpedia.fandom.com/wiki/Death_Rising "Death Rising")
+    -   [Forsworn rebellion](https://wowpedia.fandom.com/wiki/Forsworn_rebellion "Forsworn rebellion")
+    -   Maldraxxus civil war
+    -   Drust invasion
+        -   Battle for Hibernal Hollow
+    -   Renathal's rebellion
+    -   Battle for Ardenweald
+
+
+
+ |
+|  |
+| [![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_ | 
+
+-   [Tempest Unleashed](https://wowpedia.fandom.com/wiki/Tempest_Unleashed "Tempest Unleashed")
+-   War against the Primalists
+
+
+
+ |
+|  |
+| 
+
+-   [Previous](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_WoW_through_WotLK "Template:Conflicts in WoW through WotLK")
+-   [Wars category](https://wowpedia.fandom.com/wiki/Category:Wars "Category:Wars")
+-   [Battles category](https://wowpedia.fandom.com/wiki/Category:Battles "Category:Battles")
+-   Next
+
+
+
+ |

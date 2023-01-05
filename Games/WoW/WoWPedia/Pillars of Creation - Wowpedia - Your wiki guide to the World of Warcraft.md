@@ -1,0 +1,258 @@
+_This article is about the lore of the Pillars on Azeroth. For the related achievement, see  ![](https://static.wikia.nocookie.net/wowpedia/images/0/09/Ability_titankeeper_cleansingorb.png/revision/latest/scale-to-width-down/16?cb=20130812000138)[\[Pillars of Creation\]](https://wowpedia.fandom.com/wiki/Pillars_of_Creation_(achievement)). For the eponymous quest, see  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45R\] [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation_(quest)). For the Gorgrond object, see Pillar of Creation (Gorgrond)._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Pillars_of_Creation_-_Tomb_of_Sargeras.jpg/revision/latest/scale-to-width-down/360?cb=20170314014730)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Pillars_of_Creation_-_Tomb_of_Sargeras.jpg/revision/latest?cb=20170314014730)
+
+Stained glass window within the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") depicting the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") with the Pillars of Creation.
+
+The **Pillars of Creation** are relics created by and named after the members of the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") that were gifted to the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") so they could shape the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") when it was young.
+
+## History
+
+### Ancient times
+
+During [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s ordering, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") bestowed the Pillars of Creation to the [titanic keepers](https://wowpedia.fandom.com/wiki/Titan_keeper "Titan keeper") to aid them with that colossal task. Ages after the keepers had completed their work, the Pillars would become lost and scattered across the lands of Azeroth.<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-1">[1]</a></sup>
+
+### War of the Ancients
+
+After the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") found the Pillars while hunting artifacts throughout [ancient Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)"), they guarded them in the [Vault of Antiquities](https://wowpedia.fandom.com/wiki/Vault_of_Antiquities "Vault of Antiquities") in [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"). During the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") attempted to attack the [kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") on two fronts. As such, they opened a secondary portal, besides the one at the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), inside the [Temple of Elune](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") of Suramar. The Highborne led by [Grand Magistrix Elisande](https://wowpedia.fandom.com/wiki/Grand_Magistrix_Elisande "Grand Magistrix Elisande") and opposing [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") used the Pillars of Creation to close the portal and put several seals on the Temple.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-2">[2]</a></sup> After their success, the Pillars were subsequently scattered across the land that would become the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles").
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Ten millennia later during the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), the [orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") and [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") managed to retrieve and stored them within the [Portrait Room](https://wowpedia.fandom.com/wiki/Portrait_Room "Portrait Room") in the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). The [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall") kept progressing towards the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), eventually breaching into the Tomb. Within the massive temple, each of the Pillars was placed in a particular slot and were used to seal off the Legion's portal once again and the entire Tomb with it.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-3">[3]</a></sup><sup id="cite_ref-The_Power_in_Our_Hands_4-0"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-The_Power_in_Our_Hands-4">[4]</a></sup>
+
+[Magni the Speaker](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") said the Pillars couldn't be used to draw out the corrupting energies from the [sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras") in the [Wound](https://wowpedia.fandom.com/wiki/Silithus:_The_Wound "Silithus: The Wound") of [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus") because the Pillars were needed to keep the Tomb sealed. Instead the champions of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") used their [artifact](https://wowpedia.fandom.com/wiki/Artifact "Artifact") weapons.<sup id="cite_ref-The_Power_in_Our_Hands_4-1"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-The_Power_in_Our_Hands-4">[4]</a></sup>
+
+### Battle for Azeroth
+
+At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") managed to steal the unguarded Tidestone of Golganneth. This could imply the other Pillars were also taken thus leaving the Tomb unsealed.
+
+## Locations
+
+| Pillar | Zone | Former location | Slot in [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") |
+| --- | --- | --- | --- |
+| [Aegis of Aggramar](https://wowpedia.fandom.com/wiki/Aegis_of_Aggramar "Aegis of Aggramar") | [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim") | In the possession of [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn") in the [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor") | Placed atop the [Cathedral of Eternal Night](https://wowpedia.fandom.com/wiki/Cathedral_of_Eternal_Night "Cathedral of Eternal Night") |
+| [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth") | [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") | Destroyed by [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), fragments remained within [Nar'thalas Academy](https://wowpedia.fandom.com/wiki/Nar%27thalas_Academy "Nar'thalas Academy") | Placed at the [Abyssal Throne](https://wowpedia.fandom.com/wiki/Abyssal_Throne "Abyssal Throne") |
+| [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul") | [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") | Remained in Suramar City at the [Font of Night](https://wowpedia.fandom.com/wiki/Font_of_Night "Font of Night"), [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold") | Placed at [Felstorm's Breach](https://wowpedia.fandom.com/wiki/Felstorm%27s_Breach "Felstorm's Breach") |
+| [Hammer of Khaz'goroth](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth "Hammer of Khaz'goroth") | [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") | Guarded by the united tribes of Highmountain in [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem") | Placed in the [Conclave of Torment](https://wowpedia.fandom.com/wiki/Conclave_of_Torment "Conclave of Torment") |
+| [Tears of Elune](https://wowpedia.fandom.com/wiki/Tears_of_Elune "Tears of Elune") | [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") | Kept in the [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune_(Val%27sharah) "Temple of Elune (Val'sharah)") | Placed in the [Befouled Sanctum](https://wowpedia.fandom.com/wiki/Befouled_Sanctum "Befouled Sanctum") |
+
+## Notes
+
+-   It is unknown how several of the Pillars left the elves' possession. The [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") used them to seal the Legion's portal in the [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune "Temple of Elune") during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). Then, they used the [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul") to put up a shield around their city, entering an isolation of 10, 000 years. However, several of the Pillars were gone between these two moments.
+    -   The [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth") ended up in [Nar'thalas Academy](https://wowpedia.fandom.com/wiki/Nar%27thalas_Academy "Nar'thalas Academy"), in [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"), where [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") shattered it, cursing the entire region.
+    -   The [Hammer of Khaz'goroth](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth "Hammer of Khaz'goroth") ended up in [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion")'s possession. It was then stolen from [Neltharion's Vault](https://wowpedia.fandom.com/wiki/Neltharion%27s_Vault "Neltharion's Vault") by [Huln Highmountain](https://wowpedia.fandom.com/wiki/Huln_Highmountain "Huln Highmountain") after the final battle of the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), who used it to banish the Aspect, now Deathwing, to [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm").<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-5">[5]</a></sup> This means that Neltharion retrieved the Hammer right after the Highborne used it to seal the Temple and stored it within his Vault before Huln stole it from him.
+    -   The [Aegis of Aggramar](https://wowpedia.fandom.com/wiki/Aegis_of_Aggramar "Aegis of Aggramar") ended up in [Keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper") [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")'s possession, in the [Halls of Valor](https://wowpedia.fandom.com/wiki/Halls_of_Valor "Halls of Valor").
+    -   The [Tears of Elune](https://wowpedia.fandom.com/wiki/Tears_of_Elune "Tears of Elune") were stored in the [Temple of Elune of Val'sharah](https://wowpedia.fandom.com/wiki/Temple_of_Elune_(Val%27sharah) "Temple of Elune (Val'sharah)").
+-   During _Legion'_s reveal at gamescom, 2015, it was stated that the Pillars of Creation were used twelve thousand years ago by the Highborne to seal a wound in the earth, who then built the Temple of Elune over it.<sup id="cite_ref-MMOLegionDev_6-0"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-MMOLegionDev-6">[6]</a></sup> This has not been mentioned anywhere since then and was seemingly replaced by the War of the Ancients story first featured in _Chronicle_ which was brought up again in _[The Tomb of Sargeras](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras "The Tomb of Sargeras")_.
+-   Even though the [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon") share the titan-based naming scheme with the Pillars of Creation, they are not part of the group because they were crafted by [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") and [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron"), not the Pantheon.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   Oddly, there are only five Pillars (of which four are named after [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), Elune's only assumed to be Eonar's), despite there being nine [keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") and six titans in the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") at the time of the Pillars' creation.
+-   The Pillars were possibly mentioned by [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth"), a sliver of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") in the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"): "Five keys to open our way. Five torches to light our path."
+
+## References
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Titans "Template:Titans")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Titans?action=edit)
+
+[Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") | 
+
+-   [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas")
+-   [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya")
+-   [Hodir](https://wowpedia.fandom.com/wiki/Hodir "Hodir")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Mimiron](https://wowpedia.fandom.com/wiki/Mimiron "Mimiron")
+-   [Odyn](https://wowpedia.fandom.com/wiki/Odyn "Odyn")
+-   [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra")
+-   [Thorim](https://wowpedia.fandom.com/wiki/Thorim "Thorim")
+-   [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr")
+
+
+
+ |
+|  |
+| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") | 
+
+-   [Eyir](https://wowpedia.fandom.com/wiki/Eyir "Eyir")
+-   [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya")
+-   [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya")
+-   [Norushen](https://wowpedia.fandom.com/wiki/Norushen "Norushen")
+-   [Rajh](https://wowpedia.fandom.com/wiki/Rajh "Rajh")
+-   [Ammunae](https://wowpedia.fandom.com/wiki/Ammunae "Ammunae")
+-   [Isiset](https://wowpedia.fandom.com/wiki/Isiset "Isiset")
+-   [Setesh](https://wowpedia.fandom.com/wiki/Setesh "Setesh")
+-   [Jotun](https://wowpedia.fandom.com/wiki/Jotun "Jotun")
+-   [Creteus](https://wowpedia.fandom.com/wiki/Creteus "Creteus")
+-   [Nablya](https://wowpedia.fandom.com/wiki/Nablya "Nablya")
+-   [Stone guardians](https://wowpedia.fandom.com/wiki/Stone_guardian "Stone guardian")
+-   [Stone keepers](https://wowpedia.fandom.com/wiki/Stone_keeper "Stone keeper")
+-   [Stone watchers](https://wowpedia.fandom.com/wiki/Stone_watcher "Stone watcher")
+-   [Uldum watchers](https://wowpedia.fandom.com/wiki/Uldum_watcher "Uldum watcher")
+-   [Yotnar](https://wowpedia.fandom.com/wiki/Yotnar "Yotnar")
+
+
+
+ |
+|  |
+| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") | 
+
+-   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
+-   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mechagnomes](https://wowpedia.fandom.com/wiki/Mechagnome "Mechagnome")
+-   [Mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu")
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+
+
+
+ |
+|  |
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+
+-   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
+-   [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
+-   [Magnaron](https://wowpedia.fandom.com/wiki/Magnaron "Magnaron")
+-   [Gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn")
+    -   [Gronnling](https://wowpedia.fandom.com/wiki/Gronnling "Gronnling")
+-   [Goren](https://wowpedia.fandom.com/wiki/Goren "Goren")
+-   [Ogron](https://wowpedia.fandom.com/wiki/Ogron "Ogron")
+-   [Ogre lords](https://wowpedia.fandom.com/wiki/Ogre_lord "Ogre lord")
+-   [Ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Orcs](https://wowpedia.fandom.com/wiki/Orc "Orc")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
+    -   [Algalon](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer")
+-   [Dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight")
+    -   [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects")
+-   [Gold Beetles](https://wowpedia.fandom.com/wiki/Gold_Beetle "Gold Beetle")
+-   [Winged Guardians](https://wowpedia.fandom.com/wiki/Winged_Guardian "Winged Guardian")
+-   [Seekers](https://wowpedia.fandom.com/wiki/Seeker "Seeker")
+-   [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar")
+
+
+
+ |
+|  |
+| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") | 
+
+-   [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination")
+-   [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills")
+-   [Bael Modan](https://wowpedia.fandom.com/wiki/Bael_Modan "Bael Modan")
+-   [Chamber of Heart](https://wowpedia.fandom.com/wiki/Chamber_of_Heart "Chamber of Heart")
+-   [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha")
+-   [Engine of the Makers](https://wowpedia.fandom.com/wiki/Engine_of_the_Makers "Engine of the Makers")
+-   [Hall of Communion](https://wowpedia.fandom.com/wiki/Hall_of_Communion "Hall of Communion")
+-   [Inventor's Library](https://wowpedia.fandom.com/wiki/Inventor%27s_Library "Inventor's Library")
+-   [Jewelhammer's Vault](https://wowpedia.fandom.com/wiki/Jewelhammer%27s_Vault "Jewelhammer's Vault")
+-   [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison")
+-   [Life Vault](https://wowpedia.fandom.com/wiki/Life_Vault_Ruins "Life Vault Ruins")
+-   [Loken's Bargain](https://wowpedia.fandom.com/wiki/Loken%27s_Bargain "Loken's Bargain")
+-   [Mimir's Workshop](https://wowpedia.fandom.com/wiki/Mimir%27s_Workshop "Mimir's Workshop")
+-   [Primordial Observatory](https://wowpedia.fandom.com/wiki/Primordial_Observatory "Primordial Observatory")
+-   [Temple of Life](https://wowpedia.fandom.com/wiki/Temple_of_Life "Temple of Life")
+-   [Temple of Storms](https://wowpedia.fandom.com/wiki/Temple_of_Storms "Temple of Storms")
+-   [Temple of Wisdom](https://wowpedia.fandom.com/wiki/Temple_of_Wisdom "Temple of Wisdom")
+-   [Terrace of the Makers](https://wowpedia.fandom.com/wiki/Terrace_of_the_Makers "Terrace of the Makers")
+    -   [Temple of Invention](https://wowpedia.fandom.com/wiki/Temple_of_Invention "Temple of Invention")
+    -   [Temple of Order](https://wowpedia.fandom.com/wiki/Temple_of_Order "Temple of Order")
+    -   [Temple of Winter](https://wowpedia.fandom.com/wiki/Temple_of_Winter "Temple of Winter")
+-   [Terramok](https://wowpedia.fandom.com/wiki/Terramok "Terramok")
+-   [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras")
+    -   [The Guardian's Sanctum](https://wowpedia.fandom.com/wiki/The_Guardian%27s_Sanctum "The Guardian's Sanctum")
+    -   [Chamber of the Avatar](https://wowpedia.fandom.com/wiki/Chamber_of_the_Avatar "Chamber of the Avatar")
+-   [Tyrhold/Uldorus](https://wowpedia.fandom.com/wiki/Tyrhold "Tyrhold")
+    -   [Beacon of Tyrhold](https://wowpedia.fandom.com/wiki/Beacon_of_Tyrhold "Beacon of Tyrhold")
+-   [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum")
+-   [Uldis](https://wowpedia.fandom.com/wiki/Uldis "Uldis")
+-   [Uldir](https://wowpedia.fandom.com/wiki/Uldir "Uldir")
+-   [Uldaz](https://wowpedia.fandom.com/wiki/Uldaz "Uldaz")
+-   [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Vault of Y'Shaarj](https://wowpedia.fandom.com/wiki/Vault_of_Y%27Shaarj "Vault of Y'Shaarj")
+-   [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple")
+    -   [Chamber of Aspects](https://wowpedia.fandom.com/wiki/Chamber_of_Aspects "Chamber of Aspects")
+-   [Wintergrasp Fortress](https://wowpedia.fandom.com/wiki/Wintergrasp_Fortress "Wintergrasp Fortress")
+    -   [Vault of Archavon](https://wowpedia.fandom.com/wiki/Vault_of_Archavon "Vault of Archavon")
+
+
+
+ |
+|  |
+| Relics | 
+
+-   [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
+-   [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon")
+-   [Lore Keeper of Norgannon](https://wowpedia.fandom.com/wiki/Lore_Keeper_of_Norgannon "Lore Keeper of Norgannon")
+-   **Pillars of Creation**
+    -   [Aegis of Aggramar](https://wowpedia.fandom.com/wiki/Aegis_of_Aggramar "Aegis of Aggramar")
+    -   [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul")
+    -   [Hammer of Khaz'goroth](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth "Hammer of Khaz'goroth")
+    -   [Tears of Elune](https://wowpedia.fandom.com/wiki/Tears_of_Elune "Tears of Elune")
+    -   [Tidestone of Golganneth](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth "Tidestone of Golganneth")
+-   [Orbs](https://wowpedia.fandom.com/wiki/Titan_orb "Titan orb")
+-   [Plates of Uldum](https://wowpedia.fandom.com/wiki/Plates_of_Uldum "Plates of Uldum")
+-   [Seals of Uldir](https://wowpedia.fandom.com/wiki/Seals_of_Uldir "Seals of Uldir")
+-   [Stone Watcher of Norgannon](https://wowpedia.fandom.com/wiki/Stone_Watcher_of_Norgannon "Stone Watcher of Norgannon")
+-   [Spark of Tyr](https://wowpedia.fandom.com/wiki/Spark_of_Tyr "Spark of Tyr")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Titan Relic](https://wowpedia.fandom.com/wiki/Titan_Relic "Titan Relic")
+-   [Val'anyr, Hammer of Ancient Kings](https://wowpedia.fandom.com/wiki/Val%27anyr,_Hammer_of_Ancient_Kings "Val'anyr, Hammer of Ancient Kings")
+-   [World Pillar](https://wowpedia.fandom.com/wiki/World_Pillar "World Pillar")
+-   [Mystery of the Makers](https://wowpedia.fandom.com/wiki/Mystery_of_the_Makers "Mystery of the Makers") [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |
+|  |
+| Weapons | 
+
+-   [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras")
+-   [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach")
+-   ([Gorshalach](https://wowpedia.fandom.com/wiki/Gorshalach "Gorshalach")
+-   [Gorribal](https://wowpedia.fandom.com/wiki/Gorribal "Gorribal")
+-   [Orodur](https://wowpedia.fandom.com/wiki/Orodur "Orodur")
+-   [Seschenal](https://wowpedia.fandom.com/wiki/Seschenal "Seschenal")
+-   [Shargahn](https://wowpedia.fandom.com/wiki/Shargahn "Shargahn")
+-   [Vulraiis](https://wowpedia.fandom.com/wiki/Vulraiis "Vulraiis")) [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")
+
+
+
+ |
+
+Others like you also viewed

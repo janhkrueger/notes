@@ -1,0 +1,282 @@
+_"Moonsong" redirects here. For the Island Expedition rare mob, see [Moonsong (Island Expedition)](https://wowpedia.fandom.com/wiki/Moonsong_(Island_Expedition) "Moonsong (Island Expedition)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Crystalsong Forest |
+| --- |
+| Level: 25 - 50  
+Battle Pet Level: 22 - 23 |
+| [![CrystalsongForest art.jpg](https://static.wikia.nocookie.net/wowpedia/images/a/a8/CrystalsongForest_art.jpg/revision/latest/scale-to-width-down/260?cb=20180314094820)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/CrystalsongForest_art.jpg/revision/latest?cb=20180314094820) |
+| Races | [![Blue dragon](https://static.wikia.nocookie.net/wowpedia/images/a/af/IconSmall_DragonBlue2.gif/revision/latest/scale-to-width-down/16?cb=20221208133249)](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") [Blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")  
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![Ancient](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Ancient.gif/revision/latest/scale-to-width-down/16?cb=20181212120734)](https://wowpedia.fandom.com/wiki/Ancient "Ancient") [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")  
+[![IconSmall Treant.gif](https://static.wikia.nocookie.net/wowpedia/images/d/dd/IconSmall_Treant.gif/revision/latest/scale-to-width-down/16?cb=20220814193740)](https://static.wikia.nocookie.net/wowpedia/images/d/dd/IconSmall_Treant.gif/revision/latest?cb=20220814193740) [Treant](https://wowpedia.fandom.com/wiki/Treant "Treant")  
+[![IconSmall CrystalDryad.gif](https://static.wikia.nocookie.net/wowpedia/images/5/5d/IconSmall_CrystalDryad.gif/revision/latest/scale-to-width-down/16?cb=20200519170546)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/IconSmall_CrystalDryad.gif/revision/latest?cb=20200519170546) [Crystal dryad](https://wowpedia.fandom.com/wiki/Crystal_dryad "Crystal dryad")  
+[![IconSmall CrystalSatyr.gif](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_CrystalSatyr.gif/revision/latest/scale-to-width-down/16?cb=20211118202203)](https://static.wikia.nocookie.net/wowpedia/images/9/94/IconSmall_CrystalSatyr.gif/revision/latest?cb=20211118202203) [Crystal satyr](https://wowpedia.fandom.com/wiki/Crystal_satyr "Crystal satyr")  
+[![IconSmall Skeleton.gif](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest?cb=20211201223423) [Skeleton](https://wowpedia.fandom.com/wiki/Skeleton "Skeleton") |
+| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Ruins of Shandaral](https://wowpedia.fandom.com/wiki/Ruins_of_Shandaral "Ruins of Shandaral") |
+| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand")  
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Sunreaver's Command](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Command "Sunreaver's Command")  
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Windrunner's Overlook](https://wowpedia.fandom.com/wiki/Windrunner%27s_Overlook "Windrunner's Overlook")  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front") |
+| Affiliation | [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight"), [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers"), [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") |
+| Former affiliation(s) | [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") |
+| PvP status | [Contested territory](https://wowpedia.fandom.com/wiki/Contested_territory "Contested territory") |
+
+**Crystalsong Forest**, also known as **Crystal Song Woods**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-1">[1]</a></sup> and originally called **Moonsong**,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-2">[2]</a></sup> is a landlocked region in the middle of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+
+## History
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Attack_on_Moonsong.jpg/revision/latest/scale-to-width-down/180?cb=20160317181945)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/Attack_on_Moonsong.jpg/revision/latest?cb=20160317181945)
+
+Shandaral's Highborne under attack by the blue dragonflight.
+
+Originally known as Moonsong Forest, the outpost of Shandaral was established here during the height of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), around 10,000 [BDP](https://wowpedia.fandom.com/wiki/BDP "BDP"), in the northern reaches of [Ancient Kalimdor](https://wowpedia.fandom.com/wiki/Ancient_Kalimdor "Ancient Kalimdor"). It was to be a repository of arcane relics and artifacts that the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") collected. When the continent was shattered by the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), the elves living there were isolated from the rest of the world. With no source of power to sustain them, they were left vulnerable to disease and other ailments. For centuries, the Shandaral Highborne scoured the forests of [Moonsong](https://wowpedia.fandom.com/wiki/Moonsong "Moonsong") for a means to sustain themselves.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-3">[3]</a></sup>
+
+Around 6,000 [BDP](https://wowpedia.fandom.com/wiki/BDP "BDP"), after witnessing [blue dragons](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") crystallize living things and draw power from them, the elves tried to interact with the dragons, who responded with either ignorance or open hostility. Out of desperation, a group of Highborne [sorcerers](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer") infiltrated the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus") and learned the dragons' techniques, but greed pushed them to pilfer some of the powerful relics stored in the blue flight's lair. This triggered magical wards which sent the blues into a frenzy. Though the elves managed to escape with their lives, they knew that the dragons would retaliate.
+
+Dozens of blue dragons indeed came down upon Shandaral. The elven sorcerers, desperate to save themselves, gathered on a cliff overlooking Moonsong, and agreed to use techniques they had acquired from the Nexus. They focused their power, hoping to crystallize a small portion of the forest and use its energies as a weapon to destroy the dragons. Their attempt failed horribly, as their reckless casting set off an enormous explosion, releasing a torrent of energy that crystallized the entire forest.
+
+The physical form of most every living creature in the region, except for the blue dragons who had sensed the impending spellwork and left, was instantly shattered, while their spirits were warped by the spell and cursed to mindlessly wander the haunted land which would become known as **Crystalsong Forest**.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-4">[4]</a></sup> Those that survived were twisted into maddened half-crystal creatures that attacked anyone they saw, such as the [crystal satyrs](https://wowpedia.fandom.com/wiki/Crystal_satyr "Crystal satyr") and [crystal dryads](https://wowpedia.fandom.com/wiki/Crystal_dryad "Crystal dryad").
+
+Their last living remnants appear to be the [Unbound](https://wowpedia.fandom.com/wiki/Unbound "Unbound"), who still wander the ruins of their ancient home.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-5">[5]</a></sup>
+
+Approximately 1,500 years later, in 4,500 BDP, [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") planted branches of Nordrassil across Northrend to stop the spread of [saronite](https://wowpedia.fandom.com/wiki/Saronite "Saronite"). One of these branches was placed within Crystalsong, and would eventually become a [Great Tree](https://wowpedia.fandom.com/wiki/Great_Tree_(Crystalsong_Forest) "Great Tree (Crystalsong Forest)") in Crystalsong.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-6">[6]</a></sup>
+
+### War against the Lich King
+
+By the time of the [war against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King"), the magical city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") was lifted and moved over Crystalsong Forest, not far from [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"). The [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand") was created as a land-outpost beneath Dalaran and was protected by a magical barrier to keep it safe from outside threats. The [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") and [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") also moved into the region, claiming the areas of [Windrunner's Overlook](https://wowpedia.fandom.com/wiki/Windrunner%27s_Overlook "Windrunner's Overlook") and [Sunreaver's Command](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Command "Sunreaver's Command"); two ruined Highborne towers. The blue dragonflight, in pursuit of the Kirin Tor as part of the [Nexus War](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War"), had set up the [Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front") as well as several [Surge needles](https://wowpedia.fandom.com/wiki/Surge_needle "Surge needle").
+
+### Recent times
+
+Several years following the fall of the Lich King, the Bronzebeard brothers returned to Northrend and cataloged their adventures. They made note that the Violet Stand no longer existed, though many other outposts still remained. The Azure Front remained active as an outpost, with the surge needles having been disabled; though the area still patrolled by dragonkin. The Sunreavers and Silver Covenant also remained active in the area in their respective outposts; despite neither outpost serving much of any purpose during the original wars.
+
+## Geography
+
+### Map and subregions
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-CrystalsongForest.jpg/revision/latest/scale-to-width-down/300?cb=20081001091342)](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-CrystalsongForest.jpg/revision/latest?cb=20081001091342)
+
+Map of Crystalsong Forest.
+
+<table><tbody><tr><td><ul><li><a href="https://wowpedia.fandom.com/wiki/Azure_Front" title="Azure Front">The Azure Front</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dalaran" title="Dalaran">Dalaran</a></li><li><a href="https://wowpedia.fandom.com/wiki/Decrepit_Flow" title="Decrepit Flow">The Decrepit Flow</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forlorn_Woods" title="Forlorn Woods">Forlorn Woods</a></li><li><a href="https://wowpedia.fandom.com/wiki/Great_Tree_(Crystalsong_Forest)" title="Great Tree (Crystalsong Forest)">The Great Tree</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mirror_of_Twilight" title="Mirror of Twilight">The Mirror of Twilight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_Rivulet" title="Twilight Rivulet">The Twilight Rivulet</a></li><li><a href="https://wowpedia.fandom.com/wiki/Unbound_Thicket" title="Unbound Thicket">The Unbound Thicket</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Shandaral" title="Ruins of Shandaral">Ruins of Shandaral</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sunreaver%27s_Command" title="Sunreaver's Command">Sunreaver's Command</a></li><li><a href="https://wowpedia.fandom.com/wiki/Windrunner%27s_Overlook" title="Windrunner's Overlook">Windrunner's Overlook</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Violet_Stand" title="Violet Stand">Violet Stand</a></li></ul></td></tr><tr><td><hr><dl><dt><a href="https://wowpedia.fandom.com/wiki/Undisplayed_location" title="Undisplayed location">Undisplayed locations</a></dt></dl><ul><li><a href="https://wowpedia.fandom.com/wiki/Path_of_the_Titans" title="Path of the Titans">Path of the Titans</a></li></ul></td></tr><tr><td><hr><dl><dt><a href="https://wowpedia.fandom.com/wiki/Warcraft_RPG" title="Warcraft RPG"><img alt="Icon-RPG.png" decoding="async" loading="lazy" width="48" height="20" data-image-name="Icon-RPG.png" data-image-key="Icon-RPG.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632" src="https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632"></a> <a href="https://wowpedia.fandom.com/wiki/Warcraft_RPG" title="Warcraft RPG">Warcraft RPG</a></dt></dl><ul><li><a href="https://wowpedia.fandom.com/wiki/Chamber_(Crystalsong_Forest)" title="Chamber (Crystalsong Forest)">The Chamber</a></li></ul></td></tr></tbody></table>
+
+### Travel hubs
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Crystalsong_Forest_Art_Justin_Kunz.jpg/revision/latest/scale-to-width-down/180?cb=20110526162754)](https://static.wikia.nocookie.net/wowpedia/images/1/10/Crystalsong_Forest_Art_Justin_Kunz.jpg/revision/latest?cb=20110526162754)
+
+Artwork of one of the large crystal trees to the east.
+
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Flight paths](https://wowpedia.fandom.com/wiki/Flight_path "Flight path") from [Windrunner's Overlook](https://wowpedia.fandom.com/wiki/Windrunner%27s_Overlook "Windrunner's Overlook")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Flight paths](https://wowpedia.fandom.com/wiki/Flight_path "Flight path") from [Sunreaver's Command](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Command "Sunreaver's Command")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Flight paths](https://wowpedia.fandom.com/wiki/Flight_path "Flight path") from [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
+
+Other transportation
+
+-   [Teleport to Dalaran Crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Dalaran_Crystal "Teleport to Dalaran Crystal") (requires having used [Teleport to Violet Stand Crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Violet_Stand_Crystal "Teleport to Violet Stand Crystal"))
+
+### Adjacent regions
+
+| Zone Name | Faction | Level Range | Direction | Access |
+| --- | --- | --- | --- | --- |
+| [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 61 - 80 | South | By foot or flight path |
+| [Zul'Drak](https://wowpedia.fandom.com/wiki/Zul%27Drak "Zul'Drak") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 64 - 80 | East | By foot or flight path |
+| [The Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 67 - 80 | North | By foot or flight path |
+| [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") | 67 - 80 | Northwest | By foot or flight path |
+
+## Notable characters
+
+_Main article: [Crystalsong Forest NPCs](https://wowpedia.fandom.com/wiki/Crystalsong_Forest_NPCs "Crystalsong Forest NPCs")_
+
+Crystalsong Forest is home to a group of [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") from [the Silver Covenant](https://wowpedia.fandom.com/wiki/The_Silver_Covenant "The Silver Covenant"), and an opposing group of [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") from [the Sunreavers](https://wowpedia.fandom.com/wiki/The_Sunreavers "The Sunreavers"). They are led by [Scout Captain Daelin](https://wowpedia.fandom.com/wiki/Scout_Captain_Daelin "Scout Captain Daelin") and [Scout Captain Elsia](https://wowpedia.fandom.com/wiki/Scout_Captain_Elsia "Scout Captain Elsia"), respectively. At the [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand"), a group of [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") mages led by [Gatekeeper Melindra](https://wowpedia.fandom.com/wiki/Gatekeeper_Melindra "Gatekeeper Melindra") stand guard against the encroaching [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight"), and above, the great enchanted city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") hovers in place, with a large populace of its own.
+
+## Resources
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Crystalsong_Forest.jpg/revision/latest/scale-to-width-down/180?cb=20080724144435)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Crystalsong_Forest.jpg/revision/latest?cb=20080724144435)
+
+Crystalsong Forest.
+
+-   [Mining](https://wowpedia.fandom.com/wiki/Mining "Mining")
+-   [Skinning](https://wowpedia.fandom.com/wiki/Skinning "Skinning")
+-   [Fishing](https://wowpedia.fandom.com/wiki/Fishing "Fishing")
+
+## Dig sites
+
+Crystalsong Forest has two [dig sites](https://wowpedia.fandom.com/wiki/Dig_site "Dig site"):
+
+1.  [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand"); contains [Night Elf Archaeology Fragments](https://wowpedia.fandom.com/wiki/Night_Elf_Archaeology_Fragment "Night Elf Archaeology Fragment").
+2.  [Ruins of Shandaral](https://wowpedia.fandom.com/wiki/Ruins_of_Shandaral "Ruins of Shandaral"); contains [Night Elf Archaeology Fragments](https://wowpedia.fandom.com/wiki/Night_Elf_Archaeology_Fragment "Night Elf Archaeology Fragment").
+
+## Wild creatures
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+**Crystalsong Forest** is a very unique place located in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Picture a forest crafted from crystal, but it would not be accurate since these are not trees. Imagine a place where crystals are as tall as trees sprout from the ground, though the ground itself is crystal as well. Better think of a winter scene, snow and ice blanketing the ground, rocks and trees. Then change that snow and ice to crystal that glows from within. That is as close as someone can describe this forest and it does not begin to explain the beauty and peace that fills it. The crystals make noise — they sing. Ancient magic is at work here.<sup id="cite_ref-LoM97_7-0"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM97-7">[7]</a></sup>
+
+Crystalsong has few residents, though they defend the forest effectively. Its crystals contain mysterious and impressive [magic](https://wowpedia.fandom.com/wiki/Magic "Magic"), enough to tempt any [arcanist](https://wowpedia.fandom.com/wiki/Arcanist "Arcanist") or [tinker](https://wowpedia.fandom.com/wiki/Tinker "Tinker"). For those allowed entry, the forest also provides an easy way to reach the [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks"), [Zul'Drak](https://wowpedia.fandom.com/wiki/Zul%27Drak "Zul'Drak"), [Icecrown Glacier](https://wowpedia.fandom.com/wiki/Icecrown_Glacier "Icecrown Glacier") or the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight").<sup id="cite_ref-LoM98_8-0"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM98-8">[8]</a></sup>
+
+In [Kaskala](https://wowpedia.fandom.com/wiki/Kaskala "Kaskala") some [tuskarr](https://wowpedia.fandom.com/wiki/Tuskarr "Tuskarr") can tell you some rumors about Crystalsong Forest's history although several of these rumors conflict, and who knows if they have any truth to them.<sup id="cite_ref-LoM98_8-1"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM98-8">[8]</a></sup> One thing is sure though, the Scourge cannot pass through this forest.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-9">[9]</a></sup>
+
+### History
+
+Crystalsong Forest was not always as it is now. Once, it resembled a normal landscape. Then, [black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") and [blue dragons](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") fought a great battle here where lots of them died. Their magic released into the air and settled as glittering light on the ground, rocks and trees. Finally, an elder blue dragon, beset by many blacks, unleashed a powerful spell to strip the life from his attackers and turn them to stone. The loose magic altered and amplified the spell, spreading it across the entire region and changing soil, stone, wood and flesh into living crystal. Only the [Great Tree](https://wowpedia.fandom.com/wiki/Great_Tree_(Crystalsong_Forest) "Great Tree (Crystalsong Forest)") was spared, protected by its [green dragon](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon") guardians. After the battle ended, the [storm giants](https://wowpedia.fandom.com/wiki/Storm_giant "Storm giant") investigated this strange new place discovering in the process that the crystals contained strong magic of their own, and began mining the forest for their own purposes. They created [crystalline golems](https://wowpedia.fandom.com/wiki/Crystalline_golem "Crystalline golem") to handle the actual work, and left these creatures to defend the forest and carry crystals back to [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar").<sup id="cite_ref-LoM98_8-2"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM98-8">[8]</a></sup>
+
+When the [Dark One](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") arrived in Northrend, he immediately sensed the power of the forest. He dispatched several of his mightiest servants to secure the region for his use. The golems destroyed them, and the green dragons eliminated the servants who approached the Great Tree. The Dark One tried again, this time sending a small army into Crystalsong, and this time the forest itself took steps. As the monstrosities approached, the forest's song grew louder, shaking every spire, and the creatures burst like shattered glass. The Dark One never made a third attempt, perhaps accepting that some force protected the forest and would not let him pass.<sup id="cite_ref-LoM97_7-1"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM97-7">[7]</a></sup>
+
+### People and culture
+
+Only two races live within Crystalsong Forest: [crystalline golems](https://wowpedia.fandom.com/wiki/Crystalline_golem "Crystalline golem") and [green dragons](https://wowpedia.fandom.com/wiki/Green_dragons "Green dragons"). Neither are particularly friendly or have any real home or culture.
+
+The crystalline golems are constructs created by the storm giants up in Ulduar who use crystal from this forest in their experiments and items, and send the golems to fetch it. The golems also protect this place from travelers who might despoil it or settle here and destroy the region's magic. But if you are peaceful, you may pass trough the forest freely.<sup id="cite_ref-LoM97_7-2"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM97-7">[7]</a></sup>
+
+Green dragons live only around the Great Tree. They don't care about anyone that is crossing the forest unless they approach the Great Tree, in which case they will be warned and destroyed if do not turn back.<sup id="cite_ref-LoM97_7-3"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM97-7">[7]</a></sup><sup id="cite_ref-LoM98_8-3"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM98-8">[8]</a></sup>
+
+### Geography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Crystalsong.JPG/revision/latest/scale-to-width-down/180?cb=20060413063231)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Crystalsong.JPG/revision/latest?cb=20060413063231)
+
+Map of Crystalsong Forest in _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_.
+
+The ground here rolls slightly, not enough to produce real hills or valleys but enough to keep it from being utterly flat. The crystals vary in size, from a few feet to hundreds of feet high, and from a small tree to a large house in width. Small streams flow here and there, probably where snowmelt has worn channels in the crystal. When those streams reach the edge of one level and fall to the next they turn into waterfalls. It is breathtaking watching that water cascade down, lit from behind by the crystals' light.
+
+It is unknown who dubbed this place a forest, though. Some people would have found more fitting naming it as Crystalsong Canyon, or Valley or Landscape. Many of the crystals do rise like trees, tall and straight, but others are wide and flat or slightly curved or tilted at some strange angle. It really is an entire land of crystal, as if something took an ordinary region and transformed everything within it.
+
+The only other creatures here are [birds](https://wowpedia.fandom.com/wiki/Bird "Bird"). They perch everywhere, flitting from crystal to crystal and singing as they go. The sound echoes, and the crystals resonate to it, amplifying notes and creating new melodies from several sources. The forest itself seems to be playing music, and you can feel it through your feet and up through your bones. It is lovely and in most places so soft you strain to hear it, but it never completely fades. It is important to note, though, that even if there were no birds here, the crystals would still sing. This is old magic and has nothing to do with wildlife.
+
+The [Great Tree](https://wowpedia.fandom.com/wiki/Great_Tree_(Crystalsong_Forest) "Great Tree (Crystalsong Forest)") is the only settlement of any sort in the forest, although there is [a mysterious chamber](https://wowpedia.fandom.com/wiki/Chamber_(Crystalsong_Forest) "Chamber (Crystalsong Forest)") near its center. The golems are not technically alive and are always busy here, so they have no camp anywhere. Travelers who are allowed entrance set up camp anywhere the ground is level enough and open enough, but they never stay long. Only the dragons remain.<sup id="cite_ref-LoM98_8-4"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-LoM98-8">[8]</a></sup>
+
+## Notes and trivia
+
+-   In _[The Art of World of Warcraft: Wrath of the Lich King](https://wowpedia.fandom.com/wiki/The_Art_of_World_of_Warcraft:_Wrath_of_the_Lich_King "The Art of World of Warcraft: Wrath of the Lich King")_, the summary for Crystalsong Forest indicates that the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") and [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") are fighting for control of the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") ruins in the zone, though this plotline is never touched on in the game.
+-   Crystalsong Forest is notoriously empty in comparison to other Northrend zones, and scarce on quests except those from the [Argent Tournament](https://wowpedia.fandom.com/wiki/Argent_Tournament "Argent Tournament"). This is because the Argent Tournament was originally supposed to reside here, but these plans were changed because it would be too close to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), which ended up being a greater resource hog than Blizzard anticipated.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest#cite_note-10">[10]</a></sup>
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Crystalsong_Forest_Art.jpg/revision/latest/scale-to-width-down/120?cb=20110609194927)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Crystalsong_Forest_Art.jpg/revision/latest?cb=20110609194927)
+    
+    Concept art of Crystalsong Forest, resembling more the forest's original description in the RPG.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dc/Crystalsong_Forest_from_Crystal_Vice.jpg/revision/latest/scale-to-width-down/120?cb=20080826052629)](https://static.wikia.nocookie.net/wowpedia/images/d/dc/Crystalsong_Forest_from_Crystal_Vice.jpg/revision/latest?cb=20080826052629)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Crystal_Song_Forest.jpg/revision/latest/scale-to-width-down/120?cb=20080808135739)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Crystal_Song_Forest.jpg/revision/latest?cb=20080808135739)
+    
+    Crystal trees.
+    
+
+## Patch changes
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/zone=2817)
+-   [WoWDB](https://www.wowdb.com/zones/2817)
+
+-   [Official Northrend Atlas](http://www.worldofwarcraft.com/wrath/features/northrend/worldmap.xml)<sup>[<em>dead link&nbsp;- <a target="_self" rel="nofollow" href="https://web.archive.org/web/20081120132813/https://www.worldofwarcraft.com/wrath/features/northrend/worldmap.xml">archived copy</a></em>]</sup>
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Crystalsong_Forest "Template:Crystalsong Forest")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Crystalsong_Forest?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of **Crystalsong Forest**
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Crystalsong Forest is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Crystalsong Forest is a contested territory")
+
+ | 
+
+-   [The Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front")
+-   [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
+-   [The Decrepit Flow](https://wowpedia.fandom.com/wiki/Decrepit_Flow "Decrepit Flow")
+-   [Forlorn Woods](https://wowpedia.fandom.com/wiki/Forlorn_Woods "Forlorn Woods")
+-   [The Great Tree](https://wowpedia.fandom.com/wiki/Great_Tree_(Crystalsong_Forest) "Great Tree (Crystalsong Forest)")
+-   [The Mirror of Twilight](https://wowpedia.fandom.com/wiki/Mirror_of_Twilight "Mirror of Twilight")
+-   [The Twilight Rivulet](https://wowpedia.fandom.com/wiki/Twilight_Rivulet "Twilight Rivulet")
+-   [The Unbound Thicket](https://wowpedia.fandom.com/wiki/Unbound_Thicket "Unbound Thicket")
+    -   [Ruins of Shandaral](https://wowpedia.fandom.com/wiki/Ruins_of_Shandaral "Ruins of Shandaral")
+    -   [Sunreaver's Command](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Command "Sunreaver's Command")
+    -   [Windrunner's Overlook](https://wowpedia.fandom.com/wiki/Windrunner%27s_Overlook "Windrunner's Overlook")
+-   [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand")
+
+
+
+ | 
+
+[![Map of Crystalsong Forest](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-CrystalsongForest.jpg/revision/latest/scale-to-width-down/120?cb=20081001091342)](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-CrystalsongForest.jpg/revision/latest?cb=20081001091342 "Map of Crystalsong Forest")
+
+ |
+|  |
+| 
+
+-   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Path of the Titans](https://wowpedia.fandom.com/wiki/Path_of_the_Titans "Path of the Titans")
+
+
+
+ |
+|  |
+| 
+
+[Crystalsong Forest category](https://wowpedia.fandom.com/wiki/Category:Crystalsong_Forest "Category:Crystalsong Forest")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Northrend "Template:Northrend")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Northrend?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Northrend is an in-game continent](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Northrend is an in-game continent")
+
+ | 
+
+-   [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra")
+    -   [Coldarra](https://wowpedia.fandom.com/wiki/Coldarra "Coldarra")
+-   **Crystalsong Forest**
+    -   [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
+-   [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight")
+    -   [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub")
+-   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")
+-   [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord")
+-   [Hrothgar's Landing](https://wowpedia.fandom.com/wiki/Hrothgar%27s_Landing "Hrothgar's Landing")
+-   [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown")
+-   [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin")
+-   [The Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks")
+-   [Wintergrasp](https://wowpedia.fandom.com/wiki/Wintergrasp "Wintergrasp")
+-   [Zul'Drak](https://wowpedia.fandom.com/wiki/Zul%27Drak "Zul'Drak")
+
+
+
+ | 
+
+[![Map of Northrend](https://static.wikia.nocookie.net/wowpedia/images/2/27/WorldMap-NorthrendUpdated.jpg/revision/latest/scale-to-width-down/120?cb=20190721153240)](https://static.wikia.nocookie.net/wowpedia/images/2/27/WorldMap-NorthrendUpdated.jpg/revision/latest?cb=20190721153240 "Map of Northrend")
+
+ |
+|  |
+| 
+
+[Northrend category](https://wowpedia.fandom.com/wiki/Category:Northrend "Category:Northrend")
+
+
+
+ |

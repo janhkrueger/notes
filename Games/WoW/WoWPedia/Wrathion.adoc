@@ -1,0 +1,843 @@
+_For the NPC faction, see [Wrathion (faction)](https://wowpedia.fandom.com/wiki/Wrathion_(faction) "Wrathion (faction)"). For tactics on the [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City") encounter, see [Wrathion, the Black Emperor](https://wowpedia.fandom.com/wiki/Wrathion,_the_Black_Emperor "Wrathion, the Black Emperor")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Wrathion |
+| --- |
+| [![Image of Wrathion](https://static.wikia.nocookie.net/wowpedia/images/9/91/Dragonflight_Wrathion_Bayard_Wu.jpg/revision/latest/scale-to-width-down/200?cb=20220930183242)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Dragonflight_Wrathion_Bayard_Wu.jpg/revision/latest?cb=20220930183242 "Image of Wrathion") |
+| Title | <The Black Prince> |
+| Gender | Male |
+| Race | [Black drake](https://wowpedia.fandom.com/wiki/Black_drake "Black drake") ([Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")) |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Himself](https://wowpedia.fandom.com/wiki/Black_Prince "Black Prince"), [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), [Blacktalon](https://wowpedia.fandom.com/wiki/Blacktalon "Blacktalon") |
+| Former affiliation(s) | [Ravenholdt](https://wowpedia.fandom.com/wiki/Ravenholdt "Ravenholdt") |
+| Occupation | Self-proclaimed leader of the black dragonflight<sup id="cite_ref-Kosak-prince_1-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-Kosak-prince-1">[1]</a></sup> |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Wrathion#Locations) |
+| Status | Alive |
+| Relative(s) | [Nyxondra](https://wowpedia.fandom.com/wiki/Nyxondra "Nyxondra") (mother),  
+Unknown father,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-2">[2]</a></sup>  
+[Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") ([grandfather](https://wowpedia.fandom.com/wiki/Wrathion#Heritage "Wrathion")),  
+[Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") (uncle),  
+[Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") (aunt),<sup id="cite_ref-Kosak_3-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-Kosak-3">[3]</a></sup>  
+[Sabellian](https://wowpedia.fandom.com/wiki/Sabellian "Sabellian") (half-uncle) |
+| Companion(s) | [Right](https://wowpedia.fandom.com/wiki/Right "Right"), [Left](https://wowpedia.fandom.com/wiki/Left "Left") (bodyguards); [Alex](https://wowpedia.fandom.com/wiki/Alex_(battle_pet) "Alex (battle pet)"), [Dah'da](https://wowpedia.fandom.com/wiki/Dah%27da "Dah'da"), [Cindy](https://wowpedia.fandom.com/wiki/Cindy "Cindy") (pets) |
+
+“I will NOT be held accountable for the sins of [my father](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"). My destiny will be my own.”
+
+— Wrathion<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-4">[4]</a></sup>
+
+**Wrathion**, the Black Prince, is one of the few [black dragons](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-5">[5]</a></sup> known to be uncorrupted by the taint of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") and, following the death of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") and the destruction of the corrupted [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), one of the last known black dragons alive on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Claiming to have seen a future where Azeroth falls, Wrathion helped [heroes](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") gaining powers, usually in the form of magical legendary items. He is, however, ruthless in his goals and pursues what he perceives as the greater good for Azeroth with almost fanatical devotion. As the self-proclaimed last black dragon, Wrathion believes that the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan")' mandate to protect Azeroth now falls to him, and he will do whatever it takes to fulfill this charge once entrusted to Deathwing,<sup id="cite_ref-WC_6-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-WC-6">[6]</a></sup> that he personally identifies as his father. Most dragons do regard their aspect as their progenitor since they were the genesis of their kind out of the proto-drake stage of evolution, albeit through the direct hand of the titan watchers, but with Deathwing's infamous history it carries a bit more significance.
+
+After being purified and hatched during the [war against Deathwing](https://wowpedia.fandom.com/wiki/War_against_Deathwing "War against Deathwing"), Wrathion saw to the death of every other black dragon he knew of, including his father. He decided to take on the appearance of a dark-skinned human for his mortal disguise, and provided an [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") [rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue") with the [Fangs of the Father](https://wowpedia.fandom.com/wiki/Fangs_of_the_Father "Fangs of the Father") to hunt down the last dragons of the black dragonflight in Azeroth. After he nearly survived an assassination attempt of the [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), he claimed to take his destiny into his own hands and disappeared.
+
+As the [Alliance-Horde war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war") intensified on [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"), Wrathion traveled to the once hidden continent and created his own [organization](https://wowpedia.fandom.com/wiki/Black_Prince "Black Prince"), he then sought to use an adventurer gifted with a [powerful cloak](https://wowpedia.fandom.com/wiki/A_Pandaren_Legend "A Pandaren Legend") of his own creation in a plot to have one side wipe out the other,<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-7">[7]</a></sup> making the world more secure against [greater](https://wowpedia.fandom.com/wiki/Old_God "Old God") [threats](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-8">[8]</a></sup> While his plan ultimately failed when King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") decided to make peace with Warchief [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") instead of dismantling the Horde, Wrathion's ambition to safeguard the world remained unchanged. After he helped [Kairozdormu](https://wowpedia.fandom.com/wiki/Kairozdormu "Kairozdormu") release [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") during his [trial](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes"), Wrathion stayed in the shadows, observing the conflict between the forces of Azeroth and the [Iron Horde](https://wowpedia.fandom.com/wiki/Iron_Horde "Iron Horde"), and which side would win the [war in Draenor](https://wowpedia.fandom.com/wiki/War_in_Draenor "War in Draenor").
+
+For years he traveled across Azeroth, seeking a way to fight the madness that once corrupted his flight. Near the end of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), as [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") was the one primarily responsible for his father's corruption, Wrathion once again offered his assistance.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-9">[9]</a></sup> This time, he created [Ashjra'kamas, Shroud of Resolve](https://wowpedia.fandom.com/wiki/Ashjra%27kamas,_Shroud_of_Resolve "Ashjra'kamas, Shroud of Resolve") to help Azeroth's champions resist the Old God's corruptive influence. Following the end of the Old God, Wrathion vowed that the black dragonflight would forevermore stand in defense of Azeroth, alongside its champions.
+
+With the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") rediscovered, Wrathion now contends with [Sabellian](https://wowpedia.fandom.com/wiki/Sabellian "Sabellian") for the right to become the new Aspect of the black dragonflight.
+
+## Biography
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Wrathion_Egg.jpg/revision/latest/scale-to-width-down/180?cb=20220425123148)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Wrathion_Egg.jpg/revision/latest?cb=20220425123148)
+
+The  ![](https://static.wikia.nocookie.net/wowpedia/images/2/20/Inv_egg_09.png/revision/latest/scale-to-width-down/16?cb=20080831174012)[\[Purified Black Dragon Egg\]](https://wowpedia.fandom.com/wiki/Purified_Black_Dragon_Egg), which contains the unborn [black whelp](https://wowpedia.fandom.com/wiki/Black_whelp "Black whelp") Wrathion.
+
+The ambitious [red dragon](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon") [Rheastrasza](https://wowpedia.fandom.com/wiki/Rheastrasza "Rheastrasza"), also known by her [goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin") guise [Rhea](https://wowpedia.fandom.com/wiki/Rhea "Rhea"), traveled to the [Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands") to research the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") and to find a way to purify them. She hired a [group](https://wowpedia.fandom.com/wiki/Bad_Dogs "Bad Dogs") of [mercenaries](https://wowpedia.fandom.com/wiki/Mercenary "Mercenary"),<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-10">[10]</a></sup> and has captured the black dragon, [Nyxondra](https://wowpedia.fandom.com/wiki/Nyxondra "Nyxondra"), to force her to lay eggs for the experiments, in hopes of laying a uncorrupted black dragon egg.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-11">[11]</a></sup> It was later revealed that Nyxondra was in fact a sister of [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia"),<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-12">[12]</a></sup> and thus a daughter of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") himself, the grandfather of Wrathion.
+
+#### Unhatched
+
+Eventually, Rheastrasza and [Dr. Hieronymus Blam](https://wowpedia.fandom.com/wiki/Dr._Hieronymus_Blam "Dr. Hieronymus Blam") succeeded in creating a purified black dragon egg with an [ancient titan device](https://wowpedia.fandom.com/wiki/Eye_of_the_Watchers "Eye of the Watchers"), a black whelp corpse, a wild black dragon egg and one of Nyxondra's eggs.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-13">[13]</a></sup> She constantly moved around to avoid being found by agents of the black dragonflight, who wanted to destroy the egg. She was however killed by [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") in the end, who was after the egg.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-14">[14]</a></sup> The egg he destroyed, however, was not the purified one, but Rheastrasza's own egg. [Hieronymus Blam](https://wowpedia.fandom.com/wiki/Hieronymus_Blam "Hieronymus Blam") had already moved the real purified egg to a safer location, away from the Badlands, so it could continue to grow, out of Deathwing's sight.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-15">[15]</a></sup> The egg was hidden under the care of [Corastrasza](https://wowpedia.fandom.com/wiki/Corastrasza "Corastrasza") in [Vermillion Redoubt](https://wowpedia.fandom.com/wiki/Vermillion_Redoubt "Vermillion Redoubt"), a [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") outpost in the [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands").<sup id="cite_ref-A_Hidden_Message_16-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-A_Hidden_Message-16">[16]</a></sup>
+
+However, six months later, shortly before he was born, the egg was stolen by the assassins of [Ravenholdt](https://wowpedia.fandom.com/wiki/Ravenholdt "Ravenholdt"). Consequently, the red dragonflight sent the red drake [Mostrasz](https://wowpedia.fandom.com/wiki/Mostrasz "Mostrasz") and a [rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue") [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to find it. The trail led them to [Ravenholdt Manor](https://wowpedia.fandom.com/wiki/Ravenholdt_Manor "Ravenholdt Manor"),<sup id="cite_ref-A_Hidden_Message_16-1"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-A_Hidden_Message-16">[16]</a></sup><sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-17">[17]</a></sup> in the northeast of [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"), where it was revealed that Wrathion has hatched and was now in charge of the whole operation.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-18">[18]</a></sup><sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-19">[19]</a></sup>
+
+#### The Black Prince
+
+“Tell them that I am free of my father's madness, and I will be free of them as well. I am to be left alone: this will be my first and only warning.”
+
+— Wrathion's message for the [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Wrathion_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20210404001744)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Wrathion_TCG.jpg/revision/latest?cb=20210404001744)
+
+Wrathion, the Black Prince.
+
+Though a whelping, Wrathion was wise and powerful beyond his years. Free of Deathwing's control, he saw with clear eyes what had become of the black dragons, and recognized the threat they posed to Azeroth. He knew of only one way to purify the flight: death. Thus, he launched a brutal campaign to assassinate the world's remaining black dragons.<sup id="cite_ref-Chronicle_3_20-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-Chronicle_3-20">[20]</a></sup>
+
+On his first encounter with the rogue adventurer, he revealed that like all dragons he was conscious in his egg, listening to the plots and intrigues about him, and understood that he was born to be a prisoner. Therefore, he announced that he intended to stay free, and that the rogue adventurer were valuable to him, as they managed to reach him by eluding all his guards in the manor. At the same time, the right hand of the Black Prince, [Fahrad](https://wowpedia.fandom.com/wiki/Fahrad "Fahrad"), brought Mostrasz into the cellar after he captured him. Wrathion introduced himself to the latter as his former prisoner, and ordered him to serve as a messenger to his dragonflight, announcing that he was free from his father's corruption, that he intended to remain free, that Deathwing's minions should be afraid of him, and that this warning was the first and the last. He then ordered Fahrad to throw him out and to break his legs, before resuming his conversation with the rogue adventurer, explaining that dark dragons frequently disguise themselves as mortals to create chaos around them, and that the last survivors of the black dragonflight must be found and eliminated, as they are threats to Wrathion and Azeroth itself. In exchange for rewards, they agreed to help the Black Prince, and their first mission was located in the [Ruins of Gilneas](https://wowpedia.fandom.com/wiki/Ruins_of_Gilneas "Ruins of Gilneas").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-21">[21]</a></sup><sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-22">[22]</a></sup>
+
+As the only pure member of his dragonflight, Wrathion decided that it was his misson to make sure that all his corrupted brothers and sisters must be destroyed. The first of them was [Lord Hiram Creed](https://wowpedia.fandom.com/wiki/Lord_Hiram_Creed "Lord Hiram Creed"), a black dragon disguised as an affluent [Gilnean](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") noble who manipulated a group of Gilnean [humans](https://wowpedia.fandom.com/wiki/Human "Human") and [worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen") named the [Blackhowl](https://wowpedia.fandom.com/wiki/Blackhowl "Blackhowl") in [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City"), secretly infecting them with his own draconic blood. As none of Ravenholdt's assassins were able to infiltrate the city, the rogue adventurer was sent to assassinate the [Drakonid](https://wowpedia.fandom.com/wiki/Drakonid "Drakonid"), and managed to kill him, to the surprise of the Black Prince who was greatly impressed.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-23">[23]</a></sup> He rewarded them with the daggers named [Vengeance](https://wowpedia.fandom.com/wiki/Vengeance_(dagger) "Vengeance (dagger)") and [Fear](https://wowpedia.fandom.com/wiki/Fear_(dagger) "Fear (dagger)"), and promised them more powers if they returned with some spell reagents acquired from Deathwing's minions.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-24">[24]</a></sup>
+
+To Wrathion's surprise, his rogue champion returned some weeks later with what he asked, and eager for another assignment.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-25">[25]</a></sup> In order to improve the daggers he offered them, he ordered the elimination of [Nalice](https://wowpedia.fandom.com/wiki/Nalice "Nalice"),<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-26">[26]</a></sup> a black dragon who served as the Ambassador of the Black Dragonflight in the Wyrmrest Accord, but who mysteriously disappeared from Wyrmrest Temple in the wake of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s reemergence and his [shattering](https://wowpedia.fandom.com/wiki/Shattering "Shattering") of Azeroth. She was found by the Black Prince and his agents, hiding with her [Blackwyrm Cult](https://wowpedia.fandom.com/wiki/Blackwyrm_Cult "Blackwyrm Cult") in the [Master's Cellar](https://wowpedia.fandom.com/wiki/Master%27s_Cellar "Master's Cellar") beneath [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"), researching arcane secrets buried beneath the foundation to perform some sort of arcane experiments.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-27">[27]</a></sup> Pleasantly surprised by their victory, Wrathion used Nalice's blood to upgrade the vicious twin daggers of his favorite assassin,<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-28">[28]</a></sup> before dispatching them again into the fray to collect more resources.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-29">[29]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Wrathion_humanoid_form.jpg/revision/latest/scale-to-width-down/106?cb=20220425211032)](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Wrathion_humanoid_form.jpg/revision/latest?cb=20220425211032)
+    
+    Wrathion's visage form after hatching.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Wrathion_ordering_Fahrad.jpg/revision/latest/scale-to-width-down/120?cb=20220426164758)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Wrathion_ordering_Fahrad.jpg/revision/latest?cb=20220426164758)
+    
+    Wrathion ordering [Fahrad](https://wowpedia.fandom.com/wiki/Fahrad "Fahrad") to break Mostrasz's legs.
+    
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Wrathion_confronts_Fahrad.jpg/revision/latest/scale-to-width-down/180?cb=20220425161817)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Wrathion_confronts_Fahrad.jpg/revision/latest?cb=20220425161817)
+
+Wrathion confronts Fahrad, a black dragon, about the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")' voices in his head.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/04/Wrathion_attacks_Fahrad.jpg/revision/latest/scale-to-width-down/180?cb=20220425161815)](https://static.wikia.nocookie.net/wowpedia/images/0/04/Wrathion_attacks_Fahrad.jpg/revision/latest?cb=20220425161815)
+
+Wrathion uses his powers to immobilize Fahrad.
+
+After some weeks, Wrathion greeted his rogue champion fresh and ready for his hardest assignment, ignoring Fahrad's warnings, he ordered the adventurer to kill his father. He warned them not to underestimate Deathwing, and that it would be necessary to annihilate him completely, otherwise the heart of his madness in his broken body would try to destroy them. He confessed that he wanted to help them, but couldn't bring himself to do so, as the Black Aspect was the only dragon he feared. In secret, he told himself that it was the last time he saw his champion, not imagining for even a moment that they could accomplish their mission.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-30">[30]</a></sup><sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-31">[31]</a></sup> But once again, he underestimated them, and ultimately, his favorite assassin returned triumphant to collect their final reward after they destroyed the Worldbreaker with the heroes of Azeroth.
+
+However, prior to their arrival, the red dragonflight attacked Ravenholdt Manor to kill Wrathion, the latter managed to survive and killed Mostrasz himself, although many of its agents were killed in the battle. After rewarding his rogue champion one last time with [Golad, Twilight of Aspects](https://wowpedia.fandom.com/wiki/Golad,_Twilight_of_Aspects "Golad, Twilight of Aspects") and [Tiriosh, Nightmare of Ages](https://wowpedia.fandom.com/wiki/Tiriosh,_Nightmare_of_Ages "Tiriosh, Nightmare of Ages"), the legendary [Fangs of the Father](https://wowpedia.fandom.com/wiki/Fangs_of_the_Father), he announced his final mission, to kill the last black dragon, Fahrad himself. The Black Prince revealed that he already knew the truth since the beginning, thanking the latter for saving him while he was still in his egg, but announced that as a black dragon he was also a victim of the corruption of the Old Gods and must be eliminated. Despite Fahrad insisting that he was in control, the Old Gods' voices in his head were angered by Wrathion's actions and forced Fahrad to try to kill the Black Prince, as he was too difficult to control. As Fahrad revealed his true nature, Wrathion announced that he would never be controlled, that the red dragonflight had no idea what they unleashed when they had experimented on his egg, before he immobilized his former ally and ordered the rogue adventurer to deal the killing blow with his new powers.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-32">[32]</a></sup>
+
+Following their victory, Wrathion announced that to his knowledge he was the last black dragon in Azeroth, and that it was time for him to disappear, expecting to meet his rogue champion once again in the future. With his destiny in his own hands, he left the assassins of Ravenholdt behind to seek his destiny elsewhere, as he heard rumors of a new land "beyond the mists of the sea".<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-33">[33]</a></sup>
+
+With his bloody work done, Wrathion stood as one of the last living black dragons.<sup id="cite_ref-Chronicle_3_20-1"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-Chronicle_3-20">[20]</a></sup>
+
+### Mists of Pandaria
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Wrathion_at_Tavern_in_the_Mists.jpg/revision/latest/scale-to-width-down/140?cb=20211012162045)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Wrathion_at_Tavern_in_the_Mists.jpg/revision/latest?cb=20211012162045)
+
+Wrathion at the [Tavern in the Mists](https://wowpedia.fandom.com/wiki/Tavern_in_the_Mists "Tavern in the Mists").
+
+In [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"), Wrathion made his base in the [Tavern in the Mists](https://wowpedia.fandom.com/wiki/Tavern_in_the_Mists "Tavern in the Mists"), which is found in the [Veiled Stair](https://wowpedia.fandom.com/wiki/Veiled_Stair "Veiled Stair"), after experiencing a vision of Azeroth's destruction.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-34">[34]</a></sup> To prevent his vision from becoming a reality, Wrathion sent [invitations](https://wowpedia.fandom.com/wiki/Mysterious_Note "Mysterious Note") to adventurers from all walks of life to aid him in shaping the course of the coming conflict.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-35">[35]</a></sup>
+
+Wrathion foreshadowed a terrible threat to Azeroth coming, a threat that a divided Azeroth couldn't hope to stand against; the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Thus he believed the only way to prepare Azeroth for the coming threat was to have one faction win and dominate the other. He advised adventurers to bring a swift end to the [Alliance-Horde war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war") and gave his unwavering support to whichever faction the adventurer belonged to.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-36">[36]</a></sup>
+
+Wrathion challenged the adventurers he recruited to prove their strength to him by vanquishing the [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu") minions who inhabit [Shan'ze Dao](https://wowpedia.fandom.com/wiki/Shan%27ze_Dao "Shan'ze Dao"), and the [sha](https://wowpedia.fandom.com/wiki/Sha "Sha")\-corrupted [mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid") swarming the [Dread Wastes](https://wowpedia.fandom.com/wiki/Dread_Wastes "Dread Wastes"). He also tasked adventurers to acquire sigils of power and wisdom from fallen heroes in the [Mogu'shan Vaults](https://wowpedia.fandom.com/wiki/Mogu%27shan_Vaults "Mogu'shan Vaults"), the [Heart of Fear](https://wowpedia.fandom.com/wiki/Heart_of_Fear "Heart of Fear"), or the [Terrace of Endless Spring](https://wowpedia.fandom.com/wiki/Terrace_of_Endless_Spring "Terrace of Endless Spring").<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-37">[37]</a></sup> After slaying enough of these enemies to earn an honored reputation with him,<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-38">[38]</a></sup> Wrathion challenged the adventurer to hunt down the [Sha of Fear](https://wowpedia.fandom.com/wiki/Sha_of_Fear "Sha of Fear") and despoil it of its [Chimera of Fear](https://wowpedia.fandom.com/wiki/Chimera_of_Fear "Chimera of Fear"). After taking down the sha at the [Terrace of Endless Spring](https://wowpedia.fandom.com/wiki/Terrace_of_Endless_Spring "Terrace of Endless Spring"),<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-39">[39]</a></sup> and accomplishing all of his undertakings, Wrathion took the adventurers to [Mason's Folly](https://wowpedia.fandom.com/wiki/Mason%27s_Folly "Mason's Folly") where he used the combined powers of the sigils of power and wisdom; as well as the chimera of fear to create a sha-touched gem. After Wrathion gifted the gem to his champion,<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-40">[40]</a></sup> he asked them to let him know when their faction's naval fleet arrived; and also proclaimed that no matter how unsavory his methods become, he would remain resolute in his protection of Azeroth.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-41">[41]</a></sup>
+
+#### Landfall
+
+After the faction's fleet arrived in Pandaria, Wrathion wanted to test the adventurer's commitment to the Alliance-Horde war and thus tasked them to kill enemy faction soldiers at the shores in order to prove that their faction deserves to win the war.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-42">[42]</a></sup> Then, in the [Tavern in the Mists](https://wowpedia.fandom.com/wiki/Tavern_in_the_Mists "Tavern in the Mists"), Wrathion summoned images of [King Varian Wrynn](https://wowpedia.fandom.com/wiki/King_Varian_Wrynn "King Varian Wrynn") and [Warchief Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Warchief_Garrosh_Hellscream "Warchief Garrosh Hellscream") to talk about their pasts and how they fared as leaders.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-43">[43]</a></sup> Wrathion also wanted to test the adventurer's valor by having them gather 3,000  ![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Pvecurrency-valor.png/revision/latest/scale-to-width-down/16?cb=20100928163319)[\[Valor Points\]](https://wowpedia.fandom.com/wiki/Valor_Points). He used his blood to see through their eyes, thus monitoring their progress.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-44">[44]</a></sup> Afterwards, Wrathion requested that they kill their opposing faction's commander in [Krasarang Wilds](https://wowpedia.fandom.com/wiki/Krasarang_Wilds "Krasarang Wilds").<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-45">[45]</a></sup> In addition to slaughtering the enemy commander, Wrathion required that they achieve a victory in both [Silvershard Mines](https://wowpedia.fandom.com/wiki/Silvershard_Mines "Silvershard Mines") and [Temple of Kotmogu](https://wowpedia.fandom.com/wiki/Temple_of_Kotmogu "Temple of Kotmogu").<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-46">[46]</a></sup><sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-47">[47]</a></sup> After all these tasks, he brought up the faction leaders again and discussed their merits as leaders and what he's learned about each respective faction. He asked the adventurers to continue to hone their skills in Pandaria and then armed them with the [Eye of the Black Prince](https://wowpedia.fandom.com/wiki/Eye_of_the_Black_Prince "Eye of the Black Prince") to increase their prowess. At last, he brought up about a new threat: [Emperor Lei Shen, the Thunder King](https://wowpedia.fandom.com/wiki/Emperor_Lei_Shen "Emperor Lei Shen").<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-48">[48]</a></sup><sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-49">[49]</a></sup>
+
+#### Rise of the Thunder King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Wrathion_whelp.jpg/revision/latest/scale-to-width-down/180?cb=20220425210146)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Wrathion_whelp.jpg/revision/latest?cb=20220425210146)
+
+Wrathion seen as a [whelp](https://wowpedia.fandom.com/wiki/Black_whelp "Black whelp") at the [Thunder Forges](https://wowpedia.fandom.com/wiki/Thunder_Forges "Thunder Forges").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Wrathion_and_Anduin.jpg/revision/latest/scale-to-width-down/180?cb=20130215023826)](https://static.wikia.nocookie.net/wowpedia/images/3/30/Wrathion_and_Anduin.jpg/revision/latest?cb=20130215023826)
+
+Wrathion and Anduin chatting.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Gods_and_Monsters_-_Wrathion_and_Deathwing.jpg/revision/latest/scale-to-width-down/180?cb=20130227212702)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Gods_and_Monsters_-_Wrathion_and_Deathwing.jpg/revision/latest?cb=20130227212702)
+
+Wrathion and Deathwing in [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho")'s story.
+
+In the [Tavern in the Mists](https://wowpedia.fandom.com/wiki/Tavern_in_the_Mists "Tavern in the Mists"), while [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") was [recovering from his wounds](https://wowpedia.fandom.com/wiki/Breath_of_Darkest_Shadow "Breath of Darkest Shadow"), he played the pandaren board game [jihui](https://wowpedia.fandom.com/wiki/Jihui "Jihui") with Wrathion. Both of them have been discussing current events and as they played, they discussed [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen") the Thunder King, and his leadership style; to which they disagreed with each other if whether his tyrannical and brutal reign should be applauded or not. Anduin disapproved of Wrathion's hard cutthroat outlook and Wrathion likewise thought Anduin too soft. At this point, Wrathion recruited the adventurer to act as his champion and to show his might by terrorizing any [mogu](https://wowpedia.fandom.com/wiki/Mogu "Mogu"), [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari "Zandalari"), or [saurok](https://wowpedia.fandom.com/wiki/Saurok "Saurok") they could find.
+
+As Wrathion desired to know the origin and source of mogu power, Azeroth's adventurers aided the Black Prince in finding out what it was. The search for information took them into the depths of the Thunder King's Palace, the [Throne of Thunder](https://wowpedia.fandom.com/wiki/Throne_of_Thunder "Throne of Thunder"), where they collected for him 20 [Secrets of the Empire](https://wowpedia.fandom.com/wiki/Secrets_of_the_Empire "Secrets of the Empire") and 40 [Trillium Bars](https://wowpedia.fandom.com/wiki/Trillium_Bar "Trillium Bar").<sup id="cite_ref-SotFE_50-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-SotFE-50">[50]</a></sup> Wrathion and the adventurer then progressed to the [Thunder Forges](https://wowpedia.fandom.com/wiki/Thunder_Forges "Thunder Forges") where he planed to use all the trillium they gathered to forge an instrument of power that he claimed he would used for the purpose of "world peace". Once they got the Thunder Forge up and running, Wrathion tasked the adventurer to defend the [Celestial Blacksmith](https://wowpedia.fandom.com/wiki/Celestial_Blacksmith "Celestial Blacksmith") from the [sha](https://wowpedia.fandom.com/wiki/Sha "Sha") until it finished forging the [Lightning Lance](https://wowpedia.fandom.com/wiki/Lightning_Lance "Lightning Lance"). Once completed, Wrathion's champion used the Lightning Lance to vanquish the [Sha Amalgamation](https://wowpedia.fandom.com/wiki/Sha_Amalgamation "Sha Amalgamation"). Although the Lightning Lance proved itself a useful weapon, it needed to be charged by the power of the Thunder King in order to wake it from its dormancy.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-51">[51]</a></sup> Wrathion then asked his champion to assault the [Foot of Lei Shen](https://wowpedia.fandom.com/wiki/Foot_of_Lei_Shen "Foot of Lei Shen") and to use the Lightning Lance on [Storm Lord Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak") before slaying the beast.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-52">[52]</a></sup> From the mogu artifacts the adventurer collected, Wrathion learned how to create the legendary metagem, [Crown of the Heavens](https://wowpedia.fandom.com/wiki/The_Crown_of_Heaven "The Crown of Heaven"). After imbuing the Lightning Lance with Nalak's power, the adventurer and Wrathion returned to [Mason's Folly](https://wowpedia.fandom.com/wiki/Mason%27s_Folly "Mason's Folly") where they created the [Sha-Touched](https://wowpedia.fandom.com/wiki/Sha-Touched "Sha-Touched") gem. There, Wrathion used the Lightning Lance to create the [Crown of Heaven](https://wowpedia.fandom.com/wiki/Crown_of_Heaven "Crown of Heaven"), which he gifted to his champion.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-53">[53]</a></sup>
+
+Anduin distrusted Wrathion and warned the adventurer to think twice before putting that thing on their head. As Wrathion needed more information to piece together how the mogu related to the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), he sent the adventurer back to the [Throne of Thunder](https://wowpedia.fandom.com/wiki/Throne_of_Thunder "Throne of Thunder") to collect 12 [Titan Runestones](https://wowpedia.fandom.com/wiki/Titan_Runestone "Titan Runestone"), which an image of Wrathion used to uncover mogu history as he translated the stones.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-54">[54]</a></sup>
+
+Once all of them have been translated, Wrathion wanted the adventurer to kill [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen") himself, to bring him the [Heart of the Thunder King](https://wowpedia.fandom.com/wiki/Heart_of_the_Thunder_King "Heart of the Thunder King"), and end the Thunder King's reign once and for all. Once the heart was given to Wrathion, he ate it and absorbed its titan magic. A glowing light appeared, showing Wrathion cosmic visions and spoke through Wrathion of a fallen titan that some mysterious power sought to rebuild. As the light faded away, Wrathion seemed to have forgotten all the information and thought the predecessors of the titans' power have forgotten as well. Not even Anduin could comprehend the message. To that regard, it was the message that the mogu didn't remember all this time, and Wrathion laughed at the irony of it. Anduin still didn't trust Wrathion, and the latter told him that it was wise that he didn't. He then asked the adventurer to give him time to "digest" what he has learned.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-55">[55]</a></sup>
+
+#### Escalation
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/A_Pandaren_Legend_-_Wrathion_wings.jpg/revision/latest/scale-to-width-down/180?cb=20220222192204)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/A_Pandaren_Legend_-_Wrathion_wings.jpg/revision/latest?cb=20220222192204)
+
+Wrathion empowering the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Achievement_zone_cataclysm.png/revision/latest/scale-to-width-down/16?cb=20180218140751)[\[Timeless Essence of the Black Dragonflight\]](https://wowpedia.fandom.com/wiki/Timeless_Essence_of_the_Black_Dragonflight).
+
+After [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen") was dead, and his artifacts were in the hands of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), Wrathion wanted to empower his champion with the full array of his draconic power, but their mortal body wasn't capable of holding such power. Instead, Wrathion planed to create a cloak of virtue that they could imbue with the power of the [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial") and some of his own as well. To create such a vessel, Wrathion required the blessings of all the August Celestials, which was only granted to those who completed their challenges. Thus Wrathion and his champion set off for the celestials' temples to fulfill their quest.
+
+At [Niuzao Temple](https://wowpedia.fandom.com/wiki/Niuzao_Temple "Niuzao Temple"), [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao") tested the adventurer's fortitude; at the [Temple of the Red Crane](https://wowpedia.fandom.com/wiki/Temple_of_the_Red_Crane "Temple of the Red Crane"), [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji") tested their hope; at the [Temple of the White Tiger](https://wowpedia.fandom.com/wiki/Temple_of_the_White_Tiger "Temple of the White Tiger"), [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen") tested their strength; and at the [Temple of the Jade Serpent](https://wowpedia.fandom.com/wiki/Temple_of_the_Jade_Serpent "Temple of the Jade Serpent"), [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon") tested their wisdom.<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-56">[56]</a></sup> With the blessing of each of the celestials, Wrathion was able to create the [Cloak of Virtue](https://wowpedia.fandom.com/wiki/Cloak_of_Virtue "Cloak of Virtue") at [Mason's Folly](https://wowpedia.fandom.com/wiki/Mason%27s_Folly "Mason's Folly"), which he gifted to his champion. Although the cloak of virtue granted the champion the power of the celestials, Wrathion was still searching for a way to imbue his own draconic power onto the cloak.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-57">[57]</a></sup>
+
+#### Siege of Orgrimmar
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5e/Judgment_of_the_Black_Prince_-_Wrathion_wroth.jpg/revision/latest/scale-to-width-down/180?cb=20130721213023)](https://static.wikia.nocookie.net/wowpedia/images/5/5e/Judgment_of_the_Black_Prince_-_Wrathion_wroth.jpg/revision/latest?cb=20130721213023)
+
+Wrathion breathes fire in a fit of anger.
+
+Wrathion was eager to explore the secrets of the [Timeless Isle](https://wowpedia.fandom.com/wiki/Timeless_Isle "Timeless Isle"), and with good reason: the island held the secret of imbuing celestial cloaks with his own formidable draconic power.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-58">[58]</a></sup> Wrathion tasked his champion to collect 5,000 [Timeless Coins](https://wowpedia.fandom.com/wiki/Timeless_Coin "Timeless Coin") so that he could deconstruct their mysterious power in order to enhance his champion's cloak.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-59">[59]</a></sup> He also challenged his champion to showcase their capabilities to the public of the [Celestial Court](https://wowpedia.fandom.com/wiki/Celestial_Court "Celestial Court") by defeating the [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial") in combat.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-60">[60]</a></sup> Bearers of this new legendary-quality cloak were able to do battle with the deadly [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos") atop the Timeless Isle, but that wasn't Wrathion's ultimate goal. Instead, the black prince hoped to send his empowered cloak-bearers into the bowels of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") to overthrow [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") himself. Wrathion also participated in the [Celestial Tournament](https://wowpedia.fandom.com/wiki/Celestial_Tournament "Celestial Tournament") with his companions - Alex, [Dah'da](https://wowpedia.fandom.com/wiki/Dah%27da "Dah'da"), and [Cindy](https://wowpedia.fandom.com/wiki/Cindy "Cindy"). After the Celestials are defeated, Wrathion, [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho") and the adventurer return to the [Seat of Knowledge](https://wowpedia.fandom.com/wiki/Seat_of_Knowledge "Seat of Knowledge") where they narrate the legend of the adventurer. Cho wished for the legend to portray the adventurer as a hero, liberator, and protector, while Wrathion wished to see them as a conqueror with none able to stand in their way.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-61">[61]</a></sup> After the legend was done, Wrathion sent the adventurer to the Siege of Orgrimmar to fulfill his hopes.
+
+When the adventurer arrived back in the [Tavern in the Mists](https://wowpedia.fandom.com/wiki/Tavern_in_the_Mists "Tavern in the Mists"), Wrathion was pacing around the room; awaiting information about what happened during the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar"). The adventurer told him about what happened in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") and he was not happy with the outcome: calling [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") a fool for allowing the Horde to continue existing. [Tong the Fixer](https://wowpedia.fandom.com/wiki/Tong_the_Fixer "Tong the Fixer") was infuriated with his constant speaking and his lack of understanding of the lessons of [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"). Tong said that the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") were not strong despite each other, they were strong _because of_ one another. Wrathion thought he was just a fool waiter, and started walking out the Tavern and proclaimed for the battle to come, he would leave nothing to chance.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-62">[62]</a></sup>
+
+### War Crimes
+
+Wrathion, alongside his bodyguards, [Right](https://wowpedia.fandom.com/wiki/Right "Right") and [Left](https://wowpedia.fandom.com/wiki/Left "Left"), attended the trial of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), frequently corresponding with [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") during intermissions. He came to acknowledge the prince of Stormwind as a personal friend, though he told him that his kind heart and desire to see good in the world would be his undoing. He sat as far from [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") as he could.
+
+Eventually, Wrathion revealed himself to be working with [Kairozdormu](https://wowpedia.fandom.com/wiki/Kairozdormu "Kairozdormu") and the [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") to free Garrosh and send him back in time to the [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") of thirty-five years ago. After incapacitating the Chu brothers so he could lock up [Chromie](https://wowpedia.fandom.com/wiki/Chromie "Chromie") for investigating Kairoz, Wrathion was confronted by Anduin, who attempted to deter his friend from freeing the captured warchief. Proclaiming that as the last of the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), the protection of Azeroth now falls to him, Wrathion knocked Anduin out and took his leave. Despite his actions, Wrathion believed this would be best for Azeroth in the coming conflict with the Legion, and maintained hope that Anduin would eventually understand his motives and even stand with him as a brother when the time comes.<sup id="cite_ref-WC_6-1"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-WC-6">[6]</a></sup>
+
+### Warlords of Draenor
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/20/Wrathion_in_Zangarra.png/revision/latest/scale-to-width-down/180?cb=20220425155454)](https://static.wikia.nocookie.net/wowpedia/images/2/20/Wrathion_in_Zangarra.png/revision/latest?cb=20220425155454)
+
+Wrathion outside [Khadgar's Tower](https://wowpedia.fandom.com/wiki/Khadgar%27s_Tower "Khadgar's Tower") in [Talador](https://wowpedia.fandom.com/wiki/Talador "Talador").
+
+Wrathion, having traveled to the alternate Draenor after the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") became connected to it, traveled to [Admiral Taylor's Garrison](https://wowpedia.fandom.com/wiki/Admiral_Taylor%27s_Garrison "Admiral Taylor's Garrison") in the [Spires of Arak](https://wowpedia.fandom.com/wiki/Spires_of_Arak "Spires of Arak"), brought there by [Sir Edward](https://wowpedia.fandom.com/wiki/Sir_Edward "Sir Edward"). Wrathion sought asylum in the Garrison, claiming he had somehow angered the local [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre"). As Wrathion was a wanted fugitive of the Alliance following the events of Garrosh's trial, the troops led by [Lady Claudia](https://wowpedia.fandom.com/wiki/Lady_Claudia "Lady Claudia") took aim. [Admiral Taylor](https://wowpedia.fandom.com/wiki/Admiral_Taylor "Admiral Taylor") claimed that Wrathion would be a "guest" in the Garrison provided he stay under house arrest and full-time guard.
+
+Wrathion provided Taylor's Garrison the resources to build an inn, and when Taylor confronted him about it Wrathion told him not to trust [Ephial](https://wowpedia.fandom.com/wiki/Ephial "Ephial"). Taylor offered a group of guards money to keep a close eye on Wrathion, but Wrathion had already paid those very same guards to watch Taylor. When Taylor left to participate in the [Ring of Blood](https://wowpedia.fandom.com/wiki/Ring_of_Blood_(alternate_universe) "Ring of Blood (alternate universe)"), Wrathion left the Garrison and took several of Taylor's best followers with him.<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-63">[63]</a></sup>
+
+Wrathion remained in hiding somewhere on Draenor until he made a minor cameo at [Khadgar's Tower](https://wowpedia.fandom.com/wiki/Khadgar%27s_Tower "Khadgar's Tower") once the adventurer had to return the [Tomes of Chaos](https://wowpedia.fandom.com/wiki/Tome_of_Chaos "Tome of Chaos") to [Cordana Felsong](https://wowpedia.fandom.com/wiki/Cordana_Felsong "Cordana Felsong"). Wrathion was momentarily seen sitting on a [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") banner in whelp form until seeing his former ally, upon which he quickly flew off to parts unknown.<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-64">[64]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+During the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), Wrathion wandered around Azeroth.<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-65">[65]</a></sup>
+
+Deaths of Chromie
+
+When [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") and an adventurer discovered that the former was going to die in the near future, they began searching for clues to who could be behind her assassination across the future Dragonshrines in [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight"). At the pathway leading into the [Obsidian Dragonshrine](https://wowpedia.fandom.com/wiki/Obsidian_Dragonshrine "Obsidian Dragonshrine"), they found Wrathion, who was bemused by skeletons occupying the shrine even though the dragons had abandoned it for some years, musing that his father would never have approved. Chromie and the adventurer confronted Wrathion, thinking he may have known something, and Wrathion was ashamed that Chromie suspected him simply for being a black dragon. As Wrathion explained, he knew nothing about the attack and was simply visiting [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") for "\[his\] own amusement", but was surprised to see a demonic infestation at the Obsidian Dragonshrine. He reminded Chromie and the adventurer that if they were looking for someone who might take umbrage at a dragon, they should start with the undead and [whoever](https://wowpedia.fandom.com/wiki/Zorathides "Zorathides") was controlling them. Chromie agreed that Wrathion made a fair point and the two of them left him to search inside the dragonshrine.<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-66">[66]</a></sup>
+
+### Battle for Azeroth
+
+After finding an [Unscarred Black Scale](https://wowpedia.fandom.com/wiki/Unscarred_Black_Scale "Unscarred Black Scale") from a young black dragon while on an [island expedition](https://wowpedia.fandom.com/wiki/Island_Expedition "Island Expedition"), the adventurer knew that Wrathion would want to hear about it and sought him out at [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain"). Though Wrathion was not there himself, one of his [Blacktalon Agents](https://wowpedia.fandom.com/wiki/Blacktalon_Agent "Blacktalon Agent") was. She revealed to the adventurer that Wrathion was searching for the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") and that other dragons had not been forthcoming in information.<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-67">[67]</a></sup>
+
+One of Wrathion's [Blacktalon Watchers](https://wowpedia.fandom.com/wiki/Blacktalon_Watcher "Blacktalon Watcher") was in the former [lair](https://wowpedia.fandom.com/wiki/Neltharion%27s_Lair "Neltharion's Lair") of Deathwing, observing as another uncorrupted black dragon, [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian"), took an essence of the black dragonflight's magic to help heal the world.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-68">[68]</a></sup> Later, more Blacktalon Watchers could be found in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") and in the [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain").
+
+When Wrathion was next seen, he had physically matured significantly, his humanoid form now resembling a young man with jet black hair, a short beard, and red, burning eyes. He sought out the [Shen'dralar](https://wowpedia.fandom.com/wiki/Shen%27dralar "Shen'dralar") library in [Dire Maul](https://wowpedia.fandom.com/wiki/Dire_Maul "Dire Maul"),<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-69">[69]</a></sup> as well as the aid of the [Lorewalkers](https://wowpedia.fandom.com/wiki/Lorewalkers "Lorewalkers") and [Shado-Pan](https://wowpedia.fandom.com/wiki/Shado-Pan "Shado-Pan"),<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-70">[70]</a></sup> in order to find a way to counter the Old Gods' corruption. He also traveled to the [Vault of Archavon](https://wowpedia.fandom.com/wiki/Vault_of_Archavon "Vault of Archavon") in [Wintergrasp](https://wowpedia.fandom.com/wiki/Wintergrasp "Wintergrasp"), hoping that it would contain information on the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination") which, he felt, would be the key to defeating the Old Gods for good. Unfortunately, the giants that watched over the Vault were not trusting of him.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-71">[71]</a></sup> Wrathion then journeyed to [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"), where he received information from the library that allowed him to craft a potion that could cleanse someone of Old God corruption. While within the tower, Wrathion also met with the shade of [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), who encouraged him that while Wrathion could not change the past, he could forge a new legacy to leave for the future.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-72">[72]</a></sup> As all this was going on, the Old Gods reached out to another uncorrupted black dragon, [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian"), and began to corrupt him. At the behest of [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos"), the adventurer sought out Wrathion for aid, and it turned out that the Old Gods' servants were also in pursuit of the Black Prince. While neither of them found Wrathion himself, the adventurer was able to find Wrathion's potion in Karazhan and used it to save Ebyssian.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-73">[73]</a></sup>
+
+#### Visions of N'Zoth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Wrathion_in_Visions_of_N%27Zoth_cinematic.png/revision/latest/scale-to-width-down/140?cb=20211211144411)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Wrathion_in_Visions_of_N%27Zoth_cinematic.png/revision/latest?cb=20211211144411)
+
+Wrathion entering [Stormwind Keep](https://wowpedia.fandom.com/wiki/Stormwind_Keep "Stormwind Keep").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Anduin_punches_Wrathion_in_Visions_of_N%27Zoth_cinematic.jpg/revision/latest/scale-to-width-down/180?cb=20211211144211)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Anduin_punches_Wrathion_in_Visions_of_N%27Zoth_cinematic.jpg/revision/latest?cb=20211211144211)
+
+[Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") punching Wrathion.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Wrathion_drake.jpg/revision/latest/scale-to-width-down/180?cb=20220424223348)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Wrathion_drake.jpg/revision/latest?cb=20220424223348)
+
+Wrathion in his [drake](https://wowpedia.fandom.com/wiki/Drake "Drake")'s form.
+
+As the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") defeated [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), and in the process let [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") free from its prison, the Horde and the Alliance had to consider how to deal with the new threat looming. Wrathion, who had not been seen since [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") was freed, appeared in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") with [Magni](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard"). He came to advise Anduin on how to deal with N'Zoth. Wrathion told Anduin that the armies of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") would be useless. N'Zoth will strike in the mind.<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-74">[74]</a></sup> Later he joined Magni back at the [Chamber of Heart](https://wowpedia.fandom.com/wiki/Chamber_of_Heart "Chamber of Heart") and guided the [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in dealing with the [visions of N'Zoth](https://wowpedia.fandom.com/wiki/Vision_of_N%27Zoth "Vision of N'Zoth"). Revealing that the best way to protect one's mind against the Old Gods required an object pure corruption, Wrathion and adventurers ventured to [Blackwing Descent](https://wowpedia.fandom.com/wiki/Blackwing_Descent "Blackwing Descent") atop the [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain") in [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes"). Upon arriving, the pair discovered that N'Zoth's agents had seized control of [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")'s liar, and [Dark Inquisitor Xanesh](https://wowpedia.fandom.com/wiki/Dark_Inquisitor_Xanesh "Dark Inquisitor Xanesh") planned on making Nefarian's legacy [their](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") own. Amidst the fighting, Wrathion was captured with the Dark Inquisitor revealing her intentions to use his essence to resurrect both Nefarian and [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") as tools of war for N'Zoth. However, Xanesh failed when adventurers freed Wrathion, who declared that the black dragonflight would purge N'Zoth from Azeroth. Following Xanesh's retreat into [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha"), Wrathion destroyed the remains of Nefarian and Onyxia and used the [Corrupt Black Dragonscales](https://wowpedia.fandom.com/wiki/Corrupt_Black_Dragonscales "Corrupt Black Dragonscales") left behind to create [Ashjra'kamas](https://wowpedia.fandom.com/wiki/Ashjra%27kamas,_Shroud_of_Resolve "Ashjra'kamas, Shroud of Resolve"). Declaring that this cloak was all that remained of the once-proud black dragonflight, Wrathion revealed that it would defend them from sanity loss and the corruption of N'Zoth.<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-75">[75]</a></sup>
+
+Sometime after Wrathion arrived to the Chamber of Heart, Ebyssian inquired as to how the Black Prince had known he had begun to hear [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")'s whispers. In response, Wrathion admitted that he had one of his [agents](https://wowpedia.fandom.com/wiki/Blacktalon_Watcher "Blacktalon Watcher") watching over him due to knowing that Ebyssian would become vulnerable upon leaving [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain"). In a surprise, Ebyssian remarked that he was unaware that Wrathion had such a personal concern for his well-being, causing the younger dragon to remark that they were brothers and the only one that Wrathion had left.<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-76">[76]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Wrathion_in_Ny%27alotha.png/revision/latest/scale-to-width-down/78?cb=20200216174248)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Wrathion_in_Ny%27alotha.png/revision/latest?cb=20200216174248)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Wrathion_with_Xal%27atath.jpg/revision/latest/scale-to-width-down/120?cb=20220424223346)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Wrathion_with_Xal%27atath.jpg/revision/latest?cb=20220424223346)
+    
+    Wrathion with Xal'atath.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Wrathion_dodges_tentacles.jpg/revision/latest/scale-to-width-down/120?cb=20220424224040)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Wrathion_dodges_tentacles.jpg/revision/latest?cb=20220424224040)
+    
+    Wrathion dodges [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")'s tentacles.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Wrathion_jumps.jpg/revision/latest/scale-to-width-down/120?cb=20220424223345)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Wrathion_jumps.jpg/revision/latest?cb=20220424223345)
+    
+    Wrathion jumps to N'Zoth.
+    
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/55/Wrathion_stabs_N%27Zoth.jpg/revision/latest/scale-to-width-down/180?cb=20220424223343)](https://static.wikia.nocookie.net/wowpedia/images/5/55/Wrathion_stabs_N%27Zoth.jpg/revision/latest?cb=20220424223343)
+
+Wrathion stabs the [Carapace of N'Zoth](https://wowpedia.fandom.com/wiki/Carapace_of_N%27Zoth "Carapace of N'Zoth") with Xal'atath, helping the heroes to defeat the Old God.
+
+As adventurers entered [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City") they had to face [Wrathion, the Black Emperor](https://wowpedia.fandom.com/wiki/Wrathion,_the_Black_Emperor "Wrathion, the Black Emperor"), who was supposedly a Wrathion who had given in to the Old Gods' corruption, but after killing it they discovered that it was a [faceless one](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") in disguise rather than the Black Prince himself. Wrathion _was_ present within the realm of N'Zoth, however. He was given [the Blade of the Black Empire](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire "Xal'atath, Blade of the Black Empire") by Azshara who told him to stab N'Zoth in the heart with it.<sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-77">[77]</a></sup> Wrathion instead stabbed the [Carapace of N'Zoth](https://wowpedia.fandom.com/wiki/Carapace_of_N%27Zoth "Carapace of N'Zoth") which during the fight with the [Fury of N'Zoth](https://wowpedia.fandom.com/wiki/Fury_of_N%27Zoth "Fury of N'Zoth") helped adventurers regain their sanity by teleporting back to him. Following the death of N'Zoth, when asked as to what lied next for him, Wrathion remarked that though the Old Gods had been vanquished, they were but one threat to Azeroth and that many more lurked on the horizon and in the shadows. He further declared that from this day forth the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") will honor its ancient charge and stand in defense of Azeroth, along with its champions.
+
+The adventurers also brought forth young dragons of the [twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight"), ones which had been raised inside N'Zoth's carapace and so been exposed more directly to his corruption. Wrathion clears the dragons' minds of the whispers, with the promise that they, as well as he himself, will find themselves again one day despite their pasts.<sup id="cite_ref-78"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-78">[78]</a></sup>
+
+### The Vow Eternal
+
+While staying at the [Summer's Rest](https://wowpedia.fandom.com/wiki/Summer%27s_Rest "Summer's Rest") inn in Pandaria in his search for the Dragon Isles, Wrathion has a nightmare of transforming into Deathwing. In this nightmare he at first serves as the uncorrupted Earth-Warder and leader of the black dragonflight, only for a shadow to wash over him and turn him into his father. He is attacked by his allies, not only the Aspects and their flights but even his fellow black dragons.
+
+He later attends the wedding of [Thalyssra](https://wowpedia.fandom.com/wiki/Thalyssra "Thalyssra") and [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") in [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"). At the reception he encounters [Kurog Grimtotem](https://wowpedia.fandom.com/wiki/Kurog_Grimtotem "Kurog Grimtotem"), who accuses all dragons of being unnatural but especially him because of the nature of his birth. Already stressed, Kurog's egging on makes Wrathion snap and threaten him, but [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") intervenes before Wrathion can go too far. With Thalyssra's arrival to see what the commotion was, Kurog leaves while threatening that soon they would all know the true power of the tauren. Wrathion is rocked by what he had almost done, and remembers his nightmare where he turned into Deathwing with fear.
+
+Wrathion leaves for the vineyard, and Kalecgos follows him with two glasses of [arcwine](https://wowpedia.fandom.com/wiki/Arcwine "Arcwine"). The two discuss the black dragonflight's poor reputation and the falls of both Neltharion and Malygos. They muse on how both of their flights' former Aspects had been best friends, and Wrathion wonders if the two of them couldn't spark a friendship as well. Kalec turns the conversation to the Dragon Isles, and Wrathion admits he has not learned anything new. [Chromie](https://wowpedia.fandom.com/wiki/Chromie "Chromie") had seemed confused when Wrathion had asked, [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") is dead so can't be asked, and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") wouldn't even grant him an audience. Even [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") had only told him that the isles were lost.
+
+Kalec and Wrathion both realize that they are experiencing a sensation of loneliness, or a weight on their chest, of feeling something they could not articulate that they wanted but could not have. The two of them doubt both experiencing this could be a coincidence, and wonder if other dragons are experiencing it as well. The two travel to [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") to ask Alexstrasza further questions, where they discover that many other dragons have also assembled in a mass gathering at the temple's base, all feeling the same sensation. Rather than wait, Wrathion flies to the top of the temple to speak to Alexstrasza personally.
+
+Atop the temple, he finds not only Alexstrasza but Nozdormu and [Merithra](https://wowpedia.fandom.com/wiki/Merithra "Merithra") as well. Alexstrasza tells him that they have heard the call of the reawakening Dragon Isles, a sensation reaching out to the hearts of all dragons. The feeling that Wrathion and all the others were feeling is homesickness, and Wrathion realizes he is finally being welcomed, and has a place to belong. The feeling of emptiness in his heart becomes one of joy, and he decides that his recurring nightmare is not a forecast of doom, but a challenge to be conquered. Now that he has a home, Wrathion vows that it will be him, not Deathwing, that will guide the black dragons into a new future.<sup id="cite_ref-79"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-79">[79]</a></sup>
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Wrathion_and_Raszageth.jpg/revision/latest/scale-to-width-down/180?cb=20221227231642)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Wrathion_and_Raszageth.jpg/revision/latest?cb=20221227231642)
+
+Wrathion meets [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth") the Storm-Eater.
+
+Wrathion struggled as to whether he truly desired to be the leader of the black dragonflight. Nevertheless, with the return of the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") to Azeroth, he returned to his flight's ancient homeland. Despite their past disagreements, Alexstrasza offered him guidance.<sup id="cite_ref-WileyWangInterview_80-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-WileyWangInterview-80">[80]</a></sup>
+
+When the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") were uncovered, Ebyssian and Wrathion traveled to the [Forbidden Reach](https://wowpedia.fandom.com/wiki/Forbidden_Reach "Forbidden Reach") and discovered the [dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr"), ancient creations of Neltharion that had been in stasis for 20,000 years. They helped the dracthyr battle the invading [Primalists](https://wowpedia.fandom.com/wiki/Primalists "Primalists"). Upon his arrival at the Froststone Vault, Wrathion saw [Kurog Grimtotem](https://wowpedia.fandom.com/wiki/Kurog_Grimtotem "Kurog Grimtotem") breaking the vault seal and tried to stop him, but it was too late, and the Black Prince crashed to the ground after being knocked by debris from the just-destroyed prison. Coming to his senses, he faced the freed [Primal Incarnate](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates") [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth"), who recognized him as a dragon of the [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"). After hearing from Wrathion his wish to become the new Aspect of the [black dragons](https://wowpedia.fandom.com/wiki/Black_dragons "Black dragons"), Raszageth asked him if he wanted to meet the same fate as Neltharion, whose she learned the death during her imprisonment, but finally decided to let him go as a messenger for [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), ordering him to announce that the Primalists would make sure to cleanse the world of the titans' "stain".
+
+After [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") forced the Primalists to flee, the Bronze Aspect told the dracthyr to warn the nations of the world of the oncoming threat, and Wrathion took the [Obsidian Warders](https://wowpedia.fandom.com/wiki/Obsidian_Warders "Obsidian Warders") to [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") to introduce them to the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"). Afterward, Wrathion went to ask the Aspects who Raszageth was, and learned that she and the rest of the Incarnates were ancient enemies of the Aspects who sought to cleanse the world of the titans' "stain". The Aspects decided to reclaim the powers they had lost when they defeated Deathwing, for without that power they wouldn't be able to defeat the Incarnates.
+
+When Wrathion brought [Scalecommander Azurathel](https://wowpedia.fandom.com/wiki/Scalecommander_Azurathel "Scalecommander Azurathel") and the [Obsidian Warders](https://wowpedia.fandom.com/wiki/Obsidian_Warders "Obsidian Warders") to [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"), he mentioned that they would be well received through its connections with the leaders of the city. However, the opposite happened, and they were soon received by the [Stormwind Army](https://wowpedia.fandom.com/wiki/Stormwind_Army "Stormwind Army") and the Spymaster [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw") who reminded the black dragon that he has been warned against making unannounced visits, especially when he brings company. In order to calm the situation, Wrathion apologized and announced his request to deliver a message from the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") to Lord Commander [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon"). The Spymaster agreed to allow the [dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr") to visit the city but warned them that the [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") would be watching them closely and that the responsibility of their actions would fall on the Black Prince.<sup id="cite_ref-81"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-81">[81]</a></sup> In the [Stormwind Keep](https://wowpedia.fandom.com/wiki/Stormwind_Keep "Stormwind Keep"), Wrathion briefed Turalyon on the recent events, and extended the Aspects' invitation to the Dragon Isles. During a conversation between them and Scalecommander Azurathel, he thanked Turalyon for accepting the invitation and then mentioned that the Dragon Queen insisted that the Alliance should not bring any conflict to the islands with the Horde. After Turalyon claimed that the Alliance would honor its truce with the Horde, and that he instructed the [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League") to work in concert with the [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary"), the Black Prince announced that he was delighted with the turn of events, and that it was time to prepare the [expedition](https://wowpedia.fandom.com/wiki/Dragonscale_Expedition "Dragonscale Expedition") for departure to the Dragon Isles.<sup id="cite_ref-82"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-82">[82]</a></sup>
+
+After Khadgar arrived and shared that the Aspects sought to restore their former powers to fight against Raszageth, Wrathion directed adventurers with finding a disc within [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman:_Legacy_of_Tyr "Uldaman: Legacy of Tyr"), only to learn from them that the [infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") led by [Chrono-Lord Deios](https://wowpedia.fandom.com/wiki/Chrono-Lord_Deios "Chrono-Lord Deios") had attacked and sent the disc to be lost through time. After receiving the news, he declared that the infinites always had some kind of plan, and that he would let Alexstrasza know that they would need to find another way for the Aspects to restore their powers.<sup id="cite_ref-83"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-83">[83]</a></sup>
+
+He then moved on ahead to the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles"), where he, alongside [Majordomo Selistra](https://wowpedia.fandom.com/wiki/Majordomo_Selistra "Majordomo Selistra"), planned on awaiting at [Wingrest Embassy](https://wowpedia.fandom.com/wiki/Wingrest_Embassy "Wingrest Embassy") in the [Waking Shores](https://wowpedia.fandom.com/wiki/Waking_Shores "Waking Shores") for the Dragonscale Expedition to arrive.<sup id="cite_ref-84"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-84">[84]</a></sup> However when the expedition arrived they were nowhere to be seen, having left the area, and subsequently discovering that the [Djaradin](https://wowpedia.fandom.com/wiki/Djaradin "Djaradin") had awakened from their long slumber on the isles and destroyed Dragonheart Outpost.<sup id="cite_ref-85"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-85">[85]</a></sup> After directing [Sendrax](https://wowpedia.fandom.com/wiki/Sendrax "Sendrax") and adventures with aiding the outpost, the pair left to keep the djaradin contained inside Scalecracker Keep.<sup id="cite_ref-86"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-86">[86]</a></sup> After the outpost was successfully evacuated, Wrathion noted that the [refugees](https://wowpedia.fandom.com/wiki/Refugee "Refugee") would be safe at the [Ruby Life Pools](https://wowpedia.fandom.com/wiki/Ruby_Life_Pools "Ruby Life Pools"), as not even the djaradin would not raise arms against the might of Queen Alexstrasza herself.<sup id="cite_ref-87"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-87">[87]</a></sup>
+
+Turning his attention to the djaradin within the keep, Wrathion called for the deaths of their leaders.<sup id="cite_ref-88"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-88">[88]</a></sup> He also called for the collection of the intel from his [Blacktalon](https://wowpedia.fandom.com/wiki/Blacktalon "Blacktalon") agents within the keep, and welcomed any additional information that adventurers could discover.<sup id="cite_ref-89"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-89">[89]</a></sup><sup id="cite_ref-90"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-90">[90]</a></sup> After discovering that the djaradin intended to claim the [Obsidian Citadel](https://wowpedia.fandom.com/wiki/Obsidian_Citadel "Obsidian Citadel"), the black dragonflight's seat of power, an enraged Wrathion immediately rushed off to stop them. However, he soon realized that he needed aid and so went to recruit Alexstrasza, only to discover her in the midst of conflict with Raszageth, and was quick to rush in to rescue her. An amused Raszageth decided to leave the pair, as she wanted Alexstrasza to watch as everything she cared for was destroyed before killing her.<sup id="cite_ref-91"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-91">[91]</a></sup>
+
+Alexstrasza offered her gratitude to Wrathion, who was quick to try and recruit her and [her flight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")'s aid in claiming the [Obsidian Citadel](https://wowpedia.fandom.com/wiki/Obsidian_Citadel "Obsidian Citadel") from the [djaradin](https://wowpedia.fandom.com/wiki/Djaradin "Djaradin"). Alexstrasza agreed to do, after they had seen to the safety of the eggs, a declaration that confused Wrathion now that Raszageth had left. However, Alexstrasza was quick to point out that Wrathion didn't know her as she did, that she was an unpredictable foe, and that for now the red dragonflight must remain at the Life Pools to safeguard their future. Wrathion was quick to question if it was the dragon's future or her flights that she sought to safeguard, as the Obsidian Citadel was built to defend all the Dragon Isles, and implored that she couldn't abandon the legacy of [his flight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") to the hands of their enemies. In response, she remarked that she would have expected him to care more for the protection of helpless eggs. Wrathion subsequently departed, determined to claim the citadel with the aid of his Blacktalon.<sup id="cite_ref-92"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-92">[92]</a></sup>
+
+Having nothing but concern for Wrathion, she enlisted adventurers to go and aid him in her stead, while she helped focus on protecting the new generation of [dragonkind](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin"). Wrathion warmly welcomed their aid, believing that with their presence his plans could succeed.<sup id="cite_ref-93"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-93">[93]</a></sup> After having his forces tested and going over their intel, Wrathion was prepared to move forward, waiving away any concerns about their low numbers and arrogantly declaring himself an "incalculable advantage" and that he would not be denied his legacy.<sup id="cite_ref-94"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-94">[94]</a></sup> He then gave the order to begin the assault, taking control of the Burning Ascent in the process, and as the proper assault on the citadel itself began he was stunned to discover [Sabellian](https://wowpedia.fandom.com/wiki/Sabellian "Sabellian") and [his brood](https://wowpedia.fandom.com/wiki/Obsidian_Brood "Obsidian Brood") (including a clutch of black dragon eggs) arriving to aid in the fight. After a brief introduction with one another, the pair moved forward in striking against their enemies, ultimately resulting in them claiming the upper courtyard of the citadel and the [Obsidian Oathstone](https://wowpedia.fandom.com/wiki/Obsidian_Oathstone "Obsidian Oathstone").<sup id="cite_ref-95"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-95">[95]</a></sup><sup id="cite_ref-96"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-96">[96]</a></sup> However despite this victory, Wrathion found himself surprised as Sabellian announced his own intentions to become the Neltharion's successor as Aspect, an act he rejected due to viewing that as his own destiny. Thus a competition between the two was born for the Aspectship of the black dragonflight.<sup id="cite_ref-97"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-97">[97]</a></sup>
+
+Each claimant was quick to try and enlist adventures to their side and their followers eagerly backed them up. However, while Sabellian's focus was on how he had helped his fellow black dragons, Wrathion was focused on the success of his ends-of-the-means approached, veering into propaganda with [Right](https://wowpedia.fandom.com/wiki/Right "Right") and [Left](https://wowpedia.fandom.com/wiki/Left "Left") justifying his liberation of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") from his trial as necessary to prepare Azeroth for the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), an invasion that was inadvertency started by Garrosh's liberation, since it ultimately led to [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")'s arrival to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), where he would start the said invasion.<sup id="cite_ref-98"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-98">[98]</a></sup><sup id="cite_ref-99"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-99">[99]</a></sup> Wrathion's absence during the invasion was not commented on and it was shown that the bulk of Wrathion's support base was his Blacktalon agents, while the majority of Sabellian's support base were other black dragons.
+
+As Sabellian went to deliver the black dragon eggs to the Ruby Pools, Wrathion insisted on accompanying him. As the pair traveled to the Ruby Lifeshrine via cart, Sabellian insisted they remain incognito, even when Wrathion pointed out that it was obvious that ruse had failed. After various attacks were fended off, the pair were attacked by Thaladrax, who destroyed the cart and the eggs within. An outraged Wrathion viewed this as a sign that the others would see reason and pick their new leader and rushed off to inform Alexstrasza.<sup id="cite_ref-100"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-100">[100]</a></sup> When the Dragon Queen demanded answers, Sabellian revealed that he had used himself and Wrathion as bait to attract their enemies' attention, while his clutch of black dragons safely traveled by air to deliver the eggs. He then pledged his loyalty and that of his flight as [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion")'s heir to her, to Wrathion's outrage. However before he could protest, Alexstrasza stepped in and remarked that while she would take care of the eggs, she would not get involved in their bickering and the matter of Aspectship between them was a matter for the [black](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), not the [red](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), to decide.<sup id="cite_ref-101"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-101">[101]</a></sup>
+
+Wrathion and Sabellian remained at the Ruby Lifeshrine for a time to see [Mother Elion](https://wowpedia.fandom.com/wiki/Mother_Elion "Mother Elion"), who described them as "squabbling like children", to restore their flight's place there and defended the area during the Primalist attack.<sup id="cite_ref-102"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-102">[102]</a></sup>
+
+Wrathion and Sabellian then returned to the Obsidian Citadel, continuing their battle against the djaradin, while accepting pledges of loyalty from champions of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance").
+
+## World of Warcraft Anniversary
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Medivh_%26_Wrathion.jpg/revision/latest/scale-to-width-down/180?cb=20191106222232)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Medivh_%26_Wrathion.jpg/revision/latest?cb=20191106222232)
+
+Wrathion and Medivh in the Caverns of Time during the 15th Anniversary Event.
+
+[![Temp.png](https://static.wikia.nocookie.net/wowpedia/images/5/54/Temp.png/revision/latest/scale-to-width-down/42?cb=20090228103422)](https://wowpedia.fandom.com/wiki/Warcraft%27s_Anniversary "Warcraft's Anniversary")
+
+**The subject of this article or section is part of [WoW's Anniversary](https://wowpedia.fandom.com/wiki/Warcraft%27s_Anniversary "Warcraft's Anniversary")**, a [seasonal event](https://wowpedia.fandom.com/wiki/Seasonal_events "Seasonal events") that typically lasts two weeks. Once the event has run its course, this will no longer be available until next year, but there are no guarantees.
+
+Medivh and Wrathion were found partaking in the festivities of [Warcraft's Anniversary](https://wowpedia.fandom.com/wiki/Warcraft%27s_Anniversary "Warcraft's Anniversary") in the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time").
+
+## Sells
+
+<table><caption></caption><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/f7/Inv_backpack_wrathion_c_01.png/revision/latest?cb=20191209035823"><img alt="Inv backpack wrathion c 01.png" decoding="async" loading="lazy" width="32" height="32" data-image-name="Inv backpack wrathion c 01.png" data-image-key="Inv_backpack_wrathion_c_01.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/f7/Inv_backpack_wrathion_c_01.png/revision/latest/scale-to-width-down/32?cb=20191209035823" src="https://static.wikia.nocookie.net/wowpedia/images/f/f7/Inv_backpack_wrathion_c_01.png/revision/latest/scale-to-width-down/32?cb=20191209035823"></a></td><td><span><a href="https://wowpedia.fandom.com/wiki/Black_Dragonscale_Backpack"><span><span>[</span>Black Dragonscale Backpack<span>]</span></span></a></span><br><span>5,000 <span><a href="https://wowpedia.fandom.com/wiki/Corrupted_Mementos" title="Corrupted Mementos"><img alt="Corrupted Mementos" decoding="async" loading="lazy" width="16" height="16" data-image-name="Archaeology 5 0 mogucoin.png" data-image-key="Archaeology_5_0_mogucoin.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/b/b7/Archaeology_5_0_mogucoin.png/revision/latest/scale-to-width-down/16?cb=20120621144620" src="https://static.wikia.nocookie.net/wowpedia/images/b/b7/Archaeology_5_0_mogucoin.png/revision/latest/scale-to-width-down/16?cb=20120621144620"></a></span></span></td><td></td><td><a href="https://static.wikia.nocookie.net/wowpedia/images/1/10/Achievement_boss_cthun.png/revision/latest?cb=20081001073416"><img alt="Achievement boss cthun.png" decoding="async" loading="lazy" width="32" height="32" data-image-name="Achievement boss cthun.png" data-image-key="Achievement_boss_cthun.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/1/10/Achievement_boss_cthun.png/revision/latest/scale-to-width-down/32?cb=20081001073416" src="https://static.wikia.nocookie.net/wowpedia/images/1/10/Achievement_boss_cthun.png/revision/latest/scale-to-width-down/32?cb=20081001073416"></a></td><td><span><a href="https://wowpedia.fandom.com/wiki/Gouged_Eye_of_N%27Zoth"><span><span>[</span>Gouged Eye of N'Zoth<span>]</span></span></a></span><br><span>25,000 <span><a href="https://wowpedia.fandom.com/wiki/Corrupted_Mementos" title="Corrupted Mementos"><img alt="Corrupted Mementos" decoding="async" loading="lazy" width="16" height="16" data-image-name="Archaeology 5 0 mogucoin.png" data-image-key="Archaeology_5_0_mogucoin.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/b/b7/Archaeology_5_0_mogucoin.png/revision/latest/scale-to-width-down/16?cb=20120621144620" src="https://static.wikia.nocookie.net/wowpedia/images/b/b7/Archaeology_5_0_mogucoin.png/revision/latest/scale-to-width-down/16?cb=20120621144620"></a></span></span></td></tr><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/d/dc/Trade_alchemy_potiond2.png/revision/latest?cb=20120407015954"><img alt="Trade alchemy potiond2.png" decoding="async" loading="lazy" width="32" height="32" data-image-name="Trade alchemy potiond2.png" data-image-key="Trade_alchemy_potiond2.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/d/dc/Trade_alchemy_potiond2.png/revision/latest/scale-to-width-down/32?cb=20120407015954" src="https://static.wikia.nocookie.net/wowpedia/images/d/dc/Trade_alchemy_potiond2.png/revision/latest/scale-to-width-down/32?cb=20120407015954"></a></td><td><span><a href="https://wowpedia.fandom.com/wiki/Vessel_of_Horrific_Visions"><span><span>[</span>Vessel of Horrific Visions<span>]</span></span></a></span><br><span>10,000 <span><a href="https://wowpedia.fandom.com/wiki/Coalescing_Visions" title="Coalescing Visions"><img alt="Coalescing Visions" decoding="async" loading="lazy" width="16" height="16" data-image-name="Inv enchanting wod essence2.png" data-image-key="Inv_enchanting_wod_essence2.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/a/a4/Inv_enchanting_wod_essence2.png/revision/latest/scale-to-width-down/16?cb=20141002095418" src="https://static.wikia.nocookie.net/wowpedia/images/a/a4/Inv_enchanting_wod_essence2.png/revision/latest/scale-to-width-down/16?cb=20141002095418"></a></span></span></td><td></td><td><a href="https://static.wikia.nocookie.net/wowpedia/images/b/b0/Inv_aqirflyingmount_red.png/revision/latest?cb=20191122173108"><img alt="Inv aqirflyingmount red.png" decoding="async" loading="lazy" width="32" height="32" data-image-name="Inv aqirflyingmount red.png" data-image-key="Inv_aqirflyingmount_red.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/b/b0/Inv_aqirflyingmount_red.png/revision/latest/scale-to-width-down/32?cb=20191122173108" src="https://static.wikia.nocookie.net/wowpedia/images/b/b0/Inv_aqirflyingmount_red.png/revision/latest/scale-to-width-down/32?cb=20191122173108"></a></td><td><span><a href="https://wowpedia.fandom.com/wiki/Wicked_Swarmer"><span><span>[</span>Wicked Swarmer<span>]</span></span></a></span><br><span>100,000 <span><a href="https://wowpedia.fandom.com/wiki/Corrupted_Mementos" title="Corrupted Mementos"><img alt="Corrupted Mementos" decoding="async" loading="lazy" width="16" height="16" data-image-name="Archaeology 5 0 mogucoin.png" data-image-key="Archaeology_5_0_mogucoin.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/b/b7/Archaeology_5_0_mogucoin.png/revision/latest/scale-to-width-down/16?cb=20120621144620" src="https://static.wikia.nocookie.net/wowpedia/images/b/b7/Archaeology_5_0_mogucoin.png/revision/latest/scale-to-width-down/16?cb=20120621144620"></a></span></span></td></tr></tbody></table>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills") | 85 | 387,450 |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 90 | 106,032 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [The Thunder Forge](https://wowpedia.fandom.com/wiki/The_Thunder_Forge_(quest)) | 90 | 2,363,646 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Celestial Blessings](https://wowpedia.fandom.com/wiki/Celestial_Blessings) | 90 | 19,697,050 |
+| [Celestial Tournament](https://wowpedia.fandom.com/wiki/Celestial_Tournament "Celestial Tournament") | 90 | 393,941 |
+| [Seat of Knowledge](https://wowpedia.fandom.com/wiki/Seat_of_Knowledge "Seat of Knowledge") | 90 | 2,363,646 |
+| [Khadgar's Tower](https://wowpedia.fandom.com/wiki/Khadgar%27s_Tower "Khadgar's Tower") | 100 | 587,100 |
+| [The Deaths of Chromie](https://wowpedia.fandom.com/wiki/The_Deaths_of_Chromie "The Deaths of Chromie") | 112 | 6,673,278 |
+
+## Quests
+
+### Ravenholdt Manor
+
+### Tavern in the Mists
+
+[Patch 5.0](https://wowpedia.fandom.com/wiki/Patch_5.0.4 "Patch 5.0.4") - **Mists of Pandaria**
+
+1.  Optional breadcrumb:  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Stranger in a Strange Land](https://wowpedia.fandom.com/wiki/Stranger_in_a_Strange_Land_(quest))
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [A Legend in the Making](https://wowpedia.fandom.com/wiki/A_Legend_in_the_Making)
+3.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [The Strength of One's Foes](https://wowpedia.fandom.com/wiki/The_Strength_of_One%27s_Foes) &  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Trial of the Black Prince](https://wowpedia.fandom.com/wiki/Trial_of_the_Black_Prince)
+4.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Fear Itself](https://wowpedia.fandom.com/wiki/Fear_Itself)
+5.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Breath of the Black Prince](https://wowpedia.fandom.com/wiki/Breath_of_the_Black_Prince_(quest))
+
+[Patch 5.1](https://wowpedia.fandom.com/wiki/Patch_5.1.0 "Patch 5.1.0") - **Landfall**
+
+1.  Optional breadcrumb:  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Incoming...](https://wowpedia.fandom.com/wiki/Incoming...) ( ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[15-35\] [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing_(quest)) /  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-35\] [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point_(quest)) required to continue)
+2.   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[90\] [The Measure of a Leader](https://wowpedia.fandom.com/wiki/The_Measure_of_a_Leader)
+3.   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[90\] [The Prince's Pursuit](https://wowpedia.fandom.com/wiki/The_Prince%27s_Pursuit) &  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[90\] [A Test of Valor](https://wowpedia.fandom.com/wiki/A_Test_of_Valor_(quest))
+4.  Complete all of:
+5.   ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[90\] [Call of the Packmaster](https://wowpedia.fandom.com/wiki/Call_of_the_Packmaster) /  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[90\] [The Soul of the Horde](https://wowpedia.fandom.com/wiki/The_Soul_of_the_Horde)
+
+[Patch 5.2](https://wowpedia.fandom.com/wiki/Patch_5.2.0 "Patch 5.2.0") - **The Thunder King**
+
+1.  Optional breadcrumbs:  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [The Thunder King](https://wowpedia.fandom.com/wiki/The_Thunder_King_(quest)) /  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Meet Me Upstairs](https://wowpedia.fandom.com/wiki/Meet_Me_Upstairs)
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Secrets of the First Empire](https://wowpedia.fandom.com/wiki/Secrets_of_the_First_Empire) &  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [I Need a Champion](https://wowpedia.fandom.com/wiki/I_Need_a_Champion)
+3.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [The Thunder Forge](https://wowpedia.fandom.com/wiki/The_Thunder_Forge_(quest)) ( ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[35\] [To the Skies!](https://wowpedia.fandom.com/wiki/To_the_Skies!_(quest)) required to continue)
+4.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Spirit of the Storm Lord](https://wowpedia.fandom.com/wiki/Spirit_of_the_Storm_Lord) ( ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[35\] [The Fall of Shan Bu](https://wowpedia.fandom.com/wiki/The_Fall_of_Shan_Bu) required to continue)
+5.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [The Crown of Heaven](https://wowpedia.fandom.com/wiki/The_Crown_of_Heaven)
+6.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Echoes of the Titans](https://wowpedia.fandom.com/wiki/Echoes_of_the_Titans)
+7.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Heart of the Thunder King](https://wowpedia.fandom.com/wiki/Heart_of_the_Thunder_King_(quest))
+
+[Patch 5.3](https://wowpedia.fandom.com/wiki/Patch_5.3.0 "Patch 5.3.0") - **Escalation**
+
+1.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Celestial Blessings](https://wowpedia.fandom.com/wiki/Celestial_Blessings)
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Cloak of Virtue](https://wowpedia.fandom.com/wiki/Cloak_of_Virtue)
+3.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Preparing to Strike](https://wowpedia.fandom.com/wiki/Preparing_to_Strike) /  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Meet Me Back at the Inn](https://wowpedia.fandom.com/wiki/Meet_Me_Back_at_the_Inn)
+
+[Patch 5.4](https://wowpedia.fandom.com/wiki/Patch_5.4.0 "Patch 5.4.0") - **Siege of Orgrimmar**
+
+1.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [A Timeless Discovery](https://wowpedia.fandom.com/wiki/A_Timeless_Discovery)
+2.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Secrets of the Timeless Isle](https://wowpedia.fandom.com/wiki/Secrets_of_the_Timeless_Isle) &  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [The Emperor's Way](https://wowpedia.fandom.com/wiki/The_Emperor%27s_Way)
+3.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [A Pandaren Legend](https://wowpedia.fandom.com/wiki/A_Pandaren_Legend)
+4.   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Judgment of the Black Prince](https://wowpedia.fandom.com/wiki/Judgment_of_the_Black_Prince)
+
+### 5.1. PTR
+
+[![Removed from game](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251 "Removed from game") The subject of this section did not make it out of the [PTR](https://wowpedia.fandom.com/wiki/PTR "PTR") stages of patch [5.1.0](https://wowpedia.fandom.com/wiki/5.1.0 "5.1.0").
+
+### Legion alpha
+
+### Ny'alotha, the Waking City
+
+### Chamber of Heart
+
+## Abilities
+
+Wrathion wields unusually powerful abilities for a [black whelp](https://wowpedia.fandom.com/wiki/Black_whelp "Black whelp"). He has displayed power over fire, magma, and magic on par with a full-grown black dragon. During  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Celestial Blessings](https://wowpedia.fandom.com/wiki/Celestial_Blessings), he claims that he wields the power of the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), and was probably referring to the powers of [Keeper Ra](https://wowpedia.fandom.com/wiki/Ra "Ra") that he stole from [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen") by devouring his heart. Wrathion also knows how to wield weapons such as the  ![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Stormspear_unempowered_icon.png/revision/latest/scale-to-width-down/16?cb=20130123224719)[\[Lightning Lance\]](https://wowpedia.fandom.com/wiki/Lightning_Lance) he used against the player.
+
+## Quotes
+
+-   "[They](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") wanted to hold me, to keep watch over me – a prisoner in all but name. But I will NOT be held accountable for the sins of my [father](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"). My destiny will be my own." <sup id="cite_ref-103"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-103">[103]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Greetings
+
+-   I do not share my father's madness.
+-   A new era is beginning.
+-   I must remain hidden, so that I remain free.
+-   I believe an individual can have an enormous impact on the world.
+
+Pissed
+
+You do not want to make it onto my list!
+
+Dialogue
+
+_Main article: [To Catch a Thief#Transcript](https://wowpedia.fandom.com/wiki/To_Catch_a_Thief#Transcript "To Catch a Thief")_
+
+_Main article: [Our Man in Gilneas#Notes](https://wowpedia.fandom.com/wiki/Our_Man_in_Gilneas#Notes "Our Man in Gilneas")_
+
+_Main article: [The Deed is Done#Notes](https://wowpedia.fandom.com/wiki/The_Deed_is_Done#Notes "The Deed is Done")_
+
+_Main article: [Cluster Clutch#Transcript](https://wowpedia.fandom.com/wiki/Cluster_Clutch#Transcript "Cluster Clutch")_
+
+_Main article: [Victory in the Depths#Notes](https://wowpedia.fandom.com/wiki/Victory_in_the_Depths#Notes "Victory in the Depths")_
+
+_Main article: [Sharpening Your Fangs#Transcript](https://wowpedia.fandom.com/wiki/Sharpening_Your_Fangs#Transcript "Sharpening Your Fangs")_
+
+_Main article: [Patricide#Notes](https://wowpedia.fandom.com/wiki/Patricide#Notes "Patricide")_
+
+### Mists of Pandaria
+
+#### On-click
+
+Greetings
+
+-   A new era has begun.
+-   [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"): a land of mystery, history, and opportunity.
+-   We stand at the crossroads of history.
+-   The battle for Pandaria rages on. (Patch 5.1)
+-   This war could tear Azeroth apart. (Patch 5.1)
+-   Is there such a thing as a righteous war? (Patch 5.1)
+-   These Pandaren question everything. It makes you think? (Patch 5.1)
+-   There is so much we can learn from the Mogu. (Patch 5.2)
+-   There is a hidden darkness to this land. Do you feel it? (Patch 5.2)
+
+Pissed
+
+-   This is an awfully one-sided conversation.
+-   Did you hear what happened to the rest of the black dragonflight?
+-   I had them killed. All of them...
+-   ...And THEY were family.
+-   So, if I were you, I would carefully consider your decision to continue poking me.
+
+#### Dialogue
+
+_Main article: [A Legend in the Making#Notes](https://wowpedia.fandom.com/wiki/A_Legend_in_the_Making#Notes "A Legend in the Making")_
+
+_Main article: [The Strength of One's Foes#Notes](https://wowpedia.fandom.com/wiki/The_Strength_of_One%27s_Foes#Notes "The Strength of One's Foes")_
+
+_Main article: [Fear Itself#Notes](https://wowpedia.fandom.com/wiki/Fear_Itself#Notes "Fear Itself")_
+
+_Main article: [Breath of the Black Prince (quest)#Notes](https://wowpedia.fandom.com/wiki/Breath_of_the_Black_Prince_(quest)#Notes "Breath of the Black Prince (quest)")_
+
+_Main article: [Incoming...#Notes](https://wowpedia.fandom.com/wiki/Incoming...#Notes "Incoming...")_
+
+_Main article: [The Measure of a Leader#Notes](https://wowpedia.fandom.com/wiki/The_Measure_of_a_Leader#Notes "The Measure of a Leader")_
+
+_Main article: [The Prince's Pursuit#Notes](https://wowpedia.fandom.com/wiki/The_Prince%27s_Pursuit#Notes "The Prince's Pursuit")_
+
+_Main article: [A Change of Command#Notes](https://wowpedia.fandom.com/wiki/A_Change_of_Command#Notes "A Change of Command")_
+
+_Main article: [Call of the Packmaster#Notes](https://wowpedia.fandom.com/wiki/Call_of_the_Packmaster#Notes "Call of the Packmaster")_
+
+_Main article: [The Soul of the Horde#Notes](https://wowpedia.fandom.com/wiki/The_Soul_of_the_Horde#Notes "The Soul of the Horde")_
+
+_Main article: [Secrets of the First Empire#Notes](https://wowpedia.fandom.com/wiki/Secrets_of_the_First_Empire#Notes "Secrets of the First Empire")_
+
+_Main article: [I Need a Champion#Notes](https://wowpedia.fandom.com/wiki/I_Need_a_Champion#Notes "I Need a Champion")_
+
+_Main article: [The Thunder Forge#Notes](https://wowpedia.fandom.com/wiki/The_Thunder_Forge#Notes "The Thunder Forge")_
+
+_Main article: [Spirit of the Storm Lord#Notes](https://wowpedia.fandom.com/wiki/Spirit_of_the_Storm_Lord#Notes "Spirit of the Storm Lord")_
+
+_Main article: [The Crown of Heaven#Notes](https://wowpedia.fandom.com/wiki/The_Crown_of_Heaven#Notes "The Crown of Heaven")_
+
+_Main article: [Echoes of the Titans#Notes](https://wowpedia.fandom.com/wiki/Echoes_of_the_Titans#Notes "Echoes of the Titans")_
+
+_Main article: [Heart of the Thunder King (quest)#Notes](https://wowpedia.fandom.com/wiki/Heart_of_the_Thunder_King_(quest)#Notes "Heart of the Thunder King (quest)")_
+
+_Main article: [Celestial Blessings#Notes](https://wowpedia.fandom.com/wiki/Celestial_Blessings#Notes "Celestial Blessings")_
+
+_Main article: [Cloak of Virtue#Notes](https://wowpedia.fandom.com/wiki/Cloak_of_Virtue#Notes "Cloak of Virtue")_
+
+_Main article: [Preparing to Strike#Notes](https://wowpedia.fandom.com/wiki/Preparing_to_Strike#Notes "Preparing to Strike")_
+
+_Main article: [A Timeless Discovery#Notes](https://wowpedia.fandom.com/wiki/A_Timeless_Discovery#Notes "A Timeless Discovery")_
+
+_Main article: [A Pandaren Legend#Notes](https://wowpedia.fandom.com/wiki/A_Pandaren_Legend#Notes "A Pandaren Legend")_
+
+_Main article: [Judgment of the Black Prince#Notes](https://wowpedia.fandom.com/wiki/Judgment_of_the_Black_Prince#Notes "Judgment of the Black Prince")_
+
+#### Pre-90
+
+<The Black Prince looks you up and down.>
+
+It is very good to meet you, <class>. You are one of the vanguard, it would seem - an explorer in a strange new land. And how have you been finding the mysterious continent of Pandaria?
+
+You have the look of someone who gets things done. I want you to return to me once you've gotten the lay of the land.
+
+I will be right here.
+
+#### Level 90
+
+Welcome, <class>! My contacts throughout Pandaria tell me that you have been quite busy here. I admire mortals with your... 'initiative.'
+
+History finds us at a turning point. If you are prepared to meet destiny with me head on, I will ensure that you are richly rewarded for your efforts.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Who are you?
+
+I have chosen the name "Wrathion." To my knowledge, I am the last of the black dragons.
+
+My father was Deathwing, the Worldbreaker, the Aspect of Death, the Destroyer... But I hope you will not hold that against me.
+
+I have no love for my father, whose corruption destroyed my race, or for the red dragonflight, who stole away and experimented on my egg to create me.
+
+Let's just say, I am... unaffiliated. And I am always on the lookout for like-minded heroes.
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/33/Wrathion_-_Chamber_of_Heart.jpg/revision/latest/scale-to-width-down/180?cb=20191009220758)](https://static.wikia.nocookie.net/wowpedia/images/3/33/Wrathion_-_Chamber_of_Heart.jpg/revision/latest?cb=20191009220758)
+
+The Black Prince in the Chamber of Heart.
+
+#### On-click
+
+Greetings
+
+-   I have been expecting you.
+-   You stand before The Black Prince.
+-   Is there something you wish to discuss?
+-   We meet again, Champion.
+-   It seems our fates are... Intertwined.
+-   Speak your mind.
+-   Do you trust me?
+
+Farewell
+
+-   The black dragonflight will be redeemed.
+-   Every action has consequences.
+-   Azeroth faces many threats.
+-   I must uphold my father's legacy.
+-   Learn from the past. Look to the future.
+-   Until next time.
+-   Never let your guard down.
+
+Pissed
+
+-   Be careful who you make fun of in Pandaria.
+-   You do realize I am a dragon, yes? That I can breathe fire? Just making sure.
+-   I am beginning to understand what drove my father mad!
+
+#### Gossip
+
+Black Empire Campaign
+
+Guard your mind. N'Zoth's influence is insidious in its subtlety.
+
+![Buy](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Vendorgossipicon.png/revision/latest?cb=20071103183317) I would like to exchange my Coalescing Visions and Corrupted Mementos.
+
+Later
+
+The mind is a terrible thing to waste.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Wrathion I would like you to create a [Vessel of Horrific Visions](https://wowpedia.fandom.com/wiki/Vessel_of_Horrific_Visions "Vessel of Horrific Visions"). (200 [Coalescing Visions](https://wowpedia.fandom.com/wiki/Coalescing_Visions "Coalescing Visions"))
+
+Not enough
+
+You do not have enough Coalescing Visions for me to create a new vessel.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Do you know anything about the Horrific Vision essences?
+
+Yes I have the [Luminous Azerite Geode](https://wowpedia.fandom.com/wiki/Luminous_Azerite_Geode "Luminous Azerite Geode"), Resplendent Warden's Badge, and the Ward of Unimaginable Brilliance and am keeping them safe. Have you found all of the previous ranks of the essence? If you have and you can prove yourself capable of clearing all the threats in both the [Horrific Visions](https://wowpedia.fandom.com/wiki/Horrific_Vision "Horrific Vision") of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") with the strain of 5 Faceless Masks I feel I could then entrust the essences to you.
+
+Conversation with [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian")
+
+**Spiritwalker Ebonhorn says:** Wrathion. How did you know that I had begun to hear N'Zoth's whispers?
+
+**Wrathion says:** One of my agents was watching over you. I knew that if you left the protection of Highmountain, you would become... vulnerable.
+
+**Spiritwalker Ebonhorn says:** I did not realize you had such personal concern for my well-being.
+
+**Wrathion says:** Of course. You are my brother. The only one I have.
+
+Within [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City")
+
+Defeat this monstrosity
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Send me back.
+
+After N'Zoth is slain
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) <What lies next for you, Wrathion?>
+
+**Wrathion says:** The Old Gods have been vanquished, yet they were only one threat to Azeroth. Many others loom on the horizon and lurk in the shadows.
+
+**Wrathion says:** Know that from this day forth, the black dragonflight will honor its ancient charge and stand in defense of our world... along with its champions.
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+#### Gossip
+
+Old Weyrn Grounds, Forbidden Reach
+
+Your leader does not understand the gravity of this situation.
+
+My companion and I were summoned here by an ancient warning from... someone who was known to have world-ending aspirations.
+
+We did not expect to find a race as yet unknown in living memory, with talents granted from all five flights.
+
+This is concerning.
+
+During   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) [![IconSmall Dracthyr Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/32/IconSmall_Dracthyr_Male.gif/revision/latest?cb=20220814184525)[![IconSmall Dracthyr Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_Dracthyr_Female.gif/revision/latest?cb=20220814184555) \[58-60\] [Final Orders](https://wowpedia.fandom.com/wiki/Final_Orders)
+
+My friend, we are in a precarious position. Your General will call a full retreat if she has not yet.
+
+When we do depart from here, I have implored Azurathel to bring at least his weyrn to Stormwind. There the Alliance can lend aid in exchange for aid. They are one of the largest gatherings of mortals on Azeroth, and I am... familiar... with many of their leaders.
+
+Trust me when I say they could use you as much as you could use them.
+
+Scalecracker Keep
+
+These giants might be the dragons' ancient enemies... but they don't stand a chance against the likes of me.
+
+Obsidian Bulwark
+
+Though my forces may seem small compared to the djaradin, they are well trained, and prepared to die for me if necessary.
+
+Burning Ascent
+
+We're nearly there, <name>. Victory is within our grasp.
+
+At the lower courtyard of the Obsidian Citadel
+
+We've breached the gates! Quickly now, I'll need your help to secure this courtyard.
+
+At the door to the Obsidian Citadel
+
+The Oathstone is within reach. Finally...my destiny is at hand.
+
+Obsidian Throne
+
+<Name>. For many years, we have worked together, and achieved what many thought impossible. We fought to protect this world and safeguard its future.
+
+We have overcome the mightiest of foes, time and again. You have been an invaluable ally... and friend.
+
+I need your allegiance now more than ever. In return, I promise you will share in the reward.
+
+## Heritage
+
+While Wrathion refers to Deathwing as his father, this claim is dubious, since [Sinestra](https://wowpedia.fandom.com/wiki/Sinestra "Sinestra") was previously established as the only dragon to survive mating with him after he succumbed to corruption.<sup id="cite_ref-104"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-104">[104]</a></sup> When asked about Wrathion's lineage, [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") confirmed the theory that Deathwing isn't Wrathion's literal father, and tweeted the following:
+
+_"We don't know who Wrathion's literal father is. Certainly he's in Deathwing's lineage. He considers DW to be his father, FWIW."_<sup id="cite_ref-105"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-105">[105]</a></sup>
+
+_"Wrathion likely took the "Prince" title himself, claiming to be the "true" heir of Deathwing."_<sup id="cite_ref-Kosak-prince_1-1"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-Kosak-prince-1">[1]</a></sup>
+
+While Wrathion's mother is clearly [Nyxondra](https://wowpedia.fandom.com/wiki/Nyxondra "Nyxondra"), the identity of his father is unclear. [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion")/Deathwing is the leader of the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") and as such is likely seen as the father of the entire flight (which could be why he refers to Deathwing's actions and why the legendary daggers are named Fangs of the Father). As there is no real shortage of other named (and unnamed) male black dragons, Wrathion's actual father could have been any of them.
+
+The _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_ lists Wrathion as Deathwing's son and as Onyxia's and Nefarian's half-sibling.
+
+Kosak later stated that Nyxondra was Onyxia's sister and tweeted out the following:
+
+_"It's kinda kooky, but Wrathion's mother Nyxondra was Onyxia's sister... so... Yeah black dragons are freaky."_<sup id="cite_ref-Kosak_3-1"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-Kosak-3">[3]</a></sup>
+
+_"You guys are right, Deathwing isn't technically Wrathion's direct biological father."_<sup id="cite_ref-106"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-106">[106]</a></sup>
+
+This would mean that Deathwing is Wrathion's _grandfather_, not his father. This would also make Onyxia and Nefarian his aunt and uncle, respectively. This also corresponds with Wrathion's own words when he called Onyxia his auntie.<sup id="cite_ref-107"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-107">[107]</a></sup>
+
+Oddly enough, an official page stated that Wrathion is a child of Deathwing,<sup id="cite_ref-108"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-108">[108]</a></sup> and _[War Crimes](https://wowpedia.fandom.com/wiki/War_Crimes "War Crimes")_ mentions Wrathion being sired by Deathwing.<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-109">[109]</a></sup> However, Wrathion was not technically sired by another black dragon, his egg was artificially created by the [Eye of the Watchers](https://wowpedia.fandom.com/wiki/Eye_of_the_Watchers_(Badlands) "Eye of the Watchers (Badlands)") which magically combined the purified matter of one of Nyxondra's eggs with another wild black dragon egg of unknown parentage and a black whelp corpse.<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-110">[110]</a></sup> _[Annual 2015](https://wowpedia.fandom.com/wiki/Annual_2015 "Annual 2015")_ also lists Deathwing as Wrathion's father.
+
+In _[Ultimate Visual Guide, Updated and Expanded](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide,_Updated_and_Expanded "Ultimate Visual Guide, Updated and Expanded")_, all mentions of Wrathion being related to Deathwing and his children are removed. In Wrathion's entry, Nyxondra is listed as his only known relative.<sup id="cite_ref-111"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-111">[111]</a></sup>
+
+Due to these contradictions, Wrathion's heritage was subject to much debate, with different sources giving different ideas as to how Wrathion fits into Deathwing's family tree.
+
+In _Battle for Azeroth_, there are still references of calling Deathwing his father. In _Dragonflight_ Sabellian calls Wrathion his little brother, rather than his nephew, which he should be if Deathwing is his grandfather, though later questions Wrathion's 'lineage' at the [Obsidian Citadel](https://wowpedia.fandom.com/wiki/Obsidian_Citadel "Obsidian Citadel").
+
+## Dave Kosak on Wrathion
+
+During an interview with WoW Insider in 2012 Lead Quest Designer [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") talked about Wrathion:
+
+_When we had written that questline in the Badlands there, we knew that this would be a cool story thread to pick up some day. But if you really think about how long it would take a dragon to mature and start developing his own thoughts, it'd be a long time. Like decades. And we didn't really have time for that! So I said well, OK -- if we ask people to buy into this one thing, that because of these experiments he can have some self-awareness early on, wow - what an interesting character that is!_
+
+_All of a sudden he's so compelling. Because let's see, his father was crazy and tried to destroy the world, his mother was basically raped by the red dragonflight, then his egg was experimented on to sever his ties with his own family - so how do you view the world at that point? Well, you don't really view the world as a friendly place. You're probably eager to take control of your own destiny, which he does, even before he hatches. And then you kind of have this thing to atone for - your father tried to destroy the world. Your father went crazy. Are you crazy? How do you not be crazy, how do you make up for what your father did. Suddenly he's such a cool character! I really want to explore that character. We kind of went nuts with it. So we kind of asked people -- well if you can already buy in to the idea that he hatched from his egg and already started hatching schemes, then there's a whole cool story that can come from that. And we really rolled with it._
+
+_That was kind of the genesis of that character. His value to the franchise is he really can kind of stand above Alliance and Horde, and really try and be a good guy, but without all the moral reservations that most good guys have. He really does have the best interests of Azeroth in mind, but his interests may not necessarily line up with our interests. His plan may not be the way that we would think of planning it. That kind of gray area between hero and villain is so cool for us, very cool to explore. And you're never sure whether you should trust him or not. It helps that we got a wonderful voice actor who really gets that across. He gets that kind of, that air of arrogance and also a little bit of smarminess. You know, like you like him, but don't trust him at the same time. Wonderful, wonderful characterization._<sup id="cite_ref-112"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-112">[112]</a></sup>
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Wrathion_HS.jpg/revision/latest/scale-to-width-down/180?cb=20170212183038)](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Wrathion_HS.jpg/revision/latest?cb=20170212183038)
+
+Wrathion in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_.
+
+Wrathion appears as [a legendary card](https://hearthstone.fandom.com/wiki/Wrathion "hswiki:Wrathion") in the _[Mean Streets of Gadgetzan](https://wowpedia.fandom.com/wiki/Hearthstone:_Mean_Streets_of_Gadgetzan "Hearthstone: Mean Streets of Gadgetzan")_ expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. Despite being a black dragon, his _Hearthstone_ card lacks the Dragon minion type due to him using his human guise, a fact that is referenced by his flavor text:_"Wrathion, son of Deathwing, is a dragon. Why isn't he tagged as a dragon, you ask? WHAT, ARE YOU TRYING TO BLOW HIS COVER??"_
+
+## Notes and trivia
+
+-   Wrathion was two years old in _Mists of Pandaria_,<sup id="cite_ref-SotFE_50-1"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-SotFE-50">[50]</a></sup> in Year 30.<sup id="cite_ref-DF_Timeskip_113-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-DF_Timeskip-113">[113]</a></sup> This makes him five to six years old in _Battle for Azeroth_, in Years 33-34,<sup id="cite_ref-DF_Timeskip_113-1"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-DF_Timeskip-113">[113]</a></sup> and twelve years old in _Dragonflight_, in Year 40.<sup id="cite_ref-DF_Timeskip_113-2"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-DF_Timeskip-113">[113]</a></sup>
+-   Wrathion is one of the only dragons in the game the players have seen in all three forms of a dragon's life. Having been introduced as a whelp, Wrathion was a drake by the time of [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha"). And while a phantasm, [Wrathion, the Black Emperor](https://wowpedia.fandom.com/wiki/Wrathion,_the_Black_Emperor "Wrathion, the Black Emperor"), shows a potential version of Wrathion as a dragon.
+-   Wrathion has had several unique models. His original incarnation was as a young adult human male and featured dragonscale attire topped by a turban. His second appearance expanded upon this, abandoning the turban for long flowing hair. As a dragon, Wrathion was not given a unique model (his whelp model was the standard one) until he was given his drake form. A depiction of him as a corrupted dragon was also given for the Ny'alotha raid.
+    -   Notably, his second human form depiction uses the blood elf male animations instead of the human male ones as his previous incarnation did.
+-   By the time of the trial of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream"), Wrathion was about the size of a large dog in his dragon form.<sup id="cite_ref-114"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-114">[114]</a></sup>
+-   Wrathion and Deathwing briefly appear in  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Gods and Monsters](https://wowpedia.fandom.com/wiki/Gods_and_Monsters_(quest)), a story told by [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho").
+-   In some ways, the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s massive third invasion was ultimately Wrathion's fault. The invasion only occurred thanks to the [alternate Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") discovering and being sent to Azeroth, neither of which would have happened had Wrathion left [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") in prison. While the Legion would have returned regardless, Wrathion's manipulations cost Azeroth numerous lives against the Iron Horde, Primals, Breakers, and other enemies; all lives who could've been better spent fighting the Legion. Anduin echoes this view in _Battle for Azeroth_.
+-   Wrathion is voiced by [Aaron Phillips](https://wowpedia.fandom.com/wiki/Aaron_Phillips "Aaron Phillips").<sup id="cite_ref-115"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-115">[115]</a></sup>
+-   A number of fans pair him with [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"). In response, [Christie Golden](https://wowpedia.fandom.com/wiki/Christie_Golden "Christie Golden") tweeted "their relationship is only good friends."<sup id="cite_ref-116"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-116">[116]</a></sup><sup id="cite_ref-117"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-117">[117]</a></sup><sup id="cite_ref-118"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-118">[118]</a></sup>
+-   In the _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ alpha, Wrathion was in [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") disguised as [Spiritwalker Ebonhorn](https://wowpedia.fandom.com/wiki/Spiritwalker_Ebonhorn "Spiritwalker Ebonhorn"), and at the end of his questline he gathered time-lost black dragon eggs to raise new, uncorrupted black dragons. In later builds he was replaced as Ebonhorn by [Ebyssian](https://wowpedia.fandom.com/wiki/Ebyssian "Ebyssian") and the questline was rewritten, mainly because it made little sense for Wrathion to have become a trusted sage of the Highmountain tauren in such a short amount of time.<sup id="cite_ref-119"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-119">[119]</a></sup> Wrathion was based at the [Obsidian Overlook](https://wowpedia.fandom.com/wiki/Obsidian_Overlook "Obsidian Overlook"), along with several characters from the [Tavern in the Mists](https://wowpedia.fandom.com/wiki/Tavern_in_the_Mists "Tavern in the Mists").
+-   During the _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_ demo at [BlizzCon 2017](https://wowpedia.fandom.com/wiki/BlizzCon_2017 "BlizzCon 2017"), Wrathion could be found at the [Stormwind Embassy](https://wowpedia.fandom.com/wiki/Stormwind_Embassy "Stormwind Embassy").<sup id="cite_ref-bfademo_120-0"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-bfademo-120">[120]</a></sup> By the time the [patch 7.3.5](https://wowpedia.fandom.com/wiki/Patch_7.3.5 "Patch 7.3.5") PTR started, adding the embassy to the city, he had been removed.
+-   His bodyguards, [Left](https://wowpedia.fandom.com/wiki/Left "Left") and [Right](https://wowpedia.fandom.com/wiki/Right "Right"), might be inspired by the twin guardsmen of [Olenna Tyrell](https://awoiaf.westeros.org/index.php/Olenna_Tyrell) from the _[A Song of Ice and Fire](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire "wikipedia:A Song of Ice and Fire")_ novels, who refers to her protectors as "Left" and "Right" since she cannot tell them apart. In the _Witcher_ universe, the dragon [Villentretenmerth](https://witcher-games.fandom.com/Villentretenmerth) also had the habit of being protected by two female human bodyguards that he referred to as "his weapons".
+-   According to Associate Game Director [Jeremy Feasel](https://wowpedia.fandom.com/wiki/Jeremy_Feasel "Jeremy Feasel"), Wrathion's scimitar is named Succession.<sup id="cite_ref-121"><a href="https://wowpedia.fandom.com/wiki/Wrathion#cite_note-121">[121]</a></sup>
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Wrathion_concept.jpg/revision/latest/scale-to-width-down/93?cb=20200115073011)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Wrathion_concept.jpg/revision/latest?cb=20200115073011)
+    
+    Concept art of Wrathion's _Battle for Azeroth_ model.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Wrathion_Mercenaries_1.jpg/revision/latest/scale-to-width-down/91?cb=20220207060042)](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Wrathion_Mercenaries_1.jpg/revision/latest?cb=20220207060042)
+    
+    In _Hearthstone Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Wrathion_Mercenaries_2.jpg/revision/latest/scale-to-width-down/105?cb=20220207060049)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Wrathion_Mercenaries_2.jpg/revision/latest?cb=20220207060049)
+    
+    In _Hearthstone Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Wrathion_Mercenaries_3.jpg/revision/latest/scale-to-width-down/90?cb=20220207060059)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Wrathion_Mercenaries_3.jpg/revision/latest?cb=20220207060059)
+    
+    In _Hearthstone Mercenaries_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Wrathion_Mercenaries_True_Form_ability.jpg/revision/latest/scale-to-width-down/90?cb=20220207060105)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Wrathion_Mercenaries_True_Form_ability.jpg/revision/latest?cb=20220207060105)
+    
+    In _Hearthstone Mercenaries_.
+    
+
+Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Wrathion_fanart_by_Lyanis_Arts.jpg/revision/latest/scale-to-width-down/85?cb=20210504172313)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Wrathion_fanart_by_Lyanis_Arts.jpg/revision/latest?cb=20210504172313)
+    
+    By Lyanis Arts.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Wrathion_2020_fan_art_2nd_place.jpg/revision/latest/scale-to-width-down/90?cb=20220221172956)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Wrathion_2020_fan_art_2nd_place.jpg/revision/latest?cb=20220221172956)
+    
+    Wrathion, The Black Emperor by Alex Stone.
+    
+
+## Videos
+
+-   [Wrathion's story part 1](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Wrathion's story part 2](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Wrathion's story part 3](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Wrathion's story part 4](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Visions of N'Zoth - Intro Cinematic](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Ny'alotha: Wrathion's Scene](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Raszageth relesed](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Kalecgos informs Khadgar](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [The Storm-Eater’s Fury - Raszageth Confronts Alexstrasza](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Alexstrasza and Wrathion Argument](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Sabellian and Brood Return](https://wowpedia.fandom.com/wiki/Wrathion#)
+-   [Wrathion Sabellian Bickering](https://wowpedia.fandom.com/wiki/Wrathion#)
+
+## Patch changes
+
+## See also
+
+-   [Fangs of the Father](https://wowpedia.fandom.com/wiki/Fangs_of_the_Father "Fangs of the Father")
+-   [Wrathion's Recorded Journal](https://wowpedia.fandom.com/wiki/Wrathion%27s_Recorded_Journal "Wrathion's Recorded Journal")
+-   [Image of Wrathion](https://wowpedia.fandom.com/wiki/Image_of_Wrathion "Image of Wrathion")
+-   [Image of Wrathion (Throne of Thunder)](https://wowpedia.fandom.com/wiki/Image_of_Wrathion_(Throne_of_Thunder) "Image of Wrathion (Throne of Thunder)")
+-   [I am Legendary](http://us.battle.net/wow/en/blog/8636639)
+-   [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion_(Battle_of_the_Aspects_Treasure)), TCG card
+
+## References
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Wrathion#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Wrathion#t1:npcs)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
+
+[Dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon")
+
+
+
+ |
+| --- |
+|  |
+| Primary dragon types | 
+
+-   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
+-   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
+-   [Bronze](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")
+-   [Green](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon")
+-   [Red](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon")
+
+
+
+ |
+|  |
+| Other dragon types | 
+
+-   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+-   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Nether](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon")
+-   [Plagued](https://wowpedia.fandom.com/wiki/Plagued_dragon "Plagued dragon")
+-   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Storm](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")
+-   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead_dragon "Undead dragon")
+
+
+
+ |
+|  |
+| Black Dragonflight | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><p>Unknown</p></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight#Known_Members" title="Black dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deathwing" title="Deathwing">Deathwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/General_Drakkisath" title="General Drakkisath">Drakkisath</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ebyssian" title="Ebyssian">Ebyssian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nalice" title="Nalice">Nalice</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nefarian" title="Nefarian">Nefarian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Onyxia" title="Onyxia">Onyxia</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sabellian" title="Sabellian">Sabellian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sintharia" title="Sintharia">Sintharia</a></li><li><strong>Wrathion</strong></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Badlands" title="Badlands">Badlands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackrock_Mountain" title="Blackrock Mountain">Blackrock Mountain</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains" title="Blade's Edge Mountains">Blade's Edge Mountains</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Steppes" title="Burning Steppes">Burning Steppes</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathwing%27s_Lair" title="Deathwing's Lair">Deathwing's Lair</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lethlor_Ravine" title="Lethlor Ravine">Lethlor Ravine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Maw_of_Neltharion" title="Maw of Neltharion">Maw of Neltharion</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Dragonshrine" title="Obsidian Dragonshrine">Obsidian Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Sanctum" title="Obsidian Sanctum">Obsidian Sanctum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Redridge_Mountains" title="Redridge Mountains">Redridge Mountains</a></li><li><a href="https://wowpedia.fandom.com/wiki/The_Dragonmurk" title="The Dragonmurk">The Dragonmurk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmbog" title="Wyrmbog">Wyrmbog</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Black_dragon" title="Black dragon">Black dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Black_wyrm" title="Black wyrm">Black wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Groups and cults</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blacktalon" title="Blacktalon">Blacktalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Brood" title="Obsidian Brood">Obsidian Brood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Outcasts" title="Obsidian Outcasts">Obsidian Outcasts</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackwing" title="Blackwing">Blackwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Death_Talon" title="Death Talon">Death Talon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firemane" title="Firemane">Firemane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackwyrm_Cult" title="Blackwyrm Cult">Blackwyrm Cult</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackhowl" title="Blackhowl">Blackhowl</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer" title="Twilight's Hammer">Twilight's Hammer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmcult" title="Wyrmcult">Wyrmcult</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rage_Talon" title="Rage Talon">Rage Talon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Worldbreakers" title="Worldbreakers">Worldbreakers</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Dragonflights | 
+
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
+-   [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight")
+-   [Green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")
+-   [Netherwing dragonflight](https://wowpedia.fandom.com/wiki/Netherwing "Netherwing")
+
+
+
+ |
+|  |
+| Other draconic groups | 
+
+-   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
+-   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| 
+
+-   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
+-   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
+-   [Legacy of the Aspects](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects "Legacy of the Aspects")
+-   [Dragons category](https://wowpedia.fandom.com/wiki/Category:Dragons "Category:Dragons")
+-   [Dragonkin category](https://wowpedia.fandom.com/wiki/Category:Dragonkin "Category:Dragonkin")
+
+
+
+ |

@@ -1,0 +1,1609 @@
+_For the novel, see [World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan"). For the Black Temple encounter, see [Illidan Stormrage (tactics)](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics) "Illidan Stormrage (tactics)"). For other usages, see [Illidan (disambiguation)](https://wowpedia.fandom.com/wiki/Illidan_(disambiguation) "Illidan (disambiguation)")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Illidan Stormrage |
+| --- |
+| [![Image of Illidan Stormrage](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Illidan_the_Betrayer.jpg/revision/latest/scale-to-width-down/200?cb=20150907112817)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Illidan_the_Betrayer.jpg/revision/latest?cb=20150907112817 "Image of Illidan Stormrage") |
+| Title | Lord,  
+The Betrayer,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-1">[1]</a></sup>  
+Lord of Outland,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-2">[2]</a></sup>  
+Lord of the Illidari,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-3">[3]</a></sup>  
+Master of the Illidari,  
+Chosen One |
+| Gender | Male |
+| Race(s) | [Demon](https://wowpedia.fandom.com/wiki/Demon "Demon"),<sup id="cite_ref-encyclopedia_4-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-encyclopedia-4">[4]</a></sup><sup id="cite_ref-UVG_5-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-UVG-5">[5]</a></sup><sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-6">[6]</a></sup>  
+[Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") (formerly)<sup id="cite_ref-UVG_5-1"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-UVG-5">[5]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-7">[7]</a></sup> (Demon / Humanoid) |
+| Class | [Demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter"),<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-8">[8]</a></sup> [Sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer")<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-9">[9]</a></sup><sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-10">[10]</a></sup> |
+| Affiliation(s) | [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari"), [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall") |
+| Former affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance"), [Moon Guard](https://wowpedia.fandom.com/wiki/Moon_Guard "Moon Guard") |
+| Occupation | Jailer of Sargeras, Lord and Master of the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") |
+| Former occupation(s) | Lord of [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), Master of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"), [Captain](https://wowpedia.fandom.com/wiki/Captain_(rank) "Captain (rank)") of the Moon Guard |
+| Location | [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon") (lore), [Various](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#Locations) |
+| Status | Alive (lore)  
+Defeatable [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") |
+| Relative(s) | [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") (twin brother), [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") (sister-in-law), [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon") (adopted niece)<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-11">[11]</a></sup> |
+| Mentor(s) | [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") |
+| Student(s) | [Varedis Felsoul](https://wowpedia.fandom.com/wiki/Varedis_Felsoul "Varedis Felsoul"), [Leotheras the Blind](https://wowpedia.fandom.com/wiki/Leotheras_the_Blind "Leotheras the Blind"), [Alandien](https://wowpedia.fandom.com/wiki/Alandien "Alandien") |
+
+“There is no sacrifice too great if it brings an end to the Burning Legion.”
+
+— Illidan Stormrage<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-12">[12]</a></sup>
+
+**Illidan Stormrage**, commonly known as **the Betrayer**, is the first of the [demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter"), the former self-proclaimed Lord of [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), the former ruler of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"), and the original leader of the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari"). He is the twin brother of [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and was, like his sibling, in love with [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"). Originally a powerful [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), Illidan officially betrayed his people by defecting to the [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), though his reasons for doing so were noble as he secretly aimed to repel the Legion's invasion.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-13">[13]</a></sup> He eventually returned to the side of his fellow night elves, but his creation of a [second Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") at the end of the war caused his people to name him "Betrayer" and imprison him in the [Barrow Deeps](https://wowpedia.fandom.com/wiki/Barrow_Deeps "Barrow Deeps") below [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"). There he remained for over 10,000 years, watched over by the [warden](https://wowpedia.fandom.com/wiki/Warden "Warden") [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") and her [Watchers](https://wowpedia.fandom.com/wiki/Watchers "Watchers").
+
+When the Legion invaded [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") once more during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), Tyrande freed Illidan from his prison in order to have him battle the demons once more. He subsequently consumed the [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") energies of the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") and transformed into a demon in order to defeat the [dreadlord](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim") [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius"), an act for which he was banished by Malfurion. After the Legion's defeat at the end of the war, Illidan decided to feign allegiance to the [demon lord](https://wowpedia.fandom.com/wiki/Demon_lord "Demon lord") [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") by agreeing to destroy Kil'jaeden's traitorous creation, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), as a way to learn more about his true foe: the Burning Legion.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-14">[14]</a></sup> Although he amassed an army of servants in the form of the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") led by [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"), Illidan's efforts were stopped by the night elves and he was forced to flee to the shattered realm of [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). There he and his naga gathered new allies in the form of the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") led by [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") and the [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken") [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") led by [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama"), and with their aid he overthrew Outland's tyrannical ruler [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon") to claim the broken realm for his own. Illidan later traveled with his allies to the Lich King's stronghold of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") for one last attempt to complete Kil'jaeden's mission, but he was eventually thwarted and nearly killed by the Lich King's champion, the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil").
+
+Returning to Outland, Illidan dropped all pretense of serving Kil'jaeden and mustered his army—the Illidari—to begin his true war against the Burning Legion.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-15">[15]</a></sup> He trained an army of elven demon hunters in his own image and began preparing to destroy the Legion [world](https://wowpedia.fandom.com/wiki/Planet "Planet") of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), but his extreme methods and single-minded focus on his goal led to the alienation of his allies Kael'thas and Akama. Through the manipulations of Kil'jaeden, the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") [invaded Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland") and began dismantling Illidan's forces in the belief that he was no better than the demons he claimed to fight. Despite succeeding in destroying the demon stronghold of [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza"), the Betrayer was ultimately cornered and struck down within his own sanctum by Akama, a group of Azerothian [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), and his vengeful former jailer, Maiev. Maiev subsequently brought Illidan's corpse to the [Vault of the Wardens](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens "Vault of the Wardens") so that his [spirit](https://wowpedia.fandom.com/wiki/Ghost "Ghost") could suffer the rest of his eternal sentence. There it remained for years until the Legion [invaded once more](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion").
+
+A struggle for Illidan's soul ensued between the Legion and the forces of Azeroth, including the remaining Illidari, culminating in Illidan's resurrection atop the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold"). The Betrayer subsequently joined forces with Azeroth's defenders as they battled the Legion across the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") and within the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"). During a battle with Kil'jaeden in the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"), Illidan used an artifact known as the [Sargerite Keystone](https://wowpedia.fandom.com/wiki/Sargerite_Keystone "Sargerite Keystone") to open a rift that brought the worlds of Azeroth and Argus together. Illidan accompanied Azeroth's champions as they traveled to Argus to battle the Legion alongside the [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light"), whose leader—the prime [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [Xe'ra](https://wowpedia.fandom.com/wiki/Xe%27ra "Xe'ra")—believed that Illidan was the **Chosen One**,<sup id="cite_ref-The_Child_of_Light_and_Shadow_16-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-The_Child_of_Light_and_Shadow-16">[16]</a></sup> a hero of the [Light](https://wowpedia.fandom.com/wiki/Light "Light") prophesied to end the age of demons.<sup id="cite_ref-In_the_House_of_Light_and_Shadow_17-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-In_the_House_of_Light_and_Shadow-17">[17]</a></sup> Illidan rejected the idea of having his destiny forged for him and killed Xe'ra when the naaru tried to forcibly infuse him with the Light.<sup id="cite_ref-The_Child_of_Light_and_Shadow_16-1"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-The_Child_of_Light_and_Shadow-16">[16]</a></sup> The Army of the Light and their allies eventually assaulted [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")' seat of power, [Antorus](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne"), and freed the captive spirits of the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), who imprisoned Sargeras at the [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon") for his transgressions. While the rest of Azeroth's heroes returned home to their world, Illidan chose to remain behind, becoming Sargeras' jailor.
+
+Illidan was introduced as a supporting character in _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, though he played a far more significant role as one of the two main antagonists (alongside [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")) in the game's sequel, _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_. He made his first appearance in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ as a major antagonist with the first expansion, _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, serving as the [final boss](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics) "Illidan Stormrage (tactics)") of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") raid in [patch 2.1](https://wowpedia.fandom.com/wiki/Patch_2.1.0 "Patch 2.1.0"). Illidan returned as an anti-hero in _[World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ alongside his [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari"). He became a primary force towards defeating the Legion, siding with the heroes of Azeroth.
+
+## Biography
+
+Illidan and his twin brother, [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"), were born at [Lorlathil](https://wowpedia.fandom.com/wiki/Lorlathil "Lorlathil") in [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah")<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-18">[18]</a></sup> and grew up in [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") as friends with [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"). Illidan and Malfurion's parents died years before the coming [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-19">[19]</a></sup>
+
+### War of the Ancients
+
+_See also: [War of the Ancients (WC3 account)](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_(WC3_account) "War of the Ancients (WC3 account)") and: [War of the Ancients (novel account)](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_(novel_account)#Illidan "War of the Ancients (novel account)")_
+
+[![Icon-time.svg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Icon-time.svg/revision/latest?cb=20080412111039) This section contains information that is [out-of-date](https://wowpedia.fandom.com/wiki/Category:Outdated_articles "Category:Outdated articles"). Reason: **Needs WotA novels, Chronicle, and W. King's novel details.**
+
+[![War of the Ancients compilation book cover art.jpg](https://static.wikia.nocookie.net/wowpedia/images/9/98/War_of_the_Ancients_compilation_book_cover_art.jpg/revision/latest/scale-to-width-down/180?cb=20210415160004)](https://static.wikia.nocookie.net/wowpedia/images/9/98/War_of_the_Ancients_compilation_book_cover_art.jpg/revision/latest?cb=20210415160004)
+
+Illidan practiced Highborne magic. In his youth, he attempted to master the druidic forces, as his brother had, but the sorcery called to him in a way that the magic of the land did not. Unlike his brother, Illidan was born with amber eyes, at the time a sign of a great destiny — however, this actually indicated inherent druidic potential.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-20">[20]</a></sup> When Malfurion and Tyrande had found their destiny, Illidan was still searching for his. Though not a Highborne himself, he became the personal caster of the military leader, [Kur'talos Ravencrest](https://wowpedia.fandom.com/wiki/Kur%27talos_Ravencrest "Kur'talos Ravencrest").
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Cenarius1.jpg/revision/latest/scale-to-width-down/94?cb=20180921165642)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Cenarius1.jpg/revision/latest?cb=20180921165642)
+    
+    Cenarius instructs Malfurion, Tyrande, and Illidan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/An_Unclear_Path_1.jpg/revision/latest/scale-to-width-down/120?cb=20210413141108)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/An_Unclear_Path_1.jpg/revision/latest?cb=20210413141108)
+    
+    Cenarius projection with Illidan, Malfurion and Tyrande in the Dreamgrove.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d1/An_Unclear_Path_2.jpg/revision/latest/scale-to-width-down/120?cb=20210413141125)](https://static.wikia.nocookie.net/wowpedia/images/d/d1/An_Unclear_Path_2.jpg/revision/latest?cb=20210413141125)
+    
+    Illidan with Tyrande and Malfurion in the Dreamgrove.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Illidan_WotA.jpg/revision/latest/scale-to-width-down/84?cb=20121126155540)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Illidan_WotA.jpg/revision/latest?cb=20121126155540)
+    
+    A young Illidan casting a spell, before he lost his eyes.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Illidan_WotA2.jpg/revision/latest/scale-to-width-down/105?cb=20130723214754)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Illidan_WotA2.jpg/revision/latest?cb=20130723214754)
+    
+    Illidan during the War of the Ancients, before he lost his eyes.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Illidan_HS_mage.jpg/revision/latest/scale-to-width-down/92?cb=20201117193222)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Illidan_HS_mage.jpg/revision/latest?cb=20201117193222)
+    
+    Illidan as a mage before he became a demon hunter.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Illidan_Mercenaries_2.jpg/revision/latest/scale-to-width-down/90?cb=20211014171634)](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Illidan_Mercenaries_2.jpg/revision/latest?cb=20211014171634)
+    
+    Illidan as a mage before he became a demon hunter.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Illidan_eyes_burned_out.jpg/revision/latest/scale-to-width-down/120?cb=20210413151257)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Illidan_eyes_burned_out.jpg/revision/latest?cb=20210413151257)
+    
+    Illidan after Sargeras burned out his eyes.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Illidanarchive.jpg/revision/latest/scale-to-width-down/71?cb=20181026174833)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Illidanarchive.jpg/revision/latest?cb=20181026174833)
+    
+    Illidan as he appeared during the War of the Ancients, over 10,000 years ago.
+    
+
+When [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")'s invasion of Azeroth had begun and Azshara's treachery became known, Malfurion convinced Illidan to leave his queen. Illidan followed his brother. But as [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") and the [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon") entered the battle, Malfurion came to understand that their adversaries were too powerful to fall in combat. To end the invasion, he plotted the destruction of the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). The idea appalled Illidan. The Well was the source of his magic — and likely of the elves' immortality — and its loss was a price far too dear for him to pay. In addition, the night elf found that he increasingly admired the powers of the Burning Legion, seeing a magical purity that underlay their chaotic behavior. Where the night elves struggled to maintain their ground, the Burning Legion's numbers did not seem to permanently diminish.
+
+After the death of [Latosius](https://wowpedia.fandom.com/wiki/Latosius "Latosius"), Illidan became the leader of the [Moon Guard](https://wowpedia.fandom.com/wiki/Moon_Guard "Moon Guard"). However, Illidan did not use the Moon Guard to their fullest potential. Instead of having them cast spells, he ordered them to transfer their power into him, thus empowering his own spells instead; but in doing so, this opened them to attack from the demons with no means to defend themselves.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-21">[21]</a></sup><sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-22">[22]</a></sup> After one particular battle defending [Black Rook Hold](https://wowpedia.fandom.com/wiki/Black_Rook_Hold "Black Rook Hold"), where he drained his own soldiers to the point that they died, Illidan realized that sacrifice was necessary to defeat the Burning Legion, and the others were fools for not seeing it.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-23">[23]</a></sup>
+
+Illidan had strong feelings for [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), a novice priestess in the [Sisters of Elune](https://wowpedia.fandom.com/wiki/Sisters_of_Elune "Sisters of Elune"). Illidan so desired to impress Tyrande that he often acted without thinking, particularly in magic; he never realized that these displays weren't quite what the priestess was looking for in a mate. But while Illidan struggled to win her heart, none of them realized that the battle was over soon after it had begun; Tyrande had chosen Malfurion almost from the beginning. [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius") knew of this and used his power to darken Illidan's thoughts, convincing him that if Malfurion were to die, Illidan would no longer have a rival for Tyrande's love. Finally, the sight of Tyrande in the arms of his brother shattered his final ties to the defenders.
+
+It was likely somewhere in this point of time that Illidan defeated a [doomguard](https://wowpedia.fandom.com/wiki/Doomguard "Doomguard") commander named [Azzinoth](https://wowpedia.fandom.com/wiki/Azzinoth "Azzinoth") and took up the demon's personal weapons as his own; these would become known as the [Warglaives of Azzinoth](https://wowpedia.fandom.com/wiki/The_Twin_Blades_of_Azzinoth "The Twin Blades of Azzinoth").<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-24">[24]</a></sup> When Illidan left, Kur'talos's daughter [Illysanna](https://wowpedia.fandom.com/wiki/Illysanna_Ravencrest "Illysanna Ravencrest") - distraught over her father's death and convinced Illidan's path was right - left to go find him and walk in his footsteps.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-25">[25]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/27/Sargeras_blinds_Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20160925164547)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Sargeras_blinds_Illidan.jpg/revision/latest?cb=20160925164547)
+
+Sargeras burning out Illidan's eyes.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/31/Illidan_Stormrage.jpg/revision/latest/scale-to-width-down/180?cb=20070222114705)](https://static.wikia.nocookie.net/wowpedia/images/3/31/Illidan_Stormrage.jpg/revision/latest?cb=20070222114705)
+
+Illidan from ["The Sundering"](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering").
+
+Illidan, with a new plan spurred into his mind, journeyed to [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"). There he feigned allegiance to Azshara and [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth"). Illidan's plan was to obtain the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"), an artifact of great power created by [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") also known as [Neltharion the Earth-Warder](https://wowpedia.fandom.com/wiki/Neltharion_the_Earth-Warder "Neltharion the Earth-Warder"), which had the ability to close the portal which was allowing the demons to enter Kalimdor. However, to put this plan in action, Illidan had to gain more power. Illidan was eventually brought before Sargeras himself, who quickly discovered the night elf's plan to obtain the Demon Soul for the Legion. Sargeras was pleased with this plan and gave Illidan a "gift" in return for his allegiance. Illidan's eyes were burned out by Sargeras himself, despite still being beyond the portal, and orbs of mystic fire set in their place that allowed Illidan to see all forms of magic, and fel tattoos covered his body. When Illidan's eyes were burned out, he also received a vision of the true strength of the Legion and their crusade across infinite universes, and he came to realize that defeating them on Azeroth would mean nothing. He resolved then to find a way to defeat them for good.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-26">[26]</a></sup><sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-27">[27]</a></sup> Azshara was fascinated by the "new" Illidan (who was wary of her advances), but remained cautious, sending Captain [Varo'then](https://wowpedia.fandom.com/wiki/Varo%27then "Varo'then") to accompany Illidan in his search for the Demon Soul.
+
+When the Demon Soul came into the hands of the Legion, they went about using it as a focus to strengthen their portal above the Well of Eternity for Sargeras. Illidan reunited with the [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance"), which now greatly mistrusted him after seeming to betray them and hand over the key to victory to the demons. But working alongside Malfurion, the brothers worked together to close the portal with the Demon Soul's power. The destruction of the portal caused the Well of Eternity itself to grow unstable, and right before the defenders fled Zin-Azshari Illidan took several vials and filled them with water from the Well of Eternity. The [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") that resulted from the Well's instability split the main supercontinent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") into various smaller continents.
+
+After the Great Sundering, Illidan scaled the peaks of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), where he found a small, tranquil lake. There he poured the contents of three of the vials into the waters. The chaotic energies quickly manifested, tainting the lake and twisting it into a new Well of Eternity. Illidan's joy was short-lived however, when his brother, Malfurion, Tyrande and the rest of the kaldorei leadership discovered him - and all were horrified at what he'd done. Unable to accept that his brother had committed such treachery, Malfurion tried again to explain to Illidan the folly of his ways. The magic, he insisted, was chaotic by nature, and it could only bring about destruction so long as it existed. Illidan refused to listen, so enraptured by the magic's power that his brother seemed to him an unknowing fool. Illidan claimed that magic would be needed should the Burning Legion ever return.
+
+The lack of remorse shook Malfurion to his core and he raged at his brother, understanding now that Illidan was lost forever to the magic's sway. He ordered him imprisoned deep below Hyjal in a jail kept far from sight and mind. Malfurion would later note that sometimes he went to visit Illidan in his prison in the hopes of turning him from his fatal path.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-28">[28]</a></sup>
+
+### Release from prison
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/BTNIllidan.png/revision/latest/scale-to-width-down/180?cb=20210508194404)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/BTNIllidan.png/revision/latest?cb=20210508194404)
+
+Illidan in _[Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reforged "Warcraft III: Reforged")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Warcraft_III_Reforged_Tyrande_and_Illidan_key_art_by_Astri_Lohne.jpg/revision/latest/scale-to-width-down/180?cb=20200814101847)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Warcraft_III_Reforged_Tyrande_and_Illidan_key_art_by_Astri_Lohne.jpg/revision/latest?cb=20200814101847)
+
+[Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") frees Illidan from his prison.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Illidan_meets_Arthas_Reforged.jpg/revision/latest/scale-to-width-down/180?cb=20220305205138)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Illidan_meets_Arthas_Reforged.jpg/revision/latest?cb=20220305205138)
+
+[Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") informed Illidan about the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan").
+
+Illidan languished for 10,000 years in a lightless prison. [Califax](https://wowpedia.fandom.com/wiki/Califax "Califax"), a [keeper of the grove](https://wowpedia.fandom.com/wiki/Keeper_of_the_grove "Keeper of the grove"), and a contingent of night elves (including [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")) kept constant guard over the Betrayer. Release came at the unexpected hands of Tyrande, who slaughtered the night elf guards in the hopes of using Illidan against the Legion, which had returned to Azeroth at the hands of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). With his love for Tyrande undampened through the millennia of confinement, Illidan agreed to help. He swore to throw back the Legion and to depart from the night elves forever. Upon being released, Illidan stormed Hyjal's war-torn forest.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-29">[29]</a></sup>
+
+Malfurion opposed Tyrande's decision, thinking the release of Illidan a catastrophic mistake.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-30">[30]</a></sup> Frustrated that his brother remained unchanged and eager to prove to him that the demons had no hold over him, Illidan left Malfurion behind, leading a force of night elves into [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood") to hunt down the Legion. While in Felwood, he encountered [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), champion of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and they engaged in combat. The fighters were equally matched, and the combatants reached an impasse. Illidan stopped the duel and demanded to know why Arthas had tracked him. Arthas responded openly, telling Illidan about the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan"), the demonic artifact that had corrupted [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood"). He explained that if the artifact were destroyed, the corruption of the forests would halt. To ensure that Illidan would take the bait, Arthas spared no detail of the Skull's power, adding that [his master](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") knew of Illidan's thirst for power. Although Illidan did not trust Arthas, he nevertheless sought the Skull and its power out.
+
+A great Demon Gate defended the Skull as Illidan and his forces had to fight mightily to gain access to the artifact. Driven by necessity and influenced by the belief that with the increased power, he could, at last, redeem himself in the eyes of Tyrande, he shattered the demonic seal and used the Skull's powers for his own. Strength he found, but peril greater than power came to him at once. The battle for control of the Skull came with a heavy price and the artifact's powers changed him. Transformed into a demon, Illidan wrapped himself in shadow and utterly destroyed [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") and his forces. But with victory came devastation. Tyrande and Malfurion sensed the demonic power lurking within Illidan and turned away with disgust and despair. Malfurion chastised his brother, convinced that Illidan had traded his soul for more power. Enraged, Malfurion banished his brother from the forests.
+
+Feeling his sacrifice and effort were unappreciated, Illidan muttered "So be it... brother", and left the night elf lands.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-31">[31]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Illidan_WC3.jpg/revision/latest/scale-to-width-down/95?cb=20091001173725)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Illidan_WC3.jpg/revision/latest?cb=20091001173725)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Illidan_vs_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20091001173728)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Illidan_vs_Arthas.jpg/revision/latest?cb=20091001173728)
+    
+    Illidan confronts Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Illidan_absorbing_the_Skull_of_Gul%27dan.jpg/revision/latest/scale-to-width-down/120?cb=20091001173739)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Illidan_absorbing_the_Skull_of_Gul%27dan.jpg/revision/latest?cb=20091001173739)
+    
+    Illidan absorbing the Skull of Gul'dan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/IllidanDemon.jpg/revision/latest/scale-to-width-down/120?cb=20091001172754)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/IllidanDemon.jpg/revision/latest?cb=20091001172754)
+    
+    Illidan as a demon after consuming the power of the Skull of Gul'dan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Illidan_demon_face.jpg/revision/latest/scale-to-width-down/111?cb=20091001173719)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Illidan_demon_face.jpg/revision/latest?cb=20091001173719)
+    
+    Illidan, after absorbing the Skull of Gul'dan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Illidan_Mercenaries_1.jpg/revision/latest/scale-to-width-down/87?cb=20211014171430)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Illidan_Mercenaries_1.jpg/revision/latest?cb=20211014171430)
+    
+    Illidan holding the Skull of Gul'dan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/IllidanFightTichondrius.jpg/revision/latest/scale-to-width-down/120?cb=20060128203201)](https://static.wikia.nocookie.net/wowpedia/images/2/22/IllidanFightTichondrius.jpg/revision/latest?cb=20060128203201)
+    
+    Illidan defeating Tichondrius.
+    
+
+### Allegiances
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/IllidanE.jpg/revision/latest/scale-to-width-down/200?cb=20110818232932)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/IllidanE.jpg/revision/latest?cb=20110818232932)
+
+Illidan calling the naga from the depths of the sea.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Kil%27jaeden_and_Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20180923183630)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Kil%27jaeden_and_Illidan.jpg/revision/latest?cb=20180923183630)
+
+Kil'jaeden meets with Illidan, a few months after the [Legion's](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") defeat at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") and [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde")'s death.
+
+After the Legion's defeat, Illidan was visited by [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), who, while noting Illidan's sketchy track record with the Legion, offered him one final chance to serve them. He told him to seek out the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), and destroy it. [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") had grown far too powerful for Kil'jaeden to control and betrayed him, and Illidan was to remove him from the equation; in exchange for more power and magic than he could dream of.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-32">[32]</a></sup> He granted him the [Orb of Kil'jaeden](https://wowpedia.fandom.com/wiki/Orb_of_Kil%27jaeden "Orb of Kil'jaeden") to aid him in this task.
+
+By harnessing Gul'dan's enchanted skull, Illidan came to possess the warlock's memories, and a plan came to mind, but he would need allies to help him. He decided to enlist the aid of old friends.
+
+Illidan had heard only rumors of the Highborne's fate. Illidan cast a powerful spell and called the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") to the surface, calling in some old [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") debts.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-33">[33]</a></sup> A group of naga led by [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") emerged from the depths and pledged themselves to him. They did not come because of their shared history, nor did they respect his demonic power. They came because the Old Gods willed it. They noticed Illidan and his hunger for power. They sent the naga to aid Illidan in his campaign against the Lich King so that it could spark a new war. If the former night elf became troublesome, the Old Gods could simply command the naga to cut out his fel-corrupted heart.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-34">[34]</a></sup>
+
+Thus, Vashj came to lead those who would be known as "[Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga")". But Illidan still had the troublesome warden, [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong"), to deal with, as she had persistently chased him all over Kalimdor. Illidan then allied with a group of [satyrs](https://wowpedia.fandom.com/wiki/Satyr "Satyr"), known as [Illidan's Servitors](https://wowpedia.fandom.com/wiki/Illidan%27s_Servitors "Illidan's Servitors"),<sup id="cite_ref-risenaga_35-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-risenaga-35">[35]</a></sup> and corrupted some furbolgs.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-36">[36]</a></sup> Then he ran to the port of [Nendis](https://wowpedia.fandom.com/wiki/Nendis "Nendis") with his naga and satyr minions protecting the way up behind him. Maiev killed the furbolgs and defeated his forces, but when she came to the port, Illidan hijacked a boat and set sail, while a cadre of naga stayed behind to scuttle the ships and ruin all hopes of following him.<sup id="cite_ref-risenaga_35-1"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-risenaga-35">[35]</a></sup>
+
+With the naga swimming in his wake, Illidan came ashore on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") — the ruined remains of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") (ironically, the same city where Illidan grew up) which Gul'dan and his warlocks had raised twenty years before, and the home of the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras").
+
+### Confrontation on the Broken Isles
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Illidan_Portrait.jpg/revision/latest/scale-to-width-down/180?cb=20130803044859)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Illidan_Portrait.jpg/revision/latest?cb=20130803044859)
+
+Illidan portrait in _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/86/BTNEvilIllidan-Reforged.png/revision/latest/scale-to-width-down/180?cb=20210425015400)](https://static.wikia.nocookie.net/wowpedia/images/8/86/BTNEvilIllidan-Reforged.png/revision/latest?cb=20210425015400)
+
+Illidan in _[Warcraft III: Reforged](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reforged "Warcraft III: Reforged")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Illidan_Frozen_Throne.jpg/revision/latest/scale-to-width-down/180?cb=20081205204317)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Illidan_Frozen_Throne.jpg/revision/latest?cb=20081205204317)
+
+Illidan after receiving the [Orb of Kil'jaeden](https://wowpedia.fandom.com/wiki/Orb_of_Kil%27jaeden "Orb of Kil'jaeden").
+
+But Illidan's servants had not been successful in destroying the boats. Maiev and the Watchers arrived on the Broken Isles shortly after Illidan, and the two forces [battled](https://wowpedia.fandom.com/wiki/The_Broken_Isles_(WC3_NightElf) "The Broken Isles (WC3 NightElf)") across the watery terrain. Illidan reached the tomb, and Maiev was quick to follow. With Gul'dan's knowledge, Illidan quickly traversed the Tomb and came to the chamber which contained the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). Maiev came upon him as he and Vashj were activating the powerful artifact, and, as vengeance for her imprisoning him for 10,000 years, Illidan used the Eye to bring the Tomb down around her, and then quickly escaped through the underwater passages used by the naga. Though he killed [Naisha](https://wowpedia.fandom.com/wiki/Naisha "Naisha") and all the other Watchers within the Tomb, Maiev escaped with her magical abilities. On the surface, Illidan and Maiev battled for supremacy as the Warden sent out a runner to gather reinforcements from [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale").
+
+Malfurion and Tyrande arrived on the Broken Isles with reinforcements as Maiev's base was being overrun. When they [struck back](https://wowpedia.fandom.com/wiki/Balancing_the_Scales "Balancing the Scales"), Illidan's forces crumbled, but he and his retainers fled before they were seriously harmed. Tyrande pursued them out of the base, and Illidan ensnared her to protect himself, and then warned her not to interfere. He fled across the sea once again. During this battle, Tyrande finally revealed why she had spurned Illidan: too drunk with his rising magical and political power, he had forgotten his own inner strength. Malfurion, despite his increases in power, held on to that strength within him. Armed with this knowledge, Illidan finally came to grips with his feelings.
+
+Illidan landed on the shore of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), and quickly made his way through the Silverpine Forest to get to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), where Illidan began to use the Eye of Sargeras to break apart the polar ice cap and destroy [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") and the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"). But he was interrupted by Maiev and Malfurion, and the spell failed. Malfurion had felt Illidan's spell tearing the land apart and concluded that he was a danger to the world and had to be stopped. Illidan, who was entangled by his brother, called Malfurion a fool as he was destroying the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), their common enemy. Malfurion was furious at him for causing the loss of Tyrande, who had been, according to Maiev, killed. Illidan was heartbroken that the woman he loved was dead, but [Prince Kael'thas](https://wowpedia.fandom.com/wiki/Prince_Kael%27thas "Prince Kael'thas"), the night elves' newest ally, thought that perhaps it was premature to presume her dead. Kael'thas explained that Tyrande had not been "torn apart" by the undead, as Maiev had told Malfurion, but had instead fallen into a river and been swept away by the currents. Malfurion immediately arrested the Warden and promptly went in search of Tyrande. Illidan begged to be allowed to help his brother track down the beloved priestess. Illidan and his personal guard of naga found Tyrande under heavy attack from a massive undead force.
+
+Illidan and his naga battled their way through the undead until they reached her. Tyrande was taken aback by Illidan's service to her, and when he delivered her safely to Malfurion, she was astonished. Malfurion told Illidan he was free to go on the condition that he never threaten the night elves again. Illidan, wishing for an end to the conflict with his brother, agreed.
+
+### Escape to Outland
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Akama_joining_Illidan.png/revision/latest/scale-to-width-down/180?cb=20220119203307)](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Akama_joining_Illidan.png/revision/latest?cb=20220119203307)
+
+Akama swearing allegiance to Illidan.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/24/Chronicle3_battle_with_Magtheridon.jpg/revision/latest/scale-to-width-down/140?cb=20180328212455)](https://static.wikia.nocookie.net/wowpedia/images/2/24/Chronicle3_battle_with_Magtheridon.jpg/revision/latest?cb=20180328212455)
+
+Illidan, Akama, Vashj, and Kael'thas battling Magtheridon.
+
+After Malfurion let him go, Illidan created a portal to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") by using a small rift left behind from the portal [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") had used to summon [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") into Azeroth.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-37">[37]</a></sup> He fled immediately, being pursued by Maiev. Now that he had failed to destroy Ner'zhul, he knew that Kil'jaeden's wrath would not spare him, so Illidan wanted to find a world where he could remain unmolested. He felt that Outland, the ruined remains of Draenor, was just such a place.
+
+Illidan was chased down on the shattered world until he was captured by Maiev and the Watchers, and imprisoned once again. But he was saved by [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") and Vashj. Illidan promised Kael a way sate his people's magical addiction and in return, Kael pledged his people's allegiance to him. Illidan accepted the allegiance of the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), and made Kael his second-in-command. The Sin'dorei, coupled with the naga, would be very invaluable to his plans. Illidan continued his original plan - to rid Outland of demonic influence so that he could stay out of Kil'jaeden's grasp. To do this, they laid siege to the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") of [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon"), the [pit lord](https://wowpedia.fandom.com/wiki/Pit_lord "Pit lord") who had taken control of the world. But first, Illidan systematically shut down his dimensional gates to stem the flow of reinforcements. Eventually, they succeeded.
+
+When they came to the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"), Illidan was approached by [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama") of the [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken"), who pledged the allegiance of his race. Akama's broken felt indebted to Illidan and his army for aiding them in their fight against the fel orcs of Magtheridon, who had laid siege to their village with the intent of slaughtering them all. They laid siege to the Black Temple and destroyed Magtheridon's defenses, and then defeated the Pit Lord in battle himself. Magtheridon noted wryly that Illidan had great power, and asked if the Legion had sent him as a test. Illidan laughed, saying that he was not a test, but a replacement, and imprisoned Magtheridon beneath [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel "Hellfire Citadel") and kept sealed in place by the fel orc jailor [Keli'dan the Breaker](https://wowpedia.fandom.com/wiki/Keli%27dan_the_Breaker "Keli'dan the Breaker").
+
+### The march on Icecrown
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Illidan_v_Arthas.jpg/revision/latest/scale-to-width-down/180?cb=20210405024857)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/Illidan_v_Arthas.jpg/revision/latest?cb=20210405024857)
+
+Illidan and Arthas' fight, as seen in _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_.
+
+As Illidan rallied the forces of Outland under a new banner, a storm of fire and smoke descended upon the Black Temple, and Kil'jaeden appeared in all his unholy glory. Chastising Illidan for his foolhardy attempts to flee his wrath, Illidan quickly claimed that he had been gathering his forces for a second attack on the Frozen Throne. Kil'jaeden, seeing that Illidan's new comrades "showed _some_ promise", agreed to give Illidan one more chance to appease the demons.
+
+Kil'jaeden did not realize Illidan's capture of the Black Temple was an act against the Legion itself. Demons were conniving creatures that were known to betray each other for greater power. Kil'jaeden thought Illidan to be his servant that had claimed Outland as a personal prize, which Kil'jaeden would allow him to keep if Illidan destroyed the Lich King. However, if Illidan refused, Kil'jaeden threatened to do everything in his power to retake the broken world from Illidan and destroy him. Illidan feigned his thoughts and allegiance before Kil'jaeden once more and agreed to destroy the Lich King. He used one of the many portals on Outland and crafted a new gateway back to Azeroth. He took a portion of his army, leaving Akama to secure Outland, arrived to Northrend and began marching on Icecrown Citadel.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-38">[38]</a></sup>
+
+Illidan, Vashj, and Kael laid siege to Northrend and battled [Anub'arak](https://wowpedia.fandom.com/wiki/Anub%27arak "Anub'arak")'s forces as they trudged through the snow towards the Icecrown glacier. But Ner'zhul, knowing he would be overrun if he didn't do something, called Arthas to Northrend to complete the plan he had set in motion so many months before. Finally, Illidan's forces arrived at Icecrown as Arthas and Anub'arak dug their way out of [Azjol-Nerub](https://wowpedia.fandom.com/wiki/Azjol-Nerub "Azjol-Nerub"), and the two factions squared off in a titanic [battle](https://wowpedia.fandom.com/wiki/A_Symphony_of_Frost_and_Flame "A Symphony of Frost and Flame") as they tried to gain control of the four mystical obelisks surrounding the glacier. After a long battle, and control going back and forth between the two enemies, Arthas activated all obelisks, and the doors to the Frozen Throne were opened.
+
+But Illidan was not finished yet. Meeting Arthas at the glacier's base, the two warriors engaged in single combat. After a few minutes of exchanging blows, however, Arthas overcame Illidan's defenses and cut him down. Illidan fell in the snow, badly wounded. Rather than finish him off, Arthas, before taking his leave, warned Illidan to leave Azeroth and never return. After it became clear for Vashj and Kael that they could not destroy the Frozen Throne, they retreated, eventually back to Outland, taking Illidan with them.
+
+_Note that the in-game animation between Illidan and Arthas was originally planned to be a video cinematic. Time constraints, however, forced the scene to be done inside the game. The developers have said that their greatest regret about this change is that many assumed Illidan died, when the video would have revealed that Illidan survived to watch Arthas' transformation._<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/A_Long_Time_Coming_-_Illidan.jpg/revision/latest/scale-to-width-down/120?cb=20180925172018)](https://static.wikia.nocookie.net/wowpedia/images/1/12/A_Long_Time_Coming_-_Illidan.jpg/revision/latest?cb=20180925172018)
+    
+    Illidan at Icecrown Glacier about to fight Arthas.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Illidan_against_Arthas_at_the_Frozen_Throne.jpg/revision/latest/scale-to-width-down/120?cb=20210322192028)](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Illidan_against_Arthas_at_the_Frozen_Throne.jpg/revision/latest?cb=20210322192028)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Arthas_vs_Illidan.jpg/revision/latest/scale-to-width-down/120?cb=20150808061923)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Arthas_vs_Illidan.jpg/revision/latest?cb=20150808061923)
+    
+    Illidan confronts Arthas at the base of Icecrown Glacier.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Illidan_defeated_by_Arthas_at_the_Frozen_Throne.jpg/revision/latest/scale-to-width-down/120?cb=20180924194742)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Illidan_defeated_by_Arthas_at_the_Frozen_Throne.jpg/revision/latest?cb=20180924194742)
+    
+    Illidan lies defeated at the hands of Arthas.
+    
+
+### The Lord of Outland
+
+[![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up"). Reason: **Grammar needs some work.**
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IllidanTBCCinematic.jpg/revision/latest/scale-to-width-down/220?cb=20180619171757)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/IllidanTBCCinematic.jpg/revision/latest?cb=20180619171757)
+
+Illidan's demonic form seen in the Burning Crusade opening cinematic.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20100912035852)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/Illidan.jpg/revision/latest?cb=20100912035852)
+
+Illidan, Lord of Outland.
+
+Following his fight with Arthas, Illidan fled to the shattered remains of Draenor (now known simply as Outland). Quickly gathering his followers, he soon declared himself Lord of Outland. According to the manual included with the [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") expansion, Illidan was fully aware that Kil'jaeden had not forgotten his failure to destroy the Frozen Throne. Anticipating the Legion's retaliation, and convinced that another offensive against Azeroth was not far behind, Illidan began to take drastic steps to prepare himself for a defensive stand. Beneath the Black Temple, Illidan began the creation of a new [fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc") army of his own, using the blood of the imprisoned [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon"). As he continued to fortify the temple, his allies worked to ensure that all portals to Outland remained tightly sealed, buying Illidan even more time to strengthen his power base.
+
+In order to further cement his authority over Outland and its residents, Illidan ordered [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") to seize control of the water reserves of the shattered realm. Vashj's naga forces quickly moved to begin draining the lakes and seas of [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh"), consolidating as much as they could within the [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir"). Eventually [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") privatized the Coilfang Reservoir, keeping it under heavy guard and at the expense of the previous denizens of the marsh.
+
+Meanwhile, Akama had grown increasingly frustrated over Illidan's refusal to relinquish control of the Black Temple (formerly known to Akama's people as the [Temple of Karabor](https://wowpedia.fandom.com/wiki/Temple_of_Karabor "Temple of Karabor")). In addition to his army of fel orcs, Illidan had begun training an army of [demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") — imbued with the same demonic powers as Illidan himself and wielding warglaives similar to his own. This army would come to be known as the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari"). Believing that Illidan's work with the fel orcs — whose kin Akama had fought against for so long — and the fel rituals undergone by the Illidari served only to defile the Temple further, Akama began to secretly conspire with Maiev Shadowsong in an attempt to free Outland from Illidan's grasp. It was not long, however, before Illidan discovered Akama's betrayal. Rather than kill the Broken warrior for his treachery, Illidan chose instead to [bind a portion](https://wowpedia.fandom.com/wiki/Shade_of_Akama "Shade of Akama") of Akama's soul into his service; ensuring that Akama could still be used in the future for Illidan's own purposes.
+
+#### Azgoth's demise
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/02/Illidan_and_demon_hunters.jpg/revision/latest/scale-to-width-down/180?cb=20180911121322)](https://static.wikia.nocookie.net/wowpedia/images/0/02/Illidan_and_demon_hunters.jpg/revision/latest?cb=20180911121322)
+
+Illidan and his demon hunters.
+
+At some point, Illidan led his new army of demon hunters in an assault on a demonic world ruled by the [pit lord](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan") [Azgoth](https://wowpedia.fandom.com/wiki/Azgoth "Azgoth") — the first confrontation between the Illidari and the Legion.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-39">[39]</a></sup> As he was preparing his troops for the assault, a night elf by the name of [Kor'vas Bloodthorn](https://wowpedia.fandom.com/wiki/Kor%27vas_Bloodthorn "Kor'vas Bloodthorn") stepped forward, knelt, and openly asked Illidan what made the Illidari — who had demonic energies coursing through their veins and gnawing at their every thought — different from the monsters they fought against. Although some of her comrades chided her for questioning Illidan as he approached the uncertain demon hunter, Illidan opted to remain silent for the time being. With the open portal still raging behind him, and the clock ticking on their assault, Illidan then began rallying the assembled Illidari, proclaiming to them that they would not be guilty of the same mistakes he believed the citizens of Azeroth to be - rather than wait to become bystanders as the Legion washed across one world after another, they would instead go on the offensive, hunting the Legion wherever it lingered before its endless armies had a chance to strike.
+
+The demon hunters charged headlong into the portal to Azgoth's domain, easily picking their way past the unaware [felguards](https://wowpedia.fandom.com/wiki/Felguard "Felguard") defending the demonic citadel until they finally burst through the monstrous door to Azgoth's chamber. During the ensuing battle with Azgoth, however, Illidan was wounded by the pit lord's enormous flail. As the annihilan was about to finish the Betrayer, Kor'vas leaped forward and shattered the flail's chain with her warglaive. Barely fazed, the annihilan stunned her with a massive backhand, and trapped her up against a wall with his tusks, taunting the freshly-minted Illidari by preying upon her fears that she might succumb to the demonic forces raging within her. Defiantly, Kor'vas simply sneered and replied "Never", holding the pit lord's attention as Illidan, recovered from Azgoth's blow, launched himself into the air and impaled the pit lord from behind with the Twin Blades of Azzinoth, instantly killing him.
+
+After the battle, Illidan approached Kor'vas again, this time addressing her concerns from before, although the battle had already done more than enough to serve as a perfect answer to her questions:
+
+_**Illidan**: You wish to know the difference between the demons and us? They will stop at nothing to destroy our world._
+
+_**Kor'vas**: ... and we will sacrifice everything to save it._
+
+Satisfied with her answer, Illidan gathered up the Illidari, lauding their performance during the battle as they returned triumphantly to their stronghold in Outland.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-40">[40]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Harbingers_Illidan_3.jpg/revision/latest/scale-to-width-down/120?cb=20160804181751)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Harbingers_Illidan_3.jpg/revision/latest?cb=20160804181751)
+    
+    The Illidari charging through the portal to Azgoth's domain.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Harbingers_Illidan_5.jpg/revision/latest/scale-to-width-down/120?cb=20160804181839)](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Harbingers_Illidan_5.jpg/revision/latest?cb=20160804181839)
+    
+    Illidan leading the Illidari in battle.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Harbingers_Illidan_7.jpg/revision/latest/scale-to-width-down/120?cb=20160804185743)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Harbingers_Illidan_7.jpg/revision/latest?cb=20160804185743)
+    
+    _Now...you are prepared!_
+    
+
+#### The destruction of Nathreza
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Command_the_Illidari.jpg/revision/latest/scale-to-width-down/200?cb=20200322135606)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Command_the_Illidari.jpg/revision/latest?cb=20200322135606)
+
+Illidan commanding the Illidari.
+
+At Illidan's command Akama would ultimately trick Maiev into leading her forces into an ambush, with Maiev being the only survivor.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-41">[41]</a></sup> During this attack Illidan would use the souls of the departed - both Maiev's soldiers and his own, including the Ashtongue - in order to open a portal to [Nathreza](https://wowpedia.fandom.com/wiki/Nathreza "Nathreza").<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-42">[42]</a></sup> Illidan and his demon hunters slaughtered Nathreza's defenders, entered the dreadlords' citadel, and breached the archives. After securing the record containing the location of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), Illidan destroyed the remaining records and retreated with his demon hunters back to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). Once through the portal, Illidan collapsed its spellwork and directed all of the resulting energy - enough to devastate an entire continent - into Nathreza; he believed that if his calculations were correct, the backlash had shattered Nathreza in much the same way that [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") had been shattered into Outland. It was the single greatest defeat the Legion had suffered in millennia, and the demons who died on Nathreza were slain forever.<sup id="cite_ref-Illidan_43-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-Illidan-43">[43]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Illidan_Stormrage_Dragonmaw.jpg/revision/latest/scale-to-width-down/180?cb=20160911151716)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Illidan_Stormrage_Dragonmaw.jpg/revision/latest?cb=20160911151716)
+
+Illidan comes to give the Dragonmaw their promotion.
+
+However, all actions have consequences, and the Legion was now clearly aware of the threat that Illidan posed and would learn from spies from within the Illidari that Illidan planned to launch a similar assault on Argus. Seeking to put an end to Illidan, the Burning Legion decided to attack the forces of Azeroth, and lure them into entering Outland. Once within the shattered realm, the Horde and Alliance would begin striking against both the Legion and the Illidari. Kil'jaeden would manipulate his enemies into fighting each other, and when they were weakened from the battle he planned to destroy them all.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-44">[44]</a></sup>
+
+Illidan, who had become increasingly obsessed with his mission to destroy Argus would seem to care for nothing else. However, he would become personally involved with the heroes of Azeroth at different occasions such as when they would defeat the [Crimson Sigil](https://wowpedia.fandom.com/wiki/Crimson_Sigil "Crimson Sigil"), where he would challenge them and boast that not even Arthas could stop him.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-45">[45]</a></sup> This would seem that Illidan was slipping further into madness (he himself would wonder if he was insane) or that he considered 'defeat' to mean death which would make him technically right. Such nuances of logic are common with Illidan, often employed when defending his actions to others.
+
+Illidan would also appear to Azeroth's heroes where he would reveal that the so-called new Highlord of the Dragonmaw was in fact a spy and ordered their death. Though the actions of the nether dragon [Yarzill](https://wowpedia.fandom.com/wiki/Yarzill "Yarzill") would spare their lives and while the nether dragons were convinced that the Dragonmaw would come to an end from Illidan's wraith, they remained within the Illidari and were one of the defending forces of the Black Temple.
+
+#### Master of the Black Temple
+
+_Main article: [Illidan Stormrage (tactics)](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics) "Illidan Stormrage (tactics)")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Black_Temple_Classic_key_art.jpg/revision/latest/scale-to-width-down/220?cb=20220126132333)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Black_Temple_Classic_key_art.jpg/revision/latest?cb=20220126132333)
+
+Illidan key art for _[Burning Crusade Classic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Burning_Crusade_Classic "World of Warcraft: Burning Crusade Classic")_.
+
+Consumed with nothing but his mission to plot the downfall of Argus, Illidan had lost all interest in holding onto Outland. This attitude wouldn't change until the eve of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple")'s fall when Illidan witnessed the flow of the battle and understood at once that this clash of the Legion's enemies was what [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") had anticipated. The Betrayer ordered the Illidari Council to retreat and prepare for battle, freshly resolved to both win this battle and finish his own personal strike at the Legion's heart.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-46">[46]</a></sup> Illidan, however, was still focused on his larger goal. However, he realized that he did not have enough time to open the portal to [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") with the adventurers coming for him and would need to refocus his efforts elsewhere.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-47">[47]</a></sup> To that end, he dispatched a force of his most prominent and powerful demon hunters to the planet [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum") in search of the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone), an artifact with the power to open portals to an endless number of demon worlds - even to Argus itself.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-48">[48]</a></sup>
+
+It was during this time that Illidan would finally take note of the broken leader Akama's absence. Unbeknownst to Illidan, Akama had been working to aid the heroes of Azeroth, and on the eve of the battle, freed Illidan's old nemesis Maiev Shadowsong from captivity. Their combined forces, including notable figures such as [Kanrethad Ebonlocke](https://wowpedia.fandom.com/wiki/Kanrethad_Ebonlocke "Kanrethad Ebonlocke"), would then assault the Black Temple. The distraction of this assault was intended to allow a number of champions, along with Akama and his [Ashtongue Deathsworn](https://wowpedia.fandom.com/wiki/Ashtongue_Deathsworn "Ashtongue Deathsworn"), to slip in, secure the temple, and eventually challenge the Betrayer himself.
+
+Although Illidan soon begins to overpower the gathered adventurers, Maiev reappears and makes her move during the battle, releasing the adventurers just as one of Illidan's spells has trapped them, and joining in as the battle resumes. She makes several references to the pain Illidan has caused her, from forcing her to guard his prison for 10,000 years by committing his crimes, to causing the death of [Naisha](https://wowpedia.fandom.com/wiki/Naisha "Naisha"). In the end, when Illidan is near death, Maiev haughtily remarks that he is beaten. As he dies, however, Illidan reminds her that 'the huntress is nothing without the hunt'. Illidan relives his memories, recalling [Kur'talos Ravencrest](https://wowpedia.fandom.com/wiki/Kur%27talos_Ravencrest "Kur'talos Ravencrest") horrified at him sacrificing the [Moon Guard](https://wowpedia.fandom.com/wiki/Moon_Guard "Moon Guard") for power and [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") telling him that the path of a druid requires sacrifice, something which Illidan did not understand. The last thing Illidan sees is Tyrande, whose name he whispers as the lights in his eyes fade.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-49">[49]</a></sup>
+
+Maiev ordered his corpse to be brought to the [Vault of the Wardens](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens "Vault of the Wardens") on the Broken Isles, determined to force Illidan's undying demon soul to suffer the rest of his sentence for eternity. As the wardens prepared to transport his body, however, the Illidari who had been dispatched to Mardum returned through a portal from their successful mission to retrieve the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone). Learning of their master's fate, the demon hunters attacked, cutting through the briefly-disoriented wardens, until Maiev was able to disable and imprison them by turning the very power they relied on against them. On Maiev's order, the Illidari were transported along with Illidan to the Vault, where she intended to keep them locked away for eternity.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-50">[50]</a></sup>
+
+After Illidan's defeat, Akama claimed the Black Temple, vowing to fill its halls with light once again.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-51">[51]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/51/The_Skull_of_Gul%27dan.jpg/revision/latest/scale-to-width-down/120?cb=20080710221017)](https://static.wikia.nocookie.net/wowpedia/images/5/51/The_Skull_of_Gul%27dan.jpg/revision/latest?cb=20080710221017)
+    
+    Illidan holding the skull of Gul'dan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Illidanstormrages.jpg/revision/latest/scale-to-width-down/120?cb=20161022152813)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Illidanstormrages.jpg/revision/latest?cb=20161022152813)
+    
+    Illidan wielding the Warglaives as he prepares to fight the heroes of Azeroth.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/IllidanDemonWoW.jpg/revision/latest/scale-to-width-down/120?cb=20160816065535)](https://static.wikia.nocookie.net/wowpedia/images/3/39/IllidanDemonWoW.jpg/revision/latest?cb=20160816065535)
+    
+    Illidan in Demon Form.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/da/Quest_The_Fall_of_the_Betrayer_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210405023842)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Quest_The_Fall_of_the_Betrayer_TCG.jpg/revision/latest?cb=20210405023842)
+    
+    The Fall of the Betrayer.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Illidan%27s_Demise_1.jpg/revision/latest/scale-to-width-down/120?cb=20170303200306)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Illidan%27s_Demise_1.jpg/revision/latest?cb=20170303200306)
+    
+    Illidan's demise.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Vision_of_Cenarius.jpg/revision/latest/scale-to-width-down/120?cb=20170303200308)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Vision_of_Cenarius.jpg/revision/latest?cb=20170303200308)
+    
+    Illidan's vision of Cenarius.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Vision_of_Tyrande.jpg/revision/latest/scale-to-width-down/120?cb=20170303200312)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Vision_of_Tyrande.jpg/revision/latest?cb=20170303200312)
+    
+    Illidan's vision of Tyrande.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Illidan%27s_Demise_2.jpg/revision/latest/scale-to-width-down/120?cb=20170303200315)](https://static.wikia.nocookie.net/wowpedia/images/8/83/Illidan%27s_Demise_2.jpg/revision/latest?cb=20170303200315)
+    
+    The fire has gone out.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Illidan%27s_Demise_3.jpg/revision/latest/scale-to-width-down/120?cb=20170303200317)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Illidan%27s_Demise_3.jpg/revision/latest?cb=20170303200317)
+    
+    The death of Illidan Stormrage.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Return_to_the_Black_Temple.jpg/revision/latest/scale-to-width-down/120?cb=20210413195955)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Return_to_the_Black_Temple.jpg/revision/latest?cb=20210413195955)
+    
+    Illidan's body encased in a crystal prison and Illidan's demon hunters return from Mardum.
+    
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/23/Illidan_and_Arthas_Redux.jpg/revision/latest/scale-to-width-down/180?cb=20111112075111)](https://static.wikia.nocookie.net/wowpedia/images/2/23/Illidan_and_Arthas_Redux.jpg/revision/latest?cb=20111112075111)
+
+The duel with Arthas in _Wrath of the Lich King_.
+
+A vision of Illidan appeared as part of the quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[25-30\] [The Hunter and the Prince](https://wowpedia.fandom.com/wiki/The_Hunter_and_the_Prince) during a recreation of the duel between Illidan and [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") at the gates of [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel").
+
+A "memory" of Illidan could be summoned by [Argent Confessor Paletress](https://wowpedia.fandom.com/wiki/Argent_Confessor_Paletress_(tactics) "Argent Confessor Paletress (tactics)") in the [Trial of the Champion](https://wowpedia.fandom.com/wiki/Trial_of_the_Champion "Trial of the Champion").
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+In Felwood, adventurers were able to relive Illidan's talk with [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas"), as well as the moment he obtained the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan"), and finally his battle with [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius"), where they would help him against the dreadlord.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-52">[52]</a></sup>
+
+While visiting the past through the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time"), he made an appearance in the [Well of Eternity dungeon](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") and aided heroes in the battle against Mannoroth and Varo'then.
+
+### Revelations of the Past
+
+In the [Pursuing the Black Harvest](https://wowpedia.fandom.com/wiki/Pursuing_the_Black_Harvest "Pursuing the Black Harvest") [scenario](https://wowpedia.fandom.com/wiki/Scenario "Scenario"), it was revealed that Illidan had in his possession an untapped store of raw arcane energy in the [Shrine of Lost Souls](https://wowpedia.fandom.com/wiki/Shrine_of_Lost_Souls "Shrine of Lost Souls"). With arcane power of that magnitude, he was able to bind many demons to his service by offering them to sate their thirst for magic from that place instead of [fel](https://wowpedia.fandom.com/wiki/Fel "Fel"), in exchange for their loyalty. In that way, he was able to gain the support of many demons and freed some of the addiction to fel magic.
+
+[Kanrethad Ebonlocke](https://wowpedia.fandom.com/wiki/Kanrethad_Ebonlocke "Kanrethad Ebonlocke") believed that this source of power was what Illidan intended to give the blood elves to free them from their addiction, as he had with the demons. But for some reason, possibly knowledge of Kael'thas's betrayal, Illidan never let them near it.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/de/Legion-cinematic-teaser-4.jpg/revision/latest/scale-to-width-down/220?cb=20200518195455)](https://static.wikia.nocookie.net/wowpedia/images/d/de/Legion-cinematic-teaser-4.jpg/revision/latest?cb=20200518195455)
+
+Illidan discovered by Gul'dan.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Illidan_Stormrage_%28Trial_of_Valor%29.jpg/revision/latest/scale-to-width-down/180?cb=20200502230840)](https://static.wikia.nocookie.net/wowpedia/images/8/84/Illidan_Stormrage_%28Trial_of_Valor%29.jpg/revision/latest?cb=20200502230840)
+
+Illidan's soul in Helheim.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Illidannighthold.png/revision/latest/scale-to-width-down/180?cb=20170118064331)](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Illidannighthold.png/revision/latest?cb=20170118064331)
+
+Illidan after his resurrection.
+
+After the fall of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"), the corpse of Illidan was taken by [Warden](https://wowpedia.fandom.com/wiki/Warden "Warden") [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") to the [Vault of the Wardens](https://wowpedia.fandom.com/wiki/Vault_of_the_Wardens "Vault of the Wardens") so that Illidan's dark, lingering soul could suffer the rest of his eternal sentence—along with his followers, the feared [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari").<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-53">[53]</a></sup>
+
+[Cordana Felsong](https://wowpedia.fandom.com/wiki/Cordana_Felsong "Cordana Felsong") led the [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") from an alternate universe to the Vault of the Wardens where Illidan's corpse was being imprisoned, as he was the key to Azeroth's downfall by the Legion. Although confronted by Maiev and several of Illidan's demon hunters freed from their prisons, Cordana and Gul'dan escaped with Illidan's body.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-54">[54]</a></sup> Gul'dan brought Illidan's body to [Black Rook Hold](https://wowpedia.fandom.com/wiki/Black_Rook_Hold "Black Rook Hold"), where he conducted a ritual to separate his soul from his body.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-55">[55]</a></sup> Illidan's soul was then sent into the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether").<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-56">[56]</a></sup> The prime naaru [Xe'ra](https://wowpedia.fandom.com/wiki/Xe%27ra "Xe'ra") seeks Illidan and believes he is the "child of Light and Shadow" destined to end the age of demons.<sup id="cite_ref-In_the_House_of_Light_and_Shadow_17-1"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-In_the_House_of_Light_and_Shadow-17">[17]</a></sup> The remaining Illidari on board the _[Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")_ contacted Illidan's soul within the Twisting Nether, where Illidan revealed that [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama") knew his plans to defeat the Burning Legion and tasked the Illidari with convincing him to rejoin their cause, as well as retrieving the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone) from wherever the [Wardens](https://wowpedia.fandom.com/wiki/Wardens "Wardens") hid it. Upon being discovered by the demons, Illidan announced that the Illidari would not be able to contact him like this again and named a demon hunter [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") as their new leader in his place before fleeing his pursuers.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-57">[57]</a></sup>
+
+Gul'dan sought to use Illidan's body as a vessel for Sargeras' spirit, and so Xe'ra and the Illidari planned to return Illidan's soul to his body before it was too late.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-58">[58]</a></sup> [Allari the Souleater](https://wowpedia.fandom.com/wiki/Allari_the_Souleater "Allari the Souleater") constructed a soul prism that would store Illidan's soul long enough to transfer him inside  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Inv_jewelcrafting_taladitecrystal.png/revision/latest/scale-to-width-down/16?cb=20141002092827)[\[Light's Heart\]](https://wowpedia.fandom.com/wiki/Light%27s_Heart). However, Illidan's soul had been stolen out of the Nether and pulled into [Helheim](https://wowpedia.fandom.com/wiki/Helheim "Helheim").<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-59">[59]</a></sup> Xe'ra and the Illidari speculated that Gul'dan had struck a deal with [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya") to retrieve and keep it there. After the death of Helya, his soul was put into the soul prism and then brought to Light's Heart which seemingly consumed it.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-60">[60]</a></sup> Light's Heart, with Illidan's soul inside, was brought to [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") with instructions to call forth the vessel's power when Gul'dan attempts to open the portal for Sargeras in order to release Illidan's soul into his body.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-61">[61]</a></sup>
+
+Within the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold"), Khadgar attempts to do as he was instructed. But unbeknownst to Khadgar, Sargeras has already filled Illidan's empty shell, and doing so awakens him.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-62">[62]</a></sup> The adventurers then battle [The Demon Within](https://wowpedia.fandom.com/wiki/The_Demon_Within "The Demon Within"). After Sargeras is defeated, Illidan takes control of his body and kills Gul'dan the same way Gul'dan killed [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), ripping him apart with fel energy until only his [skull](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") remains. He then crushes it with his hand and turns to the assembled fighters, telling them that now they know what they face, they should follow him into the abyss.<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-63">[63]</a></sup>
+
+#### Legionfall
+
+Illidan arrives late to the [second battle at the Broken Shore](https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore "Assault on Broken Shore"), prompting Maiev to snark that her wardens are doing all the work while his demon hunters play with their [felbats](https://wowpedia.fandom.com/wiki/Felbat "Felbat"), before [Prophet Velen](https://wowpedia.fandom.com/wiki/Prophet_Velen "Prophet Velen") tells both of them to stop arguing.<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-64">[64]</a></sup>
+
+Illidan and Maiev work together to travel to the top of the [Cathedral of Eternal Night](https://wowpedia.fandom.com/wiki/Cathedral_of_Eternal_Night "Cathedral of Eternal Night") and use the  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Ability_paladin_shieldofthetemplar.png/revision/latest/scale-to-width-down/16?cb=20080826222526)[\[Aegis of Aggramar\]](https://wowpedia.fandom.com/wiki/Aegis_of_Aggramar) there. They bicker throughout the dungeon, and Illidan aids in the defeat of [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth"). After Mephistroth's defeat and the activation of the Aegis, an echo of [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"), the [Guardian of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal") who created the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), appears and reveals that said echo was placed there by Aegwynn in case the wards on the tomb failed. She explains that the Pillars of Creation can restore her wards and that the [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul") can destroy the [Felstorm](https://wowpedia.fandom.com/wiki/Felstorm "Felstorm").
+
+In the tomb itself, Illidan explains that few understood his use of the naga to obtain the Eye of Sargeras, but was a necessary tactic to secure the future of Azeroth. As the class order hall leaders return to the main floor of the ruins, Khadgar remarks to his [mentor's](https://wowpedia.fandom.com/wiki/Medivh "Medivh") [mother](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") (a projection of her) that they will find Kil'jaeden and put an end to his plans and this time they won't fail. Illidan said it was a bold claim, but added that victory requires more than courage alone. Illidan elaborated that the armies of the Alliance and Horde had many moments of courage yet ultimately, their armies ended up slaughtered during the [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore"). Illidan warned that the Deceiver will manipulate everyone's fears and doubts and use it against them.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/36/Sargerite_Keystone_3.jpg/revision/latest/scale-to-width-down/180?cb=20190108131752)](https://static.wikia.nocookie.net/wowpedia/images/3/36/Sargerite_Keystone_3.jpg/revision/latest?cb=20190108131752)
+
+Using the Sargerite Keystone on Kil'jaeden's ship to open a rift back to Azeroth.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Argus_Azsuna.jpg/revision/latest/scale-to-width-down/180?cb=20170620190806)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Argus_Azsuna.jpg/revision/latest?cb=20170620190806)
+
+Argus visible in the sky above Azsuna.
+
+While adventurers battled the [Fallen Avatar](https://wowpedia.fandom.com/wiki/Fallen_Avatar "Fallen Avatar"), Illidan, Khadgar, and Velen faced Kil'jaeden. When Kil'jaeden retreated to his [Legion ship](https://wowpedia.fandom.com/wiki/Legion_ship "Legion ship"), Velen rushed through his portal in pursuit as Khadgar tried to stop him. Illidan encouraged Velen's initiative and tells Archmage Khadgar that sealing the portal alone would be futile. Whether it took years or even a millennia, the Legion would eventually return as many times as they are able. They must make use of this opportunity to seize their fate and use the portal to follow Kil'jaeden into the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"); for it was the only way to kill a demon. If they fall, they will take the Deceiver with them. Upon Kil'jaeden's death, his ship began to crash on Argus. Illidan used the Sargerite Keystone to open a rift between Argus and Azeroth, allowing Khadgar to teleport them safely to [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"). Upon their return to Azeroth however, it was revealed that Illidan had left the rift from Azeroth to Argus open, and Argus became visible on Azeroth's sky. Khadgar, horrified, asked Illidan what he had done, and Illidan responded that sometimes the hand of fate must be forced.
+
+He also defended the Broken Isles against the [Legion Assaults](https://wowpedia.fandom.com/wiki/Legion_Assaults "Legion Assaults"), directing [class order](https://wowpedia.fandom.com/wiki/Class_order "Class order") [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
+
+#### Argus
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Velen_rallies_Vindicaar.jpg/revision/latest/scale-to-width-down/200?cb=20210413191058)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Velen_rallies_Vindicaar.jpg/revision/latest?cb=20210413191058)
+
+The forces aboard the _Vindicaar_ prepare to assault Argus.
+
+Illidan traveled to the _[Exodar](https://wowpedia.fandom.com/wiki/Exodar "Exodar")_ on [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle") in order to board the _[Vindicaar](https://wowpedia.fandom.com/wiki/Vindicaar "Vindicaar")_, a new [dimensional ship](https://wowpedia.fandom.com/wiki/Dimensional_ship "Dimensional ship") the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") created to go to Argus. Once there, Illidan privately confronted Velen about his faith; how he had allowed [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") to corrupt [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") and Kil'jaeden, and allowed the Legion to take Argus, and through it all did nothing, all the time believing he was following the [Light](https://wowpedia.fandom.com/wiki/Light "Light")'s will. When Illidan told Velen that his people's blood was on his hands, Velen snapped that Illidan would never understand what he did to save his people, to which Illidan replied that the Light was holding him back and Velen should forge his own path. At this time, [Grand Artificer Romuul](https://wowpedia.fandom.com/wiki/Grand_Artificer_Romuul "Grand Artificer Romuul") arrived and told Velen that the _Vindicaar_ was ready for its trip to Argus.
+
+After arriving above [Krokuun](https://wowpedia.fandom.com/wiki/Krokuun "Krokuun"), Illidan was at first dismissive of the [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light") as they were nowhere to be found. When the _[Xenedar](https://wowpedia.fandom.com/wiki/Xenedar "Xenedar")_ appeared soon after the _Vindicaar'_s arrival, it was quickly shot down by the Burning Legion and Azeroth's forces rallied to begin the final battle for Argus.<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-65">[65]</a></sup> During the initial push onto Argus, Illidan helped bring down the [Antaen Light-Breaker](https://wowpedia.fandom.com/wiki/Antaen_Light-Breaker "Antaen Light-Breaker") that had shot down the _Xenedar_<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-66">[66]</a></sup> and warned Velen to be wary of the local [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")'s loyalties.<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-67">[67]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Xe%27ra_binds_Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20170829202736)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Xe%27ra_binds_Illidan.jpg/revision/latest?cb=20170829202736)
+
+Xe'ra begins to forcefully fill Illidan with the Light.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Turalyon_attacks_Illidan.jpg/revision/latest/scale-to-width-down/180?cb=20220424220641)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Turalyon_attacks_Illidan.jpg/revision/latest?cb=20220424220641)
+
+Turalyon attacks Illidan after he destroyed Xe'ra.
+
+When Xe'ra, restored through the efforts of [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon"), [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner"), and an adventurer, attempted to fulfill the destiny she had seen for Illidan through the [Light](https://wowpedia.fandom.com/wiki/Light "Light"), Illidan rejected her. Illidan stated that he had traded his freedom for power before. As the two got into an argument about Illidan embracing the Light and whether his destiny was his own, Xe'ra even bound Illidan in chains of light to force the prophecy to be fulfilled and forge Illidan a new life. Stating that his life was not hers to take, Illidan ultimately broke free, declared his destiny is his own, and killed Xe'ra. Horrified, Turalyon cried that Illidan had doomed them all, called him Betrayer, and attempted to strike him down with the [Great Royal Sword](https://wowpedia.fandom.com/wiki/Great_Royal_Sword "Great Royal Sword"). Illidan blocked Turalyon's blow with his hand, telling him as fel blood leaked down his arm that his faith had blinded him and there was no chosen one--only they could save themselves.<sup id="cite_ref-The_Child_of_Light_and_Shadow_16-2"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-The_Child_of_Light_and_Shadow-16">[16]</a></sup>
+
+Illidan and the Illidari set up a base at the [Veiled Den](https://wowpedia.fandom.com/wiki/Veiled_Den "Veiled Den") in the [Antoran Wastes](https://wowpedia.fandom.com/wiki/Antoran_Wastes "Antoran Wastes"), north of the Army of the Light's base at [Hope's Landing](https://wowpedia.fandom.com/wiki/Hope%27s_Landing "Hope's Landing"). When asked by Turalyon about the situation, Illidan reported that a direct assault on [Antorus, the Burning Throne](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne") would be folly due to the Legion's numbers and the unnatural speed with which they replaced fallen demons; some were even strong enough to slow him down, slightly. Breaching the stronghold would require a different plan, and in the meantime he had a sea of demons to slay.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-68">[68]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Sargeras_Illidan_seat.jpg/revision/latest/scale-to-width-down/180?cb=20171129170523)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/Sargeras_Illidan_seat.jpg/revision/latest?cb=20171129170523)
+
+Illidan and the imprisoned Sargeras.
+
+Within Antorus, Sargeras left his pets to do some playtime. Illidan tells the heroes to eliminate them for they are one of many more demons to die by their hand. Upon reaching the [Broken Cliffs](https://wowpedia.fandom.com/wiki/Broken_Cliffs "Broken Cliffs"), he says that striking at the heart of the Legion is futile until we take out their war machines. Unchecked, they will soon overwhelm us. After killing [Kin'garoth](https://wowpedia.fandom.com/wiki/Kin%27garoth "Kin'garoth"), Illidan remarks that the Legion is in its death throes. He then tells the heroes to report back to the Vinicaar to go into the heart of Antorus.
+
+At the heart of the Legion's stronghold, the [Coven of Shivarra](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra "Coven of Shivarra") are torturing the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") (excluding Eonar and Aggramar). Magni can feel the demons twisting the spirits of them; forcing them to use their might to serve the Legion. Should they fall into darkness, Illidan says, Sargeras will have the power he needs to claim the final titan Azeroth. After Aggramar is defeated and his soul returns to the rest of his brethren, Illidan reminds everyone (Magni included) that our victories mean nothing. So long as Sargeras has the soul of Argus to fuel his infinite army, Azeroth remains in grave peril.
+
+After Argus the Unmaker is defeated, the heroes of Azeroth return home while the Pantheon prepares to imprison Sargeras. Illidan, however, stays behind at the [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon"), saying that the hunter is nothing without the hunt. While Sargeras manages to strike Azeroth in [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus"), gravely wounding her, the Pantheon pulls him back and imprisons him at the Seat, appointing Illidan as his jailor.<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-69">[69]</a></sup>
+
+#### Moments of Reflection
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/11/Moments_of_Reflection.jpg/revision/latest/scale-to-width-down/180?cb=20171214000656)](https://static.wikia.nocookie.net/wowpedia/images/1/11/Moments_of_Reflection.jpg/revision/latest?cb=20171214000656)
+
+Memories of happier times.
+
+Before he left for Antorus, Illidan created a crystal with messages for Malfurion, Tyrande, and the adventurer. After the events at the Seat of the Pantheon, the crystal was found aboard the _Vindicaar_ and delivered to its recipients. To Malfurion, he spoke of how the teachings of Cenarius were not for him as they were for his brother, and how all the power he sought was not to conquer or rule, but to save Azeroth, despite Malfurion's distrust--though Illidan admitted he did not make it easy for Malfurion to do so. With his fate becoming clear, Illidan wished to finally quiet the strife that had long divided them and entrust the safety of the world to his brother, for there was no one he trusted to face threats more than him. While Malfurion had spent a lifetime fighting for the dream of what Azeroth could be, he now must fight for what it is. With his final words, Illidan asked Malfurion to take care of Tyrande and listen to her counsel, for she was always the best of them. The road ahead would be long, but whatever came, he knew Malfurion would bring honor to the name Stormrage.
+
+To Tyrande, he spoke of how all the paths he had taken had led to a single purpose, saving the world; he could bide no half measures or compromises. He told her how whenever he faced doubt, he held on to one anchor: Her. He told Tyrande that she embodied the best of Azeroth with her faith and devotion, and asked her to take care of Malfurion. While he sometimes wished her heart had made a different choice, in the end he knew she made the right one.
+
+Atop Hyjal, on the shores of the Well of Eternity that he created ages ago, Illidan told the adventurer that they had proven their commitment to Azeroth, that their dedication and sacrifice rivaled his own. With enemies gathering and shadows growing darker, the defense of the world rested with them.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-70">[70]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Deliverance Point](https://wowpedia.fandom.com/wiki/Deliverance_Point "Deliverance Point") | ?? | 259,816,752 |
+| [Cathedral of Eternal Night](https://wowpedia.fandom.com/wiki/Cathedral_of_Eternal_Night "Cathedral of Eternal Night") | ?? | 48,890 |
+| [Vindicaar](https://wowpedia.fandom.com/wiki/Vindicaar "Vindicaar") | ?? | 278,053,250 |
+| [Krokuun](https://wowpedia.fandom.com/wiki/Krokuun "Krokuun") | ?? | 652,014 |
+| [Antoran Wastes](https://wowpedia.fandom.com/wiki/Antoran_Wastes "Antoran Wastes") | ?? | 404,261,615 |
+| [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") (During  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Moments of Reflection](https://wowpedia.fandom.com/wiki/Moments_of_Reflection)) | 106 | 627,057 |
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Illidan Stormrage (tactics)](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics) "Illidan Stormrage (tactics)") | ?? | 4,249,280 |
+| [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") | ?? | 368,560 - 601,245 |
+| [Memory of Illidan](https://wowpedia.fandom.com/wiki/Memory_of_Illidan "Memory of Illidan") | 82 | 
+<table><tbody><tr><td><b><abbr title="5-player mode">5</abbr></b></td><td>187,485</td></tr><tr><td><b><abbr title="5-player Heroic mode">5H</abbr></b></td><td>232,740</td></tr></tbody></table>
+
+ |
+| [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood") | ?? | 11,915 |
+| [Courtyard of Lights](https://wowpedia.fandom.com/wiki/Courtyard_of_Lights "Courtyard of Lights") | 85 | 37,432 |
+| [Shores of the Well](https://wowpedia.fandom.com/wiki/Shores_of_the_Well "Shores of the Well") | 87 | 300,480 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Ravencrest's Legacy](https://wowpedia.fandom.com/wiki/Ravencrest%27s_Legacy_(quest)) | 110 | 15,589,005 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Destiny Unfulfilled](https://wowpedia.fandom.com/wiki/Destiny_Unfulfilled) | 70 | 644,850 |
+| [Trial of Valor](https://wowpedia.fandom.com/wiki/Trial_of_Valor "Trial of Valor") | ?? | 287,646,752 |
+| [Nighthold (instance)](https://wowpedia.fandom.com/wiki/Nighthold_(instance) "Nighthold (instance)") | ?? | 1,150,587 |
+
+## Quests
+
+Broken Shore
+
+Argus
+
+## Relationship between Illidan and Malfurion
+
+The relationship between the Stormrage brothers is noticeably different in _Warcraft III/The Frozen Throne_ and in the _War of the Ancients_ Trilogy.
+
+By way of comparison, in the novels written by Knaak, Malfurion is more tolerant and forgiving of his brother, who is portrayed as often selfish, reckless, out of control and not completely sane. Rather than becoming part of the "lynch mob" who want Illidan summarily executed, Malfurion speaks on his behalf, endorsing his knowledge of the Burning Legion as vital tactical information... giving an undeniable reason to bury Illidan rather than kill him.
+
+When we first were introduced to Malfurion and Illidan in _Warcraft III_, Malfurion objected fiercely to the idea of freeing Illidan, in the belief that his crimes were unforgivable and that he should stay locked up. When they were reunited Illidan was bitter about how he had been punished and Malfurion was disgusted to be in the same room as Illidan, still nursing a grudge over Illidan's betrayal. Illidan, who seemed to be the more forgiving one at the time, was eager to prove to his brother that the demons had no hold over him. Later, after Illidan used the powers of the Skull of Gul'dan for himself and took on a demonic appearance, Malfurion demanded to know where his brother was, implying he still had some affection for him. After Illidan revealed that he was the demon, Malfurion, rather than killing him simply banished him. Obviously, Malfurion knew [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") would want Illidan imprisoned but still chose not to act. Rather than object, Illidan simply walked away.
+
+Illidan was next seen in _Warcraft III: Frozen Throne_. After the two worked together to save Tyrande, Illidan seemed to have forgiven Malfurion for disrupting his attempt to destroy the Frozen Throne, even though it would leave him at Kil'jaeden's mercy. Malfurion's last words to Illidan included an ominous threat about what would happen to him if he ever did anything against the kaldorei again. This too, Illidan accepted without objection. Illidan admitted that he had known only "ages of hate" for his brother, but for his part he wished it to end. This is perhaps the closest thing to a peace that the brothers have achieved. Illidan then departed telling Malfurion he doubted they would ever see each other again.
+
+In _World of Warcraft_, Malfurion's words indicate that he does not wish to fight his brother, and he says that if he is forced to, things will not be as they were at the Well at Zin-Azshari. According to _[Seeds of Faith](https://wowpedia.fandom.com/wiki/Seeds_of_Faith "Seeds of Faith")_, Malfurion is saddened by Illidan's death in Outland.
+
+### Current state
+
+[![Icon-time.svg](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Icon-time.svg/revision/latest?cb=20080412111039) This section contains information that is [out-of-date](https://wowpedia.fandom.com/wiki/Category:Outdated_articles "Category:Outdated articles"). Reason: **Progresssed in Legion.**
+
+From [Malfurion's conversation with Remulos](https://wowpedia.fandom.com/wiki/Waking_Legends#Notes "Waking Legends"):
+
+**Malfurion Stormrage says:** Cenarius fights at my side. **Illidan** sits atop his throne in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") – brooding. I'm afraid that the loss to [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") proved to be his breaking point. Madness has embraced him, Remulos. He replays the events in his mind a thousand times per day, but in his mind, he is the victor and Arthas is utterly defeated. He is too far gone, old friend. I fear that the time may soon come that our bond is tested and it will not be as it was at the Well in [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari").
+
+The exact meaning and implications of this are not known. It is however likely that Malfurion fears that the bonds between him and his brother Illidan will be tested in the near future. For 10,000 years ago, during the War of the Ancients, the two brothers were forced to work together to throw back the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") at [The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering"), which is when they chose their separate paths.
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+-   Lady Vashj and her naga were sent by Azshara to establish contact with Illidan.<sup id="cite_ref-Manual_of_Monsters_189_71-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-Manual_of_Monsters_189-71">[71]</a></sup>
+-   Illidan was listed as a [sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), [rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue") and [fighter](https://wowpedia.fandom.com/wiki/Fighter "Fighter") in the original _[Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG")_,<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-72">[72]</a></sup> which used 3rd Edition _Dungeons & Dragons_ classes. This was changed to a [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") and [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") in the _[World of Warcraft RPG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_RPG "World of Warcraft RPG")_,<sup id="cite_ref-World_of_Warcraft_RPG_Conversion_Document_3_73-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-World_of_Warcraft_RPG_Conversion_Document_3-73">[73]</a></sup> which uses the classes seen in-game.
+-   Illidan acquired [Nature's Ring](https://wowpedia.fandom.com/wiki/Nature%27s_Ring "Nature's Ring"), a powerful druidic ring, as a gift from his brother Malfurion long ago, before their rivalry. He also wields the  ![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Inv_gauntlets_10.png/revision/latest/scale-to-width-down/16?cb=20061006221619)[\[Gauntlets of Might\]](https://wowpedia.fandom.com/wiki/Gauntlets_of_Might) and the [Girdle of the Betrayer](https://wowpedia.fandom.com/wiki/Girdle_of_the_Betrayer "Girdle of the Betrayer").<sup id="cite_ref-74"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-74">[74]</a></sup>
+-   Illidan gave Kael'thas a [black plate armor](https://wowpedia.fandom.com/wiki/Black_Plate_of_Kael "Black Plate of Kael").
+-   Before his debut in _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, the _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_ confirmed that Illidan survived his encounter with Arthas near the Frozen Throne and was forced to exile in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").<sup id="cite_ref-75"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-75">[75]</a></sup>
+
+## Quotes
+
+### War of the Ancients
+
+-   "V-vampiric in nature, my [lord](https://wowpedia.fandom.com/wiki/Lord_Ravencrest "Lord Ravencrest"). Some animals drink blood, but [this one](https://wowpedia.fandom.com/wiki/Felhound "Felhound") seeks magical energy."
+-   "I come to offer my services to my [queen](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")... and to the [lord of the Legion](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")!"
+-   "Well? Come with me... if [you'd](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") like to live long enough to see me save this [world](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")!"
+-   "Aye. [It's](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") been twisted and turned by too many spells. The fuss we - especially [you](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") - made with the portal was too much! The same spell that sent the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") back into their foul [realm](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") now works on the well! It's devouring itself and taking its surroundings with it! Fascinating, isn't it?"
+-   "If you've a way out of here, we should probably use it! I've tried casting myself and [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") out of here, but the well is too much in flux!"
+-   "If only I could learn from [them](https://wowpedia.fandom.com/wiki/Eredar_warlock "Eredar warlock")."
+
+### Warcraft III
+
+#### Reign of Chaos
+
+_For unit quotes, see [Quotes of Warcraft III/Night Elf Sentinels#Illidan Stormrage](https://wowpedia.fandom.com/wiki/Quotes_of_Warcraft_III/Night_Elf_Sentinels#Illidan_Stormrage "Quotes of Warcraft III/Night Elf Sentinels")._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/36/Illidan_face.jpg/revision/latest?cb=20091001173722)](https://static.wikia.nocookie.net/wowpedia/images/3/36/Illidan_face.jpg/revision/latest?cb=20091001173722)
+
+Illidan in _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
+
+-   "Because I once cared for you, [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande "Tyrande"), I will help you hunt down the [demons](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). But I will never owe [our people](https://wowpedia.fandom.com/wiki/Night_Elf "Night Elf") anything!"
+-   "I am free after [ten thousand years](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering"), yet still my own [brother](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") thinks I am a villain! I'll show him my true power! I'll show him that the [demons](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") have no hold over me!"
+-   "[You](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") reek of death, [human](https://wowpedia.fandom.com/wiki/Human "Human"). You'll regret approaching me."
+-   "Now at least the [demons](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") will no longer [corrupt the forests](https://wowpedia.fandom.com/wiki/Felwood "Felwood"). But, if I destroy the skull and claim its powers as my own, I will become even stronger than any of [Archimonde's](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") lieutenants."
+-   "[Now I am complete](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan")."
+-   "Let's see how confident [you](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") are against one of your own kind, [dreadlord](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord")!"
+
+#### The Frozen Throne
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Illidan_WC3X.jpg/revision/latest/scale-to-width-down/180?cb=20140611140729)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Illidan_WC3X.jpg/revision/latest?cb=20140611140729)
+
+Illidan in _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
+
+-   "Betrayer... in truth, it was I who was betrayed. Still, I am hunted. Still, I am hated. Now, my blind eyes can see what others cannot. That sometimes the hand of fate must be forced!"
+-   "Isolation can do that to the mind. Now, after all the long centuries [you](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") kept me chained in darkness, it is only fitting that I bury you in turn."
+-   "Whatever I may be - whatever I may become in this world - know that I will always look out for you, [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande "Tyrande")."
+-   "We have had much strife between us, [my brother](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage"). I have known only ages of hate for you. But, for my part, I wish it to end. From this day forward, let there be peace between us."
+-   "There is no cure, [young one](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider"). But there are ways to [feed the hunger](https://wowpedia.fandom.com/wiki/Arcane "Arcane"). Follow me, and I will grant your [people](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") more magic than they can imagine."
+-   "Hear me now, [you](https://wowpedia.fandom.com/wiki/Demon "Demon") trembling mortals! I am your [lord and master](https://wowpedia.fandom.com/wiki/Lord_of_Outland "Lord of Outland")! Illidan reigns supreme!"
+-   "Perhaps hiding [here](https://wowpedia.fandom.com/wiki/Outland "Outland") was not the most prudent decision."
+-   "Then the hour has come at last. After today, the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") will meet its end! Can you hear me out there, [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")? Its end!"
+
+### [The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+_Main article: [The Dark Portal (cinematic)](https://wowpedia.fandom.com/wiki/The_Dark_Portal_(cinematic) "The Dark Portal (cinematic)")_
+
+_Main article: [Black Temple trailer#Transcript](https://wowpedia.fandom.com/wiki/Black_Temple_trailer#Transcript "Black Temple trailer")_
+
+_Main article: [The Secret Compromised#Notes](https://wowpedia.fandom.com/wiki/The_Secret_Compromised#Notes "The Secret Compromised")_
+
+_Main article: [Lord Illidan Stormrage (quest)#Quest Dialogue](https://wowpedia.fandom.com/wiki/Lord_Illidan_Stormrage_(quest)#Quest_Dialogue "Lord Illidan Stormrage (quest)")_
+
+_Main article: [Illidan Stormrage (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics)#Quotes "Illidan Stormrage (tactics)")_
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+_Main article: [Courtyard of Lights](https://wowpedia.fandom.com/wiki/Courtyard_of_Lights "Courtyard of Lights")_
+
+_Main article: [Peroth'arn#Quotes](https://wowpedia.fandom.com/wiki/Peroth%27arn#Quotes "Peroth'arn")_
+
+_Main article: [Shores of the Well](https://wowpedia.fandom.com/wiki/Shores_of_the_Well "Shores of the Well")_
+
+_Main article: [Mannoroth and Varo'then#Quotes](https://wowpedia.fandom.com/wiki/Mannoroth_and_Varo%27then#Quotes "Mannoroth and Varo'then")_
+
+#### Well of Eternity
+
+Initial gossip
+
+The shadows will hide us well.
+
+I am concealed by this shadowcloak, and can imbue its magic onto you.
+
+It will not make us invisible, but as long as we keep our distance from our foes we will remain hidden.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) I am ready to be hidden by your shadowcloak.
+
+Second gossip line
+
+Anything outside of that circle around you will not be able to see you, but the illusion will fade if you attack or take damage.
+
+I suggest you remain hidden until I say otherwise, these demons are too powerful to face head on and in full force.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Let's go!
+
+Third gossip line
+
+Such a foolish creature, trying to challenge us. His rancid corpse will serve as a reminder to the Legion of the power of Illidan Stormrage.
+
+The shadowcloak's magic is fading, concealing us no longer. It was fun while it lasted, but I prefer a more direct approach to bringing death to my enemy.
+
+You fought well, but where I'm heading I need to go alone.
+
+![Gossip](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Gossipgossipicon.png/revision/latest?cb=20180220125858) Farewell, and good luck.
+
+### Harbingers
+
+_A group of Illidari demon hunters, with Kor'vas Bloodthorn front and center, stands assembled for battle as rain pours down around them._
+
+**Illidan Stormrage**: You were not prepared.
+
+_Illidan stands atop a portal, channeling magic in his hands._
+
+**Illidan Stormrage**: The enemy came into our world, their only desire to extinguish all life.
+
+_A flashback of Kor'vas during a demon attack in her home city._
+
+**Illidan Stormrage**: They slaughtered our loved ones. They razed our homes, our cities, and our sacred places. You tried to stop them... and you failed.
+
+_Flashback to Kor'vas, kneeling next to the slaughtered corpses of her family, then shifting forward to her initiation as a demon hunter, her eyes burning with felfire._
+
+**Illidan Stormrage**: And so, you came to me, nothing remaining of you but rage and determination, and you learned that the things that once tormented you could give you power.
+
+_Kor'vas stabs a pair of blades into her eyes, ritually blinding herself to gain the spectral sight; the scene returns to the present._
+
+**Illidan Stormrage**: Now you see that there is no sacrifice too great if it brings an end to the Burning Legion.
+
+_Illidan unleashes the magic in his hands, activating the portal he is standing on._
+
+**Kor'vas Bloodthorn**: But... Lord Illidan...
+
+_Kor'vas kneels; Illidan's burned-out eye sockets glow behind his blindfold as he looks to her._
+
+**Kor'vas Bloodthorn**: Demonic energies course through our veins. They gnaw at our every thought.
+
+_Kor'vas looks up at Illidan._
+
+**Kor'vas Bloodthorn**: What makes us any different from the monsters we fight?
+
+**Illidari Demon Hunter**: You question the Master?
+
+_Illidan smiles as his wings spread wide, casting a shadow over his assembled followers, before he leaps to the ground._
+
+**Illidan Stormrage**: We will not sit idly like those on Azeroth, waiting to become the demons' prey! We will take this war to the Legion's worlds... and prey upon THEM!
+
+_The demon hunters cheer as they follow Illidan through the portal. On the other side, they begin cutting through the felguards around a great Legion fortress, before Illidan kicks the doors in, confronting the world's master - the annihilan [Azgoth](https://wowpedia.fandom.com/wiki/Azgoth "Azgoth")._
+
+**Azgoth**: Ahh, demon hunters... you dare attack the Doom Lord Azgoth in his own domain?
+
+_The demon hunters charge at Azgoth and his guards. Kor'vas cuts through a number of felguards, then looks up at Illidan, who is glowing with felfire; he slashes through attacking [felbats](https://wowpedia.fandom.com/wiki/Felbat "Felbat") with ease, and blasts Azgoth with an  ![](https://static.wikia.nocookie.net/wowpedia/images/7/73/Ability_demonhunter_eyebeam.png/revision/latest/scale-to-width-down/16?cb=20180824000708)[\[Eye Beam\]](https://wowpedia.fandom.com/wiki/Eye_Beam). Azgoth swings his massive flail at Illidan, sending him flying through a stone pillar before collapsing to the floor. Azgoth laughs._
+
+**Azgoth**: Your mission has failed. Your cause dies with him!
+
+_Azgoth raises his flail to strike down Illidan; screaming in rage, Kor'vas charges, slicing through the flail's chain. Azgoth growls and backhands Kor'vas, pinning her against the wall between the great horns on his head._
+
+**Azgoth**: You smell more of demon than hunter. You would serve us well.
+
+_The burning fel orbs in Kor'vas' eye sockets are visible as she glares defiantly at the demon._
+
+**Kor'vas Bloodthorn**: Never.
+
+_From behind, Illidan leaps up and charges into Azgoth, tearing through his back and into his chest with [the Twin Blades of Azzinoth](https://wowpedia.fandom.com/wiki/The_Twin_Blades_of_Azzinoth "The Twin Blades of Azzinoth"). With a scream, Azgoth explodes in a burst of felfire. When it clears, Illidan stands among the smoldering bones of the pit lord, and picks up Kor'vas' warglaive before approaching her._
+
+**Illidan Stormrage**: You wish to know the difference between the demons and us? They will stop at nothing to destroy our world.
+
+**Kor'vas Bloodthorn**: And we will sacrifice everything to save it.
+
+_Illidan smiles and hands Kor'vas her weapon, then leaps atop the ruin that was once Azgoth._
+
+**Illidan Stormrage**: The Legion will know of this victory, and they will fear you, my Illidari.
+
+_Illidan raises one of his blades high._
+
+**Illidan Stormrage**: Now... you ARE prepared!
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Greeting
+
+-   Evil draws close.
+-   The hour has come at last.
+-   The Legion will stop at nothing to destroy our world.
+-   The Legion's fury pales before mine.
+-   Do not sit idle.
+-   A timely arrival.
+
+Pissed
+
+-   You are not... (sigh) prepared.
+-   You are not prepared.
+-   Your persistence is hardly surprising.
+-   I will not be touched by rabble such as you!
+-   YOU ARE NOT PRE- oh, what's that? Am I denying you something? Ha! You know nothing of true longing.
+
+Farewell
+
+-   I will finish my hunt.
+-   I will see this to the end.
+-   See it done.
+-   The Legion will meet its end.
+-   My hunt is eternal.
+-   There is no sacrifice too great.
+
+#### [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore")
+
+Gul'dan has been vanquished, but his master Kil'jaeden poses an even greater threat.
+
+The Deceiver will stop at nothing to destroy our world. We must make any sacrifice necessary to end his reign.
+
+#### Dialogues
+
+_Main article: [The Invasion Begins#Notes](https://wowpedia.fandom.com/wiki/The_Invasion_Begins#Notes "The Invasion Begins")_
+
+_Main article: [Enter the Illidari: Shivarra#Notes](https://wowpedia.fandom.com/wiki/Enter_the_Illidari:_Shivarra#Notes "Enter the Illidari: Shivarra")_
+
+_Main article: [Immortal Soul#Notes](https://wowpedia.fandom.com/wiki/Immortal_Soul#Notes "Immortal Soul")_
+
+_Main article: [An Unclear Path#Notes](https://wowpedia.fandom.com/wiki/An_Unclear_Path#Notes "An Unclear Path")_
+
+_Main article: [Ravencrest's Legacy#Notes](https://wowpedia.fandom.com/wiki/Ravencrest%27s_Legacy#Notes "Ravencrest's Legacy")_
+
+_Main article: [In My Father's House#Notes](https://wowpedia.fandom.com/wiki/In_My_Father%27s_House#Notes "In My Father's House")_
+
+_Main article: [Destiny Unfulfilled#Notes](https://wowpedia.fandom.com/wiki/Destiny_Unfulfilled#Notes "Destiny Unfulfilled")_
+
+_Main article: [Gul'dan (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Gul%27dan_(tactics)#Quotes "Gul'dan (tactics)")_
+
+_Main article: [Assault on Broken Shore#Notes](https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#Notes "Assault on Broken Shore")_
+
+_Main article: [Hall of the Moon#Quotes](https://wowpedia.fandom.com/wiki/Hall_of_the_Moon#Quotes "Hall of the Moon")_
+
+_Main article: [Mephistroth (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Mephistroth_(tactics)#Quotes "Mephistroth (tactics)")_
+
+_Main article: [Chamber of the Moon#Quotes](https://wowpedia.fandom.com/wiki/Chamber_of_the_Moon#Quotes "Chamber of the Moon")_
+
+_Main article: [Collapse](https://wowpedia.fandom.com/wiki/Collapse "Collapse")_
+
+_Main article: [Terrace of the Moon](https://wowpedia.fandom.com/wiki/Terrace_of_the_Moon "Terrace of the Moon")_
+
+_Main article: [Fallen Avatar#Quotes](https://wowpedia.fandom.com/wiki/Fallen_Avatar#Quotes "Fallen Avatar")_
+
+_Main article: [Kil'jaeden (Tomb of Sargeras tactics)#Quotes](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(Tomb_of_Sargeras_tactics)#Quotes "Kil'jaeden (Tomb of Sargeras tactics)")_
+
+_Main article: [Light's Exodus#Notes](https://wowpedia.fandom.com/wiki/Light%27s_Exodus#Notes "Light's Exodus")_
+
+_Main article: [Into the Night#Notes](https://wowpedia.fandom.com/wiki/Into_the_Night#Notes "Into the Night")_
+
+_Main article: [Overwhelming Power (quest)#Notes](https://wowpedia.fandom.com/wiki/Overwhelming_Power_(quest)#Notes "Overwhelming Power (quest)")_
+
+_Main article: [Vengeance (quest)#Notes](https://wowpedia.fandom.com/wiki/Vengeance_(quest)#Notes "Vengeance (quest)")_
+
+_Main article: [Signs of Resistance#Notes](https://wowpedia.fandom.com/wiki/Signs_of_Resistance#Notes "Signs of Resistance")_
+
+_Main article: [The Child of Light and Shadow#Notes](https://wowpedia.fandom.com/wiki/The_Child_of_Light_and_Shadow#Notes "The Child of Light and Shadow")_
+
+_Main article: [The Burning Heart#Notes](https://wowpedia.fandom.com/wiki/The_Burning_Heart#Notes "The Burning Heart")_
+
+_Main article: [Reinforce the Veiled Den#Notes](https://wowpedia.fandom.com/wiki/Reinforce_the_Veiled_Den#Notes "Reinforce the Veiled Den")_
+
+_Main article: [Chaos Theory (quest)#Notes](https://wowpedia.fandom.com/wiki/Chaos_Theory_(quest)#Notes "Chaos Theory (quest)")_
+
+_Main article: [Lord of the Spire#Notes](https://wowpedia.fandom.com/wiki/Lord_of_the_Spire#Notes "Lord of the Spire")_
+
+_Main article: [Felhounds of Sargeras#Quotes](https://wowpedia.fandom.com/wiki/Felhounds_of_Sargeras#Quotes "Felhounds of Sargeras")_
+
+_Main article: [Broken Cliffs](https://wowpedia.fandom.com/wiki/Broken_Cliffs "Broken Cliffs")_
+
+_Main article: [Hallowed Felworks](https://wowpedia.fandom.com/wiki/Hallowed_Felworks "Hallowed Felworks")_
+
+_Main article: [Kin'garoth#Quotes](https://wowpedia.fandom.com/wiki/Kin%27garoth#Quotes "Kin'garoth")_
+
+_Main article: [Burning Throne](https://wowpedia.fandom.com/wiki/Burning_Throne "Burning Throne")_
+
+_Main article: [Temple of Anguish](https://wowpedia.fandom.com/wiki/Temple_of_Anguish "Temple of Anguish")_
+
+_Main article: [Coven of Shivarra#Quotes](https://wowpedia.fandom.com/wiki/Coven_of_Shivarra#Quotes "Coven of Shivarra")_
+
+_Main article: [World Soul (subzone)](https://wowpedia.fandom.com/wiki/World_Soul_(subzone) "World Soul (subzone)")_
+
+_Main article: [Aggramar (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Aggramar_(tactics)#Quotes "Aggramar (tactics)")_
+
+_Main article: [Argus the Unmaker#Quotes](https://wowpedia.fandom.com/wiki/Argus_the_Unmaker#Quotes "Argus the Unmaker")_
+
+_Main article: [Moments of Reflection#Notes](https://wowpedia.fandom.com/wiki/Moments_of_Reflection#Notes "Moments of Reflection")_
+
+[![Removed from game](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Icon-delete-black-22x22.png/revision/latest?cb=20191026015251 "Removed from game") The subject of this section did not make it out of the [beta](https://wowpedia.fandom.com/wiki/Beta "Beta") stages.
+
+_Main article: [Master's Promontory#Quotes](https://wowpedia.fandom.com/wiki/Master%27s_Promontory#Quotes "Master's Promontory")_
+
+##### World quests
+
+_Main article: [A Tad More Corruption](https://wowpedia.fandom.com/wiki/A_Tad_More_Corruption "A Tad More Corruption")_
+
+_Main article: [Behind Enemy Portals (1)](https://wowpedia.fandom.com/wiki/Behind_Enemy_Portals_(1) "Behind Enemy Portals (1)")_
+
+_Main article: [Break Their Garrison (quest)](https://wowpedia.fandom.com/wiki/Break_Their_Garrison_(quest) "Break Their Garrison (quest)")_
+
+_Main article: [Everyone to the Front](https://wowpedia.fandom.com/wiki/Everyone_to_the_Front "Everyone to the Front")_
+
+_Main article: [Full Fel](https://wowpedia.fandom.com/wiki/Full_Fel "Full Fel")_
+
+_Main article: [Gems of Destruction](https://wowpedia.fandom.com/wiki/Gems_of_Destruction "Gems of Destruction")_
+
+_Main article: [Get Them Up](https://wowpedia.fandom.com/wiki/Get_Them_Up "Get Them Up")_
+
+_Main article: [A Flare In The Dark](https://wowpedia.fandom.com/wiki/A_Flare_In_The_Dark "A Flare In The Dark")_
+
+_Main article: [Keys are a Crutch](https://wowpedia.fandom.com/wiki/Keys_are_a_Crutch "Keys are a Crutch")_
+
+_Main article: [Life's a Lich](https://wowpedia.fandom.com/wiki/Life%27s_a_Lich "Life's a Lich")_
+
+_Main article: [Power of Our Enemy (quest)](https://wowpedia.fandom.com/wiki/Power_of_Our_Enemy_(quest) "Power of Our Enemy (quest)")_
+
+_Main article: [The Burning Keys](https://wowpedia.fandom.com/wiki/The_Burning_Keys "The Burning Keys")_
+
+_Main article: [The Cost of Power](https://wowpedia.fandom.com/wiki/The_Cost_of_Power "The Cost of Power")_
+
+_Main article: [War Materiel](https://wowpedia.fandom.com/wiki/War_Materiel "War Materiel")_
+
+Illidan speaks when the adventurer picks up or completes certain [world quests](https://wowpedia.fandom.com/wiki/World_quest "World quest") during [Legion Assaults](https://wowpedia.fandom.com/wiki/Legion_Assaults "Legion Assaults").
+
+###### On accept
+
+-   A malignant foe is near. Do what must be done!
+-   A target nears. Send this filth back to the Nether!
+-   This place is fraught with demon filth. A prime target approaches!
+-   The Legion has unleashed another of its pawns. Dispose of this threat at once.
+-   I sense a nearby target. Strike swiftly!
+-   This agent of the Legion underestimates your might. Make plain the error of its ways.
+-   Ah yes, the unmistakable stench of Legion filth. Seek out the source and destroy it!
+
+###### On completion
+
+-   Relish the satisfaction of dispatching yet another Legion lapdog!
+-   The fiend earned its death a thousand times over. Now it shall suffer the wrath of its vile master.
+-   The Legion cannot run or hide. We will hunt them down!
+-   The growth of your power is most impressive. The Legion knows your name... and fears it.
+-   An impressive victory. Your resolve remains unwavering.
+-   This game will soon be at an end. The Burning Legion will fall.
+
+### [Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)") cinematic
+
+"War is deception... a game played best from the shadows."
+
+### Quotes about Illidan
+
+#### [World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")
+
+-   "Illidan spends lives like a drunken mercenary squanders ill-gotten silver" ([Akama](https://wowpedia.fandom.com/wiki/Akama "Akama") about Illidan) <sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-76">[76]</a></sup>
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   Illidan is the [default hero](https://hearthstone.fandom.com/wiki/Illidan_Stormrage_(hero) "hswiki:Illidan Stormrage (hero)") (player character) for the demon hunter class in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_, as well as one of the central characters of the _[Ashes of Outland](https://wowpedia.fandom.com/wiki/Hearthstone:_Ashes_of_Outland "Hearthstone: Ashes of Outland")_ expansion. To unlock the demon hunter, players must first complete a series of PvE prologue missions which tell the Betrayer's origin story from his perspective.<sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-77">[77]</a></sup> Illidan's flavor text reads: _"Being the first demon hunter makes him both proud and angry. Basically, he was perfect for the job."_
+-   Winning 1,000 [Ranked](https://hearthstone.fandom.com/wiki/Ranked "hswiki:Ranked") or [Arena](https://hearthstone.fandom.com/wiki/Arena "hswiki:Arena") games as a demon hunter unlocks the alternate [Demonic Illidan](https://hearthstone.fandom.com/wiki/Demonic_Illidan "hswiki:Demonic Illidan") hero, depicting him in his empowered [Metamorphosis](https://wowpedia.fandom.com/wiki/Metamorphosis "Metamorphosis") form. Demonic Illidan's flavor text reads: _"He uses this trick to enhance his prowess in battle! Or to warn people when he's feeling a bit grumpy."_
+-   Illidan appears as a legendary Fighter mercenary in the [Mercenaries](https://hearthstone.fandom.com/wiki/Mercenaries "hswiki:Mercenaries") game mode.
+-   Illidan is also the [sixth and final boss](https://hearthstone.fandom.com/wiki/Illidan_Stormrage_(boss) "hswiki:Illidan Stormrage (boss)") that new players face in the game's initial tutorial.
+-   Originally, Illidan was a [legendary minion card](https://hearthstone.fandom.com/wiki/Illidan_Stormrage_(removed) "hswiki:Illidan Stormrage (removed)"), whose flavor text read: _"Illidan's brother, Malfurion, imprisoned him beneath Hyjal for 10,000 years. Stormrages are not good at letting go of grudges."_ With the launch of _Ashes of Outland_ and Illidan's "promotion" to the role of demon hunter hero, the existing Illidan card was removed and replaced with [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius").<sup id="cite_ref-78"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-78">[78]</a></sup>
+
+## In Heroes of the Storm
+
+IIlidan is a [playable character](https://heroesofthestorm.fandom.com/wiki/Illidan "hots:Illidan") in _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_.
+
+One of his skins, "[Shan'do](https://wowpedia.fandom.com/wiki/Shan%27do "Shan'do") Illidan", depicts an alternate reality in which Malfurion became the Betrayer, Illidan became an Archdruid and [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") became a [warden](https://wowpedia.fandom.com/wiki/Warden "Warden"). The skin's description reads _"Stormrage was born with amber eyes; a sign of great destiny... But as he learned from [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius"), his brother grew distant. Still, none expected Malfurion's betrayal."_
+
+## Notes and trivia
+
+-   Illidan held a [memento](https://wowpedia.fandom.com/wiki/Memento_of_Tyrande "Memento of Tyrande") of [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") up until his death at the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple").
+-   Illidan's parents died by accident years before the events of the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").<sup id="cite_ref-79"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-79">[79]</a></sup>
+-   According to [Altruis the Sufferer](https://wowpedia.fandom.com/wiki/Altruis_the_Sufferer "Altruis the Sufferer") and [Kayn Sunfury](https://wowpedia.fandom.com/wiki/Kayn_Sunfury "Kayn Sunfury"), after the imprisonment, Illidan succumbed to the fel energy within. When he was freed, he was not in his right mind, but he was fighting it.<sup id="cite_ref-80"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-80">[80]</a></sup>
+-   In _The Burning Crusade_, Illidan was depicted as a mad, insane<sup id="cite_ref-81"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-81">[81]</a></sup><sup id="cite_ref-82"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-82">[82]</a></sup> tyrant and had been made into an antagonist without much development, leading to many fans' uproar. Blizzard expressed their desire to fix their portrayal of Illidan.<sup id="cite_ref-83"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-83">[83]</a></sup><sup id="cite_ref-wowheadnews.com_84-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-wowheadnews.com-84">[84]</a></sup> Many years later the _Illidan_ novel and _Legion_ retroactively added to his evolution and explained his behavior.
+-   Previous lore stated that [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") burned arcane tattoos onto Illidan's skin.<sup id="cite_ref-85"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-85">[85]</a></sup><sup id="cite_ref-86"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-86">[86]</a></sup> _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_ retconned them into [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") tattoos.<sup id="cite_ref-87"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-87">[87]</a></sup>
+-   Before _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, it was stated that [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") and many of the other [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") remembered Illidan from the War of the Ancients and joined him out of respect for his powers.<sup id="cite_ref-encyclopedia_4-1"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-encyclopedia-4">[4]</a></sup><sup id="cite_ref-UVG_5-2"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-UVG-5">[5]</a></sup> _Chronicle_ retconned this by stating that the naga actually answered Illidan's call because they were commanded by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") to aid him.
+-   In the _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_ feature trailer, Illidan is indirectly referred to as the "lord of shadow", in contrast to [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), the "lord of flame".<sup id="cite_ref-MoP_Trailer_88-0"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-MoP_Trailer-88">[88]</a></sup> This is referenced in the name of the quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45R\] [Trial of Valor: The Once and Future Lord of Shadows](https://wowpedia.fandom.com/wiki/Trial_of_Valor:_The_Once_and_Future_Lord_of_Shadows).
+-   According to the _[Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_ novel, Illidan once saw a [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") in the [Terrace of Light](https://wowpedia.fandom.com/wiki/Terrace_of_Light "Terrace of Light") in [Shattrath](https://wowpedia.fandom.com/wiki/Shattrath "Shattrath").
+-   Since first brought up at [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010"),<sup id="cite_ref-89"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-89">[89]</a></sup> Illidan had been a popular candidate for revival and redemption.<sup id="cite_ref-90"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-90">[90]</a></sup><sup id="cite_ref-91"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-91">[91]</a></sup> This culminated in his story during _[World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
+-   Illidan appeared in nearly every campaign within _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_, with [The Founding of Durotar](https://wowpedia.fandom.com/wiki/The_Founding_of_Durotar "The Founding of Durotar") being the sole exception.
+-   The loading screen for the [Illidan's Task](https://wowpedia.fandom.com/wiki/Illidan%27s_Task_(WC3_BloodElf) "Illidan's Task (WC3 BloodElf)") interlude in _The Frozen Throne_ incorrectly refers to him as a "former [demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter")", even though he never stopped being one.
+-   According to the [Heroes and Villains](https://wowpedia.fandom.com/wiki/Heroes_and_Villains "Heroes and Villains") section of the _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_ manual, Malfurion and Illidan were 15,032 years old as of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") in Year 20. Since _[The Burning Crusade](https://wowpedia.fandom.com/wiki/The_Burning_Crusade "The Burning Crusade")_ took place in Year 26,<sup id="cite_ref-92"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-92">[92]</a></sup> this would mean he died when he was 15,038.
+    -   _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_ states Malfurion was only a few decades old during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") that occurred in Year 10,000 [BDP](https://wowpedia.fandom.com/wiki/BDP "BDP").<sup id="cite_ref-93"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-93">[93]</a></sup> Because they were twins, Illidan would be the same age.
+    -   The [Warcraft Encyclopedia](https://wowpedia.fandom.com/wiki/Warcraft_Encyclopedia "Warcraft Encyclopedia") states Malfurion and Illidan grew up with [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande "Tyrande") millennia before the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), reinforcing the _Warcraft III_ account.<sup id="cite_ref-94"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-94">[94]</a></sup><sup id="cite_ref-95"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-95">[95]</a></sup><sup id="cite_ref-96"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-96">[96]</a></sup>
+    -   However, _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ instead establishes that the [dark trolls](https://wowpedia.fandom.com/wiki/Dark_troll "Dark troll") first began to settle around the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") around the year 15,000 BDP,<sup id="cite_ref-97"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-97">[97]</a></sup> with Malfurion being described as a young night elf at the start of the War of the Ancients 5,000 years later.<sup id="cite_ref-98"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-98">[98]</a></sup> It's possible that night elves still consider themselves young even when they are centuries old.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Pandablade.jpg/revision/latest/scale-to-width-down/180?cb=20051020001344)](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Pandablade.jpg/revision/latest?cb=20051020001344)
+
+He brings PANDA-MONIUM!
+
+-   If you look closely at Illidan in _Warcraft III_, you will notice that at least one of his [blades](https://wowpedia.fandom.com/wiki/The_Twin_Blades_of_Azzinoth "The Twin Blades of Azzinoth") has the face of a panda painted on it ([Samwise Didier](https://wowpedia.fandom.com/wiki/Samwise_Didier "Samwise Didier")'s trademark). One place it can be seen clearly is when Illidan [says goodbye](https://wowpedia.fandom.com/wiki/A_Parting_of_Ways "A Parting of Ways") to [Tyrande](https://wowpedia.fandom.com/wiki/Tyrande "Tyrande") and [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion "Malfurion"). When Illidan is transformed by the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan"), the face on his blades changes from a happy panda to an angry panda.
+-   In _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_, after growing demonic horns, wings, and hooves, Illidan left flaming tracks on the ground. He also gained the ability to walk across [water](https://wowpedia.fandom.com/wiki/Water "Water") (leaving steam as he passed instead).
+-   Because the interlude in _The Frozen Throne_ shows Illidan as a normal night elf when he [made a deal](https://wowpedia.fandom.com/wiki/Illidan%27s_Task "Illidan's Task") with [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden"), it is often presumed that Illidan's new appearance (with horns, wings, and hooves) was a result of Kil'jaeden's further empowerment. It should be noted, however, that most sources, including the [Warcraft Encyclopedia](https://wowpedia.fandom.com/wiki/Warcraft_Encyclopedia "Warcraft Encyclopedia"), only mention his demonic transformation when discussing the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan"); no mention is made of further transformation during his meeting with Kil'jaeden.
+-   Although Malfurion said Illidan's transformation by the Skull of Gul'dan had cost him his [soul](https://wowpedia.fandom.com/wiki/Soul "Soul"), there has so far been no evidence that this claim was anything more than hyperbole. It is likely Malfurion was merely shocked at seeing Illidan in demonic form and was speaking metaphorically. There is no evidence that Illidan's personality has _drastically_ changed as a result. Until it is established, the possibility remains that the only change in Illidan seems to be slight insanity (though after reading the _[War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")_, one is forced to wonder if Illidan was not insane before he consumed the Skull of Gul'dan).
+-   At some point, Illidan tried his hand at writing, authoring a book entitled  ![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Inv_misc_book_10.png/revision/latest/scale-to-width-down/16?cb=20070329111615)[\[The Emerald Dream\]](https://wowpedia.fandom.com/wiki/The_Emerald_Dream). The actual book itself starts a level 54 [Druid](https://wowpedia.fandom.com/wiki/Druid "Druid") quest. It's doubtful the text was well-received among the Cenarion Circle or the green dragonflight. Note that all of the Dire Maul books have silly names and/or flavor text ([\[The Arcanist's Cookbook\]](https://wowpedia.fandom.com/wiki/The_Arcanist%27s_Cookbook), the mage book, being a good example of this).
+-   At release, when there was no high level content, it was announced by Ordinn that "the most powerful NPC is Illidan." When asked where he was, Caydiem responded. "Illidan is shy."
+-   When the player rescues Illidan in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") during the [Blood Elf Campaign](https://wowpedia.fandom.com/wiki/Curse_of_the_Blood_Elves "Curse of the Blood Elves"), [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") says that the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") are the descendants of the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") who served Illidan years ago. Curiously, Illidan himself never actually commanded any Highborne in the War of the Ancients (either version).
+-   Illidan is one of the few characters in-game to be shown wielding an obtainable [legendary](https://wowpedia.fandom.com/wiki/Legendary "Legendary") weapon. Others include [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros"), [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing") and [Nik the Mountain](https://wowpedia.fandom.com/wiki/Nik_the_Mountain "Nik the Mountain").
+-   It is said that Illidan contributed to the creation of the [Moonwells](https://wowpedia.fandom.com/wiki/Moonwell "Moonwell").<sup id="cite_ref-99"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-99">[99]</a></sup>
+-   [Samwise Didier](https://wowpedia.fandom.com/wiki/Samwise_Didier "Samwise Didier")'s first concept art for [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther") depicted him as blind and wearing a blindfold. His blindness was later set aside and this idea was used for the character of Illidan Stormrage.<sup id="cite_ref-100"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-100">[100]</a></sup>
+-   In the original drafts for _Warcraft III_, Illidan was still Furion's brother, but had been turned into a [satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr") due to his dabbling in magic — a take on how the Greek god [Pan](http://en.wikipedia.org/wiki/Pan_(god) "wikipedia:Pan (god)") is depicted in [Shakespearean](http://en.wikipedia.org/wiki/William_Shakespeare "wikipedia:William Shakespeare") works. This version of the character "felt really weak", so [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") took it back to the drawing board and changed it to what is seen in the final version of the game.<sup id="cite_ref-101"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-101">[101]</a></sup>
+-   Illidan alongside Tyrande acts Malfurion's nightmare during _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_. In this nightmare Tyrande chose him instead of Malfurion, thus the priestess turned into a demon.
+-   When doing the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") instance and killing [Peroth'arn](https://wowpedia.fandom.com/wiki/Peroth%27arn "Peroth'arn"), if you have the [Warglaives of Azzinoth](https://wowpedia.fandom.com/wiki/Warglaives_of_Azzinoth "Warglaives of Azzinoth") equipped Illidan will say "Curious weapons you wield... such power" followed by "You seem prepared".
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Inv_misc_coin_19.png/revision/latest/scale-to-width-down/16?cb=20080911133214)[\[Illidan's Coin\]](https://wowpedia.fandom.com/wiki/Illidan%27s_Coin) can be [fished](https://wowpedia.fandom.com/wiki/Fishing "Fishing") up from the [fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain") in the _[Legion](https://wowpedia.fandom.com/wiki/Legion "Legion")_ version of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran").
+-   Illidan is the narrator of the _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_ cinematic.
+-   [Betrayer Regalia](https://wowpedia.fandom.com/wiki/Golden_Chest_of_the_Betrayer "Golden Chest of the Betrayer"), the [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_ [Challenge Mode](https://wowpedia.fandom.com/wiki/Challenge_Mode "Challenge Mode") set, is themed after Illidan.
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Ability_demonhunter_illidansgrasp.png/revision/latest/scale-to-width-down/16?cb=20180824000725)[\[Illidan's Grasp\]](https://wowpedia.fandom.com/wiki/Illidan%27s_Grasp) is a [Vengeance](https://wowpedia.fandom.com/wiki/Demon_hunter#Vengeance "Demon hunter") demon hunter honor talent.
+-   Illidan was voiced by [Matthew Yang King](https://wowpedia.fandom.com/wiki/Matthew_Yang_King "Matthew Yang King")<sup id="cite_ref-102"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-102">[102]</a></sup> in _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_ and the [Black Temple Gameplay Trailer](http://www.worldofwarcraft.com/downloads/movies.html). He is now voiced by [Liam O'Brien](https://wowpedia.fandom.com/wiki/Liam_O%27Brien "Liam O'Brien") in _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, _[World of Warcraft: Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_, _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_, and _[World of Warcraft: Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.<sup id="cite_ref-103"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-103">[103]</a></sup>
+-   An Illidan vinyl statue is available.<sup id="cite_ref-104"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-104">[104]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Inv_dhmurloc.png/revision/latest/scale-to-width-down/16?cb=20150923162427)[\[Murkidan\]](https://wowpedia.fandom.com/wiki/Murkidan) was given out as a reward to [BlizzCon 2015](https://wowpedia.fandom.com/wiki/BlizzCon_2015 "BlizzCon 2015") attendees.
+-   Illidan's wings are available to _Diablo III_ players as a vanity item for those who order the digital or collector's edition of _Legion_.<sup id="cite_ref-105"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-105">[105]</a></sup>
+-   Illidan is an [alchemist](https://wowpedia.fandom.com/wiki/Alchemy "Alchemy") and can identify individual components in alchemical mixtures.<sup id="cite_ref-106"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-106">[106]</a></sup>
+-   Illidan's body was described as already having demonic features before he was transformed by the Skull of Gul'dan.<sup id="cite_ref-107"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-107">[107]</a></sup> This probably referred to his demonic eyes and [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") tattoos. In the [Well of Eternity dungeon](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)"), he had long, dark claws on his hands and feet,<sup id="cite_ref-108"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-108">[108]</a></sup> though these were never seen or referenced anywhere else.
+-   After being resurrected in the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold"), Illidan can be seen with [the Twin Blades of Azzinoth](https://wowpedia.fandom.com/wiki/The_Twin_Blades_of_Azzinoth "The Twin Blades of Azzinoth"). When he appears again during the [assault on Broken Shore](https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore "Assault on Broken Shore") and in the [Cathedral of Eternal Night](https://wowpedia.fandom.com/wiki/Cathedral_of_Eternal_Night "Cathedral of Eternal Night") however, he uses a [variant of the Twinblades of the Deceiver](https://wowpedia.fandom.com/wiki/Twinblades_of_the_Deceiver#Challenging:_Flamereaper "Twinblades of the Deceiver") skin instead. The [key art](https://wowpedia.fandom.com/wiki/File:Patch_7.2_Artwork.jpg "File:Patch 7.2 Artwork.jpg") for patch 7.2 features him with the Twin Blades of Azzinoth again, so it is unclear which weapons he is meant to have wielded canonically at the time. During his time on [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), all the way up to the ending cinematic for [Antorus, the Burning Throne](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne"), he is once again seen with the variant warglaives.
+-   Illidan doesn't like [murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc"), nor does he understand why some people do.<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-109">[109]</a></sup>
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+Demon hunters have a demon's soul bonded to them which gives them a craving for demonic flesh and constantly tempts them to join the Legion. It is possible Illidan too has a demon<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_note-110">[110]</a></sup> but if he does, it is unknown, though fans have put forth several theories regarding its identity:
+
+-   Illidan's inner demon may have been [Azzinoth](https://wowpedia.fandom.com/wiki/Azzinoth "Azzinoth"), the doomguard he stole the [Warglaives of Azzinoth](https://wowpedia.fandom.com/wiki/Warglaives_of_Azzinoth "Warglaives of Azzinoth") from. He may have ingested the demon's blood and heart to bond Azzinoth's soul to his, in the same way he made Illidari trainees do that with demons at the Black Temple. The [Soul Fragment of Azzinoth](https://wowpedia.fandom.com/wiki/Soul_Fragment_of_Azzinoth "Soul Fragment of Azzinoth") spawned during Mythic Gul'dan in the Nighthold could support this idea, though they could also be spawned from the Twinblades of Azzinoth, like the [Flames of Azzinoth](https://wowpedia.fandom.com/wiki/Flame_of_Azzinoth "Flame of Azzinoth") were.
+-   Another possibility that has been suggested is that Sargeras put a piece of his own soul into Illidan when he gave him spectral sight and tattoos, in a manner similar to when part of his soul was inside [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") and [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), and that this piece of Sargeras is Illidan's inner demon. That the NPC for Sargeras possessing Illidan in the Nighthold is named [The Demon Within](https://wowpedia.fandom.com/wiki/The_Demon_Within "The Demon Within") could support this idea.
+-   It may also be an amalgam of all the demon souls Illidan absorbed over the years.
+-   Since he has become a demon himself, it is unknown how the two souls would react, or what would happen to either of them upon death.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/Illidan_the_Betrayer_by_Samwise.jpg/revision/latest/scale-to-width-down/106?cb=20171223175442)](https://static.wikia.nocookie.net/wowpedia/images/8/82/Illidan_the_Betrayer_by_Samwise.jpg/revision/latest?cb=20171223175442)
+    
+    Illidan art by Samwise Didier.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Reforged_-_Illidan_concept.jpg/revision/latest/scale-to-width-down/120?cb=20201122135106)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Reforged_-_Illidan_concept.jpg/revision/latest?cb=20201122135106)
+    
+    _Warcraft III: Reforged_ concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Warcraft_III_Reforged_-_Illidan_art.png/revision/latest/scale-to-width-down/110?cb=20191031213610)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Warcraft_III_Reforged_-_Illidan_art.png/revision/latest?cb=20191031213610)
+    
+    _Reforged_ model.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Lord_of_Outland_-_Magtheridon_confrontation.jpg/revision/latest/scale-to-width-down/120?cb=20180922203301)](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Lord_of_Outland_-_Magtheridon_confrontation.jpg/revision/latest?cb=20180922203301)
+    
+    [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon") confronted by the Illidari in _Warcraft III_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/aa/IllidanBCart.jpg/revision/latest/scale-to-width-down/120?cb=20170103095932)](https://static.wikia.nocookie.net/wowpedia/images/a/aa/IllidanBCart.jpg/revision/latest?cb=20170103095932)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Illidan_Stormrage_Art_Peter_Lee_2.jpg/revision/latest/scale-to-width-down/120?cb=20200710195956)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Illidan_Stormrage_Art_Peter_Lee_2.jpg/revision/latest?cb=20200710195956)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Illidan_Stormrage_Art_Peter_Lee_3.jpg/revision/latest/scale-to-width-down/120?cb=20110528161301)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Illidan_Stormrage_Art_Peter_Lee_3.jpg/revision/latest?cb=20110528161301)
+    
+    Illidan by Peter Lee.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Black_Temple_Poster_No_Logo.jpg/revision/latest/scale-to-width-down/120?cb=20220610085806)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Black_Temple_Poster_No_Logo.jpg/revision/latest?cb=20220610085806)
+    
+    [Patch 2.1](https://wowpedia.fandom.com/wiki/Patch_2.1 "Patch 2.1") key art, Illidan and Akama in front of the Black Temple, by Wei Wang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/95/Glowei_Illidan_Stormrage.jpg/revision/latest/scale-to-width-down/102?cb=20170103101434)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Glowei_Illidan_Stormrage.jpg/revision/latest?cb=20170103101434)
+    
+    Illidan by Wei Wang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Illidan_Stormrage_Black_Temple_old_model.jpg/revision/latest/scale-to-width-down/120?cb=20210413025537)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Illidan_Stormrage_Black_Temple_old_model.jpg/revision/latest?cb=20210413025537)
+    
+    Illidan's model before being updated in _Legion_.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Illidan_WOE.jpg/revision/latest/scale-to-width-down/120?cb=20111229004329)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Illidan_WOE.jpg/revision/latest?cb=20111229004329)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/67/Illidan_legion.jpg/revision/latest/scale-to-width-down/120?cb=20181103171052)](https://static.wikia.nocookie.net/wowpedia/images/6/67/Illidan_legion.jpg/revision/latest?cb=20181103171052)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/World_of_warcraft_Illidan.jpg/revision/latest/scale-to-width-down/120?cb=20151031204615)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/World_of_warcraft_Illidan.jpg/revision/latest?cb=20151031204615)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/aa/World_of_warcraft_Illidan_full_art.jpg/revision/latest/scale-to-width-down/120?cb=20220220194012)](https://static.wikia.nocookie.net/wowpedia/images/a/aa/World_of_warcraft_Illidan_full_art.jpg/revision/latest?cb=20220220194012)
+    
+    Cover artwork for _World of Warcraft: Illidan_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Illidan_Stormrage_legion_model.jpg/revision/latest/scale-to-width-down/109?cb=20170428201913)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Illidan_Stormrage_legion_model.jpg/revision/latest?cb=20170428201913)
+    
+    Illidan's updated model as shown on the _Legion_ website.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Legion_Clash_of_Titans_full_art.jpg/revision/latest/scale-to-width-down/120?cb=20180915190824)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Legion_Clash_of_Titans_full_art.jpg/revision/latest?cb=20180915190824)
+    
+    Promotional art Illidan vs. Gul'dan.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Illidan_Wei_Wang_2016.jpg/revision/latest/scale-to-width-down/76?cb=20210221124908)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Illidan_Wei_Wang_2016.jpg/revision/latest?cb=20210221124908)
+    
+    Art of Illidan on the Broken Isles, by Wei Wang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Patch_7.2_Artwork.jpg/revision/latest/scale-to-width-down/89?cb=20170324214707)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Patch_7.2_Artwork.jpg/revision/latest?cb=20170324214707)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/45/Patch_7.2_Artwork_alt.jpg/revision/latest/scale-to-width-down/120?cb=20220301194658)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Patch_7.2_Artwork_alt.jpg/revision/latest?cb=20220301194658)
+    
+    Alternate version of patch 7.2.0 key art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Illidan_new_warglaives.jpg/revision/latest/scale-to-width-down/120?cb=20170401222649)](https://static.wikia.nocookie.net/wowpedia/images/0/07/Illidan_new_warglaives.jpg/revision/latest?cb=20170401222649)
+    
+    The warglaives Illidan sometimes wields in patch 7.2.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Burning_Crusade_Classic_key_art.jpg/revision/latest/scale-to-width-down/120?cb=20210221145755)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Burning_Crusade_Classic_key_art.jpg/revision/latest?cb=20210221145755)
+    
+    _Burning Crusade Classic_ key art.
+    
+
+Trading Card Game
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/The_Footsteps_of_Illidan_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210405023445)](https://static.wikia.nocookie.net/wowpedia/images/c/c6/The_Footsteps_of_Illidan_TCG.jpg/revision/latest?cb=20210405023445)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Demonic_fireball_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20200401180500)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Demonic_fireball_TCG.jpg/revision/latest?cb=20200401180500)
+    
+    Demonic Fireball, by Tom Baxa.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Draw_soul_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210314211358)](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Draw_soul_TCG.jpg/revision/latest?cb=20210314211358)
+    
+    Draw Soul, by Massive Black.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/EyeBlast.jpg/revision/latest/scale-to-width-down/120?cb=20210405023539)](https://static.wikia.nocookie.net/wowpedia/images/5/5f/EyeBlast.jpg/revision/latest?cb=20210405023539)
+    
+    Eye Blast, by Daarken.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Flame_crash_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160321100121)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Flame_crash_TCG.jpg/revision/latest?cb=20160321100121)
+    
+    Flame Crash, by Jonboy Meyers.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Illidan_TCG_Alt2.jpg/revision/latest/scale-to-width-down/120?cb=20210314210830)](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Illidan_TCG_Alt2.jpg/revision/latest?cb=20210314210830)
+    
+    You Are Not Prepared!, by Vance Kovacs.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Twin_Blades_of_Azzinoth_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20110528161300)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Twin_Blades_of_Azzinoth_TCG.jpg/revision/latest?cb=20110528161300)
+    
+    Twin Blades of Azzinoth, by Peter Lee.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Illidan_Stormrage_TCG.jpg/revision/latest/scale-to-width-down/83?cb=20161029221320)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Illidan_Stormrage_TCG.jpg/revision/latest?cb=20161029221320)
+    
+    Illidan Stormrage, by Ben Thompson.
+    
+-   [](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Illidan_TCG_Alt.JPG/revision/latest?cb=20130217200714)
+    
+    Illidan the Betrayer, by Raymond Swanland.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/War_of_the_Ancients_TCG_packaging_art.jpg/revision/latest/scale-to-width-down/120?cb=20210323204513)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/War_of_the_Ancients_TCG_packaging_art.jpg/revision/latest?cb=20210323204513)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Legacy_of_Stormrage.jpg/revision/latest/scale-to-width-down/120?cb=20210314205515)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Legacy_of_Stormrage.jpg/revision/latest?cb=20210314205515)
+    
+    Legacy of Stormrage
+    
+
+Hearthstone
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/96/Illidan_HS.jpg/revision/latest/scale-to-width-down/120?cb=20200327161143)](https://static.wikia.nocookie.net/wowpedia/images/9/96/Illidan_HS.jpg/revision/latest?cb=20200327161143)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Unused_Illidan_HS.jpg/revision/latest/scale-to-width-down/91?cb=20210405023213)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Unused_Illidan_HS.jpg/revision/latest?cb=20210405023213)
+    
+    Unused art of Illidan.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Demonbane_Illidan_HS.jpg/revision/latest/scale-to-width-down/103?cb=20210409035903)](https://static.wikia.nocookie.net/wowpedia/images/9/9d/Demonbane_Illidan_HS.jpg/revision/latest?cb=20210409035903)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Felravager_Illidan_HS.jpg/revision/latest/scale-to-width-down/103?cb=20210506100433)](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Felravager_Illidan_HS.jpg/revision/latest?cb=20210506100433)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Skullbearer_Illidan_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220207062302)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Skullbearer_Illidan_HS.jpg/revision/latest?cb=20220207062302)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Ember_Court_Illidan.jpg/revision/latest/scale-to-width-down/120?cb=20220215123518)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Ember_Court_Illidan.jpg/revision/latest?cb=20220215123518)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Sabertender_Illidan.jpg/revision/latest/scale-to-width-down/90?cb=20220825140242)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Sabertender_Illidan.jpg/revision/latest?cb=20220825140242)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Chaos_Nova_HS.jpg/revision/latest/scale-to-width-down/120?cb=20210409040458)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Chaos_Nova_HS.jpg/revision/latest?cb=20210409040458)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Illidan_HS_Burning_Rage.jpg/revision/latest/scale-to-width-down/120?cb=20220218104353)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Illidan_HS_Burning_Rage.jpg/revision/latest?cb=20220218104353)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Illidan_HS_You_Are_Not_Prepared.jpg/revision/latest/scale-to-width-down/120?cb=20220218104445)](https://static.wikia.nocookie.net/wowpedia/images/1/10/Illidan_HS_You_Are_Not_Prepared.jpg/revision/latest?cb=20220218104445)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/49/Illidan_Stormrage_HS_Book_of_Heroes_minion.jpg/revision/latest/scale-to-width-down/82?cb=20210623041714)](https://static.wikia.nocookie.net/wowpedia/images/4/49/Illidan_Stormrage_HS_Book_of_Heroes_minion.jpg/revision/latest?cb=20210623041714)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Illidan_Mercenaries_3.jpg/revision/latest/scale-to-width-down/90?cb=20211014171659)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Illidan_Mercenaries_3.jpg/revision/latest?cb=20211014171659)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Hearthstone_Mercenaries_Korea_advertising.jpg/revision/latest/scale-to-width-down/120?cb=20220228215255)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Hearthstone_Mercenaries_Korea_advertising.jpg/revision/latest?cb=20220228215255)
+    
+    _Mercenaries_ advertising illustration.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/HS_Mercenaries_Anime_Opening_Illidan_Jaina_Arthas.jpg/revision/latest/scale-to-width-down/120?cb=20220601224428)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/HS_Mercenaries_Anime_Opening_Illidan_Jaina_Arthas.jpg/revision/latest?cb=20220601224428)
+    
+    From a promotional video for _Mercenaries_.
+    
+
+Heroes of the Storm
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Illidan_HotS_Art_2.jpg/revision/latest/scale-to-width-down/120?cb=20170110142004)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Illidan_HotS_Art_2.jpg/revision/latest?cb=20170110142004)
+    
+    Modified artwork from _Heroes of the Storm_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Illidan_HotS.jpg/revision/latest/scale-to-width-down/108?cb=20160112225521)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/Illidan_HotS.jpg/revision/latest?cb=20160112225521)
+    
+    Illidan, the Betrayer.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Illidan_HotS_Betrayer.jpg/revision/latest/scale-to-width-down/114?cb=20171219100554)](https://static.wikia.nocookie.net/wowpedia/images/6/68/Illidan_HotS_Betrayer.jpg/revision/latest?cb=20171219100554)
+    
+    Betrayer Illidan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Illidan_HotS_Eredar_Armor.jpg/revision/latest/scale-to-width-down/114?cb=20171219100514)](https://static.wikia.nocookie.net/wowpedia/images/e/e1/Illidan_HotS_Eredar_Armor.jpg/revision/latest?cb=20171219100514)
+    
+    Eredar Armor Illidan (formerly Master Illidan).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/80/Illidan_HotS_Lunar.jpg/revision/latest/scale-to-width-down/112?cb=20160202210032)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Illidan_HotS_Lunar.jpg/revision/latest?cb=20160202210032)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Illidan_HotS_Shan%27do.jpg/revision/latest/scale-to-width-down/114?cb=20171219100531)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Illidan_HotS_Shan%27do.jpg/revision/latest?cb=20171219100531)
+    
+    Shan'do Illidan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/02/Illidan_HotS_Shan%27do_Nightmare.jpg/revision/latest/scale-to-width-down/114?cb=20180616201923)](https://static.wikia.nocookie.net/wowpedia/images/0/02/Illidan_HotS_Shan%27do_Nightmare.jpg/revision/latest?cb=20180616201923)
+    
+    Nightmare Shan'do Illidan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Illidan_HotS_Spectre.jpg/revision/latest/scale-to-width-down/114?cb=20171219100522)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Illidan_HotS_Spectre.jpg/revision/latest?cb=20171219100522)
+    
+    Spectre Illidan.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Illidan_Felblood_HotS.jpg/revision/latest/scale-to-width-down/109?cb=20180616201945)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Illidan_Felblood_HotS.jpg/revision/latest?cb=20180616201945)
+    
+    Felblood Illidan.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Illidan_bloodelf.jpg/revision/latest/scale-to-width-down/120?cb=20181119213624)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Illidan_bloodelf.jpg/revision/latest?cb=20181119213624)
+    
+    Unreleased blood elf skin.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/95/Mecha_Illidan_Portrait.png/revision/latest/scale-to-width-down/120?cb=20210403011607)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Mecha_Illidan_Portrait.png/revision/latest?cb=20210403011607)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Heroes_of_the_Storm.jpg/revision/latest/scale-to-width-down/96?cb=20131107031242)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Heroes_of_the_Storm.jpg/revision/latest?cb=20131107031242)
+    
+    Illidan in promotional art on the top right.
+    
+
+Physical figurines
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/aa/Illidan_Action_Figure.jpg/revision/latest/scale-to-width-down/111?cb=20150217234505)](https://static.wikia.nocookie.net/wowpedia/images/a/aa/Illidan_Action_Figure.jpg/revision/latest?cb=20150217234505)
+    
+    NECA's Illidan action figure.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Vinyl_Illidan.jpg/revision/latest/scale-to-width-down/86?cb=20131209185807)](https://static.wikia.nocookie.net/wowpedia/images/4/42/Vinyl_Illidan.jpg/revision/latest?cb=20131209185807)
+    
+    Funko's vinyl Illidan statue.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Illidan_Statue.png/revision/latest/scale-to-width-down/85?cb=20180326210711)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Illidan_Statue.png/revision/latest?cb=20180326210711)
+    
+    Illidan official statue
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Illidan_statue.jpg/revision/latest/scale-to-width-down/120?cb=20150404201400)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Illidan_statue.jpg/revision/latest?cb=20150404201400)
+    
+    Illidan giant statue
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Illidan_Statue2.jpg/revision/latest/scale-to-width-down/90?cb=20180216070901)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/Illidan_Statue2.jpg/revision/latest?cb=20180216070901)
+    
+    Illidan giant statue in the construction room by [Steve Wang](https://wowpedia.fandom.com/wiki/Steve_Wang "Steve Wang")
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Illidan_Statue1.jpg/revision/latest/scale-to-width-down/90?cb=20180216070908)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Illidan_Statue1.jpg/revision/latest?cb=20180216070908)
+    
+    Illidan giant statue in the construction room
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/16/Illidan_Statue3.jpg/revision/latest/scale-to-width-down/80?cb=20180216070854)](https://static.wikia.nocookie.net/wowpedia/images/1/16/Illidan_Statue3.jpg/revision/latest?cb=20180216070854)
+    
+    Illidan giant statue in the construction room
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/69/Illidan_statue4.jpg/revision/latest/scale-to-width-down/90?cb=20191202010522)](https://static.wikia.nocookie.net/wowpedia/images/6/69/Illidan_statue4.jpg/revision/latest?cb=20191202010522)
+    
+    Illidan giant statue in Blizzard HQ
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Illidan_statue5.jpg/revision/latest/scale-to-width-down/90?cb=20191202010553)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Illidan_statue5.jpg/revision/latest?cb=20191202010553)
+    
+    Illidan giant statue info panel in Blizzard HQ
+    
+
+Other
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Illidan_Sculpture.jpg/revision/latest/scale-to-width-down/120?cb=20060910182719)](https://static.wikia.nocookie.net/wowpedia/images/c/ca/Illidan_Sculpture.jpg/revision/latest?cb=20060910182719)
+    
+    A sculpture of Illidan seen at E3. The statue is now in Blizzard's main lobby.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/15/Scion_of_Darkness.jpg/revision/latest/scale-to-width-down/120?cb=20150228211301)](https://static.wikia.nocookie.net/wowpedia/images/1/15/Scion_of_Darkness.jpg/revision/latest?cb=20150228211301)
+    
+    Illidan on the unreleased [board game](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Board_Game#Expansions "World of Warcraft: The Board Game"), Scion of Darkness.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Ultimate_Visual_Guide.jpg/revision/latest/scale-to-width-down/98?cb=20131009211844)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Ultimate_Visual_Guide.jpg/revision/latest?cb=20131009211844)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Gamescom2016_key_art.jpg/revision/latest/scale-to-width-down/120?cb=20190606173833)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/Gamescom2016_key_art.jpg/revision/latest?cb=20190606173833)
+    
+    Illidan in the Gamescom 2016 key art.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Forging_Worlds-_Stories_Behind_the_Art_of_Blizzard_Entertainment_cover_draft.jpg/revision/latest/scale-to-width-down/87?cb=20210418213007)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Forging_Worlds-_Stories_Behind_the_Art_of_Blizzard_Entertainment_cover_draft.jpg/revision/latest?cb=20210418213007)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Forging_Worlds-_Stories_Behind_the_Art_of_Blizzard_Entertainment_cover_art.jpg/revision/latest/scale-to-width-down/79?cb=20210419132926)](https://static.wikia.nocookie.net/wowpedia/images/1/10/Forging_Worlds-_Stories_Behind_the_Art_of_Blizzard_Entertainment_cover_art.jpg/revision/latest?cb=20210419132926)
+    
+
+### Fan art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Illidan_by_HerbieWang.jpg/revision/latest/scale-to-width-down/120?cb=20210809153406)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Illidan_by_HerbieWang.jpg/revision/latest?cb=20210809153406)
+    
+    Illidan by Herbie Wang
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Illidan_taking_the_obelisk_by_Sergey_Avtushenko.jpg/revision/latest/scale-to-width-down/114?cb=20181122235802)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Illidan_taking_the_obelisk_by_Sergey_Avtushenko.jpg/revision/latest?cb=20181122235802)
+    
+    Illidan taking the obelisk.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/This_place_your_home_%28Illidan_and_Tyrande%29.jpg/revision/latest/scale-to-width-down/120?cb=20181112213440)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/This_place_your_home_%28Illidan_and_Tyrande%29.jpg/revision/latest?cb=20181112213440)
+    
+    Illidan and Tyrande
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/89/Kil%27jaeden_confronts_Illidan.jpg/revision/latest/scale-to-width-down/120?cb=20130324195647)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Kil%27jaeden_confronts_Illidan.jpg/revision/latest?cb=20130324195647)
+    
+    Kil'jaeden's Command.
+    
+
+## Videos
+
+-   [The Awakening](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Malfurion's Vision](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [A Parting of Ways](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Illidan's Task](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Kil'jaeden's Command](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [A Long Time Coming](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Lore For Noobs: Illidan Stormrage Part 1](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Lore For Noobs: Illidan Stormrage Part 2](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Lore For Noobs: Illidan Stormrage Part 3](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Lore For Noobs: Illidan Stormrage Part 4](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [The Story of Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [The Story of 'Illidan' by William King](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Harbingers: Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Demon Hunter 1](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Destiny Unfulfilled](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Gul'dan's Downfall](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Kil'jaeden's downfall](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [The Battle for Argus Begins](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Rejection of the Gift](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+-   [Sargeras Imprisoned](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#)
+
+## Patch changes
+
+-   [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **[Patch 2.1.0](https://wowpedia.fandom.com/wiki/Patch_2.1.0 "Patch 2.1.0") (2007-05-22):** Added.  
+    
+
+## See also
+
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/3/37/Inv_jewelry_ring_134.png/revision/latest/scale-to-width-down/16?cb=20120606123854)[\[Fragment of the Betrayer's Prison\]](https://wowpedia.fandom.com/wiki/Fragment_of_the_Betrayer%27s_Prison)
+-   [Blizzard Collectible](https://wowpedia.fandom.com/wiki/Blizzard_Collectible "Blizzard Collectible")
+-   [TCG card Treasures](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(Black_Temple_Treasure) "Illidan Stormrage (Black Temple Treasure)")
+-   [TCG card Raid](https://wowpedia.fandom.com/wiki/The_Betrayer "The Betrayer")
+-   [TCG card](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(TCG_Timewalkers) "Illidan Stormrage (TCG Timewalkers)")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-1) [Brothers in Blood (WC3 NightElf)](https://wowpedia.fandom.com/wiki/Brothers_in_Blood_(WC3_NightElf) "Brothers in Blood (WC3 NightElf)")
+2.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-2) [Legion - Characters](http://us.battle.net/wow/en/legion/#characters)
+3.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-3) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 52
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-encyclopedia_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-encyclopedia_4-1">b</a></sup> [Warcraft Encyclopedia: Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Illidan_Stormrage "The Warcraft Encyclopedia/Illidan Stormrage")
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-UVG_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-UVG_5-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-UVG_5-2">c</a></sup> _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 52 - 53
+6.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-6) [The Characters of Warcraft/Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Characters_of_Warcraft/Illidan_Stormrage "The Characters of Warcraft/Illidan Stormrage")
+7.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-7) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 96
+8.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-8) _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_
+9.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-9) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_
+10.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-10) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 14
+11.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-11) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide,_Updated_and_Expanded "World of Warcraft: Ultimate Visual Guide, Updated and Expanded")_, pg. 53
+12.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-12) [Warcraft Lore/Illidan Stormrage](https://wowpedia.fandom.com/wiki/Warcraft_Lore/Illidan_Stormrage "Warcraft Lore/Illidan Stormrage")
+13.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-13) [March Badness](https://worldofwarcraft.com/en-us/news/20056283)
+14.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-14) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 85
+15.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-15) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 136
+16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-The_Child_of_Light_and_Shadow_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-The_Child_of_Light_and_Shadow_16-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-The_Child_of_Light_and_Shadow_16-2">c</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [The Child of Light and Shadow](https://wowpedia.fandom.com/wiki/The_Child_of_Light_and_Shadow)
+17.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-In_the_House_of_Light_and_Shadow_17-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-In_the_House_of_Light_and_Shadow_17-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [In the House of Light and Shadow](https://wowpedia.fandom.com/wiki/In_the_House_of_Light_and_Shadow)
+18.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-18)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Awakenings](https://wowpedia.fandom.com/wiki/Awakenings)
+19.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-19) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, chapter 4
+20.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-20) [Warcraft Encyclopedia: Night Elves](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Night_Elves "The Warcraft Encyclopedia/Night Elves") - [Silver Eyes, Golden Eyes](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Night_Elves#Silver_Eyes,_Golden_Eyes "The Warcraft Encyclopedia/Night Elves")
+21.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-21) [Ink-splattered Page](https://wowpedia.fandom.com/wiki/Ink-splattered_Page "Ink-splattered Page")
+22.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-22) _[The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")_
+23.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Ravencrest's Legacy](https://wowpedia.fandom.com/wiki/Ravencrest%27s_Legacy_(quest))
+24.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-24) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, pg. 297
+25.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-25) [Hastily-Scrawled Page](https://wowpedia.fandom.com/wiki/Hastily-Scrawled_Page "Hastily-Scrawled Page")
+26.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-26) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, pg. 103
+27.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-27)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [In My Father's House](https://wowpedia.fandom.com/wiki/In_My_Father%27s_House)
+28.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-28) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_
+29.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-29) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 77
+30.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-30) [Brothers in Blood (WC3 NightElf)](https://wowpedia.fandom.com/wiki/Brothers_in_Blood_(WC3_NightElf) "Brothers in Blood (WC3 NightElf)")
+31.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-31) [A Destiny of Flame and Sorrow (WC3 NightElf)](https://wowpedia.fandom.com/wiki/A_Destiny_of_Flame_and_Sorrow_(WC3_NightElf) "A Destiny of Flame and Sorrow (WC3 NightElf)")
+32.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-32) [Illidan's Task (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/Illidan%27s_Task_(WC3_BloodElf) "Illidan's Task (WC3 BloodElf)")
+33.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-33) [World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")
+34.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-34) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 86
+35.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-risenaga_35-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-risenaga_35-1">b</a></sup> "[Terror of the Tides](https://wowpedia.fandom.com/wiki/Terror_of_the_Tides "Terror of the Tides"): [Rise of the Naga](https://wowpedia.fandom.com/wiki/Rise_of_the_Naga "Rise of the Naga")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _The Frozen Throne_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+36.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-36) [page3.jpg (880×1100) - Blizzard.com](http://www.blizzard.com/shared/blizz-com/images/war3x/brady/page3.jpg)
+37.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-37) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 92
+38.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-38) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 96 - 98
+39.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-39) [Watch Harbingers: The Story of Illidan Now! - WoW](https://worldofwarcraft.com/en-us/news/20218221/watch-harbingers-the-story-of-illidan-now)
+40.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-40) [Harbingers](https://wowpedia.fandom.com/wiki/Harbingers "Harbingers") - [Illidan](https://www.youtube.com/watch?v=mUfOIvlC6Eo)
+41.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-41) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 16
+42.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-42) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 17
+43.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-Illidan_43-0) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapters 18-19
+44.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-44) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, pg. 283 - 284
+45.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-45)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[25-30\] [Battle of the Crimson Watch](https://wowpedia.fandom.com/wiki/Battle_of_the_Crimson_Watch)
+46.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-46) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_
+47.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-47) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, pg. 292
+48.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-48) [Demon Hunter](https://wowpedia.fandom.com/wiki/Demon_Hunter "Demon Hunter") starting experience
+49.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-49)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Destiny Unfulfilled](https://wowpedia.fandom.com/wiki/Destiny_Unfulfilled)
+50.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-50) [Legion - Characters](http://us.battle.net/wow/en/legion/#characters)
+51.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-51) [Akama says](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics)#Quotes "Illidan Stormrage (tactics)"): "The Light will fill these dismal halls once again. I swear it."
+52.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-52)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [The Fall of Tichondrius](https://wowpedia.fandom.com/wiki/The_Fall_of_Tichondrius)
+53.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-53) [Legion - Characters](http://us.battle.net/wow/en/legion/#characters)
+54.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-54)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[8-45\] [Stop Gul'dan!](https://wowpedia.fandom.com/wiki/Stop_Gul%27dan!)
+55.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-55) [Amalgam of Souls](https://wowpedia.fandom.com/wiki/Amalgam_of_Souls "Amalgam of Souls") Dungeon Journal
+56.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-56)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[10-45\] [The Blood of Demons](https://wowpedia.fandom.com/wiki/The_Blood_of_Demons)
+57.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-57)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[10-45\] [Immortal Soul](https://wowpedia.fandom.com/wiki/Immortal_Soul)
+58.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-58)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [The Hunt for Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Hunt_for_Illidan_Stormrage)
+59.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-59)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45D\] [Soul Prism of the Illidari](https://wowpedia.fandom.com/wiki/Soul_Prism_of_the_Illidari_(quest))
+60.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-60)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45R\] [Trial of Valor: The Once and Future Lord of Shadows](https://wowpedia.fandom.com/wiki/Trial_of_Valor:_The_Once_and_Future_Lord_of_Shadows)
+61.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-61)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [The Nighthold](https://wowpedia.fandom.com/wiki/The_Nighthold_(quest))
+62.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-62) [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(tactics) "Gul'dan (tactics)") dungeon journal, [Mythic phase](http://i.imgur.com/7FkSZvh.jpg)
+63.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-63) [Nighthold ending cinematic](https://www.youtube.com/watch?v=MnSpispAP0M)
+64.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-64)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Assault on Broken Shore](https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore_(quest))
+65.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-65) [The Battle for Argus Begins](https://www.youtube.com/watch?v=ysRqfZPvijE)
+66.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-66)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Vengeance](https://wowpedia.fandom.com/wiki/Vengeance_(quest))
+67.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-67)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Signs of Resistance](https://wowpedia.fandom.com/wiki/Signs_of_Resistance)
+68.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-68)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Reinforce the Veiled Den](https://wowpedia.fandom.com/wiki/Reinforce_the_Veiled_Den)
+69.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-69) [The Story of Warcraft](https://wowpedia.fandom.com/wiki/The_Story_of_Warcraft#Shadows_of_Argus "The Story of Warcraft")
+70.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-70)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Moments of Reflection](https://wowpedia.fandom.com/wiki/Moments_of_Reflection)
+71.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-Manual_of_Monsters_189_71-0) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 189
+72.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-72) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 178
+73.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-World_of_Warcraft_RPG_Conversion_Document_3_73-0) _World of Warcraft RPG Conversion Document_, pg. 3
+74.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-74) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 173, 178
+75.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-75) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 179
+76.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-76) [World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan"), chapter 12
+77.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-77) Blizzard Entertainment 2020-03-17. [Announcing Ashes of Outland – Hearthstone's Newest Expansion!](https://playhearthstone.com/en-us/blog/23324071/). Retrieved on 2020-03-22.
+78.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-78) [Chadd Nervig on Twitter](https://twitter.com/Celestalon/status/1240062257926561794) (2020-03-18). Retrieved on 2020-03-22.
+79.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-79) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, chapter 4
+80.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-80)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Demon hunter](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Ui-charactercreate-classes_demonhunter.png/revision/latest/scale-to-width-down/16?cb=20180319050620 "Demon hunter") \[8-45\] [Stop Gul'dan!](https://wowpedia.fandom.com/wiki/Stop_Gul%27dan!)
+81.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-81)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Waking Legends](https://wowpedia.fandom.com/wiki/Waking_Legends)
+82.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-82)  ![N](https://static.wikia.nocookie.net/wowpedia/images/2/28/Scryers_15.png/revision/latest?cb=20151213203823) \[25-30\] [Damning Evidence](https://wowpedia.fandom.com/wiki/Damning_Evidence)
+83.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-83) [http://wow.joystiq.com/2010/10/22/blizzcon-2010-quests-and-lore-panel-liveblog/](http://wow.joystiq.com/2010/10/22/blizzcon-2010-quests-and-lore-panel-liveblog/)
+84.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-wowheadnews.com_84-0) [http://www.wowhead.com/news=196428/blizzcon-2011-mists-of-pandaria-talent-calculator-todays-panels-and-more](http://www.wowhead.com/news=196428/blizzcon-2011-mists-of-pandaria-talent-calculator-todays-panels-and-more)
+85.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-85) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 53 - "Along with his new sight, Sargeras gifted Illidan with arcane tattoos that enshrouded both of his shoulders, permeating the night elf with Sargeras' dark magic"
+86.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-86) [The Warcraft Encyclopedia/Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Illidan_Stormrage "The Warcraft Encyclopedia/Illidan Stormrage") - "As further reward, Sargeras marked much of Illidan's body with an intricate pattern of tattoos that filled the night elf with powerful arcane energy."
+87.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-87) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 69 - _His eyes were burned out and replaced with smoldering pits of magic, and his skin was scarred with fel tattoos._
+88.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-MoP_Trailer_88-0) _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/Mists_of_Pandaria "Mists of Pandaria")_ [preview trailer](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria_Preview_Trailer "World of Warcraft: Mists of Pandaria Preview Trailer")
+89.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-89) [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010") - [Quest & Lore Panel](https://www.youtube.com/watch?v=E7fVTabpyf8&t=30m34s) (30:34)
+90.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-90) [BlizzCon 2011](https://wowpedia.fandom.com/wiki/BlizzCon_2011 "BlizzCon 2011") - [General World of Warcraft Q&A](https://www.youtube.com/watch?v=WRmNN-e63QA&t=10m59s) (10:59)
+91.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-91) [BlizzCon 2011](https://wowpedia.fandom.com/wiki/BlizzCon_2011 "BlizzCon 2011") - [Lore and Story Panel](https://www.youtube.com/watch?v=qhzMHJE3UGY&t=3m49s) (3:49)
+92.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-92) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_ - [Timeline](https://wowpedia.fandom.com/wiki/Timeline_(Ultimate_Visual_Guide) "Timeline (Ultimate Visual Guide)")
+93.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-93) [Knaak, Richard A.](https://wowpedia.fandom.com/wiki/Richard_A._Knaak "Richard A. Knaak"). "One", _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, 19 (ebook). [ISBN 978-0-7434-2898-9](https://wowpedia.fandom.com/wiki/Special:BookSources/9780743428989). “Night elves aged very slowly, but the young Malfurion looked much older than his few decades.” 
+94.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-94) [The Warcraft Encyclopedia](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia "The Warcraft Encyclopedia"): [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Malfurion_Stormrage "The Warcraft Encyclopedia/Malfurion Stormrage")
+95.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-95) [The Warcraft Encyclopedia](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia "The Warcraft Encyclopedia"): [Illidan Stormrage](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Illidan_Stormrage "The Warcraft Encyclopedia/Illidan Stormrage")
+96.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-96) [The Warcraft Encyclopedia](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia "The Warcraft Encyclopedia"): [Tyrande Wisperwind](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Tyrande_Whisperwind "The Warcraft Encyclopedia/Tyrande Whisperwind")
+97.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-97) _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 93
+98.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-98) _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 98
+99.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-99) [World of Warcraft Battle Chest Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Battle_Chest_Guide "World of Warcraft Battle Chest Guide"), page 153.
+100.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-100) _[World of Warcraft: Looking for Group](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Looking_for_Group "World of Warcraft: Looking for Group")_
+101.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-101) [Pretzel Lectern: Behind WarCraft III: An Interview with Campaign Designer David Fried](http://pretzel-lectern.blogspot.se/2016/05/behind-warcraft-iii-interview-with.html) (2016-05-25). Retrieved on 2016-06-24.
+102.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-102) [About: Warcraft III](http://mattyangking.com/#about)
+103.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-103) [Liam O'BRIEN - Anime News Network](http://www.animenewsnetwork.com/encyclopedia/people.php?id=1438)
+104.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-104) 2014, [World of Warcraft Illidan Vinyl Bobble Head Funko Pop Action Figure Toy Blizzard](http://www.amazon.com/gp/product/B00GG5PQ2K/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00GG5PQ2K&linkCode=as2&tag=blizzplanet0e-20). _Amazon_, retrieved on 2014-06-06
+105.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-105) [World of Warcraft: Legion Collector's Edition](https://ebgames.com.au/pc-210410-World-of-Warcraft-Legion-Collectors-Edition-PC), _EB Games_. Retrieved on 2015-11-08
+106.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-106) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, pg. 151
+107.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-107) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, pg. 98
+108.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-108) [Illidan in the Well of Eternity dungeon](https://wowpedia.fandom.com/wiki/File:Illidan_WOE.jpg "File:Illidan WOE.jpg")
+109.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-109)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45WQ\] [A Tad More Corruption](https://wowpedia.fandom.com/wiki/A_Tad_More_Corruption)
+110.  [^](https://wowpedia.fandom.com/wiki/Illidan_Stormrage#cite_ref-110) [Illidan Stormrage (tactics)](https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics) "Illidan Stormrage (tactics)"): **Illidan Stormrage yells:** Behold the power... of the demon within!
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/search?q=Illidan+Stormrage#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Illidan+Stormrage#t1:npcs)
+
+![WowInsider](https://static.wikia.nocookie.net/wowpedia/images/b/b1/ElinkIcon-wowinsider.png/revision/latest?cb=20080120194737 "WowInsider") [WowInsider](http://www.wowinsider.com/2007/01/12/know-your-lore-illidan/) Know Your Lore: Illidan Stormrage
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Illidari "Template:Illidari")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Illidari?action=edit)
+
+The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
+
+
+
+ |
+| --- |
+|  |
+| Leaders | 
+
+-   **Illidan Stormrage**
+-   [The Slayer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")
+-   [Akama](https://wowpedia.fandom.com/wiki/Akama "Akama")
+-   [Altruis the Sufferer](https://wowpedia.fandom.com/wiki/Altruis_the_Sufferer "Altruis the Sufferer")
+-   [Battlelord Gaardoun](https://wowpedia.fandom.com/wiki/Battlelord_Gaardoun "Battlelord Gaardoun")
+-   [Kayn Sunfury](https://wowpedia.fandom.com/wiki/Kayn_Sunfury "Kayn Sunfury")
+-   [Matron Mother Malevolence](https://wowpedia.fandom.com/wiki/Matron_Mother_Malevolence "Matron Mother Malevolence")
+-   [Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno")
+
+
+
+ |
+|  |
+| Former leaders | 
+
+-   [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller")
+-   [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") (defected)
+-   [Kargath Bladefist](https://wowpedia.fandom.com/wiki/Kargath_Bladefist "Kargath Bladefist")
+-   [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj")
+
+
+
+ |
+|  |
+| Former secondary leaders | 
+
+-   [Grand Commander Ruusk](https://wowpedia.fandom.com/wiki/Grand_Commander_Ruusk "Grand Commander Ruusk")
+-   [Grillok "Darkeye"](https://wowpedia.fandom.com/wiki/Grillok_%22Darkeye%22 "Grillok "Darkeye"")
+-   [High Warlord Naj'entus](https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus "High Warlord Naj'entus")
+-   [Illidari Council](https://wowpedia.fandom.com/wiki/Illidari_Council "Illidari Council")
+-   [Kataru](https://wowpedia.fandom.com/wiki/Kataru "Kataru")
+-   [Rajah Haghazed](https://wowpedia.fandom.com/wiki/Rajah_Haghazed "Rajah Haghazed")
+-   [Rajis Fyashe](https://wowpedia.fandom.com/wiki/Rajis_Fyashe "Rajis Fyashe")
+-   [Overlord Mor'ghor](https://wowpedia.fandom.com/wiki/Overlord_Mor%27ghor "Overlord Mor'ghor") (defected)
+-   [Swamplord Musel'ek](https://wowpedia.fandom.com/wiki/Swamplord_Musel%27ek "Swamplord Musel'ek")
+-   [Tagar Spinebreaker](https://wowpedia.fandom.com/wiki/Tagar_Spinebreaker "Tagar Spinebreaker")
+-   [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Alandien](https://wowpedia.fandom.com/wiki/Alandien "Alandien")
+-   [Ambassador Jerrikar](https://wowpedia.fandom.com/wiki/Ambassador_Jerrikar "Ambassador Jerrikar")
+-   [Arzeth the Merciless](https://wowpedia.fandom.com/wiki/Arzeth_the_Merciless "Arzeth the Merciless")
+-   [Chancellor Bloodleaf](https://wowpedia.fandom.com/wiki/Chancellor_Bloodleaf "Chancellor Bloodleaf")
+-   [Envoy Icarius](https://wowpedia.fandom.com/wiki/Envoy_Icarius "Envoy Icarius")
+-   [Illidari Lord Balthas](https://wowpedia.fandom.com/wiki/Illidari_Lord_Balthas "Illidari Lord Balthas")
+-   [Keli'dan the Breaker](https://wowpedia.fandom.com/wiki/Keli%27dan_the_Breaker "Keli'dan the Breaker")
+-   [Lady Shav'rar](https://wowpedia.fandom.com/wiki/Lady_Shav%27rar "Lady Shav'rar")
+-   [Leotheras the Blind](https://wowpedia.fandom.com/wiki/Leotheras_the_Blind "Leotheras the Blind")
+-   [Lothros](https://wowpedia.fandom.com/wiki/Lothros "Lothros")
+-   [Netharel](https://wowpedia.fandom.com/wiki/Netharel "Netharel")
+-   [Oronu the Elder](https://wowpedia.fandom.com/wiki/Oronu_the_Elder "Oronu the Elder")
+-   [Painmistress Gabrissa](https://wowpedia.fandom.com/wiki/Painmistress_Gabrissa "Painmistress Gabrissa")
+-   [Ruul the Darkener](https://wowpedia.fandom.com/wiki/Ruul_the_Darkener "Ruul the Darkener")
+-   [Shadowlord Deathwail](https://wowpedia.fandom.com/wiki/Shadowlord_Deathwail "Shadowlord Deathwail")
+-   [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+-   [Theras](https://wowpedia.fandom.com/wiki/Theras "Theras")
+-   [Torloth the Magnificent](https://wowpedia.fandom.com/wiki/Torloth_the_Magnificent "Torloth the Magnificent")
+-   [Val'zareq the Conqueror](https://wowpedia.fandom.com/wiki/Val%27zareq_the_Conqueror "Val'zareq the Conqueror")
+-   [Vandel](https://wowpedia.fandom.com/wiki/Vandel "Vandel")
+-   [Warlord Morkh](https://wowpedia.fandom.com/wiki/Warlord_Morkh "Warlord Morkh")
+-   [Zandras](https://wowpedia.fandom.com/wiki/Zandras "Zandras")
+
+
+
+ |
+|  |
+| Former characters | 
+
+-   [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+-   [Vagath](https://wowpedia.fandom.com/wiki/Vagath "Vagath")
+-   [Varedis Felsoul](https://wowpedia.fandom.com/wiki/Varedis_Felsoul "Varedis Felsoul")
+-   [Voren'thal the Seer](https://wowpedia.fandom.com/wiki/Voren%27thal_the_Seer "Voren'thal the Seer")
+
+
+
+ |
+|  |
+| Races | 
+
+-   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+-   [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")
+-   [Eredar](https://wowpedia.fandom.com/wiki/Eredar "Eredar")
+-   [Felguard](https://wowpedia.fandom.com/wiki/Felguard "Felguard")
+-   [Fel orc](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [Nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim")
+-   [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+-   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
+-   [Shivarra](https://wowpedia.fandom.com/wiki/Shivarra "Shivarra")
+-   [Terrorguard](https://wowpedia.fandom.com/wiki/Terrorguard "Terrorguard")
+
+
+
+ |
+|  |
+| Cities | 
+
+-   [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple")
+-   [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir")
+-   [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel "Hellfire Citadel")
+-   [Tempest Keep](https://wowpedia.fandom.com/wiki/Tempest_Keep "Tempest Keep")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula")
+-   [Netherstorm](https://wowpedia.fandom.com/wiki/Netherstorm "Netherstorm")
+-   [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley")
+-   [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh")
+
+
+
+ |
+|  |
+| Groups | 
+
+-   [Servants of Illidan](https://wowpedia.fandom.com/wiki/Servants_of_Illidan "Servants of Illidan")
+-   [Fel Horde](https://wowpedia.fandom.com/wiki/Fel_Horde "Fel Horde") ([Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
+-   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan")
+-   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan#Activity_on_Outland "Dragonmaw clan")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan")
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan#Fel_Orcs_of_the_Shattered_Hand "Shattered Hand clan"))
+-   Illidari blood elves ([Crimson Sigil](https://wowpedia.fandom.com/wiki/Crimson_Sigil "Crimson Sigil")
+-   [Eclipsion](https://wowpedia.fandom.com/wiki/Eclipsion "Eclipsion")
+-   [Illidari Council](https://wowpedia.fandom.com/wiki/Illidari_Council "Illidari Council"))
+-   Illidari demons ([Illidan's Servitors](https://wowpedia.fandom.com/wiki/Illidan%27s_Servitors "Illidan's Servitors"))
+-   Illidari draenei ([Ashtongue tribe](https://wowpedia.fandom.com/wiki/Ashtongue_tribe "Ashtongue tribe")
+    -   [Ashtongue Deathsworn](https://wowpedia.fandom.com/wiki/Ashtongue_Deathsworn "Ashtongue Deathsworn")
+-   [Dreghood tribe](https://wowpedia.fandom.com/wiki/Dreghood_tribe "Dreghood tribe")
+-   [Greyheart tribe](https://wowpedia.fandom.com/wiki/Greyheart_tribe "Greyheart tribe")
+-   [Murkblood tribe](https://wowpedia.fandom.com/wiki/Murkblood_tribe "Murkblood tribe")
+-   [Umbrafen tribe](https://wowpedia.fandom.com/wiki/Umbrafen_tribe "Umbrafen tribe")
+-   [Wastewalker tribe](https://wowpedia.fandom.com/wiki/Wastewalkers "Wastewalkers")
+-   [Wrekt tribe](https://wowpedia.fandom.com/wiki/Wrekt "Wrekt"))
+-   [Illidari Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") ([Bloodscale](https://wowpedia.fandom.com/wiki/Bloodscale "Bloodscale")
+-   [Coilfang](https://wowpedia.fandom.com/wiki/Coilfang_tribe "Coilfang tribe")
+-   [Coilskar](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe")
+-   [Darkcrest](https://wowpedia.fandom.com/wiki/Darkcrest "Darkcrest")
+-   [Wrathfin](https://wowpedia.fandom.com/wiki/Wrathfin "Wrathfin"))
+
+
+
+ |
+|  |
+| Technology | 
+
+-   [Demon ward](https://wowpedia.fandom.com/wiki/Demon_ward "Demon ward")
+-   [Nether Crucible](https://wowpedia.fandom.com/wiki/Nether_Crucible "Nether Crucible")
+
+
+
+ |

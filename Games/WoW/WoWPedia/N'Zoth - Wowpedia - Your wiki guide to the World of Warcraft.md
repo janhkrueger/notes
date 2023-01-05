@@ -1,0 +1,508 @@
+_For its raid tactics, see [N'Zoth the Corruptor](https://wowpedia.fandom.com/wiki/N%27Zoth_the_Corruptor "N'Zoth the Corruptor"). For the subzone in the raid, see [N'Zoth (subzone)](https://wowpedia.fandom.com/wiki/N%27Zoth_(subzone) "N'Zoth (subzone)")._
+
+_Not to be confused with [Zoth](https://wowpedia.fandom.com/wiki/Zoth "Zoth")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")N'Zoth |
+| --- |
+| [![Image of N'Zoth](https://static.wikia.nocookie.net/wowpedia/images/9/90/N%27Zoth_Hero.jpg/revision/latest/scale-to-width-down/200?cb=20210127131404)](https://static.wikia.nocookie.net/wowpedia/images/9/90/N%27Zoth_Hero.jpg/revision/latest?cb=20210127131404 "Image of N'Zoth") |
+| Title | God of the Deep,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-1">[1]</a></sup>  
+the Corruptor,<sup id="cite_ref-raid_2-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-raid-2">[2]</a></sup>  
+the Deep One<sup id="cite_ref-The_Engine_of_Nalak'sha_3-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-The_Engine_of_Nalak'sha-3">[3]</a></sup> |
+| Race | [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
+| Affiliation(s) | [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces"), [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire"), [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") |
+| Location | [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha") |
+| Status | Unknown (lore)<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-4">[4]</a></sup><sup id="cite_ref-Corruptor's_End_5-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Corruptor's_End-5">[5]</a></sup>  
+Defeatable [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") |
+
+“With every choice, [you](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") become more my servant.”
+
+— N'Zoth's whisper during the [Uu'nat](https://wowpedia.fandom.com/wiki/Uu%27nat "Uu'nat") encounter<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-6">[6]</a></sup>
+
+**N'Zoth**<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-7">[7]</a></sup> (pronounced nuh-ZAWTH)<sup id="cite_ref-HS_8-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup><sup id="cite_ref-BlizzCon_9-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-BlizzCon-9">[9]</a></sup> is one of the four [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") that landed on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), malefic beings that were sequestered by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") during Azeroth's primordial ages. Until the events of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), N'Zoth remained notoriously elusive and was largely a mystery,<sup id="cite_ref-UVG_10-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-UVG-10">[10]</a></sup> being the last Old God besides the deceased [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") that had still yet to be directly encountered by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
+
+Prior to the Fourth War, very little was certain about N'Zoth — most beings on Azeroth did not even know its name, much less what it looked like. Scraps of obscure [lore](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore") claimed that the Old God had been imprisoned beneath the darkest depths of the ocean for millennia beyond counting. There were also whispers that N'Zoth desired nothing more than to twist what was once noble and pure to its own inscrutable ends.<sup id="cite_ref-HS_8-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup> For years, most of what was "known" about this most insidious of beings consisted largely of speculation.<sup id="cite_ref-HS_8-2"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup>
+
+Although considered the weakest of the four by [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") and [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara"),<sup id="cite_ref-Whispers_11-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Whispers-11">[11]</a></sup><sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-12">[12]</a></sup> N'Zoth was responsible for the corruption of the black [Dragon Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") Neltharion into [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"),<sup id="cite_ref-wrathionEmperor_13-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-wrathionEmperor-13">[13]</a></sup><sup id="cite_ref-HS_8-3"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup><sup id="cite_ref-chronicle3_14-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-chronicle3-14">[14]</a></sup> as well as that of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), turning them into the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga"),<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-15">[15]</a></sup> the co-creation of the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare"),<sup id="cite_ref-HS_8-4"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup><sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-16">[16]</a></sup> the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), and the restoration of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire").
+
+In _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_, and following [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")'s defeat, N'Zoth resurfaced to bring about the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight"). He imbued Deathwing with untold amounts of power, while he was recovering and absorbing the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane")'s energies from [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm") at the same time. This destabilized the elemental realm and threw the Elements into turmoil, in an event known as the [Elemental Unrest](https://wowpedia.fandom.com/wiki/Elemental_Unrest "Elemental Unrest"). At N'Zoth's word, Deathwing exploded from Deepholm into Azeroth, breaking down the boundaries between the two realms, and igniting a chain reaction of natural disasters around the planet, collectively known as the Cataclysm.<sup id="cite_ref-chronicle3_14-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-chronicle3-14">[14]</a></sup>
+
+Meanwhile, [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") and the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") successfully took control of the [Highlands](https://wowpedia.fandom.com/wiki/Highlands "Highlands") from the [Wildhammer dwarves](https://wowpedia.fandom.com/wiki/Wildhammer_dwarves "Wildhammer dwarves"), establishing the [Bastion of Twilight](https://wowpedia.fandom.com/wiki/Bastion_of_Twilight "Bastion of Twilight"). On order of N'Zoth, Queen Azshara's naga invaded [Vash'jir](https://wowpedia.fandom.com/wiki/Vash%27jir "Vash'jir") and attempted to kidnap [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon"), while [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir") and his servants attempted to steal the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination") in [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum"), and [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") and his fire elementals assaulted [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") in order to destroy the World Tree [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"). N'Zoth struck at the world on all fronts, aiming to overwhelm the mortal factions and hoping that even if only one of these attacks succeeded, it would be enough to bring about the Hour of Twilight. During the final battle at [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"), N'Zoth sent his own minions, the [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi"), to aid the assault.<sup id="cite_ref-chronicle3_14-2"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-chronicle3-14">[14]</a></sup>
+
+Though the Hour of Twilight was averted, N'Zoth returned in _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_. His influence had spread through [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") through the order of the [Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages"), and [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") launched a major assault on the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), bringing them to [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") as part of a scheme that led to the Old God being freed from the [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison") and unleashed upon Azeroth once again. N'Zoth restored the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") and [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha"), and rose the [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir") from their ancient slumber beneath the desert sands.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-17">[17]</a></sup> He launched [Assaults](https://wowpedia.fandom.com/wiki/Assaults "Assaults") on the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms") and [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum") in order to acquire the [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha") and the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"), and corrupted the [Titan Keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper"), [Ra](https://wowpedia.fandom.com/wiki/Ra "Ra"). However, N'Zoth was ultimately destroyed by the Forge of Origination empowered with the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth).
+
+N'Zoth served as one of the main antagonists (alongside [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")) in _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_.
+
+## Biography
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest/scale-to-width-down/180?cb=20180325104143)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Black_Empire_Kalimdor.jpeg/revision/latest?cb=20180325104143)
+
+N'Zoth in the east of [ancient Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") during the reign of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire").
+
+During the days of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire"), N'Zoth controlled a vast territory in the east of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)"), covering much of what would later become known as the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms").<sup id="cite_ref-ChronicleMap_18-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-ChronicleMap-18">[18]</a></sup> Countless ages ago, [Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz") and his soldiers waged endless war in the name of N'Zoth against the forces of [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron").<sup id="cite_ref-Zon'ozz_19-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Zon'ozz-19">[19]</a></sup> [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") claims that in ages past, the God of the Deep lost a great battle to the [God of Seven Heads](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") in the land that would later become known as the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"). However, as was so often the case, even defeat ultimately worked in N'Zoth's favor.<sup id="cite_ref-Whispers_11-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Whispers-11">[11]</a></sup>
+
+N'Zoth was the first of the Old Gods to be sealed in an underground prison by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") after [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")'s death,<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-20">[20]</a></sup> in a location halfway between the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") and the site where [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") was later built.<sup id="cite_ref-ChronicleMap2_21-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-ChronicleMap2-21">[21]</a></sup>
+
+### War of the Ancients
+
+As the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") ended and the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") collapsed around [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"),<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-22">[22]</a></sup> a small fish with strange red eyes seemed to be whispering to Azshara to 'let go' and give up, even as the waves destroyed her palace. Eventually, Azshara's arcane shield failed, and she and her court were swept into the sea. However, something seemed to keep the queen from drowning. The fish began speaking directly to Azshara, revealing itself to be possessed by N'Zoth. Offering Azshara visions of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") that it had ruled over in ages past, it offered to save her in exchange for becoming its servant. Azshara, ever guileful and charismatic, convinced the Old God that she would not be a servant, but become a queen to rule at its side. It could either accept the offer or potentially have no servants and be left with no way to free itself. N'Zoth reluctantly agreed, transforming her and the Highborne into [naga](https://wowpedia.fandom.com/wiki/Naga "Naga").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-23">[23]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/69/Warbringers_fishy_N%27Zoth.jpg/revision/latest/scale-to-width-down/120?cb=20180825115536)](https://static.wikia.nocookie.net/wowpedia/images/6/69/Warbringers_fishy_N%27Zoth.jpg/revision/latest?cb=20180825115536)
+    
+    N'Zoth appearing to Azshara as a fish.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Azshara_and_N%27Zoth.jpg/revision/latest/scale-to-width-down/120?cb=20180826180152)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Azshara_and_N%27Zoth.jpg/revision/latest?cb=20180826180152)
+    
+    N'Zoth speaking to a drowning Azshara.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/N%27Zoth_eyes_Warbringers.jpg/revision/latest/scale-to-width-down/120?cb=20190723130141)](https://static.wikia.nocookie.net/wowpedia/images/5/59/N%27Zoth_eyes_Warbringers.jpg/revision/latest?cb=20190723130141)
+    
+    N'Zoth's eyes opening to Azshara.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/93/Naga_Warbringers.jpg/revision/latest/scale-to-width-down/120?cb=20210220005416)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Naga_Warbringers.jpg/revision/latest?cb=20210220005416)
+    
+    N'Zoth's eye after creating the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") from drowning night elves.
+    
+
+### Ancient times
+
+When the roots of the growing World Tree [Andrassil](https://wowpedia.fandom.com/wiki/Andrassil "Andrassil") inadvertently reached [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")'s prison, it allowed the Old God to first open the door into the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). This then enabled the other Old Gods and N'Zoth to spread their corruption in the form of the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare").<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-24">[24]</a></sup><sup id="cite_ref-BlizzCon_9-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-BlizzCon-9">[9]</a></sup><sup id="cite_ref-HS_8-5"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Millennia later, Azeroth's mortal [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") defeated both C'Thun and Yogg-Saron. Shrouded in an ocean of fevered dreams among the bones of nameless horrors, N'Zoth remained untouched. It was certain that Azeroth's champions would eventually come for it, just as they had C'Thun and Yogg-Saron. It was not afraid, but sensed that a window of opportunity was quickly closing; the world was still recovering from its war against the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") were consumed by their own struggles. The time to usher in the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight") was now, and the herald of the apocalypse would be the corrupted Aspect [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), who was currently recovering in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"). N'Zoth fed its own dark energy into Deathwing's heart, infusing the [black dragon](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") with great power but also making his form more unstable. N'Zoth commanded cultists of the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") to venture into Deepholm and bolt [elementium](https://wowpedia.fandom.com/wiki/Elementium "Elementium") plates to Deathwing to prevent the dragon's body from tearing apart. Meanwhile, the Old God reached out elsewhere in the Elemental Plane and called on the [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental") — the Old Gods' ancient servants — to prepare for war. Two of the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") — [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") and [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane") — refused to serve the Old God, but [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir") and [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") embraced N'Zoth's command. They relished the prospect of war, and N'Zoth promised to release them from their prisons and allow them to roam free on Azeroth once more. Once Deathwing was ready for war, he would burst out of Deepholm, tearing a rift between Azeroth and the Elemental Plane, and subsequently serve as an extension of N'Zoth's will by coordinating the elementals and Twilight's Hammer. N'Zoth made Deathwing believe that by doing so, he would be able to scour Azeroth of the other dragons and claim the world as his own. In truth, however, N'Zoth intended to dispose of Deathwing after using him to restore the Black Empire and shroud the world in shadow.<sup id="cite_ref-WoWCV3_194-195_25-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-WoWCV3_194-195-25">[25]</a></sup>
+
+Before long, the time had come. On N'Zoth's word, Deathwing unleashed his rage and exploded from Deepholm into Azeroth, igniting the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") and causing great devastation across Azeroth. N'Zoth stoked the fire in Deathwing's veins, filling him with excruciating pain.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-26">[26]</a></sup> While sporadic battles erupted between the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), Deathwing unleashed the Old Gods' minions on the world. Al'Akir assaulted [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum") in an attempt to claim the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"). Meanwhile, another servant of N'Zoth — Queen Azshara — sent her naga forces to [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir"). Neptulon and his minions had defied N'Zoth's will, and for this they would suffer, but N'Zoth also demanded Neptulon's power to control the world's seas, which the naga could use to cut off all sea travel between Azeroth's continents. N'Zoth was confident that the Alliance and Horde would never be able to stop all of its servants, and if even one of the Old God's campaigns succeeded, it would usher in the Hour of Twilight. However, Azeroth's heroes soon arose to thwart the efforts of N'Zoth's minions in Deepholm, Uldum, and Vashj'ir.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-27">[27]</a></sup> Meanwhile, Deathwing and the Twilight's Hammer summoned Ragnaros and his fire elementals to assault [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") and the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil") since N'Zoth believed that burning Nordrassil would deal an irrecoverable blow to the world, but in the end Hyjal was saved by the combined efforts of the [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"), the [green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight"), Azeroth's champions, and the [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God").<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-28">[28]</a></sup>
+
+Eventually, the tide of the war turned as Azeroth's defenders pushed back against the forces of the Old Gods. Heroes retrieved the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") from the past and took it to [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"), where the Dragon Aspects and [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") began to empower it with the intention of using it to destroy Deathwing. Deathwing and his [twilight dragon](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight") and cultist minions unleashed their full fury on Wyrmrest, and N'Zoth sent its [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") minions to aid in the assault. However, the Aspects managed to empower the Dragon Soul and unleashed it on Deathwing, forcing him to flee toward the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") in an attempt to escape back into Deepholm. Wyrmrest's defenders pursued him. N'Zoth sensed that its servant was on the verge of defeat and that its plans were about to unravel. In a final, desperate attempt to turn the tide, N'Zoth [infused Deathwing with more of its power than ever before](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing"), but in the end, Thrall unleashed the Dragon Soul and finally annihilated the corrupted Aspect. In that moment, N'Zoth's campaign to bring about the Hour of Twilight collapsed.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-29">[29]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") claims that the God of the Deep writhes in its prison, breaking free ever so slowly.<sup id="cite_ref-Whispers_11-2"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Whispers-11">[11]</a></sup> [Xavius](https://wowpedia.fandom.com/wiki/Xavius_(tactics) "Xavius (tactics)") in the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare_(instance) "Emerald Nightmare (instance)") served N'Zoth, and [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") theorized that Xavius and his ancient master delighted that Azeroth was focused on fighting the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-Whispers_11-3"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Whispers-11">[11]</a></sup><sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-30">[30]</a></sup>
+
+### Battle for Azeroth
+
+The forces of both N'Zoth and Queen Azshara can be seen during the [Stormsong Valley storyline](https://wowpedia.fandom.com/wiki/Stormsong_Valley_storyline "Stormsong Valley storyline"). As Azshara sways the [tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages") to their side,<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-31">[31]</a></sup> N'Zoth sends [faceless ones](https://wowpedia.fandom.com/wiki/Faceless_one "Faceless one") to corrupt the populace of Stormsong Valley into twisted [k'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir"), with [Lord Stormsong](https://wowpedia.fandom.com/wiki/Lord_Stormsong "Lord Stormsong") serving as the herald of their coming.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-32">[32]</a></sup> A portion of N'Zoth itself is located under the [Crucible of Storms](https://wowpedia.fandom.com/wiki/Crucible_of_Storms "Crucible of Storms"), in [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras").<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-33">[33]</a></sup>
+
+#### Tides of Vengeance
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Uu%27nat%2C_Harbinger_of_the_Void.png/revision/latest/scale-to-width-down/180?cb=20190410225749)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Uu%27nat%2C_Harbinger_of_the_Void.png/revision/latest?cb=20190410225749)
+
+Eye balls of the old god N'Zoth<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-34">[34]</a></sup> with [Uu'nat](https://wowpedia.fandom.com/wiki/Uu%27nat "Uu'nat") in the [Tendril of Corruption](https://wowpedia.fandom.com/wiki/Tendril_of_Corruption "Tendril of Corruption").
+
+In accordance with a bargain between N'Zoth and [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath"), the latter guided Azeroth's [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"), declared as the Opener, the Bringer of Truths, and the Torch That Lights the Way, into the Crucible of Storms with several powerful relics they had collected. Thus with their bargain fulfilled, N'Zoth frees Xal'atath, so that she may find her own way but instructed her to leave the blade she resided in behind so that it would serve N'Zoth's will. Turning its gaze towards the Bringer of Truths, N'Zoth declared that it had dreamed of their destiny, and that the hour was close at hand for that which had been sunken to rise, and that all that were sleeping would be awakened. N'Zoth then gave unto them [its gift](https://wowpedia.fandom.com/wiki/Gift_of_N%27Zoth "Gift of N'Zoth"), so that they could see all truths before them.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-35">[35]</a></sup> Those with its gift are able to use it on all who have been blessed by the Old God, though through the use of perilous and painful ritual (Alliance) or the power of the loa [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda") (Horde), N'Zoth's gift could be cleansed from those who were granted it.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-36">[36]</a></sup>
+
+Later, a group of adventurers entered the [Crucible of Storms](https://wowpedia.fandom.com/wiki/Crucible_of_Storms "Crucible of Storms") to reclaim the relics and halt N'Zoth's plans. N'Zoth watched and whispered to the champions as they defeated its forces, including [Uu'nat](https://wowpedia.fandom.com/wiki/Uu%27nat "Uu'nat"), who declared to his master with his dying breath that they were "worthy". Horde champions then discovered the empty blade that once held [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath"). Feeling the power that resonated within the blade, almost if as if the weapon spoke with another voice, these champions were compelled to deliver the artifact to [their warchief](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"). As they picked up the blade, N'Zoth declared: "The fall of night reveals her true face. She will bring only ruin."<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-37">[37]</a></sup> The Alliance champions, on the other hand, were alerted to the Horde's possession of the blade.
+
+#### Rise of Azshara
+
+After Azshara was informed of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") fleets heading towards [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"), N'Zoth reached out to [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), who commented on its imprisonment and told it not to worry.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-38">[38]</a></sup> Though Azshara would be defeated, she was successful in breaking the chains binding N'Zoth after activating the titan device in the [Last Prison](https://wowpedia.fandom.com/wiki/Last_Prison "Last Prison") using the [Heart of Azeroth](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth "Heart of Azeroth"). The Old God subsequently rescued Azshara from being killed by [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") and [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"). Following its rescue of the naga queen, N'Zoth ominously declared: "All eyes shall be opened."<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-39">[39]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Queen_Azshara_N%27Zoth_shadow_tentacle.jpg/revision/latest/scale-to-width-down/120?cb=20190706174736)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Queen_Azshara_N%27Zoth_shadow_tentacle.jpg/revision/latest?cb=20190706174736)
+    
+    Queen Azshara and N'Zoth's shadow tentacle.
+    
+
+#### Visions of N'Zoth
+
+The events within the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") have set the stage for the Old God N'Zoth's release from its titanwrought prison, and an ancient corruption has taken root across Azeroth. [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha"), the Sleeping City, has awakened. Under N'Zoth's command, the armies of the Black Empire threaten to engulf the world and reshape it according to their [master's vision](https://wowpedia.fandom.com/wiki/Vision_of_N%27Zoth "Vision of N'Zoth"). Nightmares dwell in [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City"), the [Void](https://wowpedia.fandom.com/wiki/Void "Void")\-shrouded heart of the ancient Black Empire. The [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of Azeroth venture deep into the horrific realm to confront mad heralds and inscrutable horrors, and ultimately go eye-to-eyes with N'Zoth itself for one final confrontation against the Old God in a fateful battle for Azeroth's survival.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-40">[40]</a></sup>
+
+When the [Amathet](https://wowpedia.fandom.com/wiki/Amathet "Amathet") launched an attack to claim the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"), N'Zoth's minion Shith'rus the Manipulator snuck in with their forces as [Sun Prophet Tenhamen](https://wowpedia.fandom.com/wiki/Sun_Prophet_Tenhamen "Sun Prophet Tenhamen"). Upon their death, N'Zoth's appears in the mind of Azeroth's [champion](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") where N'Zoth subsequently called them its devoted chosen.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-41">[41]</a></sup> As [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") and the champion fought the [mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid") to claim the [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha"), N'Zoth once more reached out to the champion. The Old God remarked that the frenzied mantid swarm knew what was coming and that Azeroth's champion would be its herald.<sup id="cite_ref-The_Engine_of_Nalak'sha_3-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-The_Engine_of_Nalak'sha-3">[3]</a></sup> Soon after Magni discovered that an anomaly existed within the [Halls of Origination](https://wowpedia.fandom.com/wiki/Halls_of_Origination "Halls of Origination") and set off to investigate, discovering that N'Zoth was seeking to gain control of the forge.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-42">[42]</a></sup><sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-43">[43]</a></sup> In order help better combat N'Zoth, [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") and the champion sought an object of pure corruption, a task that ended with Azeroth's champion acquiring  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/Inv_misc_cape_deathwingraid_d_03.png/revision/latest/scale-to-width-down/16?cb=20110928094057)[\[Ashjra'kamas, Shroud of Resolve\]](https://wowpedia.fandom.com/wiki/Ashjra%27kamas,_Shroud_of_Resolve).<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-44">[44]</a></sup> After a [Horrific Vision](https://wowpedia.fandom.com/wiki/Vision_of_N%27Zoth#Horrific_Visions "Vision of N'Zoth") was defeated per Wrathion's request, Magni was stunned to hear N'Zoth's voice within the Chamber of Heart.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-45">[45]</a></sup> Subsequently, the Old God attacked the chamber, opening a portal to [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha") and releasing its forces into the facility. Magni fought against the Old God's minions alongside the other defenders of the chamber, but once it became clear that N'Zoth was about to overtake the facility, Ra turned to the adventurer and told them to save Azeroth, no matter the cost. The Highkeeper then charged at the portal to Ny'alotha and used a lightning attack to destroy it, but was pulled into the realm in the process. According to Magni, the Chamber of Heart and all of Azeroth would've been N'Zoth's for the taking had it not been for Ra's sacrifice.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-46">[46]</a></sup>
+
+Determined to save Ra and end the threat of N'Zoth, Magni called for Azeroth's Champions to venture into [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City").<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-47">[47]</a></sup><sup id="cite_ref-Corruptor's_End_5-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Corruptor's_End-5">[5]</a></sup> Unbeknownst to all, N'Zoth was able to take advantage of the despair Ra-den long harbored and overwhelm any remnants of hope, causing the Highkeeper to do the Old God's bidding.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-48">[48]</a></sup> As Azeroth's champion ventured into [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha"), they discovered [Dark Inquisitor Xanesh](https://wowpedia.fandom.com/wiki/Dark_Inquisitor_Xanesh "Dark Inquisitor Xanesh") torturing [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") for betraying N'Zoth. Upon Xanesh's defeat, Azshara revealed that she held Xal'atath and claimed that she would have driven the dagger into N'Zoth's heart herself had the Alliance and Horde not disrupted her plans. The naga then gave Xal'atath to Wrathion while warning him and the champions that if they failed to kill N'Zoth with their first blow, they would not survive to attempt another. Azshara subsequently departed from Ny'alotha while Wrathion and his allies ventured forth to put an end to the Black Empire.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-49">[49]</a></sup> As Wrathion examined the black blade for treachery Azeroth's champions struck down N'Zoth's greatest servants, including the likes of [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona"), [Ra-den the Despoiled](https://wowpedia.fandom.com/wiki/Ra-den_the_Despoiled "Ra-den the Despoiled"), and [Il'gynoth, Corruption Reborn](https://wowpedia.fandom.com/wiki/Il%27gynoth,_Corruption_Reborn "Il'gynoth, Corruption Reborn").
+
+Using the Black Blade, Wrathion stabbed the [Carapace of N'Zoth](https://wowpedia.fandom.com/wiki/Carapace_of_N%27Zoth "Carapace of N'Zoth") which during the fight with the [Fury of N'Zoth](https://wowpedia.fandom.com/wiki/Fury_of_N%27Zoth "Fury of N'Zoth") helped adventurers regain their sanity by teleporting back to him. Following the destruction of the Carapace, the final battle against the Old God started. During the battle N'Zoth revealed its role in the corruption of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") and how the former [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") conspired with Azshara while revealing that Sylvanas intended to unleash a [darkness](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands") that only it could save Azeroth from. To that end, N'Zoth called for Azeroth's champions to yield and serve. However, Azeroth's heroes refused to be swayed and N'Zoth's body (along with Ny'alotha) was destroyed when the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth) fired the powers of the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"), empowered by the [Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/Engine_of_Nalak%27sha "Engine of Nalak'sha"), upon it.<sup id="cite_ref-raid_2-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-raid-2">[2]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4c/N%27Zoth%2C_the_Corruptor.jpg/revision/latest/scale-to-width-down/120?cb=20200214105825)](https://static.wikia.nocookie.net/wowpedia/images/4/4c/N%27Zoth%2C_the_Corruptor.jpg/revision/latest?cb=20200214105825)
+    
+    N'Zoth, the Corruptor inside his body in the Locus of Infinite Truths.
+    
+
+## Quotes
+
+Dialogue
+
+_Main article: [Twist the Knife#Notes](https://wowpedia.fandom.com/wiki/Twist_the_Knife#Notes "Twist the Knife")_
+
+_Main article: [Uu'nat#Quotes](https://wowpedia.fandom.com/wiki/Uu%27nat#Quotes "Uu'nat")_
+
+An **Unseen Presence** whispers to the player when in [Deepcoil Tunnels](https://wowpedia.fandom.com/wiki/Deepcoil_Tunnels "Deepcoil Tunnels") or Shirakess Depository.
+
+-   All alone in the depths...
+-   Such a heavy burden you carry. Soon you will be free of it.
+-   Your crimes are terrible... numberless... glorious...
+-   Your wakening draws near...
+-   Thief. Renegade. Murderer. Servant.
+-   Let go...
+
+## In _Hearthstone_
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   N'Zoth the Corruptor appears as [a legendary card](https://hearthstone.fandom.com/wiki/N%27Zoth,_the_Corruptor "hswiki:N'Zoth, the Corruptor") in the _[Whispers of the Old Gods](https://wowpedia.fandom.com/wiki/Whispers_of_the_Old_Gods "Whispers of the Old Gods")_ expansion, which was the first time the Old God had been depicted in any media. Its flavor text reads: _"Has not been able to get "Under the Sea" out of his head for like FIVE THOUSAND YEARS."_
+    -   [N'Zoth's First Mate](https://hearthstone.fandom.com/wiki/N%27Zoth%27s_First_Mate "hswiki:N'Zoth's First Mate"), depicting a [qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji") [pirate](https://wowpedia.fandom.com/wiki/Pirate "Pirate") riding a large [silithid wasp](https://wowpedia.fandom.com/wiki/Silithid_wasp "Silithid wasp"), appears as a common card for the Warrior class. Its flavor text reads: _"Hates when N'Zoth yells "Ahoy Matey!!", but there's not really much he can do about it."_
+    -   The [Spawn of N'Zoth](https://hearthstone.fandom.com/wiki/Spawn_of_N%27Zoth "hswiki:Spawn of N'Zoth") appears as a common card. Its flavor text reads: _"Who's a cute widdle N'Zoth? You are! Yes you are! Yes you're the cutest widdle N'Zoth in the whole world!!!"_
+    -   The [Tentacle of N'Zoth](https://hearthstone.fandom.com/wiki/Tentacle_of_N%27Zoth "hswiki:Tentacle of N'Zoth") appears as a common card. Its flavor text reads: _"Because EVERYDAY is the Day of the Tentacle of N'zoth."_
+-   It reappeared in _[Madness at the Darkmoon Faire](https://hearthstone.fandom.com/wiki/Madness_at_the_Darkmoon_Faire "hswiki:Madness at the Darkmoon Faire")_ as [N'Zoth, God of the Deep](https://hearthstone.fandom.com/wiki/N%27Zoth,_God_of_the_Deep "hswiki:N'Zoth, God of the Deep"). Its flavor text reads "_It really just wants to cuddle all the creatures of Azeroth."_
+-   Players who pre-ordered the Mega Bundle for _Madness at the Darkmoon Faire_ also received N'Zoth as an [alternate Warlock hero](https://hearthstone.fandom.com/wiki/N%27Zoth_(hero) "hswiki:N'Zoth (hero)"), whose flavor text reads: _"When someone asks if you're an Old God, you can now say "YES!"_. Players who pre-ordered either bundle also received the N'Zoth card back, which reads: _"You're beginning to dream of a glorious destiny! Spoilers: It involves calamari."_
+
+## Notes and trivia
+
+-   In the [War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy"), "the Old Gods" were collectively implied to be responsible for Deathwing's corruption. Later, this feat was retroactively attributed to N'Zoth.<sup id="cite_ref-wrathionEmperor_13-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-wrathionEmperor-13">[13]</a></sup><sup id="cite_ref-HS_8-6"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup><sup id="cite_ref-WoWCV3_194-195_25-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-WoWCV3_194-195-25">[25]</a></sup>
+-   [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire "Xal'atath, Blade of the Black Empire") describes [Mindflayer Kaahrj](https://wowpedia.fandom.com/wiki/Mindflayer_Kaahrj "Mindflayer Kaahrj") as an "idiotic pustule of N'Zoth".<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-50">[50]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/8/8d/Inv_knife_1h_artifactcthun_d_06.png/revision/latest/scale-to-width-down/16?cb=20160615153828)[\[Claw of N'Zoth\]](https://wowpedia.fandom.com/wiki/Claw_of_N%27Zoth) is the hidden [artifact](https://wowpedia.fandom.com/wiki/Artifact "Artifact") appearance for  ![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Inv_knife_1h_artifactcthun_d_01.png/revision/latest/scale-to-width-down/16?cb=20151208214717)[\[Xal'atath, Blade of the Black Empire\]](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire).
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Inv_knife_1h_grimbatolraid_d_03.png/revision/latest/scale-to-width-down/16?cb=20100703182449)[\[N'lyeth, Sliver of N'Zoth\]](https://wowpedia.fandom.com/wiki/N%27lyeth,_Sliver_of_N%27Zoth) was a quest reward.
+-   In a developer chat in 2012, [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") stated that the titans were unable to defeat N'Zoth and that it was "still lurking".<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-51">[51]</a></sup> This notion has not been mentioned since, and _Chronicle Volume 1_ instead establishes that N'Zoth was defeated and imprisoned by the titan-forged just like [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") were.
+-   When Shadow Priests say "Seeker" while in  ![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Spell_priest_voidform.png/revision/latest/scale-to-width-down/16?cb=20160612130422)[\[Voidform\]](https://wowpedia.fandom.com/wiki/Voidform), it translates into "N'zoth".
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Inv_knife_1h_artifactcthun_d_01.png/revision/latest/scale-to-width-down/16?cb=20151208214717)[\[Xal'atath, Blade of the Black Empire\]](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire) references N'Zoth several times in her quotes.<sup id="cite_ref-Whispers_11-4"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-Whispers-11">[11]</a></sup>
+-   Prior to patch 8.3.0, N'Zoth was the only Old God besides [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") to have never been directly seen by players in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_. The elusive being's appearance was first revealed when it was added as [a legendary card](https://hearthstone.fandom.com/wiki/N%27Zoth,_the_Corruptor "hswiki:N'Zoth, the Corruptor") in the [Whispers of the Old Gods](https://wowpedia.fandom.com/wiki/Whispers_of_the_Old_Gods "Whispers of the Old Gods") expansion for _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-52">[52]</a></sup>
+-   In _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_, Alarak, a character from _[StarCraft](https://wowpedia.fandom.com/wiki/StarCraft_franchise "StarCraft franchise")_, has a skin called "Herald of N'Zoth Alarak".<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-53">[53]</a></sup>
+-   N'Zoth is voiced by [Darin De Paul](https://wowpedia.fandom.com/wiki/Darin_De_Paul "Darin De Paul") as of _[Warbringers: Azshara](https://wowpedia.fandom.com/wiki/Warbringers "Warbringers")_.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-54">[54]</a></sup>
+-   N'Zoth's name is most likely derived from [Zoth-Ommog](http://en.wikipedia.org/wiki/Xothic_legend_cycle#Zoth-Ommog "wikipedia:Xothic legend cycle") of [H.P. Lovecraft](http://en.wikipedia.org/wiki/H.P._Lovecraft "wikipedia:H.P. Lovecraft")'s shared [Cthulhu Mythos](http://en.wikipedia.org/wiki/Cthulhu_Mythos "wikipedia:Cthulhu Mythos"). Just as Zoth-Ommog was imprisoned by the Elder Gods beneath the seabed, N'Zoth was imprisoned by the titans under what is now the Great Sea.
+-   [N'zoth](https://starwars.fandom.com/wiki/N'zoth) is also the name of a star system in the Star Wars expanded universe, that is inhabited by a brutal and xenophobic alien race.
+-   N'Zoth has been consistently referred to with masculine pronouns, instead of gender-neutral ones.
+-   C'Thun and Yogg-Saron both have only their apexes showing, with massive bodies buried underground and fused to Azeroth in an attempt to assimilate the world. In contrast, N'Zoth's debut and subsequent art from _Hearthstone_ has its main head resting on a mass of tentacles, posed in a way that implied that it was somewhat ambulatory, with no obvious connection to a larger body. In Ny'alotha, N'Zoth's main body more closely resembles C'Thun's but unburied, while the interior head of the [N'Zoth the Corruptor](https://wowpedia.fandom.com/wiki/N%27Zoth_the_Corruptor "N'Zoth the Corruptor") fight still rests on a more distinct mass of tentacles, but which now seem to be directly embedded in the floor.
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   N'Zoth's _Hearthstone_ appearance bears a striking resemblance to the [kraken](https://wowpedia.fandom.com/wiki/Kraken "Kraken") patriarch [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat"), possibly indicating a connection between the two, or between N'Zoth and krakens in general, although within the game we are told they are servants of [Neptulon the Tidehunter](https://wowpedia.fandom.com/wiki/Neptulon_the_Tidehunter "Neptulon the Tidehunter") and normally dwell in the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw") and not on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth").<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-55">[55]</a></sup>
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth") might be talking about N'Zoth when he says "To find him, drown yourself in the [circle of stars](https://wowpedia.fandom.com/wiki/Circle_of_Stars "Circle of Stars")".
+-   The  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Trade_archaeology_cthunspuzzlebox.png/revision/latest/scale-to-width-down/16?cb=20100910171422)[\[Puzzle Box of Yogg-Saron\]](https://wowpedia.fandom.com/wiki/Puzzle_Box_of_Yogg-Saron) mentions "a black goat with seven eyes", which could refer to N'Zoth.
+-   When interacting with the [Remnant of the Void](https://wowpedia.fandom.com/wiki/Remnant_of_the_Void "Remnant of the Void") in the Emerald Nightmare raid instance,  ![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Inv_knife_1h_artifactcthun_d_01.png/revision/latest/scale-to-width-down/16?cb=20151208214717)[\[Xal'atath, Blade of the Black Empire\]](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire) will whisper: "Almost completely gone, as if it never existed. But the rift is deep and vast, and somewhere down there it stirs. Something has changed, the last prison weakens. We must prepare." This could be a reference to N'Zoth.
+-   N'Zoth's aptitude for manipulation has made some fans skeptical of how final its defeat really was, skepticism which has not been discouraged by development members.
+
+### Location
+
+[![Chronicle Map Overlay.png](https://static.wikia.nocookie.net/wowpedia/images/8/85/Chronicle_Map_Overlay.png/revision/latest/scale-to-width-down/180?cb=20170627160837)](https://static.wikia.nocookie.net/wowpedia/images/8/85/Chronicle_Map_Overlay.png/revision/latest?cb=20170627160837)
+
+-   When [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") contained the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") within the [Rift of Aln](https://wowpedia.fandom.com/wiki/Rift_of_Aln "Rift of Aln"), he sensed an "ancient evil" that was keeping its foothold in the Emerald Dream from somewhere beneath Azeroth's oceans.<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-56">[56]</a></sup> This may have been N'Zoth.
+-   In [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir"), [Ick'thys the Unfathomable](https://wowpedia.fandom.com/wiki/Ick%27thys_the_Unfathomable "Ick'thys the Unfathomable") in the Scalding Chasm proclaims Now, let us return to my master, below!<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-57">[57]</a></sup> [Ogre magi](https://wowpedia.fandom.com/wiki/Ogre_mage "Ogre mage") of the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") also attempted to connect [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek") to "something immense" further below in order to allow that thing to drain the dying ancient's life energies.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-58">[58]</a></sup> While inside L'ghorek, adventurers rescue several Twilight's Hammer prisoners in order to prevent them from being sacrificed to "whatever lurks below".<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-59">[59]</a></sup> The presence of enormous tentacles similar to those of [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") and [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") in the [Undershell](https://wowpedia.fandom.com/wiki/Undershell "Undershell") may further indicate the presence of an Old God.
+-   The mysterious [contents of Mosh'Ogg Bounty](https://wowpedia.fandom.com/wiki/Contents_of_Mosh%27Ogg_Bounty "Contents of Mosh'Ogg Bounty") are possibly connected to N'Zoth, given that the region of [Stranglethorn Vale](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale "Stranglethorn Vale") was also once located within the Old God's domain.<sup id="cite_ref-ChronicleMap_18-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-ChronicleMap-18">[18]</a></sup>
+-   The  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Trade_archaeology_cthunspuzzlebox.png/revision/latest/scale-to-width-down/16?cb=20100910171422)[\[Puzzle Box of Yogg-Saron\]](https://wowpedia.fandom.com/wiki/Puzzle_Box_of_Yogg-Saron)'s whispers seem to describe an Old God residing at the bottom of an ocean, matching Malfurion's description and the Vashj'ir quests listed above. They may refer to N'Zoth.
+-   _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ put N'Zoth's prison in [Ancient Kalimdor](https://wowpedia.fandom.com/wiki/Ancient_Kalimdor "Ancient Kalimdor") at a location that seems to be near [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") and [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), between [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") and [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir").
+-   The prison was ultimately confirmed to be beneath [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar"), specifically the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace").
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/95/N%27Zoth_concept.jpg/revision/latest/scale-to-width-down/120?cb=20200115073008)](https://static.wikia.nocookie.net/wowpedia/images/9/95/N%27Zoth_concept.jpg/revision/latest?cb=20200115073008)
+    
+    _Battle for Azeroth_ concept art of N'Zoth.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/db/Visions_of_N%27Zoth_key_art.jpg/revision/latest/scale-to-width-down/120?cb=20200114213909)](https://static.wikia.nocookie.net/wowpedia/images/d/db/Visions_of_N%27Zoth_key_art.jpg/revision/latest?cb=20200114213909)
+    
+    N'Zoth in Ny'alotha.
+    
+
+Hearthstone
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/11/N%27Zoth.jpg/revision/latest/scale-to-width-down/88?cb=20160323204939)](https://static.wikia.nocookie.net/wowpedia/images/1/11/N%27Zoth.jpg/revision/latest?cb=20160323204939)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/20/N%27Zoth%2C_God_of_Depth.jpg/revision/latest/scale-to-width-down/120?cb=20210127131520)](https://static.wikia.nocookie.net/wowpedia/images/2/20/N%27Zoth%2C_God_of_Depth.jpg/revision/latest?cb=20210127131520)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/15/Madness_at_the_Darkmoon_Faire_key_art.jpg/revision/latest/scale-to-width-down/120?cb=20210402000332)](https://static.wikia.nocookie.net/wowpedia/images/1/15/Madness_at_the_Darkmoon_Faire_key_art.jpg/revision/latest?cb=20210402000332)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Whispers_of_the_Deep_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220418230108)](https://static.wikia.nocookie.net/wowpedia/images/c/c9/Whispers_of_the_Deep_HS.jpg/revision/latest?cb=20220418230108)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/N%27Zoth_HS_Mercenaries.jpg/revision/latest/scale-to-width-down/120?cb=20220517232841)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/N%27Zoth_HS_Mercenaries.jpg/revision/latest?cb=20220517232841)
+    
+
+Heroes of the Storm
+
+## Videos
+
+-   [Hearthstone | Lore of the Cards | N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Warbringers: Azshara](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Rise of Azshara Now Live – Cinematic (Alliance)](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Rise of Azshara Now Live – Cinematic (Horde)](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Azshara's Eternal Palace - Raid Finale Cinematic](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Visions of N'Zoth - Intro Cinematic](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Ny'alotha: Wrathion's Scene](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Ny'alotha: Raid Finale](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Legacies Chapter Two](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+-   [Legacies Chapter Three](https://wowpedia.fandom.com/wiki/N%27Zoth#)
+
+## Patch changes
+
+-   [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") **[Patch 8.3.0](https://wowpedia.fandom.com/wiki/Patch_8.3.0 "Patch 8.3.0") (2020-01-14):** Added.  
+    
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-1) [Xal'atath, Blade of the Black Empire#Whispers](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire#Whispers "Xal'atath, Blade of the Black Empire") **Xal'atath whispers:** It was here in ages past that the God of the Deep lost a great battle to the [God of Seven Heads](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj"). But as was so often the case even defeat ultimately worked in N'zoth's favor.
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-raid_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-raid_2-1">b</a></sup> [N'Zoth the Corruptor](https://wowpedia.fandom.com/wiki/N%27Zoth_the_Corruptor "N'Zoth the Corruptor")
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-The_Engine_of_Nalak'sha_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-The_Engine_of_Nalak'sha_3-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [The Engine of Nalak'sha](https://wowpedia.fandom.com/wiki/The_Engine_of_Nalak%27sha)
+4.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-4) [Windows Central's Danuser interview](https://www.windowscentral.com/world-warcraft-interview-building-story-shadowlands) - "While the Light can only conceive of one true path, the Void sees endless possibilities. Strategically, the Old Gods always have plans within plans, waiting for one door to close so another can open. To believe there can only be a single outcome to the struggle against N'Zoth would be to ignore the lessons he was trying to teach us."
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Corruptor's_End_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Corruptor's_End_5-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50R\] [Ny'alotha, the Waking City: The Corruptor's End](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City:_The_Corruptor%27s_End)
+6.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-6) [Uu'nat#Quotes](https://wowpedia.fandom.com/wiki/Uu%27nat#Quotes "Uu'nat")
+7.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-7) [https://web.archive.org/web/20150103204041/http://blue.mmo-champion.com/topic/120832-nzath/](https://web.archive.org/web/20150103204041/http://blue.mmo-champion.com/topic/120832-nzath/)
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-HS_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-HS_8-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-HS_8-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-HS_8-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-HS_8-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-HS_8-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-HS_8-6">g</a></sup> [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Daxxarri](https://wowpedia.fandom.com/wiki/Daxxarri "Daxxarri") 2016-03-24. [Whispers of the Old Gods – The Enigma of N’Zoth](http://us.battle.net/hearthstone/en/blog/20073614/). Retrieved on 2016-03-24.
+9.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-BlizzCon_9-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-BlizzCon_9-1">b</a></sup> [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010") [Quests & Lore Q&A Panel](http://www.youtube.com/watch?v=d343AvMF4yA)
+10.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-UVG_10-0) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ultimate_Visual_Guide "World of Warcraft: Ultimate Visual Guide")_, pg. 33
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Whispers_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Whispers_11-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Whispers_11-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Whispers_11-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Whispers_11-4">e</a></sup> [Xal'atath, Blade of the Black Empire#Whispers](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire#Whispers "Xal'atath, Blade of the Black Empire")
+12.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-12) [Dark Inquisitor Xanesh#Quotes](https://wowpedia.fandom.com/wiki/Dark_Inquisitor_Xanesh#Quotes "Dark Inquisitor Xanesh"): **Queen Azshara says:** For all his bluster, N'Zoth was ever the weakest of his kin. One vestige of their power yet remains that can be turned against him.
+13.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-wrathionEmperor_13-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-wrathionEmperor_13-1">b</a></sup> "Despite all his precautions, Wrathion could not avoid succumbing to the madness that claimed his father. With his mind twisted by N'Zoth, he believes that the only way he can truly defend Azeroth is to rule it in the Old God’s name. A prince no longer, Wrathion now takes his rightful place as the Black Emperor." - [Wrathion, the Black Emperor#Adventure\_Guide](https://wowpedia.fandom.com/wiki/Wrathion,_the_Black_Emperor#Adventure_Guide "Wrathion, the Black Emperor")
+14.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-chronicle3_14-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-chronicle3_14-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-chronicle3_14-2">c</a></sup> _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_
+15.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-15) [Warbringers: Azshara](https://wowpedia.fandom.com/wiki/Warbringers:_Azshara "Warbringers: Azshara")
+16.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-16)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Inv_knife_1h_artifactcthun_d_01.png/revision/latest/scale-to-width-down/16?cb=20151208214717)[\[Xal'atath, Blade of the Black Empire\]](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire): It appears the prison of N'zoth is not as strong as it once was. What you see is a [tiny growth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth") of the behemoth that may yet consume your world.
+17.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-17) Moat#Adventure\_Guide
+18.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-ChronicleMap_18-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-ChronicleMap_18-1">b</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 34 - 35 ([map](https://wowpedia.fandom.com/wiki/File:Black_Empire_Kalimdor.jpeg "File:Black Empire Kalimdor.jpeg"))
+19.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-Zon'ozz_19-0) [Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+20.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-20) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 36
+21.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-ChronicleMap2_21-0) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 44 - 45 ([map](https://wowpedia.fandom.com/wiki/File:Ordered_Azeroth.jpg "File:Ordered Azeroth.jpg"))
+22.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-22) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 332 - 333
+23.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-23) _[Warbringers: Azshara](https://wowpedia.fandom.com/wiki/Warbringers "Warbringers")_
+24.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-24) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 124
+25.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-WoWCV3_194-195_25-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-WoWCV3_194-195_25-1">b</a></sup> _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 194 - 195
+26.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-26) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 199
+27.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-27) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 205
+28.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-28) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 207
+29.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-29) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 220
+30.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-30) [Il'gynoth#Quotes](https://wowpedia.fandom.com/wiki/Il%27gynoth#Quotes "Il'gynoth")
+31.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-31) [Lord Stormsong (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Lord_Stormsong_(tactics)#Quotes "Lord Stormsong (tactics)")
+32.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-32)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[30-60\] [Voices Below](https://wowpedia.fandom.com/wiki/Voices_Below)
+33.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-33) Melody 2018-11-03. [Interview Blizzcon 2018 : Nazjatar, Mecagon, Exploration des îles, fronts de guerre](https://www.mamytwink.com/actualite/interview-blizzcon-2018-nazjatar-mecagon-exploration-des-iles-et-fronts-de-guerre). Mamytwink. Retrieved on 2019-12-11.
+34.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-34) [https://www.artstation.com/artwork/xzo3bR](https://www.artstation.com/artwork/xzo3bR)
+35.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-35)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Twist the Knife](https://wowpedia.fandom.com/wiki/Twist_the_Knife)
+36.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-36)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [His Eye Upon You](https://wowpedia.fandom.com/wiki/His_Eye_Upon_You)
+37.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-37)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [The Black Blade](https://wowpedia.fandom.com/wiki/The_Black_Blade)
+38.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-38) [of Azshara Now Live – Cinematic (Alliance)](https://www.youtube.com/watch?v=SszpZF8KCN8%7CRise)
+39.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-39) [Eternal Palace - Raid Finale Cinematic (Spoilers)](https://www.youtube.com/watch?v=qOKSbPSAjDQ%7CAzshara%27s)
+40.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-40) World of Warcraft 2019-12-19. [Battle for Azeroth: Visions of N’Zoth Goes Live January 14](https://worldofwarcraft.com/en-us/news/23237904/battle-for-azeroth-visions-of-n-zoth-goes-live-january-14). Blizzard. Retrieved on 2019-12-19.
+41.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-41)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [The Halls of Origination](https://wowpedia.fandom.com/wiki/The_Halls_of_Origination)
+42.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-42)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Re-Origination](https://wowpedia.fandom.com/wiki/Re-Origination)
+43.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-43)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Investigating the Halls](https://wowpedia.fandom.com/wiki/Investigating_the_Halls)
+44.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-44)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Beginning the Descent](https://wowpedia.fandom.com/wiki/Beginning_the_Descent)
+45.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-45)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Into the Darkest Depths](https://wowpedia.fandom.com/wiki/Into_the_Darkest_Depths)
+46.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-46)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Whispers in the Dark](https://wowpedia.fandom.com/wiki/Whispers_in_the_Dark_(quest))
+47.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-47)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Into Dreams](https://wowpedia.fandom.com/wiki/Into_Dreams)
+48.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-48) [Ra-den the Despoiled#Adventure Journal](https://wowpedia.fandom.com/wiki/Ra-den_the_Despoiled#Adventure_Journal "Ra-den the Despoiled")
+49.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-49) [Dark Inquisitor Xanesh#Quotes](https://wowpedia.fandom.com/wiki/Dark_Inquisitor_Xanesh#Quotes "Dark Inquisitor Xanesh")
+50.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-50) **[Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath,_Blade_of_the_Black_Empire "Xal'atath, Blade of the Black Empire") whispers:** For this idiotic pustule of N'Zoth to have lived so long... it does little to refute my opinion of this world's new owners.
+51.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-51) Medievaldragon 2012-09-19. [Blizzplanet Best Buy - Developers Chat on Mists of Pandaria Transcript](http://www.blizzplanet.com/blog/comments/best-buy-developers-chat-on-mists-of-pandaria-transcript). _Blizzplanet_. Retrieved on 2018-10-04. “_DaveKosak: N’zoth is still lurking. The Titans couldn’t defeat it… maybe someday we’ll get our chance? Don’t expect to hear anything about him in Pandaria, though!_”
+52.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-52) [![Blizzard Entertainment](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment") [Zeriyah](https://wowpedia.fandom.com/wiki/Zeriyah "Zeriyah"). [So... N'zoth.](http://us.battle.net/hearthstone/en/forum/topic/20742805013#10). Retrieved on 2016-03-23. “_This is true! N'Zoth is a secretive being and has not been seen in the Warcraft universe before now \[...\] but if you'd like a sneak peek of what the physical form of this ancient evil looks like to our mortal eyes, N'Zoth has graced our [Twitter](https://twitter.com/playhearthstone) and [Facebook](https://www.facebook.com/Hearthstone) with a touch of its sinister presence._”
+53.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-53) [Heroes of the Storm - Alarak skins](https://heroesofthestorm.fandom.com/wiki/Alarak#Skins "hots:Alarak")
+54.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-54) [Andrea Toyias on Twitter](https://twitter.com/AndreaToyias/status/1033058934632865793) (2018-08-24).
+55.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-55)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Achievement_boss_yoggsaron_01.png/revision/latest/scale-to-width-down/16?cb=20090228013707)[\[Imprint of a Kraken Tentacle\]](https://wowpedia.fandom.com/wiki/Imprint_of_a_Kraken_Tentacle)
+56.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-56) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, pg. 389
+57.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-57)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [... It Will Come](https://wowpedia.fandom.com/wiki/..._It_Will_Come)
+58.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-58)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Unplug L'ghorek](https://wowpedia.fandom.com/wiki/Unplug_L%27ghorek)
+59.  [^](https://wowpedia.fandom.com/wiki/N%27Zoth#cite_ref-59)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[30-35\] [Prisoners](https://wowpedia.fandom.com/wiki/Prisoners)
+
+## External links
+
+| N'Zoth | Unseen Presence |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/search?q=N%27Zoth#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=N%27Zoth#t1:npcs)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/npc=154287)
+-   [WoWDB](https://www.wowdb.com/npcs/154287)
+
+ |
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   **N'Zoth**
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+
+ |
+|  |
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+
+-   [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+| 
+
+-   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |

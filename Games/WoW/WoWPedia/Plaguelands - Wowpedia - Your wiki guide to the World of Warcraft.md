@@ -1,0 +1,265 @@
+_For further reading, see [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands") and [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")._
+
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")The Plaguelands |
+| --- |
+| Level: 35 - 60 |
+| [![Eastern Plaguelands East Side.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Plaguelands_East_Side.jpg/revision/latest/scale-to-width-down/260?cb=20111031215828)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Eastern_Plaguelands_East_Side.jpg/revision/latest?cb=20111031215828) |
+| Capital(s) | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen")  
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") |
+| Races | [![Scourge](https://static.wikia.nocookie.net/wowpedia/images/4/4c/IconSmall_Lich_Male.gif/revision/latest/scale-to-width-down/16?cb=20211201224530)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/6/68/IconSmall_Banshee.gif/revision/latest/scale-to-width-down/16?cb=20211130195538)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/e/e0/IconSmall_Ghoul.gif/revision/latest/scale-to-width-down/16?cb=20211130170819)](https://wowpedia.fandom.com/wiki/Scourge "Scourge")[![Scourge](https://static.wikia.nocookie.net/wowpedia/images/2/2c/IconSmall_Skeleton.gif/revision/latest/scale-to-width-down/16?cb=20211201223423)](https://wowpedia.fandom.com/wiki/Scourge "Scourge") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge")  
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
+[![Forest troll](https://static.wikia.nocookie.net/wowpedia/images/e/ea/IconSmall_ForestTroll_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118182424)](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")[![Forest troll](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_ForestTroll_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118183845)](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll") [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")  
+[![Undead troll](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_UndeadTroll_Male.gif/revision/latest/scale-to-width-down/16?cb=20211130192217)](https://wowpedia.fandom.com/wiki/Troll "Undead troll")[![Undead troll](https://static.wikia.nocookie.net/wowpedia/images/4/44/IconSmall_UndeadTroll_Female.gif/revision/latest/scale-to-width-down/16?cb=20211130192036)](https://wowpedia.fandom.com/wiki/Troll "Undead troll") [Undead troll](https://wowpedia.fandom.com/wiki/Troll "Troll")  
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
+[![Wretched](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Wretched.gif/revision/latest/scale-to-width-down/16?cb=20200529213643)](https://wowpedia.fandom.com/wiki/Wretched "Wretched") [Wretched](https://wowpedia.fandom.com/wiki/Wretched "Wretched")  
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
+[![Gnoll](https://static.wikia.nocookie.net/wowpedia/images/1/12/IconSmall_Gnoll.gif/revision/latest/scale-to-width-down/16?cb=20220815094250)](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") [Gnoll](https://wowpedia.fandom.com/wiki/Gnoll "Gnoll") |
+| Former ruler(s) | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")  ![](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_Terenas.gif/revision/latest/scale-to-width-down/16?cb=20211214091753)[Terenas Menethil](https://wowpedia.fandom.com/wiki/Terenas_Menethil "Terenas Menethil") <sup>&nbsp;†</sup> |
+| Major settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Scarlet Enclave](https://wowpedia.fandom.com/wiki/Ruins_of_the_Scarlet_Enclave "Ruins of the Scarlet Enclave")  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Zul'Mashar](https://wowpedia.fandom.com/wiki/Zul%27Mashar "Zul'Mashar") |
+| Minor settlements | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Light%27s_Hope_Chapel "Light's Hope Chapel")  
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Caer Darrow](https://wowpedia.fandom.com/wiki/Caer_Darrow "Caer Darrow")  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Corin's Crossing](https://wowpedia.fandom.com/wiki/Corin%27s_Crossing "Corin's Crossing")  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Terrordale](https://wowpedia.fandom.com/wiki/Terrordale "Terrordale")  
+[![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob") [Northdale](https://wowpedia.fandom.com/wiki/Northdale "Northdale") |
+| Affiliation | [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"), [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") |
+| Location | Northern [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") |
+
+The **Plaguelands**, also referred to as the **Plagues**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-1">[1]</a></sup> and originally called the **Eastweald**,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-2">[2]</a></sup> and sometimes including all of the [Northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands") (that is globally composed by the northern regions of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron")), are the regions that were most corrupted by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War").
+
+## History
+
+Before being called the **Plaguelands**, the northeastern reaches of the Kingdom of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") were known as the **Eastweald**. The region sometimes includes the **Tirisfal Glades**. The Eastweald was a stretch of fertile foothills located east of the [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades"). During the [Troll Wars](https://wowpedia.fandom.com/wiki/Troll_Wars "Troll Wars"), military leaders from [Arathor](https://wowpedia.fandom.com/wiki/Arathor "Arathor") constructed "crude" forts throughout the Eastweald prior to the kingdom's direct confrontation with the [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire") around 2,800 [BDP](https://wowpedia.fandom.com/wiki/BDP "BDP"). After the war, those forts would become populated trading centers from which many modern cities would spring.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-3">[3]</a></sup> The settlements built on the Eastweald like [Light's Hope Chapel](https://wowpedia.fandom.com/wiki/Light%27s_Hope_Chapel "Light's Hope Chapel"), [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") or [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand") were the most important holy sites of the [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light") in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-4">[4]</a></sup>
+
+Just before the Third War, [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") directed the [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned") to unleash the [Plague of Undeath](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") on the northern nation of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)") by tainting the grain from [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") (the primary distributor of grain in the northern provinces) and shipping it to outlying villages and towns. The virulent plague killed thousands throughout the provinces and raised them as mindless undead in the service of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and caused the land to become tainted, the plant and animal life becoming diseased. A small resistance, led by Prince [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), were able to destroy the infected granaries and temporarily halt the spread of the plague. Not long after the time of Arthas' eventual fall, beginning with [the Culling](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme") of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") and coming to its climax with the murder of [King Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II"), the majority of the population had been converted into the undead, had fled or were regrouping trying to fight the living dead in any way they could.
+
+The name Eastweald was still used during the days of the fall of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)")<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-5">[5]</a></sup> but as time passed the name was replaced by the Plaguelands.
+
+The [Eversong Forest](https://wowpedia.fandom.com/wiki/Eversong_Forest "Eversong Forest") of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), having already suffered from the effects of dragons' fire during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War") over a decade earlier, also became tainted by the plague after the fall of Lordaeron, during the Scourge's march to the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"). Seeking to give the Scourge as pyrrhic a victory as possible, the elves put their forests to the torch. Today the region is known as the [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands"), and is home to the major Scourge holding in Quel'Thalas, the fortress of [Deatholme](https://wowpedia.fandom.com/wiki/Deatholme "Deatholme").
+
+Following the Scourge's defection from the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") after the Third War and the later splintering of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), the Plaguelands became divided between the minions of the Lich King and the new followers of [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"). To this day, the Scourge continues to corrupt the Plaguelands, spreading the Plague of Undeath from strategically-placed [cauldrons](https://wowpedia.fandom.com/wiki/Plague_cauldron "Plague cauldron") that taint not only the land, but the air and the wildlife as well. Although the Scourge presence is decreasing thanks to the efforts of different factions based on these regions.
+
+There are many others besides the Forsaken and the forces of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") who battle the Scourge in the Plaguelands. The [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), an organization of maddened zealots who attack anyone who opposes them as fervently as they destroy the undead, took control of some of the few surviving towns in the region, such as [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen") and [Tyr's Hand](https://wowpedia.fandom.com/wiki/Tyr%27s_Hand "Tyr's Hand") but lose them in the following years with the [Scarlet Monastery](https://wowpedia.fandom.com/wiki/Scarlet_Monastery "Scarlet Monastery") being their last bastion. The [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn"), formed by former members of the Scarlet Crusade who opposed its corruption, fought the Scourge for some time striking against key leaders and locations throughout the Plaguelands until they joined with the remaining [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") around the area and formed the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade").
+
+## Geography
+
+The proper Plaguelands are the [Western](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands") and [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands"), including the [Scarlet Enclave](https://wowpedia.fandom.com/wiki/Plaguelands:_The_Scarlet_Enclave "Plaguelands: The Scarlet Enclave").
+
+### Maps and subregions
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d4/WorldMap-WesternPlaguelands.jpg/revision/latest/scale-to-width-down/180?cb=20140216145634)](https://static.wikia.nocookie.net/wowpedia/images/d/d4/WorldMap-WesternPlaguelands.jpg/revision/latest?cb=20140216145634)
+
+Map of the Western Plaguelands.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/62/WorldMap-EasternPlaguelands.jpg/revision/latest/scale-to-width-down/180?cb=20140205150116)](https://static.wikia.nocookie.net/wowpedia/images/6/62/WorldMap-EasternPlaguelands.jpg/revision/latest?cb=20140205150116)
+
+Map of the Eastern Plaguelands.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/24/WorldMap-ScarletEnclave.jpg/revision/latest/scale-to-width-down/180?cb=20180909034849)](https://static.wikia.nocookie.net/wowpedia/images/2/24/WorldMap-ScarletEnclave.jpg/revision/latest?cb=20180909034849)
+
+Map of the Plaguelands: The Scarlet Enclave.
+
+### Other regions of the Plaguelands
+
+-   [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+-   [Northern Lordaeron](https://wowpedia.fandom.com/wiki/Northern_Lordaeron "Northern Lordaeron"), a [closed zone](https://wowpedia.fandom.com/wiki/Closed_zone "Closed zone") (presumed)
+
+### Plagued regions outside the Plaguelands
+
+-   [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+-   [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest") - It could be considered part of them, but not always because there are many places without Scourge soldiers, but their influence is evident. Also, _World of Warcraft Master Guide: Edition 2_ says that the Scourge have a "loose and rotting hand" over Silverpine.
+    -   In some [RPG books](https://wowpedia.fandom.com/wiki/RPG "RPG") Silverpine Forest is considered part of the Plaguelands.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-6">[6]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+_Main article: [Western Plaguelands#In the RPG](https://wowpedia.fandom.com/wiki/Western_Plaguelands#In_the_RPG "Western Plaguelands")_
+
+_Main article: [Eastern Plaguelands#In the RPG](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands#In_the_RPG "Eastern Plaguelands")_
+
+## Notes and trivia
+
+-   [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar") referred to [ruins of Capital City](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron") or [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades") as Plaguelands.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-7">[7]</a></sup>
+-   [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") and [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas") were referred to as the toxic Plaguelands.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-8">[8]</a></sup>
+-   According to [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") after the Third War, the Scourge intended to make a vast Plagueland.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Plaguelands#cite_note-9">[9]</a></sup>
+-   In _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_ and early concept maps for _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_, the Plaguelands were a single area instead of having a western and eastern distinction.
+-   ["Weald"](https://en.wiktionary.org/wiki/weald), as in the Plaguelands' original name of Eastweald, is an Old English word meaning forest.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4a/The_Dark_Lady_-_Plaguelands_1.jpg/revision/latest/scale-to-width-down/120?cb=20180923162904)](https://static.wikia.nocookie.net/wowpedia/images/4/4a/The_Dark_Lady_-_Plaguelands_1.jpg/revision/latest?cb=20180923162904)
+    
+    Plaguelands in _The Frozen Throne_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/The_Dark_Lady_-_Plaguelands_2.jpg/revision/latest/scale-to-width-down/120?cb=20180923162908)](https://static.wikia.nocookie.net/wowpedia/images/8/82/The_Dark_Lady_-_Plaguelands_2.jpg/revision/latest?cb=20180923162908)
+    
+    Plaguelands in _The Frozen Throne_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9a/The_Menders%27_Stead.jpg/revision/latest/scale-to-width-down/120?cb=20100824211917)](https://static.wikia.nocookie.net/wowpedia/images/9/9a/The_Menders%27_Stead.jpg/revision/latest?cb=20100824211917)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Eastern_Plaguelands_East_Side2.jpg/revision/latest/scale-to-width-down/120?cb=20111031215828)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Eastern_Plaguelands_East_Side2.jpg/revision/latest?cb=20111031215828)
+    
+    The Eastern Plaguelands.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Plaguewood.jpg/revision/latest/scale-to-width-down/120?cb=20061231142211)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Plaguewood.jpg/revision/latest?cb=20061231142211)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Plaguelands_Forest_concept_1.jpg/revision/latest/scale-to-width-down/120?cb=20210221012226)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Plaguelands_Forest_concept_1.jpg/revision/latest?cb=20210221012226)
+    
+    Plaguelands Forest concept, digital painting by [Bill Petras](https://wowpedia.fandom.com/wiki/Bill_Petras "Bill Petras").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Plaguelands_Forest_concept_2.jpg/revision/latest/scale-to-width-down/120?cb=20210221012253)](https://static.wikia.nocookie.net/wowpedia/images/d/d0/Plaguelands_Forest_concept_2.jpg/revision/latest?cb=20210221012253)
+    
+    Plaguelands Forest concept, digital painting by Bill Petras.
+    
+-   [![Plaguelands-1024x.jpg](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Plaguelands-1024x.jpg/revision/latest/scale-to-width-down/120?cb=20180519235648)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Plaguelands-1024x.jpg/revision/latest?cb=20180519235648)
+    
+
+Maps
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/73/WC3x-A01.jpg/revision/latest/scale-to-width-down/120?cb=20080928045650)](https://static.wikia.nocookie.net/wowpedia/images/7/73/WC3x-A01.jpg/revision/latest?cb=20080928045650)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/WoWCE_-_Lordaeron.jpg/revision/latest/scale-to-width-down/120?cb=20161016183720)](https://static.wikia.nocookie.net/wowpedia/images/5/59/WoWCE_-_Lordaeron.jpg/revision/latest?cb=20161016183720)
+    
+    The Plaguelands as a single area in an early _[WoW](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ map.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/01/ABE_-_Lordaeron_and_Khaz_Modan_map.jpg/revision/latest/scale-to-width-down/84?cb=20171021122353)](https://static.wikia.nocookie.net/wowpedia/images/0/01/ABE_-_Lordaeron_and_Khaz_Modan_map.jpg/revision/latest?cb=20171021122353)
+    
+    Similarly in another concept map.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/WorldMap-WesternPlaguelands-old.jpg/revision/latest/scale-to-width-down/120?cb=20191219212836)](https://static.wikia.nocookie.net/wowpedia/images/6/61/WorldMap-WesternPlaguelands-old.jpg/revision/latest?cb=20191219212836)
+    
+    Map of the Western Plaguelands in _Classic_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Eastern_Plaguelands_Map.jpg/revision/latest/scale-to-width-down/120?cb=20060901115342)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Eastern_Plaguelands_Map.jpg/revision/latest?cb=20060901115342)
+    
+    Map of the Eastern Plaguelands in _Classic_ (including the PvP towers).
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/WorldMap-EasternPlaguelands-old.jpg/revision/latest/scale-to-width-down/120?cb=20081018143636)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/WorldMap-EasternPlaguelands-old.jpg/revision/latest?cb=20081018143636)
+    
+    Map of the Eastern Plaguelands in _Wrath of the Lich King_.
+    
+
+## References
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms "Template:Eastern Kingdoms")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Eastern_Kingdoms?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms")
+
+
+
+ |
+| --- |
+|  |
+| [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(continent) "Azeroth (continent)") | 
+
+-   [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Blasted_Lands_(Classic) "Blasted Lands (Classic)")
+-   [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Burning_Steppes_(Classic) "Burning Steppes (Classic)")
+-   [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Deadwind_Pass_(Classic) "Deadwind Pass (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Duskwood_(Classic) "Duskwood (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Elwynn_Forest_(Classic) "Elwynn Forest (Classic)")
+    -   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Redridge_Mountains_(Classic) "Redridge Mountains (Classic)")
+-   [Stranglethorn Vale](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale "Stranglethorn Vale")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale_(Classic) "Stranglethorn Vale (Classic)")
+    -   [Cape of Stranglethorn](https://wowpedia.fandom.com/wiki/Cape_of_Stranglethorn "Cape of Stranglethorn")
+    -   [Northern Stranglethorn](https://wowpedia.fandom.com/wiki/Northern_Stranglethorn "Northern Stranglethorn")
+-   [Swamp of Sorrows](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows "Swamp of Sorrows")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Swamp_of_Sorrows_(Classic) "Swamp of Sorrows (Classic)")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Westfall](https://wowpedia.fandom.com/wiki/Westfall "Westfall")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Westfall_(Classic) "Westfall (Classic)")
+
+
+
+ | 
+
+[![Map of the Eastern Kingdoms](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest/scale-to-width-down/120?cb=20220313123633)](https://static.wikia.nocookie.net/wowpedia/images/2/21/WorldMap-EasternKingdoms.jpg/revision/latest?cb=20220313123633 "Map of the Eastern Kingdoms")
+
+ |
+|  |
+| [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan") | 
+
+-   [The Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Badlands_(Classic) "Badlands (Classic)")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Dun_Morogh_(Classic) "Dun Morogh (Classic)")
+    -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Loch_Modan_(Classic) "Loch Modan (Classic)")
+-   [Searing Gorge](https://wowpedia.fandom.com/wiki/Searing_Gorge "Searing Gorge")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Searing_Gorge_(Classic) "Searing Gorge (Classic)")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [The Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Wetlands_(Classic) "Wetlands (Classic)")
+
+
+
+ |
+|  |
+| [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") | 
+
+-   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains_(Classic) "Alterac Mountains (Classic)")
+-   [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Arathi_Highlands_(Classic) "Arathi Highlands (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills_(Classic) "Hillsbrad Foothills (Classic)")
+    -   [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains")
+-   [The Hinterlands](https://wowpedia.fandom.com/wiki/Hinterlands "Hinterlands")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Hinterlands_(Classic) "Hinterlands (Classic)")
+-   **The Plaguelands**
+    -   [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands")
+    -   [Classic Eastern](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands_(Classic) "Eastern Plaguelands (Classic)")
+    -   [Western Plaguelands](https://wowpedia.fandom.com/wiki/Western_Plaguelands "Western Plaguelands")
+    -   [Classic Western](https://wowpedia.fandom.com/wiki/Western_Plaguelands_(Classic) "Western Plaguelands (Classic)")
+-   [Ruins of Gilneas](https://wowpedia.fandom.com/wiki/Ruins_of_Gilneas "Ruins of Gilneas")
+    -   [starting zone](https://wowpedia.fandom.com/wiki/Gilneas_(starting_zone) "Gilneas (starting zone)")
+    -   [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+        -   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+    -   [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Silverpine_Forest_(Classic) "Silverpine Forest (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Tirisfal_Glades_(Classic) "Tirisfal Glades (Classic)")
+    -   [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")
+-   [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad")
+    -   [Tol Barad Peninsula](https://wowpedia.fandom.com/wiki/Tol_Barad_Peninsula "Tol Barad Peninsula")
+
+
+
+ |
+|  |
+| [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") | 
+
+-   [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths")
+-   [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest")
+-   [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse")
+
+
+
+ |
+|  |
+| 
+
+[Eastern Kingdoms category](https://wowpedia.fandom.com/wiki/Category:Eastern_Kingdoms "Category:Eastern Kingdoms")
+
+
+
+ |
+
+Others like you also viewed

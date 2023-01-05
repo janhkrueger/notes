@@ -1,0 +1,827 @@
+| Naga |
+| --- |
+| [![Naga Warbringers.jpg](https://static.wikia.nocookie.net/wowpedia/images/9/93/Naga_Warbringers.jpg/revision/latest/scale-to-width-down/320?cb=20210220005416)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Naga_Warbringers.jpg/revision/latest?cb=20210220005416) |
+| Faction/Affiliation | [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire"), [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") ([Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")), [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
+| Character classes | 
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Assassin](https://wowpedia.fandom.com/wiki/Assassin "Assassin"), [Brute](https://wowpedia.fandom.com/wiki/Naga_brute "Naga brute"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Myrmidon](https://wowpedia.fandom.com/wiki/Myrmidon "Myrmidon"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Royal Guard](https://wowpedia.fandom.com/wiki/Naga_Royal_Guard "Naga Royal Guard"), [Scout](https://wowpedia.fandom.com/wiki/Scout "Scout"), [Sea witch](https://wowpedia.fandom.com/wiki/Sea_witch "Sea witch"), [Siren](https://wowpedia.fandom.com/wiki/Naga_siren "Naga siren"), [Sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")  
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") [Archer](https://wowpedia.fandom.com/wiki/Archer "Archer"), [Pirate](https://wowpedia.fandom.com/wiki/Pirate "Pirate")  
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [Naga anomaly](https://wowpedia.fandom.com/wiki/Naga_anomaly "Naga anomaly"), [Wizard](https://wowpedia.fandom.com/wiki/Wizard "Wizard"), [Shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") |
+| Racial capital | [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")  
+_[Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")_ |
+|   Formerly | [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir") |
+| Racial leader(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c3/IconSmall_AzsharaQ.gif/revision/latest/scale-to-width-down/16?cb=20211209080519)[Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") ([Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire"))  
+ ![](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118121117)[Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno") ([Illidari](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga")) |
+|   Formerly |  ![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Vashj.gif/revision/latest/scale-to-width-down/16?cb=20200413162055)[Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") <sup>&nbsp;†</sup> ([Illidari](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga")) |
+| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Language(s) | [Nazja](https://wowpedia.fandom.com/wiki/Nazja "Nazja"), [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)") |
+| Organization(s) | Tribes<sup id="cite_ref-NotD3_1-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-NotD3-1">[1]</a></sup> |
+
+The serpentine **naga** (sometimes pluralized as **nagas**)<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-3">[3]</a></sup> are some of the most formidable villains of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Masters of sorcery, the naga were formerly [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), members of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")'s court in the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). They were transformed into naga by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"), more specifically [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), and now haunt the [seas](https://wowpedia.fandom.com/wiki/Sea "Sea") of Azeroth building [a great civilization](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") on the ocean floor.<sup id="cite_ref-UVG_4-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-UVG-4">[4]</a></sup>
+
+They have since stayed out of major world affairs for over 10,000 years, but more recently, they have been rising up to the surface for nefarious purposes, in service of their queen. They notably answered the call of [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") after the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal") and sent an expedition led by [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") to ally with the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari").
+
+## History
+
+### Birth of the naga
+
+Over 10,000 years ago, [Ancient Kalimdor](https://wowpedia.fandom.com/wiki/Ancient_Kalimdor "Ancient Kalimdor") was the domain of the large [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") led by [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"). She ruled from the capital city of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") with her loyal followers known as the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") who were the highest-ranking caste of [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") nobility. These privileged nobles became obsessed with the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") and abused its [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") [magics](https://wowpedia.fandom.com/wiki/Magic "Magic") until their activities caught the attention of [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"), the dark [titan](https://wowpedia.fandom.com/wiki/Titan "Titan"). He promised the Highborne that he would remake the planet [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") into a paradise, and that they would be rewarded with great power for serving him. At Sargeras' command, the Highborne created a portal in the Well in the hope that Sargeras would be able to enter Azeroth himself. The Highborne's efforts brought about the first invasion of the Burning Legion, but the ensuing [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") seemed to do the opposite of what Sargeras had promised. Demons poured from the [queen's jeweled palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace") and laid waste to most of the city. Death and devastation followed the demonic army as it spread outward. The other night elves, together with many unlikely allies rallied in the [Kaldorei Resistance](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance"), put up a surprising defense, and managed to close the portal. This added magical stress was too great for the Well of Eternity, which imploded with disastrous consequences. As if struck by a giant hammer, the Well was driven downwards by the impact and collapsed in on itself until it was finally obliterated, [piercing](https://wowpedia.fandom.com/wiki/Rift_(Maelstrom) "Rift (Maelstrom)") the planet's molten core,<sup id="cite_ref-Encyclopedia_5-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Encyclopedia-5">[5]</a></sup> and creating the raging [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Azshara_and_N%27Zoth.jpg/revision/latest/scale-to-width-down/180?cb=20180826180152)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Azshara_and_N%27Zoth.jpg/revision/latest?cb=20180826180152)
+
+[Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") with [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") moments after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") as shown in _[Warbringers](https://wowpedia.fandom.com/wiki/Warbringers "Warbringers")_.
+
+During the destruction wrought by the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), Queen Azshara and her Highborne loyalists were gathered at her palace in Zin-Azshari. As the waters swallowed them into fathomless depths of the Maelstrom,<sup id="cite_ref-CV1105_6-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-CV1105-6">[6]</a></sup> Azshara's quick thinking saved them: she managed to make a pact with the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), swearing allegiance to it in order to survive.<sup id="cite_ref-WA_7-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-WA-7">[7]</a></sup> As soon as she agreed, Azshara became the first naga - a cursed and irrevocably warped scaly, serptentine, water-breathing creature.<sup id="cite_ref-CV1105_6-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-CV1105-6">[6]</a></sup> Her loyal servants transformed with her.<sup id="cite_ref-UVG_4-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-UVG-4">[4]</a></sup> The naga hearts became as black as the deepest ocean trenches, and hate enveloped their thoughts.<sup id="cite_ref-CV386_8-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-CV386-8">[8]</a></sup>
+
+One of the most powerful among these twisted abominations was the queen's former handmaiden, [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"). Hidden from the world, Azshara, Vashj and her servants would quietly build the naga capital of [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") and their new empire in the cold darkness at the bottom of the sea,<sup id="cite_ref-CV1105_6-2"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-CV1105-6">[6]</a></sup> beneath the swirling waters of the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"). Azshara herself expanded with hate and rage, becoming a massive monstrosity, reflecting the wickedness and malice that had always hidden within her core. With patience and cunning, they expanded their dominion over the oceans.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-9">[9]</a></sup> They would rebuild their power and it would take over ten thousand years before the naga would reveal their existence to the surface world.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-10">[10]</a></sup>
+
+Transformed into the monstrous naga, the former night elves found they were able to survive the ocean's depths. Even so, the naga knew they had little chance of reclaiming the lands that the Highborne had once dominated. Bitterly resentful at their enforced banishment to the sea, they resolved to bide their time until they could retake their rightful place in the surface world.<sup id="cite_ref-Encyclopedia_5-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Encyclopedia-5">[5]</a></sup><sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-11">[11]</a></sup>
+
+After the end of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), a group of dead naga was found by [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") in the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-12">[12]</a></sup>
+
+### Third War
+
+The naga resurfaced in the time around the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). One of the ﬁrst sightings of naga took place when [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") rescued the [Darkspear trolls](https://wowpedia.fandom.com/wiki/Darkspear_troll "Darkspear troll") from a tribe of [murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc") on a stormswept [isle](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands") in the [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea"). The murlocs worshiped a creature they called [sea witch](https://wowpedia.fandom.com/wiki/Sea_witch "Sea witch") - [Zar'jira](https://wowpedia.fandom.com/wiki/Zar%27jira "Zar'jira").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Lady_Vashj.jpg/revision/latest/scale-to-width-down/180?cb=20200322184946)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Lady_Vashj.jpg/revision/latest?cb=20200322184946)
+
+[Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj")
+
+Some time after the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"), the demon lord [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") contacted [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), who was on Azeroth. Although Illidan had worked against the Legion's interests in the past, Kil'jaeden was willing to give Illidan another chance. If Illidan destroyed the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), Kil'jaeden promised to grant anything Illidan might desire. Accordingly, Illidan sought out new allies. He cast a powerful spell that reached the depths of the ocean, and a group of naga led by [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") responded, calling in some old [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") debts.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-13">[13]</a></sup> One and all, they pledged themselves to Illidan. The naga did not come because of the history they shared with the former night elf, nor did they respect his demonic power. They came because the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") willed it and they sent them to make sure his campaign against the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") succeeded so that it could spark a new war on Azeroth. If the former night elf became troublesome, they could simply command the naga to cut out his fel-corrupted heart.<sup id="cite_ref-CV386_8-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-CV386-8">[8]</a></sup> Their first act of loyalty was to facilitate Illidan's escape from [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara") in [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), and bring him to the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") and the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras").
+
+Lady Vashj bolstered her ranks with [snap dragons](https://wowpedia.fandom.com/wiki/Snap_dragon "Snap dragon") and [dragon turtles](https://wowpedia.fandom.com/wiki/Dragon_turtle "Dragon turtle"), and assisted Illidan with his mission on the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"). They later took control of the ruins of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") in [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), so that Illidan could perform his ritual with to destroy the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") with [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"), and were in consequence pursued by the [Watchers](https://wowpedia.fandom.com/wiki/Watchers "Watchers") led by [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-14">[14]</a></sup> At some point, they managed to capture surviving [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of the [Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") whom they locked up in the prisons of the ruined city, among them was [Magroth the Defender](https://wowpedia.fandom.com/wiki/Magroth_the_Defender "Magroth the Defender").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-15">[15]</a></sup>
+
+[Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider"), prince of the newly-dubbed [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), encountered [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"), who offered her help to battle the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Kael'thas agreed, but when the blood elves' human commander, [Othmar Garithos](https://wowpedia.fandom.com/wiki/Othmar_Garithos "Othmar Garithos"), discovered this alliance, he denounced the blood elves. He believed naga were vile and inhuman, and the blood elves must also be treacherous for consorting with them. Garithos imprisoned Kael'thas and the rest of the blood elves and sentenced them to death. Before he could carry out this sentence, Lady Vashj helped them to escape. The two forces fought together and eventually joined [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan") in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-16">[16]</a></sup><sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-17">[17]</a></sup><sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-18">[18]</a></sup>
+
+Another group of naga led by [Lady Darkscale](https://wowpedia.fandom.com/wiki/Lady_Darkscale "Lady Darkscale") attacked [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") forces in [Dustwallow Marsh](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh "Dustwallow Marsh") and while many were killed the Darkscale took prisoners for an unknown reason. Soon afterward, Lady Darkscale, [Scilla Murkshadow](https://wowpedia.fandom.com/wiki/Scilla_Murkshadow "Scilla Murkshadow"), and the rest of their naga forces were slain by the combined might of [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar"), [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan"), and [Chen Stormstout](https://wowpedia.fandom.com/wiki/Chen_Stormstout "Chen Stormstout"), who were trying to find any survivor of the attack in order to determine what human force was attacking [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar").<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-19">[19]</a></sup>
+
+### World of Warcraft
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+More recently naga have begun to reappear around the coasts of the world, creating settlements on land, most noticeably in the ruins of their old cities in the region of [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara"). It seems as though they are now followers of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"), as they have made alliances with the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") cult and the corrupted [satyrs](https://wowpedia.fandom.com/wiki/Satyr "Satyr"). They have claimed several stretches of coast on both continents, for example in [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore"), [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"), [Desolace](https://wowpedia.fandom.com/wiki/Desolace "Desolace"), [Feralas](https://wowpedia.fandom.com/wiki/Feralas "Feralas"), [Dustwallow Marsh](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh "Dustwallow Marsh"), [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara"), [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"), [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands") and [Stranglethorn Vale](https://wowpedia.fandom.com/wiki/Stranglethorn_Vale "Stranglethorn Vale"). They have significant numbers and pose a serious threat to anyone standing in their way.
+
+### The Burning Crusade
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d9/CoilfangReservoir.jpg/revision/latest/scale-to-width-down/180?cb=20180724213109)](https://static.wikia.nocookie.net/wowpedia/images/d/d9/CoilfangReservoir.jpg/revision/latest?cb=20180724213109)
+
+[Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir") a naga-dominated compound that lurks under [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh")'s deepest waters.
+
+The [Outland tribes](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") of naga have begun draining the water of the [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh") lakes and marshes with steam pumps. The pumps are all connected through underground drains to [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir"), where Vashj and her underlings reside, turning [Serpent Lake](https://wowpedia.fandom.com/wiki/Serpent_Lake "Serpent Lake") into a giant water sink for the rest of Zangarmarsh. Due to the [Cenarion Expedition](https://wowpedia.fandom.com/wiki/Cenarion_Expedition "Cenarion Expedition")'s meddling, the naga operating the steam vaults end up at war with the druids, at the orders of Lady Vashj.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-20">[20]</a></sup> The plan was to take control of all the waters of Outland, and through them, its people.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-21">[21]</a></sup><sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-22">[22]</a></sup> The sea witch was later killed and her forces defeated by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") on behalf of the Cenarion Expedition.
+
+Naga attack at the coasts of the [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles").
+
+### Pearl of Pandaria
+
+[![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
+
+A [sea witch](https://wowpedia.fandom.com/wiki/Sea_witch "Sea witch") who looks like (though is not stated to be) [Lady Naz'jar](https://wowpedia.fandom.com/wiki/Lady_Naz%27jar "Lady Naz'jar"), ordered [Zhahara Darksquall](https://wowpedia.fandom.com/wiki/Zhahara_Darksquall "Zhahara Darksquall") to find the continent of [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"), believing it holds the future of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). However, Zhahara herself was obsessed with finding the [Wandering Isle](https://wowpedia.fandom.com/wiki/Wandering_Isle "Wandering Isle") and the [Pearl of Pandaria](https://wowpedia.fandom.com/wiki/Pearl_of_Pandaria "Pearl of Pandaria"). To aid her, Zhahara enlisted the help of [Rahjak](https://wowpedia.fandom.com/wiki/Rahjak "Rahjak"), [Blokk](https://wowpedia.fandom.com/wiki/Blokk "Blokk"), and [Rumblefitz](https://wowpedia.fandom.com/wiki/Rumblefitz "Rumblefitz"). Zhahara's machination to obtain the Pearl of Pandaria led her into conflict with [Strongbo](https://wowpedia.fandom.com/wiki/Strongbo "Strongbo"), [Li Li Stormstout](https://wowpedia.fandom.com/wiki/Li_Li_Stormstout "Li Li Stormstout"), and [Chen Stormstout](https://wowpedia.fandom.com/wiki/Chen_Stormstout "Chen Stormstout") which ended in Zhahara's demise.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-23">[23]</a></sup>
+
+### Wrath of the Lich King
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest?cb=20101107135721"><img alt="" decoding="async" loading="lazy" width="17" height="20" data-image-name="Stub.png" data-image-key="Stub.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721" src="https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/17?cb=20101107135721"></a></td><td>This section is <b>a <a href="https://wowpedia.fandom.com/wiki/Lore" title="Lore">lore</a> stub</b>.</td></tr></tbody></table>
+
+In the [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra"), tribes of naga have made a fort in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") in [Riplash Ruins](https://wowpedia.fandom.com/wiki/Riplash_Ruins "Riplash Ruins"). From here, the naga are making ominous attempts at melting the polar ice caps in order to flood the world and create an entirely underwater empire for their revered empress, [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara").<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-24">[24]</a></sup> The naga plans in Northrend did not come to fruition, as the [kvaldir](https://wowpedia.fandom.com/wiki/Kvaldir "Kvaldir") have slaughtered most of them, feeding them to a mighty sea creature.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-25">[25]</a></sup>
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Vashj%27ir.jpg/revision/latest/scale-to-width-down/180?cb=20100415204041)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Vashj%27ir.jpg/revision/latest?cb=20100415204041)
+
+Naga banners in [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir").
+
+While the naga of [Serpentshrine Cavern](https://wowpedia.fandom.com/wiki/Serpentshrine_Cavern "Serpentshrine Cavern") in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") were loyal to [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan") through [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj"), the naga in Cataclysm ultimately report directly to [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") herself. Queen Azshara appears in [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") as a sea witch (marking her first appearance in-game). Azshara's master [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") commanded her to take the seas, both for revenge against [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") for defying him and so that they could splinter the world's nations into isolated enclaves by halting sea travel.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-26">[26]</a></sup> While exploring the [Naz'jar Battlemaiden](https://wowpedia.fandom.com/wiki/Naz%27jar_Battlemaiden "Naz'jar Battlemaiden") quests in [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir"), the nature of [Lady Vashj's mother](https://wowpedia.fandom.com/wiki/Lestharia_Vashj "Lestharia Vashj") and her former stronghold were discovered, and above all the naga executed their plan to usurp [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")'s control of the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw"). Neptulon was abducted by [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat") following the events of the naga invasion, and this abduction leaves the Abyssal Maw leaderless and Azshara very well placed as one of the most potent forces in Azeroth's oceans and perhaps beyond.
+
+Although Azshara uses a recycled model, the naga in _Cataclysm_ did get some new models and skin colors.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Naga_Banner.jpg/revision/latest/scale-to-width-down/150?cb=20170905191749)](https://static.wikia.nocookie.net/wowpedia/images/b/b8/Naga_Banner.jpg/revision/latest?cb=20170905191749)
+
+Banner of the naga groups in the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles").
+
+The remnants of [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") are led by [Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno") aboard the _[Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")_.
+
+Queen Azshara has sent a force led by [Tidemistress Athissa](https://wowpedia.fandom.com/wiki/Tidemistress_Athissa "Tidemistress Athissa") to [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") to retrieve the  ![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Inv_misc_enchantedpearl.png/revision/latest/scale-to-width-down/16?cb=20100930220042)[\[Tidestone of Golganneth\]](https://wowpedia.fandom.com/wiki/Tidestone_of_Golganneth). Azshara herself appears before [Prince Farondis](https://wowpedia.fandom.com/wiki/Prince_Farondis "Prince Farondis") when Farondis tries to save an [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") captured by the naga and tries to convince him to kneel before her, but Farondis fights Azshara off. The naga at the [Eye of Azshara](https://wowpedia.fandom.com/wiki/Eye_of_Azshara "Eye of Azshara") summon a creature known as the [Wrath of Azshara](https://wowpedia.fandom.com/wiki/Wrath_of_Azshara "Wrath of Azshara") after retrieving the Tidestone of Golganneth.
+
+Naga at [Azuregale Bay](https://wowpedia.fandom.com/wiki/Azuregale_Bay "Azuregale Bay") in [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") are enslaving [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") with [merciless ones](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one").
+
+#### Legionfall
+
+The naga and sea giants at [Felrage Strand](https://wowpedia.fandom.com/wiki/Felrage_Strand "Felrage Strand") on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") are corrupted by [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") and share their encampment with members of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") while enslaving soldiers from the [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-27">[27]</a></sup> Their leader [Lady Ssathara](https://wowpedia.fandom.com/wiki/Lady_Ssathara "Lady Ssathara") made a pact with the demons and her followers went willingly, but unaware of the price they must pay.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-28">[28]</a></sup> Despite the apparent oddity of naga serving the demons when Azshara and N'Zoth are opposed to the Legion, there are different groups of naga with different motivations, just like humans.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-29">[29]</a></sup> Ssathara says that the demons provide greater power than Azshara can.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-30">[30]</a></sup>
+
+More naga are present in the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras_(instance) "Tomb of Sargeras (instance)"), led by [Harjatan](https://wowpedia.fandom.com/wiki/Harjatan "Harjatan") and [Mistress Sassz'ine](https://wowpedia.fandom.com/wiki/Mistress_Sassz%27ine "Mistress Sassz'ine"). They entered the tomb to secure the Tidestone of Golganneth from the adventurers, on Azshara's orders.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-31">[31]</a></sup>
+
+### Battle for Azeroth
+
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+The naga are attacking the coastlines of [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") and [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras"). In [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley") they summon the [Pride of Azshara](https://wowpedia.fandom.com/wiki/Pride_of_Azshara "Pride of Azshara") to destroy a levee. In [Nazmir](https://wowpedia.fandom.com/wiki/Nazmir "Nazmir") they are draining [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa "Krag'wa")'s frog children to sate their magic addiction,<sup id="cite_ref-Zaldraxia_32-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Zaldraxia-32">[32]</a></sup> attacking Horde forces at [Naz'agal](https://wowpedia.fandom.com/wiki/Naz%27agal "Naz'agal"), and gathering [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") relics on the [Sundered Span](https://wowpedia.fandom.com/wiki/Sundered_Span "Sundered Span"). In [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar") they seek an ancient power at [Atal'Gral](https://wowpedia.fandom.com/wiki/Atal%27Gral "Atal'Gral") and [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") at the [Dreadpearl Shallows](https://wowpedia.fandom.com/wiki/Dreadpearl_Shallows "Dreadpearl Shallows"). In [Vol'dun](https://wowpedia.fandom.com/wiki/Vol%27dun "Vol'dun") they are battling the [tortollans](https://wowpedia.fandom.com/wiki/Tortollan "Tortollan") in the north.
+
+Following the [Battle of Dazar'alor](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor "Battle of Dazar'alor"), the naga attack both the Alliance and Horde on shores across the Great Sea. After which both the Alliance and Horde investigate the [Crucible of Storms](https://wowpedia.fandom.com/wiki/Crucible_of_Storms "Crucible of Storms"). The naga also have [Priscilla Ashvane](https://wowpedia.fandom.com/wiki/Priscilla_Ashvane "Priscilla Ashvane") on their side, teaching them how to craft powerful [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") weapons.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-33">[33]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/85/Nazjatar_BlizzCon_2018_2.jpg/revision/latest/scale-to-width-down/180?cb=20181103002712)](https://static.wikia.nocookie.net/wowpedia/images/8/85/Nazjatar_BlizzCon_2018_2.jpg/revision/latest?cb=20181103002712)
+
+[Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") in a magical opening in the sea.
+
+They drag prisoners to [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") and the Alliance and Horde follow, when the sea parts by the use of the Tidestone of Golganneth, the local enemies of the naga ally with the Alliance and Horde. Queen Azshara serves as the final boss of the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") raid in Nazjatar.
+
+## Culture
+
+Naga are divided into castes, such as the warrior caste.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-34">[34]</a></sup><sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-35">[35]</a></sup>
+
+Naga refer to land-dwelling races with various derogatory terms, including "landwalker",<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-36">[36]</a></sup><sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-37">[37]</a></sup><sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-38">[38]</a></sup> "landling",<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-39">[39]</a></sup> "warmblood",<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-40">[40]</a></sup> and "softskin".<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-41">[41]</a></sup><sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-42">[42]</a></sup>
+
+### Customs
+
+[Turtles](https://wowpedia.fandom.com/wiki/Turtle "Turtle") are feared by the naga, who consider them bad luck and give them a wide berth on the shores of [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara").<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-43">[43]</a></sup>
+
+### Faith
+
+The naga revere [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") as a [demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod").<sup id="cite_ref-Encyclopedia_5-2"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Encyclopedia-5">[5]</a></sup> [Skar'this the Heretic](https://wowpedia.fandom.com/wiki/Skar%27this_the_Heretic "Skar'this the Heretic") instead worships the naga's enemy, [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon"), something which he was imprisoned for. The [Bloodwash naga](https://wowpedia.fandom.com/wiki/Bloodwash_naga "Bloodwash naga") formerly worshipped Neptulon and lived in relative peace with the nearby [Rockpool](https://wowpedia.fandom.com/wiki/Rockpool_tribe "Rockpool tribe") [murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc"), but recently the Bloodwash turned their back on him, choosing only to worship Azshara. They have littered their settlements with likenesses of Azshara carved out of seastone.<sup id="cite_ref-44"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-44">[44]</a></sup> They have also erected altars where they worship their god.<sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-45">[45]</a></sup>
+
+## Characteristics and abilities
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Naga_BC_cinematic.jpg/revision/latest/scale-to-width-down/180?cb=20180816201054)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Naga_BC_cinematic.jpg/revision/latest?cb=20180816201054)
+
+Naga in the [_Burning Crusade_ cinematic.](https://wowpedia.fandom.com/wiki/Burning_Crusade_cinematic "Burning Crusade cinematic")
+
+In general, naga are scaled humanoids with the lower bodies of large serpents. Naga can breathe water or air, and some naga have recently emerged from the ocean's depths. Yet most naga have continued to dwell in the ocean's depths, beneath the site of the original [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity").<sup id="cite_ref-Encyclopedia_5-3"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Encyclopedia-5">[5]</a></sup>
+
+As former [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), the naga's past abuse of the Well has not been without additional consequences. The Highborne were obsessed with the Well, and the naga have been exposed to the Well's residual magics for millennia. Consequently modern naga are [addicted](https://wowpedia.fandom.com/wiki/Magical_addiction "Magical addiction") to magic.<sup id="cite_ref-Encyclopedia_5-4"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Encyclopedia-5">[5]</a></sup><sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-46">[46]</a></sup><sup id="cite_ref-Zaldraxia_32-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Zaldraxia-32">[32]</a></sup>
+
+Naga tend to be long-lived, much like the night elves, blood elves, and high elves. Some naga have even gained [immortality](https://wowpedia.fandom.com/wiki/Immortality "Immortality") as part of their mutations. However, most immortal naga are women rather than men. Naga women are tall and slender, with fine scales and angular features, and often have at least four arms, though not all do.<sup id="cite_ref-WA_7-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-WA-7">[7]</a></sup> For some reason naga women have proven better than naga men at maintaining pre-[Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") memories and personalities. As a result, naga women are intellectually and magically superior to their male counterparts, and naga society is matriarchal.<sup id="cite_ref-Encyclopedia_5-5"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Encyclopedia-5">[5]</a></sup> While males are more suited for melee combat, female naga are incredible sorcerers, commanding the power of water and ice at their fingertips.<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-47">[47]</a></sup>
+
+Bigger and physically stronger than naga women, naga men are relatively bestial in appearance. A male naga's head resembles that of a [dragon](https://wowpedia.fandom.com/wiki/Dragon "Dragon"), and he has a muscular humanoid torso. The scales that cover his body are larger and thicker than those that cover the body of a naga woman.<sup id="cite_ref-Encyclopedia_5-6"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Encyclopedia-5">[5]</a></sup>
+
+As naga, they no longer much resembled elves of any sort. The females have some vague similarities remaining, mostly in their slimmer, upper torsos and their faces, which retained the long, narrow design of night elves. Their arms ended in long, taloned fingers. The males had degenerated even more than the females, their heads low and reptilian, with teeth that jutted out from both the top and bottom of the long maw like a crocodile. Their eyes were deep set and narrow, and their crests and fins, which jutted as sharply as spears in places, were of a darker gold and brown shade. Their torsos were less in contrast to their serpentine lower bodies, being also scaled and segmented. Even their arms, massive compared to most creatures their size, were covered so.<sup id="cite_ref-NotD3_1-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-NotD3-1">[1]</a></sup>
+
+Naga wield scimitars and tridents.<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-48">[48]</a></sup>
+
+It is often whispered in dark corners of naga hide — a material so fine, so exquisite to the touch that [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin") of sophisticated taste will spend any amount of moolah to get their hands on some.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-49">[49]</a></sup> Their hides are described as being "rubbery" and somehow feeling artificial.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-50">[50]</a></sup> Naga can shed their skin.<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-51">[51]</a></sup>
+
+Naga biology includes an air bladder that helps with buoyancy while swimming.<sup id="cite_ref-52"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-52">[52]</a></sup> These bladders are used as part of an old tonic by [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") fishermen to move easily underwater.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-53">[53]</a></sup>
+
+[Naga lords](https://wowpedia.fandom.com/wiki/Naga_lord "Naga lord") like [High Warlord Naj'entus](https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus "High Warlord Naj'entus") have stony arms and shells fused to their skin. This may be resultant of their mutations, or they may be a different subspecies altogether.
+
+### Reproduction
+
+Naga hatch from eggs, which are somewhat translucent, with a single embryo visible within.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-54">[54]</a></sup> Naga hatchlings<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-55">[55]</a></sup><sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-56">[56]</a></sup> inherit the curse of the naga and appear as small naga.<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-57">[57]</a></sup><sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-58">[58]</a></sup> Naga hatchlings like pool toys. [Spawning grounds](https://wowpedia.fandom.com/wiki/Spawning_Grounds "Spawning Grounds") such as the [Vashj'elan Spawning Pool](https://wowpedia.fandom.com/wiki/Vashj%27elan_Spawning_Pool "Vashj'elan Spawning Pool") and the Hatchery in the [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace") are heavily protected.
+
+## Types
+
+-   [Naga brute](https://wowpedia.fandom.com/wiki/Naga_brute "Naga brute")
+-   [Naga centaur](https://wowpedia.fandom.com/wiki/Naga_centaur "Naga centaur")
+-   [Naga lord](https://wowpedia.fandom.com/wiki/Naga_lord "Naga lord")
+
+## Notable
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/27/Queen_Azshara_statue_Nazjatar.jpg/revision/latest/scale-to-width-down/180?cb=20190502133826)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Queen_Azshara_statue_Nazjatar.jpg/revision/latest?cb=20190502133826)
+
+A statue of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar").
+
+| Name | Role | Affiliation | Status | Location |
+| --- | --- | --- | --- | --- |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")   ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D) ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") | Queen of the naga, ruler of [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") | [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") | Alive | [Eternal Palace](https://wowpedia.fandom.com/wiki/Eternal_Palace "Eternal Palace"), [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")   ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D) ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") | Leader of [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"), [Coilfang](https://wowpedia.fandom.com/wiki/Coilfang_tribe "Coilfang tribe") Matron | [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") | Deceased\-Killable | [Serpentshrine Cavern](https://wowpedia.fandom.com/wiki/Serpentshrine_Cavern "Serpentshrine Cavern") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Naz'jar](https://wowpedia.fandom.com/wiki/Lady_Naz%27jar "Lady Naz'jar") | Leader of the naga assault on the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw") | [Naz'jar](https://wowpedia.fandom.com/wiki/Naz%27jar "Naz'jar") ([Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")) | Deceased\-Killable | [Various Locations](https://wowpedia.fandom.com/wiki/Lady_Naz%27jar#Locations "Lady Naz'jar") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Tidemistress Athissa](https://wowpedia.fandom.com/wiki/Tidemistress_Athissa "Tidemistress Athissa") | Leader of the naga assault on [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") | [Hatecoil](https://wowpedia.fandom.com/wiki/Hatecoil "Hatecoil") ([Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")) | Deceased\-Killable | [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[High Warlord Naj'entus](https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus "High Warlord Naj'entus") | Protector of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") | [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") ([Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")) | Deceased\-Killable | [Karabor Sewers](https://wowpedia.fandom.com/wiki/Karabor_Sewers "Karabor Sewers"), [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno") | [Coilskar](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe") captain | [Coilskar tribe](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe") ([Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")) | Alive | [Illidari Foothold](https://wowpedia.fandom.com/wiki/Illidari_Foothold "Illidari Foothold"), [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Sira'kess](https://wowpedia.fandom.com/wiki/Lady_Sira%27kess "Lady Sira'kess") | Mistress of the Tides | [Sira'kess](https://wowpedia.fandom.com/wiki/Sira%27kess "Sira'kess") ([Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")) | Killable | [Various Locations](https://wowpedia.fandom.com/wiki/Lady_Sira%27kess#Locations "Lady Sira'kess") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Nar'jira](https://wowpedia.fandom.com/wiki/Nar%27jira "Nar'jira") | [Naz'jar](https://wowpedia.fandom.com/wiki/Lady_Naz%27jar "Lady Naz'jar") battlemaiden, champion of [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") | [Naz'jar](https://wowpedia.fandom.com/wiki/Naz%27jar "Naz'jar") ([Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")) | Alive | [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ophelia](https://wowpedia.fandom.com/wiki/Ophelia "Ophelia") | Siren of the [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") | [Blackscale naga](https://wowpedia.fandom.com/wiki/Blackscale_naga "Blackscale naga") ([Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")) | Killable | [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Idra'kess](https://wowpedia.fandom.com/wiki/Overseer_Idra%27kess "Overseer Idra'kess") | Leader of the [Idra'kess](https://wowpedia.fandom.com/wiki/Idra%27kess "Idra'kess") | [Idra'kess](https://wowpedia.fandom.com/wiki/Idra%27kess "Idra'kess") ([Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")) | Killable | [Various Locations](https://wowpedia.fandom.com/wiki/Overseer_Idra%27kess#Locations "Overseer Idra'kess") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Raj Naz'jan](https://wowpedia.fandom.com/wiki/Raj_Naz%27jan "Raj Naz'jan") | Emperor of the [Riplash](https://wowpedia.fandom.com/wiki/Riplash "Riplash") | [Riplash](https://wowpedia.fandom.com/wiki/Riplash "Riplash") ([Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")) | Unknown | Unknown |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Skar'this the Heretic](https://wowpedia.fandom.com/wiki/Skar%27this_the_Heretic "Skar'this the Heretic") | Heretic follower of [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") | [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") | Alive | [Slave Pens](https://wowpedia.fandom.com/wiki/Slave_Pens "Slave Pens") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Valishj](https://wowpedia.fandom.com/wiki/Valishj "Valishj") | Priestess of [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") | [Slitherblade](https://wowpedia.fandom.com/wiki/Slitherblade "Slitherblade") ([Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")) | Killable | [Slitherblade Shore](https://wowpedia.fandom.com/wiki/Slitherblade_Shore "Slitherblade Shore"), [Desolace](https://wowpedia.fandom.com/wiki/Desolace "Desolace") |
+| [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Warlord Kalithresh](https://wowpedia.fandom.com/wiki/Warlord_Kalithresh "Warlord Kalithresh") | Overseer of the [Steamvault](https://wowpedia.fandom.com/wiki/Steamvault "Steamvault") | [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga") ([Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")) | Deceased\-Killable | [Steamvault](https://wowpedia.fandom.com/wiki/Steamvault "Steamvault") |
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")   ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D) ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Zar'jira](https://wowpedia.fandom.com/wiki/Zar%27jira "Zar'jira") | Goddess of the [Underworld Minions](https://wowpedia.fandom.com/wiki/Underworld_Minions "Underworld Minions"), leader of the [Spitescale](https://wowpedia.fandom.com/wiki/Spitescale "Spitescale") | [Underworld Minions](https://wowpedia.fandom.com/wiki/Underworld_Minions "Underworld Minions"), [Spitescale](https://wowpedia.fandom.com/wiki/Spitescale "Spitescale") | Deceased\-Killable | [Echo Isles](https://wowpedia.fandom.com/wiki/Echo_Isles "Echo Isles"), [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Zhahara Darksquall](https://wowpedia.fandom.com/wiki/Zhahara_Darksquall "Zhahara Darksquall") | Ordered by her superiors to find [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") | Deceased | Unknown |
+
+## Naga tribes
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Rajis_Fyashe.JPG/revision/latest/scale-to-width-down/180?cb=20071212111206)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Rajis_Fyashe.JPG/revision/latest?cb=20071212111206)
+
+[Rajis Fyashe](https://wowpedia.fandom.com/wiki/Rajis_Fyashe "Rajis Fyashe"), mistress of the [Bloodscale](https://wowpedia.fandom.com/wiki/Bloodscale "Bloodscale") naga
+
+| Name | Leader | Zone(s) |
+| --- | --- | --- |
+| [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh%27ir "Azsh'ir") | Unknown | [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest"), [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse") |
+| [Blackfathom](https://wowpedia.fandom.com/wiki/Blackfathom "Blackfathom") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Sarevess](https://wowpedia.fandom.com/wiki/Lady_Sarevess "Lady Sarevess") | [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps") |
+| [Blackscale](https://wowpedia.fandom.com/wiki/Blackscale_naga "Blackscale naga") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Fathom-Lord Heth'Jatar](https://wowpedia.fandom.com/wiki/Fathom-Lord_Heth%27Jatar "Fathom-Lord Heth'Jatar") | [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") |
+| [Bloodcursed](https://wowpedia.fandom.com/wiki/Bloodcursed "Bloodcursed") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Atoph the Bloodcursed](https://wowpedia.fandom.com/wiki/Atoph_the_Bloodcursed "Atoph the Bloodcursed") | [Bloodmyst Isle](https://wowpedia.fandom.com/wiki/Bloodmyst_Isle "Bloodmyst Isle") |
+| [Bloodscale](https://wowpedia.fandom.com/wiki/Bloodscale_tribe "Bloodscale tribe") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Rajis Fyashe](https://wowpedia.fandom.com/wiki/Rajis_Fyashe "Rajis Fyashe") | [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh") |
+| [Bloodwash](https://wowpedia.fandom.com/wiki/Bloodwash_naga "Bloodwash naga") | Unknown | [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands") |
+| [Coilfang](https://wowpedia.fandom.com/wiki/Coilfang_tribe "Coilfang tribe") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") | [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir") |
+| [Coilskar](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[High Warlord Naj'entus](https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus "High Warlord Naj'entus") | [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley"), [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple"), [Magisters' Terrace](https://wowpedia.fandom.com/wiki/Magisters%27_Terrace "Magisters' Terrace") |
+| [Coilskar](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe") ([Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")) | [![IconSmall Naga Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_Naga_Female.gif/revision/latest?cb=20211118121117) [Lady S'theno](https://wowpedia.fandom.com/wiki/Lady_S%27theno "Lady S'theno") | [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum") |
+| [Daggerspine](https://wowpedia.fandom.com/wiki/Daggerspine "Daggerspine") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Prince Nazjak](https://wowpedia.fandom.com/wiki/Prince_Nazjak "Prince Nazjak") | [Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Hillsbrad_Foothills "Hillsbrad Foothills"), [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands") |
+| [Darkcrest](https://wowpedia.fandom.com/wiki/Darkcrest_tribe "Darkcrest tribe") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Rajah Haghazed](https://wowpedia.fandom.com/wiki/Rajah_Haghazed "Rajah Haghazed") | [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh") |
+| [Deepsurge](https://wowpedia.fandom.com/wiki/Deepsurge "Deepsurge")/[Felsurge](https://wowpedia.fandom.com/wiki/Felsurge "Felsurge") | [![IconSmall FelNaga Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/IconSmall_FelNaga_Female.gif/revision/latest?cb=20211118121123) [Lady Ssathara](https://wowpedia.fandom.com/wiki/Lady_Ssathara "Lady Ssathara") | [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") |
+| [Darkspine](https://wowpedia.fandom.com/wiki/Darkspine "Darkspine") | Unknown | [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas") |
+| [Felrage](https://wowpedia.fandom.com/wiki/Felrage "Felrage") | [![IconSmall FelNaga Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/IconSmall_FelNaga_Male.gif/revision/latest?cb=20211118120935) [Warlord Kaz'jatar](https://wowpedia.fandom.com/wiki/Warlord_Kaz%27jatar "Warlord Kaz'jatar") | [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") |
+| [Hatecoil](https://wowpedia.fandom.com/wiki/Hatecoil "Hatecoil") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Tidemistress Athissa](https://wowpedia.fandom.com/wiki/Athissa "Athissa") | [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna"), [Eye of Azshara](https://wowpedia.fandom.com/wiki/Eye_of_Azshara "Eye of Azshara") |
+| [Hatecrest](https://wowpedia.fandom.com/wiki/Hatecrest "Hatecrest") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[General Skessesh](https://wowpedia.fandom.com/wiki/General_Skessesh "General Skessesh") | [Feralas](https://wowpedia.fandom.com/wiki/Feralas "Feralas") |
+| [Idra'kess](https://wowpedia.fandom.com/wiki/Idra%27kess "Idra'kess") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Idra'kess](https://wowpedia.fandom.com/wiki/Overseer_Idra%27kess "Overseer Idra'kess") | [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse") |
+| [Murkwater](https://wowpedia.fandom.com/wiki/Murkwater "Murkwater") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Deepsiren Saffsis](https://wowpedia.fandom.com/wiki/Deepsiren_Saffsis "Deepsiren Saffsis") | [Val'sharah](https://wowpedia.fandom.com/wiki/Val%27sharah "Val'sharah") |
+| [Naga explorers](https://wowpedia.fandom.com/wiki/Naga_explorers "Naga explorers") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lord Sakrasis](https://wowpedia.fandom.com/wiki/Lord_Sakrasis "Lord Sakrasis") | [Cape of Stranglethorn](https://wowpedia.fandom.com/wiki/Cape_of_Stranglethorn "Cape of Stranglethorn") |
+| [Naz'jar](https://wowpedia.fandom.com/wiki/Naz%27jar "Naz'jar") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Naz'jar](https://wowpedia.fandom.com/wiki/Lady_Naz%27jar "Lady Naz'jar") | [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse"), [Throne of the Tides](https://wowpedia.fandom.com/wiki/Throne_of_the_Tides "Throne of the Tides") |
+| [Nazeshi](https://wowpedia.fandom.com/wiki/Nazeshi "Nazeshi") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Tidemistress Nazesh](https://wowpedia.fandom.com/wiki/Tidemistress_Nazesh "Tidemistress Nazesh") | [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar") |
+| [Rimescale](https://wowpedia.fandom.com/wiki/Rimescale "Rimescale") | Unknown | [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim"), [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") |
+| [Riplash](https://wowpedia.fandom.com/wiki/Riplash "Riplash") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Raj Naz'jan](https://wowpedia.fandom.com/wiki/Raj_Naz%27jan "Raj Naz'jan") | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") |
+| [Sashj'tar](https://wowpedia.fandom.com/wiki/Sashj%27tar "Sashj'tar") | [![IconSmall NagaSeaWitch.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_NagaSeaWitch.gif/revision/latest?cb=20211118122342) [Tidemistress Sashj'tar](https://wowpedia.fandom.com/wiki/Tidemistress_Sashj%27tar "Tidemistress Sashj'tar") | [Jandvik](https://wowpedia.fandom.com/wiki/Jandvik "Jandvik"), [Azuregale Bay](https://wowpedia.fandom.com/wiki/Azuregale_Bay "Azuregale Bay") |
+| [Sira'kess](https://wowpedia.fandom.com/wiki/Sira%27kess "Sira'kess") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lady Sira'kess](https://wowpedia.fandom.com/wiki/Lady_Sira%27kess "Lady Sira'kess") | [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse"), [Abyssal Depths](https://wowpedia.fandom.com/wiki/Abyssal_Depths "Abyssal Depths") |
+| [Slitherblade](https://wowpedia.fandom.com/wiki/Slitherblade "Slitherblade") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Valishj](https://wowpedia.fandom.com/wiki/Valishj "Valishj") | [Desolace](https://wowpedia.fandom.com/wiki/Desolace "Desolace") |
+| [Spitefin](https://wowpedia.fandom.com/wiki/Spitefin "Spitefin") | [![IconSmall NagaLord.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_NagaLord.gif/revision/latest?cb=20211118121933) [Tide Lord Vorshasz](https://wowpedia.fandom.com/wiki/Tide_Lord_Vorshasz "Tide Lord Vorshasz") | [Whispering Reef](https://wowpedia.fandom.com/wiki/Whispering_Reef "Whispering Reef") |
+| [Spitelash](https://wowpedia.fandom.com/wiki/Spitelash "Spitelash") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Warlord Krellian](https://wowpedia.fandom.com/wiki/Warlord_Krellian "Warlord Krellian") | [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara") |
+| [Spitescale](https://wowpedia.fandom.com/wiki/Spitescale "Spitescale") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Zar'jira](https://wowpedia.fandom.com/wiki/Zar%27jira "Zar'jira") | [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar") |
+| [Stormscale](https://wowpedia.fandom.com/wiki/Stormscale_tribe "Stormscale tribe") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lord Sinslayer](https://wowpedia.fandom.com/wiki/Lord_Sinslayer "Lord Sinslayer") | [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore") |
+| [Strashaz](https://wowpedia.fandom.com/wiki/Strashaz "Strashaz") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Tidelord Rrurgaz](https://wowpedia.fandom.com/wiki/Tidelord_Rrurgaz "Tidelord Rrurgaz") | [Dustwallow Marsh](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh "Dustwallow Marsh") |
+| [Tidescale](https://wowpedia.fandom.com/wiki/Tidescale "Tidescale") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Mistress Sassz'ine](https://wowpedia.fandom.com/wiki/Mistress_Sassz%27ine "Mistress Sassz'ine") | [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") |
+| [Timeworn](https://wowpedia.fandom.com/wiki/Timeworn "Timeworn") | Unknown | [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna") |
+| [Vashj'elan](https://wowpedia.fandom.com/wiki/Vashj%27elan "Vashj'elan") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Faceless of the Deep](https://wowpedia.fandom.com/wiki/Faceless_of_the_Deep "Faceless of the Deep") | [Lost Isles](https://wowpedia.fandom.com/wiki/Lost_Isles "Lost Isles") |
+| [Vilescale](https://wowpedia.fandom.com/wiki/Vilescale "Vilescale") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Lord Slithin](https://wowpedia.fandom.com/wiki/Lord_Slithin "Lord Slithin") | [Nazmir](https://wowpedia.fandom.com/wiki/Nazmir "Nazmir") |
+| [Wrathfin](https://wowpedia.fandom.com/wiki/Wrathfin "Wrathfin") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Overseer Tidewrath](https://wowpedia.fandom.com/wiki/Overseer_Tidewrath "Overseer Tidewrath") | [Underbog](https://wowpedia.fandom.com/wiki/Underbog "Underbog") |
+| [Wrathscale](https://wowpedia.fandom.com/wiki/Wrathscale "Wrathscale") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Warlord Sriss'tiz](https://wowpedia.fandom.com/wiki/Warlord_Sriss%27tiz "Warlord Sriss'tiz") | [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle"), [Bloodmyst Isle](https://wowpedia.fandom.com/wiki/Bloodmyst_Isle "Bloodmyst Isle") |
+| [Wrathtail](https://wowpedia.fandom.com/wiki/Wrathtail "Wrathtail") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ruuzel](https://wowpedia.fandom.com/wiki/Ruuzel "Ruuzel") | [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale") |
+| [Zeth'jir](https://wowpedia.fandom.com/wiki/Zeth%27jir "Zeth'jir") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ruuzel](https://wowpedia.fandom.com/wiki/Ruuzel "Ruuzel") | [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley") |
+| [Zin'jatar](https://wowpedia.fandom.com/wiki/Zin%27jatar "Zin'jatar") | [![IconSmall Naga Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Naga_Male.gif/revision/latest?cb=20211118120929) [Fathom-Lord Zin'jatar](https://wowpedia.fandom.com/wiki/Fathom-Lord_Zin%27jatar "Fathom-Lord Zin'jatar") | [Kelp'thar Forest](https://wowpedia.fandom.com/wiki/Kelp%27thar_Forest "Kelp'thar Forest"), [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse") |
+| [Zithreenai](https://wowpedia.fandom.com/wiki/Zithreenai "Zithreenai") | [![IconSmall NagaSeaWitch.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/8/89/IconSmall_NagaSeaWitch.gif/revision/latest?cb=20211118122342) [Lady Zithreen](https://wowpedia.fandom.com/wiki/Lady_Zithreen "Lady Zithreen") | [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw"); [Shimmering Expanse](https://wowpedia.fandom.com/wiki/Shimmering_Expanse "Shimmering Expanse") |
+
+## In the RPG
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Naga.jpg/revision/latest/scale-to-width-down/180?cb=20050415004525)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Naga.jpg/revision/latest?cb=20050415004525)
+
+On the _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_ cover art.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/NagaDF.png/revision/latest/scale-to-width-down/140?cb=20180917105226)](https://static.wikia.nocookie.net/wowpedia/images/9/9c/NagaDF.png/revision/latest?cb=20180917105226)
+
+Naga in the _[Monster Guide](https://wowpedia.fandom.com/wiki/Monster_Guide "Monster Guide")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Monster_Guide_cover_art.jpg/revision/latest/scale-to-width-down/180?cb=20210517172611)](https://static.wikia.nocookie.net/wowpedia/images/4/4b/Monster_Guide_cover_art.jpg/revision/latest?cb=20210517172611)
+
+On the right of the _[Monster Guide](https://wowpedia.fandom.com/wiki/Monster_Guide "Monster Guide")_ cover art.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/64/Naga_Dark_Factions_119.jpg/revision/latest/scale-to-width-down/140?cb=20210628090653)](https://static.wikia.nocookie.net/wowpedia/images/6/64/Naga_Dark_Factions_119.jpg/revision/latest?cb=20210628090653)
+
+Naga in _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_.
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+### Naga history
+
+The catastrophe known as the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") split the land apart to become the continents and islands as we now know them. Thousands perished, and the kaldorei lands were devastated. The Burning Legion was banished. The land around the destroyed Well of Eternity and most of Zin-Azshari blasted downward, to the bottom of the inrushing seas, to smash into the ocean ﬂoor.
+
+The Maelstrom formed above the ocean at this location, creating lasting testament to its history. The Maelstrom exists to this day. It is a large and violent magical storm that rages over the ocean. The Maelstrom whips the sea beneath it into an enormous whirlpool, the center of which is called the [Eye](https://wowpedia.fandom.com/wiki/Eye_(Maelstrom) "Eye (Maelstrom)"). Once caught in the whirlpool's currents, most creatures have no chance of escaping. Furthermore, under the waves is an impassable whirling wall of water surrounding the Eye.
+
+Many night elves, including Azshara, sank to the seafloor with their city. These Highborne survived. They were cursed and became the naga — serpentlike, water-breathing monstrosities. Their men and women diverged in appearance, physicality, and mindset. They lived at the bottom of the ocean, beneath the Maelstrom, for 10,000 years.
+
+Yet they did more than survive. The imploded Well of Eternity left behind residual energies, which twisted in the ocean depths near the naga's city. Over ten millennia these energies mutated the fallen Highborne, altering them even further to suit their new environment. The naga recast ruined Zin-Azshari into a new capital: Nazjatar. Ruling the naga was Azshara, now mutated into a terrible demigod.
+
+Over the time the naga likely tamed some native creatures (like [snap dragons](https://wowpedia.fandom.com/wiki/Snap_dragon "Snap dragon") and [dragon turtles](https://wowpedia.fandom.com/wiki/Dragon_turtle "Dragon turtle") to use in warfare, studied arcane magic and clashed with the [sea giants](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant") and [makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura"), whose capital [Mak'aru](https://wowpedia.fandom.com/wiki/Mak%27aru "Mak'aru") is in the same neighborhood.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-59">[59]</a></sup>
+
+Naga are sinister, ophidian humanoids that dwell beneath the ocean. Theirs is an ancient and mystical culture, for ten thousand years ago they were [Kaldorei](https://wowpedia.fandom.com/wiki/Kaldorei "Kaldorei") who mutated into vengeful humanoid sea serpents. While many remain on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") to attempt to reclaim the surface world, a large group followed the power-mad betrayer, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), into [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") and proceeded to claim the watery areas of the shattered land.<sup id="cite_ref-MG_105_60-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-MG_105-60">[60]</a></sup> In addition to their natural longevity, a number of naga develop mutations that increase their life spans even further. Some are immortal.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-61">[61]</a></sup>
+
+### Appearance
+
+Naga only marginally resemble the noble race they once were. Their proud kaldorei visages are warped and twisted. Naga are avaricious and sadistic, and their millennia of aquatic banishment has only intensified their evil, power-hungry nature. The naga are part night elf, part serpent, and some have evolved bizarre oceanic mutations. The Well of Eternity's residual energies are unpredictable, and their mutative power manifests in different ways. In all naga, many of these mutations are simply cosmetic — soft spines running down their backs, or extra fins adorning their arms, for instance. Some naga, though, also possess mutations that have a more substantial effect.<sup id="cite_ref-DF_multiple_62-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-DF_multiple-62">[62]</a></sup> In this way, the race has developed an array of genetic variations and defenses, such as ink jets, tentacles, razor fins, venomous fangs, hardened barnacle carapaces and spined fists. Naga average 6 1/2 feet tall, and naga men are much bulkier than women.<sup id="cite_ref-A&amp;HC_19_63-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-A&amp;HC_19-63">[63]</a></sup>
+
+### Sexual dimorphism
+
+The most striking aspect of naga culture is the role that gender plays in their lives. Due to the ancient curse that transformed them into naga, males and females are physically and mentally different, and this difference affects their culture. The men are thickly built, with humanoid torsos merging into a serpent hind section. Their scales are large and thick, and their heads are reminiscent of dragons, showing little sign of their elven ancestry.<sup id="cite_ref-M&amp;M_66_64-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-M&amp;M_66-64">[64]</a></sup> Naga men are bestial and considered less intelligent than females, but are remarkably strong and tough, able to withstand a great deal of bodily injury.<sup id="cite_ref-A&amp;HC_19_63-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-A&amp;HC_19-63">[63]</a></sup> Naga women more resemble the kaldorei from whom they came, their faces fair, even beautiful. This unearthly splendor is ruined by their monstrous deformities — they often have multiple limbs (four to six arms). Females kept more of their Elven features and their intelligence.<sup id="cite_ref-M&amp;M_66_64-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-M&amp;M_66-64">[64]</a></sup><sup id="cite_ref-A&amp;HC_72-3_65-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-A&amp;HC_72-3-65">[65]</a></sup>
+
+Because of these traits, naga society is matriarchal. Naga see women as superior to men. Naga men don't chafe under these conditions; rather, they are happy to serve their beautiful (for naga) mistresses. While exceptions exist, naga men perform tasks requiring physical strength and stamina, while naga women take up intellectual pursuits. Naga women are natural spellcasters and rely on magic and poison to defeat their enemies. Men mine stone and coral for building, for example, while women draw the blueprints and create the strangely delicate frescoes that adorn Nazjatar's buildings. In military matters, men are warriors and guards, while women are generals and magi. [Naga Myrmidon](https://wowpedia.fandom.com/wiki/Myrmidon "Myrmidon") and [Royal Guard](https://wowpedia.fandom.com/wiki/Naga_Royal_Guard "Naga Royal Guard"), for instance, are strong males and powerful melee fighters<sup id="cite_ref-MG_105_60-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-MG_105-60">[60]</a></sup> Some exceptions do exist, and male naga commanders are not completely unknown.<sup id="cite_ref-DF_multiple_62-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-DF_multiple-62">[62]</a></sup>
+
+### Unique features
+
+Some naga have unique features. For example, [sea witches](https://wowpedia.fandom.com/wiki/Naga_sea_witch "Naga sea witch") like [Lady Vashj](https://wowpedia.fandom.com/wiki/Lady_Vashj "Lady Vashj") have snakes instead of hair. Female naga with a nest of thin, twining snakes instead of hair allow the naga to see in all directions.<sup id="cite_ref-M&amp;M_66_64-2"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-M&amp;M_66-64">[64]</a></sup>
+
+A [naga anomaly](https://wowpedia.fandom.com/wiki/Naga_anomaly "Naga anomaly") is a naga that has mutated greater changes, some are barely recognizable as related to their cousins.
+
+### Culture
+
+#### Society
+
+All naga revere their queen, the mighty Azshara. They have never had another queen, and Azshara has become a living [demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod") for the naga. Everything they do is according to her design — and she has had ten millennia to reﬁne her plans. The civilization of the naga has extensive codes, laws, and ceremonies. Factions, some millennia old, work continuously in bids for power, seeking the blessings of their queen. She plots her revenge on the night elves, biding her time until the growing might of the naga can be brought to bear.
+
+Naga have finely worked robes that function as leather armor. They hunt large prey with tridents and scimitars. They are experienced in formation fighting, particularly in dealings with [murlocs](https://wowpedia.fandom.com/wiki/Murloc "Murloc") and [mur'gul](https://wowpedia.fandom.com/wiki/Mur%27gul "Mur'gul"). A warband will deploy male infantry to engage at moderate range with tridents, while the females cast spells. The men are willing to sacrifice themselves if ordered. Leaders will avoid heavy losses, but are otherwise open to small risks.<sup id="cite_ref-M&amp;M_66_64-3"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-M&amp;M_66-64">[64]</a></sup>
+
+#### Faith
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1a/AzsharaSL.jpg/revision/latest/scale-to-width-down/140?cb=20150705013409)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/AzsharaSL.jpg/revision/latest?cb=20150705013409)
+
+Azshara in _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_.
+
+Over the eons, queen Azshara, the most powerful arcanist of the ancient world, has grown in power and magniﬁcence. To the naga, she is a living demigod, and they venerate her. Her presence in Nazjatar is a powerful motivating force for the naga, and in their minds Azshara, Nazjatar, and the naga are inextricably linked — perhaps the same thing, in a way. Naga pay homage to their heritage and their queen. The beings they once worshipped as kaldorei — [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne"), [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius"), even [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") — are nothing but memories.<sup id="cite_ref-DF_multiple_62-2"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-DF_multiple-62">[62]</a></sup>
+
+### Languages
+
+Naga typically speak their own language, [Nazja](https://wowpedia.fandom.com/wiki/Nazja "Nazja"), and most know [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"). For various reasons, individual naga learn to speak with the creatures with which they interact. Some also learn the language of their heritage, [Darnassian](https://wowpedia.fandom.com/wiki/Darnassian "Darnassian").<sup id="cite_ref-MG_106_66-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-MG_106-66">[66]</a></sup><sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-67">[67]</a></sup>
+
+### Naga relations
+
+Naga are dangerous and avaricious, and most races are unaware of their existence. Naga play well with blood elves, trolls, and other dark, independent powers, but only the rarest naga joins the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") or [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
+
+The naga traveling with Illidan have a more educated view of Kalimdor's races than the naga who remained at the bottom of the sea or in one of the eastern outposts. These travelers hold the blood elves in high regard, as they are also evolved children of the Highborne, and they too fought with Illidan. The time spent together in battle made the two races respect and admire each other's skills.
+
+The naga can either take or leave the [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin") and [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"), creatures who care nothing for their own pasts. The [half-orcs](https://wowpedia.fandom.com/wiki/Half-orc "Half-orc"), [furbolgs](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg"), and [pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") don't trust the naga, and the naga feel the same way in return. They feel that [divine](https://wowpedia.fandom.com/wiki/Divine "Divine") magic practitioners are weak and without ambition. The naga are a neutral race for a very good reason: neither the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") nor the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") will welcome them. The Alliance elicits nothing but rage in the minds of the naga. Their former brethren, the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), still thrive on the continent, and have not forgotten their grudges with the naga. Their blatant hatred of the night elves is only rivaled by the night elves' feelings for them. As night elf leaders [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") and [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") are highly respected within the Alliance, their hatred and distrust of the naga have spread to the other races. The races of the Horde are met with derisiveness from the naga; they would have no part of the Horde even if invited to join. The spiritual natures of these races are similar to the pandaren and furbolgs, and therefore worthy of similar disrespect. The naga consider the Horde to be nothing more than barbaric, weak-minded fools. They would sooner accept the night elves as masters than join the Horde.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-68">[68]</a></sup> Even though the blood elves of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas") are members of the Horde, there is no sign of diplomacy between the two powers; in addition to naga opinions, the Azerothian blood elves do not unilaterally accept the philosophy that Kael has adopted, and likely wish to avoid association with the naga. The naga seem to be hated by the Horde as they've assaulted their newfound friends, the [tuskarr](https://wowpedia.fandom.com/wiki/Tuskarr "Tuskarr"). The naga's main rival for dominance of the ocean are [sea giants](https://wowpedia.fandom.com/wiki/Sea_giant "Sea giant") and [kvaldir](https://wowpedia.fandom.com/wiki/Kvaldir "Kvaldir"); these creatures hate naga and slay them on sight.
+
+Naga are dark creatures, evil and cunning. A naga might join forces with a being of another race in order to serve his own ends, however, much as Lady Vashj did with Illidan and his forces. Naga are selfish creatures, though, and think only of their own (and their race's) dominance. Their minds have little room for charity or kindness. A naga that renounced his evil ways would be a unique individual indeed.<sup id="cite_ref-MG_106_66-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-MG_106-66">[66]</a></sup> Some naga may be sent to the land on a mission, or they may be exiled who defy the naga queen. Few among the humanoid races are aware of the naga's history, so most encounters deal primarily with their strange countenance. Naga characters can use disguise or magic to avoid notice. Naga heroes are usually limited to a few mutations. Far from the power of Nazjatar, the powers of the flesh are less likely to be awakened in this way.<sup id="cite_ref-69"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-69">[69]</a></sup>
+
+### Combat
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Villainraces.jpg/revision/latest/scale-to-width-down/180?cb=20220428023824)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/Villainraces.jpg/revision/latest?cb=20220428023824)
+
+_Villain Races_ by Chris Metzen.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Naga_Siren.jpg/revision/latest/scale-to-width-down/180?cb=20071115090956)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Naga_Siren.jpg/revision/latest?cb=20071115090956)
+
+Naga siren.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9f/Male_thin_naga_RPG.jpg/revision/latest/scale-to-width-down/180?cb=20220427234500)](https://static.wikia.nocookie.net/wowpedia/images/9/9f/Male_thin_naga_RPG.jpg/revision/latest?cb=20220427234500)
+
+Naga in the water.
+
+The naga have armies composed of various races. They have managed to enslave large numbers of [mur'gul](https://wowpedia.fandom.com/wiki/Mur%27gul "Mur'gul"); this aquatic race fears the naga's magical abilities. Mur'gul slaves are used as staging troops and cannon fodder, with artillery support from mighty [dragon turtles](https://wowpedia.fandom.com/wiki/Dragon_turtle "Dragon turtle"). Naga males serve as shock troops; they deploy as infantry in close formations wielding scimitars, tridents, and nets while females stand back hurling spells at the enemy. Some few are [priestesses of the tides](https://wowpedia.fandom.com/wiki/Priestess_of_the_tides "Priestess of the tides"). Naga women act as both a source of support magic for their allies and as offensive ranged punishers. Males may have command over small numbers of troops but females will always be in overall command of any naga force. [Naga Royal Guards](https://wowpedia.fandom.com/wiki/Naga_Royal_Guard "Naga Royal Guard"), as their name implies, serve as protection for important individuals. Naga [sea witches](https://wowpedia.fandom.com/wiki/Sea_witch "Sea witch") are some of the most powerful champions the race has to offer. [Sirens](https://wowpedia.fandom.com/wiki/Naga_siren "Naga siren") are more common but still deadly, using their magic to incapacitate foes so the naga [myrmidons](https://wowpedia.fandom.com/wiki/Myrmidon "Myrmidon") can sweep in and finish them off.
+
+The naga have a powerful military, though they have yet to truly make their presence felt in the world. So far, their efforts are limited to certain select engagements (such as against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") during Illidan's attempt on the Frozen Throne) and various exploratory missions along Azeroth's coasts and other remote places. Rumors say that the naga are preparing for a major invasion of the land; they are now building their forces, securing strategic locations, claiming important items and information, and probing the defenses of the Alliance, Horde, Scourge, and their numerous other rivals. Whispers say that Azshara seeks to regain her position as queen of the land.
+
+Naga society is ancient and cunning, and their warriors are the same way. All naga enjoy using their aquatic natures against their foes, particularly against generals who have not fought naga. A naga commander attempts to maneuver his forces to meet the enemy on a battlefield with rivers, lakes, marshes or similar features; such bodies of water are no impediment to naga, but serve as barriers for land-based forces as well as hiding spots and roads for the naga forces.
+
+As far as anyone knows, the only real naga armies that currently exist are beneath the waves, in Nazjatar and Vashj'ir, and in Outland, where a force of naga under Lady Vashj worked with Illidan until its defeat. Other, smaller groups are scattered across the world, where they investigate items and places of importance to the naga's mysterious purposes. These forces usually have a single leader — a powerful spellcaster (female) or warrior (male) — a dozen or so naga myrmidons, and a few naga sirens. They may have some mur'gul slaves to serve as expendable troops and do the dirty work, and some groups include a couple of [snap dragons](https://wowpedia.fandom.com/wiki/Snap_dragon "Snap dragon"), [couatl](https://wowpedia.fandom.com/wiki/Couatl "Couatl"), or [tidal guardians](https://wowpedia.fandom.com/wiki/Tidal_guardian "Tidal guardian") as support, depending on the nature of the mission. In addition to these groups, naga explorers travel out from the coasts and from naga bases, gathering information for their queen.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-70">[70]</a></sup>
+
+## As a companion pet
+
+## Notes and trivia
+
+-   The naga who invaded [Stormsong Valley](https://wowpedia.fandom.com/wiki/Stormsong_Valley "Stormsong Valley") brought their favorite pets: [Abyssal Eels](https://wowpedia.fandom.com/wiki/Abyssal_Eel "Abyssal Eel").<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-71">[71]</a></sup>
+-   When compared to [fel orcs](https://wowpedia.fandom.com/wiki/Fel_orc "Fel orc"), naga are much larger and more physically powerful.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-72">[72]</a></sup>
+-   Naga were first mentioned in _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, where Krasus found one frozen in [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos")'s sanctum in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). He was only able to utter, "Na-" before he was cut off.<sup id="cite_ref-73"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-73">[73]</a></sup>
+-   The  ![](https://static.wikia.nocookie.net/wowpedia/images/9/96/Inv_misc_book_06.png/revision/latest/scale-to-width-down/16?cb=20070329111319)[\[Book of the Ancients\]](https://wowpedia.fandom.com/wiki/Book_of_the_Ancients) is said to contain many secrets about the naga.
+-   Many naga females are able to unleash a deafening scream, such as the [Hatecrest Screamers](https://wowpedia.fandom.com/wiki/Hatecrest_Screamer "Hatecrest Screamer"), [Wrathscale Screamers](https://wowpedia.fandom.com/wiki/Wrathscale_Screamer "Wrathscale Screamer"), [Spitelash Screamers](https://wowpedia.fandom.com/wiki/Spitelash_Screamer "Spitelash Screamer"), [Coilfang Hate-Screamers](https://wowpedia.fandom.com/wiki/Coilfang_Hate-Screamer "Coilfang Hate-Screamer"), [Daggerspine Screamers](https://wowpedia.fandom.com/wiki/Daggerspine_Screamer "Daggerspine Screamer") and the [Azsh'ir Wave Screamers](https://wowpedia.fandom.com/wiki/Azsh%27ir_Wave_Screamer "Azsh'ir Wave Screamer").
+-   The _Cataclysm_ quest  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[5-30\] [Naga In Our Midst](https://wowpedia.fandom.com/wiki/Naga_In_Our_Midst) mentions that "It is said that despite their monstrous features, naga are night elves warped by the arcane magic of Queen Azshara". This presumably constitutes [flavor lore](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore"), as it conflicts with most other accounts of the naga's creation.
+-   One can transform into a naga using  ![](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Trade_archaeology_bones_of_transformation.png/revision/latest/scale-to-width-down/16?cb=20180818164956)[\[Bones of Transformation\]](https://wowpedia.fandom.com/wiki/Bones_of_Transformation), obtained from [Archaeology](https://wowpedia.fandom.com/wiki/Archaeology "Archaeology").
+-   The naga are the only race to appear in each campaign of _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
+-   The female naga are voiced by [Alexis Iacono](https://wowpedia.fandom.com/wiki/Alexis_Iacono "Alexis Iacono") in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
+-   Naga were initially planned to be a playable race in classic _World of Warcraft_, alongside [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") and [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin").<sup id="cite_ref-Countdown_To_Classic_74-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Countdown_To_Classic-74">[74]</a></sup> The concept was supported by the entire team, with the exception of the animators:<sup id="cite_ref-MMO-C_Staats_75-0"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-MMO-C_Staats-75">[75]</a></sup> according to [Johnathan Staats](https://wowpedia.fandom.com/wiki/Johnathan_Staats "Johnathan Staats"), playable naga were cut entirely due to art-related reasons, specifically issues with putting them on mounts and the way armor would look on them.<sup id="cite_ref-Countdown_To_Classic_74-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Countdown_To_Classic-74">[74]</a></sup><sup id="cite_ref-MMO-C_Staats_75-1"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-MMO-C_Staats-75">[75]</a></sup> Their large spikes would conflict with wearing armor,<sup id="cite_ref-Countdown_To_Classic_74-2"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Countdown_To_Classic-74">[74]</a></sup> and Staats relates playable naga's armor to the experience of playing a [druid](https://wowpedia.fandom.com/wiki/Druid "Druid") and finding it frustrating to not be able to see one's character's gear while in animal form, as most armor pieces wouldn't have worked on naga and thus wouldn't have been visible.<sup id="cite_ref-MMO-C_Staats_75-2"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-MMO-C_Staats-75">[75]</a></sup> Ultimately, one WoW developer created a concept sketch for the naga that ended up being used for _Warcraft III_, solidifying the naga's appearance and preventing them from being implemented as a bipedal player race in WoW.<sup id="cite_ref-Countdown_To_Classic_74-3"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-Countdown_To_Classic-74">[74]</a></sup>
+    -   In a behind the scenes interview for _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") stated that he would still like naga to be playable one day along with goblins (who later became playable in _Cataclysm_) and [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre").<sup id="cite_ref-76"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-76">[76]</a></sup> [Greg Street](https://wowpedia.fandom.com/wiki/Greg_Street "Greg Street") has commented that incorporating naga as a playable race "would present some unique challenges, such as lack of pants."<sup id="cite_ref-77"><a href="https://wowpedia.fandom.com/wiki/Naga#cite_note-77">[77]</a></sup>
+-   The naga are inspired by [Desi](http://en.wikipedia.org/wiki/Desi "wikipedia:Desi") culture and mythology.
+    -   The [Nāga](http://en.wikipedia.org/wiki/N%C4%81ga "wikipedia:Nāga") are, in Desi mythology and folklore, beings of great power and magic who can assume the form of a snake, a human, or a snake-human hybrid. Their females, called Nagin or Nagini, can take the forms of human-headed serpents, multi-headed serpents, humans with the heads of serpents, or a serpent with the head and torso of a human. They are often associated with bodies of water. "Nag" means cobra in Hindi, its root derived from Sanskrit. This is not to be confused with "Naga", also referring to an [ethnic group](https://en.wikipedia.org/wiki/Naga_people) in North-Eastern India and a mountain range where the members of the tribe live.
+    -   The common statues of Azshara bear a strong resemblance to statues of [Shiva](http://en.wikipedia.org/wiki/Shiva "wikipedia:Shiva") as [Nataraja](http://en.wikipedia.org/wiki/Nataraja "wikipedia:Nataraja"). Her giant statue in [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar") instead resembles [Parvati](http://en.wikipedia.org/wiki/Parvati "wikipedia:Parvati") as [Durga](http://en.wikipedia.org/wiki/Durga "wikipedia:Durga") given the spear/staff.
+    -   Some naga's names are Desi name derivatives, such as the use of the name/title "[Raj](http://en.wikipedia.org/wiki/Raj_(name) "wikipedia:Raj (name)")".
+    -   The association of Desi-inspired Naga with the Old Gods may be due to various Asian cultures (Desi, Arab, Persian, etc.) featuring as such within [Lovecraftian horror](http://en.wikipedia.org/wiki/Lovecraftian_horror "wikipedia:Lovecraftian horror").
+
+## Gallery
+
+### World of Warcraft
+
+Old models
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Nagas.jpg/revision/latest/scale-to-width-down/247?cb=20070826213305)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Nagas.jpg/revision/latest?cb=20070826213305)
+    
+    Vanilla and TBC naga models
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Riplash_Myrmidon.jpg/revision/latest/scale-to-width-down/141?cb=20100710122343)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Riplash_Myrmidon.jpg/revision/latest?cb=20100710122343)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Strashaz_Siren.jpg/revision/latest/scale-to-width-down/95?cb=20180102205300)](https://static.wikia.nocookie.net/wowpedia/images/8/83/Strashaz_Siren.jpg/revision/latest?cb=20180102205300)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Coilfang_Siren.jpg/revision/latest/scale-to-width-down/99?cb=20081104052858)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Coilfang_Siren.jpg/revision/latest?cb=20081104052858)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/65/Lady_Vashj_old_model.jpg/revision/latest/scale-to-width-down/150?cb=20190116231336)](https://static.wikia.nocookie.net/wowpedia/images/6/65/Lady_Vashj_old_model.jpg/revision/latest?cb=20190116231336)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/28/High_Warlord_Najentus.jpg/revision/latest/scale-to-width-down/151?cb=20070417191541)](https://static.wikia.nocookie.net/wowpedia/images/2/28/High_Warlord_Najentus.jpg/revision/latest?cb=20070417191541)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Fathom-Lord_Heth%27Jatar.jpg/revision/latest/scale-to-width-down/172?cb=20121224095630)](https://static.wikia.nocookie.net/wowpedia/images/c/c0/Fathom-Lord_Heth%27Jatar.jpg/revision/latest?cb=20121224095630)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Idra%27kess_Enchantress.jpg/revision/latest/scale-to-width-down/149?cb=20160125190352)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Idra%27kess_Enchantress.jpg/revision/latest?cb=20160125190352)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Blackscale_Mistress.jpg/revision/latest/scale-to-width-down/143?cb=20180302134801)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Blackscale_Mistress.jpg/revision/latest?cb=20180302134801)
+    
+
+Current models
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Coilskar_Myrmidon.jpg/revision/latest/scale-to-width-down/145?cb=20161002183233)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Coilskar_Myrmidon.jpg/revision/latest?cb=20161002183233)
+    
+    _Legion_ naga model
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Si%27vash.jpg/revision/latest/scale-to-width-down/118?cb=20170427180234)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Si%27vash.jpg/revision/latest?cb=20170427180234)
+    
+    _Legion_ naga model
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Soulbinder_Kraj%27tess.jpg/revision/latest/scale-to-width-down/161?cb=20190116213254)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Soulbinder_Kraj%27tess.jpg/revision/latest?cb=20190116213254)
+    
+    _Legion_ naga sea witch model
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Lord_Slithin.jpg/revision/latest/scale-to-width-down/150?cb=20190129002153)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Lord_Slithin.jpg/revision/latest?cb=20190129002153)
+    
+    _Battle for Azeroth_ naga lord model
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Blog_the_Pale.jpg/revision/latest/scale-to-width-down/138?cb=20170107184802)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/Blog_the_Pale.jpg/revision/latest?cb=20170107184802)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Warlord_Zalzjar.png/revision/latest/scale-to-width-down/159?cb=20200914224426)](https://static.wikia.nocookie.net/wowpedia/images/7/74/Warlord_Zalzjar.png/revision/latest?cb=20200914224426)
+    
+    Naga with a tentacle lower body
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/23/Naga_Baby.jpg/revision/latest/scale-to-width-down/151?cb=20181103023348)](https://static.wikia.nocookie.net/wowpedia/images/2/23/Naga_Baby.jpg/revision/latest?cb=20181103023348)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Warlord_Kaz%27jatar.jpg/revision/latest/scale-to-width-down/141?cb=20190503234825)](https://static.wikia.nocookie.net/wowpedia/images/1/10/Warlord_Kaz%27jatar.jpg/revision/latest?cb=20190503234825)
+    
+    Fel corrupted naga
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/79/Lady_Ssathara.jpg/revision/latest/scale-to-width-down/129?cb=20190503234550)](https://static.wikia.nocookie.net/wowpedia/images/7/79/Lady_Ssathara.jpg/revision/latest?cb=20190503234550)
+    
+    Fel corrupted naga
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/64/Harjatan_the_Bludger.jpg/revision/latest/scale-to-width-down/178?cb=20220529001859)](https://static.wikia.nocookie.net/wowpedia/images/6/64/Harjatan_the_Bludger.jpg/revision/latest?cb=20220529001859)
+    
+    An armored naga brute
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Zanj%27ir_Centurion.png/revision/latest/scale-to-width-down/234?cb=20200914231729)](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Zanj%27ir_Centurion.png/revision/latest?cb=20200914231729)
+    
+    Regular naga with helmet
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Azsh%27ari_Stormsurger.png/revision/latest/scale-to-width-down/130?cb=20200915001149)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Azsh%27ari_Stormsurger.png/revision/latest?cb=20200915001149)
+    
+    Regular naga with helmet
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Azshara_in_Ny%27alotha.jpg/revision/latest/scale-to-width-down/141?cb=20200627143254)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Azshara_in_Ny%27alotha.jpg/revision/latest?cb=20200627143254)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Uu%27nat.jpg/revision/latest/scale-to-width-down/121?cb=20190621135453)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Uu%27nat.jpg/revision/latest?cb=20190621135453)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Baroness_Vashj.jpg/revision/latest/scale-to-width-down/150?cb=20201128232348)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Baroness_Vashj.jpg/revision/latest?cb=20201128232348)
+    
+-   [![Naga cannon.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/08/Naga_cannon.jpg/revision/latest/scale-to-width-down/307?cb=20210514224958)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Naga_cannon.jpg/revision/latest?cb=20210514224958)
+    
+-   [![Naga ballista.jpg](https://static.wikia.nocookie.net/wowpedia/images/5/58/Naga_ballista.jpg/revision/latest/scale-to-width-down/345?cb=20180805144622)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Naga_ballista.jpg/revision/latest?cb=20180805144622)
+    
+-   [![Naga catapult.jpg](https://static.wikia.nocookie.net/wowpedia/images/9/93/Naga_catapult.jpg/revision/latest/scale-to-width-down/315?cb=20210514224759)](https://static.wikia.nocookie.net/wowpedia/images/9/93/Naga_catapult.jpg/revision/latest?cb=20210514224759)
+    
+
+Art
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Naga_Metzen.jpg/revision/latest/scale-to-width-down/100?cb=20200501164742)](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Naga_Metzen.jpg/revision/latest?cb=20200501164742)
+    
+    Naga Chris Metzen concept
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Naga_Myrmidon_Metzen.jpg/revision/latest/scale-to-width-down/92?cb=20220428040341)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Naga_Myrmidon_Metzen.jpg/revision/latest?cb=20220428040341)
+    
+    Naga Myrmidon Chris Metzen concept
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Naga_art_1999.jpg/revision/latest/scale-to-width-down/93?cb=20190127233521)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Naga_art_1999.jpg/revision/latest?cb=20190127233521)
+    
+    Concept
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/70/NagaWE.jpg/revision/latest/scale-to-width-down/93?cb=20190330165939)](https://static.wikia.nocookie.net/wowpedia/images/7/70/NagaWE.jpg/revision/latest?cb=20190330165939)
+    
+    Concept
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/NagaConceptArt.jpg/revision/latest/scale-to-width-down/120?cb=20210404024245)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/NagaConceptArt.jpg/revision/latest?cb=20210404024245)
+    
+    Concept
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Naga_BC_cinematic.jpg/revision/latest/scale-to-width-down/120?cb=20180816201054)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Naga_BC_cinematic.jpg/revision/latest?cb=20180816201054)
+    
+    Naga in _The Burning Crusade_ intro cinematic.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Naga_brute_concept.jpg/revision/latest/scale-to-width-down/120?cb=20180809184608)](https://static.wikia.nocookie.net/wowpedia/images/5/5c/Naga_brute_concept.jpg/revision/latest?cb=20180809184608)
+    
+    Naga brute concept for _Legion_
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/95/Azshara_concept_art.jpg/revision/latest/scale-to-width-down/79?cb=20180224050527)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Azshara_concept_art.jpg/revision/latest?cb=20180224050527)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Rise_of_Azshara_art.jpg/revision/latest/scale-to-width-down/120?cb=20190625173540)](https://static.wikia.nocookie.net/wowpedia/images/9/97/Rise_of_Azshara_art.jpg/revision/latest?cb=20190625173540)
+    
+    Naga in the _Rise of Azshara_ key art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Rise_of_Ashara_creature_concepts.jpg/revision/latest/scale-to-width-down/120?cb=20201225030047)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Rise_of_Ashara_creature_concepts.jpg/revision/latest?cb=20201225030047)
+    
+    _Rise of Azshara_ creature concepts.
+    
+
+### Warcraft III
+
+-   [![Naga TFT cinematic.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Naga_TFT_cinematic.jpg/revision/latest/scale-to-width-down/120?cb=20181119073515)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Naga_TFT_cinematic.jpg/revision/latest?cb=20181119073515)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Seawitch.jpg/revision/latest/scale-to-width-down/120?cb=20050915002136)](https://static.wikia.nocookie.net/wowpedia/images/2/2d/Seawitch.jpg/revision/latest?cb=20050915002136)
+    
+    Naga Sea Witch portrait
+    
+-   [![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Seawitch.gif/revision/latest?cb=20090328103611)
+    
+    Naga Sea Witch
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/04/Mur%27gulSlave.jpg/revision/latest/scale-to-width-down/71?cb=20060123114539)](https://static.wikia.nocookie.net/wowpedia/images/0/04/Mur%27gulSlave.jpg/revision/latest?cb=20060123114539)
+    
+    Mur'gul Slave
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/de/Mur%27gulReaver.jpg/revision/latest/scale-to-width-down/60?cb=20060123114519)](https://static.wikia.nocookie.net/wowpedia/images/d/de/Mur%27gulReaver.jpg/revision/latest?cb=20060123114519)
+    
+    Mur'gul Reaver
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c5/NagaSiren.jpg/revision/latest/scale-to-width-down/51?cb=20060123114657)](https://static.wikia.nocookie.net/wowpedia/images/c/c5/NagaSiren.jpg/revision/latest?cb=20060123114657)
+    
+    Naga Siren
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Myrmidon.png/revision/latest/scale-to-width-down/101?cb=20150127071204)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Myrmidon.png/revision/latest?cb=20150127071204)
+    
+    Myrmidon
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Nagaroyalguard.png/revision/latest/scale-to-width-down/83?cb=20151222070108)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Nagaroyalguard.png/revision/latest?cb=20151222070108)
+    
+    Naga royal guard
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/21/DragonTurtleWC3.png/revision/latest/scale-to-width-down/120?cb=20150128054043)](https://static.wikia.nocookie.net/wowpedia/images/2/21/DragonTurtleWC3.png/revision/latest?cb=20150128054043)
+    
+    Dragon Turtle
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/10/SnapDragon.jpg/revision/latest/scale-to-width-down/120?cb=20060101042315)](https://static.wikia.nocookie.net/wowpedia/images/1/10/SnapDragon.jpg/revision/latest?cb=20060101042315)
+    
+    Snap Dragon
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/84/CouatlWC3.png/revision/latest/scale-to-width-down/120?cb=20160117080127)](https://static.wikia.nocookie.net/wowpedia/images/8/84/CouatlWC3.png/revision/latest?cb=20160117080127)
+    
+    Couatl
+    
+-   [![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Seaelemental.gif/revision/latest?cb=20151222190909)
+    
+    Sea elemental
+    
+-   [](https://static.wikia.nocookie.net/wowpedia/images/4/48/Naga_Altar_of_the_Depths_W3.JPG/revision/latest?cb=20070302203915)
+    
+    Naga Altar of the Depths
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4f/TempleofTides.jpg/revision/latest/scale-to-width-down/84?cb=20060123114752)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/TempleofTides.jpg/revision/latest?cb=20060123114752)
+    
+    Temple of Tides
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/02/ShrineofAzshara.jpg/revision/latest/scale-to-width-down/110?cb=20060123114736)](https://static.wikia.nocookie.net/wowpedia/images/0/02/ShrineofAzshara.jpg/revision/latest?cb=20060123114736)
+    
+    Shrine of Azshara
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e5/NagaSpawningGrounds.jpg/revision/latest/scale-to-width-down/120?cb=20060123123822)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/NagaSpawningGrounds.jpg/revision/latest?cb=20060123123822)
+    
+    Naga Spawning Grounds
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/70/CoralBed.jpg/revision/latest/scale-to-width-down/97?cb=20060123114413)](https://static.wikia.nocookie.net/wowpedia/images/7/70/CoralBed.jpg/revision/latest?cb=20060123114413)
+    
+    Coral Bed
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/TidalGuardian.jpg/revision/latest/scale-to-width-down/75?cb=20060123114825)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/TidalGuardian.jpg/revision/latest?cb=20060123114825)
+    
+    Tidal Guardian
+    
+
+### Other
+
+Hearthstone
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/60/Slithering_Archer.jpg/revision/latest/scale-to-width-down/90?cb=20190504010702)](https://static.wikia.nocookie.net/wowpedia/images/6/60/Slithering_Archer.jpg/revision/latest?cb=20190504010702)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Zola_the_Gorgon.jpg/revision/latest/scale-to-width-down/90?cb=20171230083740)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Zola_the_Gorgon.jpg/revision/latest?cb=20171230083740)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Naga_Corsair.jpg/revision/latest/scale-to-width-down/120?cb=20190503232728)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Naga_Corsair.jpg/revision/latest?cb=20190503232728)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Crushclaw_Enforcer_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220418235202)](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Crushclaw_Enforcer_HS.jpg/revision/latest?cb=20220418235202)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Treasure_Guard_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220418235534)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Treasure_Guard_HS.jpg/revision/latest?cb=20220418235534)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/77/Slithering_Deathscale_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220418235703)](https://static.wikia.nocookie.net/wowpedia/images/7/77/Slithering_Deathscale_HS.jpg/revision/latest?cb=20220418235703)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Spitelash_Siren_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220419002032)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Spitelash_Siren_HS.jpg/revision/latest?cb=20220419002032)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Hedra_the_Heretic_HS.jpg/revision/latest/scale-to-width-down/84?cb=20220419000052)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Hedra_the_Heretic_HS.jpg/revision/latest?cb=20220419000052)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Sunken_Defector_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220419000216)](https://static.wikia.nocookie.net/wowpedia/images/4/40/Sunken_Defector_HS.jpg/revision/latest?cb=20220419000216)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Deep-Sea_Angler_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220517222039)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Deep-Sea_Angler_HS.jpg/revision/latest?cb=20220517222039)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/91/Inkveil_Ambusher_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220612232706)](https://static.wikia.nocookie.net/wowpedia/images/9/91/Inkveil_Ambusher_HS.jpg/revision/latest?cb=20220612232706)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/65/Ancient_Krakenbane_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220612232802)](https://static.wikia.nocookie.net/wowpedia/images/6/65/Ancient_Krakenbane_HS.jpg/revision/latest?cb=20220612232802)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Shellshot_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220612232856)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/Shellshot_HS.jpg/revision/latest?cb=20220612232856)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Eelbound_Archer_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220517222737)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Eelbound_Archer_HS.jpg/revision/latest?cb=20220517222737)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/de/Warden_of_Old_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220528211450)](https://static.wikia.nocookie.net/wowpedia/images/d/de/Warden_of_Old_HS.jpg/revision/latest?cb=20220528211450)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Corrupted_Myrmidon_HS.jpg/revision/latest/scale-to-width-down/102?cb=20220517223938)](https://static.wikia.nocookie.net/wowpedia/images/f/fc/Corrupted_Myrmidon_HS.jpg/revision/latest?cb=20220517223938)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Barbaric_Sorceress_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220419000513)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Barbaric_Sorceress_HS.jpg/revision/latest?cb=20220419000513)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Naga_Giant_HS.jpg/revision/latest/scale-to-width-down/92?cb=20220418233055)](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Naga_Giant_HS.jpg/revision/latest?cb=20220418233055)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Rainbow_Glowscale_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220525114532)](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Rainbow_Glowscale_HS.jpg/revision/latest?cb=20220525114532)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/87/School_Teacher_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220418235013)](https://static.wikia.nocookie.net/wowpedia/images/8/87/School_Teacher_HS.jpg/revision/latest?cb=20220418235013)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Twinbow_Terrorcoil_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220418235351)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Twinbow_Terrorcoil_HS.jpg/revision/latest?cb=20220418235351)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/45/Green-Thumb_Gardener_HS.jpg/revision/latest/scale-to-width-down/87?cb=20220418235826)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Green-Thumb_Gardener_HS.jpg/revision/latest?cb=20220418235826)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Sunken_Saber_HS.jpg/revision/latest/scale-to-width-down/96?cb=20220419001214)](https://static.wikia.nocookie.net/wowpedia/images/6/68/Sunken_Saber_HS.jpg/revision/latest?cb=20220419001214)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Waverider_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220517222813)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Waverider_HS.jpg/revision/latest?cb=20220517222813)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Naga%27s_Pride_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220419002919)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Naga%27s_Pride_HS.jpg/revision/latest?cb=20220419002919)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Sira%27kess_Cultist_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220419002331)](https://static.wikia.nocookie.net/wowpedia/images/0/0c/Sira%27kess_Cultist_HS.jpg/revision/latest?cb=20220419002331)
+    
+
+TCG
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Kalithresh_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20130125154823)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Kalithresh_TCG.jpg/revision/latest?cb=20130125154823)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/50/Leader_of_the_Darkcrest.jpg/revision/latest/scale-to-width-down/120?cb=20121101092422)](https://static.wikia.nocookie.net/wowpedia/images/5/50/Leader_of_the_Darkcrest.jpg/revision/latest?cb=20121101092422)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/db/High_Warlord_Najentus_TCG.jpg/revision/latest/scale-to-width-down/93?cb=20160127175535)](https://static.wikia.nocookie.net/wowpedia/images/d/db/High_Warlord_Najentus_TCG.jpg/revision/latest?cb=20160127175535)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Tidal_Burst_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20110611150923)](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Tidal_Burst_TCG.jpg/revision/latest?cb=20110611150923)
+    
+    Tidal Burst
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Idra%27kess_Enchantress_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20151108190953)](https://static.wikia.nocookie.net/wowpedia/images/f/f0/Idra%27kess_Enchantress_TCG.jpg/revision/latest?cb=20151108190953)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Coilskar_General_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160213194905)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Coilskar_General_TCG.jpg/revision/latest?cb=20160213194905)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Lady-Sira%27kess_tcg.jpg/revision/latest/scale-to-width-down/97?cb=20151006151619)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Lady-Sira%27kess_tcg.jpg/revision/latest?cb=20151006151619)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Naga_Royal_Guard_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20151108190454)](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Naga_Royal_Guard_TCG.jpg/revision/latest?cb=20151108190454)
+    
+
+Comic
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/WoW7CoverSample.jpg/revision/latest/scale-to-width-down/80?cb=20180328021547)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/WoW7CoverSample.jpg/revision/latest?cb=20180328021547)
+    
+
+## Videos
+
+-   [The Stories of the Naga](https://wowpedia.fandom.com/wiki/Naga#)
+
+## Patch changes
+
+## See also
+
+-   [Origin of the races](https://wowpedia.fandom.com/wiki/Origin_of_the_races "Origin of the races")
+-   [Naga (Warcraft III)](https://wowpedia.fandom.com/wiki/Naga_(Warcraft_III) "Naga (Warcraft III)")
+-   [Dead Goliath](https://wowpedia.fandom.com/wiki/Dead_Goliath "Dead Goliath")
+-   [Arcanamental](https://wowpedia.fandom.com/wiki/Arcanamental "Arcanamental")
+
+## References
+
+1.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-NotD3_1-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-NotD3_1-1">b</a></sup> _[Night of the Dragon](https://wowpedia.fandom.com/wiki/Night_of_the_Dragon "Night of the Dragon")_, chapter 3
+2.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-2)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-30\] [Perfectly Pure](https://wowpedia.fandom.com/wiki/Perfectly_Pure)
+3.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-3)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-30\] [The Holy Water of Clarity](https://wowpedia.fandom.com/wiki/The_Holy_Water_of_Clarity_(quest))
+4.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-UVG_4-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-UVG_4-1">b</a></sup> _[Ultimate Visual Guide, Updated and Expanded](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide,_Updated_and_Expanded "Ultimate Visual Guide, Updated and Expanded")_, pg. 198
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Encyclopedia_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Encyclopedia_5-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Encyclopedia_5-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Encyclopedia_5-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Encyclopedia_5-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Encyclopedia_5-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Encyclopedia_5-6">g</a></sup> [The Warcraft Encyclopedia/Naga](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Naga "The Warcraft Encyclopedia/Naga")
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-CV1105_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-CV1105_6-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-CV1105_6-2">c</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 105
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-WA_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-WA_7-1">b</a></sup> [Warbringers: Azshara](https://wowpedia.fandom.com/wiki/Warbringers:_Azshara "Warbringers: Azshara")
+8.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-CV386_8-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-CV386_8-1">b</a></sup> _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 86
+9.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-9) [Words of Wind and Earth](https://wowpedia.fandom.com/wiki/Words_of_Wind_and_Earth "Words of Wind and Earth")
+10.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-10) [The Sundering of the World](https://wowpedia.fandom.com/wiki/The_Sundering_of_the_World "The Sundering of the World")
+11.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-11) [The Tomb of Sargeras (WC3 NightElf)](https://wowpedia.fandom.com/wiki/The_Tomb_of_Sargeras_(WC3_NightElf) "The Tomb of Sargeras (WC3 NightElf)")
+12.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-12) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, chapter 9
+13.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-13) _[World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_
+14.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-14) [Terror of the Tides](https://wowpedia.fandom.com/wiki/Terror_of_the_Tides "Terror of the Tides")
+15.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-15) "[Terror of the Tides](https://wowpedia.fandom.com/wiki/Terror_of_the_Tides "Terror of the Tides"): [The Ruins of Dalaran](https://wowpedia.fandom.com/wiki/The_Ruins_of_Dalaran "The Ruins of Dalaran")", _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_: _[The Frozen Throne](https://wowpedia.fandom.com/wiki/The_Frozen_Throne "The Frozen Throne")_. [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment").
+16.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-16) [Misconceptions (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/Misconceptions_(WC3_BloodElf) "Misconceptions (WC3 BloodElf)")
+17.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-17) [A Dark Covenant (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/A_Dark_Covenant_(WC3_BloodElf) "A Dark Covenant (WC3 BloodElf)")
+18.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-18) [The Dungeons of Dalaran (WC3 BloodElf)](https://wowpedia.fandom.com/wiki/The_Dungeons_of_Dalaran_(WC3_BloodElf) "The Dungeons of Dalaran (WC3 BloodElf)")
+19.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-19) [Old Hatreds (WC3 Orc)](https://wowpedia.fandom.com/wiki/Old_Hatreds_(WC3_Orc) "Old Hatreds (WC3 Orc)")
+20.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-20)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[70D\] [Orders from Lady Vashj](https://wowpedia.fandom.com/wiki/Orders_from_Lady_Vashj_(quest))
+21.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-21) [Lady Vashj (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Lady_Vashj_(tactics)#Quotes "Lady Vashj (tactics)")
+22.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-22) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 12
+23.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-23) _[Pearl of Pandaria](https://wowpedia.fandom.com/wiki/Pearl_of_Pandaria "Pearl of Pandaria")_
+24.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-24) [http://www.worldofwarcraft.com/wrath/features/northrend/borean-tundra.xml](http://www.worldofwarcraft.com/wrath/features/northrend/borean-tundra.xml)
+25.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-25)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-30\] [A Father's Words](https://wowpedia.fandom.com/wiki/A_Father%27s_Words)
+26.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-26) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 205
+27.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-27)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45RWQ\] [Mission: Felrage Destruction](https://wowpedia.fandom.com/wiki/Mission:_Felrage_Destruction)
+28.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-28)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45WQ\] [The Cost of Power](https://wowpedia.fandom.com/wiki/The_Cost_of_Power)
+29.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-29) [Blizzcon 2016 Q&A](http://www.mmo-champion.com/content/6096-BlizzCon-2016-World-of-Warcraft-Q-A)
+30.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-30) **Lady Ssathara says:** The Legion promises us strength, greater than even Lady Azshara can provide!
+31.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-31) **Mistress Sassz'ine yells:** These fools bring the Tidestone to us! Just as our blessed queen foresaw it!
+32.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Zaldraxia_32-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Zaldraxia_32-1">b</a></sup> [Priestess Zaldraxia#Quotes](https://wowpedia.fandom.com/wiki/Priestess_Zaldraxia#Quotes "Priestess Zaldraxia")
+33.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-33) [Stealing the Naga's Secrets (Alliance)#Progress](https://wowpedia.fandom.com/wiki/Stealing_the_Naga%27s_Secrets_(Alliance)#Progress "Stealing the Naga's Secrets (Alliance)")
+34.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-34)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [The Revered Lady](https://wowpedia.fandom.com/wiki/The_Revered_Lady)
+35.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-35)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [Blast Him!](https://wowpedia.fandom.com/wiki/Blast_Him!)
+36.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-36) [Wrath of Azshara#Adventure Guide](https://wowpedia.fandom.com/wiki/Wrath_of_Azshara#Adventure_Guide "Wrath of Azshara")
+37.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-37)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Scouting the Palace](https://wowpedia.fandom.com/wiki/Scouting_the_Palace)
+38.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-38) Generic naga aggro quotes: Die, landwalker!, I'll taste your blood, landwalker!, Perish, landwalker!, etc.
+39.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-39) **[Captive Spitescale Scout](https://wowpedia.fandom.com/wiki/Captive_Spitescale_Scout "Captive Spitescale Scout") says:** I sshal tasste your blood, landling.
+40.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-40) [Coilfang](https://wowpedia.fandom.com/wiki/Coilfang_tribe "Coilfang tribe") ([Coilfang Champion](https://wowpedia.fandom.com/wiki/Coilfang_Champion "Coilfang Champion"), [Coilfang Engineer](https://wowpedia.fandom.com/wiki/Coilfang_Engineer "Coilfang Engineer"), [Coilfang Myrmidon](https://wowpedia.fandom.com/wiki/Coilfang_Myrmidon "Coilfang Myrmidon"), etc.) aggro quote: Die, warmblood!
+41.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-41)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[30-35\] [On Our Own Terms](https://wowpedia.fandom.com/wiki/On_Our_Own_Terms)/ ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[30-35\] [Bring It On!](https://wowpedia.fandom.com/wiki/Bring_It_On!): **Zin'jatar Scout yells:** Sssoftsskinss! Sssoon you shall ssserve my Lady!
+42.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-42) **[Kroniss](https://wowpedia.fandom.com/wiki/Kroniss "Kroniss") says:** Murky waters envelop you, softssskin!
+43.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-43) [Turquoise Turtle](https://wowpedia.fandom.com/wiki/Turquoise_Turtle "Turquoise Turtle")
+44.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-44)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [False Idols](https://wowpedia.fandom.com/wiki/False_Idols)
+45.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-45)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Neptool's Revenge](https://wowpedia.fandom.com/wiki/Neptool%27s_Revenge)
+46.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-46) [A Dark Covenant](https://wowpedia.fandom.com/wiki/A_Dark_Covenant_(WC3_BloodElf) "A Dark Covenant (WC3 BloodElf)"): _"I know this hunger, Kael. Like us, your people are addicted to magic!"_
+47.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-47) [The Old Wizard's Almanac](https://wowpedia.fandom.com/wiki/The_Old_Wizard%27s_Almanac "The Old Wizard's Almanac")
+48.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-48) _[Revelations](https://wowpedia.fandom.com/wiki/Revelations_(comic) "Revelations (comic)")_
+49.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-49)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall Goblin Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest?cb=20200517232328)[![IconSmall Goblin Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest?cb=20200517233321) \[1-20\] [Naga Hide](https://wowpedia.fandom.com/wiki/Naga_Hide)
+50.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-50)  ![](https://static.wikia.nocookie.net/wowpedia/images/3/33/Inv_misc_monsterscales_06.png/revision/latest/scale-to-width-down/16?cb=20060920044925)[\[Intact Naga Hide\]](https://wowpedia.fandom.com/wiki/Intact_Naga_Hide)
+51.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-51)  ![](https://static.wikia.nocookie.net/wowpedia/images/2/29/Inv_leather_raiddruid_m_01belt.png/revision/latest/scale-to-width-down/16?cb=20130102215321)[\[Intact Nazjatar Molting\]](https://wowpedia.fandom.com/wiki/Intact_Nazjatar_Molting)
+52.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-52)  ![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Inv_misc_food_125_fishchunk.png/revision/latest/scale-to-width-down/16?cb=20080814133300)[\[Sashj'tar Air Bladder\]](https://wowpedia.fandom.com/wiki/Sashj%27tar_Air_Bladder)
+53.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-53)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45\] [Fisherman's Tonic](https://wowpedia.fandom.com/wiki/Fisherman%27s_Tonic)
+54.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-54)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50WQ\] [Dirty Dozen](https://wowpedia.fandom.com/wiki/Dirty_Dozen)
+55.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-55)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall Goblin Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest?cb=20200517232328)[![IconSmall Goblin Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest?cb=20200517233321) \[1-20\] [Surrender or Else!](https://wowpedia.fandom.com/wiki/Surrender_or_Else!)
+56.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-56)   ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) [![IconSmall Goblin Male.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest?cb=20200517232328)[![IconSmall Goblin Female.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest?cb=20200517233321) \[1-20\] [Irresistible Pool Pony](https://wowpedia.fandom.com/wiki/Irresistible_Pool_Pony_(quest))
+57.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-57) [Naga Hatchling](https://wowpedia.fandom.com/wiki/Naga_Hatchling "Naga Hatchling")
+58.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-58)  ![](https://static.wikia.nocookie.net/wowpedia/images/3/3c/Inv_babynagablue.png/revision/latest/scale-to-width-down/16?cb=20190813121404)[\[Zanj'ir Poker\]](https://wowpedia.fandom.com/wiki/Zanj%27ir_Poker)
+59.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-59) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 118 - 119
+60.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-MG_105_60-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-MG_105_60-1">b</a></sup> _[Monster Guide](https://wowpedia.fandom.com/wiki/Monster_Guide "Monster Guide")_, pg. 105
+61.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-61) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 24
+62.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-DF_multiple_62-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-DF_multiple_62-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-DF_multiple_62-2">c</a></sup> _Dark Factions_, pg. 12, 66, 85, 119 - 120
+63.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-A&amp;HC_19_63-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-A&amp;HC_19_63-1">b</a></sup> _[Alliance & Horde Compendium](https://wowpedia.fandom.com/wiki/Alliance_%26_Horde_Compendium "Alliance & Horde Compendium")_, pg. 19
+64.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-M&amp;M_66_64-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-M&amp;M_66_64-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-M&amp;M_66_64-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-M&amp;M_66_64-3">d</a></sup> _[Magic & Mayhem](https://wowpedia.fandom.com/wiki/Magic_%26_Mayhem "Magic & Mayhem")_, pg. 66
+65.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-A&HC_72-3_65-0) _Alliance & Horde Compendium_, pg. 72 - 73
+66.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-MG_106_66-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-MG_106_66-1">b</a></sup> _Monster Guide_, pg. 106
+67.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-67) _Alliance & Horde Compendium_, pg. 21
+68.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-68) _Alliance & Horde Compendium_, pg. 73
+69.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-69) _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 67
+70.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-70) _[Dark Factions](https://wowpedia.fandom.com/wiki/Dark_Factions "Dark Factions")_, pg. 180 - 181
+71.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-71)  ![](https://static.wikia.nocookie.net/wowpedia/images/8/8e/Inv_seaeel_teal.png/revision/latest/scale-to-width-down/16?cb=20180415000754)[\[Abyssal Eel\]](https://wowpedia.fandom.com/wiki/Abyssal_Eel_(pet))
+72.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-72) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 1
+73.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-73) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 145 - 146
+74.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Countdown_To_Classic_74-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Countdown_To_Classic_74-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Countdown_To_Classic_74-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-Countdown_To_Classic_74-3">d</a></sup> [Countdown To Classic: Episode #63 – The Making Of World Of Warcraft With Vanilla Dev, John Staats (2:23:20)](https://countdowntoclassic.com/2018/08/20/episode-63-the-making-of-world-of-warcraft-with-vanilla-dev-john-staats/) (2018-08-20). Retrieved on 2018-09-24.
+75.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-MMO-C_Staats_75-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-MMO-C_Staats_75-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Naga#cite_ref-MMO-C_Staats_75-2">c</a></sup> MMO-Champion 2018-09-24. [John Staats Interview - The World of Warcraft Diary (16:00)](https://www.youtube.com/watch?v=L77uPm5cuTo&t=16m). _YouTube_. Retrieved on 2018-09-24.
+76.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-76) [Burning Crusade Behind The Scenes - The Draenei (7:43)](https://www.youtube.com/watch?v=kei61shkWhU&t=7m43s). _YouTube_ (2008-03-19). Retrieved on 2018-09-25.
+77.  [^](https://wowpedia.fandom.com/wiki/Naga#cite_ref-77) Chaud 2013-04-26. [5.2 Live Developer Q&A - Patch 5.2 and Beyond](http://www.mmo-champion.com/threads/1292257-Live-Developer-Q-amp-A-Patch-5-2-and-Beyond). MMO-Champion. Retrieved on 2016-09-02.
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives "Template:Azeroth natives")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives?action=edit)
+
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") native to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+
+
+
+ |
+| --- |
+|  |
+| [Ancient guardian](https://wowpedia.fandom.com/wiki/Ancient_guardian "Ancient guardian") | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Cenarius#Children" title="Cenarius">Cenarian</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dryad" title="Dryad">Dryad</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crystal_dryad" title="Crystal dryad">Crystal dryad</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forest_nymph" title="Forest nymph">Forest nymph</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_nymph" title="Frost nymph">Frost nymph</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Keeper_of_the_grove" title="Keeper of the grove">Keeper of the grove</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Centaur" title="Centaur">Centaur</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Magnataur" title="Magnataur">Magnataur</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Harpy" title="Harpy">Harpy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jalgar" title="Jalgar">Jalgar</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Furbolg" title="Furbolg">Furbolg</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Quilboar_brute" title="Quilboar brute">Quilboar brute</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Worgen" title="Worgen">Worgen</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Troll/Elf | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Troll" title="Troll">Troll</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blood_troll" title="Blood troll">Blood troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dark_troll" title="Dark troll">Dark troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dire_troll" title="Dire troll">Dire troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forest_troll" title="Forest troll">Forest troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ice_troll" title="Ice troll">Ice troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jungle_troll" title="Jungle troll">Jungle troll</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Sand_troll" title="Sand troll">Sand troll</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Zandalari_troll" title="Zandalari troll">Zandalari troll</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Night_elf" title="Night elf">Night elf</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crystal_satyr" title="Crystal satyr">Crystal satyr</a></li><li><strong>Naga</strong><ul><li><a href="https://wowpedia.fandom.com/wiki/Naga_brute" title="Naga brute">Brute</a></li><li><a href="https://wowpedia.fandom.com/wiki/Naga_centaur" title="Naga centaur">Centaur</a></li><li><i><a href="https://wowpedia.fandom.com/wiki/Naga_lord" title="Naga lord">Lord</a></i></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/High_elf" title="High elf">High elf</a>/<a href="https://wowpedia.fandom.com/wiki/Blood_elf" title="Blood elf">Blood elf</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Felblood_elf" title="Felblood elf">Felblood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Void_elf" title="Void elf">Void elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wretched" title="Wretched">Wretched</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nightborne" title="Nightborne">Nightborne</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Nightfallen" title="Nightfallen">Nightfallen</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Withered" title="Withered">Withered</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Fal%27dorei" title="Fal'dorei">Fal'dorei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felborne" title="Felborne">Felborne</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Darkfallen" title="Darkfallen">Darkfallen</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Other | 
+
+<table><tbody><tr><td colspan="2"><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonkin" title="Dragonkin">Dragonkin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drogbar" title="Drogbar">Drogbar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ettin" title="Ettin">Ettin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fungarian" title="Fungarian">Fungarian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Grell" title="Grell">Grell</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hozen" title="Hozen">Hozen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Makrura" title="Makrura">Makrura</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mermaid" title="Mermaid">Mermaid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mistlurker" title="Mistlurker">Mistlurker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pandaren" title="Pandaren">Pandaren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pixie" title="Pixie">Pixie</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ranishu" title="Ranishu">Ranishu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saurok" title="Saurok">Saurok</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethrak" title="Sethrak">Sethrak</a></li><li><a href="https://wowpedia.fandom.com/wiki/Siren" title="Siren">Siren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sprite" title="Sprite">Sprite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Titan-forged" title="Titan-forged">Titan-forged</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tortollan" title="Tortollan">Tortollan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tuskarr" title="Tuskarr">Tuskarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Virmen" title="Virmen">Virmen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vulpera" title="Vulpera">Vulpera</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildkin" title="Wildkin">Wildkin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wolvar" title="Wolvar">Wolvar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Yaungol" title="Yaungol">Yaungol</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Taunka" title="Taunka">Taunka</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tauren" title="Tauren">Tauren</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Highmountain_tauren" title="Highmountain tauren">Highmountain</a></li></ul></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Goblin/Pygmy</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Goblin" title="Goblin">Goblin</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Hobgoblin" title="Hobgoblin">Hobgoblin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gilgoblin" title="Gilgoblin">Gilgoblin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Pygmy" title="Pygmy">Pygmy</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Gorloc</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Gorloc" title="Gorloc">Gorloc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jinyu" title="Jinyu">Jinyu</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ankoan" title="Ankoan">Ankoan</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Murloc" title="Murloc">Murloc</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Deep_sea_murloc" title="Deep sea murloc">Deep sea</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27gul" title="Mur'gul">Mur'gul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mutant_murloc" title="Mutant murloc">Mutant</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Unknown relation</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Jungle_stalker" title="Jungle stalker">Jungle stalker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sasquatch" title="Sasquatch">Sasquatch</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wendigo" title="Wendigo">Wendigo</a></li><li><a href="https://wowpedia.fandom.com/wiki/Yeti" title="Yeti">Yeti</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| 
+
+This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
+
+
+
+ |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Naga "Template:Naga")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Naga?action=edit)
+
+**Naga** [tribes](https://wowpedia.fandom.com/wiki/Category:Naga_tribes "Category:Naga tribes") and groups
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+
+| Expand
+-   [v](https://wowpedia.fandom.com/wiki/Template:Elves "Template:Elves")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Elves?action=edit)
+
+[Elven](https://wowpedia.fandom.com/wiki/Elf "Elf") groups
+
+
+
+ |
+| --- |

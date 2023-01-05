@@ -1,0 +1,384 @@
+**Demigods** (or **demi-gods**) are creatures [eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal") in nature yet capable of ultimate [sacrifice](https://wowpedia.fandom.com/wiki/Sacrifice "Sacrifice").<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-1">[1]</a></sup> Part [god](https://wowpedia.fandom.com/wiki/God "God") and part other, the demigods of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") wield great power and have occasionally played pivotal roles in the planet's history. Unlike gods, most demigods have never been the objects of worship. Few demigods have temples built in their honor. Priesthoods based on the worship of a demigod are extremely rare. Nevertheless, demigods have been revered in the past, and some of them continue to be respected today.<sup id="cite_ref-EnDemigods_2-0"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
+
+They are [immortal](https://wowpedia.fandom.com/wiki/Immortal "Immortal"), but they are neither omniscient nor omnipotent. Otherwise, among other things, they would have known immediately of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s first invasion, and they would have been able to thwart it with ease.<sup id="cite_ref-EnDemigods_2-1"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
+
+Sadly there is no question as to whether or not a demigod can be slain. Several demigods were killed during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), overwhelmed by [demons](https://wowpedia.fandom.com/wiki/Demon "Demon"). In a far more recent tragedy, [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") was killed during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") by mortals under the influence of demon blood: a group of orcs led by [Grom Hellscream](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream").<sup id="cite_ref-EnDemigods_2-2"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
+
+## List
+
+### Ancient Guardians
+
+_Main articles: [Ancient Guardian](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian"), [August Celestial](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")_
+
+The [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") like [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") and [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana") are demigods of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). The [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial") are Ancients who remained in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
+
+### The Scourge
+
+The Scourge is a vast army of the undead controlled by the psychic powers of the Lich King (originally [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"), then [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and now [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")).
+
+### Other
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+### Titans
+
+The [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") are demigods who travel across the cosmos bringing order to worlds such as Azeroth.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-11">[11]</a></sup> The only titans known are their leaders, a group called the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"):
+
+### Former mortals
+
+There are many demigods, but only a few mortals have been called demigods due to the immense power they wield:
+
+-   [![IconSmall Xavius.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/IconSmall_Xavius.gif/revision/latest?cb=20211214170312) [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius") - First of the [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr") and the Nightmare Lord.
+
+## Notes and trivia
+
+-   The antlers sprouting from [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion "Malfurion")'s forehead did not disgust the dainty night elves. They embraced it as a sign of divinity, as if Malfurion now stood as one of the demigods.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-12">[12]</a></sup>
+-   In _[Warcraft: Orcs & Humans](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans_ranks "Warcraft: Orcs & Humans ranks")_ and _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II_ranks "Warcraft II ranks")_, it is a rank you can achieve.
+-   In _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") was a Demigod [hero](https://wowpedia.fandom.com/wiki/Hero "Hero").
+-   Some [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") wonder if the [Highlord](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") could be a demigod.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-13">[13]</a></sup>
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+[Demons](https://wowpedia.fandom.com/wiki/Demon "Demon") could be considered demigods. They are immortal<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-14">[14]</a></sup> just like gods and demigods.
+
+(**An interesting note:** The term Daemon (a variation of the word demon) is the Latin version of the Greek word "δαίμων", meaning "godlike power fate, god")
+
+## References
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+
+-   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
+-   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
+-   [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne")
+-   [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos")<sup>3rd Arbiter</sup>
+-   [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus")
+-   [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")
+-   [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")<sup>1st Arbiter</sup>
+
+
+
+ |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+
+-   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
+-   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
+-   [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane")
+-   [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana")
+-   [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+-   [Ela'lothen](https://wowpedia.fandom.com/wiki/Ela%27lothen "Ela'lothen")
+-   [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn")
+-   [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne")
+-   [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Nemesis](https://wowpedia.fandom.com/wiki/Nemesis "Nemesis")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Ohn'ahra](https://wowpedia.fandom.com/wiki/Ohn%27ahra "Ohn'ahra")
+-   [Omen](https://wowpedia.fandom.com/wiki/Omen "Omen")
+-   [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla")
+-   [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc")
+-   [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol")
+-   [Wolverine guardian](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+-   [Reptilian warrior](https://wowpedia.fandom.com/wiki/Reptilian_warrior "Reptilian warrior")
+-   [Squat warrior ancient](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   [Fox ancient](https://wowpedia.fandom.com/wiki/Fox#Notes "Fox")
+-   [Winged panther ancient](https://wowpedia.fandom.com/wiki/Panther "Panther")
+
+
+
+ |
+|  |
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+
+-   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
+-   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
+-   [Akil'zon](https://wowpedia.fandom.com/wiki/Akil%27zon "Akil'zon")
+-   [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda")
+-   [Bethekk](https://wowpedia.fandom.com/wiki/Bethekk "Bethekk")
+-   [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi")
+-   [Dambala](https://wowpedia.fandom.com/wiki/Dambala "Dambala")
+-   [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk")
+-   [Gral](https://wowpedia.fandom.com/wiki/Gral "Gral")
+-   [Grimath](https://wowpedia.fandom.com/wiki/Grimath "Grimath")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer")
+-   [Halazzi](https://wowpedia.fandom.com/wiki/Halazzi "Halazzi")
+-   [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa")
+-   [Hethiss](https://wowpedia.fandom.com/wiki/Hethiss "Hethiss")
+-   [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek")
+-   [Jan'alai](https://wowpedia.fandom.com/wiki/Jan%27alai "Jan'alai")
+-   [Jani](https://wowpedia.fandom.com/wiki/Jani "Jani")
+-   [Kimbul](https://wowpedia.fandom.com/wiki/Kimbul "Kimbul")
+-   [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa_the_Huge "Krag'wa the Huge")
+-   [Lakali](https://wowpedia.fandom.com/wiki/Lakali "Lakali")
+-   [Lukou](https://wowpedia.fandom.com/wiki/Lukou "Lukou")
+-   [Mam'toth](https://wowpedia.fandom.com/wiki/Mam%27toth "Mam'toth")
+-   [Mueh'zala](https://wowpedia.fandom.com/wiki/Mueh%27zala "Mueh'zala")
+-   [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk")
+-   [Pa'ku](https://wowpedia.fandom.com/wiki/Pa%27ku "Pa'ku")
+-   [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan")
+-   [Rhunok](https://wowpedia.fandom.com/wiki/Rhunok "Rhunok")
+-   [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun")
+-   [Samedi](https://wowpedia.fandom.com/wiki/Samedi "Samedi")
+-   [Sethraliss](https://wowpedia.fandom.com/wiki/Sethraliss "Sethraliss")
+-   [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra")
+-   [Shango](https://wowpedia.fandom.com/wiki/Shango "Shango")
+-   [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah")
+-   [Sseratus](https://wowpedia.fandom.com/wiki/Sseratus "Sseratus")
+-   [Torga](https://wowpedia.fandom.com/wiki/Torga "Torga")
+-   [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja")
+-   [Torcali](https://wowpedia.fandom.com/wiki/Torcali "Torcali")
+-   [Xibala](https://wowpedia.fandom.com/wiki/Xibala_(devilsaur) "Xibala (devilsaur)")
+-   [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless")
+
+
+
+ |
+|  |
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
+-   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
+-   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
+-   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
+-   [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan")<sup>2nd, air</sup>
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
+-   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
+    -   [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu")
+    -   [Ka'alu](https://wowpedia.fandom.com/wiki/Ka%27alu "Ka'alu")
+    -   [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar")<sup><a href="https://wowpedia.fandom.com/wiki/Rukhmar_(alternate_universe)" title="Rukhmar (alternate universe)">alternate</a></sup>
+    -   [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe")<sup><a href="https://wowpedia.fandom.com/wiki/Sethe_(alternate_universe)" title="Sethe (alternate universe)">alternate</a></sup>
+    -   [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk")
+-   [Arkkoroc](https://wowpedia.fandom.com/wiki/Lord_Arkkoroc "Lord Arkkoroc")
+-   [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")
+    -   [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji")
+    -   [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao")
+    -   [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")
+    -   [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon")
+-   [Drakkari gods](https://wowpedia.fandom.com/wiki/Drakkari_tribe#Faith "Drakkari tribe")
+    -   [Dubra'Jin](https://wowpedia.fandom.com/wiki/Dubra%27Jin_(god) "Dubra'Jin (god)")
+    -   [Zim'Abwa](https://wowpedia.fandom.com/wiki/Zim%27Abwa_(god) "Zim'Abwa (god)")
+    -   [Zim'Rhuk](https://wowpedia.fandom.com/wiki/Zim%27Rhuk_(god) "Zim'Rhuk (god)")
+    -   [Zim'Torga](https://wowpedia.fandom.com/wiki/Zim%27Torga_(goddess) "Zim'Torga (goddess)")
+-   [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")
+-   [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones")
+-   [Gahz'rilla](https://wowpedia.fandom.com/wiki/Gahz%27rilla "Gahz'rilla")
+-   [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros")
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Mazu](https://wowpedia.fandom.com/wiki/Mazu "Mazu")
+-   [Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak")
+-   [Nhal'athoth](https://wowpedia.fandom.com/wiki/Nhal%27athoth "Nhal'athoth")
+-   [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos")
+-   [Primordial Aspects](https://wowpedia.fandom.com/wiki/Primordial_Aspects "Primordial Aspects")
+    -   [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur")
+-   [Tauren gods](https://wowpedia.fandom.com/wiki/Tauren#Faith "Tauren")
+    -   [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")
+    -   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+    -   [Lo'sho](https://wowpedia.fandom.com/wiki/Lo%27sho "Lo'sho")
+    -   [Mu'sha](https://wowpedia.fandom.com/wiki/Elune "Elune")
+    -   [Sky Father](https://wowpedia.fandom.com/wiki/Sky_Father "Sky Father")
+-   [Tuskarr gods](https://wowpedia.fandom.com/wiki/Tuskarr#Faith "Tuskarr")
+    -   [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk")
+    -   [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut")
+    -   [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa")
+    -   [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka")
+-   [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")
+    -   [Dimensius](https://wowpedia.fandom.com/wiki/Dimensius "Dimensius")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+    -   [Aliothe](https://wowpedia.fandom.com/wiki/Aliothe "Aliothe")
+    -   Falir
+    -   Lia
+    -   [Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard")
+    -   Ohm
+-   [Volcanoth](https://wowpedia.fandom.com/wiki/Volcanoth "Volcanoth")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+-   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
+-   [One in the Deeps](https://wowpedia.fandom.com/wiki/One_in_the_Deeps "One in the Deeps")
+-   [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa#In_the_RPG "Loa") ([Legba](https://wowpedia.fandom.com/wiki/Legba "Legba")
+-   [Ogoun](https://wowpedia.fandom.com/wiki/Ogoun "Ogoun"))
+
+
+
+ |
+|  |
+| 
+
+-   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life"))
+-   [Religion](https://wowpedia.fandom.com/wiki/Religion "Religion")
+-   [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")
+-   [God](https://wowpedia.fandom.com/wiki/God "God")
+-   **Demigod**
+-   [Wild God](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs "Template:Religions and beliefs")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Religions_and_beliefs?action=edit)
+
+[Religions](https://wowpedia.fandom.com/wiki/Religion "Religion") and beliefs
+
+
+
+ |
+| --- |
+|  |
+| [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") | 
+
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [alternate](https://wowpedia.fandom.com/wiki/Shadow_Council_(alternate_universe) "Shadow Council (alternate universe)")
+    -   [Argus Wake](https://wowpedia.fandom.com/wiki/Argus_Wake "Argus Wake")
+    -   [Burning Blade](https://wowpedia.fandom.com/wiki/Burning_Blade "Burning Blade")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Cult of the Dark Strand](https://wowpedia.fandom.com/wiki/Cult_of_the_Dark_Strand "Cult of the Dark Strand")
+    -   [Searing Blade](https://wowpedia.fandom.com/wiki/Searing_Blade "Searing Blade")
+
+
+
+ |
+|  |
+| [Holy](https://wowpedia.fandom.com/wiki/Light "Light") | 
+
+-   [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")
+-   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
+-   [Adherents of Rukhmar](https://wowpedia.fandom.com/wiki/Adherents_of_Rukhmar "Adherents of Rukhmar")
+-   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+
+
+
+ |
+|  |
+| [Shadow](https://wowpedia.fandom.com/wiki/Void "Void") | 
+
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Talonpriests](https://wowpedia.fandom.com/wiki/Talonpriest "Talonpriest")
+-   [Sethekk](https://wowpedia.fandom.com/wiki/Sethekk "Sethekk")
+    -   [alternate](https://wowpedia.fandom.com/wiki/Sethekk_(alternate_universe) "Sethekk (alternate universe)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+
+
+
+ |
+|  |
+| [Nature](https://wowpedia.fandom.com/wiki/Nature "Nature") | 
+
+-   [Druidism](https://wowpedia.fandom.com/wiki/Druid "Druid")
+-   [Geomancy](https://wowpedia.fandom.com/wiki/Geomancer "Geomancer")
+-   [Shamanism](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship")
+
+
+
+ |
+|  |
+| [Necromantic](https://wowpedia.fandom.com/wiki/Necromantic "Necromantic") | 
+
+-   [Cult of the Damned](https://wowpedia.fandom.com/wiki/Cult_of_the_Damned "Cult of the Damned")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Arkkoran](https://wowpedia.fandom.com/wiki/Arkkoran "Arkkoran")
+-   [Cult of Ragnaros](https://wowpedia.fandom.com/wiki/Cult_of_Ragnaros "Cult of Ragnaros")
+-   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+-   [Huojin](https://wowpedia.fandom.com/wiki/Huojin "Huojin")
+-   [Ravenspeakers](https://wowpedia.fandom.com/wiki/Ravenspeakers "Ravenspeakers")
+-   [Tidemother](https://wowpedia.fandom.com/wiki/Tidemother "Tidemother") ([Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages"))
+-   [Tushui](https://wowpedia.fandom.com/wiki/Tushui "Tushui")
+-   [Voodoo](https://wowpedia.fandom.com/wiki/Voodoo "Voodoo")
+-   [Waterspeaking](https://wowpedia.fandom.com/wiki/Waterspeaker "Waterspeaker")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") | 
+
+-   [Arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") ([Echo of Life](https://wowpedia.fandom.com/wiki/Echo_of_Life "Echo of Life"))
+-   [Cult of the Burning Legion](https://wowpedia.fandom.com/wiki/Cult_of_the_Burning_Legion "Cult of the Burning Legion")
+-   [Fel](https://wowpedia.fandom.com/wiki/Fel "Fel") ([Demonology](https://wowpedia.fandom.com/wiki/Demonology_(lore) "Demonology (lore)"))
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light") ([Faith of the Holy Light](https://wowpedia.fandom.com/wiki/Faith_of_the_Holy_Light "Faith of the Holy Light")
+-   [Heretics of the Holy Light](https://wowpedia.fandom.com/wiki/Heretics_of_the_Holy_Light "Heretics of the Holy Light"))
+-   [Mystery of the Makers](https://wowpedia.fandom.com/wiki/Mystery_of_the_Makers "Mystery of the Makers")
+-   [Sect of the Dragons](https://wowpedia.fandom.com/wiki/Sect_of_the_Dragons "Sect of the Dragons")
+-   [Shamanism](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship") ([Ancestral worship](https://wowpedia.fandom.com/wiki/Ancestral_worship "Ancestral worship")
+-   [Animism](https://wowpedia.fandom.com/wiki/Animism "Animism")
+-   [Spirit guidance](https://wowpedia.fandom.com/wiki/Spirit_guidance "Spirit guidance"))
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+
+
+
+ |
+
+Others like you also viewed

@@ -1,0 +1,327 @@
+_This article is about the rulers of the Shadowlands. For the pantheon of the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan"), see [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"). For the_ [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") _term for immortal beings, see [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")._
+
+| Eternal Ones |
+| --- |
+| [![Covenants of the Shadowlands.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/05/Covenants_of_the_Shadowlands.jpg/revision/latest/scale-to-width-down/300?cb=20210226194432)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Covenants_of_the_Shadowlands.jpg/revision/latest?cb=20210226194432)
+Three of the Eternal Ones (and [Margrave Krexus](https://wowpedia.fandom.com/wiki/Margrave_Krexus "Margrave Krexus")) on the "Covenants of the Shadowlands" key art.
+
+ |
+| Faction/Affiliation | [Pantheon of Death](https://wowpedia.fandom.com/wiki/Pantheon_of_Death "Pantheon of Death")  
+[Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") |
+| Racial capital | [The Crucible](https://wowpedia.fandom.com/wiki/Crucible_(Oribos) "Crucible (Oribos)")  
+[Torghast](https://wowpedia.fandom.com/wiki/Torghast "Torghast") |
+| Racial leader(s) | [![IconSmall Pelagos.gif](https://static.wikia.nocookie.net/wowpedia/images/d/db/IconSmall_Pelagos.gif/revision/latest/scale-to-width-down/16?cb=20220421091158)](https://static.wikia.nocookie.net/wowpedia/images/d/db/IconSmall_Pelagos.gif/revision/latest?cb=20220421091158) [Arbiter Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos") |
+|   Formerly | [![IconSmall Arbiter.gif](https://static.wikia.nocookie.net/wowpedia/images/1/15/IconSmall_Arbiter.gif/revision/latest/scale-to-width-down/16?cb=20211206120625)](https://static.wikia.nocookie.net/wowpedia/images/1/15/IconSmall_Arbiter.gif/revision/latest?cb=20211206120625) [The Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter") <sup>&nbsp;†</sup>  
+[![IconSmall TheJailer2.gif](https://static.wikia.nocookie.net/wowpedia/images/f/f6/IconSmall_TheJailer2.gif/revision/latest/scale-to-width-down/16?cb=20220314162845)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/IconSmall_TheJailer2.gif/revision/latest?cb=20220314162845) [Zovaal the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal") <sup>&nbsp;†</sup> |
+| Homeworld | [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") |
+
+The **Eternal Ones** (sometimes called the **Eternals**<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-1">[1]</a></sup> or **lords of death**)<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-2">[2]</a></sup><sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-4">[4]</a></sup> are the most powerful beings in the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")<sup id="cite_ref-Ba'hare_5-0"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Ba'hare-5">[5]</a></sup> and rule over the realm of [Death](https://wowpedia.fandom.com/wiki/Death "Death"). They founded four [covenants](https://wowpedia.fandom.com/wiki/Covenant "Covenant") for the purpose of carrying out the many duties required to maintain their respective realms, and each one rules over one of the six main realms of the Shadowlands: [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne") over the [kyrian](https://wowpedia.fandom.com/wiki/Kyrian "Kyrian") and [Bastion](https://wowpedia.fandom.com/wiki/Bastion "Bastion"), the [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus") over the [necrolords](https://wowpedia.fandom.com/wiki/Necrolord "Necrolord") and [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus"), the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen") over the [night fae](https://wowpedia.fandom.com/wiki/Night_fae "Night fae") and [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald"), [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius") over the [venthyr](https://wowpedia.fandom.com/wiki/Venthyr "Venthyr") and [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth"), the [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter_(title) "Arbiter (title)") over the [attendants](https://wowpedia.fandom.com/wiki/Attendant "Attendant") and [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos"), and [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal") over the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") and the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw"), which does not have a covenant as it prefers to torture souls rather than work with them.<sup id="cite_ref-Grimoire_61_6-0"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Grimoire_61-6">[6]</a></sup>
+
+Together, the Eternal Ones make up the **Pantheon of Death**.<sup id="cite_ref-Grimoire_61_6-1"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Grimoire_61-6">[6]</a></sup><sup id="cite_ref-Grimoire_135_7-0"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Grimoire_135-7">[7]</a></sup><sup id="cite_ref-Danuser_8-0"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Danuser-8">[8]</a></sup> They are one of several pantheons that were created by the [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones") to embody the six cosmic forces<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-9">[9]</a></sup> and were created by the First Ones in their realm of [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis").<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-10">[10]</a></sup> Their physical bodies were forged in the Endless Foundry within the [Sepulcher of the First Ones](https://wowpedia.fandom.com/wiki/Sepulcher_of_the_First_Ones "Sepulcher of the First Ones") and then infused with souls. The [Prototype Pantheon](https://wowpedia.fandom.com/wiki/Prototype_Pantheon "Prototype Pantheon") are a group of incomplete prototypes of them.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-11">[11]</a></sup> The Eternal Ones are forbidden from returning to Zereth Mortis according to the laws of the First Ones.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-12">[12]</a></sup> Long ago, each Eternal One was given a [sigil](https://wowpedia.fandom.com/wiki/Sigil "Sigil") symbolizing their covenant's purpose.<sup id="cite_ref-Voices_13-0"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Voices-13">[13]</a></sup> Zovaal served as the original [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter_(title) "Arbiter (title)"), until he betrayed the rest of the pantheon. Led by the Primus, they united against him, imprisoned him in the Maw, and created a [new Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter") to replace him.<sup id="cite_ref-Voices_13-1"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Voices-13">[13]</a></sup><sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-14">[14]</a></sup>
+
+The pantheon's traditional meeting place is the [Crucible](https://wowpedia.fandom.com/wiki/Crucible_(Oribos) "Crucible (Oribos)") atop [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos").<sup id="cite_ref-Ba'hare_5-1"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Ba'hare-5">[5]</a></sup> The pillar where Zovaal once stood has since been broken.
+
+At least some attendants pray to the Eternal Ones like deities.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-15">[15]</a></sup>
+
+## Known Eternal Ones
+
+| Name | Realm | Faction | Description | Status |
+| --- | --- | --- | --- | --- |
+| [![IconSmall Kyrestia.gif](https://static.wikia.nocookie.net/wowpedia/images/a/a3/IconSmall_Kyrestia.gif/revision/latest/scale-to-width-down/16?cb=20200428111150)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/IconSmall_Kyrestia.gif/revision/latest?cb=20200428111150) [Kyrestia the Firstborne](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne") | [Bastion](https://wowpedia.fandom.com/wiki/Bastion "Bastion") | [Kyrian](https://wowpedia.fandom.com/wiki/Kyrian_Covenant "Kyrian Covenant") | Archon of the kyrian, whose duty is to ferry souls across the [veil](https://wowpedia.fandom.com/wiki/Veil "Veil") to Oribos. | Active |
+| [![IconSmall Pelagos.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/db/IconSmall_Pelagos.gif/revision/latest?cb=20220421091158) [Arbiter Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos") | [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos") | [Attendants](https://wowpedia.fandom.com/wiki/Attendant "Attendant") | [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter_(title) "Arbiter (title)") of all mortal souls entering the Shadowlands. Took the place of the destroyed second Arbiter. | Active |
+| [![IconSmall Primus.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Primus.gif/revision/latest?cb=20210425092356) [The Primus](https://wowpedia.fandom.com/wiki/Primus "Primus") | [Maldraxxus](https://wowpedia.fandom.com/wiki/Maldraxxus "Maldraxxus") | [Necrolords](https://wowpedia.fandom.com/wiki/Necrolord_Covenant "Necrolord Covenant") | Ruler of the necrolords, who defend the Shadowlands from outside threats. Legendary tactician, weaponsmith, and creator of necromantic [rune magic](https://wowpedia.fandom.com/wiki/Rune_magic "Rune magic") and [Domination](https://wowpedia.fandom.com/wiki/Domination "Domination") magic. Long went missing due to being imprisoned by the Jailer and turned into the [Runecarver](https://wowpedia.fandom.com/wiki/Runecarver "Runecarver") before being freed by [Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker"). | Active |
+| [![IconSmall WinterQueen.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e5/IconSmall_WinterQueen.gif/revision/latest?cb=20200428135018) [The Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen") | [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald") | [Night Fae](https://wowpedia.fandom.com/wiki/Night_Fae_Covenant "Night Fae Covenant") | Queen of the night fae, who ensure the rebirth of deceased [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God") and nature spirits. Sister and counterpart to [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune"). | Active |
+| [![IconSmall Arbiter.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/15/IconSmall_Arbiter.gif/revision/latest?cb=20211206120625) [The Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup id="cite_ref-Morgan_16-0"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Morgan-16">[16]</a></sup><sup id="cite_ref-Seek_the_Ascended_17-0"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Seek_the_Ascended-17">[17]</a></sup> | [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos") | [Attendants](https://wowpedia.fandom.com/wiki/Attendant "Attendant") | The judge of all mortal souls that entered the Shadowlands. Constructed to replace Zovaal and later destroyed by him. | Destroyed |
+| [![IconSmall Denathrius.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/IconSmall_Denathrius.gif/revision/latest?cb=20220224092815) [Sire Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius") | [Revendreth](https://wowpedia.fandom.com/wiki/Revendreth "Revendreth") | [Venthyr](https://wowpedia.fandom.com/wiki/Venthyr_Covenant "Venthyr Covenant") | Sire of the [venthyr](https://wowpedia.fandom.com/wiki/Venthyr "Venthyr"), who are responsible for redeeming sinful souls, and the [nathrezim](https://wowpedia.fandom.com/wiki/Nathrezim "Nathrezim"), who were created to infiltrate the other cosmic forces. Betrayed the rest of the pantheon to side with the Jailer. Replaced as ruler of Revendreth by [Court of Harvesters](https://wowpedia.fandom.com/wiki/Court_of_Harvesters "Court of Harvesters") collectively. | Active |
+| [![IconSmall TheJailer2.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/IconSmall_TheJailer2.gif/revision/latest?cb=20220314162845) [Zovaal the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal") | [The Maw](https://wowpedia.fandom.com/wiki/Maw "Maw") | [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") | Originally the [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter_(title) "Arbiter (title)"), but betrayed the rest of the pantheon and was sentenced to become the Jailer of the irredeemable souls trapped in the Maw. Tried to use the knowledge in the [Sepulcher of the First Ones](https://wowpedia.fandom.com/wiki/Sepulcher_of_the_First_Ones "Sepulcher of the First Ones") to remake reality but was defeated by the [Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker"). | Deceased |
+
+## Notes
+
+-   Lead designer [Morgan Day](https://wowpedia.fandom.com/wiki/Morgan_Day "Morgan Day") described the Eternal Ones as being on par with the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan").<sup id="cite_ref-Morgan_16-1"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Morgan-16">[16]</a></sup> Art director [Ely Cannon](https://wowpedia.fandom.com/wiki/Ely_Cannon "Ely Cannon") described the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen") as "something kind of right below \[a titan\]".<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-18">[18]</a></sup> Game director [Ion Hazzikostas](https://wowpedia.fandom.com/wiki/Ion_Hazzikostas "Ion Hazzikostas") said that the end boss of Shadowlands, [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal"), needed to be "titan-level"<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-19">[19]</a></sup> or "titan plus plus level", like Argus and N'Zoth for, respectively, _Legion_ and _Battle for Azeroth_, implying he was being metaphorical rather than literal.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-20">[20]</a></sup> Zovaal is apparently more powerful than the rest of the pantheon, since all of his kin needed to unite to banish him.<sup id="cite_ref-Grimoire_135_7-1"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-Grimoire_135-7">[7]</a></sup>
+-   If a player dies and resurrects in the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw"), they temporarily gain the  ![](https://static.wikia.nocookie.net/wowpedia/images/8/86/Ability_priest_spiritoftheredeemer.png/revision/latest/scale-to-width-down/16?cb=20160822183143)[\[Edict of the Eternal Ones\]](https://wowpedia.fandom.com/wiki/Edict_of_the_Eternal_Ones) buff.
+-   The Archon refers to the Sire as "our" brother,<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-21">[21]</a></sup> the Primus refers to the Jailer as "our" brother,<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-22">[22]</a></sup> and the Jailer refers to himself as the Archon's brother,<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-23">[23]</a></sup> but the Winter Queen refers to the Primus as an "old friend"<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-24">[24]</a></sup> and to [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune") as her sister.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-25">[25]</a></sup>
+-   After a bug enabled a [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") player's [Doomguard](https://wowpedia.fandom.com/wiki/Doomguard_(warlock_minion) "Doomguard (warlock minion)") to kill Kyrestia the Firstborne within the [Spires of Ascension](https://wowpedia.fandom.com/wiki/Spires_of_Ascension "Spires of Ascension"), the message "As the Archon perishes, all life in the zone is wiped out!" was displayed.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_note-26">[26]</a></sup> This seems to suggest that the death of an Eternal One destroys their corresponding realm. However, since the message could only be triggered by exploiting a bug, it is likely a remnant of a scrapped earlier version of the encounter and its canonicity is uncertain.
+-   In  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Looming Dark](https://wowpedia.fandom.com/wiki/The_Looming_Dark), [Prince Renathal](https://wowpedia.fandom.com/wiki/Prince_Renathal "Prince Renathal") represents the [Venthyr Covenant](https://wowpedia.fandom.com/wiki/Venthyr_Covenant "Venthyr Covenant") in place of the traitorous Denathrius, but no one represents the missing Primus or the [Necrolord Covenant](https://wowpedia.fandom.com/wiki/Necrolord_Covenant "Necrolord Covenant"). In  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Voices of the Eternal](https://wowpedia.fandom.com/wiki/Voices_of_the_Eternal), [Baroness Draka](https://wowpedia.fandom.com/wiki/Draka "Draka") represents the Necrolords.
+-   The four governing zones of the Shadowlands have aristocratic secondary leadership. The Winter Queen has the [Court of Night](https://wowpedia.fandom.com/wiki/Court_of_Night "Court of Night"), Sire Denathrius has the [Court of Harvesters](https://wowpedia.fandom.com/wiki/Court_of_Harvesters "Court of Harvesters"), the Primus has the [margraves](https://wowpedia.fandom.com/wiki/Maldraxxi#Organization "Maldraxxi") of the five houses, and the Archon has the [Paragons](https://wowpedia.fandom.com/wiki/Kyrian#Paragons_and_Hands "Kyrian") of the five temples. The Arbiter is served by [attendants](https://wowpedia.fandom.com/wiki/Attendant "Attendant") of various ranks. The Maw's hierarchy below the Jailer is unclear, though he does have [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") and [Helya](https://wowpedia.fandom.com/wiki/Helya "Helya") acting as primary lieutenants.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/aa/Arbiter_Pelagos_with_Crown.png/revision/latest/scale-to-width-down/213?cb=20220402101245)](https://static.wikia.nocookie.net/wowpedia/images/a/aa/Arbiter_Pelagos_with_Crown.png/revision/latest?cb=20220402101245)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/50/The_Arbiter.jpg/revision/latest/scale-to-width-down/264?cb=20201126000341)](https://static.wikia.nocookie.net/wowpedia/images/5/50/The_Arbiter.jpg/revision/latest?cb=20201126000341)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/62/Kyrestia_the_Firstborne.jpg/revision/latest/scale-to-width-down/290?cb=20200508175908)](https://static.wikia.nocookie.net/wowpedia/images/6/62/Kyrestia_the_Firstborne.jpg/revision/latest?cb=20200508175908)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Primus_in_Korthia.png/revision/latest/scale-to-width-down/141?cb=20210812191619)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Primus_in_Korthia.png/revision/latest?cb=20210812191619)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Winter_Queen.jpg/revision/latest/scale-to-width-down/118?cb=20201226224620)](https://static.wikia.nocookie.net/wowpedia/images/b/bf/Winter_Queen.jpg/revision/latest?cb=20201226224620)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Sire_Denathrius.png/revision/latest/scale-to-width-down/98?cb=20201212194649)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Sire_Denathrius.png/revision/latest?cb=20201212194649)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Eternity%27s_End_-_Zovaal.jpg/revision/latest/scale-to-width-down/148?cb=20211113144337)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Eternity%27s_End_-_Zovaal.jpg/revision/latest?cb=20211113144337)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Empty_Vessel.jpg/revision/latest/scale-to-width-down/101?cb=20220315181914)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Empty_Vessel.jpg/revision/latest?cb=20220315181914)
+    
+    The empty [Vessel](https://wowpedia.fandom.com/wiki/Vessel "Vessel") of an Eternal One
+    
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-1)  ![](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Inv_trinket_progenitorraid_02_orange.png/revision/latest/scale-to-width-down/16?cb=20221020110920)[\[Elegy of the Eternals\]](https://wowpedia.fandom.com/wiki/Elegy_of_the_Eternals)
+2.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-2) Blizzard Entertainment 2019-11-26. [BlizzCon 2019 | World of Warcraft: What's Next | Full Panel (23:30)](https://www.youtube.com/watch?v=-Q67Upjq7H8&t=1410). YouTube. Retrieved on 2020-12-27.
+3.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-3) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_, pg. 237: _"[Your](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") [queen](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") has made some nasty friends on the Other Side. The power she has been granted can be taken away, the lords of death will never let her win."_
+4.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-4)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Master of Lies](https://wowpedia.fandom.com/wiki/The_Master_of_Lies): "Three Harvesters and a Maw Walker infused by the raw power of anima from the many realms of the Shadowlands against [one lord of death](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius"), whose dominion we stand upon the precipice of."
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Ba'hare_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Ba'hare_5-1">b</a></sup> [Opulence Ba'hare#Quotes](https://wowpedia.fandom.com/wiki/Opulence_Ba%27hare#Quotes "Opulence Ba'hare")
+6.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Grimoire_61_6-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Grimoire_61_6-1">b</a></sup> _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 61
+7.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Grimoire_135_7-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Grimoire_135_7-1">b</a></sup> _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 135
+8.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Danuser_8-0) perculia 2020-07-09. [Shadowlands Lore Interview with Lead Narrative Designer Steve Danuser - Elune, Sylvanas, Calia](https://web.archive.org/web/20200709151148/https://www.wowhead.com/news=316807/shadowlands-lore-interview-with-lead-narrative-designer-steve-danuser-elune-sylv). Wowhead. Archived from [the original](https://www.wowhead.com/news=316807/) on 2020-07-09.
+9.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-9) _[World of Warcraft: Grimoire of the Shadowlands and Beyond](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Grimoire_of_the_Shadowlands_and_Beyond "World of Warcraft: Grimoire of the Shadowlands and Beyond")_, pg. 151
+10.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-10)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Oracle, Heal Thyself](https://wowpedia.fandom.com/wiki/Oracle,_Heal_Thyself)
+11.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-11) [Prototype Pantheon#Adventure Guide](https://wowpedia.fandom.com/wiki/Prototype_Pantheon#Adventure_Guide "Prototype Pantheon")
+12.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-12)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Hasty Voyage](https://wowpedia.fandom.com/wiki/A_Hasty_Voyage)
+13.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Voices_13-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Voices_13-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Voices of the Eternal](https://wowpedia.fandom.com/wiki/Voices_of_the_Eternal)
+14.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-14)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Covenants Renewed](https://wowpedia.fandom.com/wiki/Covenants_Renewed)
+15.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-15)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Echoes of Fate](https://wowpedia.fandom.com/wiki/Echoes_of_Fate)
+16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Morgan_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Morgan_16-1">b</a></sup> Anshlun 2020-07-09. [Lordmons Interview with Morgan Day Highlights - Pantheon of Death, Legendary Power Unlock](https://web.archive.org/web/20200710005516/https://www.wowhead.com/news=316822/lordmons-interview-with-morgan-day-highlights-pantheon-of-death-legendary-power-). Wowhead. Archived from [the original](https://www.wowhead.com/news=316822/) on 2020-07-10.
+17.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-Seek_the_Ascended_17-0)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Seek the Ascended](https://wowpedia.fandom.com/wiki/Seek_the_Ascended)
+18.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-18) Garth Holden 2020-08-20. [A deep dive into Ardenweald, the Shadowlands realm of hibernation](https://web.archive.org/web/20210913194430/https://sagamer.co.za/2020/08/20/a-deep-dive-into-ardenweald-the-shadowlands-realm-of-hibernation/). Archived from [the original](https://sagamer.co.za/2020/08/20/a-deep-dive-into-ardenweald-the-shadowlands-realm-of-hibernation/) on 2021-09-13.
+19.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-19) Jez Corden 2020-07-09. [World of Warcraft Shadowlands interview: Customization, progression, balance, and more with Ion Hazzikostas](https://web.archive.org/web/20200714130744/https://www.windowscentral.com/world-warcraft-shadowlands-big-interview-game-director-ion-hazzikostas). Windows Central. Archived from [the original](https://www.windowscentral.com/world-warcraft-shadowlands-big-interview-game-director-ion-hazzikostas) on 2020-07-14.
+20.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-20) perculia 2020-07-09. [The Final Boss of Shadowlands](https://web.archive.org/web/20200709151219/https://www.wowhead.com/news=316804/the-final-boss-of-shadowlands). Wowhead. Archived from [the original](https://www.wowhead.com/news=316804/) on 2020-07-09.
+21.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-21)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The Looming Dark](https://wowpedia.fandom.com/wiki/The_Looming_Dark)
+22.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-22)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[53-60\] [The Door to the Unknown](https://wowpedia.fandom.com/wiki/The_Door_to_the_Unknown)
+23.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [The First Move](https://wowpedia.fandom.com/wiki/The_First_Move)
+24.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[55-60\] [The Court of Winter](https://wowpedia.fandom.com/wiki/The_Court_of_Winter)
+25.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-25)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [Inform the Primus](https://wowpedia.fandom.com/wiki/Inform_the_Primus)
+26.  [^](https://wowpedia.fandom.com/wiki/Eternal_Ones#cite_ref-26) Bad-Revan 2020-12-28. [Worlds First 'Kyrestia the Firstborne' Kill](https://www.reddit.com/r/wow/comments/klhfmg/worlds_first_kyrestia_the_firstborne_kill/). Reddit. Retrieved on 2021-03-07.
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
+
+[Divinities](https://wowpedia.fandom.com/wiki/Religion "Religion")
+
+
+
+ |
+| --- |
+|  |
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+
+-   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
+-   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
+-   [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus (titan)")
+-   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(titan) "Azeroth (titan)")
+-   [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar")
+-   [Golganneth](https://wowpedia.fandom.com/wiki/Golganneth "Golganneth")
+-   [Khaz'goroth](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth")
+-   [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon")
+-   [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras")
+
+
+
+ |
+|  |
+| **Eternal Ones** | 
+
+-   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
+-   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
+-   [Kyrestia](https://wowpedia.fandom.com/wiki/Kyrestia_the_Firstborne "Kyrestia the Firstborne")
+-   [Pelagos](https://wowpedia.fandom.com/wiki/Pelagos "Pelagos")<sup>3rd Arbiter</sup>
+-   [Primus](https://wowpedia.fandom.com/wiki/Primus "Primus")
+-   [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen "Winter Queen")
+-   [Zovaal](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal")<sup>1st Arbiter</sup>
+
+
+
+ |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+
+-   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
+-   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
+-   [Ashamane](https://wowpedia.fandom.com/wiki/Ashamane "Ashamane")
+-   [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana")
+-   [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius")
+-   [Ela'lothen](https://wowpedia.fandom.com/wiki/Ela%27lothen "Ela'lothen")
+-   [Goldrinn](https://wowpedia.fandom.com/wiki/Goldrinn "Goldrinn")
+-   [L'ghorek](https://wowpedia.fandom.com/wiki/L%27ghorek "L'ghorek")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Lycanthoth](https://wowpedia.fandom.com/wiki/Lycanthoth "Lycanthoth")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Malorne](https://wowpedia.fandom.com/wiki/Malorne "Malorne")
+-   [Nespirah](https://wowpedia.fandom.com/wiki/Nespirah "Nespirah")<sup><a href="https://wowpedia.fandom.com/wiki/Vashj%27ir_ancient" title="Vashj'ir ancient">Vashj'ir</a></sup>
+-   [Nemesis](https://wowpedia.fandom.com/wiki/Nemesis "Nemesis")<sup><a href="https://wowpedia.fandom.com/wiki/Ancient_Guardian#Dark_Ancients" title="Ancient Guardian">Dark</a></sup>
+-   [Ohn'ahra](https://wowpedia.fandom.com/wiki/Ohn%27ahra "Ohn'ahra")
+-   [Omen](https://wowpedia.fandom.com/wiki/Omen "Omen")
+-   [Tortolla](https://wowpedia.fandom.com/wiki/Tortolla "Tortolla")
+-   [Ursoc](https://wowpedia.fandom.com/wiki/Ursoc "Ursoc")
+-   [Ursol](https://wowpedia.fandom.com/wiki/Ursol "Ursol")
+-   [Wolverine guardian](https://wowpedia.fandom.com/wiki/Wolverine_guardian "Wolverine guardian")
+-   [Reptilian warrior](https://wowpedia.fandom.com/wiki/Reptilian_warrior "Reptilian warrior")
+-   [Squat warrior ancient](https://wowpedia.fandom.com/wiki/Squat_warrior_ancient "Squat warrior ancient")
+-   [Fox ancient](https://wowpedia.fandom.com/wiki/Fox#Notes "Fox")
+-   [Winged panther ancient](https://wowpedia.fandom.com/wiki/Panther "Panther")
+
+
+
+ |
+|  |
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+
+-   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
+-   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
+-   [Akil'zon](https://wowpedia.fandom.com/wiki/Akil%27zon "Akil'zon")
+-   [Akunda](https://wowpedia.fandom.com/wiki/Akunda "Akunda")
+-   [Bethekk](https://wowpedia.fandom.com/wiki/Bethekk "Bethekk")
+-   [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi")
+-   [Dambala](https://wowpedia.fandom.com/wiki/Dambala "Dambala")
+-   [Gonk](https://wowpedia.fandom.com/wiki/Gonk "Gonk")
+-   [Gral](https://wowpedia.fandom.com/wiki/Gral "Gral")
+-   [Grimath](https://wowpedia.fandom.com/wiki/Grimath "Grimath")
+-   [Hakkar](https://wowpedia.fandom.com/wiki/Hakkar_the_Soulflayer "Hakkar the Soulflayer")
+-   [Halazzi](https://wowpedia.fandom.com/wiki/Halazzi "Halazzi")
+-   [Har'koa](https://wowpedia.fandom.com/wiki/Har%27koa "Har'koa")
+-   [Hethiss](https://wowpedia.fandom.com/wiki/Hethiss "Hethiss")
+-   [Hir'eek](https://wowpedia.fandom.com/wiki/Hir%27eek "Hir'eek")
+-   [Jan'alai](https://wowpedia.fandom.com/wiki/Jan%27alai "Jan'alai")
+-   [Jani](https://wowpedia.fandom.com/wiki/Jani "Jani")
+-   [Kimbul](https://wowpedia.fandom.com/wiki/Kimbul "Kimbul")
+-   [Krag'wa](https://wowpedia.fandom.com/wiki/Krag%27wa_the_Huge "Krag'wa the Huge")
+-   [Lakali](https://wowpedia.fandom.com/wiki/Lakali "Lakali")
+-   [Lukou](https://wowpedia.fandom.com/wiki/Lukou "Lukou")
+-   [Mam'toth](https://wowpedia.fandom.com/wiki/Mam%27toth "Mam'toth")
+-   [Mueh'zala](https://wowpedia.fandom.com/wiki/Mueh%27zala "Mueh'zala")
+-   [Nalorakk](https://wowpedia.fandom.com/wiki/Nalorakk "Nalorakk")
+-   [Pa'ku](https://wowpedia.fandom.com/wiki/Pa%27ku "Pa'ku")
+-   [Rezan](https://wowpedia.fandom.com/wiki/Rezan "Rezan")
+-   [Rhunok](https://wowpedia.fandom.com/wiki/Rhunok "Rhunok")
+-   [Quetz'lun](https://wowpedia.fandom.com/wiki/Quetz%27lun "Quetz'lun")
+-   [Samedi](https://wowpedia.fandom.com/wiki/Samedi "Samedi")
+-   [Sethraliss](https://wowpedia.fandom.com/wiki/Sethraliss "Sethraliss")
+-   [Shadra](https://wowpedia.fandom.com/wiki/Shadra "Shadra")
+-   [Shango](https://wowpedia.fandom.com/wiki/Shango "Shango")
+-   [Shirvallah](https://wowpedia.fandom.com/wiki/Shirvallah "Shirvallah")
+-   [Sseratus](https://wowpedia.fandom.com/wiki/Sseratus "Sseratus")
+-   [Torga](https://wowpedia.fandom.com/wiki/Torga "Torga")
+-   [Tharon'ja](https://wowpedia.fandom.com/wiki/Tharon%27ja "Tharon'ja")
+-   [Torcali](https://wowpedia.fandom.com/wiki/Torcali "Torcali")
+-   [Xibala](https://wowpedia.fandom.com/wiki/Xibala_(devilsaur) "Xibala (devilsaur)")
+-   [Zanza](https://wowpedia.fandom.com/wiki/Zanza_the_Restless "Zanza the Restless")
+
+
+
+ |
+|  |
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
+-   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
+-   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
+-   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
+-   [Thunderaan](https://wowpedia.fandom.com/wiki/Thunderaan "Thunderaan")<sup>2nd, air</sup>
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
+-   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
+    -   [Anzu](https://wowpedia.fandom.com/wiki/Anzu "Anzu")
+    -   [Ka'alu](https://wowpedia.fandom.com/wiki/Ka%27alu "Ka'alu")
+    -   [Rukhmar](https://wowpedia.fandom.com/wiki/Rukhmar "Rukhmar")<sup><a href="https://wowpedia.fandom.com/wiki/Rukhmar_(alternate_universe)" title="Rukhmar (alternate universe)">alternate</a></sup>
+    -   [Sethe](https://wowpedia.fandom.com/wiki/Sethe "Sethe")<sup><a href="https://wowpedia.fandom.com/wiki/Sethe_(alternate_universe)" title="Sethe (alternate universe)">alternate</a></sup>
+    -   [Terokk](https://wowpedia.fandom.com/wiki/Terokk "Terokk")
+-   [Arkkoroc](https://wowpedia.fandom.com/wiki/Lord_Arkkoroc "Lord Arkkoroc")
+-   [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")
+    -   [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji")
+    -   [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao")
+    -   [Xuen](https://wowpedia.fandom.com/wiki/Xuen "Xuen")
+    -   [Yu'lon](https://wowpedia.fandom.com/wiki/Yu%27lon "Yu'lon")
+-   [Drakkari gods](https://wowpedia.fandom.com/wiki/Drakkari_tribe#Faith "Drakkari tribe")
+    -   [Dubra'Jin](https://wowpedia.fandom.com/wiki/Dubra%27Jin_(god) "Dubra'Jin (god)")
+    -   [Zim'Abwa](https://wowpedia.fandom.com/wiki/Zim%27Abwa_(god) "Zim'Abwa (god)")
+    -   [Zim'Rhuk](https://wowpedia.fandom.com/wiki/Zim%27Rhuk_(god) "Zim'Rhuk (god)")
+    -   [Zim'Torga](https://wowpedia.fandom.com/wiki/Zim%27Torga_(goddess) "Zim'Torga (goddess)")
+-   [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune")
+-   [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones")
+-   [Gahz'rilla](https://wowpedia.fandom.com/wiki/Gahz%27rilla "Gahz'rilla")
+-   [Kros](https://wowpedia.fandom.com/wiki/Kros "Kros")
+-   [The Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")
+-   [Mazu](https://wowpedia.fandom.com/wiki/Mazu "Mazu")
+-   [Nalak](https://wowpedia.fandom.com/wiki/Nalak "Nalak")
+-   [Nhal'athoth](https://wowpedia.fandom.com/wiki/Nhal%27athoth "Nhal'athoth")
+-   [Ordos](https://wowpedia.fandom.com/wiki/Ordos "Ordos")
+-   [Primordial Aspects](https://wowpedia.fandom.com/wiki/Primordial_Aspects "Primordial Aspects")
+    -   [Murmur](https://wowpedia.fandom.com/wiki/Murmur "Murmur")
+-   [Tauren gods](https://wowpedia.fandom.com/wiki/Tauren#Faith "Tauren")
+    -   [An'she](https://wowpedia.fandom.com/wiki/An%27she "An'she")
+    -   [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother")
+    -   [Lo'sho](https://wowpedia.fandom.com/wiki/Lo%27sho "Lo'sho")
+    -   [Mu'sha](https://wowpedia.fandom.com/wiki/Elune "Elune")
+    -   [Sky Father](https://wowpedia.fandom.com/wiki/Sky_Father "Sky Father")
+-   [Tuskarr gods](https://wowpedia.fandom.com/wiki/Tuskarr#Faith "Tuskarr")
+    -   [Issliruk](https://wowpedia.fandom.com/wiki/Issliruk "Issliruk")
+    -   [Karkut](https://wowpedia.fandom.com/wiki/Karkut "Karkut")
+    -   [Oacha'noa](https://wowpedia.fandom.com/wiki/Oacha%27noa "Oacha'noa")
+    -   [Tayutka](https://wowpedia.fandom.com/wiki/Tayutka "Tayutka")
+-   [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord")
+    -   [Dimensius](https://wowpedia.fandom.com/wiki/Dimensius "Dimensius")
+-   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+    -   [Aliothe](https://wowpedia.fandom.com/wiki/Aliothe "Aliothe")
+    -   Falir
+    -   Lia
+    -   [Renard](https://wowpedia.fandom.com/wiki/Lord_Renard "Lord Renard")
+    -   Ohm
+-   [Volcanoth](https://wowpedia.fandom.com/wiki/Volcanoth "Volcanoth")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+
+
+
+ |
+|  |
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+
+-   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
+-   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
+-   [One in the Deeps](https://wowpedia.fandom.com/wiki/One_in_the_Deeps "One in the Deeps")
+-   [Ula-Tek](https://wowpedia.fandom.com/wiki/Ula-Tek "Ula-Tek")
+-   [Loa](https://wowpedia.fandom.com/wiki/Loa#In_the_RPG "Loa") ([Legba](https://wowpedia.fandom.com/wiki/Legba "Legba")
+-   [Ogoun](https://wowpedia.fandom.com/wiki/Ogoun "Ogoun"))
+
+
+
+ |
+|  |
+| 
+
+-   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
+-   [Death](https://wowpedia.fandom.com/wiki/Death "Death")
+-   [Shadow](https://wowpedia.fandom.com/wiki/Void "Void")
+-   [Order](https://wowpedia.fandom.com/wiki/Order "Order")
+-   [Life](https://wowpedia.fandom.com/wiki/Life "Life"))
+-   [Religion](https://wowpedia.fandom.com/wiki/Religion "Religion")
+-   [Eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal")
+-   [God](https://wowpedia.fandom.com/wiki/God "God")
+-   [Demigod](https://wowpedia.fandom.com/wiki/Demigod "Demigod")
+-   [Wild God](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
+
+
+
+ |
+
+Others like you also viewed

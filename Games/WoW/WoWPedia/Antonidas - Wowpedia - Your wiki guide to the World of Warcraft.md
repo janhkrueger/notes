@@ -1,0 +1,940 @@
+_For Antonidas from an [alternate universe](https://wowpedia.fandom.com/wiki/Alternate_universe "Alternate universe"), see [Antonidas (alternate universe)](https://wowpedia.fandom.com/wiki/Antonidas_(alternate_universe) "Antonidas (alternate universe)"). For Antonidas from the [Warcraft film universe](https://wowpedia.fandom.com/wiki/Warcraft_film_universe "Warcraft film universe"), see [Antonidas (film universe)](https://wowpedia.fandom.com/wiki/Antonidas_(film_universe) "Antonidas (film universe)"). For his_ [Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") _statistics, see [Antonidas (Warcraft III)](https://wowpedia.fandom.com/wiki/Antonidas_(Warcraft_III) "Antonidas (Warcraft III)"). For the statue in his honor, see [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial")._
+
+| [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/25/Alliance_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")Archmage Antonidas |
+| --- |
+| [![Image of Archmage Antonidas](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Grand_Magus_Antonidas_HS.jpg/revision/latest/scale-to-width-down/200?cb=20221113013630)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Grand_Magus_Antonidas_HS.jpg/revision/latest?cb=20221113013630 "Image of Archmage Antonidas") |
+| Title | Grand Magus of the Kirin Tor,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-1">[1]</a></sup> Head of the Kirin Tor,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-2">[2]</a></sup> Lord,<sup id="cite_ref-SiegeofDalaran_3-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-SiegeofDalaran-3">[3]</a></sup> [Archmage of the Kirin Tor](https://wowpedia.fandom.com/wiki/Archmage_of_the_Kirin_Tor "Archmage of the Kirin Tor") |
+| Gender | Male |
+| Race | [Human](https://wowpedia.fandom.com/wiki/Human "Human") |
+| Class | [Archmage](https://wowpedia.fandom.com/wiki/Archmage "Archmage") [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") |
+| Affiliation(s) | [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") ([Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six")), [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
+| Occupation | Leading archmage of the Kirin Tor and _de facto_ ruler of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), Member of the Council of Six |
+| Status | Deceased (aged 71)<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-4">[4]</a></sup> |
+| Student(s) | [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), various [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") mages |
+
+**Antonidas** was a powerful [mage](https://wowpedia.fandom.com/wiki/Mage "Mage") of great influence and the leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). A young prodigy, he had already written theses at the age of twelve. He quickly rose through the ranks of the magus order and became a leader of the nation. During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), he pledged loyalty to the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") on behalf of Dalaran, in the war against the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"). Mentor to young [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), Antonidas would be killed during the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War") by the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") when the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invaded the city.
+
+## Biography
+
+### Early life
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/56/Antonidas_Mercenaries_1.jpg/revision/latest/scale-to-width-down/180?cb=20211012195951)](https://static.wikia.nocookie.net/wowpedia/images/5/56/Antonidas_Mercenaries_1.jpg/revision/latest?cb=20211012195951)
+
+Antonidas as a young man.
+
+Antonidas was but a mere boy when he became an apprentice to one of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). He was a tenacious learner, pouring over books in the magical libraries of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). After only a few short years of studying under the sect, Antonidas had outclassed his peers and earned their admiration, as well as the respect of his elders. At the age of 12, Antonidas' thesis, "The Ramifications of refined Reverse Time Travel Phenomena into Quantifiable Magical Practice", earned him the Kirin Tor Sash of Supreme Acumen, the youngest ever to receive the award. Shortly thereafter the Ruling Council offered him official placement in the [Kirin Tor Advanced Research and Illumination Sect](https://wowpedia.fandom.com/wiki/Kirin_Tor_Advanced_Research_and_Illumination_Sect "Kirin Tor Advanced Research and Illumination Sect"), also the youngest to receive an official invitation.
+
+As the mage grew older, he continued to learn and hone his abilities. His natural talent for defensive magic and wisdom beyond his years made Antonidas an ideal candidate for a position on the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six"), which he eventually attained. Antonidas proved not only wise and fair, but infinitely regimented in goal to become more knowledgeable. He quickly became one of the dominant voices of Dalaran.
+
+When the leaders of Dalaran decided to send an apprentice to [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), Antonidas was among those who argued for their decision to fall on [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar").<sup id="cite_ref-ToD3_5-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-ToD3-5">[5]</a></sup> At this time, he asked Khadgar to bring a piece of a magical flying disc—the [Archmage's Prismatic Disc](https://wowpedia.fandom.com/wiki/Archmage%27s_Prismatic_Disc "Archmage's Prismatic Disc")—that Antonidas had created while studying the [Molten Core](https://wowpedia.fandom.com/wiki/Molten_Core "Molten Core"), to see if there were any books on the subject of controlling fire in [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-6">[6]</a></sup> He also entrusted a piece to [Archmage Cedric](https://wowpedia.fandom.com/wiki/Archmage_Cedric "Archmage Cedric"), with whom he had written a ritual to channel frost energy into the disc, but their combined power forced too much energy into it.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-7">[7]</a></sup> The third and final piece was infused with Antonidas's own arcane magic at the height of his own power, but he was never able to finish his work on it. It was given to [Archmage Celindra](https://wowpedia.fandom.com/wiki/Archmage_Celindra "Archmage Celindra").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-8">[8]</a></sup>
+
+### Second War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/de/Antonidas2.jpg/revision/latest/scale-to-width-down/180?cb=20080302113710)](https://static.wikia.nocookie.net/wowpedia/images/d/de/Antonidas2.jpg/revision/latest?cb=20080302113710)
+
+Antonidas in _[Road to Damnation](https://wowpedia.fandom.com/wiki/Road_to_Damnation "Road to Damnation")_
+
+Before the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), leaders of each of the Azerothian nations met in Lordaeron to discuss the threat of the orc invasion. Archmage Antonidas attended the summit on behalf of the Council of Six, pledging loyalty to the Alliance on Dalaran's behalf. He also monitored the progress of the young but extremely talented mage [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), who had served as [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")'s apprentice during the first war. In the aftermath of the Second War, Antonidas promoted Khadgar to the rank of archmage and placed him in a position of authority over the mission to enter the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") and investigate [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-9">[9]</a></sup>
+
+A few months following the war, when [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend") infiltrated the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"), Antonidas rushed to intercept him. He found the death knights in the Arcane Vault, Dalaran's store for its most precious of relics. Alongside [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus"), [Kael](https://wowpedia.fandom.com/wiki/Kael "Kael"), and [Sathera](https://wowpedia.fandom.com/wiki/Sathera "Sathera"), Antonidas battled against the [death knights](https://wowpedia.fandom.com/wiki/Death_knights "Death knights") who had come to steal the [Eye of Dalaran](https://wowpedia.fandom.com/wiki/Eye_of_Dalaran "Eye of Dalaran") for [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"). Sathera was killed, and the death knights escaped atop the backs of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") and his [black dragons](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon").<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-10">[10]</a></sup> Antonidas would tell this news to [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") through a dream.
+
+### Lethargy of the orcs
+
+_Main article: [Lethargy of the Orcs](https://wowpedia.fandom.com/wiki/Lethargy_of_the_Orcs "Lethargy of the Orcs")_
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/db/Antonidas.jpg/revision/latest/scale-to-width-down/180?cb=20220509042742)](https://static.wikia.nocookie.net/wowpedia/images/d/db/Antonidas.jpg/revision/latest?cb=20220509042742)
+
+Antonidas
+
+After the Second War, many orcs were rounded up and placed into internment camps. Some of the Alliance leaders speculated that it would be best to simply kill all of them off while they were weak. Others concluded the orcs could be kept as slaves. Antonidas posed a different hypothesis. The archmage published several theses on his research:
+
+"The Causality of War: A Comprehensive Study on Orc Lassitude."
+
+"The Contrast of Orc Tradition, Sociology, and Psychological Practices from Before and After the Second War."
+
+"Empirical Study on the Formulation and History of High Profile Fel Magics, and their Relation to the Orc Race."
+
+Researching what little he could find of orcish history, Antonidas learned that the orcs had been under demonic power and warlock magics for generations, granting the brutes unnaturally heightened strength, endurance and aggression. He speculated that the orcs had been corrupted by demonic powers even before their [first invasion of Azeroth](https://wowpedia.fandom.com/wiki/First_War "First War"). Antonidas theorized that the orcs’ communal lethargy was not actually a disease, but a long-term racial withdrawal from the volatile warlock magics that had filled them with bloodlust. Though the symptoms were clear, Antonidas was unable to find a cure for the orcs’ present condition, and many fellow mages and notable Alliance leaders argued that finding a cure for the orcs would be an imprudent venture. Left to ponder the orcs’ mysterious condition, Antonidas’ conclusion was that the orcs’ only cure would have to be a spiritual one.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-11">[11]</a></sup>
+
+### Before the Third War
+
+When [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") and Kael arrived in Dalaran at the same time, Antonidas invited them to a dinner in honor of having two princes in the city. During the dinner, Antonidas spoke about the lethargy of orcs.<sup id="cite_ref-RotLK_12-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-RotLK-12">[12]</a></sup>
+
+It came to Antonidas' attention that [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad"), another member of the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six"), had begun to experiment with the arcane art of [necromancy](https://wowpedia.fandom.com/wiki/Necromancy "Necromancy"). As this threatened the safety and reputation of Dalaran, Antonidas decided to put a stop to it. He had Kel'Thuzad's properties searched, and all items tainted by dark magic were confiscated and destroyed. Antonidas warned Kel'Thuzad that he would be stripped of his rank and holdings, and exiled from both Dalaran and Lordaeron, if he did not abandon that path. Kel'Thuzad chose to leave Dalaran and swore to serve the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-13">[13]</a></sup>
+
+Antonidas held the position as one of the four jurors during the court of [Tirion Fordring](https://wowpedia.fandom.com/wiki/Tirion_Fordring "Tirion Fordring") in [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"). Like the other judges, he was shocked when Tirion admitted his guilt, which led the paladin to his [excommunication](https://wowpedia.fandom.com/wiki/Excommunication "Excommunication") and his exile.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-14">[14]</a></sup>
+
+### Destruction of Dalaran
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Antonidas3.jpg/revision/latest/scale-to-width-down/180?cb=20080826075224)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Antonidas3.jpg/revision/latest?cb=20080826075224)
+
+Antonidas in _Warcraft III_
+
+Though his failing health prohibited him from spending too much time away from his beloved city, his apprentice, Jaina Proudmoore, served as his eyes and ears in the world. Antonidas drummed into her not to be arrogant and told her the stories about Medivh and Aegwynn. Antonidas looked forward to the day when he would hand his power and mantle of leadership over to Jaina, who he felt would make a most impressive archmage.<sup id="cite_ref-W3M_145_15-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-W3M_145-15">[15]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Antonidas1.jpg/revision/latest/scale-to-width-down/180?cb=20080826075305)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Antonidas1.jpg/revision/latest?cb=20080826075305)
+
+Antonidas in _Warcraft III_
+
+Unfortunately, Antonidas grew cautious as he got older; Antonidas, like many prominent figures in the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), was met by the mysterious [Prophet](https://wowpedia.fandom.com/wiki/Medivh "Medivh") before the invasion began. When the Prophet warned him about the upcoming invasion, Antonidas did not heed the stranger's advice to personally investigate. When the Prophet warned him that he must journey west, Antonidas was heedless, believing the Prophet to be nothing more than a magical madman. Despite Jaina's instinct about the Prophet, Antonidas instead chose to focus attention on the plague sweeping across the north. He, like many of the Kirin Tor, knew that it was a great threat, and that it should be taken very seriously. Antonidas spent several days examining the infected grain and he found out the goal of the plague - to kill and raise humans. He tested in on a corpse who attacked him thus he was right. However, Dalaran's plea for quarantine went unheard by the ears of Alliance officials.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-16">[16]</a></sup>
+
+Instead he sent his finest pupil [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") to investigate, who accompanied the young paladin [Prince Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") as he chased after the source of the plague.<sup id="cite_ref-Jaina's_Meeting_17-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-Jaina's_Meeting-17">[17]</a></sup> When Arthas was locked in a battle against undead in Hearthglen, Jaina teleported from the village back to Dalaran and informed Antonidas about Kel'Thuzad and his undead army. He then warned Uther who helped Arthas in Hearthglen. The ensuing tragedy would ravage the mind of Arthas, and destroy the great city of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme").
+
+Antonidas continued to study the plague from afar until finally it came to his doorstep. Antonidas realized that the mysterious Prophet was right all along but it was too late for him to leave for Kalimdor. As the leader of the Kirin Tor, he had to stay and protect Dalaran.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-18">[18]</a></sup> The Scourge, led by Arthas (now a [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight")) and [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") (now a [lich](https://wowpedia.fandom.com/wiki/Lich "Lich")), had come to claim the [Book of Medivh](https://wowpedia.fandom.com/wiki/Book_of_Medivh "Book of Medivh"). Moments before the siege of Dalaran began, Jaina was in the city alongside Antonidas. She wanted to help him defend the city, but Antonidas convinced her that now was the right time to leave for Kalimdor.<sup id="cite_ref-RotLK_12-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-RotLK-12">[12]</a></sup> While Antonidas did his best to protect Dalaran, creating a protective field around the entire city that would inflict heavy injury upon any undead creature that entered it, it was not enough. Arthas, Kel'Thuzad and [Tichondrius](https://wowpedia.fandom.com/wiki/Tichondrius "Tichondrius") led their undead minions into Dalaran and then into the Violet Citadel itself, where they murdered Antonidas. Kel'Thuzad then claimed Medivh's spellbook.<sup id="cite_ref-World_of_Warcraft:_Chronicle_Volume_3_19-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-World_of_Warcraft:_Chronicle_Volume_3-19">[19]</a></sup><sup id="cite_ref-SiegeofDalaran_3-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-SiegeofDalaran-3">[3]</a></sup> Arthas noticed that the book had Antonidas's blood on it and wondered if that would make it more potent.<sup id="cite_ref-RotLK_12-2"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-RotLK-12">[12]</a></sup> In the meantime, Tichondrius stole the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") from the same vault.<sup id="cite_ref-World_of_Warcraft:_Chronicle_Volume_3_19-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-World_of_Warcraft:_Chronicle_Volume_3-19">[19]</a></sup>
+
+Although the forces of Dalaran fought on desperately, Kel'Thuzad used the spellbook to summon the demon lord [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde").<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-20">[20]</a></sup> Moments later, Archimonde crushed the city of Dalaran into rubble.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-21">[21]</a></sup>
+
+Antonidas's spirit lingered for some time after the city's destruction, continuing to fight what he believed to be the invading undead forces. When the [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") Prince [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas "Kael'thas") was fleeing the dungeons, he found the ghosts of Antonidas and several of his kindred, and finally released them, allowing them peace after so many months.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-22">[22]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+As a victim of [Frostmourne](https://wowpedia.fandom.com/wiki/Frostmourne "Frostmourne"), Antonidas entered the Shadowlands a sundered soul. Its missing fragment, crystallized as "The Archmagus Mentor", came into the [Jailer](https://wowpedia.fandom.com/wiki/Jailer "Jailer")'s possession after Frostmourne's shattering.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-23">[23]</a></sup>
+
+## Legacy
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Archmage_Antonidas.jpg/revision/latest/scale-to-width-down/180?cb=20210820223143)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Archmage_Antonidas.jpg/revision/latest?cb=20210820223143)
+
+Antonidas' Memorial
+
+When the remaining members of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") rebuilt [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), Jaina created [a memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial") to honor him.
+
+Archmage Antonidas, Grand Magus of the Kirin Tor
+
+The great city of Dalaran stands once again - a testament to the tenacity and will of its greatest son.
+
+Your sacrifices will not have been in vain, dearest friend.
+
+  
+With Love and Honor,
+
+Jaina Proudmoore
+
+After the destruction of [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle"), Jaina broke into the Kirin Tor library looking for the book, _The Sixth Element: Additional Methods of Arcane Augmentation and Manipulation_, so as to learn how to use the [Focusing Iris](https://wowpedia.fandom.com/wiki/Focusing_Iris "Focusing Iris") to enslave elemental beings. It had been discovered long ago by Antonidas and placed in the library with a protective ward. When she pulled it out, Antonidas' visage appeared and warned her about the dangers of its contents.<sup id="cite_ref-ToW479-481_24-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-ToW479-481-24">[24]</a></sup> It was later recalling this warning that convinced Jaina not to destroy Orgrimmar.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-25">[25]</a></sup>
+
+## Memorable quotes
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/63/Antonidas-WH.jpg/revision/latest/scale-to-width-down/180?cb=20210412211300)](https://static.wikia.nocookie.net/wowpedia/images/6/63/Antonidas-WH.jpg/revision/latest?cb=20210412211300)
+
+Antonidas in _Hearthstone_
+
+### [Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")
+
+-   [Potent magic](https://wowpedia.fandom.com/wiki/Fel "Fel"). Most of their warlocks are weaker than our own wizards, at least from what my fellows reported, yet they have far greater numbers and can work in unison, something my own brethren have never found easy.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-26">[26]</a></sup>
+
+### Warcraft III
+
+-   "It's your inquisitive nature that I've come to rely on, [child](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"). That [crazed fool](https://wowpedia.fandom.com/wiki/Medivh "Medivh")'s convinced that the world is about to end."<sup id="cite_ref-Jaina's_Meeting_17-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-Jaina's_Meeting-17">[17]</a></sup>
+-   **Arthas:** _Wizards of the Kirin Tor! I am Arthas, first of the Lich King's death knights! I demand that you open your gates and surrender to the might of the Scourge!_
+
+**Antonidas:** _Greetings, Prince Arthas. How fares your noble [father](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II")?_
+
+**Arthas:** _Lord Antonidas. There's no need to be snide._
+
+**Antonidas:** _We've prepared for your coming, Arthas. My brethren and I have erected auras that will destroy any undead that pass through them!_
+
+**Arthas:** _Your petty magics will not stop me, Antonidas._
+
+**Antonidas:** _Pull your troops back, or we will be forced to unleash our full powers against you! Make your choice, death knight._<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-27">[27]</a></sup>
+
+-   **Antonidas:** _It pains me to even look at you, Arthas._
+
+**Arthas:** _I'll be happy to end your torment, old man. I told you that your magics could not stop me._
+
+### [Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")
+
+-   "This is not for idle hands, nor prying eyes. Information must not be lost. But it must not be used unwisely. Stay your hand, friend, or proceed—if you know the way."<sup id="cite_ref-ToW479-481_24-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-ToW479-481-24">[24]</a></sup>
+
+## Leader of Dalaran
+
+He was the leader of the Kirin Tor.<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-28">[28]</a></sup> Other sources such as _Warcraft III manual_ and _Day of the Dragon_ call Dalaran a "kingdom" as well. His leadership is further confirmed in _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, although he is said to be a non-king.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-29">[29]</a></sup> Antonidas was also known as "Head of the Kirin Tor of Dalaran", and was indeed head of the conclave of wizards that ruled over the magical nation,<sup id="cite_ref-W3M_145_15-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-W3M_145-15">[15]</a></sup> and leader of [The Six](https://wowpedia.fandom.com/wiki/The_Six "The Six"), the highest council in Dalaran whom often met in the [Chamber of Air](https://wowpedia.fandom.com/wiki/Chamber_of_Air "Chamber of Air").
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Antonidas was the true ruler of the Kirin Tor and his wise, fatherly countenance became the sect's public face.<sup id="cite_ref-APG_155_30-0"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-APG_155-30">[30]</a></sup> He was also implied by [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") to be the monarch, one of the seven _"...human kings...of the Eastern Kingdoms..."_, representing Dalaran, who met to form the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron").<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-31">[31]</a></sup>
+
+Antonidas wrote many books, essays and theses. Known to us are:
+
+-   "The Ramifications of refined Reverse Time Travel Phenomena into Quantifiable Magical Practice"
+-   "The Causality of War: A Comprehensive Study on Orc Lassitude"
+-   "The Contrast of Orc Tradition, Sociology, and Psychological Practices from Before and After the Second War"
+-   "Empirical Study on the Formulation and History of High Profile Fel Magics, and their Relation to the Orc Race"
+-   [Antonidas' Self Help Guide to Standing in Fire](https://wowpedia.fandom.com/wiki/Instructor_Chillheart#Second_Lesson "Instructor Chillheart")
+-   [Journal of Archmage Antonidas](https://wowpedia.fandom.com/wiki/Journal_of_Archmage_Antonidas "Journal of Archmage Antonidas")
+
+## Notes and trivia
+
+-   Antonidas is voiced by [William Bassett](https://wowpedia.fandom.com/wiki/William_Bassett "William Bassett").
+-   Antonidas' original hair color was brown. By the time of the start of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), he was already bald and his facial hair had just starting turning grey.<sup id="cite_ref-ToD3_5-1"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-ToD3-5">[5]</a></sup>
+-   Antonidas was 71 years old at the time of his death.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-32">[32]</a></sup>
+-   Antonidas was in charge of teaching in some magic classes.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-33">[33]</a></sup>
+-   At the time of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), Antonidas was considered a living legend among the mages of Dalaran.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-34">[34]</a></sup>
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Inv_misc_cape_20.png/revision/latest/scale-to-width-down/16?cb=20061020001536)[\[Tattered Cape of Antonidas\]](https://wowpedia.fandom.com/wiki/Tattered_Cape_of_Antonidas) drops from [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden_(tactics) "Kil'jaeden (tactics)") in the [Sunwell Plateau](https://wowpedia.fandom.com/wiki/Sunwell_Plateau "Sunwell Plateau"),  ![](https://static.wikia.nocookie.net/wowpedia/images/0/07/Inv_shield_40.png/revision/latest/scale-to-width-down/16?cb=20070528023237)[\[Antonidas' Aegis of Rapt Concentration\]](https://wowpedia.fandom.com/wiki/Antonidas%27_Aegis_of_Rapt_Concentration) drops off [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde_(tactics) "Archimonde (tactics)") in the [Battle for Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)"), while  ![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Inv_staff_108.png/revision/latest/scale-to-width-down/16?cb=20091028204848)[\[Archus, Greatstaff of Antonidas\]](https://wowpedia.fandom.com/wiki/Archus,_Greatstaff_of_Antonidas) drops off the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King_(tactics) "Lich King (tactics)") in 25-player [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel_(instance) "Icecrown Citadel (instance)").
+-   Antonidas gave one of his staves to his apprentice, Jaina Proudmoore. Years later, she used the power of the [Thunder King](https://wowpedia.fandom.com/wiki/Thunder_King "Thunder King") to turn the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Inv_staff_14.png/revision/latest/scale-to-width-down/16?cb=20070115231124)[\[Staff of Antonidas\]](https://wowpedia.fandom.com/wiki/Staff_of_Antonidas) into the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Inv_staff_14.png/revision/latest/scale-to-width-down/16?cb=20070115231124)[\[Storm-Stave of Antonidas\]](https://wowpedia.fandom.com/wiki/Storm-Stave_of_Antonidas).
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/1/15/Inv_misc_coin_18.png/revision/latest/scale-to-width-down/16?cb=20080911133152)[\[Antonidas' Silver Coin\]](https://wowpedia.fandom.com/wiki/Antonidas%27_Silver_Coin) can be fished up in the [Dalaran fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain"). Inscribed are the words "Grant me the strength to accept the things that I cannot change, the courage to change the things I can, and the wisdom to know the difference." This saying is known as the [Serenity Prayer](http://en.wikipedia.org/wiki/Serenity_Prayer "wikipedia:Serenity Prayer") and is used heavily by [Alcoholics Anonymous](http://en.wikipedia.org/wiki/Alcoholics_Anonymous "wikipedia:Alcoholics Anonymous"). A similar saying is used for the one of the male blood elf [jokes](https://wowpedia.fandom.com/wiki/Jokes "Jokes").
+-   He is the author of [Khadgar's monument](https://wowpedia.fandom.com/wiki/Khadgar#Valley_of_Heroes_monument "Khadgar").
+-   Antonidas appears as [a legendary minion](https://hearthstone.fandom.com/wiki/Archmage_Antonidas "hswiki:Archmage Antonidas") for the mage class in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_'s Classic set. His effect generates a [Fireball](https://hearthstone.fandom.com/wiki/Fireball "hswiki:Fireball") spell every time the player casts a spell. His flavor text reads: _Antonidas was the Grand Magus of the Kirin Tor, and Jaina's mentor. This was a big step up from being Grand Magus of Jelly Donuts._
+    -   He reappears in the _[United in Stormwind](https://hearthstone.fandom.com/wiki/United_in_Stormwind "hswiki:United in Stormwind")_ expansion as the legendary mage minion [Grand Magus Antonidas](https://hearthstone.fandom.com/wiki/Grand_Magus_Antonidas "hswiki:Grand Magus Antonidas"). Similar to Archmage Antonidas, Grand Magus Antonidas has a Fireball-themed card effect, and his flavor text reads: _He's really disappointed Jaina became a frost mage._
+    -   Antonidas appears as an epic Caster mercenary in the [Mercenaries](https://hearthstone.fandom.com/wiki/Mercenaries "hswiki:Mercenaries") game mode.
+-   The [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") wrote books about the life of Antonidas. The following compendium about Antonidas are as followed:
+    -   "**[The Archmage Antonidas - Part I](https://wowpedia.fandom.com/wiki/The_Archmage_Antonidas_-_Part_I "The Archmage Antonidas - Part I")**"
+    -   "**[The Archmage Antonidas - Part II](https://wowpedia.fandom.com/wiki/The_Archmage_Antonidas_-_Part_II "The Archmage Antonidas - Part II")**"
+    -   "**[The Archmage Antonidas - Part III](https://wowpedia.fandom.com/wiki/The_Archmage_Antonidas_-_Part_III "The Archmage Antonidas - Part III")**"
+
+## Alternate timelines
+
+A version of [Antonidas](https://wowpedia.fandom.com/wiki/Antonidas_(alternate_universe) "Antonidas (alternate universe)") exists in a [timeway](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") where history turned out completely different and which was entered by [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") during the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm "Cataclysm") era.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-35">[35]</a></sup>
+
+[Antonidas](https://wowpedia.fandom.com/wiki/Antonidas_(film_universe) "Antonidas (film universe)") from a separate timeline<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_note-36">[36]</a></sup> appears in the [Warcraft film universe](https://wowpedia.fandom.com/wiki/Warcraft_film_universe "Warcraft film universe").
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/88/Antonidas_Mercenaries_2.jpg/revision/latest/scale-to-width-down/90?cb=20211012200031)](https://static.wikia.nocookie.net/wowpedia/images/8/88/Antonidas_Mercenaries_2.jpg/revision/latest?cb=20211012200031)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Antonidas_Mercenaries_3.jpg/revision/latest/scale-to-width-down/90?cb=20211012200059)](https://static.wikia.nocookie.net/wowpedia/images/c/ce/Antonidas_Mercenaries_3.jpg/revision/latest?cb=20211012200059)
+    
+    Antonidas in _Hearthstone Mercenaries_.
+    
+
+## Videos
+
+-   [Jaina's Meeting](https://wowpedia.fandom.com/wiki/Antonidas#)
+-   [The Story of Archmage Antonidas](https://wowpedia.fandom.com/wiki/Antonidas#)
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-1) [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial")
+2.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-2) [Warcraft III: Reign of Chaos Game Manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos_Game_Manual "Warcraft III: Reign of Chaos Game Manual")
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-SiegeofDalaran_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-SiegeofDalaran_3-1">b</a></sup> [The Siege of Dalaran](https://wowpedia.fandom.com/wiki/The_Siege_of_Dalaran_(WC3_Undead) "The Siege of Dalaran (WC3 Undead)")
+4.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-4) _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III "Warcraft III")_ manual: [Antonidas](https://wowpedia.fandom.com/wiki/Heroes_and_Villains#Antonidas "Heroes and Villains")
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-ToD3_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-ToD3_5-1">b</a></sup> _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, chapter 3
+6.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-6)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Mage](https://static.wikia.nocookie.net/wowpedia/images/5/56/Ui-charactercreate-classes_mage.png/revision/latest/scale-to-width-down/16?cb=20070124144715 "Mage") \[45\] [Burning Within](https://wowpedia.fandom.com/wiki/Burning_Within)
+7.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-7)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Mage](https://static.wikia.nocookie.net/wowpedia/images/5/56/Ui-charactercreate-classes_mage.png/revision/latest/scale-to-width-down/16?cb=20070124144715 "Mage") \[45\] [Chilled to the Core](https://wowpedia.fandom.com/wiki/Chilled_to_the_Core_(quest))
+8.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-8)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Mage](https://static.wikia.nocookie.net/wowpedia/images/5/56/Ui-charactercreate-classes_mage.png/revision/latest/scale-to-width-down/16?cb=20070124144715 "Mage") \[45\] [Close to Home](https://wowpedia.fandom.com/wiki/Close_to_Home)
+9.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-9) [The Archmage Antonidas - Part I](https://wowpedia.fandom.com/wiki/The_Archmage_Antonidas_-_Part_I "The Archmage Antonidas - Part I")
+10.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-10) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, pg. 165
+11.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-11) _[Warcraft III manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, pg. 82
+12.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-RotLK_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-RotLK_12-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-RotLK_12-2">c</a></sup> _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_
+13.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-13) _[Road to Damnation](https://wowpedia.fandom.com/wiki/Road_to_Damnation "Road to Damnation")_
+14.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-14) _[Of Blood and Honor](https://wowpedia.fandom.com/wiki/Of_Blood_and_Honor "Of Blood and Honor")_
+15.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-W3M_145_15-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-W3M_145_15-1">b</a></sup> _[Warcraft III manual](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_, pg. 145
+16.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-16) [Journal of Archmage Antonidas](https://wowpedia.fandom.com/wiki/Journal_of_Archmage_Antonidas "Journal of Archmage Antonidas")
+17.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-Jaina's_Meeting_17-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-Jaina's_Meeting_17-1">b</a></sup> [Jaina's Meeting](https://wowpedia.fandom.com/wiki/Jaina%27s_Meeting "Jaina's Meeting")
+18.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-18) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 64
+19.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-World_of_Warcraft:_Chronicle_Volume_3_19-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-World_of_Warcraft:_Chronicle_Volume_3_19-1">b</a></sup> _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 65
+20.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-20) [Under the Burning Sky](https://wowpedia.fandom.com/wiki/Under_the_Burning_Sky "Under the Burning Sky")
+21.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-21) [The Destruction of Dalaran](https://wowpedia.fandom.com/wiki/The_Destruction_of_Dalaran "The Destruction of Dalaran")
+22.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-22) [The Dungeons of Dalaran](https://wowpedia.fandom.com/wiki/The_Dungeons_of_Dalaran "The Dungeons of Dalaran")
+23.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-23)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60\] [A Paladin's Soul](https://wowpedia.fandom.com/wiki/A_Paladin%27s_Soul)
+24.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-ToW479-481_24-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-ToW479-481_24-1">b</a></sup> _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, 479 - 481 (ebook)
+25.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-25) _[Jaina Proudmoore: Tides of War](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore:_Tides_of_War "Jaina Proudmoore: Tides of War")_, 553 (ebook)
+26.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-26) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_ pg. 78 - 79
+27.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-27) [The Siege of Dalaran (WC3 Undead)](https://wowpedia.fandom.com/wiki/The_Siege_of_Dalaran_(WC3_Undead) "The Siege of Dalaran (WC3 Undead)")
+28.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-28) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, 45
+29.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-29) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, 73
+30.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-APG_155_30-0) _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 155
+31.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-31) _[Alliance Player's Guide](https://wowpedia.fandom.com/wiki/Alliance_Player%27s_Guide "Alliance Player's Guide")_, pg. 160
+32.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-32) [Heroes and Villains](https://wowpedia.fandom.com/wiki/Heroes_and_Villains "Heroes and Villains")
+33.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-33) [Journal of Archmage Antonidas](https://wowpedia.fandom.com/wiki/Journal_of_Archmage_Antonidas "Journal of Archmage Antonidas")
+34.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-34) _[Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")_, pg. 15
+35.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-35) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_
+36.  [^](https://wowpedia.fandom.com/wiki/Antonidas#cite_ref-36) [Micky Neilson on Twitter](https://twitter.com/MickyNeilson/status/620265824536793088)
+
+## External links
+
+|  |  |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/object=193942)
+-   [WoWDB](https://www.wowdb.com/objects/193942)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/object=267068)
+-   [WoWDB](https://www.wowdb.com/objects/267068)
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance "Template:Grand Alliance")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance?action=edit)
+
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") | 
+
+-   [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn")
+
+
+
+ |
+|  |
+| Lord Commander | 
+
+-   [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon")
+
+
+
+ |
+|  |
+| Leaders | 
+
+-   [Council of Three Hammers](https://wowpedia.fandom.com/wiki/Council_of_Three_Hammers "Council of Three Hammers")
+    -   [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") ([Yorg Stormheart](https://wowpedia.fandom.com/wiki/Yorg_Stormheart "Yorg Stormheart"))
+    -   [Falstad Wildhammer](https://wowpedia.fandom.com/wiki/Falstad_Wildhammer "Falstad Wildhammer")
+    -   [Moira Thaurissan](https://wowpedia.fandom.com/wiki/Moira_Thaurissan "Moira Thaurissan")
+-   [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque")
+-   [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")
+-   [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")
+-   [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen")
+-   [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane")
+-   [Aysa Cloudsinger](https://wowpedia.fandom.com/wiki/Aysa_Cloudsinger "Aysa Cloudsinger")
+-   [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner")
+-   [Umbric](https://wowpedia.fandom.com/wiki/Magister_Umbric "Magister Umbric")
+-   [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore")
+-   [Azurathel](https://wowpedia.fandom.com/wiki/Scalecommander_Azurathel "Scalecommander Azurathel")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Dagran Thaurissan II](https://wowpedia.fandom.com/wiki/Dagran_Thaurissan_II "Dagran Thaurissan II")
+-   [Danath Trollbane](https://wowpedia.fandom.com/wiki/Danath_Trollbane "Danath Trollbane")
+-   [Darius Crowley](https://wowpedia.fandom.com/wiki/Darius_Crowley "Darius Crowley")
+-   [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar")
+-   [Kurdran Wildhammer](https://wowpedia.fandom.com/wiki/Kurdran_Wildhammer "Kurdran Wildhammer")
+-   [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard")
+-   [Halford Wyrmbane](https://wowpedia.fandom.com/wiki/High_Commander_Halford_Wyrmbane "High Commander Halford Wyrmbane")
+-   [Mathias Shaw](https://wowpedia.fandom.com/wiki/Master_Mathias_Shaw "Master Mathias Shaw")
+-   [Grayson Shadowbreaker](https://wowpedia.fandom.com/wiki/Lord_Grayson_Shadowbreaker "Lord Grayson Shadowbreaker")
+-   [Vindicator Boros](https://wowpedia.fandom.com/wiki/Vindicator_Boros "Vindicator Boros")
+-   [Gryan Stoutmantle](https://wowpedia.fandom.com/wiki/Gryan_Stoutmantle "Gryan Stoutmantle")
+-   [Sarah Ladimore](https://wowpedia.fandom.com/wiki/Sarah_Ladimore "Sarah Ladimore")
+-   [John J. Keeshan](https://wowpedia.fandom.com/wiki/John_J._Keeshan "John J. Keeshan")
+-   [Morgan](https://wowpedia.fandom.com/wiki/Morgan "Morgan")
+-   [Vanndar Stormpike](https://wowpedia.fandom.com/wiki/Vanndar_Stormpike "Vanndar Stormpike")
+-   [Jes-Tereth](https://wowpedia.fandom.com/wiki/Grand_Admiral_Jes-Tereth "Grand Admiral Jes-Tereth")
+-   [Lusshan](https://wowpedia.fandom.com/wiki/Elder_Lusshan "Elder Lusshan")
+-   [Nobundo](https://wowpedia.fandom.com/wiki/Farseer_Nobundo "Farseer Nobundo")
+-   [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon")
+-   [Vereesa Windrunner](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner "Vereesa Windrunner")
+-   [Velog Icebellow](https://wowpedia.fandom.com/wiki/Velog_Icebellow "Velog Icebellow")
+-   [Ivar Bloodfang](https://wowpedia.fandom.com/wiki/Packleader_Ivar_Bloodfang "Packleader Ivar Bloodfang")
+-   [Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera")
+-   [Vargoth](https://wowpedia.fandom.com/wiki/Archmage_Vargoth "Archmage Vargoth")
+-   [Karlain](https://wowpedia.fandom.com/wiki/Archmage_Karlain "Archmage Karlain")
+-   [Ansirem Runeweaver](https://wowpedia.fandom.com/wiki/Archmage_Ansirem_Runeweaver "Archmage Ansirem Runeweaver")
+-   [Harrison Jones](https://wowpedia.fandom.com/wiki/Harrison_Jones "Harrison Jones")
+-   [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos")
+-   [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")
+-   [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard")
+-   [Thassarian](https://wowpedia.fandom.com/wiki/Thassarian "Thassarian")
+-   [Muninn Magellas](https://wowpedia.fandom.com/wiki/High_Explorer_Muninn_Magellas "High Explorer Muninn Magellas")
+-   [Thargas Anvilmar](https://wowpedia.fandom.com/wiki/Thargas_Anvilmar "Thargas Anvilmar")
+-   [Highlord Leoric Von Zeldig](https://wowpedia.fandom.com/wiki/Highlord_Leoric_Von_Zeldig "Highlord Leoric Von Zeldig")
+-   [Nevin Twistwrench](https://wowpedia.fandom.com/wiki/Nevin_Twistwrench "Nevin Twistwrench")
+-   [Razak Ironsides](https://wowpedia.fandom.com/wiki/Razak_Ironsides "Razak Ironsides")
+-   [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong")
+-   [Ishanah](https://wowpedia.fandom.com/wiki/Ishanah "Ishanah")
+-   [Amaan the Wise](https://wowpedia.fandom.com/wiki/Amaan_the_Wise "Amaan the Wise")
+-   [Broll Bearmantle](https://wowpedia.fandom.com/wiki/Broll_Bearmantle "Broll Bearmantle")
+-   [Lorna Crowley](https://wowpedia.fandom.com/wiki/Lorna_Crowley "Lorna Crowley")
+-   [Tess Greymane](https://wowpedia.fandom.com/wiki/Tess_Greymane "Tess Greymane")
+-   [Mordent Evenshade](https://wowpedia.fandom.com/wiki/Mordent_Evenshade "Mordent Evenshade")
+-   [Arechron](https://wowpedia.fandom.com/wiki/Arechron "Arechron")
+-   [Rivern Frostwind](https://wowpedia.fandom.com/wiki/Rivern_Frostwind "Rivern Frostwind")
+-   [Bizmo](https://wowpedia.fandom.com/wiki/Bizmo "Bizmo")
+-   [Radulf Leder](https://wowpedia.fandom.com/wiki/Radulf_Leder "Radulf Leder")
+-   [Su'ura Swiftarrow](https://wowpedia.fandom.com/wiki/Su%27ura_Swiftarrow "Su'ura Swiftarrow")
+-   [Sentinel Cordressa Briarbow](https://wowpedia.fandom.com/wiki/Sentinel_Cordressa_Briarbow "Sentinel Cordressa Briarbow")
+-   [Marcus Johnson](https://wowpedia.fandom.com/wiki/Commander_Marcus_Johnson "Commander Marcus Johnson")
+-   [Catherine Rogers](https://wowpedia.fandom.com/wiki/Sky_Admiral_Rogers "Sky Admiral Rogers")
+-   [Henry Maleb](https://wowpedia.fandom.com/wiki/Magistrate_Henry_Maleb "Magistrate Henry Maleb")
+-   [Weldon Barov](https://wowpedia.fandom.com/wiki/Weldon_Barov "Weldon Barov")
+-   [Celestine of the Harvest](https://wowpedia.fandom.com/wiki/Celestine_of_the_Harvest "Celestine of the Harvest")
+-   [Julianne Tremblade](https://wowpedia.fandom.com/wiki/Grand_Marshal_Tremblade "Grand Marshal Tremblade")
+-   [Tyrathan Khort](https://wowpedia.fandom.com/wiki/Tyrathan_Khort "Tyrathan Khort")
+-   [Marin Bladewing](https://wowpedia.fandom.com/wiki/Marin_Bladewing "Marin Bladewing")
+-   [Arator Windrunner](https://wowpedia.fandom.com/wiki/Arator_the_Redeemer "Arator the Redeemer")
+-   [Fareeya](https://wowpedia.fandom.com/wiki/Captain_Fareeya "Captain Fareeya")
+-   [T'paartos](https://wowpedia.fandom.com/wiki/T%27paartos "T'paartos")
+-   [Thisalee Crow](https://wowpedia.fandom.com/wiki/Thisalee_Crow "Thisalee Crow")
+-   [Lucille Waycrest](https://wowpedia.fandom.com/wiki/Lucille_Waycrest "Lucille Waycrest")
+-   [Pike](https://wowpedia.fandom.com/wiki/Brother_Pike "Brother Pike")
+-   [Taelia Fordragon](https://wowpedia.fandom.com/wiki/Taelia "Taelia")
+-   [Katherine Proudmoore](https://wowpedia.fandom.com/wiki/Katherine_Proudmoore "Katherine Proudmoore")
+-   [Brannon Stormsong](https://wowpedia.fandom.com/wiki/Brannon_Stormsong "Brannon Stormsong")
+-   [Tandred Proudmoore](https://wowpedia.fandom.com/wiki/Tandred_Proudmoore "Tandred Proudmoore")
+-   [Erazmin](https://wowpedia.fandom.com/wiki/Prince_Erazmin "Prince Erazmin")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")
+-   [Taylor](https://wowpedia.fandom.com/wiki/Taylor "Taylor")
+-   [Marcus Jonathan](https://wowpedia.fandom.com/wiki/General_Marcus_Jonathan "General Marcus Jonathan")
+-   [Twinbraid](https://wowpedia.fandom.com/wiki/Twinbraid "Twinbraid")
+-   [Maraad](https://wowpedia.fandom.com/wiki/Vindicator_Maraad "Vindicator Maraad")
+-   [Iridi](https://wowpedia.fandom.com/wiki/Iridi "Iridi")
+-   [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon")
+-   [Benedictus](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Althea Ebonlocke](https://wowpedia.fandom.com/wiki/Althea_Ebonlocke "Althea Ebonlocke")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Gustaf VanHowzen](https://wowpedia.fandom.com/wiki/Doctor_Gustaf_VanHowzen "Doctor Gustaf VanHowzen")
+-   [Blademaster Telaamon](https://wowpedia.fandom.com/wiki/Blademaster_Telaamon "Blademaster Telaamon")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") | 
+
+-   [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")
+-   [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar")
+-   **Antonidas**
+-   [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II")
+-   [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer")
+-   [Thoras Trollbane](https://wowpedia.fandom.com/wiki/Thoras_Trollbane "Thoras Trollbane")
+-   [Alonsus Faol](https://wowpedia.fandom.com/wiki/Alonsus_Faol "Alonsus Faol")
+-   [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider")
+-   [Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+-   [Dwarf](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
+-   [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+-   [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+-   [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
+-   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Void elf](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
+-   [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")
+-   [Dark Iron dwarf](https://wowpedia.fandom.com/wiki/Dark_Iron_dwarf "Dark Iron dwarf")
+-   [Kul Tiran human](https://wowpedia.fandom.com/wiki/Kul_Tiran_human "Kul Tiran human")
+-   [Mechagnome](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")
+-   [Broken draenei](https://wowpedia.fandom.com/wiki/Broken "Broken")
+-   [Cenarion](https://wowpedia.fandom.com/wiki/Cenarius%27s_children "Cenarius's children")
+-   [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+    -   [Wildhammer](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf")
+    -   [Frost](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
+-   [Furbolg](https://wowpedia.fandom.com/wiki/Furbolg "Furbolg")
+-   [Half-elf](https://wowpedia.fandom.com/wiki/Half-elf "Half-elf")
+-   [Half-human](https://wowpedia.fandom.com/wiki/Half-human "Half-human")
+-   [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")
+-   [Jinyu](https://wowpedia.fandom.com/wiki/Jinyu "Jinyu")
+    -   [Ankoan](https://wowpedia.fandom.com/wiki/Ankoan "Ankoan")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Gryphon](https://wowpedia.fandom.com/wiki/Gryphon "Gryphon")
+-   [Hippogryph](https://wowpedia.fandom.com/wiki/Hippogryph "Hippogryph")
+-   [Horse](https://wowpedia.fandom.com/wiki/Horse "Horse")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
+-   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
+-   [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan")
+-   _[The Exodar](https://wowpedia.fandom.com/wiki/Exodar "Exodar")_
+-   [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City "Gilneas City")
+-   [Telogrus Rift](https://wowpedia.fandom.com/wiki/Telogrus_Rift "Telogrus Rift")
+-   _[The Vindicaar](https://wowpedia.fandom.com/wiki/Vindicaar "Vindicaar")_
+-   [Shadowforge City](https://wowpedia.fandom.com/wiki/Shadowforge_City "Shadowforge City")
+-   [Boralus](https://wowpedia.fandom.com/wiki/Boralus "Boralus")
+-   [Mechagon City](https://wowpedia.fandom.com/wiki/Mechagon_City "Mechagon City")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Aerie Peak](https://wowpedia.fandom.com/wiki/Aerie_Peak "Aerie Peak")
+-   [Chillwind Camp](https://wowpedia.fandom.com/wiki/Chillwind_Camp "Chillwind Camp")
+-   [Darkshire](https://wowpedia.fandom.com/wiki/Darkshire "Darkshire")
+-   [Dragon's Mouth](https://wowpedia.fandom.com/wiki/Dragon%27s_Mouth "Dragon's Mouth")
+-   [Dun Modr](https://wowpedia.fandom.com/wiki/Dun_Modr "Dun Modr")
+-   [Eastvale Logging Camp](https://wowpedia.fandom.com/wiki/Eastvale_Logging_Camp "Eastvale Logging Camp")
+-   [Farstrider Lodge](https://wowpedia.fandom.com/wiki/Farstrider_Lodge "Farstrider Lodge")
+-   [Fort Livingston](https://wowpedia.fandom.com/wiki/Fort_Livingston "Fort Livingston")
+-   [Goldshire](https://wowpedia.fandom.com/wiki/Goldshire "Goldshire")
+-   [Greenwarden's Grove](https://wowpedia.fandom.com/wiki/Greenwarden%27s_Grove "Greenwarden's Grove")
+-   [Harborage](https://wowpedia.fandom.com/wiki/Harborage "Harborage")
+-   [Highbank](https://wowpedia.fandom.com/wiki/Highbank "Highbank")
+-   [Kharanos](https://wowpedia.fandom.com/wiki/Kharanos "Kharanos")
+-   [Kirthaven](https://wowpedia.fandom.com/wiki/Kirthaven "Kirthaven")
+-   [Lakeshire](https://wowpedia.fandom.com/wiki/Lakeshire "Lakeshire")
+-   [Marshtide Watch](https://wowpedia.fandom.com/wiki/Marshtide_Watch "Marshtide Watch")
+-   [Menethil Harbor](https://wowpedia.fandom.com/wiki/Menethil_Harbor "Menethil Harbor")
+-   [Moonbrook](https://wowpedia.fandom.com/wiki/Moonbrook "Moonbrook")
+-   [Refuge Pointe](https://wowpedia.fandom.com/wiki/Refuge_Pointe "Refuge Pointe")
+-   [Sentinel Hill](https://wowpedia.fandom.com/wiki/Sentinel_Hill "Sentinel Hill")
+-   [Stromgarde Keep](https://wowpedia.fandom.com/wiki/Stromgarde_Keep "Stromgarde Keep")
+-   [Thelsamar](https://wowpedia.fandom.com/wiki/Thelsamar "Thelsamar")
+-   [Victor's Point](https://wowpedia.fandom.com/wiki/Victor%27s_Point "Victor's Point")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar")
+-   [Azure Watch](https://wowpedia.fandom.com/wiki/Azure_Watch "Azure Watch")
+-   [Blood Watch](https://wowpedia.fandom.com/wiki/Blood_Watch "Blood Watch")
+-   [Farwatcher's Glen](https://wowpedia.fandom.com/wiki/Farwatcher%27s_Glen "Farwatcher's Glen")
+-   [Feathermoon Stronghold](https://wowpedia.fandom.com/wiki/Feathermoon_Stronghold "Feathermoon Stronghold")
+-   [Forest Song](https://wowpedia.fandom.com/wiki/Forest_Song "Forest Song")
+-   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
+-   [Honor's Stand](https://wowpedia.fandom.com/wiki/Honor%27s_Stand "Honor's Stand")
+-   [Northwatch Hold](https://wowpedia.fandom.com/wiki/Northwatch_Hold "Northwatch Hold")
+-   [Talonbranch Glade](https://wowpedia.fandom.com/wiki/Talonbranch_Glade "Talonbranch Glade")
+-   [Thal'darah Overlook](https://wowpedia.fandom.com/wiki/Thal%27darah_Overlook "Thal'darah Overlook")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Allerian Stronghold](https://wowpedia.fandom.com/wiki/Allerian_Stronghold "Allerian Stronghold")
+-   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
+-   [Orebor Harborage](https://wowpedia.fandom.com/wiki/Orebor_Harborage "Orebor Harborage")
+-   [Sylvanaar](https://wowpedia.fandom.com/wiki/Sylvanaar "Sylvanaar")
+-   [Telaar](https://wowpedia.fandom.com/wiki/Telaar "Telaar")
+-   [Toshley's Station](https://wowpedia.fandom.com/wiki/Toshley%27s_Station "Toshley's Station")
+-   [Temple of Telhamat](https://wowpedia.fandom.com/wiki/Temple_of_Telhamat "Temple of Telhamat")
+-   [Wildhammer Stronghold](https://wowpedia.fandom.com/wiki/Wildhammer_Stronghold "Wildhammer Stronghold")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Amberpine Lodge](https://wowpedia.fandom.com/wiki/Amberpine_Lodge "Amberpine Lodge")
+-   [Fizzcrank Airstrip](https://wowpedia.fandom.com/wiki/Fizzcrank_Airstrip "Fizzcrank Airstrip")
+-   [Fordragon Hold](https://wowpedia.fandom.com/wiki/Fordragon_Hold "Fordragon Hold")
+-   [Fort Wildervar](https://wowpedia.fandom.com/wiki/Fort_Wildervar "Fort Wildervar")
+-   [Frosthold](https://wowpedia.fandom.com/wiki/Frosthold "Frosthold")
+-   [Valgarde](https://wowpedia.fandom.com/wiki/Valgarde "Valgarde")
+-   [Valiance Keep](https://wowpedia.fandom.com/wiki/Valiance_Keep "Valiance Keep")
+-   [Westfall Brigade Encampment](https://wowpedia.fandom.com/wiki/Westfall_Brigade_Encampment "Westfall Brigade Encampment")
+-   [Westguard Keep](https://wowpedia.fandom.com/wiki/Westguard_Keep "Westguard Keep")
+-   [Wintergarde Keep](https://wowpedia.fandom.com/wiki/Wintergarde_Keep "Wintergarde Keep")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Incursion](https://wowpedia.fandom.com/wiki/Incursion "Incursion")
+-   [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing "Lion's Landing")
+-   [Paw'don Village](https://wowpedia.fandom.com/wiki/Paw%27don_Village "Paw'don Village")
+-   [Pearlfin Village](https://wowpedia.fandom.com/wiki/Pearlfin_Village "Pearlfin Village")
+-   [Shrine of Seven Stars](https://wowpedia.fandom.com/wiki/Shrine_of_Seven_Stars "Shrine of Seven Stars")
+-   [Westwind Rest](https://wowpedia.fandom.com/wiki/Westwind_Rest "Westwind Rest")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Fort Wrynn](https://wowpedia.fandom.com/wiki/Fort_Wrynn "Fort Wrynn")
+-   [Highpass](https://wowpedia.fandom.com/wiki/Highpass "Highpass")
+-   [Lion's Watch](https://wowpedia.fandom.com/wiki/Lion%27s_Watch "Lion's Watch")
+-   [Lunarfall](https://wowpedia.fandom.com/wiki/Lunarfall "Lunarfall")
+-   [Southport](https://wowpedia.fandom.com/wiki/Southport "Southport")
+-   [Stormshield](https://wowpedia.fandom.com/wiki/Stormshield "Stormshield")
+-   [Telaari Station](https://wowpedia.fandom.com/wiki/Telaari_Station "Telaari Station")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Greywatch](https://wowpedia.fandom.com/wiki/Greywatch "Greywatch")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Arom's Stand](https://wowpedia.fandom.com/wiki/Arom%27s_Stand "Arom's Stand")
+-   [Brennadam](https://wowpedia.fandom.com/wiki/Brennadam "Brennadam")
+-   [Bridgeport](https://wowpedia.fandom.com/wiki/Bridgeport "Bridgeport")
+-   [Deadwash](https://wowpedia.fandom.com/wiki/Deadwash "Deadwash")
+-   [Falconhurst](https://wowpedia.fandom.com/wiki/Falconhurst "Falconhurst")
+-   [Fallhaven](https://wowpedia.fandom.com/wiki/Fallhaven "Fallhaven")
+-   [Fletcher's Hollow](https://wowpedia.fandom.com/wiki/Fletcher%27s_Hollow "Fletcher's Hollow")
+-   [Fort Daelin](https://wowpedia.fandom.com/wiki/Fort_Daelin "Fort Daelin")
+-   [Hatherford](https://wowpedia.fandom.com/wiki/Hatherford "Hatherford")
+-   [Norwington Estate](https://wowpedia.fandom.com/wiki/Norwington_Estate "Norwington Estate")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Fort Victory](https://wowpedia.fandom.com/wiki/Fort_Victory "Fort Victory")
+-   [Shatterstone Harbor](https://wowpedia.fandom.com/wiki/Shatterstone_Harbor "Shatterstone Harbor")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
+-   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
+-   [Nethergarde Keep](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep")
+-   [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore")
+-   [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles")
+    -   [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle")
+    -   [Bloodmyst Isle](https://wowpedia.fandom.com/wiki/Bloodmyst_Isle "Bloodmyst Isle")
+-   [Dun Morogh](https://wowpedia.fandom.com/wiki/Dun_Morogh "Dun Morogh")
+-   [Duskwood](https://wowpedia.fandom.com/wiki/Duskwood "Duskwood")
+-   [Elwynn Forest](https://wowpedia.fandom.com/wiki/Elwynn_Forest "Elwynn Forest")
+-   [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_peninsula "Gilneas peninsula")
+-   [Loch Modan](https://wowpedia.fandom.com/wiki/Loch_Modan "Loch Modan")
+-   [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains")
+-   [Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands")
+-   [Westfall](https://wowpedia.fandom.com/wiki/Westfall "Westfall")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") | 
+
+-   [House of Nobles](https://wowpedia.fandom.com/wiki/House_of_Nobles "House of Nobles")
+-   [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7")
+-   [Stormwind Fleet](https://wowpedia.fandom.com/wiki/Stormwind_Fleet "Stormwind Fleet")
+-   [Stormwind Army](https://wowpedia.fandom.com/wiki/Stormwind_Army "Stormwind Army")
+    -   [Stormwind Guard](https://wowpedia.fandom.com/wiki/Stormwind_Guard "Stormwind Guard")
+    -   [Stormwind City Guard](https://wowpedia.fandom.com/wiki/Stormwind_City_Guard "Stormwind City Guard")
+    -   [Stormwind Royal Guard](https://wowpedia.fandom.com/wiki/Stormwind_Royal_Guard "Stormwind Royal Guard")
+    -   [Stormwind Harbor Guards](https://wowpedia.fandom.com/wiki/Stormwind_Harbor_Guards "Stormwind Harbor Guards")
+    -   [Stormwind Elite Aquatic and Land Forces](https://wowpedia.fandom.com/wiki/Stormwind_Elite_Aquatic_and_Land_Forces "Stormwind Elite Aquatic and Land Forces")
+    -   [Westfall Brigade](https://wowpedia.fandom.com/wiki/Westfall_Brigade "Westfall Brigade")
+    -   [Bravo Company](https://wowpedia.fandom.com/wiki/Bravo_Company "Bravo Company")
+-   [Night Watch](https://wowpedia.fandom.com/wiki/Night_Watch "Night Watch")
+-   [Nijel's Point Guard](https://wowpedia.fandom.com/wiki/Nijel%27s_Point_Guard "Nijel's Point Guard")
+
+
+
+ |
+|  |
+| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") | 
+
+-   [Senate of Ironforge](https://wowpedia.fandom.com/wiki/Senate_of_Ironforge "Senate of Ironforge")
+-   [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")
+-   [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Forgeguard](https://wowpedia.fandom.com/wiki/Forgeguard "Forgeguard")
+    -   [Dark Iron Demolishers](https://wowpedia.fandom.com/wiki/Dark_Iron_Demolishers "Dark Iron Demolishers")
+    -   [Shadowforge clan](https://wowpedia.fandom.com/wiki/Shadowforge_clan "Shadowforge clan")
+-   [Bronzebeard clan](https://wowpedia.fandom.com/wiki/Bronzebeard_clan "Bronzebeard clan")
+-   [Stormpike clan](https://wowpedia.fandom.com/wiki/Stormpike_clan "Stormpike clan")
+    -   [Stormpike Guard](https://wowpedia.fandom.com/wiki/Stormpike_Guard "Stormpike Guard")
+-   [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League")
+    -   [Bael'dun](https://wowpedia.fandom.com/wiki/Bael%27dun "Bael'dun")
+-   [Ironforge Guard](https://wowpedia.fandom.com/wiki/Ironforge_Guard "Ironforge Guard")
+-   [Ironforge 127th Paratroopers](https://wowpedia.fandom.com/wiki/Ironforge_127th_Paratroopers "Ironforge 127th Paratroopers")
+-   [Ironforge Siege Brigade](https://wowpedia.fandom.com/wiki/Ironforge_Siege_Brigade "Ironforge Siege Brigade")
+-   [Ironforge Brigade](https://wowpedia.fandom.com/wiki/Ironforge_Brigade "Ironforge Brigade")
+-   [Miners' League](https://wowpedia.fandom.com/wiki/Miners%27_League "Miners' League")
+-   [Royal Stonecutters Union](https://wowpedia.fandom.com/wiki/Royal_Stonecutters_Union "Royal Stonecutters Union")
+-   [Hidden Circle](https://wowpedia.fandom.com/wiki/Hidden_Circle "Hidden Circle")
+
+
+
+ |
+|  |
+| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") | 
+
+-   [Darnassian Army](https://wowpedia.fandom.com/wiki/Darnassian_Army "Darnassian Army")
+    -   [Sentinels](https://wowpedia.fandom.com/wiki/Sentinels "Sentinels")
+        -   [Silverwing Sentinels](https://wowpedia.fandom.com/wiki/Silverwing_Sentinels "Silverwing Sentinels")
+        -   [Sentinel spies](https://wowpedia.fandom.com/wiki/Sentinel_spies "Sentinel spies")
+    -   [Army of the Black Moon](https://wowpedia.fandom.com/wiki/Army_of_the_Black_Moon "Army of the Black Moon")
+    -   [Darnassian City Guard](https://wowpedia.fandom.com/wiki/Darnassian_City_Guard "Darnassian City Guard")
+-   [Sisterhood of Elune](https://wowpedia.fandom.com/wiki/Sisterhood_of_Elune "Sisterhood of Elune")
+-   [Wintersaber Trainers](https://wowpedia.fandom.com/wiki/Wintersaber_Trainers "Wintersaber Trainers")
+-   [Watchers](https://wowpedia.fandom.com/wiki/Watchers "Watchers")
+-   [Auberdine Village Council](https://wowpedia.fandom.com/wiki/Auberdine_Village_Council "Auberdine Village Council")
+-   [Council of the Forest](https://wowpedia.fandom.com/wiki/Council_of_the_Forest "Council of the Forest")
+-   [Circle of the Ancients](https://wowpedia.fandom.com/wiki/Circle_of_the_Ancients "Circle of the Ancients")
+
+
+
+ |
+|  |
+| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") | 
+
+-   [A.C.E.](https://wowpedia.fandom.com/wiki/A.C.E. "A.C.E.")
+-   [Gnomeregan Airmen](https://wowpedia.fandom.com/wiki/Gnomeregan_Airmen "Gnomeregan Airmen")
+-   [Gnomeregan Covert Ops](https://wowpedia.fandom.com/wiki/Gnomeregan_Covert_Ops "Gnomeregan Covert Ops")
+-   [G.E.A.R.](https://wowpedia.fandom.com/wiki/Gnomish_Elite_Aerial_Rangers "Gnomish Elite Aerial Rangers")
+-   [Razak's Roughriders](https://wowpedia.fandom.com/wiki/Razak%27s_Roughriders "Razak's Roughriders")
+-   [S.A.F.E.](https://wowpedia.fandom.com/wiki/Survivor_Assistance_Facilitation_Expedition "Survivor Assistance Facilitation Expedition")
+
+
+
+ |
+|  |
+| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") | 
+
+-   [Hand of Argus](https://wowpedia.fandom.com/wiki/Hand_of_Argus "Hand of Argus")
+    -   [Triumvirate of the Hand](https://wowpedia.fandom.com/wiki/Triumvirate_of_the_Hand "Triumvirate of the Hand")
+    -   [Defenders of Blood Watch](https://wowpedia.fandom.com/wiki/Defenders_of_Blood_Watch "Defenders of Blood Watch")
+-   [Omenai](https://wowpedia.fandom.com/wiki/Omenai "Omenai")
+-   [Light's Chosen](https://wowpedia.fandom.com/wiki/Light%27s_Chosen "Light's Chosen")
+
+
+
+ |
+|  |
+| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") | 
+
+-   [Gilnean military](https://wowpedia.fandom.com/wiki/Gilnean_military "Gilnean military")
+    -   [Gilnean Royal Guard](https://wowpedia.fandom.com/wiki/Gilnean_Royal_Guard "Gilnean Royal Guard")
+    -   [Gilneas Liberation Front](https://wowpedia.fandom.com/wiki/Gilneas_Liberation_Front "Gilneas Liberation Front")
+        -   [Refugee Leadership](https://wowpedia.fandom.com/wiki/Refugee_Leadership "Refugee Leadership")
+    -   [Gilneas Brigade](https://wowpedia.fandom.com/wiki/Gilneas_Brigade "Gilneas Brigade")
+-   [Bloodfang Pack](https://wowpedia.fandom.com/wiki/Bloodfang_pack "Bloodfang pack")
+-   [Wolfpack](https://wowpedia.fandom.com/wiki/Wolfpack "Wolfpack")
+
+
+
+ |
+|  |
+| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") | 
+
+-   [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet")
+-   [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore")
+    -   [Proudmoore Admiralty](https://wowpedia.fandom.com/wiki/Proudmoore_Admiralty "Proudmoore Admiralty")
+    -   [Proudmoore Battalion](https://wowpedia.fandom.com/wiki/Proudmoore_Battalion "Proudmoore Battalion")
+    -   [Proudmoore Guard](https://wowpedia.fandom.com/wiki/Proudmoore_Guard "Proudmoore Guard")
+-   [House Waycrest](https://wowpedia.fandom.com/wiki/House_Waycrest "House Waycrest")
+    -   [Waycrest Guard](https://wowpedia.fandom.com/wiki/Waycrest_Guard "Waycrest Guard")
+    -   [Order of Embers](https://wowpedia.fandom.com/wiki/Order_of_Embers "Order of Embers")
+-   [Norwington](https://wowpedia.fandom.com/wiki/Norwington "Norwington")
+-   [Roughnecks](https://wowpedia.fandom.com/wiki/Roughnecks "Roughnecks")
+-   [House Stormsong](https://wowpedia.fandom.com/wiki/House_Stormsong "House Stormsong")
+    -   [Tidesages](https://wowpedia.fandom.com/wiki/Tidesages "Tidesages")
+-   [Boralus Guard](https://wowpedia.fandom.com/wiki/Boralus_Guard "Boralus Guard")
+-   [Outriggers](https://wowpedia.fandom.com/wiki/Outriggers "Outriggers")
+-   [Storm's Wake](https://wowpedia.fandom.com/wiki/Storm%27s_Wake "Storm's Wake")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Tushui Pandaren](https://wowpedia.fandom.com/wiki/Tushui_Pandaren "Tushui Pandaren")
+-   [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light")
+-   [Void elves](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
+-   [Obsidian Warders](https://wowpedia.fandom.com/wiki/Obsidian_Warders "Obsidian Warders")
+-   [Kingdom of Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)")
+    -   [League of Arathor](https://wowpedia.fandom.com/wiki/League_of_Arathor "League of Arathor")
+    -   [Stromgarde Militia](https://wowpedia.fandom.com/wiki/Stromgarde_Militia "Stromgarde Militia")
+    -   [Dabyrie militia](https://wowpedia.fandom.com/wiki/Dabyrie_militia "Dabyrie militia")
+-   [Alliance High Command](https://wowpedia.fandom.com/wiki/High_Command "High Command")
+-   [7th Legion](https://wowpedia.fandom.com/wiki/7th_Legion "7th Legion")
+    -   [7th Fleet](https://wowpedia.fandom.com/wiki/7th_Fleet "7th Fleet")
+-   [Alliance navy](https://wowpedia.fandom.com/wiki/Alliance_navy "Alliance navy")
+    -   [Alliance Naval Command](https://wowpedia.fandom.com/wiki/Alliance_Naval_Command "Alliance Naval Command")
+    -   [Third Fleet](https://wowpedia.fandom.com/wiki/Third_Fleet "Third Fleet")
+    -   [North Fleet](https://wowpedia.fandom.com/wiki/North_Fleet "North Fleet")
+-   [Church of the Holy Light](https://wowpedia.fandom.com/wiki/Church_of_the_Holy_Light "Church of the Holy Light")
+-   [Morgan's Militia](https://wowpedia.fandom.com/wiki/Morgan%27s_Militia "Morgan's Militia")
+-   [Highvale](https://wowpedia.fandom.com/wiki/Highvale "Highvale")
+-   [Alliance Trauma](https://wowpedia.fandom.com/wiki/Alliance_Trauma "Alliance Trauma")
+-   [Sons of Lothar](https://wowpedia.fandom.com/wiki/Sons_of_Lothar "Sons of Lothar")
+    -   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
+-   [Kurenai](https://wowpedia.fandom.com/wiki/Kurenai "Kurenai")
+-   [Alliance Vanguard](https://wowpedia.fandom.com/wiki/Alliance_Vanguard "Alliance Vanguard")
+    -   [Frostborn](https://wowpedia.fandom.com/wiki/Frostborn "Frostborn")
+    -   [Valiance Expedition](https://wowpedia.fandom.com/wiki/Valiance_Expedition "Valiance Expedition")
+        -   [Unit S](https://wowpedia.fandom.com/wiki/Unit_S "Unit S")
+        -   [Unit Darkshire](https://wowpedia.fandom.com/wiki/Unit_Darkshire "Unit Darkshire")
+        -   [Unit Goldshire](https://wowpedia.fandom.com/wiki/Unit_Goldshire "Unit Goldshire")
+-   [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")
+-   [Shen'dralar](https://wowpedia.fandom.com/wiki/Shen%27dralar "Shen'dralar") [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne")
+-   [Tol Barad](https://wowpedia.fandom.com/wiki/Tol_Barad "Tol Barad")
+    -   [Baradin's Wardens](https://wowpedia.fandom.com/wiki/Baradin%27s_Wardens "Baradin's Wardens")
+-   [Pearlfin Jinyu](https://wowpedia.fandom.com/wiki/Pearlfin_Jinyu "Pearlfin Jinyu")
+-   [Operation: Shieldwall](https://wowpedia.fandom.com/wiki/Operation:_Shieldwall "Operation: Shieldwall")
+-   [Bizmo's Brawlpub](https://wowpedia.fandom.com/wiki/Bizmo%27s_Brawlpub "Bizmo's Brawlpub")
+-   [Wrynn's Vanguard](https://wowpedia.fandom.com/wiki/Wrynn%27s_Vanguard "Wrynn's Vanguard")
+-   [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)")
+    -   [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+        -   [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive")
+    -   [Nethergarde](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep")
+-   [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand")
+-   [Riftrunners](https://wowpedia.fandom.com/wiki/Riftrunners "Riftrunners")
+-   [Light's Vengeance](https://wowpedia.fandom.com/wiki/Light%27s_Vengeance_(island_expedition) "Light's Vengeance (island expedition)")
+-   [Auric's Angels](https://wowpedia.fandom.com/wiki/Auric%27s_Angels "Auric's Angels")
+-   [Briona's Buccaneers](https://wowpedia.fandom.com/wiki/Briona%27s_Buccaneers "Briona's Buccaneers")
+-   [Purified](https://wowpedia.fandom.com/wiki/Purified "Purified")
+-   [Waveblade Ankoan](https://wowpedia.fandom.com/wiki/Waveblade_Ankoan "Waveblade Ankoan")
+-   [Grumbol's Hammers](https://wowpedia.fandom.com/wiki/Grumbol%27s_Hammers "Grumbol's Hammers")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Theramore](https://wowpedia.fandom.com/wiki/Theramore_(nation) "Theramore (nation)")
+    -   [Theramore Guard](https://wowpedia.fandom.com/wiki/Theramore_Guard "Theramore Guard")
+        -   [Elite Guard](https://wowpedia.fandom.com/wiki/Elite_Guard "Elite Guard")
+    -   [Northwatch Expeditionary Unit](https://wowpedia.fandom.com/wiki/Northwatch_Expeditionary_Unit "Northwatch Expeditionary Unit")
+-   [Kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)")
+-   [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+|  |
+| Alliance-aligned and allies | 
+
+-   [Council of Exarchs](https://wowpedia.fandom.com/wiki/Council_of_Exarchs "Council of Exarchs")
+    -   [Hand of the Prophet](https://wowpedia.fandom.com/wiki/Hand_of_the_Prophet "Hand of the Prophet")
+    -   [Auchenai](https://wowpedia.fandom.com/wiki/Auchenai_(alternate_universe) "Auchenai (alternate universe)")
+    -   [Sha'tari Defense](https://wowpedia.fandom.com/wiki/Sha%27tari_Defense "Sha'tari Defense")
+    -   [Rangari](https://wowpedia.fandom.com/wiki/Rangari "Rangari")
+-   [Scarlet renegades](https://wowpedia.fandom.com/wiki/Scarlet_renegades "Scarlet renegades")
+-   [Stillpine tribe](https://wowpedia.fandom.com/wiki/Stillpine_tribe "Stillpine tribe")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Blackmaw tribe](https://wowpedia.fandom.com/wiki/Blackmaw_tribe "Blackmaw tribe")
+-   [Blackwood tribe](https://wowpedia.fandom.com/wiki/Blackwood_tribe "Blackwood tribe")
+-   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)")
+-   [Alliance organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
+-   [Alliance technology](https://wowpedia.fandom.com/wiki/Alliance_technology "Alliance technology")
+-   [Alliance territories](https://wowpedia.fandom.com/wiki/Category:Alliance_territories "Category:Alliance territories")
+
+
+
+ |

@@ -1,0 +1,1289 @@
+_"The Worldbreaker" redirects here. For the mace, see  ![](https://static.wikia.nocookie.net/wowpedia/images/7/73/Inv_mace_52.png/revision/latest/scale-to-width-down/16?cb=20070120133248)[\[World Breaker\]](https://wowpedia.fandom.com/wiki/World_Breaker). For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game") set, see [Worldbreaker](https://wowpedia.fandom.com/wiki/Worldbreaker "Worldbreaker")._
+
+_For the strategy on the raid encounters, see [Spine of Deathwing](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing "Spine of Deathwing") and [Madness of Deathwing](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing"). For his Warcraft II stats, see [Deathwing (Warcraft II)](https://wowpedia.fandom.com/wiki/Deathwing_(Warcraft_II) "Deathwing (Warcraft II)"). For  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Celestial Blessings](https://wowpedia.fandom.com/wiki/Celestial_Blessings), see [Vision of Deathwing](https://wowpedia.fandom.com/wiki/Vision_of_Deathwing "Vision of Deathwing")._
+
+| [![Mob](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Combat_32.png/revision/latest?cb=20151213203709)](https://wowpedia.fandom.com/wiki/Mob "Mob")Deathwing / Neltharion  
+(Daval Prestor) |
+| --- |
+| [![Image of Deathwing / Neltharion (Daval Prestor)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Glowei_Deathwing.jpg/revision/latest/scale-to-width-down/200?cb=20181101034942)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Glowei_Deathwing.jpg/revision/latest?cb=20181101034942 "Image of Deathwing / Neltharion (Daval Prestor)") |
+| Title | The Destroyer,  
+Aspect of Death,  
+The Worldbreaker,  
+The Black Scourge,  
+Black Aspect,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-1">[1]</a></sup>  
+former Earth-Warder,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-2">[2]</a></sup>  
+[See more below](https://wowpedia.fandom.com/wiki/Deathwing#Names_and_titles) |
+| Gender | Male |
+| Race(s) | [Black dragon](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") / [Wyrm](https://wowpedia.fandom.com/wiki/Wyrm "Wyrm") ([Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")) |
+| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation(s) | [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight"), [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces") |
+| Former affiliation(s) | [Horde of Draenor](https://wowpedia.fandom.com/wiki/Horde_of_Draenor "Horde of Draenor"), [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") (false allegiance), [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") |
+| Occupation | Herald of the Old Gods, Aspect of the Black Dragonflight |
+| Former occupation(s) | Claimant to the throne of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"), Guardian of Azeroth |
+| Location | [Various](https://wowpedia.fandom.com/wiki/Deathwing#Locations) |
+| Status | Deceased (lore)<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-3">[3]</a></sup>  
+Killable [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") |
+| Relative(s) | [Sintharia](https://wowpedia.fandom.com/wiki/Sinestra "Sinestra") (consort),  
+[Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian"), [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia"), [Nyxondra](https://wowpedia.fandom.com/wiki/Nyxondra "Nyxondra"),<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-4">[4]</a></sup> [Sabellian](https://wowpedia.fandom.com/wiki/Sabellian "Sabellian") (children),  
+[Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") ([grandchild](https://wowpedia.fandom.com/wiki/Wrathion#Heritage "Wrathion")),  
+[Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde") (pretended "distant cousin" of Prestor)<sup id="cite_ref-BtDP_99_5-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-BtDP_99-5">[5]</a></sup> |
+
+“Pain... Agony... My hatred burns through the cavernous deeps. The world heaves with my torment. Its wretched kingdoms quake beneath my rage. But at last... The whole of Azeroth will break... And all will burn beneath the shadow of my wings.”
+
+— Deathwing causing the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)")
+
+**Deathwing the Destroyer**,<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-6">[6]</a></sup> formerly known as **Neltharion the Earth-Warder** (pronounced "nehl-THAIR-ree-uhn"), was one of the five [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect") and leader of the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"). Ages ago, Neltharion was empowered by the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") with dominion over the earth and the deep places of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). However, driven mad by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"), he turned against the other Aspects during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"),<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-7">[7]</a></sup> eventually abandoning his title of Aspect of Earth in favor of being the Aspect of Death.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-8">[8]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-9">[9]</a></sup> Becoming one of the greatest terrors of the known world, his name too became one whispered with a feeling of fear and contempt among both mortals and dragons.<sup id="cite_ref-WC2Man_10-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-WC2Man-10">[10]</a></sup> He was perhaps the most powerful servant of the Old Gods.<sup id="cite_ref-Chronicle127_11-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle127-11">[11]</a></sup>
+
+The black Aspect involved himself in the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), adopting the form of the [human](https://wowpedia.fandom.com/wiki/Human "Human") Lord **Daval Prestor** in order to destroy the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") from within. As a human, Prestor was said to be tall, with a slim figure, black hair and clean-shaven hawklike features that were the subject of gossip among the ladies of King Terenas' court. He also had a quick mind and a friendly, engaging manner that endeared him to all involved in the [Alterac crisis](https://wowpedia.fandom.com/wiki/Alterac_crisis "Alterac crisis"). It was said that he even got a smile out of [Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane"), the normally dour king of [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)").<sup id="cite_ref-DotD_22_12-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-DotD_22-12">[12]</a></sup><sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-13">[13]</a></sup>
+
+Deathwing also managed to turn his greatest enemy, [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), into a slave of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), with which he later allied himself. After a series of setbacks culminating in his defeat at the hands of the other Aspects, Deathwing retreated to [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm") in the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") to recuperate. From the depths of the earth, deeper beneath [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol"), he observed his former mate [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")'s experiments with the [twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight") and later continued his late consort's work.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-14">[14]</a></sup>
+
+Though believed dead by many, Deathwing returned in spectacular fashion after the fall of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"). Entering Azeroth through Deepholm fractured the [World Pillar](https://wowpedia.fandom.com/wiki/World_Pillar "World Pillar"), causing the Elemental Plane to start collapsing onto Azeroth. This [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") reshaped the entire world of Azeroth and unleashed widespread destruction. As the world reeled, he appeared and brought flame to various regions of Azeroth.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-15">[15]</a></sup> His ultimate goal was to bring about the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight") - the liberation of the Old Gods and the end of all life on the planet. Deathwing was aided by powerful allies also minions of his masters, such as the warped ogre-mage [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") and his [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") cult, the powerful [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir") and [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros"), and the [Neferset tol'vir](https://wowpedia.fandom.com/wiki/Neferset_tol%27vir "Neferset tol'vir") of [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum").
+
+Uniting their powers, the remaining Dragon Aspects sent [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") to brave the unstable paths of the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time") to retrieve the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"), an ancient artifact crafted by Deathwing himself 10,000 years earlier and destroyed shortly after the Second War, for it was believed to be the only means of defeating him. With the weapon secured, the Aspects took the battle to their corrupted brother, with the orc shaman [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") as the wielder of the Dragon Soul, now imbued with Deathwing's essence - the very essence of the earth itself.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  After the siege of [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") and unleashing his most powerful minions, Deathwing took to the skies until he was blasted with the Dragon Soul into the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom"). His body at last giving way to the corruption within, Deathwing made his final stand in the raging torrent of the Maelstrom, where he was at last destroyed by the combined powers of the Aspects and the Dragon Soul.
+
+Deathwing was the secondary antagonist in _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal "Warcraft II: Beyond the Dark Portal")_, and the main antagonist of _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.
+
+## Biography
+
+### Dawn of the Aspects
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest/scale-to-width-down/300?cb=20220228210748)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Dawn_of_the_Aspects_art.jpg/revision/latest?cb=20220228210748)
+
+The Dragon Aspects, before they were Aspects, facing Galakrond.
+
+In Azeroth's ancient past, the Dragon Aspects were [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") who stood united against a foe who threatened their entire species: the bloodthirsty Father of Dragons, [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond").<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-16">[16]</a></sup> Neltharion was one of the more intelligent of proto-dragons, capable of broken speech unlike most of the other, more animal-like of his kind. During this time Neltharion did not seem to be the good-natured wyrm he would become as an Aspect, taunting the other proto-dragons for fearing Galakrond.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-17">[17]</a></sup>
+
+When a blue-white proto-dragon named [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") was attacked by [Coros](https://wowpedia.fandom.com/wiki/Coros "Coros") and two other proto-dragons, Neltharion helped to fight them off. He was impressed by Malygos's power, declaring them brothers in blood. Malygos noticed something in the hills nearby, but Neltharion couldn't see it. As he flew off, the land moved - a ripple no larger than a tall human.
+
+Like the other proto-dragons, Neltharion rallied under [Talonixa](https://wowpedia.fandom.com/wiki/Talonixa "Talonixa") by accepting her as alpha in order to deal with the threat of Galakrond and the [not-living](https://wowpedia.fandom.com/wiki/Not-living "Not-living"), though he did not trust her. During this time Neltharion and Malygos quickly became fast friends with [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza"), and [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera"). While not agreeing with all of Ysera's beliefs Neltharion was rather stunned at Talonixa's deception of herding the bitten into a cave and then collapsing it on them, which eventually killed all the bitten who had begun to act like Galakrond.
+
+Neltharion later found himself as part of Talonixa's proto-dragon army that moved to combat Galakrond. Before the proto-dragon army engaged their enemy in battle Malygos devised a plan in which the army would fly higher in the air where Galakrond could not fly. Quickly informing Talonixa of his plan Malygos was relived that to note that she was considering it. However, hearing his sigh Talonixa took it as a sign of Malygos's satisfaction of her bowing to his wisdom and engaged Malygos in battle. While Nozdormu and Neltharion were quick to help Malygos, Talonixa was helped by her two lieutenants. Despite Nozdormu encouraging a retreat, Neltharion openly called for Malygos to fight Talonixa and became the new alpha an action that enraged Talonixa and brought more of her followers to join her, which caused the trio to flee high into the air.
+
+Using his not-living Galakrond was able to lure Talonixa's army into a trap where he erupted from the ground when the army was in position and swiftly shattered it. After killing Talonixa, Galakrond was unable to devour the fast of the army due to the actions of Malygos, Nozdormu, and Neltharion. As Malygos broke off to find Ysera and Alexstrasza, Galakrond ended engaging in battle against the future aspects only to be driven off by [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") after being stunned by his hammer.
+
+An unknown time later, Tyr met with the five proto-dragons, informing them that Galakrond was sleeping in a mountain range to the north and that it was the perfect time to attack. He told them to eat before doing so, and just before they left Tyr held the octagonal artifact before Nozdormu and Neltharion as he had to the others before. After doing so, Tyr vanished in the blink of an eye.
+
+Tyr and the proto-dragons met up near Galakrond's slumbering place, which [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") would later note in his visions was nowhere near [Galakrond's Rest](https://wowpedia.fandom.com/wiki/Galakrond%27s_Rest "Galakrond's Rest"). Save for Ysera, they all began the battle against Galakrond, who had grown larger and even more mutated than before. Throughout the battle, the octagonal object on Tyr's belt glowed ever brighter. When Galakrond suddenly expanded in size without warning, Tyr's hammer could no longer harm him. With a flap of wings, Galakrond called up a massive wind that scattered the fighters. Ysera suddenly appeared and Galakrond attempted to devour her, but Tyr silenced his laughter with a mighty blow from his hammer. Tyr pulled Galakrond to the ground and began to mercilessly beat him even as Galakrond began mutating further - as he began to resemble a true dragon.
+
+In the battle, Tyr's hammer and the strange artifact were knocked free from his person. Tyr reached to grab the artifact, just as Galakrond's massive maw came within range and the monster clamped down on Tyr's hand. Malygos moved to save Tyr, examining the bloody stump as Galakrond roared in triumph and grew ever larger. An unconscious Tyr was brought to a frozen lake by the proto-dragons, only to vanish from the shore. After being attacked by two not-living Ysera and the others found they could not find Tyr where they left him, concluding that some beast must have taken him for food.
+
+After recuperating Neltharion and the others decide to hunt down Galakrond in order to kill him once and for all or die trying. Nozdormu along with the others would be stunned to learn that Galakrond had begun to devour the not-living in order to feed his hunger and shortly after would engage in battle with the behemoth. During the battle, Neltharion would work closely with Malygos and the pair would ultimately kill Galakrond after they forced a boulder down his throat.
+
+After killing Galakrond Neltharion and the others were approached by two other watchers, who revealed that they had taken Tyr to help him. As the proto-dragons were acknowledging the offer, Nozdormu noticed Neltharion staring off toward the mountains, as if he were listening to something. Agreeing to protect Azeroth with his friends, the two watchers were joined by two others and the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") acted through the keepers to transform Neltharion and the others into the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects"). One of their first acts was to encourage the rumor that titans created them from Galakrond, to prevent the truth about Galakrond from leaking to ensure no one would follow in the behemoth's footsteps.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-18">[18]</a></sup>
+
+### As a Dragon Aspect
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Neltharion_TCG.jpg/revision/latest/scale-to-width-down/180?cb=20120916044825)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/Neltharion_TCG.jpg/revision/latest?cb=20120916044825)
+
+Neltharion, the Earth-Warder.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Legacies_Neltharion_Drachtyr.jpg/revision/latest/scale-to-width-down/180?cb=20221227024121)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/Legacies_Neltharion_Drachtyr.jpg/revision/latest?cb=20221227024121)
+
+Neltharion and his [dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr") army.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Legacies_Neltharion_Corruption.jpg/revision/latest/scale-to-width-down/180?cb=20221227023346)](https://static.wikia.nocookie.net/wowpedia/images/3/30/Legacies_Neltharion_Corruption.jpg/revision/latest?cb=20221227023346)
+
+Neltharion gave in to the whispers of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God").
+
+Now the caretaker of the continents of Azeroth, with domain over the earth and the deep places of the world, Neltharion used his power with wisdom and benevolence, forging mountains and rivers for the benefit of mortal races.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-19">[19]</a></sup> [His lair](https://wowpedia.fandom.com/wiki/Neltharion%27s_Lair "Neltharion's Lair") was located in a mountainous region near the night elf city of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"), where he stored one of the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation"), the  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Inv_mace_1h_titanpillar_b_01.png/revision/latest/scale-to-width-down/16?cb=20160901194934)[\[Hammer of Khaz'goroth\]](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth). The [shamanistic](https://wowpedia.fandom.com/wiki/Shaman "Shaman"), cave-dwelling [drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar") served him.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-20">[20]</a></sup> In peaceful times, Neltharion was renowned for his wisdom and power and became known as Neltharion the Earth-Warder, a great protector of the land. [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), now the Spell-Weaver and the Aspect of magic, was his closest friend. They often had friendly banter.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-21">[21]</a></sup>
+
+Twenty thousand years ago, Neltharion created the [dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr").<sup id="cite_ref-Lessons_22-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Lessons-22">[22]</a></sup> Concerned at the rift between the Dragon Aspects and [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates"), Neltharion knew a war was coming even though Alexstrasza thought she could soothe tensions with only words. The [drakonid](https://wowpedia.fandom.com/wiki/Drakonid "Drakonid") were slow, and [dragonspawn](https://wowpedia.fandom.com/wiki/Dragonspawn "Dragonspawn") fragile, but Neltharion saw potential in the mortal races that had begun to emerge across the world. He created the dracthyr as "ideal soldiers," combing the essence of dragons with the traits of mortal races.<sup id="cite_ref-RunsInTheFamily_23-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-RunsInTheFamily-23">[23]</a></sup> Neltharion used a titan artifact, a gauntlet which he wore in his human form, to use [order](https://wowpedia.fandom.com/wiki/Arcane "Arcane") magic to keep the dracthyr under his control. [Raszageth](https://wowpedia.fandom.com/wiki/Raszageth "Raszageth"), one of the leaders of the Primalist rebellion known as the [Primal Incarnates](https://wowpedia.fandom.com/wiki/Primal_Incarnates "Primal Incarnates"), attacked Neltharion and his dracthyr army at the [Forbidden Reach](https://wowpedia.fandom.com/wiki/Forbidden_Reach "Forbidden Reach") and during the fighting destroyed the relic. Seeing no other way to stop the Primalists, this was the moment that Neltharion gave in to the whispers of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") that had long haunted him, and used their power to seal Raszageth away.<sup id="cite_ref-Legacies3_24-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Legacies3-24">[24]</a></sup>
+
+Without the titan relic which he used to control the dracthyr, Neltharion deemed them a risk. He contacted Malygos, beside himself and telling Malygos everything was falling apart and the dracthyr needed to be contained.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-25">[25]</a></sup> He ordered them into creches beneath the Forbidden Reach, and asked Malygos to put them into stasis with his magic. Malygos left behind a contingent of blue dragons to watch over them. They would slumber there, forgotten, for 20,000 years.<sup id="cite_ref-Legacies3_24-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Legacies3-24">[24]</a></sup><sup id="cite_ref-Lessons_22-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Lessons-22">[22]</a></sup><sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-26">[26]</a></sup> Many years later, [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") would come to believe that Neltharion still had a purpose for them, and put them into stasis so that one day they could choose their own destinies.<sup id="cite_ref-Legacies3_24-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Legacies3-24">[24]</a></sup>
+
+### The Winterskorn War
+
+When fallen [Keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper") [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") instigated the [Winterskorn War](https://wowpedia.fandom.com/wiki/Winterskorn_War "Winterskorn War"), fought between the [Winterskorn](https://wowpedia.fandom.com/wiki/Winterskorn "Winterskorn") [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") and the [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen"), [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") and his allies fought on the earthen's side. However, when Tyr realized that they could not win against the [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan") alone, he called upon the Dragon Aspects for aid. The noble Aspects grew enraged upon seeing so many dead titan-forged. Their fury only deepened when they learned that proto-dragons had been enslaved. Without hesitation, the Aspects took wing and unleashed their powers on the Winterskorn's iron ranks.
+
+Much as they had done in the fight against [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond"), the Aspects worked in unison to overwhelm and decimate the vrykul army. [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") held the Winterskorn at bay with towering walls of enchanted fire. [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") drained the magical essence that fueled the constructs and golems, rendering them useless. He also shattered the enchanted snares that bound the proto-dragons and set the beasts free. Neltharion raised mountains from the earth to corral and contain the vrykul and their giant masters. Lastly, [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") combined their powers to create a spell that would bring a decisive end to the conflict.
+
+Ysera and Nozdormu enveloped the Winterskorn in a cloying mist that caused the titan-forged to fall asleep. These incapacitated creatures were then locked away in entombed cities across northern Kalimdor. They would not know the peaceful slumber of the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). Rather, they would languish in a timeless, unconscious slumber for thousands upon thousands of years.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-27">[27]</a></sup>
+
+### Corruption
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Legacies_Neltharion_visage.png/revision/latest/scale-to-width-down/140?cb=20221103220122)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Legacies_Neltharion_visage.png/revision/latest?cb=20221103220122)
+
+Neltharion in his [human](https://wowpedia.fandom.com/wiki/Human "Human") visage form.
+
+Although he was revered as a Dragon Aspect, Neltharion silently chafed at what he felt was a burden that had been inflicted on him; though he could command the entire weight of Azeroth itself, that same weight constantly pressed on his body every waking moment, the load making him feel suffocated to the point that he felt his very spirit unraveling. Neltharion believed that he must bear this burden alone, but ultimately found it to be too much, and began to resent the charge placed upon him. The belief that the titans viewed Azeroth as an experiment only fueled his bitterness. During his conversation with Thrall millennia later, he admitted that he served the Old Gods largely because he believed that they would free him from this burden.<sup id="cite_ref-ChOTA_28-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-ChOTA-28">[28]</a></sup>
+
+Then came the madness that destroyed Neltharion's mind, changing him and his kind forever and leading to the creation of the powerful item known as the Dragon Soul, later the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"). The inner-voices of the Old Gods convinced him that he could have power beyond his imagination if he served them. The voices made him paranoid of even his own [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"). Neltharion began to yearn for a world dominated by his black dragonflight — a world in which the other dragonflights ceased to exist and [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") would be his petty slaves for mating. The Old Gods convinced Neltharion to create the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"). With the help of [goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin") servants led by [Meklo](https://wowpedia.fandom.com/wiki/Meklo "Meklo"), Neltharion created a simple golden disc made of his blood and forged in the goblins' cauldrons and anvils deep beneath the earth. Empowered by Neltharion's magic, the simple disc was magically shielded so that the other [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect") could not see within it. There was an evil within the disc, some taint of the Old Gods, though its exact nature is not known.
+
+Neltharion had the drogbar experiment with ways to merge the elements into a [binding ore](https://wowpedia.fandom.com/wiki/Elementium "Elementium"). He believed it would be the ultimate tool in his rise to power. There were at least fifty attempts.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-29">[29]</a></sup>
+
+### War of the Ancients
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Legacies_Neltharion_WotA.png/revision/latest/scale-to-width-down/180?cb=20221101180326)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Legacies_Neltharion_WotA.png/revision/latest?cb=20221101180326)
+
+Neltharion battles the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Legacies_Neltharion_plan.jpg/revision/latest/scale-to-width-down/180?cb=20221227211338)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Legacies_Neltharion_plan.jpg/revision/latest?cb=20221227211338)
+
+Neltharion reveals his plan to win the [war](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Legacies_Neltharion_betrayal.jpg/revision/latest/scale-to-width-down/180?cb=20221227014446)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Legacies_Neltharion_betrayal.jpg/revision/latest?cb=20221227014446)
+
+Neltharion reveals his true nature as Deathwing.
+
+When the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") entered [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), Neltharion saw the opportunity to complete his Dragon Soul. Guided by the voices of the Old Gods, he first captured demons of the Burning Legion and added their powers to the Dragon Soul. Neltharion then convinced [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") to help him with the other Dragon Aspects. All of them agreed to give a portion of their powers to the Dragon Soul, including all dragons of their dragonflights. Neltharion proposed that the Dragon Soul disc could be a weapon of great power to destroy the demons of the Burning Legion. Unknown to the rest, Neltharion was the only one who did not give of his powers to the Dragon Soul.
+
+Neltharion, the Dragon Aspects and their dragonflights flew toward [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari") where the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") held the demons at bay. The dragons awaited Neltharion's first attack. He grabbed the Dragon Soul and by channeling his destructive power through it destroyed thousands of demons with one swing of radiant magic. The Dragon Aspects watched in horror as Neltharion also killed hundreds of night elves and other allies along with the demons.
+
+Neltharion revealed the depths of his betrayal at last. Now with the disc at his command, he wanted all races and the demons to see his power and to bow to him. The Dragon Aspects attacked Neltharion in an attempt to take the Dragon Soul from him and to reason with him in hopes of determining the cause of his perfidy. Malygos' blue dragonflight surrounded Neltharion, but with a swing of the Dragon Soul, most of the blue dragons perished. The next swing of the Dragon Soul paralyzed all dragonflights and the Dragon Aspects in mid-air, rendering them unable to move or speak. Neltharion then struck out at the Dragon Aspects and their dragonflights, destroying many and scattering them far across the land.
+
+Neltharion's betrayal struck a great blow to the Aspects, and their fear of being destroyed like the blue dragonflight kept them in seclusion. In desperation, the Aspects shielded themselves and hid to become undetected even by each other.
+
+### Rise of the Destroyer
+
+The growing corruption in Neltharion's heart warped his body, as the angelic dragon began taking a more demonic appearance, similar to how [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") changed to a more demonic form after his corruption. Neltharion's body cracked open, revealing his molten heart, and magma and fire flowed off his chest. His eyes became aflame in red, demonstrating the magnitude of his power and the depths of his evil. Thus was Deathwing the Destroyer born, and the Dragon Soul was renamed the [Demon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul").
+
+Deathwing returned to his lair in what would later be known as [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain"). His proximity to the Demon Soul was ripping his body apart, so goblin smiths forged an armor of [adamantium](https://wowpedia.fandom.com/wiki/Adamantine "Adamantine") steel to serve as a vessel to contain Deathwing's raging powers and keep them in check, which were then placed on his body by the drogbar, whom he had enslaved.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-30">[30]</a></sup> Only the adamantium plates bolted to his spine kept the power from destroying his body.
+
+The Old Gods had manipulated Deathwing into creating the Demon Soul, but their true intention was that the demons would inform their lord [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") of the great power of the weapon used against them. Sargeras would no doubt want the Demon Soul to power the gateway that would let him enter Azeroth. By using the Demon Soul to amplify the gateway, the three Old Gods hoped to escape their prison beneath the planet.
+
+However, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") used the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") to find Deathwing's lair and stole the Demon Soul from the black dragon, who tried to pursue the thief in vain. [Illidan](https://wowpedia.fandom.com/wiki/Illidan "Illidan") and [Varo'then](https://wowpedia.fandom.com/wiki/Varo%27then "Varo'then") captured Malfurion and took the Demon Soul back to [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"), to [Mannoroth the Destructor](https://wowpedia.fandom.com/wiki/Mannoroth_the_Destructor "Mannoroth the Destructor"), the general of the Legion's armies. It was used to power up the portal that would allow Sargeras to enter Azeroth.
+
+Deathwing tried one last time to recover the disk when it was being used by both Sargeras and the Old Gods, and actually succeeded in reaching it. Deathwing was almost destroyed in the attempt, but after he got the Demon Soul, an enormous surge of power made him lose his grip on the disk and sent him spiraling far away from the portal. Shortly afterward, an incarnation of Nozdormu from millennia later prevented the Soul from falling into the Well below and brought it with him back to the future.
+
+After the Burning Legion was defeated, and the Demon Soul returned from the future, the Dragon Aspects sealed the artifact with their energies, so that Deathwing should never be able to manipulate the Demon Soul. The artifact was hidden in an undisclosed location by Malfurion at the request of the Dragon Aspects. No longer in possession of the artifact and now unable to use it, Deathwing vowed to destroy most life and to wreak havoc on the planet. With his powers over earth, Neltharion caused volcanoes to rise along with the destruction already caused by the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity")'s implosion, sinking most of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") below the ocean. He himself chose Deathwing as his title, to better show his contempt and intentions for the lesser creatures around him.<sup id="cite_ref-DotD_135_31-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-DotD_135-31">[31]</a></sup>
+
+After the war, Deathwing retreated to [Neltharion's Vault](https://wowpedia.fandom.com/wiki/Neltharion%27s_Vault "Neltharion's Vault") near his lair in the mountainous region, which had recently been renamed [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") by the [tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") living there in honor of the hero [Huln Highmountain](https://wowpedia.fandom.com/wiki/Huln_Highmountain "Huln Highmountain").<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-32">[32]</a></sup> Huln and an uprising of Deathwing's drogbar slaves battled the Earth Warder, and with the  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Inv_mace_1h_titanpillar_b_01.png/revision/latest/scale-to-width-down/16?cb=20160901194934)[\[Hammer of Khaz'goroth\]](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth) Huln banished Deathwing from the land, sending him to [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm").<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-33">[33]</a></sup>
+
+After Deathwing returned to Azeroth, he settled into a deep slumber. He needed time to recover from his wounds caused by the Demon Soul and to regain his strength. During his long slumber, the other dragonflights would hunt his corrupted black dragonflight to the brink of extinction.<sup id="cite_ref-Chronicle139-141_34-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle139-141-34">[34]</a></sup>
+
+### First War
+
+Ten thousand years later, the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") between Azeroth and [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") was opened by [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") and [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"). The incredible amount of magic roused Deathwing from his slumber. He watched with fascination as [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") and the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") fought, and he became convinced that the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") would be the means to restore his flight to its full glory. However, he knew the other Dragon Aspects and the mortal races would oppose him if he came out of hiding. If the Horde could break Azeroth's kingdoms, Deathwing could devote his full attention to fending off the Aspects. During the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), Deathwing's Old God masters urged him to take small steps to aid the orcs. He did nothing drastic, for fear of attracting the Aspects' attention, yet the Old Gods saw Deathwing's intervention as a way to engulf the world in chaos.<sup id="cite_ref-Chronicle139-141_34-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle139-141-34">[34]</a></sup>
+
+The first thing Deathwing did was take the guise of a noble human from Stormwind and travel to [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). He charmed the aristocracy, and when stories of the Horde invasion finally reached Lordaeron, Deathwing openly scoffed at them. He told Lordaeron's nobles that the tales were fabrications meant to hide growing problems with rebels in Stormwind, and his lies were much more convincing than Stormwind's desperate pleas for help. To win over those who stubbornly believed the reports, Deathwing subtly influenced the minds of Lordaeron's nobles with his magic, preventing them from taking any action against the Horde.<sup id="cite_ref-Chronicle139-141_34-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle139-141-34">[34]</a></sup>
+
+Deathwing did not only involve himself with human affairs, either. Once he was certain Lordaeron would not send aid to Stormwind, Deathwing moved south. He took the form of a [Blackrock](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") orc and lived among the orcs for months, examining their society from the inside. He had easily sensed the hidden power driving the Horde's actions, and before long Deathwing maneuvered himself into the good graces of several individuals. [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") believed Deathwing's orc disguise to be a loyal follower, [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand") believed him a proud Blackrock orc, and [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer") believed he was a stalwart ally. When Blackhand fell to Orgrim, Deathwing did not see it as an issue. As a servant of the Old Gods, he saw the shattering of the Burning Legion's hold on the orcs as a good thing that only served to make them more vulnerable to his own masters.<sup id="cite_ref-Chronicle139-141_34-3"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle139-141-34">[34]</a></sup>
+
+### Second War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/29/HeroDeathWingWC2.gif/revision/latest?cb=20100202032131)](https://static.wikia.nocookie.net/wowpedia/images/2/29/HeroDeathWingWC2.gif/revision/latest?cb=20100202032131)
+
+Deathwing in Warcraft II.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/81/Deathwingartwar2.JPG/revision/latest/scale-to-width-down/180?cb=20080912143303)](https://static.wikia.nocookie.net/wowpedia/images/8/81/Deathwingartwar2.JPG/revision/latest?cb=20080912143303)
+
+Deathwing as depicted in the Warcraft II manual.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Deathwingcinematicwar2.JPG/revision/latest/scale-to-width-down/180?cb=20080912143324)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Deathwingcinematicwar2.JPG/revision/latest?cb=20080912143324)
+
+Deathwing in a Warcraft II cinematic.
+
+But there was a problem with Deathwing's plans. The Horde had been weakened by the First War, and if the rest of the human kingdoms were to unite, the orcs would not have the means to destroy them. Even if they could, they would awaken too many enemies in the meantime - if the Dragon Aspects learned about the Horde, the orcs would stand no chance. However, Deathwing's Dragon Soul was still out there, having been hidden after the War of the Ancients. It contained the power of all the Aspects except Deathwing, and so could be used against them for destruction or control. And although the weapon had been enchanted after the war so that no dragon could wield it, orcs could.<sup id="cite_ref-Chronicle139-141_34-4"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle139-141-34">[34]</a></sup>
+
+Deathwing granted visions to [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked"), chieftain of the [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan"). He was bombarded with vivid dreams of his clan taming and riding dragons. His clan had once ridden [rylaks](https://wowpedia.fandom.com/wiki/Rylak "Rylak") on Draenor, and to once again soar in the sky was an idea that could not be resisted. Once the hook had been set, Deathwing coaxed Zuluhed to the [Redridge Mountains](https://wowpedia.fandom.com/wiki/Redridge_Mountains "Redridge Mountains"). The Dragon Soul was hidden deep beneath the mountains, protected by wards and the red dragon [Orastrasz](https://wowpedia.fandom.com/wiki/Orastrasz "Orastrasz"), untouched for ten thousand years. Dozens of Dragonmaw orcs died against Orastrasz, unfamiliar as they were with dragons, but they succeeded. Zuluhed ordered his clan's greatest warlock, [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher"), to retrieve the Dragon Soul. Sensing the dark power within, Nekros renamed it the Demon Soul. Far from the Redridge Mountains, Alexstrasza sensed the wards breaking and grew concerned when she heard no word from Orastrasz. She and several of her red dragons hurried south, though she believed that some mortal had found the disc and Orastrasz was currently hunting for it and that it would be easy to help him retrieve. In truth, they were heading right into Deathwing's trap.<sup id="cite_ref-Chronicle139-141_34-5"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle139-141-34">[34]</a></sup>
+
+Deathwing taught Nekros how to use the Demon Soul through dreams and visions. With it, the Dragonmaw clan was able to enslave Alexstrasza shortly after the Horde assaulted [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan"). He could not use it on the other dragons as he had to focus on her, but by lashing out at Alexstrasza with the disc's power whenever her dragons tried to intervene, Nekros was able to get them to do as he ordered. The Dragonmaw took control of the long-abandoned dwarf city [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol") in the [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") and forced Alexstrasza's dragons to accompany them by threatening their queen. While the Dragonmaw began to ride their captives as battle mounts, Alexstrasza was imprisoned within Grim Batol and forced to lay eggs so the Dragonmaw could raise loyal dragons from infancy. From afar, Deathwing rejoiced in Alexstrasza's imprisonment. He continued to subtly advise Nekros on how best to use the Demon Soul to control the red dragons. Not only would making the Horde stronger help his plan to restore the black dragonflight, but he also knew that seeing her children be used as tools for war would make Alexstrasza's heart suffer. And Deathwing would relish every moment of Alexstrasza's torment.<sup id="cite_ref-Chronicle155-156_35-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle155-156-35">[35]</a></sup>
+
+[Kryll](https://wowpedia.fandom.com/wiki/Kryll "Kryll"), a goblin servant of Deathwing, was sent to infiltrate the Dragonmaw clan and to serve Nekros Skullcrusher. Nekros ended up being manipulated by Kryll into doing Deathwing's bidding. The goblin served as an "advisor" to Nekros, whispering ideas to the orc in order to further Deathwing's aims.
+
+### Beyond the Dark Portal
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/28/Chronicle_Deathwing_vs_Gruul.jpg/revision/latest/scale-to-width-down/180?cb=20170317154100)](https://static.wikia.nocookie.net/wowpedia/images/2/28/Chronicle_Deathwing_vs_Gruul.jpg/revision/latest?cb=20170317154100)
+
+Deathwing and Gruul battling.
+
+Eventually, the Horde lost their war and were forced to retreat to Draenor with the Dark Portal closed behind them. After [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") reopened the portal several years later, his forces were approached by Deathwing. He offered his own children for assistance in exchange for safe passage to [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"). They agreed and Deathwing helped them prepare for several key battles to steal two artifacts from the Alliance in order for Ner'zhul's newly reformed Horde to create new portals to other worlds. They then fled back to the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") to Draenor. Deathwing believed the world would be a relatively safe haven for his offspring and secreted away a cache of black dragon eggs there. However, the [gronn](https://wowpedia.fandom.com/wiki/Gronn "Gronn") did not take kindly to Deathwing and his black dragons trying to take over their territory and conflict arose between the two races.
+
+Some time after Deathwing invaded his territory, Gruul was met by the lost heroes of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"): [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar"), [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon"), and [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner"). They were after the [Skull of Gul'dan](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") which Deathwing possessed (he demanded it as payment from Ner'zhul). After that, Gruul and his ogre minions, along with the heroes, challenged Deathwing from his perch in [Gorgrond](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains "Blade's Edge Mountains") — killing his eggs and impaling his lesser black drakes on the mountain spikes. Infuriated by this act, Deathwing landed on top of them and attacked Gruul. Although clearly no match for the mad [Aspect](https://wowpedia.fandom.com/wiki/Aspect "Aspect")'s power, Gruul was saved by [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar")'s miraculous spell when he disassembled some of the adamantium plates that were holding Deathwing's unstable body together resulting in Deathwing's retreat.
+
+Having escaped back to Azeroth, Deathwing ended up in a fight with some of the archmagi of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and feigned defeat, falling into the sea, where most of the council assumed at the time that he died.<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-36">[36]</a></sup> He was not dead, however, and he took a human guise, pretending to be a heroic noble named Lord Prestor in an effort to be declared king of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"), where he could manipulate the Alliance from within.<sup id="cite_ref-Day_of_the_Dragon_37-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Day_of_the_Dragon-37">[37]</a></sup>
+
+Soon after [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") recklessly opened multiple portals on Draenor, the magical stress tore the planet apart. The energies released in this catastrophe altered Deathwing's eggs, resulting in the [nether drakes](https://wowpedia.fandom.com/wiki/Nether_drake "Nether drake"): partially corporeal and partially ethereal dragons who possess the ability to shift between the astral and physical planes. Without Deathwing's guidance, these otherworldly nether drakes are just now finding their own way among the blasted ruins of [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland").
+
+### Lord Daval Prestor
+
+Deathwing, posing as Lord Daval Prestor, managed to make himself popular with [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas") and the kings of the Alliance nations, and for a while had a strong influence in the decisions of state.
+
+Lord Prestor was a minor noble, dispossessed and without backing, who came from the north.<sup id="cite_ref-DotD_22_12-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-DotD_22-12">[12]</a></sup><sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-38">[38]</a></sup> He came from one of the [most mountainous and obscure regions](https://wowpedia.fandom.com/wiki/Northern_Lordaeron "Northern Lordaeron") of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") after his tiny domain had been destroyed during the Second War by a dragon attack. He and a handful of his close family traveled by foot — no mounts, not even any servants or guards — to the [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") of Lordaeron, where he presented himself to King Terenas.<sup id="cite_ref-BtDP_99_5-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-BtDP_99-5">[5]</a></sup> Lord Prestor soon became an integral part of Terenas' inner circle. When debating on what to do with Lord [Aiden Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde"), the treacherous king of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"), right after the Second War ended, Prestor advised Terenas to depose Lord Perenolde and declare martial law in the Alterac region.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-39">[39]</a></sup>
+
+Although no one had heard of him prior to five years before the [Battle of Grim Batol](https://wowpedia.fandom.com/wiki/Battle_of_Grim_Batol "Battle of Grim Batol"),<sup id="cite_ref-DotD_22_12-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-DotD_22-12">[12]</a></sup> Prestor claimed bloodlines in the royal house of Alterac<sup id="cite_ref-DotD_22_12-3"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-DotD_22-12">[12]</a></sup> ensuring he was a distant cousin to [Aliden Perenolde](https://wowpedia.fandom.com/wiki/Aliden_Perenolde "Aliden Perenolde").<sup id="cite_ref-BtDP_99_5-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-BtDP_99-5">[5]</a></sup>
+
+[Genn Greymane](https://wowpedia.fandom.com/wiki/Genn_Greymane "Genn Greymane") of [Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)"), [Thoras Trollbane](https://wowpedia.fandom.com/wiki/Thoras_Trollbane "Thoras Trollbane") of [Stromgarde](https://wowpedia.fandom.com/wiki/Stromgarde_(kingdom) "Stromgarde (kingdom)"), and [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore") of [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") debated what should be done with Alterac, protesting Lordaeron's continued presence there. Greymane supported [Perenolde's nephew](https://wowpedia.fandom.com/wiki/Isiden_Perenolde "Isiden Perenolde") in his claim for the throne of Alterac. Trollbane advocated dividing it between Lordaeron and Stromgarde. Realizing that neither situation was acceptable and that Lordaeron could not simply annex it, Terenas — telepathically coerced by Prestor — believed that a strong leader trusted by the Alliance leadership should be put in place as King of Alterac, and he declared Lord Prestor as his choice to take that position. Terenas was even prepared to give Prestor the hand of his daughter, [Princess Calia](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), in the coming years as part of a marriage alliance between the new king of Alterac and the king of Lordaeron.<sup id="cite_ref-Day_of_the_Dragon_37-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Day_of_the_Dragon-37">[37]</a></sup>
+
+Deathwing's ultimate goal was to obtain a high level of power and influence within the Alliance, so he could destroy it from within. He had begun his campaign against the Alliance by pitting the kingdoms of Lordaeron, Stromgarde, Gilneas, and Kul Tiras against the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") - who Deathwing considered threats to his new identity. Because of that, the Kirin Tor of Dalaran had their misgivings. The red dragon [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz") — in his guise as Krasus, a member of the Kirin Tor high council — attempted to penetrate the chateau of Lord Prestor, setting off a very powerful spell-trap known as the [Endless Hunger](https://wowpedia.fandom.com/wiki/Endless_Hunger "Endless Hunger"). The powerful energies maimed him, but Krasus was able to discover who he truly was. Two other members of the high council, [Drenden](https://wowpedia.fandom.com/wiki/Drenden "Drenden") and [Modera](https://wowpedia.fandom.com/wiki/Modera "Modera"), saw that Prestor was a complete blank magically, implying that he possessed great power — "possibly almost as powerful as [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")", as Modera put it. The fact that the Alliance leaders, including the normally stubborn Greymane, had given Prestor their support, and the fact that King Terenas appeared to be leaving Dalaran out of the loop entirely, increased the Kirin Tor's suspicions about this unusual man.<sup id="cite_ref-Day_of_the_Dragon_37-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Day_of_the_Dragon-37">[37]</a></sup>
+
+### The battle of Grim Batol
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Chronicle3_Alexstrasza.jpg/revision/latest/scale-to-width-down/180?cb=20180806225234)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Chronicle3_Alexstrasza.jpg/revision/latest?cb=20180806225234)
+
+Deathwing fighting the Aspects while Alexstrasza manages to get free.
+
+The orcs of the Dragonmaw clan at [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol") kept their hold over Alexstrasza, even though the bulk of the Horde had already been defeated. Deathwing tried to frighten the Dragonmaw orcs into believing that the humans were attacking Grim Batol, so that they would move Alexstrasza and her eggs north to [Dun Algaz](https://wowpedia.fandom.com/wiki/Dun_Algaz "Dun Algaz"); this left her eggs vulnerable. Deathwing hoped to steal Alexstrasza's latest cache for himself to create a new dragonflight; though bearing the crimson scales of the Dragonqueen, they would be raised by Deathwing and carry his hatred for the mortal races.
+
+Deathwing used his pawns to manipulate the mage [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), who had been sent to Grim Batol by Krasus, as part of a plan to free Alexstrasza. He saved the young mage several times and helped him reach Grim Batol, hoping that his appearance inside the mountain fortress would further convince Nekros to flee from it. Though the orcs were convinced and began leaving Grim Batol, Deathwing's attack on the caravan, however, failed. Nekros tried to use the Demon Soul on Deathwing but was unsuccessful due to the disk having no power over the black dragon. He then sent [Tyranastrasz](https://wowpedia.fandom.com/wiki/Tyranastrasz "Tyranastrasz"), old and sick, to stop the Deathwing, but he failed and was killed.
+
+At the behest of Krasus, the three remaining free aspects, [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") and [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), grudgingly decided to come out of their lairs and attack Deathwing. However, due to the power they had given to the Demon Soul, they were no match for the black leviathan. But Rhonin was able to steal the Demon Soul from Nekros, freeing Alexstrasza in the process. Furthermore, he discovered its weakness and destroyed it, releasing all the powers of the dragons who had given their power ten thousand years earlier. Deathwing was sent retreating with four very angry, fully-empowered [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") on his heels, though he managed to elude them in the end.
+
+Shortly after the battle of Grim Batol, Lord Daval Prestor vanished under unusual circumstances when Deathwing was forced to go into hiding, with his chateau abandoned and his servants gone. Deathwing's influence over the nobles disappeared along with him.
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+In the absence of their father, [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") and [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian"), offspring of Deathwing and masters of the black dragonflight, have tried to control the world. Onyxia followed in her father's footsteps by taking the Prestor name to attempt to manipulate the Alliance. She posed as a human counselor named Katrana Prestor for the new child King of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)"). Nefarian, meanwhile, posed as a human named Lord Victor Nefarius, Lord of the [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain") in the [Burning Steppes](https://wowpedia.fandom.com/wiki/Burning_Steppes "Burning Steppes"). He was able to enslave the [Blackrock Clan](https://wowpedia.fandom.com/wiki/Blackrock_Clan "Blackrock Clan") orcs who served him on the top of the mountain, the [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire").
+
+### Burning Crusade
+
+[![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
+
+In a brief dialogue with [Overlord Mor'ghor](https://wowpedia.fandom.com/wiki/Overlord_Mor%27ghor "Overlord Mor'ghor"), [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia") revealed that Deathwing survived the events of the Battle of Grim Batol, and sought the [Netherwing](https://wowpedia.fandom.com/wiki/Netherwing "Netherwing") eggs to continue Nefarian's experiments.
+
+### Night of the Dragon
+
+Deathwing's consort [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia") serves as the primary antagonist of [Night of the Dragon](https://wowpedia.fandom.com/wiki/Night_of_the_Dragon "Night of the Dragon"), carrying on Deathwing's experiments of creating twilight dragons. Deathwing himself does not appear until the end of the novel, where it is revealed he is using the research of [his](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") [children](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") and consort to perfect the creation of the [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight"). Some time after Sinestra's death, Deathwing retrieved her corpse and used the power of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") to reanimate her for the sole purpose of creating more eggs to turn into twilight dragons.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-40">[40]</a></sup> She would later serve as the [final boss](https://wowpedia.fandom.com/wiki/Sinestra_(tactics) "Sinestra (tactics)") of the [Bastion of Twilight](https://wowpedia.fandom.com/wiki/Bastion_of_Twilight "Bastion of Twilight").
+
+### Wrath of the Lich King
+
+During the battle against the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron"), inside [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar_(instance) "Ulduar (instance)"), Deathwing appeared in his visage form and under his original name, Neltharion. He was featured along with all the other [Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") in a flashback that depicted the creation of the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"), ten thousand years earlier.
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+After the battle at Grim Batol, Deathwing returned to [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), the realm of the [earth elementals](https://wowpedia.fandom.com/wiki/Earth_elemental "Earth elemental"), to recuperate. When he arrived, the native [stone dragons](https://wowpedia.fandom.com/wiki/Stone_dragon "Stone dragon") flocked to his side, easily swayed by the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God")\-amplified power of the Aspect of Earth.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-41">[41]</a></sup><sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-42">[42]</a></sup> For a while, Deathwing did not upset the balance in Deepholm; he had stayed there before, and the earth elementals knew him. "The shift", as [Kor the Immovable](https://wowpedia.fandom.com/wiki/Kor_the_Immovable "Kor the Immovable") puts it, did not truly begin until he was joined by the fanatical [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") cult.<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-43">[43]</a></sup>
+
+#### The Shattering
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Deathwing_by_Michael_Whelan.jpg/revision/latest/scale-to-width-down/140?cb=20210221123617)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Deathwing_by_Michael_Whelan.jpg/revision/latest?cb=20210221123617)
+
+Deathwing rising from the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Chronicle3_Deathwing.jpg/revision/latest/scale-to-width-down/140?cb=20190921183351)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Chronicle3_Deathwing.jpg/revision/latest?cb=20190921183351)
+
+Deathwing unleashing destruction on Azeroth after bursting forth from the Elemental Plane.
+
+Hidden away inside the [Stonecore](https://wowpedia.fandom.com/wiki/Stonecore "Stonecore") in the [Temple of Earth](https://wowpedia.fandom.com/wiki/Temple_of_Earth "Temple of Earth"), Deathwing waited, recovering from the wounds of his last battle against the forces of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). As he bided his time until he could reforge the world in molten fire, the Twilight's Hammer toiled over him, forging a new armor of [elementium](https://wowpedia.fandom.com/wiki/Elementium "Elementium") plates that were then hammered to the Dragon Aspect's skin to hold his tormented body together.<sup id="cite_ref-cataclysmsite_44-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-cataclysmsite-44">[44]</a></sup><sup id="cite_ref-45"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-45">[45]</a></sup> The raw elementium had been dug up by a massive [gyreworm](https://wowpedia.fandom.com/wiki/Gyreworm "Gyreworm") called [Corborus](https://wowpedia.fandom.com/wiki/Corborus "Corborus"), enslaved by Deathwing himself for this one task.<sup id="cite_ref-46"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-46">[46]</a></sup>
+
+In recent years, the whisperings of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") had gotten worse; the Old Ones' dread power steadily increased as [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") stirred from their ancient slumbers, and the growing influence of the Old Gods magnified Deathwing's power ten-fold. From within his lair in the elemental plane of Deepholm, Deathwing awoke from his slumber and literally erupted into the world. His explosion into Azeroth was so powerful that it tore a rift between the Elemental Plane and Azeroth and caused earthquakes, volcanic eruptions, and floods, reshaping the very face of the world. Very few lands have remained untouched in the wake of the devastating [Shattering](https://wowpedia.fandom.com/wiki/Shattering "Shattering").<sup id="cite_ref-47"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-47">[47]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/9/96/Cinematic_Deathwing.jpg/revision/latest/scale-to-width-down/180?cb=20190519160448)](https://static.wikia.nocookie.net/wowpedia/images/9/96/Cinematic_Deathwing.jpg/revision/latest?cb=20190519160448)
+
+Deathwing in the Cataclysm cinematic.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Deathwing_Humanoid_Form.jpg/revision/latest/scale-to-width-down/140?cb=20110922143723)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/Deathwing_Humanoid_Form.jpg/revision/latest?cb=20110922143723)
+
+Deathwing in his visage form.
+
+[Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") got its share of the destruction when Deathwing swooped into it and crashed down on the city gates. The entire [park](https://wowpedia.fandom.com/wiki/Park "Park") was blown away, and his searing heat caused the towers where he landed to glow red until they were fully repaired. Afterward, he took the head of Onyxia<sup id="cite_ref-48"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-48">[48]</a></sup> and flew off, something which puzzled the city guards as they were certain he would have been able to destroy the entire city if he wanted to.<sup id="cite_ref-49"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-49">[49]</a></sup> This also caused all the [rats](https://wowpedia.fandom.com/wiki/Stormwind_Rat "Stormwind Rat") to beat a hasty retreat from the city.<sup id="cite_ref-50"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-50">[50]</a></sup> He also flew over [Kezan](https://wowpedia.fandom.com/wiki/Kezan "Kezan") causing the eruption of [Mount Kajaro](https://wowpedia.fandom.com/wiki/Mount_Kajaro "Mount Kajaro"), marking [Bilgewater Port](https://wowpedia.fandom.com/wiki/Bilgewater_Port "Bilgewater Port") uninhabitable and forcing the remains of the entire [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") to evacuate their side of Kezan for Kalimdor.
+
+Following his explosive escape from Deepholm, Deathwing cast a deadly shadow over the people of Azeroth. Deathwing randomly chose zones to attack; a reddened sky was the only warning before every living creature caught in his approach was consumed by his terrible fire and killed. Dying in this manner rewarded the  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Spell_fire_fire.png/revision/latest/scale-to-width-down/16?cb=20060928014618)[\[Stood in the Fire\]](https://wowpedia.fandom.com/wiki/Stood_in_the_Fire) achievement. Deathwing continued strafing random zones "until his ruinous reign was brought to an end" (until the end of [patch 4.3](https://wowpedia.fandom.com/wiki/Patch_4.3 "Patch 4.3")<sup id="cite_ref-51"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-51">[51]</a></sup>)
+
+#### The Badlands
+
+The main storyline quest of the [Badlands](https://wowpedia.fandom.com/wiki/Badlands "Badlands") in _Cataclysm_ is centered around [Rheastrasza](https://wowpedia.fandom.com/wiki/Rheastrasza "Rheastrasza") and her research of the black dragonflight and of a way of purifying them. She has captured the black dragon, [Nyxondra](https://wowpedia.fandom.com/wiki/Nyxondra "Nyxondra"), and forces her to lay eggs for the experiments. She feels pity for the black dragon but knows it is for the greater good. After succeeding in creating a purified black dragon egg, she constantly moves around to avoid being found by agents of the black dragonflight, who want to destroy the egg. In the quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[15-30\] [Rheastrasza's Gift](https://wowpedia.fandom.com/wiki/Rheastrasza%27s_Gift), she is killed by Deathwing, who was after the egg. The egg he destroyed, however, was not the purified one, but Rheastrasza's own egg. The real egg, purified by a titan device an adventurer acquires during the quest chain, hatches into [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion").
+
+There is also a minor quest chain involving [Theldurin the Lost](https://wowpedia.fandom.com/wiki/Theldurin_the_Lost "Theldurin the Lost") and his friends telling rather tall tales about how each of them defeated Deathwing.<sup id="cite_ref-The_Day_52-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-The_Day-52">[52]</a></sup>
+
+#### Mount Hyjal
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Deathwing_Mount_Hyjal.jpg/revision/latest/scale-to-width-down/180?cb=20100808154917)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Deathwing_Mount_Hyjal.jpg/revision/latest?cb=20100808154917)
+
+Deathwing at Mount Hyjal.
+
+At the beginning of the storyline, Deathwing summons the Firelord, [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros") along with his fire elemental servants into the world of Azeroth, aided by his mortal followers, the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") cult with the ultimate goal of destroying [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil").
+
+#### Uldum
+
+During the [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum") storyline it is revealed that Deathwing enlisted the aid of [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir") and his air elemental minions to do his bidding. The [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe") of the [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir"), native residents of Uldum, have also joined his ranks as they have been seduced by the promises of power and removal of the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh"). Al'Akir, as well as mortal forces led by [Commander Schnottz](https://wowpedia.fandom.com/wiki/Commander_Schnottz "Commander Schnottz"), also sought to gain control of the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"), a [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") superweapon capable of wiping out all life on Azeroth.<sup id="cite_ref-53"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-53">[53]</a></sup>
+
+#### The Twilight Highlands
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a2/World_of_Warcraft_Wallpaper_005_%E2%80%93_Alexstrasza_Vs._Deathwing.jpg/revision/latest/scale-to-width-down/180?cb=20161101124854)](https://static.wikia.nocookie.net/wowpedia/images/a/a2/World_of_Warcraft_Wallpaper_005_%E2%80%93_Alexstrasza_Vs._Deathwing.jpg/revision/latest?cb=20161101124854)
+
+Deathwing fighting Alexstrasza in his dragon form.
+
+Deathwing is later seen in the Twilight highlands quest chain. After beating back his Twilight dragon minions, the player along with [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") and her son [Calen](https://wowpedia.fandom.com/wiki/Calen "Calen"), use a sanctified circle of life to lure Deathwing to their location so Alexstrasza can destroy him once and for all. The plan quickly falls apart as Deathwing proves to be more powerful than they realize. After a quick dialogue, Deathwing and Alexstrasza face each other above [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol"), shadowing the events of Day of the Dragon.<sup id="cite_ref-54"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-54">[54]</a></sup>
+
+After a long battle, Alexstrasza and Deathwing spiral out of sight, with Deathwing spitting a stream of magma. Alexstrasza, severely wounded, lands near the entrance and tells the player, along with Calen, that Deathwing was dead. Soon after, however, Deathwing rises above the hillside, wounded, but not nearly as bad as Alexstrasza. The player then flees with the near-dead Alexstrasza as Calen distracts Deathwing long enough for them to escape. Deathwing then leaves as, according to Calen, he was wounded more than he let on and needed time to heal.<sup id="cite_ref-55"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-55">[55]</a></sup>
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Battle_of_Life_and_Death.jpg/revision/latest/scale-to-width-down/120?cb=20210328013748)](https://static.wikia.nocookie.net/wowpedia/images/f/ff/Battle_of_Life_and_Death.jpg/revision/latest?cb=20210328013748)
+    
+    Deathwing faces Alexstrasza.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/41/Alexstrasza_vs_Deathwing.jpg/revision/latest/scale-to-width-down/120?cb=20110412195106)](https://static.wikia.nocookie.net/wowpedia/images/4/41/Alexstrasza_vs_Deathwing.jpg/revision/latest?cb=20110412195106)
+    
+    Deathwing faces Alexstrasza (in-game).
+    
+
+#### Thrall: Twilight of the Aspects
+
+It was revealed that once, long ago, Deathwing had been warned that an orc named [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") would rise to challenge and possibly defeat him. Consequently, Deathwing sent out the [Twilight Father](https://wowpedia.fandom.com/wiki/Twilight_Father "Twilight Father") to kill him. He also sent [Blackmoore](https://wowpedia.fandom.com/wiki/Aedelas_Blackmoore_(alternate_universe) "Aedelas Blackmoore (alternate universe)") from an alternate universe in an attempt to assassinate Thrall, but the plan failed when Thrall killed Blackmoore. After the Aspects defeated the Twilight´s Hammer forces in Wyrmrest Temple, Deathwing allowed the Twilight Father, who in fact was [Archbishop Benedictus](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus"), to return to [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
+
+#### Rage of the Firelands
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Arygos_and_Deathwing.jpg/revision/latest/scale-to-width-down/180?cb=20110724133027)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Arygos_and_Deathwing.jpg/revision/latest?cb=20110724133027)
+
+Arygos and Deathwing.
+
+Following the death of [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), the [Blue Dragonflight](https://wowpedia.fandom.com/wiki/Blue_Dragonflight "Blue Dragonflight") was torn between two possible new leaders - [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos"), and [Arygos](https://wowpedia.fandom.com/wiki/Arygos "Arygos"). Ultimately, it was revealed that Arygos has entered into an alliance with the Blue Dragonflight's original despoiler, Deathwing, in order to become the new Aspect of Magic - and Deathwing, though eager to see him overthrow Kalecgos, warned him not to repeat the mistakes of his father.
+
+However, their plot ended in failure, as [Tarecgosa](https://wowpedia.fandom.com/wiki/Tarecgosa "Tarecgosa") sacrificed herself to save Kalecgos from Arygos' assault, and Arygos fled [Coldarra](https://wowpedia.fandom.com/wiki/Coldarra "Coldarra") - swearing that Neltharion would destroy them all.
+
+#### Charge of the Aspects
+
+As Thrall and the other Aspects, including the newly-elevated Kalecgos, debated on how to defeat Deathwing, the shaman's spirit communed with the earth and took an [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen") form. It was there that he encountered Deathwing, using the power of the Old Gods to imprison his spirit within. The corrupted Aspect mocked Thrall, believing that the Aspects sought to replace him as Earth-Warder with the mortal shaman, and claiming that the "gift" he had been granted by the Titans - his charge to defend Azeroth - was in fact a curse, imprisoning him to his duty. To demonstrate, he allowed Thrall to experience what it was like to have the weight of the earth on his shoulders, claiming that this was what the Aspects wanted - "to damn you to a life of eternal torment", as Deathwing stated it. He then unleashed a series of scathing attacks against Thrall's earthen form; because the shaman had embraced Azeroth, and Azeroth embraced him, his "wounds" materialized in the physical world in the form of earthquakes. Finally, the Aspects called on the Earthen Ring and the Cenarion Circle to break Deathwing's hold, bringing Thrall back to himself.
+
+The Aspects decided that in order to defeat Deathwing, they would have to acquire the Dragon Soul in its "purest form" - a period not long after its creation, during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") ten millennia earlier. As the Soul was imbued with a powerful enchantment to prevent dragonkind from ever using it, the Aspects called on Thrall to be the wielder of the Dragon Soul in the battle against Deathwing.
+
+#### The Hour of Twilight
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/2/26/Chronicle3_Hour_of_Twilight.jpg/revision/latest/scale-to-width-down/180?cb=20180406040436)](https://static.wikia.nocookie.net/wowpedia/images/2/26/Chronicle3_Hour_of_Twilight.jpg/revision/latest?cb=20180406040436)
+
+Ysera's vision of the Hour of Twilight.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Madness_of_Deathwing_background.jpg/revision/latest/scale-to-width-down/180?cb=20160413135832)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Madness_of_Deathwing_background.jpg/revision/latest?cb=20160413135832)
+
+The Worldbreaker during his final moments.
+
+According to Alexstrasza, Deathwing had been so twisted by the Old Gods' power and would simply regenerate from any physical damage, no matter how immense. He could not be killed even if every living mortal in the world faced him at once. The only solution was to completely "unmake" Deathwing, to unravel his very essence, using the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul").<sup id="cite_ref-ChOTA_28-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-ChOTA-28">[28]</a></sup>
+
+In the [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time"), the future is shown if Deathwing is not defeated and the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight") at last falls - a charred Dragonblight in Northrend, with all life extinguished forever. Deathwing is shown as a burnt-out shell of his former self, his powers having, at last, destroyed him from within. His lifeless corpse is impaled at the top of Wyrmrest Temple, his lava-like blood seeping from his mouth. To prevent the Hour of Twilight, the bronze aspect [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") sent adventurers to go ten thousand years into the past, to the War of the Ancients, and retrieve the Dragon Soul - having been completely obliterated by [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") and [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus") shortly before the Shattering - so that [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") could invoke its power to defeat Deathwing, though his past self tried to jealously defend the talisman from the adventurers - but it doesn't work. Once the artifact was retrieved, the adventurers escorted Thrall to Wyrmrest Temple and protected him from Deathwing's minions, so that the weapon could be secured for the final battle.
+
+In the [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul"), adventurers worked together to defeat Deathwing's commanders in order to buy Thrall and the Aspects time to charge the Demon Soul. Deathwing's forces were killed over several weeks.<sup id="cite_ref-56"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-56">[56]</a></sup> After the adventurers took a short trip to the [Eye of Eternity](https://wowpedia.fandom.com/wiki/Eye_of_Eternity "Eye of Eternity") to activate the [Focusing Iris](https://wowpedia.fandom.com/wiki/The_Focusing_Iris "The Focusing Iris"), Deathwing officially disowned [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian"), [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") and [Sinestra](https://wowpedia.fandom.com/wiki/Sinestra "Sinestra") and then unleashed his ultimate creation, [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion"), upon the temple. When the twilight dragon fell, Thrall unleashed the Demon Soul upon its creator. Wounded, Deathwing fled, attempting to return to the relative safety of Deepholm, through the Maelstrom. Thrall, the Aspects, and the adventurers gave chase, riding the Alliance [gunship](https://wowpedia.fandom.com/wiki/Gunship "Gunship") [The _Skyfire_](https://wowpedia.fandom.com/wiki/The_Skyfire "The Skyfire") after the Aspect of Death, battling his personal escort along the way. The battles against Deathwing lasted "a few terrible hours".<sup id="cite_ref-57"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-57">[57]</a></sup>
+
+After catching up, the adventurers leapt out of The _Skyfire's_ bomb bay to parachute onto [Deathwing's back](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing "Spine of Deathwing") and began prying the elementium plates from his back, eventually making a big enough opening for Thrall to blast the dragon with the Demon Soul. Deathwing was blasted out of the sky, and crashed into the Maelstrom. The defenders of Azeroth briefly rejoiced at having rid themselves of the Destroyer, but Deathwing rose from the Maelstrom. Without his armor, his molten form began to mutate, granting him [a form far more terrifying](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") than before (somewhat resembling creatures like [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")). The final battle for Azeroth began in earnest, as Deathwing continuously attempted to finish the job he started by bringing forth a second Cataclysm that would end the world. Each time, the Aspects step in and use their power to stop him until one final blow from the Demon Soul completely obliterated the corrupted Aspect, leaving only the remnants of his shattered armor. Portions of his metal jaw were brought to the [Western Earthshrine](https://wowpedia.fandom.com/wiki/Western_Earthshrine "Western Earthshrine") in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") and the [Eastern Earthshrine](https://wowpedia.fandom.com/wiki/Eastern_Earthshrine "Eastern Earthshrine") in [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") to commemorate his defeat.
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20120916185224)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Battle_of_the_Aspects.jpg/revision/latest?cb=20120916185224)
+    
+    Deathwing faces the Dragon Aspects.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Deathwing_dies.jpg/revision/latest/scale-to-width-down/87?cb=20150824073422)](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Deathwing_dies.jpg/revision/latest?cb=20150824073422)
+    
+    Deathwing's possible future - impaled on Wyrmrest Temple.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Spine_of_Deathwing.jpg/revision/latest/scale-to-width-down/120?cb=20111205232017)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Spine_of_Deathwing.jpg/revision/latest?cb=20111205232017)
+    
+    Spine of Deathwing.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/69/Madness_of_Deathwing.jpg/revision/latest/scale-to-width-down/120?cb=20111201094011)](https://static.wikia.nocookie.net/wowpedia/images/6/69/Madness_of_Deathwing.jpg/revision/latest?cb=20111201094011)
+    
+    Madness of Deathwing.
+    
+
+### Mists of Pandaria
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Gods_and_Monsters_-_Wrathion_and_Deathwing.jpg/revision/latest/scale-to-width-down/180?cb=20130227212702)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Gods_and_Monsters_-_Wrathion_and_Deathwing.jpg/revision/latest?cb=20130227212702)
+
+Wrathion and Deathwing in Cho's story.
+
+During [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho")'s history lessons, Deathwing made two appearances through illusions. At first, when he explained that the Prophet [Zul](https://wowpedia.fandom.com/wiki/Zul "Zul") had seen a vision a great armored dragon clenching the world with his ferocious jaws, but that [King Rastakhan](https://wowpedia.fandom.com/wiki/King_Rastakhan "King Rastakhan") did nothing of the coming of this [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"). Lorewalker Cho then established that his visions did come to past and that [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar") was no more.<sup id="cite_ref-58"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-58">[58]</a></sup> Then, Deathwing could be seen alongside [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") when Lorewalker Cho explained the notion of legacy.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-59">[59]</a></sup>
+
+At some point, a [council of the six greatest warlocks](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest") eventually sought the powers their defeated foes wielded, including Deathwing.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-60">[60]</a></sup>
+
+During the trials to obtain the blessings of the four [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial"), [Niuzao](https://wowpedia.fandom.com/wiki/Niuzao "Niuzao") and [Chi-Ji](https://wowpedia.fandom.com/wiki/Chi-Ji "Chi-Ji") wanted to let [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") face his past and summoned a [Vision of Deathwing](https://wowpedia.fandom.com/wiki/Vision_of_Deathwing "Vision of Deathwing") in the process. The [adventurer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") and Wrathion defeated the black aspect, and Niuzao and Chi-Ji told Wrathion that he was nothing like him.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-61">[61]</a></sup>
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+During the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), Deathwing's banishment from [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") at the hands of [Huln Highmountain](https://wowpedia.fandom.com/wiki/Huln_Highmountain "Huln Highmountain") and the  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Inv_mace_1h_titanpillar_b_01.png/revision/latest/scale-to-width-down/16?cb=20160901194934)[\[Hammer of Khaz'goroth\]](https://wowpedia.fandom.com/wiki/Hammer_of_Khaz%27goroth) was witnessed in visions during [Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")'s trials to become High Chieftain of the [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren").<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-62">[62]</a></sup><sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-63">[63]</a></sup>
+
+### Battle for Azeroth
+
+When [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") was freed from his prison during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), his vision for [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") was to [corrupt him just as he had Neltharion](https://wowpedia.fandom.com/wiki/Wrathion,_the_Black_Emperor "Wrathion, the Black Emperor"), with Wrathion ruling the revived [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") under N'Zoth's command. Ironically given Deathwing's status as the Old Gods' most powerful servant,<sup id="cite_ref-Chronicle127_11-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle127-11">[11]</a></sup> it would be his scion Wrathion who would play a key role in N'Zoth's final defeat by coming up with the plan to use the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination"), as well as using [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") to open a hole in N'Zoth's [carapace](https://wowpedia.fandom.com/wiki/Carapace_of_N%27Zoth "Carapace of N'Zoth") and allow heroes to begin the final battle.
+
+An illusion of Deathwing appears during the final battle with [N'Zoth the Corruptor](https://wowpedia.fandom.com/wiki/N%27Zoth_the_Corruptor "N'Zoth the Corruptor"), raining fire down on the heroes.
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+A vision of Deathwing fighting the aspects appears within the nightmares of [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera").<sup id="cite_ref-64"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-64">[64]</a></sup>
+
+### Dragonflight
+
+[![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") **This section concerns content related to _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_.**
+
+Years after his death, Deathwing's legacy continued to haunt dragonkind. In the [Forbidden Reach](https://wowpedia.fandom.com/wiki/Forbidden_Reach "Forbidden Reach"), his ancient [dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr") creations reawakened and came out into the world. In the [Waking Shores](https://wowpedia.fandom.com/wiki/Waking_Shores "Waking Shores"), an [ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") Twilight's Hammer cultist convinced groups of black [dragonspawn](https://wowpedia.fandom.com/wiki/Dragonspawn "Dragonspawn") and [drakonid](https://wowpedia.fandom.com/wiki/Drakonid "Drakonid") to become a Deathwing-worshiping cult called the [Worldbreakers](https://wowpedia.fandom.com/wiki/Worldbreakers "Worldbreakers"), and who anticipated his return.<sup id="cite_ref-65"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-65">[65]</a></sup> In [Ohn'ahran Plains](https://wowpedia.fandom.com/wiki/Ohn%27ahran_Plains "Ohn'ahran Plains"), the [Sundered Flame](https://wowpedia.fandom.com/wiki/Sundered_Flame "Sundered Flame") discovered a stone at Nelthazan Ruins that Neltharion made called the Black Locus, which can control lesser dragonkin.<sup id="cite_ref-66"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-66">[66]</a></sup> At the Obsidian Observatory, [Scalecommander Emberthal](https://wowpedia.fandom.com/wiki/Scalecommander_Emberthal "Scalecommander Emberthal") uncovered Neltharion's records from when he first decided to make the dracthyr.<sup id="cite_ref-RunsInTheFamily_23-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-RunsInTheFamily-23">[23]</a></sup>
+
+## Locations
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [The Mind's Eye](https://wowpedia.fandom.com/wiki/The_Mind%27s_Eye "The Mind's Eye") | ?? | 7,096 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [The Day that Deathwing Came](https://wowpedia.fandom.com/wiki/The_Day_that_Deathwing_Came) | ?? | 51,810,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [The Day that Deathwing Came: The Real Story](https://wowpedia.fandom.com/wiki/The_Day_that_Deathwing_Came:_The_Real_Story) | ?? | 79,870,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [As Hyjal Burns](https://wowpedia.fandom.com/wiki/As_Hyjal_Burns) | ?? | 51,810,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [The Worldbreaker](https://wowpedia.fandom.com/wiki/The_Worldbreaker_(quest)) | ?? | 5,502,000 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Battle of Life and Death](https://wowpedia.fandom.com/wiki/Battle_of_Life_and_Death) | ?? | 858,920,000 |
+| [Well of Eternity (instance)](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") | ?? | 10,320,000 |
+| [Wyrmrest Summit](https://wowpedia.fandom.com/wiki/Wyrmrest_Summit "Wyrmrest Summit") | ?? | 111,220,187,136 |
+| [Spine of Deathwing](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing "Spine of Deathwing") | ?? | 
+<table><tbody><tr><td><b><abbr title="10-player mode">10</abbr></b></td><td>2,307,972</td></tr><tr><td><b><abbr title="10-player Heroic mode">10H</abbr></b></td><td>2,307,972</td></tr><tr><td><b><abbr title="Looking for Raid">LFR</abbr></b></td><td>2,663,045</td></tr><tr><td><b><abbr title="25-player mode">25</abbr></b></td><td>2,307,972</td></tr><tr><td><b><abbr title="25-player Heroic mode">25H</abbr></b></td><td>2,307,972</td></tr></tbody></table>
+
+ |
+| [Madness of Deathwing](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing") | ?? | 
+
+<table><tbody><tr><td><b><abbr title="10-player mode">10</abbr></b></td><td>127,120,160</td></tr><tr><td><b><abbr title="10-player Heroic mode">10H</abbr></b></td><td>152,715,968</td></tr><tr><td><b><abbr title="Looking for Raid">LFR</abbr></b></td><td>286,020,352</td></tr><tr><td><b><abbr title="25-player mode">25</abbr></b></td><td>381,360,480</td></tr><tr><td><b><abbr title="25-player Heroic mode">25H</abbr></b></td><td>458,233,824</td></tr></tbody></table>
+
+ |
+
+| Notable appearances |
+| --- |
+| Location | Level range | Health range |
+| [Vision of Deathwing](https://wowpedia.fandom.com/wiki/Vision_of_Deathwing "Vision of Deathwing") | 92 | 10,539,800 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [The Path of Huln](https://wowpedia.fandom.com/wiki/The_Path_of_Huln) | ?? | 43,895 |
+|  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Titanic Showdown](https://wowpedia.fandom.com/wiki/Titanic_Showdown) | ?? | 86,070 |
+
+## Personality
+
+While Deathwing was once a benevolent entity, the whispers of the Old Gods have corrupted him into a being driven by hatred. He harbors a hatred for all mortal races and wishes to see them dead. He's also been driven utterly insane by the whispers plaguing him, especially when in possession of the Demon Soul. Deathwing was so attached to it that, even when warned by the goblin alchemists who made his first armor that the Demon Soul's energies would kill him if he kept it with him too long, he only agreed to part with it temporarily after being reminded that it would likely be stolen from him if he were to die.
+
+In spite of this insanity, Deathwing does display a degree of cunning. Although he hates mortals, he is apparently willing to tolerate them if it can prove of any help in his plans, though inevitably he will do away with them when they have outlived their usefulness.
+
+Despite Deathwing's overall loathing of mortals, he has a sense of respect for [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), and perhaps even a fear of, as he stated in _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_ that the [Guardian](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal") was the only human he had ever respected and that he would have never willingly face him in combat,<sup id="cite_ref-67"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-67">[67]</a></sup> though this might have technically been fear of the portion of Sargeras that was locked inside Medivh. He viewed Thrall in a similar way; when the Twilight Father expressed disbelief that Thrall could triumph, Deathwing made it clear that he planned to take no chances.
+
+He also showed genuine loyalty to the Old Gods due to his belief that they could free him from his burden. He viewed the responsibility the titans gave him as a burden, a weight too heavy for him to bear, but also felt that he had to bear it alone instead of asking the other Aspects for aid. The weight of Azeroth that he had to bear pressed down on him, so much so that he felt as if he were suffocating and his spirit unraveling. He began to resent the titans for placing this charge on him, and the Old Gods promised to free him of his burden, which is why he agreed to join them.<sup id="cite_ref-ChOTA_28-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-ChOTA-28">[28]</a></sup>
+
+As a young proto-dragon, Neltharion was a lover of combat. He taunted those afraid of [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond") for being weak, and got himself involved in a fight between [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") and [Coros](https://wowpedia.fandom.com/wiki/Coros "Coros") simply to show off his own strength. It was Malygos's power which led to Neltharion sparking their friendship.<sup id="cite_ref-68"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-68">[68]</a></sup>
+
+## Names and titles
+
+He is usually referred to as "Deathwing" by the majority of beings. Only a few mages, night elves and dragons still call him "Neltharion". However, over the years Deathwing has been given many names, including, but not limited to:
+
+## Memorable quotes
+
+### War of Ancients Trilogy
+
+-   "[You](https://wowpedia.fandom.com/wiki/Eredar "Eredar") will learn to show respect. You are in the presence of my glorious self, I, Neltharion. I am the Earth-Warder. You will treat me with the reverence I deserve."
+-   "You know me... but I do not know [you](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz"). You would speak against me... make the others see me as you do... you would have them distrust their comrade of old... their brother... You will not be allowed to spread any of your malicious falsehoods..."
+-   "For it to be as it must, yes." _(responding to Ysera question about the Dragon Soul's glow)_
+-   "It is done! All that which must be given has been given, I now seal the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul") forever!"
+-   "Yes, and you will press [him](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") _time_ and _time_ again with it, will you not?" _(in a discussion about whether Nozdormu should be granted more time for his choirs or not)_
+-   "No! I will say what will be done from here on! I, not you, Alexstrasza! Be silent!"
+-   "After I have slain all of you, I shall take _your_ eggs, Alexstrasza, and create my perfect world!"
+
+### Beyond the Dark Portal
+
+-   "_My children!_ My children, murdered! Come forward, disgusting, cowardly wretches, murderers of defenseless infants, and know torment and madness before I devour you whole! Who will be the first to be blasted to ashes?" _(yelling at the gronn)_
+-   "Puny mortals! I have had many names throughout history, all of them spoken with dread: Neltharion, Xaxas, and many more. Yet you shall know me best as Deathwing, for so I am! I am the bane of life, the darkness within history, the lord of death, the master of destruction. And I tell you now, and so it is true, that this world is _mine_!"
+-   "You may have won this battle, I give you that. But hear this, and hear it well. _I have seen you, [mage](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar")._"
+
+### Day of the Dragon
+
+-   "I am power incarnate! [You](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") are nothing but shadows of the past!"
+-   "Have [you](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") not been through enough? Will you continue to fight what you cannot defeat?"
+-   "What are they to me - or, for that matter, even [you](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza")? I will never understand that!"
+-   **Deathwing:** I have faced the [ravages of time](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu"), the [curse of nightmares](https://wowpedia.fandom.com/wiki/Ysera "Ysera"), and the [mists of sorcery](https://wowpedia.fandom.com/wiki/Malygos "Malygos"), thanks to the others! What weapons do [you](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") bring?  
+    **Alexstrasza:** Life... hope... and what they bring with them...  
+    **Deathwing:** Then you're as good as dead already!
+
+### World of Warcraft
+
+#### Ulduar
+
+_Main article: [Yogg-Saron (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics)#Quotes "Yogg-Saron (tactics)")_
+
+### Night of the Dragon
+
+-   "The Day of The Dragon is over, its night is almost upon [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")...and after the night has swept away the old fights...there shall come new dawn... the dawn of my new world..."
+
+#### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+_Main article: [Xaxas (song)](https://wowpedia.fandom.com/wiki/Xaxas_(song) "Xaxas (song)")_
+
+_Main article: [Enter the Dragon Queen](https://wowpedia.fandom.com/wiki/Enter_the_Dragon_Queen "Enter the Dragon Queen")_
+
+_Main article: [Battle of Life and Death](https://wowpedia.fandom.com/wiki/Battle_of_Life_and_Death "Battle of Life and Death")_
+
+#####  ![](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Stave_2h_tarecgosa_e_01stagefinal.png/revision/latest/scale-to-width-down/16?cb=20110505115852)[\[Dragonwrath, Tarecgosa's Rest\]](https://wowpedia.fandom.com/wiki/Dragonwrath,_Tarecgosa%27s_Rest)
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+_Main article: [Through a Glass, Darkly#Notes](https://wowpedia.fandom.com/wiki/Through_a_Glass,_Darkly#Notes "Through a Glass, Darkly")_
+
+##### [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)")
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+**Bronze Drake yells:** It is them!
+
+**Bronze Drake yells:** Heroes! We have been sent by Nozdormu! Quickly, on our backs, we must get you to the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul")!
+
+**Bronze Drake yells:** Sister, look! The artifact is surrounded by an aura of darkness!
+
+**Bronze Drake yells:** The [Aspects](https://wowpedia.fandom.com/wiki/Aspect "Aspect")!
+
+**Alexstrasza yells:** Come sister, it is time to end this, We will cleanse the Dragon Soul from the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") dark influence!
+
+A dark force from within the Dragon Soul reacts violently to the cleansing!
+
+**Ysera yells:** It is too powerful!
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Deathwingdragonsoul.jpg/revision/latest/scale-to-width-down/180?cb=20160116190106)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Deathwingdragonsoul.jpg/revision/latest?cb=20160116190106)
+
+Deathwing revealed.
+
+**Neltharion yells:** How DARE you touch my creation! It is mine...mine...MINE!
+
+**Alexstrasza yells:** Neltharion! What have you done? You have doomed us all to the madness of the Old Gods!
+
+**Neltharion yells:** IT IS MINE!!
+
+**Ysera yells:** He is lost to us sister. He is Neltharion...no longer.
+
+**Alexstrasza yells:** The power of the Soul is tearing him apart!
+
+**An Unknown Evil yells:** Nooooo...Away...
+
+**Neltharion yells:** I WILL NOT BE DENIED!
+
+_Neltharion roars._
+
+**An Unknown Evil yells:** AWAY!
+
+**Bronze Drake yells:** The Old Gods protects the Soul!
+
+**Bronze Drake yells:** The link to the portal must be broken! Quickly, to [Storm](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")[rage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")!
+
+##### Dragon Soul
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+_Main article: [Wyrmrest Summit#Twilight Assaulter Intro](https://wowpedia.fandom.com/wiki/Wyrmrest_Summit#Twilight_Assaulter_Intro "Wyrmrest Summit")_
+
+_Main article: [Wyrmrest Summit#Intro leading up to Ultraxion](https://wowpedia.fandom.com/wiki/Wyrmrest_Summit#Intro_leading_up_to_Ultraxion "Wyrmrest Summit")_
+
+_Main article: [Spine of Deathwing#Quotes](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing#Quotes "Spine of Deathwing")_
+
+_Main article: [Madness of Deathwing#Quotes](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing#Quotes "Madness of Deathwing")_
+
+#### Mists of Pandaria
+
+_Main article: [Celestial Blessings#Notes](https://wowpedia.fandom.com/wiki/Celestial_Blessings#Notes "Celestial Blessings")_
+
+#### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+_Main article: [The Path of Huln#Notes](https://wowpedia.fandom.com/wiki/The_Path_of_Huln#Notes "The Path of Huln")_
+
+_Main article: [Titanic Showdown#Notes](https://wowpedia.fandom.com/wiki/Titanic_Showdown#Notes "Titanic Showdown")_
+
+## Designing
+
+Deathwing was originally simply described as a dragon having adhered plates of adamantine steel to his body.<sup id="cite_ref-WC2Man_10-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-WC2Man-10">[10]</a></sup> _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_ described him as a winged behemoth as black as night with a noble bearing. Narrow veins of actual silver and gold streaking from front to back accented his spine and sides, while gleaming flashes between the scales hinted at diamonds and other precious stones embedded naturally in his hide.<sup id="cite_ref-80"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-80">[80]</a></sup>
+
+One of the big questions during the _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ development was _"what does Deathwing look like?"_. Deathwing had been established in lore for a long time, but he had never been depicted in that much detail other than some images from Chris Metzen and Warcraft II. But to have a really comprehensive design for Deathwing was an early top priority. The developers wanted Deathwing to have a unique, nasty, and aggressive look, but also wanted to have the preexisting World of Warcraft dragons look as if they were part of the same family. They headed into the idea that Deathwing's rage manifests itself literally as the boiling lava inside him and he actually needs metal plates to contain them. In their search for a unique signature that would set Deathwing apart from the other dragons, the development team experimented with his jaw. So they replaced his jaw on an early sketch with a metallic one and made it bigger, giving him a very unique silhouette. When they showed it to the game team the immediate reaction was extremely positive.<sup id="cite_ref-81"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-81">[81]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Deathwing.jpg/revision/latest/scale-to-width-down/180?cb=20110225074705)](https://static.wikia.nocookie.net/wowpedia/images/8/8b/Deathwing.jpg/revision/latest?cb=20110225074705)
+
+Deathwing in _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_.
+
+### Description
+
+_The massive monstrosity before you rises up like a black, crag-covered mountain of scales and hide. The head is a spade-like terror spiked with cruel red eyes that shine with a frightening malevolence. Rivulets of lava and magma are visible beneath the great wyrm’s scorched scales._<sup id="cite_ref-S&amp;L_93_82-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-S&amp;L_93-82">[82]</a></sup>
+
+When he succumbed, Neltharion ceased to exist, taking up a new name and a bitter purpose. He became Deathwing and his subjects were placed beneath the iron rule of a tyrant. Upon his irrevocable shift to evil, he turned against his destiny, and his mind unwound, causing suffering wherever he could.<sup id="cite_ref-S&amp;L_93_82-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-S&amp;L_93-82">[82]</a></sup><sup id="cite_ref-MoM_29_83-0"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-MoM_29-83">[83]</a></sup> Certain legends surrounding Deathwing claim that as the Earth-Warder, Deathwing shaped the land so the races would not go to war over land and resources. When he went mad, Deathwing lowered the mountains and allowed the races to intermingle. He ruined fertile land and destroyed other terrain so that the races would be forced to fight for food. Deathwing's efforts gave birth to an occupation that has remained with all races since then: war.<sup id="cite_ref-S&amp;L_93_82-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-S&amp;L_93-82">[82]</a></sup><sup id="cite_ref-MoM_29_83-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-MoM_29-83">[83]</a></sup>
+
+### Combat
+
+Deathwing is a terrifying opponent who is as cruel as he is vicious. He cares nothing for honor or nobility, striking with whatever weapons and cunning he has at his disposal, reveling in causing earthquakes and ripping open volcanic fissures. He often sends his minions into combat while he surveys the battlefield, striking at whatever weaknesses he discovers.<sup id="cite_ref-S&amp;L_93_82-3"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-S&amp;L_93-82">[82]</a></sup>
+
+### Daval Prestor
+
+He was a young human diplomat and noble that joined the high council of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War").<sup id="cite_ref-84"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-84">[84]</a></sup><sup id="cite_ref-85"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-85">[85]</a></sup>
+
+### Dragonblight
+
+The ancient [black dragon](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") Deathwing returned to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and landed in the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight"), at the foot of [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"). He announced that he is close to death and wishes to end his life there with the others already present. Many of the [blue dragons](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") were furious that their ancient enemy would claim such an honor there. Others admired his willingness to set aside the past. The non-dragons were simply excited at the idea that such a powerful dragon was there. The [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") wants to corrupt him and make him [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") while the [nerubians](https://wowpedia.fandom.com/wiki/Nerubian "Nerubian") want to enlist him in their cause and unleash him upon the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") before he dies. Scavengers want his bones and flesh and treasure-hunters want his skin and claws and any items he carries. The heroes will have to keep this situation from escalating into a multi-sided war.<sup id="cite_ref-86"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-86">[86]</a></sup>
+
+## Warcraft Adventures: Lord of the Clans
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Deathwing2.jpg/revision/latest/scale-to-width-down/180?cb=20161221121453)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Deathwing2.jpg/revision/latest?cb=20161221121453)
+
+Thrall's encounter with Deathwing.
+
+During the canceled _[Warcraft Adventures: Lord of the Clans](https://wowpedia.fandom.com/wiki/Warcraft_Adventures:_Lord_of_the_Clans "Warcraft Adventures: Lord of the Clans")_ game, [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") would have met with Deathwing in order to match wits.<sup id="cite_ref-87"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-87">[87]</a></sup> Deathwing had his lair in upper [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire"), and Thrall had to kill him in order to gain [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza")'s trust. Thrall killed him by closing shut his fire-breathing organs from inside his very body with a metal trap, leading to the evil dragon exploding when trying to use his fire breath against the orc.
+
+The fact that Deathwing was seen smoking a hookah was blamed on a "miscommunication",<sup id="cite_ref-88"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-88">[88]</a></sup> but Blizzard chose to keep it anyway.
+
+Deathwing was said by Alexstrasza to be one of his sons. He was served by [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll") which had mottled and grey skin, a fact that might have inspired the description of the trolls later said to have served him during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"),<sup id="cite_ref-89"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-89">[89]</a></sup> and maybe even the [drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar").
+
+## In Hearthstone
+
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
+
+-   Deathwing appears as [a legendary card](https://hearthstone.fandom.com/wiki/Deathwing "hswiki:Deathwing") in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. His flavor text reads: _"Once a noble dragon known as Neltharion, Deathwing lost his mind and shattered Azeroth before finally being defeated. Daddy issues?"_
+-   An alternate, non-[canonical](https://wowpedia.fandom.com/wiki/Canon "Canon") version of Deathwing, known as [Deathwing, Dragonlord](https://hearthstone.fandom.com/wiki/Deathwing,_Dragonlord "hswiki:Deathwing, Dragonlord"), appears as a legendary card in the _[Whispers of the Old Gods](https://wowpedia.fandom.com/wiki/Hearthstone:_Whispers_of_the_Old_Gods "Hearthstone: Whispers of the Old Gods")_ expansion. According to [Ben Brode](https://wowpedia.fandom.com/wiki/Ben_Brode "Ben Brode"), this version of the character is a look at an alternate universe in which the Worldbreaker succeeded in bringing about the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight") but has not yet impaled himself upon [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple"). However, Brode agreed that this fact was not made particularly clear to players, especially those not familiar with Warcraft lore.<sup id="cite_ref-90"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-90">[90]</a></sup><sup id="cite_ref-91"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-91">[91]</a></sup> The Dragonlord's flavor text reads: _"To his credit, Deathwing really took to heart the feedback he was receiving that he needed to be "more of a team player"."_
+-   Deathwing reappears once more in the _[Descent of Dragons](https://wowpedia.fandom.com/wiki/Hearthstone:_Descent_of_Dragons "Hearthstone: Descent of Dragons")_ expansion as the legendary warrior card [Deathwing, Mad Aspect](https://hearthstone.fandom.com/wiki/Deathwing,_Mad_Aspect "hswiki:Deathwing, Mad Aspect"). The Mad Aspect's flavor text reads: _"Bite that one, bite that other one, claw this one, swallow that one whole...."_
+-   Player who prepurchased the _Descent of Dragons_ Mega Bundle unlocked Deathwing's human form as an [alternate warrior hero](https://hearthstone.fandom.com/wiki/Deathwing_(hero) "hswiki:Deathwing (hero)"). His flavor text reads: _"Deathwing, a.k.a. Lord Daval Prestor, is a perfectly normal guy who would never ever tear the world asunder."_
+-   A miniature version of Deathwing makes an appearance in the animated short _[Hearth and Home](https://wowpedia.fandom.com/wiki/Hearth_and_Home "Hearth and Home")_.
+
+## In Heroes of the Storm
+
+Deathwing is a [playable character](https://heroesofthestorm.fandom.com/wiki/Deathwing "hots:Deathwing") in _[Heroes of the Storm](https://wowpedia.fandom.com/wiki/Heroes_of_the_Storm "Heroes of the Storm")_.<sup id="cite_ref-92"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-92">[92]</a></sup>
+
+Before being added, Deathwing was one of the heroes most frequently requested by players. In April of 2017, a [short Twitter teaser](https://twitter.com/BlizzHeroes/status/855798378902429701) for the upcoming [Hanamura Showdown](https://www.youtube.com/watch?v=UgJLvtx5PzI) cinematic led a number of players to believe that Deathwing would be added as a hero in the near future. However, once the cinematic released, it was revealed that the new hero was actually the _[Overwatch](https://wowpedia.fandom.com/wiki/Overwatch_franchise "Overwatch franchise")_ character [D.Va](https://heroesofthestorm.fandom.com/wiki/D.Va "hots:D.Va") and the teaser had merely been hinting at [Diablo](https://heroesofthestorm.fandom.com/wiki/Diablo "hots:Diablo")'s presence in the cinematic. This became the subject of various memes which were later referenced by Blizzard when they added the Deathwing-themed [D.Va the Destroyer](https://heroesofthestorm.fandom.com/wiki/D.Va/Skins "hots:D.Va/Skins") skin, followed in 2018 by a "[D.Va Confirmed](https://heroesofthestorm.fandom.com/wiki/File:D.Va_Confirmed_Spray.png "hots:File:D.Va Confirmed Spray.png")" spray referencing the original teaser. When Deathwing was eventually announced as a hero in October of 2019, Blizzard again paid homage to the meme by preceding the announcement with a [teaser image](https://twitter.com/BlizzHeroes/status/1186326286328827904) mimicking the original Hanamura Showdown teaser.
+
+## Notes and trivia
+
+-   Neltharion collected many valuable relics. The  ![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Inv_qirajidol_life.png/revision/latest/scale-to-width-down/16?cb=20061202173552)[\[Earthen Amulet\]](https://wowpedia.fandom.com/wiki/Earthen_Amulet) was one of them.<sup id="cite_ref-93"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-93">[93]</a></sup>
+-   At [BlizzCon 2009](https://wowpedia.fandom.com/wiki/BlizzCon_2009 "BlizzCon 2009"), it was said that Deathwing's plate armor was made of [iron](https://wowpedia.fandom.com/wiki/Iron "Iron"),<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<span title="Video needed"><i>citation needed</i></span>]</a></sup>  despite it being said to be adamantium in _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_.<sup id="cite_ref-94"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-94">[94]</a></sup> Years later, the adamantium was again said to be the metal used on his armor.<sup id="cite_ref-95"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-95">[95]</a></sup>
+-   Remnants of the adamantium plating were left behind in his [former lair](https://wowpedia.fandom.com/wiki/Neltharion%27s_Lair "Neltharion's Lair").<sup id="cite_ref-96"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-96">[96]</a></sup>
+-   Deathwing is voiced by [Michael McConnohie](https://wowpedia.fandom.com/wiki/Michael_McConnohie "Michael McConnohie") in _World of Warcraft_, and by [Patrick Seitz](https://wowpedia.fandom.com/wiki/Patrick_Seitz "Patrick Seitz") in _Hearthstone_.
+-   Deathwing's original lore was that he was a unique black dragon (rather than part of a [dragonflight](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight")) and that his plates of [adamantine](https://wowpedia.fandom.com/wiki/Adamantine "Adamantine") steel were crafted by [goblin alchemists](https://wowpedia.fandom.com/wiki/Goblin_alchemist "Goblin alchemist") during the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War").<sup id="cite_ref-WC2Man_10-2"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-WC2Man-10">[10]</a></sup> His [lair](https://wowpedia.fandom.com/wiki/Deathwing%27s_Lair "Deathwing's Lair") was also originally situated on the isle of [Ashran](https://wowpedia.fandom.com/wiki/Ashran "Ashran") instead of in the [Blade's Edge Mountains](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains "Blade's Edge Mountains").<sup id="cite_ref-97"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-97">[97]</a></sup>
+-   In _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, Deathwing appeared in [Korialstrasz](https://wowpedia.fandom.com/wiki/Korialstrasz "Korialstrasz")'s nightmare, in which the red dragon became the source of the new Demon Soul.<sup id="cite_ref-98"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-98">[98]</a></sup>
+-   Deathwing was featured on the _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ login screen, with his claws grasping two [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") towers at the [Valley of Heroes](https://wowpedia.fandom.com/wiki/Valley_of_Heroes "Valley of Heroes").
+-   Deathwing was designed to have a wingspan of about 365 meters, or 1,200 feet.<sup id="cite_ref-99"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-99">[99]</a></sup><sup id="cite_ref-100"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-100">[100]</a></sup>
+    -   From this measurement, YouTuber Aerawave estimated Deathwing's length at around 600 feet long (about 183 meters) and his height at 183 feet tall (about 56 meters).<sup id="cite_ref-101"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-101">[101]</a></sup>
+-   [Elling Trias](https://wowpedia.fandom.com/wiki/Elling_Trias "Elling Trias") predicted Deathwing's attack on Stormwind City.<sup id="cite_ref-102"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-102">[102]</a></sup>
+-   According to [Matt Burns](https://wowpedia.fandom.com/wiki/Matt_Burns "Matt Burns"), in the future the Old Gods drove Deathwing insane and made him impale himself on Wrymrest Temple, as they deemed him useful no longer.<sup id="cite_ref-103"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-103">[103]</a></sup>
+-   Two [submarines](https://wowpedia.fandom.com/wiki/Submarine "Submarine") buildable at the [Lunarfall](https://wowpedia.fandom.com/wiki/Lunarfall_Shipyard "Lunarfall Shipyard") and [Frostwall Shipyards](https://wowpedia.fandom.com/wiki/Frostwall_Shipyard "Frostwall Shipyard") are named _"Neltharion's Madness"_ after him.
+-   Deathy from  ![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Inv_misc_shadowegg.png/revision/latest/scale-to-width-down/16?cb=20061018140349)[\[Smoldering Murloc Egg\]](https://wowpedia.fandom.com/wiki/Smoldering_Murloc_Egg) is a murloc companion that looks like Deathwing that was given out for [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010").
+-   The companion pet  ![](https://static.wikia.nocookie.net/wowpedia/images/1/11/Inv_dragonwhelpcataclysm.png/revision/latest/scale-to-width-down/16?cb=20100814104138)[\[Lil' Deathwing\]](https://wowpedia.fandom.com/wiki/Lil%27_Deathwing) is the special companion given to those that own _[World of Warcraft: Cataclysm Collector's Edition](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm_Collector%27s_Edition "World of Warcraft: Cataclysm Collector's Edition")_.
+-   The  ![](https://static.wikia.nocookie.net/wowpedia/images/3/30/Inv_encrypted13.png/revision/latest/scale-to-width-down/16?cb=20190807131201)[\[Obsidian Worldbreaker\]](https://wowpedia.fandom.com/wiki/Obsidian_Worldbreaker) is a Deathwing-themed mount rewarded from completing the  ![](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Spell_nature_elementalabsorption.png/revision/latest/scale-to-width-down/16?cb=20070113162142)[\[Memories of Fel, Frost and Fire\]](https://wowpedia.fandom.com/wiki/Memories_of_Fel,_Frost_and_Fire) achievement during [WoW's 15th Anniversary](https://wowpedia.fandom.com/wiki/WoW%27s_15th_Anniversary "WoW's 15th Anniversary").
+-   Deathwing is pictured on  ![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Inv_inscription_tarotdeath.png/revision/latest/scale-to-width-down/16?cb=20080922031733)[\[Darkmoon Card: Death\]](https://wowpedia.fandom.com/wiki/Darkmoon_Card:_Death).
+-   Players can transform into Deathwing's human form using  ![](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Achievment_boss_madnessofdeathwing.png/revision/latest/scale-to-width-down/16?cb=20170901110107)[\[Exquisite Costume Set: "Deathwing"\]](https://wowpedia.fandom.com/wiki/Exquisite_Costume_Set:_%22Deathwing%22).
+-   Despite featuring in promotional material, Deathwing never actually assumed his _Cataclysm_\-era human form in-game. The model is used thrice in _World of Warcraft_: during one of the tall tales in the Badlands,<sup id="cite_ref-The_Day_52-1"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-The_Day-52">[52]</a></sup><sup id="cite_ref-104"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-104">[104]</a></sup> during one of [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho")'s tales,<sup id="cite_ref-105"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-105">[105]</a></sup> and during a trial of the Celestials.<sup id="cite_ref-106"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-106">[106]</a></sup> All of these constitute fiction within the game. However, he does assume his mortal guise in _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_. The [Obsidian Deathwarder](https://wowpedia.fandom.com/wiki/Obsidian_Deathwarder "Obsidian Deathwarder") mob uses his human model.
+    -   Deathwing is the only Dragon Aspect who does not use an elf as his mortal form.
+-   Daval Prestor was not Deathwing's only human noble guise. During the [First War](https://wowpedia.fandom.com/wiki/First_War "First War") he infiltrated Lordaeron's court as a [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") nobleman and brushed off any reports about the invading [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") as mere rumors to keep the northern kingdoms from sending aid.<sup id="cite_ref-Chronicle139-141_34-6"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-Chronicle139-141-34">[34]</a></sup>
+-   [Lord Daval Prestor II](https://wowpedia.fandom.com/wiki/Lord_Daval_Prestor_II "Lord Daval Prestor II"), a second "Lord Prestor", appeared in the _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_ beta, but was replaced with [Lady Katrana Prestor](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia") prior to release.
+-   Deathwing can easily be recognized by his mandible, and the colossal blade on the end of his gigantic tail.
+-   Deathwing currently has the highest health in the game, with 858,000,000 HP even after _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_.
+-   The [tier 13](https://wowpedia.fandom.com/wiki/Tier_13 "Tier 13") [warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") set — [Colossal Dragonplate Armor](https://wowpedia.fandom.com/wiki/Colossal_Dragonplate_Armor "Colossal Dragonplate Armor") / [Battlegear](https://wowpedia.fandom.com/wiki/Colossal_Dragonplate_Battlegear "Colossal Dragonplate Battlegear") — is heavily inspired by Deathwing.
+-   The locals of [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring") originally named a legendary local [owl](https://wowpedia.fandom.com/wiki/Owl "Owl") "Deathwing", but they renamed her to [Hell-Hoot](https://wowpedia.fandom.com/wiki/Hell-Hoot "Hell-Hoot") when they were told that the name was already taken.<sup id="cite_ref-107"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-107">[107]</a></sup>
+-   The official [patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") notes state that Deathwing broke most of the [vials](https://wowpedia.fandom.com/wiki/Vial "Vial") used in [alchemy](https://wowpedia.fandom.com/wiki/Alchemy "Alchemy") "because he's mean (or because he didn't want alchemists to carry 5 different vials around with them)".
+-   Alduin, a dragon from the _[Elder Scrolls](http://en.wikipedia.org/wiki/Elder_Scrolls "wikipedia:Elder Scrolls")_ franchise, bears some similarities to Deathwing in appearance and title (World-eater, Worldbreaker), among other things. Likewise, Bahamut as depicted in _[Final Fantasy XIV](http://en.wikipedia.org/wiki/Final_Fantasy_XIV "wikipedia:Final Fantasy XIV")_ is a massive dragon that, like Deathwing, completely changed the game upon his appearance.
+-   One of the lines spoken by Deathwing in  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Enter the Dragon Queen](https://wowpedia.fandom.com/wiki/Enter_the_Dragon_Queen) (Look upon me and you see death incarnate, the unmaker of worlds.) bears some similarity to a line from the _[Bhagavad Gita](http://en.wikipedia.org/wiki/Bhagavad_Gita "wikipedia:Bhagavad Gita")_ famously quoted by [J. Robert Oppenheimer](http://en.wikipedia.org/wiki/J._Robert_Oppenheimer "wikipedia:J. Robert Oppenheimer"), the "father of the atomic bomb": _"Now I am become Death, the destroyer of worlds."_
+-   At some point during the Cataclysm beta, there was a [scene](http://www.youtube.com/watch?v=Sc9SEuqneeo&feature=related) where Deathwing's humanoid model grew a pair of tentacles. This scene was from a version of Enter the Dragon Queen that was scrapped.
+-   At [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010"), a "Dethling" pet was given in the swag bag to attendees.<sup id="cite_ref-108"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-108">[108]</a></sup>
+-   Deathwing has lava-like blood. Some said this was due to an acidic secretion by the dragon, but other tales took it as literal flame.<sup id="cite_ref-109"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-109">[109]</a></sup> Fragments of this blood live on to this day, deep within the lost places of the world, forever seeking their lost host.<sup id="cite_ref-110"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-110">[110]</a></sup>
+
+## Speculation
+
+<table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
+
+-   [Northern Lordaeron](https://wowpedia.fandom.com/wiki/Northern_Lordaeron "Northern Lordaeron") could be the location of Lord Prestor's land, although some sources say he came from Alterac or just "a domain in the north". Alternatively, he could have made the story up and arrived from anywhere. _Day of the Dragon_ does speak of "northern vassals" during the time of Terenas's grandfather in regards to the successful negotiations about the borders with the elves of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)").<sup id="cite_ref-111"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-111">[111]</a></sup>
+-   It is unclear if [Katrana Prestor](https://wowpedia.fandom.com/wiki/Katrana_Prestor "Katrana Prestor") claimed any relation to Daval Prestor. No version of Katrana's cover story has given exact details of how the persona is related to Daval Prestor, though it is speculated that she claimed to be Daval's daughter since her true identity, [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia"), is the daughter of Daval's true identity Deathwing.
+-   Neltharion may have been the Speaker of Azeroth before [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard"). The title does not seem to have been invented for Magni, as he gained the role as the result of an ancient [earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen") ritual and many [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") recognize the position even when it's their first time meeting Magni. It would mesh with the Earth-Warder's duty of safeguarding the earth, and Deathwing does state in _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_ how the gift of the Earth-Warder was "to feel the fiery heart of this world as your own" and "to feel the weight of this dying world on your shoulders", which resembles Magni saying he can feel Azeroth's pain. However, this idea is contradicted by the fact that the titans never informed the Dragon Aspects about the existence of Azeroth's world-soul.<sup id="cite_ref-112"><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_note-112">[112]</a></sup>
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/85/Legacies_Neltharion_dragon.jpg/revision/latest/scale-to-width-down/120?cb=20221227014026)](https://static.wikia.nocookie.net/wowpedia/images/8/85/Legacies_Neltharion_dragon.jpg/revision/latest?cb=20221227014026)
+    
+    Neltharion the Earth-Warder, as seen in _[Legacies](https://wowpedia.fandom.com/wiki/Legacies "Legacies")_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Legacies_Chapter_2.jpg/revision/latest/scale-to-width-down/120?cb=20221118070138)](https://static.wikia.nocookie.net/wowpedia/images/7/7f/Legacies_Chapter_2.jpg/revision/latest?cb=20221118070138)
+    
+    Deathwing the Destroyer, as seen in _Legacies_.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/74/DeathwingLegends.jpg/revision/latest/scale-to-width-down/120?cb=20100106184827)](https://static.wikia.nocookie.net/wowpedia/images/7/74/DeathwingLegends.jpg/revision/latest?cb=20100106184827)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Daval_Prestor.jpg/revision/latest/scale-to-width-down/84?cb=20090822091936)](https://static.wikia.nocookie.net/wowpedia/images/8/8a/Daval_Prestor.jpg/revision/latest?cb=20090822091936)
+    
+    Lord Daval Prestor II in the _World of Warcraft_ Beta — likely depicting a son. He was replaced by [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/99/YoggNeltharion.jpg/revision/latest/scale-to-width-down/71?cb=20151213162556)](https://static.wikia.nocookie.net/wowpedia/images/9/99/YoggNeltharion.jpg/revision/latest?cb=20151213162556)
+    
+    Neltharion seen in his human form during the [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron_(tactics) "Yogg-Saron (tactics)") encounter.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Deathwing_Cataclysm.jpg/revision/latest/scale-to-width-down/64?cb=20181103170026)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Deathwing_Cataclysm.jpg/revision/latest?cb=20181103170026)
+    
+    Deathwing the Destroyer by Bernie Kang.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Deathwing_Cataclysm_3.jpg/revision/latest/scale-to-width-down/120?cb=20181103170012)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Deathwing_Cataclysm_3.jpg/revision/latest?cb=20181103170012)
+    
+    Deathwing as depicted on the _Cataclysm_ website.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Cataclysm_Login_No_text.jpg/revision/latest/scale-to-width-down/120?cb=20180620130759)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Cataclysm_Login_No_text.jpg/revision/latest?cb=20180620130759)
+    
+    Deathwing on the _Cataclysm_ login screen.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Cataclysm_box_art.jpg/revision/latest/scale-to-width-down/120?cb=20210315032148)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Cataclysm_box_art.jpg/revision/latest?cb=20210315032148)
+    
+    _Cataclysm_ box art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Alexstrasza_vs_Deathwing2.jpg/revision/latest/scale-to-width-down/120?cb=20110607213935)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Alexstrasza_vs_Deathwing2.jpg/revision/latest?cb=20110607213935)
+    
+    Deathwing fighting Alexstrasza, as seen on the _Cataclysm_ box.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Deathwing_face.jpg/revision/latest/scale-to-width-down/120?cb=20210329180633)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Deathwing_face.jpg/revision/latest?cb=20210329180633)
+    
+    Artwork of Deathwing roaring.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Deathwing_human_art.jpg/revision/latest/scale-to-width-down/111?cb=20100712094517)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Deathwing_human_art.jpg/revision/latest?cb=20100712094517)
+    
+    Artwork of Deathwing in his humanoid form.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Deathwing_head_concept_art.jpg/revision/latest/scale-to-width-down/120?cb=20101024034227)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Deathwing_head_concept_art.jpg/revision/latest?cb=20101024034227)
+    
+    Deathwing concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/05/Deathwing_head_concept_art2.jpg/revision/latest/scale-to-width-down/120?cb=20101024034248)](https://static.wikia.nocookie.net/wowpedia/images/0/05/Deathwing_head_concept_art2.jpg/revision/latest?cb=20101024034248)
+    
+    Deathwing concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Deathwing_head_concept_art3.jpg/revision/latest/scale-to-width-down/120?cb=20210330183525)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Deathwing_head_concept_art3.jpg/revision/latest?cb=20210330183525)
+    
+    Deathwing concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Deathwing_body_concept_art.jpg/revision/latest/scale-to-width-down/120?cb=20210330183609)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Deathwing_body_concept_art.jpg/revision/latest?cb=20210330183609)
+    
+    Deathwing concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Deathwing_human_form_concept.jpg/revision/latest/scale-to-width-down/75?cb=20210221122330)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Deathwing_human_form_concept.jpg/revision/latest?cb=20210221122330)
+    
+    Deathwing humanoid form concept.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/1/11/Deathwing_over_Stormwind.jpg/revision/latest/scale-to-width-down/120?cb=20220610022738)](https://static.wikia.nocookie.net/wowpedia/images/1/11/Deathwing_over_Stormwind.jpg/revision/latest?cb=20220610022738)
+    
+    "Deathwing over Stormwind" concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Deathwing_Size_Comparison.png/revision/latest/scale-to-width-down/120?cb=20130105203743)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Deathwing_Size_Comparison.png/revision/latest?cb=20130105203743)
+    
+    Deathwing shown next to a human for scale.
+    
+
+### Trading Card Game
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Deathwing_the_Destroyer.jpg/revision/latest/scale-to-width-down/120?cb=20180212165719)](https://static.wikia.nocookie.net/wowpedia/images/6/6e/Deathwing_the_Destroyer.jpg/revision/latest?cb=20180212165719)
+    
+    Deathwing the Destroyer.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Deathwing_BotA.jpg/revision/latest/scale-to-width-down/86?cb=20160503181809)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Deathwing_BotA.jpg/revision/latest?cb=20160503181809)
+    
+    Deathwing as depicted in the _Battle of the Aspects_ [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") raid deck.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Deathwing_Raneman.jpg/revision/latest/scale-to-width-down/91?cb=20210415165523)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Deathwing_Raneman.jpg/revision/latest?cb=20210415165523)
+    
+    Deathwing's humanoid form by [Raneman](https://wowpedia.fandom.com/wiki/Raneman "Raneman").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/45/Deathwing%2C_the_Destroyer_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20110717134548)](https://static.wikia.nocookie.net/wowpedia/images/4/45/Deathwing%2C_the_Destroyer_TCG.jpg/revision/latest?cb=20110717134548)
+    
+    Deathwing terrorizes Stormwind.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Assault_Aspects.jpg/revision/latest/scale-to-width-down/120?cb=20210328013324)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Assault_Aspects.jpg/revision/latest?cb=20210328013324)
+    
+    Alexstrasza fights Deathwing for the last time.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/The_Worldbreaker_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20110826165602)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/The_Worldbreaker_TCG.jpg/revision/latest?cb=20110826165602)
+    
+    Deathwing as depicted in the _Twilight of the Dragons_ [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") set.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/3/39/Cataclysm.jpg/revision/latest/scale-to-width-down/120?cb=20210328131353)](https://static.wikia.nocookie.net/wowpedia/images/3/39/Cataclysm.jpg/revision/latest?cb=20210328131353)
+    
+    Deathwing attempts to finish the job by bringing forth a second [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm "Cataclysm").
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Barrel_Roll_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20130804173719)](https://static.wikia.nocookie.net/wowpedia/images/6/68/Barrel_Roll_TCG.jpg/revision/latest?cb=20130804173719)
+    
+    Barrel Roll.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Azure_Limb_Tentacle.jpg/revision/latest/scale-to-width-down/120?cb=20210328131131)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/Azure_Limb_Tentacle.jpg/revision/latest?cb=20210328131131)
+    
+    Azure Limb Tentacle.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Blistering_Tentacle2.jpg/revision/latest/scale-to-width-down/120?cb=20210328131143)](https://static.wikia.nocookie.net/wowpedia/images/8/83/Blistering_Tentacle2.jpg/revision/latest?cb=20210328131143)
+    
+    Blistering Tentacle.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Mutated_Corruption2.jpg/revision/latest/scale-to-width-down/120?cb=20161029220919)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Mutated_Corruption2.jpg/revision/latest?cb=20161029220919)
+    
+    Mutated Corruption.
+    
+
+### Hearthstone
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Deathwing_hero_HS.jpg/revision/latest/scale-to-width-down/120?cb=20191112214005)](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Deathwing_hero_HS.jpg/revision/latest?cb=20191112214005)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Deathwing_the_Destroyer_Core_Set.png/revision/latest/scale-to-width-down/90?cb=20210402214329)](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Deathwing_the_Destroyer_Core_Set.png/revision/latest?cb=20210402214329)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Deathwing_Hearth_and_Home.jpg/revision/latest/scale-to-width-down/68?cb=20180616014942)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Deathwing_Hearth_and_Home.jpg/revision/latest?cb=20180616014942)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Deathwing_the_Black_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220207114154)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Deathwing_the_Black_HS.jpg/revision/latest?cb=20220207114154)
+    
+
+### Heroes of the Storm
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Deathwing_HotS_Art.jpg/revision/latest/scale-to-width-down/120?cb=20191023074041)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Deathwing_HotS_Art.jpg/revision/latest?cb=20191023074041)
+    
+    _Heroes of the Storm_ promotional art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Deathwing_HotS.jpg/revision/latest/scale-to-width-down/86?cb=20201125065051)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Deathwing_HotS.jpg/revision/latest?cb=20201125065051)
+    
+    Deathwing
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Dark_Nexus_Deathwing_HotS.jpg/revision/latest/scale-to-width-down/116?cb=20210331200421)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Dark_Nexus_Deathwing_HotS.jpg/revision/latest?cb=20210331200421)
+    
+    Dark Nexus Deathwing skin
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Brightwing_HotS_Destroyer.jpg/revision/latest/scale-to-width-down/120?cb=20210318003951)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Brightwing_HotS_Destroyer.jpg/revision/latest?cb=20210318003951)
+    
+    Brightwing using a Deathwing-themed skin.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/D.Va_HotS_The_Destroyer.jpg/revision/latest/scale-to-width-down/120?cb=20171219095227)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/D.Va_HotS_The_Destroyer.jpg/revision/latest?cb=20171219095227)
+    
+    D.Va, a character from _Overwatch_, using a Deathwing-themed skin.
+    
+
+### Other
+
+-   [](https://static.wikia.nocookie.net/wowpedia/images/b/ba/It%27sABusyDayForBattleNet.PNG/revision/latest?cb=20111025175300)
+    
+    Cinematic image used as a background on [Battle.net](https://wowpedia.fandom.com/wiki/Battle.net "Battle.net") during the expansion's release to normal servers.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Deathwing-sideshow.jpg/revision/latest/scale-to-width-down/120?cb=20140529092928)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Deathwing-sideshow.jpg/revision/latest?cb=20140529092928)
+    
+    Sideshow Collectibles Deathwing statue.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/51/Dethling.jpg/revision/latest/scale-to-width-down/120?cb=20131016002319)](https://static.wikia.nocookie.net/wowpedia/images/5/51/Dethling.jpg/revision/latest?cb=20131016002319)
+    
+    The Dethling pet.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a5/Deathwing-pop.jpg/revision/latest/scale-to-width-down/120?cb=20150411053126)](https://static.wikia.nocookie.net/wowpedia/images/a/a5/Deathwing-pop.jpg/revision/latest?cb=20150411053126)
+    
+    Deathwing Funko Pop figure.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Death_Art.jpg/revision/latest/scale-to-width-down/70?cb=20110307020252)](https://static.wikia.nocookie.net/wowpedia/images/4/48/Death_Art.jpg/revision/latest?cb=20110307020252)
+    
+
+### Fanart
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Garrosh_and_Varian_fighting_Deathwing.jpg/revision/latest/scale-to-width-down/120?cb=20160703174312)](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Garrosh_and_Varian_fighting_Deathwing.jpg/revision/latest?cb=20160703174312)
+    
+    Garrosh and Varian fighting Deathwing in his human form.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/df/Tirion_vs_Deathwing.jpg/revision/latest/scale-to-width-down/120?cb=20130324204722)](https://static.wikia.nocookie.net/wowpedia/images/d/df/Tirion_vs_Deathwing.jpg/revision/latest?cb=20130324204722)
+    
+    Tirion rallying against Deathwing.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Neltharion.jpg/revision/latest/scale-to-width-down/120?cb=20060722160355)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Neltharion.jpg/revision/latest?cb=20060722160355)
+    
+    Deathwing by T.J. Verhagen.
+    
+
+## Videos
+
+-   [Deathwing awakens from his slumber](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [''World of Warcraft: Cataclysm''](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [''World of Warcraft: Cataclysm'' cinematic](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Deathwing flies over the world](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Battle of Life and Death](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Deathwing talks to Arygos](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Thrall uses the Dragon Soul on Deathwing](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Adventurers assault the Spine of Deathwing](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Deathwing falls into the Maelstrom](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Legacies Chapter One](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Legacies Chapter Two](https://wowpedia.fandom.com/wiki/Deathwing#)
+-   [Legacies Chapter Three](https://wowpedia.fandom.com/wiki/Deathwing#)
+
+## Patch changes
+
+## See also
+
+-   [Deathwing timeline issue](https://wowpedia.fandom.com/wiki/Deathwing_timeline_issue "Deathwing timeline issue")
+-   [Đeathwing](https://wowpedia.fandom.com/wiki/%C4%90eathwing "Đeathwing")
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Inv_misc_book_09.png/revision/latest/scale-to-width-down/16?cb=20070329111544)[\[Legacy of the Aspects\]](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects)
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-1) [World of Warcraft: The Magazine Volume I Issue II](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Volume_I_Issue_II "World of Warcraft: The Magazine Volume I Issue II")
+2.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-2) [The Characters of Warcraft/Deathwing](https://wowpedia.fandom.com/wiki/The_Characters_of_Warcraft/Deathwing "The Characters of Warcraft/Deathwing")
+3.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-3) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 58
+4.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-4) [Dave Kosak on Twitter](https://twitter.com/DaveKosak/status/398238613801938945)
+5.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-BtDP_99_5-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-BtDP_99_5-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-BtDP_99_5-2">c</a></sup> _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_, pg. 99
+6.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-6) [War of the Ancients Trilogy](https://wowpedia.fandom.com/wiki/War_of_the_Ancients_Trilogy "War of the Ancients Trilogy")
+7.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-7) [March Badness](https://worldofwarcraft.com/en-us/news/20056283)
+8.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-8)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Battle of Life and Death](https://wowpedia.fandom.com/wiki/Battle_of_Life_and_Death)
+9.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-9) [WoW TCG Card: Necrotic Boneplate Gauntlets](http://www.wowcards.info/card/aspects-treasure/en/64/Necrotic-Boneplate-Gauntlets)
+10.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-WC2Man_10-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-WC2Man_10-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-WC2Man_10-2">c</a></sup> _[Warcraft II: Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal "Warcraft II: Beyond the Dark Portal")_ manual, _[Legends of the Land](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal_manual#Deathwing "Warcraft II: Beyond the Dark Portal manual")_, Deathwing
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle127_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle127_11-1">b</a></sup> _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 127
+12.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-DotD_22_12-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-DotD_22_12-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-DotD_22_12-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-DotD_22_12-3">d</a></sup> _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 22
+13.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-13) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 227
+14.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-14) _[Night of the Dragon](https://wowpedia.fandom.com/wiki/Night_of_the_Dragon "Night of the Dragon")_, chapter 24
+15.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-15)  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Spell_fire_fire.png/revision/latest/scale-to-width-down/16?cb=20060928014618)[\[Stood in the Fire\]](https://wowpedia.fandom.com/wiki/Stood_in_the_Fire)
+16.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-16) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_ description
+17.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-17) [_Dawn of the Aspects_ excerpt](http://us.battle.net/wow/en/blog/8636640/World_of_Warcraft_Dawn_of_the_Aspects_-_Part_1_Coming_Soon-2_6_2013).
+18.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-18) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects")_
+19.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-19) _[World of Warcraft: The Magazine Issue 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Magazine_Issue_1 "World of Warcraft: The Magazine Issue 1")_, pg. 11
+20.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-20) [Blizzcon 2015: World and Content Overview Panel](https://www.youtube.com/watch?v=iCPPCssbt-o)
+21.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-21) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. ??
+22.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Lessons_22-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Lessons_22-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [Lessons From Our Past](https://wowpedia.fandom.com/wiki/Lessons_From_Our_Past)
+23.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-RunsInTheFamily_23-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-RunsInTheFamily_23-1">b</a></sup> Runs in the Family
+24.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Legacies3_24-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Legacies3_24-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Legacies3_24-2">c</a></sup> _[Legacies](https://wowpedia.fandom.com/wiki/Legacies "Legacies")_ Chapter Three
+25.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-25) For Blue Eyes Only
+26.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-26) [Dragonflight Zone Preview: The Forbidden Reach](https://worldofwarcraft.com/en-gb/news/23832633/dragonflight-zone-preview-the-forbidden-reach)
+27.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-27) [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, 61. 
+28.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-ChOTA_28-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-ChOTA_28-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-ChOTA_28-2">c</a></sup> _[Charge of the Aspects](https://wowpedia.fandom.com/wiki/Charge_of_the_Aspects "Charge of the Aspects")_
+29.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-29) [Ancient Neltharion Tablets](https://wowpedia.fandom.com/wiki/Ancient_Neltharion_Tablets "Ancient Neltharion Tablets")
+30.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-30)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [In Defiance of Deathwing](https://wowpedia.fandom.com/wiki/In_Defiance_of_Deathwing)
+31.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-DotD_135_31-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-DotD_135_31-1">b</a></sup> _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 135
+32.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-32)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Huln's War - The Nathrezim](https://wowpedia.fandom.com/wiki/Huln%27s_War_-_The_Nathrezim)
+33.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-33)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Titanic Showdown](https://wowpedia.fandom.com/wiki/Titanic_Showdown)
+34.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle139-141_34-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle139-141_34-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle139-141_34-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle139-141_34-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle139-141_34-4">e</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle139-141_34-5">f</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle139-141_34-6">g</a></sup> _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 139 - 141
+35.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Chronicle155-156_35-0) _[World of Warcraft: Chronicle Volume 2](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_2 "World of Warcraft: Chronicle Volume 2")_, pg. 155 - 156
+36.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-36) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 3
+37.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Day_of_the_Dragon_37-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Day_of_the_Dragon_37-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Day_of_the_Dragon_37-2">c</a></sup> [Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")
+38.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-38) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 87
+39.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-39) _[Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Beyond_the_Dark_Portal "Beyond the Dark Portal")_
+40.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-40) [Ask CDev Answers - Round 2](https://wowpedia.fandom.com/wiki/Ask_CDev#Ask_CDev_Answers_-_Round_2 "Ask CDev")
+41.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-41) [Adventure Guide](https://wowpedia.fandom.com/wiki/Adventure_Guide "Adventure Guide") entry for [Slabhide](https://wowpedia.fandom.com/wiki/Slabhide "Slabhide")
+42.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-42)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Don't. Stop. Moving.](https://wowpedia.fandom.com/wiki/Don%27t._Stop._Moving.)
+43.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-43) [Kor the Immovable#Quotes](https://wowpedia.fandom.com/wiki/Kor_the_Immovable#Quotes "Kor the Immovable")
+44.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-cataclysmsite_44-0) [Blizzard Entertainment](https://wowpedia.fandom.com/wiki/Blizzard_Entertainment "Blizzard Entertainment"). [An ancient evil lies dormant within Deepholm, the domain of earth in the Elemental Plane.](http://www.worldofwarcraft.com/cataclysm/index.html) (English). ''_World of Warcraft: Cataclysm_. Retrieved on 2009-08-25.
+45.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-45) [http://www.worldofwarcraft.com/cataclysm/features/stonecore.html](http://www.worldofwarcraft.com/cataclysm/features/stonecore.html)
+46.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-46) [Adventure Guide](https://wowpedia.fandom.com/wiki/Adventure_Guide "Adventure Guide") entry for [Corborus](https://wowpedia.fandom.com/wiki/Corborus "Corborus")
+47.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-47) [BlizzCon 2009: Cataclysm Panel](https://www.youtube.com/watch?v=6tojYbaPEyQ?t=4m50s)
+48.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-48) _[World of Warcraft: Exploring Azeroth: Kalimdor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Exploring_Azeroth:_Kalimdor "World of Warcraft: Exploring Azeroth: Kalimdor")_, pg. 148
+49.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-49) [Call of Duty (quest)#Notes](https://wowpedia.fandom.com/wiki/Call_of_Duty_(quest)#Notes "Call of Duty (quest)")
+50.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-50) [Stormwind Rat](https://wowpedia.fandom.com/wiki/Stormwind_Rat "Stormwind Rat")
+51.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-51) [http://www.mmo-champion.com/content/2450-Rogue-Legendary-Dagger-and-Patch-4.3-Interviews-Comics](http://www.mmo-champion.com/content/2450-Rogue-Legendary-Dagger-and-Patch-4.3-Interviews-Comics)
+52.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-The_Day_52-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-The_Day_52-1">b</a></sup>  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [The Day that Deathwing Came](https://wowpedia.fandom.com/wiki/The_Day_that_Deathwing_Came)
+53.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-53) [Halls of Origination#Dungeon Journal](https://wowpedia.fandom.com/wiki/Halls_of_Origination#Dungeon_Journal "Halls of Origination")
+54.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-54)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Enter the Dragon Queen](https://wowpedia.fandom.com/wiki/Enter_the_Dragon_Queen)
+55.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-55)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Battle of Life and Death](https://wowpedia.fandom.com/wiki/Battle_of_Life_and_Death)
+56.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-56) [Cataclysm Recap Video: Legendary Rogue (Part III of IV)](https://www.youtube.com/watch?v=8LZrTxFnQPQ)
+57.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-57) [Cataclysm Recap Video: Legendary Rogue (Part IV of IV)](https://www.youtube.com/watch?v=ONmFI31NkJk)
+58.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-58)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [The Zandalari Prophecy](https://wowpedia.fandom.com/wiki/The_Zandalari_Prophecy_(quest))
+59.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-59)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Gods and Monsters](https://wowpedia.fandom.com/wiki/Gods_and_Monsters_(quest))
+60.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-60)  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c2/Inv_misc_note_02.png/revision/latest/scale-to-width-down/16?cb=20180824075737)[\[Legacy of the Masters (Part 1)\]](https://wowpedia.fandom.com/wiki/Legacy_of_the_Masters_(Part_1))
+61.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-61)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Celestial Blessings](https://wowpedia.fandom.com/wiki/Celestial_Blessings)
+62.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-62)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [The Path of Huln](https://wowpedia.fandom.com/wiki/The_Path_of_Huln)
+63.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-63)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [Titanic Showdown](https://wowpedia.fandom.com/wiki/Titanic_Showdown)
+64.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-64)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[55-60\] [Visions of the Dreamer: The Betrayal](https://wowpedia.fandom.com/wiki/Visions_of_the_Dreamer:_The_Betrayal)
+65.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-65)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[60-62\] [The Shadow of His Wings](https://wowpedia.fandom.com/wiki/The_Shadow_of_His_Wings)
+66.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-66)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[62-65\] [Proto Problems](https://wowpedia.fandom.com/wiki/Proto_Problems)
+67.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-67) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, chapter 13
+68.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-68) _[Dawn of the Aspects](https://wowpedia.fandom.com/wiki/Dawn_of_the_Aspects "Dawn of the Aspects"),_ part 1
+69.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-69)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[15-30\] [The Brood of Onyxia](https://wowpedia.fandom.com/wiki/The_Brood_of_Onyxia)
+70.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-70) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, pg. 101
+71.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-71) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 87
+72.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-72) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, index
+73.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Legacy_73-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-Legacy_73-1">b</a></sup>  ![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Inv_misc_book_09.png/revision/latest/scale-to-width-down/16?cb=20070329111544)[\[Legacy of the Aspects\]](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects)
+74.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-74) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_
+75.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-75) [Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz#Quotes "Warlord Zon'ozz")
+76.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-76) [Yor'sahj the Unsleeping](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping#Quotes "Yor'sahj the Unsleeping")
+77.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-77) _[The Demon Soul](https://wowpedia.fandom.com/wiki/The_Demon_Soul "The Demon Soul")_
+78.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-78) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 136
+79.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-79) _[The Art of World of Warcraft: Cataclysm](https://wowpedia.fandom.com/wiki/The_Art_of_World_of_Warcraft:_Cataclysm "The Art of World of Warcraft: Cataclysm")_, pg. 6
+80.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-80) _[The Well of Eternity](https://wowpedia.fandom.com/wiki/The_Well_of_Eternity "The Well of Eternity")_, chapter 16
+81.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-81) [BlizzCon 2010 WoW: Cataclysm Cinematic Panel Part 2](http://www.youtube.com/watch?v=VK4FzLgiIVg&feature=related)
+82.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-S&amp;L_93_82-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-S&amp;L_93_82-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-S&amp;L_93_82-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-S&amp;L_93_82-3">d</a></sup> _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 93
+83.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-MoM_29_83-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-MoM_29_83-1">b</a></sup> _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, pg. 29
+84.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-84) _[Lands of Conflict](https://wowpedia.fandom.com/wiki/Lands_of_Conflict "Lands of Conflict")_, pg. 34
+85.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-85) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 94
+86.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-86) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 101
+87.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-87) Bill Roper. [Warcraft Adventures](http://www.gamespot.com/features/pcgraveyard/p3_01.html). _PC Gaming Graveyard_ 3. GameSpot. Retrieved on 2007-08-15.
+88.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-88) [GameSpot: Warcraft Adventures](http://www.gamespot.com/features/pcgraveyard/p4_02.html)
+89.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-89) _[The Sundering](https://wowpedia.fandom.com/wiki/The_Sundering "The Sundering")_, pg. 67
+90.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-90) [Ben Brode on Twitter](https://twitter.com/bdbrode/status/719991510712717312)
+91.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-91) [Ben Brode on Twitter](https://twitter.com/bdbrode/status/719991846710026241)
+92.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-92) [Heroes of the Storm - Deathwing Reveal Trailer](https://www.youtube.com/watch?v=ZGhP77lUqJ4)
+93.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-93)   ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) ![Shaman](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Ui-charactercreate-classes_shaman.png/revision/latest/scale-to-width-down/16?cb=20070124145005 "Shaman") \[45D\] [Neltharion's Lair: The Earthen Amulet](https://wowpedia.fandom.com/wiki/Neltharion%27s_Lair:_The_Earthen_Amulet)
+94.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-94) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, chapter 1
+95.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-95) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 57
+96.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-96)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[45D\] [Neltharion's Lair: Presentation is Key](https://wowpedia.fandom.com/wiki/Neltharion%27s_Lair:_Presentation_is_Key)
+97.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-97) [Deathwing (WC2 Human)](https://wowpedia.fandom.com/wiki/Deathwing_(WC2_Human) "Deathwing (WC2 Human)")
+98.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-98) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_
+99.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-99) [BlizzCon 2010 WoW: Cataclysm Cinematic Panel Part 3](https://www.youtube.com/watch?v=r1OrLRjKO3w)
+100.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-100) [World of Warcraft on Twitter](https://twitter.com/Warcraft/status/823540193433186305) (2017-01-23). Retrieved on 2017-01-23.
+101.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-101) [Deathwing's TRUE Size](https://youtu.be/goKCtR2GMEI?t=482) by Aerawave
+102.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-102)  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[31\] [Look to an Old Friend](https://wowpedia.fandom.com/wiki/Look_to_an_Old_Friend)
+103.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-103) [Matt Burns on Twitter](https://twitter.com/malikishak91/status/704167146490712064)
+104.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-104)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [The Day that Deathwing Came: What Really Happened](https://wowpedia.fandom.com/wiki/The_Day_that_Deathwing_Came:_What_Really_Happened)
+105.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-105)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[30-35\] [Gods and Monsters](https://wowpedia.fandom.com/wiki/Gods_and_Monsters_(quest))
+106.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-106)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[90\] [Celestial Blessings](https://wowpedia.fandom.com/wiki/Celestial_Blessings)
+107.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-107)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [A Bird of Legend](https://wowpedia.fandom.com/wiki/A_Bird_of_Legend)
+108.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-108) [ex-Blizzard Dev Auctions Original StarCraft II Art, Kerrigan Bust and Goodies](http://www.blizzplanet.com/blog/comments/ex-blizzard-dev-auctions-original-starcraft-ii-art-kerrigan-bust-and-goodies)
+109.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-109) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, chapter 9
+110.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-110) Corrupted Blood (pet)
+111.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-111) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_, pg. 82
+112.  [^](https://wowpedia.fandom.com/wiki/Deathwing#cite_ref-112) _[World of Warcraft: Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_, pg. 171
+
+## External links
+
+| Deathwing | Neltharion |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/search?q=Deathwing#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Deathwing#t1:npcs)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/search?q=Neltharion#npcs)
+-   [WoWDB](https://www.wowdb.com/search?search=Neltharion#t1:npcs)
+
+ |
+
+<table><tbody><tr><td>Preceded by:<br><i><b>None</b></i></td><td><b>Position:</b><br><b>Earth-Warder</b></td><td>Succeeded by:<br><i><b><a href="https://wowpedia.fandom.com/wiki/Go%27el" title="Go'el">Go'el</a> / <a href="https://wowpedia.fandom.com/wiki/Thrall" title="Thrall">Thrall</a></b></i></td></tr></tbody></table>
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
+
+[Dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon")
+
+
+
+ |
+| --- |
+|  |
+| Primary dragon types | 
+
+-   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
+-   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
+-   [Bronze](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")
+-   [Green](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon")
+-   [Red](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon")
+
+
+
+ |
+|  |
+| Other dragon types | 
+
+-   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+-   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Nether](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon")
+-   [Plagued](https://wowpedia.fandom.com/wiki/Plagued_dragon "Plagued dragon")
+-   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Storm](https://wowpedia.fandom.com/wiki/Storm_drake "Storm drake")
+-   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead_dragon "Undead dragon")
+
+
+
+ |
+|  |
+| Black Dragonflight | 
+
+<table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><p>Unknown</p></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight#Known_Members" title="Black dragonflight">Characters</a></th><td><div><ul><li><strong>Deathwing</strong></li><li><a href="https://wowpedia.fandom.com/wiki/General_Drakkisath" title="General Drakkisath">Drakkisath</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ebyssian" title="Ebyssian">Ebyssian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nalice" title="Nalice">Nalice</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nefarian" title="Nefarian">Nefarian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Onyxia" title="Onyxia">Onyxia</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sabellian" title="Sabellian">Sabellian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sintharia" title="Sintharia">Sintharia</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wrathion" title="Wrathion">Wrathion</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Badlands" title="Badlands">Badlands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackrock_Mountain" title="Blackrock Mountain">Blackrock Mountain</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains" title="Blade's Edge Mountains">Blade's Edge Mountains</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Steppes" title="Burning Steppes">Burning Steppes</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathwing%27s_Lair" title="Deathwing's Lair">Deathwing's Lair</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lethlor_Ravine" title="Lethlor Ravine">Lethlor Ravine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Maw_of_Neltharion" title="Maw of Neltharion">Maw of Neltharion</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Dragonshrine" title="Obsidian Dragonshrine">Obsidian Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Sanctum" title="Obsidian Sanctum">Obsidian Sanctum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Redridge_Mountains" title="Redridge Mountains">Redridge Mountains</a></li><li><a href="https://wowpedia.fandom.com/wiki/The_Dragonmurk" title="The Dragonmurk">The Dragonmurk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmbog" title="Wyrmbog">Wyrmbog</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Black_dragon" title="Black dragon">Black dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Black_wyrm" title="Black wyrm">Black wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Groups and cults</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blacktalon" title="Blacktalon">Blacktalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Brood" title="Obsidian Brood">Obsidian Brood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Outcasts" title="Obsidian Outcasts">Obsidian Outcasts</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackwing" title="Blackwing">Blackwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Death_Talon" title="Death Talon">Death Talon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firemane" title="Firemane">Firemane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackwyrm_Cult" title="Blackwyrm Cult">Blackwyrm Cult</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackhowl" title="Blackhowl">Blackhowl</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer" title="Twilight's Hammer">Twilight's Hammer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmcult" title="Wyrmcult">Wyrmcult</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rage_Talon" title="Rage Talon">Rage Talon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Worldbreakers" title="Worldbreakers">Worldbreakers</a></li></ul></div></td></tr></tbody></table>
+
+ |
+|  |
+| Dragonflights | 
+
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
+-   [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight")
+-   [Green dragonflight](https://wowpedia.fandom.com/wiki/Green_dragonflight "Green dragonflight")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight")
+-   [Netherwing dragonflight](https://wowpedia.fandom.com/wiki/Netherwing "Netherwing")
+
+
+
+ |
+|  |
+| Other draconic groups | 
+
+-   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
+-   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
+-   [Wyrmcult](https://wowpedia.fandom.com/wiki/Wyrmcult "Wyrmcult")
+
+
+
+ |
+|  |
+| 
+
+-   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
+-   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
+-   [Legacy of the Aspects](https://wowpedia.fandom.com/wiki/Legacy_of_the_Aspects "Legacy of the Aspects")
+-   [Dragons category](https://wowpedia.fandom.com/wiki/Category:Dragons "Category:Dragons")
+-   [Dragonkin category](https://wowpedia.fandom.com/wiki/Category:Dragonkin "Category:Dragonkin")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Old_Gods "Template:Old Gods")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Old_Gods?action=edit)
+
+[Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces")
+
+
+
+ |
+| --- |
+|  |
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+
+-   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
+-   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
+-   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
+-   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
+-   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
+
+
+
+ |
+|  |
+| Characters | 
+
+-   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
+-   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
+-   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
+-   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
+-   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
+-   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   **Deathwing**
+-   [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare")
+    -   [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre")
+    -   [Emeriss](https://wowpedia.fandom.com/wiki/Emeriss "Emeriss")
+    -   [Lethon](https://wowpedia.fandom.com/wiki/Lethon "Lethon")
+    -   [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar")
+-   [Farthing](https://wowpedia.fandom.com/wiki/Farthing "Farthing")
+-   [Go'rath](https://wowpedia.fandom.com/wiki/Go%27rath "Go'rath")
+-   [Il'gynoth](https://wowpedia.fandom.com/wiki/Il%27gynoth "Il'gynoth")
+-   [Iso'rath](https://wowpedia.fandom.com/wiki/Iso%27rath "Iso'rath")
+-   [Kai'ju Gahz'rilla](https://wowpedia.fandom.com/wiki/Kai%27ju_Gahz%27rilla "Kai'ju Gahz'rilla")
+-   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
+-   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
+-   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
+-   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
+-   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
+-   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
+-   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")
+-   [Shu'ma](https://wowpedia.fandom.com/wiki/Shu%27ma "Shu'ma")
+-   [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+-   [Skyriss](https://wowpedia.fandom.com/wiki/Harbinger_Skyriss "Harbinger Skyriss")
+-   [Soggoth the Slitherer](https://wowpedia.fandom.com/wiki/Soggoth_the_Slitherer "Soggoth the Slitherer")
+-   [Twilight Father](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus "Archbishop Benedictus")
+-   [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm")
+-   [Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+-   [Umbriss](https://wowpedia.fandom.com/wiki/General_Umbriss "General Umbriss")
+-   [Uul'gyneth](https://wowpedia.fandom.com/wiki/Uul%27gyneth "Uul'gyneth")
+-   [Vezax](https://wowpedia.fandom.com/wiki/General_Vezax "General Vezax")
+-   [Twin Emperors](https://wowpedia.fandom.com/wiki/Twin_Emperors "Twin Emperors")
+    -   [Vek'lor](https://wowpedia.fandom.com/wiki/Emperor_Vek%27lor "Emperor Vek'lor")
+    -   [Vek'nilash](https://wowpedia.fandom.com/wiki/Emperor_Vek%27nilash "Emperor Vek'nilash")
+-   [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona")
+-   [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius")
+-   [Yor'sahj](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+-   [Zakajz](https://wowpedia.fandom.com/wiki/Zakajz_the_Corruptor "Zakajz the Corruptor")
+-   [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia")
+-   [Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+
+
+
+ |
+|  |
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+
+-   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
+-   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+-   [Blood troll](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll")
+-   [Centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur")
+-   Corrupt [dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin")
+    -   [Black](https://wowpedia.fandom.com/wiki/Black_Dragonflight "Black Dragonflight")
+    -   [Twilight](https://wowpedia.fandom.com/wiki/Twilight_Dragonflight "Twilight Dragonflight")
+    -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_Dragonflight "Chromatic Dragonflight")
+    -   [Nightmare](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+    -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_Dragonflight "Infinite Dragonflight")
+-   [Drogbar](https://wowpedia.fandom.com/wiki/Drogbar "Drogbar")
+-   [Elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental")
+-   [Forgotten one](https://wowpedia.fandom.com/wiki/Forgotten_one "Forgotten one")
+-   [Azerothian hydra](https://wowpedia.fandom.com/wiki/Hydra#Azeroth_Hydras "Hydra")
+-   [Iron dwarf](https://wowpedia.fandom.com/wiki/Iron_dwarf "Iron dwarf")
+-   [Iron giant](https://wowpedia.fandom.com/wiki/Iron_giant "Iron giant")
+-   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
+-   [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+-   [Merciless one](https://wowpedia.fandom.com/wiki/Merciless_one "Merciless one")
+-   [Naga](https://wowpedia.fandom.com/wiki/Naga "Naga")
+-   [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+    -   [C'Thrax](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax")
+    -   [K'thir](https://wowpedia.fandom.com/wiki/K%27thir "K'thir")
+-   [Qiraji](https://wowpedia.fandom.com/wiki/Qiraji "Qiraji")
+-   [Silithid](https://wowpedia.fandom.com/wiki/Silithid "Silithid")
+-   [Sand troll](https://wowpedia.fandom.com/wiki/Sand_troll "Sand troll") (formerly)
+-   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") [races](https://wowpedia.fandom.com/wiki/Race "Race")
+    -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+    -   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+    -   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
+-   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps")
+-   [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+-   [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands")
+-   [Klaxxi'vess](https://wowpedia.fandom.com/wiki/Klaxxi%27vess "Klaxxi'vess")
+-   [Master's Glaive](https://wowpedia.fandom.com/wiki/Master%27s_Glaive "Master's Glaive")
+-   [Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar "Nazjatar")
+-   [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha")
+-   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
+-   [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands")
+-   [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar")
+-   [Vordrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil")
+
+
+
+ |
+|  |
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+
+-   [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire")
+-   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
+    -   [Druids of the Flame](https://wowpedia.fandom.com/wiki/Druid_of_the_Flame "Druid of the Flame")
+-   [Al'Akir minions](https://wowpedia.fandom.com/wiki/Skywall#Denizens "Skywall")
+    -   [Galak tribe](https://wowpedia.fandom.com/wiki/Galak_tribe "Galak tribe")
+    -   [Neferset tribe](https://wowpedia.fandom.com/wiki/Neferset_tribe "Neferset tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+    -   [Chromatic dragonflight](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
+    -   [Dark Horde](https://wowpedia.fandom.com/wiki/Dark_Horde "Dark Horde")
+-   [Twilight dragonflight](https://wowpedia.fandom.com/wiki/Twilight_dragonflight "Twilight dragonflight")
+-   [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare")
+    -   [Druids of the Nightmare](https://wowpedia.fandom.com/wiki/Druid_of_the_Nightmare "Druid of the Nightmare")
+    -   [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight")
+-   [Cult of the Void](https://wowpedia.fandom.com/wiki/Cult_of_the_Void "Cult of the Void")
+-   [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire")
+-   [Necrodark](https://wowpedia.fandom.com/wiki/Necrodark "Necrodark")
+-   [Iron army](https://wowpedia.fandom.com/wiki/Iron_army "Iron army")
+-   [Infinite dragonflight](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
+-   [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_(kingdom) "Ahn'Qiraj (kingdom)")
+-   [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+    -   [Twilight Council](https://wowpedia.fandom.com/wiki/Twilight_Council "Twilight Council")
+    -   [Mo'grosh clan](https://wowpedia.fandom.com/wiki/Mo%27grosh "Mo'grosh")
+    -   Corrupt [Dark Iron clan](https://wowpedia.fandom.com/wiki/Dark_Iron_clan "Dark Iron clan")
+    -   [Farraki tribe](https://wowpedia.fandom.com/wiki/Farraki_tribe "Farraki tribe") (defected)
+    -   [Bloodeye clan](https://wowpedia.fandom.com/wiki/Bloodeye_clan "Bloodeye clan")
+-   [Mantid Empire](https://wowpedia.fandom.com/wiki/Mantid_Empire "Mantid Empire")
+    -   [Klaxxi](https://wowpedia.fandom.com/wiki/Klaxxi "Klaxxi")
+
+
+
+ |
+|  |
+| 
+
+-   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
+-   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")
+-   [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")
+-   [The Twilight Apocrypha](https://wowpedia.fandom.com/wiki/The_Twilight_Apocrypha "The Twilight Apocrypha")
+-   [The Old Gods and the Ordering of Azeroth](https://wowpedia.fandom.com/wiki/The_Old_Gods_and_the_Ordering_of_Azeroth "The Old Gods and the Ordering of Azeroth")
+-   [Tribunal of Ages](https://wowpedia.fandom.com/wiki/Tribunal_of_Ages "Tribunal of Ages")
+-   [Lorgalis Manuscript](https://wowpedia.fandom.com/wiki/Lorgalis_Manuscript "Lorgalis Manuscript")
+-   [The Prophecy of C'Thun](https://wowpedia.fandom.com/wiki/The_Prophecy_of_C%27Thun "The Prophecy of C'Thun")
+-   [Old Gods category](https://wowpedia.fandom.com/wiki/Category:Old_Gods "Category:Old Gods")
+
+
+
+ |

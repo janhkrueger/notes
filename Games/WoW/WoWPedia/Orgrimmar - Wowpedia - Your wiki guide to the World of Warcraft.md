@@ -1,0 +1,1456 @@
+_This article is about the orcish city. For the in-game faction of the same name, see [Orgrimmar (faction)](https://wowpedia.fandom.com/wiki/Orgrimmar_(faction) "Orgrimmar (faction)"). For other uses, see [Orgrimmar (disambiguation)](https://wowpedia.fandom.com/wiki/Orgrimmar_(disambiguation) "Orgrimmar (disambiguation)")._
+
+| [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Orgrimmar |
+| --- |
+| [![Exploring Azeroth - Orgrimmar.jpg](https://static.wikia.nocookie.net/wowpedia/images/2/24/Exploring_Azeroth_-_Orgrimmar.jpg/revision/latest/scale-to-width-down/260?cb=20220324154224)](https://static.wikia.nocookie.net/wowpedia/images/2/24/Exploring_Azeroth_-_Orgrimmar.jpg/revision/latest?cb=20220324154224)  
+The [Valley of Strength](https://wowpedia.fandom.com/wiki/Valley_of_Strength "Valley of Strength"), as depicted in _[Exploring Azeroth: Kalimdor](https://wowpedia.fandom.com/wiki/Exploring_Azeroth:_Kalimdor "Exploring Azeroth: Kalimdor")_
+
+
+
+ |
+| Type | Capital |
+| Population | Thousands<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-1">[1]</a></sup> |
+| Races | [![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
+[![Jungle troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")[![Jungle troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")  
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
+[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")  
+[![IconSmall Pandaren2 Male.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Pandaren2_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015844)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Pandaren2_Male.gif/revision/latest?cb=20200518015844)[![IconSmall Pandaren2 Female.gif](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Pandaren2_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020812)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/IconSmall_Pandaren2_Female.gif/revision/latest?cb=20200518020812) [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")  
+[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/a/a1/IconSmall_Nightborne_Male.gif/revision/latest/scale-to-width-down/16?cb=20181218105426)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")[![Nightborne](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")  
+[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Highmountain_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520042932)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")[![Highmountain tauren](https://static.wikia.nocookie.net/wowpedia/images/d/d6/IconSmall_Highmountain_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520043557)](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren") [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")  
+[![Mag'har orc](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_OrcBrown_Male.gif/revision/latest/scale-to-width-down/16?cb=20200528220710)](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")[![Mag'har orc](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_OrcBrown_Female.gif/revision/latest/scale-to-width-down/16?cb=20200528221239)](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")[![IconSmall OrcGray Male.gif](https://static.wikia.nocookie.net/wowpedia/images/a/a9/IconSmall_OrcGray_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118153721)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/IconSmall_OrcGray_Male.gif/revision/latest?cb=20211118153721)[![IconSmall OrcGray Female.gif](https://static.wikia.nocookie.net/wowpedia/images/f/fc/IconSmall_OrcGray_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118154454)](https://static.wikia.nocookie.net/wowpedia/images/f/fc/IconSmall_OrcGray_Female.gif/revision/latest?cb=20211118154454) [Mag'har orc](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")  
+[![Zandalari troll](https://static.wikia.nocookie.net/wowpedia/images/c/c3/IconSmall_Zandalari_Male.gif/revision/latest/scale-to-width-down/16?cb=20190210213621)](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")[![Zandalari troll](https://static.wikia.nocookie.net/wowpedia/images/9/91/IconSmall_Zandalari_Female.gif/revision/latest/scale-to-width-down/16?cb=20190210213702)](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll") [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")  
+[![Vulpera](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_Vulpera_Male.gif/revision/latest/scale-to-width-down/16?cb=20191009085216)](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")[![Vulpera](https://static.wikia.nocookie.net/wowpedia/images/4/4f/IconSmall_Vulpera_Female.gif/revision/latest/scale-to-width-down/16?cb=20191009085227)](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera") [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")  
+[![Dracthyr](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr") [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")  
+[![Ethereal](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") [Ethereal](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") |
+| Government | Tribal chiefdom |
+| Ruler(s) | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council")  
+ ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Chieftain Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan") |
+| Former ruler(s) |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Warchief Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")  
+ ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[High Overlord Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") <sup>&nbsp;†</sup>  
+ ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Warchief Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") <sup>&nbsp;†</sup>  
+ ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Warchief Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") <sup>&nbsp;†</sup>  
+ ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Warchief Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") |
+| Languages | [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)"), [Zandali](https://wowpedia.fandom.com/wiki/Zandali "Zandali"), [Gutterspeak](https://wowpedia.fandom.com/wiki/Gutterspeak "Gutterspeak"), [Taur-ahe](https://wowpedia.fandom.com/wiki/Taur-ahe "Taur-ahe"), [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), [Goblin](https://wowpedia.fandom.com/wiki/Goblin_(language) "Goblin (language)"), [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren_(language) "Pandaren (language)"), [Shalassian](https://wowpedia.fandom.com/wiki/Shalassian "Shalassian"), [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera_(language) "Vulpera (language)"), [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic"), [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)") |
+| Faiths | [Shamanism](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship"), [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa"), [Druidism](https://wowpedia.fandom.com/wiki/Druidism "Druidism"), [Earth Mother](https://wowpedia.fandom.com/wiki/Earth_Mother "Earth Mother"), [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light"), [Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows") |
+| Affiliation | [Orc clans](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe"), [Tauren tribes](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel"), [Huojin Pandaren](https://wowpedia.fandom.com/wiki/Huojin_Pandaren "Huojin Pandaren"), [Mag'har clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)"), [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai"), [Dark Talons](https://wowpedia.fandom.com/wiki/Dark_Talons "Dark Talons") |
+| Former affiliation(s) | [True Horde](https://wowpedia.fandom.com/wiki/True_Horde "True Horde"), [Banshee loyalists](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") |
+| Location | Northern [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")[<sup>[46,&nbsp;12]</sup>](https://wowpedia.fandom.com/wiki/Durotar) |
+| PvP status | [Horde territory](https://wowpedia.fandom.com/wiki/Horde_territory "Horde territory") |
+| Status | Active |
+
+“Orgrimmar was founded in the valleys and caverns of northern [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar") as the new home of the orcish race and the capital of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").”
+
+— Explorers' Guide to Kalimdor<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-2">[2]</a></sup>
+
+**Orgrimmar** [\['ɔɹgɹɪmɑɹ\]](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet "wikipedia:International Phonetic Alphabet") is the capital [city](https://wowpedia.fandom.com/wiki/City "City") of the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"), and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") as a whole. Nestled into a system of valleys on the northern edge of [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar"), the imposing warrior city is the seat of the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") that governs the entire faction. It is the primary hub for player characters of the Horde and, as with all capital cities, has [banks](https://wowpedia.fandom.com/wiki/Bank "Bank"), [class](https://wowpedia.fandom.com/wiki/Class "Class") and [profession](https://wowpedia.fandom.com/wiki/Professions "Professions") [trainers](https://wowpedia.fandom.com/wiki/Trainer "Trainer"), and [auction houses](https://wowpedia.fandom.com/wiki/Auction_house "Auction house"). The equivalent hub for the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") is [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
+
+## History
+
+### After the Third War
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/80/Orgrimmar_construction.jpg/revision/latest/scale-to-width-down/180?cb=20181001143126)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Orgrimmar_construction.jpg/revision/latest?cb=20181001143126)
+
+Orgrimmar under construction.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/07/To_Tame_a_Land_-_Valley_of_Honor_and_Hall_of_the_Brave.jpg/revision/latest/scale-to-width-down/180?cb=20180925172117)](https://static.wikia.nocookie.net/wowpedia/images/0/07/To_Tame_a_Land_-_Valley_of_Honor_and_Hall_of_the_Brave.jpg/revision/latest?cb=20180925172117)
+
+The newly constructed Orgrimmar, as seen in _[Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
+
+Orgrimmar has been the central hub of the orc community since the end of the [Third War](https://wowpedia.fandom.com/wiki/Third_War "Third War"). The city was founded by Thrall and named after his friend and mentor, the former Warchief [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer"). It is a fortified complex guarded by stout walls, massive gates, and tall towers. The mountainous ranges of northern Durotar form a natural barrier to the rear of the fortress, and parts of the complex are carved into the mountain itself.
+
+Thrall led the orcs to the continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), where they founded a new homeland with the help of their tauren brethren. Naming their new land Durotar after Thrall's [murdered father](https://wowpedia.fandom.com/wiki/Durotan "Durotan"), the orcs settled down to rebuild their once-glorious society. The [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") curse on their kind ended, the Horde changed from a bloodthirsty, warlike juggernaut into more of a loose coalition, dedicated to survival and prosperity rather than conquest. Aided by the noble tauren and the cunning trolls of the Darkspear tribe, Thrall and his orcs looked forward to a new era of peace in their own land.
+
+From there, they began the creation of the great warrior city, Orgrimmar. Named after the former Warchief, Orgrim Doomhammer, the new city was constructed in a short amount of time, with the aid of [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin"), tauren, trolls, and the [Mok'Nathal](https://wowpedia.fandom.com/wiki/Mok%27Nathal "Mok'Nathal") [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar"). Despite having some problems with the [centaur](https://wowpedia.fandom.com/wiki/Centaur "Centaur"), [harpies](https://wowpedia.fandom.com/wiki/Harpy "Harpy"), enraged [thunder lizards](https://wowpedia.fandom.com/wiki/Thunder_lizard "Thunder lizard"), [kobolds](https://wowpedia.fandom.com/wiki/Kobold "Kobold"), evil orcish warlocks and [quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar"), Orgrimmar prospered in the end and became home to the orcs and Darkspear Trolls.
+
+Although Rexxar decided not to go back to Orgrimmar right after the death of [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore"), but instead chose to wander again, he returned to the city when he brought the injured fisherman [Byrok](https://wowpedia.fandom.com/wiki/Byrok "Byrok") to the city.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-3">[3]</a></sup>
+
+### World of Warcraft
+
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
+
+Named in honor of the legendary Orgrim Doomhammer, Orgrimmar was founded as the capital city of the orcs' new homeland. Built within a huge, winding canyon in the harsh land of Durotar, Orgrimmar stands as one of the mightiest warrior cities in the world. Behind Orgrimmar's immense walls, elderly shaman pass their knowledge on to the Horde's newest generation of leaders, while warriors spar in the gladiatorial arena, honing their skills in preparation for the trials that await them in this dangerous land.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-4">[4]</a></sup>
+
+Today, Orgrimmar lies at the base of a mountain between Durotar and Azshara. A warrior city indeed, it is home to countless amounts of orcs, trolls, tauren, and an increasing amount of [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") are now joining the city, as well as the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") and [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin") who have more recently been accepted into the Horde.
+
+During the first [Scourge Invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion "Scourge Invasion"), the city was attacked by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Prior to the start of the [invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland"), the gates of Orgrimmar were invaded by a group of [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") led by [Highlord Kruul](https://wowpedia.fandom.com/wiki/Highlord_Kruul "Highlord Kruul").<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-5">[5]</a></sup>
+
+### Wrath of the Lich King
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/08/Journey_Trailer_-_Orgrimmar.jpg/revision/latest/scale-to-width-down/180?cb=20220922232957)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Journey_Trailer_-_Orgrimmar.jpg/revision/latest?cb=20220922232957)
+
+Orgrimmar during the [Scourge Invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion_(Orgrimmar) "Scourge Invasion (Orgrimmar)"), as seen in _[Journey Trailer](https://wowpedia.fandom.com/wiki/Journey_Trailer "Journey Trailer")_.
+
+The city was once again attacked by the Scourge during the duel between Thrall and Garrosh. The duel was interrupted as orcs and some other leaders of the Horde went to defend the city.
+
+During the War against the Lich King, Putress betrayed the Forsaken. Sylvanas and her loyal Forsaken took refuge in Orgrimmar. From there, Sylvanas, Thrall and horde adventurers returned and liberated Undercity. During that time, all merchants and services were shut down as the Warchief prepared for an unavoidable conflict.
+
+### Stormrage
+
+As the whole of Azeroth fell into the mists of the Emerald Nightmare, so too did Orgrimmar and its citizens.
+
+### Elemental Unrest
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+Orgrimmar was attacked by raging elements but the attack was successfully repelled.
+
+### Shattering: Prelude to Cataclysm
+
+After the [War against the Lich King](https://wowpedia.fandom.com/wiki/War_against_the_Lich_King "War against the Lich King") and [War Against the Nightmare](https://wowpedia.fandom.com/wiki/War_Against_the_Nightmare "War Against the Nightmare") were over, a great celebration was held in honor of [Garrosh](https://wowpedia.fandom.com/wiki/Garrosh "Garrosh") and those who died and survived on [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Nevertheless, raging fire elements burned plenty of buildings in Orgrimmar and the city needed to repair. [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") asked [Monte Gazlowe](https://wowpedia.fandom.com/wiki/Monte_Gazlowe "Monte Gazlowe") to do so and determined to set off to [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand "Nagrand") in order to help raging elements. Before leaving, in [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") Thrall appointed Garrosh to lead the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
+
+### Cataclysm
+
+[![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/0/03/WorldMap-Orgrimmar.jpg/revision/latest/scale-to-width-down/180?cb=20180117225339)](https://static.wikia.nocookie.net/wowpedia/images/0/03/WorldMap-Orgrimmar.jpg/revision/latest?cb=20180117225339)
+
+Map of Orgrimmar.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/WorldMap-Orgrimmar1.jpg/revision/latest/scale-to-width-down/180?cb=20190723123049)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/WorldMap-Orgrimmar1.jpg/revision/latest?cb=20190723123049)
+
+Map of the Cleft of Shadows.
+
+When Garrosh assumed leadership of the Horde, he instituted an enormous redesign of Orgrimmar, opening up new areas to settlement and moving or repurposing existing buildings. The redesign was done with fortification and safety in mind, with new iron and stone buildings built to be far less susceptible to fire and enemy attacks. The orc capital became a more militant and martial city, with an increasingly aggressive attitude toward the world.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-6">[6]</a></sup> Orgrimmar's fortresses now rank among the most imposing on Azeroth. Spiked metal towers line the city's streets and the red-and-black banners of the Horde wave from every post. Most of the various races have separated into their own districts, from the tauren in the Valley of Wisdom to the trolls in the Valley of Spirits. Grommash Hold towers over all else, allowing Garrosh Hellscream to keep a close watch on his people.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-7">[7]</a></sup> There is also a district known as the "Goblin Slums" near the Valley of Spirits. There is also a rear gate leading to Azshara. The Valley of Honor has also become the second trade district, with its own bank, auction house and inn.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-8">[8]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-9">[9]</a></sup>
+
+Areas affected:<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-10">[10]</a></sup>
+
+-   [Valley of Strength](https://wowpedia.fandom.com/wiki/Valley_of_Strength "Valley of Strength") – the inn is much bigger and now has a well-stocked bar; [Gamon](https://wowpedia.fandom.com/wiki/Gamon "Gamon") is still here; Auction House redesigned and run by Goblins; [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") is in place of the bank, and the bank has been moved closer to the entrance, also run by [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin"); on the NW side there is now a proper building containing a forge and anvil; on the north side there is now a tunnel running to the [Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow") and [Valley of Wisdom](https://wowpedia.fandom.com/wiki/Valley_of_Wisdom "Valley of Wisdom")
+-   [The Drag](https://wowpedia.fandom.com/wiki/The_Drag "The Drag") – now open-air, parts of which seem to be under construction; also a small pond near the center with a dock.
+-   [Valley of Honor](https://wowpedia.fandom.com/wiki/Valley_of_Honor "Valley of Honor") – the lake has lost its secluded corner; a second major Auction House is near the lake; where the Engineering trainer used to be is now a waterway, and all trainers are now condensed into the remaining, expanded buildings; Engineering trainer is now in the Drag; near the back end of the valley is the path leading to [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara"); there is now a proper building for [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter") trainers.
+-   [Valley of Wisdom](https://wowpedia.fandom.com/wiki/Valley_of_Wisdom "Valley of Wisdom") – the [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren") district, complete with Tauren architecture, a single Auctioneer, single Banker, and an Inn in place of Grommash Hold.
+-   [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") – moved to the Valley of Strength where the bank used to be.
+-   [Valley of Spirits](https://wowpedia.fandom.com/wiki/Valley_of_Spirits "Valley of Spirits") – the watery [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll") district, complete with Troll architecture, an Auctioneer, a Banker, and an Inn; there is a nearby tunnel that connects this valley with the Valley of Wisdom; connected to the south of this is the new [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin") district, the [Goblin Slums](https://wowpedia.fandom.com/wiki/Goblin_Slums "Goblin Slums"), which also has its own Inn, Bank, and Auction House.
+-   [Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow") - not much has changed; the portal to the [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands") is now located here.
+-   Other – the zeppelin towers to the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")/[Grom'gol Base Camp](https://wowpedia.fandom.com/wiki/Grom%27gol_Base_Camp "Grom'gol Base Camp"), [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")/[Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff"), as well as the flight master, flying mount trainer/vendor have been moved to a high plateau called [Orgrimmar Skyway](https://wowpedia.fandom.com/wiki/Orgrimmar_Skyway "Orgrimmar Skyway"), between the Valley of Strength and Valley of Wisdom.
+
+### Tides of War
+
+With the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") over and the threat of [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") subsided, a summit of the Horde's leaders was held in Orgrimmar. Here, Garrosh informed his allies about his desire to forcibly expel the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") from Kalimdor, and claim the continent for the good of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). Garrosh intended to scour [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") from the continent and stunt the Alliance's military presence. With that done, he then aims to take the night elves' land.
+
+After the successful destruction of Theramore, the battle force returned to Orgrimmar to celebrate their victory. Many cheers rose to Garrosh's victory.
+
+### Mists of Pandaria
+
+Over the course of Mists of Pandaria, Garrosh becomes increasingly crazed and tyrannical, turning the Horde against him and Orgrimmar changes to reflect this.
+
+### Escalation
+
+Orgrimmar is effectively put under martial law, as Garrosh continues to oppress the non-orc members of the city. All non-orc districts of the city lose most of their supplies and are heavily guarded by the [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron"), under suspicion that they might be working with the rebels. The supply lines to Orgrimmar from the [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens") are [cut off](https://wowpedia.fandom.com/wiki/Battlefield:_Barrens "Battlefield: Barrens") and [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") has taken the strategic settlement of [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill") from Garrosh's loyalists, essentially putting the city under threat of siege from the rebellion to the south as well as the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") armada amassing to the east.
+
+### Siege
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/OrgrimmarSiege2.jpg/revision/latest/scale-to-width-down/180?cb=20221102200636)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/OrgrimmarSiege2.jpg/revision/latest?cb=20221102200636)
+
+[Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") and his [forces](https://wowpedia.fandom.com/wiki/True_Horde "True Horde"), outside the walls of Orgrimmar during the [siege](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar").
+
+During the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar"), the city is put under siege by the forces of the [Horde rebels](https://wowpedia.fandom.com/wiki/Darkspear_Rebellion "Darkspear Rebellion") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"). Kor'kron barricades block access to most of the city's districts. Vol'jin's revolutionary forces have entrenched themselves along the main road, launching a frontal assault on the city's gates to break into the [Valley of Strength](https://wowpedia.fandom.com/wiki/Valley_of_Strength "Valley of Strength"). Alliance frigates storm the Bladefist Bay and landing parties attempt to capture the docks around Orgrimmar. Invading forces discover a massive underground compound constructed by Garrosh's forces for his own purposes. Skirmishes at the gates occurred before a full-scale battle erupted between the forces led by Vol'jin and the defenders still loyal to Garrosh. Despite Vol'jin's attempts to ram the gate and attack the walls with siege engines, the walls could not be breached. The arrival of a combined rebel and Alliance armada under the command of [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"), [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn"), [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") disabled Orgrimmar's naval defenses. Eventually, the Kor'kron were pushed back into the gates and the arrival of Night Elf reinforcements under [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"). Night Elf glaive throwers brought the gate down, and the allied forces charged into Orgrimmar. The Valley of Strength was quickly liberated, and the death of [General Nazgrim](https://wowpedia.fandom.com/wiki/General_Nazgrim "General Nazgrim") brought the upper city under Alliance/rebel control. The Underhold eventually fell when adventurers defeated and imprisoned the Warchief Garrosh. Vol'jin was quickly nominated and initiated as the new Warchief by Thrall and the other Horde leaders. Alliance forces left the city, and the rebels began rebuilding the damage that was done during the siege.
+
+### Warlords of Draenor
+
+Following the deposition of Garrosh, rebel forces began rebuilding the damage done to Orgrimmar during the siege and members of the Horde of all races began moving back to the city. The trade routes previously blockaded during the siege have been restored and all areas of Orgrimmar were freed from Kor'kron control. As such Orgrimmar is now fully operational and can be considered to have returned to normalcy.
+
+The newly elected Warchief [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") has also taken up residence in Orgrimmar, ruling the Horde from Grommash Hold, while members of all races have formed a [new](https://wowpedia.fandom.com/wiki/Orgrimmar_Grunt "Orgrimmar Grunt") [city](https://wowpedia.fandom.com/wiki/Thunder_Bluff_Protector "Thunder Bluff Protector") [guard](https://wowpedia.fandom.com/wiki/Darkspear_Headhunter "Darkspear Headhunter").
+
+Though the arsenal hidden within the Underhold was destroyed, the exact status of the Underhold and whether or not is it still being used under the Horde's new management is unknown.
+
+### Legion
+
+[![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
+
+Before and after the disastrous [first battle](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore") on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), many of Orgrimmar's citizens were seen in the streets worrying. In response, Vol'jin opened the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold") to provide the shelter for the citizens.<sup id="cite_ref-SoE_11-0"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-SoE-11">[11]</a></sup> After being mortally wounded on the Broken Shore the dying Vol'jin was returned to Orgrimmar. After receiving a vision by the loa he declared that [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") would succeed him as Warchief of the Horde. Following Vol'jin's funeral, a group of [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") were granted permission to establish a camp within the [Orgrimmar Skyway](https://wowpedia.fandom.com/wiki/Orgrimmar_Skyway "Orgrimmar Skyway").
+
+[Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") now leads Orgrimmar as leader of the orcs.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-12">[12]</a></sup><sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-13">[13]</a></sup>
+
+Following the [Argus Campaign](https://wowpedia.fandom.com/wiki/Argus_Campaign "Argus Campaign"), a new [embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy") was opened replacing the [Goblin Slums](https://wowpedia.fandom.com/wiki/Goblin_Slums "Goblin Slums").<sup id="cite_ref-bfademo_14-0"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-bfademo-14">[14]</a></sup> The city also hosted a parade led by Warchief Sylvanas.<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-15">[15]</a></sup>
+
+### Battle for Azeroth
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/The_Horde_by_Veli_Nystrom.jpg/revision/latest/scale-to-width-down/180?cb=20180906003500)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/The_Horde_by_Veli_Nystrom.jpg/revision/latest?cb=20180906003500)
+
+The Horde armies leaving Orgrimmar to conquer [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil") during the [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns").
+
+While the civil war against Garrosh Hellscream had proved that Orgrimmar could be cracked, High Overlord Saurfang spent a considerable time in beefing up Orgrimmar's defenses. Despite this, however, [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7") spies, in response to the end result [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering"), were able to sneak into the city. While the sheer numbers and sightings of the Alliance spies forced the guards of Orgrimmar into a state of paranoia, [Warchief Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") used their presence to her advantage by tricking the Alliance into believing that the Horde intended to conquer [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus"). Believing the information to be genuine, [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") sent the Sentinels to prevent this from occurring and with the bulk of the night elf military away the Horde focused on their true target - the [conquest](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns") of [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil") itself.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-16">[16]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/A_Good_War_-_Orgrimmar.jpg/revision/latest/scale-to-width-down/180?cb=20181104001832)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/A_Good_War_-_Orgrimmar.jpg/revision/latest?cb=20181104001832)
+
+Orgrimmar as depicted in _[A Good War](https://wowpedia.fandom.com/wiki/A_Good_War "A Good War")_.
+
+After the destruction of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), Warchief Sylvanas Windrunner would come to reside within [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") and Forsaken refugees would set up home within the city with the [Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Gates_of_Orgrimmar "Gates of Orgrimmar") becoming home to a sizable group of them.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-17">[17]</a></sup>
+
+During the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the Horde was constructing [Azerite](https://wowpedia.fandom.com/wiki/Azerite "Azerite") doomsday weapons in the city.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-18">[18]</a></sup> Several Horde's [Island Expeditions](https://wowpedia.fandom.com/wiki/Island_Expedition "Island Expedition") made transits from Orgrimmar.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-19">[19]</a></sup> One portal was maintained between Orgrimmar and the [Blood Coast](https://wowpedia.fandom.com/wiki/Blood_Coast "Blood Coast") in [Nazmir](https://wowpedia.fandom.com/wiki/Nazmir "Nazmir") for the [Honorbound](https://wowpedia.fandom.com/wiki/Honorbound "Honorbound") during the [Assault on Nazmir](https://wowpedia.fandom.com/wiki/Faction_Assault_on_Nazmir "Faction Assault on Nazmir").
+
+Later, Thrall, Varok, [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), [Mathias Shaw](https://wowpedia.fandom.com/wiki/Mathias_Shaw "Mathias Shaw"), and [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") infiltrated the city and entered the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold") to free [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof").<sup id="cite_ref-SoE_11-1"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-SoE-11">[11]</a></sup>
+
+Over the course of the war, the Horde split between [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") loyalists and [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")'s revolutionaries. Sylvanas and [her loyalists](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") were quick to seize Orgrimmar as their base of operations to the point of arresting [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg") for siding with Saurfang and burning anti-propaganda that dissidents within the city were spreading.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-20">[20]</a></sup><sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-21">[21]</a></sup> To further strengthen Sylvanas's strength, [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller") called for the citizens of Orgrimmar to be rallied to their army.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-22">[22]</a></sup> While Sylvanas was seizing Orgrimmar, Saurfang's revolutionaries had allied with the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and sought to strike at Orgrimmar from [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-23">[23]</a></sup>
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Reckoning_Gates_of_Orgrimmar.png/revision/latest/scale-to-width-down/180?cb=20200405123806)](https://static.wikia.nocookie.net/wowpedia/images/8/8f/Reckoning_Gates_of_Orgrimmar.png/revision/latest?cb=20200405123806)
+
+Horde rebel army and Alliance army in front of the Gates of Orgrimmar.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/71/Saurfang%27s_Funeral.jpg/revision/latest/scale-to-width-down/180?cb=20190926003848)](https://static.wikia.nocookie.net/wowpedia/images/7/71/Saurfang%27s_Funeral.jpg/revision/latest?cb=20190926003848)
+
+The funeral of Varok Saurfang in Orgrimmar.
+
+However, before the battle could commence, Saurfang, recognizing Sylvanas's loyalists as his brothers and sisters in the Horde and unwilling to spill more Horde blood, challenged Sylvanas to [Mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora"), which ended in his death and her abandonment of the Horde.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-24">[24]</a></sup> In the aftermath, the Horde reunited once more with her former loyalists defecting to his revolution. Saurfang's funeral was subsequently held in front of [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold"), where many heroes of the Horde and even a few of the Alliance attended.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-25">[25]</a></sup> Sometime following Saurfang's funeral, those who [refused](https://wowpedia.fandom.com/wiki/Banshee_Loyalist "Banshee Loyalist") to renounce Sylvanas were placed in chains, while others would be looked down upon causing people like [Monte Gazlowe](https://wowpedia.fandom.com/wiki/Monte_Gazlowe "Monte Gazlowe"), [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra"), and [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") to defend them by stating that they were now loyal to the Horde, and if they asked for forgiveness, it should be given, as the Horde needed to be united now more than ever. The streets of Orgrimmar were also patrolled by [Geya'rah](https://wowpedia.fandom.com/wiki/Geya%27rah "Geya'rah") and [Liadrin](https://wowpedia.fandom.com/wiki/Liadrin "Liadrin") and their troops to maintain order among the citizens.
+
+Shortly after the end of the war, the [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai") [vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera") arrived to Orgrimmar where, after they aided the Horde in solving some of their problems, formally joined the Horde.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-26">[26]</a></sup>
+
+In the aftermath of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")'s death and the end of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the leaders of the Horde gathered at the [Orgrimmar Embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy") and forewent selecting a new warchief in favor of a council-style leadership. Thus the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council"), a conglomerate of leaders who would represent their people's interests, was created to lead the Horde.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-27">[27]</a></sup>
+
+### Shadows Rising
+
+The Horde Council held a meeting within Orgrimmar that was derailed by a failed assassination attempt on [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji"), the [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll") queen and a key ally, which forced the council to act. They empowered the young [troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan"), still grieving the loss of [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), with a critical mission to aid Talanji and help uncover the rising threat against her.
+
+After the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") sent word that they were aware of the [unrest](https://wowpedia.fandom.com/wiki/Widow%27s_Bite "Widow's Bite") in [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), their belief that Talanji was working with Sylvanas, and that they had requested to speak with the council, another meeting was held in the city. This meeting ended with a unanimous vote for [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw") meeting with [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), in the hopes that this meeting would lead to the capture of Sylvanas.
+
+[First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra") later teleported the armies of the Horde from Orgrimmar to Zandalar in order to unite with the Zandalari and fight against the Widow's Bite and the [Banshee loyalists](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists").<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-28">[28]</a></sup>
+
+### Shadowlands
+
+[![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
+
+After [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof")'s abduction by the [Mawsworn](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn"), [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan") took up residence within [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold"), where he took up leadership of Orgrimmar.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-29">[29]</a></sup>
+
+During [Death Rising](https://wowpedia.fandom.com/wiki/Death_Rising "Death Rising"), the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade") and the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade") sent their troops to patrol the city and protect its inhabitants in case of attack by the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"). At some point, the council convened atop of [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold") where they informed Horde [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the return of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") and the abduction of Thrall and Baine.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-30">[30]</a></sup> These champions were subsequently sent to unite with the Ebon Blade and the Argent Crusade in order to combat the returning enemy.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-31">[31]</a></sup> Following the death of [Herald Dalora](https://wowpedia.fandom.com/wiki/Herald_Dalora "Herald Dalora"), they returned to Orgrimmar to inform the council about the events that occurred in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") and the [dark powers](https://wowpedia.fandom.com/wiki/Mawsworn "Mawsworn") that Sylvanas had allied with.<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-32">[32]</a></sup>
+
+In order for allies from Azeroth to come in the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands"), [acolytes](https://wowpedia.fandom.com/wiki/Ebon_Blade_Acolyte "Ebon Blade Acolyte") of the Ebon Blade were ordered to establish portals to access Oribos from the [Pathfinder's Den](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den") in Orgrimmar.<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-33">[33]</a></sup>
+
+## Geography
+
+Orgrimmar is periodically wracked by the fierce "razor-winds", powerful enough to tear off the roofs of improperly constructed buildings.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-34">[34]</a></sup>
+
+### Valleys
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Orgrimmar_Cataclysm.jpg/revision/latest/scale-to-width-down/180?cb=20100616114213)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Orgrimmar_Cataclysm.jpg/revision/latest?cb=20100616114213)
+
+Entrance to The Drag.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/4/48/Orgrimmar_070910_000058_-_Kirkburn_12319.jpg/revision/latest/scale-to-width-down/180?cb=20100710172653)](https://static.wikia.nocookie.net/wowpedia/images/4/48/Orgrimmar_070910_000058_-_Kirkburn_12319.jpg/revision/latest?cb=20100710172653)
+
+The Valley of Strength.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Orgrimmar_070910_000534_-_Kirkburn_12319.jpg/revision/latest/scale-to-width-down/180?cb=20100710172655)](https://static.wikia.nocookie.net/wowpedia/images/c/c8/Orgrimmar_070910_000534_-_Kirkburn_12319.jpg/revision/latest?cb=20100710172655)
+
+Auction House.
+
+The city is divided into natural valleys and shaped around the curving terrain of northern Durotar. The central valley is usually considered the economic heart of the region. This area is teeming with all sorts of activity, due to the proximity of both the auction house, bank, city inn and flight master.
+
+-   **[Valley of Strength](https://wowpedia.fandom.com/wiki/Valley_of_Strength "Valley of Strength")** (area immediately beyond the main gate)
+-   **[The Drag](https://wowpedia.fandom.com/wiki/The_Drag "The Drag")** (northeast from the Valley of Strength)
+-   **[Valley of Honor](https://wowpedia.fandom.com/wiki/Valley_of_Honor "Valley of Honor")** (northeast from the Drag)
+    -   **[Ring of Valor](https://wowpedia.fandom.com/wiki/Ring_of_Valor "Ring of Valor")** (Unusable PvP ring, under construction)
+    -   **[Hall of the Brave](https://wowpedia.fandom.com/wiki/Hall_of_the_Brave "Hall of the Brave")** (Warrior guild)
+-   **[Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow")** (Rogue and Warlock guilds, west from the Drag)
+    -   **[Ragefire Chasm](https://wowpedia.fandom.com/wiki/Ragefire_Chasm "Ragefire Chasm")** (a low-level [instance](https://wowpedia.fandom.com/wiki/Instance "Instance"))
+-   **[Valley of Wisdom](https://wowpedia.fandom.com/wiki/Valley_of_Wisdom "Valley of Wisdom")** (Tauren populated, northwest from the Drag)
+    -   **[Miwana's Longhouse](https://wowpedia.fandom.com/wiki/Miwana%27s_Longhouse "Miwana's Longhouse")** (an inn within the Valley of Wisdom)
+    -   **[Western Earthshrine](https://wowpedia.fandom.com/wiki/Western_Earthshrine "Western Earthshrine")** (portal hub)
+-   **[Valley of Spirits](https://wowpedia.fandom.com/wiki/Valley_of_Spirits "Valley of Spirits")** (Troll populated, west from the Valley of Strength)
+-   **[Orgrimmar Embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy")** (A new embassy, near the Valley of Spirits)
+
+In [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)") there is also a massive underground compound named the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold"), which is located deep within Ragefire Chasm, used by the [Kor'kron Guard](https://wowpedia.fandom.com/wiki/Kor%27kron_Guard "Kor'kron Guard") as their headquarters. Garrosh Hellscream has his own [inner sanctum](https://wowpedia.fandom.com/wiki/Inner_Sanctum_(Siege_of_Orgrimmar) "Inner Sanctum (Siege of Orgrimmar)") there.
+
+### Points of interest
+
+_Main article: [Orgrimmar points of interest](https://wowpedia.fandom.com/wiki/Orgrimmar_points_of_interest "Orgrimmar points of interest")_
+
+-   There are several [Banks](https://wowpedia.fandom.com/wiki/Bank "Bank") in Orgrimmar, nearly one in every valley.
+-   There are several [Auction Houses](https://wowpedia.fandom.com/wiki/Auction_House "Auction House") in Orgrimmar, nearly one in every valley.
+-   The [Wind Rider](https://wowpedia.fandom.com/wiki/Wind_Rider "Wind Rider") Master stands near a hut located on the Skyway just north of the Valley of Strength.
+-   The [Pathfinder's Den](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den") within the [Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Gates_of_Orgrimmar "Gates of Orgrimmar") and the [Western Earthshrine](https://wowpedia.fandom.com/wiki/Western_Earthshrine "Western Earthshrine") contain [portals](https://wowpedia.fandom.com/wiki/Portal "Portal") to various locations on Azeroth and beyond.
+-   The [Hall of Legends](https://wowpedia.fandom.com/wiki/Hall_of_Legends "Hall of Legends") is situated on the precipice overlooking the Valley of Strength just east from the Goblin Slums.
+-   There are 35 [mailboxes](https://wowpedia.fandom.com/wiki/Mailbox "Mailbox") throughout Orgrimmar.
+
+## Notable characters
+
+_Main article: [Orgrimmar NPCs](https://wowpedia.fandom.com/wiki/Orgrimmar_NPCs "Orgrimmar NPCs")_
+
+Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") used to rule from [Grommash hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold"), within the Valley of Wisdom, prior to the appointment of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") as Warchief and the subsequent movement of the hold to the Valley of Strength. [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin"), then chieftain of the Darkspear tribe, also spent much time within Grommash hold during Thrall's reign, before leading his people from the city after Garrosh took control.
+
+From his throne in the Valley of Strength, Warchief Garrosh used to rule with the continuing support of the blood knight [Master Pyreanor](https://wowpedia.fandom.com/wiki/Master_Pyreanor "Master Pyreanor"), the warrior [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg"), and formerly the wise shaman [Sauranok the Mystic](https://wowpedia.fandom.com/wiki/Sauranok_the_Mystic "Sauranok the Mystic"). In this Garrosh and his advisers planned on how to deal with the Alliance, Scourge, and Burning Legion forces. Though formerly Warchief Thrall allowed Human traders and sailors to visit the city,<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  Garrosh had declared an all-out war with the humans and other Alliance races. Garrosh, with the help of the goblins of the [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") and the prominent [Boss Mida](https://wowpedia.fandom.com/wiki/Boss_Mida "Boss Mida"), reshaped Orgrimmar into a city of war, bringing in various goblin machinery to be used in both attack and defense of the city.
+
+After the Siege of Orgrimmar and the displacement of Garrosh, Vol'jin, the newly appointed Warchief of the Horde, returned to live within Grommash Hold.
+
+Vol'jin succumbed to a mortal wound received upon the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") within Grommash hold, and his body was carried out by the other Horde leaders. [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") was appointed Warchief within the hold. While the newly christened Warchief ruled from the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), High Overlord [Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") presided as representative of the orcs within Grommash Hold. Following the aftermath of the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"), Sylvanas officially ruled the Horde from Grommash Hold up until the Horde split between her loyalists and Varok Saurfang's revolutionaries. In the ensuing conflict, Saurfang challenged Sylvanas to [Mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora") which ended with Saurfang's death and Sylvanas's abandonment of the Horde.
+
+Sometime after, [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan") took up residence and leadership of Orgrimmar from within Grommash hold.
+
+## Travel connections
+
+### Portal
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"), [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands") [![Warlords of Draenor](https://static.wikia.nocookie.net/wowpedia/images/7/71/WoD-Logo-Small.png/revision/latest?cb=20131108221912)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "Warlords of Draenor")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [The Immortal Coil](https://wowpedia.fandom.com/wiki/The_Immortal_Coil "The Immortal Coil") or [Silver Tide Hollow](https://wowpedia.fandom.com/wiki/Silver_Tide_Hollow "Silver Tide Hollow"), [Vashj'ir](https://wowpedia.fandom.com/wiki/Vashj%27ir "Vashj'ir") [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Temple of Earth](https://wowpedia.fandom.com/wiki/Temple_of_Earth "Temple of Earth"), [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm") [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Ramkahen](https://wowpedia.fandom.com/wiki/Ramkahen "Ramkahen"), [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum") [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Dragonmaw Port](https://wowpedia.fandom.com/wiki/Dragonmaw_Port "Dragonmaw Port"), [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Hellscream's Grasp](https://wowpedia.fandom.com/wiki/Hellscream%27s_Grasp "Hellscream's Grasp"), [Tol Barad Peninsula](https://wowpedia.fandom.com/wiki/Tol_Barad_Peninsula "Tol Barad Peninsula") [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Honeydew Village](https://wowpedia.fandom.com/wiki/Honeydew_Village "Honeydew Village"), [Jade Forest](https://wowpedia.fandom.com/wiki/Jade_Forest "Jade Forest") [![Mists of Pandaria](https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "Mists of Pandaria")
+
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Stair of Destiny](https://wowpedia.fandom.com/wiki/Stair_of_Destiny "Stair of Destiny"), [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula") [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [The Nighthold](https://wowpedia.fandom.com/wiki/The_Nighthold "The Nighthold"), [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem"), [Highmountain](https://wowpedia.fandom.com/wiki/Highmountain "Highmountain") [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion")
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar"), [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth")
+
+## Quests
+
+_Main article: [Orgrimmar quests](https://wowpedia.fandom.com/wiki/Orgrimmar_quests "Orgrimmar quests")_
+
+## In the RPG
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Orgrimmar_HPG.jpg/revision/latest/scale-to-width-down/180?cb=20210613194531)](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Orgrimmar_HPG.jpg/revision/latest?cb=20210613194531)
+
+Orgrimmar in the _[Horde Player's Guide](https://wowpedia.fandom.com/wiki/Horde_Player%27s_Guide "Horde Player's Guide")_.
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+Orgrimmar is located in the far north of [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar"), at the foothills of the mountain range that separates Durotar from [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara"). Several valleys have been dug out from the mountain and provide a way of naturally dissecting the city into various zones, including the [Valley of Spirits](https://wowpedia.fandom.com/wiki/Valley_of_Spirits "Valley of Spirits"), [Valley of Strength](https://wowpedia.fandom.com/wiki/Valley_of_Strength "Valley of Strength"), [Valley of Wisdom](https://wowpedia.fandom.com/wiki/Valley_of_Wisdom "Valley of Wisdom"), and the [Valley of Honor](https://wowpedia.fandom.com/wiki/Valley_of_Honor "Valley of Honor"). Several specialty shops are found in the [Drag](https://wowpedia.fandom.com/wiki/Drag "Drag"), a dark pathway that leads from the Valley of Strength to the Valley of Honor. Those searching for potions or training in the darker arts of the [rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue") or [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") find a tunnel leading down to the [Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow") from the Drag.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-35">[35]</a></sup> Orgrimmar is openly hospitable to all members of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and is an important center of commerce. Visitors may fly into the city by way of [zeppelin](https://wowpedia.fandom.com/wiki/Zeppelin "Zeppelin") or [wyvern](https://wowpedia.fandom.com/wiki/Wyvern "Wyvern"), or simply walk through the fortress's [main gates](https://wowpedia.fandom.com/wiki/Gates_of_Orgrimmar "Gates of Orgrimmar").<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-36">[36]</a></sup>
+
+[Ogrik Wolfclaw](https://wowpedia.fandom.com/wiki/Ogrik_Wolfclaw "Ogrik Wolfclaw") and his [family](https://wowpedia.fandom.com/wiki/Wolfclaw "Wolfclaw") live in Orgrimmar.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-37">[37]</a></sup>
+
+## Notes and trivia
+
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")'s quarters are located in one of Orgrimmar's highest towers.<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-38">[38]</a></sup>
+-   In the mountains above Orgrimmar, there are oaks. From the lumber the orcs made their ships.<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-39">[39]</a></sup>
+-   It's standard regulation that all torches and pyres must be lit at all times.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-40">[40]</a></sup>
+-   At some point, the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), which included the [Sentinels](https://wowpedia.fandom.com/wiki/Sentinels "Sentinels"), visited Orgrimmar as a part of a diplomatic entourage.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-41">[41]</a></sup>
+-   The Quartermasters of the [Darkspear Trolls](https://wowpedia.fandom.com/wiki/Darkspear_Trolls "Darkspear Trolls"), [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar_(faction) "Orgrimmar (faction)"), and [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") reside near the Flight Master.
+-   Following the Battle for Lordaeron the Quartermaster and mount vendor for the [Undercity](https://wowpedia.fandom.com/wiki/Undercity_(faction) "Undercity (faction)") can be found atop the [Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Gates_of_Orgrimmar "Gates of Orgrimmar").
+-   There seems to be a charity organization called the Widows of Warriors.<sup id="cite_ref-42"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-42">[42]</a></sup>
+-   At 34 mailboxes, Orgrimmar has the highest amount of mailboxes of all the major cities.
+-   After Orgrimmar was rebuilt by Garrosh, [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof") likened the city to [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel "Hellfire Citadel").<sup id="cite_ref-43"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-43">[43]</a></sup>
+-   Orgrimmar is the first Capital City in the game to be featured in a raid.
+-   During the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar"), it was revealed that Garrosh had built a massive underground complex known as the [Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold") in [Ragefire Chasm](https://wowpedia.fandom.com/wiki/Ragefire_Chasm "Ragefire Chasm"), beneath Orgrimmar. Following the siege, it was unknown what happened to it until _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/Battle_for_Azeroth "Battle for Azeroth")._<sup id="cite_ref-SoE_11-2"><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_note-SoE-11">[11]</a></sup>
+-   One of the classic game boards in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ is themed around Orgrimmar.
+-   Orgrimmar features in the [Blizzard World](https://overwatch.fandom.com/Blizzard_World) map in _[Overwatch](https://wowpedia.fandom.com/wiki/Overwatch_franchise "Overwatch franchise")_.
+-   The [Orgrimmar Tunnels](https://wowpedia.fandom.com/wiki/Orgrimmar_Tunnels "Orgrimmar Tunnels") are a series of underground tunnels below [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar"), starting just outside of Orgrimmar.
+
+## Gallery
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/65/Orgrimmar_concept.jpg/revision/latest/scale-to-width-down/120?cb=20210320043957)](https://static.wikia.nocookie.net/wowpedia/images/6/65/Orgrimmar_concept.jpg/revision/latest?cb=20210320043957)
+    
+    Orgrimmar concept art.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Orgrimmar_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160130221557)](https://static.wikia.nocookie.net/wowpedia/images/e/ec/Orgrimmar_TCG.jpg/revision/latest?cb=20160130221557)
+    
+    Orgrimmar in the [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG").
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/4/43/Orgrimmar_old.jpg/revision/latest/scale-to-width-down/120?cb=20111022090056)](https://static.wikia.nocookie.net/wowpedia/images/4/43/Orgrimmar_old.jpg/revision/latest?cb=20111022090056)
+    
+    Orgrimmar before the Cataclysm.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Orgrimmar2.jpg/revision/latest/scale-to-width-down/120?cb=20091008224257)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Orgrimmar2.jpg/revision/latest?cb=20091008224257)
+    
+    The old entrance.
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Orgrimmar_HotS.jpg/revision/latest/scale-to-width-down/120?cb=20190504180259)](https://static.wikia.nocookie.net/wowpedia/images/b/bb/Orgrimmar_HotS.jpg/revision/latest?cb=20190504180259)
+    
+    The main gates of Orgrimmar
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Orgrimmar-Cata.jpg/revision/latest/scale-to-width-down/120?cb=20100704141346)](https://static.wikia.nocookie.net/wowpedia/images/b/b3/Orgrimmar-Cata.jpg/revision/latest?cb=20100704141346)
+    
+    Orgrimmar from the air.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Orgrimmar_070910_021148_-_Kirkburn_12319.jpg/revision/latest/scale-to-width-down/120?cb=20100710172658)](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Orgrimmar_070910_021148_-_Kirkburn_12319.jpg/revision/latest?cb=20100710172658)
+    
+    The Valley of Strength.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Orgrimmar_070910_000527_-_Kirkburn_12319.jpg/revision/latest/scale-to-width-down/120?cb=20100710172654)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Orgrimmar_070910_000527_-_Kirkburn_12319.jpg/revision/latest?cb=20100710172654)
+    
+    Auction House entrance.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Orgrimmar_070910_000540_-_Kirkburn_12319.jpg/revision/latest/scale-to-width-down/120?cb=20100710172657)](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Orgrimmar_070910_000540_-_Kirkburn_12319.jpg/revision/latest?cb=20100710172657)
+    
+    Auction House auctioneers.
+    
+
+Maps
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Orgrimmarmapmanual.jpg/revision/latest/scale-to-width-down/120?cb=20150722155221)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Orgrimmarmapmanual.jpg/revision/latest?cb=20150722155221)
+    
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0e/WorldMap-Orgrimmar-old.jpg/revision/latest/scale-to-width-down/120?cb=20190522194801)](https://static.wikia.nocookie.net/wowpedia/images/0/0e/WorldMap-Orgrimmar-old.jpg/revision/latest?cb=20190522194801)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d7/WorldMap-Orgrimmar-old1.jpg/revision/latest/scale-to-width-down/120?cb=20190522194821)](https://static.wikia.nocookie.net/wowpedia/images/d/d7/WorldMap-Orgrimmar-old1.jpg/revision/latest?cb=20190522194821)
+    
+
+Warcraft III
+
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c1/To_Tame_a_Land_-_Gates_of_Orgrimmar.jpg/revision/latest/scale-to-width-down/120?cb=20180925172048)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/To_Tame_a_Land_-_Gates_of_Orgrimmar.jpg/revision/latest?cb=20180925172048)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d6/To_Tame_a_Land_-_Valley_of_Wisdom_and_Grommash_Hold.jpg/revision/latest/scale-to-width-down/120?cb=20180925172123)](https://static.wikia.nocookie.net/wowpedia/images/d/d6/To_Tame_a_Land_-_Valley_of_Wisdom_and_Grommash_Hold.jpg/revision/latest?cb=20180925172123)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/0/07/To_Tame_a_Land_-_Valley_of_Honor_and_Hall_of_the_Brave.jpg/revision/latest/scale-to-width-down/120?cb=20180925172117)](https://static.wikia.nocookie.net/wowpedia/images/0/07/To_Tame_a_Land_-_Valley_of_Honor_and_Hall_of_the_Brave.jpg/revision/latest?cb=20180925172117)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6a/To_Tame_a_Land_-_Valley_of_Spirits_and_Voodoo_Lounge.jpg/revision/latest/scale-to-width-down/120?cb=20180925172112)](https://static.wikia.nocookie.net/wowpedia/images/6/6a/To_Tame_a_Land_-_Valley_of_Spirits_and_Voodoo_Lounge.jpg/revision/latest?cb=20180925172112)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/5/57/To_Tame_a_Land_-_Orgrimmar_streets.jpg/revision/latest/scale-to-width-down/120?cb=20180925172102)](https://static.wikia.nocookie.net/wowpedia/images/5/57/To_Tame_a_Land_-_Orgrimmar_streets.jpg/revision/latest?cb=20180925172102)
+    
+    Streets.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/To_Tame_a_Land_-_Orgrimmar_forges.jpg/revision/latest/scale-to-width-down/120?cb=20181006150545)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/To_Tame_a_Land_-_Orgrimmar_forges.jpg/revision/latest?cb=20181006150545)
+    
+    Forges.
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/To_Tame_a_Land_-_Orgrimmar_Armory.jpg/revision/latest/scale-to-width-down/120?cb=20180925172057)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/To_Tame_a_Land_-_Orgrimmar_Armory.jpg/revision/latest?cb=20180925172057)
+    
+-   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/To_Tame_a_Land_-_Orgrimmar_Tunnels.jpg/revision/latest/scale-to-width-down/118?cb=20180925172104)](https://static.wikia.nocookie.net/wowpedia/images/b/b4/To_Tame_a_Land_-_Orgrimmar_Tunnels.jpg/revision/latest?cb=20180925172104)
+    
+
+Fanart
+
+## Videos
+
+-   [Orgrimmar \[HD\] - World of Warcraft Cataclysm](https://wowpedia.fandom.com/wiki/Orgrimmar#)
+
+## Patch changes
+
+_-   They have been replaced by Troll and Tauren guards.
+-   The troll area in Orgrimmar is now fully functional again, without any Kor'kron Guards in sight._-   _The [Valley of Wisdom](https://wowpedia.fandom.com/wiki/Valley_of_Wisdom "Valley of Wisdom") once again has [Orgrimmar Braves](https://wowpedia.fandom.com/wiki/Orgrimmar_Brave "Orgrimmar Brave") instead of Kor'kron Guards._  
+    
+
+## See also
+
+-   [TCG card](https://wowpedia.fandom.com/wiki/Orgrimmar_(Blood_of_Gladiators) "Orgrimmar (Blood of Gladiators)")
+-   [WKM](https://wowpedia.fandom.com/wiki/WKM "WKM")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-1) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, chapter 15
+2.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-2) [New to World of Warcraft? Welcome Home!](https://worldofwarcraft.com/en-us/news/20142853)
+3.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-3) _[Cycle of Hatred](https://wowpedia.fandom.com/wiki/Cycle_of_Hatred "Cycle of Hatred")_
+4.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-4) _[World of Warcraft: Game Manual](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Game_Manual "World of Warcraft: Game Manual")_
+5.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-5) [Dark Portal Opens](https://wowpedia.fandom.com/wiki/Dark_Portal_Opens "Dark Portal Opens")
+6.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-6) _[Ultimate Visual Guide](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_, pg. 124
+7.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-7) [World of Warcraft - Races - Orc](https://worldofwarcraft.com/en-us/game/races/orc). Retrieved on 2020-07-18.
+8.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-8) [Brand New Cataclysm Info! (Some Major Stuff) - The Wowhead Blog](http://www.wowhead.com/news=159674)
+9.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-9) [Cataclysm Press Event - Raids, Guild System, Path of the Titans & More - World of Raids Forums](http://www.worldofraids.com/topic/17008-cataclysm-press-event-raids-guild-system-path-of-the-titans-more/)
+10.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-10) [Frejya’s (MVP) Cataclysm Compilation](http://forums.worldofwarcraft.com/thread.html?topicId=19377467311&sid=1)
+11.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-SoE_11-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-SoE_11-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-SoE_11-2">c</a></sup>  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Stay of Execution](https://wowpedia.fandom.com/wiki/Stay_of_Execution)
+12.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-12)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[1-30\] [Meeting the Orcs](https://wowpedia.fandom.com/wiki/Meeting_the_Orcs)
+13.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-13) [Ion Hazzikostas Q&A, Gamescom 2017](https://twitter.com/Warcraft/status/901078556855414784)
+14.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-bfademo_14-0) [Blizzcon 2017: Battle for Azeroth Demo](http://www.scrollsoflore.com/forums/showpost.php?p=1609185&postcount=446/)
+15.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-15) _[Before the Storm](https://wowpedia.fandom.com/wiki/Before_the_Storm "Before the Storm")_
+16.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-16) _[A Good War](https://wowpedia.fandom.com/wiki/A_Good_War "A Good War")_
+17.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-17)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-50\] [The Battle for Lordaeron](https://wowpedia.fandom.com/wiki/The_Battle_for_Lordaeron_(Horde))
+18.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-18)  ![Long Campaign](https://static.wikia.nocookie.net/wowpedia/images/9/93/WarCampaignMission_Long_Campaign.png/revision/latest/scale-to-width-down/16?cb=20200701003709 "Long Campaign")[Azerite Weaponry](https://wowpedia.fandom.com/wiki/Azerite_Weaponry)
+19.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-19)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[10-50\] [Expedition Demolisher](https://wowpedia.fandom.com/wiki/Expedition_Demolisher_(quest)) - **[Captain Rez'okun](https://wowpedia.fandom.com/wiki/Captain_Rez%27okun "Captain Rez'okun") says:** Bah, our demolisher broke apart in transit from Orgrimmar. De rest of its parts must have washed ashore.
+20.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-20)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [Leaders of the Horde](https://wowpedia.fandom.com/wiki/Leaders_of_the_Horde)
+21.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-21)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [Propaganda Takedown](https://wowpedia.fandom.com/wiki/Propaganda_Takedown)
+22.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-22)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [Militia](https://wowpedia.fandom.com/wiki/Militia_(quest))
+23.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-23)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[60\] [The Eve of Battle](https://wowpedia.fandom.com/wiki/The_Eve_of_Battle_(Horde))
+24.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-24) _[Reckoning](https://wowpedia.fandom.com/wiki/Reckoning "Reckoning")_
+25.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-25)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[60\] [Old Soldier](https://wowpedia.fandom.com/wiki/Old_Soldier_(quest))
+26.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-26)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50-70\] [New Allies Among Us](https://wowpedia.fandom.com/wiki/New_Allies_Among_Us)
+27.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-27)  ![H](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315) \[50\] [Warchief of the Horde](https://wowpedia.fandom.com/wiki/Warchief_of_the_Horde_(quest))
+28.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-28) _[Shadows Rising](https://wowpedia.fandom.com/wiki/Shadows_Rising "Shadows Rising")_
+29.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-29)   ![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714 "Alliance") ![](https://static.wikia.nocookie.net/wowpedia/images/a/a4/Inv_misc_tournaments_banner_troll.png/revision/latest/scale-to-width-down/16?cb=20090311231415)[\[Opposing Orgrimmar\]](https://wowpedia.fandom.com/wiki/Opposing_Orgrimmar)
+30.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-30)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Cause for Distraction](https://wowpedia.fandom.com/wiki/Cause_for_Distraction)
+31.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-31)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [Return of the Crusade](https://wowpedia.fandom.com/wiki/Return_of_the_Crusade)
+32.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-32)  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[50\] [With Hope in Hand](https://wowpedia.fandom.com/wiki/With_Hope_in_Hand)
+33.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-33)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [A Doorway Through the Veil](https://wowpedia.fandom.com/wiki/A_Doorway_Through_the_Veil)
+34.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-34) _[The Founding of Durotar](https://wowpedia.fandom.com/wiki/The_Founding_of_Durotar "The Founding of Durotar"): [To Tame a Land](https://wowpedia.fandom.com/wiki/To_Tame_a_Land "To Tame a Land")_, [Warcraft III: The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne"). Blizzard Entertainment.
+35.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-35) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 42
+36.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-36) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 41
+37.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-37) _[Lands of Mystery](https://wowpedia.fandom.com/wiki/Lands_of_Mystery "Lands of Mystery")_, pg. 80
+38.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-38) _[A Good War](https://wowpedia.fandom.com/wiki/A_Good_War "A Good War")_, pg. 2
+39.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-39) _[Cycle of Hatred](https://wowpedia.fandom.com/wiki/Cycle_of_Hatred "Cycle of Hatred")_, chapter 1
+40.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-40) _[A Good War](https://wowpedia.fandom.com/wiki/A_Good_War "A Good War")_, pg. 6
+41.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-41) _[Thrall: Twilight of the Aspects](https://wowpedia.fandom.com/wiki/Thrall:_Twilight_of_the_Aspects "Thrall: Twilight of the Aspects")_, chapter 5
+42.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-42)  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Inv_misc_bag_33.png/revision/latest/scale-to-width-down/16?cb=20100703182800)[\[Emergency Supplies\]](https://wowpedia.fandom.com/wiki/Emergency_Supplies_(Jade_Forest))
+43.  [^](https://wowpedia.fandom.com/wiki/Orgrimmar#cite_ref-43) _[The Shattering: Prelude to Cataclysm](https://wowpedia.fandom.com/wiki/The_Shattering:_Prelude_to_Cataclysm "The Shattering: Prelude to Cataclysm")_, chapter 19
+
+## External links
+
+| Orgrimmar | During War Campaign |
+| --- | --- |
+| 
+-   [Wowhead](https://www.wowhead.com/zone=1637)
+-   [WoWDB](https://www.wowdb.com/zones/1637)
+
+ | 
+
+-   [Wowhead](https://www.wowhead.com/zone=11402)
+-   [WoWDB](https://www.wowdb.com/zones/11402)
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Orgrimmar "Template:Orgrimmar")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Orgrimmar?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of **Orgrimmar**
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Map of the Cleft of Shadow](https://static.wikia.nocookie.net/wowpedia/images/3/3d/WorldMap-Orgrimmar1.jpg/revision/latest/scale-to-width-down/120?cb=20190723123049)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/WorldMap-Orgrimmar1.jpg/revision/latest?cb=20190723123049 "Map of the Cleft of Shadow")
+
+ | 
+
+-   [Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow")
+    -   [Ragefire Chasm](https://wowpedia.fandom.com/wiki/Ragefire_Chasm "Ragefire Chasm")
+-   [The Drag](https://wowpedia.fandom.com/wiki/Drag "Drag")
+-   [Gates of Orgrimmar](https://wowpedia.fandom.com/wiki/Gates_of_Orgrimmar "Gates of Orgrimmar")
+    -   [Pathfinder's Den](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den")
+-   [Nip and Tusk](https://wowpedia.fandom.com/wiki/Nip_and_Tusk "Nip and Tusk")
+-   [Orgrimmar Embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy")/[Goblin Slums](https://wowpedia.fandom.com/wiki/Goblin_Slums "Goblin Slums")
+    -   [Engineering Works](https://wowpedia.fandom.com/wiki/Engineering_Works_(Orgrimmar) "Engineering Works (Orgrimmar)")
+-   [Valley of Honor](https://wowpedia.fandom.com/wiki/Valley_of_Honor "Valley of Honor")
+    -   [The Barracks](https://wowpedia.fandom.com/wiki/Barracks_(Orgrimmar) "Barracks (Orgrimmar)")/[Hall of the Brave](https://wowpedia.fandom.com/wiki/Hall_of_the_Brave "Hall of the Brave")
+    -   [The Wyvern's Tail](https://wowpedia.fandom.com/wiki/Wyvern%27s_Tail "Wyvern's Tail")
+-   [Valley of Spirits](https://wowpedia.fandom.com/wiki/Valley_of_Spirits "Valley of Spirits")
+-   [Valley of Strength](https://wowpedia.fandom.com/wiki/Valley_of_Strength "Valley of Strength")
+    -   [The Broken Tusk](https://wowpedia.fandom.com/wiki/Broken_Tusk "Broken Tusk")
+    -   [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold")
+    -   [Hall of Legends](https://wowpedia.fandom.com/wiki/Hall_of_Legends "Hall of Legends")
+-   [Valley of Wisdom](https://wowpedia.fandom.com/wiki/Valley_of_Wisdom "Valley of Wisdom")
+    -   [Grommash Hold](https://wowpedia.fandom.com/wiki/Grommash_Hold "Grommash Hold")
+    -   [Miwana's Longhouse](https://wowpedia.fandom.com/wiki/Miwana%27s_Longhouse "Miwana's Longhouse")
+    -   [The Western Earthshrine](https://wowpedia.fandom.com/wiki/Western_Earthshrine "Western Earthshrine")
+
+
+
+ | 
+
+[![Map of Orgrimmar](https://static.wikia.nocookie.net/wowpedia/images/0/03/WorldMap-Orgrimmar.jpg/revision/latest/scale-to-width-down/120?cb=20180117225339)](https://static.wikia.nocookie.net/wowpedia/images/0/03/WorldMap-Orgrimmar.jpg/revision/latest?cb=20180117225339 "Map of Orgrimmar")
+
+ |
+|  |
+| 
+
+-   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Arcane Enclave](https://wowpedia.fandom.com/wiki/Arcane_Enclave "Arcane Enclave")
+-   [Bank of Orgrimmar](https://wowpedia.fandom.com/wiki/Bank_of_Orgrimmar "Bank of Orgrimmar")
+-   [Darkfire Enclave](https://wowpedia.fandom.com/wiki/Darkfire_Enclave "Darkfire Enclave")
+-   [Guild Services](https://wowpedia.fandom.com/wiki/Guild_Services_(Valley_of_Strength) "Guild Services (Valley of Strength)")
+-   [Hunter's Hall](https://wowpedia.fandom.com/wiki/Hunter%27s_Hall "Hunter's Hall")
+-   [Orgrimmar Counting House](https://wowpedia.fandom.com/wiki/Orgrimmar_Counting_House "Orgrimmar Counting House")
+-   [Orgrimmar Orphanage](https://wowpedia.fandom.com/wiki/Orgrimmar_Orphanage "Orgrimmar Orphanage")
+-   [Orgrimmar's shops and services](https://wowpedia.fandom.com/wiki/Category:Orgrimmar_shops "Category:Orgrimmar shops")
+-   [Orgrimmar Skyway](https://wowpedia.fandom.com/wiki/Orgrimmar_Skyway "Orgrimmar Skyway")
+-   [Ring of Valor](https://wowpedia.fandom.com/wiki/Ring_of_Valor "Ring of Valor")
+    -   [Brawl'gar Arena](https://wowpedia.fandom.com/wiki/Brawl%27gar_Arena "Brawl'gar Arena")
+-   [Shadowswift Brotherhood](https://wowpedia.fandom.com/wiki/Shadowswift_Brotherhood "Shadowswift Brotherhood")
+-   [The Skytower](https://wowpedia.fandom.com/wiki/Skytower "Skytower")
+-   [Talon Gate](https://wowpedia.fandom.com/wiki/Talon_Gate "Talon Gate")
+-   [Trader's Hall](https://wowpedia.fandom.com/wiki/Trader%27s_Hall_(Valley_of_Honor) "Trader's Hall (Valley of Honor)")
+-   [Valley of Strength's Auction House](https://wowpedia.fandom.com/wiki/Auction_House_(Valley_of_Strength) "Auction House (Valley of Strength)")
+-   [Valley of Wisdom's Auction House](https://wowpedia.fandom.com/wiki/Auction_House_(Valley_of_Wisdom) "Auction House (Valley of Wisdom)")
+
+
+
+ |
+|  |
+| 
+
+See also: [Orgrimmar category](https://wowpedia.fandom.com/wiki/Category:Orgrimmar "Category:Orgrimmar") & [The Underhold](https://wowpedia.fandom.com/wiki/Underhold "Underhold")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Durotar "Template:Durotar")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Durotar?action=edit)
+
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+[![Map of the Valley of Trials](https://static.wikia.nocookie.net/wowpedia/images/0/0a/WorldMap-ValleyofTrialsStart.jpg/revision/latest/scale-to-width-down/120?cb=20190810051224)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/WorldMap-ValleyofTrialsStart.jpg/revision/latest?cb=20190810051224 "Map of the Valley of Trials")  
+[![Map of the Echo Isles](https://static.wikia.nocookie.net/wowpedia/images/a/a3/WorldMap-EchoIslesStart.jpg/revision/latest/scale-to-width-down/120?cb=20190319142353)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/WorldMap-EchoIslesStart.jpg/revision/latest?cb=20190319142353 "Map of the Echo Isles")
+
+ | 
+
+-   [Bladefist Bay](https://wowpedia.fandom.com/wiki/Bladefist_Bay "Bladefist Bay")
+    -   [Skull Rock](https://wowpedia.fandom.com/wiki/Skull_Rock "Skull Rock")
+-   [Darkspear Strand](https://wowpedia.fandom.com/wiki/Darkspear_Strand "Darkspear Strand")
+    -   [Sen'jin Village](https://wowpedia.fandom.com/wiki/Sen%27jin_Village "Sen'jin Village")
+    -   [Sen'jin Village Outskirts](https://wowpedia.fandom.com/wiki/Sen%27jin_Village_Outskirts "Sen'jin Village Outskirts")
+-   [Deadeye Shore](https://wowpedia.fandom.com/wiki/Deadeye_Shore "Deadeye Shore")
+-   [The Dranosh'ar Blockade](https://wowpedia.fandom.com/wiki/Dranosh%27ar_Blockade "Dranosh'ar Blockade")
+-   [The Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea")
+-   [Hidden Path](https://wowpedia.fandom.com/wiki/Hidden_Path "Hidden Path")
+    -   [Shrine of the Dormant Flame](https://wowpedia.fandom.com/wiki/Shrine_of_the_Dormant_Flame "Shrine of the Dormant Flame")
+    -   [Spirit Rock](https://wowpedia.fandom.com/wiki/Spirit_Rock "Spirit Rock")
+-   [Jaggedswine Farm](https://wowpedia.fandom.com/wiki/Jaggedswine_Farm "Jaggedswine Farm")
+-   [Northwatch Foothold](https://wowpedia.fandom.com/wiki/Northwatch_Foothold "Northwatch Foothold")/[Kolkar Crag](https://wowpedia.fandom.com/wiki/Kolkar_Crag "Kolkar Crag")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") **Orgrimmar**
+-   [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill")
+    -   [Razor Hill Barracks](https://wowpedia.fandom.com/wiki/Razor_Hill_Barracks "Razor Hill Barracks")
+-   [Razor Hill Outskirts](https://wowpedia.fandom.com/wiki/Razor_Hill_Outskirts "Razor Hill Outskirts")
+    -   [Razor Hill Watchtower](https://wowpedia.fandom.com/wiki/Razor_Hill_Watchtower "Razor Hill Watchtower")
+-   [Razormane Grounds](https://wowpedia.fandom.com/wiki/Razormane_Grounds "Razormane Grounds")
+-   [Razorwind Canyon](https://wowpedia.fandom.com/wiki/Razorwind_Canyon "Razorwind Canyon")
+    -   [Drygulch Ravine](https://wowpedia.fandom.com/wiki/Drygulch_Ravine "Drygulch Ravine")
+    -   [Dustwind Cave](https://wowpedia.fandom.com/wiki/Dustwind_Cave "Dustwind Cave")
+-   [Rocktusk Farm](https://wowpedia.fandom.com/wiki/Rocktusk_Farm "Rocktusk Farm")
+-   [Scuttle Coast](https://wowpedia.fandom.com/wiki/Scuttle_Coast "Scuttle Coast")
+    -   [Tiragarde Keep](https://wowpedia.fandom.com/wiki/Tiragarde_Keep "Tiragarde Keep")
+-   [Southfury River](https://wowpedia.fandom.com/wiki/Southfury_River "Southfury River")
+-   [Southfury Watershed](https://wowpedia.fandom.com/wiki/Southfury_Watershed "Southfury Watershed")
+-   [Thunder Ridge](https://wowpedia.fandom.com/wiki/Thunder_Ridge "Thunder Ridge")
+-   [Tor'kren Farm](https://wowpedia.fandom.com/wiki/Tor%27kren_Farm "Tor'kren Farm")
+
+
+
+ | 
+
+[![Map of Durotar - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/a/a8/WorldMap-Durotar.jpg/revision/latest/scale-to-width-down/120?cb=20190522195319)](https://static.wikia.nocookie.net/wowpedia/images/a/a8/WorldMap-Durotar.jpg/revision/latest?cb=20190522195319 "Map of Durotar - Cataclysm")  
+[![Map of Durotar - Classic](https://static.wikia.nocookie.net/wowpedia/images/d/d8/WorldMap-Durotar-old.jpg/revision/latest/scale-to-width-down/120?cb=20071104181031)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/WorldMap-Durotar-old.jpg/revision/latest?cb=20071104181031 "Map of Durotar - Classic")
+
+ |
+|  |
+| 
+
+-   [Valley of Trials](https://wowpedia.fandom.com/wiki/Valley_of_Trials "Valley of Trials") — [Burning Blade Coven](https://wowpedia.fandom.com/wiki/Burning_Blade_Coven "Burning Blade Coven")
+-   [The Den](https://wowpedia.fandom.com/wiki/The_Den "The Den")
+
+
+
+ |
+|  |
+| 
+
+-   [Echo Isles](https://wowpedia.fandom.com/wiki/Echo_Isles "Echo Isles") — [Bloodtalon Shore](https://wowpedia.fandom.com/wiki/Bloodtalon_Shore "Bloodtalon Shore")
+-   [Darkspear Isle](https://wowpedia.fandom.com/wiki/Darkspear_Isle "Darkspear Isle")
+    -   [Darkspear Hold](https://wowpedia.fandom.com/wiki/Darkspear_Hold "Darkspear Hold")
+    -   [Darkspear Shore](https://wowpedia.fandom.com/wiki/Darkspear_Shore "Darkspear Shore")
+    -   [Darkspear Training Grounds](https://wowpedia.fandom.com/wiki/Darkspear_Training_Grounds "Darkspear Training Grounds")
+-   [Spitescale Cove](https://wowpedia.fandom.com/wiki/Spitescale_Cove "Spitescale Cove")
+    -   [Spitescale Cavern](https://wowpedia.fandom.com/wiki/Spitescale_Cavern "Spitescale Cavern")
+-   [Zalazane's Fall](https://wowpedia.fandom.com/wiki/Zalazane%27s_Fall_(subzone) "Zalazane's Fall (subzone)")
+
+
+
+ |
+|  |
+| 
+
+-   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Brewfest Grounds](https://wowpedia.fandom.com/wiki/Brewfest_Grounds_(Durotar) "Brewfest Grounds (Durotar)")
+-   [Eastern Zeppelin Tower](https://wowpedia.fandom.com/wiki/Eastern_Zeppelin_Tower "Eastern Zeppelin Tower")
+-   [Western Zeppelin Tower](https://wowpedia.fandom.com/wiki/Western_Zeppelin_Tower "Western Zeppelin Tower")
+-   [Isle of Night](https://wowpedia.fandom.com/wiki/Isle_of_Night "Isle of Night")
+
+
+
+ |
+|  |
+| 
+
+[Durotar category](https://wowpedia.fandom.com/wiki/Category:Durotar "Category:Durotar")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:Kalimdor "Template:Kalimdor")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Kalimdor?action=edit)
+
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor")
+
+
+
+ |
+| --- |
+|  |
+| [Northern Kalimdor](https://wowpedia.fandom.com/wiki/Northern_Kalimdor "Northern Kalimdor") | 
+
+-   [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Ashenvale_(Classic) "Ashenvale (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Azshara_(Classic) "Azshara (Classic)")
+-   [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles")
+    -   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle")
+        -   _[The Exodar](https://wowpedia.fandom.com/wiki/Exodar "Exodar")_
+    -   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Bloodmyst Isle](https://wowpedia.fandom.com/wiki/Bloodmyst_Isle "Bloodmyst Isle")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Darkshore](https://wowpedia.fandom.com/wiki/Darkshore "Darkshore")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Darkshore_(Classic) "Darkshore (Classic)")
+-   [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Felwood_(Classic) "Felwood (Classic)")
+-   [Moonglade](https://wowpedia.fandom.com/wiki/Moonglade "Moonglade")
+-   [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal")
+-   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Teldrassil_(Classic) "Teldrassil (Classic)")
+    -   [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
+-   [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Winterspring_(Classic) "Winterspring (Classic)")
+
+
+
+ | 
+
+[![Map of Kalimdor](https://static.wikia.nocookie.net/wowpedia/images/1/1f/WorldMap-Kalimdor.jpg/revision/latest/scale-to-width-down/120?cb=20180922085606)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/WorldMap-Kalimdor.jpg/revision/latest?cb=20180922085606 "Map of Kalimdor")
+
+ |
+|  |
+| [Central Kalimdor](https://wowpedia.fandom.com/wiki/Central_Kalimdor "Central Kalimdor") | 
+
+-   [The Barrens](https://wowpedia.fandom.com/wiki/Barrens "Barrens")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Barrens_(Classic) "Barrens (Classic)")
+    -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens")
+    -   [Southern Barrens](https://wowpedia.fandom.com/wiki/Southern_Barrens "Southern Barrens")
+-   [Desolace](https://wowpedia.fandom.com/wiki/Desolace "Desolace")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Desolace_(Classic) "Desolace (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Durotar_(Classic) "Durotar (Classic)")
+    -   **Orgrimmar**
+-   [Dustwallow Marsh](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh "Dustwallow Marsh")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh_(Classic) "Dustwallow Marsh (Classic)")
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore "Mulgore")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Mulgore_(Classic) "Mulgore (Classic)")
+    -   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
+-   [Stonetalon Mountains](https://wowpedia.fandom.com/wiki/Stonetalon_Mountains "Stonetalon Mountains")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Stonetalon_Mountains_(Classic) "Stonetalon Mountains (Classic)")
+
+
+
+ |
+|  |
+| [Southern Kalimdor](https://wowpedia.fandom.com/wiki/Southern_Kalimdor "Southern Kalimdor") | 
+
+-   [Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
+-   [Feralas](https://wowpedia.fandom.com/wiki/Feralas "Feralas")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Feralas_(Classic) "Feralas (Classic)")
+-   [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Silithus_(Classic) "Silithus (Classic)")
+-   [Tanaris](https://wowpedia.fandom.com/wiki/Tanaris "Tanaris")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Tanaris_(Classic) "Tanaris (Classic)")
+-   [Thousand Needles](https://wowpedia.fandom.com/wiki/Thousand_Needles "Thousand Needles")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Thousand_Needles_(Classic) "Thousand Needles (Classic)")
+-   [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum")
+-   [Un'Goro Crater](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater "Un'Goro Crater")
+    -   [Classic](https://wowpedia.fandom.com/wiki/Un%27Goro_Crater_(Classic) "Un'Goro Crater (Classic)")
+
+
+
+ |
+|  |
+| 
+
+[Kalimdor category](https://wowpedia.fandom.com/wiki/Category:Kalimdor "Category:Kalimdor")
+
+
+
+ |
+
+| 
+-   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
+-   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
+
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+
+
+
+ |
+| --- |
+|  |
+| 
+
+|  
+Leadership
+
+ |
+| --- |
+|  |
+| [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") | 
+
+-   [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")
+-   [Rokhan](https://wowpedia.fandom.com/wiki/Rokhan "Rokhan")
+-   [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof")
+-   [Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss")
+-   [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron")
+-   [Gazlowe](https://wowpedia.fandom.com/wiki/Gazlowe "Gazlowe")
+-   [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw")
+-   [Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra")
+-   [Mayla Highmountain](https://wowpedia.fandom.com/wiki/Mayla_Highmountain "Mayla Highmountain")
+-   [Geya'rah](https://wowpedia.fandom.com/wiki/Overlord_Geya%27rah "Overlord Geya'rah")
+-   [Talanji](https://wowpedia.fandom.com/wiki/Talanji "Talanji")
+-   [Kiro](https://wowpedia.fandom.com/wiki/Kiro "Kiro")
+
+
+
+ |
+|  |
+| Other leaders | 
+
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council") ([Lilian Voss](https://wowpedia.fandom.com/wiki/Lilian_Voss "Lilian Voss"), [Calia Menethil](https://wowpedia.fandom.com/wiki/Calia_Menethil "Calia Menethil"), [Belmont](https://wowpedia.fandom.com/wiki/Deathstalker_Commander_Belmont "Deathstalker Commander Belmont"), [Velonara](https://wowpedia.fandom.com/wiki/Dark_Ranger_Velonara "Dark Ranger Velonara"), [Faranell](https://wowpedia.fandom.com/wiki/Master_Apothecary_Faranell "Master Apothecary Faranell"))
+-   [Cindrethresh](https://wowpedia.fandom.com/wiki/Scalecommander_Cindrethresh "Scalecommander Cindrethresh")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Characters
+
+ |
+| --- |
+|  |
+| Current | 
+
+-   [Aggralan](https://wowpedia.fandom.com/wiki/Aggralan "Aggralan")
+-   [Drek'Thar](https://wowpedia.fandom.com/wiki/Drek%27Thar "Drek'Thar")
+-   [Eitrigg](https://wowpedia.fandom.com/wiki/Eitrigg "Eitrigg")
+-   [Nazgrel](https://wowpedia.fandom.com/wiki/Nazgrel "Nazgrel")
+-   [Jorin Deadeye](https://wowpedia.fandom.com/wiki/Jorin_Deadeye "Jorin Deadeye")
+-   [Rehgar Earthfury](https://wowpedia.fandom.com/wiki/Rehgar_Earthfury "Rehgar Earthfury")
+-   [Cromush](https://wowpedia.fandom.com/wiki/High_Warlord_Cromush "High Warlord Cromush")
+-   [Volrath](https://wowpedia.fandom.com/wiki/High_Warlord_Volrath "High Warlord Volrath")
+-   [Gorgonna](https://wowpedia.fandom.com/wiki/Gorgonna "Gorgonna")
+-   [Gordul](https://wowpedia.fandom.com/wiki/Gordul "Gordul")
+-   [Gorfax Angerfang](https://wowpedia.fandom.com/wiki/Gorfax_Angerfang "Gorfax Angerfang")
+-   [Geyah](https://wowpedia.fandom.com/wiki/Greatmother_Geyah "Greatmother Geyah")
+-   [Garona Halforcen](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen")
+-   [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar")
+-   [Master Gadrin](https://wowpedia.fandom.com/wiki/Master_Gadrin "Master Gadrin")
+-   [Zen'tabra](https://wowpedia.fandom.com/wiki/Zen%27tabra "Zen'tabra")
+-   [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan")
+-   [Hamuul Runetotem](https://wowpedia.fandom.com/wiki/Hamuul_Runetotem "Hamuul Runetotem")
+-   [Dezco](https://wowpedia.fandom.com/wiki/Sunwalker_Dezco "Sunwalker Dezco")
+-   [Roanauk Icemist](https://wowpedia.fandom.com/wiki/Roanauk_Icemist "Roanauk Icemist")
+-   [Jevan Grimtotem](https://wowpedia.fandom.com/wiki/Jevan_Grimtotem "Jevan Grimtotem")
+-   [Aponi Brightmane](https://wowpedia.fandom.com/wiki/Aponi_Brightmane "Aponi Brightmane")
+-   [Tahu Sagewind](https://wowpedia.fandom.com/wiki/Tahu_Sagewind "Tahu Sagewind")
+-   [Torntusk](https://wowpedia.fandom.com/wiki/Elder_Torntusk "Elder Torntusk")
+-   [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore")
+-   [Delaryn Summermoon](https://wowpedia.fandom.com/wiki/Delaryn_Summermoon "Delaryn Summermoon")
+-   [Koltira Deathweaver](https://wowpedia.fandom.com/wiki/Koltira_Deathweaver "Koltira Deathweaver")
+-   [Alexi Barov](https://wowpedia.fandom.com/wiki/Alexi_Barov "Alexi Barov")
+-   [Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin")
+-   [Halduron Brightwing](https://wowpedia.fandom.com/wiki/Halduron_Brightwing "Halduron Brightwing")
+-   [Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
+-   [Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Aethas_Sunreaver "Aethas Sunreaver")
+-   [Tae'thelan Bloodwatcher](https://wowpedia.fandom.com/wiki/Tae%27thelan_Bloodwatcher "Tae'thelan Bloodwatcher")
+-   [Mida](https://wowpedia.fandom.com/wiki/Boss_Mida "Boss Mida")
+-   [Pozzik](https://wowpedia.fandom.com/wiki/Pozzik "Pozzik")
+-   [Patch](https://wowpedia.fandom.com/wiki/Patch_(goblin) "Patch (goblin)")
+-   [Oculeth](https://wowpedia.fandom.com/wiki/Chief_Telemancer_Oculeth "Chief Telemancer Oculeth")
+-   [Valtrois](https://wowpedia.fandom.com/wiki/Arcanist_Valtrois "Arcanist Valtrois")
+-   [Lashk](https://wowpedia.fandom.com/wiki/Lashk "Lashk")
+-   [Ly'leth](https://wowpedia.fandom.com/wiki/Ly%27leth_Lunastre "Ly'leth Lunastre")
+-   [Silgryn](https://wowpedia.fandom.com/wiki/Silgryn "Silgryn")
+-   [Victoire](https://wowpedia.fandom.com/wiki/Victoire "Victoire")
+-   [Jale Rivermane](https://wowpedia.fandom.com/wiki/Jale_Rivermane "Jale Rivermane")
+-   [Lasan Skyhorn](https://wowpedia.fandom.com/wiki/Lasan_Skyhorn "Lasan Skyhorn")
+-   [Loti](https://wowpedia.fandom.com/wiki/Wardruid_Loti "Wardruid Loti")
+-   [Raal](https://wowpedia.fandom.com/wiki/Hexlord_Raal "Hexlord Raal")
+-   [Jo'nok](https://wowpedia.fandom.com/wiki/Jo%27nok,_Bulwark_of_Torcali "Jo'nok, Bulwark of Torcali")
+-   [Rata](https://wowpedia.fandom.com/wiki/High_Prelate_Rata "High Prelate Rata")
+-   [Rakera](https://wowpedia.fandom.com/wiki/Rakera "Rakera")
+-   [Nisha](https://wowpedia.fandom.com/wiki/Nisha "Nisha")
+-   [Kah Kah](https://wowpedia.fandom.com/wiki/Chief_Kah_Kah "Chief Kah Kah")
+-   [Usha Eyegouge](https://wowpedia.fandom.com/wiki/Usha_Eyegouge "Usha Eyegouge")
+-   [The Black Bride](https://wowpedia.fandom.com/wiki/The_Black_Bride "The Black Bride")
+-   [Gargok](https://wowpedia.fandom.com/wiki/Gargok "Gargok")
+-   [Neri Sharpfin](https://wowpedia.fandom.com/wiki/Neri_Sharpfin "Neri Sharpfin")
+-   [Ohseso](https://wowpedia.fandom.com/wiki/Ohseso "Ohseso")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner")
+-   [Nathanos Blightcaller](https://wowpedia.fandom.com/wiki/Nathanos_Blightcaller "Nathanos Blightcaller")
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang")
+-   [Jastor Gallywix](https://wowpedia.fandom.com/wiki/Jastor_Gallywix "Jastor Gallywix")
+-   [Warlord Bloodhilt](https://wowpedia.fandom.com/wiki/Warlord_Bloodhilt "Warlord Bloodhilt")
+-   [Broxigar](https://wowpedia.fandom.com/wiki/Broxigar "Broxigar")
+-   [Overlord Krom'gar](https://wowpedia.fandom.com/wiki/Overlord_Krom%27gar "Overlord Krom'gar")
+-   [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream")
+-   [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer")
+-   [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin")
+-   [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof")
+-   [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream")
+-   [Malkorok](https://wowpedia.fandom.com/wiki/Malkorok "Malkorok")
+-   [Nazgrim](https://wowpedia.fandom.com/wiki/Nazgrim "Nazgrim")
+-   [Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress")
+-   [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")
+-   [Dranosh Saurfang](https://wowpedia.fandom.com/wiki/Dranosh_Saurfang "Dranosh Saurfang")
+-   [Zaela](https://wowpedia.fandom.com/wiki/Warlord_Zaela "Warlord Zaela")
+-   [Jor'kil](https://wowpedia.fandom.com/wiki/Jor%27kil_the_Soulripper "Jor'kil the Soulripper")
+
+
+
+ |
+|  |
+| [Historical](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") | 
+
+-   [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand")
+-   [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan")
+-   [Rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
+-   [Maim Blackhand](https://wowpedia.fandom.com/wiki/Maim_Blackhand "Maim Blackhand")
+-   [Kilrogg Deadeye](https://wowpedia.fandom.com/wiki/Kilrogg_Deadeye "Kilrogg Deadeye")
+-   [Zuluhed the Whacked](https://wowpedia.fandom.com/wiki/Zuluhed_the_Whacked "Zuluhed the Whacked")
+-   [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher")
+-   [Zul'jin](https://wowpedia.fandom.com/wiki/Zul%27jin "Zul'jin")
+-   [Teron Gorefiend](https://wowpedia.fandom.com/wiki/Teron_Gorefiend "Teron Gorefiend")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Races
+
+ |
+| --- |
+|  |
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+
+-   [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+-   [Jungle troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll")
+-   [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+-   [Undead Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+-   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+-   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+-   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
+
+
+
+ |
+|  |
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+
+-   [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne")
+-   [Highmountain tauren](https://wowpedia.fandom.com/wiki/Highmountain_tauren "Highmountain tauren")
+-   [Mag'har orc](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")
+-   [Zandalari troll](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll")
+-   [Vulpera](https://wowpedia.fandom.com/wiki/Vulpera "Vulpera")
+
+
+
+ |
+|  |
+| Other | 
+
+-   [Forest troll](https://wowpedia.fandom.com/wiki/Forest_troll "Forest troll")
+-   [Hobgoblin](https://wowpedia.fandom.com/wiki/Hobgoblin "Hobgoblin")
+-   [Kobold](https://wowpedia.fandom.com/wiki/Kobold "Kobold")
+-   [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+-   [Half-orc](https://wowpedia.fandom.com/wiki/Half-orc "Half-orc") / [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+-   [Undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
+    -   [Abomination](https://wowpedia.fandom.com/wiki/Abomination "Abomination")
+    -   [Banshee](https://wowpedia.fandom.com/wiki/Banshee "Banshee")
+    -   [Geist](https://wowpedia.fandom.com/wiki/Geist "Geist")
+    -   [Ghoul](https://wowpedia.fandom.com/wiki/Ghoul "Ghoul")
+    -   [Val'kyr](https://wowpedia.fandom.com/wiki/Val%27kyr "Val'kyr")
+    -   [Undead elf](https://wowpedia.fandom.com/wiki/Elf "Elf")
+    -   [Wraith](https://wowpedia.fandom.com/wiki/Wraith "Wraith")
+    -   [Zombie](https://wowpedia.fandom.com/wiki/Zombie "Zombie")
+-   [Hozen](https://wowpedia.fandom.com/wiki/Hozen "Hozen")
+
+
+
+ |
+|  |
+| Animals | 
+
+-   [Kodo](https://wowpedia.fandom.com/wiki/Kodo "Kodo")
+-   [Raptor](https://wowpedia.fandom.com/wiki/Raptor "Raptor")
+-   [Wyvern](https://wowpedia.fandom.com/wiki/Wyvern "Wyvern")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+Cities and towns
+
+ |
+| --- |
+|  |
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+
+-   **Orgrimmar**
+-   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
+-   [Darkspear Isle](https://wowpedia.fandom.com/wiki/Darkspear_Isle "Darkspear Isle")
+-   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
+-   [Bilgewater Harbor](https://wowpedia.fandom.com/wiki/Bilgewater_Harbor "Bilgewater Harbor")
+-   [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")
+-   [Thunder Totem](https://wowpedia.fandom.com/wiki/Thunder_Totem "Thunder Totem")
+-   [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor")
+-   [Vulpera Hideaway](https://wowpedia.fandom.com/wiki/Vulpera_Hideaway "Vulpera Hideaway")
+
+
+
+ |
+|  |
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+
+-   [Bloodhoof Village](https://wowpedia.fandom.com/wiki/Bloodhoof_Village "Bloodhoof Village")
+-   [Brackenwall Village](https://wowpedia.fandom.com/wiki/Brackenwall_Village "Brackenwall Village")
+-   [Camp Mojache](https://wowpedia.fandom.com/wiki/Camp_Mojache "Camp Mojache")
+-   [Crossroads](https://wowpedia.fandom.com/wiki/Crossroads "Crossroads")
+-   [Desolation Hold](https://wowpedia.fandom.com/wiki/Desolation_Hold "Desolation Hold")
+-   [Krom'gar Fortress](https://wowpedia.fandom.com/wiki/Krom%27gar_Fortress "Krom'gar Fortress")
+-   [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill")
+-   [Sen'jin Village](https://wowpedia.fandom.com/wiki/Sen%27jin_Village "Sen'jin Village")
+-   [Shadowprey Village](https://wowpedia.fandom.com/wiki/Shadowprey_Village "Shadowprey Village")
+-   [Southwind Village](https://wowpedia.fandom.com/wiki/Southwind_Village "Southwind Village")
+-   [Splintertree Post](https://wowpedia.fandom.com/wiki/Splintertree_Post "Splintertree Post")
+-   [Stonemaul Hold](https://wowpedia.fandom.com/wiki/Stonemaul_Hold "Stonemaul Hold")
+-   [Sun Rock Retreat](https://wowpedia.fandom.com/wiki/Sun_Rock_Retreat "Sun Rock Retreat")
+-   [Westreach Summit](https://wowpedia.fandom.com/wiki/Westreach_Summit "Westreach Summit")
+-   [Zoram'gar Outpost](https://wowpedia.fandom.com/wiki/Zoram%27gar_Outpost "Zoram'gar Outpost")
+
+
+
+ |
+|  |
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+
+-   [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")
+-   [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill")
+-   [Ar'gorok](https://wowpedia.fandom.com/wiki/Ar%27gorok "Ar'gorok")
+-   [Dragonmaw Port](https://wowpedia.fandom.com/wiki/Dragonmaw_Port "Dragonmaw Port")
+-   [Falconwing Square](https://wowpedia.fandom.com/wiki/Falconwing_Square "Falconwing Square")
+-   [Frostwolf Keep](https://wowpedia.fandom.com/wiki/Frostwolf_Keep "Frostwolf Keep")
+-   [Grom'Gol](https://wowpedia.fandom.com/wiki/Grom%27Gol "Grom'Gol")
+-   [The Krazzworks](https://wowpedia.fandom.com/wiki/Krazzworks "Krazzworks")
+-   [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall")
+-   [Hardwrench Hideaway](https://wowpedia.fandom.com/wiki/Hardwrench_Hideaway "Hardwrench Hideaway")
+-   [New Kargath](https://wowpedia.fandom.com/wiki/New_Kargath "New Kargath")
+-   [Revantusk Village](https://wowpedia.fandom.com/wiki/Revantusk_Village "Revantusk Village")
+-   [Ruins of Lordaeron](https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron "Ruins of Lordaeron")
+-   [Sepulcher](https://wowpedia.fandom.com/wiki/Sepulcher "Sepulcher")
+-   [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell")
+-   [Tarren Mill](https://wowpedia.fandom.com/wiki/Tarren_Mill "Tarren Mill")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+
+
+
+ |
+|  |
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+
+-   [Falcon Watch](https://wowpedia.fandom.com/wiki/Falcon_Watch "Falcon Watch")
+-   [Garadar](https://wowpedia.fandom.com/wiki/Garadar "Garadar")
+-   [Mok'Nathal Village](https://wowpedia.fandom.com/wiki/Mok%27Nathal_Village "Mok'Nathal Village")
+-   [Stonebreaker Hold](https://wowpedia.fandom.com/wiki/Stonebreaker_Hold "Stonebreaker Hold")
+-   [Shadowmoon Village](https://wowpedia.fandom.com/wiki/Shadowmoon_Village "Shadowmoon Village")
+-   [Thrallmar](https://wowpedia.fandom.com/wiki/Thrallmar "Thrallmar")
+-   [Thunderlord Stronghold](https://wowpedia.fandom.com/wiki/Thunderlord_Stronghold "Thunderlord Stronghold")
+-   [Zabra'jin](https://wowpedia.fandom.com/wiki/Zabra%27jin "Zabra'jin")
+
+
+
+ |
+|  |
+| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+
+-   [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer")
+-   [Camp Tunka'lo](https://wowpedia.fandom.com/wiki/Camp_Tunka%27lo "Camp Tunka'lo")
+-   [Conquest Hold](https://wowpedia.fandom.com/wiki/Conquest_Hold "Conquest Hold")
+-   [New Agamand](https://wowpedia.fandom.com/wiki/New_Agamand "New Agamand")
+-   [Taunka'le Village](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Vengeance Landing](https://wowpedia.fandom.com/wiki/Vengeance_Landing "Vengeance Landing")
+-   [Venomspite](https://wowpedia.fandom.com/wiki/Venomspite "Venomspite")
+-   [Warsong Hold](https://wowpedia.fandom.com/wiki/Warsong_Hold "Warsong Hold")
+
+
+
+ |
+|  |
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+
+-   [Domination Point](https://wowpedia.fandom.com/wiki/Domination_Point "Domination Point")
+-   [Eastwind Rest](https://wowpedia.fandom.com/wiki/Eastwind_Rest "Eastwind Rest")
+-   [Grookin Hill](https://wowpedia.fandom.com/wiki/Grookin_Hill "Grookin Hill")
+-   [Shrine of Two Moons](https://wowpedia.fandom.com/wiki/Shrine_of_Two_Moons "Shrine of Two Moons")
+-   [Thunder Cleft](https://wowpedia.fandom.com/wiki/Thunder_Cleft "Thunder Cleft")
+
+
+
+ |
+|  |
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+
+-   [Axefall](https://wowpedia.fandom.com/wiki/Axefall "Axefall")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Riverside Post](https://wowpedia.fandom.com/wiki/Riverside_Post "Riverside Post")
+-   [Sunsworn Camp](https://wowpedia.fandom.com/wiki/Sunsworn_Camp "Sunsworn Camp")
+-   [Vol'jin's Pride](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Pride "Vol'jin's Pride")
+-   [Vol'mar](https://wowpedia.fandom.com/wiki/Vol%27mar "Vol'mar")
+-   [Warspear](https://wowpedia.fandom.com/wiki/Warspear "Warspear")
+-   [Wor'var](https://wowpedia.fandom.com/wiki/Wor%27var "Wor'var")
+
+
+
+ |
+|  |
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+
+-   [Dreadwake's Landing](https://wowpedia.fandom.com/wiki/Dreadwake%27s_Landing "Dreadwake's Landing")
+-   [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold")
+
+
+
+ |
+|  |
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+
+-   [Warbeast Kraal](https://wowpedia.fandom.com/wiki/Warbeast_Kraal "Warbeast Kraal")
+-   [Zeb'ahari](https://wowpedia.fandom.com/wiki/Zeb%27ahari "Zeb'ahari")
+-   [Zul'jan Ruins](https://wowpedia.fandom.com/wiki/Zul%27jan_Ruins "Zul'jan Ruins")
+
+
+
+ |
+|  |
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+
+-   [Diretusk Hollow](https://wowpedia.fandom.com/wiki/Diretusk_Hollow "Diretusk Hollow")
+-   [Hillcrest Pasture](https://wowpedia.fandom.com/wiki/Hillcrest_Pasture "Hillcrest Pasture")
+-   [Ironmaul Overlook](https://wowpedia.fandom.com/wiki/Ironmaul_Overlook "Ironmaul Overlook")
+-   [Krazzlefrazz Outpost](https://wowpedia.fandom.com/wiki/Krazzlefrazz_Outpost "Krazzlefrazz Outpost")
+-   [Mudfisher Cove](https://wowpedia.fandom.com/wiki/Mudfisher_Cove "Mudfisher Cove")
+-   [Stonetusk Watch](https://wowpedia.fandom.com/wiki/Stonetusk_Watch "Stonetusk Watch")
+-   [Swiftwind Post](https://wowpedia.fandom.com/wiki/Swiftwind_Post "Swiftwind Post")
+-   [Timberfell Outpost](https://wowpedia.fandom.com/wiki/Timberfell_Outpost "Timberfell Outpost")
+-   [Warfang Hold](https://wowpedia.fandom.com/wiki/Warfang_Hold "Warfang Hold")
+-   [Windfall Cavern](https://wowpedia.fandom.com/wiki/Windfall_Cavern "Windfall Cavern")
+-   [Wolf's Den](https://wowpedia.fandom.com/wiki/Wolf%27s_Den "Wolf's Den")
+
+
+
+ |
+|  |
+| Former | 
+
+-   [Beastwatch](https://wowpedia.fandom.com/wiki/Beastwatch "Beastwatch")
+-   [Camp Taurajo](https://wowpedia.fandom.com/wiki/Camp_Taurajo "Camp Taurajo")
+-   [Bloodvenom Post](https://wowpedia.fandom.com/wiki/Bloodvenom_Post "Bloodvenom Post")
+-   [Freewind Post](https://wowpedia.fandom.com/wiki/Freewind_Post "Freewind Post")
+-   [Frostwall](https://wowpedia.fandom.com/wiki/Frostwall "Frostwall")
+-   [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary")
+-   [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity")
+
+
+
+ |
+|  |
+| Territories | 
+
+-   [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara")
+-   [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar")
+-   [Echo Isles](https://wowpedia.fandom.com/wiki/Echo_Isles "Echo Isles")
+-   [Mulgore](https://wowpedia.fandom.com/wiki/Mulgore "Mulgore")
+-   [Northern Barrens](https://wowpedia.fandom.com/wiki/Northern_Barrens "Northern Barrens")
+-   [Silverpine Forest](https://wowpedia.fandom.com/wiki/Silverpine_Forest "Silverpine Forest")
+-   [Tirisfal Glades](https://wowpedia.fandom.com/wiki/Tirisfal_Glades "Tirisfal Glades")
+-   [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")
+    -   [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods")
+    -   [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+|  
+[Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+
+
+
+ |
+| --- |
+|  |
+| [Nation of Durotar](https://wowpedia.fandom.com/wiki/Durotar_(nation) "Durotar (nation)") | 
+
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Rageroar clan](https://wowpedia.fandom.com/wiki/Rageroar_clan "Rageroar clan")
+    -   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_clan "Frostwolf clan")
+    -   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan "Shattered Hand clan")
+    -   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
+    -   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan "Burning Blade clan")
+    -   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan")
+    -   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan")
+    -   [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan")
+-   [Kor'kron](https://wowpedia.fandom.com/wiki/Kor%27kron "Kor'kron")
+-   [Orgrimmar Legion](https://wowpedia.fandom.com/wiki/Orgrimmar_Legion "Orgrimmar Legion")
+-   [Hellscream's Vanguard](https://wowpedia.fandom.com/wiki/Hellscream%27s_Vanguard "Hellscream's Vanguard")
+-   [Hellscream's Hellions](https://wowpedia.fandom.com/wiki/Hellscream%27s_Hellions "Hellscream's Hellions")
+-   [Warsong Outriders](https://wowpedia.fandom.com/wiki/Warsong_Outriders "Warsong Outriders")
+
+
+
+ |
+|  |
+| [The Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") | 
+
+-   [Deathstalkers](https://wowpedia.fandom.com/wiki/Deathstalkers "Deathstalkers")
+-   [Defilers](https://wowpedia.fandom.com/wiki/Defilers "Defilers")
+-   [Cult of Forgotten Shadows](https://wowpedia.fandom.com/wiki/Cult_of_Forgotten_Shadows "Cult of Forgotten Shadows")
+-   [Royal Apothecary Society](https://wowpedia.fandom.com/wiki/Royal_Apothecary_Society "Royal Apothecary Society")
+-   [Queensguard](https://wowpedia.fandom.com/wiki/Queensguard "Queensguard")
+-   [Deathguard](https://wowpedia.fandom.com/wiki/Deathguard "Deathguard")
+    -   [Dreadguard](https://wowpedia.fandom.com/wiki/Dreadguard "Dreadguard")
+-   [Desolate Council](https://wowpedia.fandom.com/wiki/Desolate_Council "Desolate Council")
+-   [Blightguard](https://wowpedia.fandom.com/wiki/Blightguard "Blightguard")
+
+
+
+ |
+|  |
+| [Thunder Bluff tauren](https://wowpedia.fandom.com/wiki/Thunder_Bluff_(faction) "Thunder Bluff (faction)") | 
+
+-   [Tauren tribes](https://wowpedia.fandom.com/wiki/Tribe#Tauren_tribes "Tribe")
+    -   [Bloodhoof tribe](https://wowpedia.fandom.com/wiki/Bloodhoof_tribe "Bloodhoof tribe")
+    -   [Ragetotem tribe](https://wowpedia.fandom.com/wiki/Ragetotem_tribe "Ragetotem tribe")
+    -   [Dawnstrider tribe](https://wowpedia.fandom.com/wiki/Dawnstrider_tribe "Dawnstrider tribe")
+    -   [Runetotem tribe](https://wowpedia.fandom.com/wiki/Runetotem_tribe "Runetotem tribe")
+    -   [Highmountain tribe](https://wowpedia.fandom.com/wiki/Highmountain_tribe_(Legends) "Highmountain tribe (Legends)")
+    -   [Skychaser tribe](https://wowpedia.fandom.com/wiki/Skychaser_tribe "Skychaser tribe")
+    -   [Thunderhorn clan](https://wowpedia.fandom.com/wiki/Thunderhorn_clan "Thunderhorn clan")
+    -   [Grimtotem tribe](https://wowpedia.fandom.com/wiki/Grimtotem_tribe "Grimtotem tribe")
+    -   [Stonespire tribe](https://wowpedia.fandom.com/wiki/Stonespire_tribe "Stonespire tribe")
+-   [Sunwalkers](https://wowpedia.fandom.com/wiki/Sunwalkers "Sunwalkers")
+-   [Seers](https://wowpedia.fandom.com/wiki/Seers "Seers")
+-   [Longwalkers](https://wowpedia.fandom.com/wiki/Longwalkers "Longwalkers")
+
+
+
+ |
+|  |
+| [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") | 
+
+-   [Vol'jin's Spear](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Spear "Vol'jin's Spear")
+-   [Vol'jin's Headhunters](https://wowpedia.fandom.com/wiki/Vol%27jin%27s_Headhunters "Vol'jin's Headhunters")
+-   [Siame-Quashi](https://wowpedia.fandom.com/wiki/Siame-Quashi "Siame-Quashi")
+-   [Ravasaur Trainers](https://wowpedia.fandom.com/wiki/Ravasaur_Trainers "Ravasaur Trainers")
+-   [The Headhunters](https://wowpedia.fandom.com/wiki/Headhunters_(island_expedition) "Headhunters (island expedition)")
+
+
+
+ |
+|  |
+| [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") | 
+
+-   [Blood Knights](https://wowpedia.fandom.com/wiki/Blood_Knights "Blood Knights")
+-   [Sunsworn](https://wowpedia.fandom.com/wiki/Sunsworn "Sunsworn")
+-   [Magisters](https://wowpedia.fandom.com/wiki/Magisters "Magisters")
+-   [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders")
+-   [Blood Hawks](https://wowpedia.fandom.com/wiki/Blood_Hawks "Blood Hawks")
+-   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury")
+-   [Reliquary](https://wowpedia.fandom.com/wiki/Reliquary "Reliquary")
+-   [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers")
+    -   [Sunreaver Onslaught](https://wowpedia.fandom.com/wiki/Sunreaver_Onslaught "Sunreaver Onslaught")
+-   [Tranquillien](https://wowpedia.fandom.com/wiki/Tranquillien "Tranquillien")
+-   [Blazing Sunhawks](https://wowpedia.fandom.com/wiki/Blazing_Sunhawks "Blazing Sunhawks")
+
+
+
+ |
+|  |
+| [Bilgewater Cartel](https://wowpedia.fandom.com/wiki/Bilgewater_Cartel "Bilgewater Cartel") | 
+
+-   [Gob Squad](https://wowpedia.fandom.com/wiki/Gob_Squad "Gob Squad")
+-   [Bilgewater Battalion](https://wowpedia.fandom.com/wiki/Bilgewater_Battalion "Bilgewater Battalion")
+-   [S.H.A.R.K.](https://wowpedia.fandom.com/wiki/S.H.A.R.K. "S.H.A.R.K.")
+-   [Mergers and Acquisitions](https://wowpedia.fandom.com/wiki/Mergers_and_Acquisitions "Mergers and Acquisitions")
+-   [Dredge Fleet](https://wowpedia.fandom.com/wiki/Dredge_Fleet "Dredge Fleet")
+
+
+
+ |
+|  |
+| [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") | 
+
+-   [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)")
+-   [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch")
+-   [The Highborne](https://wowpedia.fandom.com/wiki/Highborne_(island_expedition) "Highborne (island expedition)")
+
+
+
+ |
+|  |
+| [Highmountain Tribe](https://wowpedia.fandom.com/wiki/Highmountain_Tribe "Highmountain Tribe") | 
+
+-   [Rivermane tribe](https://wowpedia.fandom.com/wiki/Rivermane_tribe "Rivermane tribe")
+-   [Skyhorn tribe](https://wowpedia.fandom.com/wiki/Skyhorn_tribe "Skyhorn tribe")
+
+
+
+ |
+|  |
+| [Mag'har Clans](https://wowpedia.fandom.com/wiki/Mag%27har_(alternate_universe) "Mag'har (alternate universe)") | 
+
+-   [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan_(alternate_universe) "Blackrock clan (alternate universe)")
+-   [Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan_(alternate_universe) "Bleeding Hollow clan (alternate universe)")
+-   [Burning Blade clan](https://wowpedia.fandom.com/wiki/Burning_Blade_clan_(alternate_universe) "Burning Blade clan (alternate universe)")
+-   [Frostwolf clan](https://wowpedia.fandom.com/wiki/Frostwolf_Orcs "Frostwolf Orcs")
+-   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_Orcs "Laughing Skull Orcs")
+-   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan_(alternate_universe) "Shadowmoon clan (alternate universe)")
+-   [Shattered Hand clan](https://wowpedia.fandom.com/wiki/Shattered_Hand_clan_(alternate_universe) "Shattered Hand clan (alternate universe)")
+-   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan_(alternate_universe) "Thunderlord clan (alternate universe)")
+-   [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan_(alternate_universe) "Warsong clan (alternate universe)")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan_(alternate_universe) "Stonemaul clan (alternate universe)")
+
+
+
+ |
+|  |
+| [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire") | 
+
+-   [Zanchuli Council](https://wowpedia.fandom.com/wiki/Zanchuli_Council "Zanchuli Council")
+-   [Golden Fleet](https://wowpedia.fandom.com/wiki/Golden_Fleet "Golden Fleet")
+-   [Zandalari army](https://wowpedia.fandom.com/wiki/Zandalari_army "Zandalari army")
+-   [Talanji's Expedition](https://wowpedia.fandom.com/wiki/Talanji%27s_Expedition "Talanji's Expedition")
+-   [Raptari](https://wowpedia.fandom.com/wiki/Raptari "Raptari")
+-   [Rastari](https://wowpedia.fandom.com/wiki/Rastari "Rastari")
+-   [Pa'kura](https://wowpedia.fandom.com/wiki/Pa%27kura "Pa'kura")
+-   [Torcalin](https://wowpedia.fandom.com/wiki/Torcalin "Torcalin")
+-   [Lun'alai](https://wowpedia.fandom.com/wiki/Lun%27alai "Lun'alai")
+-   [Warpack](https://wowpedia.fandom.com/wiki/Warpack "Warpack")
+
+
+
+ |
+|  |
+| Other members | 
+
+-   [Huojin Pandaren](https://wowpedia.fandom.com/wiki/Huojin_Pandaren "Huojin Pandaren")
+-   [Voldunai](https://wowpedia.fandom.com/wiki/Voldunai "Voldunai")
+-   [Dark Talons](https://wowpedia.fandom.com/wiki/Dark_Talons "Dark Talons")
+-   [Horde navy](https://wowpedia.fandom.com/wiki/Horde_navy "Horde navy")
+-   [Garad'kra](https://wowpedia.fandom.com/wiki/Garad%27kra "Garad'kra")
+-   [Kargath Expeditionary Force](https://wowpedia.fandom.com/wiki/Kargath_Expeditionary_Force "Kargath Expeditionary Force")
+-   [Hellscream's Reach](https://wowpedia.fandom.com/wiki/Hellscream%27s_Reach "Hellscream's Reach")
+-   [Krom'gar](https://wowpedia.fandom.com/wiki/Krom%27gar "Krom'gar")
+    -   [Boulderslide kobolds](https://wowpedia.fandom.com/wiki/Boulderslide "Boulderslide")
+-   [Stonemaul clan](https://wowpedia.fandom.com/wiki/Stonemaul_clan "Stonemaul clan")
+-   [Dunemaul clan](https://wowpedia.fandom.com/wiki/Dunemaul_clan "Dunemaul clan")
+-   [Okril'lon](https://wowpedia.fandom.com/wiki/Okril%27lon "Okril'lon")
+-   [The Mag'har](https://wowpedia.fandom.com/wiki/Mag%27har_(faction) "Mag'har (faction)")
+-   [Shatterspear tribe](https://wowpedia.fandom.com/wiki/Shatterspear_tribe "Shatterspear tribe")
+-   [Revantusk tribe](https://wowpedia.fandom.com/wiki/Revantusk_tribe "Revantusk tribe")
+-   [Horde Expedition](https://wowpedia.fandom.com/wiki/Horde_Expedition "Horde Expedition")
+    -   [Warsong Offensive](https://wowpedia.fandom.com/wiki/Warsong_Offensive "Warsong Offensive")
+    -   [Hand of Vengeance](https://wowpedia.fandom.com/wiki/Hand_of_Vengeance "Hand of Vengeance")
+        -   [Shadowstalkers](https://wowpedia.fandom.com/wiki/Shadowstalkers "Shadowstalkers")
+-   [Dominance Offensive](https://wowpedia.fandom.com/wiki/Dominance_Offensive "Dominance Offensive")
+-   [Forest Hozen](https://wowpedia.fandom.com/wiki/Forest_Hozen "Forest Hozen")
+-   [Taunka](https://wowpedia.fandom.com/wiki/Taunka "Taunka")
+    -   [Icemist tribe](https://wowpedia.fandom.com/wiki/Icemist_tribe "Icemist tribe")
+    -   [Winterhoof](https://wowpedia.fandom.com/wiki/Camp_Winterhoof "Camp Winterhoof")
+    -   [Oneqwah](https://wowpedia.fandom.com/wiki/Camp_Oneqwah "Camp Oneqwah")
+    -   [Taunka'le](https://wowpedia.fandom.com/wiki/Taunka%27le_Village "Taunka'le Village")
+-   [Horde Trauma](https://wowpedia.fandom.com/wiki/Horde_Trauma "Horde Trauma")
+-   [Honorbound](https://wowpedia.fandom.com/wiki/Honorbound "Honorbound")
+-   [Rok'nah](https://wowpedia.fandom.com/wiki/Rok%27nah "Rok'nah")
+-   [Warbraves](https://wowpedia.fandom.com/wiki/Warbraves_(island_expedition) "Warbraves (island expedition)")
+-   [Greenbelly's Raiders](https://wowpedia.fandom.com/wiki/Greenbelly%27s_Raiders "Greenbelly's Raiders")
+-   [Gazlowe's Greasemonkeys](https://wowpedia.fandom.com/wiki/Gazlowe%27s_Greasemonkeys "Gazlowe's Greasemonkeys")
+-   [Draenor's Blood](https://wowpedia.fandom.com/wiki/Draenor%27s_Blood "Draenor's Blood")
+-   [The Unshackled](https://wowpedia.fandom.com/wiki/Unshackled "Unshackled")
+-   [Usha's Eyegougers](https://wowpedia.fandom.com/wiki/Usha%27s_Eyegougers "Usha's Eyegougers")
+-   [Gorok's Sea Dogs](https://wowpedia.fandom.com/wiki/Gorok%27s_Sea_Dogs "Gorok's Sea Dogs")
+
+
+
+ |
+|  |
+| Former members | 
+
+-   [Amani Empire](https://wowpedia.fandom.com/wiki/Amani_Empire "Amani Empire")
+-   [Orcish clans](https://wowpedia.fandom.com/wiki/Clan#Orcish_clan_system "Clan")
+    -   [Black Tooth Grin clan](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan")
+    -   [Bladewind clan](https://wowpedia.fandom.com/wiki/Bladewind_clan "Bladewind clan")
+    -   [Bonechewer clan](https://wowpedia.fandom.com/wiki/Bonechewer_clan "Bonechewer clan")
+    -   [Laughing Skull clan](https://wowpedia.fandom.com/wiki/Laughing_Skull_clan "Laughing Skull clan")
+    -   [Lightning's Blade clan](https://wowpedia.fandom.com/wiki/Lightning%27s_Blade_clan "Lightning's Blade clan")
+    -   [Shadowmoon clan](https://wowpedia.fandom.com/wiki/Shadowmoon_clan "Shadowmoon clan")
+    -   [Stormreaver clan](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan")
+    -   [Thunderlord clan](https://wowpedia.fandom.com/wiki/Thunderlord_clan "Thunderlord clan")
+    -   [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer")
+-   [Red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") (enslaved)
+-   [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council")
+    -   [Cabal](https://wowpedia.fandom.com/wiki/Cabal "Cabal")
+    -   [Death knight orders](https://wowpedia.fandom.com/wiki/Death_knight_(Old_Horde) "Death knight (Old Horde)")
+
+
+
+ |
+|  |
+| Horde-aligned and allies | 
+
+-   [Mok'nathal](https://wowpedia.fandom.com/wiki/Mok%27nathal "Mok'nathal")
+-   [Fogsail Freebooters](https://wowpedia.fandom.com/wiki/Fogsail_Freebooters "Fogsail Freebooters")
+
+
+
+ |
+|  |
+| Former allies | 
+
+-   [Dreadmaul tribe](https://wowpedia.fandom.com/wiki/Dreadmaul_tribe "Dreadmaul tribe")
+-   [Dustbelcher](https://wowpedia.fandom.com/wiki/Dustbelcher "Dustbelcher")
+-   [Magram clan](https://wowpedia.fandom.com/wiki/Magram_clan "Magram clan")
+-   [Witherbark tribe](https://wowpedia.fandom.com/wiki/Witherbark_tribe "Witherbark tribe")
+-   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
+-   [Steamwheedle Cartel](https://wowpedia.fandom.com/wiki/Steamwheedle_Cartel "Steamwheedle Cartel")
+-   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
+
+
+
+ |
+
+ |
+|  |
+| 
+
+-   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
+-   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")
+-   [Orcish](https://wowpedia.fandom.com/wiki/Orcish_(language) "Orcish (language)")
+-   [Horde organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
+-   [Horde technology](https://wowpedia.fandom.com/wiki/Horde_technology "Horde technology")
+-   [Horde territories](https://wowpedia.fandom.com/wiki/Category:Horde_territories "Category:Horde territories")
+
+
+
+ |

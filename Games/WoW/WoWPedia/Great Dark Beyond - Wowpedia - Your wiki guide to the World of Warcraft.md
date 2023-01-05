@@ -1,0 +1,153 @@
+_"Cosmos" redirects here. For the item, see  ![](https://static.wikia.nocookie.net/wowpedia/images/3/38/Inv_offhand_ulduarraid_d_03.png/revision/latest/scale-to-width-down/16?cb=20090228101548)[\[Cosmos\]](https://wowpedia.fandom.com/wiki/Cosmos_(item))._
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Great_Dark_Beyond.jpg/revision/latest/scale-to-width-down/180?cb=20150824075644)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Great_Dark_Beyond.jpg/revision/latest?cb=20150824075644)
+
+As seen in _[Warcraft Saga](https://wowpedia.fandom.com/wiki/Warcraft_Saga "Warcraft Saga")_.
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/8/83/Great_Dark_Outer_Space_Planets.jpg/revision/latest/scale-to-width-down/180?cb=20060519025802)](https://static.wikia.nocookie.net/wowpedia/images/8/83/Great_Dark_Outer_Space_Planets.jpg/revision/latest?cb=20060519025802)
+
+As seen in the [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time").
+
+[![](https://static.wikia.nocookie.net/wowpedia/images/7/73/In_the_House_of_Light_and_Shadow.jpg/revision/latest/scale-to-width-down/180?cb=20171001012708)](https://static.wikia.nocookie.net/wowpedia/images/7/73/In_the_House_of_Light_and_Shadow.jpg/revision/latest?cb=20171001012708)
+
+[Order](https://wowpedia.fandom.com/wiki/Class_order "Class order") [champion](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")'s consciousness projected to [Xe'ra](https://wowpedia.fandom.com/wiki/Xe%27ra "Xe'ra")'s astral presence at the "crucible of creation" in the Great Dark Beyond.
+
+The **Great Dark Beyond**,<sup id="cite_ref-universe_1-0"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-universe-1">[1]</a></sup><sup id="cite_ref-nether_2-0"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-nether-2">[2]</a></sup> also known as the **Great Dark**,<sup id="cite_ref-Chronicle18_3-0"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-Chronicle18-3">[3]</a></sup> **Great Beyond**,<sup id="cite_ref-gtimes_4-0"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-gtimes-4">[4]</a></sup> **Dark Beyond**,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-5">[5]</a></sup> or **cosmos**,<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-6">[6]</a></sup><sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-7">[7]</a></sup> is described as the physical universe, an infinite realm composed of innumerable [stars](https://wowpedia.fandom.com/wiki/Sun "Sun"), [worlds](https://wowpedia.fandom.com/wiki/Planet "Planet"), [moons](https://wowpedia.fandom.com/wiki/Moon "Moon"), and [mortal](https://wowpedia.fandom.com/wiki/Mortal "Mortal") civilizations. [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") is found in it, and it is merely one of the countless worlds drifting through the Great Dark. Its counterpart is the astral plane called the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-8">[8]</a></sup> It was built<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-9">[9]</a></sup> and shaped by the [First Ones](https://wowpedia.fandom.com/wiki/First_Ones "First Ones").<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-10">[10]</a></sup><sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-11">[11]</a></sup>
+
+The physical universe is governed by the forces of [Order](https://wowpedia.fandom.com/wiki/Order "Order") and [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder"), while the forces of [Life](https://wowpedia.fandom.com/wiki/Life "Life") and [Death](https://wowpedia.fandom.com/wiki/Death "Death") hold sway over every living thing in it. Pure [Light](https://wowpedia.fandom.com/wiki/Light "Light") and [Shadow](https://wowpedia.fandom.com/wiki/Void "Void") dwell in a realm outside the borders of reality, but shades of their presence can be found in the Great Dark. The [elements](https://wowpedia.fandom.com/wiki/Element "Element") serve as the basic buildings blocks of all matter in the physical universe.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-12">[12]</a></sup> The [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") traveled through the Great Dark Beyond searching for others of their kind.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-13">[13]</a></sup>
+
+It is essentially the name given to outer space in the [_Warcraft_ universe](https://wowpedia.fandom.com/wiki/Warcraft_universe "Warcraft universe").
+
+## Origin
+
+Before life began and before even the universe existed, there was only the [Light](https://wowpedia.fandom.com/wiki/Light "Light"). The Light existed as a boundless sea of living energy, swelling across all of existence, unfettered by time and space. Yet as the ever-shifting sea expanded, pockets of cold nothingness appeared. From these spaces, the [Void](https://wowpedia.fandom.com/wiki/Void "Void") coalesced. The Void quickly grew and began to move against the Light, and before long, the mounting tension between the two forces ignited a series of explosions that ruptured the very fabric of creation, giving birth to the physical universe.<sup id="cite_ref-Chronicle18_3-1"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-Chronicle18-3">[3]</a></sup>
+
+The energies released from the clashing of Light and Void raged across the nascent cosmos, forming countless primordial worlds. For long epochs, the ever-expanding Great Dark Beyond broiled in a maelstrom of fire and magic. Shards of Light were flung throughout reality, suffusing worlds with the spark of life.<sup id="cite_ref-Chronicle18_3-2"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-Chronicle18-3">[3]</a></sup> Various types of energies came to be (such as death).<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-14">[14]</a></sup>
+
+The most unstable energies coalesced into the astral dimension known as the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"). Light and Void collided and bled together at the edges of this realm, throwing it into turmoil. Although the Twisting Nether existed outside the borders of the physical universe, its volatile energies would occasionally tear through the veil of the Great Dark, flooding into reality and warping creation.<sup id="cite_ref-Chronicle18_3-3"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-Chronicle18-3">[3]</a></sup>
+
+## Great Dark Beyond vs. Twisting Nether
+
+The Twisting Nether is the astral plane between worlds. It is a chaotic and magical environment that overlaps with the Great Dark Beyond, yet is normally imperceptible to mortals.<sup id="cite_ref-nether_2-1"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-nether-2">[2]</a></sup>
+
+The roles of both have not been clearly confirmed yet. For example, in the novel _[The Last Guardian](https://wowpedia.fandom.com/wiki/The_Last_Guardian "The Last Guardian")_, [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") explained to [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") that [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") were denizens and rulers of the Great Dark, and referred to the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") as a gateway that bridged two nodes residing in the Twisting Nether. Later Warcraft material consistently referred to demons dwelling in the Twisting Nether. However, if the information Medivh gave the young Khadgar is to be considered accurate, then the Twisting Nether could be an alternate dimension or a "hyperspace" of sorts where the conventional laws of physics, time, and space do not apply, and thus allows for instantaneous intergalactic travel.
+
+[Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn"), in [her narrative](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness_manual#A_Brief_History_of_the_Fall_of_Azeroth "Warcraft II: Tides of Darkness manual") at the start of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), referred to the Great Dark in much the way later sources established the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"), so we can assume it was an error or a [retcon](https://wowpedia.fandom.com/wiki/Retcon "Retcon"). The usage of [Nether](https://wowpedia.fandom.com/wiki/Nether "Nether") and Great Dark was more ambiguous in [Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II "Warcraft II") than in later games. Though Aegwynn claimed to be responsible for defending [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") from forces in the Great Dark, later sources clearly established that her duties dealt with the Nether.
+
+It is possible that Aegwynn chose to use Great Dark instead of specifying the Twisting Nether because her duties extended to defending Azeroth against harmful entities that are not solely restricted to the Twisting Nether. Indeed, it is chillingly possible that there are forces in the Great Dark that rival the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and are yet unknown to the powers that vie for Azeroth.
+
+### Argus
+
+[Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") was said to be located on the brink between the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") and the Great Dark.<sup id="cite_ref-Illidan_15-0"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-Illidan-15">[15]</a></sup> Some [man'ari eredar](https://wowpedia.fandom.com/wiki/Man%27ari_eredar "Man'ari eredar") say that Argus is the mightiest world in all of the Great Dark.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-16">[16]</a></sup> Despite this, _[A Thousand Years of War](https://wowpedia.fandom.com/wiki/A_Thousand_Years_of_War "A Thousand Years of War")_ later stated that Argus is fully shrouded by the Twisting Nether.
+
+[Tome of Blighted Implements](https://wowpedia.fandom.com/wiki/Tome_of_Blighted_Implements#The_Skull_of_the_Man'ari "Tome of Blighted Implements") confirms that Argus was in the Great Dark before Sargeras came. As there is the fact that time passes differently in the Nether, the statements in the novel and the audiodrama confirm that Argus moved from the Great Dark to the Nether over time.
+
+### Outland
+
+Outland has been said to be located in the Twisting Nether<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-17">[17]</a></sup><sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-18">[18]</a></sup> and the Great Dark Beyond.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-19">[19]</a></sup>
+
+## In the RPG
+
+[![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
+
+When debates on cosmology began on Azeroth, scholars quickly tumbled to an obvious question: where does it end? If Azeroth is surrounded by the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"), and separated from other material worlds by the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether"), what lies beyond the boundaries of the Nether? The result eventually agreed upon, as much a philosophical placeholder as an answer, is the Great Dark Beyond. Neither black nor white, hot nor cold, living nor dead, with a beginning hard to define on the chaotic fringe of the Nether and an end impossible to define: the Beyond is all that is unknowable about the cosmos. Were part of it to be journeyed or defined, it would become its own plane — leaving the Beyond on its horizon, eternal and all encompassing.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-20">[20]</a></sup>
+
+## Notes
+
+-   The [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") transcend a near infinity of universes and destroy their possible worlds.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-21">[21]</a></sup>
+-   The druids of Azeroth believe the [Rift of Aln](https://wowpedia.fandom.com/wiki/Rift_of_Aln "Rift of Aln") in the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") bleeds into the Great Dark Beyond.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-22">[22]</a></sup>
+-   While stranded on [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") used his magic to reach out to the Great Dark and found the [Sha'tar](https://wowpedia.fandom.com/wiki/Sha%27tar "Sha'tar") [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") led by [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal").<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-23">[23]</a></sup>
+-   [Overseer Ta'readon](https://wowpedia.fandom.com/wiki/Overseer_Ta%27readon "Overseer Ta'readon") in [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos") mentions the multiverse.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_note-24">[24]</a></sup>
+
+## See also
+
+-   [Alternate timeline](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline")
+
+## References
+
+1.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-universe_1-0) [The Warcraft Encyclopedia/The Warcraft Universe](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/The_Warcraft_Universe "The Warcraft Encyclopedia/The Warcraft Universe")
+2.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-nether_2-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-nether_2-1">b</a></sup> [The Warcraft Encyclopedia/Twisting Nether](https://wowpedia.fandom.com/wiki/The_Warcraft_Encyclopedia/Twisting_Nether "The Warcraft Encyclopedia/Twisting Nether")
+3.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-Chronicle18_3-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-Chronicle18_3-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-Chronicle18_3-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-Chronicle18_3-3">d</a></sup> _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 18
+4.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-gtimes_4-0) [Gadgetzan Times/A Magical History of Azeroth](https://wowpedia.fandom.com/wiki/Gadgetzan_Times/A_Magical_History_of_Azeroth "Gadgetzan Times/A Magical History of Azeroth")
+5.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-5) [Invasion Points](https://wowpedia.fandom.com/wiki/Invasion_Points "Invasion Points"), Illidan Stormrage yells: Well done, champions. News of this victory will spread throughout the Dark Beyond.
+6.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-6) [Algalon the Observer (tactics)](https://wowpedia.fandom.com/wiki/Algalon_the_Observer_(tactics) "Algalon the Observer (tactics)")
+7.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-7) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_
+8.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-8) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 13
+9.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-9) [Eternity's End – Developer Preview](https://youtu.be/IRWIW2VxgGs?t=119)
+10.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-10) _[The Art of World of Warcraft: Shadowlands](https://wowpedia.fandom.com/wiki/The_Art_of_World_of_Warcraft:_Shadowlands "The Art of World of Warcraft: Shadowlands")_, pg. 99: _The First Ones who shaped the cosmos knew they needed to protect the Shadowlands from external threats and beyond. Maldraxxus was their answer._
+11.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-11) [Bellular interviewing Morgan Day & Steve Danuser](https://www.youtube.com/watch?v=PuwhaKo3UL8&t=377s&ab_channel=BellularGaming) at 10:30, **Steve Danuser:** They were these mysterious and very powerful beings that sort of architect-ed the framework of the universe of which the Titans, the Pantheon of Death, pantheons of all these different influences are kind of the next layer down from the First Ones, these progenitors of the universe.
+12.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-12) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 11
+13.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-13) _[World of Warcraft: Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_, pg. 19
+14.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-14) [Matt Burns on Twitter](https://twitter.com/Burnzerker/status/763187576224178176)
+15.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-Illidan_15-0) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 24
+16.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-16) During the world quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45LI WQ\] [Battle for the Ruins](https://wowpedia.fandom.com/wiki/Battle_for_the_Ruins) - **Dreadflame Magus says:** I am of Argus, the mightiest world in all of the Great Dark.
+17.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-17) [Archive lore tweets from loreology](https://wowpedia.fandom.com/wiki/Archive_lore_tweets_from_loreology "Archive lore tweets from loreology"): "While normally imperceptible to mortals, the Twisting Nether bleeds into the physical realm. That’s because Outland is truly devastated. Those seen in Outland are most likely other (far away) worlds that you see and not “local” celestial bodies."
+18.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-18) The zone between the regions is labeled "Twisting Nether"
+19.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-19) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 9: He saw that Outland was but a tiny speck in the infinity of the Great Dark Beyond.
+20.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-20) _[Shadows & Light](https://wowpedia.fandom.com/wiki/Shadows_%26_Light "Shadows & Light")_, pg. 132
+21.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-21) _[World of Warcraft: Illidan](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Illidan "World of Warcraft: Illidan")_, chapter 9
+22.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-22) _[Stormrage](https://wowpedia.fandom.com/wiki/Stormrage "Stormrage")_, chapter 29
+23.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-23) [Khadgar#Khadgar's story in his own words](https://wowpedia.fandom.com/wiki/Khadgar#Khadgar's_story_in_his_own_words "Khadgar")
+24.  [^](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond#cite_ref-24)  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [The Eternal City](https://wowpedia.fandom.com/wiki/The_Eternal_City)
+
+## External links
+
+-   [Wowhead](https://www.wowhead.com/zone=8439)
+-   [WoWDB](https://www.wowdb.com/zones/8439)
+
+| Collapse
+-   [v](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe "Template:Warcraft universe")
+-   [e](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe?action=edit)
+
+Worlds of the [_Warcraft_ universe](https://wowpedia.fandom.com/wiki/Warcraft_universe "Warcraft universe")
+
+
+
+ |
+| --- |
+|  |
+| [Planets](https://wowpedia.fandom.com/wiki/Planet "Planet"), [moons](https://wowpedia.fandom.com/wiki/Moon "Moon"),  
+and other locations | 
+
+<table><tbody><tr><th scope="row">Major</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus" title="Argus">Argus</a><sup><a href="https://wowpedia.fandom.com/wiki/World-soul" title="World-soul">ω</a></sup></li><li><a href="https://wowpedia.fandom.com/wiki/Azeroth" title="Azeroth">Azeroth</a><sup><a href="https://wowpedia.fandom.com/wiki/World-soul" title="World-soul">ω</a></sup><ul><li><a href="https://wowpedia.fandom.com/wiki/Blue_Child" title="Blue Child">Blue Child</a></li><li><a href="https://wowpedia.fandom.com/wiki/White_Lady" title="White Lady">White Lady</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Draenor" title="Draenor">Draenor</a><sup>&nbsp;†</sup><ul><li><a href="https://wowpedia.fandom.com/wiki/Pale_Lady" title="Pale Lady">Pale Lady</a></li><li><a href="https://wowpedia.fandom.com/wiki/Outland" title="Outland">Outland</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Minor</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Chill%27s_Reach" title="Chill's Reach">Chill's Reach</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar_Rift" title="Dreadscar Rift">Dreadscar Rift</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elunaria" title="Elunaria">Elunaria</a></li><li><a href="https://wowpedia.fandom.com/wiki/Invasion_Point" title="Invasion Point">Invasion Points</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aurinor" title="Aurinor">Aurinor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonich" title="Bonich">Bonich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cen%27gar" title="Cen'gar">Cen'gar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Naigtal" title="Naigtal">Naigtal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sangua" title="Sangua">Sangua</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val" title="Val">Val</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Mardum,_the_Shattered_Abyss" title="Mardum, the Shattered Abyss">Mardum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherlight_Temple" title="Netherlight Temple">Netherlight Temple</a></li><li><a href="https://wowpedia.fandom.com/wiki/Niskara" title="Niskara">Niskara</a></li><li><a href="https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon" title="Seat of the Pantheon">Seat of the Pantheon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowgore_Citadel" title="Shadowgore Citadel">Shadowgore Citadel</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shattered_Grove" title="Shattered Grove">Shattered Grove</a></li><li><a href="https://wowpedia.fandom.com/wiki/Telogrus_Rift" title="Telogrus Rift">Telogrus Rift</a></li><li><a href="https://wowpedia.fandom.com/wiki/Planets#Unnamed" title="Planets">Unnamed locations</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xandros" title="Xandros">Xandros</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Lore</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Centralis" title="Centralis">Centralis</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fanlin%27Deskor" title="Fanlin'Deskor">Fanlin'Deskor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fyzandi" title="Fyzandi">Fyzandi</a></li><li><a href="https://wowpedia.fandom.com/wiki/K%27aresh" title="K'aresh">K'aresh</a></li><li><a href="https://wowpedia.fandom.com/wiki/Karkora" title="Karkora">Karkora</a></li><li><a href="https://wowpedia.fandom.com/wiki/Kerxan" title="Kerxan">Kerxan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nathreza" title="Nathreza">Nathreza</a></li><li><a href="https://wowpedia.fandom.com/wiki/Navane" title="Navane">Navane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nihilam" title="Nihilam">Nihilam</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rancora" title="Rancora">Rancora</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shar%27gel" title="Shar'gel">Shar'gel</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tarratus" title="Tarratus">Tarratus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Planets#Unnamed" title="Planets">Unnamed worlds</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xerrath" title="Xerrath">Xerrath</a><sup>&nbsp;†</sup></li><li><a href="https://wowpedia.fandom.com/wiki/Xoroth" title="Xoroth">Xoroth</a></li></ul></div></td></tr></tbody></table>
+
+ | 
+
+[![Map of the cosmos](https://static.wikia.nocookie.net/wowpedia/images/6/6c/WorldMap-Cosmic.jpg/revision/latest/scale-to-width-down/120?cb=20200816144412)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/WorldMap-Cosmic.jpg/revision/latest?cb=20200816144412 "Map of the cosmos")
+
+ |
+|  |
+| Cosmic [planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+
+-   **Great Dark Beyond**
+-   [Light](https://wowpedia.fandom.com/wiki/Light "Light")
+-   [Other planes](https://wowpedia.fandom.com/wiki/Planes#Other_realms "Planes")
+    -   [Pocket dimensions](https://wowpedia.fandom.com/wiki/Plane#Pocket_dimensions "Plane")
+-   [The Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") ([The Veil](https://wowpedia.fandom.com/wiki/Veil "Veil"))
+-   [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether")
+-   [Void](https://wowpedia.fandom.com/wiki/Void "Void")
+
+
+
+ |
+|  |
+| [Alternate timelines](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") | 
+
+-   [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)")
+-   [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time")
+-   [Film universe](https://wowpedia.fandom.com/wiki/Film_universe "Film universe")
+    -   [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth_(film_universe) "Azeroth (film universe)")
+    -   [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(film_universe) "Draenor (film universe)")
+-   [Other alternate realms](https://wowpedia.fandom.com/wiki/Alternate_timeline#Alternate_universes "Alternate timeline")
+
+
+
+ |
+|  |
+| 
+
+[Worlds category](https://wowpedia.fandom.com/wiki/Category:Worlds "Category:Worlds")
+
+
+
+ |
