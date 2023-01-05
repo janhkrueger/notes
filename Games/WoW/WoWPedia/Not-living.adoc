@@ -2,9 +2,9 @@
 | --- |
 | [![Reanimation HS.jpg](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Reanimation_HS.jpg/revision/latest/scale-to-width-down/260?cb=20220301002112)](https://static.wikia.nocookie.net/wowpedia/images/3/3f/Reanimation_HS.jpg/revision/latest?cb=20220301002112) |
 | Main leader | [![IconSmall Galakrond.gif](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Galakrond.gif/revision/latest/scale-to-width-down/16?cb=20200521100339)](https://static.wikia.nocookie.net/wowpedia/images/5/56/IconSmall_Galakrond.gif/revision/latest?cb=20200521100339) [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond") <sup>&nbsp;†</sup> |
-| Race(s) | [Proto-dragon](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon")  
+| Race(s) | [Proto-dragon](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon")
  |
-| Theater of operations | [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
+| Theater of operations | xref:Northrend.adoc[Northrend] |
 | Affiliation | [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond") |
 | Status | Defeated |
 
@@ -18,7 +18,7 @@ As Galakrond struggled to dislodge the rock from his throat, his control over th
 
 ## Notes
 
--   The not-living are the first known [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") threat that [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") has faced.
+-   The not-living are the first known [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") threat that xref:Azeroth.adoc[Azeroth] has faced.
 -   The [Not-Friend](https://wowpedia.fandom.com/wiki/Not-Friend "Not-Friend") manifestations are part of [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera")'s nightmares when her soul initially resided in [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald").
 -   [Reanimated Dragon](https://hearthstone.fandom.com/wiki/Reanimated_Dragon "hswiki:Reanimated Dragon") is summoned in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ from the [Reanimation](https://hearthstone.fandom.com/wiki/Reanimation "hswiki:Reanimation") choice card produced by [Kronx Dragonhoof](https://hearthstone.fandom.com/wiki/Kronx_Dragonhoof "hswiki:Kronx Dragonhoof") if the player's hero is Galakrond.
 -   The not-living are not known to modern inhabitants of Azeroth. There are no records existing of ancient proto-dragons battling the undead.<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Not-living#cite_note-2">[2]</a></sup> Presumably this was part of the Aspects covering up the truth of Galakrond's powers to prevent other dragons from following in his footsteps.

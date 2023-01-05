@@ -4,39 +4,39 @@ _This article is about the second battle that happened on the Broken Shore. For 
 | --- |
 | [![ToS Trailer Legion Ship.png](https://static.wikia.nocookie.net/wowpedia/images/5/56/ToS_Trailer_Legion_Ship.png/revision/latest/scale-to-width-down/300?cb=20170323215351)](https://static.wikia.nocookie.net/wowpedia/images/5/56/ToS_Trailer_Legion_Ship.png/revision/latest?cb=20170323215351) |
 | Location | [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") |
-| Result | 
+| Result |
 Decisive [Legionfall](https://wowpedia.fandom.com/wiki/Legionfall "Legionfall") victory
 
--   Legionfall forces assault the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), forcing shut the Legion's gateway to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and slaying [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") himself
+-   Legionfall forces assault the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), forcing shut the Legion's gateway to xref:Azeroth.adoc[Azeroth] and slaying [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") himself
 -   Last major [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") foothold on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") crushed
 -   The actions of [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") lead to the formation of a rift between Azeroth and the planet [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), making the latter visible in Azeroth's sky
 
  |
-| 
+|
 
 | Belligerents |
 | --- |
-| 
+|
 [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall")
 
 -   [Class Orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order")
     -   [Valarjar](https://wowpedia.fandom.com/wiki/Valarjar "Valarjar")
-    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade")
+    -   xref:KnightsOfTheEbonBlade.adoc[Knights of the Ebon Blade]
     -   [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand")
     -   [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle")
     -   [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring")
     -   [The Uncrowned](https://wowpedia.fandom.com/wiki/The_Uncrowned "The Uncrowned")
     -   [Tirisgarde](https://wowpedia.fandom.com/wiki/Tirisgarde "Tirisgarde")
     -   [Unseen Path](https://wowpedia.fandom.com/wiki/Unseen_Path "Unseen Path")
-    -   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
+    -   xref:Illidari.adoc[Illidari]
     -   [The Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave")
     -   [Council of the Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest")
     -   [Order of the Broken Temple](https://wowpedia.fandom.com/wiki/Order_of_the_Broken_Temple "Order of the Broken Temple")
--   [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+-   xref:KirinTor.adoc[Kirin Tor]
 -   [The Wardens](https://wowpedia.fandom.com/wiki/The_Wardens "The Wardens")
 
  |
-| 
+|
 
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
 
@@ -45,11 +45,11 @@ Decisive [Legionfall](https://wowpedia.fandom.com/wiki/Legionfall "Legionfall") 
  |
 
  |
-| 
+|
 
 | Commanders and leaders |
 | --- |
-| 
+|
 [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall")
 
 -   [![IconSmall Khadgar.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/IconSmall_Khadgar.gif/revision/latest?cb=20211212102856) [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar")
@@ -59,7 +59,7 @@ Decisive [Legionfall](https://wowpedia.fandom.com/wiki/Legionfall "Legionfall") 
 -   [Class Order Hall champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")
 
  |
-| 
+|
 
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
 
@@ -73,17 +73,17 @@ Decisive [Legionfall](https://wowpedia.fandom.com/wiki/Legionfall "Legionfall") 
  |
 
  |
-| 
+|
 
 | Casualties and losses |
 | --- |
-| 
+|
 [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall")
 
 -   Heavy
 
  |
-| 
+|
 
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
 
@@ -95,9 +95,9 @@ Decisive [Legionfall](https://wowpedia.fandom.com/wiki/Legionfall "Legionfall") 
 | Previous | [Nightfallen rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion") |
 | Next | [Legion Assaults](https://wowpedia.fandom.com/wiki/Legion_Assaults "Legion Assaults") |
 
-The **Assault on Broken Shore** (or the **Legionfall Campaign**)<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#cite_note-2">[2]</a></sup> is a battle between the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and a united force of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s defenders, centered around the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") region of the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), as a part of the larger [war in the Broken Isles](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion#War_in_the_Broken_Isles "Third invasion of the Burning Legion"). The assault, triggered by a Legion attack on [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), echoed [a similar effort](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore") launched at the war's outbreak; one which ultimately resulted in a decisive victory for the Burning Legion.
+The **Assault on Broken Shore** (or the **Legionfall Campaign**)<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#cite_note-2">[2]</a></sup> is a battle between the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") and a united force of xref:Azeroth.adoc[Azeroth]'s defenders, centered around the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") region of the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"), as a part of the larger [war in the Broken Isles](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion#War_in_the_Broken_Isles "Third invasion of the Burning Legion"). The assault, triggered by a Legion attack on [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), echoed [a similar effort](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore") launched at the war's outbreak; one which ultimately resulted in a decisive victory for the Burning Legion.
 
-In preparing for the imminent assault on the Legion-held Broken Shore, representatives from all of the various [Class Orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") met to form the [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall"), a new unified faction dedicated to thwarting the Burning Legion. Under the direction of [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), this new force successfully threw back the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon")' assault on Dalaran and secured a foothold on the Broken Shore itself.
+In preparing for the imminent assault on the Legion-held Broken Shore, representatives from all of the various [Class Orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") met to form the [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall"), a new unified faction dedicated to thwarting the Burning Legion. Under the direction of [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") of the xref:KirinTor.adoc[Kirin Tor], this new force successfully threw back the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon")' assault on Dalaran and secured a foothold on the Broken Shore itself.
 
 Based from the position of [Deliverance Point](https://wowpedia.fandom.com/wiki/Deliverance_Point "Deliverance Point"), the Armies of Legionfall quickly set about engaging the Legion throughout the Broken Shore, securing further gains against [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden")'s forces. The mortals' primary goal remains the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), the focal point of the Burning Legion's invasion, where they seek to sever the Legion's link the [Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether").
 
@@ -111,7 +111,7 @@ The meeting in [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
 
 The outcome of the siege of the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold") in [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") saw the conclusion of the [Nightfallen rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion"), the death of the [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)"), and the failure of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s plans in the region. The recovery of the final [Pillar of Creation](https://wowpedia.fandom.com/wiki/Pillar_of_Creation "Pillar of Creation"), the [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul"), also marked a new milestone in the fight against the Legion's invasion as a whole.
 
-With all the ancient artifacts in hand, the portal facilitating the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon")' assault on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") could finally be sealed shut permanently, ending the immediate threat to the world. This portal, however, was located at the very center of the Legion's presence on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"): the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"). A meeting was subsequently called by [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar") of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") in the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to plan for the impending assault, with representatives from all of Azeroth's [Class Orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") in attendance.
+With all the ancient artifacts in hand, the portal facilitating the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon")' assault on xref:Azeroth.adoc[Azeroth] could finally be sealed shut permanently, ending the immediate threat to the world. This portal, however, was located at the very center of the Legion's presence on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"): the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"). A meeting was subsequently called by [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar") of the xref:KirinTor.adoc[Kirin Tor] in the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to plan for the impending assault, with representatives from all of Azeroth's [Class Orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") in attendance.
 
 [During the ensuing meeting](https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#) on [Krasus' Landing](https://wowpedia.fandom.com/wiki/Krasus%27_Landing "Krasus' Landing"), Khadgar outlined to those gathered the importance of striking against the Legion immediately, now that all the Pillars of Creation were in their possession. [Prophet Velen](https://wowpedia.fandom.com/wiki/Prophet_Velen "Prophet Velen") went on to preach caution and vigilance to those gathered; yet unbeknownst to even Velen, the [demon lord](https://wowpedia.fandom.com/wiki/Demon_lord "Demon lord") [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") himself was observing the gathering from the planet [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"). Infuriated on seeing his former friend, Kil'jaeden ordered a massive attack on Dalaran itself, after communing with his master [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras").
 
@@ -141,7 +141,7 @@ Legion Portal
 
 [Demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") forces on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore")
 
-Soon, the Armies of Legionfall began operating from several other locations throughout the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), including [Vengeance Point](https://wowpedia.fandom.com/wiki/Vengeance_Point "Vengeance Point") to the north and [Aalgen Point](https://wowpedia.fandom.com/wiki/Aalgen_Point "Aalgen Point") in the east. The garrison of [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") [demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") at Vengeance Point, in particular, came under heavy attack from demonic forces, which attempted to overwhelm the outpost. [Champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Order Halls](https://wowpedia.fandom.com/wiki/Order_Hall "Order Hall") ultimately succeeding in stemming this tide early in the conflict.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#cite_note-4">[4]</a></sup>
+Soon, the Armies of Legionfall began operating from several other locations throughout the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), including [Vengeance Point](https://wowpedia.fandom.com/wiki/Vengeance_Point "Vengeance Point") to the north and [Aalgen Point](https://wowpedia.fandom.com/wiki/Aalgen_Point "Aalgen Point") in the east. The garrison of xref:Illidari.adoc[Illidari] [demon hunters](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter") at Vengeance Point, in particular, came under heavy attack from demonic forces, which attempted to overwhelm the outpost. [Champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Order Halls](https://wowpedia.fandom.com/wiki/Order_Hall "Order Hall") ultimately succeeding in stemming this tide early in the conflict.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Assault_on_Broken_Shore#cite_note-4">[4]</a></sup>
 
 With a base established, the Armies of Legionfall rapidly set about constructing various other important structures at Deliverance Point which would aid in the fight against the Burning Legion. In particular, the [Mage Tower](https://wowpedia.fandom.com/wiki/Mage_Tower_(Broken_Shore) "Mage Tower (Broken Shore)"), [Nether Disruptor](https://wowpedia.fandom.com/wiki/Nether_Disruptor "Nether Disruptor"), and [Command Center](https://wowpedia.fandom.com/wiki/Command_Center "Command Center") became a major focus of the Order Halls, the building of which in turn required a great deal of resources and supplies secured across the region. Even when completed, however, these structures became key targets for demonic attacks and thus rarely remained intact for long.
 
@@ -167,14 +167,14 @@ After weeks of a hard-fought battle, Azeroth's heroes, at last, enter the dark [
 
 ## Trivia
 
--   The "Assault on Broken Shore" scenario largely harkens back to the original [conflict on the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore") at the outset of the [Third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion").
+-   The "Assault on Broken Shore" scenario largely harkens back to the original [conflict on the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore") at the outset of the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion].
 -   Different units from different [class orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") appear to aid the [Legionfall commander](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
     -   [Cenarion Circle](https://wowpedia.fandom.com/wiki/Cenarion_Circle "Cenarion Circle"): [Tranquil Bloomers](https://wowpedia.fandom.com/wiki/Tranquil_Bloomer "Tranquil Bloomer") and an [Ancient of War](https://wowpedia.fandom.com/wiki/Ancient_of_War_(Legion) "Ancient of War (Legion)")
     -   [Conclave](https://wowpedia.fandom.com/wiki/Conclave "Conclave"): [Grand Priests](https://wowpedia.fandom.com/wiki/Grand_Priest "Grand Priest"), led by [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen")
     -   [Council of the Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest"): [Black Harvest Invokers](https://wowpedia.fandom.com/wiki/Black_Harvest_Invoker "Black Harvest Invoker") and [Acolytes](https://wowpedia.fandom.com/wiki/Black_Harvest_Acolyte "Black Harvest Acolyte"), led by [Ritssyn Flamescowl](https://wowpedia.fandom.com/wiki/Ritssyn_Flamescowl "Ritssyn Flamescowl")
     -   [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring"): [Earthen Ring Shaman](https://wowpedia.fandom.com/wiki/Earthen_Ring_Shaman "Earthen Ring Shaman")
-    -   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari"): [Illidari Veterans](https://wowpedia.fandom.com/wiki/Illidari_Veteran "Illidari Veteran"), led by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")
-    -   [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade"): [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knight_of_the_Ebon_Blade_(NPC) "Knight of the Ebon Blade (NPC)")
+    -   xref:Illidari.adoc[Illidari]: [Illidari Veterans](https://wowpedia.fandom.com/wiki/Illidari_Veteran "Illidari Veteran"), led by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")
+    -   xref:KnightsOfTheEbonBlade.adoc[Knights of the Ebon Blade]: [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knight_of_the_Ebon_Blade_(NPC) "Knight of the Ebon Blade (NPC)")
     -   [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"): [Silver Highguards](https://wowpedia.fandom.com/wiki/Silver_Highguard "Silver Highguard")
     -   [Order of the Broken Temple](https://wowpedia.fandom.com/wiki/Order_of_the_Broken_Temple "Order of the Broken Temple"): [Crane Style Masters](https://wowpedia.fandom.com/wiki/Crane_Style_Master "Crane Style Master")
     -   [Uncrowned](https://wowpedia.fandom.com/wiki/The_Uncrowned "The Uncrowned"): [Uncrowned Agents](https://wowpedia.fandom.com/wiki/Uncrowned_Agent "Uncrowned Agent")
@@ -199,16 +199,16 @@ After weeks of a hard-fought battle, Azeroth's heroes, at last, enter the dark [
 
 <table><tbody><tr><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=8581">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/8581">WoWDB</a></li></ul></td><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=8479">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/8479">WoWDB</a></li></ul></td></tr></tbody></table>
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_WoW_since_Cataclysm "Template:Conflicts in WoW since Cataclysm")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_WoW_since_Cataclysm?action=edit)
 
-Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)")
+Conflicts starting since Deathwing's xref:CataclysmEvent.adoc[cataclysm]
 
  |
 | --- |
 |  |
-| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ | 
+| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ |
 
 -   [War against Deathwing](https://wowpedia.fandom.com/wiki/War_against_Deathwing "War against Deathwing")
     -   [Elemental Unrest](https://wowpedia.fandom.com/wiki/Elemental_Unrest "Elemental Unrest")
@@ -219,8 +219,8 @@ Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wik
 
  |
 |  |
-| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ and  
-[![Mists of Pandaria](https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "Mists of Pandaria") _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_ | 
+| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ and
+[![Mists of Pandaria](https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "Mists of Pandaria") _[Mists of Pandaria](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Mists_of_Pandaria "World of Warcraft: Mists of Pandaria")_ |
 
 -   [Alliance-Horde war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war")
     -   [Invasion of Gilneas](https://wowpedia.fandom.com/wiki/Invasion_of_Gilneas "Invasion of Gilneas")
@@ -241,7 +241,7 @@ Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wik
 
  |
 |  |
-| [![Warlords of Draenor](https://static.wikia.nocookie.net/wowpedia/images/7/71/WoD-Logo-Small.png/revision/latest?cb=20131108221912)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "Warlords of Draenor") _[Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_ | 
+| [![Warlords of Draenor](https://static.wikia.nocookie.net/wowpedia/images/7/71/WoD-Logo-Small.png/revision/latest?cb=20131108221912)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "Warlords of Draenor") _[Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_ |
 
 -   [War between the Breakers and the Primals](https://wowpedia.fandom.com/wiki/War_between_the_Breakers_and_the_Primals "War between the Breakers and the Primals")
 -   [War in Draenor](https://wowpedia.fandom.com/wiki/War_in_Draenor "War in Draenor")
@@ -260,7 +260,7 @@ Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wik
 
  |
 |  |
-| [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ | 
+| [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ |
 
 -   [Legion's third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"): [Battle for Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_Broken_Shore "Battle for Broken Shore")
 -   [Legion Invasions](https://wowpedia.fandom.com/wiki/Legion_Invasions "Legion Invasions")
@@ -279,7 +279,7 @@ Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wik
 
  |
 |  |
-| [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_ | 
+| [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") _[Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth")_ |
 
 -   [The Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"): [War of the Thorns](https://wowpedia.fandom.com/wiki/War_of_the_Thorns "War of the Thorns")
 -   [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron")
@@ -314,7 +314,7 @@ Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wik
 
  |
 |  |
-| [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_ | 
+| [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_ |
 
 -   [War against the Jailer](https://wowpedia.fandom.com/wiki/War_against_the_Jailer "War against the Jailer")
     -   [Death Rising](https://wowpedia.fandom.com/wiki/Death_Rising "Death Rising")
@@ -329,7 +329,7 @@ Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wik
 
  |
 |  |
-| [![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_ | 
+| [![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "Dragonflight") _[Dragonflight](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Dragonflight "World of Warcraft: Dragonflight")_ |
 
 -   [Tempest Unleashed](https://wowpedia.fandom.com/wiki/Tempest_Unleashed "Tempest Unleashed")
 -   War against the Primalists
@@ -338,7 +338,7 @@ Conflicts starting since Deathwing's [Cataclysm](https://wowpedia.fandom.com/wik
 
  |
 |  |
-| 
+|
 
 -   [Previous](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_WoW_through_WotLK "Template:Conflicts in WoW through WotLK")
 -   [Wars category](https://wowpedia.fandom.com/wiki/Category:Wars "Category:Wars")

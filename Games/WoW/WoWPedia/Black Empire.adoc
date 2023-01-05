@@ -5,22 +5,22 @@ The Black Empire on the young Azeroth. Likely showing [C'Thun](https://wowpedia.
 
  |
 | Main leader |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/95/IconSmall_N%27Zoth.gif/revision/latest/scale-to-width-down/16?cb=20210410181855)[N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") <sup>&nbsp;†</sup> |
-|   Formerly | 
+|   Formerly |
 
  ![](https://static.wikia.nocookie.net/wowpedia/images/f/ff/IconSmall_Y%27Shaarj.gif/revision/latest/scale-to-width-down/16?cb=20210410191207)[Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") <sup>&nbsp;†</sup>
 
 -    ![](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_OldGod.gif/revision/latest/scale-to-width-down/16?cb=20221014224415)[C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") (passive)
--    ![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Yogg-Saron.gif/revision/latest/scale-to-width-down/16?cb=20210410185326)[Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") (passive)
+-    ![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Yogg-Saron.gif/revision/latest/scale-to-width-down/16?cb=20210410185326)xref:YoggSaron.adoc[Yogg-Saron] (passive)
 
  |
 | Secondary leaders | [![IconSmall FacelessGeneral.gif](https://static.wikia.nocookie.net/wowpedia/images/8/8a/IconSmall_FacelessGeneral.gif/revision/latest/scale-to-width-down/16?cb=20181111161022)](https://static.wikia.nocookie.net/wowpedia/images/8/8a/IconSmall_FacelessGeneral.gif/revision/latest?cb=20181111161022) [C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") |
 |   Formerly | [![IconSmall AirLord.gif](https://static.wikia.nocookie.net/wowpedia/images/3/35/IconSmall_Al%27Akir.gif/revision/latest/scale-to-width-down/16?cb=20211206105500)](https://static.wikia.nocookie.net/wowpedia/images/3/35/IconSmall_Al%27Akir.gif/revision/latest?cb=20211206105500)[![IconSmall WaterLord.gif](https://static.wikia.nocookie.net/wowpedia/images/0/06/IconSmall_Neptulon.gif/revision/latest/scale-to-width-down/16?cb=20211213125222)](https://static.wikia.nocookie.net/wowpedia/images/0/06/IconSmall_Neptulon.gif/revision/latest?cb=20211213125222)[![IconSmall FireLord.gif](https://static.wikia.nocookie.net/wowpedia/images/c/c2/IconSmall_Ragnaros.gif/revision/latest/scale-to-width-down/16?cb=20211214075637)](https://static.wikia.nocookie.net/wowpedia/images/c/c2/IconSmall_Ragnaros.gif/revision/latest?cb=20211214075637)[![IconSmall EarthLord.gif](https://static.wikia.nocookie.net/wowpedia/images/f/f6/IconSmall_Therazane.gif/revision/latest/scale-to-width-down/16?cb=20211214092140)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/IconSmall_Therazane.gif/revision/latest?cb=20211214092140) [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") |
-| Race(s) | [![Old god](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_OldGod.gif/revision/latest/scale-to-width-down/16?cb=20221014224415)](https://wowpedia.fandom.com/wiki/Old_God "Old god")[![Old god](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Yogg-Saron.gif/revision/latest/scale-to-width-down/16?cb=20210410185326)](https://wowpedia.fandom.com/wiki/Old_God "Old god") [Old god](https://wowpedia.fandom.com/wiki/Old_God "Old God")  
-[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/8/8a/IconSmall_FacelessGeneral.gif/revision/latest/scale-to-width-down/16?cb=20181111161022)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/8/8e/IconSmall_FacelessoftheDeep.gif/revision/latest/scale-to-width-down/16?cb=20181111155323)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/d/d2/IconSmall_FacelessShadoweaver.gif/revision/latest/scale-to-width-down/16?cb=20181111155337)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/a/aa/IconSmall_FacelessOne.gif/revision/latest/scale-to-width-down/16?cb=20181111155312)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")  
-[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_Aqir.gif/revision/latest/scale-to-width-down/16?cb=20200518160912)](https://wowpedia.fandom.com/wiki/Aqir "Aqir")[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/0/08/IconSmall_AqirGoliath.gif/revision/latest/scale-to-width-down/16?cb=20200518160930)](https://wowpedia.fandom.com/wiki/Aqir "Aqir")[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/3/37/IconSmall_AqirPriest.gif/revision/latest/scale-to-width-down/16?cb=20200518160937)](https://wowpedia.fandom.com/wiki/Aqir "Aqir")[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/2/2e/IconSmall_AqirProphet.gif/revision/latest/scale-to-width-down/16?cb=20200518161419)](https://wowpedia.fandom.com/wiki/Aqir "Aqir") [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")  
-[![Twilight dragon](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_DragonTwilight.gif/revision/latest/scale-to-width-down/16?cb=20211129080719)](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon") [Twilight dragon](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon")  
-[![Mantid](https://static.wikia.nocookie.net/wowpedia/images/e/e3/IconSmall_MantidQueen.gif/revision/latest/scale-to-width-down/16?cb=20200518133956)](https://wowpedia.fandom.com/wiki/Mantid "Mantid")[![Mantid](https://static.wikia.nocookie.net/wowpedia/images/8/8c/IconSmall_MantidVizier.gif/revision/latest/scale-to-width-down/16?cb=20200518174623)](https://wowpedia.fandom.com/wiki/Mantid "Mantid") [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")  
-[![Tol'vir](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_Tol%27vir.gif/revision/latest/scale-to-width-down/16?cb=20211118180646)](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")[![Tol'vir](https://static.wikia.nocookie.net/wowpedia/images/a/a2/IconSmall_Ramkahen.gif/revision/latest/scale-to-width-down/16?cb=20211118180641)](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir") [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")  
+| Race(s) | [![Old god](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_OldGod.gif/revision/latest/scale-to-width-down/16?cb=20221014224415)](https://wowpedia.fandom.com/wiki/Old_God "Old god")[![Old god](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Yogg-Saron.gif/revision/latest/scale-to-width-down/16?cb=20210410185326)](https://wowpedia.fandom.com/wiki/Old_God "Old god") [Old god](https://wowpedia.fandom.com/wiki/Old_God "Old God")
+[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/8/8a/IconSmall_FacelessGeneral.gif/revision/latest/scale-to-width-down/16?cb=20181111161022)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/8/8e/IconSmall_FacelessoftheDeep.gif/revision/latest/scale-to-width-down/16?cb=20181111155323)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/d/d2/IconSmall_FacelessShadoweaver.gif/revision/latest/scale-to-width-down/16?cb=20181111155337)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")[![N'raqi](https://static.wikia.nocookie.net/wowpedia/images/a/aa/IconSmall_FacelessOne.gif/revision/latest/scale-to-width-down/16?cb=20181111155312)](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") [N'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi")
+[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/0/0e/IconSmall_Aqir.gif/revision/latest/scale-to-width-down/16?cb=20200518160912)](https://wowpedia.fandom.com/wiki/Aqir "Aqir")[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/0/08/IconSmall_AqirGoliath.gif/revision/latest/scale-to-width-down/16?cb=20200518160930)](https://wowpedia.fandom.com/wiki/Aqir "Aqir")[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/3/37/IconSmall_AqirPriest.gif/revision/latest/scale-to-width-down/16?cb=20200518160937)](https://wowpedia.fandom.com/wiki/Aqir "Aqir")[![Aqir](https://static.wikia.nocookie.net/wowpedia/images/2/2e/IconSmall_AqirProphet.gif/revision/latest/scale-to-width-down/16?cb=20200518161419)](https://wowpedia.fandom.com/wiki/Aqir "Aqir") [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
+[![Twilight dragon](https://static.wikia.nocookie.net/wowpedia/images/8/80/IconSmall_DragonTwilight.gif/revision/latest/scale-to-width-down/16?cb=20211129080719)](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon") [Twilight dragon](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon")
+[![Mantid](https://static.wikia.nocookie.net/wowpedia/images/e/e3/IconSmall_MantidQueen.gif/revision/latest/scale-to-width-down/16?cb=20200518133956)](https://wowpedia.fandom.com/wiki/Mantid "Mantid")[![Mantid](https://static.wikia.nocookie.net/wowpedia/images/8/8c/IconSmall_MantidVizier.gif/revision/latest/scale-to-width-down/16?cb=20200518174623)](https://wowpedia.fandom.com/wiki/Mantid "Mantid") [Mantid](https://wowpedia.fandom.com/wiki/Mantid "Mantid")
+[![Tol'vir](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_Tol%27vir.gif/revision/latest/scale-to-width-down/16?cb=20211118180646)](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")[![Tol'vir](https://static.wikia.nocookie.net/wowpedia/images/a/a2/IconSmall_Ramkahen.gif/revision/latest/scale-to-width-down/16?cb=20211118180641)](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir") [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
 [![Anubisath](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Anubisath.gif/revision/latest/scale-to-width-down/16?cb=20200225210759)](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath") [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath") |
 | Capital | [Ny'alotha](https://wowpedia.fandom.com/wiki/Ny%27alotha "Ny'alotha") <sup>&nbsp;†</sup> |
 |   Formerly | [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")'s temple city<sup id="cite_ref-Chronicle_1-0"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Chronicle-1">[1]</a></sup> |
@@ -28,7 +28,7 @@ The Black Empire on the young Azeroth. Likely showing [C'Thun](https://wowpedia.
 | Affiliation | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent"), [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") |
 | Status | Unknown (possibly disbanded after Azeroth's liberation from the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"))<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-2">[2]</a></sup> |
 
-The **Black Empire** was the dark civilization established by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") after their arrival on primordial [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). It reigned over much of the world after the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") and their armies failed to repel the Old Gods. The empire was ultimately destroyed by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") armies of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon").
+The **Black Empire** was the dark civilization established by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") after their arrival on primordial xref:Azeroth.adoc[Azeroth]. It reigned over much of the world after the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") and their armies failed to repel the Old Gods. The empire was ultimately destroyed by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") armies of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon").
 
 After the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the Black Empire was recreated by [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), before being defeated by Azeroth's [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") with the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth).
 
@@ -48,13 +48,13 @@ After slamming into Azeroth from the [Great Dark Beyond](https://wowpedia.fandom
 
 The rise of the Black Empire did not go unnoticed by the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord"), who had previously been the only inhabitants of Azeroth. Seeing the Old Ones as a threat to their dominion, for the first time in Azeroth's history, the native spirits of the world united against a common enemy. Ultimately, however, the [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental") could not stand against the endless swarms of n'raqi and aqir, and the Old Gods eventually succeeded in enslaving the Elemental Lords. Without the native spirits of the world to hinder the Old Gods' influence, the Black Empire's borders crept over much of the desiccated world. Perpetual twilight descended upon Azeroth, and the world spiraled into an abyss of death and suffering.<sup id="cite_ref-Chronicle_1-2"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Chronicle-1">[1]</a></sup>
 
-The Old Gods constantly fought against each other, through infinite armies that clashed in ceaseless battle.<sup id="cite_ref-Xal'atath_4-0"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Xal'atath-4">[4]</a></sup> The forces of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), led by the [C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") [Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz"), waged endless war against the forces of [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-5">[5]</a></sup> and at one point, N'Zoth also lost a great battle to [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") in the land now known as the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"). However, as was so often the case, even defeat ultimately worked in N'Zoth's favor.<sup id="cite_ref-Xal'atath_4-1"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Xal'atath-4">[4]</a></sup>
+The Old Gods constantly fought against each other, through infinite armies that clashed in ceaseless battle.<sup id="cite_ref-Xal'atath_4-0"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Xal'atath-4">[4]</a></sup> The forces of [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), led by the [C'Thraxxi](https://wowpedia.fandom.com/wiki/C%27Thrax "C'Thrax") [Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz"), waged endless war against the forces of [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and xref:YoggSaron.adoc[Yogg-Saron]<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-5">[5]</a></sup> and at one point, N'Zoth also lost a great battle to [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") in the land now known as the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"). However, as was so often the case, even defeat ultimately worked in N'Zoth's favor.<sup id="cite_ref-Xal'atath_4-1"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Xal'atath-4">[4]</a></sup>
 
 ### Arrival of the titans
 
 One day, however, the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") arrived with the intention of purging Azeroth of the Old Gods' corruption and saving its growing world-soul. As the titans' bodies were too massive for them to take action directly without risking permanent harm to the planet, they instead crafted the mighty [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") — the [aesir](https://wowpedia.fandom.com/wiki/Aesir "Aesir") and the [vanir](https://wowpedia.fandom.com/wiki/Vanir "Vanir") — to do battle in their stead. The titan-forged succeeded in defeating the Elemental Lords and sealing them in an [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") and destroyed most of the aqiri race, but when they began making their way towards the temple city of Y'Shaarj, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") feared that the Old God would prove too great a challenge for them. [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul") the Highfather decided to take direct action, despite the risk of inflicting permanent damage to the planet. Thus, he reached down through Azeroth's skies and ripped Y'Shaarj from the surface of the world, tearing the Old God apart and obliterating hundreds of titan-forged in the process. To the titans' horror, a [great wound](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") was left in Y'Shaarj's wake, and the world-soul's [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") lifeblood erupted from the scar to roil out across the world. The Pantheon realized that the Old Gods had burrowed far deeper into the surface than anticipated, and they could not risk excising the remaining three Old Ones, lest Azeroth be completely destroyed. Instead, the Pantheon ordered their titan-forged servants to imprison the remaining Old Gods and contain their evil below the earth, rather than outright killing them.<sup id="cite_ref-Chronicle_1-3"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Chronicle-1">[1]</a></sup>
 
-After several long and difficult battles, the titan-forged succeeded in imprisoning [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") where they lay, even after Yogg-Saron unleashed its mighty C'Thraxxi generals. The Black Empire was no more, and for the first time in Azeroth's history, a tentative peace settled over the world.<sup id="cite_ref-Chronicle_1-4"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Chronicle-1">[1]</a></sup>
+After several long and difficult battles, the titan-forged succeeded in imprisoning [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") and xref:YoggSaron.adoc[Yogg-Saron] where they lay, even after Yogg-Saron unleashed its mighty C'Thraxxi generals. The Black Empire was no more, and for the first time in Azeroth's history, a tentative peace settled over the world.<sup id="cite_ref-Chronicle_1-4"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Chronicle-1">[1]</a></sup>
 
 ### Modern times
 
@@ -68,7 +68,7 @@ Even after the Black Empire's fall, the Old Gods continue to influence the morta
 
 [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
 
-After arriving on Azeroth, [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") and the [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") heard the whispers of the Old Gods, who showed the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") and [ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") visions of the terrible glory of the Black Empire, which the Twilight's Hammer could help rebuild as a way of heralding the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-7">[7]</a></sup> During the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), N'Zoth intended to use [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") to restore the Black Empire and shroud the world in shadow.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-8">[8]</a></sup>
+After arriving on Azeroth, xref:Chogall.adoc[Cho'gall] and the [Twilight's Hammer clan](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") heard the whispers of the Old Gods, who showed the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") and [ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") visions of the terrible glory of the Black Empire, which the Twilight's Hammer could help rebuild as a way of heralding the [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-7">[7]</a></sup> During the xref:CataclysmEvent.adoc[cataclysm], N'Zoth intended to use [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") to restore the Black Empire and shroud the world in shadow.<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-8">[8]</a></sup>
 
 At least some powerful n'raqi also seek to reforge the Black Empire and restore it to its former glory.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-9">[9]</a></sup>
 
@@ -78,7 +78,7 @@ The [blood trolls](https://wowpedia.fandom.com/wiki/Blood_troll "Blood troll") o
 
 Later during  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[50\] [Investigating the Halls](https://wowpedia.fandom.com/wiki/Investigating_the_Halls), [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") surmises that the nightmarish visions seen by the player is a future with a restored Black Empire, and theorizes that this is N'Zoth's ultimate goal. Wrathion later surmises that N'Zoth intends to do so by seizing control of the [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination") and use the Reorigination Protocol to transform Azeroth. At N'Zoth's command, the Black Empire [assaults](https://wowpedia.fandom.com/wiki/Assaults "Assaults") the [Vale of Eternal Blossoms](https://wowpedia.fandom.com/wiki/Vale_of_Eternal_Blossoms "Vale of Eternal Blossoms") and [Uldum](https://wowpedia.fandom.com/wiki/Uldum "Uldum") under the command of [Vil'raxx](https://wowpedia.fandom.com/wiki/Vil%27raxx "Vil'raxx") and [Black Warden Rhothkozz](https://wowpedia.fandom.com/wiki/Black_Warden_Rhothkozz "Black Warden Rhothkozz"), respectively.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-11">[11]</a></sup><sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-12">[12]</a></sup>
 
-Seeking to stop N'Zoth from claiming Azeroth, [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") invaded [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City") combating the Black Empire and ultimately defeating, and presumably killing, N'Zoth.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-13">[13]</a></sup>
+Seeking to stop N'Zoth from claiming Azeroth, [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the xref:Horde.adoc[Horde] and xref:Alliance.adoc[Alliance] invaded [Ny'alotha, the Waking City](https://wowpedia.fandom.com/wiki/Ny%27alotha,_the_Waking_City "Ny'alotha, the Waking City") combating the Black Empire and ultimately defeating, and presumably killing, N'Zoth.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-13">[13]</a></sup>
 
 #### Dragonflight
 
@@ -98,15 +98,15 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
 
 -   [Xal'atath](https://wowpedia.fandom.com/wiki/Xal%27atath "Xal'atath") makes several remarks regarding the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore") and its connection to the Old Gods. The dagger claims that the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") pales in comparison to the grandeur of what stood there long ago. It explains that Thal'dranath was always a place of power, and that [Aegwynn](https://wowpedia.fandom.com/wiki/Aegwynn "Aegwynn") was drawn there, as were the [elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), the [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"), and something else, likely the Old Gods. Furthermore, Xal'atath claims that the land had not seen "such carnage" since the [Battle for K'tanth](https://wowpedia.fandom.com/wiki/Battle_for_K%27tanth "Battle for K'tanth"), which occurred "long ago", and that it was "here" in ages past that the God of the Deep lost a great battle to the God of Seven Heads, though the defeat ultimately worked in [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")'s favor. Thus, it can be speculated that the battle between N'Zoth and [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") was fought over this place of power and the great edifice that stood there long ago, possibly named K'tanth, or alternatively what was situated beneath it.
     -   The edifice might have been destroyed during this battle, by the [elemental](https://wowpedia.fandom.com/wiki/Elemental "Elemental") armies that brought down the temples of the Old Gods, or by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") who destroyed the Black Empire.
--   Xal'atath mentions an event called "the Scouring" in its quote This land has seen so much upheaval. The [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), the [Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), the [Scouring](https://wowpedia.fandom.com/wiki/Scouring "Scouring"). You really have no idea. This likely refers to the fall of the Black Empire and the subsequent scouring of the aqir and n'raqi by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") forces.
+-   Xal'atath mentions an event called "the Scouring" in its quote This land has seen so much upheaval. The xref:CataclysmEvent.adoc[cataclysm], the [Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), the [Scouring](https://wowpedia.fandom.com/wiki/Scouring "Scouring"). You really have no idea. This likely refers to the fall of the Black Empire and the subsequent scouring of the aqir and n'raqi by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") forces.
 -   Based on [Mindflayer Kaahrj](https://wowpedia.fandom.com/wiki/Mindflayer_Kaahrj "Mindflayer Kaahrj")'s speech, the Black Empire appears to be called "Shath'mag" in the [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar") language.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-21">[21]</a></sup>
 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Banner_of_the_Black_Empire.png/revision/latest/scale-to-width-down/53?cb=20200309152303)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Banner_of_the_Black_Empire.png/revision/latest?cb=20200309152303)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Black_Empire_Obelisk.png/revision/latest/scale-to-width-down/56?cb=20200309152749)](https://static.wikia.nocookie.net/wowpedia/images/1/14/Black_Empire_Obelisk.png/revision/latest?cb=20200309152749)
-    
+
 
 ## See also
 
@@ -145,11 +145,11 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
  |
 | --- |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
--   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   xref:YoggSaron.adoc[Yogg-Saron]
 -   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
 -   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")
 -   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
@@ -158,13 +158,13 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| Characters | 
+| Characters |
 
 -   [Aku'mai](https://wowpedia.fandom.com/wiki/Aku%27mai "Aku'mai")
 -   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")
 -   [Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")
 -   [Burglosh](https://wowpedia.fandom.com/wiki/Burglosh_the_Earthbreaker "Burglosh the Earthbreaker")
--   [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")
+-   xref:Chogall.adoc[Cho'gall]
 -   [Chromatus](https://wowpedia.fandom.com/wiki/Chromatus "Chromatus")
 -   [Dal'rend Blackhand](https://wowpedia.fandom.com/wiki/Dal%27rend_Blackhand "Dal'rend Blackhand")
 -   [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")
@@ -181,7 +181,7 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
 -   [Kil'ruk](https://wowpedia.fandom.com/wiki/Kil%27ruk_the_Wind-Reaver "Kil'ruk the Wind-Reaver")
 -   [Kulratha](https://wowpedia.fandom.com/wiki/Kulratha "Kulratha")
 -   [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken")
--   [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   xref:Murozond.adoc[Murozond]
 -   [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian")
 -   [Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia")
 -   [Ozumat](https://wowpedia.fandom.com/wiki/Ozumat "Ozumat")
@@ -210,7 +210,7 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| [Races](https://wowpedia.fandom.com/wiki/Race "Race") | 
+| [Races](https://wowpedia.fandom.com/wiki/Race "Race") |
 
 -   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
 -   [Aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir")
@@ -248,7 +248,7 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Ahn'kahet: The Old Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27kahet:_The_Old_Kingdom "Ahn'kahet: The Old Kingdom")
 -   [Ahn'Qiraj: The Fallen Kingdom](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj:_The_Fallen_Kingdom "Ahn'Qiraj: The Fallen Kingdom")
@@ -269,7 +269,7 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") | 
+| [Groups](https://wowpedia.fandom.com/wiki/Faction "Faction") |
 
 -   **Black Empire**
 -   [Ragnaros minions](https://wowpedia.fandom.com/wiki/Firelands#Denizens "Firelands")
@@ -303,7 +303,7 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| 
+|
 
 -   [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh")
 -   [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar")

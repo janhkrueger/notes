@@ -3,15 +3,15 @@
 | [![Image of High Warlord Naj'entus](https://static.wikia.nocookie.net/wowpedia/images/d/db/High_Warlord_Najentus_TCG.jpg/revision/latest/scale-to-width-down/200?cb=20160127175535)](https://static.wikia.nocookie.net/wowpedia/images/d/db/High_Warlord_Najentus_TCG.jpg/revision/latest?cb=20160127175535 "Image of High Warlord Naj'entus") |
 | Race | [Naga lord](https://wowpedia.fandom.com/wiki/Naga_lord "Naga lord") (Humanoid) |
 | Level | ?? Boss |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
-| Affiliation(s) | [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"), [Coilskar tribe](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe"), [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
+| Affiliation(s) | [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"), [Coilskar tribe](https://wowpedia.fandom.com/wiki/Coilskar_tribe "Coilskar tribe"), xref:Illidari.adoc[Illidari] |
 | Location | [Karabor Sewers](https://wowpedia.fandom.com/wiki/Karabor_Sewers "Karabor Sewers"), [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") |
-| Status | Deceased (lore)<sup id="cite_ref-UVG_1-0"><a href="https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus#cite_note-UVG-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus#cite_note-2">[2]</a></sup>  
+| Status | Deceased (lore)<sup id="cite_ref-UVG_1-0"><a href="https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus#cite_note-UVG-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/High_Warlord_Naj%27entus#cite_note-2">[2]</a></sup>
 Killable [![Bc icon.gif](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Bc_icon.gif/revision/latest?cb=20110218184702)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") |
-| 
+|
 | [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple") |
 | --- |
-| 
+|
 <table><tbody><tr><td><p><strong>High Warlord Naj'entus</strong><br><a href="https://wowpedia.fandom.com/wiki/Supremus" title="Supremus">Supremus</a><br><a href="https://wowpedia.fandom.com/wiki/Shade_of_Akama_(tactics)" title="Shade of Akama (tactics)">Shade of Akama</a><br><a href="https://wowpedia.fandom.com/wiki/Teron_Gorefiend_(tactics)" title="Teron Gorefiend (tactics)">Teron Gorefiend</a><br><a href="https://wowpedia.fandom.com/wiki/Gurtogg_Bloodboil" title="Gurtogg Bloodboil">Gurtogg Bloodboil</a><br><a href="https://wowpedia.fandom.com/wiki/Reliquary_of_Souls" title="Reliquary of Souls">Reliquary of Souls</a><br><a href="https://wowpedia.fandom.com/wiki/Mother_Shahraz" title="Mother Shahraz">Mother Shahraz</a><br><a href="https://wowpedia.fandom.com/wiki/Illidari_Council" title="Illidari Council">Illidari Council</a><br><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage_(tactics)" title="Illidan Stormrage (tactics)">Illidan Stormrage</a></p></td><td><p><i>(lore)</i><br><i>(lore)</i><br><a href="https://wowpedia.fandom.com/wiki/Shade_of_Akama" title="Shade of Akama">(lore)</a><br><a href="https://wowpedia.fandom.com/wiki/Teron_Gorefiend" title="Teron Gorefiend">(lore)</a><br><i>(lore)</i><br><i>(lore)</i><br><i>(lore)</i><br><i>(lore)</i><br><a href="https://wowpedia.fandom.com/wiki/Illidan_Stormrage" title="Illidan Stormrage">(lore)</a></p></td></tr><tr><td colspan="2"><a href="https://wowpedia.fandom.com/wiki/Black_Temple_loot" title="Black Temple loot">Loot</a></td></tr></tbody></table>
 
  |
@@ -171,8 +171,8 @@ You hear a loud rumble of metal grinding on stone...
 
 ## Patch changes
 
--   [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **[Patch 2.1.0](https://wowpedia.fandom.com/wiki/Patch_2.1.0 "Patch 2.1.0") (2007-05-22):** Added.  
-    
+-   [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **[Patch 2.1.0](https://wowpedia.fandom.com/wiki/Patch_2.1.0 "Patch 2.1.0") (2007-05-22):** Added.
+
 
 ## See also
 
@@ -190,18 +190,18 @@ You hear a loud rumble of metal grinding on stone...
 -   [Wowhead](https://www.wowhead.com/npc=22887)
 -   [WoWDB](https://www.wowdb.com/npcs/22887)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Illidari "Template:Illidari")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Illidari?action=edit)
 
-The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
+The xref:Illidari.adoc[Illidari]
 
 
 
  |
 | --- |
 |  |
-| Leaders | 
+| Leaders |
 
 -   [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")
 -   [The Slayer](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer")
@@ -216,7 +216,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Former leaders | 
+| Former leaders |
 
 -   [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller")
 -   [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") (defected)
@@ -227,7 +227,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Former secondary leaders | 
+| Former secondary leaders |
 
 -   [Grand Commander Ruusk](https://wowpedia.fandom.com/wiki/Grand_Commander_Ruusk "Grand Commander Ruusk")
 -   [Grillok "Darkeye"](https://wowpedia.fandom.com/wiki/Grillok_%22Darkeye%22 "Grillok "Darkeye"")
@@ -245,7 +245,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Characters | 
+| Characters |
 
 -   [Alandien](https://wowpedia.fandom.com/wiki/Alandien "Alandien")
 -   [Ambassador Jerrikar](https://wowpedia.fandom.com/wiki/Ambassador_Jerrikar "Ambassador Jerrikar")
@@ -274,7 +274,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Former characters | 
+| Former characters |
 
 -   [Grand Magister Rommath](https://wowpedia.fandom.com/wiki/Grand_Magister_Rommath "Grand Magister Rommath")
 -   [Vagath](https://wowpedia.fandom.com/wiki/Vagath "Vagath")
@@ -285,7 +285,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Races | 
+| Races |
 
 -   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
 -   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
@@ -304,7 +304,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Cities | 
+| Cities |
 
 -   [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple")
 -   [Coilfang Reservoir](https://wowpedia.fandom.com/wiki/Coilfang_Reservoir "Coilfang Reservoir")
@@ -315,7 +315,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula")
 -   [Netherstorm](https://wowpedia.fandom.com/wiki/Netherstorm "Netherstorm")
@@ -326,7 +326,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Groups | 
+| Groups |
 
 -   [Servants of Illidan](https://wowpedia.fandom.com/wiki/Servants_of_Illidan "Servants of Illidan")
 -   [Fel Horde](https://wowpedia.fandom.com/wiki/Fel_Horde "Fel Horde") ([Bleeding Hollow clan](https://wowpedia.fandom.com/wiki/Bleeding_Hollow_clan "Bleeding Hollow clan")
@@ -357,7 +357,7 @@ The [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari")
 
  |
 |  |
-| Technology | 
+| Technology |
 
 -   [Demon ward](https://wowpedia.fandom.com/wiki/Demon_ward "Demon ward")
 -   [Nether Crucible](https://wowpedia.fandom.com/wiki/Nether_Crucible "Nether Crucible")

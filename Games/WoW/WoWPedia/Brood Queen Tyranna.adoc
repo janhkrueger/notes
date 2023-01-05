@@ -5,7 +5,7 @@
 Former Leader of Mardum, the Shattered Abyss |
 | Gender | Female |
 | Race | [Aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi") (Demon) |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
 | Affiliation(s) | [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
 | Location | [Various](https://wowpedia.fandom.com/wiki/Brood_Queen_Tyranna#Locations) |
 | Status | Deceased (lore)
@@ -14,7 +14,7 @@ Killable [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legio
 
 **Brood Queen Tyranna** is an [aranasi](https://wowpedia.fandom.com/wiki/Aranasi "Aranasi") who rules the demonic world of [Mardum](https://wowpedia.fandom.com/wiki/Mardum "Mardum"). [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") entrusted her with the  ![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Inv_7ti_titan_sargeritekeystone.png/revision/latest/scale-to-width-down/16?cb=20160428145829)[\[Sargerite Keystone\]](https://wowpedia.fandom.com/wiki/Sargerite_Keystone).
 
-After her death, the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") suspended her corpse from the ceiling of the [Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")'s central chamber.
+After her death, the xref:Illidari.adoc[Illidari] suspended her corpse from the ceiling of the [Fel Hammer](https://wowpedia.fandom.com/wiki/Fel_Hammer "Fel Hammer")'s central chamber.
 
 ## Contents
 
@@ -167,7 +167,7 @@ _Main article: [The Keystone (quest)#Notes](https://wowpedia.fandom.com/wiki/The
     -   [Belac](https://wowpedia.fandom.com/wiki/Belac "Belac")
 -   [Kael'thas](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")
 -   [Kazzak](https://wowpedia.fandom.com/wiki/Lord_Kazzak "Lord Kazzak")
--   [Magtheridon](https://wowpedia.fandom.com/wiki/Magtheridon "Magtheridon")
+-   xref:Magtheridon.adoc[Magtheridon]
 -   [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis")
 -   [Mannoroth](https://wowpedia.fandom.com/wiki/Mannoroth "Mannoroth")
 -   [Mephistroth](https://wowpedia.fandom.com/wiki/Mephistroth "Mephistroth")
@@ -273,7 +273,7 @@ _Main article: [The Keystone (quest)#Notes](https://wowpedia.fandom.com/wiki/The
 | Defectors |
 
 -   [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") orcs
--   [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") demons
+-   xref:Illidari.adoc[Illidari] demons
 -   [Sunfury](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury") blood elves
 -   Some [Black Harvest](https://wowpedia.fandom.com/wiki/Council_of_the_Black_Harvest "Council of the Black Harvest") demons
 

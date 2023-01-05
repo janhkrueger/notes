@@ -2,7 +2,7 @@ _For the priest talent, see  ![](https://static.wikia.nocookie.net/wowpedia/imag
 
 A **sanctuary** is an area where [PvP](https://wowpedia.fandom.com/wiki/PvP "PvP") combat is disabled for all players, and turning on your PvP flag will have no effect until you leave the sanctuary. Sanctuaries were introduced in _[World of Warcraft: The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_. Places like [Nighthaven](https://wowpedia.fandom.com/wiki/Nighthaven "Nighthaven") and [Booty Bay](https://wowpedia.fandom.com/wiki/Booty_Bay "Booty Bay") are not sanctuaries; PvP combat is still possible there. Just because PvP combat is disabled, that does not mean that a sanctuary is a safe haven; for example, the monsters on the [Stair of Destiny](https://wowpedia.fandom.com/wiki/Stair_of_Destiny "Stair of Destiny") are not PvP NPCs and will attack players if aggroed.
 
-Entering a sanctuary differs from the effect of manually turning off one's PvP flag, (or, on PvP servers, entering a friendly territory) in that PvP combat is _immediately_ disabled; there is no five minute wait. Because of this, it is possible to evade PvP combat by entering a sanctuary; for example, if someone is attacked by another player on their way to the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") in the [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands"), their attacker cannot continue attacking them if they cross the portal and enter the [Stair of Destiny](https://wowpedia.fandom.com/wiki/Stair_of_Destiny "Stair of Destiny").
+Entering a sanctuary differs from the effect of manually turning off one's PvP flag, (or, on PvP servers, entering a friendly territory) in that PvP combat is _immediately_ disabled; there is no five minute wait. Because of this, it is possible to evade PvP combat by entering a sanctuary; for example, if someone is attacked by another player on their way to the xref:DarkPortal.adoc[Dark Portal] in the [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands"), their attacker cannot continue attacking them if they cross the portal and enter the [Stair of Destiny](https://wowpedia.fandom.com/wiki/Stair_of_Destiny "Stair of Destiny").
 
 ## List of sanctuaries
 
@@ -49,7 +49,7 @@ Entering a sanctuary differs from the effect of manually turning off one's PvP f
 -   Exile's Hollow, [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis") [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands")
 -   Pilgrim's Grace, [Zereth Mortis](https://wowpedia.fandom.com/wiki/Zereth_Mortis "Zereth Mortis") [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands")
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Territory "Template:Territory")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Territory?action=edit)
 
@@ -58,7 +58,7 @@ Entering a sanctuary differs from the effect of manually turning off one's PvP f
  |
 | --- |
 |  |
-| 
+|
 
 -   [Alliance](https://wowpedia.fandom.com/wiki/Alliance_territory "Alliance territory")
 -   [Combat zone](https://wowpedia.fandom.com/wiki/Combat_zone "Combat zone")

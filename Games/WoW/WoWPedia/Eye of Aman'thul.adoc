@@ -14,7 +14,7 @@ The **Eye of Aman'thul** (or the **Eye of Aman'Thul**)<sup id="cite_ref-1"><a hr
 
 ### Ancient times
 
-During [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s ordering, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") bestowed the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation") to the [titanic keepers](https://wowpedia.fandom.com/wiki/Titan_keeper "Titan keeper") to aid them with that colossal task. Ages after the keepers had completed their work, the Pillars would become lost and scattered across the lands of Azeroth.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul#cite_note-3">[3]</a></sup>
+During xref:Azeroth.adoc[Azeroth]'s ordering, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") bestowed the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation") to the [titanic keepers](https://wowpedia.fandom.com/wiki/Titan_keeper "Titan keeper") to aid them with that colossal task. Ages after the keepers had completed their work, the Pillars would become lost and scattered across the lands of Azeroth.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul#cite_note-3">[3]</a></sup>
 
 ### War of the Ancients
 
@@ -24,7 +24,7 @@ After the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") fo
 
 [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
 
-Ten millennia later after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") and during [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), the Eye could be found within the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul#cite_note-6">[6]</a></sup> [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(tactics) "Gul'dan (tactics)") stands on it within the [Font of Night](https://wowpedia.fandom.com/wiki/Font_of_Night "Font of Night") atop the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold_(instance) "Nighthold (instance)")'s [Nightspire](https://wowpedia.fandom.com/wiki/Nightspire "Nightspire"). It is teleported to Dalaran and placed on the floor of the [Portrait Room](https://wowpedia.fandom.com/wiki/Portrait_Room "Portrait Room") due to its size.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul#cite_note-7">[7]</a></sup>
+Ten millennia later after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") and during xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion], the Eye could be found within the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul#cite_note-6">[6]</a></sup> [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(tactics) "Gul'dan (tactics)") stands on it within the [Font of Night](https://wowpedia.fandom.com/wiki/Font_of_Night "Font of Night") atop the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold_(instance) "Nighthold (instance)")'s [Nightspire](https://wowpedia.fandom.com/wiki/Nightspire "Nightspire"). It is teleported to Dalaran and placed on the floor of the [Portrait Room](https://wowpedia.fandom.com/wiki/Portrait_Room "Portrait Room") due to its size.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul#cite_note-7">[7]</a></sup>
 
 The Eye of Aman'thul was brought to the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), alongside the other Pillars, in order to close the Burning Legion portal.
 
@@ -37,8 +37,8 @@ The Eye of Aman'thul was brought to the [Tomb of Sargeras](https://wowpedia.fand
 
 ## Patch changes
 
--   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
-    
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.
+
 
 ## References
 
@@ -46,11 +46,11 @@ The Eye of Aman'thul was brought to the [Tomb of Sargeras](https://wowpedia.fand
 
 | Object | NPC |
 | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/search?q=Eye+of+Aman%27thul#objects)
 -   [WoWDB](https://www.wowdb.com/search?search=Eye+of+Aman%27thul#t1:objects)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/search?q=Eye+of+Aman%27thul#npcs)
 -   [WoWDB](https://www.wowdb.com/search?search=Eye+of+Aman%27thul#t1:npcs)

@@ -8,7 +8,7 @@ The Nightwell.
 
 The Nightwell within the Nighthold.
 
-“We must put the Nightwell behind us. We must take responsibility for our failings, and repay our debt to the people of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")....”
+“We must put the Nightwell behind us. We must take responsibility for our failings, and repay our debt to the people of xref:Azeroth.adoc[Azeroth]....”
 
 — [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra"), the new ruler of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"), allowing the Nightwell to perish
 
@@ -40,8 +40,8 @@ The fruit of the [Arcan'dor](https://wowpedia.fandom.com/wiki/Arcan%27dor "Arcan
 
 ## Patch changes
 
--   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
-    
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.
+
 
 ## See also
 

@@ -3,28 +3,28 @@ _This article is about the nightborne lore. For the playable race, see [Nightbor
 | Nightborne |
 | --- |
 | [![Star Aligner.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/00/Star_Aligner.jpg/revision/latest/scale-to-width-down/200?cb=20180807192047)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Star_Aligner.jpg/revision/latest?cb=20180807192047) |
-| Faction/Affiliation | [Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-1">[1]</a></sup> [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent")  
-Formerly:  
+| Faction/Affiliation | [Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)"), xref:Horde.adoc[Horde],<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-1">[1]</a></sup> [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent")
+Formerly:
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
-| Character classes | 
-[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Monk](https://wowpedia.fandom.com/wiki/Monk "Monk"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")  
+| Character classes |
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Monk](https://wowpedia.fandom.com/wiki/Monk "Monk"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"), [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")
 
 [Botanist](https://wowpedia.fandom.com/wiki/Botanist "Botanist"), [Felsworn](https://wowpedia.fandom.com/wiki/Felsworn "Felsworn"), [Leyweaver](https://wowpedia.fandom.com/wiki/Leyweaver "Leyweaver"), [Sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), [Telemancer](https://wowpedia.fandom.com/wiki/Telemancer "Telemancer") |
 | Racial capital | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") |
-| Racial leader(s) | 
+| Racial leader(s) |
 
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_Thalyssra.gif/revision/latest/scale-to-width-down/16?cb=20180129124130)[Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra")  
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/b/bb/IconSmall_Thalyssra.gif/revision/latest/scale-to-width-down/16?cb=20180129124130)[Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra")
 
--   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/d/dd/IconSmall_Oculeth.gif/revision/latest/scale-to-width-down/16?cb=20180129124626)[Oculeth](https://wowpedia.fandom.com/wiki/Chief_Telemancer_Oculeth "Chief Telemancer Oculeth")  
-    
--   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/IconSmall_Valtrois.gif/revision/latest/scale-to-width-down/16?cb=20180129124405)[Valtrois](https://wowpedia.fandom.com/wiki/Arcanist_Valtrois "Arcanist Valtrois")  
-    
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/d/dd/IconSmall_Oculeth.gif/revision/latest/scale-to-width-down/16?cb=20180129124626)[Oculeth](https://wowpedia.fandom.com/wiki/Chief_Telemancer_Oculeth "Chief Telemancer Oculeth")
+
+-   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/IconSmall_Valtrois.gif/revision/latest/scale-to-width-down/16?cb=20180129124405)[Valtrois](https://wowpedia.fandom.com/wiki/Arcanist_Valtrois "Arcanist Valtrois")
+
 -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde")  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f0/IconSmall_Nightborne_Female.gif/revision/latest/scale-to-width-down/16?cb=20181218105429)[Ly'leth Lunastre](https://wowpedia.fandom.com/wiki/Ly%27leth_Lunastre "Ly'leth Lunastre")
 
  |
 |   Formerly | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](https://static.wikia.nocookie.net/wowpedia/images/d/dc/IconSmall_Elisande.gif/revision/latest/scale-to-width-down/16?cb=20211211092611)[Elisande](https://wowpedia.fandom.com/wiki/Elisande "Elisande") <sup>&nbsp;†</sup> |
 | Racial mount | [![IconSmall ManaSaber.gif](https://static.wikia.nocookie.net/wowpedia/images/3/33/IconSmall_ManaSaber.gif/revision/latest/scale-to-width-down/16?cb=20200205150217)](https://static.wikia.nocookie.net/wowpedia/images/3/33/IconSmall_ManaSaber.gif/revision/latest?cb=20200205150217) [Manasaber](https://wowpedia.fandom.com/wiki/Manasaber "Manasaber") |
-| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Homeworld | xref:Azeroth.adoc[Azeroth] |
 | Area(s) | [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") |
 | Language(s) | [Shalassian](https://wowpedia.fandom.com/wiki/Shalassian "Shalassian") |
 
@@ -34,7 +34,7 @@ Formerly:
 
 The **nightborne** (also spelled the **Nightborne**)<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-3">[3]</a></sup> or **shal'dorei** in the [native tongue](https://wowpedia.fandom.com/wiki/Shalassian "Shalassian")<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-4">[4]</a></sup><sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-5">[5]</a></sup> are a powerful and mystical race of [elves](https://wowpedia.fandom.com/wiki/Elf "Elf") who live in [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City"). Since the city was first separated from the rest of the world over 10,000 years ago, they are no longer true [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and have evolved by the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell") into a unique elven species.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-6">[6]</a></sup> For the majority of their secluded existence, virtually the entire group resided in the ancient city of Suramar and were led solely until recent times by [Grand Magistrix Elisande](https://wowpedia.fandom.com/wiki/Grand_Magistrix_Elisande "Grand Magistrix Elisande"). The nightborne race owes much of its unique physical characteristics to its long dependence on the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell"), an ancient source of power crafted by Suramar's [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") residents during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"). Over their lengthy isolation, the exposure of the nightborne to the Nightwell's energies gradually transformed them from their original Kaldorei night elven appearance to their present darker, more night-based form.
 
-At the climax of the War of the Ancients, as the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") began to crumble, the night elves of Suramar City, led by the Highborne Elisande, erected an immensely powerful shield that protected and isolated the city from the remainder of the Legion that overran [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and the erupting sundering. There they would remain in self-imposed isolation for millennia. For the long period of time following the war's conclusion, the nightborne (as they evolved to become) continued excelling and progressing in the arcane arts and culture of the Kaldorei empire, existing in a bubble that preserved the ancient culture of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") pristinely over so many long millennia.<sup id="cite_ref-Forgotten_Knowledge_7-0"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-Forgotten_Knowledge-7">[7]</a></sup><sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-8">[8]</a></sup>
+At the climax of the War of the Ancients, as the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") began to crumble, the night elves of Suramar City, led by the Highborne Elisande, erected an immensely powerful shield that protected and isolated the city from the remainder of the Legion that overran xref:Azeroth.adoc[Azeroth] and the erupting sundering. There they would remain in self-imposed isolation for millennia. For the long period of time following the war's conclusion, the nightborne (as they evolved to become) continued excelling and progressing in the arcane arts and culture of the Kaldorei empire, existing in a bubble that preserved the ancient culture of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") pristinely over so many long millennia.<sup id="cite_ref-Forgotten_Knowledge_7-0"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-Forgotten_Knowledge-7">[7]</a></sup><sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-8">[8]</a></sup>
 
 [![](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Cinematic_Suramar_Jewel_of_the_Night_elf_Empire.png/revision/latest/scale-to-width-down/180?cb=20190124202847)](https://static.wikia.nocookie.net/wowpedia/images/f/f8/Cinematic_Suramar_Jewel_of_the_Night_elf_Empire.png/revision/latest?cb=20190124202847)
 
@@ -84,7 +84,7 @@ The culture of the Shal'dorei is the culture of the Suramar region of the [Kaldo
 
 The night elves ruled the world 10,000 years ago, and no one came close when they built elegant cities and sculpted graceful forests, nor was any race a match for their mastery of magic, knowledge, and wisdom. In time they would grow haughty and regard other races with contempt, and one of the reasons [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") who saw value in other races often found himself a social pariah in his home [city of Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City").<sup id="cite_ref-WotA_13-1"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-WotA-13">[13]</a></sup>
 
-The nightborne of [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") have an air of superiority that often comes across, especially amongst loyalists and the elite (with exceptions) as pompous. They revel in their unparalleled magical civilization but having no exposure to the current races of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") till the rebellion led an invading force to free Suramar, many still regard outside races and the world as it was back then, full of the unworthy, the uncultured, and low born far beneath the standards and levels of the nightborne civilization. These were the less admirable qualities of [kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") civilization back then, and the shal'dorei continue in them as if nothing has changed and as if they still remain the center of the world.
+The nightborne of [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") have an air of superiority that often comes across, especially amongst loyalists and the elite (with exceptions) as pompous. They revel in their unparalleled magical civilization but having no exposure to the current races of xref:Azeroth.adoc[Azeroth] till the rebellion led an invading force to free Suramar, many still regard outside races and the world as it was back then, full of the unworthy, the uncultured, and low born far beneath the standards and levels of the nightborne civilization. These were the less admirable qualities of [kaldorei](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") civilization back then, and the shal'dorei continue in them as if nothing has changed and as if they still remain the center of the world.
 
 An ancient Kaldorei tradition [Tal'ashar](https://wowpedia.fandom.com/wiki/Tal%27ashar "Tal'ashar") is an honor duel to death still used by the nightborne, though in very rare occasions. It can be used to settle disputes and prove oneself worthy over an adversary, usually when key positions or appointments are made that the challenger isn't satisfied with. The challenger or defender may appoint a champion to fight on their behalf. The victor also gets to keep the nobility titles of the defeated participant.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-22">[22]</a></sup>
 
@@ -259,7 +259,7 @@ Nightborne females at [BlizzCon 2015](https://wowpedia.fandom.com/wiki/BlizzCon_
 -   Many "imperial" characters can be found in the ranks of the nightborne, including [Arcbinders](https://wowpedia.fandom.com/wiki/Imperial_Arcbinder "Imperial Arcbinder"), [Arcanists](https://wowpedia.fandom.com/wiki/Imperial_Arcanist "Imperial Arcanist"), [Conjurers](https://wowpedia.fandom.com/wiki/Imperial_Conjurer "Imperial Conjurer"), [Servants](https://wowpedia.fandom.com/wiki/Imperial_Servant "Imperial Servant") and [Spellbreakers](https://wowpedia.fandom.com/wiki/Imperial_Spellbreaker "Imperial Spellbreaker"). These may all have been members of the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire").
 -   Nightborne children are too young to be fed arcwine below a certain age.<sup id="cite_ref-SuramarChild_25-1"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-SuramarChild-25">[25]</a></sup> They subsist on 'mana juice' instead.
 -   Some of the nightborne humor quotes (if at all taken seriously or canonically) seem to indicate that they still remember Tyrande from her time in Suramar; that the nightborne regard the kaldorei as "country elves" who lack the cultural sophistication to reside in a real city; and that some of the night elves believe that the nightborne's culture, such as their fashion, is severely outdated.
--   Some of the nightborne, aside from their close kinship with the blood elves, appeared to initially harbor reservations about some of the Horde's races and their cultures. For example, Elisande herself called the Horde "misfits and monsters" when she mocked the blood elves for allying with them. Thalyssra was at first skeptical that they would share common ground with them, and felt the night elves of Kalimdor would be obvious allies before Tyrande rejected her; she later mentioned that Suramar still warned nightborne children of the Zandalari's dark ways, and her people had thought the trolls nothing but "bloodthirsty savages". Some [Leyline Navigators](https://wowpedia.fandom.com/wiki/Leyline_Navigator "Leyline Navigator") mentioned that the orcs' mood lighting was not conducive to studying, seemingly different than what they were familiar with, and [Melitier Vahlouran](https://wowpedia.fandom.com/wiki/Melitier_Vahlouran "Melitier Vahlouran") noted [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") was not as beautiful as Suramar, acknowledged the orcs' "interesting" aesthetic choices, and warned nightborne adventurers to be careful of the spikes and smells.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-70">[70]</a></sup> Valtrois also noted she was skeptical of the Forsaken when she first joined the Horde, and was particularly perturbed by Sylvanas raising [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore"). However, after the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the nightborne seem to have become far more comfortable with their new allies, with Suramar even sending [arcwine](https://wowpedia.fandom.com/wiki/Arcwine "Arcwine") to the Horde.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-71">[71]</a></sup>
+-   Some of the nightborne, aside from their close kinship with the blood elves, appeared to initially harbor reservations about some of the Horde's races and their cultures. For example, Elisande herself called the Horde "misfits and monsters" when she mocked the blood elves for allying with them. Thalyssra was at first skeptical that they would share common ground with them, and felt the night elves of Kalimdor would be obvious allies before Tyrande rejected her; she later mentioned that Suramar still warned nightborne children of the Zandalari's dark ways, and her people had thought the trolls nothing but "bloodthirsty savages". Some [Leyline Navigators](https://wowpedia.fandom.com/wiki/Leyline_Navigator "Leyline Navigator") mentioned that the orcs' mood lighting was not conducive to studying, seemingly different than what they were familiar with, and [Melitier Vahlouran](https://wowpedia.fandom.com/wiki/Melitier_Vahlouran "Melitier Vahlouran") noted xref:Orgrimmar.adoc[Orgrimmar] was not as beautiful as Suramar, acknowledged the orcs' "interesting" aesthetic choices, and warned nightborne adventurers to be careful of the spikes and smells.<sup id="cite_ref-70"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-70">[70]</a></sup> Valtrois also noted she was skeptical of the Forsaken when she first joined the Horde, and was particularly perturbed by Sylvanas raising [Derek Proudmoore](https://wowpedia.fandom.com/wiki/Derek_Proudmoore "Derek Proudmoore"). However, after the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the nightborne seem to have become far more comfortable with their new allies, with Suramar even sending [arcwine](https://wowpedia.fandom.com/wiki/Arcwine "Arcwine") to the Horde.<sup id="cite_ref-71"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-71">[71]</a></sup>
 -   In a 2019 interview with [Steve Danuser](https://wowpedia.fandom.com/wiki/Steve_Danuser "Steve Danuser") and [Steve Burke](https://wowpedia.fandom.com/wiki/Steve_Burke "Steve Burke"), it was mentioned that the writers were not surprised that some Alliance players were somewhat upset by the nightborne becoming a Horde playable race, as they had the same reaction internally, but they had to make a choice between the two sides, despite "interesting arguments" from both. The nightborne apparently provided a sense of gravitas to the Horde, while the [void elves](https://wowpedia.fandom.com/wiki/Void_elf "Void elf") gave the Alliance a potentially darker side that might be explored in the future.<sup id="cite_ref-72"><a href="https://wowpedia.fandom.com/wiki/Nightborne#cite_note-72">[72]</a></sup>
 -   Nightborne use mostly French historical elements and the drow of [Dungeons and Dragons](http://en.wikipedia.org/wiki/Dungeons_and_Dragons "wikipedia:Dungeons and Dragons").
     -   Names like Grand Magistrix Elisande, Margaux, Arluelle, and Victoire are all French or French-styled inventions.
@@ -282,89 +282,89 @@ Nightborne females at [BlizzCon 2015](https://wowpedia.fandom.com/wiki/BlizzCon_
 _World of Warcraft_
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Nightborne_Heritage_Armor.jpg/revision/latest/scale-to-width-down/120?cb=20180827095253)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Nightborne_Heritage_Armor.jpg/revision/latest?cb=20180827095253)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Elisande.jpg/revision/latest/scale-to-width-down/82?cb=20170115185124)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Elisande.jpg/revision/latest?cb=20170115185124)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/First_Arcanist_Thalyssra_Cured.jpg/revision/latest/scale-to-width-down/60?cb=20200525095445)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/First_Arcanist_Thalyssra_Cured.jpg/revision/latest?cb=20200525095445)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Arcanist_Valtrois.jpg/revision/latest/scale-to-width-down/67?cb=20161122235810)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Arcanist_Valtrois.jpg/revision/latest?cb=20161122235810)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Nightborne_female_child.jpg/revision/latest/scale-to-width-down/62?cb=20161010070618)](https://static.wikia.nocookie.net/wowpedia/images/3/3e/Nightborne_female_child.jpg/revision/latest?cb=20161010070618)
-    
+
     Nightborne female child.
-    
+
 -   [![Patch 9.1.5 - Nightborne male - customization.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Patch_9.1.5_-_Nightborne_male_-_customization.jpg/revision/latest/scale-to-width-down/120?cb=20210829021242)](https://static.wikia.nocookie.net/wowpedia/images/b/ba/Patch_9.1.5_-_Nightborne_male_-_customization.jpg/revision/latest?cb=20210829021242)
-    
+
 -   [![Patch 9.1.5 - Nightborne female - customization.jpg](https://static.wikia.nocookie.net/wowpedia/images/6/62/Patch_9.1.5_-_Nightborne_female_-_customization.jpg/revision/latest/scale-to-width-down/120?cb=20210829021238)](https://static.wikia.nocookie.net/wowpedia/images/6/62/Patch_9.1.5_-_Nightborne_female_-_customization.jpg/revision/latest?cb=20210829021238)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Patch_9.1.5_-_Nightborne_glow_hands_-_customization.jpg/revision/latest/scale-to-width-down/120?cb=20211021210358)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Patch_9.1.5_-_Nightborne_glow_hands_-_customization.jpg/revision/latest?cb=20211021210358)
-    
+
     Nightborne glow hands
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Duskwatch_prison_guards.jpg/revision/latest/scale-to-width-down/120?cb=20161106180058)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Duskwatch_prison_guards.jpg/revision/latest?cb=20161106180058)
-    
+
     Nightborne prison
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/db/Stelleris_Moonlit_Landing.jpg/revision/latest/scale-to-width-down/120?cb=20180418140227)](https://static.wikia.nocookie.net/wowpedia/images/d/db/Stelleris_Moonlit_Landing.jpg/revision/latest?cb=20180418140227)
-    
+
     Nightborne ship
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/09/Duskwatch_Battlemaster.jpg/revision/latest/scale-to-width-down/114?cb=20200610141042)](https://static.wikia.nocookie.net/wowpedia/images/0/09/Duskwatch_Battlemaster.jpg/revision/latest?cb=20200610141042)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/55/Duskwatch_Astralite.jpg/revision/latest/scale-to-width-down/93?cb=20161106183453)](https://static.wikia.nocookie.net/wowpedia/images/5/55/Duskwatch_Astralite.jpg/revision/latest?cb=20161106183453)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Duskwatch_Highblade.jpg/revision/latest/scale-to-width-down/97?cb=20200610140855)](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Duskwatch_Highblade.jpg/revision/latest?cb=20200610140855)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/18/Arcanist_Valtrois.jpg/revision/latest/scale-to-width-down/67?cb=20161122235810)](https://static.wikia.nocookie.net/wowpedia/images/1/18/Arcanist_Valtrois.jpg/revision/latest?cb=20161122235810)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Spellblade_Aluriel.jpg/revision/latest/scale-to-width-down/106?cb=20170120154030)](https://static.wikia.nocookie.net/wowpedia/images/2/2f/Spellblade_Aluriel.jpg/revision/latest?cb=20170120154030)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Thoramir.jpg/revision/latest/scale-to-width-down/68?cb=20180320104018)](https://static.wikia.nocookie.net/wowpedia/images/b/b4/Thoramir.jpg/revision/latest?cb=20180320104018)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Star_Augur_Etraeus.jpg/revision/latest/scale-to-width-down/81?cb=20170120161545)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Star_Augur_Etraeus.jpg/revision/latest?cb=20170120161545)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Expedition_Guarantor.jpg/revision/latest/scale-to-width-down/91?cb=20221129132337)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Expedition_Guarantor.jpg/revision/latest?cb=20221129132337)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Joanna_Newsplice.png/revision/latest/scale-to-width-down/56?cb=20221217125213)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Joanna_Newsplice.png/revision/latest?cb=20221217125213)
-    
+
 
 Flags and [banners](https://wowpedia.fandom.com/wiki/Banner "Banner")
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/15/Nightborne_flag_OG.jpg/revision/latest/scale-to-width-down/41?cb=20180726003345)](https://static.wikia.nocookie.net/wowpedia/images/1/15/Nightborne_flag_OG.jpg/revision/latest?cb=20180726003345)
-    
+
     The nightborne flag.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Old_Suramar_banner.jpg/revision/latest/scale-to-width-down/58?cb=20180805171924)](https://static.wikia.nocookie.net/wowpedia/images/e/ea/Old_Suramar_banner.jpg/revision/latest?cb=20180805171924)
-    
+
     Kaldorei banner found only in Suramar ruins, with the old race icon.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/Nightborne_Race_Icon.png/revision/latest/scale-to-width-down/99?cb=20201208233731)](https://static.wikia.nocookie.net/wowpedia/images/5/54/Nightborne_Race_Icon.png/revision/latest?cb=20201208233731)
-    
+
     The Nightborne old Race icon.
-    
+
 
 Art
 
 -   [![Nightborne Icon BG.jpg](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Nightborne_Icon_BG.jpg/revision/latest/scale-to-width-down/120?cb=20180905010412)](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Nightborne_Icon_BG.jpg/revision/latest?cb=20180905010412)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Early_Nightborne_concept.jpg/revision/latest/scale-to-width-down/80?cb=20201226004949)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Early_Nightborne_concept.jpg/revision/latest?cb=20201226004949)
-    
+
     Nightborne concept art.
-    
+
 -   [![Nightborne construct concept.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/80/Nightborne_construct_concept.jpg/revision/latest/scale-to-width-down/120?cb=20190903112203)](https://static.wikia.nocookie.net/wowpedia/images/8/80/Nightborne_construct_concept.jpg/revision/latest?cb=20190903112203)
-    
+
 -   [![Highborne saber mount concept.jpg](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Highborne_saber_mount_concept.jpg/revision/latest/scale-to-width-down/120?cb=20190920165026)](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Highborne_saber_mount_concept.jpg/revision/latest?cb=20190920165026)
-    
+
 
 _Hearthstone_
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Caye_Stardusk_HS.jpg/revision/latest/scale-to-width-down/102?cb=20220602192629)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Caye_Stardusk_HS.jpg/revision/latest?cb=20220602192629)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Fierce_Outsider_HS.jpg/revision/latest/scale-to-width-down/90?cb=20221202090131)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Fierce_Outsider_HS.jpg/revision/latest?cb=20221202090131)
-    
+
 
 ## References
 
@@ -379,7 +379,7 @@ _Hearthstone_
  |
 | --- |
 |  |
-| [High](https://wowpedia.fandom.com/wiki/High_elf "High elf")/[Void](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")/[Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") | 
+| [High](https://wowpedia.fandom.com/wiki/High_elf "High elf")/[Void](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")/[Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") |
 
 -   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Highvale](https://wowpedia.fandom.com/wiki/Highvale "Highvale")
 -   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant")
@@ -392,7 +392,7 @@ _Hearthstone_
 
  |
 |  |
-| [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") | 
+| [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") |
 
 -   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Darnassian night elves](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)")
 -   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Shen'dralar](https://wowpedia.fandom.com/wiki/Shen%27dralar "Shen'dralar")
@@ -402,7 +402,7 @@ _Hearthstone_
 
  |
 |  |
-| **Nightborne** | 
+| **Nightborne** |
 
 -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)")
 -   [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen "Nightfallen")
@@ -412,7 +412,7 @@ _Hearthstone_
 
  |
 |  |
-| Mutated | 
+| Mutated |
 
 -   [Satyr](https://wowpedia.fandom.com/wiki/Satyr "Satyr")
 -   [Fal'dorei](https://wowpedia.fandom.com/wiki/Fal%27dorei "Fal'dorei")
@@ -430,7 +430,7 @@ _Hearthstone_
 -   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
 -   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
 
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") xref:Horde.adoc[Horde]
 
 
 
@@ -441,7 +441,7 @@ _Hearthstone_
 -   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives "Template:Azeroth natives")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives?action=edit)
 
-Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") native to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") native to xref:Azeroth.adoc[Azeroth]
 
 
 

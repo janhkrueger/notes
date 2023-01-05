@@ -3,12 +3,12 @@ _For [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjo
 | Proto-dragons |
 | --- |
 | [![Veranus HS.jpg](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Veranus_HS.jpg/revision/latest/scale-to-width-down/240?cb=20191130105605)](https://static.wikia.nocookie.net/wowpedia/images/f/f3/Veranus_HS.jpg/revision/latest?cb=20191130105605) |
-| Area(s) | [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") & [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") |
-| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Area(s) | xref:Northrend.adoc[Northrend] & [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") |
+| Homeworld | xref:Azeroth.adoc[Azeroth] |
 | Average height | Varies by species and age |
 | Affiliation | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent"), [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul"), [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan"), [Primalists](https://wowpedia.fandom.com/wiki/Primalists "Primalists") |
 
-**Proto-dragons** (also called **primal dragons**<sup id="cite_ref-SamVostok_1-0"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-SamVostok-1">[1]</a></sup><sup id="cite_ref-StorySoFar_2-0"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-StorySoFar-2">[2]</a></sup> or **proto-drakes**, and also spelled **proto dragons** or **protodragons**) are dragons untouched by [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") influence. Millennia ago, the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") altered some of them into the [Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") and their [ordered](https://wowpedia.fandom.com/wiki/Order "Order") [dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight"), reshaping them both physically and ideologically. This new species is now simply known as [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon"). Some primal dragons shunned the gift of the titans and still roam the wilds of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles").<sup id="cite_ref-StorySoFar_2-1"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-StorySoFar-2">[2]</a></sup> Among the proto-dragons of Northrend, some were subjugated and used as mounts by mortal races such as the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") or the [Dragonmaw](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan") [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc").
+**Proto-dragons** (also called **primal dragons**<sup id="cite_ref-SamVostok_1-0"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-SamVostok-1">[1]</a></sup><sup id="cite_ref-StorySoFar_2-0"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-StorySoFar-2">[2]</a></sup> or **proto-drakes**, and also spelled **proto dragons** or **protodragons**) are dragons untouched by [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") influence. Millennia ago, the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") altered some of them into the [Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") and their [ordered](https://wowpedia.fandom.com/wiki/Order "Order") [dragonflights](https://wowpedia.fandom.com/wiki/Dragonflight "Dragonflight"), reshaping them both physically and ideologically. This new species is now simply known as [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon"). Some primal dragons shunned the gift of the titans and still roam the wilds of xref:Northrend.adoc[Northrend] and the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles").<sup id="cite_ref-StorySoFar_2-1"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-StorySoFar-2">[2]</a></sup> Among the proto-dragons of Northrend, some were subjugated and used as mounts by mortal races such as the [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") or the [Dragonmaw](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan") [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc").
 
 ## History
 
@@ -20,7 +20,7 @@ The future [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dra
 
 The first proto-dragons evolving into [dragons](https://wowpedia.fandom.com/wiki/Dragon "Dragon").
 
-The proto-dragons descend from [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental") who avoided being imprisoned in the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") and instead remained on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), where some of them gradually transformed into creatures of flesh and blood.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-3">[3]</a></sup> More specifically, [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") recently uncovered evidence, corroborated by reports from [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), that proto-dragons may have origins in elemental drakes such as [stone](https://wowpedia.fandom.com/wiki/Stone_dragon "Stone dragon") and [storm drakes](https://wowpedia.fandom.com/wiki/Storm_dragon "Storm dragon"). The inhabitants of Deepholm, the [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall"), the [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands"), and the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw") are less than talkative on these matters, however, and most of them were not around when the elemental prisons were created.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-4">[4]</a></sup>
+The proto-dragons descend from [elementals](https://wowpedia.fandom.com/wiki/Elemental "Elemental") who avoided being imprisoned in the [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") and instead remained on xref:Azeroth.adoc[Azeroth], where some of them gradually transformed into creatures of flesh and blood.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-3">[3]</a></sup> More specifically, [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard") recently uncovered evidence, corroborated by reports from [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), that proto-dragons may have origins in elemental drakes such as [stone](https://wowpedia.fandom.com/wiki/Stone_dragon "Stone dragon") and [storm drakes](https://wowpedia.fandom.com/wiki/Storm_dragon "Storm dragon"). The inhabitants of Deepholm, the [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall"), the [Firelands](https://wowpedia.fandom.com/wiki/Firelands "Firelands"), and the [Abyssal Maw](https://wowpedia.fandom.com/wiki/Abyssal_Maw "Abyssal Maw") are less than talkative on these matters, however, and most of them were not around when the elemental prisons were created.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-4">[4]</a></sup>
 
 [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond"), a massive proto-dragon,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-5">[5]</a></sup> is known as the "progenitor of dragonkind" and long ago resorted to cannibalism. This act of consuming other proto-dragons gave Galakrond unbelievable strength and increased his size, but horribly mutated his body as well. His breath reanimated the dead proto-dragons around him into a form of undeath. It is said that from Galakrond the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") created the [Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect"),<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-6">[6]</a></sup> but this is a [rumor](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore") the Aspects actively encouraged so as to keep the truth about Galakrond's power a secret from the dragonflights.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-7">[7]</a></sup>
 
@@ -36,7 +36,7 @@ In the [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks")
 
 [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
 
-During the [Ashenvale war](https://wowpedia.fandom.com/wiki/Ashenvale_war "Ashenvale war"), [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") brought some proto-drakes from Northrend to invade [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"), the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") managed to domesticate them by holding their young hostage.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-11">[11]</a></sup>
+During the [Ashenvale war](https://wowpedia.fandom.com/wiki/Ashenvale_war "Ashenvale war"), [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") brought some proto-drakes from Northrend to invade [Ashenvale](https://wowpedia.fandom.com/wiki/Ashenvale "Ashenvale"), the xref:Horde.adoc[Horde] managed to domesticate them by holding their young hostage.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-11">[11]</a></sup>
 
 ### Mists of Pandaria
 
@@ -70,13 +70,13 @@ Proto-drakes in Dragon Isles are described as being "...naturally flame resistan
 
 Proto-dragons protecting their eggs from their foe.
 
-Proto-drakes are generally bestial and display none of the great intelligence and wisdom of true dragons,<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-15">[15]</a></sup> though several ancient proto-dragons including those that would later become the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") proved otherwise when they fought alongside [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") against [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond"). [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") noted in his visions of the past that this was extremely odd.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-16">[16]</a></sup>
+Proto-drakes are generally bestial and display none of the great intelligence and wisdom of true dragons,<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-15">[15]</a></sup> though several ancient proto-dragons including those that would later become the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") proved otherwise when they fought alongside [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr") against [Galakrond](https://wowpedia.fandom.com/wiki/Galakrond "Galakrond"). xref:Kalecgos.adoc[Kalecgos] noted in his visions of the past that this was extremely odd.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-16">[16]</a></sup>
 
 Proto-dragon whelps grow at an incredible rate and can devour nearly twice their weight in raw meat per day.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-17">[17]</a></sup> Some proto-dragons have a wide array of strengths and abilities, with examples including incredible fortitude, massive size or the ability to unknowingly tap into latent elemental energies in order to breathe fire or frost at their enemies.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-18">[18]</a></sup>
 
 The [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") frequently use proto-dragons as flying mounts in the [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") and other parts of Northrend, and could be seen doing so in their constant siege of [Valgarde](https://wowpedia.fandom.com/wiki/Valgarde "Valgarde"). Wild proto-drakes can be seen in areas such as [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks") and [Sholazar Basin](https://wowpedia.fandom.com/wiki/Sholazar_Basin "Sholazar Basin"). Bronze proto-drakes were used as mounts by the [Argent Crusade](https://wowpedia.fandom.com/wiki/Argent_Crusade "Argent Crusade") in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") after they were discovered in the [Bronze Dragonshrine](https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine "Bronze Dragonshrine") by the [bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight"). The [Time-Lost Proto Drake](https://wowpedia.fandom.com/wiki/Time-Lost_Proto_Drake "Time-Lost Proto Drake") is famous for being extremely hard to catch.
 
-[Black proto-drakes](https://wowpedia.fandom.com/wiki/Reins_of_the_Black_Proto-Drake "Reins of the Black Proto-Drake") were bred specifically to honor those [heroes](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") who showed exceptional resilience and fortitude facing the dangers in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"),<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-19">[19]</a></sup> and the [plagued proto-drakes](https://wowpedia.fandom.com/wiki/Reins_of_the_Plagued_Proto-Drake "Reins of the Plagued Proto-Drake") to honor those who showed significant courage and persistence.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-20">[20]</a></sup>
+[Black proto-drakes](https://wowpedia.fandom.com/wiki/Reins_of_the_Black_Proto-Drake "Reins of the Black Proto-Drake") were bred specifically to honor those [heroes](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") who showed exceptional resilience and fortitude facing the dangers in xref:Northrend.adoc[Northrend],<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-19">[19]</a></sup> and the [plagued proto-drakes](https://wowpedia.fandom.com/wiki/Reins_of_the_Plagued_Proto-Drake "Reins of the Plagued Proto-Drake") to honor those who showed significant courage and persistence.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Proto-dragon#cite_note-20">[20]</a></sup>
 
 ## Types
 
@@ -100,7 +100,7 @@ One can be acquired through the [Oracles](https://wowpedia.fandom.com/wiki/Oracl
 
 [![IconSmall ProtoBronze.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/5/5b/IconSmall_ProtoBronze.gif/revision/latest?cb=20211205111807) Bronze proto-dragons
 
-Native to the [Bronze Dragonshrine](https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine "Bronze Dragonshrine"). Have been seen in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") working alongside their dragon brethren, some serve the [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim "Jotunheim") vrykul. Two [Time-Lost proto drakes](https://wowpedia.fandom.com/wiki/Time-Lost_Proto_Drake "Time-Lost Proto Drake") were found, one in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and the other in the [Time-Lost Glade](https://wowpedia.fandom.com/wiki/Time-Lost_Glade "Time-Lost Glade") in northeastern [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand_(alternate_universe) "Nagrand (alternate universe)").
+Native to the [Bronze Dragonshrine](https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine "Bronze Dragonshrine"). Have been seen in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") working alongside their dragon brethren, some serve the [Jotunheim](https://wowpedia.fandom.com/wiki/Jotunheim "Jotunheim") vrykul. Two [Time-Lost proto drakes](https://wowpedia.fandom.com/wiki/Time-Lost_Proto_Drake "Time-Lost Proto Drake") were found, one in xref:Northrend.adoc[Northrend] and the other in the [Time-Lost Glade](https://wowpedia.fandom.com/wiki/Time-Lost_Glade "Time-Lost Glade") in northeastern [Nagrand](https://wowpedia.fandom.com/wiki/Nagrand_(alternate_universe) "Nagrand (alternate universe)").
 
 [![IconSmall ProtoBlack.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/IconSmall_ProtoBlack.gif/revision/latest?cb=20211205111725) Black proto-dragons
 
@@ -246,38 +246,38 @@ Several proto-drake mounts are available as rewards for various [achievements](h
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Blazing_Proto-Dragon.jpg/revision/latest/scale-to-width-down/120?cb=20221002182152)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Blazing_Proto-Dragon.jpg/revision/latest?cb=20221002182152)
-    
+
     A Primalist infused with fire.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/94/Granyth.jpg/revision/latest/scale-to-width-down/120?cb=20221127192323)](https://static.wikia.nocookie.net/wowpedia/images/9/94/Granyth.jpg/revision/latest?cb=20221127192323)
-    
+
     A Primalist infused with earth.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Ancelmo_toledo_protodragon_whelp.jpg/revision/latest/scale-to-width-down/120?cb=20221216065216)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Ancelmo_toledo_protodragon_whelp.jpg/revision/latest?cb=20221216065216)
-    
+
     _Dragonflight_ proto-dragon whelp.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/98/Frostbrood_Proto-Wyrm.jpg/revision/latest/scale-to-width-down/120?cb=20220908184925)](https://static.wikia.nocookie.net/wowpedia/images/9/98/Frostbrood_Proto-Wyrm.jpg/revision/latest?cb=20220908184925)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Protodragon_eggs_Fire%2C_Earth%2C_Frost%2C_and_Lightning.jpg/revision/latest/scale-to-width-down/120?cb=20221221150720)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Protodragon_eggs_Fire%2C_Earth%2C_Frost%2C_and_Lightning.jpg/revision/latest?cb=20221221150720)
-    
+
     Protodragon eggs: Fire, Earth, Frost, and Lightning.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/02/Broodmother_Slivina%27s_Skull.jpg/revision/latest/scale-to-width-down/120?cb=20080804181244)](https://static.wikia.nocookie.net/wowpedia/images/0/02/Broodmother_Slivina%27s_Skull.jpg/revision/latest?cb=20080804181244)
-    
+
     A proto-dragon skull, with no visible eye sockets.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/87/Violet_Proto-Drake.jpg/revision/latest/scale-to-width-down/120?cb=20191130115424)](https://static.wikia.nocookie.net/wowpedia/images/8/87/Violet_Proto-Drake.jpg/revision/latest?cb=20191130115424)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/69/Proto-dragon_concept_art.jpg/revision/latest/scale-to-width-down/120?cb=20220917161537)](https://static.wikia.nocookie.net/wowpedia/images/6/69/Proto-dragon_concept_art.jpg/revision/latest?cb=20220917161537)
-    
+
     Early _Wrath of the Lich King_ concept art.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Dragonflight_proto-dragon_concept.jpg/revision/latest/scale-to-width-down/120?cb=20221213192022)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Dragonflight_proto-dragon_concept.jpg/revision/latest?cb=20221213192022)
-    
+
     _Dragonflight_ concept art.
-    
+
 
 ## References
 
@@ -292,7 +292,7 @@ Several proto-drake mounts are available as rewards for various [achievements](h
  |
 | --- |
 |  |
-| Creature group | 
+| Creature group |
 
 -   [Aberration](https://wowpedia.fandom.com/wiki/Aberration "Aberration")
 -   [Beast](https://wowpedia.fandom.com/wiki/Beast "Beast")
@@ -310,7 +310,7 @@ Several proto-drake mounts are available as rewards for various [achievements](h
 
  |
 |  |
-| Dragonkin creatures | 
+| Dragonkin creatures |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragonflight" title="Dragonflight">Dragonflights</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight" title="Black dragonflight">Black</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight" title="Blue dragonflight">Blue</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight" title="Bronze dragonflight">Bronze</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chromatic_dragonflight" title="Chromatic dragonflight">Chromatic</a></li><li><a href="https://wowpedia.fandom.com/wiki/Green_dragonflight" title="Green dragonflight">Green</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infinite_dragonflight" title="Infinite dragonflight">Infinite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherwing_dragonflight" title="Netherwing dragonflight">Nether</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nightmare_dragonflight" title="Nightmare dragonflight">Nightmare</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragonflight" title="Plagued dragonflight">Plagued</a></li><li><a href="https://wowpedia.fandom.com/wiki/Red_dragonflight" title="Red dragonflight">Red</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_drake" title="Storm drake">Storm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_dragonflight" title="Twilight dragonflight">Twilight</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Aspect</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drake" title="Drake">Drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragon_whelp" title="Dragon whelp">Whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrm" title="Wyrm">Wyrm</a></li></ul></li><li>Elemental drake<ul><li><a href="https://wowpedia.fandom.com/wiki/Stone_dragon" title="Stone dragon">Stone dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_dragon" title="Storm dragon">Storm dragon</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Undead dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_Drake" title="Bone Drake">Bone Drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li><li><span title="Bloodbrood (page does not exist)" data-uncrawlable-url="L3dpa2kvQmxvb2Ricm9vZD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Bloodbrood</span></li><li><a href="https://wowpedia.fandom.com/wiki/Frostbrood" title="Frostbrood">Frostbrood</a></li><li><span title="Vilebrood (page does not exist)" data-uncrawlable-url="L3dpa2kvVmlsZWJyb29kP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Vilebrood</span></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Humanoid Dragonkin</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aberration_(mob)" title="Aberration (mob)">Aberration</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Scalebane" title="Scalebane">Scalebane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmkin" title="Wyrmkin">Wyrmkin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tarasek" title="Tarasek">Tarasek</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Lesser_Dragonkin" title="Lesser Dragonkin">Lesser Dragonkin</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Cloud_serpent" title="Cloud serpent">Cloud serpent</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hornswog" title="Hornswog">Hornswog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Faerie_dragon" title="Faerie dragon">Faerie dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Veilwing" title="Veilwing">Veilwing</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonhawk" title="Dragonhawk">Dragonhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drakeadon" title="Drakeadon">Drakeadon</a></li><li><strong>Proto-dragon</strong><ul><li><a href="https://wowpedia.fandom.com/wiki/Primal_Incarnates" title="Primal Incarnates">Primal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Not-living" title="Not-living">Not-living</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Velocidrake" title="Velocidrake">Velocidrake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wylderdrake" title="Wylderdrake">Wylderdrake</a></li></ul></div></td></tr></tbody></table>
 

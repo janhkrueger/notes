@@ -6,8 +6,8 @@
 | Race | [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") (Humanoid) |
 | Level | 10-30 |
 | Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
-| Affiliation(s) | [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
+| Affiliation(s) | xref:KirinTor.adoc[Kirin Tor] |
 | Location | [Krasus' Landing](https://wowpedia.fandom.com/wiki/Krasus%27_Landing "Krasus' Landing"), [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")[<sup>[70.0,&nbsp;45.5]</sup>](https://wowpedia.fandom.com/wiki/Dalaran) |
 | Companion(s) | [Cloudwing](https://wowpedia.fandom.com/wiki/Cloudwing "Cloudwing") (mount) |
 

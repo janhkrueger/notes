@@ -5,19 +5,19 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 | Several instances |
 | [![CoT.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/ed/CoT.jpg/revision/latest/scale-to-width-down/221?cb=20100614205255)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/CoT.jpg/revision/latest?cb=20100614205255) |
 | Location | [Tanaris](https://wowpedia.fandom.com/wiki/Tanaris "Tanaris") |
-| Race(s) | [![Bronze dragon](https://static.wikia.nocookie.net/wowpedia/images/5/53/IconSmall_DragonBronze2.gif/revision/latest/scale-to-width-down/16?cb=20221208133255)](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") [Bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")  
+| Race(s) | [![Bronze dragon](https://static.wikia.nocookie.net/wowpedia/images/5/53/IconSmall_DragonBronze2.gif/revision/latest/scale-to-width-down/16?cb=20221208133255)](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") [Bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon")
 [![Infinite dragon](https://static.wikia.nocookie.net/wowpedia/images/c/c1/IconSmall_DragonInfinite2.gif/revision/latest/scale-to-width-down/16?cb=20221208133309)](https://wowpedia.fandom.com/wiki/Infinite_dragon "Infinite dragon") [Infinite dragon](https://wowpedia.fandom.com/wiki/Infinite_dragon "Infinite dragon") |
 | Advised level | 30-35 |
 | Player limit | 5-25 |
 
 | **Caverns of Time** |
 | --- |
-| 
+|
 | [Escape from Durnholde Keep](https://wowpedia.fandom.com/wiki/Escape_from_Durnholde_Keep "Escape from Durnholde Keep") (5) |
 | --- |
-| 
-[Lieutenant Drake](https://wowpedia.fandom.com/wiki/Lieutenant_Drake "Lieutenant Drake")  
-[Captain Skarloc](https://wowpedia.fandom.com/wiki/Captain_Skarloc "Captain Skarloc")  
+|
+[Lieutenant Drake](https://wowpedia.fandom.com/wiki/Lieutenant_Drake "Lieutenant Drake")
+[Captain Skarloc](https://wowpedia.fandom.com/wiki/Captain_Skarloc "Captain Skarloc")
 [Epoch Hunter](https://wowpedia.fandom.com/wiki/Epoch_Hunter "Epoch Hunter")
 
  |
@@ -25,13 +25,13 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 
 
  |
-| 
+|
 
 | [Opening the Dark Portal](https://wowpedia.fandom.com/wiki/Opening_the_Dark_Portal "Opening the Dark Portal") (5) |
 | --- |
-| 
-[Chrono Lord Deja](https://wowpedia.fandom.com/wiki/Chrono_Lord_Deja "Chrono Lord Deja")  
-[Temporus](https://wowpedia.fandom.com/wiki/Temporus "Temporus")  
+|
+[Chrono Lord Deja](https://wowpedia.fandom.com/wiki/Chrono_Lord_Deja "Chrono Lord Deja")
+[Temporus](https://wowpedia.fandom.com/wiki/Temporus "Temporus")
 [Aeonus](https://wowpedia.fandom.com/wiki/Aeonus "Aeonus")
 
  |
@@ -39,15 +39,15 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 
 
  |
-| 
+|
 
 | [Battle for Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_for_Mount_Hyjal_(instance) "Battle for Mount Hyjal (instance)") (25) |
 | --- |
-| 
-[Rage Winterchill](https://wowpedia.fandom.com/wiki/Rage_Winterchill_(tactics) "Rage Winterchill (tactics)")  
-[Anetheron](https://wowpedia.fandom.com/wiki/Anetheron_(tactics) "Anetheron (tactics)")  
-[Kaz'rogal](https://wowpedia.fandom.com/wiki/Kaz%27rogal "Kaz'rogal")  
-[Azgalor](https://wowpedia.fandom.com/wiki/Azgalor_(tactics) "Azgalor (tactics)")  
+|
+[Rage Winterchill](https://wowpedia.fandom.com/wiki/Rage_Winterchill_(tactics) "Rage Winterchill (tactics)")
+[Anetheron](https://wowpedia.fandom.com/wiki/Anetheron_(tactics) "Anetheron (tactics)")
+[Kaz'rogal](https://wowpedia.fandom.com/wiki/Kaz%27rogal "Kaz'rogal")
+[Azgalor](https://wowpedia.fandom.com/wiki/Azgalor_(tactics) "Azgalor (tactics)")
 [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde_(tactics) "Archimonde (tactics)")
 
  |
@@ -55,15 +55,15 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 
 
  |
-| 
+|
 
 | [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme_(instance) "Culling of Stratholme (instance)") (5) |
 | --- |
-| 
-[Meathook](https://wowpedia.fandom.com/wiki/Meathook "Meathook")  
-[Salramm the Fleshcrafter](https://wowpedia.fandom.com/wiki/Salramm_the_Fleshcrafter "Salramm the Fleshcrafter")  
-[Chrono-Lord Epoch](https://wowpedia.fandom.com/wiki/Chrono-Lord_Epoch "Chrono-Lord Epoch")  
-[Infinite Corruptor](https://wowpedia.fandom.com/wiki/Infinite_Corruptor "Infinite Corruptor") (heroic)  
+|
+[Meathook](https://wowpedia.fandom.com/wiki/Meathook "Meathook")
+[Salramm the Fleshcrafter](https://wowpedia.fandom.com/wiki/Salramm_the_Fleshcrafter "Salramm the Fleshcrafter")
+[Chrono-Lord Epoch](https://wowpedia.fandom.com/wiki/Chrono-Lord_Epoch "Chrono-Lord Epoch")
+[Infinite Corruptor](https://wowpedia.fandom.com/wiki/Infinite_Corruptor "Infinite Corruptor") (heroic)
 [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis_(tactics) "Mal'Ganis (tactics)")
 
  |
@@ -71,15 +71,15 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 
 
  |
-| 
+|
 
 | [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time") (5) |
 | --- |
-| 
-[Echo of Baine](https://wowpedia.fandom.com/wiki/Echo_of_Baine "Echo of Baine")  
-[Echo of Jaina](https://wowpedia.fandom.com/wiki/Echo_of_Jaina "Echo of Jaina")  
-[Echo of Sylvanas](https://wowpedia.fandom.com/wiki/Echo_of_Sylvanas "Echo of Sylvanas")  
-[Echo of Tyrande](https://wowpedia.fandom.com/wiki/Echo_of_Tyrande "Echo of Tyrande")  
+|
+[Echo of Baine](https://wowpedia.fandom.com/wiki/Echo_of_Baine "Echo of Baine")
+[Echo of Jaina](https://wowpedia.fandom.com/wiki/Echo_of_Jaina "Echo of Jaina")
+[Echo of Sylvanas](https://wowpedia.fandom.com/wiki/Echo_of_Sylvanas "Echo of Sylvanas")
+[Echo of Tyrande](https://wowpedia.fandom.com/wiki/Echo_of_Tyrande "Echo of Tyrande")
 [Murozond](https://wowpedia.fandom.com/wiki/Murozond_(tactics) "Murozond (tactics)")
 
  |
@@ -87,13 +87,13 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 
 
  |
-| 
+|
 
 | [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") (5) |
 | --- |
-| 
-[Peroth'arn](https://wowpedia.fandom.com/wiki/Peroth%27arn "Peroth'arn")  
-[Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara_(tactics) "Queen Azshara (tactics)")  
+|
+[Peroth'arn](https://wowpedia.fandom.com/wiki/Peroth%27arn "Peroth'arn")
+[Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara_(tactics) "Queen Azshara (tactics)")
 [Mannoroth and Varo'then](https://wowpedia.fandom.com/wiki/Mannoroth_and_Varo%27then "Mannoroth and Varo'then")
 
  |
@@ -101,13 +101,13 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 
 
  |
-| 
+|
 
 | [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight_(instance) "Hour of Twilight (instance)") (5) |
 | --- |
-| 
-[Arcurion](https://wowpedia.fandom.com/wiki/Arcurion "Arcurion")  
-[Asira Dawnslayer](https://wowpedia.fandom.com/wiki/Asira_Dawnslayer "Asira Dawnslayer")  
+|
+[Arcurion](https://wowpedia.fandom.com/wiki/Arcurion "Arcurion")
+[Asira Dawnslayer](https://wowpedia.fandom.com/wiki/Asira_Dawnslayer "Asira Dawnslayer")
 [Archbishop Benedictus](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus_(tactics) "Archbishop Benedictus (tactics)")
 
  |
@@ -115,18 +115,18 @@ _For the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_G
 
 
  |
-| 
+|
 
 | [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul") (10/25) |
 | --- |
-| 
-[Morchok](https://wowpedia.fandom.com/wiki/Morchok "Morchok")  
-[Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")  
-[Yor'sahj the Unsleeping](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")  
-[Hagara the Stormbinder](https://wowpedia.fandom.com/wiki/Hagara_the_Stormbinder "Hagara the Stormbinder")  
-[Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")  
-[Warmaster Blackhorn](https://wowpedia.fandom.com/wiki/Warmaster_Blackhorn "Warmaster Blackhorn")  
-[Spine of Deathwing](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing "Spine of Deathwing")  
+|
+[Morchok](https://wowpedia.fandom.com/wiki/Morchok "Morchok")
+[Warlord Zon'ozz](https://wowpedia.fandom.com/wiki/Warlord_Zon%27ozz "Warlord Zon'ozz")
+[Yor'sahj the Unsleeping](https://wowpedia.fandom.com/wiki/Yor%27sahj_the_Unsleeping "Yor'sahj the Unsleeping")
+[Hagara the Stormbinder](https://wowpedia.fandom.com/wiki/Hagara_the_Stormbinder "Hagara the Stormbinder")
+[Ultraxion](https://wowpedia.fandom.com/wiki/Ultraxion "Ultraxion")
+[Warmaster Blackhorn](https://wowpedia.fandom.com/wiki/Warmaster_Blackhorn "Warmaster Blackhorn")
+[Spine of Deathwing](https://wowpedia.fandom.com/wiki/Spine_of_Deathwing "Spine of Deathwing")
 [Madness of Deathwing](https://wowpedia.fandom.com/wiki/Madness_of_Deathwing "Madness of Deathwing")
 
  |
@@ -155,13 +155,13 @@ In the aftermath of the [Second War](https://wowpedia.fandom.com/wiki/Second_War
 
 Deep within the Caverns of Time, the brooding dragon Nozdormu has awakened. Since the world was young, the bronze dragonflight has safeguarded the winding labyrinth, monitoring the shifting timeways to ensure that the delicate balance of [time](https://wowpedia.fandom.com/wiki/Time "Time") is upheld.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time#cite_note-4">[4]</a></sup>
 
-The Timeless One sensed a threat to his beloved timeways. Shadowy agents have infiltrated the Caverns of Time, attempting to sabotage four key historical events: [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")'s escape from [Durnholde](https://wowpedia.fandom.com/wiki/Durnholde "Durnholde"), the monumental battle of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")'s creation of the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") and [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas")' culling of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"). In the face of this overwhelming threat, Nozdormu is enlisting heroes to help him prevent the fabric of time from unraveling forever.<sup id="cite_ref-TBCman_7_5-0"><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time#cite_note-TBCman_7-5">[5]</a></sup>
+The Timeless One sensed a threat to his beloved timeways. Shadowy agents have infiltrated the Caverns of Time, attempting to sabotage four key historical events: [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall")'s escape from [Durnholde](https://wowpedia.fandom.com/wiki/Durnholde "Durnholde"), the monumental battle of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh")'s creation of the xref:DarkPortal.adoc[Dark Portal] and [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas")' culling of xref:Stratholme.adoc[Stratholme]. In the face of this overwhelming threat, Nozdormu is enlisting heroes to help him prevent the fabric of time from unraveling forever.<sup id="cite_ref-TBCman_7_5-0"><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time#cite_note-TBCman_7-5">[5]</a></sup>
 
 ### Twilight of the Aspects
 
-During Thrall's journey during the events of [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), Thrall and [Desharin](https://wowpedia.fandom.com/wiki/Desharin "Desharin") ventured to the Caverns. Thrall learned about the timeways such as one, where he escapes from Durnholde. While they were meditating, an [agent](https://wowpedia.fandom.com/wiki/Aedelas_Blackmoore_(alternate_universe) "Aedelas Blackmoore (alternate universe)") attacked them and killed Desharin. Thrall was then tossed to a portal by a bronze dragon and began his journey through the past and was able to release Nozdormu.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time#cite_note-6">[6]</a></sup>
+During Thrall's journey during the events of xref:CataclysmEvent.adoc[cataclysm], Thrall and [Desharin](https://wowpedia.fandom.com/wiki/Desharin "Desharin") ventured to the Caverns. Thrall learned about the timeways such as one, where he escapes from Durnholde. While they were meditating, an [agent](https://wowpedia.fandom.com/wiki/Aedelas_Blackmoore_(alternate_universe) "Aedelas Blackmoore (alternate universe)") attacked them and killed Desharin. Thrall was then tossed to a portal by a bronze dragon and began his journey through the past and was able to release Nozdormu.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time#cite_note-6">[6]</a></sup>
 
-### [Third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion")
+### xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion]
 
 [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
 
@@ -185,7 +185,7 @@ The Caverns are littered with artifacts and buildings such as statues, weapons, 
 
 Overview of the area
 
-The caverns are not all sand — some former barren areas are full of lush forests and all around the Caverns there are huge dragon watchers, some on all fours and some on two legs, towering above everything else, and they wield huge axes. A few vendors and other humanoids exist throughout the Caverns, among them being frozen human warriors that surround towers of old [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") and frozen citizens of [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), an alcohol vendor, an enchantment materials vendor and a vendor that sells general goods. From the general goods vendor (who is called a <Provisioner>) you can buy new types of cheese and water. The frozen NPCs' eyes all creepily move and glance around.
+The caverns are not all sand — some former barren areas are full of lush forests and all around the Caverns there are huge dragon watchers, some on all fours and some on two legs, towering above everything else, and they wield huge axes. A few vendors and other humanoids exist throughout the Caverns, among them being frozen human warriors that surround towers of old [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") and frozen citizens of xref:Stratholme.adoc[Stratholme], an alcohol vendor, an enchantment materials vendor and a vendor that sells general goods. From the general goods vendor (who is called a <Provisioner>) you can buy new types of cheese and water. The frozen NPCs' eyes all creepily move and glance around.
 
 The bronze dragon [Anachronos](https://wowpedia.fandom.com/wiki/Anachronos "Anachronos"), who sits outside the gate, is labeled as a "?? Boss" but is not hostile at this point in time — although his companions [Tick](https://wowpedia.fandom.com/wiki/Tick_(drake) "Tick (drake)"), [Chronalis](https://wowpedia.fandom.com/wiki/Chronalis "Chronalis"), and [Occulus](https://wowpedia.fandom.com/wiki/Occulus "Occulus") do remain aggressive. It is not at all a risk to walk right into the caverns as they currently stand, so long as you don't get too close to any of the dragons other than Anachronos.
 
@@ -206,27 +206,27 @@ The caverns contain several instances with content culled directly from their pr
 | ****2'**** |  | 30 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Alexston Chrome](https://wowpedia.fandom.com/wiki/Alexston_Chrome "Alexston Chrome") <Tavern of Time> |
 | ****3'**** |  |  | Graveyard |
 | ****4'**** |  | 65 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Yarley](https://wowpedia.fandom.com/wiki/Yarley "Yarley") <Armorer> |
-| ****5'**** |  | 65 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Bortega](https://wowpedia.fandom.com/wiki/Bortega "Bortega") <Reagents & Poison Supplies>  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Alurmi](https://wowpedia.fandom.com/wiki/Alurmi "Alurmi") <Keepers of Time Quartermaster>  
+| ****5'**** |  | 65 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Bortega](https://wowpedia.fandom.com/wiki/Bortega "Bortega") <Reagents & Poison Supplies>
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Alurmi](https://wowpedia.fandom.com/wiki/Alurmi "Alurmi") <Keepers of Time Quartermaster>
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Galgrom](https://wowpedia.fandom.com/wiki/Galgrom "Galgrom") <Provisioner> |
-| ****6'**** |  | 70-73 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Zaladormu](https://wowpedia.fandom.com/wiki/Zaladormu "Zaladormu")  
-[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Soridormi](https://wowpedia.fandom.com/wiki/Soridormi "Soridormi") <The Scale of the Sands>  
+| ****6'**** |  | 70-73 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Zaladormu](https://wowpedia.fandom.com/wiki/Zaladormu "Zaladormu")
+[![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Soridormi](https://wowpedia.fandom.com/wiki/Soridormi "Soridormi") <The Scale of the Sands>
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Arazmodu](https://wowpedia.fandom.com/wiki/Arazmodu "Arazmodu") <The Scale of the Sands> |
 | ****7'**** |  |  | [Moonwell](https://wowpedia.fandom.com/wiki/Moonwell "Moonwell") |
-| ****8'**** |  | 66 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Andormu (child)](https://wowpedia.fandom.com/wiki/Andormu "Andormu") <Keepers of Time>  
+| ****8'**** |  | 66 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Andormu (child)](https://wowpedia.fandom.com/wiki/Andormu "Andormu") <Keepers of Time>
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Nozari (child)](https://wowpedia.fandom.com/wiki/Nozari "Nozari") <Keepers of Time> |
 | ****9'**** |  | ?? | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Anachronos](https://wowpedia.fandom.com/wiki/Anachronos "Anachronos") <Keepers of Time> |
-| ****10'**** |  | 70 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Andormu (adult)](https://wowpedia.fandom.com/wiki/Andormu "Andormu") <Keepers of Time>  
+| ****10'**** |  | 70 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Andormu (adult)](https://wowpedia.fandom.com/wiki/Andormu "Andormu") <Keepers of Time>
 [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral") [Nozari (adult)](https://wowpedia.fandom.com/wiki/Nozari "Nozari") <Keepers of Time> |
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/WorldMap-MicroDungeon-Tanaris-CavernsofTime.jpg/revision/latest/scale-to-width-down/120?cb=20120609164201)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/WorldMap-MicroDungeon-Tanaris-CavernsofTime.jpg/revision/latest?cb=20120609164201)
-    
+
     Entry from Tanaris, the "Timeless Tunnel"
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/WorldMap-MicroDungeon-Tanaris-CavernsofTime1.jpg/revision/latest/scale-to-width-down/120?cb=20220407075421)](https://static.wikia.nocookie.net/wowpedia/images/1/12/WorldMap-MicroDungeon-Tanaris-CavernsofTime1.jpg/revision/latest?cb=20220407075421)
-    
+
     Main cave
-    
+
 
 ## Instances
 
@@ -257,7 +257,7 @@ The entrance to Black Morass
 -   Defend [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") while he opens the Dark Portal (_[Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_) (level 70 5-man)
 -   Bosses: [Chrono Lord Deja](https://wowpedia.fandom.com/wiki/Chrono_Lord_Deja "Chrono Lord Deja"), [Temporus](https://wowpedia.fandom.com/wiki/Temporus "Temporus"), [Aeonus](https://wowpedia.fandom.com/wiki/Aeonus "Aeonus")
 
-[Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), the last of the magical [Guardians of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"), was possessed at birth by the evil Titan, [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"). It was Medivh who first contacted the corrupt orc sorcerer [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"), also in the service of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Together they sought to bridge the dimensional gap between [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), homeworld of the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"), to facilitate the destruction of Azeroth. On the appointed day both Medivh and Gul'dan concentrated their considerable magic energies, forcing the collapse of the dimensional barrier. The setting of this event is the [Black Morass](https://wowpedia.fandom.com/wiki/Black_Morass "Black Morass"), now known as the [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands").
+[Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"), the last of the magical [Guardians of Tirisfal](https://wowpedia.fandom.com/wiki/Guardian_of_Tirisfal "Guardian of Tirisfal"), was possessed at birth by the evil Titan, [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"). It was Medivh who first contacted the corrupt orc sorcerer [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan"), also in the service of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Together they sought to bridge the dimensional gap between xref:Azeroth.adoc[Azeroth] and [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), homeworld of the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"), to facilitate the destruction of Azeroth. On the appointed day both Medivh and Gul'dan concentrated their considerable magic energies, forcing the collapse of the dimensional barrier. The setting of this event is the [Black Morass](https://wowpedia.fandom.com/wiki/Black_Morass "Black Morass"), now known as the [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands").
 
 Players defend Medivh as he opens the portal.
 
@@ -273,7 +273,7 @@ The entrance to Mount Hyjal
 -   Bosses: [Rage Winterchill](https://wowpedia.fandom.com/wiki/Rage_Winterchill_(tactics) "Rage Winterchill (tactics)"), [Anetheron](https://wowpedia.fandom.com/wiki/Anetheron_(tactics) "Anetheron (tactics)"), [Kaz'rogal](https://wowpedia.fandom.com/wiki/Kaz%27rogal "Kaz'rogal"), [Azgalor](https://wowpedia.fandom.com/wiki/Azgalor_(tactics) "Azgalor (tactics)"), [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde_(tactics) "Archimonde (tactics)")
 -   Note: The Battle for Mount Hyjal is the only pre-_Cataclysm_ section of the Caverns of Time that contains no presence of the Infinite Dragonflight.
 
-At the pinnacle of the second battle against the Burning Legion, it was clear to the races of Azeroth that the only way to achieve victory would be to unite their forces in a final, desperate push for victory. This battle took place at the peak of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), at the foot of [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree"). The [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), led by [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), the new [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), led by Thrall and [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof"), and the remnants of the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), led by [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), united their forces against [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") and the demonic forces of the Burning Legion in a massive, epic battle to defend Azeroth. Victory was narrowly achieved, even as Archimonde reached the World Tree and attempted to drain it of its energy.
+At the pinnacle of the second battle against the Burning Legion, it was clear to the races of Azeroth that the only way to achieve victory would be to unite their forces in a final, desperate push for victory. This battle took place at the peak of [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"), at the foot of [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree"). The [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), led by [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") and [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind"), the new xref:Horde.adoc[Horde], led by Thrall and [Cairne Bloodhoof](https://wowpedia.fandom.com/wiki/Cairne_Bloodhoof "Cairne Bloodhoof"), and the remnants of the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), led by [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), united their forces against [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") and the demonic forces of the Burning Legion in a massive, epic battle to defend Azeroth. Victory was narrowly achieved, even as Archimonde reached the World Tree and attempted to drain it of its energy.
 
 ### [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme_(instance) "Culling of Stratholme (instance)")
 
@@ -284,7 +284,7 @@ The entrance to the Culling of Stratholme
 -   The Purging of Stratholme from its infected inhabitants (_Warcraft III_, [The Culling](https://wowpedia.fandom.com/wiki/The_Culling_(WC3_Human) "The Culling (WC3 Human)")). (level 80 5-man)
 -   Bosses: [Meathook](https://wowpedia.fandom.com/wiki/Meathook "Meathook"), [Salramm the Fleshcrafter](https://wowpedia.fandom.com/wiki/Salramm_the_Fleshcrafter "Salramm the Fleshcrafter"), [Chrono-Lord Epoch](https://wowpedia.fandom.com/wiki/Chrono-Lord_Epoch "Chrono-Lord Epoch"), [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis_(tactics) "Mal'Ganis (tactics)")
 
-The next instance, included in the second expansion, is [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") several years in the past. Players join [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") in "cleansing" the city of plagued villagers, one of the final acts in a series of personal changes that culminates in Arthas becoming a [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and one of the first acts into his descent to madness. This was a level within _Warcraft III_. [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Uther](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") are seen in this instance briefly, as Arthas had a disagreement with his mentor before the culling of the people of Stratholme, and disbanded the order of [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") to which Uther belonged — the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand").
+The next instance, included in the second expansion, is xref:Stratholme.adoc[Stratholme] several years in the past. Players join [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") in "cleansing" the city of plagued villagers, one of the final acts in a series of personal changes that culminates in Arthas becoming a [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and one of the first acts into his descent to madness. This was a level within _Warcraft III_. [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Uther](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") are seen in this instance briefly, as Arthas had a disagreement with his mentor before the culling of the people of Stratholme, and disbanded the order of [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") to which Uther belonged — the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand").
 
 ### Final Push against the Worldbreaker
 
@@ -297,9 +297,9 @@ The next instance, included in the second expansion, is [Stratholme](https://wow
 The entrance to present and future Dragonblight
 
 -   The future of Azeroth, as a result of the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") victory in the [war against Deathwing](https://wowpedia.fandom.com/wiki/War_against_Deathwing "War against Deathwing"). (_[Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight "Hour of Twilight")_) (level 85 5-man)
--   Bosses: [Echo of Baine](https://wowpedia.fandom.com/wiki/Echo_of_Baine "Echo of Baine"), [Echo of Jaina](https://wowpedia.fandom.com/wiki/Echo_of_Jaina "Echo of Jaina"), [Echo of Sylvanas](https://wowpedia.fandom.com/wiki/Echo_of_Sylvanas "Echo of Sylvanas"), [Echo of Tyrande](https://wowpedia.fandom.com/wiki/Echo_of_Tyrande "Echo of Tyrande"), [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond")
+-   Bosses: [Echo of Baine](https://wowpedia.fandom.com/wiki/Echo_of_Baine "Echo of Baine"), [Echo of Jaina](https://wowpedia.fandom.com/wiki/Echo_of_Jaina "Echo of Jaina"), [Echo of Sylvanas](https://wowpedia.fandom.com/wiki/Echo_of_Sylvanas "Echo of Sylvanas"), [Echo of Tyrande](https://wowpedia.fandom.com/wiki/Echo_of_Tyrande "Echo of Tyrande"), xref:Murozond.adoc[Murozond]
 
-The Dragon Aspects that occupy [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") have a problem: They know that if they cannot destroy their fallen brother [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), he'll consume the world. There's only one artefact with the power to weaken the Black Scourge, but it has long since been destroyed: the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"). To retrieve the golden disk the Aspects must charge the heroes of Azeroth with its retrieval from the depths of time. Deathwing first unleashed the power of the Dragon Soul to stop [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") and the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") from entering Azeroth through the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). That means sending players to the Caverns of Time and Nozdormu. Upon arriving, the Aspect of Time will tell them that his ability to send them back to the battle at the Well of Eternity is being interfered with by an entity in the future. First then, players must go forward into the Endtime and kill [Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond"). Within they'll witness a charred vision of the world should the plan to defeat Deathwing fail.
+The Dragon Aspects that occupy [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple") have a problem: They know that if they cannot destroy their fallen brother [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing"), he'll consume the world. There's only one artefact with the power to weaken the Black Scourge, but it has long since been destroyed: the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"). To retrieve the golden disk the Aspects must charge the heroes of Azeroth with its retrieval from the depths of time. Deathwing first unleashed the power of the Dragon Soul to stop [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") and the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") from entering Azeroth through the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"). That means sending players to the Caverns of Time and Nozdormu. Upon arriving, the Aspect of Time will tell them that his ability to send them back to the battle at the Well of Eternity is being interfered with by an entity in the future. First then, players must go forward into the Endtime and kill xref:Murozond.adoc[Murozond]. Within they'll witness a charred vision of the world should the plan to defeat Deathwing fail.
 
 #### [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)")
 
@@ -315,7 +315,7 @@ With Murozond's defeat, players will be able to venture into the past and partak
 
 #### [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight_(instance) "Hour of Twilight (instance)")
 
--   The push towards besieged Wyrmrest Temple through the wastes of [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). (_Present day_) (level 85 5-man)
+-   The push towards besieged Wyrmrest Temple through the wastes of [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") in xref:Northrend.adoc[Northrend]. (_Present day_) (level 85 5-man)
 -   Bosses: [Arcurion](https://wowpedia.fandom.com/wiki/Arcurion "Arcurion"), [Asira Dawnslayer](https://wowpedia.fandom.com/wiki/Asira_Dawnslayer "Asira Dawnslayer"), [Archbishop Benedictus](https://wowpedia.fandom.com/wiki/Archbishop_Benedictus_(tactics) "Archbishop Benedictus (tactics)")
 -   Note: You **must** first complete [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)") to access [Hour of Twilight](https://wowpedia.fandom.com/wiki/Hour_of_Twilight_(instance) "Hour of Twilight (instance)")
 
@@ -379,7 +379,7 @@ Also, other factionless NPC's and they, like the vendors, are members of the [Ke
 
 ## Quick Travel to Caverns of Time
 
-The [portal rooms](https://wowpedia.fandom.com/wiki/Portal_room "Portal room") in [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") contain portals to the Caverns of Time.
+The [portal rooms](https://wowpedia.fandom.com/wiki/Portal_room "Portal room") in [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") and xref:Orgrimmar.adoc[Orgrimmar] contain portals to the Caverns of Time.
 
 In addition, [Zephyr](https://wowpedia.fandom.com/wiki/Zephyr "Zephyr") at the [World's End Tavern](https://wowpedia.fandom.com/wiki/World%27s_End_Tavern "World's End Tavern") in [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City") can teleport characters who have at least [Revered](https://wowpedia.fandom.com/wiki/Revered "Revered") reputation status with the [Keepers of Time](https://wowpedia.fandom.com/wiki/Keepers_of_Time "Keepers of Time") directly to the entrance of the Caverns.
 
@@ -403,36 +403,36 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
 -   The tunnel leading to the main part of the cave is called **Timeless Tunnel** on the [map](https://wowpedia.fandom.com/wiki/Map "Map"), but it doesn't appear as a subzone.
 -   Before patch 4.2.0, in order to access the instances in [Heroic](https://wowpedia.fandom.com/wiki/Heroic "Heroic") mode, players had to obtain [Honored](https://wowpedia.fandom.com/wiki/Honored "Honored") [Reputation](https://wowpedia.fandom.com/wiki/Reputation "Reputation") with the [Keepers of Time](https://wowpedia.fandom.com/wiki/Keepers_of_Time "Keepers of Time"), and then buy the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Inv_misc_key_04.png/revision/latest/scale-to-width-down/16?cb=20060920032926)[\[Key of Time\]](https://wowpedia.fandom.com/wiki/Key_of_Time) from [Alurmi](https://wowpedia.fandom.com/wiki/Alurmi "Alurmi"), the Keepers of Time quartermaster, in the Caverns of Time. The Culling of Stratholme does not require any key nor reputation for Heroic mode.
--   In _[World of Warcraft: Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_, the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") was twisted to link up to the [alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") of the past, rather than the current [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). It was planned that in order for players to still access Outland (and level from 60 to 70), a portal to Outland would be opened up in the Caverns of Time.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time#cite_note-9">[9]</a></sup> The portals were placed in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") and [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") instead.
+-   In _[World of Warcraft: Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_, the xref:DarkPortal.adoc[Dark Portal] was twisted to link up to the [alternate Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") of the past, rather than the current [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). It was planned that in order for players to still access Outland (and level from 60 to 70), a portal to Outland would be opened up in the Caverns of Time.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time#cite_note-9">[9]</a></sup> The portals were placed in xref:Orgrimmar.adoc[Orgrimmar] and [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") instead.
 -   Very late in the _[Warlords of Draenor](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor")_ beta, an [infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight") [drakonid](https://wowpedia.fandom.com/wiki/Drakonid "Drakonid") known as the "Infinite Vanguard" was found outside the Caverns of Time. Meanwhile, a time rift like those the infinites have been known to use appeared above the sands of [Tanaris](https://wowpedia.fandom.com/wiki/Tanaris "Tanaris") between the Caverns of Time and the [Gaping Chasm](https://wowpedia.fandom.com/wiki/Gaping_Chasm "Gaping Chasm"). Both of these were removed before the final version of the game.
 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/32/Caverns_of_Time_loading_screen.jpg/revision/latest/scale-to-width-down/120?cb=20180320120128)](https://static.wikia.nocookie.net/wowpedia/images/3/32/Caverns_of_Time_loading_screen.jpg/revision/latest?cb=20180320120128)
-    
+
     The Caverns of Time loading screen graphic.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/58/CoT_flash.jpg/revision/latest/scale-to-width-down/120?cb=20090621215131)](https://static.wikia.nocookie.net/wowpedia/images/5/58/CoT_flash.jpg/revision/latest?cb=20090621215131)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Caverns_of_Time_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20100408212705)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/Caverns_of_Time_TCG.jpg/revision/latest?cb=20100408212705)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/da/CoT_graveyard.jpg/revision/latest/scale-to-width-down/120?cb=20100614212316)](https://static.wikia.nocookie.net/wowpedia/images/d/da/CoT_graveyard.jpg/revision/latest?cb=20100614212316)
-    
+
     The Caverns of Time grave site
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/CoT_vendors.jpg/revision/latest/scale-to-width-down/120?cb=20100614212334)](https://static.wikia.nocookie.net/wowpedia/images/b/b5/CoT_vendors.jpg/revision/latest?cb=20100614212334)
-    
+
     The timeless vendors
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/13/CoT_collapsed_tunnel.jpg/revision/latest/scale-to-width-down/120?cb=20090805083322)](https://static.wikia.nocookie.net/wowpedia/images/1/13/CoT_collapsed_tunnel.jpg/revision/latest?cb=20090805083322)
-    
+
     A collapsed timeway, which later reopened into the Culling of Stratholme
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Caverns_of_Time_gate.jpg/revision/latest/scale-to-width-down/120?cb=20221005234704)](https://static.wikia.nocookie.net/wowpedia/images/5/5f/Caverns_of_Time_gate.jpg/revision/latest?cb=20221005234704)
-    
+
     The sealed entrance before the caverns were opened
-    
+
 
 ## See also
 
@@ -456,7 +456,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
 <table><tbody><tr><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=1941">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/1941">WoWDB</a></li></ul></td><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=2300">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/2300">WoWDB</a></li></ul></td><td><ul><li><a target="_self" rel="nofollow" href="https://www.wowhead.com/zone=10582">Wowhead</a></li><li><a target="_self" rel="nofollow" href="https://www.wowdb.com/zones/10582">WoWDB</a></li></ul></td></tr></tbody></table>
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Caverns_of_Time "Template:Caverns of Time")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Caverns_of_Time?action=edit)
 
@@ -467,7 +467,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
  |
 | --- |
 |  |
-| _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_ [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") | 
+| _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_ [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") |
 
 -   [Escape from Durnholde Keep](https://wowpedia.fandom.com/wiki/Escape_from_Durnholde_Keep "Escape from Durnholde Keep")
     -   [Old Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Old_Hillsbrad_Foothills "Old Hillsbrad Foothills")
@@ -480,7 +480,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_ [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") | 
+| _[Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King")_ [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") |
 
 -   [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme_(instance) "Culling of Stratholme (instance)")
     -   [Old Stratholme](https://wowpedia.fandom.com/wiki/Old_Stratholme "Old Stratholme") / [The Road to Stratholme](https://wowpedia.fandom.com/wiki/Road_to_Stratholme "Road to Stratholme")
@@ -489,7 +489,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") | 
+| _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_ [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") |
 
 -   [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time")
 -   [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(instance) "Well of Eternity (instance)")
@@ -500,7 +500,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
 
@@ -511,7 +511,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
  |
 | --- |
 |  |
-| Primary dragon types | 
+| Primary dragon types |
 
 -   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
 -   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
@@ -523,7 +523,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| Other dragon types | 
+| Other dragon types |
 
 -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
 -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
@@ -538,13 +538,13 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| Bronze Dragonflight | 
+| Bronze Dragonflight |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><div><p><a href="https://wowpedia.fandom.com/wiki/Nozdormu" title="Nozdormu">Nozdormu the Timeless One</a> - Lord of Time</p></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Known_members" title="Bronze dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Anachronos" title="Anachronos">Anachronos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Andormu" title="Andormu">Andormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chronormu" title="Chronormu">Chronormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nozari" title="Nozari">Nozari</a></li><li><a href="https://wowpedia.fandom.com/wiki/Soridormi" title="Soridormi">Soridormi</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><strong>Caverns of Time</strong> (Home)</li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine" title="Bronze Dragonshrine">Bronze Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scarab_Wall" title="Scarab Wall">Scarab Wall</a></li><li><a href="https://wowpedia.fandom.com/wiki/Staghelm_Point" title="Staghelm Point">Staghelm Point</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tanaris" title="Tanaris">Tanaris</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bronze_whelp" title="Bronze whelp">Bronze whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drake" title="Bronze drake">Bronze drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragon" title="Bronze dragon">Bronze dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_wyrm" title="Bronze wyrm">Bronze wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drakonid" title="Bronze drakonid">Bronze drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonspawn" title="Bronze dragonspawn">Bronze dragonspawn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Factions" title="Bronze dragonflight">Groups</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Brood_of_Nozdormu" title="Brood of Nozdormu">Brood of Nozdormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keepers_of_Time" title="Keepers of Time">Keepers of Time</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scale_of_the_Sands" title="Scale of the Sands">Scale of the Sands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Timewalkers" title="Timewalkers">Timewalkers</a></li><li><a href="https://wowpedia.fandom.com/wiki/Watcher_(bronze_dragonflight)" title="Watcher (bronze dragonflight)">Watchers</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Dragonflights | 
+| Dragonflights |
 
 -   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
 -   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
@@ -557,7 +557,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| Other draconic groups | 
+| Other draconic groups |
 
 -   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
 -   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
@@ -567,7 +567,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| 
+|
 
 -   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
 -   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
@@ -579,7 +579,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Tanaris "Template:Tanaris")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Tanaris?action=edit)
 
@@ -590,11 +590,11 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
  |
 | --- |
 |  |
-| 
+|
 
 [![Tanaris is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Tanaris is a contested territory")
 
- | 
+ |
 
 -   [Abyssal Sands](https://wowpedia.fandom.com/wiki/Abyssal_Sands "Abyssal Sands")
 -   [Bootlegger Outpost](https://wowpedia.fandom.com/wiki/Bootlegger_Outpost "Bootlegger Outpost")
@@ -628,14 +628,14 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
 
 
- | 
+ |
 
-[![Map of Tanaris - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/b/b1/WorldMap-Tanaris.jpg/revision/latest/scale-to-width-down/120?cb=20140205142935)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/WorldMap-Tanaris.jpg/revision/latest?cb=20140205142935 "Map of Tanaris - Cataclysm")  
+[![Map of Tanaris - Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/b/b1/WorldMap-Tanaris.jpg/revision/latest/scale-to-width-down/120?cb=20140205142935)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/WorldMap-Tanaris.jpg/revision/latest?cb=20140205142935 "Map of Tanaris - Cataclysm")
 [![Map of Tanaris - Classic](https://static.wikia.nocookie.net/wowpedia/images/8/86/WorldMap-Tanaris-old.jpg/revision/latest/scale-to-width-down/120?cb=20071104181213)](https://static.wikia.nocookie.net/wowpedia/images/8/86/WorldMap-Tanaris-old.jpg/revision/latest?cb=20071104181213 "Map of Tanaris - Classic")
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Gnopetto's workshop](https://wowpedia.fandom.com/wiki/Gnopetto%27s_workshop "Gnopetto's workshop")
 -   [Gunstan's Dig](https://wowpedia.fandom.com/wiki/Gunstan%27s_Dig "Gunstan's Dig")
@@ -648,7 +648,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| 
+|
 
 [Tanaris category](https://wowpedia.fandom.com/wiki/Category:Tanaris "Category:Tanaris")
 
@@ -656,7 +656,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dungeons/cataclysm "Template:Dungeons/cataclysm")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dungeons/cataclysm?action=edit)
 
@@ -667,7 +667,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
  |
 | --- |
 |  |
-| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") |
 
 -   [Baradin Hold](https://wowpedia.fandom.com/wiki/Baradin_Hold "Baradin Hold")
 -   [Bastion of Twilight](https://wowpedia.fandom.com/wiki/Bastion_of_Twilight "Bastion of Twilight")
@@ -682,7 +682,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") |
 
 -   **Caverns of Time**
     -   [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time")
@@ -697,7 +697,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 |  |
-| [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") | 
+| [Elemental Plane](https://wowpedia.fandom.com/wiki/Elemental_Plane "Elemental Plane") |
 
 -   [Firelands](https://wowpedia.fandom.com/wiki/Firelands_(instance) "Firelands (instance)")
 -   [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")
@@ -710,7 +710,7 @@ Relics of past ages live half-buried in the sands near the entrance to this vast
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe "Template:Warcraft universe")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Warcraft_universe?action=edit)
 
@@ -721,18 +721,18 @@ Worlds of the [_Warcraft_ universe](https://wowpedia.fandom.com/wiki/Warcraft_un
  |
 | --- |
 |  |
-| [Planets](https://wowpedia.fandom.com/wiki/Planet "Planet"), [moons](https://wowpedia.fandom.com/wiki/Moon "Moon"),  
-and other locations | 
+| [Planets](https://wowpedia.fandom.com/wiki/Planet "Planet"), [moons](https://wowpedia.fandom.com/wiki/Moon "Moon"),
+and other locations |
 
 <table><tbody><tr><th scope="row">Major</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Argus" title="Argus">Argus</a><sup><a href="https://wowpedia.fandom.com/wiki/World-soul" title="World-soul">ω</a></sup></li><li><a href="https://wowpedia.fandom.com/wiki/Azeroth" title="Azeroth">Azeroth</a><sup><a href="https://wowpedia.fandom.com/wiki/World-soul" title="World-soul">ω</a></sup><ul><li><a href="https://wowpedia.fandom.com/wiki/Blue_Child" title="Blue Child">Blue Child</a></li><li><a href="https://wowpedia.fandom.com/wiki/White_Lady" title="White Lady">White Lady</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Draenor" title="Draenor">Draenor</a><sup>&nbsp;†</sup><ul><li><a href="https://wowpedia.fandom.com/wiki/Pale_Lady" title="Pale Lady">Pale Lady</a></li><li><a href="https://wowpedia.fandom.com/wiki/Outland" title="Outland">Outland</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Minor</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Chill%27s_Reach" title="Chill's Reach">Chill's Reach</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dreadscar_Rift" title="Dreadscar Rift">Dreadscar Rift</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elunaria" title="Elunaria">Elunaria</a></li><li><a href="https://wowpedia.fandom.com/wiki/Invasion_Point" title="Invasion Point">Invasion Points</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aurinor" title="Aurinor">Aurinor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bonich" title="Bonich">Bonich</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cen%27gar" title="Cen'gar">Cen'gar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Naigtal" title="Naigtal">Naigtal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sangua" title="Sangua">Sangua</a></li><li><a href="https://wowpedia.fandom.com/wiki/Val" title="Val">Val</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Mardum,_the_Shattered_Abyss" title="Mardum, the Shattered Abyss">Mardum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherlight_Temple" title="Netherlight Temple">Netherlight Temple</a></li><li><a href="https://wowpedia.fandom.com/wiki/Niskara" title="Niskara">Niskara</a></li><li><a href="https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon" title="Seat of the Pantheon">Seat of the Pantheon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shadowgore_Citadel" title="Shadowgore Citadel">Shadowgore Citadel</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shattered_Grove" title="Shattered Grove">Shattered Grove</a></li><li><a href="https://wowpedia.fandom.com/wiki/Telogrus_Rift" title="Telogrus Rift">Telogrus Rift</a></li><li><a href="https://wowpedia.fandom.com/wiki/Planets#Unnamed" title="Planets">Unnamed locations</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xandros" title="Xandros">Xandros</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Lore</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Centralis" title="Centralis">Centralis</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fanlin%27Deskor" title="Fanlin'Deskor">Fanlin'Deskor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fyzandi" title="Fyzandi">Fyzandi</a></li><li><a href="https://wowpedia.fandom.com/wiki/K%27aresh" title="K'aresh">K'aresh</a></li><li><a href="https://wowpedia.fandom.com/wiki/Karkora" title="Karkora">Karkora</a></li><li><a href="https://wowpedia.fandom.com/wiki/Kerxan" title="Kerxan">Kerxan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nathreza" title="Nathreza">Nathreza</a></li><li><a href="https://wowpedia.fandom.com/wiki/Navane" title="Navane">Navane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nihilam" title="Nihilam">Nihilam</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rancora" title="Rancora">Rancora</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shar%27gel" title="Shar'gel">Shar'gel</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tarratus" title="Tarratus">Tarratus</a></li><li><a href="https://wowpedia.fandom.com/wiki/Planets#Unnamed" title="Planets">Unnamed worlds</a></li><li><a href="https://wowpedia.fandom.com/wiki/Xerrath" title="Xerrath">Xerrath</a><sup>&nbsp;†</sup></li><li><a href="https://wowpedia.fandom.com/wiki/Xoroth" title="Xoroth">Xoroth</a></li></ul></div></td></tr></tbody></table>
 
- | 
+ |
 
 [![Map of the cosmos](https://static.wikia.nocookie.net/wowpedia/images/6/6c/WorldMap-Cosmic.jpg/revision/latest/scale-to-width-down/120?cb=20200816144412)](https://static.wikia.nocookie.net/wowpedia/images/6/6c/WorldMap-Cosmic.jpg/revision/latest?cb=20200816144412 "Map of the cosmos")
 
  |
 |  |
-| Cosmic [planes](https://wowpedia.fandom.com/wiki/Plane "Plane") | 
+| Cosmic [planes](https://wowpedia.fandom.com/wiki/Plane "Plane") |
 
 -   [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond")
 -   [Light](https://wowpedia.fandom.com/wiki/Light "Light")
@@ -746,7 +746,7 @@ and other locations |
 
  |
 |  |
-| [Alternate timelines](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") | 
+| [Alternate timelines](https://wowpedia.fandom.com/wiki/Alternate_timeline "Alternate timeline") |
 
 -   [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)")
 -   **Caverns of Time**
@@ -759,7 +759,7 @@ and other locations |
 
  |
 |  |
-| 
+|
 
 [Worlds category](https://wowpedia.fandom.com/wiki/Category:Worlds "Category:Worlds")
 

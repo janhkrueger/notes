@@ -8,19 +8,19 @@ _For the [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage") [Tier 4](https://w
 | Main leader |  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)[High Priestess Ishanah](https://wowpedia.fandom.com/wiki/Ishanah "Ishanah") |
 |   Formerly |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/97/IconSmall_Velen.gif/revision/latest/scale-to-width-down/16?cb=20221016141253)[Prophet Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") |
 | Secondary leaders |  ![](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)[Grand Anchorite Almonen](https://wowpedia.fandom.com/wiki/Grand_Anchorite_Almonen "Grand Anchorite Almonen") |
-| Race(s) | [![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")  
+| Race(s) | [![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
 [![Broken](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)](https://wowpedia.fandom.com/wiki/Broken "Broken") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-1">[1]</a></sup> |
 | Capital | [Aldor Rise](https://wowpedia.fandom.com/wiki/Aldor_Rise "Aldor Rise"), [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City") |
 | Theater of operations | [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), [Isle of Quel'Danas](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas") |
 | Affiliation | [The Sha'tar](https://wowpedia.fandom.com/wiki/Sha%27tar "Sha'tar"), [Shattered Sun Offensive](https://wowpedia.fandom.com/wiki/Shattered_Sun_Offensive "Shattered Sun Offensive") |
 | Status | Active |
 | Reputation |
-| Token(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_shadow_demonicfortitude.png/revision/latest/scale-to-width-down/16?cb=20070113161153)[\[Mark of Kil'jaeden\]](https://wowpedia.fandom.com/wiki/Mark_of_Kil%27jaeden)  
- ![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_shadow_demonicfortitude.png/revision/latest/scale-to-width-down/16?cb=20070113161153)[\[Mark of Sargeras\]](https://wowpedia.fandom.com/wiki/Mark_of_Sargeras)  
+| Token(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_shadow_demonicfortitude.png/revision/latest/scale-to-width-down/16?cb=20070113161153)[\[Mark of Kil'jaeden\]](https://wowpedia.fandom.com/wiki/Mark_of_Kil%27jaeden)
+ ![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_shadow_demonicfortitude.png/revision/latest/scale-to-width-down/16?cb=20070113161153)[\[Mark of Sargeras\]](https://wowpedia.fandom.com/wiki/Mark_of_Sargeras)
  ![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Inv_misc_desecrated_plategloves.png/revision/latest/scale-to-width-down/16?cb=20061020023217)[\[Fel Armament\]](https://wowpedia.fandom.com/wiki/Fel_Armament) |
 | Currency |  ![](https://static.wikia.nocookie.net/wowpedia/images/6/68/Inv_misc_dust_06.png/revision/latest/scale-to-width-down/16?cb=20091128221520)[\[Holy Dust\]](https://wowpedia.fandom.com/wiki/Holy_Dust) |
 | Quartermaster | [![IconSmall Draenei Male.gif](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest?cb=20200517223519)[Quartermaster Endarin](https://wowpedia.fandom.com/wiki/Quartermaster_Endarin "Quartermaster Endarin") |
-| Notable reward(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/99/Inv_jewelry_amulet_04.png/revision/latest/scale-to-width-down/16?cb=20060725074654)[\[Medallion of the Lightbearer\]](https://wowpedia.fandom.com/wiki/Medallion_of_the_Lightbearer)  
+| Notable reward(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/99/Inv_jewelry_amulet_04.png/revision/latest/scale-to-width-down/16?cb=20060725074654)[\[Medallion of the Lightbearer\]](https://wowpedia.fandom.com/wiki/Medallion_of_the_Lightbearer)
  ![](https://static.wikia.nocookie.net/wowpedia/images/1/14/Inv_sword_draenei_01.png/revision/latest/scale-to-width-down/16?cb=20070115225643)[\[Vindicator's Brand\]](https://wowpedia.fandom.com/wiki/Vindicator%27s_Brand) |
 | Tabard | [![Aldor Tabard.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Aldor_Tabard.jpg/revision/latest/scale-to-width-down/90?cb=20070313125052)](https://static.wikia.nocookie.net/wowpedia/images/b/b7/Aldor_Tabard.jpg/revision/latest?cb=20070313125052) |
 
@@ -50,7 +50,7 @@ Two hundred years after the draenei arrival to [Draenor](https://wowpedia.fandom
 
 When the [_"born from Light"_](https://wowpedia.fandom.com/wiki/Sha%27tar "Sha'tar") came to [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") to fight the demons of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), they were drawn to [Shattrath](https://wowpedia.fandom.com/wiki/Shattrath "Shattrath"). The Aldor regained strength as word spread that the [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") had returned and reconstruction soon began. The ruined temple was repurposed as an infirmary for injured refugees.<sup id="cite_ref-KSE_10-3"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-KSE-10">[10]</a></sup>
 
-A group of Aldori warriors aided the first [Azerothian](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") forces stationed at the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") when it was reopened.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-13">[13]</a></sup>
+A group of Aldori warriors aided the first [Azerothian](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") forces stationed at the xref:DarkPortal.adoc[Dark Portal] when it was reopened.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-13">[13]</a></sup>
 
 ## Reputation
 
@@ -60,28 +60,28 @@ _For help choosing between the Aldor and Scryer factions, see the article "[Comp
 
 |   | [Hated](https://wowpedia.fandom.com/wiki/Hated "Hated") | [Hostile](https://wowpedia.fandom.com/wiki/Hostile "Hostile") | [Unfriendly](https://wowpedia.fandom.com/wiki/Unfriendly "Unfriendly") | [Neutral](https://wowpedia.fandom.com/wiki/Neutral "Neutral") | [Friendly](https://wowpedia.fandom.com/wiki/Friendly "Friendly") | [Honored](https://wowpedia.fandom.com/wiki/Honored "Honored") | [Revered](https://wowpedia.fandom.com/wiki/Revered "Revered") | [Exalted](https://wowpedia.fandom.com/wiki/Exalted "Exalted") | Rep | Item |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Repeatable  
-Quests | 
+| Repeatable
+Quests |
  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Strained Supplies](https://wowpedia.fandom.com/wiki/Strained_Supplies) [(R)](https://wowpedia.fandom.com/wiki/More_Venom_Sacs "More Venom Sacs")
 
 
 
  |  | 250 |  ![](https://static.wikia.nocookie.net/wowpedia/images/5/56/Inv_misc_organ_04.png/revision/latest/scale-to-width-down/16?cb=20180222203314)[\[Dreadfang Venom Sac\]](https://wowpedia.fandom.com/wiki/Dreadfang_Venom_Sac) x8 |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[15-30\] [Marks of Kil'jaeden](https://wowpedia.fandom.com/wiki/Marks_of_Kil%27jaeden_(quest)) [(R)](https://wowpedia.fandom.com/wiki/More_Marks_of_Kil%27jaeden "More Marks of Kil'jaeden")
 
 
 
  |  | 250 (25) |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_shadow_demonicfortitude.png/revision/latest/scale-to-width-down/16?cb=20070113161153)[\[Mark of Kil'jaeden\]](https://wowpedia.fandom.com/wiki/Mark_of_Kil%27jaeden) x10 [(x1)](https://wowpedia.fandom.com/wiki/Single_Mark_of_Kil%27jaeden "Single Mark of Kil'jaeden") |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[15-30\] [Marks of Sargeras](https://wowpedia.fandom.com/wiki/Marks_of_Sargeras) [(R)](https://wowpedia.fandom.com/wiki/More_Marks_of_Sargeras "More Marks of Sargeras")
 
 
 
  | 250 (25) |  ![](https://static.wikia.nocookie.net/wowpedia/images/9/9c/Spell_shadow_demonicfortitude.png/revision/latest/scale-to-width-down/16?cb=20070113161153)[\[Mark of Sargeras\]](https://wowpedia.fandom.com/wiki/Mark_of_Sargeras) x10 [(x1)](https://wowpedia.fandom.com/wiki/Single_Mark_of_Sargeras "Single Mark of Sargeras") |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[15-30\] [A Cleansing Light](https://wowpedia.fandom.com/wiki/A_Cleansing_Light) [(R)](https://wowpedia.fandom.com/wiki/Fel_Armaments "Fel Armaments")
 
@@ -176,7 +176,7 @@ Total: 1075 Reputation
 
 An Aldor vindicator in the [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game").
 
-![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._
 
 Named
 
@@ -215,14 +215,14 @@ Formerly
 
 <table><tbody><tr><td><a href="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"><img alt="Questionmark-medium.png" decoding="async" loading="lazy" width="41" height="55" data-image-name="Questionmark-medium.png" data-image-key="Questionmark-medium.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216" src="https://static.wikia.nocookie.net/wowpedia/images/2/2b/Questionmark-medium.png/revision/latest?cb=20061019212216"></a></td><td><p><small>This article or section includes speculation, observations or opinions possibly supported by lore or by Blizzard officials. <b>It should not be taken as representing official lore.</b></small></p></td></tr></tbody></table>
 
-Ishanah joined the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-15">[15]</a></sup> and it is possible that the whole Aldor joined as well.
+Ishanah joined the xref:Alliance.adoc[Alliance]<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-14">[14]</a></sup><sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Aldor#cite_note-15">[15]</a></sup> and it is possible that the whole Aldor joined as well.
 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Aldor_Attendant_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220106222834)](https://static.wikia.nocookie.net/wowpedia/images/2/2a/Aldor_Attendant_HS.jpg/revision/latest?cb=20220106222834)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/66/Aldor_Truthseeker_HS.jpg/revision/latest/scale-to-width-down/96?cb=20220106222708)](https://static.wikia.nocookie.net/wowpedia/images/6/66/Aldor_Truthseeker_HS.jpg/revision/latest?cb=20220106222708)
-    
+
 
 ## References
 
@@ -247,7 +247,7 @@ Ishanah joined the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Allianc
 -   [Wowhead](https://www.wowhead.com/faction=932)
 -   [WoWDB](https://www.wowdb.com/factions/932)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Factions/burning_crusade "Template:Factions/burning crusade")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Factions/burning_crusade?action=edit)
 
@@ -256,7 +256,7 @@ Ishanah joined the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Allianc
  |
 | --- |
 |  |
-|  [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") | 
+|  xref:Alliance.adoc[Alliance] |
 
 -   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
 -   [Kurenai](https://wowpedia.fandom.com/wiki/Kurenai "Kurenai")
@@ -265,7 +265,7 @@ Ishanah joined the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Allianc
 
  |
 |  |
-|  [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") | 
+|  xref:Horde.adoc[Horde] |
 
 -   [The Mag'har](https://wowpedia.fandom.com/wiki/Mag%27har_(faction) "Mag'har (faction)")
 -   [Thrallmar](https://wowpedia.fandom.com/wiki/Thrallmar "Thrallmar")
@@ -275,7 +275,7 @@ Ishanah joined the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Allianc
 
  |
 |  |
-|  [Neutral](https://wowpedia.fandom.com/wiki/Neutral "Neutral") | 
+|  [Neutral](https://wowpedia.fandom.com/wiki/Neutral "Neutral") |
 
 <table><tbody><tr><td colspan="2"><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Ashtongue_Deathsworn" title="Ashtongue Deathsworn">Ashtongue Deathsworn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Cenarion_Expedition" title="Cenarion Expedition">Cenarion Expedition</a></li><li><a href="https://wowpedia.fandom.com/wiki/Consortium" title="Consortium">The Consortium</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keepers_of_Time" title="Keepers of Time">Keepers of Time</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherwing" title="Netherwing">Netherwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ogri%27la_(faction)" title="Ogri'la (faction)">Ogri'la</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scale_of_the_Sands" title="Scale of the Sands">The Scale of the Sands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sporeggar" title="Sporeggar">Sporeggar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Violet_Eye" title="Violet Eye">The Violet Eye</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City" title="Shattrath City">Shattrath City</a></th><td><div><ul><li><strong>The Aldor</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Lower_City" title="Lower City">Lower City</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scryers" title="Scryers">The Scryers</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sha%27tar" title="Sha'tar">The Sha'tar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sha%27tari_Skyguard" title="Sha'tari Skyguard">Sha'tari Skyguard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shattered_Sun_Offensive" title="Shattered Sun Offensive">Shattered Sun Offensive</a></li></ul></div></td></tr></tbody></table>
 

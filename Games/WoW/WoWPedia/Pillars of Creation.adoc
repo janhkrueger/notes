@@ -4,13 +4,13 @@ _This article is about the lore of the Pillars on Azeroth. For the related achie
 
 Stained glass window within the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") depicting the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") with the Pillars of Creation.
 
-The **Pillars of Creation** are relics created by and named after the members of the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") that were gifted to the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") so they could shape the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") when it was young.
+The **Pillars of Creation** are relics created by and named after the members of the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") that were gifted to the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") so they could shape the world of xref:Azeroth.adoc[Azeroth] when it was young.
 
 ## History
 
 ### Ancient times
 
-During [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s ordering, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") bestowed the Pillars of Creation to the [titanic keepers](https://wowpedia.fandom.com/wiki/Titan_keeper "Titan keeper") to aid them with that colossal task. Ages after the keepers had completed their work, the Pillars would become lost and scattered across the lands of Azeroth.<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-1">[1]</a></sup>
+During xref:Azeroth.adoc[Azeroth]'s ordering, the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") bestowed the Pillars of Creation to the [titanic keepers](https://wowpedia.fandom.com/wiki/Titan_keeper "Titan keeper") to aid them with that colossal task. Ages after the keepers had completed their work, the Pillars would become lost and scattered across the lands of Azeroth.<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-1">[1]</a></sup>
 
 ### War of the Ancients
 
@@ -20,9 +20,9 @@ After the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") fo
 
 [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
 
-Ten millennia later during the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), the [orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") and [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") managed to retrieve and stored them within the [Portrait Room](https://wowpedia.fandom.com/wiki/Portrait_Room "Portrait Room") in the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). The [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall") kept progressing towards the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), eventually breaching into the Tomb. Within the massive temple, each of the Pillars was placed in a particular slot and were used to seal off the Legion's portal once again and the entire Tomb with it.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-3">[3]</a></sup><sup id="cite_ref-The_Power_in_Our_Hands_4-0"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-The_Power_in_Our_Hands-4">[4]</a></sup>
+Ten millennia later during the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion], the [orders](https://wowpedia.fandom.com/wiki/Class_Order "Class Order") and [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") managed to retrieve and stored them within the [Portrait Room](https://wowpedia.fandom.com/wiki/Portrait_Room "Portrait Room") in the city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). The [Armies of Legionfall](https://wowpedia.fandom.com/wiki/Armies_of_Legionfall "Armies of Legionfall") kept progressing towards the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") on the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore"), eventually breaching into the Tomb. Within the massive temple, each of the Pillars was placed in a particular slot and were used to seal off the Legion's portal once again and the entire Tomb with it.<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-3">[3]</a></sup><sup id="cite_ref-The_Power_in_Our_Hands_4-0"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-The_Power_in_Our_Hands-4">[4]</a></sup>
 
-[Magni the Speaker](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") said the Pillars couldn't be used to draw out the corrupting energies from the [sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras") in the [Wound](https://wowpedia.fandom.com/wiki/Silithus:_The_Wound "Silithus: The Wound") of [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus") because the Pillars were needed to keep the Tomb sealed. Instead the champions of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") used their [artifact](https://wowpedia.fandom.com/wiki/Artifact "Artifact") weapons.<sup id="cite_ref-The_Power_in_Our_Hands_4-1"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-The_Power_in_Our_Hands-4">[4]</a></sup>
+[Magni the Speaker](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") said the Pillars couldn't be used to draw out the corrupting energies from the [sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras") in the [Wound](https://wowpedia.fandom.com/wiki/Silithus:_The_Wound "Silithus: The Wound") of [Silithus](https://wowpedia.fandom.com/wiki/Silithus "Silithus") because the Pillars were needed to keep the Tomb sealed. Instead the champions of xref:Azeroth.adoc[Azeroth] used their [artifact](https://wowpedia.fandom.com/wiki/Artifact "Artifact") weapons.<sup id="cite_ref-The_Power_in_Our_Hands_4-1"><a href="https://wowpedia.fandom.com/wiki/Pillars_of_Creation#cite_note-The_Power_in_Our_Hands-4">[4]</a></sup>
 
 ### Battle for Azeroth
 
@@ -68,7 +68,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
  |
 | --- |
 |  |
-| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") |
 
 -   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
 -   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
@@ -84,7 +84,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") | 
+| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") |
 
 -   [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas")
 -   [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya")
@@ -100,7 +100,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") | 
+| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") |
 
 -   [Eyir](https://wowpedia.fandom.com/wiki/Eyir "Eyir")
 -   [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya")
@@ -123,7 +123,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") | 
+| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") |
 
 -   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
 -   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
@@ -136,7 +136,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") |
 
 -   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
 -   [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
@@ -153,7 +153,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
     -   [Algalon](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer")
@@ -168,7 +168,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") | 
+| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") |
 
 -   [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination")
 -   [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills")
@@ -214,7 +214,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| Relics | 
+| Relics |
 
 -   [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
 -   [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon")
@@ -240,7 +240,7 @@ At some point before or during the [Fourth War](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| Weapons | 
+| Weapons |
 
 -   [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras")
 -   [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach")

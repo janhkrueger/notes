@@ -3,16 +3,16 @@ _For the raid encounter, see [Grand Magistrix Elisande (tactics)](https://wowped
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Elisande |
 | --- |
 | [![Image of Elisande](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Elisande_ToS.jpg/revision/latest/scale-to-width-down/194?cb=20160707172730)](https://static.wikia.nocookie.net/wowpedia/images/1/1a/Elisande_ToS.jpg/revision/latest?cb=20160707172730 "Image of Elisande") |
-| Title | Grand Magistrix,  
+| Title | Grand Magistrix,
 High Magistrix<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-1">[1]</a></sup> |
 | Gender | Female |
 | Race | [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") (Humanoid) |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
 | Affiliation(s) | [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch"), [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)") (ultimately)<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-2">[2]</a></sup> |
 | Former affiliation(s) | [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne"), [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
 | Occupation | Grand Magistrix of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar") |
 | Location | [Various](https://wowpedia.fandom.com/wiki/Elisande#Locations) |
-| Status | Deceased (lore)  
+| Status | Deceased (lore)
 Killable [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") |
 | Companion(s) | [Lalathin](https://wowpedia.fandom.com/wiki/Lalathin "Lalathin") (pet) |
 
@@ -24,7 +24,7 @@ Killable [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legio
 
 Before the war, Elisande served as a highly influential member of the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") caste in the ancient [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), acting directly at the behest of [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") herself. Ever distrustful of the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") which her Queen had allied with, Elisande eventually moved against them.
 
-To prevent the potential destruction of Suramar, Elisande and her Highborne succeeded in separating the city from the rest of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") using the power of the [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul") to create an arcane shield. Over 10,000 years later, long after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") that marked the war's conclusion, Elisande and her people became once more involved with the outside world. The Grand Magistrix's unlikely decision to ally with the Burning Legion at the beginning of the [Third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") served as one of the main contributing factors towards the creation of a movement in opposition to her rule: [the Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)").
+To prevent the potential destruction of Suramar, Elisande and her Highborne succeeded in separating the city from the rest of xref:Azeroth.adoc[Azeroth] using the power of the [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul") to create an arcane shield. Over 10,000 years later, long after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering") that marked the war's conclusion, Elisande and her people became once more involved with the outside world. The Grand Magistrix's unlikely decision to ally with the Burning Legion at the beginning of the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion] served as one of the main contributing factors towards the creation of a movement in opposition to her rule: [the Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)").
 
 As the [Nightfallen rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion") grew in size, Elisande became more erratic and callous in her measures. Finally, with the aid of other forces, the rebels assaulted the [Nighthold](https://wowpedia.fandom.com/wiki/Nighthold "Nighthold"), the seat of Elisande's power. In the ensuing battle, Elisande was defeated and killed, heralding the end of her reign.
 
@@ -32,7 +32,7 @@ As the [Nightfallen rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebe
 
 ### War of the Ancients
 
-Prior to the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), Elisande was the ruler of a small sect of [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") sorcerers based in the city of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"). These Highborne were fiercely loyal to [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and excelled at acquiring ancient relics and artifacts, the greatest of which were the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation") that the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") had used in ancient times to shape [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). However, when Azshara's servants summoned the [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") into Azeroth, causing what would become known as the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the views that Elisande and her servants had on the queen and her new allies began to shift. Elisande grew concerned that the demons did not have the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")' best interest in mind, a distrust that deepened further when she discovered that the Legion was planning to open a second portal in Suramar's [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune "Temple of Elune") in order to create another staging ground for the war.<sup id="cite_ref-Chronicle_3-0"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-Chronicle-3">[3]</a></sup>
+Prior to the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering"), Elisande was the ruler of a small sect of [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") sorcerers based in the city of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"). These Highborne were fiercely loyal to [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and excelled at acquiring ancient relics and artifacts, the greatest of which were the [Pillars of Creation](https://wowpedia.fandom.com/wiki/Pillars_of_Creation "Pillars of Creation") that the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") had used in ancient times to shape xref:Azeroth.adoc[Azeroth]. However, when Azshara's servants summoned the [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") into Azeroth, causing what would become known as the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), the views that Elisande and her servants had on the queen and her new allies began to shift. Elisande grew concerned that the demons did not have the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")' best interest in mind, a distrust that deepened further when she discovered that the Legion was planning to open a second portal in Suramar's [Temple of Elune](https://wowpedia.fandom.com/wiki/Temple_of_Elune "Temple of Elune") in order to create another staging ground for the war.<sup id="cite_ref-Chronicle_3-0"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-Chronicle-3">[3]</a></sup>
 
 Convinced that the portal would threaten to destroy all of Suramar and its inhabitants, Elisande and her followers severed their ties with the other Highborne before gathering the Pillars of Creation and using them to seal the portal with a set of unbreakable magical seals. However, they did not afterwards join the [resistance forces](https://wowpedia.fandom.com/wiki/Kaldorei_Resistance "Kaldorei Resistance") fighting against the Legion. Instead, the Grand Magistrix and her followers used the [Eye of Aman'thul](https://wowpedia.fandom.com/wiki/Eye_of_Aman%27thul "Eye of Aman'thul"), one of the Pillars, to create the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell"): an immense well of [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") energy that would nourish and protect them. During the years that followed the War of the Ancients' end, the Nightwell's energies gradually transformed Elisande and her Highborne into a new race, known as the [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne").<sup id="cite_ref-Chronicle_3-1"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-Chronicle-3">[3]</a></sup>
 
@@ -62,7 +62,7 @@ Opposition to Elisande's choice culminated in a failed coup, led by First Arcani
 
 Grand Magistrix Elisande in _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_
 
-After [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")'s shield was lowered on Elisande's orders, forces of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") moved in to occupy much of the city. Despite the reservations some nightborne held, order was maintained at this time. This continued until a movement known as [the Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)") soon emerged and began working to disrupt the plans of the Grand Magistrix and her demon allies. Led by [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra"), who managed to survive the failed coup attempt, the [Nightfallen rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion") quickly erupted in and around Suramar City. The rebellion received much assistance from [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), and began to carry out covert operations in Suramar with the aim of undermining the Grand Magistrix's power in the city.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-6">[6]</a></sup>
+After [Suramar](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City")'s shield was lowered on Elisande's orders, forces of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") moved in to occupy much of the city. Despite the reservations some nightborne held, order was maintained at this time. This continued until a movement known as [the Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)") soon emerged and began working to disrupt the plans of the Grand Magistrix and her demon allies. Led by [First Arcanist Thalyssra](https://wowpedia.fandom.com/wiki/First_Arcanist_Thalyssra "First Arcanist Thalyssra"), who managed to survive the failed coup attempt, the [Nightfallen rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion") quickly erupted in and around Suramar City. The rebellion received much assistance from [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of the xref:Alliance.adoc[Alliance] and xref:Horde.adoc[Horde], and began to carry out covert operations in Suramar with the aim of undermining the Grand Magistrix's power in the city.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-6">[6]</a></sup>
 
 In response to this unrest caused by the Legion's arrival, Elisande and the city's leadership hastily instigated rationing on [arcwine](https://wowpedia.fandom.com/wiki/Arcwine "Arcwine"), a drink that provided the nightborne people with the energy from the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell") that they had become dependent upon.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Elisande#cite_note-7">[7]</a></sup> This tactic was used primarily to keep the population of Suramar in line, particularly those of the lower classes that resided in the city's southwest and who were more sympathetic to the Nightfallen cause. The measures introduced by Elisande to maintain order within Suramar were carried out by the [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch"), the primary nightborne military force, who remained highly loyal to the Grand Magistrix.
 
@@ -117,7 +117,7 @@ Following Gul'dan's defeat, Elisande is not seen again, her echo having faded du
 | Location | Level range | Health range |
 | [Sanctum of Order](https://wowpedia.fandom.com/wiki/Sanctum_of_Order "Sanctum of Order") | ?? | 1,150,587 |
 | [Court of Stars](https://wowpedia.fandom.com/wiki/Court_of_Stars "Court of Stars") | ?? | 560,911,168 |
-| [Grand Magistrix Elisande (tactics)](https://wowpedia.fandom.com/wiki/Grand_Magistrix_Elisande_(tactics) "Grand Magistrix Elisande (tactics)") | ?? | 
+| [Grand Magistrix Elisande (tactics)](https://wowpedia.fandom.com/wiki/Grand_Magistrix_Elisande_(tactics) "Grand Magistrix Elisande (tactics)") | ?? |
 <table><tbody><tr><td><b><abbr title="Looking for Raid">LFR</abbr></b></td><td>Scales</td></tr><tr><td><b><abbr title="10-30 player Normal mode">Normal</abbr></b>&nbsp;<abbr title="Base health; scales with additional characters">+</abbr></td><td>Scales</td></tr><tr><td><b><abbr title="10-30 player Heroic mode">Heroic</abbr></b>&nbsp;<abbr title="Base health; scales with additional characters">+</abbr></td><td>Scales</td></tr><tr><td><b><abbr title="20 player Mythic mode">Mythic</abbr></b></td><td>2,826,719</td></tr></tbody></table>
 
  |
@@ -167,21 +167,21 @@ There is speculation that Elisande's visions, which convinced her that allying w
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/22/Elisande_5.PNG/revision/latest/scale-to-width-down/120?cb=20170223120837)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Elisande_5.PNG/revision/latest?cb=20170223120837)
-    
+
     Concept images of Elisande
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Suramar_rulers.png/revision/latest/scale-to-width-down/120?cb=20161106181710)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Suramar_rulers.png/revision/latest?cb=20161106181710)
-    
+
     Elisande, along with her advisors
-    
+
 
 ### Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Elisande_fan_art_3.png/revision/latest/scale-to-width-down/64?cb=20180103030802)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Elisande_fan_art_3.png/revision/latest?cb=20180103030802)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/82/Elisande_fan_art_2.jpg/revision/latest/scale-to-width-down/87?cb=20180103030515)](https://static.wikia.nocookie.net/wowpedia/images/8/82/Elisande_fan_art_2.jpg/revision/latest?cb=20180103030515)
-    
+
 
 ## Videos
 
@@ -190,8 +190,8 @@ There is speculation that Elisande's visions, which convinced her that allying w
 
 ## Patch changes
 
--   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.  
-    
+-   [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **[Patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3") (2016-07-19):** Added.
+
 
 ## See also
 

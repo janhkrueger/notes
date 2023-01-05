@@ -10,26 +10,26 @@ Underground Market.
 
 **The Underbelly** (or the **Dalaran Sewers**)<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Underbelly#cite_note-1">[1]</a></sup> is the name of the [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") sewer system which has its own separate map. Many races, but mostly [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin"), dwell in these sewers and they could be viewed as the slum of Dalaran. The central area of the sewers is the [Circle of Wills](https://wowpedia.fandom.com/wiki/Circle_of_Wills "Circle of Wills"), a large hall in which the arena vendors, some dueling circles, and a small, currently unused cluster of buildings stand. Southwest of here is a section called [Cantrips & Crows](https://wowpedia.fandom.com/wiki/Cantrips_%26_Crows "Cantrips & Crows") which contains the inn, the tavern, and the bottom exit pipe of Dalaran. The northeastern corner goes unnamed, and has a few vendors but not much else notable. Finally, further northeast, there is a small chamber in which the rogues of Dalaran operate the [Black Market](https://wowpedia.fandom.com/wiki/Black_Market_(Dalaran) "Black Market (Dalaran)") where reagents and rogue supplies can be found, as well as the vicious sewer shark [Segacedi](https://wowpedia.fandom.com/wiki/Segacedi "Segacedi").
 
-[Dalaran Arena](https://wowpedia.fandom.com/wiki/Dalaran_Arena "Dalaran Arena"), one of the two [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") [arenas](https://wowpedia.fandom.com/wiki/Arena "Arena"), is set here, the other being the [Orgrimmar Arena](https://wowpedia.fandom.com/wiki/Orgrimmar_Arena "Orgrimmar Arena") in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar").
+[Dalaran Arena](https://wowpedia.fandom.com/wiki/Dalaran_Arena "Dalaran Arena"), one of the two [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") [arenas](https://wowpedia.fandom.com/wiki/Arena "Arena"), is set here, the other being the [Orgrimmar Arena](https://wowpedia.fandom.com/wiki/Orgrimmar_Arena "Orgrimmar Arena") in xref:Orgrimmar.adoc[Orgrimmar].
 
 [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") **This section concerns content related to _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.**
 
 In _Legion_, the [Underbelly Guard](https://wowpedia.fandom.com/wiki/Underbelly_Guard "Underbelly Guard") patrols the area, led by the corrupt Guard Captain [Raethan](https://wowpedia.fandom.com/wiki/Raethan "Raethan").
 
-The southwestern section of the Underbelly has been transformed into the [Hall of Shadows](https://wowpedia.fandom.com/wiki/Hall_of_Shadows "Hall of Shadows") of the [Uncrowned](https://wowpedia.fandom.com/wiki/Uncrowned "Uncrowned") during the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). The transformation halved the accessible areas and removed access to the inn, bank and tunnel out of Dalaran.
+The southwestern section of the Underbelly has been transformed into the [Hall of Shadows](https://wowpedia.fandom.com/wiki/Hall_of_Shadows "Hall of Shadows") of the [Uncrowned](https://wowpedia.fandom.com/wiki/Uncrowned "Uncrowned") during the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion") of xref:Azeroth.adoc[Azeroth]. The transformation halved the accessible areas and removed access to the inn, bank and tunnel out of Dalaran.
 
 ## Geography
 
 ### Maps and subregions
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/57/WorldMap-Dalaran702.jpg/revision/latest/scale-to-width-down/120?cb=20160717134343)](https://static.wikia.nocookie.net/wowpedia/images/5/57/WorldMap-Dalaran702.jpg/revision/latest?cb=20160717134343)
-    
+
     Map of the Underbelly in _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/8e/WorldMap-Dalaran704.jpg/revision/latest/scale-to-width-down/120?cb=20160717133635)](https://static.wikia.nocookie.net/wowpedia/images/8/8e/WorldMap-Dalaran704.jpg/revision/latest?cb=20160717133635)
-    
+
     Map of the Hall of Shadows.
-    
+
 
 ## Notes and trivia
 
@@ -44,50 +44,50 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Underbelly_north_room.jpg/revision/latest/scale-to-width-down/120?cb=20080818004126)](https://static.wikia.nocookie.net/wowpedia/images/1/1f/Underbelly_north_room.jpg/revision/latest?cb=20080818004126)
-    
+
     North room at end of tunnel.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Underbelly_northwest_entrance.jpg/revision/latest/scale-to-width-down/120?cb=20080818003817)](https://static.wikia.nocookie.net/wowpedia/images/c/cd/Underbelly_northwest_entrance.jpg/revision/latest?cb=20080818003817)
-    
+
     Entering the Underbelly from northwest entrance.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Underbelly_inn.jpg/revision/latest/scale-to-width-down/120?cb=20080818003840)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Underbelly_inn.jpg/revision/latest?cb=20080818003840)
-    
+
     The inn (near northwest entrance; notice bank and tunnel out)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Underbelly_bank.jpg/revision/latest/scale-to-width-down/120?cb=20221124224442)](https://static.wikia.nocookie.net/wowpedia/images/3/3a/Underbelly_bank.jpg/revision/latest?cb=20221124224442)
-    
+
     The bank (near northwest entrance; notice [guild bank](https://wowpedia.fandom.com/wiki/Guild_bank "Guild bank") access)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Underbelly_tunnel_out_looking_out.jpg/revision/latest/scale-to-width-down/120?cb=20080818004158)](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Underbelly_tunnel_out_looking_out.jpg/revision/latest?cb=20080818004158)
-    
+
     End of long tunnel out (entrance to right of bank).
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Underbelly_tunnel_out_end.jpg/revision/latest/scale-to-width-down/120?cb=20080818004222)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Underbelly_tunnel_out_end.jpg/revision/latest?cb=20080818004222)
-    
+
     Tunnel out end from outside.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/95/Underbelly_central_looking_southeast.jpg/revision/latest/scale-to-width-down/120?cb=20080818003919)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Underbelly_central_looking_southeast.jpg/revision/latest?cb=20080818003919)
-    
+
     Central chamber looking southeast from northwest end.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Underbelly_Arena_HQ.jpg/revision/latest/scale-to-width-down/120?cb=20080818003949)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Underbelly_Arena_HQ.jpg/revision/latest?cb=20080818003949)
-    
+
     Arena organizers' building in central chamber.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Underbelly_southeast_entrance.jpg/revision/latest/scale-to-width-down/120?cb=20080818003701)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Underbelly_southeast_entrance.jpg/revision/latest?cb=20080818003701)
-    
+
     Entering the Underbelly from southeast entrance.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Dalaran_Arena_loading_screen.jpg/revision/latest/scale-to-width-down/120?cb=20180320120514)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Dalaran_Arena_loading_screen.jpg/revision/latest?cb=20180320120514)
-    
+
     The Dalaran Arena loading graphic.
-    
+
 
 ## Patch changes
 
--   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.  
-    
+-   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.
+
 
 ## References
 
@@ -95,33 +95,33 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
 | Northrend | Purge of Dalaran | Broken Isles | Deadwind Pass | Dalaran Sewers |
 | --- | --- | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/zone=4560)
 -   [WoWDB](https://www.wowdb.com/zones/4560)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=6637)
 -   [WoWDB](https://www.wowdb.com/zones/6637)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=7594)
 -   [WoWDB](https://www.wowdb.com/zones/7594)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=7897)
 -   [WoWDB](https://www.wowdb.com/zones/7897)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=8392)
 -   [WoWDB](https://www.wowdb.com/zones/8392)
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dalaran "Template:Dalaran")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dalaran?action=edit)
 
@@ -132,11 +132,11 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
  |
 | --- |
 |  |
-| 
+|
 
 [![Map of the Underbelly](https://static.wikia.nocookie.net/wowpedia/images/5/57/WorldMap-Dalaran702.jpg/revision/latest/scale-to-width-down/120?cb=20160717134343)](https://static.wikia.nocookie.net/wowpedia/images/5/57/WorldMap-Dalaran702.jpg/revision/latest?cb=20160717134343 "Map of the Underbelly")
 
- | 
+ |
 
 -   [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial")
 -   [The Bank of Dalaran](https://wowpedia.fandom.com/wiki/Bank_of_Dalaran "Bank of Dalaran")
@@ -191,14 +191,14 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
 
 
- | 
+ |
 
-[![Map of Dalaran](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest/scale-to-width-down/120?cb=20160717134357)](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest?cb=20160717134357 "Map of Dalaran")  
+[![Map of Dalaran](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest/scale-to-width-down/120?cb=20160717134357)](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest?cb=20160717134357 "Map of Dalaran")
 [![Map of the Chamber of the Guardian](https://static.wikia.nocookie.net/wowpedia/images/a/a9/WorldMap-Dalaran703.jpg/revision/latest/scale-to-width-down/120?cb=20180908211825)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/WorldMap-Dalaran703.jpg/revision/latest?cb=20180908211825 "Map of the Chamber of the Guardian")
 
  |
 |  |
-| 
+|
 
 -   **The Underbelly** — [The Black Market](https://wowpedia.fandom.com/wiki/Black_Market_(Dalaran) "Black Market (Dalaran)")
 -   [Circle of Wills](https://wowpedia.fandom.com/wiki/Circle_of_Wills "Circle of Wills")
@@ -209,7 +209,7 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Dalaran fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain")
 -   [Violet Citadel Balcony](https://wowpedia.fandom.com/wiki/Violet_Citadel_Balcony "Violet Citadel Balcony")
@@ -219,7 +219,7 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
  |
 |  |
-| 
+|
 
 [Dalaran category](https://wowpedia.fandom.com/wiki/Category:Dalaran "Category:Dalaran")
 
@@ -227,22 +227,22 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dalaran_(Northrend) "Template:Dalaran (Northrend)")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dalaran_(Northrend)?action=edit)
 
-[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") over [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") over xref:Northrend.adoc[Northrend]
 
 
 
  |
 | --- |
 |  |
-| 
+|
 
 [![Map of the Underbelly](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WorldMap-Dalaran1.jpg/revision/latest/scale-to-width-down/120?cb=20180908204522)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WorldMap-Dalaran1.jpg/revision/latest?cb=20180908204522 "Map of the Underbelly")
 
- | 
+ |
 
 -   [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial")
 -   [The Bank of Dalaran](https://wowpedia.fandom.com/wiki/Bank_of_Dalaran "Bank of Dalaran")
@@ -291,13 +291,13 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
 
 
- | 
+ |
 
 [![Map of Dalaran](https://static.wikia.nocookie.net/wowpedia/images/0/0f/WorldMap-Dalaran.jpg/revision/latest/scale-to-width-down/120?cb=20180908204325)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/WorldMap-Dalaran.jpg/revision/latest?cb=20180908204325 "Map of Dalaran")
 
  |
 |  |
-| 
+|
 
 -   **The Underbelly** — [The Black Market](https://wowpedia.fandom.com/wiki/Black_Market_(Dalaran) "Black Market (Dalaran)")
 -   [Cantrips & Crows](https://wowpedia.fandom.com/wiki/Cantrips_%26_Crows "Cantrips & Crows")
@@ -308,7 +308,7 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Dalaran fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain")
 -   [Violet Citadel Balcony](https://wowpedia.fandom.com/wiki/Violet_Citadel_Balcony "Violet Citadel Balcony")
@@ -317,7 +317,7 @@ The southwestern section of the Underbelly has been transformed into the [Hall o
 
  |
 |  |
-| 
+|
 
 [Dalaran category](https://wowpedia.fandom.com/wiki/Category:Dalaran "Category:Dalaran")
 

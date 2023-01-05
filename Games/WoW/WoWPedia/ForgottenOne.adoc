@@ -116,7 +116,7 @@ Sapient species/[races](https://wowpedia.fandom.com/wiki/Race "Race")
 -   [Makrura](https://wowpedia.fandom.com/wiki/Makrura "Makrura")
 -   [Mistlurker](https://wowpedia.fandom.com/wiki/Mistlurker "Mistlurker")
 -   [Murloc](https://wowpedia.fandom.com/wiki/Murloc "Murloc")
--   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   xref:Pandaren.adoc[Pandaren]
 -   [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar")
 -   [Saurok](https://wowpedia.fandom.com/wiki/Saurok "Saurok")
 -   [Sprite](https://wowpedia.fandom.com/wiki/Sprite "Sprite")

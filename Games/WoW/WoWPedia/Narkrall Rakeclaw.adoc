@@ -6,7 +6,7 @@
 | Race | [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc") (Humanoid) |
 | Level | 30-35 |
 | Class | [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
 | Affiliation(s) | [Dragonmaw Clan](https://wowpedia.fandom.com/wiki/Dragonmaw_Clan "Dragonmaw Clan") |
 | Location | [Bloodgulch](https://wowpedia.fandom.com/wiki/Bloodgulch "Bloodgulch"), [Twilight Highlands](https://wowpedia.fandom.com/wiki/Twilight_Highlands "Twilight Highlands") |
 | Status | Deceased |
@@ -100,8 +100,8 @@ To take up their reigns is to take destiny into your hands.
 
 ## Patch changes
 
--   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Added.  
-    
+-   [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **[Patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") (2010-11-23):** Added.
+
 
 ## External links
 

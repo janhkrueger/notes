@@ -1,11 +1,11 @@
-| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Sabellian  
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Sabellian
 (Baron Sablemane) |
 | --- |
-| 
+|
 -   [Dragon](https://wowpedia.fandom.com/wiki/Sabellian#)
-    
+
 -   [Visage](https://wowpedia.fandom.com/wiki/Sabellian#)
-    
+
 
 [![Sabellian DF dragon.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Sabellian_DF_dragon.jpg/revision/latest/scale-to-width-down/200?cb=20221204000012)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Sabellian_DF_dragon.jpg/revision/latest?cb=20221204000012)
 
@@ -24,8 +24,8 @@
 | Former occupation(s) | Prime [lieutenant](https://wowpedia.fandom.com/wiki/Lieutenant "Lieutenant") of Deathwing |
 | Location | [Various](https://wowpedia.fandom.com/wiki/Sabellian#Locations) |
 | Status | Alive |
-| Relative(s) | [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") (father),  
-[Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia"), [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian"), [Nyxondra](https://wowpedia.fandom.com/wiki/Nyxondra "Nyxondra")<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-2">[2]</a></sup> (half-siblings)<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-3">[3]</a></sup>  
+| Relative(s) | [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") (father),
+[Onyxia](https://wowpedia.fandom.com/wiki/Onyxia "Onyxia"), [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian"), [Nyxondra](https://wowpedia.fandom.com/wiki/Nyxondra "Nyxondra")<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-2">[2]</a></sup> (half-siblings)<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-3">[3]</a></sup>
 [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") (half-nephew, [in conflict](https://wowpedia.fandom.com/wiki/Wrathion#Heritage "Wrathion")) |
 
 “Even for friends, there must be a price. Free things destroy friendships.”
@@ -34,9 +34,9 @@
 
 **Sabellian**, also known as **Baron Sablemane**, is a [black dragon](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon"), son of the black [Dragon Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect"), [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing").<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-5">[5]</a></sup> He was described as his lieutenant in all things prior to the black Aspect's abandonment of [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-6">[6]</a></sup> When Deathwing entrusted Sabellian with caretaking the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), Sabellian remained for decades in what became the shattered [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") to lead his [own brood](https://wowpedia.fandom.com/wiki/Obsidian_Brood "Obsidian Brood") of [black dragons](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon").
 
-At the time of the [invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland"), he worked with [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in the guise of a human named _Baron Sablemane_, in order to destroy his nemesis [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller") and his offspring, and take control of the [Blade's Edge Mountains](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains "Blade's Edge Mountains"). Following their victory, he and his brood became the masters of the mountainous region and imposed their will on it.
+At the time of the [invasion of Outland](https://wowpedia.fandom.com/wiki/Invasion_of_Outland "Invasion of Outland"), he worked with xref:Alliance.adoc[Alliance] and xref:Horde.adoc[Horde] [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") in the guise of a human named _Baron Sablemane_, in order to destroy his nemesis [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller") and his offspring, and take control of the [Blade's Edge Mountains](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains "Blade's Edge Mountains"). Following their victory, he and his brood became the masters of the mountainous region and imposed their will on it.
 
-Since the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)") and the death of Deathwing, Sabellian sees himself as the rightful heir to be the new leader of the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), claiming to have been anointed caretaker of the flight by Neltharion himself.<sup id="cite_ref-Restoring_7-0"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-Restoring-7">[7]</a></sup> When the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") awakened, Sabellian and his dragons left the Blade's Edge Mountains of Outland to return to Azeroth. After they recovered the [Obsidian Citadel](https://wowpedia.fandom.com/wiki/Obsidian_Citadel "Obsidian Citadel") from the [djaradin](https://wowpedia.fandom.com/wiki/Djaradin "Djaradin"), he and [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") began a competition for Neltharion's succession as the new black Aspect.
+Since the xref:CataclysmEvent.adoc[cataclysm] and the death of Deathwing, Sabellian sees himself as the rightful heir to be the new leader of the [black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), claiming to have been anointed caretaker of the flight by Neltharion himself.<sup id="cite_ref-Restoring_7-0"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-Restoring-7">[7]</a></sup> When the [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles") awakened, Sabellian and his dragons left the Blade's Edge Mountains of Outland to return to Azeroth. After they recovered the [Obsidian Citadel](https://wowpedia.fandom.com/wiki/Obsidian_Citadel "Obsidian Citadel") from the [djaradin](https://wowpedia.fandom.com/wiki/Djaradin "Djaradin"), he and [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") began a competition for Neltharion's succession as the new black Aspect.
 
 ## History
 
@@ -56,7 +56,7 @@ Once on Draenor, the black dragons settled into [Gorgrond](https://wowpedia.fand
 
 Sabellian while fighting [Goc](https://wowpedia.fandom.com/wiki/Goc "Goc").
 
-While Deathwing managed to return to Azeroth, Sabellian remained behind on Draenor — now [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") — after the destruction of the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"). He is a fierce enemy of [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller") and Gruul's seven sons, and hates them deeply for killing Sabellian's own people and children.
+While Deathwing managed to return to Azeroth, Sabellian remained behind on Draenor — now [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") — after the destruction of the xref:DarkPortal.adoc[Dark Portal]. He is a fierce enemy of [Gruul the Dragonkiller](https://wowpedia.fandom.com/wiki/Gruul_the_Dragonkiller "Gruul the Dragonkiller") and Gruul's seven sons, and hates them deeply for killing Sabellian's own people and children.
 
 Sabellian has admitted that he counts [Rexxar](https://wowpedia.fandom.com/wiki/Rexxar "Rexxar") as one of his friends,<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-12">[12]</a></sup> though it is implied that Rexxar is not aware that he is a black dragon.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-13">[13]</a></sup>
 
@@ -68,7 +68,7 @@ Sabellian wears the guise of Baron Sablemane. He is a [quest giver](https://wowp
 
 [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
 
-At the time of the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), Sabellian and his brood of [black dragons](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") remained in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), while [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") was unaware of their continued existence.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-14">[14]</a></sup>
+At the time of the xref:CataclysmEvent.adoc[cataclysm], Sabellian and his brood of [black dragons](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") remained in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), while [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") on xref:Azeroth.adoc[Azeroth] was unaware of their continued existence.<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-14">[14]</a></sup>
 
 ### Exploring Azeroth
 
@@ -86,20 +86,20 @@ According to Sabellian's follower [Osoria](https://wowpedia.fandom.com/wiki/Osor
 
 When Sabellian and his brood of black dragons heard the call of the reawakening [Dragon Isles](https://wowpedia.fandom.com/wiki/Dragon_Isles "Dragon Isles"), they left the Blade's Edge Mountains of Outland and returned to Azeroth. They later arrived on the [Waking Shores](https://wowpedia.fandom.com/wiki/Waking_Shores "Waking Shores") and helped [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") to recover the upper courtyard of the [Obsidian Citadel](https://wowpedia.fandom.com/wiki/Obsidian_Citadel "Obsidian Citadel") and the [Obsidian Oathstone](https://wowpedia.fandom.com/wiki/Obsidian_Oathstone "Obsidian Oathstone").<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-18">[18]</a></sup><sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-19">[19]</a></sup> Sabellian began competing with Wrathion for control of the black dragonflight and the position of Dragon Aspect.<sup id="cite_ref-Restoring_7-1"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-Restoring-7">[7]</a></sup>
 
-Each claimant was quick to try and enlist adventures to their side, and their followers eagerly backed them up. While Sabellian's were focused on how he had helped his fellow black dragons, Wrathion's were on the success of his ends-of-the-means approached, veering into propaganda with [Right](https://wowpedia.fandom.com/wiki/Right "Right") and [Left](https://wowpedia.fandom.com/wiki/Left "Left") justifying his liberation of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") from his trial as necessary to prepare Azeroth for the [Third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), an invasion that was inadvertency started by Garrosh's liberation, since it ultimately led to [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")'s arrival to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), where he would start the said invasion.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-20">[20]</a></sup><sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-21">[21]</a></sup> Wrathion's absence during the invasion was not commented on and it was shown that the bulk of Wrathion's support base was his [Blacktalon](https://wowpedia.fandom.com/wiki/Blacktalon "Blacktalon") agents, while the majority of Sabellian's support base was other black dragons.
+Each claimant was quick to try and enlist adventures to their side, and their followers eagerly backed them up. While Sabellian's were focused on how he had helped his fellow black dragons, Wrathion's were on the success of his ends-of-the-means approached, veering into propaganda with [Right](https://wowpedia.fandom.com/wiki/Right "Right") and [Left](https://wowpedia.fandom.com/wiki/Left "Left") justifying his liberation of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") from his trial as necessary to prepare Azeroth for the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion], an invasion that was inadvertency started by Garrosh's liberation, since it ultimately led to [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)")'s arrival to xref:Azeroth.adoc[Azeroth], where he would start the said invasion.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-20">[20]</a></sup><sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-21">[21]</a></sup> Wrathion's absence during the invasion was not commented on and it was shown that the bulk of Wrathion's support base was his [Blacktalon](https://wowpedia.fandom.com/wiki/Blacktalon "Blacktalon") agents, while the majority of Sabellian's support base was other black dragons.
 
 As Sabellian went to deliver the black dragon eggs from Outland to the Ruby Pools, Wrathion insisted on accompanying him. As the pair traveled to the Ruby Lifeshrine via cart, Sabellian insisted they remain incognito, even when Wrathion pointed out that it was obvious that ruse had failed. After various attacks were fended off, the pair were attacked by Thaladrax, who destroyed the cart and the eggs within. An outraged Wrathion viewed this as a sign that the others would see reason and pick their new leader and rushed off to inform Alexstrasza.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-22">[22]</a></sup> When the Dragon Queen demanded answers, Sabellian revealed that he had used himself and Wrathion as bait to attract their enemies' attention, while his clutch of black dragons safely traveled by air to deliver the eggs. He then pledged his loyalty and that of his flight as [Neltharion](https://wowpedia.fandom.com/wiki/Neltharion "Neltharion")'s heir to her. However Alexstrasza was unmoved, recalling how Sabellian had played a part in [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing")'s twisted legacy, to which he had defended as being a matter of duty. Though she took the eggs under her care, she remarked that she would not get involved in their bickering and the matter of Aspectship between them was a matter for the [black](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight"), not the [red](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), to decide.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-23">[23]</a></sup>
 
 Despite this, both Sabellian and Wrathion remained at the Ruby Lifeshrine for a time to see [Mother Elion](https://wowpedia.fandom.com/wiki/Mother_Elion "Mother Elion"), who described them as "squabbling like children", to restore their flight's place there and defended the area during the Primalist attack.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Sabellian#cite_note-24">[24]</a></sup>
 
-Sabellian and Wrathion then returned to the Obsidian Citadel, continuing their battle against the djaradin, while accepting pledges of loyalty from champions of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance").
+Sabellian and Wrathion then returned to the Obsidian Citadel, continuing their battle against the djaradin, while accepting pledges of loyalty from champions of the xref:Horde.adoc[Horde] and xref:Alliance.adoc[Alliance].
 
 ## Locations
 
 | Location | Level range | Reaction | Notes |
 | --- | --- | --- | --- |
-| [Blade's Edge Mountains](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains "Blade's Edge Mountains")[<sup>[53.1,&nbsp;41]</sup>](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains) | 20-30 Elite | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |  |
-| [Obsidian Throne](https://wowpedia.fandom.com/wiki/Obsidian_Throne "Obsidian Throne"), [Waking Shores](https://wowpedia.fandom.com/wiki/Waking_Shores "Waking Shores") | 73 / ?? Boss | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |  |
+| [Blade's Edge Mountains](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains "Blade's Edge Mountains")[<sup>[53.1,&nbsp;41]</sup>](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains) | 20-30 Elite | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |  |
+| [Obsidian Throne](https://wowpedia.fandom.com/wiki/Obsidian_Throne "Obsidian Throne"), [Waking Shores](https://wowpedia.fandom.com/wiki/Waking_Shores "Waking Shores") | 73 / ?? Boss | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |  |
 
 ## Abilities
 
@@ -239,26 +239,26 @@ Sintharia not being Sabellian's mother may mean that Sabellian was born before N
 
 | Baron Sablemane | Sabellian | Faction |
 | --- | --- | --- |
-| 
+|
 |  |  |
 | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/npc=22103)
 -   [WoWDB](https://www.wowdb.com/npcs/22103)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=22473)
 -   [WoWDB](https://www.wowdb.com/npcs/22473)
 
  |
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/search?q=Sabellian#npcs)
 -   [WoWDB](https://www.wowdb.com/search?search=Sabellian#t1:npcs)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/faction=2518)
 -   [WoWDB](https://www.wowdb.com/factions/2518)
@@ -276,7 +276,7 @@ Sintharia not being Sabellian's mother may mean that Sabellian was born before N
  |
 | --- |
 |  |
-| Primary dragon types | 
+| Primary dragon types |
 
 -   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
 -   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
@@ -288,7 +288,7 @@ Sintharia not being Sabellian's mother may mean that Sabellian was born before N
 
  |
 |  |
-| Other dragon types | 
+| Other dragon types |
 
 -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
 -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
@@ -303,13 +303,13 @@ Sintharia not being Sabellian's mother may mean that Sabellian was born before N
 
  |
 |  |
-| Black Dragonflight | 
+| Black Dragonflight |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><p>Unknown</p></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight#Known_Members" title="Black dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Deathwing" title="Deathwing">Deathwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/General_Drakkisath" title="General Drakkisath">Drakkisath</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ebyssian" title="Ebyssian">Ebyssian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nalice" title="Nalice">Nalice</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nefarian" title="Nefarian">Nefarian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Onyxia" title="Onyxia">Onyxia</a></li><li><strong>Sabellian</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Sintharia" title="Sintharia">Sintharia</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wrathion" title="Wrathion">Wrathion</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Badlands" title="Badlands">Badlands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackrock_Mountain" title="Blackrock Mountain">Blackrock Mountain</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains" title="Blade's Edge Mountains">Blade's Edge Mountains</a></li><li><a href="https://wowpedia.fandom.com/wiki/Burning_Steppes" title="Burning Steppes">Burning Steppes</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deathwing%27s_Lair" title="Deathwing's Lair">Deathwing's Lair</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lethlor_Ravine" title="Lethlor Ravine">Lethlor Ravine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Maw_of_Neltharion" title="Maw of Neltharion">Maw of Neltharion</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Dragonshrine" title="Obsidian Dragonshrine">Obsidian Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Sanctum" title="Obsidian Sanctum">Obsidian Sanctum</a></li><li><a href="https://wowpedia.fandom.com/wiki/Redridge_Mountains" title="Redridge Mountains">Redridge Mountains</a></li><li><a href="https://wowpedia.fandom.com/wiki/The_Dragonmurk" title="The Dragonmurk">The Dragonmurk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmbog" title="Wyrmbog">Wyrmbog</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Black_dragon" title="Black dragon">Black dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Black_wyrm" title="Black wyrm">Black wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Groups and cults</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blacktalon" title="Blacktalon">Blacktalon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Brood" title="Obsidian Brood">Obsidian Brood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Obsidian_Outcasts" title="Obsidian Outcasts">Obsidian Outcasts</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackwing" title="Blackwing">Blackwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Death_Talon" title="Death Talon">Death Talon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Firemane" title="Firemane">Firemane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackwyrm_Cult" title="Blackwyrm Cult">Blackwyrm Cult</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blackhowl" title="Blackhowl">Blackhowl</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer" title="Twilight's Hammer">Twilight's Hammer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmcult" title="Wyrmcult">Wyrmcult</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rage_Talon" title="Rage Talon">Rage Talon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Worldbreakers" title="Worldbreakers">Worldbreakers</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Dragonflights | 
+| Dragonflights |
 
 -   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
 -   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
@@ -322,7 +322,7 @@ Sintharia not being Sabellian's mother may mean that Sabellian was born before N
 
  |
 |  |
-| Other draconic groups | 
+| Other draconic groups |
 
 -   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
 -   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
@@ -332,7 +332,7 @@ Sintharia not being Sabellian's mother may mean that Sabellian was born before N
 
  |
 |  |
-| 
+|
 
 -   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
 -   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")

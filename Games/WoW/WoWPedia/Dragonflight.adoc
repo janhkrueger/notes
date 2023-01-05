@@ -24,32 +24,32 @@ There were once many more dragonflights, but eventually five rose to prominence 
 
 | Name | Description | Leader(s) | Former leader(s) | Capital |
 | --- | --- | --- | --- | --- |
-| [![Red dragon](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_DragonRed2.gif/revision/latest/scale-to-width-down/16?cb=20221208133315)](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon") [Red dragon](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon") | Granted dominion over life by [Eonar the Lifebinder](https://wowpedia.fandom.com/wiki/Eonar "Eonar") |  ![](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Alexstrasza2.gif/revision/latest/scale-to-width-down/16?cb=20220814182721)[Alexstrasza the Life-Binder](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") | None | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),  
+| [![Red dragon](https://static.wikia.nocookie.net/wowpedia/images/6/63/IconSmall_DragonRed2.gif/revision/latest/scale-to-width-down/16?cb=20221208133315)](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon") [Red dragon](https://wowpedia.fandom.com/wiki/Red_dragon "Red dragon") | Granted dominion over life by [Eonar the Lifebinder](https://wowpedia.fandom.com/wiki/Eonar "Eonar") |  ![](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Alexstrasza2.gif/revision/latest/scale-to-width-down/16?cb=20220814182721)[Alexstrasza the Life-Binder](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") | None | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),
 Ruby Lifeshrine ([Waking Shores](https://wowpedia.fandom.com/wiki/Waking_Shores "Waking Shores")) |
-| [![Green dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon") [Green dragon](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon") | Granted dominion over the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") by Eonar the Lifebinder |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Merithra of the Dream](https://wowpedia.fandom.com/wiki/Merithra_of_the_Dream "Merithra of the Dream") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ysera the Awakened](https://wowpedia.fandom.com/wiki/Ysera "Ysera") | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),  
+| [![Green dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon") [Green dragon](https://wowpedia.fandom.com/wiki/Green_dragon "Green dragon") | Granted dominion over the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") by Eonar the Lifebinder |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Merithra of the Dream](https://wowpedia.fandom.com/wiki/Merithra_of_the_Dream "Merithra of the Dream") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ysera the Awakened](https://wowpedia.fandom.com/wiki/Ysera "Ysera") | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),
 [Eye of Ysera](https://wowpedia.fandom.com/wiki/Eye_of_Ysera "Eye of Ysera") ([Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream")) |
-| [![Bronze dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") [Bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") | Granted dominion over time by [Aman'Thul the Highfather](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Nozdormu the Timeless One](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") | None | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),  
+| [![Bronze dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") [Bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") | Granted dominion over time by [Aman'Thul the Highfather](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Nozdormu the Timeless One](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu") | None | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),
 [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time") ([Tanaris](https://wowpedia.fandom.com/wiki/Tanaris "Tanaris")) |
-| [![Blue dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") [Blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") | Granted dominion over magic by [Norgannon the Dreamweaver](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Kalecgos the Spell-Weaver](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Malygos the Spell-Weaver](https://wowpedia.fandom.com/wiki/Malygos "Malygos") <sup>&nbsp;†</sup> | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),  
+| [![Blue dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") [Blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") | Granted dominion over magic by [Norgannon the Dreamweaver](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Kalecgos the Spell-Weaver](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Malygos the Spell-Weaver](https://wowpedia.fandom.com/wiki/Malygos "Malygos") <sup>&nbsp;†</sup> | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),
 [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus") ([Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra")) |
-| [![Black dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") [Black dragon](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") | Granted dominion over the earth by [Khaz'goroth the Shaper](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth"), but was almost completely corrupted by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") and later driven to the brink of extinction by [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Wrathion the Black Prince](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") ([Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"))  
- ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Sabellian](https://wowpedia.fandom.com/wiki/Sabellian "Sabellian") ([Outland](https://wowpedia.fandom.com/wiki/Outland "Outland")) |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Deathwing the Destroyer](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") <sup>&nbsp;†</sup> | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),  
+| [![Black dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") [Black dragon](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon") | Granted dominion over the earth by [Khaz'goroth the Shaper](https://wowpedia.fandom.com/wiki/Khaz%27goroth "Khaz'goroth"), but was almost completely corrupted by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") and later driven to the brink of extinction by [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Wrathion the Black Prince](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") (xref:Azeroth.adoc[Azeroth])
+ ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Sabellian](https://wowpedia.fandom.com/wiki/Sabellian "Sabellian") ([Outland](https://wowpedia.fandom.com/wiki/Outland "Outland")) |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Deathwing the Destroyer](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") <sup>&nbsp;†</sup> | [Valdrakken](https://wowpedia.fandom.com/wiki/Valdrakken "Valdrakken"),
 [Obsidian Throne](https://wowpedia.fandom.com/wiki/Obsidian_Throne "Obsidian Throne") ([Waking Shores](https://wowpedia.fandom.com/wiki/Waking_Shores "Waking Shores")) |
 
 ## Lesser
 
 | Name | Description | Leader(s) | Former leader(s) | Capital |
 | --- | --- | --- | --- | --- |
-| [![Chromatic dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Chromatic_dragon "Chromatic dragon") [Chromatic dragon](https://wowpedia.fandom.com/wiki/Chromatic_dragon "Chromatic dragon") | Created by [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") using the blood of the various other flights | Unknown |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") <sup>&nbsp;†</sup>  
+| [![Chromatic dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Chromatic_dragon "Chromatic dragon") [Chromatic dragon](https://wowpedia.fandom.com/wiki/Chromatic_dragon "Chromatic dragon") | Created by [Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") using the blood of the various other flights | Unknown |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") <sup>&nbsp;†</sup>
  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Nefarian](https://wowpedia.fandom.com/wiki/Nefarian "Nefarian") <sup>&nbsp;†</sup> | [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire"), [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain") |
-| [![Infinite dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Infinite_dragon "Infinite dragon") [Infinite dragon](https://wowpedia.fandom.com/wiki/Infinite_dragon "Infinite dragon") | Corrupted [bronze dragons](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") seeking to disrupt the timeways |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Murozond](https://wowpedia.fandom.com/wiki/Murozond "Murozond") <sup>&nbsp;†</sup> | None | None |
+| [![Infinite dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Infinite_dragon "Infinite dragon") [Infinite dragon](https://wowpedia.fandom.com/wiki/Infinite_dragon "Infinite dragon") | Corrupted [bronze dragons](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") seeking to disrupt the timeways |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)xref:Murozond.adoc[Murozond] <sup>&nbsp;†</sup> | None | None |
 | [![Nether dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon") [Nether dragon](https://wowpedia.fandom.com/wiki/Nether_dragon "Nether dragon") | Spawned from black dragon eggs infused with raw [nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether")\-energies when [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") was torn apart |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Neltharaku](https://wowpedia.fandom.com/wiki/Neltharaku "Neltharaku") | Unknown | None |
-| [![IconSmall DragonNightmare.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_DragonNightmare.gif/revision/latest?cb=20211214131318) [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight") | Green dragons who have been corrupted by the Emerald Nightmare | None | [![IconSmall YseraNightmare.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/IconSmall_YseraNightmare.gif/revision/latest?cb=20211214170856) [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") <sup>&nbsp;†</sup>  
+| [![IconSmall DragonNightmare.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_DragonNightmare.gif/revision/latest?cb=20211214131318) [Nightmare dragonflight](https://wowpedia.fandom.com/wiki/Nightmare_dragonflight "Nightmare dragonflight") | Green dragons who have been corrupted by the Emerald Nightmare | None | [![IconSmall YseraNightmare.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e4/IconSmall_YseraNightmare.gif/revision/latest?cb=20211214170856) [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") <sup>&nbsp;†</sup>
 [![IconSmall Xavius2.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/IconSmall_Xavius2.gif/revision/latest?cb=20211214170323) [Xavius](https://wowpedia.fandom.com/wiki/Xavius "Xavius") <sup>&nbsp;†</sup> | [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") |
 | [![IconSmall Thorignir.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/IconSmall_Thorignir.gif/revision/latest?cb=20211129081026) [Storm dragonflight](https://wowpedia.fandom.com/wiki/Storm_dragonflight "Storm dragonflight") | A flight associated with storms found on the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles"); not to be confused with [Skywall](https://wowpedia.fandom.com/wiki/Skywall "Skywall")'s [storm dragons](https://wowpedia.fandom.com/wiki/Storm_dragon "Storm dragon") |  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Thrymjaris](https://wowpedia.fandom.com/wiki/Thrymjaris "Thrymjaris") | Unknown | Unknown |
-| [![Twilight dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon") [Twilight dragon](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon") | Created by [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia") by using the power of the [nether dragons](https://wowpedia.fandom.com/wiki/Netherwing_dragonflight "Netherwing dragonflight"); feed vampirically on magical energies | Unknown | [![IconSmall Deathwing.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/IconSmall_Deathwing.gif/revision/latest?cb=20211210104433) [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") <sup>&nbsp;†</sup>  
-[![IconSmall Sinestra.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/27/IconSmall_Sinestra.gif/revision/latest?cb=20211210175642) [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")  
-[![IconSmall DrakeTwilight.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/IconSmall_DrakeTwilight.gif/revision/latest?cb=20211129101601) [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia") <sup>&nbsp;†</sup>  
+| [![Twilight dragon](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon") [Twilight dragon](https://wowpedia.fandom.com/wiki/Twilight_dragon "Twilight dragon") | Created by [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia") by using the power of the [nether dragons](https://wowpedia.fandom.com/wiki/Netherwing_dragonflight "Netherwing dragonflight"); feed vampirically on magical energies | Unknown | [![IconSmall Deathwing.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/6/6d/IconSmall_Deathwing.gif/revision/latest?cb=20211210104433) [Deathwing](https://wowpedia.fandom.com/wiki/Deathwing "Deathwing") <sup>&nbsp;†</sup>
+[![IconSmall Sinestra.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/2/27/IconSmall_Sinestra.gif/revision/latest?cb=20211210175642) [Sintharia](https://wowpedia.fandom.com/wiki/Sintharia "Sintharia")
+[![IconSmall DrakeTwilight.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fe/IconSmall_DrakeTwilight.gif/revision/latest?cb=20211129101601) [Zeryxia](https://wowpedia.fandom.com/wiki/Zeryxia "Zeryxia") <sup>&nbsp;†</sup>
 [![IconSmall DragonVoid.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/IconSmall_DragonVoid.gif/revision/latest?cb=20191021130028) [Vexiona](https://wowpedia.fandom.com/wiki/Vexiona "Vexiona") <sup>&nbsp;†</sup> | [Twilight Caverns](https://wowpedia.fandom.com/wiki/Twilight_Caverns "Twilight Caverns"), [Blackrock Mountain](https://wowpedia.fandom.com/wiki/Blackrock_Mountain "Blackrock Mountain") |
 
 ## Non-dragon members
@@ -62,7 +62,7 @@ Other creatures and dragon types that have members within the primary and lesser
 
 Dragons group in five dragonflights that claim ancestry to the greatest of their kind. Each color is proud of its heritage and lineage and remembers the name of all those who have gone before. These flights are further separated into small family groups known as broods. Each occupies and holds territory within Azeroth‘s less populated areas. Some are commonly seen; others have nearly been driven to extinction by wars among their own kind.
 
-Each of these five flights keeps secrets of its own and adheres to separate ideologies from the rest. They are led by powerful entities known as Aspects, one from each color, who rule over their flights as powerful gods looking down on their less fortunate descendants. For the most part, all dragons are of the same species with similar bone structure, anatomy, and physical capacity. Each flight, however, is distinct with different goals, interests, and ideals. The cautious traveler remembers the ancient words spoken by one of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s most powerful mages: Let sleeping dragons lie.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Dragonflight#cite_note-7">[7]</a></sup>
+Each of these five flights keeps secrets of its own and adheres to separate ideologies from the rest. They are led by powerful entities known as Aspects, one from each color, who rule over their flights as powerful gods looking down on their less fortunate descendants. For the most part, all dragons are of the same species with similar bone structure, anatomy, and physical capacity. Each flight, however, is distinct with different goals, interests, and ideals. The cautious traveler remembers the ancient words spoken by one of xref:Azeroth.adoc[Azeroth]'s most powerful mages: Let sleeping dragons lie.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Dragonflight#cite_note-7">[7]</a></sup>
 
 ## Possibly dragonflights
 
@@ -83,7 +83,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
 7.  [^](https://wowpedia.fandom.com/wiki/Dragonflight#cite_ref-7) Borgstrom, Rebecca; Eric Brennan, Genevieve Cogman, and Michael Goodwin. _[Manual of Monsters](https://wowpedia.fandom.com/wiki/Manual_of_Monsters "Manual of Monsters")_, 27. [ISBN 978-1588-4607-07](https://wowpedia.fandom.com/wiki/Special:BookSources/9781588460707). 
 8.  [^](https://wowpedia.fandom.com/wiki/Dragonflight#cite_ref-8) [Mount Journal](https://wowpedia.fandom.com/wiki/Mount_Journal "Mount Journal") entry for  ![](https://static.wikia.nocookie.net/wowpedia/images/2/21/Ability_mount_drake_blue.png/revision/latest/scale-to-width-down/16?cb=20180824002509)[\[Reins of the Albino Drake\]](https://wowpedia.fandom.com/wiki/Reins_of_the_Albino_Drake)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
 
@@ -94,7 +94,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
  |
 | --- |
 |  |
-| Primary dragon types | 
+| Primary dragon types |
 
 -   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
 -   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
@@ -106,7 +106,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
 
  |
 |  |
-| Other dragon types | 
+| Other dragon types |
 
 -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
 -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
@@ -121,7 +121,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
 
  |
 |  |
-| Dragonflights | 
+| Dragonflights |
 
 -   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
 -   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
@@ -134,7 +134,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
 
  |
 |  |
-| Other draconic groups | 
+| Other draconic groups |
 
 -   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
 -   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
@@ -144,7 +144,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
 
  |
 |  |
-| 
+|
 
 -   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
 -   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")
@@ -156,7 +156,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Creaturefooter "Template:Creaturefooter")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Creaturefooter?action=edit)
 
@@ -167,7 +167,7 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
  |
 | --- |
 |  |
-| Creature group | 
+| Creature group |
 
 -   [Aberration](https://wowpedia.fandom.com/wiki/Aberration "Aberration")
 -   [Beast](https://wowpedia.fandom.com/wiki/Beast "Beast")
@@ -185,13 +185,13 @@ Each of these five flights keeps secrets of its own and adheres to separate ideo
 
  |
 |  |
-| Dragonkin creatures | 
+| Dragonkin creatures |
 
 <table><tbody><tr><th scope="row"><strong>Dragonflights</strong></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight" title="Black dragonflight">Black</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight" title="Blue dragonflight">Blue</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight" title="Bronze dragonflight">Bronze</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chromatic_dragonflight" title="Chromatic dragonflight">Chromatic</a></li><li><a href="https://wowpedia.fandom.com/wiki/Green_dragonflight" title="Green dragonflight">Green</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infinite_dragonflight" title="Infinite dragonflight">Infinite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherwing_dragonflight" title="Netherwing dragonflight">Nether</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nightmare_dragonflight" title="Nightmare dragonflight">Nightmare</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragonflight" title="Plagued dragonflight">Plagued</a></li><li><a href="https://wowpedia.fandom.com/wiki/Red_dragonflight" title="Red dragonflight">Red</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_drake" title="Storm drake">Storm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_dragonflight" title="Twilight dragonflight">Twilight</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Aspect</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drake" title="Drake">Drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragon_whelp" title="Dragon whelp">Whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrm" title="Wyrm">Wyrm</a></li></ul></li><li>Elemental drake<ul><li><a href="https://wowpedia.fandom.com/wiki/Stone_dragon" title="Stone dragon">Stone dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_dragon" title="Storm dragon">Storm dragon</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Undead_dragon" title="Undead dragon">Undead dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Bone_Drake" title="Bone Drake">Bone Drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Emberwyrm" title="Emberwyrm">Emberwyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fel_dragon" title="Fel dragon">Fel dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_wyrm" title="Frost wyrm">Frost wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Magmawyrm" title="Magmawyrm">Magmawyrm</a></li><li><span title="Bloodbrood (page does not exist)" data-uncrawlable-url="L3dpa2kvQmxvb2Ricm9vZD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=">Bloodbrood</span></li><li><a href="https://wowpedia.fandom.com/wiki/Frostbrood" title="Frostbrood">Frostbrood</a></li><li><span title="Vilebrood (page does not exist)" data-uncrawlable-url="L3dpa2kvVmlsZWJyb29kP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==">Vilebrood</span></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Humanoid Dragonkin</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aberration_(mob)" title="Aberration (mob)">Aberration</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Scalebane" title="Scalebane">Scalebane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmkin" title="Wyrmkin">Wyrmkin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tarasek" title="Tarasek">Tarasek</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Lesser_Dragonkin" title="Lesser Dragonkin">Lesser Dragonkin</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Cloud_serpent" title="Cloud serpent">Cloud serpent</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hornswog" title="Hornswog">Hornswog</a></li><li><a href="https://wowpedia.fandom.com/wiki/Faerie_dragon" title="Faerie dragon">Faerie dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Veilwing" title="Veilwing">Veilwing</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonhawk" title="Dragonhawk">Dragonhawk</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drakeadon" title="Drakeadon">Drakeadon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Proto-dragon" title="Proto-dragon">Proto-dragon</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Primal_Incarnates" title="Primal Incarnates">Primal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Not-living" title="Not-living">Not-living</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Velocidrake" title="Velocidrake">Velocidrake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wylderdrake" title="Wylderdrake">Wylderdrake</a></li></ul></div></td></tr></tbody></table>
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Titanic_creations "Template:Titanic creations")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Titanic_creations?action=edit)
 
@@ -202,8 +202,8 @@ Sapient [titanic creations](https://wowpedia.fandom.com/wiki/Titan-forged "Titan
  |
 | --- |
 |  |
-| [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")  
-related | 
+| [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
+related |
 
 -   [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
     -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
@@ -225,7 +225,7 @@ related |
 
  |
 |  |
-| [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant") | 
+| [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant") |
 
 -   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
 -   [Fire giant](https://wowpedia.fandom.com/wiki/Fire_giant "Fire giant")
@@ -243,7 +243,7 @@ related |
 
  |
 |  |
-| [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") | 
+| [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") |
 
 -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
 -   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
@@ -257,7 +257,7 @@ related |
 
  |
 |  |
-| [Gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") | 
+| [Gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") |
 
 -   [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
     -   [Mechagon](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")
@@ -269,13 +269,13 @@ related |
 
  |
 |  |
-| [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin") | 
+| [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin") |
 
 <table><tbody><tr><th scope="row"><strong>Dragonflights</strong></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Red_dragonflight" title="Red dragonflight">Red</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight" title="Blue dragonflight">Blue</a></li><li><a href="https://wowpedia.fandom.com/wiki/Green_dragonflight" title="Green dragonflight">Green</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight" title="Bronze dragonflight">Bronze</a></li><li><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight" title="Black dragonflight">Black</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherwing_dragonflight" title="Netherwing dragonflight">Netherwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chromatic_dragonflight" title="Chromatic dragonflight">Chromatic</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_dragonflight" title="Twilight dragonflight">Twilight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infinite_dragonflight" title="Infinite dragonflight">Infinite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragonflight" title="Plagued dragonflight">Plagued</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nightmare_dragonflight" title="Nightmare dragonflight">Nightmare</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_drake" title="Storm drake">Storm</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragonkin#Types" title="Dragonkin">Types</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aberration_(mob)" title="Aberration (mob)">Aberration</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Scalebane" title="Scalebane">Scalebane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmkin" title="Wyrmkin">Wyrmkin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") |
 
 -   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
 -   [Colossal](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
@@ -296,7 +296,7 @@ related |
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
     -   [Obsidian destroyer](https://wowpedia.fandom.com/wiki/Obsidian_destroyer "Obsidian destroyer")
@@ -310,7 +310,7 @@ related |
 
  |
 |  |
-| 
+|
 
 -   This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
 
@@ -318,7 +318,7 @@ related |
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Titans "Template:Titans")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Titans?action=edit)
 
@@ -329,7 +329,7 @@ related |
  |
 | --- |
 |  |
-| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") |
 
 -   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
 -   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
@@ -345,7 +345,7 @@ related |
 
  |
 |  |
-| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") | 
+| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") |
 
 -   [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas")
 -   [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya")
@@ -361,7 +361,7 @@ related |
 
  |
 |  |
-| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") | 
+| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") |
 
 -   [Eyir](https://wowpedia.fandom.com/wiki/Eyir "Eyir")
 -   [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya")
@@ -384,7 +384,7 @@ related |
 
  |
 |  |
-| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") | 
+| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") |
 
 -   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
 -   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
@@ -397,7 +397,7 @@ related |
 
  |
 |  |
-| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") |
 
 -   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
 -   [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
@@ -414,7 +414,7 @@ related |
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
     -   [Algalon](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer")
@@ -429,7 +429,7 @@ related |
 
  |
 |  |
-| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") | 
+| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") |
 
 -   [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination")
 -   [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills")
@@ -475,7 +475,7 @@ related |
 
  |
 |  |
-| Relics | 
+| Relics |
 
 -   [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
 -   [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon")
@@ -501,7 +501,7 @@ related |
 
  |
 |  |
-| Weapons | 
+| Weapons |
 
 -   [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras")
 -   [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach")

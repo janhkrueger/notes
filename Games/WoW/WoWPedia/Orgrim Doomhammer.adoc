@@ -3,14 +3,14 @@ _"Orgrim" redirects here. For for other usages, see [Orgrim Doomhammer (disambig
 | [![Horde](https://static.wikia.nocookie.net/wowpedia/images/4/4f/Horde_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Horde "Horde")Orgrim Doomhammer |
 | --- |
 | [![Image of Orgrim Doomhammer](https://static.wikia.nocookie.net/wowpedia/images/3/37/Orgrim_Doomhammer_TCG_cropped.jpg/revision/latest/scale-to-width-down/200?cb=20210402211221)](https://static.wikia.nocookie.net/wowpedia/images/3/37/Orgrim_Doomhammer_TCG_cropped.jpg/revision/latest?cb=20210402211221 "Image of Orgrim Doomhammer") |
-| Title | Warchief of the Horde,  
-Blackrock Chieftain,  
-Backstabber,  
+| Title | Warchief of the Horde,
+Blackrock Chieftain,
+Backstabber,
 The Doomhammer |
 | Gender | Male |
 | Race | [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc") |
 | Class | [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior") |
-| Affiliation(s) | [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-1">[1]</a></sup> [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") |
+| Affiliation(s) | xref:Horde.adoc[Horde],<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-1">[1]</a></sup> [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") |
 | Former affiliation(s) | [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") |
 | Occupation | [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") of the Horde, [Chieftain](https://wowpedia.fandom.com/wiki/Chieftain "Chieftain") of the Blackrock clan |
 | Former occupation(s) | Second-in-command to [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand") |
@@ -24,7 +24,7 @@ The Doomhammer |
 
 — Orgrim to Gul'dan after the [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
 
-**Orgrim Doomhammer** was the [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") of the [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") and Chieftain of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") during the end of the [First War](https://wowpedia.fandom.com/wiki/First_War "First War") and the entirety of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"). The orcish capital of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), the Horde-controlled town of [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall") in the [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands"), and the flying battleship _[Orgrim's Hammer](https://wowpedia.fandom.com/wiki/Orgrim%27s_Hammer "Orgrim's Hammer")_ patrolling the skies of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), are named in his honor. He was also known as the Backstabber by loyalists of [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") and [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand").<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-2">[2]</a></sup>
+**Orgrim Doomhammer** was the [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") of the [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde") and Chieftain of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") during the end of the [First War](https://wowpedia.fandom.com/wiki/First_War "First War") and the entirety of the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"). The orcish capital of xref:Orgrimmar.adoc[Orgrimmar], the Horde-controlled town of [Hammerfall](https://wowpedia.fandom.com/wiki/Hammerfall "Hammerfall") in the [Arathi Highlands](https://wowpedia.fandom.com/wiki/Arathi_Highlands "Arathi Highlands"), and the flying battleship _[Orgrim's Hammer](https://wowpedia.fandom.com/wiki/Orgrim%27s_Hammer "Orgrim's Hammer")_ patrolling the skies of [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), are named in his honor. He was also known as the Backstabber by loyalists of [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") and [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand").<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-2">[2]</a></sup>
 
 ## Biography
 
@@ -70,7 +70,7 @@ Toward the end of the war, a surgical strike was launched by the humans to kill 
 
 Orgrim Doomhammer believed that his time had come. The Shadow Council was in disarray, and [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand") was still reeling from the recent failed attack on Stormwind City. Orgrim would have no better chance to attempt to erase the corruption that had damned the orcish people. He challenged Blackhand to a [mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora"), a duel to the death, calling the Warchief a traitor who had sold his people into servitude to [dark forces](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). It was not a challenge Blackhand could refuse. No orc could, not without losing the Horde's respect. He could not even have Orgrim assassinated in secret, for Blackhand had relied on the Shadow Council for such tasks.
 
-Painted with [clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") symbols and adorned in oil, the two orcs dueled for hours. Orgrim ended the contest when he crushed Blackhand's skull with his family's weapon, the Doomhammer. The watching orcs knelt before the victor, proclaiming their new leader Warchief Doomhammer. Orgrim spoke to the Horde, telling them that Gul'dan and his warlocks were not what they seemed. Their fel powers were what had killed Draenor. Orgrim declared that he would cleanse the Horde of the foul darkness that had poisoned it. His first step was to outlaw the practice of using fel magic, on pain of death. [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") would not suffer [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor")'s fate. Yet the full measure of Orgrim's vengeance would have to wait. After Blackhand's death, the [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council") had fled. Orgrim did not know where they had run to. For now, Orgrim focused his attention on the war with Stormwind. He did not relish the way the orcs would survive was by conquering [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and making it their new home. If the did not defeat their enemies, they would be at the mercy of a strange world. Warchief Doomhammer ordered the clans to prepare for one final assault. They were moving before the sun had set. Stormwind City was conquered by the mighty Doomhammer. The First War was over. The Horde stood victorious. But its Warchief was anything but happy. Orgrim had no means nor the inclination to pursue Stormwind's refugees. The Horde had taken heavy losses to achieve victory, and he knew he needed to secure his conquered land before facing any new enemies. He sent messengers back to Draenor to call up the remaining clans.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-16">[16]</a></sup>
+Painted with [clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") symbols and adorned in oil, the two orcs dueled for hours. Orgrim ended the contest when he crushed Blackhand's skull with his family's weapon, the Doomhammer. The watching orcs knelt before the victor, proclaiming their new leader Warchief Doomhammer. Orgrim spoke to the Horde, telling them that Gul'dan and his warlocks were not what they seemed. Their fel powers were what had killed Draenor. Orgrim declared that he would cleanse the Horde of the foul darkness that had poisoned it. His first step was to outlaw the practice of using fel magic, on pain of death. xref:Azeroth.adoc[Azeroth] would not suffer [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor")'s fate. Yet the full measure of Orgrim's vengeance would have to wait. After Blackhand's death, the [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council") had fled. Orgrim did not know where they had run to. For now, Orgrim focused his attention on the war with Stormwind. He did not relish the way the orcs would survive was by conquering [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and making it their new home. If the did not defeat their enemies, they would be at the mercy of a strange world. Warchief Doomhammer ordered the clans to prepare for one final assault. They were moving before the sun had set. Stormwind City was conquered by the mighty Doomhammer. The First War was over. The Horde stood victorious. But its Warchief was anything but happy. Orgrim had no means nor the inclination to pursue Stormwind's refugees. The Horde had taken heavy losses to achieve victory, and he knew he needed to secure his conquered land before facing any new enemies. He sent messengers back to Draenor to call up the remaining clans.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-16">[16]</a></sup>
 
 ### Scouring of the Shadow Council
 
@@ -80,7 +80,7 @@ Orgrim Doomhammer scouring the Shadow Council.
 
 Orgrim used that time to consolidate his control of the Horde. His first priority was eradicating the [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council"). Though it was a powerful force, it was the root of the Horde's corruption. Orgrim believed that the Shadow Council was in league with dark forces that were manipulating the orcs and that the warlocks' obsession with fel magic was what had killed Draenor. On a more personal level, Orgrim also wanted revenge. Members of the Shadow Council had murdered Durotan, Draka, and their infant [child](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), as far as he was aware.
 
-The Shadow Council's whereabouts were unknown. Luckily, there was someone to interrogate. [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") was still unconscious, but the Horde had captured his puppet, [Garona](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen"), as she tried to escape from [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"). Orgrim had her tortured until she revealed where the Shadow Council had built its secret refuge: [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire"). A large force of Horde soldiers stormed the smoldering volcano. The Shadow Council warlocks could do little to save themselves. Their fel power could only delay Orgrim's wrath for so long. Orgrim then killed as many warlocks and members of the Shadow Council as he could manage, effectively crushing their power. One of the few council members to survive was [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall"). The [ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") made a very convincing case for why he should be spared. Without Cho'gall, the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") would succumb to madness again. Could Orgrim really afford to lose such a capable fighting force? Cho'gall swore his allegiance to the Warchief, claiming that he had been manipulated into Guldan's service.
+The Shadow Council's whereabouts were unknown. Luckily, there was someone to interrogate. [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") was still unconscious, but the Horde had captured his puppet, [Garona](https://wowpedia.fandom.com/wiki/Garona_Halforcen "Garona Halforcen"), as she tried to escape from [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City"). Orgrim had her tortured until she revealed where the Shadow Council had built its secret refuge: [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire"). A large force of Horde soldiers stormed the smoldering volcano. The Shadow Council warlocks could do little to save themselves. Their fel power could only delay Orgrim's wrath for so long. Orgrim then killed as many warlocks and members of the Shadow Council as he could manage, effectively crushing their power. One of the few council members to survive was xref:Chogall.adoc[Cho'gall]. The [ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") made a very convincing case for why he should be spared. Without Cho'gall, the [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer") would succumb to madness again. Could Orgrim really afford to lose such a capable fighting force? Cho'gall swore his allegiance to the Warchief, claiming that he had been manipulated into Guldan's service.
 
 Orgrim accepted his surrender reluctantly. He wasn't sure whether the two-headed ogre was telling the truth, and he didn't particularly care. He needed fighting power to protect the Horde's new lands. The ogre also introduced Orgrim to the Dark Iron dwarves, who, under Ragnaros' secret command, allowed the Horde to use the spire as its base.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-17">[17]</a></sup> The warchief felt it was a good omen that the place bore the same name as his own clan.<sup id="cite_ref-ToD_6_18-0"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-ToD_6-18">[18]</a></sup>
 
@@ -90,7 +90,7 @@ The Warchief also spared Garona's life. It was no secret that Gul'dan had been r
 
 As the dust of the First War settled, Orgrim Doomhammer mulled over the future of his people. He dreamed of a time when the orcs could return to their [old traditions and ways](https://wowpedia.fandom.com/wiki/Shamanism_and_nature_worship "Shamanism and nature worship"), free from fel magic and the other corruptive influences that [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan "Gul'dan") and [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand") had introduced to the clans.
 
-Yet that dream would be long in coming. First, Orgrim would have to secure a home for the orcs on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Conquering [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") was not enough. The other human nations would never make peace with the Horde. Not after Stormwind's destruction. Even now, Doomhammer's scouts reported that there was a gathering of human nations in a northern land called [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron").
+Yet that dream would be long in coming. First, Orgrim would have to secure a home for the orcs on xref:Azeroth.adoc[Azeroth]. Conquering [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") was not enough. The other human nations would never make peace with the Horde. Not after Stormwind's destruction. Even now, Doomhammer's scouts reported that there was a gathering of human nations in a northern land called [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron").
 
 Orgrim knew that the Horde could not sit idle. If he and his people simply tried to defend their conquered territory, the human nations would muster the full might of their armies, march south, and eventually overrun the orcs. The only way for Orgrim to secure his race's survival was to strike first before his enemies could fully prepare for war. After interrogating human prisoners taken from Stormwind, the orcs had learned that many powerful human nations existed in the north, but none compared to [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)"). It was the heart of human culture. If the Horde conquered its seat of power, [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), Doomhammer believed the other kingdoms would fall in turn.
 
@@ -150,9 +150,9 @@ Doomhammer ordered the Horde to turn east. His trusted lieutenant [Varok Saurfan
 
 Under his command, the Horde was able to wreak havoc on the [northlands](https://wowpedia.fandom.com/wiki/Northlands "Northlands"). Orgrim also made a pact with [Lord Perenolde](https://wowpedia.fandom.com/wiki/Aiden_Perenolde "Aiden Perenolde"), the ruler of [Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)"). The treacherous human allowed Orgrim and the Horde to pass unimpeded through the mountain passes towards Lordaeron's [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), in exchange for the assurance that his nation would not be attacked by the Horde. Orgrim, though suspicious of the human's motives, agreed.<sup id="cite_ref-ToD_21-2"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-ToD-21">[21]</a></sup>
 
-However, Doomhammer was correct in his previous assessment of the perfidious Gul'dan. When the Horde was launching the final and [massive attack](https://wowpedia.fandom.com/wiki/Siege_of_Capital_City "Siege of Capital City") on Lordaeron's [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), Gul'dan's [Stormreaver clan](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan"), along with [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall")'s [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer"), and all others loyal to the warlock, abandoned the Horde and set sail to the south. Chasing him to the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), Orgrim sent part of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") and the [Black Tooth Grin clan](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan") to engage both the Stormreaver and Twilight's Hammer forces. Gul'dan and his warlocks entered the Tomb of Sargeras but were slain by the demons within. The rest of the clan members were annihilated by Orgrim's forces.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-29">[29]</a></sup>
+However, Doomhammer was correct in his previous assessment of the perfidious Gul'dan. When the Horde was launching the final and [massive attack](https://wowpedia.fandom.com/wiki/Siege_of_Capital_City "Siege of Capital City") on Lordaeron's [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City"), Gul'dan's [Stormreaver clan](https://wowpedia.fandom.com/wiki/Stormreaver_clan "Stormreaver clan"), along with xref:Chogall.adoc[Cho'gall]'s [Twilight's Hammer](https://wowpedia.fandom.com/wiki/Twilight%27s_Hammer "Twilight's Hammer"), and all others loyal to the warlock, abandoned the Horde and set sail to the south. Chasing him to the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras"), Orgrim sent part of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") and the [Black Tooth Grin clan](https://wowpedia.fandom.com/wiki/Black_Tooth_Grin_clan "Black Tooth Grin clan") to engage both the Stormreaver and Twilight's Hammer forces. Gul'dan and his warlocks entered the Tomb of Sargeras but were slain by the demons within. The rest of the clan members were annihilated by Orgrim's forces.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-29">[29]</a></sup>
 
-Weakened by losses caused by Gul'dan's treachery, Doomhammer was forced to fall back from the human capital of Lordaeron to his fortress at [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire"). There he fought the final battle of the Second War against the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), leading a charge from Blackrock Spire to clash with [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar") and his paladin guard. Human and orc battled one another in a titanic conflict that left both warriors drained, but the Warchief was able to vanquish the Regent of Azeroth. Some believe that Doomhammer did not win fairly and that Lothar was killed after being ambushed by Horde warriors.<sup id="cite_ref-AssaultOnBRS_30-0"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-AssaultOnBRS-30">[30]</a></sup> Nevertheless, Lothar's death did not have the effect that Doomhammer intended. Rather than being demoralized, the Alliance - led by Lothar's lieutenant, [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") - rallied, whipped into a frenzy that shocked even the Warchief himself and all but destroyed Doomhammer's forces,<sup id="cite_ref-AssaultOnBRS_30-1"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-AssaultOnBRS-30">[30]</a></sup> chasing them back to the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"). Orgrim himself was defeated and captured by Turalyon, soon after Lothar's death.
+Weakened by losses caused by Gul'dan's treachery, Doomhammer was forced to fall back from the human capital of Lordaeron to his fortress at [Blackrock Spire](https://wowpedia.fandom.com/wiki/Blackrock_Spire "Blackrock Spire"). There he fought the final battle of the Second War against the [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron"), leading a charge from Blackrock Spire to clash with [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar") and his paladin guard. Human and orc battled one another in a titanic conflict that left both warriors drained, but the Warchief was able to vanquish the Regent of Azeroth. Some believe that Doomhammer did not win fairly and that Lothar was killed after being ambushed by Horde warriors.<sup id="cite_ref-AssaultOnBRS_30-0"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-AssaultOnBRS-30">[30]</a></sup> Nevertheless, Lothar's death did not have the effect that Doomhammer intended. Rather than being demoralized, the Alliance - led by Lothar's lieutenant, [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") - rallied, whipped into a frenzy that shocked even the Warchief himself and all but destroyed Doomhammer's forces,<sup id="cite_ref-AssaultOnBRS_30-1"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-AssaultOnBRS-30">[30]</a></sup> chasing them back to the xref:DarkPortal.adoc[Dark Portal]. Orgrim himself was defeated and captured by Turalyon, soon after Lothar's death.
 
 ### Meeting with Thrall
 
@@ -174,13 +174,13 @@ Along with Hellscream and the Warsong clan, they were able to easily storm four 
 
 ## Doomhammer's legacy
 
-After the orcs found a land of their own, which they called [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar") after his father, Thrall established the city of [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") in honor of the venerable Warchief, his mentor and friend.
+After the orcs found a land of their own, which they called [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar") after his father, Thrall established the city of xref:Orgrimmar.adoc[Orgrimmar] in honor of the venerable Warchief, his mentor and friend.
 
-Doomhammer's name also lives on in the _[Orgrim's Hammer](https://wowpedia.fandom.com/wiki/Orgrim%27s_Hammer "Orgrim's Hammer")_ - a powerful flying warship that serves as the mobile Horde headquarters in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), the seat of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), in the frozen wastes of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+Doomhammer's name also lives on in the _[Orgrim's Hammer](https://wowpedia.fandom.com/wiki/Orgrim%27s_Hammer "Orgrim's Hammer")_ - a powerful flying warship that serves as the mobile Horde headquarters in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown"), the seat of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), in the frozen wastes of xref:Northrend.adoc[Northrend].
 
 ### The Doomhammer and the plate
 
-Orgrim wore the plate until he was slain in Hammerfall. Since that moment the plate was worn and the hammer carried by [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), fulfilling his weapon's ancient prophecy. He made sure to restore, but not replace, the back plate pierced by the lance that took Doomhammer's life.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-34">[34]</a></sup> At the start of the [Cataclysm](https://wowpedia.fandom.com/wiki/Cataclysm_(event) "Cataclysm (event)"), Thrall stopped wearing the plate (in favor of shamanic robes) but chose to have it delivered to Orgrimmar, since it is an important part of orcish culture.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-35">[35]</a></sup> Since then, he has alternated between wearing the plate and choosing humbler clothing: he donned it during the campaign into the Draenor of yet another [alternate timeline](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)"), discarded it in favor of traditional Frostwolf clothing after the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), and donned it yet again during the [war against the Jailer](https://wowpedia.fandom.com/wiki/War_against_the_Jailer "War against the Jailer").<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-36">[36]</a></sup>
+Orgrim wore the plate until he was slain in Hammerfall. Since that moment the plate was worn and the hammer carried by [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall"), fulfilling his weapon's ancient prophecy. He made sure to restore, but not replace, the back plate pierced by the lance that took Doomhammer's life.<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-34">[34]</a></sup> At the start of the xref:CataclysmEvent.adoc[cataclysm], Thrall stopped wearing the plate (in favor of shamanic robes) but chose to have it delivered to Orgrimmar, since it is an important part of orcish culture.<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-35">[35]</a></sup> Since then, he has alternated between wearing the plate and choosing humbler clothing: he donned it during the campaign into the Draenor of yet another [alternate timeline](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)"), discarded it in favor of traditional Frostwolf clothing after the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion], and donned it yet again during the [war against the Jailer](https://wowpedia.fandom.com/wiki/War_against_the_Jailer "War against the Jailer").<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer#cite_note-36">[36]</a></sup>
 
 ## Warcraft Adventures: Lord of the Clans
 
@@ -235,37 +235,37 @@ Another [Orgim](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer_(alternate_un
 -   An unused NPC representing Orgrim is situated in the same ID range as other legendary [warriors](https://wowpedia.fandom.com/wiki/Warrior "Warrior") presumably meant to [appear](https://wowpedia.fandom.com/wiki/Skyhold#Speculation "Skyhold") in [Skyhold](https://wowpedia.fandom.com/wiki/Skyhold "Skyhold"). He and most of these NPCs didn't make it out of the _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_ alpha stage.
 -   There has been some comedic association with Orgrim Doomhammer and the real-life rapper/musician M.C. Hammer. The racial dance of the orcs is that performed by M.C. Hammer in the music video of the song, "You Can't Touch This," and a satirical version of the cover of Hammer's album, "Please Hammer Don't Hurt Them," was submitted to one of Blizzard's fan art contests, with Orgrim depicted on it.
 -   Despite his belief in his purging the orcs of the darkness controlling them, it would be made abundantly clear by Kil'jaeden to an alternate Gul'dan that Orgrim was still serving the Legion's interests, albeit unwittingly. Kil'jaeden saw only the original Gul'dan as the traitor for dividing the orc forces at a critical moment.
--   With [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") within the [Shadowlands campaign](https://wowpedia.fandom.com/wiki/Shadowlands_campaign "Shadowlands campaign"), [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") within the  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Ui_sigil_nightfae.png/revision/latest/scale-to-width-down/16?cb=20210615121922)[\[Night Fae Campaign\]](https://wowpedia.fandom.com/wiki/Night_Fae_Campaign), and [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") and [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") being present within the [Sanctum of Domination](https://wowpedia.fandom.com/wiki/Sanctum_of_Domination "Sanctum of Domination"), Doomhammer and Blackhand are the only former [Warchiefs](https://wowpedia.fandom.com/wiki/Warchief "Warchief") of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") to not feature in _[World of Warcraft: Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.
+-   With [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") within the [Shadowlands campaign](https://wowpedia.fandom.com/wiki/Shadowlands_campaign "Shadowlands campaign"), [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin") within the  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f4/Ui_sigil_nightfae.png/revision/latest/scale-to-width-down/16?cb=20210615121922)[\[Night Fae Campaign\]](https://wowpedia.fandom.com/wiki/Night_Fae_Campaign), and [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") and [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") being present within the [Sanctum of Domination](https://wowpedia.fandom.com/wiki/Sanctum_of_Domination "Sanctum of Domination"), Doomhammer and Blackhand are the only former [Warchiefs](https://wowpedia.fandom.com/wiki/Warchief "Warchief") of the xref:Horde.adoc[Horde] to not feature in _[World of Warcraft: Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.
 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a7/WC1_Orgrim_Doomhammer.jpg/revision/latest/scale-to-width-down/120?cb=20140218194658)](https://static.wikia.nocookie.net/wowpedia/images/a/a7/WC1_Orgrim_Doomhammer.jpg/revision/latest?cb=20140218194658)
-    
+
     Orgrim after winning the First War.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Warcraft_Adventures_-_Blood_brothers.png/revision/latest/scale-to-width-down/120?cb=20170202215039)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Warcraft_Adventures_-_Blood_brothers.png/revision/latest?cb=20170202215039)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Warcraft_Adventures_-_Orgrim_and_Hellhounds.jpg/revision/latest/scale-to-width-down/120?cb=20161221120457)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Warcraft_Adventures_-_Orgrim_and_Hellhounds.jpg/revision/latest?cb=20161221120457)
-    
+
     Hermit Orgrim in _Warcraft Adventures_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Warcraftadventures2.jpg/revision/latest/scale-to-width-down/120?cb=20170130213143)](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Warcraftadventures2.jpg/revision/latest?cb=20170130213143)
-    
+
     Orgrim at a meeting of orcs in _Warcraft Adventures_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/61/Orgrim_Doomhammer_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20210328004639)](https://static.wikia.nocookie.net/wowpedia/images/6/61/Orgrim_Doomhammer_TCG.jpg/revision/latest?cb=20210328004639)
-    
+
     Orgrim Doomhammer (Betrayal of the Guardian)
-    
+
 
 Hearthstone
 
 Fan art.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Orgrim_doomhammer_by_vaejoun-d4h1nrm.jpg/revision/latest/scale-to-width-down/81?cb=20140331014010)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Orgrim_doomhammer_by_vaejoun-d4h1nrm.jpg/revision/latest?cb=20140331014010)
-    
+
     Fan art.
-    
+
 
 ## References
 
@@ -322,11 +322,11 @@ Fan art.
 
 |  |  |
 | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/npc=17012)
 -   [WoWDB](https://www.wowdb.com/npcs/17012)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=96200)
 -   [WoWDB](https://www.wowdb.com/npcs/96200)
@@ -337,14 +337,14 @@ Fan art.
 -   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
 -   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
 
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") xref:Horde.adoc[Horde]
 
 
 
  |
 | --- |
 |  |
-| 
+|
 
 | Expand 
 Leadership
@@ -354,7 +354,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 | Expand 
 Characters
@@ -364,7 +364,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 | Expand 
 Races
@@ -374,7 +374,7 @@ Races
 
  |
 |  |
-| 
+|
 
 | Expand 
 Cities and towns
@@ -384,7 +384,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 | Expand 
 [Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
@@ -396,7 +396,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
 -   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")

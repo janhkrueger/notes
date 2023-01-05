@@ -5,7 +5,7 @@ _For the Pet Battle ability, see   ![](https://static.wikia.nocookie.net/wowpedi
 | [![Cryo-Engineer Sha'heen TCG.jpg](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Cryo-Engineer_Sha%27heen_TCG.jpg/revision/latest/scale-to-width-down/200?cb=20130512055101)](https://static.wikia.nocookie.net/wowpedia/images/5/5a/Cryo-Engineer_Sha%27heen_TCG.jpg/revision/latest?cb=20130512055101) |
 | Faction/Affiliation | [Consortium](https://wowpedia.fandom.com/wiki/Consortium "Consortium"), [Protectorate](https://wowpedia.fandom.com/wiki/Protectorate "Protectorate"), [Ethereum](https://wowpedia.fandom.com/wiki/Ethereum "Ethereum") ([Shadowguard](https://wowpedia.fandom.com/wiki/Shadowguard "Shadowguard")) |
 | Character classes | Smuggler, [Trader](https://wowpedia.fandom.com/wiki/Merchant "Merchant"), [Thief](https://wowpedia.fandom.com/wiki/Thief "Thief"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Raider](https://wowpedia.fandom.com/wiki/Raider "Raider"), [Arcanist](https://wowpedia.fandom.com/wiki/Arcanist "Arcanist"), [Warden](https://wowpedia.fandom.com/wiki/Warden "Warden"), [Wind Trader](https://wowpedia.fandom.com/wiki/Wind_Trader "Wind Trader"), [Nether-stalker](https://wowpedia.fandom.com/wiki/Nether-stalker "Nether-stalker"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), Spellbinder, [Engineer](https://wowpedia.fandom.com/wiki/Engineer "Engineer") |
-| Racial leader(s) | 
+| Racial leader(s) |
 [![IconSmall Ethereal.gif](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest/scale-to-width-down/16?cb=20211118202836)](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest?cb=20211118202836) [Nexus-King Salhadaar](https://wowpedia.fandom.com/wiki/Nexus-King_Salhadaar "Nexus-King Salhadaar") †
 
 -   [![IconSmall Ethereal.gif](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest/scale-to-width-down/16?cb=20211118202836)](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest?cb=20211118202836) [Nexus-Prince Bilaal](https://wowpedia.fandom.com/wiki/Nexus-Prince_Bilaal "Nexus-Prince Bilaal") †
@@ -39,17 +39,17 @@ How [Dimensius the All-Devouring](https://wowpedia.fandom.com/wiki/Dimensius_the
 
 The [Ethereum](https://wowpedia.fandom.com/wiki/Ethereum "Ethereum"), which held the ruling council of Nexus-Princes, started becoming dark and twisted in their obsession for vengeance. This caused many of the Nexus-Princes to leave the council and form their own organizations with their own goals. Undeterred, the Ethereum continued in the search for vengeance against Dimensius, destroying anyone in their way. The [Protectorate](https://wowpedia.fandom.com/wiki/Protectorate "Protectorate") was formed by a Nexus-Prince, who left the council, to stop the Ethereum in their destructive path.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-6">[6]</a></sup> The [Consortium](https://wowpedia.fandom.com/wiki/Consortium "Consortium") is another offshoot group, one of the smugglers, traders, and thieves, that aids the Protectorate in their endeavors. The Consortium also do business in the Hara'samid Sector, on Heraazi, Sodaraami, and the Xarodi Sector.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-7">[7]</a></sup>
 
-A group of ethereals made their way into [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan").
+A group of ethereals made their way into xref:Karazhan.adoc[Karazhan].
 
 ### The Nexus War
 
-The [Ethereum](https://wowpedia.fandom.com/wiki/Ethereum "Ethereum") and their ambassador, [Wind Trader Mu'fah](https://wowpedia.fandom.com/wiki/Wind_Trader_Mu%27fah "Wind Trader Mu'fah"), appear to have negotiated an accord with [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") and the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") during the [Nexus War](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War"). Years later they used this connection in a second attempt to "become [void](https://wowpedia.fandom.com/wiki/Void "Void")" ([see below](https://wowpedia.fandom.com/wiki/Ethereal#Legion)).
+The [Ethereum](https://wowpedia.fandom.com/wiki/Ethereum "Ethereum") and their ambassador, [Wind Trader Mu'fah](https://wowpedia.fandom.com/wiki/Wind_Trader_Mu%27fah "Wind Trader Mu'fah"), appear to have negotiated an accord with [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos") and the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") during the xref:NexusWar.adoc[Nexus War]. Years later they used this connection in a second attempt to "become [void](https://wowpedia.fandom.com/wiki/Void "Void")" ([see below](https://wowpedia.fandom.com/wiki/Ethereal#Legion)).
 
 ### The Cataclysm
 
 [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
 
-Groups of entrepreneurial ethereals have emerged from the [nether](https://wowpedia.fandom.com/wiki/Nether "Nether") to offer a host of new technologies and services that will allow the adventurers of Azeroth to customize and store their equipment. Ethereal warpweavers, vaultkeepers, and thaumaturges set up shop in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") to give players access to [Transmogrification](https://wowpedia.fandom.com/wiki/Transmogrification "Transmogrification"), [Void Storage](https://wowpedia.fandom.com/wiki/Void_Storage "Void Storage"), and [Reforging](https://wowpedia.fandom.com/wiki/Reforging "Reforging"), for nominal fees. [K'areshi Traders](https://wowpedia.fandom.com/wiki/K%27areshi_Trader "K'areshi Trader") are found coming out of portals at [Mazthoril](https://wowpedia.fandom.com/wiki/Mazthoril "Mazthoril") in [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring").
+Groups of entrepreneurial ethereals have emerged from the [nether](https://wowpedia.fandom.com/wiki/Nether "Nether") to offer a host of new technologies and services that will allow the adventurers of Azeroth to customize and store their equipment. Ethereal warpweavers, vaultkeepers, and thaumaturges set up shop in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and xref:Orgrimmar.adoc[Orgrimmar] to give players access to [Transmogrification](https://wowpedia.fandom.com/wiki/Transmogrification "Transmogrification"), [Void Storage](https://wowpedia.fandom.com/wiki/Void_Storage "Void Storage"), and [Reforging](https://wowpedia.fandom.com/wiki/Reforging "Reforging"), for nominal fees. [K'areshi Traders](https://wowpedia.fandom.com/wiki/K%27areshi_Trader "K'areshi Trader") are found coming out of portals at [Mazthoril](https://wowpedia.fandom.com/wiki/Mazthoril "Mazthoril") in [Winterspring](https://wowpedia.fandom.com/wiki/Winterspring "Winterspring").
 
 ### Pandaria
 
@@ -67,7 +67,7 @@ Some ethereals, including [Locus-Walker](https://wowpedia.fandom.com/wiki/Locus-
 
 ### Battle for Azeroth
 
-At the time of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), a few [ethereal arcanists](https://wowpedia.fandom.com/wiki/Consortium_Arcanist "Consortium Arcanist") of the [Consortium](https://wowpedia.fandom.com/wiki/Consortium "Consortium") have been hired by the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") to maintain portals to [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City") within the [Pathfinder's Den](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den") and the [Wizard's Sanctum](https://wowpedia.fandom.com/wiki/Wizard%27s_Sanctum "Wizard's Sanctum"),<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-14">[14]</a></sup> respectively in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") and [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
+At the time of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), a few [ethereal arcanists](https://wowpedia.fandom.com/wiki/Consortium_Arcanist "Consortium Arcanist") of the [Consortium](https://wowpedia.fandom.com/wiki/Consortium "Consortium") have been hired by the xref:Horde.adoc[Horde] and the xref:Alliance.adoc[Alliance] to maintain portals to [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City") within the [Pathfinder's Den](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den") and the [Wizard's Sanctum](https://wowpedia.fandom.com/wiki/Wizard%27s_Sanctum "Wizard's Sanctum"),<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-14">[14]</a></sup> respectively in xref:Orgrimmar.adoc[Orgrimmar] and [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
 
 ## Physiology
 
@@ -95,7 +95,7 @@ Nexus-stalkers are a partially [void-based](https://wowpedia.fandom.com/wiki/Voi
 
 The physiology of a nexus-stalker is similar to that of a typical ethereal, albeit with hybrid bodies composed in part of Void energy. As such, they appear translucent and perpetually emanate a shadowy, purple miasma. Those that have been encountered have had the ability to drain their enemies' power.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-20">[20]</a></sup>
 
-The Protectorate eventually put an end to the operation and killed [Nexus-King Salhadaar](https://wowpedia.fandom.com/wiki/Nexus-King_Salhadaar "Nexus-King Salhadaar").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-21">[21]</a></sup> A number of nexus-stalkers still existed at the time of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") as part of the Ethereum's efforts in [Coldarra](https://wowpedia.fandom.com/wiki/Coldarra "Coldarra").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-22">[22]</a></sup>
+The Protectorate eventually put an end to the operation and killed [Nexus-King Salhadaar](https://wowpedia.fandom.com/wiki/Nexus-King_Salhadaar "Nexus-King Salhadaar").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-21">[21]</a></sup> A number of nexus-stalkers still existed at the time of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion") of xref:Azeroth.adoc[Azeroth] as part of the Ethereum's efforts in [Coldarra](https://wowpedia.fandom.com/wiki/Coldarra "Coldarra").<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Ethereal#cite_note-22">[22]</a></sup>
 
 ## Notable
 
@@ -138,17 +138,17 @@ Each group is led by a [nexus-prince](https://wowpedia.fandom.com/wiki/Nexus-pri
 In the _[One Night in Karazhan](https://wowpedia.fandom.com/wiki/Hearthstone:_One_Night_in_Karazhan "Hearthstone: One Night in Karazhan")_ adventure, there is a rare [rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue") card known as the [Ethereal Peddler](https://hearthstone.fandom.com/wiki/Ethereal_Peddler "hswiki:Ethereal Peddler"), which speaks with a distinctly feminine voice, indicating that it is the first known female ethereal to appear in the _Warcraft_ universe. _Hearthstone_ has since seen the introduction of other female ethereals in the form of [Transmogrifier](https://hearthstone.fandom.com/wiki/Transmogrifier "hswiki:Transmogrifier") from _[Descent of Dragons](https://wowpedia.fandom.com/wiki/Hearthstone:_Descent_of_Dragons "Hearthstone: Descent of Dragons")_ and [Grand Lackey Erkh](https://hearthstone.fandom.com/wiki/Grand_Lackey_Erkh "hswiki:Grand Lackey Erkh") from _[Galakrond's Awakening](https://hearthstone.fandom.com/wiki/Galakrond%27s_Awakening "hswiki:Galakrond's Awakening")_.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Nexus-champion_SaraadHS.jpg/revision/latest/scale-to-width-down/90?cb=20150722224706)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Nexus-champion_SaraadHS.jpg/revision/latest?cb=20150722224706)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/17/Arch-Thief_Rafaam.jpg/revision/latest/scale-to-width-down/110?cb=20151122085552)](https://static.wikia.nocookie.net/wowpedia/images/1/17/Arch-Thief_Rafaam.jpg/revision/latest?cb=20151122085552)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Ethereal_Peddler.jpg/revision/latest/scale-to-width-down/94?cb=20161027185358)](https://static.wikia.nocookie.net/wowpedia/images/b/b0/Ethereal_Peddler.jpg/revision/latest?cb=20161027185358)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Raza_the_Chained.jpg/revision/latest/scale-to-width-down/90?cb=20161201081736)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Raza_the_Chained.jpg/revision/latest?cb=20161201081736)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d1/Transmogrifier_HS.jpg/revision/latest/scale-to-width-down/90?cb=20210412003036)](https://static.wikia.nocookie.net/wowpedia/images/d/d1/Transmogrifier_HS.jpg/revision/latest?cb=20210412003036)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Grand_Lackey_Erkh.jpg/revision/latest/scale-to-width-down/90?cb=20210412002840)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Grand_Lackey_Erkh.jpg/revision/latest?cb=20210412002840)
-    
+
 
 ## Notes and trivia
 
@@ -171,29 +171,29 @@ In the _[One Night in Karazhan](https://wowpedia.fandom.com/wiki/Hearthstone:_On
 _World of Warcraft_
 
 -   [![Dealer Senzik.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Dealer_Senzik.jpg/revision/latest/scale-to-width-down/76?cb=20070524231845)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Dealer_Senzik.jpg/revision/latest?cb=20070524231845)
-    
+
 -   [![Commander Ameer.jpg](https://static.wikia.nocookie.net/wowpedia/images/3/38/Commander_Ameer.jpg/revision/latest/scale-to-width-down/87?cb=20070524220029)](https://static.wikia.nocookie.net/wowpedia/images/3/38/Commander_Ameer.jpg/revision/latest?cb=20070524220029)
-    
+
 
 _TCG_
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Ethereal_Spellfilcher_TCG.jpg/revision/latest/scale-to-width-down/117?cb=20150827115301)](https://static.wikia.nocookie.net/wowpedia/images/e/ed/Ethereal_Spellfilcher_TCG.jpg/revision/latest?cb=20150827115301)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/16/Nexus-Thief_Asar_TCG.jpg/revision/latest/scale-to-width-down/84?cb=20160409064126)](https://static.wikia.nocookie.net/wowpedia/images/1/16/Nexus-Thief_Asar_TCG.jpg/revision/latest?cb=20160409064126)
-    
+
     Nexus-Thief Asar.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Ethereal_Plunderer_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160410012805)](https://static.wikia.nocookie.net/wowpedia/images/7/7b/Ethereal_Plunderer_TCG.jpg/revision/latest?cb=20160410012805)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Trickster%27s_Reflex_TCG.jpg/revision/latest/scale-to-width-down/120?cb=20160508070618)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/Trickster%27s_Reflex_TCG.jpg/revision/latest?cb=20160508070618)
-    
+
     An ethereal on the card "Trickster's Reflex".
-    
+
 
 ## References
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Ethereal "Template:Ethereal")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Ethereal?action=edit)
 
@@ -204,7 +204,7 @@ _TCG_
  |
 | --- |
 |  |
-| **Ethereal** | 
+| **Ethereal** |
 
 -   ~[Astralan](https://wowpedia.fandom.com/wiki/Astralan "Astralan")~
 -   ~[Der'izu](https://wowpedia.fandom.com/wiki/Der%27izu "Der'izu")~
@@ -221,7 +221,7 @@ _TCG_
 
  |
 |  |
-| [Void ethereal](https://wowpedia.fandom.com/wiki/Void_ethereal "Void ethereal") | 
+| [Void ethereal](https://wowpedia.fandom.com/wiki/Void_ethereal "Void ethereal") |
 
 -   [Shadowguard](https://wowpedia.fandom.com/wiki/Shadowguard "Shadowguard")
 -   [Netherguard](https://wowpedia.fandom.com/wiki/Netherguard "Netherguard")
@@ -230,37 +230,37 @@ _TCG_
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens "Template:Azeroth aliens")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens?action=edit)
 
-Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to xref:Azeroth.adoc[Azeroth]
 
 
 
  |
 | --- |
 |  |
-| [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") natives | 
+| [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Eredar" title="Eredar">Eredar</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar#Demonic_eredar" title="Eredar">Man'ari</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar_brute" title="Eredar brute">Brute</a></li><li><a href="https://wowpedia.fandom.com/wiki/Doommaiden" title="Doommaiden">Doommaiden</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wrathguard" title="Wrathguard">Wrathguard</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Draenei" title="Draenei">Draenei</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lightforged_draenei" title="Lightforged draenei">Lightforged draenei</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Broken" title="Broken">Broken</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lost_One" title="Lost One">Lost One</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidscarred" title="Voidscarred">Voidscarred</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-draenei" title="Half-draenei">Half-draenei</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") natives | 
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Breakers" title="Breakers">Breakers</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Colossal" title="Colossal">Colossal</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Magnaron" title="Magnaron">Magnaron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Gronn" title="Gronn">Gronn</a>/<a href="https://wowpedia.fandom.com/wiki/Gronnling" title="Gronnling">Gronnling</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogron" title="Ogron">Ogron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre" title="Ogre">Ogre</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre_lord" title="Ogre lord">Ogre lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ogre_mage" title="Ogre mage">Ogre mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Orc" title="Orc">Orc</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mag%27har_orc" title="Mag'har orc">Mag'har</a></li><li>Green-skinned</li><li><a href="https://wowpedia.fandom.com/wiki/Fel_orc" title="Fel orc">Fel orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dire_orc" title="Dire orc">Dire orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pale_orc" title="Pale orc">Pale orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infested" title="Infested">The Infested</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-ogre" title="Half-ogre">Half-ogre</a></li></ul></li></ul></li></ul></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Goren" title="Goren">Goren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Half-orc" title="Half-orc">Half-orc</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Zangar_encroachment" title="Zangar encroachment">Fungi</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Fungal_giant" title="Fungal giant">Fungal giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sporeling" title="Sporeling">Sporeling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Primals" title="Primals">Primals</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Genesaur" title="Genesaur">Genesaur</a></li><li><a href="https://wowpedia.fandom.com/wiki/Draenor_ancient" title="Draenor ancient">Draenor ancient</a></li><li><a href="https://wowpedia.fandom.com/wiki/Botani" title="Botani">Botani</a></li><li><a href="https://wowpedia.fandom.com/wiki/Podling" title="Podling">Podling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Arakkoa" title="Arakkoa">Arakkoa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saberon" title="Saberon">Saberon</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh") natives | 
+| [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh") natives |
 
 <table><tbody><tr><th scope="row"><strong>Ethereal</strong></th><td><div><ul><li><strong>Ethereal</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Ethereal#Nexus-stalkers" title="Ethereal">Nexus-stalker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Void_ethereal" title="Void ethereal">Void ethereal</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")  
-natives | 
+| [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")
+natives |
 
 -   [Attendant](https://wowpedia.fandom.com/wiki/Attendant "Attendant")
 -   [Automa](https://wowpedia.fandom.com/wiki/Automa "Automa")
@@ -299,8 +299,8 @@ natives |
 
  |
 |  |
-| Inhabitants of the  
-[Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") | 
+| Inhabitants of the
+[Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") |
 
 -   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
 -   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
@@ -325,13 +325,13 @@ natives |
 
  |
 |  |
-| [Void](https://wowpedia.fandom.com/wiki/Void "Void") | 
+| [Void](https://wowpedia.fandom.com/wiki/Void "Void") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lords</a> and <a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old Gods</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lord</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old God</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aqir" title="Aqir">Aqir</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mantid" title="Mantid">Mantid</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Kunchong" title="Kunchong">Kunchong</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian" title="Nerubian">Nerubian</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spiderlord" title="Nerubian spiderlord">Spiderlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji" title="Qiraji">Qiraji</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_battleguard" title="Qiraji battleguard">Battleguard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_emperor" title="Qiraji emperor">Emperor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_gladiator" title="Qiraji gladiator">Gladiator</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_prophet" title="Qiraji prophet">Prophet</a></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/N%27raqi" title="N'raqi">N'raqi</a><ul><li><a href="https://wowpedia.fandom.com/wiki/C%27Thrax" title="C'Thrax">C'Thrax</a></li><li><a href="https://wowpedia.fandom.com/wiki/K%27thir" title="K'thir">K'thir</a></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_revenant" title="Void revenant">Void revenant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwalker" title="Voidwalker">Voidwalker</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Voidcaller" title="Voidcaller">Voidcaller</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidlord" title="Voidlord">Voidlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwraith" title="Voidwraith">Voidwraith</a></li></ul></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Interstellar travelers | 
+| Interstellar travelers |
 
 -   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
 -   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") ([Void god](https://wowpedia.fandom.com/wiki/Void_god "Void god"))
@@ -343,7 +343,7 @@ natives |
 
  |
 |  |
-| Extinct | 
+| Extinct |
 
 [Aldrachi](https://wowpedia.fandom.com/wiki/Aldrachi "Aldrachi")
 
@@ -351,7 +351,7 @@ natives |
 
  |
 |  |
-| 
+|
 
 -   This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
 

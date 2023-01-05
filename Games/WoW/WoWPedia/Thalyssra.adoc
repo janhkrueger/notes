@@ -5,12 +5,12 @@
 | Gender | Female |
 | Race | [Nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") (Humanoid) |
 | Class | [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage") |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")  
-[Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
-| Affiliation(s) | [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)"), [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde]
+xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
+| Affiliation(s) | [Kingdom of Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)"), [The Nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen_(faction) "Nightfallen (faction)"), [Duskwatch](https://wowpedia.fandom.com/wiki/Duskwatch "Duskwatch"), xref:Horde.adoc[Horde], [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") |
 | Former affiliation(s) | [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire") |
-| Occupation | Leader of the Nightborne,  
-Leader of the Dusk Lily,  
+| Occupation | Leader of the Nightborne,
+Leader of the Dusk Lily,
 [Innkeeper](https://wowpedia.fandom.com/wiki/Innkeeper "Innkeeper") (Shal'Aran), [Arcanist](https://wowpedia.fandom.com/wiki/Arcanist "Arcanist"), Representative of Suramar on the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") |
 | Former occupation(s) | Advisor to [Elisande](https://wowpedia.fandom.com/wiki/Elisande "Elisande") |
 | Location | [Various](https://wowpedia.fandom.com/wiki/Thalyssra#Locations) |
@@ -22,7 +22,7 @@ Leader of the Dusk Lily,
 
 — Thalyssra to [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron")<sup id="cite_ref-A_Moment_in_Verse_4-0"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-A_Moment_in_Verse-4">[4]</a></sup>
 
-**First Arcanist Thalyssra** is the leader of the [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"). Formerly a close advisor of [Grand Magistrix Elisande](https://wowpedia.fandom.com/wiki/Elisande "Elisande"), Thalyssra opposed the alliance with the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during their [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Betrayed by [Advisor Melandrus](https://wowpedia.fandom.com/wiki/Advisor_Melandrus "Advisor Melandrus") during an attempted _[coup d'état](http://en.wikipedia.org/wiki/coup_d%27%C3%A9tat "wikipedia:coup d'état")_ and exiled to the wilds, becoming a [nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen "Nightfallen"), Thalyssra joined with the "outlanders" from the floating city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and led the [rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion") that toppled Elisande and freed Suramar from the Legion. Having established cordial relations with the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") of [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"), Thalyssra eventually swore Suramar's allegiance to the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), seeking to reclaim her people's place in Azeroth.
+**First Arcanist Thalyssra** is the leader of the [nightborne](https://wowpedia.fandom.com/wiki/Nightborne "Nightborne") of [Suramar](https://wowpedia.fandom.com/wiki/Suramar "Suramar"). Formerly a close advisor of [Grand Magistrix Elisande](https://wowpedia.fandom.com/wiki/Elisande "Elisande"), Thalyssra opposed the alliance with the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") during their [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion") of xref:Azeroth.adoc[Azeroth]. Betrayed by [Advisor Melandrus](https://wowpedia.fandom.com/wiki/Advisor_Melandrus "Advisor Melandrus") during an attempted _[coup d'état](http://en.wikipedia.org/wiki/coup_d%27%C3%A9tat "wikipedia:coup d'état")_ and exiled to the wilds, becoming a [nightfallen](https://wowpedia.fandom.com/wiki/Nightfallen "Nightfallen"), Thalyssra joined with the "outlanders" from the floating city of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and led the [rebellion](https://wowpedia.fandom.com/wiki/Nightfallen_rebellion "Nightfallen rebellion") that toppled Elisande and freed Suramar from the Legion. Having established cordial relations with the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") of [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"), Thalyssra eventually swore Suramar's allegiance to the xref:Horde.adoc[Horde], seeking to reclaim her people's place in Azeroth.
 
 Thalyssra led the nightborne through the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), where her faith in [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") wavered; noting the similarities between her and Elisande. She ultimately stood in rebellion against Windrunner alongside [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"), whose advice she had come to trust. As such, as leader of Suramar, Thalyssra came to be seated on the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") as the nightborne representative.
 
@@ -66,7 +66,7 @@ Sending her new ally to complete her original objective of finding Arcanist Kel'
 
 Later, as the resistance gathered strength, the arcan'dor needed a powerful influx of more arcane energy than even the leyline feeds across Suramar could provide. First Arcanist Thalyssra, along with [Arluin](https://wowpedia.fandom.com/wiki/Arluin "Arluin") and the adventurer, infiltrated [the Arcway](https://wowpedia.fandom.com/wiki/The_Arcway "The Arcway") to create a manastorm that could give the magical tree the one-time boost of energy that it needed, an effort that cost Arluin his life. Along with Oculeth and Valtrois, Thalyssra was the first to eat the first fruit of the fully grown arcan'dor, which cured her addiction to the Nightwell,<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-21">[21]</a></sup> and after some time, she recovered from her nightfallen state and returned to the healthy appearance of a normal nightborne.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-22">[22]</a></sup>
 
-Thalyssra and her resistance eventually prepared to attack Suramar City itself. They were aided in this endeavor by [elven](https://wowpedia.fandom.com/wiki/Elven "Elven") forces from the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), led by [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") (a native daughter of Suramar City) and [Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin"), who arrived in force to besiege the city. Tyrande remembered that Thalyssra's people hid under Suramar's shield during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") and was cautious if she would betray them and become a ruler like [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara") or Elisande, but still agreed to help them fight the Legion. Liadrin was more sympathetic to the Nightfallen, drawing parallels to her own people's addiction to magic and Legion-twisted [leader](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") years before.
+Thalyssra and her resistance eventually prepared to attack Suramar City itself. They were aided in this endeavor by [elven](https://wowpedia.fandom.com/wiki/Elven "Elven") forces from the xref:Alliance.adoc[Alliance] and the xref:Horde.adoc[Horde], led by [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") (a native daughter of Suramar City) and [Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin"), who arrived in force to besiege the city. Tyrande remembered that Thalyssra's people hid under Suramar's shield during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") and was cautious if she would betray them and become a ruler like [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara") or Elisande, but still agreed to help them fight the Legion. Liadrin was more sympathetic to the Nightfallen, drawing parallels to her own people's addiction to magic and Legion-twisted [leader](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") years before.
 
 Thalyssra is the heroes' main navigator inside the Nighthold raid, providing information and exposition similar to [Lorewalker Cho](https://wowpedia.fandom.com/wiki/Lorewalker_Cho "Lorewalker Cho") in [Mogu'shan Vaults](https://wowpedia.fandom.com/wiki/Mogu%27shan_Vaults "Mogu'shan Vaults"), [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") in [Hellfire Citadel](https://wowpedia.fandom.com/wiki/Hellfire_Citadel_(alternate_universe) "Hellfire Citadel (alternate universe)"), and [Malfurion](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage") in the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare_(instance) "Emerald Nightmare (instance)").
 
@@ -80,15 +80,15 @@ Thalysra and Liadrin at Thalyssra's Estate.
 
 Thalyssra, now the ruler of Suramar and its people, has relocated to the Nighthold. Since the joint elven effort to oust the Burning Legion, Thalyssra has maintained good relations with the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") through her positive interactions with [Lady Liadrin](https://wowpedia.fandom.com/wiki/Lady_Liadrin "Lady Liadrin"), and from this has established an alliance between Suramar and [Silvermoon](https://wowpedia.fandom.com/wiki/Silvermoon "Silvermoon"). Liadrin's Horde allies can be seen assisting in Suramar's rebuilding efforts.
 
-When [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") summoned the Horde's leaders to seek out new allies, Liadrin suggested the nightborne; Sylvanas, intrigued by what Suramar's strength and resources could bring to the Horde, approved. Liadrin and the Horde champion then travel to Thalyssra's estate to offer the first arcanist a formal invitation to [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City") on behalf of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")' ruler, [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"). While there, Liadrin and Thalyssra discuss the advantages of membership in the Horde. One of several pertinent factors for Thalyssra is to ensure her people enjoy the freedom to affect the world while upholding their traditions, which she feels is not offered by the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"). Thalyssra further reflects on her comparatively sour relations with [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") and the [kaldorei](https://wowpedia.fandom.com/wiki/Kaldorei "Kaldorei"), who while natural allies to her people on the surface, proved otherwise due to "arrogance and mistrust." The first arcanist conjures a brief reenactment of her exchange with Tyrande during the events leading up to the siege of Suramar to illustrate such, and then readily accepts the invitation to Silvermoon and hopes to inquire about a place for the nightborne in the Horde.
+When [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") summoned the Horde's leaders to seek out new allies, Liadrin suggested the nightborne; Sylvanas, intrigued by what Suramar's strength and resources could bring to the Horde, approved. Liadrin and the Horde champion then travel to Thalyssra's estate to offer the first arcanist a formal invitation to [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City") on behalf of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas")' ruler, [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron"). While there, Liadrin and Thalyssra discuss the advantages of membership in the Horde. One of several pertinent factors for Thalyssra is to ensure her people enjoy the freedom to affect the world while upholding their traditions, which she feels is not offered by the xref:Alliance.adoc[Alliance]. Thalyssra further reflects on her comparatively sour relations with [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind") and the [kaldorei](https://wowpedia.fandom.com/wiki/Kaldorei "Kaldorei"), who while natural allies to her people on the surface, proved otherwise due to "arrogance and mistrust." The first arcanist conjures a brief reenactment of her exchange with Tyrande during the events leading up to the siege of Suramar to illustrate such, and then readily accepts the invitation to Silvermoon and hopes to inquire about a place for the nightborne in the Horde.
 
 Accompanied by Valtrois and Silgryn, Thalyssra meets the regent lord of Quel'Thalas in his palace; she and Lor'themar quickly take to one another, each insisting that friends call one another by their first names. Lor'themar then leads the nightborne retinue to the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"), and Thalyssra observes its properties, contrasting it to the [Nightwell](https://wowpedia.fandom.com/wiki/Nightwell "Nightwell"). During the visit, Lor'themar's other guest, [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner"), inadvertently draws a group of [void](https://wowpedia.fandom.com/wiki/Void "Void") beasts to the Sunwell, who overwhelm the plateau's guardians and attempt to corrupt it. Thalyssra, Valtrois, and Silgryn join the battle, and the first arcanist adds her magical strength to that of Alleria and [Rommath](https://wowpedia.fandom.com/wiki/Rommath "Rommath") to close a huge rift portal looming above the Sunwell.
 
-In the battle's aftermath, Thalyssra, impressed by the regent's dedication to his people and seeing that the Horde has allowed the sin'dorei to uphold their own ancient traditions, formally pledges the allegiance of [Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") to the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-24">[24]</a></sup><sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-25">[25]</a></sup><sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-26">[26]</a></sup> Feeling Suramar's new alliance with the Horde offered them a fresh start, Thalyssra sent [nightborne adventurers](https://wowpedia.fandom.com/wiki/Nightborne_(playable) "Nightborne (playable)") to meet with [Ambassador Blackguard](https://wowpedia.fandom.com/wiki/Ambassador_Blackguard "Ambassador Blackguard") at the [Orgrimmar Embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy") in [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") and encouraged them to fight to defend [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and claim a place for the shal'dorei within it.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-27">[27]</a></sup> After said adventurers showed the will and courage the nightborne possess, the First Arcanist called them back home to Suramar to honor them [with a symbol of Suramar's gratitude](https://wowpedia.fandom.com/wiki/Heritage_of_the_Shal%27dorei "Heritage of the Shal'dorei").<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-28">[28]</a></sup>
+In the battle's aftermath, Thalyssra, impressed by the regent's dedication to his people and seeing that the Horde has allowed the sin'dorei to uphold their own ancient traditions, formally pledges the allegiance of [Suramar](https://wowpedia.fandom.com/wiki/Suramar_(kingdom) "Suramar (kingdom)") to the xref:Horde.adoc[Horde].<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-24">[24]</a></sup><sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-25">[25]</a></sup><sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-26">[26]</a></sup> Feeling Suramar's new alliance with the Horde offered them a fresh start, Thalyssra sent [nightborne adventurers](https://wowpedia.fandom.com/wiki/Nightborne_(playable) "Nightborne (playable)") to meet with [Ambassador Blackguard](https://wowpedia.fandom.com/wiki/Ambassador_Blackguard "Ambassador Blackguard") at the [Orgrimmar Embassy](https://wowpedia.fandom.com/wiki/Orgrimmar_Embassy "Orgrimmar Embassy") in [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") and encouraged them to fight to defend xref:Azeroth.adoc[Azeroth] and claim a place for the shal'dorei within it.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-27">[27]</a></sup> After said adventurers showed the will and courage the nightborne possess, the First Arcanist called them back home to Suramar to honor them [with a symbol of Suramar's gratitude](https://wowpedia.fandom.com/wiki/Heritage_of_the_Shal%27dorei "Heritage of the Shal'dorei").<sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-28">[28]</a></sup>
 
 ### Battle for Azeroth
 
-Thalyssra was part of the Horde's strike team to free [Princess Talanji](https://wowpedia.fandom.com/wiki/Princess_Talanji "Princess Talanji") and [Zul](https://wowpedia.fandom.com/wiki/Zul "Zul") of the [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari "Zandalari") from the [Stormwind Stockade](https://wowpedia.fandom.com/wiki/Stormwind_Stockade "Stormwind Stockade"). While on the mission they also encountered [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), who had recently been captured at the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"). While Varok refused to go with them, they did accomplish their mission to free Zul and Talanji before fleeing the city.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-29">[29]</a></sup> Upon arriving in [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar") the Horde began trying to earn the Zandalari's trust, and Thalyssra opened a portal to call in [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") and Oculeth, who then set up portals to the [other](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") [Horde](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") [cities](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"). Believing that the newly elected [Speaker of the Horde](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") was on the right track to gaining the trust of the [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire"), Thalyssra departed from [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor") in order to attend to her other duties.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-30">[30]</a></sup>
+Thalyssra was part of the Horde's strike team to free [Princess Talanji](https://wowpedia.fandom.com/wiki/Princess_Talanji "Princess Talanji") and [Zul](https://wowpedia.fandom.com/wiki/Zul "Zul") of the xref:Zandalari.adoc[Zandalari] from the [Stormwind Stockade](https://wowpedia.fandom.com/wiki/Stormwind_Stockade "Stormwind Stockade"). While on the mission they also encountered [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), who had recently been captured at the [Battle for Lordaeron](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron"). While Varok refused to go with them, they did accomplish their mission to free Zul and Talanji before fleeing the city.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-29">[29]</a></sup> Upon arriving in [Zuldazar](https://wowpedia.fandom.com/wiki/Zuldazar "Zuldazar") the Horde began trying to earn the Zandalari's trust, and Thalyssra opened a portal to call in [Baine Bloodhoof](https://wowpedia.fandom.com/wiki/Baine_Bloodhoof "Baine Bloodhoof") and Oculeth, who then set up portals to the [other](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") [Horde](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff") [cities](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City"). Believing that the newly elected [Speaker of the Horde](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") was on the right track to gaining the trust of the [Zandalari Empire](https://wowpedia.fandom.com/wiki/Zandalari_Empire "Zandalari Empire"), Thalyssra departed from [Dazar'alor](https://wowpedia.fandom.com/wiki/Dazar%27alor "Dazar'alor") in order to attend to her other duties.<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-30">[30]</a></sup>
 
 Thalyssra attended Talanji's coronation.<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-31">[31]</a></sup>
 
@@ -130,13 +130,13 @@ Believing that there was a time for war and pace, Thalyssra thought it best for 
 
 ### A Moment in Verse
 
-Thalyssra personally greeted Lor'themar when he arrived to [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") where they competed with each other in a friendly poetry contest. She found Lor'themar's poem [The Adder](https://wowpedia.fandom.com/wiki/The_Adder "The Adder") to be marvelously done and recognized that it was about [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s betrayal of the blood elven people. Meanwhile, Lor'themar was so moved by Thalyssra's poem [Spirit of the Moment](https://wowpedia.fandom.com/wiki/Spirit_of_the_Moment "Spirit of the Moment") that he found himself standing in applause. Following their friendly competition, the pair conversed. During the conversation, Lor'themar admitted the recent events had made his thoughts linger on the past, and on Kael'thas's betrayal in particular. For her part, Thalyssra asked if he was truly healing from the wounds or merely simply reopening the wounds because they are his. As they reflected on things, they grew closer together only to be interrupted by a messenger revealing that Lor'themar was requested to return to [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"). After Lor'themar ordered the messenger to depart, he and Thalyssra shared a kiss.<sup id="cite_ref-A_Moment_in_Verse_4-1"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-A_Moment_in_Verse-4">[4]</a></sup>
+Thalyssra personally greeted Lor'themar when he arrived to [Suramar City](https://wowpedia.fandom.com/wiki/Suramar_City "Suramar City") where they competed with each other in a friendly poetry contest. She found Lor'themar's poem [The Adder](https://wowpedia.fandom.com/wiki/The_Adder "The Adder") to be marvelously done and recognized that it was about [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s betrayal of the blood elven people. Meanwhile, Lor'themar was so moved by Thalyssra's poem [Spirit of the Moment](https://wowpedia.fandom.com/wiki/Spirit_of_the_Moment "Spirit of the Moment") that he found himself standing in applause. Following their friendly competition, the pair conversed. During the conversation, Lor'themar admitted the recent events had made his thoughts linger on the past, and on Kael'thas's betrayal in particular. For her part, Thalyssra asked if he was truly healing from the wounds or merely simply reopening the wounds because they are his. As they reflected on things, they grew closer together only to be interrupted by a messenger revealing that Lor'themar was requested to return to xref:Orgrimmar.adoc[Orgrimmar]. After Lor'themar ordered the messenger to depart, he and Thalyssra shared a kiss.<sup id="cite_ref-A_Moment_in_Verse_4-1"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-A_Moment_in_Verse-4">[4]</a></sup>
 
 ### Shadows Rising
 
 In light of [Queen Talanji](https://wowpedia.fandom.com/wiki/Queen_Talanji "Queen Talanji")'s call for the Horde to respond to the Zandalari [wounds](https://wowpedia.fandom.com/wiki/Battle_of_Dazar%27alor_(battle) "Battle of Dazar'alor (battle)") during a [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council") meeting, Thalyssra pointed that acting rashly could threaten the armistice. After the failed assassination attempt on Talanji, the [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari_troll "Zandalari troll") queen and a key ally, Thalyssra and the rest of the Horde leaders were forced into action. They empowered the young [troll](https://wowpedia.fandom.com/wiki/Jungle_troll "Jungle troll") [shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman") [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan"), still grieving the loss of [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), with a critical mission to aid Talanji and help uncover the rising threat against her.
 
-Upon learning that the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") was aware of the [unrest](https://wowpedia.fandom.com/wiki/Widow%27s_Bite "Widow's Bite") in [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), their belief that Talanji was working with Sylvanas, and that they had requested to speak with the council, another meeting was held. The meeting concluded with the council voting for [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw") to meet [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), to which Thalyssra personally teleported the pair to the meeting site. Sometime after, Thalyssra used her teleportation skills to bring the Horde army to Zandalar to help Talanji and the Zandalari against the [Widow's Bite](https://wowpedia.fandom.com/wiki/Widow%27s_Bite "Widow's Bite") and the [Banshee loyalists](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") assaulting [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi") at [his Necropolis](https://wowpedia.fandom.com/wiki/Necropolis_(Nazmir) "Necropolis (Nazmir)"). She personally fought in the conflict and joined the victory celebration afterward.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-60">[60]</a></sup>
+Upon learning that the xref:Alliance.adoc[Alliance] was aware of the [unrest](https://wowpedia.fandom.com/wiki/Widow%27s_Bite "Widow's Bite") in [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar"), their belief that Talanji was working with Sylvanas, and that they had requested to speak with the council, another meeting was held. The meeting concluded with the council voting for [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") and [Ji Firepaw](https://wowpedia.fandom.com/wiki/Ji_Firepaw "Ji Firepaw") to meet [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") and [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), to which Thalyssra personally teleported the pair to the meeting site. Sometime after, Thalyssra used her teleportation skills to bring the Horde army to Zandalar to help Talanji and the Zandalari against the [Widow's Bite](https://wowpedia.fandom.com/wiki/Widow%27s_Bite "Widow's Bite") and the [Banshee loyalists](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists") assaulting [Bwonsamdi](https://wowpedia.fandom.com/wiki/Bwonsamdi "Bwonsamdi") at [his Necropolis](https://wowpedia.fandom.com/wiki/Necropolis_(Nazmir) "Necropolis (Nazmir)"). She personally fought in the conflict and joined the victory celebration afterward.<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-60">[60]</a></sup>
 
 ### Shadowlands
 
@@ -146,7 +146,7 @@ Upon learning that the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "All
 
 Lor'themar and Thalyssra at Sylvanas' trial.
 
-Thalyssra was among the Horde leaders to convene with the leaders of the Alliance and [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") at the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") within [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel"). While desiring to rescue her comrades Thalyssra knew that she couldn't risk the stability of the Horde and send their fellow leaders on what might well be a suicide mission. In light of [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")'s hostility when [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") encouraged the Alliance to do the same, she prepared herself for battle but stood down when Bolvar called for it.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-61">[61]</a></sup> She then witnessed the ritual to open the doorway to the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw") and watched as [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of Azeroth, the [Knights of the Ebon Blade](https://wowpedia.fandom.com/wiki/Knights_of_the_Ebon_Blade "Knights of the Ebon Blade"), and even Tyrande Whisperwind enter to rescue their comrades and seek out Sylvanas.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-62">[62]</a></sup> Thalyssra subsequently departed from [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown").
+Thalyssra was among the Horde leaders to convene with the leaders of the Alliance and [Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Bolvar_Fordragon "Bolvar Fordragon") at the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne") within [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel"). While desiring to rescue her comrades Thalyssra knew that she couldn't risk the stability of the Horde and send their fellow leaders on what might well be a suicide mission. In light of [Tyrande Whisperwind](https://wowpedia.fandom.com/wiki/Tyrande_Whisperwind "Tyrande Whisperwind")'s hostility when [Lor'themar Theron](https://wowpedia.fandom.com/wiki/Lor%27themar_Theron "Lor'themar Theron") encouraged the Alliance to do the same, she prepared herself for battle but stood down when Bolvar called for it.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-61">[61]</a></sup> She then witnessed the ritual to open the doorway to the [Maw](https://wowpedia.fandom.com/wiki/Maw "Maw") and watched as [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") of Azeroth, the xref:KnightsOfTheEbonBlade.adoc[Knights of the Ebon Blade], and even Tyrande Whisperwind enter to rescue their comrades and seek out Sylvanas.<sup id="cite_ref-62"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-62">[62]</a></sup> Thalyssra subsequently departed from [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown").
 
 Following the defeat of [the Jailer](https://wowpedia.fandom.com/wiki/Zovaal "Zovaal"), Thalyssra and Lor'themar briefly traveled to [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos") in the [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands") to attend Sylvanas' trial.<sup id="cite_ref-63"><a href="https://wowpedia.fandom.com/wiki/Thalyssra#cite_note-63">[63]</a></sup>
 
@@ -177,12 +177,12 @@ Some after the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "H
 
 [![Icon-search-48x48.png](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest/scale-to-width-down/22?cb=20070126023057)](https://static.wikia.nocookie.net/wowpedia/images/d/da/Icon-search-48x48.png/revision/latest?cb=20070126023057) This section contains information that needs to be [cleaned up](https://wowpedia.fandom.com/wiki/Category:Articles_to_clean_up "Category:Articles to clean up"). Reason: **sort by location and order**
 
-![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._
 
 -   Insurrection
-    
+
 -   Allied races
-    
+
 
 ## Abilities
 
@@ -331,16 +331,16 @@ There is a time for war, and there is a time for peace. For now, it is important
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/51/Thalyssra_ToS.jpg/revision/latest/scale-to-width-down/120?cb=20160708183245)](https://static.wikia.nocookie.net/wowpedia/images/5/51/Thalyssra_ToS.jpg/revision/latest?cb=20160708183245)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Warchief_of_the_Horde_-_Lor%27themar_and_Thalyssra.jpg/revision/latest/scale-to-width-down/120?cb=20200702164856)](https://static.wikia.nocookie.net/wowpedia/images/0/0a/Warchief_of_the_Horde_-_Lor%27themar_and_Thalyssra.jpg/revision/latest?cb=20200702164856)
-    
+
     Thalyssra conversing with Lor'themar after the formation of the [Horde Council](https://wowpedia.fandom.com/wiki/Horde_Council "Horde Council").
-    
+
 
 Fan art
 
 -   [![Thalyssra Full Portrait by Noah Warner.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/de/Thalyssra_Full_Portrait_by_Noah_Warner.jpg/revision/latest/scale-to-width-down/106?cb=20181021104406)](https://static.wikia.nocookie.net/wowpedia/images/d/de/Thalyssra_Full_Portrait_by_Noah_Warner.jpg/revision/latest?cb=20181021104406)
-    
+
 
 ## Videos
 
@@ -359,24 +359,24 @@ Fan art
 
 | Thalyssra | Suramar generic name | Nazjatar generic name |
 | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/search?q=Thalyssra#npcs)
 -   [WoWDB](https://www.wowdb.com/search?search=Thalyssra#t1:npcs)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=115277)
 -   [WoWDB](https://www.wowdb.com/npcs/115277)
 
- | 
+ |
 
 |  |  |
 | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/npc=155137)
 -   [WoWDB](https://www.wowdb.com/npcs/155137)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=154581)
 -   [WoWDB](https://www.wowdb.com/npcs/154581)
@@ -389,14 +389,14 @@ Fan art
 -   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
 -   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
 
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") xref:Horde.adoc[Horde]
 
 
 
  |
 | --- |
 |  |
-| 
+|
 
 | Expand 
 Leadership
@@ -406,7 +406,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 | Expand 
 Characters
@@ -416,7 +416,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 | Expand 
 Races
@@ -426,7 +426,7 @@ Races
 
  |
 |  |
-| 
+|
 
 | Expand 
 Cities and towns
@@ -436,7 +436,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 | Expand 
 [Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
@@ -448,7 +448,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
 -   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")

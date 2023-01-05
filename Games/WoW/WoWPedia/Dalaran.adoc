@@ -7,28 +7,28 @@ Dalaran in Northrend
 
  |
 | Type | Capital city |
-| Races | [![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
-[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
-[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
-[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
-[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")  
-[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
-[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")  
-[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Worgen_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520012351)](https://wowpedia.fandom.com/wiki/Worgen "Worgen")[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Worgen_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520022309)](https://wowpedia.fandom.com/wiki/Worgen "Worgen") [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")  
-[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
-[![Troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Troll "Troll")[![Troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Troll "Troll") [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")  
-[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
-[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
-[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")  
-[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/6/69/IconSmall_Pandaren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015751)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Pandaren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020747)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")  
+| Races | [![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
+[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/6e/IconSmall_Worgen_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520012351)](https://wowpedia.fandom.com/wiki/Worgen "Worgen")[![Worgen](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Worgen_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520022309)](https://wowpedia.fandom.com/wiki/Worgen "Worgen") [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
+[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+[![Troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Troll "Troll")[![Troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Troll "Troll") [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
+[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/6/69/IconSmall_Pandaren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518015751)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")[![Pandaren](https://static.wikia.nocookie.net/wowpedia/images/5/52/IconSmall_Pandaren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518020747)](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren") xref:Pandaren.adoc[Pandaren]
 [![Ethereal](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest/scale-to-width-down/16?cb=20211118202836)](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") [Ethereal](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") |
 | Government | [Magocracy](https://wowpedia.fandom.com/wiki/Magocracy "Magocracy")<sup id="cite_ref-Magocracy_1-0"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-Magocracy-1">[1]</a></sup> |
 | Ruler(s) | [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") |
 | Languages | [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)"), [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian "Thalassian"), Various languages |
 | Faiths | [Holy Light](https://wowpedia.fandom.com/wiki/Light "Light"), Various |
-| Affiliation | [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers"), [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Affiliation | xref:KirinTor.adoc[Kirin Tor], [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), xref:Alliance.adoc[Alliance], [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers"), xref:Horde.adoc[Horde] |
 | Former affiliation(s) | [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance"), [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
-| Location | [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles")  
+| Location | [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles")
 [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest") |
 | PvP status | [Sanctuary](https://wowpedia.fandom.com/wiki/Sanctuary "Sanctuary") |
 
@@ -38,7 +38,7 @@ Dalaran city at Broken Shore.
 
 **Dalaran** (or the **City of Dalaran** and **Dalaran City**, pronounced DAHL-uh-RAWN)<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-2">[2]</a></sup> is the capital of the [magocratic](https://wowpedia.fandom.com/wiki/Magocracy "Magocracy") [nation of the same name](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"). The [city's inner fortress](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") has served as the focal point for [magi](https://wowpedia.fandom.com/wiki/Mage "Mage") and the study of the [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") throughout [human](https://wowpedia.fandom.com/wiki/Human "Human") history.
 
-Originally located by the [Lordamere Lake](https://wowpedia.fandom.com/wiki/Lordamere_Lake "Lordamere Lake") in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), the city was magically moved to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") by the power of its magic. They fought both against the [Dragon Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect") [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos")'s crusade to eradicate the use of magic on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), and the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") forces of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-World_of_Warcraft:_Mage_3-0"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-World_of_Warcraft:_Mage-3">[3]</a></sup> Dalaran would later be set in motion and fly high above the seas, as seen during the [Purge](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran"). During the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"), Dalaran was moved to [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"), and then teleported to the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") in order to serve as a focal point in the fight against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s invasion.
+Originally located by the [Lordamere Lake](https://wowpedia.fandom.com/wiki/Lordamere_Lake "Lordamere Lake") in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), the city was magically moved to xref:Northrend.adoc[Northrend] by the power of its magic. They fought both against the [Dragon Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspect "Dragon Aspect") [Malygos](https://wowpedia.fandom.com/wiki/Malygos "Malygos")'s crusade to eradicate the use of magic on xref:Azeroth.adoc[Azeroth], and the [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") forces of the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King").<sup id="cite_ref-World_of_Warcraft:_Mage_3-0"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-World_of_Warcraft:_Mage-3">[3]</a></sup> Dalaran would later be set in motion and fly high above the seas, as seen during the [Purge](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran"). During the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion], Dalaran was moved to xref:Karazhan.adoc[Karazhan], and then teleported to the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") in order to serve as a focal point in the fight against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s invasion.
 
 ## History
 
@@ -50,7 +50,7 @@ _Main article: [Dalaran (kingdom)#History](https://wowpedia.fandom.com/wiki/Dala
 
 [![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") **This section concerns content related to the original _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.**
 
-Before _Wrath of the Lich King_, Dalaran was "hidden" behind a magic dome in the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains") region. In truth, the area behind the dome was empty. After the second expansion, the area was replaced with the [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater") since the city had then been added in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend").
+Before _Wrath of the Lich King_, Dalaran was "hidden" behind a magic dome in the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains") region. In truth, the area behind the dome was empty. After the second expansion, the area was replaced with the [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater") since the city had then been added in xref:Northrend.adoc[Northrend].
 
 ### Wrath of the Lich King
 
@@ -60,7 +60,7 @@ Dalaran as seen in _[Journey Trailer](https://wowpedia.fandom.com/wiki/Journey_T
 
 The city contains areas that are faction-specific in the same manner as Shattrath City is divided amongst the [Aldor](https://wowpedia.fandom.com/wiki/Aldor "Aldor") and [Scryers](https://wowpedia.fandom.com/wiki/Scryers "Scryers"). Certain parts of the city can only be reached by Alliance players ([Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave")) while others are strictly for Horde use ([Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary")). The majority of the city remains neutral.
 
-It acts as the neutral [sanctuary](https://wowpedia.fandom.com/wiki/Sanctuary "Sanctuary") city for the continent, similar to [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City") in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), and can be accessed via the [teleport crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Dalaran_Crystal "Teleport to Dalaran Crystal") in [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand"), [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest"), north of the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight"), or through a flight path. [Portals](https://wowpedia.fandom.com/wiki/Portal "Portal") are located within the Alliance and Horde districts of the city, connecting to the factions' [capital cities](https://wowpedia.fandom.com/wiki/Capital_city "Capital city") and Shattrath City. There is a portal trainer at the [Violet Gate](https://wowpedia.fandom.com/wiki/Violet_Gate "Violet Gate"), and there are battlemasters and an arena master in the [Underbelly](https://wowpedia.fandom.com/wiki/Underbelly "Underbelly") sewer system. Like [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind")'s [Stockade](https://wowpedia.fandom.com/wiki/Stormwind_Stockade "Stormwind Stockade") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")'s [Ragefire Chasm](https://wowpedia.fandom.com/wiki/Ragefire_Chasm "Ragefire Chasm"), Dalaran has its own instance within the city: the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold_(instance) "Violet Hold (instance)").
+It acts as the neutral [sanctuary](https://wowpedia.fandom.com/wiki/Sanctuary "Sanctuary") city for the continent, similar to [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City") in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), and can be accessed via the [teleport crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Dalaran_Crystal "Teleport to Dalaran Crystal") in [Violet Stand](https://wowpedia.fandom.com/wiki/Violet_Stand "Violet Stand"), [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest"), north of the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight"), or through a flight path. [Portals](https://wowpedia.fandom.com/wiki/Portal "Portal") are located within the Alliance and Horde districts of the city, connecting to the factions' [capital cities](https://wowpedia.fandom.com/wiki/Capital_city "Capital city") and Shattrath City. There is a portal trainer at the [Violet Gate](https://wowpedia.fandom.com/wiki/Violet_Gate "Violet Gate"), and there are battlemasters and an arena master in the [Underbelly](https://wowpedia.fandom.com/wiki/Underbelly "Underbelly") sewer system. Like [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind")'s [Stockade](https://wowpedia.fandom.com/wiki/Stormwind_Stockade "Stormwind Stockade") and xref:Orgrimmar.adoc[Orgrimmar]'s [Ragefire Chasm](https://wowpedia.fandom.com/wiki/Ragefire_Chasm "Ragefire Chasm"), Dalaran has its own instance within the city: the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold_(instance) "Violet Hold (instance)").
 
 Like Shattrath City, there were originally no class trainers - with the notable exception of [mage trainers](https://wowpedia.fandom.com/wiki/Mage_trainer "Mage trainer"), given the city's history - nor an Auction House ([patch 3.2.0](https://wowpedia.fandom.com/wiki/Patch_3.2.0 "Patch 3.2.0") introduced an Auction House for [Master](https://wowpedia.fandom.com/wiki/Master "Master") [Engineers](https://wowpedia.fandom.com/wiki/Engineer "Engineer") with the addition of Steam Powered Auctioneers to the [Like Clockwork](https://wowpedia.fandom.com/wiki/Like_Clockwork "Like Clockwork") engineering shop, while [patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") made the auctioneers usable by everyone and added class trainers). [Grand Master](https://wowpedia.fandom.com/wiki/Grand_Master "Grand Master") trainers for each profession are available in the city.
 
@@ -70,7 +70,7 @@ In-game, the city of Dalaran was originally a [no-fly zone](https://wowpedia.fan
 
 [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
 
-The portals to the Alliance and Horde major cities were removed in [patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") and replaced by class trainers.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-4">[4]</a></sup> However, the portals to [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") were restored in [patch 4.1.0](https://wowpedia.fandom.com/wiki/Patch_4.1.0 "Patch 4.1.0"). The formerly engineering-only auctioneers — [Steam-Powered Auctioneer](https://wowpedia.fandom.com/wiki/Brassbolt_Mechawrench "Brassbolt Mechawrench") in [Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave") and [Steam-Powered Auctioneer](https://wowpedia.fandom.com/wiki/Reginald_Arcfire "Reginald Arcfire") in [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary") — now serve anyone and flying is now allowed.
+The portals to the Alliance and Horde major cities were removed in [patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a") and replaced by class trainers.<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-4">[4]</a></sup> However, the portals to [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") and xref:Orgrimmar.adoc[Orgrimmar] were restored in [patch 4.1.0](https://wowpedia.fandom.com/wiki/Patch_4.1.0 "Patch 4.1.0"). The formerly engineering-only auctioneers — [Steam-Powered Auctioneer](https://wowpedia.fandom.com/wiki/Brassbolt_Mechawrench "Brassbolt Mechawrench") in [Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave") and [Steam-Powered Auctioneer](https://wowpedia.fandom.com/wiki/Reginald_Arcfire "Reginald Arcfire") in [Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary") — now serve anyone and flying is now allowed.
 
 For information about getting out of Dalaran and getting around the Old World without the portals to the major cities, [Cataclysm travel guide](https://wowpedia.fandom.com/wiki/Cataclysm_travel_guide "Cataclysm travel guide") will prove useful. Note that, while it has been explained that Outland and Northrend take place within the time frame their storylines occurred in, the [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater") in the old world remains empty.
 
@@ -109,9 +109,9 @@ Map of Dalaran.
 Map of the Underbelly.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a9/WorldMap-Dalaran703.jpg/revision/latest/scale-to-width-down/120?cb=20180908211825)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/WorldMap-Dalaran703.jpg/revision/latest?cb=20180908211825)
-    
+
     Map of the Chamber of the Guardian.
-    
+
 
 ### Lore locations
 
@@ -140,16 +140,16 @@ _Main article: [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six 
 
 ###  [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") Getting to Dalaran in Northrend
 
-Dalaran is located in the north central region of the continent of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), floating above the western side of [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest"). [Ships](https://wowpedia.fandom.com/wiki/Boats "Boats")<sup id="cite_ref-CataGuide_16-0"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup> and [zeppelins](https://wowpedia.fandom.com/wiki/Zeppelin "Zeppelin")<sup id="cite_ref-CataGuide_16-1"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup> departing from [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"), [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar"), [Menethil Harbor](https://wowpedia.fandom.com/wiki/Menethil_Harbor "Menethil Harbor") and the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") provide access to Northrend from [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") and the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms").
+Dalaran is located in the north central region of the continent of xref:Northrend.adoc[Northrend], floating above the western side of [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest"). [Ships](https://wowpedia.fandom.com/wiki/Boats "Boats")<sup id="cite_ref-CataGuide_16-0"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup> and [zeppelins](https://wowpedia.fandom.com/wiki/Zeppelin "Zeppelin")<sup id="cite_ref-CataGuide_16-1"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup> departing from [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"), xref:Orgrimmar.adoc[Orgrimmar], [Menethil Harbor](https://wowpedia.fandom.com/wiki/Menethil_Harbor "Menethil Harbor") and the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") provide access to Northrend from [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") and the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms").
 
-Once you are in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), there are a number of ways<sup id="cite_ref-CataGuide_16-2"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup> to reach Dalaran:
+Once you are in xref:Northrend.adoc[Northrend], there are a number of ways<sup id="cite_ref-CataGuide_16-2"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup> to reach Dalaran:
 
-Dalaran specific methods from within [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+Dalaran specific methods from within xref:Northrend.adoc[Northrend]
 
 -   As of [patch 4.0.3](https://wowpedia.fandom.com/wiki/Patch_4.0.3 "Patch 4.0.3"), the flight master at [Krasus' Landing](https://wowpedia.fandom.com/wiki/Krasus%27_Landing "Krasus' Landing") in Dalaran is learned automatically by all characters. Any character can simply take a [ship](https://wowpedia.fandom.com/wiki/Boats "Boats") or [zeppelin](https://wowpedia.fandom.com/wiki/Zeppelin "Zeppelin") to [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") or [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord"), talk to the flight master near the dock, and take a [taxi](https://wowpedia.fandom.com/wiki/Flight_Path "Flight Path") to Dalaran.<sup id="cite_ref-CataGuide_16-3"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup>
 -   At level 68 any character can learn  ![](https://static.wikia.nocookie.net/wowpedia/images/e/e8/Spell_frost_arcticwinds.png/revision/latest/scale-to-width-down/16?cb=20070113165553)[\[Cold Weather Flying\]](https://wowpedia.fandom.com/wiki/Cold_Weather_Flying) and fly to Dalaran with a flying mount.
 -   At level 68 a set of crystals, ([Teleport to Violet Stand Crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Violet_Stand_Crystal "Teleport to Violet Stand Crystal") and [Teleport to Dalaran Crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Dalaran_Crystal "Teleport to Dalaran Crystal")), can be used. The [Teleport to Violet Stand Crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Violet_Stand_Crystal "Teleport to Violet Stand Crystal") must be used first by doing  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-30\] [Learning to Leave and Return: the Magical Way](https://wowpedia.fandom.com/wiki/Learning_to_Leave_and_Return:_the_Magical_Way) from [Portal Trainer](https://wowpedia.fandom.com/wiki/Archmage_Celindra "Archmage Celindra"), so you must first reach Dalaran via another method. Note that the completion of these quests will render  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-30\] [The Magical Kingdom of Dalaran](https://wowpedia.fandom.com/wiki/The_Magical_Kingdom_of_Dalaran) unavailable, so it is a good idea to _not_ complete these quests until you have acquired one of the [Kirin Tor rings](https://wowpedia.fandom.com/wiki/Kirin_Tor_rings "Kirin Tor rings") or an  ![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Inv_shirt_guildtabard_01.png/revision/latest/scale-to-width-down/16?cb=20070111180221)[\[Argent Crusader's Tabard\]](https://wowpedia.fandom.com/wiki/Argent_Crusader%27s_Tabard).
--   At level 74 any character can get  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-30\] [The Magical Kingdom of Dalaran](https://wowpedia.fandom.com/wiki/The_Magical_Kingdom_of_Dalaran) from any of several members of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). This provides a portal to Dalaran until you complete the quest. As with the quest above, it is best not to complete this quest until you have one of the [Kirin Tor rings](https://wowpedia.fandom.com/wiki/Kirin_Tor_rings "Kirin Tor rings") or an  ![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Inv_shirt_guildtabard_01.png/revision/latest/scale-to-width-down/16?cb=20070111180221)[\[Argent Crusader's Tabard\]](https://wowpedia.fandom.com/wiki/Argent_Crusader%27s_Tabard). If you don't complete it, you can use the portal to travel quickly from the ship or zeppelin port in [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") or [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") (or several other locations in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")) to Dalaran, allowing you to keep your hearthstone in your faction capital or some other useful location.<sup id="cite_ref-CataGuide_16-4"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup>
+-   At level 74 any character can get  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-30\] [The Magical Kingdom of Dalaran](https://wowpedia.fandom.com/wiki/The_Magical_Kingdom_of_Dalaran) from any of several members of the xref:KirinTor.adoc[Kirin Tor]. This provides a portal to Dalaran until you complete the quest. As with the quest above, it is best not to complete this quest until you have one of the [Kirin Tor rings](https://wowpedia.fandom.com/wiki/Kirin_Tor_rings "Kirin Tor rings") or an  ![](https://static.wikia.nocookie.net/wowpedia/images/7/74/Inv_shirt_guildtabard_01.png/revision/latest/scale-to-width-down/16?cb=20070111180221)[\[Argent Crusader's Tabard\]](https://wowpedia.fandom.com/wiki/Argent_Crusader%27s_Tabard). If you don't complete it, you can use the portal to travel quickly from the ship or zeppelin port in [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") or [Howling Fjord](https://wowpedia.fandom.com/wiki/Howling_Fjord "Howling Fjord") (or several other locations in xref:Northrend.adoc[Northrend]) to Dalaran, allowing you to keep your hearthstone in your faction capital or some other useful location.<sup id="cite_ref-CataGuide_16-4"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-CataGuide-16">[16]</a></sup>
 -   At level 71 mages can talk to NPCs in [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") and learn to teleport to Dalaran after completing   ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) ![Mage](https://static.wikia.nocookie.net/wowpedia/images/5/56/Ui-charactercreate-classes_mage.png/revision/latest/scale-to-width-down/16?cb=20070124144715 "Mage") \[10-30\] [Attunement to Dalaran](https://wowpedia.fandom.com/wiki/Attunement_to_Dalaran).
 -   At level 80, if your faction has won the previous [Wintergrasp](https://wowpedia.fandom.com/wiki/Wintergrasp "Wintergrasp") battle, you can take the [Wintergrasp](https://wowpedia.fandom.com/wiki/Wintergrasp "Wintergrasp") portal to the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"). The portal is inside the Wintergrasp Fortress.
     -   A separate guide, [Getting to Wintergrasp and Dalaran](https://wowpedia.fandom.com/wiki/Getting_to_Wintergrasp_and_Dalaran "Getting to Wintergrasp and Dalaran"), provides a few ways to get to Wintergrasp.
@@ -163,7 +163,7 @@ Dalaran specific methods from anywhere
 
 Non-Dalaran specific methods
 
--   Once in Dalaran, players can set a Dalaran inn as their home, which enables them to teleport there with their  ![](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Inv_misc_rune_01.png/revision/latest/scale-to-width-down/16?cb=20091028041736)[\[Hearthstone\]](https://wowpedia.fandom.com/wiki/Hearthstone).
+-   Once in Dalaran, players can set a Dalaran inn as their home, which enables them to teleport there with their  xref:Hearthstone.adoc[Hearthstone].
 -   A [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") in Dalaran can summon players to Dalaran, with 2 others in Dalaran in the same group.
 -   Players whose accounts are linked via [Recruit-A-Friend](https://wowpedia.fandom.com/wiki/Recruit-A-Friend "Recruit-A-Friend") can summon one another to Dalaran. The players must be in the same group.
 -   Portals to Dalaran exist at the [Orgrimmar](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den") and [Stormwind](https://wowpedia.fandom.com/wiki/Wizard%27s_Sanctum "Wizard's Sanctum") portal rooms.
@@ -172,9 +172,9 @@ Non-Dalaran specific methods
 
 All players arrive in Dalaran over the Broken Isles on the quest  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[10-45\] [In the Blink of an Eye](https://wowpedia.fandom.com/wiki/In_the_Blink_of_an_Eye) and receive a  ![](https://static.wikia.nocookie.net/wowpedia/images/f/f2/Inv_misc_rune_15.png/revision/latest/scale-to-width-down/16?cb=20160612122242)[\[Dalaran Hearthstone\]](https://wowpedia.fandom.com/wiki/Dalaran_Hearthstone), allowing them to teleport to Dalaran once every 20 minutes.
 
-In addition, every [Class Hall](https://wowpedia.fandom.com/wiki/Class_Hall "Class Hall") has a portal to Dalaran. There are also portals in [Stormwind Keep](https://wowpedia.fandom.com/wiki/Stormwind_Keep "Stormwind Keep") in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and the [Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow") in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") — the same portals previously used to get to Dalaran over Karazhan for  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-45\] [Calling of the Council](https://wowpedia.fandom.com/wiki/Calling_of_the_Council).
+In addition, every [Class Hall](https://wowpedia.fandom.com/wiki/Class_Hall "Class Hall") has a portal to Dalaran. There are also portals in [Stormwind Keep](https://wowpedia.fandom.com/wiki/Stormwind_Keep "Stormwind Keep") in [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and the [Cleft of Shadow](https://wowpedia.fandom.com/wiki/Cleft_of_Shadow "Cleft of Shadow") in xref:Orgrimmar.adoc[Orgrimmar] — the same portals previously used to get to Dalaran over Karazhan for  ![B](https://static.wikia.nocookie.net/wowpedia/images/9/97/Both_15.png/revision/latest?cb=20110622074025) \[10-45\] [Calling of the Council](https://wowpedia.fandom.com/wiki/Calling_of_the_Council).
 
-Finally, at level 110, mages can learn a portal to Dalaran over the Broken Isles from a portal trainer, allowing them to teleport other players there. And like its Northrend version, Dalaran over the Broken Isles has [innkeepers](https://wowpedia.fandom.com/wiki/Innkeeper "Innkeeper") who allow players to set their regular  ![](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Inv_misc_rune_01.png/revision/latest/scale-to-width-down/16?cb=20091028041736)[\[Hearthstone\]](https://wowpedia.fandom.com/wiki/Hearthstone) there.
+Finally, at level 110, mages can learn a portal to Dalaran over the Broken Isles from a portal trainer, allowing them to teleport other players there. And like its Northrend version, Dalaran over the Broken Isles has [innkeepers](https://wowpedia.fandom.com/wiki/Innkeeper "Innkeeper") who allow players to set their regular  xref:Hearthstone.adoc[Hearthstone] there.
 
 ## Leaving Dalaran
 
@@ -213,11 +213,11 @@ Non-Dalaran specific methods
 When _Wrath of the Lich King_ went live, Dalaran supplanted [Shattrath City](https://wowpedia.fandom.com/wiki/Shattrath_City "Shattrath City") as the major hub for player activity, due to easy access to the capital cities in the southern continents, to Outland via Shattrath, and to the high level content in Northrend. Those portals were removed in [patch 4.0.3a](https://wowpedia.fandom.com/wiki/Patch_4.0.3a "Patch 4.0.3a"), however portals to Orgrimmar and Stormwind City were added in [patch 4.1.0](https://wowpedia.fandom.com/wiki/Patch_4.1.0 "Patch 4.1.0").
 
 -   -   **[The Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave")**
-    
+
     |
-    
+
     -   **[Sunreaver's Sanctuary](https://wowpedia.fandom.com/wiki/Sunreaver%27s_Sanctuary "Sunreaver's Sanctuary")**
-    
+
     |
     -   **[The Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel")**
 
@@ -305,7 +305,7 @@ An early layout concept by [Cory Stockton](https://wowpedia.fandom.com/wiki/Cory
 -   The _[Ultimate Visual Guides](https://wowpedia.fandom.com/wiki/Ultimate_Visual_Guide "Ultimate Visual Guide")_ erroneously described Dalaran as "formerly ruled" by a magocracy.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-24">[24]</a></sup> However, while the [Magocrat Lords](https://wowpedia.fandom.com/wiki/Magocrats "Magocrats") are defunct, the Council of Six still rules it as of _Legion_, and it has been confirmed that Dalaran is thus still a magocracy.<sup id="cite_ref-Magocracy_1-1"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-Magocracy-1">[1]</a></sup>
 -   Dalaran is a melee [tileset](https://wowpedia.fandom.com/wiki/Tileset "Tileset") in _[The Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne "Warcraft III: The Frozen Throne")_.
 -   Like the [World's End Tavern](https://wowpedia.fandom.com/wiki/World%27s_End_Tavern "World's End Tavern") in the [Lower City](https://wowpedia.fandom.com/wiki/Lower_City "Lower City") of Shattrath, Dalaran has a portal to [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time") for quick access to southern Kalimdor. This portal is located in the second floor of the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel"). Also, a player can talk to [Zidormi](https://wowpedia.fandom.com/wiki/Zidormi "Zidormi"), a NPC standing in front of the portal to also teleport to the Caverns of Time.
--   When night falls, [Windle Sparkshine](https://wowpedia.fandom.com/wiki/Windle_Sparkshine "Windle Sparkshine") will light most of the lamps in Dalaran, then stand outside the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") section of Dalaran, and will sell  ![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Inv_wand_02.png/revision/latest/scale-to-width-down/16?cb=20060923071631)[\[Windle's Lighter\]](https://wowpedia.fandom.com/wiki/Windle%27s_Lighter) for 50 Silver.
+-   When night falls, [Windle Sparkshine](https://wowpedia.fandom.com/wiki/Windle_Sparkshine "Windle Sparkshine") will light most of the lamps in Dalaran, then stand outside the xref:Alliance.adoc[Alliance] section of Dalaran, and will sell  ![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/Inv_wand_02.png/revision/latest/scale-to-width-down/16?cb=20060923071631)[\[Windle's Lighter\]](https://wowpedia.fandom.com/wiki/Windle%27s_Lighter) for 50 Silver.
 -   The [Schools of Arcane Magic](https://wowpedia.fandom.com/wiki/The_Schools_of_Arcane_Magic "The Schools of Arcane Magic") achievement is completed in the city.
 -   Strangely, in-game there is no "old gate" on the side of the land mass and the other halves of the houses in Alterac Mountains aren't there either.
 -   While in Dalaran, you may randomly get [Manabonked](https://wowpedia.fandom.com/wiki/The_Mischief_Maker "The Mischief Maker") by [Minigob Manabonk](https://wowpedia.fandom.com/wiki/Minigob_Manabonk "Minigob Manabonk").
@@ -313,90 +313,90 @@ An early layout concept by [Cory Stockton](https://wowpedia.fandom.com/wiki/Cory
 -   Compared to other major cities, Dalaran has very many activities. Examples include /Pet'ing [Jones](https://wowpedia.fandom.com/wiki/Jones "Jones"), [lighting up the city](https://wowpedia.fandom.com/wiki/Windle%27s_Lighter "Windle's Lighter"), [hunting books](https://wowpedia.fandom.com/wiki/Kirin_Tor_Familiar "Kirin Tor Familiar") and [fishing](https://wowpedia.fandom.com/wiki/Fishing "Fishing") for [treasures](https://wowpedia.fandom.com/wiki/Giant_Sewer_Rat "Giant Sewer Rat").
 -   A group of [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") [engineers](https://wowpedia.fandom.com/wiki/Engineer "Engineer") helped build Dalaran's original defenses. These engineers later ended up as [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") in [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider")'s [army](https://wowpedia.fandom.com/wiki/Sunfury "Sunfury").<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-25">[25]</a></sup>
 -   The city is protected by defensive shields based on Antonidas' earlier version magical field who destroyed any undead that touched it during the Third War.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-26">[26]</a></sup>
--   Dalaran is smaller than the other major cities in the game. At the same time, it has a large number of NPC's, doodads, and objects. This accumulates a high amount of players at a small area, along with causing a player's computer to load several city details at once. Back in the day of _WotLK_, the result was often a mediocre to a large degree of [lag](https://wowpedia.fandom.com/wiki/Lag "Lag") when the player was inside the city. The lag experienced within Dalaran was a very common topic within World of Warcraft; some players even dubbed the city "Lagaran" because of it. It was not uncommon for a character in Dalaran to be unable to perform any action at all, use abnormally much time on simple actions such as walking, or be even repeatedly disconnected when attempting to log in if the character was located in the city. The problem was severe enough that Blizzard had to implement the [Argent Tournament](https://wowpedia.fandom.com/wiki/Argent_Tournament "Argent Tournament") in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") away from Dalaran, rather than in [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest") directly underneath it as originally planned. The amount of lag lessened in _Cataclysm_ with the removal of most city portals, and with most players moving to their faction capitals ([Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")).
+-   Dalaran is smaller than the other major cities in the game. At the same time, it has a large number of NPC's, doodads, and objects. This accumulates a high amount of players at a small area, along with causing a player's computer to load several city details at once. Back in the day of _WotLK_, the result was often a mediocre to a large degree of [lag](https://wowpedia.fandom.com/wiki/Lag "Lag") when the player was inside the city. The lag experienced within Dalaran was a very common topic within World of Warcraft; some players even dubbed the city "Lagaran" because of it. It was not uncommon for a character in Dalaran to be unable to perform any action at all, use abnormally much time on simple actions such as walking, or be even repeatedly disconnected when attempting to log in if the character was located in the city. The problem was severe enough that Blizzard had to implement the [Argent Tournament](https://wowpedia.fandom.com/wiki/Argent_Tournament "Argent Tournament") in [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown") away from Dalaran, rather than in [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest") directly underneath it as originally planned. The amount of lag lessened in _Cataclysm_ with the removal of most city portals, and with most players moving to their faction capitals ([Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City") and xref:Orgrimmar.adoc[Orgrimmar]).
 -   In an interview with Jesse Cox, [Dave Kosak](https://wowpedia.fandom.com/wiki/Dave_Kosak "Dave Kosak") revealed that Dalaran was planned to be in the air above the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar_(instance) "Siege of Orgrimmar (instance)"), but technical limitations meant they had to scrap the idea. It is possible this is related to the limitations which prevented the [Argent Tournament](https://wowpedia.fandom.com/wiki/Argent_Tournament "Argent Tournament") from being placed in Crystalsong Forest.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_note-27">[27]</a></sup>
--   Since [patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3"), there are five separate Dalarans in the game (not counting [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater")), each reflecting a different time in the city's history: in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), as an instance during the [Operation: Shieldwall](https://wowpedia.fandom.com/wiki/Operation:_Shieldwall "Operation: Shieldwall")/[Dominance Offensive](https://wowpedia.fandom.com/wiki/Dominance_Offensive "Dominance Offensive") storyline, over Karazhan (phasing in after the [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore")), and with _Legion_, the most recent version over the Broken Isles, as well as an instanced copy with no NPCs that can be seen from the balcony of the [Hall of the Guardian](https://wowpedia.fandom.com/wiki/Hall_of_the_Guardian "Hall of the Guardian").
+-   Since [patch 7.0.3](https://wowpedia.fandom.com/wiki/Patch_7.0.3 "Patch 7.0.3"), there are five separate Dalarans in the game (not counting [Dalaran Crater](https://wowpedia.fandom.com/wiki/Dalaran_Crater "Dalaran Crater")), each reflecting a different time in the city's history: in xref:Northrend.adoc[Northrend], as an instance during the [Operation: Shieldwall](https://wowpedia.fandom.com/wiki/Operation:_Shieldwall "Operation: Shieldwall")/[Dominance Offensive](https://wowpedia.fandom.com/wiki/Dominance_Offensive "Dominance Offensive") storyline, over Karazhan (phasing in after the [Battle for the Broken Shore](https://wowpedia.fandom.com/wiki/Battle_for_the_Broken_Shore "Battle for the Broken Shore")), and with _Legion_, the most recent version over the Broken Isles, as well as an instanced copy with no NPCs that can be seen from the balcony of the [Hall of the Guardian](https://wowpedia.fandom.com/wiki/Hall_of_the_Guardian "Hall of the Guardian").
 -   Dalaran can be seen in the [End Time](https://wowpedia.fandom.com/wiki/End_Time "End Time") dungeon, but not in the [Dragon Soul](https://wowpedia.fandom.com/wiki/Dragon_Soul "Dragon Soul") raid.
 -   The decision to have Dalaran as the Legion sanctuary has created mixed results among players, with some wondering why the Horde would want to return after the [Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran") and others feeling that Dalaran has left the Alliance and become neutral.
 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Dalaran_Concept_Art_Peter_Lee_1.jpg/revision/latest/scale-to-width-down/358?cb=20100813112610)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Dalaran_Concept_Art_Peter_Lee_1.jpg/revision/latest?cb=20100813112610)
-    
+
     Early concept art of the city of Dalaran.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Dalaran_Concept_Art_Peter_Lee_2.jpg/revision/latest/scale-to-width-down/316?cb=20110407230359)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Dalaran_Concept_Art_Peter_Lee_2.jpg/revision/latest?cb=20110407230359)
-    
+
     Concept art of Dalaran.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Dalaran_City_concept.jpg/revision/latest/scale-to-width-down/371?cb=20221102180158)](https://static.wikia.nocookie.net/wowpedia/images/9/9e/Dalaran_City_concept.jpg/revision/latest?cb=20221102180158)
-    
+
     Concept art of Dalaran.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Dalaran_concept.jpg/revision/latest/scale-to-width-down/190?cb=20081120124842)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Dalaran_concept.jpg/revision/latest?cb=20081120124842)
-    
+
     Concept art of Dalaran.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dc/Dar3.jpg/revision/latest/scale-to-width-down/240?cb=20080722163635)](https://static.wikia.nocookie.net/wowpedia/images/d/dc/Dar3.jpg/revision/latest?cb=20080722163635)
-    
+
     Dalaran in-game.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/53/Dar7.jpg/revision/latest/scale-to-width-down/240?cb=20080722163807)](https://static.wikia.nocookie.net/wowpedia/images/5/53/Dar7.jpg/revision/latest?cb=20080722163807)
-    
+
     Dalaran in-game.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/33/Violet_Hold.jpg/revision/latest/scale-to-width-down/320?cb=20200509175836)](https://static.wikia.nocookie.net/wowpedia/images/3/33/Violet_Hold.jpg/revision/latest?cb=20200509175836)
-    
+
     The Violet Hold.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/03/Dar5.jpg/revision/latest/scale-to-width-down/240?cb=20080722164421)](https://static.wikia.nocookie.net/wowpedia/images/0/03/Dar5.jpg/revision/latest?cb=20080722164421)
-    
+
     Dalaran in-game.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Dalaran_Northrend.jpg/revision/latest/scale-to-width-down/240?cb=20080808132932)](https://static.wikia.nocookie.net/wowpedia/images/4/40/Dalaran_Northrend.jpg/revision/latest?cb=20080808132932)
-    
+
     Dalaran in-game.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Dalaran_from_Icecrown.jpg/revision/latest/scale-to-width-down/288?cb=20081011085738)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Dalaran_from_Icecrown.jpg/revision/latest?cb=20081011085738)
-    
+
     A full view of Dalaran from the air in Icecrown.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Underbelly_tunnel_out_end.jpg/revision/latest/scale-to-width-down/267?cb=20080818004222)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Underbelly_tunnel_out_end.jpg/revision/latest?cb=20080818004222)
-    
+
     A [Pipe](https://wowpedia.fandom.com/wiki/Sewer_Exit_Pipe "Sewer Exit Pipe") opening underneath to the Underbelly.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Dalaran.jpg/revision/latest/scale-to-width-down/240?cb=20061116121506)](https://static.wikia.nocookie.net/wowpedia/images/1/1e/Dalaran.jpg/revision/latest?cb=20061116121506)
-    
+
     The Dalaran dome which "contained" the city before _Wrath of the Lich King_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Eye_of_Dalaran_symbol.jpg/revision/latest/scale-to-width-down/225?cb=20110106210141)](https://static.wikia.nocookie.net/wowpedia/images/4/42/Eye_of_Dalaran_symbol.jpg/revision/latest?cb=20110106210141)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/09/Dalaran_-_Legion_Invasion.jpg/revision/latest/scale-to-width-down/307?cb=20160820163329)](https://static.wikia.nocookie.net/wowpedia/images/0/09/Dalaran_-_Legion_Invasion.jpg/revision/latest?cb=20160820163329)
-    
+
     Dalaran attacked by the [Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Dalaran_-_Center_Spire.jpg/revision/latest/scale-to-width-down/320?cb=20180406042321)](https://static.wikia.nocookie.net/wowpedia/images/e/e7/Dalaran_-_Center_Spire.jpg/revision/latest?cb=20180406042321)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Azeroth_sky_-_Argus.jpg/revision/latest/scale-to-width-down/320?cb=20220423120022)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Azeroth_sky_-_Argus.jpg/revision/latest?cb=20220423120022)
-    
+
     With Argus.
-    
+
 
 Maps
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/34/WorldMap-DalaranCity.jpg/revision/latest/scale-to-width-down/270?cb=20121231055223)](https://static.wikia.nocookie.net/wowpedia/images/3/34/WorldMap-DalaranCity.jpg/revision/latest?cb=20121231055223)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cb/WorldMap-MicroDungeon-DeadwindPass-Dalaran.jpg/revision/latest/scale-to-width-down/270?cb=20190628104921)](https://static.wikia.nocookie.net/wowpedia/images/c/cb/WorldMap-MicroDungeon-DeadwindPass-Dalaran.jpg/revision/latest?cb=20190628104921)
-    
+
 
 ### Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/51/Fanart_-_The_Golden_Days_of_Dalaran_by_Lost_In_Concept.jpg/revision/latest/scale-to-width-down/120?cb=20181223212042)](https://static.wikia.nocookie.net/wowpedia/images/5/51/Fanart_-_The_Golden_Days_of_Dalaran_by_Lost_In_Concept.jpg/revision/latest?cb=20181223212042)
-    
+
     The Golden Days of Dalaran by Lost-In-Concept.
-    
+
 
 ## Patch changes
 
@@ -421,7 +421,7 @@ Maps
 13.  [^](https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-Shadow_of_the_Sun_13-0) _[In the Shadow of the Sun](https://wowpedia.fandom.com/wiki/In_the_Shadow_of_the_Sun "In the Shadow of the Sun")_
 14.  [^](https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-14) [Tides of War](https://wowpedia.fandom.com/wiki/Tides_of_War "Tides of War")
 15.  [^](https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-DotD_15-0) _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_
-16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-4">e</a></sup> The [Cataclysm travel guide](https://wowpedia.fandom.com/wiki/Cataclysm_travel_guide "Cataclysm travel guide") provides more information on the ship and zeppelin routes to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), item and quest portals to Dalaran, and suggests ways higher level players can shorten travel times between Dalaran and their faction capitals.
+16.  ^ <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-0">a</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-1">b</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-2">c</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-3">d</a></sup> <sup><a href="https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-CataGuide_16-4">e</a></sup> The [Cataclysm travel guide](https://wowpedia.fandom.com/wiki/Cataclysm_travel_guide "Cataclysm travel guide") provides more information on the ship and zeppelin routes to xref:Northrend.adoc[Northrend], item and quest portals to Dalaran, and suggests ways higher level players can shorten travel times between Dalaran and their faction capitals.
 17.  [^](https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-17) [Mumper on Twitter](https://twitter.com/mumper/status/439280468664410112)
 18.  [^](https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-18) [Archive of the Tirisgarde#Ebonchill, Greatstaff of Alodi](https://wowpedia.fandom.com/wiki/Archive_of_the_Tirisgarde#Ebonchill,_Greatstaff_of_Alodi "Archive of the Tirisgarde")
 19.  [^](https://wowpedia.fandom.com/wiki/Dalaran#cite_ref-19) [STAY OUT!!!](https://wowpedia.fandom.com/wiki/STAY_OUT!!! "STAY OUT!!!")
@@ -438,16 +438,16 @@ Maps
 
 | Northrend | During the Purge | Broken Isles |
 | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/zone=4395)
 -   [WoWDB](https://www.wowdb.com/zones/4395)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=6611)
 -   [WoWDB](https://www.wowdb.com/zones/6611)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=7502)
 -   [WoWDB](https://www.wowdb.com/zones/7502)
@@ -465,11 +465,11 @@ Maps
  |
 | --- |
 |  |
-| 
+|
 
 [![Map of the Underbelly](https://static.wikia.nocookie.net/wowpedia/images/5/57/WorldMap-Dalaran702.jpg/revision/latest/scale-to-width-down/120?cb=20160717134343)](https://static.wikia.nocookie.net/wowpedia/images/5/57/WorldMap-Dalaran702.jpg/revision/latest?cb=20160717134343 "Map of the Underbelly")
 
- | 
+ |
 
 -   [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial")
 -   [The Bank of Dalaran](https://wowpedia.fandom.com/wiki/Bank_of_Dalaran "Bank of Dalaran")
@@ -524,14 +524,14 @@ Maps
 
 
 
- | 
+ |
 
-[![Map of Dalaran](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest/scale-to-width-down/120?cb=20160717134357)](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest?cb=20160717134357 "Map of Dalaran")  
+[![Map of Dalaran](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest/scale-to-width-down/120?cb=20160717134357)](https://static.wikia.nocookie.net/wowpedia/images/9/98/WorldMap-Dalaran701.jpg/revision/latest?cb=20160717134357 "Map of Dalaran")
 [![Map of the Chamber of the Guardian](https://static.wikia.nocookie.net/wowpedia/images/a/a9/WorldMap-Dalaran703.jpg/revision/latest/scale-to-width-down/120?cb=20180908211825)](https://static.wikia.nocookie.net/wowpedia/images/a/a9/WorldMap-Dalaran703.jpg/revision/latest?cb=20180908211825 "Map of the Chamber of the Guardian")
 
  |
 |  |
-| 
+|
 
 -   [The Underbelly](https://wowpedia.fandom.com/wiki/Underbelly "Underbelly") — [The Black Market](https://wowpedia.fandom.com/wiki/Black_Market_(Dalaran) "Black Market (Dalaran)")
 -   [Circle of Wills](https://wowpedia.fandom.com/wiki/Circle_of_Wills "Circle of Wills")
@@ -542,7 +542,7 @@ Maps
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Dalaran fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain")
 -   [Violet Citadel Balcony](https://wowpedia.fandom.com/wiki/Violet_Citadel_Balcony "Violet Citadel Balcony")
@@ -552,7 +552,7 @@ Maps
 
  |
 |  |
-| 
+|
 
 [Dalaran category](https://wowpedia.fandom.com/wiki/Category:Dalaran "Category:Dalaran")
 
@@ -564,7 +564,7 @@ Maps
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dalaran_(Northrend) "Template:Dalaran (Northrend)")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dalaran_(Northrend)?action=edit)
 
-[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of **Dalaran** over [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of **Dalaran** over xref:Northrend.adoc[Northrend]
 
 
 
@@ -586,7 +586,7 @@ Maps
 -   [v](https://wowpedia.fandom.com/wiki/Template:Northrend "Template:Northrend")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Northrend?action=edit)
 
-[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+[Regions](https://wowpedia.fandom.com/wiki/Zone "Zone") of xref:Northrend.adoc[Northrend]
 
 
 

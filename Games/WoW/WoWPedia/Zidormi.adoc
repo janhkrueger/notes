@@ -3,13 +3,13 @@
 | [![Image of Zidormi](https://static.wikia.nocookie.net/wowpedia/images/6/68/Zidormi.jpg/revision/latest/scale-to-width-down/114?cb=20151210144726)](https://static.wikia.nocookie.net/wowpedia/images/6/68/Zidormi.jpg/revision/latest?cb=20151210144726 "Image of Zidormi") |
 | Gender | Female |
 | Race | [Bronze dragon](https://wowpedia.fandom.com/wiki/Bronze_dragon "Bronze dragon") (Dragonkin) |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
 | Affiliation(s) | [Timewalkers](https://wowpedia.fandom.com/wiki/Timewalkers "Timewalkers"), [Keepers of Time](https://wowpedia.fandom.com/wiki/Keepers_of_Time "Keepers of Time"), [Bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") |
 | Location | [Various](https://wowpedia.fandom.com/wiki/Zidormi#Locations) |
 | Status | Alive |
 | Companion(s) | [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") (dearest friend)<sup id="cite_ref-Visage_Day_1-0"><a href="https://wowpedia.fandom.com/wiki/Zidormi#cite_note-Visage_Day-1">[1]</a></sup> |
 
-**Zidormi** is a [bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") and [Keepers of Time](https://wowpedia.fandom.com/wiki/Keepers_of_Time "Keepers of Time") representative found at various locations around the world. She offers [transportation](https://wowpedia.fandom.com/wiki/Time_Travelling "Time Travelling") back and forth in time and space to [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"). She is the dearest friend of [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu"), as well as a good friend of [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos").<sup id="cite_ref-Visage_Day_1-1"><a href="https://wowpedia.fandom.com/wiki/Zidormi#cite_note-Visage_Day-1">[1]</a></sup>
+**Zidormi** is a [bronze dragonflight](https://wowpedia.fandom.com/wiki/Bronze_dragonflight "Bronze dragonflight") and [Keepers of Time](https://wowpedia.fandom.com/wiki/Keepers_of_Time "Keepers of Time") representative found at various locations around the world. She offers [transportation](https://wowpedia.fandom.com/wiki/Time_Travelling "Time Travelling") back and forth in time and space to [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer"). She is the dearest friend of [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu"), as well as a good friend of xref:Kalecgos.adoc[Kalecgos].<sup id="cite_ref-Visage_Day_1-1"><a href="https://wowpedia.fandom.com/wiki/Zidormi#cite_note-Visage_Day-1">[1]</a></sup>
 
 ## Biography
 
@@ -17,7 +17,7 @@
 
 In the period leading up to his [Visage Day](https://wowpedia.fandom.com/wiki/Visage_Day "Visage Day") ceremony—in which he would decide what his mortal form would be—Zidormi's friend [Chronormu](https://wowpedia.fandom.com/wiki/Chronormu "Chronormu") was plagued by indecision. One morning, less than a fortnight before the ceremony, Zidormi visited Chronormu in his [roost](https://wowpedia.fandom.com/wiki/Dragon_roost "Dragon roost") above the [Dragonblight](https://wowpedia.fandom.com/wiki/Dragonblight "Dragonblight") to ask what form he'd be choosing and was shocked to learn that he'd still not decided. He tried to ask her what she would do in the same situation, to which she replied that she could not choose for him and that her own Visage Day was still several seasons away. Chronormu complained that decisions always came much more easily to Zidormi and that she surely already knew what duties she'd request and what places she would go to. Zidormi comforted her friend and advised him to seek the counsel of their master [Nozdormu](https://wowpedia.fandom.com/wiki/Nozdormu "Nozdormu").
 
-Later, after Nozdormu had advised Chronormu to learn how other dragons had decided on their mortal forms, Zidormi arranged for a meeting between Chronormu and another one of her friends, [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") of the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight"). This meeting was ultimately instrumental in Chronormu's choice of visage.
+Later, after Nozdormu had advised Chronormu to learn how other dragons had decided on their mortal forms, Zidormi arranged for a meeting between Chronormu and another one of her friends, xref:Kalecgos.adoc[Kalecgos] of the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight"). This meeting was ultimately instrumental in Chronormu's choice of visage.
 
 When the Visage Day arrived, Zidormi arrived early to [Wyrmrest Temple](https://wowpedia.fandom.com/wiki/Wyrmrest_Temple "Wyrmrest Temple")—where the ceremony would be held—and did her best to settle her friend's nerves. After it was revealed that Chronormu had chosen the form of the female [gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome") Chromie, Zidormi was the first to embrace her.<sup id="cite_ref-Visage_Day_1-2"><a href="https://wowpedia.fandom.com/wiki/Zidormi#cite_note-Visage_Day-1">[1]</a></sup>
 
@@ -49,7 +49,7 @@ She is also found in [Ramkahen](https://wowpedia.fandom.com/wiki/Ramkahen "Ramka
 
 ## Locations
 
-![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._
 
 | Notable appearances |
 | --- |
@@ -254,7 +254,7 @@ Are you ready to leave this place?
 
 ## External links
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
 
@@ -265,7 +265,7 @@ Are you ready to leave this place?
  |
 | --- |
 |  |
-| Primary dragon types | 
+| Primary dragon types |
 
 -   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
 -   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
@@ -277,7 +277,7 @@ Are you ready to leave this place?
 
  |
 |  |
-| Other dragon types | 
+| Other dragon types |
 
 -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
 -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
@@ -292,13 +292,13 @@ Are you ready to leave this place?
 
  |
 |  |
-| Bronze Dragonflight | 
+| Bronze Dragonflight |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><div><p><a href="https://wowpedia.fandom.com/wiki/Nozdormu" title="Nozdormu">Nozdormu the Timeless One</a> - Lord of Time</p></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Known_members" title="Bronze dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Anachronos" title="Anachronos">Anachronos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Andormu" title="Andormu">Andormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chronormu" title="Chronormu">Chronormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nozari" title="Nozari">Nozari</a></li><li><a href="https://wowpedia.fandom.com/wiki/Soridormi" title="Soridormi">Soridormi</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Caverns_of_Time" title="Caverns of Time">Caverns of Time</a> (Home)</li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_Dragonshrine" title="Bronze Dragonshrine">Bronze Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scarab_Wall" title="Scarab Wall">Scarab Wall</a></li><li><a href="https://wowpedia.fandom.com/wiki/Staghelm_Point" title="Staghelm Point">Staghelm Point</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tanaris" title="Tanaris">Tanaris</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bronze_whelp" title="Bronze whelp">Bronze whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drake" title="Bronze drake">Bronze drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragon" title="Bronze dragon">Bronze dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_wyrm" title="Bronze wyrm">Bronze wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_drakonid" title="Bronze drakonid">Bronze drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonspawn" title="Bronze dragonspawn">Bronze dragonspawn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight#Factions" title="Bronze dragonflight">Groups</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Brood_of_Nozdormu" title="Brood of Nozdormu">Brood of Nozdormu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Keepers_of_Time" title="Keepers of Time">Keepers of Time</a></li><li><a href="https://wowpedia.fandom.com/wiki/Scale_of_the_Sands" title="Scale of the Sands">Scale of the Sands</a></li><li><a href="https://wowpedia.fandom.com/wiki/Timewalkers" title="Timewalkers">Timewalkers</a></li><li><a href="https://wowpedia.fandom.com/wiki/Watcher_(bronze_dragonflight)" title="Watcher (bronze dragonflight)">Watchers</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Dragonflights | 
+| Dragonflights |
 
 -   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
 -   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
@@ -311,7 +311,7 @@ Are you ready to leave this place?
 
  |
 |  |
-| Other draconic groups | 
+| Other draconic groups |
 
 -   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
 -   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
@@ -321,7 +321,7 @@ Are you ready to leave this place?
 
  |
 |  |
-| 
+|
 
 -   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
 -   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")

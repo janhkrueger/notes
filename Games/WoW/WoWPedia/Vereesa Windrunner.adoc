@@ -1,32 +1,32 @@
 | [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/25/Alliance_32.png/revision/latest?cb=20110620204931)](https://wowpedia.fandom.com/wiki/Alliance "Alliance")Vereesa Windrunner |
 | --- |
 | [![Image of Vereesa Windrunner](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Vereesa.jpg/revision/latest/scale-to-width-down/115?cb=20110604003121)](https://static.wikia.nocookie.net/wowpedia/images/e/e6/Vereesa.jpg/revision/latest?cb=20110604003121 "Image of Vereesa Windrunner") |
-| Title | Ranger-General of the Silver Covenant,  
+| Title | Ranger-General of the Silver Covenant,
 Alliance Assault Leader |
 | Gender | Female |
 | Race | [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") ([Humanoid](https://wowpedia.fandom.com/wiki/Humanoid "Humanoid")) |
 | Class | [Elven ranger](https://wowpedia.fandom.com/wiki/Elven_ranger "Elven ranger"), [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter") |
 | Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
-| Affiliation(s) | [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") ([Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive")), [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), [Unseen Path](https://wowpedia.fandom.com/wiki/Unseen_Path "Unseen Path") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
+| Affiliation(s) | [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") ([Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive")), [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)"), xref:Alliance.adoc[Alliance], [Unseen Path](https://wowpedia.fandom.com/wiki/Unseen_Path "Unseen Path") |
 | Former affiliation(s) | [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstriders"), [Kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)"), [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
 | Occupation | Leader of the Silver Covenant, Alliance Assault Leader |
 | Former occupation(s) | Ranger of Silvermoon, Ambassador in Lordaeron |
 | Location | [Various](https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#Locations) |
 | Status | Alive |
-| Relative(s) | [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") (husband),  
-[Giramar](https://wowpedia.fandom.com/wiki/Giramar "Giramar") & [Galadin](https://wowpedia.fandom.com/wiki/Galadin "Galadin") (sons),  
-[Lireesa](https://wowpedia.fandom.com/wiki/Lireesa_Windrunner "Lireesa Windrunner") (mother),  
-Verath (father),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-1">[1]</a></sup>  
-[Alleria](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") (sister),  
-[Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") (sister),  
-[Lirath](https://wowpedia.fandom.com/wiki/Lirath_Windrunner "Lirath Windrunner") (brother),  
-[Zendarin](https://wowpedia.fandom.com/wiki/Zendarin_Windrunner "Zendarin Windrunner") (cousin),  
+| Relative(s) | [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") (husband),
+[Giramar](https://wowpedia.fandom.com/wiki/Giramar "Giramar") & [Galadin](https://wowpedia.fandom.com/wiki/Galadin "Galadin") (sons),
+[Lireesa](https://wowpedia.fandom.com/wiki/Lireesa_Windrunner "Lireesa Windrunner") (mother),
+Verath (father),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-1">[1]</a></sup>
+[Alleria](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") (sister),
+[Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") (sister),
+[Lirath](https://wowpedia.fandom.com/wiki/Lirath_Windrunner "Lirath Windrunner") (brother),
+[Zendarin](https://wowpedia.fandom.com/wiki/Zendarin_Windrunner "Zendarin Windrunner") (cousin),
 [Arator](https://wowpedia.fandom.com/wiki/Arator_the_Redeemer "Arator the Redeemer") (nephew) |
 
 **Vereesa Windrunner** is the Ranger-General of the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"). An [elven ranger](https://wowpedia.fandom.com/wiki/Elven_ranger "Elven ranger") who fought throughout the [Second](https://wowpedia.fandom.com/wiki/Second_War "Second War") and [Third Wars](https://wowpedia.fandom.com/wiki/Third_War "Third War"), she is the youngest sister of [Alleria](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") and [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner"), widow of [Archmage Rhonin Redhair](https://wowpedia.fandom.com/wiki/Rhonin_Redhair "Rhonin Redhair"), and mother of [Giramar](https://wowpedia.fandom.com/wiki/Giramar "Giramar") and [Galadin](https://wowpedia.fandom.com/wiki/Galadin "Galadin"). After becoming a ranger, she met Rhonin in an escort mission and together they helped free the Dragon Queen [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") from the [Dragonmaw clan](https://wowpedia.fandom.com/wiki/Dragonmaw_clan "Dragonmaw clan"). Nearly all of Vereesa's [extended family](https://wowpedia.fandom.com/wiki/Windrunner "Windrunner") were killed by [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") in the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War") and in [Prince Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil")'s invasion of [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)").
 
-When Rhonin became leader of the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), Vereesa created and still leads the Silver Covenant, a militant core of [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") that rejected the admission of [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") into the Kirin Tor and who took it upon themselves to serve as a military deterrent for any potential [Sunreaver](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") uprising. She styled herself as the "Ranger General of the Silver Covenant", her own version of the [Ranger General of Silvermoon](https://wowpedia.fandom.com/wiki/Ranger-general_of_Silvermoon "Ranger-general of Silvermoon"). After her husband's death and an act of treason both caused by the blood elves within the Kirin Tor, Vereesa joined [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), who succeeded Rhonin, in the Sunreaver [Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran").
+When Rhonin became leader of the xref:KirinTor.adoc[Kirin Tor], Vereesa created and still leads the Silver Covenant, a militant core of [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") that rejected the admission of [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") into the Kirin Tor and who took it upon themselves to serve as a military deterrent for any potential [Sunreaver](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") uprising. She styled herself as the "Ranger General of the Silver Covenant", her own version of the [Ranger General of Silvermoon](https://wowpedia.fandom.com/wiki/Ranger-general_of_Silvermoon "Ranger-general of Silvermoon"). After her husband's death and an act of treason both caused by the blood elves within the Kirin Tor, Vereesa joined [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), who succeeded Rhonin, in the Sunreaver [Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran").
 
 ## Background
 
@@ -48,7 +48,7 @@ During the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"
 
 Vereesa had a particularly close relationship with Sylvanas, whom she looked up to and tried to emulate her entire life.<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-6">[6]</a></sup>
 
-Before Alleria left through the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") for the [Alliance Expedition](https://wowpedia.fandom.com/wiki/Alliance_Expedition "Alliance Expedition") assault on Draenor, she intended to give Sylvanas and Vereesa each a necklace, which were once part of a larger one given to Alleria by their parents. She had this necklace melted down and crafted into three lockets in [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"). The emerald she kept for herself, and she gave [the sapphire](https://wowpedia.fandom.com/wiki/The_Lady%27s_Necklace "The Lady's Necklace") and the ruby to her second, [Verana](https://wowpedia.fandom.com/wiki/Verana "Verana"), to deliver to her sisters.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-7">[7]</a></sup> Within Vereesa's ruby locket was inscribed, _"To Vereesa. With love, Alleria."_<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-8">[8]</a></sup>
+Before Alleria left through the xref:DarkPortal.adoc[Dark Portal] for the [Alliance Expedition](https://wowpedia.fandom.com/wiki/Alliance_Expedition "Alliance Expedition") assault on Draenor, she intended to give Sylvanas and Vereesa each a necklace, which were once part of a larger one given to Alleria by their parents. She had this necklace melted down and crafted into three lockets in [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"). The emerald she kept for herself, and she gave [the sapphire](https://wowpedia.fandom.com/wiki/The_Lady%27s_Necklace "The Lady's Necklace") and the ruby to her second, [Verana](https://wowpedia.fandom.com/wiki/Verana "Verana"), to deliver to her sisters.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-7">[7]</a></sup> Within Vereesa's ruby locket was inscribed, _"To Vereesa. With love, Alleria."_<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-8">[8]</a></sup>
 
 After Alleria and her husband [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon") vanished on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), Vereesa took in their son [Arator](https://wowpedia.fandom.com/wiki/Arator "Arator").<sup id="cite_ref-Three_Sisters_9-0"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-Three_Sisters-9">[9]</a></sup>
 
@@ -58,7 +58,7 @@ After Alleria and her husband [Turalyon](https://wowpedia.fandom.com/wiki/Turaly
 
 Vereesa in _Day of the Dragon_.
 
-Following in Alleria's footsteps, Vereesa too became a [ranger](https://wowpedia.fandom.com/wiki/Elven_ranger "Elven ranger"). To her disgust, her first major assignment did not involve hunting down the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") that had been trapped on the planet [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") in the wake of the Dark Portal's destruction. Instead, she was asked to escort a human wizard named [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") to [Hasic](https://wowpedia.fandom.com/wiki/Hasic "Hasic"), one of the eastern ports of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). She accomplished her mission only to discover that there were no ships available to take Rhonin to his ultimate destination: [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan").
+Following in Alleria's footsteps, Vereesa too became a [ranger](https://wowpedia.fandom.com/wiki/Elven_ranger "Elven ranger"). To her disgust, her first major assignment did not involve hunting down the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") that had been trapped on the planet xref:Azeroth.adoc[Azeroth] in the wake of the Dark Portal's destruction. Instead, she was asked to escort a human wizard named [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") to [Hasic](https://wowpedia.fandom.com/wiki/Hasic "Hasic"), one of the eastern ports of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"). She accomplished her mission only to discover that there were no ships available to take Rhonin to his ultimate destination: [Khaz Modan](https://wowpedia.fandom.com/wiki/Khaz_Modan "Khaz Modan").
 
 Rhonin claimed that his mission was minor and only required him to observe the orc presence in Khaz Modan. Yet he remained unusually determined to fulfill it. He even appealed to a group of [Wildhammer dwarves](https://wowpedia.fandom.com/wiki/Wildhammer_dwarf "Wildhammer dwarf"), asking them to fly him to Khaz Modan on one of their [gryphons](https://wowpedia.fandom.com/wiki/Gryphon "Gryphon"). At first the dwarves refused, for they trusted humans little and wizards even less. Yet Vereesa had grown fond of Rhonin, and she suspected that his mission was more important than he wanted to admit. Appealing to the dwarves, she persuaded them to fly both her and Rhonin to Khaz Modan. Although Rhonin was separated from her along the flight, she tracked him all the way to [Grim Batol](https://wowpedia.fandom.com/wiki/Grim_Batol "Grim Batol"), which was a Horde stronghold under the leadership of [Nekros Skullcrusher](https://wowpedia.fandom.com/wiki/Nekros_Skullcrusher "Nekros Skullcrusher").
 
@@ -68,7 +68,7 @@ Not long after their adventure, Vereesa and Rhonin were married.
 
 ### War of the Ancients Trilogy
 
-Following the success of the mission, Vereesa was asked to act as an Alliance Ambassador by [King Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") and the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor").<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  She and Rhonin were tasked with touring the Alliance and reminding everyone that there were other threats in the world besides [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") that would have to be faced sooner or later.<sup id="cite_ref-WoE14_10-0"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-WoE14-10">[10]</a></sup> Along with Rhonin and Krasus, Vereesa was among the few well-known survivors of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") that destroyed Lordaeron, [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), and Quel'Thalas after the corruption of [Prince Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). The day that [Thalorien Dawnseeker](https://wowpedia.fandom.com/wiki/Thalorien_Dawnseeker "Thalorien Dawnseeker") and [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider") fell was one of the darkest of her life.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-11">[11]</a></sup>
+Following the success of the mission, Vereesa was asked to act as an Alliance Ambassador by [King Terenas](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II") and the xref:KirinTor.adoc[Kirin Tor].<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup>  She and Rhonin were tasked with touring the Alliance and reminding everyone that there were other threats in the world besides [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") that would have to be faced sooner or later.<sup id="cite_ref-WoE14_10-0"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-WoE14-10">[10]</a></sup> Along with Rhonin and Krasus, Vereesa was among the few well-known survivors of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") that destroyed Lordaeron, [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), and Quel'Thalas after the corruption of [Prince Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"). The day that [Thalorien Dawnseeker](https://wowpedia.fandom.com/wiki/Thalorien_Dawnseeker "Thalorien Dawnseeker") and [Anasterian Sunstrider](https://wowpedia.fandom.com/wiki/Anasterian_Sunstrider "Anasterian Sunstrider") fell was one of the darkest of her life.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-11">[11]</a></sup>
 
 The rest of her family was not so lucky. They were one of the hardest hit by the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invasion into Quel'Thalas.<sup id="cite_ref-WoE16-17_12-0"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-WoE16-17-12">[12]</a></sup> Sylvanas was killed by [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") and raised as a banshee in his service, later becoming Banshee Queen of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken").<sup id="cite_ref-WoE16-17_12-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-WoE16-17-12">[12]</a></sup> The sisters' grandfather had to battle his own son, their uncle, after he was turned into an undead.<sup id="cite_ref-WoE16-17_12-2"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-WoE16-17-12">[12]</a></sup>
 
@@ -90,7 +90,7 @@ Vereesa in the Violet Citadel.
 
 Vereesa is located in the [Violet Citadel](https://wowpedia.fandom.com/wiki/Violet_Citadel "Violet Citadel") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") along with [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), [Archmage Aethas Sunreaver](https://wowpedia.fandom.com/wiki/Archmage_Aethas_Sunreaver "Archmage Aethas Sunreaver"), and [Archmage Modera](https://wowpedia.fandom.com/wiki/Archmage_Modera "Archmage Modera"). She created and is the leader of the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), a militant group of [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") who oppose the inclusion of [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") in the Kirin Tor. She is involved in the [Quel'delar](https://wowpedia.fandom.com/wiki/A_Victory_For_The_Silver_Covenant_(sword) "A Victory For The Silver Covenant (sword)") quest chain: The champions of the Silver Covenant will fight the forces of the Scourge in the Frozen Halls and its Sunreaver counterpart in Dalaran to restore the magical blade [Quel'Delar](https://wowpedia.fandom.com/wiki/Quel%27Delar "Quel'Delar") from its defiled state by the [Blood-Queen Lana'thel](https://wowpedia.fandom.com/wiki/Blood-Queen_Lana%27thel "Blood-Queen Lana'thel"). She appears as part of the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") faction within Dalaran, and is [hostile](https://wowpedia.fandom.com/wiki/Hostile "Hostile") to Horde players as a result. She will not attack, cannot be attacked, and cannot be interacted with.
 
-Ultimately, Vereesa's opposition to the blood elves' readmission to the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") was doomed to failure: Vereesa herself held no political sway within Dalaran, and the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") were able to overcome their opposition into the Kirin Tor.<sup id="cite_ref-ToW_16-0"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-ToW-16">[16]</a></sup>
+Ultimately, Vereesa's opposition to the blood elves' readmission to the xref:KirinTor.adoc[Kirin Tor] was doomed to failure: Vereesa herself held no political sway within Dalaran, and the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") were able to overcome their opposition into the Kirin Tor.<sup id="cite_ref-ToW_16-0"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-ToW-16">[16]</a></sup>
 
 ### Stormrage
 
@@ -110,7 +110,7 @@ Her presence is not well received in the upper echelons of Silvermoon City, and 
 
 ### Tides of War
 
-When [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") called for aid to defend [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle") against an overwhelming attack by the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"), Vereesa came with her husband [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") to help. However, after the battle, she was informed that the blood elf [Thalen Songweaver](https://wowpedia.fandom.com/wiki/Thalen_Songweaver "Thalen Songweaver"), a Horde traitor within the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"), had been rescued during the attack. After coordinating with [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon") and her sentinels, Vereesa took a scouting party west into [Dustwallow Marsh](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh "Dustwallow Marsh") to look for him, and so was not present when [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") used a [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb") to destroy Theramore and all its inhabitants, including Rhonin. Vereesa returned to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to mourn, and accompanied Jaina to plead the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") to take action against [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") in retaliation for Rhonin's death. She later appeared with her children at Rhonin's memorial service.<sup id="cite_ref-ToW_16-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-ToW-16">[16]</a></sup>
+When [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") called for aid to defend [Theramore Isle](https://wowpedia.fandom.com/wiki/Theramore_Isle "Theramore Isle") against an overwhelming attack by the xref:Horde.adoc[Horde], Vereesa came with her husband [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") to help. However, after the battle, she was informed that the blood elf [Thalen Songweaver](https://wowpedia.fandom.com/wiki/Thalen_Songweaver "Thalen Songweaver"), a Horde traitor within the xref:KirinTor.adoc[Kirin Tor], had been rescued during the attack. After coordinating with [Shandris Feathermoon](https://wowpedia.fandom.com/wiki/Shandris_Feathermoon "Shandris Feathermoon") and her sentinels, Vereesa took a scouting party west into [Dustwallow Marsh](https://wowpedia.fandom.com/wiki/Dustwallow_Marsh "Dustwallow Marsh") to look for him, and so was not present when [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") used a [mana bomb](https://wowpedia.fandom.com/wiki/Mana_bomb "Mana bomb") to destroy Theramore and all its inhabitants, including Rhonin. Vereesa returned to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") to mourn, and accompanied Jaina to plead the [Council of Six](https://wowpedia.fandom.com/wiki/Council_of_Six "Council of Six") to take action against xref:Orgrimmar.adoc[Orgrimmar] in retaliation for Rhonin's death. She later appeared with her children at Rhonin's memorial service.<sup id="cite_ref-ToW_16-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-ToW-16">[16]</a></sup>
 
 ### Mists of Pandaria
 
@@ -120,7 +120,7 @@ When [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina
 
 Silver Covenant agents acting under Vereesa's orders.
 
-Vereesa led the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") in aiding the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") forces to purge the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") from [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") after [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") discovered that [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") helped [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") steal the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Inv_misc_bell_01.png/revision/latest/scale-to-width-down/16?cb=20180222193728)[\[Divine Bell\]](https://wowpedia.fandom.com/wiki/Divine_Bell) by using [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") portals to infiltrate [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus"). The Silver Covenant was instrumental in preventing the Sunreavers from escaping and neutralizing any Horde insurrections or Sunreaver sympathizers who were aiding and abetting their resistance to incarceration.
+Vereesa led the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") in aiding the xref:KirinTor.adoc[Kirin Tor] and xref:Alliance.adoc[Alliance] forces to purge the xref:Horde.adoc[Horde] from [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") after [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") discovered that [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") helped [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") steal the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Inv_misc_bell_01.png/revision/latest/scale-to-width-down/16?cb=20180222193728)[\[Divine Bell\]](https://wowpedia.fandom.com/wiki/Divine_Bell) by using [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") portals to infiltrate [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus"). The Silver Covenant was instrumental in preventing the Sunreavers from escaping and neutralizing any Horde insurrections or Sunreaver sympathizers who were aiding and abetting their resistance to incarceration.
 
 #### Rise of the Thunder King
 
@@ -128,7 +128,7 @@ Vereesa led the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covena
 
 Vereesa on the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder").
 
-Vereesa was serving as secondary leader of the [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive"), stationed near the [Shado-Pan Garrison](https://wowpedia.fandom.com/wiki/Shado-Pan_Garrison "Shado-Pan Garrison"), where she would accompany members of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") to [Lady Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Lady_Jaina_Proudmoore "Lady Jaina Proudmoore")'s flagship, _[The Seabolt](https://wowpedia.fandom.com/wiki/The_Seabolt "The Seabolt")_, on the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder"). She revealed that the pandaren were concerned about the return of [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen") the Thunder King, but personally she was more concerned about the Horde. Vereesa expressed concern with the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") presence on the isle, fearful that the world at large would suffer should they get their hands on the source of [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen")'s power. She was also eager to avenge the death of her husband.
+Vereesa was serving as secondary leader of the [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive"), stationed near the [Shado-Pan Garrison](https://wowpedia.fandom.com/wiki/Shado-Pan_Garrison "Shado-Pan Garrison"), where she would accompany members of the xref:Alliance.adoc[Alliance] to [Lady Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Lady_Jaina_Proudmoore "Lady Jaina Proudmoore")'s flagship, _[The Seabolt](https://wowpedia.fandom.com/wiki/The_Seabolt "The Seabolt")_, on the [Isle of Thunder](https://wowpedia.fandom.com/wiki/Isle_of_Thunder "Isle of Thunder"). She revealed that the pandaren were concerned about the return of [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen") the Thunder King, but personally she was more concerned about the Horde. Vereesa expressed concern with the xref:Horde.adoc[Horde] presence on the isle, fearful that the world at large would suffer should they get their hands on the source of [Lei Shen](https://wowpedia.fandom.com/wiki/Lei_Shen "Lei Shen")'s power. She was also eager to avenge the death of her husband.
 
 Vereesa also appeared within the [Violet Rise](https://wowpedia.fandom.com/wiki/Violet_Rise "Violet Rise") when the base had been established.
 
@@ -170,7 +170,7 @@ After the [Farstriders](https://wowpedia.fandom.com/wiki/Farstriders "Farstrider
 
 Vereesa then led her rangers to [Trueshot Lodge](https://wowpedia.fandom.com/wiki/Trueshot_Lodge "Trueshot Lodge"), where she reunited with Halduron and informed him of the mission's events. Representing the Silver Covenant among the Unseen Path's union of all hunters on Azeroth, Vereesa promised the aid of her order to the Path's new leader following their inauguration. As a member of the Unseen Path, Vereesa participated in the defeat of [Hakkar the Houndmaster](https://wowpedia.fandom.com/wiki/Hakkar_the_Houndmaster "Hakkar the Houndmaster") in the [Violet Hold](https://wowpedia.fandom.com/wiki/Violet_Hold "Violet Hold").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-21">[21]</a></sup>
 
-When an [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") player reaches Prestige Rank 2, Vereesa can be found in [Stormwind Keep](https://wowpedia.fandom.com/wiki/Stormwind_Keep "Stormwind Keep") alongside other notable leaders of the Alliance. During  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-45\] [A Royal Audience](https://wowpedia.fandom.com/wiki/A_Royal_Audience_(Alliance)), she is present at the ceremony hosted by King [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") that congratulates the character for their battles against the Horde, following their receiving of the  ![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Achievement_pvp_a_14.png/revision/latest/scale-to-width-down/16?cb=20180723161817)[\[Grand Marshal's Medal of Valor\]](https://wowpedia.fandom.com/wiki/Grand_Marshal%27s_Medal_of_Valor) from the King, as well as an artifact appearance.
+When an xref:Alliance.adoc[Alliance] player reaches Prestige Rank 2, Vereesa can be found in [Stormwind Keep](https://wowpedia.fandom.com/wiki/Stormwind_Keep "Stormwind Keep") alongside other notable leaders of the Alliance. During  ![A](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714) \[10-45\] [A Royal Audience](https://wowpedia.fandom.com/wiki/A_Royal_Audience_(Alliance)), she is present at the ceremony hosted by King [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") that congratulates the character for their battles against the Horde, following their receiving of the  ![](https://static.wikia.nocookie.net/wowpedia/images/b/b5/Achievement_pvp_a_14.png/revision/latest/scale-to-width-down/16?cb=20180723161817)[\[Grand Marshal's Medal of Valor\]](https://wowpedia.fandom.com/wiki/Grand_Marshal%27s_Medal_of_Valor) from the King, as well as an artifact appearance.
 
 #### Insurrection
 
@@ -202,13 +202,13 @@ Windrunner sisters reunion
 
 [![Comics title.png](https://static.wikia.nocookie.net/wowpedia/images/9/98/Comics_title.png/revision/latest/scale-to-width-down/57?cb=20180928143648)](https://wowpedia.fandom.com/wiki/Comics "Comics") **This section concerns content related to the _Warcraft_ [manga](https://wowpedia.fandom.com/wiki/Manga "Manga") or [comics](https://wowpedia.fandom.com/wiki/Comics "Comics").**
 
-In the [Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave"), Vereesa discussed her impending family reunion between the Windrunner sisters with her sons. While [Giramar](https://wowpedia.fandom.com/wiki/Giramar "Giramar") had hopes this reunion could heal the rift between their families, [Galadin](https://wowpedia.fandom.com/wiki/Galadin "Galadin") argued their aunt [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") was evil and was now working with the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") that killed their [father](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"). Giramar thought that accusing people of being evil only challenged them to show people how evil they could be, while Galadin saw little potential in the goodness of undead beings. Vereesa ended the argument by reminding her sons that they were brothers and there may come a day when they may only have themselves to rely on, silently musing there was a time when she and her sisters had relied on each other. Vereesa's sons hugged their mother goodbye and agreed to Vereesa's wisdom before Vereesa entered a [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") portal to her destination.
+In the [Silver Enclave](https://wowpedia.fandom.com/wiki/Silver_Enclave "Silver Enclave"), Vereesa discussed her impending family reunion between the Windrunner sisters with her sons. While [Giramar](https://wowpedia.fandom.com/wiki/Giramar "Giramar") had hopes this reunion could heal the rift between their families, [Galadin](https://wowpedia.fandom.com/wiki/Galadin "Galadin") argued their aunt [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") was evil and was now working with the xref:Horde.adoc[Horde] that killed their [father](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"). Giramar thought that accusing people of being evil only challenged them to show people how evil they could be, while Galadin saw little potential in the goodness of undead beings. Vereesa ended the argument by reminding her sons that they were brothers and there may come a day when they may only have themselves to rely on, silently musing there was a time when she and her sisters had relied on each other. Vereesa's sons hugged their mother goodbye and agreed to Vereesa's wisdom before Vereesa entered a [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") portal to her destination.
 
 Vereesa met [Alleria](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") in their favorite spot in [Eversong Woods](https://wowpedia.fandom.com/wiki/Eversong_Woods "Eversong Woods"). Alleria greeted Vereesa by affectionately, calling her "Little Moon". With such golden hair, Vereesa replied that it was only fitting that Alleria's nickname was "Lady Sun", although since her transformation with the [Void](https://wowpedia.fandom.com/wiki/Void "Void"), Alleria felt she could no longer bear that name. When Vereesa questioned how the Void had affected her, Alleria assured Vereesa she was capable of resisting the Void's dark power and her love for her loved ones kept her anchored. Vereesa and Alleria catch up on what has transpired since Alleria was away, including the [Alliance-Horde war](https://wowpedia.fandom.com/wiki/Alliance-Horde_war "Alliance-Horde war") escalated by [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_Hellscream "Garrosh Hellscream") and the death of Vereesa's husband [Rhonin](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin") during the [bombing of Theramore](https://wowpedia.fandom.com/wiki/Attack_on_Theramore_Isle "Attack on Theramore Isle"). Vereesa mentioned that she had a brief reconnection with [Sylvanas](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") when they plotted revenge against Garrosh during his trial in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria"), but she had abandoned the plot and warned [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") who subsequently saved Garrosh from being poisoned. Although concerned about Sylvanas' apparent darker nature, returning to their homeland has given Alleria hope of them starting anew as she reminisces about happier times with her sisters and their late brother [Lirath Windrunner](https://wowpedia.fandom.com/wiki/Lirath_Windrunner "Lirath Windrunner"). Sylvanas interrupted Alleria's nostalgia by locking hands with her as they did when they used to dance together, and despite her initial shock, Alleria greeted Sylvanas by her old nickname, "Lady Moon".
 
-They made their way to the undead portions of the [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands") and Sylvanas told Alleria the tale of how [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") led the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") to desecrate the [kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Kingdom_of_Quel%27Thalas "Kingdom of Quel'Thalas"). Sylvanas provided the Windrunner sisters [skeletal horses](https://wowpedia.fandom.com/wiki/Skeletal_horse "Skeletal horse") as they proceeded to purging the undead they met in their path to their ancestral home of [Windrunner Spire](https://wowpedia.fandom.com/wiki/Windrunner_Spire "Windrunner Spire"). During their journey, the sisters played the game "One is a lie" in which they each made three statements with one being a lie. They eventually encountered [Goldenmist Village](https://wowpedia.fandom.com/wiki/Goldenmist_Village "Goldenmist Village") which was inhabited by [shades](https://wowpedia.fandom.com/wiki/Shade "Shade") of people they once knew. As the Windrunner sisters defended themselves against the attacking shades, Alleria accused Sylvanas of manipulating Vereesa into murdering Garrosh Hellscream. Sylvanas defended her character and revealed it was Vereesa's plan from the beginning and held Vereesa's lack of nerve responsible for the fallout of Garrosh's actions thereafter, including the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion"). Sylvanas' rage culminated in her unleashing her banshee powers on one shade and brutally eviscerated it. Disgusted by Sylvanas' savage brutality, Alleria transformed into her [Void form](https://wowpedia.fandom.com/wiki/Entropic_Embrace "Entropic Embrace") to declare that the sister she once knew was gone. Sylvanas retorted she had no choice in becoming undead while Alleria abandoned them and chose to become a Void abomination.
+They made their way to the undead portions of the [Ghostlands](https://wowpedia.fandom.com/wiki/Ghostlands "Ghostlands") and Sylvanas told Alleria the tale of how [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") led the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") to desecrate the [kingdom of Quel'Thalas](https://wowpedia.fandom.com/wiki/Kingdom_of_Quel%27Thalas "Kingdom of Quel'Thalas"). Sylvanas provided the Windrunner sisters [skeletal horses](https://wowpedia.fandom.com/wiki/Skeletal_horse "Skeletal horse") as they proceeded to purging the undead they met in their path to their ancestral home of [Windrunner Spire](https://wowpedia.fandom.com/wiki/Windrunner_Spire "Windrunner Spire"). During their journey, the sisters played the game "One is a lie" in which they each made three statements with one being a lie. They eventually encountered [Goldenmist Village](https://wowpedia.fandom.com/wiki/Goldenmist_Village "Goldenmist Village") which was inhabited by [shades](https://wowpedia.fandom.com/wiki/Shade "Shade") of people they once knew. As the Windrunner sisters defended themselves against the attacking shades, Alleria accused Sylvanas of manipulating Vereesa into murdering Garrosh Hellscream. Sylvanas defended her character and revealed it was Vereesa's plan from the beginning and held Vereesa's lack of nerve responsible for the fallout of Garrosh's actions thereafter, including the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion]. Sylvanas' rage culminated in her unleashing her banshee powers on one shade and brutally eviscerated it. Disgusted by Sylvanas' savage brutality, Alleria transformed into her [Void form](https://wowpedia.fandom.com/wiki/Entropic_Embrace "Entropic Embrace") to declare that the sister she once knew was gone. Sylvanas retorted she had no choice in becoming undead while Alleria abandoned them and chose to become a Void abomination.
 
-As the two sisters argued, Vereesa tried to stop the quarrel and claimed that neither of her sisters were there for her when she needed them and had hurt her feelings when they let her believe they both had died. Vereesa tried to dissipate the hostilities by refocusing their efforts in clearing their home of the undead and revealing the verdicts of their game. Vereesa was the first to reveal her truths: she does believe the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") will reflect on their actions and rejoin the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and she does fear losing her sisters, but her lie was she has moved past Rhonin's death and that she sees him every day in her sons. She concluded her confession with her telling Alleria she envies her time with Turalyon. Alleria told Vereesa that much has changed between her and Turalyon, and she has doubts of their love surviving. When it was Sylvanas' turn to reveal her truths and lie, she refused to continue the game. Alleria told Sylvanas to keep her secrets, acknowledging that her family was broken, and created a Void portal to return Vereesa and her home, the three sisters apparently dropping their necklaces from the spire at the end of the meeting. Before they left, Vereesa apologized to Sylvanas for promising to stay with her after their plot with Garrosh and changing her mind at the last minute by letter. In tears, Vereesa told Sylvanas that she hoped that one day her older sister would forgive her, and subsequently returned to her sons in Dalaran.<sup id="cite_ref-Three_Sisters_9-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-Three_Sisters-9">[9]</a></sup>
+As the two sisters argued, Vereesa tried to stop the quarrel and claimed that neither of her sisters were there for her when she needed them and had hurt her feelings when they let her believe they both had died. Vereesa tried to dissipate the hostilities by refocusing their efforts in clearing their home of the undead and revealing the verdicts of their game. Vereesa was the first to reveal her truths: she does believe the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") will reflect on their actions and rejoin the xref:Alliance.adoc[Alliance] and she does fear losing her sisters, but her lie was she has moved past Rhonin's death and that she sees him every day in her sons. She concluded her confession with her telling Alleria she envies her time with Turalyon. Alleria told Vereesa that much has changed between her and Turalyon, and she has doubts of their love surviving. When it was Sylvanas' turn to reveal her truths and lie, she refused to continue the game. Alleria told Sylvanas to keep her secrets, acknowledging that her family was broken, and created a Void portal to return Vereesa and her home, the three sisters apparently dropping their necklaces from the spire at the end of the meeting. Before they left, Vereesa apologized to Sylvanas for promising to stay with her after their plot with Garrosh and changing her mind at the last minute by letter. In tears, Vereesa told Sylvanas that she hoped that one day her older sister would forgive her, and subsequently returned to her sons in Dalaran.<sup id="cite_ref-Three_Sisters_9-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-Three_Sisters-9">[9]</a></sup>
 
 ### Battle for Azeroth
 
@@ -216,7 +216,7 @@ As the two sisters argued, Vereesa tried to stop the quarrel and claimed that ne
 
 Alleria and Vereesa at [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill").
 
-Seeking to protect Azeroth and depose of Sylvanas, Horde revolutionaries led by [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") and the Alliance planned to strike at [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") and to that end set up camp in [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill"). However, before combined Horde-Alliance forces could strike against [Sylvanas's forces](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists"), Varok and Anduin were approached by Vereesa and Alleria. Knowing that [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") had been freed, Alleria revealed her belief that Sylvanas commanded what may be the only army capable of defeating the Old God, and thus she suggested that the Alliance and Horde revolutionaries stand aside and let her. In response, Anduin was quick to point out that Sylvanas wouldn't fight for them and that she had lured both fleets into [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")'s hands to meet death when the [war](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") seemed to be on the cusp of ending. Remarking that they couldn't fight two wars at once, Anduin told her that Sylvanas must fall here before all was lost. Swayed by Anduin's argument, Alleria declared that she and Vereesa would scout Sylvanas's lines for weaknesses.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-23">[23]</a></sup>
+Seeking to protect Azeroth and depose of Sylvanas, Horde revolutionaries led by [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang") and the Alliance planned to strike at xref:Orgrimmar.adoc[Orgrimmar] and to that end set up camp in [Razor Hill](https://wowpedia.fandom.com/wiki/Razor_Hill "Razor Hill"). However, before combined Horde-Alliance forces could strike against [Sylvanas's forces](https://wowpedia.fandom.com/wiki/Banshee_loyalists "Banshee loyalists"), Varok and Anduin were approached by Vereesa and Alleria. Knowing that [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") had been freed, Alleria revealed her belief that Sylvanas commanded what may be the only army capable of defeating the Old God, and thus she suggested that the Alliance and Horde revolutionaries stand aside and let her. In response, Anduin was quick to point out that Sylvanas wouldn't fight for them and that she had lured both fleets into [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara")'s hands to meet death when the [war](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") seemed to be on the cusp of ending. Remarking that they couldn't fight two wars at once, Anduin told her that Sylvanas must fall here before all was lost. Swayed by Anduin's argument, Alleria declared that she and Vereesa would scout Sylvanas's lines for weaknesses.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-23">[23]</a></sup>
 
 Though Vereesa was prepared to face against Sylvanas's forces, Varok Saurfang, recognizing Sylvanas's loyalists as his brothers and sisters in the Horde and unwilling to spill more Horde blood, challenged Sylvanas to [Mak'gora](https://wowpedia.fandom.com/wiki/Mak%27gora "Mak'gora"). During the duel, Saurfang was able to get Sylvanas to admit that she considered the Horde nothing, which caused the Warchief to swiftly kill him and abandon the Horde altogether.<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-24">[24]</a></sup> With Sylvanas's defection, the Horde united once more with Sylvanas's former loyalists defecting to Saurfang's revolution. With Saurfang dead and Sylvanas no longer in command of the Horde, the Alliance forces (Vereesa among them) departed from [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar").
 
@@ -287,7 +287,7 @@ Vereesa crying and apologizing to Sylvanas for abandoning her, causing Sylvanas 
 
 She also appears to share a close bond with [Alleria](https://wowpedia.fandom.com/wiki/Alleria "Alleria"), as well as her nephew [Arator](https://wowpedia.fandom.com/wiki/Arator "Arator") (whom she mentions being a blessing in her home to her two sons as well as herself), a bond likely cemented by their mutual continued affiliation with the Alliance, from their reunion on Argus,<sup id="cite_ref-34"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-34">[34]</a></sup> to their joint appearance at [Durotar](https://wowpedia.fandom.com/wiki/Durotar "Durotar") during the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War")<sup id="cite_ref-35"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-35">[35]</a></sup> and later in [Oribos](https://wowpedia.fandom.com/wiki/Oribos "Oribos").<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-36">[36]</a></sup> Alleria, in turn, has expressed deep gratitude towards Vereesa for her caring for Arator in her absence, and is apparently especially protective of her, the Unseen Path's champion saving Vereesa the main reason why Alleria deemed them worthy of wielding [Thas'dorah](https://wowpedia.fandom.com/wiki/Thas%27dorah "Thas'dorah"), and the assumption that Sylvanas manipulated Vereesa to attempt to kill Garrosh a major reason why the two sisters nearly clashed, and why their reunion ultimately failed.<sup id="cite_ref-Three_Sisters_9-2"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-Three_Sisters-9">[9]</a></sup> Vereesa fears losing both Alleria and Sylvanas forever, being the one who stopped their hostility towards each other, asserting that their failure to reach out to her over the years wounded her deeply, and crying when realizing how deeply Sylvanas herself was hurt by her refusal to join her in the Undercity; she previously also stated that regardless of what changes she underwent, in Alleria's heart, she remained and would always be Vereesa's beloved sister.<sup id="cite_ref-37"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-37">[37]</a></sup>
 
-Vereesa is one of the few remaining [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf"). While she considered becoming a [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") along with the rest of her bereaved race, Rhonin was able to help her recuperate from the elves' arcane withdrawals,<sup id="cite_ref-NotD_13-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-NotD-13">[13]</a></sup> and she did not declare herself a blood elf. Vereesa left [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") and relocated to Dalaran, although she still considers the elven kingdom to be as much her home as the blood elves', and does not wish it ill. Nevertheless, Vereesa developed an animosity toward at least some of the sin'dorei, implied to be due to their leaders' association with the Horde, whose races she holds responsible for the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War").<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-38">[38]</a></sup> This feud took form in Dalaran, when Vereesa opposed the re-admittance of the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") into the Kirin Tor and formed the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") to deter any potential Horde uprising. The relationship was further strained by the destruction of Theramore (where some of the few remaining quel'dorei had settled for years, and after which Vereesa urged the Kirin Tor to expel Aethas) as well as Vereesa's controversial actions in the [Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran"). Vereesa mentioned that while the wise but "short-sighted" Rhonin ignored her pleas to banish the Sunreavers from the city, she has believed the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")'s destiny has always been to serve the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), and while she did not agree completely with Jaina's methods, she did understand them,<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-39">[39]</a></sup> arguing that capturing escaping Sunreavers was necessary in order to prevent them from plotting future counterattacks against Dalaran.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-40">[40]</a></sup>
+Vereesa is one of the few remaining [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf"). While she considered becoming a [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") along with the rest of her bereaved race, Rhonin was able to help her recuperate from the elves' arcane withdrawals,<sup id="cite_ref-NotD_13-1"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-NotD-13">[13]</a></sup> and she did not declare herself a blood elf. Vereesa left [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas_(kingdom) "Quel'Thalas (kingdom)") and relocated to Dalaran, although she still considers the elven kingdom to be as much her home as the blood elves', and does not wish it ill. Nevertheless, Vereesa developed an animosity toward at least some of the sin'dorei, implied to be due to their leaders' association with the Horde, whose races she holds responsible for the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War").<sup id="cite_ref-38"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-38">[38]</a></sup> This feud took form in Dalaran, when Vereesa opposed the re-admittance of the [Sunreavers](https://wowpedia.fandom.com/wiki/Sunreavers "Sunreavers") into the Kirin Tor and formed the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant") to deter any potential Horde uprising. The relationship was further strained by the destruction of Theramore (where some of the few remaining quel'dorei had settled for years, and after which Vereesa urged the Kirin Tor to expel Aethas) as well as Vereesa's controversial actions in the [Purge of Dalaran](https://wowpedia.fandom.com/wiki/Purge_of_Dalaran "Purge of Dalaran"). Vereesa mentioned that while the wise but "short-sighted" Rhonin ignored her pleas to banish the Sunreavers from the city, she has believed the xref:KirinTor.adoc[Kirin Tor]'s destiny has always been to serve the xref:Alliance.adoc[Alliance], and while she did not agree completely with Jaina's methods, she did understand them,<sup id="cite_ref-39"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-39">[39]</a></sup> arguing that capturing escaping Sunreavers was necessary in order to prevent them from plotting future counterattacks against Dalaran.<sup id="cite_ref-40"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-40">[40]</a></sup>
 
 In addition, Vereesa at times seems to show greater hostility towards the blood elves than others; for example, her high elves were openly hostile towards the sin'dorei at Suramar, with Vereesa herself targeting Rommath several times for unclear reasons.<sup id="cite_ref-41"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-41">[41]</a></sup> She also once openly called Lor'themar a coward after he objected to her presence as an "exile" in Quel'Thalas, and the Regent Lord also scowled when Aethas mentioned his being a ranger being possibly able to bridge the gap between himself and the hostile Vereesa (implying some kind of personal history between the two leaders), but is cordial towards him when greeting him during the Trial of Garrosh Hellscream, having recently fought beside him at the [Siege of Orgrimmar](https://wowpedia.fandom.com/wiki/Siege_of_Orgrimmar "Siege of Orgrimmar").<sup id="cite_ref-WC_18-3"><a href="https://wowpedia.fandom.com/wiki/Vereesa_Windrunner#cite_note-WC-18">[18]</a></sup>
 
@@ -302,7 +302,7 @@ The youngest scion of the Windrunner family is now in a position to stave off fu
 ### Night of the Dragon
 
 -   _"I am no [blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")! I am and shall always be a [ranger](https://wowpedia.fandom.com/wiki/Ranger "Ranger") of the [high elf](https://wowpedia.fandom.com/wiki/High_elf "High elf") people!"_
--   _"With my bow, I have shot [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") dead at a hundred yards. I have battled [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"), [demons](https://wowpedia.fandom.com/wiki/Demons "Demons"), and more. I have nearly traveled the length and breadth of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")...yes [my love](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), I think I can handle the situation until [Jalia](https://wowpedia.fandom.com/wiki/Jalia "Jalia") arrives."_
+-   _"With my bow, I have shot [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") dead at a hundred yards. I have battled [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"), [demons](https://wowpedia.fandom.com/wiki/Demons "Demons"), and more. I have nearly traveled the length and breadth of xref:Azeroth.adoc[Azeroth]...yes [my love](https://wowpedia.fandom.com/wiki/Rhonin "Rhonin"), I think I can handle the situation until [Jalia](https://wowpedia.fandom.com/wiki/Jalia "Jalia") arrives."_
 -   _"[One](https://wowpedia.fandom.com/wiki/Zendarin "Zendarin") should not speak of taint who has taken to draining the foul magic of demons."_
 -   _"Use [your](https://wowpedia.fandom.com/wiki/Iridi "Iridi") eyes and call me not by so accursed a name as [that](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), draenei!"_
 
@@ -330,7 +330,7 @@ Vereesa, Halduron, and Vol'jin outside Zul'Aman.
 
 **Halduron Brightwing says:** I am the commander of [Silvermoon's](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City") defenses and I will seek assistance as I deem necessary!
 
-**Halduron Brightwing says:** Now, Chieftain [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin"), before we were so rudely interrupted, you were telling us of the [Zandalari](https://wowpedia.fandom.com/wiki/Zandalari "Zandalari")'s plans.
+**Halduron Brightwing says:** Now, Chieftain [Vol'jin](https://wowpedia.fandom.com/wiki/Vol%27jin "Vol'jin"), before we were so rudely interrupted, you were telling us of the xref:Zandalari.adoc[Zandalari]'s plans.
 
 **Vol'jin says:** Dat I was. Da Zandalari called a meeting 'o all da troll tribes includin' da Darkspears.
 
@@ -344,7 +344,7 @@ Vereesa, Halduron, and Vol'jin outside Zul'Aman.
 
 **Vol'jin says:** Dey be holed up inside da ruined city, regroupin'.
 
-**Vol'jin says:** Rastakhan be callin' me his brother, but da [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") be our true brothers. We gotta stop him before he can sweet-talk da others into joinin' his empire.
+**Vol'jin says:** Rastakhan be callin' me his brother, but da xref:Horde.adoc[Horde] be our true brothers. We gotta stop him before he can sweet-talk da others into joinin' his empire.
 
 **Vereesa Windrunner says:** So how are we going to deal with this alliance between the Amani and the Zandalari?
 
@@ -373,8 +373,8 @@ Irritated
 
 Farewell
 
--   For the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")!
--   The [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") will protect you!
+-   For the xref:Alliance.adoc[Alliance]!
+-   The xref:KirinTor.adoc[Kirin Tor] will protect you!
 -   Goodbye!
 
 #### Gossip
@@ -500,21 +500,21 @@ Ironically, the closest thing to personal interaction Vereesa and Lor'themar hav
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/76/Vereesa_Windrunner.jpg/revision/latest/scale-to-width-down/60?cb=20120212000520)](https://static.wikia.nocookie.net/wowpedia/images/7/76/Vereesa_Windrunner.jpg/revision/latest?cb=20120212000520)
-    
+
     Vereesa's appearance prior to _Warlords of Draenor_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/01/Windrunner_Spire.jpg/revision/latest/scale-to-width-down/120?cb=20070121235058)](https://static.wikia.nocookie.net/wowpedia/images/0/01/Windrunner_Spire.jpg/revision/latest?cb=20070121235058)
-    
+
     Windrunner Spire, Vereesa Windrunner's former home.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/68/VereesaDalaran.jpg/revision/latest/scale-to-width-down/44?cb=20130102142656)](https://static.wikia.nocookie.net/wowpedia/images/6/68/VereesaDalaran.jpg/revision/latest?cb=20130102142656)
-    
+
     Vereesa during the Purge of Dalaran.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/59/Vereesa_SoO.jpg/revision/latest/scale-to-width-down/91?cb=20200110154044)](https://static.wikia.nocookie.net/wowpedia/images/5/59/Vereesa_SoO.jpg/revision/latest?cb=20200110154044)
-    
+
     Vereesa during the Siege of Orgrimmar.
-    
+
 
 ## Videos
 
@@ -524,8 +524,8 @@ Ironically, the closest thing to personal interaction Vereesa and Lor'themar hav
 
 ## Patch changes
 
--   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.3](https://wowpedia.fandom.com/wiki/Patch_3.0.3 "Patch 3.0.3") (2008-11-04):** Added.  
-    
+-   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.3](https://wowpedia.fandom.com/wiki/Patch_3.0.3 "Patch 3.0.3") (2008-11-04):** Added.
+
 
 ## References
 
@@ -586,18 +586,18 @@ Ironically, the closest thing to personal interaction Vereesa and Lor'themar hav
 -   [Wowhead](https://www.wowhead.com/search?q=Vereesa+Windrunner#npcs)
 -   [WoWDB](https://www.wowdb.com/search?search=Vereesa+Windrunner#t1:npcs)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance "Template:Grand Alliance")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Grand_Alliance?action=edit)
 
-[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance")
+[![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") xref:Alliance.adoc[Alliance]
 
 
 
  |
 | --- |
 |  |
-| 
+|
 
 |  
 Leadership
@@ -605,7 +605,7 @@ Leadership
  |
 | --- |
 |  |
-| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") | 
+| [High King](https://wowpedia.fandom.com/wiki/High_King "High King") |
 
 -   [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn")
 
@@ -613,7 +613,7 @@ Leadership
 
  |
 |  |
-| Lord Commander | 
+| Lord Commander |
 
 -   [Turalyon](https://wowpedia.fandom.com/wiki/Turalyon "Turalyon")
 
@@ -621,7 +621,7 @@ Leadership
 
  |
 |  |
-| Leaders | 
+| Leaders |
 
 -   [Council of Three Hammers](https://wowpedia.fandom.com/wiki/Council_of_Three_Hammers "Council of Three Hammers")
     -   [Muradin Bronzebeard](https://wowpedia.fandom.com/wiki/Muradin_Bronzebeard "Muradin Bronzebeard") ([Yorg Stormheart](https://wowpedia.fandom.com/wiki/Yorg_Stormheart "Yorg Stormheart"))
@@ -644,7 +644,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 |  
 Characters
@@ -652,7 +652,7 @@ Characters
  |
 | --- |
 |  |
-| Current | 
+| Current |
 
 -   [Dagran Thaurissan II](https://wowpedia.fandom.com/wiki/Dagran_Thaurissan_II "Dagran Thaurissan II")
 -   [Danath Trollbane](https://wowpedia.fandom.com/wiki/Danath_Trollbane "Danath Trollbane")
@@ -681,7 +681,7 @@ Characters
 -   [Karlain](https://wowpedia.fandom.com/wiki/Archmage_Karlain "Archmage Karlain")
 -   [Ansirem Runeweaver](https://wowpedia.fandom.com/wiki/Archmage_Ansirem_Runeweaver "Archmage Ansirem Runeweaver")
 -   [Harrison Jones](https://wowpedia.fandom.com/wiki/Harrison_Jones "Harrison Jones")
--   [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos")
+-   xref:Kalecgos.adoc[Kalecgos]
 -   [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong")
 -   [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard")
 -   [Thassarian](https://wowpedia.fandom.com/wiki/Thassarian "Thassarian")
@@ -727,7 +727,7 @@ Characters
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn")
 -   [Taylor](https://wowpedia.fandom.com/wiki/Taylor "Taylor")
@@ -746,7 +746,7 @@ Characters
 
  |
 |  |
-| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") | 
+| [Historical](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") |
 
 -   [Daelin Proudmoore](https://wowpedia.fandom.com/wiki/Daelin_Proudmoore "Daelin Proudmoore")
 -   [Anduin Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar")
@@ -764,7 +764,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 |  
 Races
@@ -772,7 +772,7 @@ Races
  |
 | --- |
 |  |
-| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") | 
+| [Core](https://wowpedia.fandom.com/wiki/Core_race "Core race") |
 
 -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
 -   [Dwarf](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
@@ -780,14 +780,14 @@ Races
 -   [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
 -   [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
 -   [Worgen](https://wowpedia.fandom.com/wiki/Worgen "Worgen")
--   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   xref:Pandaren.adoc[Pandaren]
 -   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
 
 
 
  |
 |  |
-| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") | 
+| [Allied](https://wowpedia.fandom.com/wiki/Allied_race "Allied race") |
 
 -   [Void elf](https://wowpedia.fandom.com/wiki/Void_elf "Void elf")
 -   [Lightforged draenei](https://wowpedia.fandom.com/wiki/Lightforged_draenei "Lightforged draenei")
@@ -799,7 +799,7 @@ Races
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Ancient](https://wowpedia.fandom.com/wiki/Ancient "Ancient")
 -   [Broken draenei](https://wowpedia.fandom.com/wiki/Broken "Broken")
@@ -818,7 +818,7 @@ Races
 
  |
 |  |
-| Animals | 
+| Animals |
 
 -   [Gryphon](https://wowpedia.fandom.com/wiki/Gryphon "Gryphon")
 -   [Hippogryph](https://wowpedia.fandom.com/wiki/Hippogryph "Hippogryph")
@@ -830,7 +830,7 @@ Races
 
  |
 |  |
-| 
+|
 
 |  
 Cities and towns
@@ -838,7 +838,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") | 
+| [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") |
 
 -   [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City")
 -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge")
@@ -855,7 +855,7 @@ Cities and towns
 
  |
 |  |
-| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") | 
+| [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") |
 
 -   [Aerie Peak](https://wowpedia.fandom.com/wiki/Aerie_Peak "Aerie Peak")
 -   [Chillwind Camp](https://wowpedia.fandom.com/wiki/Chillwind_Camp "Chillwind Camp")
@@ -885,7 +885,7 @@ Cities and towns
 
  |
 |  |
-| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") | 
+| [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") |
 
 -   [Astranaar](https://wowpedia.fandom.com/wiki/Astranaar "Astranaar")
 -   [Azure Watch](https://wowpedia.fandom.com/wiki/Azure_Watch "Azure Watch")
@@ -903,7 +903,7 @@ Cities and towns
 
  |
 |  |
-| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") | 
+| [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") |
 
 -   [Allerian Stronghold](https://wowpedia.fandom.com/wiki/Allerian_Stronghold "Allerian Stronghold")
 -   [Honor Hold](https://wowpedia.fandom.com/wiki/Honor_Hold "Honor Hold")
@@ -918,7 +918,7 @@ Cities and towns
 
  |
 |  |
-| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") | 
+| xref:Northrend.adoc[Northrend] |
 
 -   [Amberpine Lodge](https://wowpedia.fandom.com/wiki/Amberpine_Lodge "Amberpine Lodge")
 -   [Fizzcrank Airstrip](https://wowpedia.fandom.com/wiki/Fizzcrank_Airstrip "Fizzcrank Airstrip")
@@ -935,7 +935,7 @@ Cities and towns
 
  |
 |  |
-| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") | 
+| [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") |
 
 -   [Incursion](https://wowpedia.fandom.com/wiki/Incursion "Incursion")
 -   [Lion's Landing](https://wowpedia.fandom.com/wiki/Lion%27s_Landing "Lion's Landing")
@@ -948,7 +948,7 @@ Cities and towns
 
  |
 |  |
-| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") | 
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor_(alternate_universe) "Draenor (alternate universe)") |
 
 -   [Fort Wrynn](https://wowpedia.fandom.com/wiki/Fort_Wrynn "Fort Wrynn")
 -   [Highpass](https://wowpedia.fandom.com/wiki/Highpass "Highpass")
@@ -962,7 +962,7 @@ Cities and towns
 
  |
 |  |
-| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") | 
+| [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") |
 
 -   [Greywatch](https://wowpedia.fandom.com/wiki/Greywatch "Greywatch")
 
@@ -970,7 +970,7 @@ Cities and towns
 
  |
 |  |
-| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") | 
+| [Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras "Kul Tiras") |
 
 -   [Arom's Stand](https://wowpedia.fandom.com/wiki/Arom%27s_Stand "Arom's Stand")
 -   [Brennadam](https://wowpedia.fandom.com/wiki/Brennadam "Brennadam")
@@ -987,7 +987,7 @@ Cities and towns
 
  |
 |  |
-| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") | 
+| [Zandalar](https://wowpedia.fandom.com/wiki/Zandalar "Zandalar") |
 
 -   [Fort Victory](https://wowpedia.fandom.com/wiki/Fort_Victory "Fort Victory")
 -   [Shatterstone Harbor](https://wowpedia.fandom.com/wiki/Shatterstone_Harbor "Shatterstone Harbor")
@@ -996,7 +996,7 @@ Cities and towns
 
  |
 |  |
-| Former | 
+| Former |
 
 -   [Darnassus](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus")
 -   [Fort Triumph](https://wowpedia.fandom.com/wiki/Fort_Triumph "Fort Triumph")
@@ -1008,7 +1008,7 @@ Cities and towns
 
  |
 |  |
-| Territories | 
+| Territories |
 
 -   [Azuremyst Isles](https://wowpedia.fandom.com/wiki/Azuremyst_Isles "Azuremyst Isles")
     -   [Azuremyst Isle](https://wowpedia.fandom.com/wiki/Azuremyst_Isle "Azuremyst Isle")
@@ -1028,7 +1028,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 |  
 [Organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")
@@ -1038,7 +1038,7 @@ Cities and towns
  |
 | --- |
 |  |
-| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") | 
+| [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)") |
 
 -   [House of Nobles](https://wowpedia.fandom.com/wiki/House_of_Nobles "House of Nobles")
 -   [SI:7](https://wowpedia.fandom.com/wiki/SI:7 "SI:7")
@@ -1058,7 +1058,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") | 
+| [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)") |
 
 -   [Senate of Ironforge](https://wowpedia.fandom.com/wiki/Senate_of_Ironforge "Senate of Ironforge")
 -   [Wildhammer clan](https://wowpedia.fandom.com/wiki/Wildhammer_clan "Wildhammer clan")
@@ -1083,7 +1083,7 @@ Cities and towns
 
  |
 |  |
-| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") | 
+| [Night elves of Darnassus](https://wowpedia.fandom.com/wiki/Darnassus_(nation) "Darnassus (nation)") |
 
 -   [Darnassian Army](https://wowpedia.fandom.com/wiki/Darnassian_Army "Darnassian Army")
     -   [Sentinels](https://wowpedia.fandom.com/wiki/Sentinels "Sentinels")
@@ -1102,7 +1102,7 @@ Cities and towns
 
  |
 |  |
-| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") | 
+| [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan_(nation) "Gnomeregan (nation)") |
 
 -   [A.C.E.](https://wowpedia.fandom.com/wiki/A.C.E. "A.C.E.")
 -   [Gnomeregan Airmen](https://wowpedia.fandom.com/wiki/Gnomeregan_Airmen "Gnomeregan Airmen")
@@ -1115,7 +1115,7 @@ Cities and towns
 
  |
 |  |
-| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") | 
+| [Exodar draenei](https://wowpedia.fandom.com/wiki/Exodar_(faction) "Exodar (faction)") |
 
 -   [Hand of Argus](https://wowpedia.fandom.com/wiki/Hand_of_Argus "Hand of Argus")
     -   [Triumvirate of the Hand](https://wowpedia.fandom.com/wiki/Triumvirate_of_the_Hand "Triumvirate of the Hand")
@@ -1127,7 +1127,7 @@ Cities and towns
 
  |
 |  |
-| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") | 
+| [Kingdom of Gilneas](https://wowpedia.fandom.com/wiki/Gilneas_(kingdom) "Gilneas (kingdom)") |
 
 -   [Gilnean military](https://wowpedia.fandom.com/wiki/Gilnean_military "Gilnean military")
     -   [Gilnean Royal Guard](https://wowpedia.fandom.com/wiki/Gilnean_Royal_Guard "Gilnean Royal Guard")
@@ -1141,7 +1141,7 @@ Cities and towns
 
  |
 |  |
-| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") | 
+| [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)") |
 
 -   [Kul Tiran fleet](https://wowpedia.fandom.com/wiki/Kul_Tiran_fleet "Kul Tiran fleet")
 -   [House Proudmoore](https://wowpedia.fandom.com/wiki/House_Proudmoore "House Proudmoore")
@@ -1163,7 +1163,7 @@ Cities and towns
 
  |
 |  |
-| Other members | 
+| Other members |
 
 -   [Tushui Pandaren](https://wowpedia.fandom.com/wiki/Tushui_Pandaren "Tushui Pandaren")
 -   [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light")
@@ -1202,7 +1202,7 @@ Cities and towns
 -   [Bizmo's Brawlpub](https://wowpedia.fandom.com/wiki/Bizmo%27s_Brawlpub "Bizmo's Brawlpub")
 -   [Wrynn's Vanguard](https://wowpedia.fandom.com/wiki/Wrynn%27s_Vanguard "Wrynn's Vanguard")
 -   [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)")
-    -   [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+    -   xref:KirinTor.adoc[Kirin Tor]
         -   [Kirin Tor Offensive](https://wowpedia.fandom.com/wiki/Kirin_Tor_Offensive "Kirin Tor Offensive")
     -   [Nethergarde](https://wowpedia.fandom.com/wiki/Nethergarde_Keep "Nethergarde Keep")
 -   [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand")
@@ -1218,7 +1218,7 @@ Cities and towns
 
  |
 |  |
-| Former members | 
+| Former members |
 
 -   [Theramore](https://wowpedia.fandom.com/wiki/Theramore_(nation) "Theramore (nation)")
     -   [Theramore Guard](https://wowpedia.fandom.com/wiki/Theramore_Guard "Theramore Guard")
@@ -1232,7 +1232,7 @@ Cities and towns
 
  |
 |  |
-| Alliance-aligned and allies | 
+| Alliance-aligned and allies |
 
 -   [Council of Exarchs](https://wowpedia.fandom.com/wiki/Council_of_Exarchs "Council of Exarchs")
     -   [Hand of the Prophet](https://wowpedia.fandom.com/wiki/Hand_of_the_Prophet "Hand of the Prophet")
@@ -1246,7 +1246,7 @@ Cities and towns
 
  |
 |  |
-| Former allies | 
+| Former allies |
 
 -   [Blackmaw tribe](https://wowpedia.fandom.com/wiki/Blackmaw_tribe "Blackmaw tribe")
 -   [Blackwood tribe](https://wowpedia.fandom.com/wiki/Blackwood_tribe "Blackwood tribe")
@@ -1258,7 +1258,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Common](https://wowpedia.fandom.com/wiki/Common_(language) "Common (language)")
 -   [Alliance organizations](https://wowpedia.fandom.com/wiki/Alliance_organizations "Alliance organizations")

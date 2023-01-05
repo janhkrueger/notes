@@ -6,7 +6,7 @@
 | Race | [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") (Uncategorized) |
 | Level | 45 Elite |
 | Resource | [Mana](https://wowpedia.fandom.com/wiki/Mana_(game_resource) "Mana (game resource)") |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
 | Affiliation(s) | [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light") |
 | Location | _[Xenedar](https://wowpedia.fandom.com/wiki/Xenedar "Xenedar")_, [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") |
 | Status | Deceased<sup id="cite_ref-Child_2-0"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-Child-2">[2]</a></sup> |
@@ -14,7 +14,7 @@
 
 **Xe'ra** (pronounced ZEE-ruh),<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-3">[3]</a></sup> the **Light Mother**<sup id="cite_ref-Mother_1-1"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-Mother-1">[1]</a></sup> (also spelled **Lightmother**)<sup id="cite_ref-TBH_4-0"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-TBH-4">[4]</a></sup> or the **Mother of Light**,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-5">[5]</a></sup> was the [prime](https://wowpedia.fandom.com/wiki/Prime_Naaru "Prime Naaru") [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") (or the naaru prime),<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-6">[6]</a></sup> one of the first naaru to be forged during the great ordering of the cosmos. For millennia, she led a crusade against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") as leader of the [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light").
 
-She sent her core, known as [Light's Heart](https://wowpedia.fandom.com/wiki/Light%27s_Heart "Light's Heart"), to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") during the Legion's [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion"), in an attempt to aid the mortal forces fight off the invading [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") and find the subject of her [prophecy](https://wowpedia.fandom.com/wiki/Prophet#Known_prophecies "Prophet"), [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-7">[7]</a></sup> She was made whole again during the invasion of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") by [Azerothian forces](https://wowpedia.fandom.com/wiki/Class_order "Class order"), but Illidan rejected her and destroyed Xe'ra.
+She sent her core, known as [Light's Heart](https://wowpedia.fandom.com/wiki/Light%27s_Heart "Light's Heart"), to xref:Azeroth.adoc[Azeroth] during the Legion's [third invasion](https://wowpedia.fandom.com/wiki/Third_invasion "Third invasion"), in an attempt to aid the mortal forces fight off the invading [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") and find the subject of her [prophecy](https://wowpedia.fandom.com/wiki/Prophet#Known_prophecies "Prophet"), [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-7">[7]</a></sup> She was made whole again during the invasion of [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") by [Azerothian forces](https://wowpedia.fandom.com/wiki/Class_order "Class order"), but Illidan rejected her and destroyed Xe'ra.
 
 ## History
 
@@ -28,7 +28,7 @@ Xe'ra didn't want the Army to know that naaru could fall to the Void, something 
 
 ### A Thousand Years of War
 
-![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._  
+![Stub.png](https://static.wikia.nocookie.net/wowpedia/images/f/fe/Stub.png/revision/latest/scale-to-width-down/20?cb=20101107135721) _Please add any available information to this section._
 
 [![](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Light%27s_Heart.jpg/revision/latest/scale-to-width-down/180?cb=20180528181313)](https://static.wikia.nocookie.net/wowpedia/images/d/d2/Light%27s_Heart.jpg/revision/latest?cb=20180528181313)
 
@@ -36,7 +36,7 @@ Xe'ra didn't want the Army to know that naaru could fall to the Void, something 
 
 Even though [Alleria Windrunner](https://wowpedia.fandom.com/wiki/Alleria_Windrunner "Alleria Windrunner") had been advised against it, she started delving into the [Void](https://wowpedia.fandom.com/wiki/Void "Void"), and left the [Army of the Light](https://wowpedia.fandom.com/wiki/Army_of_the_Light "Army of the Light") under the tutelage of [Locus-Walker](https://wowpedia.fandom.com/wiki/Locus-Walker "Locus-Walker"). She would eventually return to the _Xenedar_, and aid the Army against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). Xe'ra tried to convince her to abandon her endeavor and keep to the Light, but Alleria refused. Although X'era was eventually dissuaded by Turalyon from inflicting harsher punishment, and despite Alleria's arguments that they were not enemies despite their different affiliations, she nevertheless had Alleria imprisoned aboard the _[Xenedar](https://wowpedia.fandom.com/wiki/Xenedar "Xenedar")_, at least until she accepted "the path of righteousness" once again.<sup id="cite_ref-Mother_1-2"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-Mother-1">[1]</a></sup>
 
-Xe'ra focused all her efforts into aiding the champions of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and sent her core, referred to as [Light's Heart](https://wowpedia.fandom.com/wiki/Light%27s_Heart "Light's Heart"), to aid them, though this action weakened her.<sup id="cite_ref-Mother_1-3"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-Mother-1">[1]</a></sup>
+Xe'ra focused all her efforts into aiding the champions of xref:Azeroth.adoc[Azeroth] and sent her core, referred to as [Light's Heart](https://wowpedia.fandom.com/wiki/Light%27s_Heart "Light's Heart"), to aid them, though this action weakened her.<sup id="cite_ref-Mother_1-3"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-Mother-1">[1]</a></sup>
 
 ### Legion
 
@@ -82,8 +82,8 @@ _Main article: [The Child of Light and Shadow#Notes](https://wowpedia.fandom.com
 
 ## Notes and trivia
 
--   [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar") believed, based on a passage from an ancient cosmology tome he found in [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"), that the [prime naaru](https://wowpedia.fandom.com/wiki/Prime_naaru "Prime naaru") may have been created by [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-15">[15]</a></sup>
--   Her interaction with the player is different if they are a demon hunter. Instead of blaming them for murdering Illidan and trying to guide them towards salvation, the [Illidari](https://wowpedia.fandom.com/wiki/Illidari "Illidari") leader, having sided with Illidan, is praised, and her goal with them is to make them understand Illidan's true goal and the sacrifices he made.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-16">[16]</a></sup>
+-   [Archmage Khadgar](https://wowpedia.fandom.com/wiki/Archmage_Khadgar "Archmage Khadgar") believed, based on a passage from an ancient cosmology tome he found in xref:Karazhan.adoc[Karazhan], that the [prime naaru](https://wowpedia.fandom.com/wiki/Prime_naaru "Prime naaru") may have been created by [Elune](https://wowpedia.fandom.com/wiki/Elune "Elune").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-15">[15]</a></sup>
+-   Her interaction with the player is different if they are a demon hunter. Instead of blaming them for murdering Illidan and trying to guide them towards salvation, the xref:Illidari.adoc[Illidari] leader, having sided with Illidan, is praised, and her goal with them is to make them understand Illidan's true goal and the sacrifices he made.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-16">[16]</a></sup>
 -   [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal"), the leader of a group of naaru called the [Sha'tar](https://wowpedia.fandom.com/wiki/Sha%27tar "Sha'tar"), condoned Illidan's death.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-17">[17]</a></sup><sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-18">[18]</a></sup> It is unknown if A'dal knew about Xe'ra or about her prophecy, or if he did but still went against her. However, Xe'ra knew about [Tempest Keep](https://wowpedia.fandom.com/wiki/Tempest_Keep "Tempest Keep"), the Sha'tar's [dimensional fortress](https://wowpedia.fandom.com/wiki/Dimensional_ship "Dimensional ship"), and her descendant O'ros was aboard the _Exodar_, Velen's dimensional ship, which points towards some form of a link.
 -   Xe'ra's affinity towards Illidan at first became suspicious among the fanbase. Speculations like Xe'ra being a kind of false illusion (perhaps created by Kil'jaeden) quickly spread. Illidan himself, at first, believed this about the "elder naaru" that he met as well, thinking that Kil'jaeden was not called "the Deceiver" for nothing. However, this was proven false when the elder naaru then rescued Illidan from having his spirit captured or destroyed by [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") as he was attempting to set up a portal between [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") and [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"). Kil'jaeden roared in rage when Illidan managed to escape with the naaru's aid.<sup id="cite_ref-Illidan_Novel_19-0"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-Illidan_Novel-19">[19]</a></sup> Xe'ra eventually died on [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus"), ironically by Illidan's hand.
 -   Turalyon would come to agree that Xe'ra had been in the wrong. He later stated to [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") at the [Gathering](https://wowpedia.fandom.com/wiki/Gathering "Gathering") that paladins and priests should let the Light guide them, but never command them, and make use of one's mind and heart as well. Anduin was aware that Turalyon was referring to Xe'ra.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-20">[20]</a></sup> Even long before this, Velen (possibly recalling Illidan's arguments that he must forge destiny by his own hands), while acknowledging Xe'ra's nobility and relentless defiance in the face of the Legion,<sup id="cite_ref-An_Offering_of_Light_14-1"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-An_Offering_of_Light-14">[14]</a></sup> had also mentioned that even the Light Mother could not be allowed to force destiny upon others.<sup id="cite_ref-TBH_4-2"><a href="https://wowpedia.fandom.com/wiki/Xe%27ra#cite_note-TBH-4">[4]</a></sup>
@@ -107,9 +107,9 @@ _Main article: [The Child of Light and Shadow#Notes](https://wowpedia.fandom.com
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/11/In_the_House_of_Light_and_Shadow_%28original%29.jpg/revision/latest/scale-to-width-down/120?cb=20190521134304)](https://static.wikia.nocookie.net/wowpedia/images/1/11/In_the_House_of_Light_and_Shadow_%28original%29.jpg/revision/latest?cb=20190521134304)
-    
+
     Original model.
-    
+
 
 ## Videos
 
@@ -123,26 +123,26 @@ _Main article: [The Child of Light and Shadow#Notes](https://wowpedia.fandom.com
 
 | #1 | #2 | #3 | #4 | #5 |
 | --- | --- | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/npc=113763)
 -   [WoWDB](https://www.wowdb.com/npcs/113763)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=123589)
 -   [WoWDB](https://www.wowdb.com/npcs/123589)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=127829)
 -   [WoWDB](https://www.wowdb.com/npcs/127829)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=123873)
 -   [WoWDB](https://www.wowdb.com/npcs/123873)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=123263)
 -   [WoWDB](https://www.wowdb.com/npcs/123263)

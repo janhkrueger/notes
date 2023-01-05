@@ -3,8 +3,8 @@ _This article is about Gul'dan from the main universe. For Gul'dan from the [alt
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Gul'dan |
 | --- |
 | [![Image of Gul'dan](https://static.wikia.nocookie.net/wowpedia/images/8/84/Gul%27dan_Mercenaries_3.jpg/revision/latest/scale-to-width-down/200?cb=20211013171550)](https://static.wikia.nocookie.net/wowpedia/images/8/84/Gul%27dan_Mercenaries_3.jpg/revision/latest?cb=20211013171550 "Image of Gul'dan") |
-| Title | Darkness Incarnate, Destroyer of Dreams,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-1">[1]</a></sup><sup id="cite_ref-WC2man_2-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-WC2man-2">[2]</a></sup>  
-Great Betrayer<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-3">[3]</a></sup>  
+| Title | Darkness Incarnate, Destroyer of Dreams,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-1">[1]</a></sup><sup id="cite_ref-WC2man_2-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-WC2man-2">[2]</a></sup>
+Great Betrayer<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-3">[3]</a></sup>
 Betrayer of the Orcs<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-4">[4]</a></sup> |
 | Gender | Male |
 | Race | [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc") |
@@ -15,9 +15,9 @@ Betrayer of the Orcs<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wi
 | Location | [Apostate's Reach](https://wowpedia.fandom.com/wiki/Apostate%27s_Reach "Apostate's Reach"), [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") |
 | Status | Deceased |
 | Mentor(s) | [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul"), [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") |
-| Student(s) | [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") |
+| Student(s) | xref:Chogall.adoc[Cho'gall] |
 
-**Gul'dan** was the first [orcish](https://wowpedia.fandom.com/wiki/Orc "Orc") [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") as well as the de facto founder of the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde"). He betrayed both his people and his mentor [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") to the [demon lord](https://wowpedia.fandom.com/wiki/Demon_lord "Demon lord") [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") for personal gain and power, and was directly responsible for the orcs' fall to [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") [enslavement](https://wowpedia.fandom.com/wiki/Slavery "Slavery") and their [subsequent invasion](https://wowpedia.fandom.com/wiki/First_War "First War") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Tutored by the leaders of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), he is considered one of the most powerful warlocks to have ever existed.<sup id="cite_ref-HS_8-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-HS-8">[8]</a></sup> He founded the [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council") and created the first [death knights](https://wowpedia.fandom.com/wiki/Death_knight_(Old_Horde) "Death knight (Old Horde)").<sup id="cite_ref-WC2man_2-1"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-WC2man-2">[2]</a></sup> Gul'dan often referred to himself as "Darkness Incarnate" and "The Destroyer of Dreams."<sup id="cite_ref-WC2man_2-2"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-WC2man-2">[2]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-9">[9]</a></sup>
+**Gul'dan** was the first [orcish](https://wowpedia.fandom.com/wiki/Orc "Orc") [warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock") as well as the de facto founder of the [Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde"). He betrayed both his people and his mentor [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") to the [demon lord](https://wowpedia.fandom.com/wiki/Demon_lord "Demon lord") [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") for personal gain and power, and was directly responsible for the orcs' fall to [demonic](https://wowpedia.fandom.com/wiki/Demon "Demon") [enslavement](https://wowpedia.fandom.com/wiki/Slavery "Slavery") and their [subsequent invasion](https://wowpedia.fandom.com/wiki/First_War "First War") of xref:Azeroth.adoc[Azeroth]. Tutored by the leaders of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"), he is considered one of the most powerful warlocks to have ever existed.<sup id="cite_ref-HS_8-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-HS-8">[8]</a></sup> He founded the [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council") and created the first [death knights](https://wowpedia.fandom.com/wiki/Death_knight_(Old_Horde) "Death knight (Old Horde)").<sup id="cite_ref-WC2man_2-1"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-WC2man-2">[2]</a></sup> Gul'dan often referred to himself as "Darkness Incarnate" and "The Destroyer of Dreams."<sup id="cite_ref-WC2man_2-2"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-WC2man-2">[2]</a></sup><sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-9">[9]</a></sup>
 
 Gul'dan serves as the overarching antagonist in _[Warcraft: Orcs and Humans](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_, the main antagonist in _[Warcraft II: Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_, and a posthumous antagonist for the rest of the [_Warcraft_](https://wowpedia.fandom.com/wiki/Warcraft_universe "Warcraft universe") franchise, though his [alternate version](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") does appear as one of the main antagonists in [two](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Warlords_of_Draenor "World of Warcraft: Warlords of Draenor") [expansions](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion") of _[World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft")_.
 
@@ -36,33 +36,33 @@ The bitterness that had sustained him all his life ate at him until nothing was 
 Kil'jaeden needed a public figure to unite the orcs against the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"), but Gul'dan could not inspire or lead his people by example. Kil'jaeden ordered him to ally with someone who could, but first he would need to eliminate everyone who knew of his past.<sup id="cite_ref-Chronicle70_11-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-Chronicle70-11">[11]</a></sup> Gul'dan returned to his village, draped in tattered robes. When the chieftain furiously reminded Gul'dan that he was never allowed to return to his people, Gul'dan roared that he _had_ no people and obliterated the chieftain with [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") energy. Gul'dan then went on a rampage, killing all of his former brethren. As the village burned, Gul'dan spotted the village shaman - the only source of any relative kindness in his life. Gul'dan earnestly thanked the shaman, saying that he had found his destiny, then killed him as well. Claiming the shaman's staff and a [ring](https://wowpedia.fandom.com/wiki/Ring_of_the_Scoured_Clan "Ring of the Scoured Clan"), Gul'dan left the burning ruins of his birthplace behind forever. Its name and existence would be lost to history - just as the vengeful Gul'dan preferred.<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-12">[12]</a></sup>
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/56/Harbingers_Gul%27dan_1.jpg/revision/latest/scale-to-width-down/120?cb=20160722112946)](https://static.wikia.nocookie.net/wowpedia/images/5/56/Harbingers_Gul%27dan_1.jpg/revision/latest?cb=20160722112946)
-    
+
     Gul'dan being banished from his clan.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Harbingers_Gul%27dan_2.jpg/revision/latest/scale-to-width-down/120?cb=20160722113037)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Harbingers_Gul%27dan_2.jpg/revision/latest?cb=20160722113037)
-    
+
     The outcast in the wastes.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Harbingers_Gul%27dan_3.jpg/revision/latest/scale-to-width-down/120?cb=20160722113116)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Harbingers_Gul%27dan_3.jpg/revision/latest?cb=20160722113116)
-    
+
     Gul'dan offering himself up to the elements.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Harbingers_Gul%27dan_4.jpg/revision/latest/scale-to-width-down/120?cb=20160722113145)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Harbingers_Gul%27dan_4.jpg/revision/latest?cb=20160722113145)
-    
+
     The furies recoiling from the exile.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/49/Harbingers_Gul%27dan_5.jpg/revision/latest/scale-to-width-down/120?cb=20160722113324)](https://static.wikia.nocookie.net/wowpedia/images/4/49/Harbingers_Gul%27dan_5.jpg/revision/latest?cb=20160722113324)
-    
+
     The harbinger of fel killing his former chieftain.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Harbingers_Gul%27dan_6.jpg/revision/latest/scale-to-width-down/120?cb=20160722113358)](https://static.wikia.nocookie.net/wowpedia/images/e/e3/Harbingers_Gul%27dan_6.jpg/revision/latest?cb=20160722113358)
-    
+
     Gul'dan leaving the burning ruins of his birthplace.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/40/Gul%27dan_Mercenaries_2.jpg/revision/latest/scale-to-width-down/94?cb=20211013171530)](https://static.wikia.nocookie.net/wowpedia/images/4/40/Gul%27dan_Mercenaries_2.jpg/revision/latest?cb=20211013171530)
-    
+
     The outcast after taking his vengeance.
-    
+
 
 ### Rise of the Horde
 
@@ -88,7 +88,7 @@ As Ner'zhul rallied the orcs for a war against the [draenei](https://wowpedia.fa
 
 As a necessity of his bid for power, Gul'dan trained a number of like-minded and powerful orcs, whom he named the [Shadow Council](https://wowpedia.fandom.com/wiki/Shadow_Council "Shadow Council"). The Council was soon using its power and influence to direct almost every aspect of orc society, so as to distract [those](https://wowpedia.fandom.com/wiki/Durotan "Durotan") [few](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer") who opposed his dark ideals from their true masters, Gul'dan and Kil'jaeden. He opened schools of demonology and necromancy to teach shamans new power to replace their lost connections to the elements, transforming them into [necrolytes](https://wowpedia.fandom.com/wiki/Necrolyte "Necrolyte") and [warlocks](https://wowpedia.fandom.com/wiki/Warlock "Warlock"). To seal the bargain between him and Kil'jaeden, Gul'dan and the Shadow Council offered the clan chieftains the [Blood of Mannoroth](https://wowpedia.fandom.com/wiki/Blood_of_Mannoroth "Blood of Mannoroth"). The first chieftain to accept his gift was [Grommash Hellscream](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream"), with majority of the remaining following suit right after. The resulting Horde was bloodthirsty, barbaric, and evil, an extension of the demons whom they now worshiped.
 
-While creating the Shadow Council Gul'dan would encounter the ogre [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall"), who had been forced to flee from [Highmaul](https://wowpedia.fandom.com/wiki/Highmaul "Highmaul") after escaping assassination. Gul'dan became intrigued by Cho'gall's confidence and lust for power and made him his foremost apprentice, teaching him fel magic and of the existence of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-14">[14]</a></sup>
+While creating the Shadow Council Gul'dan would encounter the ogre xref:Chogall.adoc[Cho'gall], who had been forced to flee from [Highmaul](https://wowpedia.fandom.com/wiki/Highmaul "Highmaul") after escaping assassination. Gul'dan became intrigued by Cho'gall's confidence and lust for power and made him his foremost apprentice, teaching him fel magic and of the existence of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-14">[14]</a></sup>
 
 Another individual Gul'dan encountered was [Garona](https://wowpedia.fandom.com/wiki/Garona "Garona"). As a half-[orc](https://wowpedia.fandom.com/wiki/Orc "Orc"), half-[draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") outcast, Garona had found survival to be brutally difficult. She had learned quickly how to avoid unwinnable fights, and how to quietly kill relentless pursuers. Gul'dan bound her mind to his will and began to secretly train her in the art of assassination. She did not fully understand his intentions, but she grew to resent his cruelty. Still, she obeyed. Survival demanded nothing less.<sup id="cite_ref-Kingslayers_15-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-Kingslayers-15">[15]</a></sup> Gul'dan had her magically aged and tortured.<sup id="cite_ref-comic23_16-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-comic23-16">[16]</a></sup> Having also traveled throughout [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), Garona was well-versed in the culture of the orcs. She quickly became the chief interpreter of the Shadow Council and Gul'dan's personal [spy](https://wowpedia.fandom.com/wiki/Spy "Spy") and [assassin](https://wowpedia.fandom.com/wiki/Assassin "Assassin"). Per Kil'jaeden's instructions, he also had the [Blackrock](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan") orcs craft daggers [Anguish and Sorrow](https://wowpedia.fandom.com/wiki/Anguish_and_Sorrow "Anguish and Sorrow") for Garona, which she used to carry out countless atrocities while under Gul'dan's control, including the eventual murder of [King Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn_I "Llane Wrynn I") during the [First War](https://wowpedia.fandom.com/wiki/First_War "First War").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-17">[17]</a></sup>
 
@@ -102,9 +102,9 @@ Gul'dan and [Blackhand](https://wowpedia.fandom.com/wiki/Blackhand "Blackhand") 
 
 Eventually, Gul'dan was contacted by the mad sorcerer [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") - possessed by the Dark Titan [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras"). Medivh approached Gul'dan and the Shadow Council as a hooded stranger. Gul'dan tried attacking the figure with his fel powers, which Medivh merely threw back at the orc. Seeing no reason to be gentle to someone who sold his entire race to the Burning Legion, Medivh made Gul'dan kneel before him in front of the Shadow Council, an insult Gul'dan would never forget or forgive.<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-19">[19]</a></sup>
 
-Medivh offered him the promise of godhood, locked away within the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") if he would use the Horde to conquer Azeroth. Gul'dan agreed, and with the assistance of the Shadow Council, he helped Medivh open the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") between Azeroth and Draenor. Nearly every draenei prisoner who still lived was brought to the base of the Dark Portal. At the moment the ritual began, Gul'dan drained all of their life essences in an instant, giving the massive burst of power needed to cross such a large distance.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-20">[20]</a></sup> Over the next few years, Gul'dan and his ogre-mage apprentice [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") would secretly manipulate the Horde as it rampaged across Azeroth. Gul'dan convinced [Grom Hellscream](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream") and his [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan") to remain on Draenor during the conflict later known as the [First War](https://wowpedia.fandom.com/wiki/First_War "First War").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-21">[21]</a></sup>
+Medivh offered him the promise of godhood, locked away within the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") if he would use the Horde to conquer Azeroth. Gul'dan agreed, and with the assistance of the Shadow Council, he helped Medivh open the xref:DarkPortal.adoc[Dark Portal] between Azeroth and Draenor. Nearly every draenei prisoner who still lived was brought to the base of the Dark Portal. At the moment the ritual began, Gul'dan drained all of their life essences in an instant, giving the massive burst of power needed to cross such a large distance.<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-20">[20]</a></sup> Over the next few years, Gul'dan and his ogre-mage apprentice xref:Chogall.adoc[Cho'gall] would secretly manipulate the Horde as it rampaged across Azeroth. Gul'dan convinced [Grom Hellscream](https://wowpedia.fandom.com/wiki/Grom_Hellscream "Grom Hellscream") and his [Warsong clan](https://wowpedia.fandom.com/wiki/Warsong_clan "Warsong clan") to remain on Draenor during the conflict later known as the [First War](https://wowpedia.fandom.com/wiki/First_War "First War").<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-21">[21]</a></sup>
 
-Gul'dan saw the Horde led to supremacy over most of the [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)"). During the Year 3, prior to the final siege of Stormwind, Gul'dan was aware of a raiding party against Medivh's tower of [Karazhan](https://wowpedia.fandom.com/wiki/Karazhan "Karazhan"). Realizing that the Azerothians intended to slay the Guardian, Gul'dan hastily ransacked Medivh's mind for the Tomb's location. He was still deep within the Guardian's thoughts when [Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar") and [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") killed him, ending Medivh's treachery and forcing Gul'dan into a coma. Garona, still under mind control of the Shadow Council, then assassinated [King Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn_I "Llane Wrynn I") in the name of Gul'dan, cutting his heart out.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-22">[22]</a></sup>
+Gul'dan saw the Horde led to supremacy over most of the [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)"). During the Year 3, prior to the final siege of Stormwind, Gul'dan was aware of a raiding party against Medivh's tower of xref:Karazhan.adoc[Karazhan]. Realizing that the Azerothians intended to slay the Guardian, Gul'dan hastily ransacked Medivh's mind for the Tomb's location. He was still deep within the Guardian's thoughts when [Lothar](https://wowpedia.fandom.com/wiki/Anduin_Lothar "Anduin Lothar") and [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") killed him, ending Medivh's treachery and forcing Gul'dan into a coma. Garona, still under mind control of the Shadow Council, then assassinated [King Llane](https://wowpedia.fandom.com/wiki/Llane_Wrynn_I "Llane Wrynn I") in the name of Gul'dan, cutting his heart out.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-22">[22]</a></sup>
 
 Without the counsel of Gul'dan, Blackhand was easily slain by [Orgrim Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer"), who, with information acquired from an interrogated and tortured Garona, proceeded to slaughter Gul'dan's warlocks and the majority of the Shadow Council.<sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-23">[23]</a></sup>
 
@@ -131,17 +131,17 @@ Ultimately, Gul'dan's thirst for power proved to be the Horde's undoing. On the 
 Gul'dan did indeed locate the Tomb and used his power to raise it from the ocean floor and creating the [Broken Shore](https://wowpedia.fandom.com/wiki/Broken_Shore "Broken Shore").<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-27">[27]</a></sup><sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-28">[28]</a></sup> Taking with him his most select followers, Gul'dan cast open the doors and entered and began searching for the [Eye of Sargeras](https://wowpedia.fandom.com/wiki/Eye_of_Sargeras "Eye of Sargeras"). He did not however find the godhood he was hoping for. Instead, he was torn to shreds by a swarm of insane demons that had long ago been drawn to the tomb through the dark magics that emanated from Sargeras's remains.<sup id="cite_ref-HS_8-1"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-HS-8">[8]</a></sup> The remainder of his clans were slaughtered by Doomhammer's retaliation.<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-29">[29]</a></sup> In those last moments, Gul'dan realized he had just been a pawn, that [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") had fooled him into doing his dirty work.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Chronicle2_Gul%27dan_and_the_Tomb_of_Sargeras.jpg/revision/latest/scale-to-width-down/90?cb=20170317152758)](https://static.wikia.nocookie.net/wowpedia/images/5/5d/Chronicle2_Gul%27dan_and_the_Tomb_of_Sargeras.jpg/revision/latest?cb=20170317152758)
-    
+
     Gul'dan raises the Tomb of Sargeras.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/88/Warcraft_II_Tides_of_Darkness_Tomb_of_Sargeras.jpg/revision/latest/scale-to-width-down/120?cb=20210427231035)](https://static.wikia.nocookie.net/wowpedia/images/8/88/Warcraft_II_Tides_of_Darkness_Tomb_of_Sargeras.jpg/revision/latest?cb=20210427231035)
-    
+
     Opening the Tomb of Sargeras in _Warcraft II_.
-    
+
 -   [![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/HeroGuldanWC2.gif/revision/latest?cb=20210427235551)
-    
+
     Gul'dan in _Warcraft II_ as he appeared at the Tomb of Sargeras.
-    
+
 
 ### Legacy
 
@@ -157,11 +157,11 @@ The skull of Gul'dan in Illidan's grasp.
 
 Gul'dan's remains in the Tomb of Sargeras.
 
-After Gul'dan died, his [skull](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") was turned into a channeling totem for demonic energy. A small shard of Gul'dan's soul remained within the bleached bone of the skull, where he whispered to whoever held it; the warlock proved to still be dangerous, even in death. The skull was used by Ner'zhul to open portals to other worlds on Draenor, and later by [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") to destroy the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"). After the destruction of the Dark Portal, Khadgar left the skull behind on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") in his haste to escape through one of Ner'zhul's rifts. Years later it would appear again on Azeroth, this time used by the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to corrupt the forests of [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood"). After learning of its existence from [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") the death knight, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") found and took the skull, absorbing its power, remaining only half [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and becoming half-demon. Gul'dan's memories survived within the warlock magic of his skull and the runes he painted on the walls of the Tomb. Illidan found the Tomb using Gul'dan's memories from the Skull, and [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") found the runes. A magical artifact carried by Gul'dan, the [Shadow Orb](https://wowpedia.fandom.com/wiki/Shadow_Orb "Shadow Orb"), was shattered and found by Maiev.
+After Gul'dan died, his [skull](https://wowpedia.fandom.com/wiki/Skull_of_Gul%27dan "Skull of Gul'dan") was turned into a channeling totem for demonic energy. A small shard of Gul'dan's soul remained within the bleached bone of the skull, where he whispered to whoever held it; the warlock proved to still be dangerous, even in death. The skull was used by Ner'zhul to open portals to other worlds on Draenor, and later by [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") to destroy the xref:DarkPortal.adoc[Dark Portal]. After the destruction of the Dark Portal, Khadgar left the skull behind on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") in his haste to escape through one of Ner'zhul's rifts. Years later it would appear again on Azeroth, this time used by the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to corrupt the forests of [Felwood](https://wowpedia.fandom.com/wiki/Felwood "Felwood"). After learning of its existence from [Arthas](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") the death knight, [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") found and took the skull, absorbing its power, remaining only half [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") and becoming half-demon. Gul'dan's memories survived within the warlock magic of his skull and the runes he painted on the walls of the Tomb. Illidan found the Tomb using Gul'dan's memories from the Skull, and [Maiev Shadowsong](https://wowpedia.fandom.com/wiki/Maiev_Shadowsong "Maiev Shadowsong") found the runes. A magical artifact carried by Gul'dan, the [Shadow Orb](https://wowpedia.fandom.com/wiki/Shadow_Orb "Shadow Orb"), was shattered and found by Maiev.
 
 His loyalists in the Twilight's Hammer clan would turn from the Burning Legion and begin worship of [new masters](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods").
 
-Gul'dan's [alternate universe counterpart](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") would later come to serve the Burning Legion as well. During the [war in Draenor](https://wowpedia.fandom.com/wiki/War_in_Draenor "War in Draenor"), Gul'dan captured several [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") soldiers and tortured them for information about his counterpart from the original timeline. All he managed to learn from them was that his other self had accompanied the first Horde to war and had eventually been killed, but "details were harder to come by". When the alternate Gul'dan was later sent by the Legion to re-open the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") and allow the Legion to begin the largest demonic invasion Azeroth had ever seen, [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") revealed why the original Gul'dan had been killed by the demons he once served.
+Gul'dan's [alternate universe counterpart](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_universe) "Gul'dan (alternate universe)") would later come to serve the Burning Legion as well. During the [war in Draenor](https://wowpedia.fandom.com/wiki/War_in_Draenor "War in Draenor"), Gul'dan captured several xref:Alliance.adoc[Alliance] and xref:Horde.adoc[Horde] soldiers and tortured them for information about his counterpart from the original timeline. All he managed to learn from them was that his other self had accompanied the first Horde to war and had eventually been killed, but "details were harder to come by". When the alternate Gul'dan was later sent by the Legion to re-open the [Tomb of Sargeras](https://wowpedia.fandom.com/wiki/Tomb_of_Sargeras "Tomb of Sargeras") and allow the Legion to begin the largest demonic invasion Azeroth had ever seen, [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") revealed why the original Gul'dan had been killed by the demons he once served.
 
 _"YOU DIED BECAUSE YOU BETRAYED US. YOU WERE MEANT TO HELP **MY** HORDE EXTERMINATE ALL RESISTANCE ON THIS WORLD. YET AT THE MOMENT OF TRUTH, YOU ABANDONED THEM. YOU SPLIT THEIR ARMIES TO CLAIM THIS PLACE. OUR PLANS CAME TO NOTHING. YOU EARNED YOUR FATE."_
 
@@ -182,15 +182,15 @@ Vision of Gul'dan in _[World of Warcraft: The Burning Crusade](https://wowpedia.
 A vision of Gul'dan can be seen at the [Altar of Damnation](https://wowpedia.fandom.com/wiki/Altar_of_Damnation "Altar of Damnation") of [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley") in what is now [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") — the remnants of [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"). The altar lies in front of a massive volcano known as the [Hand of Gul'dan](https://wowpedia.fandom.com/wiki/Hand_of_Gul%27dan_(subzone) "Hand of Gul'dan (subzone)"). The repeating vision appears to depict an event prior to the opening of the Dark Portal, where according to the [Earthen Ring](https://wowpedia.fandom.com/wiki/Earthen_Ring "Earthen Ring"), the volcano was raised from the valley floor by Gul'dan himself when he severed the orcish people's connection to the elemental spirits of Draenor.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Remnant_of_Pride.jpg/revision/latest/scale-to-width-down/96?cb=20130502202252)](https://static.wikia.nocookie.net/wowpedia/images/3/3d/Remnant_of_Pride.jpg/revision/latest?cb=20130502202252)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Remnant_of_Corruption1.jpg/revision/latest/scale-to-width-down/95?cb=20130502195907)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Remnant_of_Corruption1.jpg/revision/latest?cb=20130502195907)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Remnant_of_Hate.jpg/revision/latest/scale-to-width-down/90?cb=20130502195704)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Remnant_of_Hate.jpg/revision/latest?cb=20130502195704)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Remnant_of_Greed.jpg/revision/latest/scale-to-width-down/101?cb=20130502195352)](https://static.wikia.nocookie.net/wowpedia/images/c/cf/Remnant_of_Greed.jpg/revision/latest?cb=20130502195352)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/73/Remnant_of_Malice.jpg/revision/latest/scale-to-width-down/89?cb=20130502201931)](https://static.wikia.nocookie.net/wowpedia/images/7/73/Remnant_of_Malice.jpg/revision/latest?cb=20130502201931)
-    
+
 
 ## Powers and abilities
 
@@ -208,7 +208,7 @@ Gul'dan was also able to [wipe out](https://wowpedia.fandom.com/wiki/Asghar%27s_
 -   _"What I am about to tell you may be hard for you to accept, but I have faith that my people are not close-minded when it comes to ways to better themselves. Just as we were surprised and awed to learn that there were powerful beings other than the ancestors and the elements, we have discovered that there are ways to harness magic other than cooperating with the elements. Power that is not predicated on asking or begging or pleading...power that comes because we are strong enough to demand it to come. To control it when it does. To force it to obey us, bend to our will, rather than the other way around."_
 -   _"Behold those who have power, and who are not afraid to wield it. Behold... the [warlocks](https://wowpedia.fandom.com/wiki/Warlocks "Warlocks")!"<sup id="cite_ref-32"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-32">[32]</a></sup>_
 -   _"Even now, our [ally](https://wowpedia.fandom.com/wiki/Medivh "Medivh") is working to open the Portal on his side. And now, we will begin. Blood is a pure offering to those who give us these vast powers. And the blood of a child is purer still. With the life fluid of our enemies, we will open the Portal and step into a glorious new world--a new page in the history of the Horde!"_<sup id="cite_ref-33"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-33">[33]</a></sup>
--   _"Beautiful."_ (upon receiving the plans for the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") from [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"))
+-   _"Beautiful."_ (upon receiving the plans for the xref:DarkPortal.adoc[Dark Portal] from [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh"))
 
 ### [Tides of Darkness](https://wowpedia.fandom.com/wiki/Tides_of_Darkness "Tides of Darkness")
 
@@ -216,7 +216,7 @@ Gul'dan was also able to [wipe out](https://wowpedia.fandom.com/wiki/Asghar%27s_
 -   _"The necrolytes have served their purpose. Now they shall have a new one, an even greater one. Gather our implements. We shall make a sacrifice."<sup id="cite_ref-ToD135_35-0"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-ToD135-35">[35]</a></sup>_
 -   _"Doomhammer slaughtered the other warlocks but their souls linger. We will summon them and instill them in human bodies. They will be eager to return to this world, and to serve the Horde once more."<sup id="cite_ref-ToD135_35-1"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-ToD135-35">[35]</a></sup>_
 -   _"Do not fear, Rakmar. This is not the end for you. On the contrary. You shall succeed at your task, with my help. You will fight again for the Horde. And Doomhammer will have his undead warriors. That is the good thing about necromancers--we never let anything go to waste."<sup id="cite_ref-36"><a href="https://wowpedia.fandom.com/wiki/Gul%27dan#cite_note-36">[36]</a></sup>_
--   _"Myself? No. I have no desire to march through the streets with an axe or a hammer, meeting my foes in the flesh. My path is the far greater one. I shall meet them in spirit and crush them from afar, devouring them by the hundreds and the thousands. Soon, all that was promised me shall be mine, and then [Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer") will be as nothing against me. Even the might of the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") will pale before me, and I shall stretch out my hand and wipe [this world](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") clean, to remake it in my own image!"_ (when asked by [Cho'gall](https://wowpedia.fandom.com/wiki/Cho%27gall "Cho'gall") about becoming a warchief)
+-   _"Myself? No. I have no desire to march through the streets with an axe or a hammer, meeting my foes in the flesh. My path is the far greater one. I shall meet them in spirit and crush them from afar, devouring them by the hundreds and the thousands. Soon, all that was promised me shall be mine, and then [Doomhammer](https://wowpedia.fandom.com/wiki/Orgrim_Doomhammer "Orgrim Doomhammer") will be as nothing against me. Even the might of the xref:Horde.adoc[Horde] will pale before me, and I shall stretch out my hand and wipe [this world](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") clean, to remake it in my own image!"_ (when asked by xref:Chogall.adoc[Cho'gall] about becoming a warchief)
 
 ### [Warcraft III: Frozen Throne](https://wowpedia.fandom.com/wiki/Warcraft_III:_Frozen_Throne "Warcraft III: Frozen Throne")
 
@@ -341,106 +341,106 @@ An alternate [Gul'dan](https://wowpedia.fandom.com/wiki/Gul%27dan_(alternate_uni
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/fa/BTNGuldan.png/revision/latest?cb=20090112033536)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/BTNGuldan.png/revision/latest?cb=20090112033536)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Gul%27dan_face.jpg/revision/latest/scale-to-width-down/104?cb=20081207210934)](https://static.wikia.nocookie.net/wowpedia/images/4/42/Gul%27dan_face.jpg/revision/latest?cb=20081207210934)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/12/Guldanwiki2.jpg/revision/latest/scale-to-width-down/120?cb=20060717104429)](https://static.wikia.nocookie.net/wowpedia/images/1/12/Guldanwiki2.jpg/revision/latest?cb=20060717104429)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/73/BTNGuldan-Reforged.png/revision/latest/scale-to-width-down/120?cb=20210427174509)](https://static.wikia.nocookie.net/wowpedia/images/7/73/BTNGuldan-Reforged.png/revision/latest?cb=20210427174509)
-    
+
     Icon for Gul'dan in _Warcraft III: Reforged_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/04/Gul%27dan_Black_Temple_trailer.jpg/revision/latest/scale-to-width-down/120?cb=20210430075914)](https://static.wikia.nocookie.net/wowpedia/images/0/04/Gul%27dan_Black_Temple_trailer.jpg/revision/latest?cb=20210430075914)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Gul%27dan_Chronicle.jpg/revision/latest/scale-to-width-down/72?cb=20190225195912)](https://static.wikia.nocookie.net/wowpedia/images/1/1c/Gul%27dan_Chronicle.jpg/revision/latest?cb=20190225195912)
-    
+
 -   [](https://static.wikia.nocookie.net/wowpedia/images/2/23/Gul%27dan_TCG_Alt.JPG/revision/latest?cb=20150126221503)
-    
+
     Gul'dan and the Dark Portal in the TCG.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Gul%27dan_TCG.jpg/revision/latest/scale-to-width-down/84?cb=20121005163449)](https://static.wikia.nocookie.net/wowpedia/images/6/6f/Gul%27dan_TCG.jpg/revision/latest?cb=20121005163449)
-    
+
     Gul'dan, Darkness Incarnate in the TCG.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/46/Forang_Deathrattle_TCG.jpg/revision/latest/scale-to-width-down/86?cb=20110610233920)](https://static.wikia.nocookie.net/wowpedia/images/4/46/Forang_Deathrattle_TCG.jpg/revision/latest?cb=20110610233920)
-    
+
     Although this represents [Forang Deathrattle](https://wowpedia.fandom.com/wiki/Forang_Deathrattle) in the TCG, the art was used to represent Gul'dan in the Characters of Warcraft section of the official site.
-    
+
 
 Hearthstone
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/08/Gul%27dan_HoW.jpg/revision/latest/scale-to-width-down/94?cb=20130322194008)](https://static.wikia.nocookie.net/wowpedia/images/0/08/Gul%27dan_HoW.jpg/revision/latest?cb=20130322194008)
-    
+
     Gul'dan in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. This depiction is based on his _Burning Crusade_ appearance at the Altar of Damnation.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/84/Bloodreaver_Gul%27dan.jpg/revision/latest/scale-to-width-down/120?cb=20170810193332)](https://static.wikia.nocookie.net/wowpedia/images/8/84/Bloodreaver_Gul%27dan.jpg/revision/latest?cb=20170810193332)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Knights_of_the_Frozen_Throne_key_art.jpg/revision/latest/scale-to-width-down/120?cb=20170707114849)](https://static.wikia.nocookie.net/wowpedia/images/b/bc/Knights_of_the_Frozen_Throne_key_art.jpg/revision/latest?cb=20170707114849)
-    
+
     Bloodreaver Gul'dan with other undead heroes.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/55/Knights_of_the_Frozen_Throne_death_knights.jpg/revision/latest/scale-to-width-down/120?cb=20170707101811)](https://static.wikia.nocookie.net/wowpedia/images/5/55/Knights_of_the_Frozen_Throne_death_knights.jpg/revision/latest?cb=20170707101811)
-    
+
     Bloodreaver Gul'dan with other undead heroes.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/27/Hand_of_Gul%27dan_HS.jpg/revision/latest/scale-to-width-down/120?cb=20200328231027)](https://static.wikia.nocookie.net/wowpedia/images/2/27/Hand_of_Gul%27dan_HS.jpg/revision/latest?cb=20200328231027)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Shadowmoon_Gul%27dan_HS.jpg/revision/latest/scale-to-width-down/120?cb=20220207061533)](https://static.wikia.nocookie.net/wowpedia/images/f/f9/Shadowmoon_Gul%27dan_HS.jpg/revision/latest?cb=20220207061533)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/54/House_of_Rituals_Gul%27dan.jpg/revision/latest/scale-to-width-down/120?cb=20220209104826)](https://static.wikia.nocookie.net/wowpedia/images/5/54/House_of_Rituals_Gul%27dan.jpg/revision/latest?cb=20220209104826)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Mogu%27shan_Gul%27dan.jpg/revision/latest/scale-to-width-down/120?cb=20220221202543)](https://static.wikia.nocookie.net/wowpedia/images/1/1d/Mogu%27shan_Gul%27dan.jpg/revision/latest?cb=20220221202543)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/72/Trent-kaniuga-hearthstone-sketchbookpro8.jpg/revision/latest/scale-to-width-down/120?cb=20210425223103)](https://static.wikia.nocookie.net/wowpedia/images/7/72/Trent-kaniuga-hearthstone-sketchbookpro8.jpg/revision/latest?cb=20210425223103)
-    
+
     Hearthstone E-sports banner.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/96/Forgotten_Warrior_HS_Book_of_Heroes.jpg/revision/latest/scale-to-width-down/104?cb=20220627144550)](https://static.wikia.nocookie.net/wowpedia/images/9/96/Forgotten_Warrior_HS_Book_of_Heroes.jpg/revision/latest?cb=20220627144550)
-    
+
     The [Forgotten Warrior](https://hearthstone.fandom.com/wiki/Forgotten_Warrior "hswiki:Forgotten Warrior"), the leader of Gul'dan's village, as depicted in _Book of Heroes_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Forgotten_Clan_Shaman_HS_Book_of_Heroes.jpg/revision/latest/scale-to-width-down/120?cb=20220627144011)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Forgotten_Clan_Shaman_HS_Book_of_Heroes.jpg/revision/latest?cb=20220627144011)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Forgotten_Clan_Fighter_HS_Book_of_Heroes.jpg/revision/latest/scale-to-width-down/90?cb=20220720141607)](https://static.wikia.nocookie.net/wowpedia/images/b/b2/Forgotten_Clan_Fighter_HS_Book_of_Heroes.jpg/revision/latest?cb=20220720141607)
-    
+
 
 Heroes of the Storm
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/49/Gul%27dan_HotS_art.jpg/revision/latest/scale-to-width-down/120?cb=20160706020556)](https://static.wikia.nocookie.net/wowpedia/images/4/49/Gul%27dan_HotS_art.jpg/revision/latest?cb=20160706020556)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Guldan_HotS_Art_2.jpg/revision/latest/scale-to-width-down/120?cb=20180910221323)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Guldan_HotS_Art_2.jpg/revision/latest?cb=20180910221323)
-    
+
     Modified artwork in _Heroes of the Storm_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/09/Gul%27dan_HotS.jpg/revision/latest/scale-to-width-down/84?cb=20160706020608)](https://static.wikia.nocookie.net/wowpedia/images/0/09/Gul%27dan_HotS.jpg/revision/latest?cb=20160706020608)
-    
+
     Gul'dan, Darkness Incarnate.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/75/Gul%27dan_HotS_Shadow_Council.jpg/revision/latest/scale-to-width-down/85?cb=20160706020628)](https://static.wikia.nocookie.net/wowpedia/images/7/75/Gul%27dan_HotS_Shadow_Council.jpg/revision/latest?cb=20160706020628)
-    
+
     Shadow Council Gul'dan (formerly Master Gul'dan).
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Gul%27dan_HotS_Balespider.jpg/revision/latest/scale-to-width-down/88?cb=20160706020643)](https://static.wikia.nocookie.net/wowpedia/images/a/ae/Gul%27dan_HotS_Balespider.jpg/revision/latest?cb=20160706020643)
-    
+
     Balespider Gul'dan.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Gul%27dan_HotS_Dark_Nexus.jpg/revision/latest/scale-to-width-down/89?cb=20180531093416)](https://static.wikia.nocookie.net/wowpedia/images/2/2e/Gul%27dan_HotS_Dark_Nexus.jpg/revision/latest?cb=20180531093416)
-    
+
     Dark Nexus Gul'dan.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2b/Azmodan_HotS_AzGul%27dan.jpg/revision/latest/scale-to-width-down/120?cb=20171219093702)](https://static.wikia.nocookie.net/wowpedia/images/2/2b/Azmodan_HotS_AzGul%27dan.jpg/revision/latest?cb=20171219093702)
-    
+
     Azmodan, a character from _[Diablo](https://wowpedia.fandom.com/wiki/Diablo "Diablo")_, using a Gul'dan-themed skin.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Gul%27dan_Hanamura_Showdown_art.jpg/revision/latest/scale-to-width-down/110?cb=20210403014648)](https://static.wikia.nocookie.net/wowpedia/images/0/0b/Gul%27dan_Hanamura_Showdown_art.jpg/revision/latest?cb=20210403014648)
-    
+
     In a piece of promotional art.
-    
+
 
 ## Videos
 
@@ -449,8 +449,8 @@ Heroes of the Storm
 
 ## Patch changes
 
--   [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **[Patch 2.0.3](https://wowpedia.fandom.com/wiki/Patch_2.0.3 "Patch 2.0.3") (2007-01-09):** Added as an image.  
-    
+-   [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **[Patch 2.0.3](https://wowpedia.fandom.com/wiki/Patch_2.0.3 "Patch 2.0.3") (2007-01-09):** Added as an image.
+
 
 ## See also
 
@@ -514,14 +514,14 @@ Heroes of the Storm
 -   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
 -   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
 
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") xref:Horde.adoc[Horde]
 
 
 
  |
 | --- |
 |  |
-| 
+|
 
 | Expand 
 Leadership
@@ -531,7 +531,7 @@ Leadership
 
  |
 |  |
-| 
+|
 
 | Expand 
 Characters
@@ -541,7 +541,7 @@ Characters
 
  |
 |  |
-| 
+|
 
 | Expand 
 Races
@@ -551,7 +551,7 @@ Races
 
  |
 |  |
-| 
+|
 
 | Expand 
 Cities and towns
@@ -561,7 +561,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 | Expand 
 [Organizations](https://wowpedia.fandom.com/wiki/Horde_organizations "Horde organizations")
@@ -573,7 +573,7 @@ Cities and towns
 
  |
 |  |
-| 
+|
 
 -   [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief")
 -   [Blood oath](https://wowpedia.fandom.com/wiki/Blood_Oath_of_the_Horde "Blood Oath of the Horde")

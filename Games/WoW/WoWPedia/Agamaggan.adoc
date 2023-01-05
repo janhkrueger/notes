@@ -3,12 +3,12 @@ _For his appearance in [Razorfen Kraul](https://wowpedia.fandom.com/wiki/Razorfe
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Agamaggan |
 | --- |
 | [![Image of Agamaggan](https://static.wikia.nocookie.net/wowpedia/images/3/34/Agamaggan_TCG.jpg/revision/latest/scale-to-width-down/200?cb=20151025093329)](https://static.wikia.nocookie.net/wowpedia/images/3/34/Agamaggan_TCG.jpg/revision/latest?cb=20151025093329 "Image of Agamaggan") |
-| Title | The Great Boar,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-2">[2]</a></sup>  
+| Title | The Great Boar,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-1">[1]</a></sup><sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-2">[2]</a></sup>
 the Razorboar<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Agamaggan#cite_note-3">[3]</a></sup> |
 | Gender | Male |
 | Race(s) | [Boar](https://wowpedia.fandom.com/wiki/Boar "Boar") ([Ancient Guardian](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian")) (Beast) |
-| Reaction | [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") |
-| Location | [Razorfen Downs](https://wowpedia.fandom.com/wiki/Razorfen_Downs "Razorfen Downs") (remains)  
+| Reaction | xref:Alliance.adoc[Alliance] xref:Horde.adoc[Horde] |
+| Location | [Razorfen Downs](https://wowpedia.fandom.com/wiki/Razorfen_Downs "Razorfen Downs") (remains)
 [Various](https://wowpedia.fandom.com/wiki/Agamaggan#Locations) |
 | Status | Deceased, [spirit](https://wowpedia.fandom.com/wiki/Spirit_of_Agamaggan "Spirit of Agamaggan") in [Razorfen Kraul](https://wowpedia.fandom.com/wiki/Razorfen_Kraul "Razorfen Kraul") |
 | Relative(s) | [Quilboar](https://wowpedia.fandom.com/wiki/Quilboar "Quilboar") (mortal offspring) |
@@ -95,7 +95,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Agamaggan%2C_the_Great_Boar_HS.jpg/revision/latest/scale-to-width-down/90?cb=20210506084624)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Agamaggan%2C_the_Great_Boar_HS.jpg/revision/latest?cb=20210506084624)
-    
+
 
 ## See also
 
@@ -107,18 +107,18 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
 |  |  |
 | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/npc=106907)
 -   [WoWDB](https://www.wowdb.com/npcs/106907)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/npc=97927)
 -   [WoWDB](https://www.wowdb.com/npcs/97927)
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
 
@@ -129,7 +129,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
  |
 | --- |
 |  |
-| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") | 
+| [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") |
 
 -   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
 -   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
@@ -145,7 +145,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") |
 
 -   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
 -   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
@@ -159,11 +159,11 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
--   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   xref:YoggSaron.adoc[Yogg-Saron]
 -   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
 -   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
 -   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
@@ -172,7 +172,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") |
 
 -   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
 -   **Agamaggan**
@@ -201,7 +201,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") |
 
 -   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
 -   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
@@ -247,10 +247,10 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") |
 
 -   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
--   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   xref:Neptulon.adoc[Neptulon]<sup>1st, water</sup>
 -   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
 -   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
 -   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
@@ -260,7 +260,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
 -   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
@@ -317,7 +317,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive |
 
 -   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
 -   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
@@ -330,7 +330,7 @@ An altar to Agamaggan in the [Beast Den](https://wowpedia.fandom.com/wiki/Beast_
 
  |
 |  |
-| 
+|
 
 -   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
 -   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")

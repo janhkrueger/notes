@@ -2,26 +2,26 @@
 
 The Silver Enclave.
 
-**The Silver Enclave** is the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") district of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and the headquarters of the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), a group of [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") opposing the inclusion of the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") into the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor"). When any [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") members approach the Enclave, they are immediately teleported away by the [guards](https://wowpedia.fandom.com/wiki/Silver_Covenant_Guardian_Mage "Silver Covenant Guardian Mage").
+**The Silver Enclave** is the xref:Alliance.adoc[Alliance] district of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") and the headquarters of the [Silver Covenant](https://wowpedia.fandom.com/wiki/Silver_Covenant "Silver Covenant"), a group of [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf") opposing the inclusion of the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") into the xref:KirinTor.adoc[Kirin Tor]. When any xref:Horde.adoc[Horde] members approach the Enclave, they are immediately teleported away by the [guards](https://wowpedia.fandom.com/wiki/Silver_Covenant_Guardian_Mage "Silver Covenant Guardian Mage").
 
 The area is home to a [Hero's Call Board](https://wowpedia.fandom.com/wiki/Hero%27s_Call_Board "Hero's Call Board"), Class Trainers for all classes, a mailbox as well as Quartermasters for many Legacy currencies upstairs.
 
-This section of the city was renamed to the [Greyfang Enclave](https://wowpedia.fandom.com/wiki/Greyfang_Enclave "Greyfang Enclave") after Dalaran teleported to the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") from [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass") during the [third invasion of the Burning Legion](https://wowpedia.fandom.com/wiki/Third_invasion_of_the_Burning_Legion "Third invasion of the Burning Legion").
+This section of the city was renamed to the [Greyfang Enclave](https://wowpedia.fandom.com/wiki/Greyfang_Enclave "Greyfang Enclave") after Dalaran teleported to the [Broken Isles](https://wowpedia.fandom.com/wiki/Broken_Isles "Broken Isles") from [Deadwind Pass](https://wowpedia.fandom.com/wiki/Deadwind_Pass "Deadwind Pass") during the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion].
 
 ## NPCs
 
 -   ### [A Hero's Welcome](https://wowpedia.fandom.com/wiki/A_Hero%27s_Welcome "A Hero's Welcome")
-    
+
     ### [Beer Garden](https://wowpedia.fandom.com/wiki/Beer_Garden "Beer Garden")
-    
+
     ### PvP battlegrounds sanctum
-    
+
     ### Unnamed
-    
+
 -   ### Class trainers
-    
+
     ### Justice Point Quartermasters
-    
+
 
 ## Portals
 
@@ -35,14 +35,14 @@ When first opened, the area contained [portals](https://wowpedia.fandom.com/wiki
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Silverenclave-mainhall.jpg/revision/latest/scale-to-width-down/120?cb=20080902160451)](https://static.wikia.nocookie.net/wowpedia/images/7/7d/Silverenclave-mainhall.jpg/revision/latest?cb=20080902160451)
-    
+
     The main hall
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Silverenclave-portalhall.jpg/revision/latest/scale-to-width-down/120?cb=20080902160452)](https://static.wikia.nocookie.net/wowpedia/images/c/c6/Silverenclave-portalhall.jpg/revision/latest?cb=20080902160452)
-    
+
     Portal hall area
-    
+
 
 ## Patch changes
 
@@ -50,38 +50,38 @@ When first opened, the area contained [portals](https://wowpedia.fandom.com/wiki
 
 | Northrend | Purge of Dalaran | Deadwind Pass |
 | --- | --- | --- |
-| 
+|
 -   [Wowhead](https://www.wowhead.com/zone=4740)
 -   [WoWDB](https://www.wowdb.com/zones/4740)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=6627)
 -   [WoWDB](https://www.wowdb.com/zones/6627)
 
- | 
+ |
 
 -   [Wowhead](https://www.wowhead.com/zone=7884)
 -   [WoWDB](https://www.wowdb.com/zones/7884)
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dalaran_(Northrend) "Template:Dalaran (Northrend)")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dalaran_(Northrend)?action=edit)
 
-[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") over [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend")
+[Subzones](https://wowpedia.fandom.com/wiki/Subzone "Subzone") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran") over xref:Northrend.adoc[Northrend]
 
 
 
  |
 | --- |
 |  |
-| 
+|
 
 [![Map of the Underbelly](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WorldMap-Dalaran1.jpg/revision/latest/scale-to-width-down/120?cb=20180908204522)](https://static.wikia.nocookie.net/wowpedia/images/f/f5/WorldMap-Dalaran1.jpg/revision/latest?cb=20180908204522 "Map of the Underbelly")
 
- | 
+ |
 
 -   [Antonidas Memorial](https://wowpedia.fandom.com/wiki/Antonidas_Memorial "Antonidas Memorial")
 -   [The Bank of Dalaran](https://wowpedia.fandom.com/wiki/Bank_of_Dalaran "Bank of Dalaran")
@@ -130,13 +130,13 @@ When first opened, the area contained [portals](https://wowpedia.fandom.com/wiki
 
 
 
- | 
+ |
 
 [![Map of Dalaran](https://static.wikia.nocookie.net/wowpedia/images/0/0f/WorldMap-Dalaran.jpg/revision/latest/scale-to-width-down/120?cb=20180908204325)](https://static.wikia.nocookie.net/wowpedia/images/0/0f/WorldMap-Dalaran.jpg/revision/latest?cb=20180908204325 "Map of Dalaran")
 
  |
 |  |
-| 
+|
 
 -   [The Underbelly](https://wowpedia.fandom.com/wiki/Underbelly "Underbelly") — [The Black Market](https://wowpedia.fandom.com/wiki/Black_Market_(Dalaran) "Black Market (Dalaran)")
 -   [Cantrips & Crows](https://wowpedia.fandom.com/wiki/Cantrips_%26_Crows "Cantrips & Crows")
@@ -147,7 +147,7 @@ When first opened, the area contained [portals](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Dalaran fountain](https://wowpedia.fandom.com/wiki/Dalaran_fountain "Dalaran fountain")
 -   [Violet Citadel Balcony](https://wowpedia.fandom.com/wiki/Violet_Citadel_Balcony "Violet Citadel Balcony")
@@ -156,7 +156,7 @@ When first opened, the area contained [portals](https://wowpedia.fandom.com/wiki
 
  |
 |  |
-| 
+|
 
 [Dalaran category](https://wowpedia.fandom.com/wiki/Category:Dalaran "Category:Dalaran")
 

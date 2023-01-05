@@ -38,11 +38,11 @@ The [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial ch
 
 The entrance to the Ruins of Lordaeron in _Classic_.
 
-After the massacre of its citizens at the hands of the Scourge and the destruction of the city and its [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") defenders, the ruins were overseen by [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"), [Detheroc](https://wowpedia.fandom.com/wiki/Detheroc "Detheroc"), and [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras").
+After the massacre of its citizens at the hands of the Scourge and the destruction of the city and its xref:Alliance.adoc[Alliance] defenders, the ruins were overseen by [Balnazzar](https://wowpedia.fandom.com/wiki/Balnazzar "Balnazzar"), [Detheroc](https://wowpedia.fandom.com/wiki/Detheroc "Detheroc"), and [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras").
 
 Several months after the end of the xref:ThirdWar.adoc[Third War], detachments of the surviving [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") emerged from the rubble of the Lordaeron to form a resistance against the Scourge and to protect those who fled to [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), recaptured by the [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") led by [Grand Marshal Garithos](https://wowpedia.fandom.com/wiki/Grand_Marshal_Garithos "Grand Marshal Garithos").<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-4">[4]</a></sup> Among them, the [Crippling Force](https://wowpedia.fandom.com/wiki/Crippling_Force "Crippling Force"), the [Defenders of Justice](https://wowpedia.fandom.com/wiki/Defenders_of_Justice "Defenders of Justice") and the [Circle of Holy Light](https://wowpedia.fandom.com/wiki/Circle_of_Holy_Light "Circle of Holy Light") guarded the ruined [Lordaeron palace gardens](https://wowpedia.fandom.com/wiki/Lordaeron_palace_gardens "Lordaeron palace gardens"), respectively under the command of [Dagren the Orcslayer](https://wowpedia.fandom.com/wiki/Dagren_the_Orcslayer "Dagren the Orcslayer"), [Magroth the Defender](https://wowpedia.fandom.com/wiki/Magroth_the_Defender "Magroth the Defender") and [Halahk the Lifebringer](https://wowpedia.fandom.com/wiki/Halahk_the_Lifebringer "Halahk the Lifebringer"). However, their combined efforts were not enough, as they were defeated by [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") and [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") on their return from [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"), enabling the Scourge to murder the survivors and destroyed the resistance.<sup id="cite_ref-W3xU1_5-0"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-W3xU1-5">[5]</a></sup> After his victory, Arthas ousted the dreadlords of the ruined city and named himself [King of Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)").<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-6">[6]</a></sup>
 
-When [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") recalled Arthas to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), Balnazzar took control over the city once again. The combined forces of Grand Marshal Garithos and Sylvanas Windrunner defeated Balnazzar, at which point Sylvanas betrayed her [allies](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") and took the city for herself.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-7">[7]</a></sup> The [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), which lies beneath the ruins of the city, became the capital of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken").
+When [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") recalled Arthas to xref:Northrend.adoc[Northrend], Balnazzar took control over the city once again. The combined forces of Grand Marshal Garithos and Sylvanas Windrunner defeated Balnazzar, at which point Sylvanas betrayed her [allies](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") and took the city for herself.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-7">[7]</a></sup> The [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity"), which lies beneath the ruins of the city, became the capital of the [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken").
 
 ### World of Warcraft
 
@@ -80,7 +80,7 @@ Since the fall of [Garrosh Hellscream](https://wowpedia.fandom.com/wiki/Garrosh_
 
 The siege of Lordaeron.
 
-Capital City was put under [siege](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron") by the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") during the [reignited war](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") between the Alliance and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). Led by [High King Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), the Alliance sought to reclaim the fallen capital from the Forsaken and the Horde. Though Sylvanas and the Horde put up a fierce defense, the Alliance routed the Horde from the city. Rather than let the Alliance claim Lordaeron as a stronghold, Sylvanas had rigged all of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") and Lordaeron Keep to be [blighted](https://wowpedia.fandom.com/wiki/New_Plague "New Plague"). In the end, the Horde was forced to abandon Capital City and the Undercity beneath it, leaving the ruins plagued and unclaimed, only occupied by the living skeletons that fell during the siege.
+Capital City was put under [siege](https://wowpedia.fandom.com/wiki/Battle_for_Lordaeron "Battle for Lordaeron") by the xref:Alliance.adoc[Alliance] during the [reignited war](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") between the Alliance and the xref:Horde.adoc[Horde]. Led by [High King Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn"), the Alliance sought to reclaim the fallen capital from the Forsaken and the Horde. Though Sylvanas and the Horde put up a fierce defense, the Alliance routed the Horde from the city. Rather than let the Alliance claim Lordaeron as a stronghold, Sylvanas had rigged all of the [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") and Lordaeron Keep to be [blighted](https://wowpedia.fandom.com/wiki/New_Plague "New Plague"). In the end, the Horde was forced to abandon Capital City and the Undercity beneath it, leaving the ruins plagued and unclaimed, only occupied by the living skeletons that fell during the siege.
 
 By the time of the end of the Fourth War, [Renzik "The Shiv"](https://wowpedia.fandom.com/wiki/Renzik_%22The_Shiv%22 "Renzik "The Shiv"") reported that parts of the ruins of Lordaeron appear slightly less dangerous as if the blight was slowly fading, but the toxic blight will likely take a very long time to disperse completely.<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-9">[9]</a></sup>
 
@@ -98,7 +98,7 @@ After retaking [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill") and bring
 
 [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
 
-Lordaeron's capital city stood for centuries, a monument to humanity's might. In the xref:ThirdWar.adoc[Third War], [Prince Arthas](https://wowpedia.fandom.com/wiki/Prince_Arthas "Prince Arthas") slew his father [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas") in Lordaeron's [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") and ransacked the city. He planned to use Lordaeron as his capital on this continent and ordered his minions to expand the catacombs beneath the city. Then the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") summoned Arthas to [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and the work was left uncompleted.
+Lordaeron's capital city stood for centuries, a monument to humanity's might. In the xref:ThirdWar.adoc[Third War], [Prince Arthas](https://wowpedia.fandom.com/wiki/Prince_Arthas "Prince Arthas") slew his father [King Terenas](https://wowpedia.fandom.com/wiki/King_Terenas "King Terenas") in Lordaeron's [throne room](https://wowpedia.fandom.com/wiki/Imperial_chamber "Imperial chamber") and ransacked the city. He planned to use Lordaeron as his capital on this continent and ordered his minions to expand the catacombs beneath the city. Then the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") summoned Arthas to xref:Northrend.adoc[Northrend] and the work was left uncompleted.
 
 During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") broke free of the Lich King's control and took many [banshees](https://wowpedia.fandom.com/wiki/Banshee "Banshee") and other [undead](https://wowpedia.fandom.com/wiki/Undead "Undead") with her. With [Varimathras](https://wowpedia.fandom.com/wiki/Varimathras "Varimathras")' assistance she defeated the [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") that controlled the city and set her newly dubbed [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") to finish Arthas' job in the dungeons. The Forsaken carved [Undercity](https://wowpedia.fandom.com/wiki/Undercity "Undercity") and now rule the surrounding countryside.<sup id="cite_ref-LoC109_12-0"><a href="https://wowpedia.fandom.com/wiki/Ruins_of_Lordaeron#cite_note-LoC109-12">[12]</a></sup>
 
@@ -338,7 +338,7 @@ During Arthas' exodus, [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sy
 -   [v](https://wowpedia.fandom.com/wiki/Template:New_Horde "Template:New Horde")
 -   [e](https://wowpedia.fandom.com/wiki/Template:New_Horde?action=edit)
 
-[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde")
+[![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") xref:Horde.adoc[Horde]
 
 
 
@@ -514,7 +514,7 @@ Races
 -   [Undead Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
 -   [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
 -   [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
--   [Pandaren](https://wowpedia.fandom.com/wiki/Pandaren "Pandaren")
+-   xref:Pandaren.adoc[Pandaren]
 -   [Dracthyr](https://wowpedia.fandom.com/wiki/Dracthyr "Dracthyr")
 
 
@@ -578,7 +578,7 @@ Cities and towns
 |  |
 | [Capital cities](https://wowpedia.fandom.com/wiki/Capital "Capital") |
 
--   [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar")
+-   xref:Orgrimmar.adoc[Orgrimmar]
 -   [Thunder Bluff](https://wowpedia.fandom.com/wiki/Thunder_Bluff "Thunder Bluff")
 -   [Darkspear Isle](https://wowpedia.fandom.com/wiki/Darkspear_Isle "Darkspear Isle")
 -   [Silvermoon City](https://wowpedia.fandom.com/wiki/Silvermoon_City "Silvermoon City")
@@ -653,7 +653,7 @@ Cities and towns
 
  |
 |  |
-| [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") |
+| xref:Northrend.adoc[Northrend] |
 
 -   [Agmar's Hammer](https://wowpedia.fandom.com/wiki/Agmar%27s_Hammer "Agmar's Hammer")
 -   [Camp Tunka'lo](https://wowpedia.fandom.com/wiki/Camp_Tunka%27lo "Camp Tunka'lo")
@@ -1008,7 +1008,7 @@ Cities and towns
 -   [Magram clan](https://wowpedia.fandom.com/wiki/Magram_clan "Magram clan")
 -   [Witherbark tribe](https://wowpedia.fandom.com/wiki/Witherbark_tribe "Witherbark tribe")
 -   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
--   [Steamwheedle Cartel](https://wowpedia.fandom.com/wiki/Steamwheedle_Cartel "Steamwheedle Cartel")
+-   xref:SteamwheedleCartel.adoc[Steamwheedle Cartel]
 -   [Kingdom of Alterac](https://wowpedia.fandom.com/wiki/Alterac_(kingdom) "Alterac (kingdom)")
 
 

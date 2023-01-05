@@ -40,7 +40,7 @@ Traveling in a cold corner of the [Great Dark Beyond](https://wowpedia.fandom.co
 
 When he returned to the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") to tell of his discovery, Sargeras was chastised by his brethren, who insisted that they may have been able to save the world-soul without killing it. It was this event that later led Sargeras to form the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") in an attempt to prevent the void lords from ever spawning a [dark titan](https://wowpedia.fandom.com/wiki/Dark_titan "Dark titan").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/World-soul#cite_note-8">[8]</a></sup>
 
-After Sargeras' departure, his colleague, [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar"), continued his work. One day, as he was wandering in the Great Dark, Aggramar heard the tranquil dreams of the most powerful world-soul yet discovered: [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). To his horror, he discovered that the planet had already been claimed by the Old Gods, though the defenseless titan within remained as yet untouched. After Aggramar and [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar") convinced their brethren to save Azeroth from corruption, the Pantheon crafted the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") to do battle against the Old Gods, before eventually imprisoning them deep beneath the surface of the planet.
+After Sargeras' departure, his colleague, [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar"), continued his work. One day, as he was wandering in the Great Dark, Aggramar heard the tranquil dreams of the most powerful world-soul yet discovered: xref:Azeroth.adoc[Azeroth]. To his horror, he discovered that the planet had already been claimed by the Old Gods, though the defenseless titan within remained as yet untouched. After Aggramar and [Eonar](https://wowpedia.fandom.com/wiki/Eonar "Eonar") convinced their brethren to save Azeroth from corruption, the Pantheon crafted the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") to do battle against the Old Gods, before eventually imprisoning them deep beneath the surface of the planet.
 
 ### Star Augur Etraeus
 
@@ -62,33 +62,33 @@ It was also demonstrated by Zovaal that world-souls have other uses besides crea
 -   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens "Template:Azeroth aliens")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens?action=edit)
 
-Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to xref:Azeroth.adoc[Azeroth]
 
 
 
  |
 | --- |
 |  |
-| [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") natives | 
+| [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Eredar" title="Eredar">Eredar</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar#Demonic_eredar" title="Eredar">Man'ari</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar_brute" title="Eredar brute">Brute</a></li><li><a href="https://wowpedia.fandom.com/wiki/Doommaiden" title="Doommaiden">Doommaiden</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wrathguard" title="Wrathguard">Wrathguard</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Draenei" title="Draenei">Draenei</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lightforged_draenei" title="Lightforged draenei">Lightforged draenei</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Broken" title="Broken">Broken</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lost_One" title="Lost One">Lost One</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidscarred" title="Voidscarred">Voidscarred</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-draenei" title="Half-draenei">Half-draenei</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") natives | 
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Breakers" title="Breakers">Breakers</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Colossal" title="Colossal">Colossal</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Magnaron" title="Magnaron">Magnaron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Gronn" title="Gronn">Gronn</a>/<a href="https://wowpedia.fandom.com/wiki/Gronnling" title="Gronnling">Gronnling</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogron" title="Ogron">Ogron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre" title="Ogre">Ogre</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre_lord" title="Ogre lord">Ogre lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ogre_mage" title="Ogre mage">Ogre mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Orc" title="Orc">Orc</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mag%27har_orc" title="Mag'har orc">Mag'har</a></li><li>Green-skinned</li><li><a href="https://wowpedia.fandom.com/wiki/Fel_orc" title="Fel orc">Fel orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dire_orc" title="Dire orc">Dire orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pale_orc" title="Pale orc">Pale orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infested" title="Infested">The Infested</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-ogre" title="Half-ogre">Half-ogre</a></li></ul></li></ul></li></ul></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Goren" title="Goren">Goren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Half-orc" title="Half-orc">Half-orc</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Zangar_encroachment" title="Zangar encroachment">Fungi</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Fungal_giant" title="Fungal giant">Fungal giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sporeling" title="Sporeling">Sporeling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Primals" title="Primals">Primals</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Genesaur" title="Genesaur">Genesaur</a></li><li><a href="https://wowpedia.fandom.com/wiki/Draenor_ancient" title="Draenor ancient">Draenor ancient</a></li><li><a href="https://wowpedia.fandom.com/wiki/Botani" title="Botani">Botani</a></li><li><a href="https://wowpedia.fandom.com/wiki/Podling" title="Podling">Podling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Arakkoa" title="Arakkoa">Arakkoa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saberon" title="Saberon">Saberon</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh") natives | 
+| [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Ethereal" title="Ethereal">Ethereal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Ethereal" title="Ethereal">Ethereal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ethereal#Nexus-stalkers" title="Ethereal">Nexus-stalker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Void_ethereal" title="Void ethereal">Void ethereal</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")  
-natives | 
+| [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")
+natives |
 
 -   [Attendant](https://wowpedia.fandom.com/wiki/Attendant "Attendant")
 -   [Automa](https://wowpedia.fandom.com/wiki/Automa "Automa")
@@ -127,8 +127,8 @@ natives |
 
  |
 |  |
-| Inhabitants of the  
-[Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") | 
+| Inhabitants of the
+[Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") |
 
 -   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
 -   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
@@ -153,13 +153,13 @@ natives |
 
  |
 |  |
-| [Void](https://wowpedia.fandom.com/wiki/Void "Void") | 
+| [Void](https://wowpedia.fandom.com/wiki/Void "Void") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lords</a> and <a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old Gods</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lord</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old God</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aqir" title="Aqir">Aqir</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mantid" title="Mantid">Mantid</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Kunchong" title="Kunchong">Kunchong</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian" title="Nerubian">Nerubian</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spiderlord" title="Nerubian spiderlord">Spiderlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji" title="Qiraji">Qiraji</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_battleguard" title="Qiraji battleguard">Battleguard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_emperor" title="Qiraji emperor">Emperor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_gladiator" title="Qiraji gladiator">Gladiator</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_prophet" title="Qiraji prophet">Prophet</a></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/N%27raqi" title="N'raqi">N'raqi</a><ul><li><a href="https://wowpedia.fandom.com/wiki/C%27Thrax" title="C'Thrax">C'Thrax</a></li><li><a href="https://wowpedia.fandom.com/wiki/K%27thir" title="K'thir">K'thir</a></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_revenant" title="Void revenant">Void revenant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwalker" title="Voidwalker">Voidwalker</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Voidcaller" title="Voidcaller">Voidcaller</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidlord" title="Voidlord">Voidlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwraith" title="Voidwraith">Voidwraith</a></li></ul></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Interstellar travelers | 
+| Interstellar travelers |
 
 -   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
 -   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") ([Void god](https://wowpedia.fandom.com/wiki/Void_god "Void god"))
@@ -171,7 +171,7 @@ natives |
 
  |
 |  |
-| Extinct | 
+| Extinct |
 
 [Aldrachi](https://wowpedia.fandom.com/wiki/Aldrachi "Aldrachi")
 
@@ -179,7 +179,7 @@ natives |
 
  |
 |  |
-| 
+|
 
 -   This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
 

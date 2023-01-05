@@ -1,4 +1,4 @@
-**Demigods** (or **demi-gods**) are creatures [eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal") in nature yet capable of ultimate [sacrifice](https://wowpedia.fandom.com/wiki/Sacrifice "Sacrifice").<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-1">[1]</a></sup> Part [god](https://wowpedia.fandom.com/wiki/God "God") and part other, the demigods of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") wield great power and have occasionally played pivotal roles in the planet's history. Unlike gods, most demigods have never been the objects of worship. Few demigods have temples built in their honor. Priesthoods based on the worship of a demigod are extremely rare. Nevertheless, demigods have been revered in the past, and some of them continue to be respected today.<sup id="cite_ref-EnDemigods_2-0"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
+**Demigods** (or **demi-gods**) are creatures [eternal](https://wowpedia.fandom.com/wiki/Eternal "Eternal") in nature yet capable of ultimate [sacrifice](https://wowpedia.fandom.com/wiki/Sacrifice "Sacrifice").<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-1">[1]</a></sup> Part [god](https://wowpedia.fandom.com/wiki/God "God") and part other, the demigods of xref:Azeroth.adoc[Azeroth] wield great power and have occasionally played pivotal roles in the planet's history. Unlike gods, most demigods have never been the objects of worship. Few demigods have temples built in their honor. Priesthoods based on the worship of a demigod are extremely rare. Nevertheless, demigods have been revered in the past, and some of them continue to be respected today.<sup id="cite_ref-EnDemigods_2-0"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
 
 They are [immortal](https://wowpedia.fandom.com/wiki/Immortal "Immortal"), but they are neither omniscient nor omnipotent. Otherwise, among other things, they would have known immediately of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s first invasion, and they would have been able to thwart it with ease.<sup id="cite_ref-EnDemigods_2-1"><a href="https://wowpedia.fandom.com/wiki/Demigod#cite_note-EnDemigods-2">[2]</a></sup>
 
@@ -10,7 +10,7 @@ Sadly there is no question as to whether or not a demigod can be slain. Several 
 
 _Main articles: [Ancient Guardian](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian"), [August Celestial](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial")_
 
-The [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") like [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") and [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana") are demigods of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). The [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial") are Ancients who remained in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
+The [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") like [Cenarius](https://wowpedia.fandom.com/wiki/Cenarius "Cenarius") and [Aviana](https://wowpedia.fandom.com/wiki/Aviana "Aviana") are demigods of xref:Azeroth.adoc[Azeroth]. The [August Celestials](https://wowpedia.fandom.com/wiki/August_Celestial "August Celestial") are Ancients who remained in [Pandaria](https://wowpedia.fandom.com/wiki/Pandaria "Pandaria") after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
 
 ### The Scourge
 
@@ -94,7 +94,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
--   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   xref:YoggSaron.adoc[Yogg-Saron]
 -   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
 -   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
 -   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
@@ -181,7 +181,7 @@ There are many demigods, but only a few mortals have been called demigods due to
 | [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") |
 
 -   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
--   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   xref:Neptulon.adoc[Neptulon]<sup>1st, water</sup>
 -   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
 -   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
 -   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>

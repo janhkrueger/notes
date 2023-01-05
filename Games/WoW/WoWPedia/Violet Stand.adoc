@@ -2,7 +2,7 @@
 
 Violet Stand.
 
-The **Violet Stand** is a [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") outpost located within [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") ruins. Corpses of blue dragonspawn, presumably from the nearby [Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front"), litter the ruins. There are also burnt holes here, presumably from battle. Violet Stand is located just to the northwest of the [Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front") in southwest [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest"). To the north is the [Great Tree](https://wowpedia.fandom.com/wiki/Great_Tree_(Crystalsong_Forest) "Great Tree (Crystalsong Forest)") and the [Decrepit Flow](https://wowpedia.fandom.com/wiki/Decrepit_Flow "Decrepit Flow") coming from [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown").
+The **Violet Stand** is a xref:KirinTor.adoc[Kirin Tor] outpost located within [night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") ruins. Corpses of blue dragonspawn, presumably from the nearby [Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front"), litter the ruins. There are also burnt holes here, presumably from battle. Violet Stand is located just to the northwest of the [Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front") in southwest [Crystalsong Forest](https://wowpedia.fandom.com/wiki/Crystalsong_Forest "Crystalsong Forest"). To the north is the [Great Tree](https://wowpedia.fandom.com/wiki/Great_Tree_(Crystalsong_Forest) "Great Tree (Crystalsong Forest)") and the [Decrepit Flow](https://wowpedia.fandom.com/wiki/Decrepit_Flow "Decrepit Flow") coming from [Icecrown](https://wowpedia.fandom.com/wiki/Icecrown "Icecrown").
 
 It has a [Teleport to Violet Stand Crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Violet_Stand_Crystal "Teleport to Violet Stand Crystal") from [Teleport to Dalaran Crystal](https://wowpedia.fandom.com/wiki/Teleport_to_Dalaran_Crystal "Teleport to Dalaran Crystal").
 
@@ -82,15 +82,15 @@ While walking to the Violet Stand it is simple, there is no direct path to or fr
 
 ## Patch changes
 
--   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.  
-    
+-   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.
+
 
 ## External links
 
 -   [Wowhead](https://www.wowhead.com/zone=4556)
 -   [WoWDB](https://www.wowdb.com/zones/4556)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Crystalsong_Forest "Template:Crystalsong Forest")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Crystalsong_Forest?action=edit)
 
@@ -101,11 +101,11 @@ While walking to the Violet Stand it is simple, there is no direct path to or fr
  |
 | --- |
 |  |
-| 
+|
 
 [![Crystalsong Forest is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Crystalsong Forest is a contested territory")
 
- | 
+ |
 
 -   [The Azure Front](https://wowpedia.fandom.com/wiki/Azure_Front "Azure Front")
 -   [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")
@@ -122,13 +122,13 @@ While walking to the Violet Stand it is simple, there is no direct path to or fr
 
 
 
- | 
+ |
 
 [![Map of Crystalsong Forest](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-CrystalsongForest.jpg/revision/latest/scale-to-width-down/120?cb=20081001091342)](https://static.wikia.nocookie.net/wowpedia/images/1/16/WorldMap-CrystalsongForest.jpg/revision/latest?cb=20081001091342 "Map of Crystalsong Forest")
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Path of the Titans](https://wowpedia.fandom.com/wiki/Path_of_the_Titans "Path of the Titans")
 
@@ -136,7 +136,7 @@ While walking to the Violet Stand it is simple, there is no direct path to or fr
 
  |
 |  |
-| 
+|
 
 [Crystalsong Forest category](https://wowpedia.fandom.com/wiki/Category:Crystalsong_Forest "Category:Crystalsong Forest")
 

@@ -2,14 +2,14 @@
 | --- |
 | [![Anyfin Can Happen.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Anyfin_Can_Happen.jpg/revision/latest/scale-to-width-down/250?cb=20151207160222)](https://static.wikia.nocookie.net/wowpedia/images/d/d3/Anyfin_Can_Happen.jpg/revision/latest?cb=20151207160222) |
 | Faction/Affiliation | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
-| Character classes | 
-[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Coastrunner](https://wowpedia.fandom.com/wiki/Murloc_coastrunner "Murloc coastrunner"), [Demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-1">[1]</a></sup> [Forager](https://wowpedia.fandom.com/wiki/Forager "Forager"), [Huntsman](https://wowpedia.fandom.com/wiki/Murloc_huntsman "Murloc huntsman"), [Nightcrawler](https://wowpedia.fandom.com/wiki/Murloc_nightcrawler "Murloc nightcrawler"), [Shadowcaster](https://wowpedia.fandom.com/wiki/Shadowcaster "Shadowcaster"), [Shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman"), Shorestriker, [Sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), [Tidehunter](https://wowpedia.fandom.com/wiki/Murloc_tidehunter "Murloc tidehunter"), [Tiderunner](https://wowpedia.fandom.com/wiki/Murloc_tiderunner "Murloc tiderunner")  
-[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") [Paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin"), [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight")  
-[![Icon-TCG.png](https://static.wikia.nocookie.net/wowpedia/images/3/35/Icon-TCG.png/revision/latest?cb=20191213195423)](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game") [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"),<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-2">[2]</a></sup> [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")  
+| Character classes |
+[![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [Coastrunner](https://wowpedia.fandom.com/wiki/Murloc_coastrunner "Murloc coastrunner"), [Demon hunter](https://wowpedia.fandom.com/wiki/Demon_hunter "Demon hunter"),<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-1">[1]</a></sup> [Forager](https://wowpedia.fandom.com/wiki/Forager "Forager"), [Huntsman](https://wowpedia.fandom.com/wiki/Murloc_huntsman "Murloc huntsman"), [Nightcrawler](https://wowpedia.fandom.com/wiki/Murloc_nightcrawler "Murloc nightcrawler"), [Shadowcaster](https://wowpedia.fandom.com/wiki/Shadowcaster "Shadowcaster"), [Shaman](https://wowpedia.fandom.com/wiki/Shaman "Shaman"), Shorestriker, [Sorcerer](https://wowpedia.fandom.com/wiki/Sorcerer "Sorcerer"), [Tidehunter](https://wowpedia.fandom.com/wiki/Murloc_tidehunter "Murloc tidehunter"), [Tiderunner](https://wowpedia.fandom.com/wiki/Murloc_tiderunner "Murloc tiderunner")
+[![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") [Paladin](https://wowpedia.fandom.com/wiki/Paladin "Paladin"), [Death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight")
+[![Icon-TCG.png](https://static.wikia.nocookie.net/wowpedia/images/3/35/Icon-TCG.png/revision/latest?cb=20191213195423)](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game") [Hunter](https://wowpedia.fandom.com/wiki/Hunter "Hunter"), [Mage](https://wowpedia.fandom.com/wiki/Mage "Mage"), [Priest](https://wowpedia.fandom.com/wiki/Priest "Priest"), [Rogue](https://wowpedia.fandom.com/wiki/Rogue "Rogue"), [Warlock](https://wowpedia.fandom.com/wiki/Warlock "Warlock"),<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-2">[2]</a></sup> [Warrior](https://wowpedia.fandom.com/wiki/Warrior "Warrior")
 
 [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [Barbarian](https://wowpedia.fandom.com/wiki/Barbarian "Barbarian"), [Scout](https://wowpedia.fandom.com/wiki/Scout "Scout") |
 | Racial leader(s) | Tribal [chieftains](https://wowpedia.fandom.com/wiki/Chieftain "Chieftain") |
-| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Homeworld | xref:Azeroth.adoc[Azeroth] |
 | Environment | Shorelines, lakes, rivers and seas |
 | Language(s) | [Nerglish](https://wowpedia.fandom.com/wiki/Nerglish "Nerglish") |
 | Organization(s) | Various [clans](https://wowpedia.fandom.com/wiki/Clan "Clan")<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-3">[3]</a></sup> and [tribes](https://wowpedia.fandom.com/wiki/Tribe "Tribe") |
@@ -34,7 +34,7 @@ Vicious murlocs.
 
 — [Clopper Wizbang](https://wowpedia.fandom.com/wiki/Clopper_Wizbang "Clopper Wizbang"), [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League")<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-7">[7]</a></sup>
 
-Murlocs are a very ancient race of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") who evolved to survive in Azeroth's dangerous aquatic environments.<sup id="cite_ref-Murky_8-0"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-Murky-8">[8]</a></sup> Based on several accounts and clues, it is now believed that murlocs (or, more appropriately, their ancestors) may pre-date [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"). These ancient murlocs lived in the oceans' depths and therefore were never known to the world's early land-dwelling races.<sup id="cite_ref-The_Murlocs_9-0"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-The_Murlocs-9">[9]</a></sup> According to the [dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") explorer [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard"), murlocs are believed to be descended from [gorlocs](https://wowpedia.fandom.com/wiki/Gorloc "Gorloc"), who are in turn speculated to be descended from an unknown frog [Ancient Guardian](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian").<sup id="cite_ref-WoWM5_6-1"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-WoWM5-6">[6]</a></sup>
+Murlocs are a very ancient race of xref:Azeroth.adoc[Azeroth] who evolved to survive in Azeroth's dangerous aquatic environments.<sup id="cite_ref-Murky_8-0"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-Murky-8">[8]</a></sup> Based on several accounts and clues, it is now believed that murlocs (or, more appropriately, their ancestors) may pre-date [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"). These ancient murlocs lived in the oceans' depths and therefore were never known to the world's early land-dwelling races.<sup id="cite_ref-The_Murlocs_9-0"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-The_Murlocs-9">[9]</a></sup> According to the [dwarven](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") explorer [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard"), murlocs are believed to be descended from [gorlocs](https://wowpedia.fandom.com/wiki/Gorloc "Gorloc"), who are in turn speculated to be descended from an unknown frog [Ancient Guardian](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian").<sup id="cite_ref-WoWM5_6-1"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-WoWM5-6">[6]</a></sup>
 
 There are some who believe that murlocs are new to Azeroth.<sup id="cite_ref-Exploring_Azeroth:_Kalimdor_10-0"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-Exploring_Azeroth:_Kalimdor-10">[10]</a></sup>
 
@@ -46,7 +46,7 @@ According to some old stories, murlocs rose up from the deep seas of Azeroth.<su
 
 ### Third War
 
-Murlocs also became unwittingly responsible for the shape of the present-day [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde"). Murlocs attacks on the troll [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") spurred the [orcish](https://wowpedia.fandom.com/wiki/Orc "Orc") [warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") (at the time waylaid on the [Darkspear Islands](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands")) and his warriors to drive off the marauding fish-men worshipping the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") [Zar'jira](https://wowpedia.fandom.com/wiki/Zar%27jira "Zar'jira") and then to form an alliance between the [Darkspear](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") which lasts to this day. This troll-orc alliance would form the heart of the modern-day [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
+Murlocs also became unwittingly responsible for the shape of the present-day xref:Horde.adoc[Horde]. Murlocs attacks on the troll [Darkspear tribe](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") spurred the [orcish](https://wowpedia.fandom.com/wiki/Orc "Orc") [warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") (at the time waylaid on the [Darkspear Islands](https://wowpedia.fandom.com/wiki/Darkspear_Islands "Darkspear Islands")) and his warriors to drive off the marauding fish-men worshipping the [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") [Zar'jira](https://wowpedia.fandom.com/wiki/Zar%27jira "Zar'jira") and then to form an alliance between the [Darkspear](https://wowpedia.fandom.com/wiki/Darkspear_tribe "Darkspear tribe") and the xref:Horde.adoc[Horde] which lasts to this day. This troll-orc alliance would form the heart of the modern-day xref:Horde.adoc[Horde].
 
 A small murloc encampment was located south of [Strahnbrad](https://wowpedia.fandom.com/wiki/Strahnbrad "Strahnbrad"), near the [Blackrock Camp](https://wowpedia.fandom.com/wiki/Blackrock_Camp "Blackrock Camp"). It was raided by Prince [Arthas](https://wowpedia.fandom.com/wiki/Arthas "Arthas") and his [footmen](https://wowpedia.fandom.com/wiki/Footmen "Footmen").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-12">[12]</a></sup>
 
@@ -100,7 +100,7 @@ For many years these enigmatic creatures appeared to be capable of only the most
 
 Murlocs may appear colorful and simple to the casual observer,<sup id="cite_ref-Murky_8-2"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-Murky-8">[8]</a></sup> and their supposed intelligence has been debated. Some argue that, since their guttural language is impossibly difficult to decipher, they have limited intelligence. However, their use of weaponry and uncanny fighting abilities imply a rather sinister racial intellect.<sup id="cite_ref-Warcraft_III_—_manual_139-140_11-1"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-Warcraft_III_%E2%80%94_manual_139-140-11">[11]</a></sup> Murlocs may not be as dumb as everyone thinks they are. Several clues point to the fact that their steady infiltration of the world's land masses may be a coordinated effort. Whether or not this enterprise has been undertaken strictly of their own accord is not yet known.<sup id="cite_ref-The_Murlocs_9-4"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-The_Murlocs-9">[9]</a></sup>
 
-Additionally, [D.E.H.T.A.](https://wowpedia.fandom.com/wiki/Druids_for_the_Ethical_and_Humane_Treatment_of_Animals "Druids for the Ethical and Humane Treatment of Animals") representative [King Mrgl-Mrgl](https://wowpedia.fandom.com/wiki/King_Mrgl-Mrgl "King Mrgl-Mrgl") discovered, after he had learned their language, that the [Winterfin tribe](https://wowpedia.fandom.com/wiki/Winterfin_tribe "Winterfin tribe") of murlocs in the [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") are as intelligent as any of Azeroth's more "civilized" races. Whether this is scientifically true, or if he is just too attached to the murloc species, is yet to be seen. According to [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard"), murlocs are smarter than what other races think—smart enough to not let anyone know.<sup id="cite_ref-WoWM5_6-2"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-WoWM5-6">[6]</a></sup>
+Additionally, [D.E.H.T.A.](https://wowpedia.fandom.com/wiki/Druids_for_the_Ethical_and_Humane_Treatment_of_Animals "Druids for the Ethical and Humane Treatment of Animals") representative [King Mrgl-Mrgl](https://wowpedia.fandom.com/wiki/King_Mrgl-Mrgl "King Mrgl-Mrgl") discovered, after he had learned their language, that the [Winterfin tribe](https://wowpedia.fandom.com/wiki/Winterfin_tribe "Winterfin tribe") of murlocs in the [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") of xref:Northrend.adoc[Northrend] are as intelligent as any of Azeroth's more "civilized" races. Whether this is scientifically true, or if he is just too attached to the murloc species, is yet to be seen. According to [Brann Bronzebeard](https://wowpedia.fandom.com/wiki/Brann_Bronzebeard "Brann Bronzebeard"), murlocs are smarter than what other races think—smart enough to not let anyone know.<sup id="cite_ref-WoWM5_6-2"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-WoWM5-6">[6]</a></sup>
 
 ### Subraces
 
@@ -149,7 +149,7 @@ Murlocs congregate on shorelines in tribes and villages.<sup id="cite_ref-The_Mu
 | [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)["Captain" Cookie](https://wowpedia.fandom.com/wiki/%22Captain%22_Cookie ""Captain" Cookie") | Chief cook and self-proclaimed captain of the [Defias](https://wowpedia.fandom.com/wiki/Defias_Brotherhood "Defias Brotherhood") [juggernaught](https://wowpedia.fandom.com/wiki/Juggernaught "Juggernaught") | [Defias Brotherhood](https://wowpedia.fandom.com/wiki/Defias_Brotherhood "Defias Brotherhood") | Deceased | [Ironclad Cove](https://wowpedia.fandom.com/wiki/Ironclad_Cove "Ironclad Cove"), [Deadmines](https://wowpedia.fandom.com/wiki/Deadmines "Deadmines") |
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Cleaver Bmurglbrm](https://wowpedia.fandom.com/wiki/Cleaver_Bmurglbrm "Cleaver Bmurglbrm") | [Winterfin](https://wowpedia.fandom.com/wiki/Winterfin_tribe "Winterfin tribe") cook | [Winterfin tribe](https://wowpedia.fandom.com/wiki/Winterfin_tribe "Winterfin tribe") | Alive | [Winterfin Retreat](https://wowpedia.fandom.com/wiki/Winterfin_Retreat "Winterfin Retreat"), [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") |
 | [![Mob](https://static.wikia.nocookie.net/wowpedia/images/4/48/Combat_15.png/revision/latest?cb=20151213203632)](https://wowpedia.fandom.com/wiki/Mob "Mob")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Cruelfin](https://wowpedia.fandom.com/wiki/Cruelfin "Cruelfin") | Rapidly gained in strength and size due to a crystal shard from the [Exodar](https://wowpedia.fandom.com/wiki/Exodar "Exodar") | [Blacksilt tribe](https://wowpedia.fandom.com/wiki/Blacksilt_tribe "Blacksilt tribe") | Killable | [Blacksilt Shore](https://wowpedia.fandom.com/wiki/Blacksilt_Shore "Blacksilt Shore"), [Bloodmyst Isle](https://wowpedia.fandom.com/wiki/Bloodmyst_Isle "Bloodmyst Isle") |
-| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ergll](https://wowpedia.fandom.com/wiki/Ergll "Ergll") | Friend of [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") | Alive | [Ruins of Arkkoran](https://wowpedia.fandom.com/wiki/Ruins_of_Arkkoran "Ruins of Arkkoran"), [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara") |
+| [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Ergll](https://wowpedia.fandom.com/wiki/Ergll "Ergll") | Friend of xref:Kalecgos.adoc[Kalecgos] | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") | Alive | [Ruins of Arkkoran](https://wowpedia.fandom.com/wiki/Ruins_of_Arkkoran "Ruins of Arkkoran"), [Azshara](https://wowpedia.fandom.com/wiki/Azshara "Azshara") |
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Sir Finley Mrrgglton](https://wowpedia.fandom.com/wiki/Sir_Finley_Mrrgglton "Sir Finley Mrrgglton") | Sophisticated adventurer, gentleman and member of the [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League") | [Explorers' League](https://wowpedia.fandom.com/wiki/Explorers%27_League "Explorers' League") | Alive | [Dreyrgrot](https://wowpedia.fandom.com/wiki/Dreyrgrot "Dreyrgrot"), [Stormheim](https://wowpedia.fandom.com/wiki/Stormheim "Stormheim") |
 | [![Boss](https://static.wikia.nocookie.net/wowpedia/images/0/0f/Boss_15.png/revision/latest?cb=20110620205851)](https://wowpedia.fandom.com/wiki/Mob "Boss")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Gelihast](https://wowpedia.fandom.com/wiki/Gelihast "Gelihast") | Worshipper of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"), later killed by [Subjugator Kor'ul](https://wowpedia.fandom.com/wiki/Subjugator_Kor%27ul "Subjugator Kor'ul") | [Blindlight tribe](https://wowpedia.fandom.com/wiki/Blindlight_tribe "Blindlight tribe"), [Old Gods' forces](https://wowpedia.fandom.com/wiki/Old_Gods%27_forces "Old Gods' forces") | Deceased | [Pool of Ask'ar](https://wowpedia.fandom.com/wiki/Pool_of_Ask%27ar "Pool of Ask'ar"), [Blackfathom Deeps](https://wowpedia.fandom.com/wiki/Blackfathom_Deeps "Blackfathom Deeps") |
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434)](https://wowpedia.fandom.com/wiki/Faction "Neutral")  ![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)[Glrglrglr](https://wowpedia.fandom.com/wiki/Glrglrglr "Glrglrglr") | Captive of [Keymaster Urmgrgl](https://wowpedia.fandom.com/wiki/Keymaster_Urmgrgl "Keymaster Urmgrgl") | [Winterfin tribe](https://wowpedia.fandom.com/wiki/Winterfin_tribe "Winterfin tribe") | Alive | [Winterfin Caverns](https://wowpedia.fandom.com/wiki/Winterfin_Caverns "Winterfin Caverns"), [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") |
@@ -199,7 +199,7 @@ A number of murloc [companions](https://wowpedia.fandom.com/wiki/Companion "Comp
 -   [Squirky](https://wowpedia.fandom.com/wiki/Squirky "Squirky"), caught from pet battles on [Seabreak Isle](https://wowpedia.fandom.com/wiki/Seabreak_Isle "Seabreak Isle") off the coast of [Azsuna](https://wowpedia.fandom.com/wiki/Azsuna "Azsuna").
 -    ![](https://static.wikia.nocookie.net/wowpedia/images/6/6b/Inv_egg_03.png/revision/latest/scale-to-width-down/16?cb=20061001020543)[\[White Murloc Egg\]](https://wowpedia.fandom.com/wiki/White_Murloc_Egg) (Terky), originally given out as part of a promotion in Taiwan. Can also be found in a small cave in [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra").
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Murloc_companions "Template:Murloc companions")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Murloc_companions?action=edit)
 
@@ -210,7 +210,7 @@ A number of murloc [companions](https://wowpedia.fandom.com/wiki/Companion "Comp
  |
 | --- |
 |  |
-| 
+|
 
 -   [Deathy](https://wowpedia.fandom.com/wiki/Smoldering_Murloc_Egg "Smoldering Murloc Egg")
 -   [![Alliance](https://static.wikia.nocookie.net/wowpedia/images/2/21/Alliance_15.png/revision/latest?cb=20110509070714)](https://wowpedia.fandom.com/wiki/Alliance "Alliance") [Finduin](https://wowpedia.fandom.com/wiki/Finduin "Finduin") / [![Horde](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Horde_15.png/revision/latest?cb=20201010153315)](https://wowpedia.fandom.com/wiki/Horde "Horde") [Gillvanas](https://wowpedia.fandom.com/wiki/Gillvanas "Gillvanas")
@@ -273,20 +273,20 @@ Murlocs may be another one of the numerous references to H.P. Lovecraft found in
 -   In the _[Whispers of the Old Gods](https://wowpedia.fandom.com/wiki/Hearthstone:_Whispers_of_the_Old_Gods "Hearthstone: Whispers of the Old Gods")_ expansion, in the midst of corruption by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods"), "[inquisitors](https://hearthstone.fandom.com/wiki/Vilefin_Inquisitor "hswiki:Vilefin Inquisitor")" of the [Vile Fin tribe](https://wowpedia.fandom.com/wiki/Vile_Fin_tribe "Vile Fin tribe") have recruited some murlocs into the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") or some organization based on said knights.
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/41/Sir_Finley_Mrrgglton.jpg/revision/latest/scale-to-width-down/85?cb=20151107074530)](https://static.wikia.nocookie.net/wowpedia/images/4/41/Sir_Finley_Mrrgglton.jpg/revision/latest?cb=20151107074530)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Giantfin.jpg/revision/latest/scale-to-width-down/90?cb=20151130182026)](https://static.wikia.nocookie.net/wowpedia/images/e/e0/Giantfin.jpg/revision/latest?cb=20151130182026)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Silver_Hand_Murloc.jpg/revision/latest/scale-to-width-down/94?cb=20180119173129)](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Silver_Hand_Murloc.jpg/revision/latest?cb=20180119173129)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Deadscale_Knight.jpg/revision/latest/scale-to-width-down/90?cb=20180119232504)](https://static.wikia.nocookie.net/wowpedia/images/4/4d/Deadscale_Knight.jpg/revision/latest?cb=20180119232504)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Furious_Felfin.jpg/revision/latest/scale-to-width-down/85?cb=20200328233544)](https://static.wikia.nocookie.net/wowpedia/images/a/a3/Furious_Felfin.jpg/revision/latest?cb=20200328233544)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/08/SI_Sefin.jpg/revision/latest/scale-to-width-down/90?cb=20211119215219)](https://static.wikia.nocookie.net/wowpedia/images/0/08/SI_Sefin.jpg/revision/latest?cb=20211119215219)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/10/Clownfish_HS.jpg/revision/latest/scale-to-width-down/90?cb=20220612225054)](https://static.wikia.nocookie.net/wowpedia/images/1/10/Clownfish_HS.jpg/revision/latest?cb=20220612225054)
-    
+
 
 ## In the RPG
 
@@ -336,7 +336,7 @@ Their females look somewhat like this.
 -   Hunting (i.e. grinding) murlocs can be profitable, given that murloc fins are an essential ingredient in a common broth and supposedly taste like chicken.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-59">[59]</a></sup> [Slimy Murloc Scales](https://wowpedia.fandom.com/wiki/Slimy_Murloc_Scale "Slimy Murloc Scale") are required expert [leatherworkers](https://wowpedia.fandom.com/wiki/Leatherworking "Leatherworking") for use in crafting fine armor. Murlocs carry clams consistent with their level, as do most aquatic creatures, which can contain various grades of clam meat and pearls. It is possible that all murlocs use clams as currency, as the Winterfin murlocs do. In addition, certain murlocs command hefty bounties because of their tendencies to terrorize coastal commerce and fishing locations.
 -   The second song by [Elite Tauren Chieftain](https://wowpedia.fandom.com/wiki/Elite_Tauren_Chieftain "Elite Tauren Chieftain"), "[I Am Murloc](https://wowpedia.fandom.com/wiki/I_Am_Murloc "I Am Murloc")", is centered around the amphibious creatures and their ferocious nature.
 -   Their voice actor is [Tracy W. Bush](https://wowpedia.fandom.com/wiki/Tracy_W._Bush "Tracy W. Bush").
--   Before the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") were announced as the new [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") race in _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, murlocs were among the rumored choices for a new player character race. This was not taken particularly seriously, however.
+-   Before the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") were announced as the new xref:Alliance.adoc[Alliance] race in _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_, murlocs were among the rumored choices for a new player character race. This was not taken particularly seriously, however.
 -   As an [April Fools](https://wowpedia.fandom.com/wiki/April_Fools "April Fools") joke, [during April 1, 2005](https://wowpedia.fandom.com/wiki/Murloc_(April_Fools) "Murloc (April Fools)"), Blizzard changed all the avatars on the US _World of Warcraft_ forums into murlocs, and the murloc attack sound from the game was played in the background.
 -   Licking a murloc will grant you visions, usually of you being mauled by an angry murloc.<sup id="cite_ref-Murky_8-5"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-Murky-8">[8]</a></sup>
 -   [Khadgar](https://wowpedia.fandom.com/wiki/Khadgar "Khadgar") has a fondness for murlocs,<sup id="cite_ref-60"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-60">[60]</a></sup> while [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") neither likes them nor understands why some people do.<sup id="cite_ref-61"><a href="https://wowpedia.fandom.com/wiki/Murloc#cite_note-61">[61]</a></sup>
@@ -357,69 +357,69 @@ If Brann is correct about a frog Wild God creating the gorlocs and by extension 
 ## Gallery
 
 -   [![](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/e/e9/Murloc_Tiderunner.gif/revision/latest?cb=20120519185738)
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/44/Murloc_fish-like.jpg/revision/latest/scale-to-width-down/155?cb=20180703105759)](https://static.wikia.nocookie.net/wowpedia/images/4/44/Murloc_fish-like.jpg/revision/latest?cb=20180703105759)
-    
+
     Early _World of Warcraft_ murloc model
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/90/Murloc.png/revision/latest/scale-to-width-down/194?cb=20050404213553)](https://static.wikia.nocookie.net/wowpedia/images/9/90/Murloc.png/revision/latest?cb=20050404213553)
-    
+
     Early murloc model
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/06/Murlocs.jpg/revision/latest/scale-to-width-down/240?cb=20190126131311)](https://static.wikia.nocookie.net/wowpedia/images/0/06/Murlocs.jpg/revision/latest?cb=20190126131311)
-    
+
     Murlocs with a pre-release model
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/9f/Murlocandbaby.jpg/revision/latest/scale-to-width-down/202?cb=20051012150509)](https://static.wikia.nocookie.net/wowpedia/images/9/9f/Murlocandbaby.jpg/revision/latest?cb=20051012150509)
-    
+
     Original adult and [child](https://wowpedia.fandom.com/wiki/Child "Child") murloc models
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Squigglefin_Wavecaller.jpg/revision/latest/scale-to-width-down/123?cb=20160608124823)](https://static.wikia.nocookie.net/wowpedia/images/c/c7/Squigglefin_Wavecaller.jpg/revision/latest?cb=20160608124823)
-    
+
     Updated murloc model from _[Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion")_
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/20/Squirky_pet.jpg/revision/latest/scale-to-width-down/191?cb=20170523184313)](https://static.wikia.nocookie.net/wowpedia/images/2/20/Squirky_pet.jpg/revision/latest?cb=20170523184313)
-    
+
     Child model from _Legion_
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Felbound2.jpg/revision/latest/scale-to-width-down/258?cb=20170121182616)](https://static.wikia.nocookie.net/wowpedia/images/d/d8/Felbound2.jpg/revision/latest?cb=20170121182616)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/Underlight_Herald.jpg/revision/latest/scale-to-width-down/194?cb=20180215165544)](https://static.wikia.nocookie.net/wowpedia/images/4/42/Underlight_Herald.jpg/revision/latest?cb=20180215165544)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Time-Lost_Murhulk.png/revision/latest/scale-to-width-down/157?cb=20220808145701)](https://static.wikia.nocookie.net/wowpedia/images/2/2c/Time-Lost_Murhulk.png/revision/latest?cb=20220808145701)
-    
+
     A murhulk.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Shoreline_Tidespeaker.jpg/revision/latest/scale-to-width-down/345?cb=20190331002634)](https://static.wikia.nocookie.net/wowpedia/images/a/ab/Shoreline_Tidespeaker.jpg/revision/latest?cb=20190331002634)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Mrrgria.jpg/revision/latest/scale-to-width-down/182?cb=20190331003836)](https://static.wikia.nocookie.net/wowpedia/images/a/a6/Mrrgria.jpg/revision/latest?cb=20190331003836)
-    
+
 
 Other
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/af/Murloc_model_-_TBCCinematic.jpg/revision/latest/scale-to-width-down/180?cb=20181109200825)](https://static.wikia.nocookie.net/wowpedia/images/a/af/Murloc_model_-_TBCCinematic.jpg/revision/latest?cb=20181109200825)
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Stoneclaw_Totem.png/revision/latest/scale-to-width-down/224?cb=20160727103152)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Stoneclaw_Totem.png/revision/latest?cb=20160727103152)
-    
+
     Stoneclaw Totem TCG card art with murlocs
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Warcraft_film_book_sketches_-_Murloc.jpg/revision/latest/scale-to-width-down/295?cb=20181017153306)](https://static.wikia.nocookie.net/wowpedia/images/c/cc/Warcraft_film_book_sketches_-_Murloc.jpg/revision/latest?cb=20181017153306)
-    
+
     Sketches created for a book prop for the Warcraft movie, including a depiction of a murloc.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Backpack_Murloc_plushie.jpg/revision/latest/scale-to-width-down/202?cb=20180407132804)](https://static.wikia.nocookie.net/wowpedia/images/0/0d/Backpack_Murloc_plushie.jpg/revision/latest?cb=20180407132804)
-    
+
     Backpack plushie
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/be/Murloc_Wonderworks_Toy_Shop_plushie.png/revision/latest/scale-to-width-down/180?cb=20190101214906)](https://static.wikia.nocookie.net/wowpedia/images/b/be/Murloc_Wonderworks_Toy_Shop_plushie.png/revision/latest?cb=20190101214906)
-    
+
     Murloc plushie
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/92/Statue_MurlocTidehunters_Pose.png/revision/latest/scale-to-width-down/180?cb=20220604054240)](https://static.wikia.nocookie.net/wowpedia/images/9/92/Statue_MurlocTidehunters_Pose.png/revision/latest?cb=20220604054240)
-    
+
 
 ## See also
 
@@ -491,36 +491,36 @@ Other
 64.  [^](https://wowpedia.fandom.com/wiki/Murloc#cite_ref-64) Michael McWhertor 2018-11-02. [Warcraft 3: Reforged is more than just a remaster of Blizzard’s classic RTS](https://www.polygon.com/blizzcon/2018/11/2/18057924/warcraft-3-reforged-classic-compatibility-blizzcon). _Polygon_. Retrieved on 2019-03-14.
 65.  [^](https://wowpedia.fandom.com/wiki/Murloc#cite_ref-65) Rob Fahey 2009-11-08. [The Making of World of Warcraft • Page 1 • Eurogamer.net](https://www.eurogamer.net/articles/the-making-of-world-of-warcraft-article). Retrieved on 2018-03-21.
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives "Template:Azeroth natives")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_natives?action=edit)
 
-Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") native to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") native to xref:Azeroth.adoc[Azeroth]
 
 
 
  |
 | --- |
 |  |
-| [Ancient guardian](https://wowpedia.fandom.com/wiki/Ancient_guardian "Ancient guardian") | 
+| [Ancient guardian](https://wowpedia.fandom.com/wiki/Ancient_guardian "Ancient guardian") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Cenarius#Children" title="Cenarius">Cenarian</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dryad" title="Dryad">Dryad</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Crystal_dryad" title="Crystal dryad">Crystal dryad</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forest_nymph" title="Forest nymph">Forest nymph</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frost_nymph" title="Frost nymph">Frost nymph</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Keeper_of_the_grove" title="Keeper of the grove">Keeper of the grove</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Centaur" title="Centaur">Centaur</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Magnataur" title="Magnataur">Magnataur</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Harpy" title="Harpy">Harpy</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jalgar" title="Jalgar">Jalgar</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Furbolg" title="Furbolg">Furbolg</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Quilboar" title="Quilboar">Quilboar</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Quilboar_brute" title="Quilboar brute">Quilboar brute</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Worgen" title="Worgen">Worgen</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Troll/Elf | 
+| Troll/Elf |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Troll" title="Troll">Troll</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blood_troll" title="Blood troll">Blood troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dark_troll" title="Dark troll">Dark troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dire_troll" title="Dire troll">Dire troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Forest_troll" title="Forest troll">Forest troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ice_troll" title="Ice troll">Ice troll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jungle_troll" title="Jungle troll">Jungle troll</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Sand_troll" title="Sand troll">Sand troll</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Zandalari_troll" title="Zandalari troll">Zandalari troll</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Elf" title="Elf">Elf</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Night_elf" title="Night elf">Night elf</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Satyr" title="Satyr">Satyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crystal_satyr" title="Crystal satyr">Crystal satyr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Naga" title="Naga">Naga</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Naga_brute" title="Naga brute">Brute</a></li><li><a href="https://wowpedia.fandom.com/wiki/Naga_centaur" title="Naga centaur">Centaur</a></li><li><i><a href="https://wowpedia.fandom.com/wiki/Naga_lord" title="Naga lord">Lord</a></i></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/High_elf" title="High elf">High elf</a>/<a href="https://wowpedia.fandom.com/wiki/Blood_elf" title="Blood elf">Blood elf</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Felblood_elf" title="Felblood elf">Felblood</a></li><li><a href="https://wowpedia.fandom.com/wiki/Void_elf" title="Void elf">Void elf</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wretched" title="Wretched">Wretched</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nightborne" title="Nightborne">Nightborne</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Nightfallen" title="Nightfallen">Nightfallen</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Withered" title="Withered">Withered</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Fal%27dorei" title="Fal'dorei">Fal'dorei</a></li><li><a href="https://wowpedia.fandom.com/wiki/Felborne" title="Felborne">Felborne</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Darkfallen" title="Darkfallen">Darkfallen</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Other | 
+| Other |
 
 <table><tbody><tr><td colspan="2"><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragonkin" title="Dragonkin">Dragonkin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Drogbar" title="Drogbar">Drogbar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ettin" title="Ettin">Ettin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fungarian" title="Fungarian">Fungarian</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gnoll" title="Gnoll">Gnoll</a></li><li><a href="https://wowpedia.fandom.com/wiki/Grell" title="Grell">Grell</a></li><li><a href="https://wowpedia.fandom.com/wiki/Hozen" title="Hozen">Hozen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Makrura" title="Makrura">Makrura</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mermaid" title="Mermaid">Mermaid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mistlurker" title="Mistlurker">Mistlurker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pandaren" title="Pandaren">Pandaren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pixie" title="Pixie">Pixie</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ranishu" title="Ranishu">Ranishu</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saurok" title="Saurok">Saurok</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sethrak" title="Sethrak">Sethrak</a></li><li><a href="https://wowpedia.fandom.com/wiki/Siren" title="Siren">Siren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sprite" title="Sprite">Sprite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Titan-forged" title="Titan-forged">Titan-forged</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tortollan" title="Tortollan">Tortollan</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tuskarr" title="Tuskarr">Tuskarr</a></li><li><a href="https://wowpedia.fandom.com/wiki/Virmen" title="Virmen">Virmen</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vulpera" title="Vulpera">Vulpera</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wildkin" title="Wildkin">Wildkin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wolvar" title="Wolvar">Wolvar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Yaungol" title="Yaungol">Yaungol</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Taunka" title="Taunka">Taunka</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tauren" title="Tauren">Tauren</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Highmountain_tauren" title="Highmountain tauren">Highmountain</a></li></ul></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Goblin/Pygmy</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Goblin" title="Goblin">Goblin</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Hobgoblin" title="Hobgoblin">Hobgoblin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Gilgoblin" title="Gilgoblin">Gilgoblin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Pygmy" title="Pygmy">Pygmy</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Gorloc</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Gorloc" title="Gorloc">Gorloc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Jinyu" title="Jinyu">Jinyu</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ankoan" title="Ankoan">Ankoan</a></li></ul></li><li><strong>Murloc</strong><ul><li><a href="https://wowpedia.fandom.com/wiki/Deep_sea_murloc" title="Deep sea murloc">Deep sea</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mur%27gul" title="Mur'gul">Mur'gul</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mutant_murloc" title="Mutant murloc">Mutant</a></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Unknown relation</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Jungle_stalker" title="Jungle stalker">Jungle stalker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sasquatch" title="Sasquatch">Sasquatch</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wendigo" title="Wendigo">Wendigo</a></li><li><a href="https://wowpedia.fandom.com/wiki/Yeti" title="Yeti">Yeti</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| 
+|
 
 This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
 
@@ -528,7 +528,7 @@ This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Tem
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Murlocs "Template:Murlocs")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Murlocs?action=edit)
 
@@ -539,13 +539,13 @@ This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Tem
  |
 | --- |
 |  |
-| [Murloc tribes](https://wowpedia.fandom.com/wiki/Category:Murloc_tribes "Category:Murloc tribes") | 
+| [Murloc tribes](https://wowpedia.fandom.com/wiki/Category:Murloc_tribes "Category:Murloc tribes") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos" title="Warcraft III: Reign of Chaos"><img alt="WC3RoC-logo.png" decoding="async" loading="lazy" width="32" height="17" data-image-name="WC3RoC-logo.png" data-image-key="WC3RoC-logo.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849" src="https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Underworld_Minions" title="Underworld Minions">Underworld Minions</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft" title="World of Warcraft"><img alt="WoW Icon update.png" decoding="async" loading="lazy" width="32" height="16" data-image-name="WoW Icon update.png" data-image-key="WoW_Icon_update.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550" src="https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Arkkoran" title="Arkkoran">Arkkoran</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blindlight_tribe" title="Blindlight tribe">Blindlight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bluegill_tribe" title="Bluegill tribe">Bluegill</a></li><li><a href="https://wowpedia.fandom.com/wiki/Elwynn_murlocs" title="Elwynn murlocs">Elwynn</a></li><li><a href="https://wowpedia.fandom.com/wiki/Everstill_murlocs" title="Everstill murlocs">Everstill</a></li><li><a href="https://wowpedia.fandom.com/wiki/Greymist_tribe" title="Greymist tribe">Greymist</a></li><li><a href="https://wowpedia.fandom.com/wiki/Marsh_tribe" title="Marsh tribe">Marsh</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mirefin_tribe" title="Mirefin tribe">Mirefin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Murkgill_tribe" title="Murkgill tribe">Murkgill</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saltscale_tribe" title="Saltscale tribe">Saltscale</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saltspittle_tribe" title="Saltspittle tribe">Saltspittle</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_Bay_tribe" title="Storm Bay tribe">Storm Bay</a></li><li><a href="https://wowpedia.fandom.com/wiki/Torn_Fin_tribe" title="Torn Fin tribe">Torn Fin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Vile_Fin_tribe" title="Vile Fin tribe">Vile Fin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Westfall_murlocs" title="Westfall murlocs">Westfall</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade" title="World of Warcraft: The Burning Crusade"><img alt="Bc icon.gif" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="30" height="14" data-image-name="Bc icon.gif" data-image-key="Bc_icon.gif" data-src="https://static.wikia.nocookie.net/wowpedia/images/0/0e/Bc_icon.gif/revision/latest?cb=20110218184702"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blacksilt_tribe" title="Blacksilt tribe">Blacksilt</a></li><li><a href="https://wowpedia.fandom.com/wiki/Greengill_tribe" title="Greengill tribe">Greengill</a></li><li><a href="https://wowpedia.fandom.com/wiki/Grimscale_tribe" title="Grimscale tribe">Grimscale</a></li><li><a href="https://wowpedia.fandom.com/wiki/Siltfin_tribe" title="Siltfin tribe">Siltfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tidewalker_tribe" title="Tidewalker tribe">Tidewalker</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King" title="Wrath of the Lich King"><img alt="Wrath of the Lich King" decoding="async" loading="lazy" width="36" height="19" data-image-name="Wrath-Logo-Small.png" data-image-key="Wrath-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742" src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Chillmere_tribe" title="Chillmere tribe">Chillmere</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mur%27ghoul" title="Mur'ghoul">Mur'ghoul</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Winterfin_tribe" title="Winterfin tribe">Winterfin</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm" title="Cataclysm"><img alt="Cataclysm" decoding="async" loading="lazy" width="39" height="15" data-image-name="Cata-Logo-Small.png" data-image-key="Cata-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714" src="https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Rockpool_tribe" title="Rockpool tribe">Rockpool</a></li><li><a href="https://wowpedia.fandom.com/wiki/Coldlight" title="Coldlight">Coldlight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Glimmerdeep" title="Glimmerdeep">Glimmerdeep</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion" title="Legion"><img alt="Legion" decoding="async" loading="lazy" width="40" height="15" data-image-name="Legion-Logo-Small.png" data-image-key="Legion-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028" src="https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bilgefin" title="Bilgefin">Bilgefin / Felbound</a></li><li><a href="https://wowpedia.fandom.com/wiki/Fins" title="Fins">The Fins</a></li><li><a href="https://wowpedia.fandom.com/wiki/Murkloc_tribe" title="Murkloc tribe">Murkloc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Salteye" title="Salteye">Salteye</a></li><li><a href="https://wowpedia.fandom.com/wiki/Seerspine" title="Seerspine">Seerspine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Squigglefin_tribe" title="Squigglefin tribe">Squigglefin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Shoalfin" title="Shoalfin">Shoalfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stonefin" title="Stonefin">Stonefin / Felfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Swamprock" title="Swamprock">Swamprock</a></li><li><a href="https://wowpedia.fandom.com/wiki/Underlight" title="Underlight">Underlight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Razorjaw" title="Razorjaw">Razorjaw</a></li><li><a href="https://wowpedia.fandom.com/wiki/Rockaway" title="Rockaway">Rockaway</a></li><li><a href="https://wowpedia.fandom.com/wiki/Deepmurk" title="Deepmurk"><span title="This entity has been removed from the game.">Deepmurk</span></a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth" title="Battle for Azeroth"><img alt="Battle for Azeroth" decoding="async" loading="lazy" width="48" height="17" data-image-name="BattleForAzeroth-Logo-Small.png" data-image-key="BattleForAzeroth-Logo-Small.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442" src="https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Bloodfin_tribe" title="Bloodfin tribe">Bloodfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Frogseeker" title="Frogseeker">Frogseeker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Muckfin" title="Muckfin">Muckfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Seaspray" title="Seaspray">Seaspray</a></li><li><a href="https://wowpedia.fandom.com/wiki/Squallfin" title="Squallfin">Squallfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tideflat" title="Tideflat">Tideflat</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tidelost" title="Tidelost">Tidelost</a></li><li><a href="https://wowpedia.fandom.com/wiki/Necrofin" title="Necrofin">Necrofin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Greygill" title="Greygill"><span title="This entity has been removed from the game.">Greygill</span></a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><span><a href="https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands" title="Shadowlands"><img alt="Shadowlands" decoding="async" loading="lazy" width="48" height="17" data-image-name="Shadowlands-Icon-Inline.png" data-image-key="Shadowlands-Icon-Inline.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728" src="https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728"></a></span></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Exile%27s_Reach_murlocs" title="Exile's Reach murlocs">Exile's Reach</a></li><li><a href="https://wowpedia.fandom.com/wiki/Glimmerfin" title="Glimmerfin">Glimmerfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Murkbrine" title="Murkbrine">Murkbrine</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Warcraft_RPG" title="Warcraft RPG"><img alt="Icon-RPG.png" decoding="async" loading="lazy" width="48" height="20" data-image-name="Icon-RPG.png" data-image-key="Icon-RPG.png" data-src="https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632" src="https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632"></a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dark_Ray_tribe" title="Dark Ray tribe">Dark Ray</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lostfin_tribe" title="Lostfin tribe">Lostfin</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ripfang_tribe" title="Ripfang tribe">Ripfang</a></li><li><a href="https://wowpedia.fandom.com/wiki/White_Shark_tribe" title="White Shark tribe">White Shark</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wide_Grin_tribe" title="Wide Grin tribe">Wide Grin</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Gorloc tribes | 
+| Gorloc tribes |
 
 -   [Burblegobble](https://wowpedia.fandom.com/wiki/Chieftain_Burblegobble "Chieftain Burblegobble")'s tribe
 -   [Dampscale](https://wowpedia.fandom.com/wiki/Dampscale_tribe "Dampscale tribe")

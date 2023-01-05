@@ -4,15 +4,15 @@ _This article is about the original Well on [Ancient Kalimdor](https://wowpedia.
 
 The original Well of Eternity, in its corrupted state during the War of the Ancients (in-game representation)
 
-The **Well of Eternity** was a lake of scintillating [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") energies and limitless power formed from the very lifeblood of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").<sup id="cite_ref-Chronicle36_1-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle36-1">[1]</a></sup> The Well was located on the ancient continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") near the [night elven](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") city of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"). The present area where the Well of Eternity was located became the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
+The **Well of Eternity** was a lake of scintillating [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") energies and limitless power formed from the very lifeblood of xref:Azeroth.adoc[Azeroth]'s [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").<sup id="cite_ref-Chronicle36_1-0"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle36-1">[1]</a></sup> The Well was located on the ancient continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)") near the [night elven](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") city of [Zin-Azshari](https://wowpedia.fandom.com/wiki/Zin-Azshari "Zin-Azshari"). The present area where the Well of Eternity was located became the [Maelstrom](https://wowpedia.fandom.com/wiki/Maelstrom "Maelstrom") after the [Great Sundering](https://wowpedia.fandom.com/wiki/Great_Sundering "Great Sundering").
 
-The Well was the central focus of the Burning Legion's invasion during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), and the area around it served as the final battleground of the conflict. Its waters were so powerful, that the demons hoped to bring [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") himself to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") by turning the Well into a great portal. The Well's ensuing destruction forever spread arcane power throughout the world, physically changed its geography, and heralded a new era in Azerothian history. Shortly after this, a [second Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") was created at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), who preserved water from the first Well in magical vials.
+The Well was the central focus of the Burning Legion's invasion during the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), and the area around it served as the final battleground of the conflict. Its waters were so powerful, that the demons hoped to bring [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") himself to xref:Azeroth.adoc[Azeroth] by turning the Well into a great portal. The Well's ensuing destruction forever spread arcane power throughout the world, physically changed its geography, and heralded a new era in Azerothian history. Shortly after this, a [second Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity_(Hyjal) "Well of Eternity (Hyjal)") was created at [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal") by [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage"), who preserved water from the first Well in magical vials.
 
 ## History
 
 ### Origin
 
-The original Well of Eternity was formed from a great wound in Azeroth's surface, created when [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), the Highfather of the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), ripped the [Old God](https://wowpedia.fandom.com/wiki/Old_Gods "Old Gods") [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") from the world's crust and tore it apart. The volatile [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") lifeblood of Azeroth's [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") rushed to the surface and roiled over the world. It was through this event that the Pantheon realized that the Old Gods had embedded themselves too deep in Azeroth's surface to remove without severely harming the world-soul, and so they instead resolved to imprison the vile entities below the surface of the world.<sup id="cite_ref-Chronicle36_1-1"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle36-1">[1]</a></sup>
+The original Well of Eternity was formed from a great wound in Azeroth's surface, created when [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul"), the Highfather of the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), ripped the xref:OldGod.adoc[OldGod] [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") from the world's crust and tore it apart. The volatile [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane") lifeblood of Azeroth's [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul") rushed to the surface and roiled over the world. It was through this event that the Pantheon realized that the Old Gods had embedded themselves too deep in Azeroth's surface to remove without severely harming the world-soul, and so they instead resolved to imprison the vile entities below the surface of the world.<sup id="cite_ref-Chronicle36_1-1"><a href="https://wowpedia.fandom.com/wiki/Well_of_Eternity#cite_note-Chronicle36-1">[1]</a></sup>
 
 [![](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest/scale-to-width-down/180?cb=20160328182950)](https://static.wikia.nocookie.net/wowpedia/images/7/7a/Ordered_Azeroth.jpg/revision/latest?cb=20160328182950)
 
@@ -85,9 +85,9 @@ The Well of Eternity may have had some sort of connection to the [Elemental Plan
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Ambassador_Chromie.jpg/revision/latest/scale-to-width-down/120?cb=20130721185108)](https://static.wikia.nocookie.net/wowpedia/images/3/3b/Ambassador_Chromie.jpg/revision/latest?cb=20130721185108)
-    
+
     [Chromie](https://wowpedia.fandom.com/wiki/Chromie "Chromie") seeing the Well of Eternity from a distance, [TCG](https://wowpedia.fandom.com/wiki/TCG "TCG") art.
-    
+
 
 ## See also
 
@@ -110,7 +110,7 @@ The Well of Eternity may have had some sort of connection to the [Elemental Plan
  |
 | --- |
 |  |
-| 
+|
 
 -   [Azshara's Palace](https://wowpedia.fandom.com/wiki/Azshara%27s_Palace "Azshara's Palace")
 -   [Courtyard of Lights](https://wowpedia.fandom.com/wiki/Courtyard_of_Lights "Courtyard of Lights")
@@ -119,7 +119,7 @@ The Well of Eternity may have had some sort of connection to the [Elemental Plan
 
 
 
- | 
+ |
 
 [![Well of Eternity](https://static.wikia.nocookie.net/wowpedia/images/a/a1/WorldMap-WellOfEternity.jpg/revision/latest/scale-to-width-down/120?cb=20190810124109)](https://static.wikia.nocookie.net/wowpedia/images/a/a1/WorldMap-WellOfEternity.jpg/revision/latest?cb=20190810124109 "Well of Eternity")
 

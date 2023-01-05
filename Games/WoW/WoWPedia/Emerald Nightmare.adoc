@@ -26,7 +26,7 @@ The Nightmare acts like a heavy shroud, warping reality, altering the perception
 
 The [Dragons of Nightmare](https://wowpedia.fandom.com/wiki/Dragons_of_Nightmare "Dragons of Nightmare"), Emeriss, Lethon, Eranikus, Ysondre, and Taerar
 
-The origins of the Nightmare stretch back to 4,500 years before the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), when a small group of [druids](https://wowpedia.fandom.com/wiki/Druid "Druid") led by [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") took six branches from [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), the World Tree, and planted them over [saronite](https://wowpedia.fandom.com/wiki/Saronite "Saronite") that had begun to appear across the world. The five first branches grew into [Great Trees](https://wowpedia.fandom.com/wiki/Great_Tree "Great Tree"), while the last and greatest branch—planted over the largest source of saronite in the [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")—became the World Tree [Andrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil"). Unfortunately, Andrassil's roots went deep enough that they touched the prison of the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron"), corrupting the tree and spreading madness throughout the nearby wildlife. The druids sorrowfully destroyed the World Tree, believing that this act would halt Yogg-Saron's corruption. What they did not know, however, was that Yogg-Saron had used the trees planted by Fandral as a doorway for the Old Gods to access the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). The Old Gods spread small seeds of corruption throughout the dreamways, in time these seeds polluted the Dream beginning what would become known as the Emerald Nightmare.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-13">[13]</a></sup> While Yogg-Saron was the Old God who opened the Emerald Dream to its brethren, [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") later became the one who took the most active role in its corruption.<sup id="cite_ref-Chronicle_Volume_3_14-0"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-Chronicle_Volume_3-14">[14]</a></sup>
+The origins of the Nightmare stretch back to 4,500 years before the [First War](https://wowpedia.fandom.com/wiki/First_War "First War"), when a small group of [druids](https://wowpedia.fandom.com/wiki/Druid "Druid") led by [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") took six branches from [Nordrassil](https://wowpedia.fandom.com/wiki/Nordrassil "Nordrassil"), the World Tree, and planted them over [saronite](https://wowpedia.fandom.com/wiki/Saronite "Saronite") that had begun to appear across the world. The five first branches grew into [Great Trees](https://wowpedia.fandom.com/wiki/Great_Tree "Great Tree"), while the last and greatest branch—planted over the largest source of saronite in the [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills "Grizzly Hills")—became the World Tree [Andrassil](https://wowpedia.fandom.com/wiki/Vordrassil "Vordrassil"). Unfortunately, Andrassil's roots went deep enough that they touched the prison of the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") xref:YoggSaron.adoc[Yogg-Saron], corrupting the tree and spreading madness throughout the nearby wildlife. The druids sorrowfully destroyed the World Tree, believing that this act would halt Yogg-Saron's corruption. What they did not know, however, was that Yogg-Saron had used the trees planted by Fandral as a doorway for the Old Gods to access the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream"). The Old Gods spread small seeds of corruption throughout the dreamways, in time these seeds polluted the Dream beginning what would become known as the Emerald Nightmare.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-13">[13]</a></sup> While Yogg-Saron was the Old God who opened the Emerald Dream to its brethren, [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") later became the one who took the most active role in its corruption.<sup id="cite_ref-Chronicle_Volume_3_14-0"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-Chronicle_Volume_3-14">[14]</a></sup>
 
 ### World of Warcraft
 
@@ -72,7 +72,7 @@ Despite Xavius' defeat at the hands of Malfurion Stormrage and his allies, the N
 
 [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") **This section concerns content related to _[Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm")_.**
 
-The Emerald Nightmare is present in the [Nightmare Scar](https://wowpedia.fandom.com/wiki/Nightmare_Scar "Nightmare Scar"), located at the center of the regrown area of [Southern Barrens](https://wowpedia.fandom.com/wiki/Southern_Barrens "Southern Barrens") known as the [Overgrowth](https://wowpedia.fandom.com/wiki/Overgrowth "Overgrowth"). The Nightmare's influence in the Barrens following the Cataclysm suggests that the evil controlling the Nightmare may have taken advantage of the [Shattering](https://wowpedia.fandom.com/wiki/Shattering "Shattering") to attempt to infect [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") once again.
+The Emerald Nightmare is present in the [Nightmare Scar](https://wowpedia.fandom.com/wiki/Nightmare_Scar "Nightmare Scar"), located at the center of the regrown area of [Southern Barrens](https://wowpedia.fandom.com/wiki/Southern_Barrens "Southern Barrens") known as the [Overgrowth](https://wowpedia.fandom.com/wiki/Overgrowth "Overgrowth"). The Nightmare's influence in the Barrens following the Cataclysm suggests that the evil controlling the Nightmare may have taken advantage of the [Shattering](https://wowpedia.fandom.com/wiki/Shattering "Shattering") to attempt to infect xref:Azeroth.adoc[Azeroth] once again.
 
 [Taerar](https://wowpedia.fandom.com/wiki/Taerar "Taerar") still plagues [Feralas](https://wowpedia.fandom.com/wiki/Feralas "Feralas") from the portal at [Dream Bough](https://wowpedia.fandom.com/wiki/Dream_Bough "Dream Bough"), and [Ysondre](https://wowpedia.fandom.com/wiki/Ysondre "Ysondre") is trying to stop him for good.
 
@@ -114,7 +114,7 @@ According to [Zekhan](https://wowpedia.fandom.com/wiki/Zekhan "Zekhan") after th
 
 [![Shadowlands](https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "Shadowlands") **This section concerns content related to _[Shadowlands](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Shadowlands "World of Warcraft: Shadowlands")_.**
 
-While in her [wildseed](https://wowpedia.fandom.com/wiki/Wildseed "Wildseed") in [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald"), [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") was troubled with nightmares. When the [Maw Walkers](https://wowpedia.fandom.com/wiki/Maw_Walker "Maw Walker") were working on helping Ysera, nightmare manifestations such as [Disturbed Nightmares](https://wowpedia.fandom.com/wiki/Disturbed_Nightmare "Disturbed Nightmare") appeared.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-22">[22]</a></sup>
+While in her [wildseed](https://wowpedia.fandom.com/wiki/Wildseed "Wildseed") in [Ardenweald](https://wowpedia.fandom.com/wiki/Ardenweald "Ardenweald"), [Ysera](https://wowpedia.fandom.com/wiki/Ysera "Ysera") was troubled with nightmares. When the xref:MawWalker.adoc[Maw Walkers] were working on helping Ysera, nightmare manifestations such as [Disturbed Nightmares](https://wowpedia.fandom.com/wiki/Disturbed_Nightmare "Disturbed Nightmare") appeared.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-22">[22]</a></sup>
 
 ## Appearance
 
@@ -151,7 +151,7 @@ The Emerald Nightmare was created using the twisted thoughts and fears of sleepi
 
 The [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") is not a place of total perfection. It can be shaped and twisted by dreams, usually without a sleeper's knowledge. Sadly, nightmares are themselves a crafting of the subconscious and have given rise to their own place within the Dream. The Nightmare, as the denizens call it, is not a specific location, but a constantly roaming effect that travels about unpredictably. The skies above the Nightmare are constantly clouded, creating a gloomy, depressing zone that weakens and deadens everything it touches. The beautiful green vegetation is twisted into brown decay, while ordinarily peaceful creatures are corrupted into shadowy, mutated versions of themselves known as [Corrupted Ones](https://wowpedia.fandom.com/wiki/Corrupted_Ones "Corrupted Ones"). The Corrupted Ones are vicious and cruel, hunting anything they can, even after they leave the Nightmare's affected zone.
 
-Worse still, some dream-travelers who enter the Nightmare — or are engulfed by its movements — become trapped in the Emerald Dream. They cannot leave, so their bodies back on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") remain in a permanent sleep, slowly starving to death unless tended by helpful aides. While trapped, they are known as the [Unwaking](https://wowpedia.fandom.com/wiki/Unwaking "Unwaking"); they are also corrupted and will do anything to get back home. The Nightmare is believed to be slowly growing in size and power.<sup id="cite_ref-ReferenceA_24-1"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-ReferenceA-24">[24]</a></sup>
+Worse still, some dream-travelers who enter the Nightmare — or are engulfed by its movements — become trapped in the Emerald Dream. They cannot leave, so their bodies back on xref:Azeroth.adoc[Azeroth] remain in a permanent sleep, slowly starving to death unless tended by helpful aides. While trapped, they are known as the [Unwaking](https://wowpedia.fandom.com/wiki/Unwaking "Unwaking"); they are also corrupted and will do anything to get back home. The Nightmare is believed to be slowly growing in size and power.<sup id="cite_ref-ReferenceA_24-1"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-ReferenceA-24">[24]</a></sup>
 
 ## Memorable quotes
 
@@ -162,45 +162,45 @@ Worse still, some dream-travelers who enter the Nightmare — or are engulfed by
 ## Notes
 
 -   When seeping into rivers, the Nightmare can corrupt aquatic life.<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-25">[25]</a></sup>
--   At [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010"), [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") stated that it was the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") who was responsible for the Emerald Nightmare.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-26">[26]</a></sup> _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ later revealed that [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron") was the one responsible for allowing the Old Gods access into the Emerald Dream. _[Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_ clarified that while it was Yogg-Saron's touch that originally corrupted the Dream, N'Zoth later took over the role.<sup id="cite_ref-Chronicle_Volume_3_14-1"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-Chronicle_Volume_3-14">[14]</a></sup>
+-   At [BlizzCon 2010](https://wowpedia.fandom.com/wiki/BlizzCon_2010 "BlizzCon 2010"), [Chris Metzen](https://wowpedia.fandom.com/wiki/Chris_Metzen "Chris Metzen") stated that it was the [Old God](https://wowpedia.fandom.com/wiki/Old_God "Old God") [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth") who was responsible for the Emerald Nightmare.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-26">[26]</a></sup> _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_1 "World of Warcraft: Chronicle Volume 1")_ later revealed that xref:YoggSaron.adoc[Yogg-Saron] was the one responsible for allowing the Old Gods access into the Emerald Dream. _[Chronicle Volume 3](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Chronicle_Volume_3 "World of Warcraft: Chronicle Volume 3")_ clarified that while it was Yogg-Saron's touch that originally corrupted the Dream, N'Zoth later took over the role.<sup id="cite_ref-Chronicle_Volume_3_14-1"><a href="https://wowpedia.fandom.com/wiki/Emerald_Nightmare#cite_note-Chronicle_Volume_3-14">[14]</a></sup>
 
 ## Gallery
 
 Corrupted races
 
 -   [![Ironbranch.jpg](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Ironbranch.jpg/revision/latest/scale-to-width-down/164?cb=20210131152726)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/Ironbranch.jpg/revision/latest?cb=20210131152726)
-    
+
 -   [![Dresaron.jpg](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Dresaron.jpg/revision/latest/scale-to-width-down/318?cb=20170329084600)](https://static.wikia.nocookie.net/wowpedia/images/a/ad/Dresaron.jpg/revision/latest?cb=20170329084600)
-    
+
 -   [![Aodh Witherpetal.jpg](https://static.wikia.nocookie.net/wowpedia/images/2/29/Aodh_Witherpetal.jpg/revision/latest/scale-to-width-down/181?cb=20180716151024)](https://static.wikia.nocookie.net/wowpedia/images/2/29/Aodh_Witherpetal.jpg/revision/latest?cb=20180716151024)
-    
+
 -   [![Slumbering Nightmare.jpg](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Slumbering_Nightmare.jpg/revision/latest/scale-to-width-down/223?cb=20180519124909)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/Slumbering_Nightmare.jpg/revision/latest?cb=20180519124909)
-    
+
 -   [![Varethos.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Varethos.jpg/revision/latest/scale-to-width-down/131?cb=20160220060007)](https://static.wikia.nocookie.net/wowpedia/images/b/b6/Varethos.jpg/revision/latest?cb=20160220060007)
-    
+
 -   [![Nightmare Imp.jpg](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Nightmare_Imp.jpg/revision/latest/scale-to-width-down/146?cb=20180312181408)](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Nightmare_Imp.jpg/revision/latest?cb=20180312181408)
-    
+
 -   [![Vilepetal Rooter.jpg](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Vilepetal_Rooter.jpg/revision/latest/scale-to-width-down/196?cb=20160531085733)](https://static.wikia.nocookie.net/wowpedia/images/4/4e/Vilepetal_Rooter.jpg/revision/latest?cb=20160531085733)
-    
+
 -   [![Swamp Horror.jpg](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Swamp_Horror.jpg/revision/latest/scale-to-width-down/134?cb=20160903023308)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Swamp_Horror.jpg/revision/latest?cb=20160903023308)
-    
+
 -   [![Creature in the Shadows.jpg](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Creature_in_the_Shadows.jpg/revision/latest/scale-to-width-down/197?cb=20210830065144)](https://static.wikia.nocookie.net/wowpedia/images/e/e2/Creature_in_the_Shadows.jpg/revision/latest?cb=20210830065144)
-    
+
 -   [![Taintheart Befouler.jpg](https://static.wikia.nocookie.net/wowpedia/images/2/22/Taintheart_Befouler.jpg/revision/latest/scale-to-width-down/118?cb=20190910232740)](https://static.wikia.nocookie.net/wowpedia/images/2/22/Taintheart_Befouler.jpg/revision/latest?cb=20190910232740)
-    
+
 -   [![Succumbing Treant.jpg](https://static.wikia.nocookie.net/wowpedia/images/d/d1/Succumbing_Treant.jpg/revision/latest/scale-to-width-down/144?cb=20160221044729)](https://static.wikia.nocookie.net/wowpedia/images/d/d1/Succumbing_Treant.jpg/revision/latest?cb=20160221044729)
-    
+
 -   [![Dominator Tentacle.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/8d/Dominator_Tentacle.jpg/revision/latest/scale-to-width-down/86?cb=20180714141334)](https://static.wikia.nocookie.net/wowpedia/images/8/8d/Dominator_Tentacle.jpg/revision/latest?cb=20180714141334)
-    
+
 -   [![Eye of Il'gynoth.jpg](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Eye_of_Il%27gynoth.jpg/revision/latest/scale-to-width-down/189?cb=20180713093210)](https://static.wikia.nocookie.net/wowpedia/images/a/a7/Eye_of_Il%27gynoth.jpg/revision/latest?cb=20180713093210)
-    
+
 -   [![Unleashed Nightmare (Ardenweald).jpg](https://static.wikia.nocookie.net/wowpedia/images/5/58/Unleashed_Nightmare_%28Ardenweald%29.jpg/revision/latest/scale-to-width-down/207?cb=20201227035227)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Unleashed_Nightmare_%28Ardenweald%29.jpg/revision/latest?cb=20201227035227)
-    
+
 
 Regions
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Thros.jpg/revision/latest/scale-to-width-down/120?cb=20190320222937)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Thros.jpg/revision/latest?cb=20190320222937)
-    
+
 
 Concept art
 
@@ -254,7 +254,7 @@ Fanart
  |
 | --- |
 |  |
-| 
+|
 
 -   [Daral'nir](https://wowpedia.fandom.com/wiki/Daral%27nir "Daral'nir")
 -   [The Dream's heart](https://wowpedia.fandom.com/wiki/Emerald_Dream_(subzone) "Emerald Dream (subzone)")
@@ -268,7 +268,7 @@ Fanart
 
  |
 |  |
-| 
+|
 
 -   **Emerald Nightmare** — [Core of the Nightmare](https://wowpedia.fandom.com/wiki/Core_of_the_Nightmare "Core of the Nightmare")
 -   [Rift of Aln](https://wowpedia.fandom.com/wiki/Rift_of_Aln "Rift of Aln")
@@ -278,7 +278,7 @@ Fanart
 
  |
 |  |
-| 
+|
 
 -   **Reflections** — [Gilneas City](https://wowpedia.fandom.com/wiki/Gilneas_City_(Emerald_Dream) "Gilneas City (Emerald Dream)")
 -   [Grizzly Hills](https://wowpedia.fandom.com/wiki/Grizzly_Hills_(Emerald_Nightmare) "Grizzly Hills (Emerald Nightmare)")
@@ -293,7 +293,7 @@ Fanart
 
  |
 |  |
-| 
+|
 
 [Emerald Dream category](https://wowpedia.fandom.com/wiki/Category:Emerald_Dream "Category:Emerald Dream")
 

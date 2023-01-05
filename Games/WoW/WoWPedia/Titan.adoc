@@ -3,11 +3,11 @@ _This article is about the race of beings called titans. For the titan organizat
 | Titans |
 | --- |
 | [![Pantheon.jpg](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Pantheon.jpg/revision/latest/scale-to-width-down/300?cb=20120220162054)](https://static.wikia.nocookie.net/wowpedia/images/9/9b/Pantheon.jpg/revision/latest?cb=20120220162054) |
-| Faction/Affiliation | [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")  
+| Faction/Affiliation | [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") |
-| Racial capital | [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon")  
+| Racial capital | [Seat of the Pantheon](https://wowpedia.fandom.com/wiki/Seat_of_the_Pantheon "Seat of the Pantheon")
 [Antorus](https://wowpedia.fandom.com/wiki/Antorus,_the_Burning_Throne "Antorus, the Burning Throne") |
-| Racial leader(s) | [![IconSmall Aman'Thul.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest/scale-to-width-down/16?cb=20211206110642)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest?cb=20211206110642) [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")  
+| Racial leader(s) | [![IconSmall Aman'Thul.gif](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest/scale-to-width-down/16?cb=20211206110642)](https://static.wikia.nocookie.net/wowpedia/images/4/40/IconSmall_Aman%27Thul.gif/revision/latest?cb=20211206110642) [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
 [![IconSmall Sargeras.gif](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Sargeras.gif/revision/latest/scale-to-width-down/16?cb=20221014225054)](https://static.wikia.nocookie.net/wowpedia/images/6/64/IconSmall_Sargeras.gif/revision/latest?cb=20221014225054) [Sargeras](https://wowpedia.fandom.com/wiki/Sargeras "Sargeras") |
 | Homeworld | [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond") |
 | Language(s) | [Titan](https://wowpedia.fandom.com/wiki/Titan_(language) "Titan (language)") |
@@ -34,7 +34,7 @@ The world-soul of [Argus](https://wowpedia.fandom.com/wiki/Argus_(titan) "Argus 
 
 The titans are colossal godlike beings made up of the primordial matter from which the very universe was born. Imbued with the raw power of creation itself, they roam the cosmos like walking worlds.<sup id="cite_ref-Chron13_4-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chron13-4">[4]</a></sup> Titans are born from [world-souls](https://wowpedia.fandom.com/wiki/World-soul "World-soul"), spirits who are formed within the fiery cores of a small number of worlds and who slumber for ages, suffusing the planets they inhabit with [Spirit](https://wowpedia.fandom.com/wiki/Spirit "Spirit") energy before finally awakening. Described as living worlds, their bodies are covered in mountain peaks and rivers, their forms wrapped in cloaks of stardust and their eyes shining like brilliant stars.<sup id="cite_ref-Chronicle19_5-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle19-5">[5]</a></sup> Bastions of purity and good, the titans are unable to conceive of evil or wickedness in any form.<sup id="cite_ref-UVG_6-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-UVG-6">[6]</a></sup>
 
-Titans are heavily tied to the cosmic force known as [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-7">[7]</a></sup> In fact, arcane is their very lifeblood. The original [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), an enormous lake of volatile arcane energies, was literally the very lifeblood of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")'s [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-8">[8]</a></sup> They are also uniquely susceptible to [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") magic, their polar opposite. Mature titans are immune to the corruptive influences of the [void lords](https://wowpedia.fandom.com/wiki/Void_lords "Void lords").<sup id="cite_ref-Chronicle48_9-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle48-9">[9]</a></sup>
+Titans are heavily tied to the cosmic force known as [arcane](https://wowpedia.fandom.com/wiki/Arcane "Arcane").<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-7">[7]</a></sup> In fact, arcane is their very lifeblood. The original [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity"), an enormous lake of volatile arcane energies, was literally the very lifeblood of xref:Azeroth.adoc[Azeroth]'s [world-soul](https://wowpedia.fandom.com/wiki/World-soul "World-soul").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-8">[8]</a></sup> They are also uniquely susceptible to [fel](https://wowpedia.fandom.com/wiki/Fel "Fel") magic, their polar opposite. Mature titans are immune to the corruptive influences of the [void lords](https://wowpedia.fandom.com/wiki/Void_lords "Void lords").<sup id="cite_ref-Chronicle48_9-0"><a href="https://wowpedia.fandom.com/wiki/Titan#cite_note-Chronicle48-9">[9]</a></sup>
 
 According to the cosmology chart, the titans, as the embodiments of Order, are most closely associated with the element of [Earth](https://wowpedia.fandom.com/wiki/Earth "Earth"), as well as sharing an association with the element of [Water](https://wowpedia.fandom.com/wiki/Water "Water") with the [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_Gods "Wild Gods").
 
@@ -146,7 +146,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 38.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-38) [Loreology on Twitter](https://twitter.com/Loreology/status/480753336732643328) (2014-06-22): "They are classified as "metallic skinned gods" in my bible.... :)"
 39.  [^](https://wowpedia.fandom.com/wiki/Titan#cite_ref-Muffinus_39-0) [Jeremy Feasel on Twitter](https://web.archive.org/web/20170625213609/https://twitter.com/Muffinus/status/607424554936365056)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Titans "Template:Titans")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Titans?action=edit)
 
@@ -157,7 +157,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
  |
 | --- |
 |  |
-| **Titans** | 
+| **Titans** |
 
 -   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
 -   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
@@ -173,7 +173,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") | 
+| [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") |
 
 -   [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas")
 -   [Freya](https://wowpedia.fandom.com/wiki/Freya "Freya")
@@ -189,7 +189,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") | 
+| [Watchers](https://wowpedia.fandom.com/wiki/Titanic_watcher "Titanic watcher") |
 
 -   [Eyir](https://wowpedia.fandom.com/wiki/Eyir "Eyir")
 -   [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya")
@@ -212,7 +212,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") | 
+| [Lesser titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") |
 
 -   [Earthen](https://wowpedia.fandom.com/wiki/Earthen "Earthen")
 -   [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant")
@@ -225,7 +225,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") |
 
 -   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
 -   [Colossals](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
@@ -242,7 +242,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
     -   [Algalon](https://wowpedia.fandom.com/wiki/Algalon_the_Observer "Algalon the Observer")
@@ -257,7 +257,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") | 
+| [Constructions](https://wowpedia.fandom.com/wiki/List_of_titanic_locations "List of titanic locations") |
 
 -   [Forge of Origination](https://wowpedia.fandom.com/wiki/Forge_of_Origination "Forge of Origination")
 -   [Forge of Wills](https://wowpedia.fandom.com/wiki/Forge_of_Wills "Forge of Wills")
@@ -303,7 +303,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| Relics | 
+| Relics |
 
 -   [Archivum Console](https://wowpedia.fandom.com/wiki/Archivum_Console "Archivum Console")
 -   [Discs of Norgannon](https://wowpedia.fandom.com/wiki/Discs_of_Norgannon "Discs of Norgannon")
@@ -329,7 +329,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| Weapons | 
+| Weapons |
 
 -   [Sword of Sargeras](https://wowpedia.fandom.com/wiki/Sword_of_Sargeras "Sword of Sargeras")
 -   [Taeshalach](https://wowpedia.fandom.com/wiki/Taeshalach "Taeshalach")
@@ -344,7 +344,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods "Template:Gods and demigods")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Gods_and_demigods?action=edit)
 
@@ -355,7 +355,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
  |
 | --- |
 |  |
-| **Titans** | 
+| **Titans** |
 
 -   [Aggramar](https://wowpedia.fandom.com/wiki/Aggramar "Aggramar")
 -   [Aman'Thul](https://wowpedia.fandom.com/wiki/Aman%27Thul "Aman'Thul")
@@ -371,7 +371,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") | 
+| [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") |
 
 -   [Arbiter](https://wowpedia.fandom.com/wiki/Arbiter "Arbiter")<sup>2nd</sup>
 -   [Denathrius](https://wowpedia.fandom.com/wiki/Denathrius "Denathrius")
@@ -385,11 +385,11 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") | 
+| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")
--   [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")
+-   xref:YoggSaron.adoc[Yogg-Saron]
 -   [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")
 -   [G'huun](https://wowpedia.fandom.com/wiki/G%27huun "G'huun")<sup>artificial</sup>
 -   [Summoned Old God](https://wowpedia.fandom.com/wiki/Summoned_Old_God "Summoned Old God")
@@ -398,7 +398,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") | 
+| [Ancient Guardians](https://wowpedia.fandom.com/wiki/Ancient_Guardian "Ancient Guardian") |
 
 -   [Aessina](https://wowpedia.fandom.com/wiki/Aessina "Aessina")
 -   [Agamaggan](https://wowpedia.fandom.com/wiki/Agamaggan "Agamaggan")
@@ -427,7 +427,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") | 
+| [Loa](https://wowpedia.fandom.com/wiki/Loa "Loa") |
 
 -   [Akali](https://wowpedia.fandom.com/wiki/Akali "Akali")
 -   [Akil'darah](https://wowpedia.fandom.com/wiki/Akil%27darah "Akil'darah")
@@ -473,10 +473,10 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") | 
+| [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") |
 
 -   [Al'Akir](https://wowpedia.fandom.com/wiki/Al%27Akir "Al'Akir")<sup>1st, air</sup>
--   [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon")<sup>1st, water</sup>
+-   xref:Neptulon.adoc[Neptulon]<sup>1st, water</sup>
 -   [Ragnaros](https://wowpedia.fandom.com/wiki/Ragnaros "Ragnaros")<sup>1st, fire</sup>
 -   [Smolderon](https://wowpedia.fandom.com/wiki/Smolderon "Smolderon")<sup>2nd, fire</sup>
 -   [Therazane](https://wowpedia.fandom.com/wiki/Therazane "Therazane")<sup>1st, earth</sup>
@@ -486,7 +486,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Al'ar](https://wowpedia.fandom.com/wiki/Al%27ar "Al'ar")
 -   [Arakkoa gods](https://wowpedia.fandom.com/wiki/Arakkoa#Faith "Arakkoa")
@@ -543,7 +543,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive | 
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") Exclusive |
 
 -   [Deep Mother](https://wowpedia.fandom.com/wiki/Deep_Mother "Deep Mother")
 -   [Nath](https://wowpedia.fandom.com/wiki/Nath "Nath")
@@ -556,7 +556,7 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 |  |
-| 
+|
 
 -   [Cosmic forces](https://wowpedia.fandom.com/wiki/Magic#the_cosmic_forces "Magic") ([Light](https://wowpedia.fandom.com/wiki/Light "Light")
 -   [Disorder](https://wowpedia.fandom.com/wiki/Disorder "Disorder")
@@ -574,37 +574,37 @@ The ancient [Iron Forge](https://wowpedia.fandom.com/wiki/Iron_Forge "Iron Forge
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens "Template:Azeroth aliens")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Azeroth_aliens?action=edit)
 
-Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth")
+Sapient [species](https://wowpedia.fandom.com/wiki/Race "Race") alien to xref:Azeroth.adoc[Azeroth]
 
 
 
  |
 | --- |
 |  |
-| [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") natives | 
+| [Argus](https://wowpedia.fandom.com/wiki/Argus "Argus") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Eredar" title="Eredar">Eredar</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar#Demonic_eredar" title="Eredar">Man'ari</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Eredar_brute" title="Eredar brute">Brute</a></li><li><a href="https://wowpedia.fandom.com/wiki/Doommaiden" title="Doommaiden">Doommaiden</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wrathguard" title="Wrathguard">Wrathguard</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Draenei" title="Draenei">Draenei</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lightforged_draenei" title="Lightforged draenei">Lightforged draenei</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Broken" title="Broken">Broken</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Lost_One" title="Lost One">Lost One</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidscarred" title="Voidscarred">Voidscarred</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-draenei" title="Half-draenei">Half-draenei</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") natives | 
+| [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Breakers" title="Breakers">Breakers</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Colossal" title="Colossal">Colossal</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Magnaron" title="Magnaron">Magnaron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Gronn" title="Gronn">Gronn</a>/<a href="https://wowpedia.fandom.com/wiki/Gronnling" title="Gronnling">Gronnling</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogron" title="Ogron">Ogron</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre" title="Ogre">Ogre</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Ogre_lord" title="Ogre lord">Ogre lord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ogre_mage" title="Ogre mage">Ogre mage</a></li><li><a href="https://wowpedia.fandom.com/wiki/Orc" title="Orc">Orc</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mag%27har_orc" title="Mag'har orc">Mag'har</a></li><li>Green-skinned</li><li><a href="https://wowpedia.fandom.com/wiki/Fel_orc" title="Fel orc">Fel orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dire_orc" title="Dire orc">Dire orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Pale_orc" title="Pale orc">Pale orc</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infested" title="Infested">The Infested</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Half-ogre" title="Half-ogre">Half-ogre</a></li></ul></li></ul></li></ul></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Goren" title="Goren">Goren</a></li><li><a href="https://wowpedia.fandom.com/wiki/Half-orc" title="Half-orc">Half-orc</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Zangar_encroachment" title="Zangar encroachment">Fungi</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Fungal_giant" title="Fungal giant">Fungal giant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sporeling" title="Sporeling">Sporeling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Primals" title="Primals">Primals</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Genesaur" title="Genesaur">Genesaur</a></li><li><a href="https://wowpedia.fandom.com/wiki/Draenor_ancient" title="Draenor ancient">Draenor ancient</a></li><li><a href="https://wowpedia.fandom.com/wiki/Botani" title="Botani">Botani</a></li><li><a href="https://wowpedia.fandom.com/wiki/Podling" title="Podling">Podling</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Arakkoa" title="Arakkoa">Arakkoa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saberon" title="Saberon">Saberon</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh") natives | 
+| [K'aresh](https://wowpedia.fandom.com/wiki/K%27aresh "K'aresh") natives |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Ethereal" title="Ethereal">Ethereal</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Ethereal" title="Ethereal">Ethereal</a></li><li><a href="https://wowpedia.fandom.com/wiki/Ethereal#Nexus-stalkers" title="Ethereal">Nexus-stalker</a></li><li><a href="https://wowpedia.fandom.com/wiki/Void_ethereal" title="Void ethereal">Void ethereal</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")  
-natives | 
+| [Shadowlands](https://wowpedia.fandom.com/wiki/Shadowlands "Shadowlands")
+natives |
 
 -   [Attendant](https://wowpedia.fandom.com/wiki/Attendant "Attendant")
 -   [Automa](https://wowpedia.fandom.com/wiki/Automa "Automa")
@@ -643,8 +643,8 @@ natives |
 
  |
 |  |
-| Inhabitants of the  
-[Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") | 
+| Inhabitants of the
+[Twisting Nether](https://wowpedia.fandom.com/wiki/Twisting_Nether "Twisting Nether") |
 
 -   [Annihilan](https://wowpedia.fandom.com/wiki/Annihilan "Annihilan")
 -   [Antaen](https://wowpedia.fandom.com/wiki/Antaen "Antaen")
@@ -669,13 +669,13 @@ natives |
 
  |
 |  |
-| [Void](https://wowpedia.fandom.com/wiki/Void "Void") | 
+| [Void](https://wowpedia.fandom.com/wiki/Void "Void") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lords</a> and <a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old Gods</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_lord" title="Void lord">Void lord</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Old_God" title="Old God">Old God</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aqir" title="Aqir">Aqir</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Mantid" title="Mantid">Mantid</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Kunchong" title="Kunchong">Kunchong</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian" title="Nerubian">Nerubian</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_flyer" title="Nerubian flyer">Flyer</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spider" title="Nerubian spider">Spider</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_spiderlord" title="Nerubian spiderlord">Spiderlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nerubian_vizier" title="Nerubian vizier">Vizier</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji" title="Qiraji">Qiraji</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_battleguard" title="Qiraji battleguard">Battleguard</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_emperor" title="Qiraji emperor">Emperor</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_gladiator" title="Qiraji gladiator">Gladiator</a></li><li><a href="https://wowpedia.fandom.com/wiki/Qiraji_prophet" title="Qiraji prophet">Prophet</a></li></ul></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/N%27raqi" title="N'raqi">N'raqi</a><ul><li><a href="https://wowpedia.fandom.com/wiki/C%27Thrax" title="C'Thrax">C'Thrax</a></li><li><a href="https://wowpedia.fandom.com/wiki/K%27thir" title="K'thir">K'thir</a></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Other</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Void_revenant" title="Void revenant">Void revenant</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwalker" title="Voidwalker">Voidwalker</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Voidcaller" title="Voidcaller">Voidcaller</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidlord" title="Voidlord">Voidlord</a></li><li><a href="https://wowpedia.fandom.com/wiki/Voidwraith" title="Voidwraith">Voidwraith</a></li></ul></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Interstellar travelers | 
+| Interstellar travelers |
 
 -   [Constellar](https://wowpedia.fandom.com/wiki/Constellar "Constellar")
 -   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru") ([Void god](https://wowpedia.fandom.com/wiki/Void_god "Void god"))
@@ -687,7 +687,7 @@ natives |
 
  |
 |  |
-| Extinct | 
+| Extinct |
 
 [Aldrachi](https://wowpedia.fandom.com/wiki/Aldrachi "Aldrachi")
 
@@ -695,7 +695,7 @@ natives |
 
  |
 |  |
-| 
+|
 
 -   This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
 

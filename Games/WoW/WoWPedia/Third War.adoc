@@ -3,11 +3,11 @@
 | [![Archimonde assaults Nordrassil.jpg](https://static.wikia.nocookie.net/wowpedia/images/0/00/Archimonde_assaults_Nordrassil.jpg/revision/latest/scale-to-width-down/300?cb=20190921183847)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Archimonde_assaults_Nordrassil.jpg/revision/latest?cb=20190921183847) |
 | Part of | [Burning Crusade](https://wowpedia.fandom.com/wiki/Burning_Crusade "Burning Crusade") |
 | Date | 20 [ADP](https://wowpedia.fandom.com/wiki/ADP "ADP") - 21 ADP |
-| Location | [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") and [continents](https://wowpedia.fandom.com/wiki/Continent "Continent") of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and [central](https://wowpedia.fandom.com/wiki/Central_Kalimdor "Central Kalimdor") and [northern](https://wowpedia.fandom.com/wiki/Northern_Kalimdor "Northern Kalimdor") [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") (notably [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal")). |
+| Location | [Great Sea](https://wowpedia.fandom.com/wiki/Great_Sea "Great Sea") and [continents](https://wowpedia.fandom.com/wiki/Continent "Continent") of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron"), xref:Northrend.adoc[Northrend] and [central](https://wowpedia.fandom.com/wiki/Central_Kalimdor "Central Kalimdor") and [northern](https://wowpedia.fandom.com/wiki/Northern_Kalimdor "Northern Kalimdor") [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") (notably [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal")). |
 | Prelude | [Formation of the](https://wowpedia.fandom.com/wiki/Kel%27Thuzad_and_the_Forming_of_the_Scourge "Kel'Thuzad and the Forming of the Scourge") [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") |
 | Begin | [Scourging of Lordaeron](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron") ([The Scourge of Lordaeron](https://wowpedia.fandom.com/wiki/The_Scourge_of_Lordaeron "The Scourge of Lordaeron")) |
 | End | [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal") |
-| Result | 
+| Result |
 Mortal victory
 
 -   Defeat of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").
@@ -19,11 +19,11 @@ Mortal victory
 -   Birth of the [Blood elven](https://wowpedia.fandom.com/wiki/Blood_Elf "Blood Elf") [race](https://wowpedia.fandom.com/wiki/Race "Race").
 
  |
-| 
+|
 
 | Belligerents |
 | --- |
-| 
+|
 Mortal races
 
 -   [Alliance of Lordaeron](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") <sup>&nbsp;†</sup>
@@ -32,7 +32,7 @@ Mortal races
         -   [1st Legion](https://wowpedia.fandom.com/wiki/1st_Legion "1st Legion") <sup>&nbsp;†</sup>
     -   [Kingdom of Stormwind](https://wowpedia.fandom.com/wiki/Stormwind_(kingdom) "Stormwind (kingdom)")
     -   [Magocracy of Dalaran](https://wowpedia.fandom.com/wiki/Dalaran_(kingdom) "Dalaran (kingdom)") <sup>&nbsp;†</sup>
-        -   [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor")
+        -   xref:KirinTor.adoc[Kirin Tor]
     -   [Admiralty of Kul Tiras](https://wowpedia.fandom.com/wiki/Kul_Tiras_(kingdom) "Kul Tiras (kingdom)")
         -   [Kul'Tiras Marines](https://wowpedia.fandom.com/wiki/Kul%27Tiras_Marines "Kul'Tiras Marines")
     -   [Kingdom of Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_(kingdom) "Ironforge (kingdom)")
@@ -76,7 +76,7 @@ Mortal races
 -   Other [mortal](https://wowpedia.fandom.com/wiki/Mortal "Mortal") minor societies
 
  |
-| 
+|
 
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
 
@@ -93,11 +93,11 @@ Mortal races
  |
 
  |
-| 
+|
 
 | Commanders and leaders |
 | --- |
-| 
+|
 Mortal races
 
 -   [![IconSmall Medivh.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/c/c9/IconSmall_Medivh.gif/revision/latest?cb=20211213121317) [Magus Medivh](https://wowpedia.fandom.com/wiki/Magus_Medivh "Magus Medivh")
@@ -162,7 +162,7 @@ Mortal races
 -   [![IconSmall Garithos.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/f/fa/IconSmall_Garithos.gif/revision/latest?cb=20200521100051) [Garithos](https://wowpedia.fandom.com/wiki/Garithos "Garithos")
 
  |
-| 
+|
 
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
 
@@ -199,17 +199,17 @@ Mortal races
  |
 
  |
-| 
+|
 
 | Casualties and losses |
 | --- |
-| 
+|
 Mortal races
 
 -   Massive
 
  |
-| 
+|
 
 [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")
 
@@ -222,13 +222,13 @@ Mortal races
 | Previous | [War of the Spider](https://wowpedia.fandom.com/wiki/War_of_the_Spider "War of the Spider") |
 | Next | [Ascension of the Lich King](https://wowpedia.fandom.com/wiki/Ascension_of_the_Lich_King "Ascension of the Lich King"), [Plaguelands civil war](https://wowpedia.fandom.com/wiki/Plaguelands_civil_war "Plaguelands civil war"), [Northgate Rebellion](https://wowpedia.fandom.com/wiki/Northgate_Rebellion "Northgate Rebellion") |
 
-The **Third War** (also known as the **Third Great War**,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-4">[4]</a></sup> the **Chaos War**,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-5">[5]</a></sup> and the **Reign of Chaos**)<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-6">[6]</a></sup> was a massive conflict between the mortal races of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") which took place on the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). The Third War began in earnest when the [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") of the [human](https://wowpedia.fandom.com/wiki/Human "Human") [kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron") fell to the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") army led by the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"),<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-7">[7]</a></sup> and ended with the defeat of the demon commander [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") on [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"). It was the [second invasion](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-8">[8]</a></sup> During the war, the ancient [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") were reintroduced to the world.
+The **Third War** (also known as the **Third Great War**,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-4">[4]</a></sup> the **Chaos War**,<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-5">[5]</a></sup> and the **Reign of Chaos**)<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-6">[6]</a></sup> was a massive conflict between the mortal races of xref:Azeroth.adoc[Azeroth] and the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") which took place on the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"), xref:Northrend.adoc[Northrend] and [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). The Third War began in earnest when the [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City") of the [human](https://wowpedia.fandom.com/wiki/Human "Human") [kingdom of Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron") fell to the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") army led by the [death knight](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"),<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-7">[7]</a></sup> and ended with the defeat of the demon commander [Archimonde](https://wowpedia.fandom.com/wiki/Archimonde "Archimonde") on [Mount Hyjal](https://wowpedia.fandom.com/wiki/Mount_Hyjal "Mount Hyjal"). It was the [second invasion](https://wowpedia.fandom.com/wiki/Second_invasion "Second invasion") of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion").<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-8">[8]</a></sup> During the war, the ancient [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") were reintroduced to the world.
 
 The events of the war were chronicled in _[Warcraft III: Reign of Chaos](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_.
 
 ## Prelude
 
-After their defeat in the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), the [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde")'s [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief"), [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") was captured by [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") for his failure. As punishment, the Deceiver destroyed Ner'zhuls body, and tortured his spirit until he agreed to serve the Legion once again. His soul encased in a suit of armor which was then bound to the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), Kil'jaeden hurled his creation towards [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") where it smashed into [Icecrown Glacier](https://wowpedia.fandom.com/wiki/Icecrown_Glacier "Icecrown Glacier"). Thus the first major player of the Third War, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") was born. Once on Azeroth, the Lich King took control of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and he had the [necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") take the [Plague of Undeath](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") to [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)").
+After their defeat in the [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"), the [Old Horde](https://wowpedia.fandom.com/wiki/Old_Horde "Old Horde")'s [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief"), [Ner'zhul](https://wowpedia.fandom.com/wiki/Ner%27zhul "Ner'zhul") was captured by [Kil'jaeden](https://wowpedia.fandom.com/wiki/Kil%27jaeden "Kil'jaeden") for his failure. As punishment, the Deceiver destroyed Ner'zhuls body, and tortured his spirit until he agreed to serve the Legion once again. His soul encased in a suit of armor which was then bound to the [Frozen Throne](https://wowpedia.fandom.com/wiki/Frozen_Throne "Frozen Throne"), Kil'jaeden hurled his creation towards xref:Azeroth.adoc[Azeroth] where it smashed into [Icecrown Glacier](https://wowpedia.fandom.com/wiki/Icecrown_Glacier "Icecrown Glacier"). Thus the first major player of the Third War, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King") was born. Once on Azeroth, the Lich King took control of xref:Northrend.adoc[Northrend] and he had the [necromancer](https://wowpedia.fandom.com/wiki/Necromancer "Necromancer") [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") take the [Plague of Undeath](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") to [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron_(kingdom) "Lordaeron (kingdom)").
 
 Before the start of the war, the prophet [Medivh](https://wowpedia.fandom.com/wiki/Medivh "Medivh") came to the young orcish Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") in a dream. Medivh told him that he must rally the newly-reformed shamanistic Horde and move them across the sea to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor") in order to escape the shadow that was coming to consume the land. Trusting the prophet's words, and wishing to find a new home for his people, Thrall listened to his call, fought his way through Lordaeron's troops and sailed west.
 
@@ -238,11 +238,11 @@ The following events started during the month of October.<sup id="cite_ref-9"><a
 
 ### Disturbance in the north
 
-A rumor had started to travel around Lordaeron telling how a mysterious plague had gripped the northern lands, as the majority of Lordaeron's attention was focused on the Horde's flight and rebelling orc clans. When Medivh appeared before King [Terenas](https://wowpedia.fandom.com/wiki/Terenas "Terenas") telling him just as he told Thrall: to save his people, he must travel west, Terenas told him that he would defend his kingdom. To do so, he sent his own son [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), who was dealing with the rebelling orcs with Sir [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") north to investigate. [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") from the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") was sent from Dalaran to aid in the investigation.
+A rumor had started to travel around Lordaeron telling how a mysterious plague had gripped the northern lands, as the majority of Lordaeron's attention was focused on the Horde's flight and rebelling orc clans. When Medivh appeared before King [Terenas](https://wowpedia.fandom.com/wiki/Terenas "Terenas") telling him just as he told Thrall: to save his people, he must travel west, Terenas told him that he would defend his kingdom. To do so, he sent his own son [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil"), who was dealing with the rebelling orcs with Sir [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") north to investigate. [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore") from the xref:KirinTor.adoc[Kirin Tor] was sent from Dalaran to aid in the investigation.
 
 ### Cult of the Damned
 
-After joining [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), Prince Arthas discovered that [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")'s granaries were wrought with a plague that killed all who are infected (within a period of time) after they had encountered [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") in the town of [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill"). Since [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") was the main distribution point for grain in the area, this meant that many other towns were in danger. As they fought their way through the infected city of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") they bore witness to a unique devastation like [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") had never seen. They hunted down and attacked Kel'Thuzad for his crimes against the people. The necromancer told Arthas that he served a greater power, a dreadlord named [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"), and that he was responsible for the Scourge. Enraged, Arthas vowed he would kill Mal'Ganis and they traveled to [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") to confront him after slaying the corrupted wizard.
+After joining [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoore "Jaina Proudmoore"), Prince Arthas discovered that [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal")'s granaries were wrought with a plague that killed all who are infected (within a period of time) after they had encountered [Kel'Thuzad](https://wowpedia.fandom.com/wiki/Kel%27Thuzad "Kel'Thuzad") in the town of [Brill](https://wowpedia.fandom.com/wiki/Brill "Brill"). Since [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") was the main distribution point for grain in the area, this meant that many other towns were in danger. As they fought their way through the infected city of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") they bore witness to a unique devastation like xref:Azeroth.adoc[Azeroth] had never seen. They hunted down and attacked Kel'Thuzad for his crimes against the people. The necromancer told Arthas that he served a greater power, a dreadlord named [Mal'Ganis](https://wowpedia.fandom.com/wiki/Mal%27Ganis "Mal'Ganis"), and that he was responsible for the Scourge. Enraged, Arthas vowed he would kill Mal'Ganis and they traveled to xref:Stratholme.adoc[Stratholme] to confront him after slaying the corrupted wizard.
 
 ### Rise of the Scourge
 
@@ -250,13 +250,13 @@ After joining [Jaina Proudmoore](https://wowpedia.fandom.com/wiki/Jaina_Proudmoo
 
 The Alliance battling the Scourge.
 
-While in [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen"), Arthas and Jaina's forces were attacked by legions of [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"). Arthas had Jaina search for Uther while he and his forces remained to protect the town from the Scourge. It was then he learned the truth behind the plague. The plague didn't just kill those infected, it turned them into the undead, and thus, the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Before his army was defeated, Uther and his knights arrived and saved the town. Not long after this battle, Arthas was met by Medivh, who warned the prince to travel west to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). Like his father, Arthas refused, saying his place was with his people. Jaina believed the prophet's words but Arthas would not be swayed to leave his kingdom. They continued to [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme") to deal with the threat of the Scourge.
+While in [Hearthglen](https://wowpedia.fandom.com/wiki/Hearthglen "Hearthglen"), Arthas and Jaina's forces were attacked by legions of [undead](https://wowpedia.fandom.com/wiki/Undead "Undead"). Arthas had Jaina search for Uther while he and his forces remained to protect the town from the Scourge. It was then he learned the truth behind the plague. The plague didn't just kill those infected, it turned them into the undead, and thus, the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Before his army was defeated, Uther and his knights arrived and saved the town. Not long after this battle, Arthas was met by Medivh, who warned the prince to travel west to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor"). Like his father, Arthas refused, saying his place was with his people. Jaina believed the prophet's words but Arthas would not be swayed to leave his kingdom. They continued to xref:Stratholme.adoc[Stratholme] to deal with the threat of the Scourge.
 
 ### Culling of Stratholme
 
 _Main article: [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme")_
 
-Upon arriving at [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme"), they discovered that the grain had already been distributed amongst the townsfolk. Arthas, not wanting to deal with an entire army of undead, ordered Uther and his [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") to destroy the town. Uther was appalled by this, saying he wouldn't follow the order even if Arthas was the king. For his defiance, Arthas disbanded the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") and called all those still loyal to Lordaeron to come with him. Uther took his followers and left, and Jaina quickly followed. Abandoned by his teacher and friend, Arthas continued to Stratholme to slaughter the town.
+Upon arriving at xref:Stratholme.adoc[Stratholme], they discovered that the grain had already been distributed amongst the townsfolk. Arthas, not wanting to deal with an entire army of undead, ordered Uther and his [paladins](https://wowpedia.fandom.com/wiki/Paladin "Paladin") to destroy the town. Uther was appalled by this, saying he wouldn't follow the order even if Arthas was the king. For his defiance, Arthas disbanded the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") and called all those still loyal to Lordaeron to come with him. Uther took his followers and left, and Jaina quickly followed. Abandoned by his teacher and friend, Arthas continued to Stratholme to slaughter the town.
 
 Upon arrival, Arthas met Mal'Ganis himself. The two had a race of sorts for the lives of the town. Arthas wished to destroy them, Mal'Ganis wished to corrupt them. When the town was in ruin, Arthas demanded a final showdown with Mal'Ganis. Mal'Ganis, however, slipped away, vowing to meet him in Northrend.
 
@@ -338,7 +338,7 @@ _Main article: [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_o
 
 Malfurion brings an end to the Third War.
 
-After Illidan's banishment, Medivh called Malfurion and Tyrande to a secret grove where he had Thrall and Jaina meet them. Medivh revealed that he was the one who helped [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") create the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal") and allowed the Horde to invade Azeroth. After he was slain for his crimes, he had to return to right his wrongs and protect Azeroth from the Legion's return. Medivh asked that the mortal races unite to defeat the Legion, as their combined power was their only hope.
+After Illidan's banishment, Medivh called Malfurion and Tyrande to a secret grove where he had Thrall and Jaina meet them. Medivh revealed that he was the one who helped [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") create the xref:DarkPortal.adoc[Dark Portal] and allowed the Horde to invade Azeroth. After he was slain for his crimes, he had to return to right his wrongs and protect Azeroth from the Legion's return. Medivh asked that the mortal races unite to defeat the Legion, as their combined power was their only hope.
 
 To prepare for the demons' attack, three camps were built around Mount Hyjal. Malfurion devised a plan to use the power of the World Tree itself to destroy Archimonde. As he went back up the summit to make the necessary preparations for Archimonde, Jaina and Thrall used whatever night elves Tyrande could spare to fortify their bases. Archimonde tore his way through ranks of human knights, elven sentinels, and orcish warriors and smashed his way through the human castle and orc fortress. Jaina was able to teleport most of the surviving troops. Before Thrall escaped death, he managed to hurt Archimonde with a bolt of his shamanistic lightning, an incredible feat in itself. With the two bases destroyed, Archimonde stormed through the night elf gate protecting the summit.
 
@@ -370,7 +370,7 @@ Garithos and Kael'thas in Dalaran.
 
 After the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") irrevocably tainted the [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell"), Prince [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") gathered a group of Quel’Thalas’s defenders and destroyed the fount to avert it from obliterating his people. Although the high elves were spared from continued exposure to the Sunwell’s dark energies, in the fount’s absence they suffered terribly from withdrawal. As a result, Kael’thas desperately searched for a means to help his people—whom he had renamed the [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf").<sup id="cite_ref-beonline_13-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-beonline-13">[13]</a></sup>
 
-The [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") formed under Grand Marshal [Garithos](https://wowpedia.fandom.com/wiki/Garithos "Garithos")' command, who had rallied the surviving humans of [Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron"). Along with reinforcements from [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"), [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") and [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge"), the Alliance resistance had managed to retake [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-14">[14]</a></sup> and the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains")<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> , pushing the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") back to the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands").
+The [Alliance resistance](https://wowpedia.fandom.com/wiki/Alliance_resistance "Alliance resistance") formed under Grand Marshal [Garithos](https://wowpedia.fandom.com/wiki/Garithos "Garithos")' command, who had rallied the surviving humans of [Lordaeron](https://wowpedia.fandom.com/wiki/Kingdom_of_Lordaeron "Kingdom of Lordaeron"). Along with reinforcements from [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind"), [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas"), the xref:KirinTor.adoc[Kirin Tor] and [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge"), the Alliance resistance had managed to retake [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran")<sup id="cite_ref-14"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-14">[14]</a></sup> and the [Alterac Mountains](https://wowpedia.fandom.com/wiki/Alterac_Mountains "Alterac Mountains")<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> , pushing the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") back to the [Plaguelands](https://wowpedia.fandom.com/wiki/Plaguelands "Plaguelands").
 
 ### Civil war in the Plaguelands
 
@@ -380,7 +380,7 @@ Arthas confronts the Dreadlord Insurgents.
 
 After the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s defeat at the [Battle of Mount Hyjal](https://wowpedia.fandom.com/wiki/Battle_of_Mount_Hyjal "Battle of Mount Hyjal"), [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil "Arthas Menethil") returned to his ruined kingdom of [Lordaeron](https://wowpedia.fandom.com/wiki/Lordaeron "Lordaeron") to rule over his undead subjects, annihilate the last pockets of human resistance, and oust the remaining [dreadlords](https://wowpedia.fandom.com/wiki/Dreadlord "Dreadlord") who were unaware of the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion")'s defeat. However, the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King")'s powers began to wane and demanded Arthas travel to [Icecrown Citadel](https://wowpedia.fandom.com/wiki/Icecrown_Citadel "Icecrown Citadel") to defend it from [Illidan Stormrage](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage")'s [Forces](https://wowpedia.fandom.com/wiki/Illidari "Illidari").<sup id="cite_ref-15"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-15">[15]</a></sup> With the Lich King's control over the undead faltering, one group of undead broke away from the Scourge and freed themselves of the Lich King's domination. Among them was [Sylvanas Windrunner](https://wowpedia.fandom.com/wiki/Sylvanas_Windrunner "Sylvanas Windrunner") who plotted with the [Dreadlord Insurgents](https://wowpedia.fandom.com/wiki/Dreadlord_Insurgents "Dreadlord Insurgents") to destroy Arthas.<sup id="cite_ref-16"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-16">[16]</a></sup>
 
-Surviving members of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") in Lordaeron retook portions of the [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands") from the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").<sup id="cite_ref-WoWcomicDiC_17-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWcomicDiC-17">[17]</a></sup> Yet after the death of Highlord [Alexandros Mograine](https://wowpedia.fandom.com/wiki/Alexandros_Mograine "Alexandros Mograine"), these holy crusaders underwent a schism: some following the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), comprising of zealous humans that cling to their scattered holdings, obsessed with eradicating the undead and retaking their once-beautiful homeland, and the [Argent Dawn](https://wowpedia.fandom.com/wiki/Argent_Dawn "Argent Dawn"), which took a less extreme approach to combat the Scourge and accepted members from all of Azeroth's races into their ranks.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-18">[18]</a></sup>
+Surviving members of the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand") in Lordaeron retook portions of the [Eastern Plaguelands](https://wowpedia.fandom.com/wiki/Eastern_Plaguelands "Eastern Plaguelands") from the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").<sup id="cite_ref-WoWcomicDiC_17-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWcomicDiC-17">[17]</a></sup> Yet after the death of Highlord [Alexandros Mograine](https://wowpedia.fandom.com/wiki/Alexandros_Mograine "Alexandros Mograine"), these holy crusaders underwent a schism: some following the [Scarlet Crusade](https://wowpedia.fandom.com/wiki/Scarlet_Crusade "Scarlet Crusade"), comprising of zealous humans that cling to their scattered holdings, obsessed with eradicating the undead and retaking their once-beautiful homeland, and the xref:ArgentDawn.adoc[Argent Dawn], which took a less extreme approach to combat the Scourge and accepted members from all of Azeroth's races into their ranks.<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-18">[18]</a></sup>
 
 ### The colonization of Kalimdor
 
@@ -396,21 +396,21 @@ Under [Warchief](https://wowpedia.fandom.com/wiki/Warchief "Warchief") [Thrall](
 
 Alliance races.
 
-Without Lordaeron, the rebuilt city of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") would become the new base of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance"), with the [Ironforge dwarves](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf") becoming their staunchest and closest geographical allies. The budding nation of [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") has also aligned itself with the Alliance, with Lady Jaina hoping the Alliance can reunite the distant human kingdoms. The [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") of [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan") had been unable to help in the Third war as they were dealing with their own issues closer to home — namely a [trogg](https://wowpedia.fandom.com/wiki/Trogg "Trogg") invasion of their city. Because an invasion of troggs paled in comparison to the might of the Scourge, the gnomes decided they would fight their war alone. In the end they were forced to flee [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan") and with their king, [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque"), settled in [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge") with the dwarves as refugees. The night elves, dealing with the loss of their immortality, adjusted to their mortal existence. Sometime during this adjustment period, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")'s spirit was lost in the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") and could not wake from his magically induced coma. Going against Malfurion's wishes, [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") led the druids in growing [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"), which became the new capital of the night elves. Having been exposed to the world outside their forests once more, the night elves decided they would have to make alliances with the wider world. Because of the animosity with the orcs for their continuing lumbering of [Warsong Gulch](https://wowpedia.fandom.com/wiki/Warsong_Gulch "Warsong Gulch"), the night elves in the end joined the Alliance.<sup id="cite_ref-WoWmanual_19-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWmanual-19">[19]</a></sup>
+Without Lordaeron, the rebuilt city of [Stormwind](https://wowpedia.fandom.com/wiki/Stormwind "Stormwind") would become the new base of the xref:Alliance.adoc[Alliance], with the [Ironforge dwarves](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf") becoming their staunchest and closest geographical allies. The budding nation of [Theramore](https://wowpedia.fandom.com/wiki/Theramore "Theramore") has also aligned itself with the Alliance, with Lady Jaina hoping the Alliance can reunite the distant human kingdoms. The [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") of [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan") had been unable to help in the Third war as they were dealing with their own issues closer to home — namely a [trogg](https://wowpedia.fandom.com/wiki/Trogg "Trogg") invasion of their city. Because an invasion of troggs paled in comparison to the might of the Scourge, the gnomes decided they would fight their war alone. In the end they were forced to flee [Gnomeregan](https://wowpedia.fandom.com/wiki/Gnomeregan "Gnomeregan") and with their king, [Gelbin Mekkatorque](https://wowpedia.fandom.com/wiki/Gelbin_Mekkatorque "Gelbin Mekkatorque"), settled in [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge") with the dwarves as refugees. The night elves, dealing with the loss of their immortality, adjusted to their mortal existence. Sometime during this adjustment period, [Malfurion Stormrage](https://wowpedia.fandom.com/wiki/Malfurion_Stormrage "Malfurion Stormrage")'s spirit was lost in the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") and could not wake from his magically induced coma. Going against Malfurion's wishes, [Fandral Staghelm](https://wowpedia.fandom.com/wiki/Fandral_Staghelm "Fandral Staghelm") led the druids in growing [Teldrassil](https://wowpedia.fandom.com/wiki/Teldrassil "Teldrassil"), which became the new capital of the night elves. Having been exposed to the world outside their forests once more, the night elves decided they would have to make alliances with the wider world. Because of the animosity with the orcs for their continuing lumbering of [Warsong Gulch](https://wowpedia.fandom.com/wiki/Warsong_Gulch "Warsong Gulch"), the night elves in the end joined the Alliance.<sup id="cite_ref-WoWmanual_19-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWmanual-19">[19]</a></sup>
 
 ### Brave new world
 
-As [battlegrounds](https://wowpedia.fandom.com/wiki/Battleground "Battleground") pushed the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") further to war,<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-20">[20]</a></sup> Lady Jaina Proudmoore invited King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") to a summit in Theramore to find solutions for the hostilities.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-21">[21]</a></sup> However, King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") went missing under suspicious circumstances while en route to the diplomatic summit. Stormwind was believed to be going through a state of disarray and young [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") was given the crown so that order could be preserved within the kingdom of Stormwind, at the behest of the royal councilor, [Lady Prestor](https://wowpedia.fandom.com/wiki/Katrana_Prestor "Katrana Prestor").<sup id="cite_ref-WoWmanual_19-1"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWmanual-19">[19]</a></sup> [Highlord Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Highlord_Bolvar_Fordragon "Highlord Bolvar Fordragon") acted as a kind of Regent of Stormwind or the Supreme Commander of Stormwind's forces on behalf of King Anduin, with Lady Prestor advising Bolvar on the proper use of Stormwind's resources.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-22">[22]</a></sup><sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-23">[23]</a></sup>
+As [battlegrounds](https://wowpedia.fandom.com/wiki/Battleground "Battleground") pushed the xref:Alliance.adoc[Alliance] and the xref:Horde.adoc[Horde] further to war,<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-20">[20]</a></sup> Lady Jaina Proudmoore invited King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") and Warchief [Thrall](https://wowpedia.fandom.com/wiki/Thrall "Thrall") to a summit in Theramore to find solutions for the hostilities.<sup id="cite_ref-21"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-21">[21]</a></sup> However, King [Varian Wrynn](https://wowpedia.fandom.com/wiki/Varian_Wrynn "Varian Wrynn") went missing under suspicious circumstances while en route to the diplomatic summit. Stormwind was believed to be going through a state of disarray and young [Anduin Wrynn](https://wowpedia.fandom.com/wiki/Anduin_Wrynn "Anduin Wrynn") was given the crown so that order could be preserved within the kingdom of Stormwind, at the behest of the royal councilor, [Lady Prestor](https://wowpedia.fandom.com/wiki/Katrana_Prestor "Katrana Prestor").<sup id="cite_ref-WoWmanual_19-1"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWmanual-19">[19]</a></sup> [Highlord Bolvar Fordragon](https://wowpedia.fandom.com/wiki/Highlord_Bolvar_Fordragon "Highlord Bolvar Fordragon") acted as a kind of Regent of Stormwind or the Supreme Commander of Stormwind's forces on behalf of King Anduin, with Lady Prestor advising Bolvar on the proper use of Stormwind's resources.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-22">[22]</a></sup><sup id="cite_ref-23"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-23">[23]</a></sup>
 
 After their loss on Kalimdor, some forces of the Burning Legion retreated to [Darkwhisper Gorge](https://wowpedia.fandom.com/wiki/Darkwhisper_Gorge "Darkwhisper Gorge") while remnants of the Scourge went to [Razorfen Downs](https://wowpedia.fandom.com/wiki/Razorfen_Downs "Razorfen Downs").
 
-In the age of [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft"), _"Four years have passed since the mortal races banded together and stood united against the might of the Burning Legion. Though [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") was saved, the tenuous pact between the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") has all but evaporated. The drums of war thunder once again..."_<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-24">[24]</a></sup>
+In the age of [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft"), _"Four years have passed since the mortal races banded together and stood united against the might of the Burning Legion. Though xref:Azeroth.adoc[Azeroth] was saved, the tenuous pact between the xref:Horde.adoc[Horde] and the xref:Alliance.adoc[Alliance] has all but evaporated. The drums of war thunder once again..."_<sup id="cite_ref-24"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-24">[24]</a></sup>
 
 ## In the RPG
 
 [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") **This section contains information from the [Warcraft RPG](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") which is considered [non-canon](https://wowpedia.fandom.com/wiki/Non-canon "Non-canon")**.
 
--   Both the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") lost numerous ships to the [Drowned Reaches](https://wowpedia.fandom.com/wiki/Drowned_Reaches "Drowned Reaches") during the exodus to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-25">[25]</a></sup>
+-   Both the xref:Horde.adoc[Horde] and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron") lost numerous ships to the [Drowned Reaches](https://wowpedia.fandom.com/wiki/Drowned_Reaches "Drowned Reaches") during the exodus to [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").<sup id="cite_ref-25"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-25">[25]</a></sup>
 -   The [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") invasion in the [Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms") went as far as the [Wetlands](https://wowpedia.fandom.com/wiki/Wetlands "Wetlands").<sup id="cite_ref-LoC80_26-0"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-LoC80-26">[26]</a></sup>
 
 ## Participants
@@ -421,7 +421,7 @@ Among the known people who participated in the Third War are:
 -   [Joseph Redpath](https://wowpedia.fandom.com/wiki/Joseph_Redpath "Joseph Redpath"), [Dargal](https://wowpedia.fandom.com/wiki/Dargal "Dargal"), [Davin](https://wowpedia.fandom.com/wiki/Davin "Davin") and [Strov](https://wowpedia.fandom.com/wiki/Strov "Strov") as soldiers of the [Alliance](https://wowpedia.fandom.com/wiki/Alliance_of_Lordaeron "Alliance of Lordaeron").
 -   [Ur](https://wowpedia.fandom.com/wiki/Ur "Ur") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran").
 -   The two anonymous [blademaster](https://wowpedia.fandom.com/wiki/Blademaster_of_the_Blackrock_Clan "Blademaster of the Blackrock Clan") and [slave master](https://wowpedia.fandom.com/wiki/Slave_Master "Slave Master") of the [Blackrock clan](https://wowpedia.fandom.com/wiki/Blackrock_clan "Blackrock clan").
--   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), [Hekazi](https://wowpedia.fandom.com/wiki/Hekazi "Hekazi"), [Koma](https://wowpedia.fandom.com/wiki/Grunt_Koma "Grunt Koma"), [Karus](https://wowpedia.fandom.com/wiki/Grunt_Karus "Grunt Karus"), [Soran](https://wowpedia.fandom.com/wiki/Grunt_Soran "Grunt Soran"), [Garno](https://wowpedia.fandom.com/wiki/Garno "Garno"), [Fezhar](https://wowpedia.fandom.com/wiki/Fezhar "Fezhar") and [Duun](https://wowpedia.fandom.com/wiki/Duun "Duun") of the new [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
+-   [Varok Saurfang](https://wowpedia.fandom.com/wiki/Varok_Saurfang "Varok Saurfang"), [Hekazi](https://wowpedia.fandom.com/wiki/Hekazi "Hekazi"), [Koma](https://wowpedia.fandom.com/wiki/Grunt_Koma "Grunt Koma"), [Karus](https://wowpedia.fandom.com/wiki/Grunt_Karus "Grunt Karus"), [Soran](https://wowpedia.fandom.com/wiki/Grunt_Soran "Grunt Soran"), [Garno](https://wowpedia.fandom.com/wiki/Garno "Garno"), [Fezhar](https://wowpedia.fandom.com/wiki/Fezhar "Fezhar") and [Duun](https://wowpedia.fandom.com/wiki/Duun "Duun") of the new xref:Horde.adoc[Horde].
 -   [Anessa](https://wowpedia.fandom.com/wiki/Anessa "Anessa") and [Pained](https://wowpedia.fandom.com/wiki/Pained "Pained") of the [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf").
 -   [Thalorien Dawnseeker](https://wowpedia.fandom.com/wiki/Thalorien_Dawnseeker "Thalorien Dawnseeker") and [Galell](https://wowpedia.fandom.com/wiki/Galell "Galell") of the [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf").
 -   [Morlen Coldgrip](https://wowpedia.fandom.com/wiki/Morlen_Coldgrip "Morlen Coldgrip") and [Marduk Blackpool](https://wowpedia.fandom.com/wiki/Marduk_Blackpool "Marduk Blackpool"), [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") of the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge"). Other undead include [Ramstein the Gorger](https://wowpedia.fandom.com/wiki/Ramstein_the_Gorger "Ramstein the Gorger") and [Horgus the Ravager](https://wowpedia.fandom.com/wiki/Horgus_the_Ravager "Horgus the Ravager").
@@ -431,26 +431,26 @@ Among the known people who participated in the Third War are:
 
 ## Notes
 
--   [Caer Darrow](https://wowpedia.fandom.com/wiki/Caer_Darrow "Caer Darrow") fell to the [Plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") early in the war, when the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") did not yet fully exist in Lordaeron and before a visit from [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") was scheduled.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-27">[27]</a></sup><sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-28">[28]</a></sup> It is possible that it fell before Uther's investigation against the plague in the north led to the falls of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") and [Stratholme](https://wowpedia.fandom.com/wiki/Stratholme "Stratholme").
--   A meeting happened between the future [founders of the Scarlet Crusade](https://wowpedia.fandom.com/wiki/Ashbringer/Old_Hillsbrad_Ashbringer_event "Ashbringer/Old Hillsbrad Ashbringer event") in [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore") at some point, but the exact date depends between the escape of Thrall (in-game) or after the Culling of Stratholme (comic). They discussed how whole cities had gone missing in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend") and believed the continent to be lost.
+-   [Caer Darrow](https://wowpedia.fandom.com/wiki/Caer_Darrow "Caer Darrow") fell to the [Plague](https://wowpedia.fandom.com/wiki/Plague_of_Undeath "Plague of Undeath") early in the war, when the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge") did not yet fully exist in Lordaeron and before a visit from [Uther the Lightbringer](https://wowpedia.fandom.com/wiki/Uther_the_Lightbringer "Uther the Lightbringer") was scheduled.<sup id="cite_ref-27"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-27">[27]</a></sup><sup id="cite_ref-28"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-28">[28]</a></sup> It is possible that it fell before Uther's investigation against the plague in the north led to the falls of [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal") and xref:Stratholme.adoc[Stratholme].
+-   A meeting happened between the future [founders of the Scarlet Crusade](https://wowpedia.fandom.com/wiki/Ashbringer/Old_Hillsbrad_Ashbringer_event "Ashbringer/Old Hillsbrad Ashbringer event") in [Southshore](https://wowpedia.fandom.com/wiki/Southshore "Southshore") at some point, but the exact date depends between the escape of Thrall (in-game) or after the Culling of Stratholme (comic). They discussed how whole cities had gone missing in xref:Northrend.adoc[Northrend] and believed the continent to be lost.
 -   [Chen Stormstout](https://wowpedia.fandom.com/wiki/Chen_Stormstout "Chen Stormstout") fought alongside King [Magni Bronzebeard](https://wowpedia.fandom.com/wiki/Magni_Bronzebeard "Magni Bronzebeard") for at least part of the war and was declared a friend of [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge "Ironforge"),<sup id="cite_ref-29"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-29">[29]</a></sup> before eventually leaving to the newly-discovered [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor "Kalimdor").
--   The [_Ashbringer_ comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ashbringer "World of Warcraft: Ashbringer") hints at a span of several days between the events surrounding the [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme"), events in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), and the death of [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II").<sup id="cite_ref-WoWcomicDiC_17-1"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWcomicDiC-17">[17]</a></sup> It is also said that it took ten days to reach [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas") since the fall of [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City")<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-30">[30]</a></sup> and six since the death of [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther") in [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-31">[31]</a></sup>
+-   The [_Ashbringer_ comic](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Ashbringer "World of Warcraft: Ashbringer") hints at a span of several days between the events surrounding the [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme"), events in xref:Northrend.adoc[Northrend], and the death of [Terenas Menethil II](https://wowpedia.fandom.com/wiki/Terenas_Menethil_II "Terenas Menethil II").<sup id="cite_ref-WoWcomicDiC_17-1"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-WoWcomicDiC-17">[17]</a></sup> It is also said that it took ten days to reach [Quel'Thalas](https://wowpedia.fandom.com/wiki/Quel%27Thalas "Quel'Thalas") since the fall of [Capital City](https://wowpedia.fandom.com/wiki/Capital_City "Capital City")<sup id="cite_ref-30"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-30">[30]</a></sup> and six since the death of [Uther](https://wowpedia.fandom.com/wiki/Uther "Uther") in [Andorhal](https://wowpedia.fandom.com/wiki/Andorhal "Andorhal").<sup id="cite_ref-31"><a href="https://wowpedia.fandom.com/wiki/Third_War#cite_note-31">[31]</a></sup>
 -   It is possible for playable [death knights](https://wowpedia.fandom.com/wiki/Death_knight "Death knight") to be explicitly [veterans of the Third War](https://wowpedia.fandom.com/wiki/Veteran_of_the_Third_War "Veteran of the Third War").
 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/13/Grom_Glowei.jpg/revision/latest/scale-to-width-down/118?cb=20170103093201)](https://static.wikia.nocookie.net/wowpedia/images/1/13/Grom_Glowei.jpg/revision/latest?cb=20170103093201)
-    
+
     [Grom](https://wowpedia.fandom.com/wiki/Grommash_Hellscream "Grommash Hellscream") invading Ashenvale.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Legends_in_Battle_WC3_wallpaper.jpg/revision/latest/scale-to-width-down/120?cb=20180621044352)](https://static.wikia.nocookie.net/wowpedia/images/f/f6/Legends_in_Battle_WC3_wallpaper.jpg/revision/latest?cb=20180621044352)
-    
+
     Wallpaper representing the Third War.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/5/58/Night_Elf_vs_Undead_WC3_wallpaper.jpg/revision/latest/scale-to-width-down/120?cb=20180621044706)](https://static.wikia.nocookie.net/wowpedia/images/5/58/Night_Elf_vs_Undead_WC3_wallpaper.jpg/revision/latest?cb=20180621044706)
-    
+
     Ditto.
-    
+
 
 ## Videos
 
@@ -493,7 +493,7 @@ Among the known people who participated in the Third War are:
 30.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-30) _[Death Knight](https://wowpedia.fandom.com/wiki/Death_Knight_(manga) "Death Knight (manga)")_, chapter 3
 31.  [^](https://wowpedia.fandom.com/wiki/Third_War#cite_ref-31) _[Arthas: Rise of the Lich King](https://wowpedia.fandom.com/wiki/Arthas:_Rise_of_the_Lich_King "Arthas: Rise of the Lich King")_, chapter 18
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_Warcraft_I,_II,_and_III "Template:Conflicts in Warcraft I, II, and III")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Conflicts_in_Warcraft_I,_II,_and_III?action=edit)
 
@@ -504,7 +504,7 @@ Conflicts in [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Hu
  |
 | --- |
 |  |
-| [![WCOnH logo.png](https://static.wikia.nocookie.net/wowpedia/images/4/48/WCOnH_logo.png/revision/latest/scale-to-width-down/44?cb=20170825041118)](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans") _[Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_ | 
+| [![WCOnH logo.png](https://static.wikia.nocookie.net/wowpedia/images/4/48/WCOnH_logo.png/revision/latest/scale-to-width-down/44?cb=20170825041118)](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans") _[Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans "Warcraft: Orcs & Humans")_ |
 
 [First War](https://wowpedia.fandom.com/wiki/First_War "First War")
 
@@ -512,7 +512,7 @@ Conflicts in [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Hu
 
  |
 |  |
-| [![WC2BnE-logo.png](https://static.wikia.nocookie.net/wowpedia/images/8/8b/WC2BnE-logo.png/revision/latest/scale-to-width-down/42?cb=20210822201046)](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness") _[Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ | 
+| [![WC2BnE-logo.png](https://static.wikia.nocookie.net/wowpedia/images/8/8b/WC2BnE-logo.png/revision/latest/scale-to-width-down/42?cb=20210822201046)](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness") _[Warcraft II](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness "Warcraft II: Tides of Darkness")_ |
 
 -   [Second War](https://wowpedia.fandom.com/wiki/Second_War "Second War"): [Rescue of Zul'jin](https://wowpedia.fandom.com/wiki/Rescue_of_Zul%27jin "Rescue of Zul'jin")
 -   [Battle of Hillsbrad Foothills](https://wowpedia.fandom.com/wiki/Battle_of_Hillsbrad_Foothills "Battle of Hillsbrad Foothills")
@@ -529,7 +529,7 @@ Conflicts in [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Hu
 
  |
 |  |
-| Between the Second and Third War | 
+| Between the Second and Third War |
 
 -   [Invasion of Draenor](https://wowpedia.fandom.com/wiki/Invasion_of_Draenor "Invasion of Draenor")
 -   [Battle of Grim Batol](https://wowpedia.fandom.com/wiki/Battle_of_Grim_Batol "Battle of Grim Batol")
@@ -540,7 +540,7 @@ Conflicts in [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Hu
 
  |
 |  |
-| [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ | 
+| [![WC3RoC-logo.png](https://static.wikia.nocookie.net/wowpedia/images/1/10/WC3RoC-logo.png/revision/latest/scale-to-width-down/32?cb=20171221104849)](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos") _[Warcraft III](https://wowpedia.fandom.com/wiki/Warcraft_III:_Reign_of_Chaos "Warcraft III: Reign of Chaos")_ |
 
 -   **Third War**: [Scourging of Lordaeron](https://wowpedia.fandom.com/wiki/Scourging_of_Lordaeron "Scourging of Lordaeron")
     -   [Culling of Stratholme](https://wowpedia.fandom.com/wiki/Culling_of_Stratholme "Culling of Stratholme")
@@ -553,7 +553,7 @@ Conflicts in [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Hu
 
  |
 |  |
-| After the Third War | 
+| After the Third War |
 
 -   [Northgate Rebellion](https://wowpedia.fandom.com/wiki/Northgate_Rebellion "Northgate Rebellion")
 -   [Ascension of the Lich King](https://wowpedia.fandom.com/wiki/Ascension_of_the_Lich_King "Ascension of the Lich King")
@@ -566,7 +566,7 @@ Conflicts in [Warcraft I](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Hu
 
  |
 |  |
-| 
+|
 
 -   [Previous](https://wowpedia.fandom.com/wiki/Template:Conflicts_before_the_First_War "Template:Conflicts before the First War")
 -   [Wars category](https://wowpedia.fandom.com/wiki/Category:Wars "Category:Wars")

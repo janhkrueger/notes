@@ -12,7 +12,7 @@ Bloodwash Shrine
 | Base of operations | [Bloodwash Cavern](https://wowpedia.fandom.com/wiki/Bloodwash_Cavern "Bloodwash Cavern") |
 | Theater of operations | [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands") |
 | Affiliation | [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara"), [Nazjatar Empire](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") |
-|   Formerly | [Neptulon](https://wowpedia.fandom.com/wiki/Neptulon "Neptulon") |
+|   Formerly | xref:Neptulon.adoc[Neptulon] |
 
 The **Bloodwash** are a group of [naga](https://wowpedia.fandom.com/wiki/Naga "Naga") found along the [Red Reaches](https://wowpedia.fandom.com/wiki/Red_Reaches "Red Reaches") in [Blasted Lands](https://wowpedia.fandom.com/wiki/Blasted_Lands "Blasted Lands").
 
@@ -38,7 +38,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
 
 ## References
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Naga "Template:Naga")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Naga?action=edit)
 
@@ -49,7 +49,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
  |
 | --- |
 |  |
-| [![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") | 
+| [![WoW Icon update.png](https://static.wikia.nocookie.net/wowpedia/images/3/38/WoW_Icon_update.png/revision/latest?cb=20180602175550)](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") [World of Warcraft](https://wowpedia.fandom.com/wiki/World_of_Warcraft "World of Warcraft") |
 
 -   [Blackfathom](https://wowpedia.fandom.com/wiki/Blackfathom "Blackfathom")
 -   [Daggerspine](https://wowpedia.fandom.com/wiki/Daggerspine "Daggerspine")
@@ -65,7 +65,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
 
  |
 |  |
-| [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") [The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") | 
+| [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") [The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") |
 
 -   [Bloodcursed](https://wowpedia.fandom.com/wiki/Bloodcursed "Bloodcursed")
 -   [Bloodscale](https://wowpedia.fandom.com/wiki/Bloodscale_tribe "Bloodscale tribe")
@@ -80,7 +80,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
 
  |
 |  |
-| [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") [Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King") | 
+| [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") [Wrath of the Lich King](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "World of Warcraft: Wrath of the Lich King") |
 
 -   [Riplash](https://wowpedia.fandom.com/wiki/Riplash "Riplash")
 -   ~[Irontide](https://wowpedia.fandom.com/wiki/Irontide_naga "Irontide naga")~
@@ -89,7 +89,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
 
  |
 |  |
-| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") [Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm") | 
+| [![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "Cataclysm") [Cataclysm](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Cataclysm "World of Warcraft: Cataclysm") |
 
 -   [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh%27ir "Azsh'ir")
 -   [Blackscale](https://wowpedia.fandom.com/wiki/Blackscale_naga "Blackscale naga")
@@ -107,7 +107,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
 
  |
 |  |
-| [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") [Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion") | 
+| [![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "Legion") [Legion](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Legion "World of Warcraft: Legion") |
 
 -   [Deepsurge / Felsurge](https://wowpedia.fandom.com/wiki/Deepsurge "Deepsurge")
 -   [Felrage](https://wowpedia.fandom.com/wiki/Felrage "Felrage")
@@ -126,7 +126,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
 
  |
 |  |
-| [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") [Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth") | 
+| [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/images/c/c1/BattleForAzeroth-Logo-Small.png/revision/latest/scale-to-width-down/48?cb=20220421181442)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "Battle for Azeroth") [Battle for Azeroth](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Battle_for_Azeroth "World of Warcraft: Battle for Azeroth") |
 
 -   [Azsh'ari](https://wowpedia.fandom.com/wiki/Azsh%27ari "Azsh'ari")
 -   [Darktide](https://wowpedia.fandom.com/wiki/Darktide "Darktide")
@@ -144,7 +144,7 @@ The idols they own belong to the [Azsh'ir](https://wowpedia.fandom.com/wiki/Azsh
 
  |
 |  |
-| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [RPG](https://wowpedia.fandom.com/wiki/RPG "RPG") | 
+| [![Icon-RPG.png](https://static.wikia.nocookie.net/wowpedia/images/6/60/Icon-RPG.png/revision/latest?cb=20191213192632)](https://wowpedia.fandom.com/wiki/Warcraft_RPG "Warcraft RPG") [RPG](https://wowpedia.fandom.com/wiki/RPG "RPG") |
 
 [Death Hiss](https://wowpedia.fandom.com/wiki/Death_Hiss_tribe "Death Hiss tribe")
 

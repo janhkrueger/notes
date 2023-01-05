@@ -3,13 +3,13 @@ _For information on how to defeat Malygos in World of Warcraft, see [Malygos (ta
 | [![Neutral](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://wowpedia.fandom.com/wiki/Faction "Neutral")Malygos |
 | --- |
 | [![Image of Malygos](https://static.wikia.nocookie.net/wowpedia/images/9/95/Malygos%2C_Aspect_of_Magic.jpg/revision/latest/scale-to-width-down/200?cb=20191104202808)](https://static.wikia.nocookie.net/wowpedia/images/9/95/Malygos%2C_Aspect_of_Magic.jpg/revision/latest?cb=20191104202808 "Image of Malygos") |
-| Title | Spellweaver (or Spell-Weaver),  
-Aspect of Magic,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-1">[1]</a></sup>  
-Lord of Magic,  
-Steward of Magic,  
-Guardian of Magic,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-2">[2]</a></sup>  
-Hand of Magic,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-3">[3]</a></sup>  
-Magic Incarnate,<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-4">[4]</a></sup>  
+| Title | Spellweaver (or Spell-Weaver),
+Aspect of Magic,<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-1">[1]</a></sup>
+Lord of Magic,
+Steward of Magic,
+Guardian of Magic,<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-2">[2]</a></sup>
+Hand of Magic,<sup id="cite_ref-3"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-3">[3]</a></sup>
+Magic Incarnate,<sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-4">[4]</a></sup>
 Blue Aspect<sup id="cite_ref-WoWMag_5-0"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-WoWMag-5">[5]</a></sup> |
 | Gender | Male |
 | Race(s) | [Blue dragon](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") / [Wyrm](https://wowpedia.fandom.com/wiki/Wyrm "Wyrm") (Dragonkin) |
@@ -17,7 +17,7 @@ Blue Aspect<sup id="cite_ref-WoWMag_5-0"><a href="https://wowpedia.fandom.com/wi
 | Former affiliation(s) | [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") |
 | Occupation | Aspect of the Blue dragonflight, Guardian of Magic and Hidden Arcanum |
 | Location | [Various](https://wowpedia.fandom.com/wiki/Malygos#Locations) |
-| Status | Deceased (lore)  
+| Status | Deceased (lore)
 Killable [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") |
 | Relative(s) | [Sindragosa](https://wowpedia.fandom.com/wiki/Sindragosa "Sindragosa"), [Saragosa](https://wowpedia.fandom.com/wiki/Saragosa "Saragosa"), [Haleh](https://wowpedia.fandom.com/wiki/Haleh "Haleh") ([consorts](https://wowpedia.fandom.com/wiki/Consort_of_Malygos "Consort of Malygos")); [Keristrasza](https://wowpedia.fandom.com/wiki/Keristrasza "Keristrasza") (unwilling consort); [Arygos](https://wowpedia.fandom.com/wiki/Arygos "Arygos"), [Balacgos](https://wowpedia.fandom.com/wiki/Balacgos "Balacgos"), Umbrelskul (sons); [Kirygosa](https://wowpedia.fandom.com/wiki/Kirygosa "Kirygosa") (daughter) |
 
@@ -25,11 +25,11 @@ Killable [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/i
 
 — <sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
 
-**Malygos** was the [Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") of the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") and one of the most ancient creatures living on [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and the eldest of the Aspects.<sup id="cite_ref-WoWMag_5-1"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-WoWMag-5">[5]</a></sup> [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon"), the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") master-magician and keeper of lore, granted Malygos a portion of his vast power. From then on, Malygos would be known as the Spell-weaver, the guardian of arcane magic<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-6">[6]</a></sup> and hidden arcanum.
+**Malygos** was the [Aspect](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") of the [blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight") and one of the most ancient creatures living on xref:Azeroth.adoc[Azeroth] and the eldest of the Aspects.<sup id="cite_ref-WoWMag_5-1"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-WoWMag-5">[5]</a></sup> [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon"), the [titan](https://wowpedia.fandom.com/wiki/Titan "Titan") master-magician and keeper of lore, granted Malygos a portion of his vast power. From then on, Malygos would be known as the Spell-weaver, the guardian of arcane magic<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-6">[6]</a></sup> and hidden arcanum.
 
 He was one of only a handful who were alive at the time the Titans departed. Malygos was a leviathan with small wings. His body was covered with crystalline scales of pure azure. His body shone with shifting colors that change constantly from blue to silver.<sup><a href="https://wowpedia.fandom.com/wiki/Wowpedia:Citation" title="Wowpedia:Citation">[<i>citation needed</i>]</a></sup> 
 
-With lucidity restored to him, there were some - particularly the [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), and even [members of his own](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") - who did not like where his mind was going.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-7">[7]</a></sup> Believing that the spellcasters of the mortal races were responsible for all of Azeroth's troubles, Malygos began a [terrible war](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War") to purge the world of "rogue" magic users, including the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Realizing the situation had grown out of hand, [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") rallied the remaining dragonflights in the [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord") to combat Malygos' genocidal crusade. After much conflict around the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus"), heroes entered Malygos' inner sanctum and, with the aid of the red dragonflight, killed him, ending the war but depriving magic of its appointed guardian at a crucial point.
+With lucidity restored to him, there were some - particularly the [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight"), and even [members of his own](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") - who did not like where his mind was going.<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-7">[7]</a></sup> Believing that the spellcasters of the mortal races were responsible for all of Azeroth's troubles, Malygos began a [terrible war](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War") to purge the world of "rogue" magic users, including the xref:KirinTor.adoc[Kirin Tor] of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Realizing the situation had grown out of hand, [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") rallied the remaining dragonflights in the [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord") to combat Malygos' genocidal crusade. After much conflict around the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus"), heroes entered Malygos' inner sanctum and, with the aid of the red dragonflight, killed him, ending the war but depriving magic of its appointed guardian at a crucial point.
 
 ## Biography
 
@@ -87,7 +87,7 @@ Ysera and Nozdormu enveloped the Winterskorn in a cloying mist that caused the t
 
 Malygos in his mortal visage.
 
-During [The War of the Ancients](https://wowpedia.fandom.com/wiki/The_War_of_the_Ancients "The War of the Ancients") when [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") opened a portal in the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") to allow the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") access to the world of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), the [Great Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") congregated at the lair of [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") to discuss the coming invasion and what part they should play in defending the world. Neltharion proposed that to end the invasion of [demons](https://wowpedia.fandom.com/wiki/Demons "Demons"), the dragonflights should create a weapon with which they could eradicate the [demon](https://wowpedia.fandom.com/wiki/Demon "Demon") armies.
+During [The War of the Ancients](https://wowpedia.fandom.com/wiki/The_War_of_the_Ancients "The War of the Ancients") when [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") and her [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") opened a portal in the [Well of Eternity](https://wowpedia.fandom.com/wiki/Well_of_Eternity "Well of Eternity") to allow the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") access to the world of xref:Azeroth.adoc[Azeroth], the [Great Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") congregated at the lair of [Alexstrasza](https://wowpedia.fandom.com/wiki/Alexstrasza "Alexstrasza") to discuss the coming invasion and what part they should play in defending the world. Neltharion proposed that to end the invasion of [demons](https://wowpedia.fandom.com/wiki/Demons "Demons"), the dragonflights should create a weapon with which they could eradicate the [demon](https://wowpedia.fandom.com/wiki/Demon "Demon") armies.
 
 Neltharion persuaded Malygos to aid him in convincing the other Great Aspects to lend a part of their power to create the weapon, the [Dragon Soul](https://wowpedia.fandom.com/wiki/Demon_Soul "Demon Soul"). The artifact was a simple unassuming golden disc created by Neltharion. The Dragon Soul was to be used as a weapon against the demons. All the Great Aspects and their flights contributed a bit of their power in creating the Dragon Soul with the exception of Neltharion. Through the disk, Neltharion was able to magically take control of all other dragons including the other Great Aspects.
 
@@ -115,7 +115,7 @@ After Deathwing was defeated and the Demon Soul destroyed, Malygos seemed to rec
 
 Malygos in the World of Warcraft Comic.
 
-After sensing some great power of [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell") in Lordaeron, Malygos summoned most blue dragons and sent young [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos") to investigate instead of an elder. [Tyrygosa](https://wowpedia.fandom.com/wiki/Tyrygosa "Tyrygosa") soon departed for she feared he is in danger. After their quest with the Sunwell was done, Malygos learned what happened from Tyrygosa.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-13">[13]</a></sup>
+After sensing some great power of [Sunwell](https://wowpedia.fandom.com/wiki/Sunwell "Sunwell") in Lordaeron, Malygos summoned most blue dragons and sent young xref:Kalecgos.adoc[Kalecgos] to investigate instead of an elder. [Tyrygosa](https://wowpedia.fandom.com/wiki/Tyrygosa "Tyrygosa") soon departed for she feared he is in danger. After their quest with the Sunwell was done, Malygos learned what happened from Tyrygosa.<sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-13">[13]</a></sup>
 
 ### Nexus Point
 
@@ -129,11 +129,11 @@ Malygos sent Kalecgos on a mission to discover what was going on at [Grim Batol]
 
 ### The Nexus War
 
-_Main article: [Nexus War](https://wowpedia.fandom.com/wiki/Nexus_War "Nexus War")_
+_Main article: xref:NexusWar.adoc[Nexus War]_
 
-Malygos, with clearer eyes, took note of the large number of mortal spellcasters running around [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), recklessly using arcane magic, and worried they may bring the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to Azeroth in force again, as the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") once did (one of his last few memories before going mad). Thus he deemed the lesser races' use of magic as unacceptable, and he proceeded to declare war on all magic users, particularly the [Kirin Tor](https://wowpedia.fandom.com/wiki/Kirin_Tor "Kirin Tor") of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Dalaran, therefore, moved to Northrend, as a capital for both the war against the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and the Kirin Tor's fight with Malygos. The [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") - keeping Alexstrasza's promise to Rhonin after the events of _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_ - stepped up to defend the mortals from their cousins' crusade against spellcasters.
+Malygos, with clearer eyes, took note of the large number of mortal spellcasters running around xref:Azeroth.adoc[Azeroth], recklessly using arcane magic, and worried they may bring the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") to Azeroth in force again, as the [Highborne](https://wowpedia.fandom.com/wiki/Highborne "Highborne") once did (one of his last few memories before going mad). Thus he deemed the lesser races' use of magic as unacceptable, and he proceeded to declare war on all magic users, particularly the xref:KirinTor.adoc[Kirin Tor] of [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"). Dalaran, therefore, moved to Northrend, as a capital for both the war against the [Lich King](https://wowpedia.fandom.com/wiki/Lich_King "Lich King"), and the Kirin Tor's fight with Malygos. The [red dragonflight](https://wowpedia.fandom.com/wiki/Red_dragonflight "Red dragonflight") - keeping Alexstrasza's promise to Rhonin after the events of _[Day of the Dragon](https://wowpedia.fandom.com/wiki/Day_of_the_Dragon "Day of the Dragon")_ - stepped up to defend the mortals from their cousins' crusade against spellcasters.
 
-The [Arcanomicon](https://wowpedia.fandom.com/wiki/Arcanomicon "Arcanomicon") was given to Malygos ages ago by the titan [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon"), the Arcanomicon has been continuously updated and revised by the [blue dragons](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") over the long years of Malygos' seclusion. Malygos planned to use the Arcanomicon to locate and tap into the ley lines and divert the magical powers that course beneath the earth to his home base in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-17">[17]</a></sup> The consequences had been violent, dangerous, and deadly. The world's crust had splintered, and the resulting unstable rifts had torn the very fabric of the magical dimension known as the Twisting Nether. Malygos' misguided attempts to “correct” the perceived misuse of arcane magic had to be halted - whatever the cost. Dragon had fought against dragon in the bitter Nexus War, and it had been the Life-Binder herself who had reached the agonizing decision that Malygos — not long recovered from millennia of insanity — had to be destroyed. Alexstrasza had taken her flight and allied with the magi of the Kirin Tor. With the world at stake, the remaining flights had agreed to join the reds in their bitter task. The alliance of dragons became known as the [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord").
+The [Arcanomicon](https://wowpedia.fandom.com/wiki/Arcanomicon "Arcanomicon") was given to Malygos ages ago by the titan [Norgannon](https://wowpedia.fandom.com/wiki/Norgannon "Norgannon"), the Arcanomicon has been continuously updated and revised by the [blue dragons](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon") over the long years of Malygos' seclusion. Malygos planned to use the Arcanomicon to locate and tap into the ley lines and divert the magical powers that course beneath the earth to his home base in xref:Northrend.adoc[Northrend], the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus").<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-17">[17]</a></sup> The consequences had been violent, dangerous, and deadly. The world's crust had splintered, and the resulting unstable rifts had torn the very fabric of the magical dimension known as the Twisting Nether. Malygos' misguided attempts to “correct” the perceived misuse of arcane magic had to be halted - whatever the cost. Dragon had fought against dragon in the bitter Nexus War, and it had been the Life-Binder herself who had reached the agonizing decision that Malygos — not long recovered from millennia of insanity — had to be destroyed. Alexstrasza had taken her flight and allied with the magi of the Kirin Tor. With the world at stake, the remaining flights had agreed to join the reds in their bitter task. The alliance of dragons became known as the [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord").
 
 A number of Kirin Tor mages decided to help the blue dragonflight and Malygos transformed them into [mage hunters](https://wowpedia.fandom.com/wiki/Mage_hunter "Mage hunter").
 
@@ -150,13 +150,13 @@ After the magi of Dalaran had elevated their city into the skies of Northrend an
 As Coldarra is inaccessible without flying mounts, players are sent there on the back of a red dragon from NPCs located at [Amber Ledge](https://wowpedia.fandom.com/wiki/Amber_Ledge "Amber Ledge"). On Coldarra, players meet [Keristrasza](https://wowpedia.fandom.com/wiki/Keristrasza "Keristrasza"), who sends them on a quest to build a trap for [Saragosa](https://wowpedia.fandom.com/wiki/Saragosa "Saragosa"), Malygos' consort. Keristrasza burns Saragosa's body at the culmination of the quest line, infuriating Malygos. Malygos descends upon the area and uses his magic to freeze Keristrasza and put her under his control. She is then forced to become his new consort and subsequently becomes a boss within the [Nexus](https://wowpedia.fandom.com/wiki/Nexus "Nexus").
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/8/89/Malgos.jpg/revision/latest/scale-to-width-down/120?cb=20090910070616)](https://static.wikia.nocookie.net/wowpedia/images/8/89/Malgos.jpg/revision/latest?cb=20090910070616)
-    
+
     Malygos in WoW.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/47/Malygos2.jpg/revision/latest/scale-to-width-down/120?cb=20081124035558)](https://static.wikia.nocookie.net/wowpedia/images/4/47/Malygos2.jpg/revision/latest?cb=20081124035558)
-    
+
     Malygos flying above the Nexus.
-    
+
 
 ### The Eye of Eternity
 
@@ -174,7 +174,7 @@ During the battle against [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Sar
 
 ### Legacy
 
-Malygos' legacy is carried on in the confines of [Coldarra](https://wowpedia.fandom.com/wiki/Coldarra "Coldarra"), where the [Blue Dragonflight](https://wowpedia.fandom.com/wiki/Blue_Dragonflight "Blue Dragonflight") are torn between two new leaders in Malygos' absence. The first, [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos"), believes that the flight should take a more active role in world affairs. The second, [Arygos](https://wowpedia.fandom.com/wiki/Arygos "Arygos"), believes the opposite - that the Blue flight should retreat into seclusion from the world. Their rivalry comes to head when it is revealed that Arygos had entered into a dark alliance with none other than the Blue Dragonflight's original despoiler, [Deathwing the Destroyer](https://wowpedia.fandom.com/wiki/Deathwing_the_Destroyer "Deathwing the Destroyer"), to remove Kalecgos from the picture. Deathwing, though eager to see Kalecgos dead, warns Arygos not to make the same mistakes as his father.
+Malygos' legacy is carried on in the confines of [Coldarra](https://wowpedia.fandom.com/wiki/Coldarra "Coldarra"), where the [Blue Dragonflight](https://wowpedia.fandom.com/wiki/Blue_Dragonflight "Blue Dragonflight") are torn between two new leaders in Malygos' absence. The first, xref:Kalecgos.adoc[Kalecgos], believes that the flight should take a more active role in world affairs. The second, [Arygos](https://wowpedia.fandom.com/wiki/Arygos "Arygos"), believes the opposite - that the Blue flight should retreat into seclusion from the world. Their rivalry comes to head when it is revealed that Arygos had entered into a dark alliance with none other than the Blue Dragonflight's original despoiler, [Deathwing the Destroyer](https://wowpedia.fandom.com/wiki/Deathwing_the_Destroyer "Deathwing the Destroyer"), to remove Kalecgos from the picture. Deathwing, though eager to see Kalecgos dead, warns Arygos not to make the same mistakes as his father.
 
 Arygos' plot is later unveiled, and he flees Coldarra, swearing that Neltharion will destroy them all. Kalecgos thus becomes the official successor to Malygos, as both the leader of the Blue Dragonflight and the Aspect of Magic.
 
@@ -184,7 +184,7 @@ Arygos' plot is later unveiled, and he flees Coldarra, swearing that Neltharion 
 | --- |
 | Location | Level range | Health range |
 | [Borean Tundra](https://wowpedia.fandom.com/wiki/Borean_Tundra "Borean Tundra") | ?? | 2,193,500 |
-| [Malygos (tactics)](https://wowpedia.fandom.com/wiki/Malygos_(tactics) "Malygos (tactics)") | ?? | 
+| [Malygos (tactics)](https://wowpedia.fandom.com/wiki/Malygos_(tactics) "Malygos (tactics)") | ?? |
 <table><tbody><tr><td><b><abbr title="10-player mode">10</abbr></b></td><td>6,972,500</td></tr><tr><td><b><abbr title="25-player mode">25</abbr></b></td><td>19,523,000</td></tr></tbody></table>
 
  |
@@ -210,7 +210,7 @@ Malygos, Lord of Magic, is said to have created magic and spells. His command of
 
 Before the [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients"), Malygos was described to often appear with an amused expression on his face. While physically dragons cannot smile, it appeared he often walked around with a smirk. He is said to have had a sense of humor and an optimistic personality, enjoying using magic and illusions to entertain audiences.
 
-Like most of his kind, Malygos is a solitary creature who avoids contact with others. He dwells in [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"), in a lair filled with some of the greatest magical artifacts known to exist. He spends his days studying magic, refining his abilities, and studying the various planes of the multiverse both remotely and in person, while his few remaining children scour the world for ancient artifacts and repositories of arcane power.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-22">[22]</a></sup>
+Like most of his kind, Malygos is a solitary creature who avoids contact with others. He dwells in xref:Northrend.adoc[Northrend], in a lair filled with some of the greatest magical artifacts known to exist. He spends his days studying magic, refining his abilities, and studying the various planes of the multiverse both remotely and in person, while his few remaining children scour the world for ancient artifacts and repositories of arcane power.<sup id="cite_ref-22"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-22">[22]</a></sup>
 
 ### Combat
 
@@ -243,7 +243,7 @@ _Main article: [Yogg-Saron (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Yo
 [![Hearthstone](https://static.wikia.nocookie.net/wowpedia/images/1/14/Icon-Hearthstone-22x22.png/revision/latest/scale-to-width-down/22?cb=20180708194307)](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone") **This section contains information exclusive to _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_ and is considered [non-canon](https://wowpedia.fandom.com/wiki/Canon "Canon")**.
 
 -   Malygos appears as as [a legendary card](https://hearthstone.fandom.com/wiki/Malygos "hswiki:Malygos") in _[Hearthstone](https://wowpedia.fandom.com/wiki/Hearthstone_(game) "Hearthstone (game)")_. His flavor text reads: _"Malygos hates it when mortals use magic. He gets so mad!"_
-    -   His card art is taken from [Kalecgos](https://wowpedia.fandom.com/wiki/Kalecgos "Kalecgos")' [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game") artwork from the _Battle of the Aspects_ set. Due to a lack of original Malygos artwork at the time, the developers chose to use the image of Kalecgos to represent Malygos, even though the art doesn't match Malygos' canonical appearance.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-26">[26]</a></sup>
+    -   His card art is taken from xref:Kalecgos.adoc[Kalecgos]' [TCG](https://wowpedia.fandom.com/wiki/World_of_Warcraft_Trading_Card_Game "World of Warcraft Trading Card Game") artwork from the _Battle of the Aspects_ set. Due to a lack of original Malygos artwork at the time, the developers chose to use the image of Kalecgos to represent Malygos, even though the art doesn't match Malygos' canonical appearance.<sup id="cite_ref-26"><a href="https://wowpedia.fandom.com/wiki/Malygos#cite_note-26">[26]</a></sup>
 -   Malygos reappears in the _[Descent of the Dragons](https://wowpedia.fandom.com/wiki/Hearthstone:_Descent_of_Dragons "Hearthstone: Descent of Dragons")_ expansion as the legendary mage card [Malygos, Aspect of Magic](https://hearthstone.fandom.com/wiki/Malygos,_Aspect_of_Magic "hswiki:Malygos, Aspect of Magic"). His flavor text reads: _"It's official. We can say Malygeese."_
 
 ## Notes and trivia
@@ -257,25 +257,25 @@ _Main article: [Yogg-Saron (tactics)#Quotes](https://wowpedia.fandom.com/wiki/Yo
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/ac/MalygosLegends.jpg/revision/latest/scale-to-width-down/120?cb=20100106184825)](https://static.wikia.nocookie.net/wowpedia/images/a/ac/MalygosLegends.jpg/revision/latest?cb=20100106184825)
-    
+
     Malygos in _Warcraft Legends_.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/4/42/YoggMalygos.jpg/revision/latest/scale-to-width-down/60?cb=20151213162441)](https://static.wikia.nocookie.net/wowpedia/images/4/42/YoggMalygos.jpg/revision/latest?cb=20151213162441)
-    
+
     Malygos in his high-elf form, long before high elves came to be, as seen in Yogg-Saron's mind chamber.
-    
+
 
 Fan art
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Malygos_Sara_Forlenza.jpg/revision/latest/scale-to-width-down/87?cb=20110929153723)](https://static.wikia.nocookie.net/wowpedia/images/f/f1/Malygos_Sara_Forlenza.jpg/revision/latest?cb=20110929153723)
-    
+
     Malygos fanart by Sara Forlenza.
-    
+
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Malygos_by_Wynahiros.jpg/revision/latest/scale-to-width-down/120?cb=20150706002324)](https://static.wikia.nocookie.net/wowpedia/images/b/bd/Malygos_by_Wynahiros.jpg/revision/latest?cb=20150706002324)
-    
+
     By Wynahiros.
-    
+
 
 ## Videos
 
@@ -285,8 +285,8 @@ Fan art
 
 ## Patch changes
 
--   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.  
-    
+-   [![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King "Wrath of the Lich King") **[Patch 3.0.2](https://wowpedia.fandom.com/wiki/Patch_3.0.2 "Patch 3.0.2") (2008-10-14):** Added.
+
 
 ## See also
 
@@ -329,7 +329,7 @@ Fan art
 -   [Wowhead](https://www.wowhead.com/search?q=Malygos#npcs)
 -   [WoWDB](https://www.wowdb.com/search?search=Malygos#t1:npcs)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter "Template:Dragonflightfooter")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Dragonflightfooter?action=edit)
 
@@ -340,7 +340,7 @@ Fan art
  |
 | --- |
 |  |
-| Primary dragon types | 
+| Primary dragon types |
 
 -   [Black](https://wowpedia.fandom.com/wiki/Black_dragon "Black dragon")
 -   [Blue](https://wowpedia.fandom.com/wiki/Blue_dragon "Blue dragon")
@@ -352,7 +352,7 @@ Fan art
 
  |
 |  |
-| Other dragon types | 
+| Other dragon types |
 
 -   [Chromatic](https://wowpedia.fandom.com/wiki/Chromatic_dragonflight "Chromatic dragonflight")
 -   [Infinite](https://wowpedia.fandom.com/wiki/Infinite_dragonflight "Infinite dragonflight")
@@ -367,13 +367,13 @@ Fan art
 
  |
 |  |
-| Blue Dragonflight | 
+| Blue Dragonflight |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragon_Aspects" title="Dragon Aspects">Leader</a></th><td><div><p><a href="https://wowpedia.fandom.com/wiki/Kalecgos" title="Kalecgos">Kalecgos</a> - Guardian of Magic</p></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight#Notable_members" title="Blue dragonflight">Characters</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Arygos" title="Arygos">Arygos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Azuregos" title="Azuregos">Azuregos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Balacgos" title="Balacgos">Balacgos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Emmigosa" title="Emmigosa">Emmigosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Haleh" title="Haleh">Haleh</a></li><li><a href="https://wowpedia.fandom.com/wiki/Kirygosa" title="Kirygosa">Kirygosa</a></li><li><strong>Malygos the Spell-Weaver</strong></li><li><a href="https://wowpedia.fandom.com/wiki/Sapphiron" title="Sapphiron">Sapphiron</a></li><li><a href="https://wowpedia.fandom.com/wiki/Saragosa" title="Saragosa">Saragosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Senegos" title="Senegos">Senegos</a></li><li><a href="https://wowpedia.fandom.com/wiki/Sindragosa" title="Sindragosa">Sindragosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Stellagosa" title="Stellagosa">Stellagosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tarecgosa" title="Tarecgosa">Tarecgosa</a></li><li><a href="https://wowpedia.fandom.com/wiki/Tyrygosa" title="Tyrygosa">Tyrygosa</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Territories</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Nexus" title="Nexus">The Nexus</a> (Home)</li><li><a href="https://wowpedia.fandom.com/wiki/Azure_Dragonshrine" title="Azure Dragonshrine">Azure Dragonshrine</a></li><li><a href="https://wowpedia.fandom.com/wiki/Coldarra" title="Coldarra">Coldarra</a></li><li><a href="https://wowpedia.fandom.com/wiki/Crystalsong_Forest" title="Crystalsong Forest">Crystalsong Forest</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonblight" title="Dragonblight">Dragonblight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Lake_Mennar" title="Lake Mennar">Lake Mennar</a></li><li><a href="https://wowpedia.fandom.com/wiki/Mazthoril" title="Mazthoril">Mazthoril</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Types</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Blue_whelp" title="Blue whelp">Blue whelp</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_drake" title="Blue drake">Blue drake</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragon" title="Blue dragon">Blue dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_wyrm" title="Blue wyrm">Blue wyrm</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_drakonid" title="Blue drakonid">Blue drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonspawn" title="Blue dragonspawn">Blue dragonspawn</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row">Groups</th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Mage_hunter" title="Mage hunter">Mage hunters</a></li><li><a href="https://wowpedia.fandom.com/wiki/Azurewing" title="Azurewing">Azurewing</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| Dragonflights | 
+| Dragonflights |
 
 -   [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight")
 -   [Blue dragonflight](https://wowpedia.fandom.com/wiki/Blue_dragonflight "Blue dragonflight")
@@ -386,7 +386,7 @@ Fan art
 
  |
 |  |
-| Other draconic groups | 
+| Other draconic groups |
 
 -   [Valdrakken Accord](https://wowpedia.fandom.com/wiki/Valdrakken_Accord "Valdrakken Accord")
 -   [Wyrmrest Accord](https://wowpedia.fandom.com/wiki/Wyrmrest_Accord "Wyrmrest Accord")
@@ -396,7 +396,7 @@ Fan art
 
  |
 |  |
-| 
+|
 
 -   [Draconic](https://wowpedia.fandom.com/wiki/Draconic "Draconic")
 -   [Charge of the Dragonflights](https://wowpedia.fandom.com/wiki/Charge_of_the_Dragonflights "Charge of the Dragonflights")

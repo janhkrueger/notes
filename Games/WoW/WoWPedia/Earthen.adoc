@@ -2,17 +2,17 @@
 | --- |
 | [![Earthen Statue.jpg](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Earthen_Statue.jpg/revision/latest/scale-to-width-down/200?cb=20151114114254)](https://static.wikia.nocookie.net/wowpedia/images/b/b1/Earthen_Statue.jpg/revision/latest?cb=20151114114254) |
 | Faction/Affiliation | [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon"), [Kurun](https://wowpedia.fandom.com/wiki/Kurun "Kurun"), [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent") |
-| Racial capital | [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") ([Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"))  
-[Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") ([Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"))  
+| Racial capital | [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") ([Eastern Kingdoms](https://wowpedia.fandom.com/wiki/Eastern_Kingdoms "Eastern Kingdoms"))
+[Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") (xref:Northrend.adoc[Northrend])
 [Stonehearth](https://wowpedia.fandom.com/wiki/Stonehearth "Stonehearth") ([Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm")) |
-| Racial leader(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_EarthenNorth.gif/revision/latest/scale-to-width-down/16?cb=20200520104145)[Bouldercrag the Rockshaper](https://wowpedia.fandom.com/wiki/Bouldercrag_the_Rockshaper "Bouldercrag the Rockshaper")  
- ![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/IconSmall_WoodGiant.gif/revision/latest/scale-to-width-down/16?cb=20211129173128)[Kurun](https://wowpedia.fandom.com/wiki/Kurun "Kurun")  
+| Racial leader(s) |  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_EarthenNorth.gif/revision/latest/scale-to-width-down/16?cb=20200520104145)[Bouldercrag the Rockshaper](https://wowpedia.fandom.com/wiki/Bouldercrag_the_Rockshaper "Bouldercrag the Rockshaper")
+ ![](https://static.wikia.nocookie.net/wowpedia/images/f/fc/IconSmall_WoodGiant.gif/revision/latest/scale-to-width-down/16?cb=20211129173128)[Kurun](https://wowpedia.fandom.com/wiki/Kurun "Kurun")
  ![](https://static.wikia.nocookie.net/wowpedia/images/c/c6/IconSmall_EarthenNorth.gif/revision/latest/scale-to-width-down/16?cb=20200520104145)[Stonefather Oremantle](https://wowpedia.fandom.com/wiki/Stonefather_Oremantle "Stonefather Oremantle") |
-| Homeworld | [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") |
+| Homeworld | xref:Azeroth.adoc[Azeroth] |
 | Language(s) | [Titan](https://wowpedia.fandom.com/wiki/Titan_(language) "Titan (language)") |
 | Organization(s) | [Clans](https://wowpedia.fandom.com/wiki/Clan "Clan")<sup id="cite_ref-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-1">[1]</a></sup> |
 
-The **earthen** (sometimes referred to as **earthen dwarves**<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-2">[2]</a></sup> or early **dwarves**)<sup id="cite_ref-WC3_79_3-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-WC3_79-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-4">[4]</a></sup> are stony [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") beings that were created by the [Titanic Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") to help shape the subterranean regions of the world during the ordering of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"). Succumbing to the [curse of flesh](https://wowpedia.fandom.com/wiki/Curse_of_flesh "Curse of flesh"), most of the earthen became mortal creatures of flesh and blood known as [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"). There remains a sizable population of earthen in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") and [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar").
+The **earthen** (sometimes referred to as **earthen dwarves**<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-2">[2]</a></sup> or early **dwarves**)<sup id="cite_ref-WC3_79_3-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-WC3_79-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-4">[4]</a></sup> are stony [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") beings that were created by the [Titanic Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper") to help shape the subterranean regions of the world during the ordering of xref:Azeroth.adoc[Azeroth]. Succumbing to the [curse of flesh](https://wowpedia.fandom.com/wiki/Curse_of_flesh "Curse of flesh"), most of the earthen became mortal creatures of flesh and blood known as [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"). There remains a sizable population of earthen in [Deepholm](https://wowpedia.fandom.com/wiki/Deepholm "Deepholm"), [Uldaman](https://wowpedia.fandom.com/wiki/Uldaman "Uldaman") and [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar").
 
 ## History
 
@@ -40,7 +40,7 @@ Created by the titans themselves, [Val'anyr, Hammer of Ancient Kings](https://wo
 
 ### Exiled from Ulduar
 
-Keeper [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") had fallen under the Old God [Yogg-Saron](https://wowpedia.fandom.com/wiki/Yogg-Saron "Yogg-Saron")'s sway, and taken control of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") and Ulduar's servant [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged"). But he had banished a great number of his servants to the [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks") and sealed the fortress of Ulduar. For many ages after Loken's betrayal the titan-forged who were exiled from Ulduar spread across northern Kalimdor, with the earthen tunneled into the deep places of the world, where they fought for dominance against the misshapen and brutish troggs.<sup id="cite_ref-Chronicle_5-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup> And so after the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")'s departure, the earthen were largely unconcerned with the affairs of the surface-dwelling races and longed only to plumb the dark depths of the earth.<sup id="cite_ref-IAotD_8-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup>
+Keeper [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") had fallen under the Old God xref:YoggSaron.adoc[Yogg-Saron]'s sway, and taken control of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") and Ulduar's servant [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged"). But he had banished a great number of his servants to the [Storm Peaks](https://wowpedia.fandom.com/wiki/Storm_Peaks "Storm Peaks") and sealed the fortress of Ulduar. For many ages after Loken's betrayal the titan-forged who were exiled from Ulduar spread across northern Kalimdor, with the earthen tunneled into the deep places of the world, where they fought for dominance against the misshapen and brutish troggs.<sup id="cite_ref-Chronicle_5-1"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup> And so after the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon")'s departure, the earthen were largely unconcerned with the affairs of the surface-dwelling races and longed only to plumb the dark depths of the earth.<sup id="cite_ref-IAotD_8-0"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-IAotD-8">[8]</a></sup>
 
 During the [Winterskorn War](https://wowpedia.fandom.com/wiki/Winterskorn_War "Winterskorn War") the massive Winterskorn army marched first against the good-natured earthen, storming their underground lairs. The earthen foes were led by fire giants [Volkhan](https://wowpedia.fandom.com/wiki/Volkhan "Volkhan") and [Ignis](https://wowpedia.fandom.com/wiki/Ignis "Ignis") and consisted of the [Winterskorn clan](https://wowpedia.fandom.com/wiki/Winterskorn_clan "Winterskorn clan") [vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") and newly molded powerful molten golems and iron constructs designed by the fire giants. The earthen were unprepared for such an organized force, entire caverns were massacred to the last living creature. A small group of survivors escaped and sought out [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr"), [Archaedas](https://wowpedia.fandom.com/wiki/Archaedas "Archaedas"), and [Ironaya](https://wowpedia.fandom.com/wiki/Ironaya "Ironaya") who had eluded Loken's wrath. Tyr and his allies immediately journeyed in aid to the earthen's cavernous home, and in time the earthen and their allies drove back the Winterskorn. The fire giants next enslaved entire flights of [proto-dragons](https://wowpedia.fandom.com/wiki/Proto-dragon "Proto-dragon") with enchanted snares with which the Winterskorn army shattered the earthen's defenses and scattered them across the icy mountain passes. The earthen were hunted by vrykul and golems on the ground and proto-dragons from the sky. Even Tyr was forced to flee, knowing that he and his allies could not defeat the Winterskorn alone he called on the [Dragon Aspects](https://wowpedia.fandom.com/wiki/Dragon_Aspects "Dragon Aspects") for help. The Aspects enraged by these events unleashed their power on the Winterskorn's iron ranks and brought a decisive end to the conflict.
 
@@ -50,7 +50,7 @@ With the Winterskorn defeated the titan titan-forged were still divided, Tyr and
 
 As years passed, some of the earthen in Uldaman exhibited signs of the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh"). Fearing that the effects would only worsen, they asked to be placed in hibernation until a cure could one day be found. Archaedas agreed, promising to rouse them at some time in the future. He sealed his followers within the vast subterranean vaults. The mechagnomes, however, remained awake. Even though they knew the curse would one day overtake them as well, they heroically vowed to watch over the facility and maintain its wondrous machineries. A small number of the earthen had chosen not to be placed in stasis as well, deciding that they would watch over and maintain the facility alongside their mechagnomes companions.
 
-The earthen largely kept to themselves. They were unconcerned with the activities of the world's other races as new civilizations arose across Azeroth. Some earthen remained isolated underneath the icy mountains of [Northrend](https://wowpedia.fandom.com/wiki/Northrend "Northrend"). Those who came south with Keeper Archaedas and the watcher Ironaya continued to dwell or slumber within the catacomb vaults of Uldaman.<sup id="cite_ref-Chronicle_5-3"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup> Some of the earthen came to conflict against the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), but were defeated by the military power of the [House of Ravencrest](https://wowpedia.fandom.com/wiki/House_of_Ravencrest "House of Ravencrest").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-9">[9]</a></sup> The night elves came to use the derogatory term of "dwarf" to refer to those earthen.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-10">[10]</a></sup>
+The earthen largely kept to themselves. They were unconcerned with the activities of the world's other races as new civilizations arose across Azeroth. Some earthen remained isolated underneath the icy mountains of xref:Northrend.adoc[Northrend]. Those who came south with Keeper Archaedas and the watcher Ironaya continued to dwell or slumber within the catacomb vaults of Uldaman.<sup id="cite_ref-Chronicle_5-3"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-Chronicle-5">[5]</a></sup> Some of the earthen came to conflict against the [Kaldorei Empire](https://wowpedia.fandom.com/wiki/Kaldorei_Empire "Kaldorei Empire"), but were defeated by the military power of the [House of Ravencrest](https://wowpedia.fandom.com/wiki/House_of_Ravencrest "House of Ravencrest").<sup id="cite_ref-9"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-9">[9]</a></sup> The night elves came to use the derogatory term of "dwarf" to refer to those earthen.<sup id="cite_ref-10"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-10">[10]</a></sup>
 
 ### War of the Ancients
 
@@ -58,7 +58,7 @@ The earthen largely kept to themselves. They were unconcerned with the activitie
 
 An earthen ally of night elves in the War of the Ancients.<sup id="cite_ref-11"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-11">[11]</a></sup>
 
-When the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") invaded [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), many other clans of earthen led by [Dungard Ironcutter](https://wowpedia.fandom.com/wiki/Dungard_Ironcutter "Dungard Ironcutter") were convinced to join the resistance against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") by [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"), or alternately by the dragon-mage [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus") when he traveled in time, even while [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") looked down upon other races. It was a reluctant truce, as the earthen were called in by Krasus in defiance of the xenophobic commander [Desdel Stareye](https://wowpedia.fandom.com/wiki/Desdel_Stareye "Desdel Stareye"). The earthen were initially put to the outskirts of the host, but after Stareye's demise, their warriors were put to their best use under the new commander, [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-12">[12]</a></sup><sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-13">[13]</a></sup>
+When the [demons](https://wowpedia.fandom.com/wiki/Demon "Demon") invaded xref:Azeroth.adoc[Azeroth], many other clans of earthen led by [Dungard Ironcutter](https://wowpedia.fandom.com/wiki/Dungard_Ironcutter "Dungard Ironcutter") were convinced to join the resistance against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion") by [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong"), or alternately by the dragon-mage [Krasus](https://wowpedia.fandom.com/wiki/Krasus "Krasus") when he traveled in time, even while [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") looked down upon other races. It was a reluctant truce, as the earthen were called in by Krasus in defiance of the xenophobic commander [Desdel Stareye](https://wowpedia.fandom.com/wiki/Desdel_Stareye "Desdel Stareye"). The earthen were initially put to the outskirts of the host, but after Stareye's demise, their warriors were put to their best use under the new commander, [Jarod Shadowsong](https://wowpedia.fandom.com/wiki/Jarod_Shadowsong "Jarod Shadowsong").<sup id="cite_ref-12"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-12">[12]</a></sup><sup id="cite_ref-13"><a href="https://wowpedia.fandom.com/wiki/Earthen#cite_note-13">[13]</a></sup>
 
 ### Sundering and further hibernation
 
@@ -227,8 +227,8 @@ Sapient [titanic creations](https://wowpedia.fandom.com/wiki/Titan-forged "Titan
  |
 | --- |
 |  |
-| **Earthen**  
-related | 
+| **Earthen**
+related |
 
 -   [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
     -   [Ironforge](https://wowpedia.fandom.com/wiki/Ironforge_dwarf "Ironforge dwarf")
@@ -250,7 +250,7 @@ related |
 
  |
 |  |
-| [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant") | 
+| [Giants](https://wowpedia.fandom.com/wiki/Giant "Giant") |
 
 -   [Anubisath](https://wowpedia.fandom.com/wiki/Anubisath "Anubisath")
 -   [Fire giant](https://wowpedia.fandom.com/wiki/Fire_giant "Fire giant")
@@ -268,7 +268,7 @@ related |
 
  |
 |  |
-| [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") | 
+| [Vrykul](https://wowpedia.fandom.com/wiki/Vrykul "Vrykul") |
 
 -   [Human](https://wowpedia.fandom.com/wiki/Human "Human")
 -   [Iron vrykul](https://wowpedia.fandom.com/wiki/Iron_vrykul "Iron vrykul")
@@ -282,7 +282,7 @@ related |
 
  |
 |  |
-| [Gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") | 
+| [Gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome") |
 
 -   [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
     -   [Mechagon](https://wowpedia.fandom.com/wiki/Mechagon_mechagnome "Mechagon mechagnome")
@@ -294,13 +294,13 @@ related |
 
  |
 |  |
-| [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin") | 
+| [Dragonkin](https://wowpedia.fandom.com/wiki/Dragonkin "Dragonkin") |
 
 <table><tbody><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragonflight" title="Dragonflight">Dragonflights</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Red_dragonflight" title="Red dragonflight">Red</a></li><li><a href="https://wowpedia.fandom.com/wiki/Blue_dragonflight" title="Blue dragonflight">Blue</a></li><li><a href="https://wowpedia.fandom.com/wiki/Green_dragonflight" title="Green dragonflight">Green</a></li><li><a href="https://wowpedia.fandom.com/wiki/Bronze_dragonflight" title="Bronze dragonflight">Bronze</a></li><li><a href="https://wowpedia.fandom.com/wiki/Black_dragonflight" title="Black dragonflight">Black</a></li><li><a href="https://wowpedia.fandom.com/wiki/Netherwing_dragonflight" title="Netherwing dragonflight">Netherwing</a></li><li><a href="https://wowpedia.fandom.com/wiki/Chromatic_dragonflight" title="Chromatic dragonflight">Chromatic</a></li><li><a href="https://wowpedia.fandom.com/wiki/Twilight_dragonflight" title="Twilight dragonflight">Twilight</a></li><li><a href="https://wowpedia.fandom.com/wiki/Infinite_dragonflight" title="Infinite dragonflight">Infinite</a></li><li><a href="https://wowpedia.fandom.com/wiki/Plagued_dragonflight" title="Plagued dragonflight">Plagued</a></li><li><a href="https://wowpedia.fandom.com/wiki/Nightmare_dragonflight" title="Nightmare dragonflight">Nightmare</a></li><li><a href="https://wowpedia.fandom.com/wiki/Storm_drake" title="Storm drake">Storm</a></li></ul></div></td></tr><tr><td></td></tr><tr><th scope="row"><a href="https://wowpedia.fandom.com/wiki/Dragonkin#Types" title="Dragonkin">Types</a></th><td><div><ul><li><a href="https://wowpedia.fandom.com/wiki/Dragon" title="Dragon">Dragon</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonman" title="Dragonman">Dragonman</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Aberration_(mob)" title="Aberration (mob)">Aberration</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Dragonspawn" title="Dragonspawn">Dragonspawn</a><ul><li><a href="https://wowpedia.fandom.com/wiki/Scalebane" title="Scalebane">Scalebane</a></li><li><a href="https://wowpedia.fandom.com/wiki/Wyrmkin" title="Wyrmkin">Wyrmkin</a></li></ul></li><li><a href="https://wowpedia.fandom.com/wiki/Drakonid" title="Drakonid">Drakonid</a></li><li><a href="https://wowpedia.fandom.com/wiki/Dracthyr" title="Dracthyr">Dracthyr</a></li></ul></div></td></tr></tbody></table>
 
  |
 |  |
-| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") | 
+| [Breakers](https://wowpedia.fandom.com/wiki/Breakers "Breakers") |
 
 -   [Grond](https://wowpedia.fandom.com/wiki/Grond "Grond")
 -   [Colossal](https://wowpedia.fandom.com/wiki/Colossal "Colossal")
@@ -321,7 +321,7 @@ related |
 
  |
 |  |
-| Other | 
+| Other |
 
 -   [Tol'vir](https://wowpedia.fandom.com/wiki/Tol%27vir "Tol'vir")
     -   [Obsidian destroyer](https://wowpedia.fandom.com/wiki/Obsidian_destroyer "Obsidian destroyer")
@@ -335,7 +335,7 @@ related |
 
  |
 |  |
-| 
+|
 
 -   This is a sub-template of [Sapient Species](https://wowpedia.fandom.com/wiki/Template:Sapient_Species "Template:Sapient Species")
 

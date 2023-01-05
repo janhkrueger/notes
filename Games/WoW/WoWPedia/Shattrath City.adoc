@@ -2,28 +2,28 @@
 | --- |
 | [![Shattrath City.jpg](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Shattrath_City.jpg/revision/latest/scale-to-width-down/260?cb=20180721234150)](https://static.wikia.nocookie.net/wowpedia/images/8/8c/Shattrath_City.jpg/revision/latest?cb=20180721234150) |
 | Type | Capital city |
-| Races | [![Naaru](https://static.wikia.nocookie.net/wowpedia/images/e/eb/IconSmall_Naaru.gif/revision/latest/scale-to-width-down/16?cb=20211202112951)](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")  
-[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")  
-[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")  
-[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")  
-[![Mag'har orc](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_OrcBrown_Male.gif/revision/latest/scale-to-width-down/16?cb=20200528220710)](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")[![Mag'har orc](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_OrcBrown_Female.gif/revision/latest/scale-to-width-down/16?cb=20200528221239)](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")  
-[![Broken](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)](https://wowpedia.fandom.com/wiki/Broken "Broken") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")  
-[![Lost one](https://static.wikia.nocookie.net/wowpedia/images/f/f8/IconSmall_LostOne.gif/revision/latest/scale-to-width-down/16?cb=20200520144743)](https://wowpedia.fandom.com/wiki/Lost_One "Lost one") [Lost one](https://wowpedia.fandom.com/wiki/Lost_One "Lost One")  
-[![Arakkoa](https://static.wikia.nocookie.net/wowpedia/images/b/be/IconSmall_Arakkoa.gif/revision/latest/scale-to-width-down/16?cb=20211118201216)](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") [Arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa")  
-[![Ethereal](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest/scale-to-width-down/16?cb=20211118202836)](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") [Ethereal](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal")  
-[![Sporeling](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Sporeling.gif/revision/latest/scale-to-width-down/16?cb=20211118224630)](https://wowpedia.fandom.com/wiki/Sporeling "Sporeling") [Sporeling](https://wowpedia.fandom.com/wiki/Sporeling "Sporeling")  
-[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")  
-[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)](https://wowpedia.fandom.com/wiki/Ogre "Ogre")[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Ogre_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118150603)](https://wowpedia.fandom.com/wiki/Ogre "Ogre") [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")  
-[![Troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Troll "Troll")[![Troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Troll "Troll") [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")  
-[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")  
-[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")  
-[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")  
-[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")  
-[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")  
-[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")  
+| Races | [![Naaru](https://static.wikia.nocookie.net/wowpedia/images/e/eb/IconSmall_Naaru.gif/revision/latest/scale-to-width-down/16?cb=20211202112951)](https://wowpedia.fandom.com/wiki/Naaru "Naaru") [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
+[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/f/fb/IconSmall_Draenei_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517223519)](https://wowpedia.fandom.com/wiki/Draenei "Draenei")[![Draenei](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)](https://wowpedia.fandom.com/wiki/Draenei "Draenei") [Draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei")
+[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/d/da/IconSmall_BloodElf_Male.png/revision/latest/scale-to-width-down/16?cb=20200517221437)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")[![Blood elf](https://static.wikia.nocookie.net/wowpedia/images/7/72/IconSmall_BloodElf_Female.png/revision/latest/scale-to-width-down/16?cb=20200517222352)](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf") [Blood elf](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf")
+[![Human](https://static.wikia.nocookie.net/wowpedia/images/e/ee/IconSmall_Human_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518004645)](https://wowpedia.fandom.com/wiki/Human "Human")[![Human](https://static.wikia.nocookie.net/wowpedia/images/8/8b/IconSmall_Human_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518005219)](https://wowpedia.fandom.com/wiki/Human "Human") [Human](https://wowpedia.fandom.com/wiki/Human "Human")
+[![Mag'har orc](https://static.wikia.nocookie.net/wowpedia/images/e/e1/IconSmall_OrcBrown_Male.gif/revision/latest/scale-to-width-down/16?cb=20200528220710)](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")[![Mag'har orc](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_OrcBrown_Female.gif/revision/latest/scale-to-width-down/16?cb=20200528221239)](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/3/3c/IconSmall_Orc_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518012003)](https://wowpedia.fandom.com/wiki/Orc "Orc")[![Orc](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Orc_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518014511)](https://wowpedia.fandom.com/wiki/Orc "Orc") [Orc](https://wowpedia.fandom.com/wiki/Orc "Orc")
+[![Broken](https://static.wikia.nocookie.net/wowpedia/images/4/4b/IconSmall_Broken_Male.gif/revision/latest/scale-to-width-down/16?cb=20200516152507)](https://wowpedia.fandom.com/wiki/Broken "Broken") [Broken](https://wowpedia.fandom.com/wiki/Broken "Broken")
+[![Lost one](https://static.wikia.nocookie.net/wowpedia/images/f/f8/IconSmall_LostOne.gif/revision/latest/scale-to-width-down/16?cb=20200520144743)](https://wowpedia.fandom.com/wiki/Lost_One "Lost one") [Lost one](https://wowpedia.fandom.com/wiki/Lost_One "Lost One")
+[![Arakkoa](https://static.wikia.nocookie.net/wowpedia/images/b/be/IconSmall_Arakkoa.gif/revision/latest/scale-to-width-down/16?cb=20211118201216)](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa") [Arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa")
+[![Ethereal](https://static.wikia.nocookie.net/wowpedia/images/9/90/IconSmall_Ethereal.gif/revision/latest/scale-to-width-down/16?cb=20211118202836)](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal") [Ethereal](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal")
+[![Sporeling](https://static.wikia.nocookie.net/wowpedia/images/4/4e/IconSmall_Sporeling.gif/revision/latest/scale-to-width-down/16?cb=20211118224630)](https://wowpedia.fandom.com/wiki/Sporeling "Sporeling") [Sporeling](https://wowpedia.fandom.com/wiki/Sporeling "Sporeling")
+[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/f/f5/IconSmall_Goblin_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517232328)](https://wowpedia.fandom.com/wiki/Goblin "Goblin")[![Goblin](https://static.wikia.nocookie.net/wowpedia/images/c/cf/IconSmall_Goblin_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517233321)](https://wowpedia.fandom.com/wiki/Goblin "Goblin") [Goblin](https://wowpedia.fandom.com/wiki/Goblin "Goblin")
+[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/0/09/IconSmall_Ogre_Male.gif/revision/latest/scale-to-width-down/16?cb=20211118144917)](https://wowpedia.fandom.com/wiki/Ogre "Ogre")[![Ogre](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_Ogre_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118150603)](https://wowpedia.fandom.com/wiki/Ogre "Ogre") [Ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre")
+[![Troll](https://static.wikia.nocookie.net/wowpedia/images/5/5f/IconSmall_Troll_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520001858)](https://wowpedia.fandom.com/wiki/Troll "Troll")[![Troll](https://static.wikia.nocookie.net/wowpedia/images/9/93/IconSmall_Troll_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520010154)](https://wowpedia.fandom.com/wiki/Troll "Troll") [Troll](https://wowpedia.fandom.com/wiki/Troll "Troll")
+[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/6/6b/IconSmall_Dwarf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517225556)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")[![Dwarf](https://static.wikia.nocookie.net/wowpedia/images/0/03/IconSmall_Dwarf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517230021)](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf") [Dwarf](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf")
+[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/8/88/IconSmall_Gnome_Male.gif/revision/latest/scale-to-width-down/16?cb=20200614124351)](https://wowpedia.fandom.com/wiki/Gnome "Gnome")[![Gnome](https://static.wikia.nocookie.net/wowpedia/images/0/0b/IconSmall_Gnome_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517231749)](https://wowpedia.fandom.com/wiki/Gnome "Gnome") [Gnome](https://wowpedia.fandom.com/wiki/Gnome "Gnome")
+[![High elf](https://static.wikia.nocookie.net/wowpedia/images/5/5e/IconSmall_HighElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200517002221)](https://wowpedia.fandom.com/wiki/High_elf "High elf")[![High elf](https://static.wikia.nocookie.net/wowpedia/images/0/07/IconSmall_HighElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517002342)](https://wowpedia.fandom.com/wiki/High_elf "High elf") [High elf](https://wowpedia.fandom.com/wiki/High_elf "High elf")
+[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/e/e8/IconSmall_NightElf_Male.gif/revision/latest/scale-to-width-down/16?cb=20200518005657)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")[![Night elf](https://static.wikia.nocookie.net/wowpedia/images/1/18/IconSmall_NightElf_Female.gif/revision/latest/scale-to-width-down/16?cb=20200518010323)](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") [Night elf](https://wowpedia.fandom.com/wiki/Night_elf "Night elf")
+[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/4/41/IconSmall_Tauren_Male.gif/revision/latest/scale-to-width-down/16?cb=20200519233641)](https://wowpedia.fandom.com/wiki/Tauren "Tauren")[![Tauren](https://static.wikia.nocookie.net/wowpedia/images/3/30/IconSmall_Tauren_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520000847)](https://wowpedia.fandom.com/wiki/Tauren "Tauren") [Tauren](https://wowpedia.fandom.com/wiki/Tauren "Tauren")
+[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/3/3b/IconSmall_Undead_Male.gif/revision/latest/scale-to-width-down/16?cb=20200520010857)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")[![Forsaken](https://static.wikia.nocookie.net/wowpedia/images/8/83/IconSmall_Undead_Female.gif/revision/latest/scale-to-width-down/16?cb=20200520011546)](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken") [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken")
 [![Mo'arg](https://static.wikia.nocookie.net/wowpedia/images/5/5c/IconSmall_Mo%27arg.gif/revision/latest/scale-to-width-down/16?cb=20211126111519)](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg") [Mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg") |
 | Government | Theocracy |
-| Ruler(s) | 
+| Ruler(s) |
  ![](https://static.wikia.nocookie.net/wowpedia/images/e/eb/IconSmall_Naaru.gif/revision/latest/scale-to-width-down/16?cb=20211202112951)[A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal")
 
 -    ![](https://static.wikia.nocookie.net/wowpedia/images/d/d0/IconSmall_Draenei_Female.gif/revision/latest/scale-to-width-down/16?cb=20200517225130)[Ishanah](https://wowpedia.fandom.com/wiki/Ishanah "Ishanah")
@@ -38,7 +38,7 @@
 | PvP status | [Sanctuary](https://wowpedia.fandom.com/wiki/Sanctuary "Sanctuary") |
 | Status | Healthy (lore) |
 
-**Shattrath City** (aka **Shattrath**) [\[ˈʃætɹæθ\]](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet "wikipedia:International Phonetic Alphabet"), is a major hub in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") situated in the northwestern portion of [Terokkar Forest](https://wowpedia.fandom.com/wiki/Terokkar_Forest "Terokkar Forest"). It is a capital-sized [sanctuary](https://wowpedia.fandom.com/wiki/Sanctuary "Sanctuary") city populated by ancient heroes and [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru"). It is the first capital available to both the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde").
+**Shattrath City** (aka **Shattrath**) [\[ˈʃætɹæθ\]](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet "wikipedia:International Phonetic Alphabet"), is a major hub in [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland") situated in the northwestern portion of [Terokkar Forest](https://wowpedia.fandom.com/wiki/Terokkar_Forest "Terokkar Forest"). It is a capital-sized [sanctuary](https://wowpedia.fandom.com/wiki/Sanctuary "Sanctuary") city populated by ancient heroes and [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru"). It is the first capital available to both the xref:Alliance.adoc[Alliance] and the xref:Horde.adoc[Horde].
 
 This city is maintained by the naaru known as the [Sha'tar](https://wowpedia.fandom.com/wiki/Sha%27tar "Sha'tar"), who are centered at the Terrace of Light. Their ruler is [A'dal](https://wowpedia.fandom.com/wiki/A%27dal "A'dal"). The lower city is flooded with [refugees](https://wowpedia.fandom.com/wiki/Refugee "Refugee") of all sorts from the various conflicts of Outland; [naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru"), [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei"), [blood elves](https://wowpedia.fandom.com/wiki/Blood_elf "Blood elf"), [humans](https://wowpedia.fandom.com/wiki/Human "Human"), [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc"), [high elves](https://wowpedia.fandom.com/wiki/High_elf "High elf"), [dwarves](https://wowpedia.fandom.com/wiki/Dwarf "Dwarf"), [sporelings](https://wowpedia.fandom.com/wiki/Sporeling "Sporeling"), [ogres](https://wowpedia.fandom.com/wiki/Ogre "Ogre"), [arakkoa](https://wowpedia.fandom.com/wiki/Arakkoa "Arakkoa"), [goblins](https://wowpedia.fandom.com/wiki/Goblin "Goblin"), [ethereals](https://wowpedia.fandom.com/wiki/Ethereal "Ethereal"), [Mag'har orcs](https://wowpedia.fandom.com/wiki/Mag%27har_orc "Mag'har orc"), [Forsaken](https://wowpedia.fandom.com/wiki/Forsaken "Forsaken"), [trolls](https://wowpedia.fandom.com/wiki/Troll "Troll"), [gnomes](https://wowpedia.fandom.com/wiki/Gnome "Gnome"), [night elves](https://wowpedia.fandom.com/wiki/Night_elf "Night elf"), [mo'arg](https://wowpedia.fandom.com/wiki/Mo%27arg "Mo'arg"), [Broken draenei](https://wowpedia.fandom.com/wiki/Broken "Broken"), and [draenei Lost Ones](https://wowpedia.fandom.com/wiki/Lost_One "Lost One") can all be found in varying quantities within Shattrath City.
 
@@ -64,7 +64,7 @@ The siege of Shattrath.
 
 [Vindicator Maraad](https://wowpedia.fandom.com/wiki/Vindicator_Maraad "Vindicator Maraad") at the destruction of Shattrath.
 
-Shattrath was founded by the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") led by [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") after their arrival on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), 195 years before the opening of the [Dark Portal](https://wowpedia.fandom.com/wiki/Dark_Portal "Dark Portal"). They chose the former location of the great [ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") city of [Goria](https://wowpedia.fandom.com/wiki/Goria "Goria"), destroyed by the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") two centuries before. The site was protected by mountains, had access to the [Zangar Sea](https://wowpedia.fandom.com/wiki/Zangar_Sea "Zangar Sea"), and no other races had settled there after the violent fall of Goria.<sup id="cite_ref-C253_1-0"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-C253-1">[1]</a></sup> The city's name, Shattrath, means "Dwelling of Light" in the [draenei language](https://wowpedia.fandom.com/wiki/Draenei_(language) "Draenei (language)").<sup id="cite_ref-CoL_2-0"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-CoL-2">[2]</a></sup>
+Shattrath was founded by the [draenei](https://wowpedia.fandom.com/wiki/Draenei "Draenei") led by [Velen](https://wowpedia.fandom.com/wiki/Velen "Velen") after their arrival on [Draenor](https://wowpedia.fandom.com/wiki/Draenor "Draenor"), 195 years before the opening of the xref:DarkPortal.adoc[Dark Portal]. They chose the former location of the great [ogre](https://wowpedia.fandom.com/wiki/Ogre "Ogre") city of [Goria](https://wowpedia.fandom.com/wiki/Goria "Goria"), destroyed by the [orcs](https://wowpedia.fandom.com/wiki/Orc "Orc") two centuries before. The site was protected by mountains, had access to the [Zangar Sea](https://wowpedia.fandom.com/wiki/Zangar_Sea "Zangar Sea"), and no other races had settled there after the violent fall of Goria.<sup id="cite_ref-C253_1-0"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-C253-1">[1]</a></sup> The city's name, Shattrath, means "Dwelling of Light" in the [draenei language](https://wowpedia.fandom.com/wiki/Draenei_(language) "Draenei (language)").<sup id="cite_ref-CoL_2-0"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-CoL-2">[2]</a></sup>
 
 The draenei [artificers](https://wowpedia.fandom.com/wiki/Artificer "Artificer") erected sleek buildings, crystals and roadways, creating the new locus and capital of the draenei civilization on the planet.<sup id="cite_ref-C253_1-1"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-C253-1">[1]</a></sup> Huge and thick walls, as well as towers and citadels protected it from the outside.<sup id="cite_ref-Rise_3-0"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-Rise-3">[3]</a></sup><sup id="cite_ref-4"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-4">[4]</a></sup> The city was the pinnacle of draenei culture and religion.<sup id="cite_ref-5"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-5">[5]</a></sup>
 
@@ -96,17 +96,17 @@ Soon, other people started arriving in Shattrath, drawn by A'dal's power. Among 
 
 [![Bc icon.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade") **This section concerns content related to _[The Burning Crusade](https://wowpedia.fandom.com/wiki/World_of_Warcraft:_The_Burning_Crusade "World of Warcraft: The Burning Crusade")_.**
 
-During their invasion of [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), both [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") and [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") forces reached Shattrath, bolstering its defenses against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). The city became a staging ground for armies, as well as a place of trade between the peoples of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth") and Outland. By this time, Khadgar had become an influential figure in the city, and tried to mend the rifts between the different factions.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-17">[17]</a></sup>
+During their invasion of [Outland](https://wowpedia.fandom.com/wiki/Outland "Outland"), both xref:Alliance.adoc[Alliance] and xref:Horde.adoc[Horde] forces reached Shattrath, bolstering its defenses against the [Burning Legion](https://wowpedia.fandom.com/wiki/Burning_Legion "Burning Legion"). The city became a staging ground for armies, as well as a place of trade between the peoples of xref:Azeroth.adoc[Azeroth] and Outland. By this time, Khadgar had become an influential figure in the city, and tried to mend the rifts between the different factions.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-17">[17]</a></sup>
 
 Although the attacks against the city continued, Shattrath did not fall. On the contrary, its forces, led by the naaru [Xi'ri](https://wowpedia.fandom.com/wiki/Xi%27ri "Xi'ri"), moved on [Shadowmoon Valley](https://wowpedia.fandom.com/wiki/Shadowmoon_Valley "Shadowmoon Valley").<sup id="cite_ref-CoL_2-4"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-CoL-2">[2]</a></sup> They took part in the fight against Illidan, including the storming of the [Black Temple](https://wowpedia.fandom.com/wiki/Black_Temple "Black Temple").<sup id="cite_ref-18"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-18">[18]</a></sup> Eventually another military order was created in the city, the [Shattered Sun Offensive](https://wowpedia.fandom.com/wiki/Shattered_Sun_Offensive "Shattered Sun Offensive"). It included both Aldor and Scryers, and waged war against the forces of [Kael'thas Sunstrider](https://wowpedia.fandom.com/wiki/Kael%27thas_Sunstrider "Kael'thas Sunstrider") on [Sunwell Isle](https://wowpedia.fandom.com/wiki/Isle_of_Quel%27Danas "Isle of Quel'Danas").<sup id="cite_ref-19"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-19">[19]</a></sup>
 
 ### Wrath of the Lich King
 
-During the [Scourge Invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion "Scourge Invasion") of [Azeroth](https://wowpedia.fandom.com/wiki/Azeroth "Azeroth"), the Alliance and Horde led by [Bishop Lazaril](https://wowpedia.fandom.com/wiki/Bishop_Lazaril "Bishop Lazaril") and [Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress") made camps here to work on weapons against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").
+During the [Scourge Invasion](https://wowpedia.fandom.com/wiki/Scourge_Invasion "Scourge Invasion") of xref:Azeroth.adoc[Azeroth], the Alliance and Horde led by [Bishop Lazaril](https://wowpedia.fandom.com/wiki/Bishop_Lazaril "Bishop Lazaril") and [Grand Apothecary Putress](https://wowpedia.fandom.com/wiki/Grand_Apothecary_Putress "Grand Apothecary Putress") made camps here to work on weapons against the [Scourge](https://wowpedia.fandom.com/wiki/Scourge "Scourge").
 
 ### Battle for Azeroth
 
-At the time of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), a few [ethereal arcanists](https://wowpedia.fandom.com/wiki/Consortium_Arcanist "Consortium Arcanist") of the [Consortium](https://wowpedia.fandom.com/wiki/Consortium "Consortium") have been hired by the [Horde](https://wowpedia.fandom.com/wiki/Horde "Horde") and the [Alliance](https://wowpedia.fandom.com/wiki/Alliance "Alliance") to maintain portals to Shattrath City within the [Pathfinder's Den](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den") and the [Wizard's Sanctum](https://wowpedia.fandom.com/wiki/Wizard%27s_Sanctum "Wizard's Sanctum"),<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-20">[20]</a></sup> respectively in [Orgrimmar](https://wowpedia.fandom.com/wiki/Orgrimmar "Orgrimmar") and [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
+At the time of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), a few [ethereal arcanists](https://wowpedia.fandom.com/wiki/Consortium_Arcanist "Consortium Arcanist") of the [Consortium](https://wowpedia.fandom.com/wiki/Consortium "Consortium") have been hired by the xref:Horde.adoc[Horde] and the xref:Alliance.adoc[Alliance] to maintain portals to Shattrath City within the [Pathfinder's Den](https://wowpedia.fandom.com/wiki/Pathfinder%27s_Den "Pathfinder's Den") and the [Wizard's Sanctum](https://wowpedia.fandom.com/wiki/Wizard%27s_Sanctum "Wizard's Sanctum"),<sup id="cite_ref-20"><a href="https://wowpedia.fandom.com/wiki/Shattrath_City#cite_note-20">[20]</a></sup> respectively in xref:Orgrimmar.adoc[Orgrimmar] and [Stormwind City](https://wowpedia.fandom.com/wiki/Stormwind_City "Stormwind City").
 
 ## Areas
 
@@ -163,28 +163,28 @@ Quests that give reputation with Aldor or Scryer also often give gain with the [
 
 |   | [Hated](https://wowpedia.fandom.com/wiki/Hated "Hated") | [Hostile](https://wowpedia.fandom.com/wiki/Hostile "Hostile") | [Unfriendly](https://wowpedia.fandom.com/wiki/Unfriendly "Unfriendly") | [Neutral](https://wowpedia.fandom.com/wiki/Neutral "Neutral") | [Friendly](https://wowpedia.fandom.com/wiki/Friendly "Friendly") | [Honored](https://wowpedia.fandom.com/wiki/Honored "Honored") | [Revered](https://wowpedia.fandom.com/wiki/Revered "Revered") | [Exalted](https://wowpedia.fandom.com/wiki/Exalted "Exalted") | Rep | Item |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Repeatable  
-Quests | 
+| Repeatable
+Quests |
  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Strained Supplies](https://wowpedia.fandom.com/wiki/Strained_Supplies) [(R)](https://wowpedia.fandom.com/wiki/More_Venom_Sacs "More Venom Sacs")
 
 
 
  |  | 250 | [\[Dreadfang Venom Sac\]](https://wowpedia.fandom.com/wiki/Dreadfang_Venom_Sac) x8 |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[15-30\] [Marks of Kil'jaeden](https://wowpedia.fandom.com/wiki/Marks_of_Kil%27jaeden_(quest)) [(R)](https://wowpedia.fandom.com/wiki/More_Marks_of_Kil%27jaeden "More Marks of Kil'jaeden")
 
 
 
  |  | 250 | [\[Mark of Kil'jaeden\]](https://wowpedia.fandom.com/wiki/Mark_of_Kil%27jaeden) x10 [(x1)](https://wowpedia.fandom.com/wiki/Single_Mark_of_Kil%27jaeden "Single Mark of Kil'jaeden") |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[15-30\] [Marks of Sargeras](https://wowpedia.fandom.com/wiki/Marks_of_Sargeras) [(R)](https://wowpedia.fandom.com/wiki/More_Marks_of_Sargeras "More Marks of Sargeras")
 
 
 
  | 250 | [\[Mark of Sargeras\]](https://wowpedia.fandom.com/wiki/Mark_of_Sargeras) x10 [(x1)](https://wowpedia.fandom.com/wiki/Single_Mark_of_Sargeras "Single Mark of Sargeras") |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/b/b9/Aldor_15.png/revision/latest?cb=20151213201955) \[15-30\] [A Cleansing Light](https://wowpedia.fandom.com/wiki/A_Cleansing_Light) [(R)](https://wowpedia.fandom.com/wiki/Fel_Armaments "Fel Armaments")
 
@@ -198,28 +198,28 @@ Reputation gains with Scryer correspond with a 10% greater loss of reputation wi
 
 |  | Hated | Hostile | Unfriendly | Neutral | Friendly | Honored | Revered | Exalted | Rep | Item |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Repeatable  
-Quests | 
+| Repeatable
+Quests |
  ![N](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Neutral_15.png/revision/latest?cb=20110620220434) \[15-30\] [Voren'thal's Visions](https://wowpedia.fandom.com/wiki/Voren%27thal%27s_Visions) [(R)](https://wowpedia.fandom.com/wiki/Voren%27thal%27s_Visions "Voren'thal's Visions")
 
 
 
  |  | 250 | [\[Dampscale Basilisk Eye\]](https://wowpedia.fandom.com/wiki/Dampscale_Basilisk_Eye) x8 |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/2/28/Scryers_15.png/revision/latest?cb=20151213203823) \[15-30\] [Firewing Signets](https://wowpedia.fandom.com/wiki/Firewing_Signets_(quest)) [(R)](https://wowpedia.fandom.com/wiki/More_Firewing_Signets "More Firewing Signets")
 
 
 
  |  | 250 (25) | [\[Firewing Signet\]](https://wowpedia.fandom.com/wiki/Firewing_Signet) x10 [(x1)](https://wowpedia.fandom.com/wiki/Single_Firewing_Signet "Single Firewing Signet") |
-|  | 
+|  |
 
 [Sunfury Signets](https://wowpedia.fandom.com/wiki/Sunfury_Signets "Sunfury Signets") [(R)](https://wowpedia.fandom.com/wiki/More_Sunfury_Signets "More Sunfury Signets")
 
 
 
  | 250 (25) | [\[Sunfury Signet\]](https://wowpedia.fandom.com/wiki/Sunfury_Signet) x10 [(x1)](https://wowpedia.fandom.com/wiki/Single_Sunfury_Signet "Single Sunfury Signet") |
-|  | 
+|  |
 
  ![N](https://static.wikia.nocookie.net/wowpedia/images/2/28/Scryers_15.png/revision/latest?cb=20151213203823) \[15-30\] [Synthesis of Power](https://wowpedia.fandom.com/wiki/Synthesis_of_Power) [(R)](https://wowpedia.fandom.com/wiki/Arcane_Tomes "Arcane Tomes")
 
@@ -242,43 +242,43 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 ### Class trainers
 
 -   #### Scryers
-    
+
 -   #### Aldor
-    
+
 -   #### Neutral
-    
+
 
 ### Auctioneers
 
 -   #### Scryers
-    
+
 -   #### Aldor
-    
+
 
 ### Others
 
 ## Notes
 
 -   Shattrath has an [orphanage](https://wowpedia.fandom.com/wiki/Orphanage "Orphanage") under the responsibility of [Orphan Matron Mercy](https://wowpedia.fandom.com/wiki/Orphan_Matron_Mercy "Orphan Matron Mercy").
--   Before [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), setting your  ![](https://static.wikia.nocookie.net/wowpedia/images/c/cb/Inv_misc_rune_01.png/revision/latest/scale-to-width-down/16?cb=20091028041736)[\[Hearthstone\]](https://wowpedia.fandom.com/wiki/Hearthstone) to Shattrath was very advisable, since it had portals to all major cities. Dalaran has later replaced Shattrath as the major city, since it has WotLK-level [vendors](https://wowpedia.fandom.com/wiki/Applebough "Applebough"), [quests](https://wowpedia.fandom.com/wiki/Weekly_quest "Weekly quest"), [quatermasters](https://wowpedia.fandom.com/wiki/Archmage_Alvareaux "Archmage Alvareaux") and, last but not least, portal to [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time").
+-   Before [Dalaran](https://wowpedia.fandom.com/wiki/Dalaran "Dalaran"), setting your  xref:Hearthstone.adoc[Hearthstone] to Shattrath was very advisable, since it had portals to all major cities. Dalaran has later replaced Shattrath as the major city, since it has WotLK-level [vendors](https://wowpedia.fandom.com/wiki/Applebough "Applebough"), [quests](https://wowpedia.fandom.com/wiki/Weekly_quest "Weekly quest"), [quatermasters](https://wowpedia.fandom.com/wiki/Archmage_Alvareaux "Archmage Alvareaux") and, last but not least, portal to [Caverns of Time](https://wowpedia.fandom.com/wiki/Caverns_of_Time "Caverns of Time").
 -   There is a collapsed passage to [Zangarmarsh](https://wowpedia.fandom.com/wiki/Zangarmarsh "Zangarmarsh") near the arakkoa area.
 
 ## Gallery
 
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Shattrath_City_2.jpg/revision/latest/scale-to-width-down/120?cb=20180721235706)](https://static.wikia.nocookie.net/wowpedia/images/a/a0/Shattrath_City_2.jpg/revision/latest?cb=20180721235706)
-    
+
     Shattrath City.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/1/16/Shattrath_City_3.jpg/revision/latest/scale-to-width-down/120?cb=20180721235749)](https://static.wikia.nocookie.net/wowpedia/images/1/16/Shattrath_City_3.jpg/revision/latest?cb=20180721235749)
-    
+
     Shattrath City.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Shattrath_City_4.jpg/revision/latest/scale-to-width-down/120?cb=20180721235710)](https://static.wikia.nocookie.net/wowpedia/images/d/dd/Shattrath_City_4.jpg/revision/latest?cb=20180721235710)
-    
+
     Shattrath City.
-    
+
 -   [![](https://static.wikia.nocookie.net/wowpedia/images/9/97/Shattrath_-_Bishop_Lazaril_Scourge_Invasion.jpg/revision/latest/scale-to-width-down/120?cb=20220917124122)](https://static.wikia.nocookie.net/wowpedia/images/9/97/Shattrath_-_Bishop_Lazaril_Scourge_Invasion.jpg/revision/latest?cb=20220917124122)
-    
+
 
 ## Patch changes
 
@@ -310,7 +310,7 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 -   [Wowhead](https://www.wowhead.com/zone=3703)
 -   [WoWDB](https://www.wowdb.com/zones/3703)
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Shattrath_City "Template:Shattrath City")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Shattrath_City?action=edit)
 
@@ -321,11 +321,11 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
  |
 | --- |
 |  |
-| 
+|
 
 [![Shattrath City is a sanctuary](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Shattrath City is a sanctuary")
 
- | 
+ |
 
 -   [Aldor Rise](https://wowpedia.fandom.com/wiki/Aldor_Rise "Aldor Rise")
     -   [Inn](https://wowpedia.fandom.com/wiki/Shattrath_Inn "Shattrath Inn")
@@ -340,13 +340,13 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 
 
 
- | 
+ |
 
 [![Map of Shattrath City](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-ShattrathCity.jpg/revision/latest/scale-to-width-down/120?cb=20190728014905)](https://static.wikia.nocookie.net/wowpedia/images/d/db/WorldMap-ShattrathCity.jpg/revision/latest?cb=20190728014905 "Map of Shattrath City")
 
  |
 |  |
-| 
+|
 
 -   [Undisplayed locations](https://wowpedia.fandom.com/wiki/Undisplayed_location "Undisplayed location") — [Shattrath Infirmary](https://wowpedia.fandom.com/wiki/Shattrath_Infirmary "Shattrath Infirmary")
 
@@ -354,7 +354,7 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 
  |
 |  |
-| 
+|
 
 [Shattrath City category](https://wowpedia.fandom.com/wiki/Category:Shattrath_City "Category:Shattrath City")
 
@@ -362,7 +362,7 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Terokkar_Forest "Template:Terokkar Forest")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Terokkar_Forest?action=edit)
 
@@ -373,11 +373,11 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
  |
 | --- |
 |  |
-| 
+|
 
 [![Terokkar Forest is a contested territory](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Terokkar Forest is a contested territory")
 
- | 
+ |
 
 -   [Allerian Post](https://wowpedia.fandom.com/wiki/Allerian_Post "Allerian Post")
 -   [Allerian Stronghold](https://wowpedia.fandom.com/wiki/Allerian_Stronghold "Allerian Stronghold")
@@ -435,13 +435,13 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 
 
 
- | 
+ |
 
 [![Map of Terokkar Forest](https://static.wikia.nocookie.net/wowpedia/images/0/03/WorldMap-TerokkarForest.jpg/revision/latest/scale-to-width-down/120?cb=20220423185728)](https://static.wikia.nocookie.net/wowpedia/images/0/03/WorldMap-TerokkarForest.jpg/revision/latest?cb=20220423185728 "Map of Terokkar Forest")
 
  |
 |  |
-| 
+|
 
 [Terokkar Forest category](https://wowpedia.fandom.com/wiki/Category:Terokkar_Forest "Category:Terokkar Forest")
 
@@ -449,7 +449,7 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 
  |
 
-| 
+|
 -   [v](https://wowpedia.fandom.com/wiki/Template:Outland "Template:Outland")
 -   [e](https://wowpedia.fandom.com/wiki/Template:Outland?action=edit)
 
@@ -460,11 +460,11 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
  |
 | --- |
 |  |
-| 
+|
 
 [![Outland is an in-game continent](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507)](https://static.wikia.nocookie.net/wowpedia/images/1/19/Neutral_32.png/revision/latest?cb=20110620212507 "Outland is an in-game continent")
 
- | 
+ |
 
 -   [Blade's Edge Mountains](https://wowpedia.fandom.com/wiki/Blade%27s_Edge_Mountains "Blade's Edge Mountains")
 -   [Hellfire Peninsula](https://wowpedia.fandom.com/wiki/Hellfire_Peninsula "Hellfire Peninsula")
@@ -477,13 +477,13 @@ _Main article: [Shattrath City quests](https://wowpedia.fandom.com/wiki/Shattrat
 
 
 
- | 
+ |
 
 [![Map of Outland](https://static.wikia.nocookie.net/wowpedia/images/7/75/WorldMap-Outland_Updated.jpg/revision/latest/scale-to-width-down/120?cb=20190320182341)](https://static.wikia.nocookie.net/wowpedia/images/7/75/WorldMap-Outland_Updated.jpg/revision/latest?cb=20190320182341 "Map of Outland")
 
  |
 |  |
-| 
+|
 
 [Outland category](https://wowpedia.fandom.com/wiki/Category:Outland "Category:Outland")
 
