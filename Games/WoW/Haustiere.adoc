@@ -1,0 +1,25 @@
+= {subject}
+Jan H. Krueger
+:subject: Haustiergruppen
+:description: Übersicht über die verschiedenen Haustiergruppen, ihre Stärken und Schwächen
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 1
+
+[options="header"]
+|========================================================================================================================================================================================
+| Haustierfamilie  | Gut gegen  | Schlecht gegen       | Passive Fähigkeit
+| Wildtier         | Kleintiere | Fliegende Begleiter  | Wildtiere verursachen unter 50% Leben 25% mehr Schaden.
+| Kleintier        | Untote     | Humanoide            | Kleintiere können schneller aus dem CC ausbrechen.
+| Drachkin         | Magisch    | Untote               | Drachen verursachen in der nächsten Runde 50% mehr Schaden, nachdem sie einen Gegner unter weniger als 25% Leben gebracht haben.
+| Fliegend         | Aquatisch  | Drachen              | Fliegende Haustiere haben 50% mehr Geschwindigkeit, wenn sie mehr als 50% Leben haben.
+| Mechanisch       | Wildtiere  | Elementar            | Belebt sich einmal im Kampf wieder und erhält 20% Leben zurück.
+| Magisch          | Fliegend   | Menchanisch          | Magische Pets können nicht mehr als 50% ihres maximalen Lebens mit einer Attacke verlieren.
+| Aquatisch        | Elementar  | Magisch              | Die Dauer von DoTs ist bei aquatischen Haustieren um 25% reduziert.
+| Elementar        | Mechanisch | Kleintiere           | Elementare Haustiere ignorieren jegliche Wettereffekte.
+| Untot            | Humanoid   | Wasser               | Untote Haustiere kehren für eine Runde unsterblich zurück, nachdem sie getötet wurden.
+| Humanoid         | Drachkin   | Wildtiere            | Humanoide Pets stellen bei jedem Angriff 4% ihres Lebens wieder her.
+|========================================================================================================================================================================================
