@@ -26,9 +26,9 @@ The Black Empire on the young Azeroth. Likely showing [C'Thun](https://wowpedia.
 |   Formerly | [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj")'s temple city<sup id="cite_ref-Chronicle_1-0"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-Chronicle-1">[1]</a></sup> |
 | Language(s) | [Shath'Yar](https://wowpedia.fandom.com/wiki/Shath%27Yar "Shath'Yar") |
 | Affiliation | [Independent](https://wowpedia.fandom.com/wiki/Independent "Independent"), [Void lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") |
-| Status | Unknown (possibly disbanded after Azeroth's liberation from the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"))<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-2">[2]</a></sup> |
+| Status | Unknown (possibly disbanded after Azeroth's liberation from the xref:OldGod.adoc[OldGod])<sup id="cite_ref-2"><a href="https://wowpedia.fandom.com/wiki/Black_Empire#cite_note-2">[2]</a></sup> |
 
-The **Black Empire** was the dark civilization established by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") after their arrival on primordial xref:Azeroth.adoc[Azeroth]. It reigned over much of the world after the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") and their armies failed to repel the Old Gods. The empire was ultimately destroyed by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") armies of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon").
+The **Black Empire** was the dark civilization established by the xref:OldGod.adoc[OldGod] after their arrival on primordial xref:Azeroth.adoc[Azeroth]. It reigned over much of the world after the [Elemental Lords](https://wowpedia.fandom.com/wiki/Elemental_Lord "Elemental Lord") and their armies failed to repel the Old Gods. The empire was ultimately destroyed by the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") armies of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon").
 
 After the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), the Black Empire was recreated by [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), before being defeated by Azeroth's [champions](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer") with the  ![](https://static.wikia.nocookie.net/wowpedia/images/7/7c/Inv_heartofazeroth.png/revision/latest/scale-to-width-down/16?cb=20180625220401)[\[Heart of Azeroth\]](https://wowpedia.fandom.com/wiki/Heart_of_Azeroth).
 
@@ -145,7 +145,7 @@ An overlay of the maps in _[Chronicle Volume 1](https://wowpedia.fandom.com/wiki
  |
 | --- |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
+| xref:OldGod.adoc[OldGod] |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")

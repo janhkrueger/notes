@@ -18,7 +18,7 @@ Defeatable [![Battle for Azeroth](https://static.wikia.nocookie.net/wowpedia/ima
 
 — N'Zoth's whisper during the [Uu'nat](https://wowpedia.fandom.com/wiki/Uu%27nat "Uu'nat") encounter<sup id="cite_ref-6"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-6">[6]</a></sup>
 
-**N'Zoth**<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-7">[7]</a></sup> (pronounced nuh-ZAWTH)<sup id="cite_ref-HS_8-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup><sup id="cite_ref-BlizzCon_9-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-BlizzCon-9">[9]</a></sup> is one of the four [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") that landed on xref:Azeroth.adoc[Azeroth], malefic beings that were sequestered by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") during Azeroth's primordial ages. Until the events of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), N'Zoth remained notoriously elusive and was largely a mystery,<sup id="cite_ref-UVG_10-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-UVG-10">[10]</a></sup> being the last Old God besides the deceased [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") that had still yet to be directly encountered by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
+**N'Zoth**<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-7">[7]</a></sup> (pronounced nuh-ZAWTH)<sup id="cite_ref-HS_8-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup><sup id="cite_ref-BlizzCon_9-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-BlizzCon-9">[9]</a></sup> is one of the four xref:OldGod.adoc[OldGod] that landed on xref:Azeroth.adoc[Azeroth], malefic beings that were sequestered by the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") during Azeroth's primordial ages. Until the events of the [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War"), N'Zoth remained notoriously elusive and was largely a mystery,<sup id="cite_ref-UVG_10-0"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-UVG-10">[10]</a></sup> being the last Old God besides the deceased [Y'Shaarj](https://wowpedia.fandom.com/wiki/Y%27Shaarj "Y'Shaarj") that had still yet to be directly encountered by [adventurers](https://wowpedia.fandom.com/wiki/Adventurer "Adventurer").
 
 Prior to the Fourth War, very little was certain about N'Zoth — most beings on Azeroth did not even know its name, much less what it looked like. Scraps of obscure [lore](https://wowpedia.fandom.com/wiki/Flavor_lore "Flavor lore") claimed that the Old God had been imprisoned beneath the darkest depths of the ocean for millennia beyond counting. There were also whispers that N'Zoth desired nothing more than to twist what was once noble and pure to its own inscrutable ends.<sup id="cite_ref-HS_8-1"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup> For years, most of what was "known" about this most insidious of beings consisted largely of speculation.<sup id="cite_ref-HS_8-2"><a href="https://wowpedia.fandom.com/wiki/N%27Zoth#cite_note-HS-8">[8]</a></sup>
 
@@ -322,7 +322,7 @@ Heroes of the Storm
  |
 | --- |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
+| xref:OldGod.adoc[OldGod] |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   **N'Zoth**

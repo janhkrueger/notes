@@ -19,7 +19,7 @@ Defeated (lore)<sup id="cite_ref-7"><a href="https://wowpedia.fandom.com/wiki/Yo
 
 _"ALL PLACES. ALL THINGS HAVE SOULS. ALL SOULS CAN BE DEVOURED."_<sup id="cite_ref-8"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-8">[8]</a></sup>
 
-**Yogg-Saron** (pronounced yog-suh-RAWN)<sup id="cite_ref-HS_4-1"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-HS-4">[4]</a></sup> is one of the four [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") of xref:Azeroth.adoc[Azeroth], mysterious and dread elder beings that were defeated and sequestered by the armies of the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") during the world's primordial ages. Upon its fall at the hands of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") countless millennia ago, Yogg-Saron was imprisoned inside the titan complex of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") within the depths of what would become the continent of xref:Northrend.adoc[Northrend].
+**Yogg-Saron** (pronounced yog-suh-RAWN)<sup id="cite_ref-HS_4-1"><a href="https://wowpedia.fandom.com/wiki/Yogg-Saron#cite_note-HS-4">[4]</a></sup> is one of the four xref:OldGod.adoc[OldGod] of xref:Azeroth.adoc[Azeroth], mysterious and dread elder beings that were defeated and sequestered by the armies of the [titans](https://wowpedia.fandom.com/wiki/Titan "Titan") during the world's primordial ages. Upon its fall at the hands of the [Pantheon](https://wowpedia.fandom.com/wiki/Pantheon "Pantheon") countless millennia ago, Yogg-Saron was imprisoned inside the titan complex of [Ulduar](https://wowpedia.fandom.com/wiki/Ulduar "Ulduar") within the depths of what would become the continent of xref:Northrend.adoc[Northrend].
 
 Yogg-Saron is responsible for many horrors suffered by Azeroth. In an attempt to escape its prison, the Old God corrupted the [titan-forged](https://wowpedia.fandom.com/wiki/Titan-forged "Titan-forged") [keeper](https://wowpedia.fandom.com/wiki/Keeper "Keeper") [Loken](https://wowpedia.fandom.com/wiki/Loken "Loken") and turned him against his own brethren, resulting in the death of [Tyr](https://wowpedia.fandom.com/wiki/Tyr "Tyr"), and created the [Curse of Flesh](https://wowpedia.fandom.com/wiki/Curse_of_Flesh "Curse of Flesh"), a malaise that turned countless titan-forged into mortal beings of flesh and blood. Millennia later, Yogg-Saron also corrupted the [World Tree](https://wowpedia.fandom.com/wiki/World_Tree "World Tree") [Andrassil](https://wowpedia.fandom.com/wiki/Andrassil "Andrassil"), forcing its [night elven](https://wowpedia.fandom.com/wiki/Night_elf "Night elf") creators to cut it down, but not before the Old God secretly managed to open a gateway into the ethereal spirit world known as the [Emerald Dream](https://wowpedia.fandom.com/wiki/Emerald_Dream "Emerald Dream") and plant the seed of corruption that would later grow into the [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare").
 
@@ -264,7 +264,7 @@ Fanart
  |
 | --- |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
+| xref:OldGod.adoc[OldGod] |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")

@@ -78,7 +78,7 @@ The Light is often said to bring about feelings of positive emotion—hope, cour
 
 During the ritual that empowers the [Knights of the Silver Hand](https://wowpedia.fandom.com/wiki/Knights_of_the_Silver_Hand "Knights of the Silver Hand"), the Light shines down on them and through them with blinding radiance. It warms at first, then sears. The person feels scoured; emptied, scrubbed clean, then filled again. The Light swells inside and then fades away to a tolerable level.<sup id="cite_ref-RotLK_1-2"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-RotLK-1">[1]</a></sup>
 
-When he used the Light to shield himself from the whispers of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"), [Med'an](https://wowpedia.fandom.com/wiki/Med%27an "Med'an") described holy magic as similar to shamanic magic, but different, as it wraps around him like "a warm blanket".<sup id="cite_ref-Whispers_9-3"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup>
+When he used the Light to shield himself from the whispers of the xref:OldGod.adoc[OldGod], [Med'an](https://wowpedia.fandom.com/wiki/Med%27an "Med'an") described holy magic as similar to shamanic magic, but different, as it wraps around him like "a warm blanket".<sup id="cite_ref-Whispers_9-3"><a href="https://wowpedia.fandom.com/wiki/Light#cite_note-Whispers-9">[9]</a></sup>
 
 Recent events have shown the Light can be just as dangerous as the Void to those who delve too deeply into it. Due to the Light's tendency towards only one path, it can lead the overly devout to closed-mindedness, adamantly refusing to acknowledge any other power or lifestyle other than the Light.
 
@@ -666,7 +666,7 @@ Warcraft cosmos
 | Manifestations |
 
 -   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
--   [Void Lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")
+-   [Void Lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and xref:OldGod.adoc[OldGod]
 -   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
 -   [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") and [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
 -   [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") and [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper")

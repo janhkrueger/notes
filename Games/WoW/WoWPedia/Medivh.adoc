@@ -238,7 +238,7 @@ Some time later, at the end of the Legion's invasion, Sargeras was imprisoned by
 
 ### Battle for Azeroth
 
-The black dragon [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") journeyed to xref:Karazhan.adoc[Karazhan] to find a way to counter the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"). While there, he encountered the shade of Medivh, who encouraged him that while Wrathion could not change the past, he could forge a new legacy to leave for the future.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Medivh#cite_note-59">[59]</a></sup>
+The black dragon [Wrathion](https://wowpedia.fandom.com/wiki/Wrathion "Wrathion") journeyed to xref:Karazhan.adoc[Karazhan] to find a way to counter the xref:OldGod.adoc[OldGod]. While there, he encountered the shade of Medivh, who encouraged him that while Wrathion could not change the past, he could forge a new legacy to leave for the future.<sup id="cite_ref-59"><a href="https://wowpedia.fandom.com/wiki/Medivh#cite_note-59">[59]</a></sup>
 
 ## World of Warcraft Anniversary
 

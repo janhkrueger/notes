@@ -257,7 +257,7 @@ Hearthstone art
 
  |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
+| xref:OldGod.adoc[OldGod] |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")

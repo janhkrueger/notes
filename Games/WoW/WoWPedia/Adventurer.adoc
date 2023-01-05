@@ -8,16 +8,9 @@ Jan H. Krueger
 :toclevels: 3
 
 **Adventurer** is the [lore](https://wowpedia.fandom.com/wiki/Lore "Lore") name for xref:PlayerCharacter.adoc[player characters]. They are also referred to as **champions**, **heroes**, **commanders**, and later as **generals**, **order leaders**, and **xref:MawWalker.adoc[Maw Walkers]**. Although unnamed and numerous, it is thanks to these brave individuals that xref:Azeroth.adoc[Azeroth] and worlds beyond have been saved on numerous occasions in recent times. During the xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion], one of each class was named leader of their [order](https://wowpedia.fandom.com/wiki/Class_Order "Class Order").
-
+1   ^
 ## Background
-
-Adventurers fighting xref:Magtheridon.adoc[Magtheridon].
-
-“It is my honor to provide for adventurers, for they are heroes in the making.”
-
-— xref:Mydrannul.adoc[Mydrannul], [Darnassian](https://wowpedia.fandom.com/wiki/Darnassus "Darnassus") vendor
-
-In the aftermath of the xref:ThirdWar.adoc[Third War], xref:Azeroth.adoc[Azeroth]'s troubles began multiplying at a rapid pace as the malevolent [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") subtly incited chaos and local conflicts to weaken the world's nations. It was not the heroes of past wars who rose up to face the emerging threats; it was the ordinary citizens of Azeroth. Some fought for adventure or glory, while others fought for profit or the opportunity to seek vengeance against a hated faction. Some traveled alone, while others formed mighty xref:Guild.adoc[Guild] to work together against the darkness. As the years passed, these extraordinary champions were called upon to do the impossible. Without them, Azeroth would surely have succumbed to evil.
+In the aftermath of the xref:ThirdWar.adoc[Third War], xref:Azeroth.adoc[Azeroth]'s troubles began multiplying at a rapid pace as the malevolent xref:OldGod.adoc[OldGod]s subtly incited chaos and local conflicts to weaken the world's nations. It was not the heroes of past wars who rose up to face the emerging threats; it was the ordinary citizens of Azeroth. Some fought for adventure or glory, while others fought for profit or the opportunity to seek vengeance against a hated faction. Some traveled alone, while others formed mighty xref:Guild.adoc[Guild] to work together against the darkness. As the years passed, these extraordinary champions were called upon to do the impossible. Without them, Azeroth would surely have succumbed to evil.
 
 The adventurers mostly come from the two largest factions on Azeroth, the xref:Horde.adoc[Horde] and xref:Alliance.adoc[Alliance]. Death knights are part of the xref:KnightsOfTheEbonBlade.adoc[Knights of the Ebon Blade] and demon hunters the xref:Illidari.adoc[Illidari], though some of them also retain their allegiance to their former faction. As such, most adventurers are from the races composing these factions. Adventurers are mostly loyal to their faction, xref:Horde.adoc[Horde], xref:Alliance.adoc[Alliance], or the Ebon Blade and the Illidari, and will quickly respond when they hear the call to [war](https://wowpedia.fandom.com/wiki/Battleground "Battleground"). However, some of them have also worked for other neutral organizations as well, such as the xref:ArgentDawn.adoc[Argent Dawn] or the xref:SteamwheedleCartel.adoc[Steamwheedle Cartel], usually for [gold](https://wowpedia.fandom.com/wiki/Money "Money") or other rewards.
 

@@ -10,7 +10,7 @@ Clockwise from top left: [The Prophet Skeram](https://wowpedia.fandom.com/wiki/T
  |
 | Main leader |
 
-[Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God"):
+xref:OldGod.adoc[OldGod]:
 
 -     ![](https://static.wikia.nocookie.net/wowpedia/images/3/36/IconSmall_OldGod.gif/revision/latest/scale-to-width-down/16?cb=20221014224415) ![](https://static.wikia.nocookie.net/wowpedia/images/a/a0/IconSmall_GiantEye.gif/revision/latest/scale-to-width-down/16?cb=20211202113305)[C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun") (passive)
 -     ![](https://static.wikia.nocookie.net/wowpedia/images/b/b2/IconSmall_Yogg-Saron.gif/revision/latest/scale-to-width-down/16?cb=20210410185326) ![](https://static.wikia.nocookie.net/wowpedia/images/0/0f/IconSmall_Vrykul_Female.gif/revision/latest/scale-to-width-down/16?cb=20211118110354)xref:YoggSaron.adoc[Yogg-Saron] (passive)
@@ -274,7 +274,7 @@ More Old Gods exist beyond those four known on Azeroth, but it takes significant
 
 ### Allies
 
--   [![IconSmall Illidan.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_Illidan.gif/revision/latest?cb=20211211102517) By allying with [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") through [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"), [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") and [his forces](https://wowpedia.fandom.com/wiki/Illidari "Illidari") can be considered allies (indirect or not) of the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God").
+-   [![IconSmall Illidan.gif](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/wowpedia/images/d/d5/IconSmall_Illidan.gif/revision/latest?cb=20211211102517) By allying with [Queen Azshara](https://wowpedia.fandom.com/wiki/Queen_Azshara "Queen Azshara") through [Illidan's Naga](https://wowpedia.fandom.com/wiki/Illidan%27s_Naga "Illidan's Naga"), [Illidan](https://wowpedia.fandom.com/wiki/Illidan_Stormrage "Illidan Stormrage") and [his forces](https://wowpedia.fandom.com/wiki/Illidari "Illidari") can be considered allies (indirect or not) of the xref:OldGod.adoc[OldGod].
 
 ### Former allies
 
@@ -348,7 +348,7 @@ xref:Chogall.adoc[Cho'gall], mortal follower of the Old Gods and leader of the [
 
 | Faction | Titanic ordering of Azeroth | Post-titanic xref:Azeroth.adoc[Azeroth] until [War of the Ancients](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") | Post-[WotA](https://wowpedia.fandom.com/wiki/War_of_the_Ancients "War of the Ancients") and [Before Dark Portal](https://wowpedia.fandom.com/wiki/BDP "BDP") | [After Dark Portal](https://wowpedia.fandom.com/wiki/ADP "ADP") and before [WoW](https://wowpedia.fandom.com/wiki/WoW "WoW") | [Ahn'Qiraj War](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_War "Ahn'Qiraj War") to [War Against the Nightmare](https://wowpedia.fandom.com/wiki/War_Against_the_Nightmare "War Against the Nightmare") | xref:CataclysmEvent.adoc[cataclysm] to [war in Draenor](https://wowpedia.fandom.com/wiki/War_in_Draenor "War in Draenor") | xref:ThirdInvasionOfTheBurningLegion.adoc[Third invasion of the Burning Legion] | [Fourth War](https://wowpedia.fandom.com/wiki/Fourth_War "Fourth War") | Unknown future | Current status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") | \- | Created but corrupted by the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") and joins [N'Zoth's forces](https://wowpedia.fandom.com/wiki/N%27Zoth%27s_forces "N'Zoth's forces") | \- | \- | \- | Defeated and destroyed | \- | \- | \- | Destroyed |
+| [Black dragonflight](https://wowpedia.fandom.com/wiki/Black_dragonflight "Black dragonflight") | \- | Created but corrupted by the xref:OldGod.adoc[OldGod] and joins [N'Zoth's forces](https://wowpedia.fandom.com/wiki/N%27Zoth%27s_forces "N'Zoth's forces") | \- | \- | \- | Defeated and destroyed | \- | \- | \- | Destroyed |
 | [Empire of Nazjatar](https://wowpedia.fandom.com/wiki/Nazjatar_Empire "Nazjatar Empire") | \- | \- | Created, joined [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth"), but remained silent | Finally emerged to surface | \- | Defeated, still active | \- | Defeated again | \- | Unknown |
 | [Emerald Nightmare](https://wowpedia.fandom.com/wiki/Emerald_Nightmare "Emerald Nightmare") | \- | \- | \- | \- | Created, turned on a serious threat to xref:Azeroth.adoc[Azeroth] but defeated and sealed | \- | Broke the seal, but defeated again | \- | \- | Defeated |
 | [Kingdom of Ahn'Qiraj](https://wowpedia.fandom.com/wiki/Kingdom_of_Ahn%27Qiraj "Kingdom of Ahn'Qiraj") | \- | Created and joined C'Thun's forces | \- | [Imprisoned](https://wowpedia.fandom.com/wiki/War_of_the_Shifting_Sands "War of the Shifting Sands") | [Defeated and destroyed](https://wowpedia.fandom.com/wiki/Ahn%27Qiraj_War "Ahn'Qiraj War") | \- | \- | \- | \- | Fallen |
@@ -378,7 +378,7 @@ xref:Chogall.adoc[Cho'gall], mortal follower of the Old Gods and leader of the [
  |
 | --- |
 |  |
-| [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") |
+| xref:OldGod.adoc[OldGod] |
 
 -   [C'Thun](https://wowpedia.fandom.com/wiki/C%27Thun "C'Thun")
 -   [N'Zoth](https://wowpedia.fandom.com/wiki/N%27Zoth "N'Zoth")

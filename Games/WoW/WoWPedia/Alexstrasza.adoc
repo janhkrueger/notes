@@ -504,7 +504,7 @@ _Main article: [Battle of Life and Death#Notes](https://wowpedia.fandom.com/wiki
 
 **Bronze Drake yells:** The [Aspects](https://wowpedia.fandom.com/wiki/Aspect "Aspect")!
 
-**Alexstrasza yells:** Come sister, it is time to end this, We will cleanse the Dragon Soul from the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") dark influence!
+**Alexstrasza yells:** Come sister, it is time to end this, We will cleanse the Dragon Soul from the xref:OldGod.adoc[OldGod] dark influence!
 
 A dark force from within the Dragon Soul reacts violently to the cleansing!
 

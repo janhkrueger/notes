@@ -42,7 +42,7 @@ The elementals raged freely on primordial xref:Azeroth.adoc[Azeroth], waging war
 
 Map of Azeroth under the Black Empire's control.
 
-When the [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God") plummeted down from the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), they slammed into Azeroth's surface and embedded themselves in the continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)"). For the first time in history, the four Elemental Lords banded together in an attempt to fight the Old Gods' fledgling empire. Though the elementals were mighty, they could not stand against the constant swarm of [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") and [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir"), and they were enslaved by the Old Gods.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-17">[17]</a></sup> Without the native spirits of Azeroth to counter the Old Gods' influence, the borders of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") crept over much of the world.<sup id="cite_ref-Chronicle28_16-1"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-Chronicle28-16">[16]</a></sup>
+When the xref:OldGod.adoc[OldGod] plummeted down from the [Great Dark Beyond](https://wowpedia.fandom.com/wiki/Great_Dark_Beyond "Great Dark Beyond"), they slammed into Azeroth's surface and embedded themselves in the continent of [Kalimdor](https://wowpedia.fandom.com/wiki/Kalimdor_(landmass) "Kalimdor (landmass)"). For the first time in history, the four Elemental Lords banded together in an attempt to fight the Old Gods' fledgling empire. Though the elementals were mighty, they could not stand against the constant swarm of [n'raqi](https://wowpedia.fandom.com/wiki/N%27raqi "N'raqi") and [aqir](https://wowpedia.fandom.com/wiki/Aqir "Aqir"), and they were enslaved by the Old Gods.<sup id="cite_ref-17"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-17">[17]</a></sup> Without the native spirits of Azeroth to counter the Old Gods' influence, the borders of the [Black Empire](https://wowpedia.fandom.com/wiki/Black_Empire "Black Empire") crept over much of the world.<sup id="cite_ref-Chronicle28_16-1"><a href="https://wowpedia.fandom.com/wiki/Elemental#cite_note-Chronicle28-16">[16]</a></sup>
 
 [![](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest/scale-to-width-down/180?cb=20160219182734)](https://static.wikia.nocookie.net/wowpedia/images/0/00/Chronicle_Titan-forged_v_Elemental_Lords.jpg/revision/latest?cb=20160219182734)
 
@@ -435,7 +435,7 @@ Warcraft cosmos
 | Manifestations |
 
 -   [Naaru](https://wowpedia.fandom.com/wiki/Naaru "Naaru")
--   [Void Lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and [Old Gods](https://wowpedia.fandom.com/wiki/Old_God "Old God")
+-   [Void Lords](https://wowpedia.fandom.com/wiki/Void_lord "Void lord") and xref:OldGod.adoc[OldGod]
 -   [Wild Gods](https://wowpedia.fandom.com/wiki/Wild_God "Wild God")
 -   [Eternal Ones](https://wowpedia.fandom.com/wiki/Eternal_Ones "Eternal Ones") and [undead](https://wowpedia.fandom.com/wiki/Undead "Undead")
 -   [Titans](https://wowpedia.fandom.com/wiki/Titan "Titan") and [Keepers](https://wowpedia.fandom.com/wiki/Keeper "Keeper")
