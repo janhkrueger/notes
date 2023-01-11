@@ -1,0 +1,22 @@
+= DraenorShipyardSetup
+
+
+Undead Battleship - Swift, Minelayer
+Undead Battleship - First Strike, Evasive
+Pandaren Battleship - First Strike, Swift
+Undead Carrier - Icy Water, Minelayer
+Pandaren Carrier - First Strike, Evasive
+Pandaren Carrier - Swift, Evasive
+Undead Destroyer - Swift, Minelayer
+Murloc Destroyer - First Strike, Evasive
+Undead Submarine - Stormy Weather, Swift
+Undead Submarine - Minelayer, Evasive
+With these 10 ships, this is what you get:
+Total Missions Simulated: 89
+Missions below 90%: 0
+Missions at 100%: 70 out of 89 (78.65%)
+Average Success %: 98.47
+Lowest Success %: 90
+
+
+Source: comment by user "NirXY" on this wowhead link: wowhead.com/guide/garrisons/shipyard
