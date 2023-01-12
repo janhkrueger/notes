@@ -1,22 +1,32 @@
-= DraenorShipyardSetup
+= Warlords of Draenor Shipyard Guide
+
+== Schiffausstattung
+
+[options="header"]
+|========================================================================================================================================================================================================================================
+| Crew | Schiffstyp | Fertigkeit 1 | Fertigkeit 2
+| Untote | Schlachtschiff | Swift | Minelayer
+| Untote | Schlachtschiff | First Strike | Evasive
+| Pandaren | Schlachtschiff | First Strike | Swift
+| Untote | Träger | Icy Water | Minelayer
+| Pandaren | Träger | First Strike | Evasive
+| Pandaren | Träger | Swift | Evasive
+| Undead | Zerstörer | Swift | Minelayer
+| Murloc | Zerstörer | First Strike | Evasive
+| Untote | U-Boot | Stormy Weather | Swift
+| Untote | U-Boot | Minelayer | Evasive
+|========================================================================================================================================================================================================================================
 
 
-Undead Battleship - Swift, Minelayer
-Undead Battleship - First Strike, Evasive
-Pandaren Battleship - First Strike, Swift
-Undead Carrier - Icy Water, Minelayer
-Pandaren Carrier - First Strike, Evasive
-Pandaren Carrier - Swift, Evasive
-Undead Destroyer - Swift, Minelayer
-Murloc Destroyer - First Strike, Evasive
-Undead Submarine - Stormy Weather, Swift
-Undead Submarine - Minelayer, Evasive
-With these 10 ships, this is what you get:
-Total Missions Simulated: 89
-Missions below 90%: 0
-Missions at 100%: 70 out of 89 (78.65%)
-Average Success %: 98.47
-Lowest Success %: 90
+Mit diesen Schiffen werden folgende Ergebnisse erzielt.
 
+|========================================================================================================================================================================================================================================
+| Simulierte Missionen | 89
+| Mission unter 90% | 0
+| Mission auf 100% | 70 von 89 (78.65%)
+| Durchschnittliche Erfolgsrate % | 98.47
+| Niedrigste Erfolgsrate % | 90
 
-Source: comment by user "NirXY" on this wowhead link: wowhead.com/guide/garrisons/shipyard
+|========================================================================================================================================================================================================================================
+
+Source: comment by user "NirXY" on this https://www.wowhead.com/guide/garrisons/shipyard#crew-other-crews[Wowhead Warlords of Draenor Shipyard Guide]
