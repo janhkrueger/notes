@@ -1,0 +1,190 @@
+# Secret Garrison NPCs
+
+Garrisons are one of the main features of Warlords of Draenor, where players gather resources, construct buildings, recruit followers and prepare their army to stand against their enemies.
+
+To customize your Garrison and give it some flavor, you can recruit several **Secret NPCs** throughout Draenor.
+
+In this guide we'll go over all the Secret NPCs which are broken down by zone, mention if the NPCs are Horde or Alliance only, and list fun facts about recruiting them!
+
+___
+
+## Shadowmoon Valley
+
+#### [Squiggy](https://www.wowdb.com/npcs/87849-squiggy)
+
+How to unlock: This Alliance only NPC will show in your Garrison after having done some of the very first accessible quests of Shadowmoon Valley.
+
+-   Take the quest [A Hero's Welcome](https://www.wowdb.com/quests/33075-a-heros-welcome) from Yrel, and after that pick up [Think of the Children!](https://www.wowdb.com/quests/33070-think-of-the-children)
+-   While on this quest, find Ariaana whom will give you a quest to save her baby fey dragon: [In Need of a Hero](https://www.wowdb.com/quests/33813-in-need-of-a-hero).
+-   Complete this quest, then deliver [Think of the Children!](https://www.wowdb.com/quests/33070-think-of-the-children), and you will have a fey dragon to pet when returning home!
+
+Fun fact: If you pet Squiggy then the fey dragon will follow you around the Garrison.
+
+You can use the following macro to see if you have completed the quests:
+
+`/script print(C_QuestLog.IsQuestFlaggedCompleted(33070))   /script print(C_QuestLog.IsQuestFlaggedCompleted(33813))`
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Squiggy-Fey-Dragon-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Squiggy-Fey-Dragon-Garrison-NPC.jpg)
+
+#### [Jarrod Hamby](https://www.wowdb.com/npcs/84285-jarrod-hamby)
+
+How to unlock: This Alliance only NPC will show in your Garrison after you have completed several quests in Shadowmoon Valley.
+
+-   You must complete [The Fate of Karabor](https://www.wowdb.com/quests/33059-the-fate-of-karabor) and [Escape From Shaz'gul](https://www.wowdb.com/quests/33081-escape-from-shazgul) to pick up the quests required for Jarrod Hamby.
+-   Pick up the quest [Lost Lumberjacks](https://www.wowdb.com/quests/34820-lost-lumberjacks) and complete it.
+-   The quest will lead up to the [Gloomshade Grove](https://www.wowdb.com/quests/33263-gloomshade-grove) questline, complete it and you will have a ghost to haunt your garrison!
+
+Fun fact: Jarrod Hamby is the deceased husband of your follower Shelly Hamby!
+
+You can use the following macro to see if you have completed the quests:
+
+`/script print(C_QuestLog.IsQuestFlaggedCompleted(34820))   /script print(C_QuestLog.IsQuestFlaggedCompleted(33263))`
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Jarrod-Hamby-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Jarrod-Hamby-Garrison-NPC.jpg)
+
+## Frostfire Ridge
+
+#### [Guh](https://www.wowdb.com/npcs/80285-guh)
+
+How to unlock: Simply go to him in Frostfire Ridge and speak to him. You will have multiple options, simply bribe him (it's 10 copper), and he will show up in your Garrison from time to time.
+
+`/way Frostfire Ridge 37.4 60.2`
+
+Fun fact: He sells [Gas-Powered Stick](https://www.wowdb.com/items/119430-gas-powered-stick) which is a reference to an episode of [Bravest Warriors](http://en.wikipedia.org/wiki/Bravest_Warriors).
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Guh-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Guh-Garrison-NPC.jpg)
+
+#### [Snowpaw](https://www.wowdb.com/npcs/79749-snowpaw)
+
+How to unlock: This Horde only NPC will be unlocked by finishing a 2 quest questline.
+
+-   [A Proper Parting](https://www.wowdb.com/quests/33125-a-proper-parting)
+-   [Gut Guttra](https://www.wowdb.com/quests/33132-gut-guttra)
+
+Fun fact: Snowpaw will be running happily around your Garrison, but if you have pet menagerie you will find Snowpaw there sitting down.
+
+You can use the following macro to see if you have completed the quests:
+
+`/script print(C_QuestLog.IsQuestFlaggedCompleted(33125))   /script print(C_QuestLog.IsQuestFlaggedCompleted(33132))`
+
+ [![](https://warcraft-secrets.com/wp-content/uploads/Snowpaw-Garrison-NPC-Image-1.jpg)](https://warcraft-secrets.com/wp-content/uploads/Snowpaw-Garrison-NPC-Image-1.jpg) [![](https://warcraft-secrets.com/wp-content/uploads/Snowpaw-Garrison-NPC-Image-2.jpg)](https://warcraft-secrets.com/wp-content/uploads/Snowpaw-Garrison-NPC-Image-2.jpg)
+
+## Gorgrond
+
+#### [Peckers the Majestic](https://www.wowdb.com/npcs/83705-peckers-the-majestic)
+
+How to unlock: All you've gotta do is free this majestic creature from his cage inside Kor'gall's Hovel. When you enter the cave go left and you'll find Peckers inside a cage.
+
+`/way Gorgrond 38.6 67.4 cave entrance`
+
+Fun fact: If you pet him, he'll show his gratitude ... by attacking you and running away, but staying within the garrison, and angrily stare at you from a distance. Love hurts.
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Peckers-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Peckers-Garrison-NPC.jpg)
+
+#### [Rooter the Ravenous](https://www.wowdb.com/npcs/77587-rooter-the-ravenous)
+
+How to unlock: Simply find him, feed and free him by completing his quest [Rooter the Ravenous](https://www.wowdb.com/quests/33633-rooter-the-ravenous). Doing so will get you a nice little piggy in your garrison.
+
+You can use the following script to see if you have completed the quest:
+
+`/script print(C_QuestLog.IsQuestFlaggedCompleted(33633))`
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Rooter-the-Ravenous-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Rooter-the-Ravenous-Garrison-NPC.jpg)
+
+#### [Sappy](https://www.wowdb.com/npcs/85362-sappy)
+
+How to Unlock: Go to his location in Gorgrond, feed him and he'll run away. When you return back to the Garrison you'll find him at the Herb Garden.
+
+`/way Gorgrond 62.8 63.2`
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Sappy-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Sappy-Garrison-NPC.jpg)
+
+#### [Birchus](https://www.wowdb.com/npcs/87871-birchus)
+
+How to unlock as Horde:
+
+-   If you've chosen Lumber Mill, you will have the quest [Shredder vs. Saberon](https://www.wowdb.com/quests/36439-shredder-vs-saberon)
+-   If you have the Sparring Arena you will have [Beatface vs. Boulder](https://www.wowdb.com/quests/36438-beatface-vs-boulder).
+-   Both of these quests lead to [Ambassador to the Ancient](https://www.wowdb.com/quests/33685-ambassador-to-the-ancient), [Steamscar "Reagents"](https://www.wowdb.com/quests/33661-steamscar-reagents), and then eventually [Taking the Death Bloom](https://www.wowdb.com/quests/36442-taking-the-death-bloom), having done these quests he should be wandering around in your Horde garrison!
+
+How to unlock as Alliance:
+
+-   Start the quest [Ambassador to the Ancient](https://www.wowdb.com/quests/36437-ambassador-to-the-ancient).
+-   This will lead you to quests similar as the Horde ones, which you'll have to complete.
+-   The last quest in the series is [Laying Dionor to Rest](https://www.wowdb.com/quests/33706-laying-dionor-to-rest).
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Birchus-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Birchus-Garrison-NPC.jpg)
+
+## Spires of Arak
+
+#### [Reshad](https://www.wowdb.com/npcs/87856-reshad) and [Percy](https://www.wowdb.com/npcs/87859-percy)
+
+How to unlock: Simply complete all of the Spires of Arak quests and the achievement: [Between Arak and a Hard Place](https://www.wowdb.com/achievements/8925-between-arak-and-a-hard-place).
+
+Reshad and his companion, Percy will then show once in a while in your Garrison.
+
+Fun fact: Percy is an inscription merchant that sells a few inscription supplies.
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Reshad-and-Percy.jpg)](https://warcraft-secrets.com/wp-content/uploads/Reshad-and-Percy.jpg)
+
+#### [Tickle Bubblefizz](https://www.wowdb.com/npcs/87868-tickle-bubblefizz)
+
+How to unlock: Complete the [Admiral Taylor](https://www.wowdb.com/quests/35482-admiral-taylor) (Alliance) / [Admiral Taylor](https://www.wowdb.com/quests/36183-admiral-taylor) (Horde) quest in Spires of Arak.
+
+Fun fact: Tickle Bubblefizz sells a multitude of beverages.
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Tickle-Bubblefizz-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Tickle-Bubblefizz-Garrison-NPC.jpg)
+
+## Nagrand
+
+#### [Hemet Nesingwary](https://www.wowdb.com/npcs/87920-hemet-nesingwary)
+
+How to unlock: The best way any companion can be gained, simply go to him in Nagrand, drink some of his beer and have a chat with him. Doing so will open up for him paying a visit to your garrison!
+
+`/way Nagrand:Draenor 86.2 46.3`
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Hemet-Nesingwary-Garrison-NPC.jpg)](https://warcraft-secrets.com/wp-content/uploads/Hemet-Nesingwary-Garrison-NPC.jpg)
+
+#### [Caregiver Felaani](https://www.wowdb.com/npcs/87912-caregiver-felaani) and [Isel](https://www.wowdb.com/npcs/87913-isel)
+
+How to unlock: For these Alliance only NPCs you will have to start the Nagrand introduction quest, [News from Nagrand](https://www.wowdb.com/quests/36601-news-from-nagrand), and then complete the 8th quest in the line, [The Others](https://www.wowdb.com/quests/34718-the-others).
+
+You can use the following macro to see if you have completed the quests:
+
+`/script print(C_QuestLog.IsQuestFlaggedCompleted(36601))   /script print(C_QuestLog.IsQuestFlaggedCompleted(34718))`
+
+Fun fact: [Isel](https://www.wowdb.com/npcs/87913-isel) (the daughter), can be found as grown up in Outland Nagrand, as [Caregiver Isel](https://www.wowdb.com/npcs/18914-caregiver-isel)!
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Caregiver-Felaani-and-Isel-Garrison-NPCs.jpg)](https://warcraft-secrets.com/wp-content/uploads/Caregiver-Felaani-and-Isel-Garrison-NPCs.jpg)
+
+#### [Shadow Hunter Maloa](https://www.wowdb.com/npcs/87908-shadow-hunter-maloa), [Shadow Hunter Spar'kuhl](https://www.wowdb.com/npcs/87909-shadow-hunter-sparkuhl) and [Shadow Hunter J'wan](https://www.wowdb.com/npcs/87907-shadow-hunter-jwan)
+
+How to unlock: Start the [Target of Opportunity: Telaar](https://www.wowdb.com/quests/34914-target-of-opportunity-telaar) questline, and then complete [The Blessing of Samedi](https://www.wowdb.com/quests/34916-the-blessing-of-samedi).
+
+You can use the following macro to see if you have completed the quests:
+
+`/script print(C_QuestLog.IsQuestFlaggedCompleted(34914))   /script print(C_QuestLog.IsQuestFlaggedCompleted(34916))`
+
+Fun fact: Even though they're all here dead, one of them, [Shadow Hunter Spar'kuhl](https://www.wowdb.com/npcs/112591-shadow-hunter-sparkuhl) can actually be found later on in Durotar during Legion, kneeling at Vol'jin's funeral!
+
+Note: Not all Shadow Hunters may appear dancing at the same time.
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Shadow-Hunters-Garrison-NPCs.jpg)](https://warcraft-secrets.com/wp-content/uploads/Shadow-Hunters-Garrison-NPCs.jpg)
+
+## Miscellaneous
+
+### Dog
+
+You can get [Dog](Dog.md) - your loyal companion from Valley of the Four Winds - to show up in your Garrison by completing the quest [Lost and Lonely](https://www.wowdb.com/quests/30526-lost-and-lonely).
+
+For more info about this lovely companion and how to also make him show up in the Pet Menagerie visit our guide about [Dog](Dog.md) in the [Secrets Database](https://warcraft-secrets.com/secrets).
+
+[![](https://warcraft-secrets.com/wp-content/uploads/Dog.jpg)](Dog.md)
+
+### Pepe
+
+Pepe is one of the most beloved and faithful companions in World of Warcraft. Added in Warlords of Draenor, he quickly took over our hearts and became a little celebrity. Nowadays, rarely anyone chooses to venture into new content alone, and with [Pepe](https://www.wowdb.com/spells/181943-pepe), you've got a friend with you all the time!
+
+For both Horde and Alliance players, Pepe can be found in the first tree on the left after exiting the main building in the Level 3 Garrison. When interacting with him, you will get a 1 hour buff that reads "You've got a friend!" which is adorable on its own. Pepe will sit on your head for that duration, or until you die. If that happens, you can go back to your Garrison and find him in the same tree. His respawn time is around 5 minutes.
+
+For more info about this lovely companion and how to unlock his costumes, and how to get his toys and achievements visit our guide about [Pepe](https://warcraft-secrets.com/guides/pepe) in the [Secrets Database](https://warcraft-secrets.com/secrets).
