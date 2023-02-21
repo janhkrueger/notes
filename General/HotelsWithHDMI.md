@@ -19,6 +19,9 @@
 ## Hamburg
 * Adina Apartment Hotel Hamburg Michl
 
+## Oberursel
+* Rilano Frankfurt
+
 ## Offenbach
 * Delta Hotel Marriott Frankfurt/Offenbach
 
