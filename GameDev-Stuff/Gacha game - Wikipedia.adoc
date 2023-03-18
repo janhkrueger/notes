@@ -1,0 +1,105 @@
+= Gacha game
+
+Gacha mechanics have been compared to those of loot boxes.
+
+:toc:
+
+A **_gacha_ game** (Japanese): ガチャ ゲーム, "Hepburn romanization"): _gacha gēmu_) is a video game that implements the gacha "Gashapon")_ (toy vending machine) mechanic. Similar to loot boxes, gacha games entice players to spend in-game currency to receive a random in-game item. Some in-game currency generally can be gained through game play, and some by purchasing it from the game publisher using real-world funds.
+
+Most implementors of the Gacha model are free-to-play (F2P) mobile games.
+
+The _gacha_ game model began to be widely used in the early 2010s, particularly in Japan. Most of the highest-grossing mobile games in Japan use it, and it has become an integral part of Japanese mobile game culture. The game mechanism is also increasingly used in Chinese and Korean games, as well as Western games. Despite their ubiquity, _gacha_ games have been criticized for being addictive, and are often compared to gambling due to the incentive to spend real-world money on chance-based rewards.
+
+== Model
+
+=== Rolling/pulling
+
+There are many collectable characters, cards, or other items (details will vary based on nature of game). Many of them are obtainable only through a "gacha" mechanic. In this, the player "pulls" or "spins" in a manner analogous to a slot machine or roulette wheel. In doing so they expend a fixed portion of a premium currency in exchange for receiving a random "drop" from the banner "rolled on". Some of the rewards drop less frequently than others. It is common for the schema of item rarities to be public information, dubbed "open gacha". It is common for there to be a rarity tier on around the order of appearing in one percent of rolls. Between this rarity and the commonality of limited-time availability of promoted gacha drops, players are encouraged to roll the _gacha_ while their desired item is available.
+
+==== Pity
+
+Some gacha models use a pity system: the player will be guaranteed an item after pulling for that item a large number of times without success. "Soft" pity increases the probability slightly of getting a rare item with every pull, counting up and recalculating the probability until the rare item is received, while "hard" pity uses a counter to keep track of the number of pulls and automatically dispense the rare item after reaching a preset number of rolls.
+
+=== In-game currency
+
+Games can include multiple in-game currencies with complex schemes for converting between them. This makes it more difficult for the player to model the dollar cost of a unit of a currency that isn't the "premium" one.
+
+It is commonly possible to get the "premium" (obtained with real money) currency through gameplay, albeit in rigorously limited quantities.
+
+=== Virtual item
+
+Many kinds of virtual items can be in the loot table for a banner. Gameplay units such as cards, characters, equippable gear, or more abstract loot such as "experience" are all possible.
+
+=== Login and task rewards
+
+In many games, _gacha_ rewards are essential for players to make progress in the game. Players are generally given free or discounted _gachas_ in low amounts on a regular schedule, in exchange for logging in or doing in-game tasks.
+
+== Common mechanics
+
+=== Banners
+
+Banners are "pools" of available items (characters, loot, cards, etc) that players can "roll" on. Offered banners can be perpetually available or can have a limited duration. Games generally have some of both, with player retention efforts and in-game advertising emphasizing the limited availability (FOMO) of some or all of the items in the latter.
+
+==== Limited banners
+
+Sometimes, these banners are limited, such that specific prizes can only be obtained within a specific event time-frame.
+
+=== Stamina
+
+Stamina is a resource that is required for, and consumed by, core in-game actions such as (in a fighting-oriented game) beginning combat encounters. It regenerates over time, often up to a cap. It can typically be regenerated or gained instantly through some form of microtransaction or premium currency spending.
+
+== Variations
+
+[cols="1,1"]
+|===
+|Mechanic | Description
+
+| Complete _gacha_
+| "Complete _gacha_" (コンプリートガチャ), also shortened as "kompu gacha" or "compu gacha" (コンプガチャ), was a monetization model popular in Japanese mobile phone video games until 2012, when it was found to be illegal by Japan's Consumer Affairs Agency. Players roll in attempt to "complete" a set of common items from particular loot pool in order to unlock a rare item. The first few items in a set can be rapidly acquired but as the number of missing items decreases it becomes increasingly unlikely that redeeming a loot box will complete the set . This is particularly true if there are a large number of common items in the game, since eventually one single, specific item is required.
+
+| Box _gacha_
+| There is a set of items in specific quantities; this is the "box". The player rolls for items in the box; rolled items are deducted from the item amounts remaining in the box. As a result, over successive rolls, the set of possible "draws" shrinks until the player has all of the items. Its popularity grew around the time that the complete _gacha_ controversy was becoming publicized.
+
+| Redraw _gacha_
+| Redraw _gacha_ allows the player to "re-roll" the _gacha_, returning their drawn item in exchange for another opportunity to draw, so as to potentially get something else. Some games offer this feature for free. In games that offer some free _gacha_ rolls at the start, beginning players may "re-roll" by creating new accounts and doing the starter rolls on each until they get the draws they want.
+
+| Consecutive _gacha_
+| Consecutive _gacha_ improves the chances of receiving rare rewards when the player spends in bulk. As opposed to spending a set amount for individual rolls, a player can spend a larger amount in order to roll several times in a row for a slightly discounted price.
+
+| Step-up _gacha_
+| The player's rates are improved for each consecutive roll or instance of spending within a single session or a limited time period (e.g. five checkpoints; must roll five times or spend five times within half an hour to get the rewards for step one, two, three, four, and five in succession.)
+
+| Open versus closed _gacha_
+| _Gacha_ that show (open) versus hide (closed) the exact probabilities of pulling rare items.
+
+| Sugoroku _gacha_
+| Sugoroku (literally "double six") "game board" gacha involve moving around on a virtual game board to obtain rewards. Generally movement is performed by rolling dice and the dice rolls can be directly or indirectly accrued through rolling.
+|===
+
+
+== Appeal
+
+Game developers have praised _gacha_ as a free-to-play monetization strategy. Most developers that work primarily with free-to-play games recommend it be incorporated into the game starting with the concept for maximum monetization potential.
+
+It has been debated what makes _gacha_ so addictive to so many players. Proposed mechanisms include playing on the hunter-gatherer instinct to collect items, as well as the desire to complete a set, effective use of the "fear of missing out (FOMO)", or, simply the same mechanisms that drive gambling.
+
+The model of _gacha_ has been compared to that of collectible trading card games as well as to gambling.
+
+=== Whales
+
+An aspect of monetisation commonly found in the financing of _gacha_ games involves a model where a large part of the game's revenue comes from a very small proportion of players who spend an unusually large amount of money on _gacha_ rolls, essentially subsidising the game for other players who may spend smaller amounts of money, or even free-to-play players that spend no money at all. The high-spending players are often colloquially referred to as "whales".
+
+== Criticism and controversy
+
+=== Resemblance to gambling
+
+In May 2012, an article was published in a conservative Japanese newspaper, the Yomiuri Shimbun, that criticized social networking games and specifically _gacha_ for exploiting the naivety of children to make a profit. The main complaint of the article was that the _gacha_ model too closely resembled gambling. The paper called for an investigation by Japan's Consumer Affairs Agency to prevent abuse of the system. Several cases of teenagers and even younger kids spending equivalents of over US$1000 have been reported in the media.
+
+Shortly after, the suggested investigation was performed and the model of complete _gacha_ was declared illegal by the Consumer Affairs Agency, citing the Law for Preventing Unjustifiable Extras or Unexpected Benefit and Misleading Representation, The Consumer Affairs Agency stated that virtual items could be considered "prizes" under existing legislation written in 1977 to prevent the complete _gacha_ practice in the context of baseball trading cards. Within a month of the statement being issued, all major Japanese game publishers had removed complete _gacha_ rules from their games, though many developers found ways around this. In addition, several lawsuits were launched in Japan against companies selling gacha products, leading to temporary decrease in their stock market value by almost a quarter. Japanese mobile game developers, including GREE and DeNA, worked to establish a self-regulating industry group, the Japan Social Game Association, which was an attempt to push developers from these models, but it did not prove successful, and the Association was disbanded by 2015.
+
+The mechanism has come under scrutiny for its similarity to gambling, and some countries require drop rates to be made public, or have banned certain practices (e.g., complete _gacha_). Many players also feel regret after making purchases in these games according to a survey. This type of game has also come under criticism for luring players into spending thousands of dollars at a time to get what they want, and the way _gacha_ outcomes are presented within the game have also been criticized.
+
+Children are likely to be affected by the gambling-like mechanism since mobile devices provides easy access to payment; some game developers also intentionally introduce emotional manipulations and exploitive practices. A 2019 research paper has noted that "the gacha system has proven to be addictive and problematic" and speculated that the loopholes in the gacha system could be exploited for international money laundering.
+
+== Source
+https://en.wikipedia.org/wiki/Gacha_game
