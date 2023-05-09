@@ -5,14 +5,14 @@
 
 image::slidesimages/TravoltaWhatsHappening.gif[]
 
-== Solution One
+=== Solution One
 
 Writing applications without errors.
 
 
 (Narrator: Will never happen)
 
-== Solution Two
+=== Solution Two
 
 Pay others to write applications without errors.
 
@@ -20,7 +20,7 @@ Nice try. But Nope.
 
 (Narrator: No one will take the job and we don't have the money for this.)
 
-== Solution Three
+=== Solution Three
 
 Let someone check the app all around the clock.
 
@@ -28,7 +28,7 @@ Again: nice try. But people tend to need sleep, go on vacations, have bad days, 
 
 image::slidesimages/WatchingYouLol.jpeg[]
 
-== Solution Four
+=== Solution Four
 
 Automatic monitoring in a defined way.
 
@@ -39,8 +39,6 @@ image::slidesimages/ThisIsTheWay.jpeg[]
 image::slidesimages/WhatIsThisGoal.jpeg[]
 
 === Confidence
-
-
 
 === Transparency
 
@@ -88,6 +86,37 @@ What is happening on and with the hardware.
 === business: Solutions
 
 * DynaTrace
+
+=== Security
+
+- <s>Do we have security issues?</s>
+- Where are our issues?
+
+=== Security: Solutions
+
+- Sonar
+- Tenable.IO
+
+=== Overview
+
+[plantuml, mindmap, svg]
+....
+@startmindmap
+* Monitoring
+** Infrastructure
+*** Zabbix
+*** Grafana
+*** Prometheus
+** Application
+*** Splunk
+*** DynaTrace
+** Business
+*** DynaTrace
+** Security
+*** Sonar
+*** Tenable.IO
+@endmindmap
+....
 
 == Today's focus
 
@@ -216,3 +245,7 @@ image::slidesimages/JustOneMoreThing.jpeg[]
 == Alerting!
 
 video::slidesimages/MinionsFireBeeDoo.mp4[opts="autoplay,controls", options=autoplay]
+
+
+[.questions]
+== !
