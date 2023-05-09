@@ -40,11 +40,21 @@ image::slidesimages/WhatIsThisGoal.jpeg[]
 
 === Confidence
 
+=== Confidence
+
+Our partners can trust us that we know what is happending.
+
 === Transparency
+
+It is public how we get to decisions and the why we do stuff. Or why not.
 
 === Visibility
 
+We do not hide the status of the company and share it with all who are interested in an easy accessible way.
+
 === Alerting
+
+We inform the right people in the right time in the case of an issue. With the right informations.
 
 
 == Or in other words
@@ -77,7 +87,7 @@ What is happening on and with the hardware.
 
 * Splunk
 * Grafana / Prometheus
-* DynaTrace (only CH and K2)
+* DynaTrace
 
 === business
 
@@ -117,6 +127,17 @@ What is happening on and with the hardware.
 *** Tenable.IO
 @endmindmap
 ....
+
+=== Spoiler
+
+image::slidesimages/SpoilerAlert.jpeg[]
+
+=== Spoiler
+
+- Future of DynaTrace is undecided.
+- Expensive and only partly used.
+- Currently in decision of K2 if it will used futher.
+- Possible decomissioning mid-year.
 
 == Today's focus
 
