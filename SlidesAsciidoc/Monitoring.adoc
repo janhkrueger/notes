@@ -56,11 +56,16 @@ We do not hide the status of the company and share it with all who are intereste
 
 We inform the right people in the right time in the case of an issue. With the right informations.
 
+=== Simply
+
+Know about an issue before the customer is phoning us.
 
 == Or in other words
 
 "With a good monitoring strategy in place, you’ll get better transparency and visibility into your operations with a well-timed alert system."
 -- Andreas Prins
+
+
 
 
 == "We need monitoring!"
@@ -150,13 +155,20 @@ image::slidesimages/SpoilerAlert.jpeg[]
 
 === Why?
 
+- data to analyze is growing exponentially.
+- more services, more log files.
+- bigger log files.
+- systems get to complex to be overviewed by just one person
+
+=== Why?
+
 - Policy Center alone runs in 7 servers.
 - The amount of log entries alone forbids to search manually in all files in a case of emergency to fast identify the source.
 - Get the data always in a structured way.
 
 === Why?
 
-SIP now consists of N services which write all their own logs.
+SIP now consists of 40 services which write all their own logs.
 
 Happy searching.
 
@@ -167,7 +179,13 @@ Already used and integration into the group since several years.
 
 === Why?
 
-A well known tool on the market, no own implementation.
+- A well known tool on the market, no own implementation.
+- Changes are getting higher that new colleagues already know it.
+
+=== Why?
+
+- Searches are done with a query language.
+- Those who can write SQL, can write Splunk queries.
 
 === Why?
 
@@ -196,7 +214,6 @@ Cyber attack in 2022 want's to have a word with you.
 
 image::slidesimages/InternetWantsToHaveAWordWithYou.jpeg[]
 
-
 === Solution
 
 * Take out the human factor regarding information collection.
@@ -206,16 +223,26 @@ image::slidesimages/InternetWantsToHaveAWordWithYou.jpeg[]
 == Usage in the group
 - Maintained from BITS
 - Available for all who whish to use it and want to pay the data usage.
-
-=== CH
-
-Widely used since over 6 years.
-
-=== DE
-
-First introduced in DE with the start of Guidewire and SIP  in 2019.
+- In DE introduced for GW and SIP in 2019.
 
 == What is possible?
+
+Wrong question.
+
+=== What is possible?
+
+video::slidesimages/WhatDoYouWant.mp4[opts="autoplay,controls", options=autoplay]
+
+=== What do you need to know?
+
+=== What do you need to know?
+
+Without the answer what you need to know, you will only have data storage wasted.
+
+=== What do you need to know?
+
+What are the metrics you need to make reliable, informed decisions?
+
 
 === Simple listing of log entries
 
