@@ -73,6 +73,7 @@ What is happening on and with the hardware.
 
 - What is happening inside the application.
 - What is the application doing?
+- Why is the application doing stuff?
 
 === application: Solutions
 
