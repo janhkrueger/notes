@@ -65,6 +65,18 @@ Know about an issue before the customer is phoning us.
 "With a good monitoring strategy in place, you’ll get better transparency and visibility into your operations with a well-timed alert system."
 -- Andreas Prins
 
+=== To transform this...
+
+image::slidesimages/TechSupport.jpeg[]
+
+=== ... over this ...
+
+image::slidesimages/ImOnTheCase.jpeg[]
+
+=== ... to this
+
+image::slidesimages/IThinkWeFoundYourProblem.jpeg[]
+
 
 
 
@@ -104,8 +116,8 @@ What is happening on and with the hardware.
 
 === Security
 
-- <s>Do we have security issues?</s>
-- Where are our issues?
+- Do we have security issues?
+- Where are these issues?
 
 === Security: Solutions
 
@@ -141,13 +153,12 @@ image::slidesimages/SpoilerAlert.jpeg[]
 
 - Future of DynaTrace is undecided.
 - Expensive and only partly used.
-- Currently in decision of K2 if it will used futher.
+- Currently in decision of K2 if it will used further.
 - Possible decomissioning mid-year.
 
 == Today's focus
 
-- Application montoring with Splunk with samples from K2 / SIP and others.
-- Also: short glimpse of an alerting Splunk to Teams.
+Application monitoring with Splunk with samples from K2, SIP and others.
 
 == Splunk
 
@@ -155,10 +166,10 @@ image::slidesimages/SpoilerAlert.jpeg[]
 
 === Why?
 
-- data to analyze is growing exponentially.
-- more services, more log files.
-- bigger log files.
-- systems get to complex to be overviewed by just one person
+- data to analyze is growing exponentially
+- more services, more log files
+- bigger log files
+- systems get too complex to be overviewed by just one person
 
 === Why?
 
@@ -217,8 +228,8 @@ image::slidesimages/InternetWantsToHaveAWordWithYou.jpeg[]
 === Solution
 
 * Take out the human factor regarding information collection.
-* Agree on a common way what an how to log.
-* Standardize the represenation in a fast and easy human readable form.
+* Agree on a common way what and how to log.
+* Standardize the representation in a fast and easy human readable form.
 
 == Usage in the group
 - Maintained from BITS
@@ -255,9 +266,9 @@ What are the metrics you need to make reliable, informed decisions?
 
 == How to use it
 
-* Let BITS / HCL the splunk log ingestor on your servers.
-* Defince a permission group for all your servers
-* Order the permission via DIM for all who need to see your logs.
+* Let BITS / HCL the splunk log ingestor on your servers
+* Define a permission group for all your servers
+* Order the permission via DIM for all who need to see your logs (LAS-compatible)
 
 == Let's go
 
@@ -292,7 +303,7 @@ image::slidesimages/JustOneMoreThing.jpeg[]
 
 == Alerting!
 
-video::slidesimages/MinionsFireBeeDoo.mp4[opts="autoplay,controls", options=autoplay]
+video::slidesimages/DangerWillRobinson.mp4[opts="autoplay,controls", options=autoplay]
 
 
 [.questions]
