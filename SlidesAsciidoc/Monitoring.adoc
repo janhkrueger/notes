@@ -40,8 +40,6 @@ image::slidesimages/WhatIsThisGoal.jpeg[]
 
 === Confidence
 
-=== Confidence
-
 Our partners can trust us that we know what is happending.
 
 === Transparency
@@ -121,29 +119,7 @@ What is happening on and with the hardware.
 
 === Security: Solutions
 
-- Sonar
-- Tenable.IO
-
-=== Overview
-
-[plantuml, mindmap, svg]
-....
-@startmindmap
-* Monitoring
-** Infrastructure
-*** Zabbix
-*** Grafana
-*** Prometheus
-** Application
-*** Splunk
-*** DynaTrace
-** Business
-*** DynaTrace
-** Security
-*** Sonar
-*** Tenable.IO
-@endmindmap
-....
+Tenable.IO, Sonar, Flexera, Flexera Agents, Nexthink, Zabbix, Tivoli Assed Directory, Nivoli Netcool, QRadar, Tanium, Vectra, Jazzey, NetView, Z/OS Health Checker, Console Operating, ZOSMF, Beta 92, Beta UX, MVS Syslog, EZABROWS, OPERLOG, JES Spool, UC4 Logs, PD Tools, GTF, VTAM Trace, SolarWinds
 
 === Spoiler
 
@@ -254,16 +230,6 @@ Without the answer what you need to know, you will only have data storage wasted
 
 What are the metrics you need to make reliable, informed decisions?
 
-
-=== Simple listing of log entries
-
-=== Draw a graph regarding incidents
-
-=== Send alarms
-
-* Email
-* Teams
-
 == How to use it
 
 * Let BITS / HCL the splunk log ingestor on your servers
@@ -278,24 +244,57 @@ What are the metrics you need to make reliable, informed decisions?
 
 [source,splunk]
 ----
-index=js_gwde_p error
+index="jserv-de_gw_p" error
 ----
 
-INSERT IMAGE
+image::slidesimages/Splunk-GW-Error.PNG[]
 
 === Search for user upload errors
 
-INSERT QUERY
+[source,splunk]
+----
+index="jserv-de_gw_*" host="svx-de-jbgwwar*" "com.guidewire.pl.system.exception.DBDuplicateKeyException:" "Error during import"
+| eval stage = CASE(index == "jserv-de_gw_t", "TEST", index == "jserv-de_gw_a", "ACCEPTANCE", index == "jserv-de_gw_i", "INTEGRATION", index == "jserv-de_gw_p", "PRODUCTION")
+| rex field=_raw (?<duplicate_user_english>has.value.*\.)
+| rex field=_raw (?<duplicate_user_german>hat.den.Wert.*\.)
+| eval duplicate_user_english=SUBSTR(duplicate_user_english, 11)
+| eval duplicate_user_german=SUBSTR(duplicate_user_german, 13)
+| table _time, stage, host, duplicate_user_english, duplicate_user_german
+| sort by _time desc
+----
 
-INSERT IMAGE
-
-=== Group Timeslot
+image::slidesimages/Splunk-GW-UserUpload.PNG[]
 
 === Trend
+
+image::slidesimages/Splunk-GW-PolicyHealth.PNG[]
+
+=== Trend
+
+[source,splunk]
+----
+index="jserv-de_gw_*" 
+|search source = "*log.log"
+|eval stage = CASE(index == "jserv-de_gw_t", "TEST", index == "jserv-de_gw_a", "ACCEPTANCE", index == "jserv-de_gw_i", "INTEGRATION", index == "jserv-de_gw_p", "PRODUCTION") 
+|search stage = "*PRODUCTION*"
+|eval source = SUBSTR(source, 35) 
+|eval stackapp = SUBSTR(source, 1, 6)
+|eval stack = SUBSTR(source, 1, 3)
+|eval stack = CASE(stack == "war", "Wartung", stack == "pe1", "Migration", stack == "pe2", "Time Travel", stack == "pe3", "Data Hub")
+|search stack = "*Wartung*"
+|eval app = SUBSTR(source, 4, 3)
+|eval app = CASE(app == "sip", "SIP - Service Integration Platform", app == "pcb", "Policy Center - Batch", app == "pco", "Policy Center - Online", app == "cmb", "Contact Manager - Batch", app == "cmo", "Contact Manager - Online", app == "ccb", "Claim Center - Batch", app == "cco", "Claim Center Online", app == "bcb", "Billing Center - Batch", app == "bco", "Billing Center - Online")
+|search app = "Policy Center - Online"
+|search RequestStatus IN ("DEBUG", "INFO", "WARN", "ERROR") 
+|timechart count by RequestStatus
+----
+
 
 === Save your query for later reusage
 
 === Organise several querys in a dashboard
+
+image::slidesimages/SplunkDashboards.PNG[]
 
 == Just one more thing
 
@@ -306,5 +305,22 @@ image::slidesimages/JustOneMoreThing.jpeg[]
 video::slidesimages/DangerWillRobinson.mp4[opts="autoplay,controls", options=autoplay]
 
 
-[.questions]
-== !
+=== Alerting
+
+- Mail
+- automated Jiratickets
+- Teams
+
+=== Teamsalerting
+
+image::slidesimages/SplunkTeamsAlarming2.PNG[]
+
+=== Teamsalerting
+
+image::slidesimages/SplunkTeamsAlarming2.PNG[]
+
+== What is necessary?
+
+- Time
+- Ideas
+- Permissions
