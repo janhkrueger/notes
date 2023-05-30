@@ -1,0 +1,26 @@
+:source-highlighter: highlight.js
+== Rasten
+
+aus der sw-Hilfe
+
+Deine Gruppe lässt sich nieder und versorgt ihre Wunden.
+
+Beim Rasten werden Lebensenergie und Manapunkte regeneriert und zusätzlich kann der Fortschritt von Krankheiten aufgehalten werden.
+
+=== Die Höhe der Lebens-Regeneration ist abhängig von
+
+Holz (je 1 pro Charakter)
+Fleisch (je 1 pro Charakter)
+Dem besten Heiler der Gruppe
+
+
+=== Die Höhe der Mana-Regeneration ist abhängig von
+
+Holz (je 1 pro Charakter)
+Fleisch (je 1 pro Charakter)
+
+=== Die Wahrscheinlichkeit des Verlangsamens einer Krankheit ist abhängig von
+
+Holz und Fleisch (beides muß vorhanden sein)
+Der Heilung der Gruppe
+Kann eine Krankheit verlangsamt werden, sinkt die Stufe der Krankheit um 1, bis auf minimal 0. Die entgültige Heilung muß ein Heiler durchführen.

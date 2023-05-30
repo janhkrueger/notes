@@ -1,0 +1,44 @@
+:source-highlighter: highlight.js
+== Gasthäuser
+
+In Gasthäusern können zum einen Magier ihren Intellekt und ihre Meditation üben, zum anderen kann man dort nach einem langen Kampf Lebenspunkte regenerieren und in besonderen Fällen kann man sich dort sogar ausloggen.
+
+=== Gasthäuser lohnend aufbauen
+
+Gasthäuser können viel Geld machen, wenn sie richtig positioniert und etwas ausgebaut sind. Am besten platziert man ein Gasthaus neben einem Monsternest, von dem man ausgehen kann, das es längerfristig existiert (also keine Ratten- oder Fliegen- Nester es sei denn, die eigene Nation hat diese Nester unter Schutz gestellt).
+
+=== Übernachtungen/ Essen & Trinken
+
+Beim Essen & Trinken werden einem lediglich LP und Mana aufgefüllt. Es hat keinerlei Traingswert für Magier, jedoch ist es recht günstig, da es nur 10 AP kostet. Es muss Brot, Bier und Fleisch eingelagert sein (1 pro Gruppe) um wirksam zu sein. Diese Waren werden beim Gasthausbenutzen verbraucht.
+Beim übernachten werden die HP und das Mana aufgefüllt und die Magier werden in Intellekt und Meditation trainiert. Jedoch kostet eine Übernachtung 50 AP. Im Gasthaus müssen Brot, Bier, Fleisch und Holz (je 1 pro Gruppe) eingelagert sein.
+Die Preise kann der Gasthausbesitzer selber einstellen. Wenn ein Gasthaus leer ist, freuen sich die meisten Gasthausbesitzer über eine Diplo. Vor dem Besuch eines überteuerten Etablissements ist es hilfreich, das Gasthaus auszuspionieren, um zu sehen, ob es auch genug Waren vorrätig hat.
+
+=== Wichtiges für GH-Besitzer
+
+Es gibt ein paar wichtige Punkte, die man beachten sollte:
+
+Man sollte immer genug Waren für die angebotenen Dienste vorrätig haben. (Wenn man einen Dienst nicht anbieten will, muss man den Preis hoch setzen, da er sonst trotzdem angeboten wird. Man macht ein reines Essen-&-Trinken-Gasthaus auf, also setzt man den Preis für übernachtungen auf 99.999 GS, damit keiner diese Möglichkeit wählt.)
+Wenn man Magiern die Möglichkeit zum skillen geben will, sollte man beachten, dass man eine recht hohe Zimmerqualität und viele Spielleute braucht. Was diese bringen, kommt weiter unten.
+Wenn man sich in dem Gasthaus ausloggen können soll, muss ein Vorsteher (Wirt) vorhanden sein.
+
+=== Ausbauten
+
+An dieser Stelle sind nur die Gasthausspezifischen Ausbauten erklärt. Hinweise zu den Sicherheitsausbauten siehe hier.
+
+_Zimmerqualität_ steigert zum einen den Mana- und LP-Zuwachs beim übernachten (Diesen Zuwachs kann man auch durch einen Vorsteher mit Skill Sitten und Gebräuch erhöhen. Dieser Skill wird im Gasthaus gesteigert. Es zählt der Skill des besten Wirtes, sollten mehrere Gebäudehelden vorhanden sein). Zum anderen erhöht es den Skillgain in Intellekt und Meditation.
+
+Skillgain = 0,01 + abrunden(Zimmerqualität*10/9)/1000
+
+Skillgain kann 0,044 nicht überschreiten
+x = (1,5 +0,01*Zimmerqualität)
+
+x kann 2 nicht überschreiten
+Erhaltenes Mana beim übernachten= abrunden(Meditation) * ( x + abrunden(Wirtskill) /50)
+
+Erhaltenes Mana beim Essen & Trinken = Meditation * ( 1+ Wirtskill/100)
+
+_Spielleute_ geben an, auf welches maximale Level das Gasthaus skillen kann. Ein Magier kann bei 0 Spielleuten bis 30 skillen. Jeder Spielleute-Ausbau erhöht diese Grenze um 1. Sprich ein Gasthaus mit 15 Spielleuten kann bist 45 skillen.
+
+Es ist also nicht sinnvoll, ein Gasthaus über 70 Spielleute und 50 Zimmerqualität auszubauen.
+
+Zimmerqualität-Ausbauten kosten Möbel und Ziegel, Spielleute Bronze, Schmuck und Bekleidung. Wie hoch die Kosten genau sind, kann du mit dem Ausbautenrechner - nunja - ausrechnen.
