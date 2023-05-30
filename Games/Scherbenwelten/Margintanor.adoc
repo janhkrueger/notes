@@ -20,3 +20,20 @@ Anhänger dieses Dämons können keine Tempel des Bendur betreten oder seinen Se
 
 === Bonus
 -5% Bewegung auf Wasser
+
+=== Steigerungsstufen
+
+[options="header"]
+|=====================================================================
+| Stufe | Vorraussetzung                        | Rang         | Bonus
+| 1     | keine                                 | Gläubiger    | -5%  
+| 2     | einmal Schiff fahren                  | Laie         | -5%  
+| 3     | ein Fischerboot bauen                 | Philosoph    | -5%  
+| 4     | 1000 Fische abliefern                 | Novize       | -5%  
+| 5     | eine Barke besitzen                   | Kaplan       | -5%  
+| 6     | 1000 Lebertran abliefern              | Mönch        | -10% 
+| 7     | ein Handelsschiff besitzen            | Priester     | -15% 
+| 8     | ein Char muss 60 Seefahrenskill haben | Kardinal     | -20% 
+| 9     | eine Galeone besitzen                 | Hohepriester | -25% 
+| 10    | 10.000 Lebertran abliefern            | Prophet      | -30% 
+|=====================================================================

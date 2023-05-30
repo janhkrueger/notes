@@ -20,3 +20,19 @@ Olimanir...Kalt ist der Krähe eisernes Herz(auf den Eisinseln, da sind auch vie
 === Bonus
 15% verbesserte Heilung
 
+=== Steigerungsstufen
+
+[options="header"]
+|=====================================================
+| Stufe | Vorraussetzung        | Rang         | Bonus
+| 1     | keine                 | Gläubiger    | 15%  
+| 2     | 10 Monster töten      | Laie         | 15%  
+| 3     | 5 Stubenfliegen töten | Philosoph    | 15%  
+| 4     | 5 Orks töten          | Novize       | 15%  
+| 5     | 5 Skelette töten      | Kaplan       | 15%  
+| 6     | 10 Trolle töten       | Mönch        | 30%  
+| 7     | 20 Spinnen töten      | Priester     | 45%  
+| 8     | 2 Riesen töten        | Kardinal     | 45%  
+| 9     | 100 Ramsporne töten   | Hohepriester | 60%  
+| 10    | 1 Drachen töten       | Prophet      | 75%  
+|=====================================================

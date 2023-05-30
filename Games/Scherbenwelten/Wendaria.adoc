@@ -15,3 +15,20 @@ Fedimalan
 
 === Bonus
 20% besseres Rasten
+
+=== Steigerungsstufen
+
+[options="header"]
+|=======================================================================
+| Stufe | Vorraussetzung                          | Rang         | Bonus
+| 1     | keine                                   | Gläubiger    | 20%  
+| 2     | 1 Pilz abliefern                        | Laie         | 20%  
+| 3     | ein Char muss 20 Heilenskill haben      | Philosoph    | 20%  
+| 4     | Bauernhof besitzen                      | Novize       | 20%  
+| 5     | ein Char muss 35 Heilenskill haben      | Kaplan       | 20%  
+| 6     | 1000 Lebertran abliefern                | Mönch        | 40%  
+| 7     | Gasthaus mit 10 Zimmerqualität besitzen | Priester     | 60%  
+| 8     | ein Char muss 60 Heilenskill haben      | Kardinal     | 80%  
+| 9     | 5000 Kakao abliefern                    | Hohepriester | 100% 
+| 10    | ein Char muss 100 Heilenskill haben     | Prophet      | 120% 
+|=======================================================================

@@ -19,3 +19,20 @@ Diejenigen, die das Wissen vertragen, welches ihnen zu Teil wird, setzen ihr Leb
 
 === Bonus
 10% verbesserte Spruchchance auf Gebäudezauber, Gruppen- und Heldenverzauberungen und Beschwörungen
+
+=== Steigerungsstufen
+
+[options="header"]
+|======================================================================
+| Stufe | Vorraussetzung                         | Rang         | Bonus
+| 1     | keine                                  | Gläubiger    | 10%  
+| 2     | 1 Buch abliefern                       | Laie         | 10%  
+| 3     | ein Char muss 20 Magiekundeskill haben | Philosoph    | 10%  
+| 4     | 100 Thaum abliefern                    | Novize       | 10%  
+| 5     | ein Rezept besitzen                    | Kaplan       | 10%  
+| 6     | ein Char muss 40 Magiekundeskill haben | Mönch        | 20%  
+| 7     | 5 Rezepte besitzen                     | Priester     | 30%  
+| 8     | ein Char muss 60 Magiekundeskill haben | Kardinal     | 40%  
+| 9     | 5000 Bücher abliefern                  | Hohepriester | 50%  
+| 10    | ein Char muss 100 Magiekundekill haben | Prophet      | 60%  
+|======================================================================

@@ -20,3 +20,20 @@ Die Aufgaben sind einfach gesagt: Morden, Brandschatzen, Plündern, Frauen und K
 
 === Bonus
 5% mehr kritische Treffer
+
+=== Steigerungsstufen
+
+[options="header"]
+|====================================================================
+| Stufe | Vorraussetzung                       | Rang         | Bonus
+| 1     | keine                                | Gläubiger    | 5%   
+| 2     | ein Char muss 10 Nahkampfskill haben | Laie         | 5%   
+| 3     | 200 Kampfruhm                        | Philosoph    | 5%   
+| 4     | 250 Waffen abliefern                 | Novize       | 5%   
+| 5     | 7500 Kampfruhm                       | Kaplan       | 5%   
+| 6     | ein Char muss 40 Nahkampfskill haben | Mönch        | 10%  
+| 7     | 25.000 Kampfruhm                     | Priester     | 15%  
+| 8     | ein Char muss 60 Nahkampfskill haben | Kardinal     | 20%  
+| 9     | ein Char muss 75 Nahkampfskill haben | Hohepriester | 25%  
+| 10    | 1 Untotenfürst töten                 | Prophet      | 30%  
+|====================================================================

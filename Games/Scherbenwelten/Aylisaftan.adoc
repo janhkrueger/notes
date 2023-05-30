@@ -20,3 +20,20 @@ Wie die Anhänger eines jeden Erzdämonen können wilde Jäger niemals eine Stä
 
 === Bonus
 -5% AP-Verbrauch bei Bewegung im Wald
+
+=== Steigerungsstufen
+
+[options="header"]
+|=========================================================================
+| Stufe | Vorraussetzung                            | Rang         | Bonus
+| 1     | keine                                     | Gläubiger    | -5%  
+| 2     | 10 Holz abliefern                         | Laie         | -5%  
+| 3     | 10 Wolpertinger abliefern                 | Philosoph    | -5%  
+| 4     | eine Holzhütte besitzen                   | Novize       | -5%  
+| 5     | 1000 Harz abliefern                       | Kaplan       | -5%  
+| 6     | ein Char muss 40 Wildnislebenskill haben  | Mönch        | -10% 
+| 7     | ein Char muss 50 Wildnislebenskill haben  | Priester     | -15% 
+| 8     | ein Char muss 60 Holzfällenskill haben    | Kardinal     | -20% 
+| 9     | 5000 Wolpertinger abliefern               | Hohepriester | -25% 
+| 10    | ein Char muss 100 Wildnislebenskill haben | Prophet      | -30% 
+|=========================================================================

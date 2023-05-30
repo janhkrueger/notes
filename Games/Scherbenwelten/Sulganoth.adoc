@@ -14,3 +14,20 @@ Die Aufgabe eines jeden Anhängers ist es, zu verführen und allem zu gehorchen,
 
 === Bonus
 -10% AP-Verbrauch beim Verstecken
+
+=== Steigerungsstufen
+
+[options="header"]
+|==========================================================================
+| Stufe | Vorraussetzung                             | Rang         | Bonus
+| 1     | keine                                      | Gläubiger    | -10% 
+| 2     | einen Diebstahl begehen                    | Laie         | -10% 
+| 3     | 75 Händlervertrauen                        | Philosoph    | -10% 
+| 4     | 250 Bier abliefern                         | Novize       | -10% 
+| 5     | ein Char muss 35 Stehlenskill haben        | Kaplan       | -10% 
+| 6     | eine Reiseroute besitzen                   | Mönch        | -20% 
+| 7     | 500 Händlervertrauen                       | Priester     | -30% 
+| 8     | drei Chars müssen je 40 Stehlenskill haben | Kardinal     | -40% 
+| 9     | 1000 Händlervertrauen                      | Hohepriester | -50% 
+| 10    | 5000 Händlervertrauen                      | Prophet      | -60% 
+|==========================================================================
