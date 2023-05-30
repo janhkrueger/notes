@@ -1,0 +1,40 @@
+:source-highlighter: highlight.js
+== Magie im Kampf
+
+von (RIP) Lilian Greyskull
+
+Die Kampfeinstellungen für deinen Magier erreichst du in der Charansicht.
+
+Es gibt 3 Elemente, mit denen man im Kampf zaubern kann:
+Feuer
+Eis
+Säure
+
+Wenn eine Kreatur z.B. gegen das Element Feuer resistent ist, bekommt man immer die folgende Meldung in der Kampfübersicht: Feuerwand prallt ab!
+
+Die Regen kosten sehr viel Mana, haben dabei aber die Besonderheit, dass sie in einer Kampfrunde 3x treffen. Allerdings gehen diese 3 Treffer nicht auf verschiedene Individuen, sondern auf das selbe, auch wenn dieses schon beim ersten Treffer tot ist. Regen gegen eine kreatur mit wenig Lebenspunkten ist also eine dumme Idee.
+
+Du kannst einen Spruch nur auswählen, wenn du den entsprechenden Magiekunde-Skill hast. Natürlich verliest du durch zaubern Mana. Wenn dein Magier zaubert, macht er nicht zusätzlich konventionellen Schaden. Einen Magier in Fernkampf auszubilden macht also nur Sinn, wenn du ihn öfter ohne Mana kämpfen lassen willst.
+
+Im Folgenden sind die Kampfzauber aufgelistet.
+
+Mana bezeichnet den Verbrauch an Mana für eine Kampfrunde.
+
+In der Spalte MK steht benötigte Magiekunde-Skill, ab dem der zauber zur Verfügung steht.
+
+Ende bezeichnet die Höhe des Magiekundewertes, bei dem der Zauber nicht mehr skillt. Das entspricht dem 1,5fachen ds benötigten Skills. Kampfzauber skillen mindestens bis 20. Ab Skill 75 kann man nur noch durch Beschwörungen und Gehirnfraß skillen.
+
+[options="header"]
+|==============================
+| Spruch     | Mana | MK | Ende
+| Feuerpfeil | 10   | -  | 20  
+| Eispfeil   | 15   | -  | 20  
+| Säurepfeil | 17   | -  | 20  
+| Feuerball  | 20   | 15 | 22,5
+| Säureball  | 30   | 20 | 30  
+| Feuerwand  | 40   | 25 | 37,5
+| Eisball    | 30   | 35 | 52,5
+| Feuerregen | 85   | 40 | 60  
+| Eiswand    | 60   | 45 | 67,5
+| Eisregen   | 100  | 50 | 75  
+|==============================
