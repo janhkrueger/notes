@@ -17,3 +17,6 @@ Als ihre Hauptaufgabe sehen es diejenigen, die ihre Seele verkauft haben an, die
 
 === Sonstiges
 Wie die Anhänger eines jeden Erzdämonen können wilde Jäger niemals eine Stätte der Larja betreten. Ebenso spüren sie, wenn ein Geweihter in der Nähe ist, wie auch dieser ihre Anwesenheit spürt.
+
+=== Bonus
+-5% AP-Verbrauch bei Bewegung im Wald

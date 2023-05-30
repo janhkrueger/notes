@@ -17,3 +17,6 @@ Jeder Paktierer Margintanors hat die Aufgabe, Schiffsreisen ins Unglück zu stü
 
 === Sonstiges
 Anhänger dieses Dämons können keine Tempel des Bendur betreten oder seinen Segen erhalten. Es schreckt sie ab, und quält sie, mit dem Gott in Kontakt zu treten.
+
+=== Bonus
+-5% Bewegung auf Wasser

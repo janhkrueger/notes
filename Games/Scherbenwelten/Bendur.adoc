@@ -16,3 +16,6 @@ Ein Brauch, der die Lebenslust Bendurs darstellt, ist das "Mannschaftsritual". W
 
 === Gegendämon
 Margintanor
+
+=== Bonus
+-5% Bewegung auf Wasser.

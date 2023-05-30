@@ -14,3 +14,6 @@ Weil die Pheronpriester als weise und klug gelten, werden sie bevorzugt von Adli
 
 === Gegendämon
 Muradjanian
+
+=== Bonus
+10% verbesserte Spruchchance auf Gebäudezauber, Gruppen- und Heldenverzauberungen und Beschwörungen.

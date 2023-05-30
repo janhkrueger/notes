@@ -15,3 +15,6 @@ Jeder Handwerker und Händler, aber auch Künstler, spendet freiwillig. Da es nu
 
 === Gegendämon
 Sulganoth
+
+=== Maki
+-10% AP-Verbrauch beim Verstecken.

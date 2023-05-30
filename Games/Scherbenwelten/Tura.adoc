@@ -16,3 +16,6 @@ Jeder spendet freiwillig dem zuständigen Turapriester.
 
 === Gegendämon
 Olimanir
+
+=== Bonus
+15% verbesserte Heilung. 

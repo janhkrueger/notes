@@ -14,3 +14,6 @@ Da es keine flächendeckende Priesterschaft für diese Göttin gibt, werden symb
 
 === Gegendämon
 Aylisaftan
+
+=== Bonus
+-5% AP-Verbrauch bei Bewegung im Wald.
