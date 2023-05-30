@@ -1,0 +1,33 @@
+:source-highlighter: highlight.js
+== Gebäudemagie
+
+von (RIP) Lilian Greyskull
+
+Mit Gebäudezaubern können die Gebäude, auf denen man sich befindet, verzaubert werden.
+
+Die Zauber wirken sich zur nächsten Hauptrunde auf die Gebäude aus. Die Dauer sagt dabei aus, an wieviel aufeinanderfolgenden Tagen dies geschehen soll.
+
+Die Einstellungen für Gebäudezauber kannst du machen, indem du auf das kleine Zauberbuch  neben dem LP-Balken des Chars klickst.
+
+Sinnvoll sind diese Zauber in Bauernhöfen. Aber auch in jedem anderen Gebä ude sind sie möglich.
+
+Je höher die Stufe, desto mehr wird in der Hauptrude in dieses Gebäude gezaubert. Um einen Gebäudezauber auszusprechen, benötigt man 55+ Stufe*5 AP.
+
+Im Folgenden sind die einzelnen Sprüche augezeichnet.
+
+Mana gibt an, wieviel Mana pro Stufe verbraucht wird. Also bei Stufe 3 das dreifache des angegebenen Wertes.
+
+Die MK-Werte hinter den jeweiligen Sprüchen geben an, ab wann ein Zauber gelingen kann. Je höher die Magiekunde, desto höher ist die Wahrscheinlichkeit, dass der Zauber gelingt.
+
+Ende bezeichnet die Höhe des Magiekundewertes, bei dem der Zauber nicht mehr skillt. Das entspricht dem 1,5fachen des benötigten Skills. Kampfzauber skillen mindestens bis 20. Ab Skill 75 kann man nur noch durch Beschwörungen und Gehirnfraß skillen.
+
+Pro Stufe erhöhen sich die Ingedenzien (=Zutaten) um 25%.
+
+[options="header"]
+|=========================================================
+| Spruch      | Wirkung  | Mana | MK | Ende | Ingredienzen
+| Düngeradon  | Getreide | 50   | -  | 20   | 3 Bücher    
+| Kutopia     | Kühe     | 50   | 20 | 30   | 3 Bücher    
+| Pferdutopia | Pferde   | 50   | 20 | 30   | 3 Bücher    
+| Schafutopia | Schafe   | 50   | 20 | 30   | 3 Bücher    
+|=========================================================

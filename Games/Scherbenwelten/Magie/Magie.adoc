@@ -1,0 +1,40 @@
+:source-highlighter: highlight.js
+== Magie
+
+von (RIP) Lilian Greyskull
+
+Die Magie ist immer schon ein Rätsel gewesen für normalen Sterblichen. Hier werde ich dir versuchen etwas Einblick in die Tiefen der Magie zu geben. Es waren schon immer die Elfen die Meister der Magie waren. Zwerge die zaubern, das ist so selten das man eigentlich davon ausgehen kann das es unter den Zwergen nur schwer möglich ist zu zaubern (Siehe Rassen).
+
+Für einen Magier sind die Werte Magiekunde, Meditation und Intellekt wichtig.
+
+=== Magiekunde
+
+Der Magiekundewert (MK-Skill) ist der eigentliche Wert, nach dem Magier gemessen werden. Er gibt an, welche Zauber man aussprechen kann und wie hoch die Wahrscheinlichkeit ist, dass ein Zauber überhaupt klappt.
+
+Steigern kann man ihn nur mit der Anwendung von Zaubern: sei es im Kampf oder durch die Anwendung der Spruchmagie.
+
+Dabei gilt: Jeder Zauber steigert die Magiekunde nur bis auf das 1,5fache des benötigten Magiekundewertes, mindestens jedoch bis 20. z.B. Feuerwand (benötigter Magieskundekill: 25) steigert den Skill bis maximal 25*1.5 = 37.5 .
+
+Pro Anwendung eines Spruches steigt der Magiekunde-Wert, im Kampf weniger als ußerhalb des Kampfes. Beim Kampf steigt er um 0,01 pro Kampfrunde. Beim Beschwören um 0,03 pro ausgesprochenem Zauberspruch.
+
+=== Meditation
+
+Der Wert bestimmt, wieviel Mana beim Rasten und Übernachten in Gasthäusern regeneriert wird.
+
+=== Intellekt
+
+Der Wert mal 10 ist die Gesamtmenge an Mana die der Zauberer speichern kann.
+
+Ohne Mana ist ein Magier schutzlos. Daher sollte er immer ausreichend Mana gespeichert haben. Sein Mana kann man durch Essen und Trinken oder übernachten in Gasthäusern, durch Rasten oder durch Einnahme von Manaregeneratoren oder allgemeinen Regeneratoren auftanken. Außerdem regeneriert Mana pro Hauptrunde um 1. Naja.
+
+Hier kann man beim Übernachten seinen Skill Meditation und Intellekt steigern. Dabei ist es abhängig wie viele Ausbauten das Gasthaus besitzt. Sollten alle Waren vorhanden sein bekommt man beim übernachten doppelt so viel Mana wie Meditationswert hoch ist. Wenn ein Wirt vorhanden ist, der Sitten und Gebräuche geskillt hat, kann man bis zum vierfachen des Meditationswertes erhalten. Hierbei wirkt der Skill des Wirtes als erhöhender Faktor. Ein Wirt mit 51 Skill bringt das 1,51 fache der Regeneration ohne Wirt. Normal das 2fache, mit Wirt das 3,02fache (2*1,51=3,02).
+
+Beim Essen und Trinken:
+1 Nahrungsart vorhanden: 33% vom Meditationswert
+2 Nahrungsarten: 66% vom Meditationswert
+3 Nahrungsarten: 100% vom Meditationswert
+
+Beim Rasten:
+Wenn alle benötigten Waren vorhanden sind 50% vom Meditationswert
+
+Welchen Kampfzauber du verwenden willst, kannst du in der Charansicht einstellen. Gebäude-, Gruppen- und Helden-, und Beschwörungszauber kannst du in der Magieansicht einstellen, die du in der Gruppe findest indem du auf das kleine Zauberbuch  neben dem LP-Balken des Chars klickst.

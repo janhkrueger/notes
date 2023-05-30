@@ -1,0 +1,55 @@
+:source-highlighter: highlight.js
+== Hohe Magie (Beschwörungsmagie)
+
+von (RIP) Lilian Greyskull
+
+Die Hohe Magie ist wohl das interessanteste für einen Magier, denn sie ermöglicht es ihm, Monster zu beschwören, die in seiner Gruppe kämpfen. Monster dienen als Kanonenfutter für den Gegner (um den Magier zu sch�tzen) und k�nnen zum Teil auch selber derbe zuhauen. Wenn man mal überladen ist, taugen Monster mit vielen LP als Träger (LP=Traglast).
+
+Die Einstellungen für die Hohe Magie kannst du machen, indem du auf das kleine Zauberbuch  neben dem LP-Balken des Chars klickst.
+
+Dort kannst du einige Einstellungen zum Beschwören des Monsters machen.
+
+Stufe bestimmt die Anzahl der Monster die beschworen werden.
+
+Dauer gibt den zeitlichen Verbleib der Monster in der Gruppe an, wobei die Beschwörung pro Dauer etwa 10 Minuten anhölt. Die Dauer-Funktion ist eine Gauss-Zufallsverteilung mit ihrem Maximum bei 10*Dauer Miuten. Es ist also sowohl möglich, dass das Monster sofort wieder verschwindet, als auch, dass es bis in alle Ewigkeiten bei dir bleibt, wenn auch beides sehr unwahrscheinlich.
+
+Monster entziehen sich der Kontrolle des Magiers, wenn der beschwört habende Magier im Kampf aufgibt/ getötet wird oder die Gruppe verlässt. Das passiert, wenn die Gruppe ausloggt oder der Beschwörmagier in ein Gebäude versetzt wird. Auch wenn die Gruppe in einem Gasthaus übernachtet oder zu Tische geht, warten die Monster nicht draussen sondern ziehen ihrer Wege. Monster können jederzeit entlassen werden, damit man zum Beispiel neue Monster beschwören kann, denn solange sich Monster in der Gruppe befinden, können keine neuen beschworen werden. Wenn von den 9 beschworenen Monstern nur noch 3 da sind, muss man die 3 entlassen, um neue 9 beschwören zu können. Zu diesem Zweck gibt es in der Gruppe neben dem Lebensbalken des Monsters ein X. Wenn man dieses anklickt, zieht das Monster seiner Wege.
+
+Um einen Beschwörungszauber auszusprechen, benötigt man 55+ Stufe*5 AP.
+
+Im Folgenden sind die einzelnen Sprüche augezeichnet.
+
+Skill bezeichnet den Kampfskill des Monsters
+
+Mana gibt an, wieviel Mana pro Stufe verbraucht wird. Also bei Stufe 3 das dreifache des angegebenen Wertes.
+
+Die MK-Werte hinter den jeweiligen Sprüchen geben an, ab wann ein Zauber gelingen kann. Je höher die Magiekunde, desto höher ist die Wahrscheinlichkeit, dass der Zauber gelingt.
+
+Die Spalte Ende gibt an, wann der Spruch nicht mehr skillt (= bei dem 1,5fachen des benötigten MK-Wertes).
+
+Wenn ein Zauber misslingt, bekommst du eine Nachricht Spell fizzles. In diesem Fall kannst du es sofort nochmal versuchen, wenn du noch Mana hast. Misslungene Zauber skillen nicht so stark wie gelungene.
+
+Pro Stufe erhöhen sich die Ingedenzien (=Zutaten)um 25%.
+
+[options="header"]
+|================================================================================================
+| Spruch          | Monster             | Skill | LP   | Mana | MK | Ende | Ingredienzen         
+| Tschiis         | Riesenratte         | 8     | 40   | 20   | 15 | 22,5 | -                    
+| Radarus         | Riesenfledermaus 20 | 75    | 35   | 20   | 30 | -    | 2 Thaum              
+| Wurfmaul        | Erdwurm             | 30    | 150  | 40   | 25 | 37,5 | 4 Thaum              
+| Tssssst         | Stubenfliege        | 55    | 1    | 40   | 30 | 45   | 1 Getreide           
+| Arachnophobia   | Riesenspinne        | 40    | 100  | 60   | 35 | 52,5 | 5 Thaum              
+| Mork            | Ork                 | 40    | 125  | 50   | 45 | 67,5 | 2 Thaum              
+| Klackerus       | Skelette            | 45    | 200  | 70   | 45 | 67,5 | 3 Thaum              
+| Trollus Brückus | Troll               | 45    | 200  | 100  | 50 | 75   | 3 Thaum              
+| Harzknarz       | Baum                | 25    | 1000 | 80   | 55 | 82,5 | 5 Thaum              
+| Grundus         | Erdschlange         | 40    | 400  | 90   | 65 | 97,5 | 5 Thaum              
+| Bammbamm        | Ramsporn            | 45    | 500  | 100  | 75 | -    | 5 Thaum              
+| Giganticus      | Riese               | 80    | 750  | 200  | 85 | -    | 5 Thaum              
+| Erdelementar    | Erdelementar        | 20    | 2000 | 200  | 90 | -    | "5 Thaum 5 Kräuter"  
+| Feuerelementar  | Feuerelementar      | 50    | 500  | 200  | 90 | -    | "5 Thaum 5 Kräuter"  
+| Luftelementar   | Luftelementar       | 80    | 200  | 200  | 90 | -    | "5 Thaum 5 Kräuter"  
+| Wasserelementar | Wasserelementar     | 55    | 500  | 200  | 90 | -    | "5 Thaum 5 Kräuter"  
+| Grisu           | Babydrache          | 55    | 1000 | 500  | 95 | -    | "5 Thaum 5 Kräuter"  
+| Stinkus Maximus | niederer Dämon      | 91+   | 1000 | 300  | 95 | -    | "10 Thaum 10 Sklaven"
+|================================================================================================

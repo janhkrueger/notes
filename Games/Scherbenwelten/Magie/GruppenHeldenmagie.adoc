@@ -1,0 +1,37 @@
+:source-highlighter: highlight.js
+== Gruppen- und Heldenmagie
+
+von (RIP) Lilian Greyskull
+
+Wenn man mit anderen Gruppen (Spielern) auf einem Feld steht, kann man auf sie Gruppenzauber aussprechen. Dies ist auch auf Städten möglich. Die Einstellungen für Gruppen- und Heldenzauber kannst du machen, indem du auf das kleine Zauberbuch  neben dem LP-Balken des Chars klickst.
+
+Die Stufe bewirkt bei Ap-verändernden Zaubern, wie oft das geschehen soll. Bei Krankheitszaubern bewirkt die Stufe die Schwere der Krankheit. (Anmerkung von Freya Sardanas: weiss jemand was Dauer bedeutet?)
+
+Iceus und Rotampus wirken wirken bei der nächten Hauptrunde. Nur der Spruch mit der höchsten Stufe wird ausgeführt, alle anderen kommen in die Warteschleife, so dass nur ein Zauber pro Tag wirken kann.
+
+Alle anderen Zauber wirken sofort.
+
+Im Folgenden sind die einzelnen Sprüche augezeichnet.
+
+Mana gibt an, wieviel Mana pro Stufe verbraucht wird. Also bei Stufe 3 das dreifache des angegebenen Wertes.
+
+AP gibt an, wieviele Aktionspunkte der Spruch benötigt. Um einen Gruppen- oder Heldenzauber auszusprechen, benötigt man 55+ Stufe*5 AP (bei Versteinerung 550 + 50).
+
+Die MK-Werte hinter den jeweiligen Sprüchen geben an, ab wann ein Zauber gelingen kann. Je höher die Magiekunde, desto höher ist die Wahrscheinlichkeit, dass der Zauber gelingt.
+
+Ende bezeichnet die Höhe des Magiekundewertes, bei dem der Zauber nicht mehr skillt. Das entspricht dem 1,5fachen ds benötigten Skills. Kampfzauber skillen mindestens bis 20. Ab Skill 75 kann man nur noch durch Beschwörungen und Gehirnfraß skillen.
+
+Pro Stufe erhöhen sich die Ingedenzien (=Zutaten) um 25%.
+
+[options="header"]
+|==============================================================================================
+| Spruch         | Wirkung                      | Mana | AP  | MK | Ende | Ingredienzen        
+| Heilung        | Heilung pro Stufe um 5 LP    | 5    | 5   | -  | 20   | 1 Thaum             
+| Iceus          | 50 AP Zuwachs mit Hauptrunde | 50   | 55  | 20 | 30   | 1 Thaum             
+| Rotampus       | 50 AP Abzug mit Hauptrunde   | 50   | 55  | 20 | 30   | 1 Thaum             
+| Lähmung        | -200 AP sofort               | 50   | 55  | 25 | 37,5 | 2 Thaum             
+| Fleischfäule   | Krankheit                    | 50   | 55  | 30 | 45   | 10 Thaum, 10 Kräuter
+| Versteinerung  | -2000 AP sofort              | 300  | 550 | 50 | 75   | 5 Thaum             
+| Leichenflecken | Krankheit                    | 50   | 55  | 50 | 75   | 20 Thaum, 20 Kräuter
+| Gehirnfraß     | Krankheit                    | 50   | 55  | 70 | 105  | 50 Thaum, 50 Kräuter
+|==============================================================================================
