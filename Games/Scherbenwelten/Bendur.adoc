@@ -1,4 +1,5 @@
 :source-highlighter: highlight.js
+
 == Bendur
 
 Bendur ist als Gott des Meeres und der Winde bekannt. Er wird oft als dick und einen Vollbart tragend beschrieben. Eines seiner Lieblingstiere soll ein weißer Walfisch sein, den die Seeleute "Ljenerek" nennen.Entsprechend ist das Wappen Bendurs ein Weißer Wal auf blauem Grund.
@@ -11,3 +12,7 @@ Die wichtigsten Pflichten dieser Priester sind natürlich in ihrem Glauben begr�
 
 === Sonstiges
 Ein Brauch, der die Lebenslust Bendurs darstellt, ist das "Mannschaftsritual". Wenn eine Mannschaft ein Jahr lang zusammen auf See war, so wird ein Faß Bier in die Gischt geworfen, welches die Mannschaft nur mit Hilfe eines Kleinbootes bergen darf. Danach wird die Mannschaft gesegnet und darf sich mit den Namen des Schiffes Schmücken - sie ist jetzt eine Familie.Es wird gefeiert.Jeder Seemann trägt einen sogenannten Bendurtaler am Ohr oder um den Hals, um sich ordentlich bestatten zu lassen. Dies ist notwendig, da immer wieder Schiffe mitsamt ihrer Mannschaft untergehen. Man erzählt sich, daß diejenigen, die angeschwemmte Tote plündern, nie wieder ruhig schlafen können. 
+
+
+=== Gegend#mon
+Margintanor
