@@ -1,4 +1,5 @@
-:revealjs_theme: moon
+:revealjs_theme: beige
+
 = Splunk in a corporate environment
 
 == Base Question: What's happening?
@@ -129,7 +130,7 @@ image::slidesimages/SpoilerAlert.jpeg[]
 
 - Future of DynaTrace is undecided.
 - Expensive and only partly used.
-- Currently in decision of K2 if it will used further.
+- Currently in decision of K2 if it will used further. (20th of June)
 - Possible decomissioning mid-year.
 
 == Today's focus
@@ -199,7 +200,7 @@ Humans easily lower their guard:
 
 Cyber attack in 2022 want's to have a word with you.
 
-image::slidesimages/InternetWantsToHaveAWordWithYou.jpeg[]
+image::slidesimages/InternetWantsToHaveAWordWithYou.jpeg[scale=80]
 
 === Solution
 
@@ -211,6 +212,7 @@ image::slidesimages/InternetWantsToHaveAWordWithYou.jpeg[]
 - Maintained from BITS
 - Available for all who whish to use it and want to pay the data usage.
 - In DE introduced for GW and SIP in 2019.
+- OIS3 is primary responsible for monitory solutions in DE
 
 == What is possible?
 
@@ -273,11 +275,11 @@ image::slidesimages/Splunk-GW-PolicyHealth.PNG[]
 
 [source,splunk]
 ----
-index="jserv-de_gw_*" 
+index="jserv-de_gw_*"
 |search source = "*log.log"
-|eval stage = CASE(index == "jserv-de_gw_t", "TEST", index == "jserv-de_gw_a", "ACCEPTANCE", index == "jserv-de_gw_i", "INTEGRATION", index == "jserv-de_gw_p", "PRODUCTION") 
+|eval stage = CASE(index == "jserv-de_gw_t", "TEST", index == "jserv-de_gw_a", "ACCEPTANCE", index == "jserv-de_gw_i", "INTEGRATION", index == "jserv-de_gw_p", "PRODUCTION")
 |search stage = "*PRODUCTION*"
-|eval source = SUBSTR(source, 35) 
+|eval source = SUBSTR(source, 35)
 |eval stackapp = SUBSTR(source, 1, 6)
 |eval stack = SUBSTR(source, 1, 3)
 |eval stack = CASE(stack == "war", "Wartung", stack == "pe1", "Migration", stack == "pe2", "Time Travel", stack == "pe3", "Data Hub")
@@ -285,7 +287,7 @@ index="jserv-de_gw_*"
 |eval app = SUBSTR(source, 4, 3)
 |eval app = CASE(app == "sip", "SIP - Service Integration Platform", app == "pcb", "Policy Center - Batch", app == "pco", "Policy Center - Online", app == "cmb", "Contact Manager - Batch", app == "cmo", "Contact Manager - Online", app == "ccb", "Claim Center - Batch", app == "cco", "Claim Center Online", app == "bcb", "Billing Center - Batch", app == "bco", "Billing Center - Online")
 |search app = "Policy Center - Online"
-|search RequestStatus IN ("DEBUG", "INFO", "WARN", "ERROR") 
+|search RequestStatus IN ("DEBUG", "INFO", "WARN", "ERROR")
 |timechart count by RequestStatus
 ----
 
