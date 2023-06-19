@@ -1,0 +1,220 @@
+:revealjs_theme: solarized
+= OpenAI for Engineers
+
+== What even is ChatGPT?
+
+ChatGPT is a chatbot developed by OpenAI 
+
+=== What is a chatbot?
+
+A chatbot is a tool which can interpret human languange, written and verbal, and transform it into adeqate search queries on a big data foundation.
+
+No queries or commands to learn, just write or say in natural language.
+
+== Not only for business
+
+Tools like ChatGPT can also be used by engineers to accelerate their work or improve current work.
+
+=== Not only for business
+
+It will not do you work. You still need to know what you want to achieve.
+
+== Convert an application from one language to another
+
+Possibiliy to fast translate from one source language to another
+
+=== Given the following C++ code
+
+image::slidesimages/CppConvertArabicNumeralsToRomanLettersForCpp.PNG[]
+
+=== Lets convert it
+
+image::slidesimages/CppConvertArabicNumeralsToRomanLettersForCpp_005.PNG[]
+
+=== And in Rust
+
+image::slidesimages/CppConvertArabicNumeralsToRomanLettersForCpp_002.PNG[]
+
+=== What about Java?
+
+image::slidesimages/CppConvertArabicNumeralsToRomanLettersForCpp_003.PNG[]
+
+
+=== Arabic to Roman Conversation in Java
+
+image::slidesimages/CppConvertArabicNumeralsToRomanLettersForCpp_004.PNG[]
+
+=== You still need to check the code
+
+Despite fast results, you still need to make sure the code runs and gives desired results. Because ChatGPT is dumb on it's own, it can even produce wrong or not runnable code.
+
+WARNING: You are responsible for code you check in.
+
+== Write UnitTests for an application
+
+If the source code is known, you can even let the bot write UnitTests for it.
+
+=== Write UnitTests for an application
+
+image::slidesimages/ChatGPT_UnitTests_001.PNG[]
+
+=== Write UnitTests for an application
+
+image::slidesimages/ChatGPT_UnitTests_002.PNG[]
+
+=== Write UnitTests for an application
+
+image::slidesimages/ChatGPT_UnitTests_003.PNG[]
+
+=== Write UnitTests for an application
+
+image::slidesimages/ChatGPT_UnitTests_004.PNG[]
+
+=== Write UnitTests for an application
+
+image::slidesimages/ChatGPT_UnitTests_005.PNG[]
+
+=== Write UnitTests for an application
+
+image::slidesimages/ChatGPT_UnitTests_006.PNG[]
+
+
+== Does this magic always works?
+
+No, it's still an application. Therefor it can inherit bugs on it's own and can only work with a given data basis. It can not think. It is dumb.
+
+=== Example where ChatGPT fails
+
+Given a C++ class of a fictional town in a fantasy game. The class and the current unit tests are presented to ChatGPT and it had given a proper summary. 
+
+It completely knows my source code.
+
+IMPORTANT: Don't do this with work code.
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_001.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_002.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_003.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_004.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_005.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_006.PNG[]
+
+=== Example where ChatGPT fails
+
+There is zero understanding of your code.
+
+=== Example where ChatGPT fails
+
+Let's give ChatGPT the code again to memorize it.
+
+image::slidesimages/ChatGPT_TownUnitTest_007.PNG[]
+
+=== Example where ChatGPT fails
+
+It got the context right!
+
+image::slidesimages/ChatGPT_TownUnitTest_008.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_009.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_010.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_011.PNG[]
+
+=== Example where ChatGPT fails
+
+Again, it does not really knows your code. It still did not got it right that **_fame** is only a calculated value.
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_012.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_013.PNG[]
+
+The correct value with 12456 in _residents is 498. 
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_014.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_015.PNG[]
+
+=== Example where ChatGPT fails
+
+image::slidesimages/ChatGPT_TownUnitTest_016.PNG[]
+
+=== Example where ChatGPT fails
+
+At this point I stopped the dialog.
+
+
+== Generate code just from a description
+
+You can not only work with existing code, you can also let it generate new code just from a written description.
+
+=== Generate code just from a description
+
+"Number series with 10 levels. Level 1 has the value 5. Level 10 has the value 30.
+
+What must the values in between be in order to obtain an even distribution?""
+
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_001.PNG[]
+
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_002.PNG[]
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_003.PNG[]
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_004.PNG[]
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_005.PNG[]
+
+
+= The work with ArabicToRomanLetters can be looked up
+
+Source C++
+
+https://gitlab.com/janhkrueger/TutorialConvertRomanLettersToArabicNumeralsforCpp/-/blob/main/main.cpp
+
+ChatGPT dialog
+
+https://chat.openai.com/share/12b4c378-3a0a-478b-aa99-280771801977
+
+(Full links in source to this presentation)
