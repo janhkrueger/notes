@@ -3,7 +3,7 @@
 
 == What even is ChatGPT?
 
-ChatGPT is a chatbot developed by OpenAI 
+ChatGPT is a chatbot developed by OpenAI
 
 === What is a chatbot?
 
@@ -85,7 +85,7 @@ No, it's still an application. Therefor it can inherit bugs on it's own and can 
 
 === Example where ChatGPT fails
 
-Given a C++ class of a fictional town in a fantasy game. The class and the current unit tests are presented to ChatGPT and it had given a proper summary. 
+Given a C++ class of a fictional town in a fantasy game. The class and the current unit tests are presented to ChatGPT and it had given a proper summary.
 
 It completely knows my source code.
 
@@ -155,7 +155,7 @@ image::slidesimages/ChatGPT_TownUnitTest_012.PNG[]
 
 image::slidesimages/ChatGPT_TownUnitTest_013.PNG[]
 
-The correct value with 12456 in _residents is 498. 
+The correct value with 12456 in _residents is 498.
 
 === Example where ChatGPT fails
 
@@ -206,6 +206,33 @@ image::slidesimages/ChatGPT_GenerateAlgorithm_004.PNG[]
 
 image::slidesimages/ChatGPT_GenerateAlgorithm_005.PNG[]
 
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_006.PNG[]
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_007.PNG[]
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_008.PNG[]
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_009.PNG[]
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_010.PNG[]
+
+(Code copied into VSC for better visualiation)
+
+=== Generate code just from a description
+
+image::slidesimages/ChatGPT_GenerateAlgorithm_011.PNG[]
+
+(Code copied into VSC for better visualiation)
 
 = The work with ArabicToRomanLetters can be looked up
 
