@@ -3,7 +3,6 @@
 
 == Bulbasaur
 
-[options="header"]
 |===========================================
 | Dex | Description    | Released | Obtained
 | 1   | Halloween      |          | X       
