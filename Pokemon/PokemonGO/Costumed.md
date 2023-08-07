@@ -7,4 +7,4 @@
 |-----|----------------|----------|----------|
 | 1   | Halloween      |          | X        |
 | 1   | Party Hat      |          | X        |
-| 1   |  Pikachu Visor |          | X        |
+| 1   | Pikachu Visor  |          | X        |
