@@ -3,8 +3,8 @@
 
 ## Bulbasaur
 
-[] Halloween
-
-[] Party Hat
-
-[] Pikachu Visor
+| Dex | Description    | Released | Obtained |
+|-----|----------------|----------|----------|
+| 1   | Halloween      |          | X        |
+| 1   | Party Hat      |          | X        |
+| 1   |  Pikachu Visor |          | X        |
