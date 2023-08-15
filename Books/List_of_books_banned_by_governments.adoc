@@ -1,0 +1,13 @@
+// tag::abstract[]
+=== List of books banned by governments
+
+The communication to Insulae from the outside and inside the cluster from component to component is tied to several domains which needed to be configured in the DNS of the hosting plattform.
+They also need to be present and configured inside the cert-manager. That way the domains can be served with an own certificate, ensuring communication safety.
+// end::abstract[]
+
+
+==== Books
+[%header,format=csv,separator=;]
+|===
+include::csv/BannedBookList.csv[]
+|===
