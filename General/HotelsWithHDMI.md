@@ -4,6 +4,9 @@
 * Hotel Mystique
 * B&B Bahnhof
 
+## Bad Vilbel
+* City Hotel Frankfurt Bad Vilbel
+
 ## Basel
 * Hotel City Inn
 
