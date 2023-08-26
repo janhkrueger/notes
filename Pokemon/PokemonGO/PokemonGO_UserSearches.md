@@ -4,10 +4,13 @@
 entwickeln&0*,1*,2*,3*&!kostümiert&!favorit
 
 ## All easy discardable Pokemon
-!4*&!schillernd&!kostümiert&!favorit&!Legendär&!Mysterös&!Iceland&!ToHome&!Crypto&!Trade&!GOFest23London&Kanto,Johto,Hoenn,Sinnoh,+Hippopotas,+Serpifeu,+Floink,+Ottaro,+Nagelotz,+Yorkleff,+Felilou,+Vegimak,+Grillmak,+Sodamak,+Somniam,+Dusselgurr,+Elezeba,+Kiesling,+Fleknoil,+Rotomurf,Quartermak,Kommandutan,+Ohrdoch,+Schallquap,Karadonis,+Strawickl,+Toxiped,+Waumboll,+Lilminip,+Flampion,+Lithomith,+Zurrokex,+Symvolara,+Makabaja,+Galapaflos,+Flapteryx,+Unratütox,+Zorua,+Picochilla,+Mollimorba,+Monozyto,+Piccolente,+Gelatini,+Sesokitz,+Emolga,+Laukaps,+Tarnpignon,+Quabbel,+Gelatwino,+Wattzapf,+Kastadur,+Klikk,+Zapplardin,+Pygraulon,+Lichtel,+Milza,+Petznief,+Frigometri,+Schnuthelm,+Flunschlik,+Golbit,+Gladiantri,+Bisofank,+Furnifraß,+Fermicula,+Kapuno,+Boreos,+Igamaro,+Fynx,+Froxy,+Scoppel,+Dartiri,+Leufeo,+Pam-Pam,+Coiffwaff,+Parfi,+Flauschling,+Iscalar,+Bithora,+Algitt,+Scampisto,+Eguana,+Balgoras,+Amarino,+Dedenne,+Rocara,+Viscora,+Paragoni,+Irrbis,+Arktip,+eF-eM,+Bauz,+Flamiau,+Robball,+Peppeck,+734,+736,+741,+742,+744,+747,+751,+753,+755,+759,+761,+764,+765,+767,776,+777,+782,+788,+793,+796,+798,+799,+819,+831,+862,+863,+866,+870,+888,+889,+900,+901,+999
+!4*&!schillernd&!kostümiert&!favorit&!Legendär&!Mysterös&!Iceland&!ToHome&!Crypto&!Trade&!GOFest23London&!GOFest23Global&Kanto,Johto,Hoenn,Sinnoh,+Hippopotas,+Serpifeu,+Floink,+Ottaro,+Nagelotz,+Yorkleff,+Felilou,+Vegimak,+Grillmak,+Sodamak,+Somniam,+Dusselgurr,+Elezeba,+Kiesling,+Fleknoil,+Rotomurf,Quartermak,Kommandutan,+Ohrdoch,+Schallquap,Karadonis,+Strawickl,+Toxiped,+Waumboll,+Lilminip,+Flampion,+Lithomith,+Zurrokex,+Symvolara,+Makabaja,+Galapaflos,+Flapteryx,+Unratütox,+Zorua,+Picochilla,+Mollimorba,+Monozyto,+Piccolente,+Gelatini,+Sesokitz,+Emolga,+Laukaps,+Tarnpignon,+Quabbel,+Gelatwino,+Wattzapf,+Kastadur,+Klikk,+Zapplardin,+Pygraulon,+Lichtel,+Milza,+Petznief,+Frigometri,+Schnuthelm,+Flunschlik,+Golbit,+Gladiantri,+Bisofank,+Furnifraß,+Fermicula,+Kapuno,+Boreos,+Igamaro,+Fynx,+Froxy,+Scoppel,+Dartiri,+Leufeo,+Pam-Pam,+Coiffwaff,+Parfi,+Flauschling,+Iscalar,+Bithora,+Algitt,+Scampisto,+Eguana,+Balgoras,+Amarino,+Dedenne,+Rocara,+Viscora,+Paragoni,+Irrbis,+Arktip,+eF-eM,+Bauz,+Flamiau,+Robball,+Peppeck,+Mangunior,+Mabula,+Choreogel,+Wommel,+Wuffels,+Garstella,+Araqua,+Imantis,+Bubungus,+Velursi,+Frubberl,+Curelei,+Kommandutan,+Quartermak,+Reißlaus,Koalelu,Tortunator,Togedemaru,Knirfish,+Miniras,Kapu-Kime,Anego,Masskito,Schabelle,Voltriant,Katagami,Schlingking,+Raffel,+Wolly,+Pantifrost,Legios,Zacian,Zamazenta,Regieleki,+Axantor,+Ursaluna,+Gierspenst
 
 ## Pikachu costumed forms
 pikachu&kostümiert
+
+## Nundo
+0verteidungs-wert&0kp&0angriffs-wert
 
 ## Today Shinys
 schillernd&alter0
