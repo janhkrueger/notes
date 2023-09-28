@@ -401,4 +401,4 @@
  399 | ![Krokel](../pokemonimages/1007.png)| [[Koraidon]]
  400 | ![Krokel](../pokemonimages/1008.png)| [[Miraidon]]
 
-#pokemon
+#pokemon #paldea
