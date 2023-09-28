@@ -63,7 +63,7 @@
 | 059 | ![Arkani](../pokemonimages/Pokémon-Icon_059.png)   | [[Arkani]]       | Arcanine     | Arcanin       |
 | 060 | ![Quapsel](../pokemonimages/Pokémon-Icon_060.png)   | [[Quapsel]]      | Poliwag      | Ptitard       |
 | 061 | ![Quaputzi](../pokemonimages/Pokémon-Icon_061.png)   | [[Quaputzi]]     | Poliwhirl    | Têtarte       |
-| 062 | {{#icon:062}}   | [[Quappo]]       | Poliwrath    | Tartard       |
+| 062 | ![Quappo](../pokemonimages/Pokémon-Icon_062.png)   | [[Quappo]]       | Poliwrath    | Tartard       |
 | 063 | {{#icon:063}}   | [[Abra]]         | Abra         | Abra          |
 | 064 | {{#icon:064}}   | [[Kadabra]]      | Kadabra      | Kadabra       |
 | 065 | {{#icon:065}}   | [[Simsala]]      | Alakazam     | Alakazam      |
@@ -80,8 +80,8 @@
 | 076 | ![Geowaz](../pokemonimages/Pokémon-Icon_076.png)   | [[Geowaz]]       | Golem        | Grolem        |
 | 077 | ![Ponita](../pokemonimages/Pokémon-Icon_077.png)   | [[Ponita]]       | Ponyta       | Ponyta        |
 | 078 | ![Gallopa](../pokemonimages/Pokémon-Icon_078.png)   | [[Gallopa]]      | Rapidash     | Galopa        |
-| 079 | {{#icon:079}}   | [[Flegmon]]      | Slowpoke     | Ramoloss      |
-| 080 | {{#icon:080}}   | [[Lahmus]]       | Slowbro      | Flagadoss     |
+| 079 | ![Flegmon](../pokemonimages/Pokémon-Icon_079.png)   | [[Flegmon]]      | Slowpoke     | Ramoloss      |
+| 080 | ![Lahmus](../pokemonimages/Pokémon-Icon_080.png)   | [[Lahmus]]       | Slowbro      | Flagadoss     |
 | 081 | {{#icon:081}}   | [[Magnetilo]]    | Magnemite    | Magnéti       |
 | 082 | {{#icon:082}}   | [[Magneton]]     | Magneton     | Magnéton      |
 | 083 | {{#icon:083}}   | [[Porenta]]      | Farfetch’d   | Canarticho    |
@@ -97,8 +97,8 @@
 | 093 | ![Alpollo](../pokemonimages/Pokémon-Icon_093.png)   | [[Alpollo]]      | Haunter      | Spectrum      |
 | 094 | ![Gengar](../pokemonimages/Pokémon-Icon_094.png)   | [[Gengar]]       | Gengar       | Ectoplasma    |
 | 095 | ![Onix](../pokemonimages/Pokémon-Icon_095.png)   | [[Onix]]         | Onix         | Onix          |
-| 096 | {{#icon:096}}   | [[Traumato]]     | Drowzee      | Soporifik     |
-| 097 | {{#icon:097}}   | [[Hypno]]        | Hypno        | Hypnomade     |
+| 096 | ![Traumato](../pokemonimages/Pokémon-Icon_096.png)   | [[Traumato]]     | Drowzee      | Soporifik     |
+| 097 | ![Hypno](../pokemonimages/Pokémon-Icon_097.png)   | [[Hypno]]        | Hypno        | Hypnomade     |
 | 098 | {{#icon:098}}   | [[Krabby]]       | Krabby       | Krabby        |
 | 099 | {{#icon:099}}   | [[Kingler]]      | Kingler      | Krabboss      |
 | 100 | {{#icon:100}}   | [[Voltobal]]     | Voltorb      | Voltorbe      |
@@ -130,8 +130,8 @@
 | 126 | {{#icon:126}}   | [[Magmar]]       | Magmar       | Magmar        |
 | 127 | {{#icon:127}}   | [[Pinsir]]       | Pinsir       | Scarabrute    |
 | 128 | {{#icon:128}}   | [[Tauros]]       | Tauros       | Tauros        |
-| 129 | {{#icon:129}}   | [[Karpador]]     | Magikarp     | Magicarpe     |
-| 130 | {{#icon:130}}   | [[Garados]]      | Gyarados     | Léviator      |
+| 129 | ![Karpador](../pokemonimages/Pokémon-Icon_129.png)   | [[Karpador]]     | Magikarp     | Magicarpe     |
+| 130 | ![Garados](../pokemonimages/Pokémon-Icon_130.png)   | [[Garados]]      | Gyarados     | Léviator      |
 | 131 | ![Lapras](../pokemonimages/Pokémon-Icon_131.png)   | [[Lapras]]       | Lapras       | Lokhlass      |
 | 132 | {{#icon:132}}   | [[Ditto]]        | Ditto        | Métamorph     |
 | 133 | {{#icon:133}}   | [[Evoli]]        | Eevee        | Évoli         |
@@ -183,11 +183,11 @@
 | 179 | ![Voltilamm](../pokemonimages/Pokémon-Icon_179.png)   | [[Voltilamm]]    | Mareep       | Wattouat      |
 | 180 | ![Waaty](../pokemonimages/Pokémon-Icon_180.png)   | [[Waaty]]        | Flaaffy      | Lainergie     |
 | 181 | ![Ampharos](../pokemonimages/Pokémon-Icon_181.png)   | [[Ampharos]]     | Ampharos     | Pharamp       |
-| 182 | {{#icon:182}}   | [[Blubella]]     | Bellossom    | Joliflor      |
+| 182 | ![Blubella](../pokemonimages/Pokémon-Icon_182.png)   | [[Blubella]]     | Bellossom    | Joliflor      |
 | 183 | {{#icon:183}}   | [[Marill]]       | Marill       | Marill        |
 | 184 | {{#icon:184}}   | [[Azumarill]]    | Azumarill    | Azumarill     |
 | 185 | {{#icon:185}}   | [[Mogelbaum]]    | Sudowoodo    | Simularbre    |
-| 186 | {{#icon:186}}   | [[Quaxo]]        | Politoed     | Tarpaud       |
+| 186 | ![Quaxo](../pokemonimages/Pokémon-Icon_186.png)   | [[Quaxo]]        | Politoed     | Tarpaud       |
 | 187 | {{#icon:187}}   | [[Hoppspross]]   | Hoppip       | Granivol      |
 | 188 | {{#icon:188}}   | [[Hubelupf]]     | Skiploom     | Floravol      |
 | 189 | {{#icon:189}}   | [[Papungha]]     | Jumpluff     | Cotovol       |
@@ -226,7 +226,7 @@
 | 222 | {{#icon:222}}   | [[Corasonn]]     | Corsola      | Corayon       |
 | 223 | {{#icon:223}}   | [[Remoraid]]     | Remoraid     | Rémoraid      |
 | 224 | {{#icon:224}}   | [[Octillery]]    | Octillery    | Octillery     |
-| 225 | {{#icon:225}}   | [[Botogel]]      | Delibird     | Cadoizo       |
+| 225 | ![Botogel](../pokemonimages/Pokémon-Icon_225.png)   | [[Botogel]]      | Delibird     | Cadoizo       |
 | 226 | ![Mantax](../pokemonimages/Pokémon-Icon_226.png)   | [[Mantax]]       | Mantine      | Démanta       |
 | 227 | ![Panzaeron](../pokemonimages/Pokémon-Icon_227.png)   | [[Panzaeron]]    | Skarmory     | Airmure       |
 | 228 | ![Hunduster](../pokemonimages/Pokémon-Icon_228.png)   | [[Hunduster]]    | Houndour     | Malosse       |
@@ -440,8 +440,8 @@
 | 436 | {{#icon:436}}   | [[Bronzel]]      | Bronzor      | Archéomire    |
 | 437 | {{#icon:437}}   | [[Bronzong]]     | Bronzong     | Archéodong    |
 | 438 | {{#icon:438}}   | [[Mobai]]        | Bonsly       | Manzaï        |
-| 439 | {{#icon:439}}   | [[Pantimimi]]    | Mime Jr.     | Mime Jr.      |
-| 440 | {{#icon:440}}   | [[Wonneira]]     | Happiny      | Ptiravi       |
+| 439 | ![Pantimimi](../pokemonimages/Pokémon-Icon_439.png)   | [[Pantimimi]]    | Mime Jr.     | Mime Jr.      |
+| 440 | ![Wonneira](../pokemonimages/Pokémon-Icon_440.png)   | [[Wonneira]]     | Happiny      | Ptiravi       |
 | 441 | {{#icon:441}}   | [[Plaudagei]]    | Chatot       | Pijako        |
 | 442 | {{#icon:442}}   | [[Kryppuk]]      | Spiritomb    | Spiritomb     |
 | 443 | {{#icon:443}}   | [[Kaumalat]]     | Gible        | Griknot       |
@@ -463,7 +463,7 @@
 | 459 | {{#icon:459}}   | [[Shnebedeck]]   | Snover       | Blizzi        |
 | 460 | {{#icon:460}}   | [[Rexblisar]]    | Abomasnow    | Blizzaroi     |
 | 461 | {{#icon:461}}   | [[Snibunna]]     | Weavile      | Dimoret       |
-| 462 | {{#icon:462}}   | [[Magnezone]]    | Magnezone    | Magnézone     |
+| 462 | ![Magnezone](../pokemonimages/Pokémon-Icon_462.png)   | [[Magnezone]]    | Magnezone    | Magnézone     |
 | 463 | {{#icon:463}}   | [[Schlurplek]]   | Lickilicky   | Coudlangue    |
 | 464 | {{#icon:464}}   | [[Rihornior]]    | Rhyperior    | Rhinastoc     |
 | 465 | {{#icon:465}}   | [[Tangoloss]]    | Tangrowth    | Bouldeneu     |
@@ -628,10 +628,10 @@
 | 624 | {{#icon:624}}   | [[Gladiantri]]   | Pawniard     | Scalpion      |
 | 625 | {{#icon:625}}   | [[Caesurio]]     | Bisharp      | Scalproie     |
 | 626 | {{#icon:626}}   | [[Bisofank]]     | Bouffalant   | Frison        |
-| 627 | {{#icon:627}}   | [[Geronimatz]]   | Rufflet      | Furaiglon     |
-| 628 | {{#icon:628}}   | [[Washakwil]]    | Braviary     | Gueriaigle    |
-| 629 | {{#icon:629}}   | [[Skallyk]]      | Vullaby      | Vostourno     |
-| 630 | {{#icon:630}}   | [[Grypheldis]]   | Mandibuzz    | Vaututrice    |
+| 627 | ![Geronimatz](../pokemonimages/Pokémon-Icon_627.png)   | [[Geronimatz]]   | Rufflet      | Furaiglon     |
+| 628 | ![Washakwil](../pokemonimages/Pokémon-Icon_628.png)   | [[Washakwil]]    | Braviary     | Gueriaigle    |
+| 629 | ![Skallyk](../pokemonimages/Pokémon-Icon_629.png)   | [[Skallyk]]      | Vullaby      | Vostourno     |
+| 630 | ![Grypheldis](../pokemonimages/Pokémon-Icon_630.png)   | [[Grypheldis]]   | Mandibuzz    | Vaututrice    |
 | 631 | {{#icon:631}}   | [[Furnifraß]]    | Heatmor      | Aflamanoir    |
 | 632 | {{#icon:632}}   | [[Fermicula]]    | Durant       | Fermite       |
 | 633 | {{#icon:633}}   | [[Kapuno]]       | Deino        | Solochi       |
@@ -702,7 +702,7 @@
 | 698 | {{#icon:698}}   | [[Amarino]]      | Amaura       | Amagara       |
 | 699 | {{#icon:699}}   | [[Amagarga]]     | Aurorus      | Dragmara      |
 | 700 | {{#icon:700}}   | [[Feelinara]]    | Sylveon      | Nymphali      |
-| 701 | {{#icon:701}}   | [[Resladero]]    | Hawlucha     | Brutalibré    |
+| 701 | ![Resladero](../pokemonimages/Pokémon-Icon_701.png)   | [[Resladero]]    | Hawlucha     | Brutalibré    |
 | 702 | {{#icon:702}}   | [[Dedenne]]      | Dedenne      | Dedenne       |
 | 703 | {{#icon:703}}   | [[Rocara]]       | Carbink      | Strassie      |
 | 704 | {{#icon:704}}   | [[Viscora]]      | Goomy        | Mucuscule     |

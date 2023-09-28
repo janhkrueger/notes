@@ -109,7 +109,7 @@
  105 | ![Myrapla](../pokemonimages/Pokémon-Icon_043.png) | [[Myrapla]]
  106 | ![Duflor](../pokemonimages/Pokémon-Icon_044.png) | [[Duflor]]
  107 | ![Giflor](../pokemonimages/Pokémon-Icon_045.png) | [[Giflor]]
- 108 | {{#icon:182}} | [[Blubella]]
+ 108 | ![Blubella](../pokemonimages/Pokémon-Icon_182.png) | [[Blubella]]
  109 | ![Wiesor](../pokemonimages/Pokémon-Icon_161.png) | [[Wiesor]]
  110 | ![Wiesenior](../pokemonimages/Pokémon-Icon_162.png) | [[Wiesenior]]
  111 | {{#icon:290}} | [[Nincada]]
@@ -139,7 +139,7 @@
  135 | {{#icon:187}} | [[Hoppspross]]
  136 | {{#icon:188}} | [[Hubelupf]]
  137 | {{#icon:189}} | [[Papungha]]
- 138 | {{#icon:446}} | [[Mampfaxo]]
+ 138 | ![Mampfaxo](../pokemonimages/Pokémon-Icon_446.png)
  139 | ![Relaxo](../pokemonimages/Pokémon-Icon_143.png) | [[Relaxo]]
  140 | {{#icon:293}} | [[Flurmel]]
  141 | {{#icon:294}} | [[Krakeelo]]

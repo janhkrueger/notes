@@ -253,8 +253,8 @@
  249 | {{#icon:Karadonis}}  | [Karadonis]
  250 | {{#icon:Smogon}}     | [Smogon]
  251 | {{#icon:Smogmog}}<br />{{#icon:110a}}    | [Smogmog]<br />(Galar-Form)
- 252 | {{#icon:Mobai}}      | [Mobai]
- 253 | {{#icon:Mogelbaum}}  | [Mogelbaum]
+ 252 | ![Mobai](../pokemonimages/Pokémon-Icon_438.png)      | [Mobai]
+ 253 | ![Mogelbaum](../pokemonimages/Pokémon-Icon_185.png)  | [Mogelbaum]
  254 | {{#icon:Pii}}        | [Pii]
  255 | {{#icon:Piepi}}      | [Piepi]
  256 | {{#icon:Pixi}}       | [Pixi]

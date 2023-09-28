@@ -18,8 +18,8 @@
  014 | {{#icon:371}} | [[Kindwurm]]
  015 | {{#icon:372}} | [[Draschel]]
  016 | {{#icon:373}} | [[Brutalanda]]
- 017 | {{#icon:278}} | [[Wingull]]
- 018 | {{#icon:279}} | [[Pelipper]]
+ 017 | ![Wingull](../pokemonimages/Pokémon-Icon_278.png)
+ 018 | ![Pelipper](../pokemonimages/Pokémon-Icon_279.png)
  019 | {{#icon:276}} | [[Schwalbini]]
  020 | {{#icon:277}} | [[Schwalboss]]
  021 | {{#icon:688}} | [[Bithora]]
@@ -90,7 +90,7 @@
  086 | {{#icon:587}} | [[Emolga]]
  087 | {{#icon:193}} | [[Yanma]]
  088 | {{#icon:469}} | [[Yanmega]]
- 089 | {{#icon:701}} | [[Resladero]]
+ 089 | ![Resladero](../pokemonimages/Pokémon-Icon_701.png) | [[Resladero]]
  090 | {{#icon:561}} | [[Symvolara]]
  091 | {{#icon:622}} | [[Golbit]]
  092 | {{#icon:623}} | [[Golgantes]]
@@ -114,7 +114,7 @@
  110 | {{#icon:702}} | [[Dedenne]]
  111 | {{#icon:433}} | [[Klingplim]]
  112 | {{#icon:358}} | [[Palimpalim]]
- 113 | {{#icon:439}} | [[Pantimimi]]
+ 113 | ![Pantimimi](../pokemonimages/Pokémon-Icon_439.png) | [[Pantimimi]]
  114 | ![Pantimos](../pokemonimages/Pokémon-Icon_122.png) | [[Pantimos]]
  115 | {{#icon:577}} | [[Monozyto]]
  116 | {{#icon:578}} | [[Mitodos]]
@@ -136,7 +136,7 @@
  132 | {{#icon:417}} | [[Pachirisu]]
  133 | ![Flegmon](../pokemonimages/Pokémon-Icon_079.png) | [[Flegmon]]
  134 | ![Lahmus](../pokemonimages/Pokémon-Icon_080.png) | [[Lahmus]]
- 135 | {{#icon:199}} | [[Laschoking]]
+ 135 | ![Laschoking](../pokemonimages/Pokémon-Icon_199.png)
  136 | ![Owei](../pokemonimages/Pokémon-Icon_102.png) | [[Owei]]
  137 | ![Kokowei](../pokemonimages/Pokémon-Icon_103.png) | [[Kokowei]]
  138 | {{#icon:441}} | [[Plaudagei]]

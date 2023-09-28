@@ -16,8 +16,8 @@
  012 | ![Tukanon](../pokemonimages/Pokémon-Icon_733.png) | [[Tukanon]]
  013 | ![Mangunior](../pokemonimages/Pokémon-Icon_734.png) | [[Mangunior]]
  014 | ![Manguspektor](../pokemonimages/Pokémon-Icon_735.png) | [[Manguspektor]]
- 015 | ![Rattfratz](../pokemonimages/Pokémon-Icon_019.png)<br />{{#icon:019a}} | [[Rattfratz]]<br />(Alola-Form)
- 016 | ![Rattikarl](../pokemonimages/Pokémon-Icon_020.png)<br />{{#icon:020a}} | [[Rattikarl]]<br />(Alola-Form)
+ 015 | ![Rattfratz](../pokemonimages/Pokémon-Icon_019.png)<br />![Rattfratz](../pokemonimages/Pokémon-Icon_019a.png) | [[Rattfratz]]<br />(Alola-Form)
+ 016 | ![Rattikarl](../pokemonimages/Pokémon-Icon_020.png)<br />![Rattfratz](../pokemonimages/Pokémon-Icon_020a.png)| [[Rattfratz]]<br />(Alola-Form)
  017 | ![Raupy](../pokemonimages/Pokémon-Icon_010.png) | [[Raupy]]
  018 | ![Safcon](../pokemonimages/Pokémon-Icon_011.png) | [[Safcon]]
  019 | ![Smettbo](../pokemonimages/Pokémon-Icon_012.png) | [[Smettbo]]
@@ -34,22 +34,22 @@
  030 | ![Coiffwaff](../pokemonimages/Pokémon-Icon_676.png) | [[Coiffwaff]]
  031 | ![Pichu](../pokemonimages/Pokémon-Icon_172.png) | [[Pichu]]
  032 | ![Pikachu](../pokemonimages/Pokémon-Icon_025.png) | [Pikachu](DexEntries/Pikachu.md)
- 033 | ![Raichu](../pokemonimages/Pokémon-Icon_026.png)<br />{{#icon:026a}} | [[Raichu]]<br />(Alola-Form)
+ 033 | ![Raichu](../pokemonimages/Pokémon-Icon_026.png)<br />![Raichu](../pokemonimages/Pokémon-Icon_026a.png) | [[Raichu]]<br />(Alola-Form)
  034 | ![Mabula](../pokemonimages/Pokémon-Icon_736.png) | [[Mabula]]
  035 | ![Akkup](../pokemonimages/Pokémon-Icon_737.png) | [[Akkup]]
  036 | ![Donarion](../pokemonimages/Pokémon-Icon_738.png) | [[Donarion]]
- 037 | {{#icon:438}} | [[Mobai]]
- 038 | {{#icon:185}} | [[Mogelbaum]]
- 039 | {{#icon:440}} | [[Wonneira]]
+ 037 | ![Donarion](../pokemonimages/Pokémon-Icon_438.png) | [[Mobai]]
+ 038 | ![Donarion](../pokemonimages/Pokémon-Icon_185.png) | [[Mogelbaum]]
+ 039 | ![Wonneira](../pokemonimages/Pokémon-Icon_440.png) | [[Wonneira]]
  040 | ![Chaneira](../pokemonimages/Pokémon-Icon_113.png) | [[Chaneira]]
  041 | ![Heiteira](../pokemonimages/Pokémon-Icon_242.png) | [[Heiteira]]
- 042 | {{#icon:446}} | [[Mampfaxo]]
+ 042 | ![Mampfaxo](../pokemonimages/Pokémon-Icon_446.png) | [[Mampfaxo]]
  043 | ![Relaxo](../pokemonimages/Pokémon-Icon_143.png) | [[Relaxo]]
  044 | ![Flegmon](../pokemonimages/Pokémon-Icon_079.png) | [[Flegmon]]
  045 | ![Lahmus](../pokemonimages/Pokémon-Icon_080.png) | [[Lahmus]]
- 046 | {{#icon:199}} | [[Laschoking]]
- 047 | {{#icon:278}} | [[Wingull]]
- 048 | {{#icon:279}} | [[Pelipper]]
+ 046 | ![Laschoking](../pokemonimages/Pokémon-Icon_199.png) | [[Laschoking]]
+ 047 | ![Wingull](../pokemonimages/Pokémon-Icon_278.png) | [[Wingull]]
+ 048 | ![Pelipper](../pokemonimages/Pokémon-Icon_279.png) | [[Pelipper]]
  049 | ![Abra](../pokemonimages/Pokémon-Icon_063.png) | [[Abra]]
  050 | ![Kadabra](../pokemonimages/Pokémon-Icon_064.png) | [[Kadabra]]
  051 | ![Simsala](../pokemonimages/Pokémon-Icon_065.png) | [[Simsala]]
@@ -57,10 +57,10 @@
  053 | ![![Snobilikat](../pokemonimages/Pokémon-Icon_053.png)](../pokemonimages/Pokémon-Icon_053.png)<br />{{#icon:053a}} | [[![Snobilikat](../pokemonimages/Pokémon-Icon_053.png)]]<br />(Alola-Form)
  054 | ![Magnetilo](../pokemonimages/Pokémon-Icon_081.png) | [[Magnetilo]]
  055 | ![Magneton](../pokemonimages/Pokémon-Icon_082.png) | [[Magneton]]
- 056 | {{#icon:462}} | [[Magnezone]]
- 057 | ![Sleima](../pokemonimages/Pokémon-Icon_088.png)<br />{{#icon:088a}} | [[Sleima]]<br />(Alola-Form)
- 058 | ![Sleimok](../pokemonimages/Pokémon-Icon_089.png)<br />{{#icon:089a}} | [[Sleimok]]<br />(Alola-Form)
- 059 | {{#icon:439}} | [[Pantimimi]]
+ 056 | ![Magnezone](../pokemonimages/Pokémon-Icon_462.png) | [[Magnezone]]
+ 057 | ![Sleima](../pokemonimages/Pokémon-Icon_088.png)<br />![Sleima](../pokemonimages/Pokémon-Icon_088a.png) | [[Sleima]]<br />(Alola-Form)
+ 058 | ![Sleimok](../pokemonimages/Pokémon-Icon_089.png)<br />![Sleimok](../pokemonimages/Pokémon-Icon_089a.png) | [[Sleimok]]<br />(Alola-Form)
+ 059 | ![Pantimimi](../pokemonimages/Pokémon-Icon_439.png) | [[Pantimimi]]
  060 | ![Pantimos](../pokemonimages/Pokémon-Icon_122.png) | [[Pantimos]]
  061 | ![Rettan](../pokemonimages/Pokémon-Icon_023.png) | [[Rettan]]
  062 | ![Arbok](../pokemonimages/Pokémon-Icon_024.png) | [[Arbok]]
@@ -90,14 +90,14 @@
  086 | ![Digdri](../pokemonimages/Pokémon-Icon_051.png)<br />{{#icon:051a}} | [[Digdri]]<br />(Alola-Form)
  087 | ![Habitak](../pokemonimages/Pokémon-Icon_021.png) | [[Habitak]]
  088 | ![Ibitak](../pokemonimages/Pokémon-Icon_022.png) | [[Ibitak]]
- 089 | {{#icon:627}} | [[Geronimatz]]
- 090 | {{#icon:628}} | [[Washakwil]]
- 091 | {{#icon:629}} | [[Skallyk]]
- 092 | {{#icon:630}} | [[Grypheldis]]
+ 089 | ![Geronimatz](../pokemonimages/Pokémon-Icon_627.png) | [[Geronimatz]]
+ 090 | ![Washakwil](../pokemonimages/Pokémon-Icon_628.png) | [[Washakwil]]
+ 091 | ![Skallyk](../pokemonimages/Pokémon-Icon_629.png) | [[Skallyk]]
+ 092 | ![Grypheldis](../pokemonimages/Pokémon-Icon_630.png) | [[Grypheldis]]
  093 | ![Menki](../pokemonimages/Pokémon-Icon_056.png) | [[Menki]]
  094 | ![Rasaff](../pokemonimages/Pokémon-Icon_057.png) | [[Rasaff]]
- 095 | {{#icon:225}} | [[Botogel]]
- 096 | {{#icon:701}} | [[Resladero]]
+ 095 | ![Botogel](../pokemonimages/Pokémon-Icon_225.png) | [[Botogel]]
+ 096 | ![Resladero](../pokemonimages/Pokémon-Icon_701.png) | [[Resladero]]
  097 | ![Choreogel](../pokemonimages/Pokémon-Icon_741.png)<br />![Choreogel](../pokemonimages/Pokémon-Icon_741a.png)<br />![Choreogel](../pokemonimages/Pokémon-Icon_741b.png)<br />![Choreogel](../pokemonimages/Pokémon-Icon_741c.png) | [[Choreogel]]
  098 | ![Wommel](../pokemonimages/Pokémon-Icon_742.png) | [[Wommel]]
  099 | ![Bandelby](../pokemonimages/Pokémon-Icon_743.png) | [[Bandelby]]
@@ -186,7 +186,7 @@
  182 | ![Quapsel](../pokemonimages/Pokémon-Icon_060.png) | [[Quapsel]]
  183 | ![Quaputzi](../pokemonimages/Pokémon-Icon_061.png) | [[Quaputzi]]
  184 | ![Quappo](../pokemonimages/Pokémon-Icon_062.png) | [[Quappo]]
- 185 | {{#icon:186}} | [[Quaxo]]
+ 185 | ![Quaxo](../pokemonimages/Pokémon-Icon_186.png) | [[Quaxo]]
  186 | ![Goldini](../pokemonimages/Pokémon-Icon_118.png) | [[Goldini]]
  187 | ![Golking](../pokemonimages/Pokémon-Icon_119.png) | [[Golking]]
  188 | {{#icon:550}} | [[Barschuft]]

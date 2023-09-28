@@ -28,8 +28,8 @@
  024 | {{#icon:275}} | [[Tengulist]]
  025 | {{#icon:276}} | [[Schwalbini]]
  026 | {{#icon:277}} | [[Schwalboss]]
- 027 | {{#icon:278}} | [[Wingull]]
- 028 | {{#icon:279}} | [[Pelipper]]
+ 027 | ![Wingull](../pokemonimages/Pokémon-Icon_278.png)
+ 028 | ![Pelipper](../pokemonimages/Pokémon-Icon_279.png)
  029 | {{#icon:280}} | [[Trasla]]
  030 | {{#icon:281}} | [[Kirlia]]
  031 | {{#icon:282}} | [[Guardevoir]]
@@ -87,7 +87,7 @@
  083 | {{#icon:312}} | [[Minun]]
  084 | ![Magnetilo](../pokemonimages/Pokémon-Icon_081.png) | [[Magnetilo]]
  085 | ![Magneton](../pokemonimages/Pokémon-Icon_082.png) | [[Magneton]]
- 086 | {{#icon:462}} | [[Magnezone]]
+ 086 | ![Magnezone](../pokemonimages/Pokémon-Icon_462.png) | [[Magnezone]]
  087 | ![Voltobal](../pokemonimages/Pokémon-Icon_100.png) | [[Voltobal]]
  088 | ![Lektrobal](../pokemonimages/Pokémon-Icon_101.png) | [[Lektrobal]]
  089 | {{#icon:313}} | [[Volbeat]]
@@ -95,7 +95,7 @@
  091 | ![Myrapla](../pokemonimages/Pokémon-Icon_043.png) | [[Myrapla]]
  092 | ![Duflor](../pokemonimages/Pokémon-Icon_044.png) | [[Duflor]]
  093 | ![Giflor](../pokemonimages/Pokémon-Icon_045.png) | [[Giflor]]
- 094 | {{#icon:182}} | [[Blubella]]
+ 094 | ![Blubella](../pokemonimages/Pokémon-Icon_182.png) | [[Blubella]]
  095 | ![Dodu](../pokemonimages/Pokémon-Icon_084.png) | [[Dodu]]
  096 | ![Dodri](../pokemonimages/Pokémon-Icon_085.png) | [[Dodri]]
  097 | {{#icon:406}} | [[Knospi]]
