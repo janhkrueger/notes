@@ -1,0 +1,24 @@
+# Tournament AFK Farming
+
+
+## Vorbedinungen
+
+* Möglichkeit das Ace Tournament zu bestreiten, also Abschluß der Hauptgeschichte.
+* Controller mit Turbo-Funktion.
+
+
+## Pokémon Builds
+
+### Sylveon @ Amulet Coin
+Level: 100
+Modest Nature
+Ability: Pixilate
+EVs: 78 Def / 252 SpA / 180 Spe
+Hyper Voice
+
+### Calyrex-Ice @ Amulet Coin
+Level: 100
+Adamant Nature
+Ability: As One
+EVs: 4 HP / 252 Atk / 252 Spe
+Glacial Lance
