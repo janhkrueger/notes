@@ -1,0 +1,14 @@
+# Solo Tera Raids
+
+## 6 Star
+### Ursaluna @ Flame Orb
+[%hardbreaks]
+Level: 100
+Tera: Ground
+Nature: Adamant
+Ability: Guts
+EVs: HP 252, Atk 252, Def 4
+Belly Drumm
+Fassade
+Drain Punch
+Play Rough
