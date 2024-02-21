@@ -2,7 +2,7 @@
 
 [[AzureConnectstring]]
 
-Nach dem Verkauf läuft die Entwicklungsumgebung derzeit auf einen [[RaspberryPi]], die Quellcodeverwaltung in [[Git]] besitzt ihr primäres Repository in [[GitLab]].
+Nach dem Verkauf läuft die Entwicklungsumgebung derzeit auf einen [[RaspberryPi]], die Quellcodeverwaltung in [[git]] besitzt ihr primäres Repository in [[GitLab]].
 
 Die Instanzen laufen alle mit [[Linux]].
 Technisch wurde zuletzt [[Docker]] eingesetzt, begleitet mit einem Umstieg auf eine neue [[NeueTechnischePlattformFuerInsulae]]. Details siehe [[Docker-Container]].
