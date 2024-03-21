@@ -3,35 +3,35 @@
 == Auto axe (Fallout 76) plans
 [%header,format=csv,separator=;]
 |===
-include::StampsAutoAxeMods.csv[]
+include::ressources/StampsAutoAxeMods.csv[]
 |===
 
 == Outfit plans (always)
 [%header,format=csv,separator=;]
 |===
-include::StampsOutfits.csv[]
+include::ressources/StampsOutfits.csv[]
 |===
 
 == Union power armor plans (always)
 [%header,format=csv,separator=;]
 |===
-include::StampsUnionPowerArmorPlans.csv[]
+include::ressources/StampsUnionPowerArmorPlans.csv[]
 |===
 
 == Weapon paints/skins (always)
 [%header,format=csv,separator=;]
 |===
-include::StampsWeaponPaints.csv[]
+include::ressources/StampsWeaponPaints.csv[]
 |===
 
 == Weapon plans (always)
 [%header,format=csv,separator=;]
 |===
-include::StampsWeapons.csv[]
+include::ressources/StampsWeapons.csv[]
 |===
 
 == Workshop plans (always)
 [%header,format=csv,separator=;]
 |===
-include::StampsWorkshop.csv[]
+include::ressources/StampsWorkshop.csv[]
 |===
