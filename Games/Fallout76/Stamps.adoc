@@ -1,4 +1,11 @@
+:toc: macro
+
 = Stamps
+
+Stamps are an additional currency introduced in the "The Pitt" update. They can be earned by doing expeditions and sometimes from a scoreboard.
+
+
+toc::[]
 
 == Auto axe (Fallout 76) plans
 [%header,format=csv,separator=;]
