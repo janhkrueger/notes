@@ -1,17 +1,16 @@
-
 = {subject}
 Jan H. Krueger
 :subject: Season Dungeons with Teleports
-:description:  Anleitung um die verschiedenen Verbündeten Völker freizuschalten.
+:description:  List of WoW Mystic+ Seasons with dungeon teleports
 :doctype: article
 :confidentiality: Open
 :listing-caption: Listing
 :toc:
-:toc-title: Inhaltsverzeichnis
-:toclevels: 1
+:toclevels: 2
 
+== Shadowlands
 
-== Shadowlands Season 2
+=== Season 2
 ----
 De Other Side
 Halls of Atonement
@@ -23,7 +22,7 @@ The Necrotic Wake
 Theater of Pain
 ----
 
-== Shadowlands Season 3
+=== Season 3
 ----
 The Necrotic Wake
 Plaguefall
@@ -36,7 +35,7 @@ Sanguine Depths
 Tazavesh, the Veiled Market
 ----
 
-== Shadowlands Season 4
+=== Season 4
 ----
 Tazavesh: Streets of Wonder (Shadowlands)
 Tazavesh: So'leah’s Gambit (Shadowlands)
@@ -48,7 +47,9 @@ Grimrail Depot (Warlords of Draenor)
 Iron Docks (Warlords of Draenor)
 ----
 
-== Dragonflight Season 1
+== Dragonflight
+
+=== Season 1
 ----
 Ruby Life Pools
 Algeth'ar Academy
@@ -60,7 +61,7 @@ Shadowmoon Burial Grounds (Warlords of Draenor)
 Temple of the Jade Serpent (Mists of Pandaria)
 ----
 
-== Dragonflight Season 2
+=== Season 2
 ----
 Brackenhide Hollow
 Halls of Infusion
@@ -72,7 +73,7 @@ Neltharion’s Lair (Legion)
 Vortex Pinnacle (Cataclysm)
 ----
 
-== Dragonflight Season 3
+=== Season 3
 ----
 Dawn of the Infinites: Galakrond's Fall
 Dawn of the Infinites: Murozond's Rise
@@ -84,7 +85,7 @@ Everbloom (Warlords of Draenor)
 Throne of the Tides (Cataclysm)
 ----
 
-== Dragonflight Season 4
+=== Season 4
 ----
 Ruby Life Pools
 Brackenhide Hollow
@@ -96,7 +97,9 @@ Halls of Infusion
 Algeth'ar Academy
 ----
 
-== The War Within Season 1
+== The War Within
+
+=== Season 1
 ----
 Ara-Kara, City of Echoes
 City of Threads
