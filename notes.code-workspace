@@ -17,5 +17,6 @@
 			"**/frameworks/**/*",
 			"**/frameworks/**/*"
 		],
+		"asciidoc.antora.enableAntoraSupport": false,
 	}
 }
