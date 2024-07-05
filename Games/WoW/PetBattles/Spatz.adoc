@@ -1,0 +1,32 @@
+
+= {subject}
+Jan H. Krueger
+:subject: Powerleveling
+:description:  Anleitung um die verschiedenen Verbündeten Völker freizuschalten.
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 1
+
+Spatz
+-----
+Sonnenglutkobra (2,1,1) +
+Mechanischer Pandarendrachling (any,any,1) +
+Leveling Pet
+-----
+Strategie eingefügt von  nogulpfrog
+Runde 1: Sonnenlicht
+Runde 2: Wechsle zu Mechanischer Pandarendrachling
+Runde 3: Explodieren
+Wechsle zu deinem Level Pet
+Runde 4: Wechsle zu Sonnenglutkobra
+Runde 5: Biss, Diebs died
+Runde 6: Solarstrahl, Tyri died
+Runde 7: Passe
+Runde 8: Passe
+Runde 9: Solarstrahl, Puzzle died
+-----
+
+Source: link:https://www.wow-petguide.com/Strategy/19529/Diebs,_Tyri_und_Puzzle[wow-petguide.com]
