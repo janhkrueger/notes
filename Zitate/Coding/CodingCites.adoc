@@ -1,0 +1,27 @@
+[quote,Dr. Hazem Ali]
+____
+The happiest moment I‘ve ever felt was that moment when I discovered my ability to create.
+____
+
+[quote,Chris Pine]
+____
+Programming isn't about what you know; it's about what you can figure out.
+____
+
+[quote,John Carmack]
+____
+Sometimes the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+____
+
+[quote,Jennifer Scheurle]
+____
+Every game needs a level of understanding and skill, show me one that doesn't. You always need to learn the parameters of every game first.
+____
+
+[quote,- Grace Hopper]
+____
+To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.
+____
+
+
+#zitat #coding

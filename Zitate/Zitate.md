@@ -1,4 +1,0 @@
-# Zitate
-
-[[Freiheitsstatue]]
-[[Existenz]]
