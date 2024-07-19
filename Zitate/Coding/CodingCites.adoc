@@ -24,4 +24,10 @@ To me programming is more than an important practical art. It is also a gigantic
 ____
 
 
+[quote,Uncle Bob]
+____
+Employers should train employees. This isn't professionalism, this is just common sense. 
+The professional is the employee who trains themself before the employer has the chance.
+____
+
 #zitat #coding
