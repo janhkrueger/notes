@@ -1,0 +1,52 @@
+= {subject}
+Jan H. Krueger
+:subject: Mac Setup
+:doctype: article
+:confidentiality: Open
+:listing-caption: Listing
+:toc:
+:toclevels: 2
+:created: 2025-03-13T00:18:30+02:00
+
+Dazu wird eine weitere remote URL dem Repository mitgeteilt. Wichtig ist das diese nur für den **Push** hinterlegt wird.
+
+== Git Configs
+
+[source,bash]
+----
+git config --global --add --bool push.autoSetupRemote true
+----
+
+== YubiKey to GitHub
+
+=== Ensure you can use the security key on your Mac
+
+[source,bash]
+----
+brew install openssh
+brew install keychain
+brew install yubico-piv-tool
+brew install gnupg
+----
+
+=== Reload the keychain
+
+[source,bash]
+----
+eval $(keychain --eval --noinherit -q)
+----
+
+=== Load the Key from Yubikey
+
+Permanently
+
+[source,bash]
+----
+ssh-keygen -K
+----
+
+Temporary
+[source,bash]
+----
+ssh-add -K
+----
